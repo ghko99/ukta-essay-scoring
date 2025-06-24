@@ -1,0 +1,8467 @@
+﻿{
+	"morpheme": {
+		"sentences": [
+			{
+				"text": {
+					"content": "맥시코 요리하면 어떤 요리가 생각나시나요?",
+					"length": 23,
+					"beginOffset": 0
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "맥시코",
+							"length": 3,
+							"beginOffset": 0
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "맥시코",
+									"length": 3,
+									"beginOffset": 0
+								},
+								"tag": "MAG",
+								"probability": 0.35902253,
+								"outOfVocab": "OUT_OF_VOCAB"
+							}
+						],
+						"lemma": "맥시코",
+						"tagged": "맥시코/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "요리하면",
+							"beginOffset": 4,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "요리하",
+									"beginOffset": 4,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "면",
+									"beginOffset": 7,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99330735,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "요리하",
+						"tagged": "요리하/VV+면/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "어떤",
+							"beginOffset": 9,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "어떤",
+									"beginOffset": 9,
+									"length": 2
+								},
+								"tag": "MMD",
+								"probability": 0.99966764,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "어떤",
+						"tagged": "어떤/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "요리가",
+							"beginOffset": 12,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "요리",
+									"beginOffset": 12,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9843906,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 14,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.98899996,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "요리",
+						"tagged": "요리/NNG+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "생각나시나요?",
+							"beginOffset": 16,
+							"length": 7
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "생각나",
+									"beginOffset": 16,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.9872595,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "시",
+									"beginOffset": 19,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99993974,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "나",
+									"beginOffset": 20,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9651337,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "요",
+									"beginOffset": 21,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99793905,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "?",
+									"beginOffset": 22,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9994936,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "생각나",
+						"tagged": "생각나/VV+시/EP+나/EF+요/JX+?/SF",
+						"modified": ""
+					}
+				],
+				"refined": "맥시코 요리하면 어떤 요리가 생각나시나요?"
+			},
+			{
+				"text": {
+					"content": "주로 타코나 브리또가 생각나실겁니다.",
+					"beginOffset": 24,
+					"length": 20
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "주로",
+							"beginOffset": 24,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "주로",
+									"beginOffset": 24,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.990599,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "주로",
+						"tagged": "주로/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "타코나",
+							"beginOffset": 27,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "타코나",
+									"beginOffset": 27,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.48982197,
+								"outOfVocab": "OUT_OF_VOCAB"
+							}
+						],
+						"lemma": "타코나",
+						"tagged": "타코나/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "브리또가",
+							"beginOffset": 31,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "브리또",
+									"beginOffset": 31,
+									"length": 3
+								},
+								"tag": "NNP",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 34,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9816482,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "브리또",
+						"tagged": "브리또/NNP+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "생각나실",
+							"beginOffset": 36,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "생각나",
+									"beginOffset": 36,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.98942643,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "시",
+									"beginOffset": 39,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9998898,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ",
+									"beginOffset": 39,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99997616,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "생각나",
+						"tagged": "생각나/VV+시/EP+ㄹ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "겁니다.",
+							"beginOffset": 40,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "거",
+									"beginOffset": 40,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9827374,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 40,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.99994254,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㅂ니다",
+									"beginOffset": 40,
+									"length": 3
+								},
+								"tag": "EF",
+								"probability": 0.9923298,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 43,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9992091,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "거",
+						"tagged": "거/NNB+이/VCP+ㅂ니다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "주로 타코나 브리또가 생각나실 겁니다."
+			},
+			{
+				"text": {
+					"content": "하지만 저는 이 책에서 타코나 브리또가 아닌 콩, 옥수수, 아보카도를 이용한 요리들을 보았다.",
+					"beginOffset": 45,
+					"length": 52
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "하지만",
+							"beginOffset": 45,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하지만",
+									"beginOffset": 45,
+									"length": 3
+								},
+								"tag": "MAJ",
+								"probability": 0.9978353,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하지만",
+						"tagged": "하지만/MAJ",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "저는",
+							"beginOffset": 49,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "저",
+									"beginOffset": 49,
+									"length": 1
+								},
+								"tag": "NP",
+								"probability": 0.9834454,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 50,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9991619,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "저",
+						"tagged": "저/NP+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이",
+							"beginOffset": 52,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 52,
+									"length": 1
+								},
+								"tag": "MMD",
+								"probability": 0.9996467,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이",
+						"tagged": "이/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "책에서",
+							"beginOffset": 54,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "책",
+									"beginOffset": 54,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9845542,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에서",
+									"beginOffset": 55,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9956283,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "책",
+						"tagged": "책/NNG+에서/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "타코나",
+							"beginOffset": 58,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "타코",
+									"beginOffset": 58,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.7259585,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "나",
+									"beginOffset": 60,
+									"length": 1
+								},
+								"tag": "JC",
+								"probability": 0.9499862,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "타코",
+						"tagged": "타코/NNG+나/JC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "브리또가",
+							"beginOffset": 62,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "브리또",
+									"beginOffset": 62,
+									"length": 3
+								},
+								"tag": "NNP",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 65,
+									"length": 1
+								},
+								"tag": "JKC",
+								"probability": 0.92018247,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "브리또",
+						"tagged": "브리또/NNP+가/JKC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "아닌",
+							"beginOffset": 67,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "아니",
+									"beginOffset": 67,
+									"length": 2
+								},
+								"tag": "VCN",
+								"probability": 0.9999624,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 68,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999628,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "아니",
+						"tagged": "아니/VCN+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "콩,",
+							"beginOffset": 70,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "콩",
+									"beginOffset": 70,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.97126347,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 71,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.9990663,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "콩",
+						"tagged": "콩/NNG+,/SP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "옥수수,",
+							"beginOffset": 73,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "옥수수",
+									"beginOffset": 73,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.97330433,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 76,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.99933916,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "옥수수",
+						"tagged": "옥수수/NNG+,/SP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "아보카도를",
+							"beginOffset": 78,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "아보카도",
+									"beginOffset": 78,
+									"length": 4
+								},
+								"tag": "NNG",
+								"probability": 0.66921407,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 82,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99994165,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "아보카도",
+						"tagged": "아보카도/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이용한",
+							"beginOffset": 84,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이용하",
+									"beginOffset": 84,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 86,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99998474,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이용하",
+						"tagged": "이용하/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "요리들을",
+							"beginOffset": 88,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "요리",
+									"beginOffset": 88,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9837044,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "들",
+									"beginOffset": 90,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.98462516,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 91,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99987775,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "요리",
+						"tagged": "요리/NNG+들/XSN+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "보았다.",
+							"beginOffset": 93,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "보",
+									"beginOffset": 93,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.5033106,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 94,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99991804,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 95,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.98804647,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 96,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9997548,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "보",
+						"tagged": "보/VV+았/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "하지만 저는 이 책에서 타코나 브리또가 아닌 콩, 옥수수, 아보카도를 이용한 요리들을 보았다."
+			},
+			{
+				"text": {
+					"content": "콩은 단백질 음식으로 그들의 건강한 식단에 필요로했다.",
+					"beginOffset": 98,
+					"length": 30
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "콩은",
+							"beginOffset": 98,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "콩",
+									"beginOffset": 98,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.97877884,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 99,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9994913,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "콩",
+						"tagged": "콩/NNG+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "단백질",
+							"beginOffset": 101,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "단백질",
+									"beginOffset": 101,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9736221,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "단백질",
+						"tagged": "단백질/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "음식으로",
+							"beginOffset": 105,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "음식",
+									"beginOffset": 105,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9827845,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으로",
+									"beginOffset": 107,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9967252,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "음식",
+						"tagged": "음식/NNG+으로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "그들의",
+							"beginOffset": 110,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그",
+									"beginOffset": 110,
+									"length": 1
+								},
+								"tag": "NP",
+								"probability": 0.9867775,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "들",
+									"beginOffset": 111,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.99255127,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 112,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99908006,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그",
+						"tagged": "그/NP+들/XSN+의/JKG",
+						"modified": "그들의"
+					},
+					{
+						"text": {
+							"content": "건강한",
+							"beginOffset": 114,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "건강하",
+									"beginOffset": 114,
+									"length": 3
+								},
+								"tag": "VA",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 116,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99997854,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "건강하",
+						"tagged": "건강하/VA+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "식단에",
+							"beginOffset": 118,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "식단",
+									"beginOffset": 118,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.982489,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 120,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9953409,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "식단",
+						"tagged": "식단/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "필요로",
+							"beginOffset": 122,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "필요",
+									"beginOffset": 122,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9867952,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "로",
+									"beginOffset": 124,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9958338,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "필요",
+						"tagged": "필요/NNG+로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "했다.",
+							"beginOffset": 125,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 125,
+									"length": 1
+								},
+								"tag": "XSA",
+								"probability": 0.77953434,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 125,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9987486,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 126,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.99015164,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 127,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99979705,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/XSA+았/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "콩은 단백질 음식으로 그들의 건강한 식단에 필요로 했다."
+			},
+			{
+				"text": {
+					"content": "옛날에 주로 콩은 고기류를 잘 먹지 못하는 원주민들이 섭취해왔고 수십가지에 콩을 사용한다.",
+					"beginOffset": 129,
+					"length": 50
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "옛날에",
+							"beginOffset": 129,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "옛날",
+									"beginOffset": 129,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97717565,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 131,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99433565,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "옛날",
+						"tagged": "옛날/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "주로",
+							"beginOffset": 133,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "주로",
+									"beginOffset": 133,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9918499,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "주로",
+						"tagged": "주로/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "콩은",
+							"beginOffset": 136,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "콩",
+									"beginOffset": 136,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9785771,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 137,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9974015,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "콩",
+						"tagged": "콩/NNG+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "고기류를",
+							"beginOffset": 139,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "고기",
+									"beginOffset": 139,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98238015,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "류",
+									"beginOffset": 141,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.9845446,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 142,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999138,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "고기",
+						"tagged": "고기/NNG+류/XSN+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "잘",
+							"beginOffset": 144,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "잘",
+									"beginOffset": 144,
+									"length": 1
+								},
+								"tag": "MAG",
+								"probability": 0.988175,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "잘",
+						"tagged": "잘/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "먹지",
+							"beginOffset": 146,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "먹",
+									"beginOffset": 146,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9838038,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "지",
+									"beginOffset": 147,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99472046,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "먹",
+						"tagged": "먹/VV+지/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "못하는",
+							"beginOffset": 149,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "못하",
+									"beginOffset": 149,
+									"length": 2
+								},
+								"tag": "VX",
+								"probability": 0.9809752,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 151,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.999966,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "못하",
+						"tagged": "못하/VX+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "원주민들이",
+							"beginOffset": 153,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "원주민",
+									"beginOffset": 153,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9836047,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "들",
+									"beginOffset": 156,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.9915217,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 157,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9950121,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "원주민",
+						"tagged": "원주민/NNG+들/XSN+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "섭취해",
+							"beginOffset": 159,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "섭취하",
+									"beginOffset": 159,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 161,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99536175,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "섭취하",
+						"tagged": "섭취하/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "왔고",
+							"beginOffset": 162,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "오",
+									"beginOffset": 162,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.95083153,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 162,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99987096,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 163,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9937487,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "오",
+						"tagged": "오/VX+았/EP+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "수십가지에",
+							"beginOffset": 165,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "수십",
+									"beginOffset": 165,
+									"length": 2
+								},
+								"tag": "NR",
+								"probability": 0.98570967,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가지",
+									"beginOffset": 167,
+									"length": 2
+								},
+								"tag": "NNB",
+								"probability": 0.9588819,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 169,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.96876925,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "수십",
+						"tagged": "수십/NR+가지/NNB+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "콩을",
+							"beginOffset": 171,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "콩",
+									"beginOffset": 171,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9815247,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 172,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999684,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "콩",
+						"tagged": "콩/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사용한다.",
+							"beginOffset": 174,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사용하",
+									"beginOffset": 174,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ다",
+									"beginOffset": 176,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.99199104,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 178,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9999144,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사용하",
+						"tagged": "사용하/VV+ㄴ다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "옛날에 주로 콩은 고기류를 잘 먹지 못하는 원주민들이 섭취해 왔고 수십가지에 콩을 사용한다."
+			},
+			{
+				"text": {
+					"content": "요리법도 다양하다.",
+					"beginOffset": 180,
+					"length": 10
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "요리법도",
+							"beginOffset": 180,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "요리법",
+									"beginOffset": 180,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9844548,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 183,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99881274,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "요리법",
+						"tagged": "요리법/NNG+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "다양하다.",
+							"beginOffset": 185,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "다양하",
+									"beginOffset": 185,
+									"length": 3
+								},
+								"tag": "VA",
+								"probability": 0.0,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 188,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.993439,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 189,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9998352,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "다양하",
+						"tagged": "다양하/VA+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "요리법도 다양하다."
+			},
+			{
+				"text": {
+					"content": "볶고 튀기고 으께고등의 과정들을 섞어서 사용하는데 막상 할려고하면 엄청 많다.",
+					"beginOffset": 191,
+					"length": 43
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "볶고",
+							"beginOffset": 191,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "볶",
+									"beginOffset": 191,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.98897034,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 192,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9934679,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "볶",
+						"tagged": "볶/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "튀기고",
+							"beginOffset": 194,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "튀기",
+									"beginOffset": 194,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.98755693,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 196,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9924458,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "튀기",
+						"tagged": "튀기/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "으께고등의",
+							"beginOffset": 198,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "으께",
+									"beginOffset": 198,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.6889134,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "고등",
+									"beginOffset": 200,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9842745,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 202,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99881434,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "으께",
+						"tagged": "으께/NNG+고등/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "과정들을",
+							"beginOffset": 204,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "과정",
+									"beginOffset": 204,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9837624,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "들",
+									"beginOffset": 206,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.9930264,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 207,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99981123,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "과정",
+						"tagged": "과정/NNG+들/XSN+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "섞어서",
+							"beginOffset": 209,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "섞",
+									"beginOffset": 209,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.98973227,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어서",
+									"beginOffset": 210,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99481803,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "섞",
+						"tagged": "섞/VV+어서/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사용하는데",
+							"beginOffset": 213,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사용하",
+									"beginOffset": 213,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "는데",
+									"beginOffset": 216,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99366736,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사용하",
+						"tagged": "사용하/VV+는데/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "막상",
+							"beginOffset": 219,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "막상",
+									"beginOffset": 219,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9949437,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "막상",
+						"tagged": "막상/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "할려고",
+							"beginOffset": 222,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 222,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.8757151,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ려고",
+									"beginOffset": 222,
+									"length": 3
+								},
+								"tag": "EC",
+								"probability": 0.99174327,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VV+ㄹ려고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "하면",
+							"beginOffset": 225,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 225,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.949896,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "면",
+									"beginOffset": 226,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99389935,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VX+면/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "엄청",
+							"beginOffset": 228,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "엄청",
+									"beginOffset": 228,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.99290097,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "엄청",
+						"tagged": "엄청/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "많다.",
+							"beginOffset": 231,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "많",
+									"beginOffset": 231,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9881911,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 232,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9937504,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 233,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99959594,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "많",
+						"tagged": "많/VA+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "볶고 튀기고 으께고등의 과정들을 섞어서 사용하는데 막상 할려고 하면 엄청 많다."
+			},
+			{
+				"text": {
+					"content": "맥시코 음식에서 싱겁다고 느낀적이 있나요.",
+					"beginOffset": 235,
+					"length": 23
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "맥시코",
+							"beginOffset": 235,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "맥시코",
+									"beginOffset": 235,
+									"length": 3
+								},
+								"tag": "NNP",
+								"probability": 0.5239697,
+								"outOfVocab": "OUT_OF_VOCAB"
+							}
+						],
+						"lemma": "맥시코",
+						"tagged": "맥시코/NNP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "음식에서",
+							"beginOffset": 239,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "음식",
+									"beginOffset": 239,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97365826,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에서",
+									"beginOffset": 241,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.98505867,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "음식",
+						"tagged": "음식/NNG+에서/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "싱겁다고",
+							"beginOffset": 244,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "싱겁",
+									"beginOffset": 244,
+									"length": 2
+								},
+								"tag": "VA",
+								"probability": 0.9868737,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다고",
+									"beginOffset": 246,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9940291,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "싱겁",
+						"tagged": "싱겁/VA+다고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "느낀",
+							"beginOffset": 249,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "느끼",
+									"beginOffset": 249,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9891295,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 250,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99996424,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "느끼",
+						"tagged": "느끼/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "적이",
+							"beginOffset": 251,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "적",
+									"beginOffset": 251,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9753498,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 252,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9943272,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "적",
+						"tagged": "적/NNB+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있나요.",
+							"beginOffset": 254,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 254,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9441016,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "나",
+									"beginOffset": 255,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9013627,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "요",
+									"beginOffset": 256,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9988899,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 257,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9996385,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VA+나/EF+요/JX+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "맥시코 음식에서 싱겁다고 느낀 적이 있나요."
+			},
+			{
+				"text": {
+					"content": "여러가지 고추를 사용하기 떄문에 싱겁다는 느낌이들지 않을수도있다.",
+					"beginOffset": 259,
+					"length": 36
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "여러",
+							"beginOffset": 259,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "여러",
+									"beginOffset": 259,
+									"length": 2
+								},
+								"tag": "MMN",
+								"probability": 0.9996847,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "여러",
+						"tagged": "여러/MMN",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "가지",
+							"beginOffset": 261,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "가지",
+									"beginOffset": 261,
+									"length": 2
+								},
+								"tag": "NNB",
+								"probability": 0.972522,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "가지",
+						"tagged": "가지/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "고추를",
+							"beginOffset": 264,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "고추",
+									"beginOffset": 264,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98391986,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 266,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999595,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "고추",
+						"tagged": "고추/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사용하기",
+							"beginOffset": 268,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사용하",
+									"beginOffset": 268,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "기",
+									"beginOffset": 271,
+									"length": 1
+								},
+								"tag": "ETN",
+								"probability": 0.9993021,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사용하",
+						"tagged": "사용하/VV+기/ETN",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "떄문에",
+							"beginOffset": 273,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "떄문",
+									"beginOffset": 273,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9011955,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 275,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99377954,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "떄문",
+						"tagged": "떄문/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "싱겁다는",
+							"beginOffset": 277,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "싱겁",
+									"beginOffset": 277,
+									"length": 2
+								},
+								"tag": "VA",
+								"probability": 0.9897518,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다는",
+									"beginOffset": 279,
+									"length": 2
+								},
+								"tag": "ETM",
+								"probability": 0.9999787,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "싱겁",
+						"tagged": "싱겁/VA+다는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "느낌이",
+							"beginOffset": 282,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "느낌",
+									"beginOffset": 282,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9827389,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 284,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.8941291,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "느낌",
+						"tagged": "느낌/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "들지",
+							"beginOffset": 285,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "들",
+									"beginOffset": 285,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9118105,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "지",
+									"beginOffset": 286,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99103093,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "들",
+						"tagged": "들/VV+지/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "않을",
+							"beginOffset": 288,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "않",
+									"beginOffset": 288,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.84327626,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 289,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99994624,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "않",
+						"tagged": "않/VX+을/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "수도",
+							"beginOffset": 290,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "수",
+									"beginOffset": 290,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.97415787,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 291,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99825835,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "수",
+						"tagged": "수/NNB+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있다.",
+							"beginOffset": 292,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 292,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9171184,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 293,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9933894,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 294,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9998663,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VA+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "여러 가지 고추를 사용하기 떄문에 싱겁다는 느낌이 들지 않을 수도 있다."
+			},
+			{
+				"text": {
+					"content": "마지막으로 아보카도는 전 세계적으로 인기가많습니다.",
+					"beginOffset": 296,
+					"length": 28
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "마지막으로",
+							"beginOffset": 296,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "마지막",
+									"beginOffset": 296,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.98397917,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으로",
+									"beginOffset": 299,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.99614555,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "마지막",
+						"tagged": "마지막/NNG+으로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "아보카도는",
+							"beginOffset": 302,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "아보카도",
+									"beginOffset": 302,
+									"length": 4
+								},
+								"tag": "NNP",
+								"probability": 0.5084188,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 306,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9984244,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "아보카도",
+						"tagged": "아보카도/NNP+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "전",
+							"beginOffset": 308,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "전",
+									"beginOffset": 308,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.45587975,
+								"outOfVocab": "OUT_OF_VOCAB"
+							}
+						],
+						"lemma": "전",
+						"tagged": "전/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "세계적으로",
+							"beginOffset": 310,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "세계",
+									"beginOffset": 310,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9786085,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "적",
+									"beginOffset": 312,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.9881727,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으로",
+									"beginOffset": 313,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9905836,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "세계",
+						"tagged": "세계/NNG+적/XSN+으로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "인기가",
+							"beginOffset": 316,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "인기",
+									"beginOffset": 316,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98388374,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 318,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9720886,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "인기",
+						"tagged": "인기/NNG+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "많습니다.",
+							"beginOffset": 319,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "많",
+									"beginOffset": 319,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9893645,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "습니다",
+									"beginOffset": 320,
+									"length": 3
+								},
+								"tag": "EF",
+								"probability": 0.9887317,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 323,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9986217,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "많",
+						"tagged": "많/VA+습니다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "마지막으로 아보카도는 전 세계적으로 인기가 많습니다."
+			},
+			{
+				"text": {
+					"content": "하지만 특유의 향떄문에 아보카도를 싫어하는 사람도 생각보다 많습니다.",
+					"beginOffset": 325,
+					"length": 38
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "하지만",
+							"beginOffset": 325,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하지만",
+									"beginOffset": 325,
+									"length": 3
+								},
+								"tag": "MAJ",
+								"probability": 0.99855155,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하지만",
+						"tagged": "하지만/MAJ",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "특유의",
+							"beginOffset": 329,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "특유",
+									"beginOffset": 329,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97864014,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 331,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99971056,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "특유",
+						"tagged": "특유/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "향떄문에",
+							"beginOffset": 333,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "향떄문",
+									"beginOffset": 333,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.92029196,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 336,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.76136583,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "향떄문",
+						"tagged": "향떄문/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "아보카도를",
+							"beginOffset": 338,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "아보카도",
+									"beginOffset": 338,
+									"length": 4
+								},
+								"tag": "NNG",
+								"probability": 0.5039247,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 342,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9998182,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "아보카도",
+						"tagged": "아보카도/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "싫어하는",
+							"beginOffset": 344,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "싫어하",
+									"beginOffset": 344,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.9903924,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 347,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.999987,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "싫어하",
+						"tagged": "싫어하/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사람도",
+							"beginOffset": 349,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사람",
+									"beginOffset": 349,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9843142,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 351,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9994878,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사람",
+						"tagged": "사람/NNG+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "생각보다",
+							"beginOffset": 353,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "생각",
+									"beginOffset": 353,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9808532,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "보다",
+									"beginOffset": 355,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9936598,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "생각",
+						"tagged": "생각/NNG+보다/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "많습니다.",
+							"beginOffset": 358,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "많",
+									"beginOffset": 358,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.98790467,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "습니다",
+									"beginOffset": 359,
+									"length": 3
+								},
+								"tag": "EF",
+								"probability": 0.9858718,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 362,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99971896,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "많",
+						"tagged": "많/VA+습니다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "하지만 특유의 향떄문에 아보카도를 싫어하는 사람도 생각보다 많습니다."
+			},
+			{
+				"text": {
+					"content": "지방이 많아 오일로도 뽑아쓰고 그냥 먹거나 다른 음식과 같이먹어도맛있다.",
+					"beginOffset": 364,
+					"length": 40
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "지방이",
+							"beginOffset": 364,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "지방",
+									"beginOffset": 364,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98470336,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 366,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9528333,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "지방",
+						"tagged": "지방/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "많아",
+							"beginOffset": 368,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "많",
+									"beginOffset": 368,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.98822457,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 369,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.98587984,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "많",
+						"tagged": "많/VA+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "오일로도",
+							"beginOffset": 371,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "오일",
+									"beginOffset": 371,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98137575,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "로",
+									"beginOffset": 373,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99752647,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 374,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99902177,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "오일",
+						"tagged": "오일/NNG+로/JKB+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "뽑아쓰고",
+							"beginOffset": 376,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "뽑아쓰",
+									"beginOffset": 376,
+									"length": 3
+								},
+								"tag": "VA",
+								"probability": 0.621592,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 379,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9962027,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "뽑아쓰",
+						"tagged": "뽑아쓰/VA+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "그냥",
+							"beginOffset": 381,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그냥",
+									"beginOffset": 381,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9917167,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그냥",
+						"tagged": "그냥/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "먹거나",
+							"beginOffset": 384,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "먹",
+									"beginOffset": 384,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9879962,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "거나",
+									"beginOffset": 385,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99215144,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "먹",
+						"tagged": "먹/VV+거나/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "다른",
+							"beginOffset": 388,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "다르",
+									"beginOffset": 388,
+									"length": 2
+								},
+								"tag": "VA",
+								"probability": 0.98951674,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 389,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999648,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "다르",
+						"tagged": "다르/VA+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "음식과",
+							"beginOffset": 391,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "음식",
+									"beginOffset": 391,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98208433,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "과",
+									"beginOffset": 393,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.8699658,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "음식",
+						"tagged": "음식/NNG+과/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "같이",
+							"beginOffset": 395,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "같이",
+									"beginOffset": 395,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9883724,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "같이",
+						"tagged": "같이/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "먹어도",
+							"beginOffset": 397,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "먹",
+									"beginOffset": 397,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9306653,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어도",
+									"beginOffset": 398,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.992011,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "먹",
+						"tagged": "먹/VV+어도/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "맛있다.",
+							"beginOffset": 400,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "맛있",
+									"beginOffset": 400,
+									"length": 2
+								},
+								"tag": "VA",
+								"probability": 0.98745257,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 402,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9937446,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 403,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9997451,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "맛있",
+						"tagged": "맛있/VA+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "지방이 많아 오일로도 뽑아쓰고 그냥 먹거나 다른 음식과 같이 먹어도 맛있다."
+			},
+			{
+				"text": {
+					"content": "아보카도 요리법중 과카몰레는 아보카도를 으께고 토마토 다른 향신료와 섞어서 치차론 타코등에 올려먹기도 한다.",
+					"beginOffset": 405,
+					"length": 60
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "아보카도",
+							"beginOffset": 405,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "아보카",
+									"beginOffset": 405,
+									"length": 3
+								},
+								"tag": "NNP",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 408,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99876064,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "아보카",
+						"tagged": "아보카/NNP+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "요리법중",
+							"beginOffset": 410,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "요리법",
+									"beginOffset": 410,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9109336,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "중",
+									"beginOffset": 413,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9010957,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "요리법",
+						"tagged": "요리법/NNG+중/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "과카몰레는",
+							"beginOffset": 415,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "과카몰레",
+									"beginOffset": 415,
+									"length": 4
+								},
+								"tag": "NNP",
+								"probability": 0.41519153,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 419,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.998555,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "과카몰레",
+						"tagged": "과카몰레/NNP+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "아보카도를",
+							"beginOffset": 421,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "아보카도",
+									"beginOffset": 421,
+									"length": 4
+								},
+								"tag": "NNG",
+								"probability": 0.68057364,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 425,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9998922,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "아보카도",
+						"tagged": "아보카도/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "으께고",
+							"beginOffset": 427,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "으께",
+									"beginOffset": 427,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.87161374,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 429,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99558115,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "으께",
+						"tagged": "으께/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "토마토",
+							"beginOffset": 431,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "토마토",
+									"beginOffset": 431,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9508233,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "토마토",
+						"tagged": "토마토/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "다른",
+							"beginOffset": 435,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "다른",
+									"beginOffset": 435,
+									"length": 2
+								},
+								"tag": "MMD",
+								"probability": 0.9994944,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "다른",
+						"tagged": "다른/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "향신료와",
+							"beginOffset": 438,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "향신료",
+									"beginOffset": 438,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.72643524,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "와",
+									"beginOffset": 441,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.77086,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "향신료",
+						"tagged": "향신료/NNG+와/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "섞어서",
+							"beginOffset": 443,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "섞",
+									"beginOffset": 443,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9888426,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어서",
+									"beginOffset": 444,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99397826,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "섞",
+						"tagged": "섞/VV+어서/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "치차론",
+							"beginOffset": 447,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "치차",
+									"beginOffset": 447,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.79321307,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "론",
+									"beginOffset": 449,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.91383874,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "치차",
+						"tagged": "치차/NNG+론/XSN",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "타코등에",
+							"beginOffset": 451,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "타코등",
+									"beginOffset": 451,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.7422072,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 454,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9950928,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "타코등",
+						"tagged": "타코등/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "올려",
+							"beginOffset": 456,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "올리",
+									"beginOffset": 456,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9905306,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어",
+									"beginOffset": 457,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99543333,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "올리",
+						"tagged": "올리/VV+어/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "먹기도",
+							"beginOffset": 458,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "먹",
+									"beginOffset": 458,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.7808771,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "기",
+									"beginOffset": 459,
+									"length": 1
+								},
+								"tag": "ETN",
+								"probability": 0.9979466,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 460,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9995314,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "먹",
+						"tagged": "먹/VV+기/ETN+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "한다.",
+							"beginOffset": 462,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 462,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.4501195,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ다",
+									"beginOffset": 462,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.99096686,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 464,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99979967,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VX+ㄴ다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "아보카도 요리법중 과카몰레는 아보카도를 으께고 토마토 다른 향신료와 섞어서 치차론 타코등에 올려 먹기도 한다."
+			},
+			{
+				"text": {
+					"content": "전체적으로 보면 지지고 볶는과정을 결합하는것과 음식을 만들때에 향신료를 많이 쓴다는것이 비슷한거같다.",
+					"beginOffset": 466,
+					"length": 56
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "전체적으로",
+							"beginOffset": 466,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "전체",
+									"beginOffset": 466,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.982588,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "적",
+									"beginOffset": 468,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.9915383,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으로",
+									"beginOffset": 469,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9946942,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "전체",
+						"tagged": "전체/NNG+적/XSN+으로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "보면",
+							"beginOffset": 472,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "보",
+									"beginOffset": 472,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9829905,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "면",
+									"beginOffset": 473,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9954277,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "보",
+						"tagged": "보/VV+면/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "지지고",
+							"beginOffset": 475,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "지지",
+									"beginOffset": 475,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.98831,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 477,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99611235,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "지지",
+						"tagged": "지지/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "볶는",
+							"beginOffset": 479,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "볶",
+									"beginOffset": 479,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9896898,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 480,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99997145,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "볶",
+						"tagged": "볶/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "과정을",
+							"beginOffset": 481,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "과정",
+									"beginOffset": 481,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9835395,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 483,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9997782,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "과정",
+						"tagged": "과정/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "결합하는",
+							"beginOffset": 485,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "결합하",
+									"beginOffset": 485,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 488,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999788,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "결합하",
+						"tagged": "결합하/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "것과",
+							"beginOffset": 489,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "것",
+									"beginOffset": 489,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9770037,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "과",
+									"beginOffset": 490,
+									"length": 1
+								},
+								"tag": "JC",
+								"probability": 0.6899743,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "것",
+						"tagged": "것/NNB+과/JC",
+						"modified": "것과"
+					},
+					{
+						"text": {
+							"content": "음식을",
+							"beginOffset": 492,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "음식",
+									"beginOffset": 492,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9809996,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 494,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.999948,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "음식",
+						"tagged": "음식/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "만들",
+							"beginOffset": 496,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "만들",
+									"beginOffset": 496,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.98786634,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ",
+									"beginOffset": 497,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999196,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "만들",
+						"tagged": "만들/VV+ㄹ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "때에",
+							"beginOffset": 498,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "때",
+									"beginOffset": 498,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.98224264,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 499,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9935678,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "때",
+						"tagged": "때/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "향신료를",
+							"beginOffset": 501,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "향신료",
+									"beginOffset": 501,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.80638516,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 504,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999338,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "향신료",
+						"tagged": "향신료/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "많이",
+							"beginOffset": 506,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "많이",
+									"beginOffset": 506,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.98710734,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "많이",
+						"tagged": "많이/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "쓴다는",
+							"beginOffset": 509,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "쓰",
+									"beginOffset": 509,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.98905885,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ다는",
+									"beginOffset": 509,
+									"length": 3
+								},
+								"tag": "ETM",
+								"probability": 0.9999875,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "쓰",
+						"tagged": "쓰/VV+ㄴ다는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "것이",
+							"beginOffset": 512,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "것",
+									"beginOffset": 512,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.98051983,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 513,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9236379,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "것",
+						"tagged": "것/NNB+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "비슷한",
+							"beginOffset": 515,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "비슷하",
+									"beginOffset": 515,
+									"length": 3
+								},
+								"tag": "VA",
+								"probability": 0.9842554,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 517,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999585,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "비슷하",
+						"tagged": "비슷하/VA+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "거",
+							"beginOffset": 518,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "거",
+									"beginOffset": 518,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.96924406,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "거",
+						"tagged": "거/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "같다.",
+							"beginOffset": 519,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "같",
+									"beginOffset": 519,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.97472715,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 520,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.99202704,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 521,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.999513,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "같",
+						"tagged": "같/VA+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "전체적으로 보면 지지고 볶는 과정을 결합하는 것과 음식을 만들 때에 향신료를 많이 쓴다는 것이 비슷한 거 같다."
+			},
+			{
+				"text": {
+					"content": "앞으로는 다른 나라의 음식을 보는것도 중요하지만 우리음식이 실린책도 한번 보고 다른 사람에게 알릴수있는 기회가 오면 좋겠다.",
+					"beginOffset": 523,
+					"length": 69
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "앞으로는",
+							"beginOffset": 523,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "앞",
+									"beginOffset": 523,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.98298544,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으로",
+									"beginOffset": 524,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9935655,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 526,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.998872,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "앞",
+						"tagged": "앞/NNG+으로/JKB+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "다른",
+							"beginOffset": 528,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "다른",
+									"beginOffset": 528,
+									"length": 2
+								},
+								"tag": "MMD",
+								"probability": 0.9993809,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "다른",
+						"tagged": "다른/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "나라의",
+							"beginOffset": 531,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "나라",
+									"beginOffset": 531,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9829032,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 533,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99916553,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "나라",
+						"tagged": "나라/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "음식을",
+							"beginOffset": 535,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "음식",
+									"beginOffset": 535,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98174685,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 537,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99994767,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "음식",
+						"tagged": "음식/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "보는",
+							"beginOffset": 539,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "보",
+									"beginOffset": 539,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9746605,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 540,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99982446,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "보",
+						"tagged": "보/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "것도",
+							"beginOffset": 541,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "것",
+									"beginOffset": 541,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9840196,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 542,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9991909,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "것",
+						"tagged": "것/NNB+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "중요하지만",
+							"beginOffset": 544,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "중요하",
+									"beginOffset": 544,
+									"length": 3
+								},
+								"tag": "VA",
+								"probability": 0.0,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "지만",
+									"beginOffset": 547,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9925778,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "중요하",
+						"tagged": "중요하/VA+지만/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "우리",
+							"beginOffset": 550,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "우리",
+									"beginOffset": 550,
+									"length": 2
+								},
+								"tag": "NP",
+								"probability": 0.97638357,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "우리",
+						"tagged": "우리/NP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "음식이",
+							"beginOffset": 552,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "음식",
+									"beginOffset": 552,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.981398,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 554,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.99182945,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "음식",
+						"tagged": "음식/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "실린",
+							"beginOffset": 556,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "실리",
+									"beginOffset": 556,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.98736095,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 557,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999638,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "실리",
+						"tagged": "실리/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "책도",
+							"beginOffset": 558,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "책",
+									"beginOffset": 558,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9868443,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 559,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9990891,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "책",
+						"tagged": "책/NNG+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "한",
+							"beginOffset": 561,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "한",
+									"beginOffset": 561,
+									"length": 1
+								},
+								"tag": "MMN",
+								"probability": 0.99927276,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "한",
+						"tagged": "한/MMN",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "번",
+							"beginOffset": 562,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "번",
+									"beginOffset": 562,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9786436,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "번",
+						"tagged": "번/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "보고",
+							"beginOffset": 564,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "보",
+									"beginOffset": 564,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.96679974,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 565,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99331605,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "보",
+						"tagged": "보/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "다른",
+							"beginOffset": 567,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "다른",
+									"beginOffset": 567,
+									"length": 2
+								},
+								"tag": "MMD",
+								"probability": 0.99973327,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "다른",
+						"tagged": "다른/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사람에게",
+							"beginOffset": 570,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사람",
+									"beginOffset": 570,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9836554,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에게",
+									"beginOffset": 572,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9967412,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사람",
+						"tagged": "사람/NNG+에게/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "알릴",
+							"beginOffset": 575,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "알리",
+									"beginOffset": 575,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9901081,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ",
+									"beginOffset": 576,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99993145,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "알리",
+						"tagged": "알리/VV+ㄹ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "수",
+							"beginOffset": 577,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "수",
+									"beginOffset": 577,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9765831,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "수",
+						"tagged": "수/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있는",
+							"beginOffset": 578,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 578,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.90386564,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 579,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99998325,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VA+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "기회가",
+							"beginOffset": 581,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "기회",
+									"beginOffset": 581,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9846865,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 583,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9851273,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "기회",
+						"tagged": "기회/NNG+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "오면",
+							"beginOffset": 585,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "오",
+									"beginOffset": 585,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.977569,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "면",
+									"beginOffset": 586,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9959011,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "오",
+						"tagged": "오/VV+면/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "좋겠다.",
+							"beginOffset": 588,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "좋",
+									"beginOffset": 588,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9855426,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "겠",
+									"beginOffset": 589,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99997234,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 590,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.99252427,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 591,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9998241,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "좋",
+						"tagged": "좋/VA+겠/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "앞으로는 다른 나라의 음식을 보는 것도 중요하지만 우리 음식이 실린 책도 한 번 보고 다른 사람에게 알릴 수 있는 기회가 오면 좋겠다."
+			}
+		],
+		"language": "ko_KR"
+	},
+	"ttr": {
+		"lemma_Cnt": 295,
+		"lemma_TTR": 0.483974358974359,
+		"CL_TTR": 0.6824324324324325,
+		"NL_TTR": 0.7051282051282052,
+		"NN_TTR": 0.6891891891891891,
+		"NNG_TTR": 0.7142857142857143,
+		"NNP_TTR": 0.8333333333333334,
+		"NNB_TTR": 0.5833333333333334,
+		"NP_TTR": 1.0,
+		"NR_TTR": 1.0,
+		"VL_TTR": 0.6610169491525424,
+		"VV_TTR": 0.6764705882352942,
+		"VA_TTR": 0.6666666666666666,
+		"ML_TTR": 0.8181818181818182,
+		"MM_TTR": 0,
+		"MA_TTR": 0.8181818181818182,
+		"MAJ_TTR": 0.5,
+		"IC_TTR": 0,
+		"FL_TTR": 0.3357142857142857,
+		"J_TTR": 0.27692307692307694,
+		"E_TTR": 0.4090909090909091,
+		"X_TTR": 0.5555555555555556,
+		"lemma_RTTR": 8.548691607791698,
+		"CL_RTTR": 8.302148858920544,
+		"NL_RTTR": 6.227523687795276,
+		"NN_RTTR": 5.928629575934783,
+		"NNG_RTTR": 5.3452248382484875,
+		"NNP_RTTR": 2.041241452319315,
+		"NNB_RTTR": 2.0207259421636903,
+		"NP_RTTR": 1.7320508075688774,
+		"NR_RTTR": 1.0,
+		"VL_RTTR": 5.077367528252131,
+		"VV_RTTR": 3.9444674582777033,
+		"VA_RTTR": 2.8284271247461903,
+		"ML_RTTR": 2.7136021011998728,
+		"MM_RTTR": 0,
+		"MA_RTTR": 2.7136021011998728,
+		"MAJ_RTTR": 0.7071067811865475,
+		"IC_RTTR": 0,
+		"FL_RTTR": 3.972224997224028,
+		"J_RTTR": 2.232625222605752,
+		"E_RTTR": 3.3234702564419836,
+		"X_RTTR": 1.6666666666666667,
+		"lemma_CTTR": 6.04483780614204,
+		"CL_CTTR": 5.870505756562873,
+		"NL_CTTR": 4.403524229639896,
+		"NN_CTTR": 4.192174176286611,
+		"NNG_CTTR": 3.779644730092272,
+		"NNP_CTTR": 1.4433756729740645,
+		"NNB_CTTR": 1.4288690166235207,
+		"NP_CTTR": 1.2247448713915892,
+		"NR_CTTR": 0.7071067811865475,
+		"VL_CTTR": 3.5902410098034614,
+		"VV_CTTR": 2.789159687917829,
+		"VA_CTTR": 2.0,
+		"ML_CTTR": 1.9188064472004938,
+		"MM_CTTR": 0,
+		"MA_CTTR": 1.9188064472004938,
+		"MAJ_CTTR": 0.5,
+		"IC_CTTR": 0,
+		"FL_CTTR": 2.808787231935825,
+		"J_CTTR": 1.5787044347526527,
+		"E_CTTR": 2.350048355401921,
+		"X_CTTR": 1.1785113019775793,
+		"lemma_MSTTR": 0.8166666666666668,
+		"CL_MSTTR": 0.8300000000000001,
+		"NL_MSTTR": 0.8,
+		"NN_MSTTR": 0.78,
+		"NNG_MSTTR": 0.76,
+		"NNP_MSTTR": 0.8333333333333334,
+		"NNB_MSTTR": 0.5833333333333334,
+		"NP_MSTTR": 1.0,
+		"NR_MSTTR": 1.0,
+		"VL_MSTTR": 0.68,
+		"VV_MSTTR": 0.6764705882352942,
+		"VA_MSTTR": 0.6666666666666666,
+		"ML_MSTTR": 0.8181818181818182,
+		"MM_MSTTR": 0,
+		"MA_MSTTR": 0.8181818181818182,
+		"MAJ_MSTTR": 0.5,
+		"IC_MSTTR": 0,
+		"FL_MSTTR": 0.6000000000000001,
+		"J_MSTTR": 0.34,
+		"E_MSTTR": 0.48,
+		"X_MSTTR": 0.5555555555555556,
+		"lemma_MATTR": 0.819619771863118,
+		"CL_MATTR": 0.8444444444444441,
+		"NL_MATTR": 0.7993103448275867,
+		"NN_MATTR": 0.7872000000000002,
+		"NNG_MATTR": 0.7514285714285716,
+		"NNP_MATTR": 0.8333333333333334,
+		"NNB_MATTR": 0.5833333333333334,
+		"NP_MATTR": 1.0,
+		"NR_MATTR": 1.0,
+		"VL_MATTR": 0.668,
+		"VV_MATTR": 0.6764705882352942,
+		"VA_MATTR": 0.6666666666666666,
+		"ML_MATTR": 0.8181818181818182,
+		"MM_MATTR": 0,
+		"MA_MATTR": 0.8181818181818182,
+		"MAJ_MATTR": 0.5,
+		"IC_MATTR": 0,
+		"FL_MATTR": 0.5969230769230769,
+		"J_MATTR": 0.32999999999999996,
+		"E_MATTR": 0.4776470588235296,
+		"X_MATTR": 0.5555555555555556,
+		"lemma_MTLD": 85.77556978331322,
+		"CL_MTLD": 93.34127607576156,
+		"NL_MTLD": 78.0,
+		"NN_MTLD": 61.5,
+		"NNG_MTLD": 55.440000000000005,
+		"NNP_MTLD": 10.080000000000004,
+		"NNB_MTLD": 12.0,
+		"NP_MTLD": 0.0,
+		"NR_MTLD": 0.0,
+		"VL_MTLD": 41.51437991021324,
+		"VV_MTLD": 22.228387962430517,
+		"VA_MTLD": 18.0,
+		"ML_MTLD": 16.940000000000005,
+		"MM_MTLD": 0.0,
+		"MA_MTLD": 16.940000000000005,
+		"MAJ_MTLD": 1.12,
+		"IC_MTLD": 0.0,
+		"FL_MTLD": 27.57740267639903,
+		"J_MTLD": 13.536275160362752,
+		"E_MTLD": 17.134615384615387,
+		"X_MTLD": 5.670000000000001,
+		"lemma_VOCDD": 93.99149605352352,
+		"CL_VOCDD": 130.67291724851543,
+		"NL_VOCDD": 69.19431019548118,
+		"NN_VOCDD": 61.03700043916092,
+		"NNG_VOCDD": 49.97224200546634,
+		"NNP_VOCDD": 0,
+		"NNB_VOCDD": 0,
+		"NP_VOCDD": 0,
+		"NR_VOCDD": 0,
+		"VL_VOCDD": 40.22254713139862,
+		"VV_VOCDD": 0,
+		"VA_VOCDD": 0,
+		"ML_VOCDD": 0,
+		"MM_VOCDD": 0,
+		"MA_VOCDD": 0,
+		"MAJ_VOCDD": 0,
+		"IC_VOCDD": 0,
+		"FL_VOCDD": 21.118396380803542,
+		"J_VOCDD": 4.8719652976802434,
+		"E_VOCDD": 11.272668669034843,
+		"X_VOCDD": 0,
+		"lemma_HDD": 0.8421617076679926,
+		"CL_HDD": 0.8769258509541267,
+		"NL_HDD": 0.8046426913045506,
+		"NN_HDD": 0.7861840812918326,
+		"NNG_HDD": 0.7590358422766864,
+		"NNP_HDD": 0.0,
+		"NNB_HDD": 0.0,
+		"NP_HDD": 0.0,
+		"NR_HDD": 0.0,
+		"VL_HDD": 0.7251508373505354,
+		"VV_HDD": 0.0,
+		"VA_HDD": 0.0,
+		"ML_HDD": 0.0,
+		"MM_HDD": 0.0,
+		"MA_HDD": 0.0,
+		"MAJ_HDD": 0.0,
+		"IC_HDD": 0.0,
+		"FL_HDD": 0.6198850397471131,
+		"J_HDD": 0.37947669212465124,
+		"E_HDD": 0.5119354672859677,
+		"X_HDD": 0.0
+	},
+	"similarity": {
+		"avgSentSimilarity": 0.19446954131126404,
+		"topicConsistency": 0.6078
+	},
+	"adjacency": {
+		"adjacent_sentence_overlap_all_lemmas": 197,
+		"adjacent_sentence_overlap_all_lemmas_normed": 14,
+		"binary_adjacent_sentence_overlap_all_lemmas": 14,
+		"adjacent_two_sentence_overlap_all_lemmas": 149,
+		"adjacent_two_sentence_overlap_all_lemmas_normed": 13,
+		"binary_adjacent_two_sentence_overlap_all_lemmas": 13,
+		"adjacent_sentence_overlap_content_lemmas": 102,
+		"adjacent_sentence_overlap_content_lemmas_normed": 14,
+		"binary_adjacent_sentence_overlap_content_lemmas": 10,
+		"adjacent_two_sentence_overlap_content_lemmas": 86,
+		"adjacent_two_sentence_overlap_content_lemmas_normed": 13,
+		"binary_adjacent_two_sentence_overlap_content_lemmas": 6,
+		"adjacent_sentence_overlap_function_lemmas": 76,
+		"adjacent_sentence_overlap_function_lemmas_normed": 14,
+		"binary_adjacent_sentence_overlap_function_lemmas": 11,
+		"adjacent_two_sentence_overlap_function_lemmas": 48,
+		"adjacent_two_sentence_overlap_function_lemmas_normed": 13,
+		"binary_adjacent_two_sentence_overlap_function_lemmas": 6,
+		"adjacent_sentence_overlap_noun_lemmas": 69,
+		"adjacent_sentence_overlap_noun_lemmas_normed": 14,
+		"binary_adjacent_sentence_overlap_noun_lemmas": 6,
+		"adjacent_two_sentence_overlap_noun_lemmas": 59,
+		"adjacent_two_sentence_overlap_noun_lemmas_normed": 13,
+		"binary_adjacent_two_sentence_overlap_noun_lemmas": 1,
+		"adjacent_sentence_overlap_verb_lemmas": 37,
+		"adjacent_sentence_overlap_verb_lemmas_normed": 11,
+		"binary_adjacent_sentence_overlap_verb_lemmas": 7,
+		"adjacent_two_sentence_overlap_verb_lemmas": 29,
+		"adjacent_two_sentence_overlap_verb_lemmas_normed": 9,
+		"binary_adjacent_two_sentence_overlap_verb_lemmas": 1,
+		"adjacent_sentence_overlap_adjective_lemmas": 14,
+		"adjacent_sentence_overlap_adjective_lemmas_normed": 7,
+		"binary_adjacent_sentence_overlap_adjective_lemmas": 3,
+		"adjacent_two_sentence_overlap_adjective_lemmas": 10,
+		"adjacent_two_sentence_overlap_adjective_lemmas_normed": 5,
+		"binary_adjacent_two_sentence_overlap_adjective_lemmas": 1,
+		"adjacent_sentence_overlap_adverb_lemmas": 1,
+		"adjacent_sentence_overlap_adverb_lemmas_normed": 1,
+		"binary_adjacent_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adverb_lemmas": 0
+	},
+	"basic_count": {
+		"para_Cnt": 1,
+		"sentence_Cnt": 15,
+		"word_Cnt": 127,
+		"morph_Cnt": 312,
+		"char_Cnt": 509,
+		"CL_Cnt": 148,
+		"NL_Cnt": 78,
+		"NN_Cnt": 74,
+		"NNG_Cnt": 56,
+		"NNP_Cnt": 6,
+		"NNB_Cnt": 12,
+		"NP_Cnt": 3,
+		"NP_People_Cnt": 3,
+		"NP_Things_Cnt": 0,
+		"NR_Cnt": 1,
+		"VL_Cnt": 59,
+		"VV_Cnt": 34,
+		"VA_Cnt": 18,
+		"VX_Cnt": 5,
+		"VCP_Cnt": 1,
+		"VCN_Cnt": 1,
+		"ML_Cnt": 11,
+		"MA_Cnt": 0,
+		"MM_Cnt": 0,
+		"FL_Cnt": 140,
+		"J_Cnt": 65,
+		"E_Cnt": 66,
+		"X_Cnt": 9,
+		"IC_Cnt": 0
+	},
+	"basic_density": {
+		"CL_Den": 0.47435897435897434,
+		"FL_Den": 0.44871794871794873,
+		"NL_Den": 0.23717948717948717,
+		"NNGL_Den": 0.1794871794871795,
+		"NNPL_Den": 0.019230769230769232,
+		"NNBL_Den": 0.038461538461538464,
+		"NPL_Den": 0.009615384615384616,
+		"NML_Den": 0.003205128205128205,
+		"VL_Den": 0.1891025641025641,
+		"VVL_Den": 0.10897435897435898,
+		"VAL_Den": 0.057692307692307696,
+		"ML_Den": 0.035256410256410256,
+		"MML_Den": 0.0,
+		"MAL_Den": 0.0,
+		"JL_Den": 0.20833333333333334,
+		"EL_Den": 0.21153846153846154,
+		"XL_Den": 0.028846153846153848,
+		"ITL_Den": 0.0,
+		"NCL_Den": 0.5,
+		"NNCL_Den": 0.3783783783783784,
+		"NNGCL_Den": 0.04054054054054054,
+		"NNBCL_Den": 0.08108108108108109,
+		"NPCL_Den": 0.02027027027027027,
+		"NMCL_Den": 0.006756756756756757,
+		"VCL_Den": 0.39864864864864863,
+		"VVCL_Den": 0.22972972972972974,
+		"VACL_Den": 0.12162162162162163,
+		"MCL_Den": 0.07432432432432433,
+		"MMCL_Den": 0.0,
+		"MACL_Den": 0.0,
+		"INCL_Den": 0.0,
+		"JFL_Den": 0.4642857142857143,
+		"EFL_Den": 0.4714285714285714,
+		"XFL_Den": 0.06428571428571428
+	},
+	"basic_level": {
+		"morph_LenAvg": 1.5576923076923077,
+		"morph_LenStd": 0.7699515853526016,
+		"word_LenAvg": 3.5354330708661417,
+		"word_LenStd": 1.3089352262899996
+	},
+	"basic_list": {
+		"NL_Lst": [
+			[
+				0,
+				"요리",
+				"NNG",
+				"맥시코 요리하면 어떤 요리가 생각나시나요?"
+			],
+			[
+				1,
+				"타코나",
+				"NNG",
+				"주로 타코나 브리또가 생각나실겁니다."
+			],
+			[
+				2,
+				"브리또",
+				"NNP",
+				"주로 타코나 브리또가 생각나실겁니다."
+			],
+			[
+				3,
+				"거",
+				"NNB",
+				"주로 타코나 브리또가 생각나실겁니다."
+			],
+			[
+				4,
+				"저",
+				"NP",
+				"하지만 저는 이 책에서 타코나 브리또가 아닌 콩, 옥수수, 아보카도를 이용한 요리들을 보았다."
+			],
+			[
+				5,
+				"책",
+				"NNG",
+				"하지만 저는 이 책에서 타코나 브리또가 아닌 콩, 옥수수, 아보카도를 이용한 요리들을 보았다."
+			],
+			[
+				6,
+				"타코",
+				"NNG",
+				"하지만 저는 이 책에서 타코나 브리또가 아닌 콩, 옥수수, 아보카도를 이용한 요리들을 보았다."
+			],
+			[
+				7,
+				"브리또",
+				"NNP",
+				"하지만 저는 이 책에서 타코나 브리또가 아닌 콩, 옥수수, 아보카도를 이용한 요리들을 보았다."
+			],
+			[
+				8,
+				"콩",
+				"NNG",
+				"하지만 저는 이 책에서 타코나 브리또가 아닌 콩, 옥수수, 아보카도를 이용한 요리들을 보았다."
+			],
+			[
+				9,
+				"옥수수",
+				"NNG",
+				"하지만 저는 이 책에서 타코나 브리또가 아닌 콩, 옥수수, 아보카도를 이용한 요리들을 보았다."
+			],
+			[
+				10,
+				"아보카도",
+				"NNG",
+				"하지만 저는 이 책에서 타코나 브리또가 아닌 콩, 옥수수, 아보카도를 이용한 요리들을 보았다."
+			],
+			[
+				11,
+				"요리",
+				"NNG",
+				"하지만 저는 이 책에서 타코나 브리또가 아닌 콩, 옥수수, 아보카도를 이용한 요리들을 보았다."
+			],
+			[
+				12,
+				"콩",
+				"NNG",
+				"콩은 단백질 음식으로 그들의 건강한 식단에 필요로했다."
+			],
+			[
+				13,
+				"단백질",
+				"NNG",
+				"콩은 단백질 음식으로 그들의 건강한 식단에 필요로했다."
+			],
+			[
+				14,
+				"음식",
+				"NNG",
+				"콩은 단백질 음식으로 그들의 건강한 식단에 필요로했다."
+			],
+			[
+				15,
+				"그",
+				"NP",
+				"콩은 단백질 음식으로 그들의 건강한 식단에 필요로했다."
+			],
+			[
+				16,
+				"식단",
+				"NNG",
+				"콩은 단백질 음식으로 그들의 건강한 식단에 필요로했다."
+			],
+			[
+				17,
+				"필요",
+				"NNG",
+				"콩은 단백질 음식으로 그들의 건강한 식단에 필요로했다."
+			],
+			[
+				18,
+				"옛날",
+				"NNG",
+				"옛날에 주로 콩은 고기류를 잘 먹지 못하는 원주민들이 섭취해왔고 수십가지에 콩을 사용한다."
+			],
+			[
+				19,
+				"콩",
+				"NNG",
+				"옛날에 주로 콩은 고기류를 잘 먹지 못하는 원주민들이 섭취해왔고 수십가지에 콩을 사용한다."
+			],
+			[
+				20,
+				"고기",
+				"NNG",
+				"옛날에 주로 콩은 고기류를 잘 먹지 못하는 원주민들이 섭취해왔고 수십가지에 콩을 사용한다."
+			],
+			[
+				21,
+				"원주민",
+				"NNG",
+				"옛날에 주로 콩은 고기류를 잘 먹지 못하는 원주민들이 섭취해왔고 수십가지에 콩을 사용한다."
+			],
+			[
+				22,
+				"수십",
+				"NR",
+				"옛날에 주로 콩은 고기류를 잘 먹지 못하는 원주민들이 섭취해왔고 수십가지에 콩을 사용한다."
+			],
+			[
+				23,
+				"가지",
+				"NNB",
+				"옛날에 주로 콩은 고기류를 잘 먹지 못하는 원주민들이 섭취해왔고 수십가지에 콩을 사용한다."
+			],
+			[
+				24,
+				"콩",
+				"NNG",
+				"옛날에 주로 콩은 고기류를 잘 먹지 못하는 원주민들이 섭취해왔고 수십가지에 콩을 사용한다."
+			],
+			[
+				25,
+				"요리법",
+				"NNG",
+				"요리법도 다양하다."
+			],
+			[
+				26,
+				"으께",
+				"NNG",
+				"볶고 튀기고 으께고등의 과정들을 섞어서 사용하는데 막상 할려고하면 엄청 많다."
+			],
+			[
+				27,
+				"고등",
+				"NNG",
+				"볶고 튀기고 으께고등의 과정들을 섞어서 사용하는데 막상 할려고하면 엄청 많다."
+			],
+			[
+				28,
+				"과정",
+				"NNG",
+				"볶고 튀기고 으께고등의 과정들을 섞어서 사용하는데 막상 할려고하면 엄청 많다."
+			],
+			[
+				29,
+				"맥시코",
+				"NNP",
+				"맥시코 음식에서 싱겁다고 느낀적이 있나요."
+			],
+			[
+				30,
+				"음식",
+				"NNG",
+				"맥시코 음식에서 싱겁다고 느낀적이 있나요."
+			],
+			[
+				31,
+				"적",
+				"NNB",
+				"맥시코 음식에서 싱겁다고 느낀적이 있나요."
+			],
+			[
+				32,
+				"가지",
+				"NNB",
+				"여러가지 고추를 사용하기 떄문에 싱겁다는 느낌이들지 않을수도있다."
+			],
+			[
+				33,
+				"고추",
+				"NNG",
+				"여러가지 고추를 사용하기 떄문에 싱겁다는 느낌이들지 않을수도있다."
+			],
+			[
+				34,
+				"떄문",
+				"NNG",
+				"여러가지 고추를 사용하기 떄문에 싱겁다는 느낌이들지 않을수도있다."
+			],
+			[
+				35,
+				"느낌",
+				"NNG",
+				"여러가지 고추를 사용하기 떄문에 싱겁다는 느낌이들지 않을수도있다."
+			],
+			[
+				36,
+				"수",
+				"NNB",
+				"여러가지 고추를 사용하기 떄문에 싱겁다는 느낌이들지 않을수도있다."
+			],
+			[
+				37,
+				"마지막",
+				"NNG",
+				"마지막으로 아보카도는 전 세계적으로 인기가많습니다."
+			],
+			[
+				38,
+				"아보카도",
+				"NNP",
+				"마지막으로 아보카도는 전 세계적으로 인기가많습니다."
+			],
+			[
+				39,
+				"전",
+				"NNG",
+				"마지막으로 아보카도는 전 세계적으로 인기가많습니다."
+			],
+			[
+				40,
+				"세계",
+				"NNG",
+				"마지막으로 아보카도는 전 세계적으로 인기가많습니다."
+			],
+			[
+				41,
+				"인기",
+				"NNG",
+				"마지막으로 아보카도는 전 세계적으로 인기가많습니다."
+			],
+			[
+				42,
+				"특유",
+				"NNG",
+				"하지만 특유의 향떄문에 아보카도를 싫어하는 사람도 생각보다 많습니다."
+			],
+			[
+				43,
+				"향떄문",
+				"NNG",
+				"하지만 특유의 향떄문에 아보카도를 싫어하는 사람도 생각보다 많습니다."
+			],
+			[
+				44,
+				"아보카도",
+				"NNG",
+				"하지만 특유의 향떄문에 아보카도를 싫어하는 사람도 생각보다 많습니다."
+			],
+			[
+				45,
+				"사람",
+				"NNG",
+				"하지만 특유의 향떄문에 아보카도를 싫어하는 사람도 생각보다 많습니다."
+			],
+			[
+				46,
+				"생각",
+				"NNG",
+				"하지만 특유의 향떄문에 아보카도를 싫어하는 사람도 생각보다 많습니다."
+			],
+			[
+				47,
+				"지방",
+				"NNG",
+				"지방이 많아 오일로도 뽑아쓰고 그냥 먹거나 다른 음식과 같이먹어도맛있다."
+			],
+			[
+				48,
+				"오일",
+				"NNG",
+				"지방이 많아 오일로도 뽑아쓰고 그냥 먹거나 다른 음식과 같이먹어도맛있다."
+			],
+			[
+				49,
+				"음식",
+				"NNG",
+				"지방이 많아 오일로도 뽑아쓰고 그냥 먹거나 다른 음식과 같이먹어도맛있다."
+			],
+			[
+				50,
+				"아보카",
+				"NNP",
+				"아보카도 요리법중 과카몰레는 아보카도를 으께고 토마토 다른 향신료와 섞어서 치차론 타코등에 올려먹기도 한다."
+			],
+			[
+				51,
+				"요리법",
+				"NNG",
+				"아보카도 요리법중 과카몰레는 아보카도를 으께고 토마토 다른 향신료와 섞어서 치차론 타코등에 올려먹기도 한다."
+			],
+			[
+				52,
+				"중",
+				"NNB",
+				"아보카도 요리법중 과카몰레는 아보카도를 으께고 토마토 다른 향신료와 섞어서 치차론 타코등에 올려먹기도 한다."
+			],
+			[
+				53,
+				"과카몰레",
+				"NNP",
+				"아보카도 요리법중 과카몰레는 아보카도를 으께고 토마토 다른 향신료와 섞어서 치차론 타코등에 올려먹기도 한다."
+			],
+			[
+				54,
+				"아보카도",
+				"NNG",
+				"아보카도 요리법중 과카몰레는 아보카도를 으께고 토마토 다른 향신료와 섞어서 치차론 타코등에 올려먹기도 한다."
+			],
+			[
+				55,
+				"토마토",
+				"NNG",
+				"아보카도 요리법중 과카몰레는 아보카도를 으께고 토마토 다른 향신료와 섞어서 치차론 타코등에 올려먹기도 한다."
+			],
+			[
+				56,
+				"향신료",
+				"NNG",
+				"아보카도 요리법중 과카몰레는 아보카도를 으께고 토마토 다른 향신료와 섞어서 치차론 타코등에 올려먹기도 한다."
+			],
+			[
+				57,
+				"치차",
+				"NNG",
+				"아보카도 요리법중 과카몰레는 아보카도를 으께고 토마토 다른 향신료와 섞어서 치차론 타코등에 올려먹기도 한다."
+			],
+			[
+				58,
+				"타코등",
+				"NNG",
+				"아보카도 요리법중 과카몰레는 아보카도를 으께고 토마토 다른 향신료와 섞어서 치차론 타코등에 올려먹기도 한다."
+			],
+			[
+				59,
+				"전체",
+				"NNG",
+				"전체적으로 보면 지지고 볶는과정을 결합하는것과 음식을 만들때에 향신료를 많이 쓴다는것이 비슷한거같다."
+			],
+			[
+				60,
+				"과정",
+				"NNG",
+				"전체적으로 보면 지지고 볶는과정을 결합하는것과 음식을 만들때에 향신료를 많이 쓴다는것이 비슷한거같다."
+			],
+			[
+				61,
+				"것",
+				"NNB",
+				"전체적으로 보면 지지고 볶는과정을 결합하는것과 음식을 만들때에 향신료를 많이 쓴다는것이 비슷한거같다."
+			],
+			[
+				62,
+				"음식",
+				"NNG",
+				"전체적으로 보면 지지고 볶는과정을 결합하는것과 음식을 만들때에 향신료를 많이 쓴다는것이 비슷한거같다."
+			],
+			[
+				63,
+				"때",
+				"NNG",
+				"전체적으로 보면 지지고 볶는과정을 결합하는것과 음식을 만들때에 향신료를 많이 쓴다는것이 비슷한거같다."
+			],
+			[
+				64,
+				"향신료",
+				"NNG",
+				"전체적으로 보면 지지고 볶는과정을 결합하는것과 음식을 만들때에 향신료를 많이 쓴다는것이 비슷한거같다."
+			],
+			[
+				65,
+				"것",
+				"NNB",
+				"전체적으로 보면 지지고 볶는과정을 결합하는것과 음식을 만들때에 향신료를 많이 쓴다는것이 비슷한거같다."
+			],
+			[
+				66,
+				"거",
+				"NNB",
+				"전체적으로 보면 지지고 볶는과정을 결합하는것과 음식을 만들때에 향신료를 많이 쓴다는것이 비슷한거같다."
+			],
+			[
+				67,
+				"앞",
+				"NNG",
+				"앞으로는 다른 나라의 음식을 보는것도 중요하지만 우리음식이 실린책도 한번 보고 다른 사람에게 알릴수있는 기회가 오면 좋겠다."
+			],
+			[
+				68,
+				"나라",
+				"NNG",
+				"앞으로는 다른 나라의 음식을 보는것도 중요하지만 우리음식이 실린책도 한번 보고 다른 사람에게 알릴수있는 기회가 오면 좋겠다."
+			],
+			[
+				69,
+				"음식",
+				"NNG",
+				"앞으로는 다른 나라의 음식을 보는것도 중요하지만 우리음식이 실린책도 한번 보고 다른 사람에게 알릴수있는 기회가 오면 좋겠다."
+			],
+			[
+				70,
+				"것",
+				"NNB",
+				"앞으로는 다른 나라의 음식을 보는것도 중요하지만 우리음식이 실린책도 한번 보고 다른 사람에게 알릴수있는 기회가 오면 좋겠다."
+			],
+			[
+				71,
+				"우리",
+				"NP",
+				"앞으로는 다른 나라의 음식을 보는것도 중요하지만 우리음식이 실린책도 한번 보고 다른 사람에게 알릴수있는 기회가 오면 좋겠다."
+			],
+			[
+				72,
+				"음식",
+				"NNG",
+				"앞으로는 다른 나라의 음식을 보는것도 중요하지만 우리음식이 실린책도 한번 보고 다른 사람에게 알릴수있는 기회가 오면 좋겠다."
+			],
+			[
+				73,
+				"책",
+				"NNG",
+				"앞으로는 다른 나라의 음식을 보는것도 중요하지만 우리음식이 실린책도 한번 보고 다른 사람에게 알릴수있는 기회가 오면 좋겠다."
+			],
+			[
+				74,
+				"번",
+				"NNB",
+				"앞으로는 다른 나라의 음식을 보는것도 중요하지만 우리음식이 실린책도 한번 보고 다른 사람에게 알릴수있는 기회가 오면 좋겠다."
+			],
+			[
+				75,
+				"사람",
+				"NNG",
+				"앞으로는 다른 나라의 음식을 보는것도 중요하지만 우리음식이 실린책도 한번 보고 다른 사람에게 알릴수있는 기회가 오면 좋겠다."
+			],
+			[
+				76,
+				"수",
+				"NNB",
+				"앞으로는 다른 나라의 음식을 보는것도 중요하지만 우리음식이 실린책도 한번 보고 다른 사람에게 알릴수있는 기회가 오면 좋겠다."
+			],
+			[
+				77,
+				"기회",
+				"NNG",
+				"앞으로는 다른 나라의 음식을 보는것도 중요하지만 우리음식이 실린책도 한번 보고 다른 사람에게 알릴수있는 기회가 오면 좋겠다."
+			]
+		],
+		"NN_Lst": [
+			[
+				0,
+				"요리",
+				"NNG",
+				"맥시코 요리하면 어떤 요리가 생각나시나요?"
+			],
+			[
+				1,
+				"타코나",
+				"NNG",
+				"주로 타코나 브리또가 생각나실겁니다."
+			],
+			[
+				2,
+				"브리또",
+				"NNP",
+				"주로 타코나 브리또가 생각나실겁니다."
+			],
+			[
+				3,
+				"거",
+				"NNB",
+				"주로 타코나 브리또가 생각나실겁니다."
+			],
+			[
+				4,
+				"책",
+				"NNG",
+				"하지만 저는 이 책에서 타코나 브리또가 아닌 콩, 옥수수, 아보카도를 이용한 요리들을 보았다."
+			],
+			[
+				5,
+				"타코",
+				"NNG",
+				"하지만 저는 이 책에서 타코나 브리또가 아닌 콩, 옥수수, 아보카도를 이용한 요리들을 보았다."
+			],
+			[
+				6,
+				"브리또",
+				"NNP",
+				"하지만 저는 이 책에서 타코나 브리또가 아닌 콩, 옥수수, 아보카도를 이용한 요리들을 보았다."
+			],
+			[
+				7,
+				"콩",
+				"NNG",
+				"하지만 저는 이 책에서 타코나 브리또가 아닌 콩, 옥수수, 아보카도를 이용한 요리들을 보았다."
+			],
+			[
+				8,
+				"옥수수",
+				"NNG",
+				"하지만 저는 이 책에서 타코나 브리또가 아닌 콩, 옥수수, 아보카도를 이용한 요리들을 보았다."
+			],
+			[
+				9,
+				"아보카도",
+				"NNG",
+				"하지만 저는 이 책에서 타코나 브리또가 아닌 콩, 옥수수, 아보카도를 이용한 요리들을 보았다."
+			],
+			[
+				10,
+				"요리",
+				"NNG",
+				"하지만 저는 이 책에서 타코나 브리또가 아닌 콩, 옥수수, 아보카도를 이용한 요리들을 보았다."
+			],
+			[
+				11,
+				"콩",
+				"NNG",
+				"콩은 단백질 음식으로 그들의 건강한 식단에 필요로했다."
+			],
+			[
+				12,
+				"단백질",
+				"NNG",
+				"콩은 단백질 음식으로 그들의 건강한 식단에 필요로했다."
+			],
+			[
+				13,
+				"음식",
+				"NNG",
+				"콩은 단백질 음식으로 그들의 건강한 식단에 필요로했다."
+			],
+			[
+				14,
+				"식단",
+				"NNG",
+				"콩은 단백질 음식으로 그들의 건강한 식단에 필요로했다."
+			],
+			[
+				15,
+				"필요",
+				"NNG",
+				"콩은 단백질 음식으로 그들의 건강한 식단에 필요로했다."
+			],
+			[
+				16,
+				"옛날",
+				"NNG",
+				"옛날에 주로 콩은 고기류를 잘 먹지 못하는 원주민들이 섭취해왔고 수십가지에 콩을 사용한다."
+			],
+			[
+				17,
+				"콩",
+				"NNG",
+				"옛날에 주로 콩은 고기류를 잘 먹지 못하는 원주민들이 섭취해왔고 수십가지에 콩을 사용한다."
+			],
+			[
+				18,
+				"고기",
+				"NNG",
+				"옛날에 주로 콩은 고기류를 잘 먹지 못하는 원주민들이 섭취해왔고 수십가지에 콩을 사용한다."
+			],
+			[
+				19,
+				"원주민",
+				"NNG",
+				"옛날에 주로 콩은 고기류를 잘 먹지 못하는 원주민들이 섭취해왔고 수십가지에 콩을 사용한다."
+			],
+			[
+				20,
+				"가지",
+				"NNB",
+				"옛날에 주로 콩은 고기류를 잘 먹지 못하는 원주민들이 섭취해왔고 수십가지에 콩을 사용한다."
+			],
+			[
+				21,
+				"콩",
+				"NNG",
+				"옛날에 주로 콩은 고기류를 잘 먹지 못하는 원주민들이 섭취해왔고 수십가지에 콩을 사용한다."
+			],
+			[
+				22,
+				"요리법",
+				"NNG",
+				"요리법도 다양하다."
+			],
+			[
+				23,
+				"으께",
+				"NNG",
+				"볶고 튀기고 으께고등의 과정들을 섞어서 사용하는데 막상 할려고하면 엄청 많다."
+			],
+			[
+				24,
+				"고등",
+				"NNG",
+				"볶고 튀기고 으께고등의 과정들을 섞어서 사용하는데 막상 할려고하면 엄청 많다."
+			],
+			[
+				25,
+				"과정",
+				"NNG",
+				"볶고 튀기고 으께고등의 과정들을 섞어서 사용하는데 막상 할려고하면 엄청 많다."
+			],
+			[
+				26,
+				"맥시코",
+				"NNP",
+				"맥시코 음식에서 싱겁다고 느낀적이 있나요."
+			],
+			[
+				27,
+				"음식",
+				"NNG",
+				"맥시코 음식에서 싱겁다고 느낀적이 있나요."
+			],
+			[
+				28,
+				"적",
+				"NNB",
+				"맥시코 음식에서 싱겁다고 느낀적이 있나요."
+			],
+			[
+				29,
+				"가지",
+				"NNB",
+				"여러가지 고추를 사용하기 떄문에 싱겁다는 느낌이들지 않을수도있다."
+			],
+			[
+				30,
+				"고추",
+				"NNG",
+				"여러가지 고추를 사용하기 떄문에 싱겁다는 느낌이들지 않을수도있다."
+			],
+			[
+				31,
+				"떄문",
+				"NNG",
+				"여러가지 고추를 사용하기 떄문에 싱겁다는 느낌이들지 않을수도있다."
+			],
+			[
+				32,
+				"느낌",
+				"NNG",
+				"여러가지 고추를 사용하기 떄문에 싱겁다는 느낌이들지 않을수도있다."
+			],
+			[
+				33,
+				"수",
+				"NNB",
+				"여러가지 고추를 사용하기 떄문에 싱겁다는 느낌이들지 않을수도있다."
+			],
+			[
+				34,
+				"마지막",
+				"NNG",
+				"마지막으로 아보카도는 전 세계적으로 인기가많습니다."
+			],
+			[
+				35,
+				"아보카도",
+				"NNP",
+				"마지막으로 아보카도는 전 세계적으로 인기가많습니다."
+			],
+			[
+				36,
+				"전",
+				"NNG",
+				"마지막으로 아보카도는 전 세계적으로 인기가많습니다."
+			],
+			[
+				37,
+				"세계",
+				"NNG",
+				"마지막으로 아보카도는 전 세계적으로 인기가많습니다."
+			],
+			[
+				38,
+				"인기",
+				"NNG",
+				"마지막으로 아보카도는 전 세계적으로 인기가많습니다."
+			],
+			[
+				39,
+				"특유",
+				"NNG",
+				"하지만 특유의 향떄문에 아보카도를 싫어하는 사람도 생각보다 많습니다."
+			],
+			[
+				40,
+				"향떄문",
+				"NNG",
+				"하지만 특유의 향떄문에 아보카도를 싫어하는 사람도 생각보다 많습니다."
+			],
+			[
+				41,
+				"아보카도",
+				"NNG",
+				"하지만 특유의 향떄문에 아보카도를 싫어하는 사람도 생각보다 많습니다."
+			],
+			[
+				42,
+				"사람",
+				"NNG",
+				"하지만 특유의 향떄문에 아보카도를 싫어하는 사람도 생각보다 많습니다."
+			],
+			[
+				43,
+				"생각",
+				"NNG",
+				"하지만 특유의 향떄문에 아보카도를 싫어하는 사람도 생각보다 많습니다."
+			],
+			[
+				44,
+				"지방",
+				"NNG",
+				"지방이 많아 오일로도 뽑아쓰고 그냥 먹거나 다른 음식과 같이먹어도맛있다."
+			],
+			[
+				45,
+				"오일",
+				"NNG",
+				"지방이 많아 오일로도 뽑아쓰고 그냥 먹거나 다른 음식과 같이먹어도맛있다."
+			],
+			[
+				46,
+				"음식",
+				"NNG",
+				"지방이 많아 오일로도 뽑아쓰고 그냥 먹거나 다른 음식과 같이먹어도맛있다."
+			],
+			[
+				47,
+				"아보카",
+				"NNP",
+				"아보카도 요리법중 과카몰레는 아보카도를 으께고 토마토 다른 향신료와 섞어서 치차론 타코등에 올려먹기도 한다."
+			],
+			[
+				48,
+				"요리법",
+				"NNG",
+				"아보카도 요리법중 과카몰레는 아보카도를 으께고 토마토 다른 향신료와 섞어서 치차론 타코등에 올려먹기도 한다."
+			],
+			[
+				49,
+				"중",
+				"NNB",
+				"아보카도 요리법중 과카몰레는 아보카도를 으께고 토마토 다른 향신료와 섞어서 치차론 타코등에 올려먹기도 한다."
+			],
+			[
+				50,
+				"과카몰레",
+				"NNP",
+				"아보카도 요리법중 과카몰레는 아보카도를 으께고 토마토 다른 향신료와 섞어서 치차론 타코등에 올려먹기도 한다."
+			],
+			[
+				51,
+				"아보카도",
+				"NNG",
+				"아보카도 요리법중 과카몰레는 아보카도를 으께고 토마토 다른 향신료와 섞어서 치차론 타코등에 올려먹기도 한다."
+			],
+			[
+				52,
+				"토마토",
+				"NNG",
+				"아보카도 요리법중 과카몰레는 아보카도를 으께고 토마토 다른 향신료와 섞어서 치차론 타코등에 올려먹기도 한다."
+			],
+			[
+				53,
+				"향신료",
+				"NNG",
+				"아보카도 요리법중 과카몰레는 아보카도를 으께고 토마토 다른 향신료와 섞어서 치차론 타코등에 올려먹기도 한다."
+			],
+			[
+				54,
+				"치차",
+				"NNG",
+				"아보카도 요리법중 과카몰레는 아보카도를 으께고 토마토 다른 향신료와 섞어서 치차론 타코등에 올려먹기도 한다."
+			],
+			[
+				55,
+				"타코등",
+				"NNG",
+				"아보카도 요리법중 과카몰레는 아보카도를 으께고 토마토 다른 향신료와 섞어서 치차론 타코등에 올려먹기도 한다."
+			],
+			[
+				56,
+				"전체",
+				"NNG",
+				"전체적으로 보면 지지고 볶는과정을 결합하는것과 음식을 만들때에 향신료를 많이 쓴다는것이 비슷한거같다."
+			],
+			[
+				57,
+				"과정",
+				"NNG",
+				"전체적으로 보면 지지고 볶는과정을 결합하는것과 음식을 만들때에 향신료를 많이 쓴다는것이 비슷한거같다."
+			],
+			[
+				58,
+				"것",
+				"NNB",
+				"전체적으로 보면 지지고 볶는과정을 결합하는것과 음식을 만들때에 향신료를 많이 쓴다는것이 비슷한거같다."
+			],
+			[
+				59,
+				"음식",
+				"NNG",
+				"전체적으로 보면 지지고 볶는과정을 결합하는것과 음식을 만들때에 향신료를 많이 쓴다는것이 비슷한거같다."
+			],
+			[
+				60,
+				"때",
+				"NNG",
+				"전체적으로 보면 지지고 볶는과정을 결합하는것과 음식을 만들때에 향신료를 많이 쓴다는것이 비슷한거같다."
+			],
+			[
+				61,
+				"향신료",
+				"NNG",
+				"전체적으로 보면 지지고 볶는과정을 결합하는것과 음식을 만들때에 향신료를 많이 쓴다는것이 비슷한거같다."
+			],
+			[
+				62,
+				"것",
+				"NNB",
+				"전체적으로 보면 지지고 볶는과정을 결합하는것과 음식을 만들때에 향신료를 많이 쓴다는것이 비슷한거같다."
+			],
+			[
+				63,
+				"거",
+				"NNB",
+				"전체적으로 보면 지지고 볶는과정을 결합하는것과 음식을 만들때에 향신료를 많이 쓴다는것이 비슷한거같다."
+			],
+			[
+				64,
+				"앞",
+				"NNG",
+				"앞으로는 다른 나라의 음식을 보는것도 중요하지만 우리음식이 실린책도 한번 보고 다른 사람에게 알릴수있는 기회가 오면 좋겠다."
+			],
+			[
+				65,
+				"나라",
+				"NNG",
+				"앞으로는 다른 나라의 음식을 보는것도 중요하지만 우리음식이 실린책도 한번 보고 다른 사람에게 알릴수있는 기회가 오면 좋겠다."
+			],
+			[
+				66,
+				"음식",
+				"NNG",
+				"앞으로는 다른 나라의 음식을 보는것도 중요하지만 우리음식이 실린책도 한번 보고 다른 사람에게 알릴수있는 기회가 오면 좋겠다."
+			],
+			[
+				67,
+				"것",
+				"NNB",
+				"앞으로는 다른 나라의 음식을 보는것도 중요하지만 우리음식이 실린책도 한번 보고 다른 사람에게 알릴수있는 기회가 오면 좋겠다."
+			],
+			[
+				68,
+				"음식",
+				"NNG",
+				"앞으로는 다른 나라의 음식을 보는것도 중요하지만 우리음식이 실린책도 한번 보고 다른 사람에게 알릴수있는 기회가 오면 좋겠다."
+			],
+			[
+				69,
+				"책",
+				"NNG",
+				"앞으로는 다른 나라의 음식을 보는것도 중요하지만 우리음식이 실린책도 한번 보고 다른 사람에게 알릴수있는 기회가 오면 좋겠다."
+			],
+			[
+				70,
+				"번",
+				"NNB",
+				"앞으로는 다른 나라의 음식을 보는것도 중요하지만 우리음식이 실린책도 한번 보고 다른 사람에게 알릴수있는 기회가 오면 좋겠다."
+			],
+			[
+				71,
+				"사람",
+				"NNG",
+				"앞으로는 다른 나라의 음식을 보는것도 중요하지만 우리음식이 실린책도 한번 보고 다른 사람에게 알릴수있는 기회가 오면 좋겠다."
+			],
+			[
+				72,
+				"수",
+				"NNB",
+				"앞으로는 다른 나라의 음식을 보는것도 중요하지만 우리음식이 실린책도 한번 보고 다른 사람에게 알릴수있는 기회가 오면 좋겠다."
+			],
+			[
+				73,
+				"기회",
+				"NNG",
+				"앞으로는 다른 나라의 음식을 보는것도 중요하지만 우리음식이 실린책도 한번 보고 다른 사람에게 알릴수있는 기회가 오면 좋겠다."
+			]
+		],
+		"NNG_Lst": [
+			[
+				0,
+				"요리",
+				"NNG",
+				"맥시코 요리하면 어떤 요리가 생각나시나요?"
+			],
+			[
+				1,
+				"타코나",
+				"NNG",
+				"주로 타코나 브리또가 생각나실겁니다."
+			],
+			[
+				2,
+				"책",
+				"NNG",
+				"하지만 저는 이 책에서 타코나 브리또가 아닌 콩, 옥수수, 아보카도를 이용한 요리들을 보았다."
+			],
+			[
+				3,
+				"타코",
+				"NNG",
+				"하지만 저는 이 책에서 타코나 브리또가 아닌 콩, 옥수수, 아보카도를 이용한 요리들을 보았다."
+			],
+			[
+				4,
+				"콩",
+				"NNG",
+				"하지만 저는 이 책에서 타코나 브리또가 아닌 콩, 옥수수, 아보카도를 이용한 요리들을 보았다."
+			],
+			[
+				5,
+				"옥수수",
+				"NNG",
+				"하지만 저는 이 책에서 타코나 브리또가 아닌 콩, 옥수수, 아보카도를 이용한 요리들을 보았다."
+			],
+			[
+				6,
+				"아보카도",
+				"NNG",
+				"하지만 저는 이 책에서 타코나 브리또가 아닌 콩, 옥수수, 아보카도를 이용한 요리들을 보았다."
+			],
+			[
+				7,
+				"요리",
+				"NNG",
+				"하지만 저는 이 책에서 타코나 브리또가 아닌 콩, 옥수수, 아보카도를 이용한 요리들을 보았다."
+			],
+			[
+				8,
+				"콩",
+				"NNG",
+				"콩은 단백질 음식으로 그들의 건강한 식단에 필요로했다."
+			],
+			[
+				9,
+				"단백질",
+				"NNG",
+				"콩은 단백질 음식으로 그들의 건강한 식단에 필요로했다."
+			],
+			[
+				10,
+				"음식",
+				"NNG",
+				"콩은 단백질 음식으로 그들의 건강한 식단에 필요로했다."
+			],
+			[
+				11,
+				"식단",
+				"NNG",
+				"콩은 단백질 음식으로 그들의 건강한 식단에 필요로했다."
+			],
+			[
+				12,
+				"필요",
+				"NNG",
+				"콩은 단백질 음식으로 그들의 건강한 식단에 필요로했다."
+			],
+			[
+				13,
+				"옛날",
+				"NNG",
+				"옛날에 주로 콩은 고기류를 잘 먹지 못하는 원주민들이 섭취해왔고 수십가지에 콩을 사용한다."
+			],
+			[
+				14,
+				"콩",
+				"NNG",
+				"옛날에 주로 콩은 고기류를 잘 먹지 못하는 원주민들이 섭취해왔고 수십가지에 콩을 사용한다."
+			],
+			[
+				15,
+				"고기",
+				"NNG",
+				"옛날에 주로 콩은 고기류를 잘 먹지 못하는 원주민들이 섭취해왔고 수십가지에 콩을 사용한다."
+			],
+			[
+				16,
+				"원주민",
+				"NNG",
+				"옛날에 주로 콩은 고기류를 잘 먹지 못하는 원주민들이 섭취해왔고 수십가지에 콩을 사용한다."
+			],
+			[
+				17,
+				"콩",
+				"NNG",
+				"옛날에 주로 콩은 고기류를 잘 먹지 못하는 원주민들이 섭취해왔고 수십가지에 콩을 사용한다."
+			],
+			[
+				18,
+				"요리법",
+				"NNG",
+				"요리법도 다양하다."
+			],
+			[
+				19,
+				"으께",
+				"NNG",
+				"볶고 튀기고 으께고등의 과정들을 섞어서 사용하는데 막상 할려고하면 엄청 많다."
+			],
+			[
+				20,
+				"고등",
+				"NNG",
+				"볶고 튀기고 으께고등의 과정들을 섞어서 사용하는데 막상 할려고하면 엄청 많다."
+			],
+			[
+				21,
+				"과정",
+				"NNG",
+				"볶고 튀기고 으께고등의 과정들을 섞어서 사용하는데 막상 할려고하면 엄청 많다."
+			],
+			[
+				22,
+				"음식",
+				"NNG",
+				"맥시코 음식에서 싱겁다고 느낀적이 있나요."
+			],
+			[
+				23,
+				"고추",
+				"NNG",
+				"여러가지 고추를 사용하기 떄문에 싱겁다는 느낌이들지 않을수도있다."
+			],
+			[
+				24,
+				"떄문",
+				"NNG",
+				"여러가지 고추를 사용하기 떄문에 싱겁다는 느낌이들지 않을수도있다."
+			],
+			[
+				25,
+				"느낌",
+				"NNG",
+				"여러가지 고추를 사용하기 떄문에 싱겁다는 느낌이들지 않을수도있다."
+			],
+			[
+				26,
+				"마지막",
+				"NNG",
+				"마지막으로 아보카도는 전 세계적으로 인기가많습니다."
+			],
+			[
+				27,
+				"전",
+				"NNG",
+				"마지막으로 아보카도는 전 세계적으로 인기가많습니다."
+			],
+			[
+				28,
+				"세계",
+				"NNG",
+				"마지막으로 아보카도는 전 세계적으로 인기가많습니다."
+			],
+			[
+				29,
+				"인기",
+				"NNG",
+				"마지막으로 아보카도는 전 세계적으로 인기가많습니다."
+			],
+			[
+				30,
+				"특유",
+				"NNG",
+				"하지만 특유의 향떄문에 아보카도를 싫어하는 사람도 생각보다 많습니다."
+			],
+			[
+				31,
+				"향떄문",
+				"NNG",
+				"하지만 특유의 향떄문에 아보카도를 싫어하는 사람도 생각보다 많습니다."
+			],
+			[
+				32,
+				"아보카도",
+				"NNG",
+				"하지만 특유의 향떄문에 아보카도를 싫어하는 사람도 생각보다 많습니다."
+			],
+			[
+				33,
+				"사람",
+				"NNG",
+				"하지만 특유의 향떄문에 아보카도를 싫어하는 사람도 생각보다 많습니다."
+			],
+			[
+				34,
+				"생각",
+				"NNG",
+				"하지만 특유의 향떄문에 아보카도를 싫어하는 사람도 생각보다 많습니다."
+			],
+			[
+				35,
+				"지방",
+				"NNG",
+				"지방이 많아 오일로도 뽑아쓰고 그냥 먹거나 다른 음식과 같이먹어도맛있다."
+			],
+			[
+				36,
+				"오일",
+				"NNG",
+				"지방이 많아 오일로도 뽑아쓰고 그냥 먹거나 다른 음식과 같이먹어도맛있다."
+			],
+			[
+				37,
+				"음식",
+				"NNG",
+				"지방이 많아 오일로도 뽑아쓰고 그냥 먹거나 다른 음식과 같이먹어도맛있다."
+			],
+			[
+				38,
+				"요리법",
+				"NNG",
+				"아보카도 요리법중 과카몰레는 아보카도를 으께고 토마토 다른 향신료와 섞어서 치차론 타코등에 올려먹기도 한다."
+			],
+			[
+				39,
+				"아보카도",
+				"NNG",
+				"아보카도 요리법중 과카몰레는 아보카도를 으께고 토마토 다른 향신료와 섞어서 치차론 타코등에 올려먹기도 한다."
+			],
+			[
+				40,
+				"토마토",
+				"NNG",
+				"아보카도 요리법중 과카몰레는 아보카도를 으께고 토마토 다른 향신료와 섞어서 치차론 타코등에 올려먹기도 한다."
+			],
+			[
+				41,
+				"향신료",
+				"NNG",
+				"아보카도 요리법중 과카몰레는 아보카도를 으께고 토마토 다른 향신료와 섞어서 치차론 타코등에 올려먹기도 한다."
+			],
+			[
+				42,
+				"치차",
+				"NNG",
+				"아보카도 요리법중 과카몰레는 아보카도를 으께고 토마토 다른 향신료와 섞어서 치차론 타코등에 올려먹기도 한다."
+			],
+			[
+				43,
+				"타코등",
+				"NNG",
+				"아보카도 요리법중 과카몰레는 아보카도를 으께고 토마토 다른 향신료와 섞어서 치차론 타코등에 올려먹기도 한다."
+			],
+			[
+				44,
+				"전체",
+				"NNG",
+				"전체적으로 보면 지지고 볶는과정을 결합하는것과 음식을 만들때에 향신료를 많이 쓴다는것이 비슷한거같다."
+			],
+			[
+				45,
+				"과정",
+				"NNG",
+				"전체적으로 보면 지지고 볶는과정을 결합하는것과 음식을 만들때에 향신료를 많이 쓴다는것이 비슷한거같다."
+			],
+			[
+				46,
+				"음식",
+				"NNG",
+				"전체적으로 보면 지지고 볶는과정을 결합하는것과 음식을 만들때에 향신료를 많이 쓴다는것이 비슷한거같다."
+			],
+			[
+				47,
+				"때",
+				"NNG",
+				"전체적으로 보면 지지고 볶는과정을 결합하는것과 음식을 만들때에 향신료를 많이 쓴다는것이 비슷한거같다."
+			],
+			[
+				48,
+				"향신료",
+				"NNG",
+				"전체적으로 보면 지지고 볶는과정을 결합하는것과 음식을 만들때에 향신료를 많이 쓴다는것이 비슷한거같다."
+			],
+			[
+				49,
+				"앞",
+				"NNG",
+				"앞으로는 다른 나라의 음식을 보는것도 중요하지만 우리음식이 실린책도 한번 보고 다른 사람에게 알릴수있는 기회가 오면 좋겠다."
+			],
+			[
+				50,
+				"나라",
+				"NNG",
+				"앞으로는 다른 나라의 음식을 보는것도 중요하지만 우리음식이 실린책도 한번 보고 다른 사람에게 알릴수있는 기회가 오면 좋겠다."
+			],
+			[
+				51,
+				"음식",
+				"NNG",
+				"앞으로는 다른 나라의 음식을 보는것도 중요하지만 우리음식이 실린책도 한번 보고 다른 사람에게 알릴수있는 기회가 오면 좋겠다."
+			],
+			[
+				52,
+				"음식",
+				"NNG",
+				"앞으로는 다른 나라의 음식을 보는것도 중요하지만 우리음식이 실린책도 한번 보고 다른 사람에게 알릴수있는 기회가 오면 좋겠다."
+			],
+			[
+				53,
+				"책",
+				"NNG",
+				"앞으로는 다른 나라의 음식을 보는것도 중요하지만 우리음식이 실린책도 한번 보고 다른 사람에게 알릴수있는 기회가 오면 좋겠다."
+			],
+			[
+				54,
+				"사람",
+				"NNG",
+				"앞으로는 다른 나라의 음식을 보는것도 중요하지만 우리음식이 실린책도 한번 보고 다른 사람에게 알릴수있는 기회가 오면 좋겠다."
+			],
+			[
+				55,
+				"기회",
+				"NNG",
+				"앞으로는 다른 나라의 음식을 보는것도 중요하지만 우리음식이 실린책도 한번 보고 다른 사람에게 알릴수있는 기회가 오면 좋겠다."
+			]
+		],
+		"NNP_Lst": [
+			[
+				0,
+				"브리또",
+				"NNP",
+				"주로 타코나 브리또가 생각나실겁니다."
+			],
+			[
+				1,
+				"브리또",
+				"NNP",
+				"하지만 저는 이 책에서 타코나 브리또가 아닌 콩, 옥수수, 아보카도를 이용한 요리들을 보았다."
+			],
+			[
+				2,
+				"맥시코",
+				"NNP",
+				"맥시코 음식에서 싱겁다고 느낀적이 있나요."
+			],
+			[
+				3,
+				"아보카도",
+				"NNP",
+				"마지막으로 아보카도는 전 세계적으로 인기가많습니다."
+			],
+			[
+				4,
+				"아보카",
+				"NNP",
+				"아보카도 요리법중 과카몰레는 아보카도를 으께고 토마토 다른 향신료와 섞어서 치차론 타코등에 올려먹기도 한다."
+			],
+			[
+				5,
+				"과카몰레",
+				"NNP",
+				"아보카도 요리법중 과카몰레는 아보카도를 으께고 토마토 다른 향신료와 섞어서 치차론 타코등에 올려먹기도 한다."
+			]
+		],
+		"NNB_Lst": [
+			[
+				0,
+				"거",
+				"NNB",
+				"주로 타코나 브리또가 생각나실겁니다."
+			],
+			[
+				1,
+				"가지",
+				"NNB",
+				"옛날에 주로 콩은 고기류를 잘 먹지 못하는 원주민들이 섭취해왔고 수십가지에 콩을 사용한다."
+			],
+			[
+				2,
+				"적",
+				"NNB",
+				"맥시코 음식에서 싱겁다고 느낀적이 있나요."
+			],
+			[
+				3,
+				"가지",
+				"NNB",
+				"여러가지 고추를 사용하기 떄문에 싱겁다는 느낌이들지 않을수도있다."
+			],
+			[
+				4,
+				"수",
+				"NNB",
+				"여러가지 고추를 사용하기 떄문에 싱겁다는 느낌이들지 않을수도있다."
+			],
+			[
+				5,
+				"중",
+				"NNB",
+				"아보카도 요리법중 과카몰레는 아보카도를 으께고 토마토 다른 향신료와 섞어서 치차론 타코등에 올려먹기도 한다."
+			],
+			[
+				6,
+				"것",
+				"NNB",
+				"전체적으로 보면 지지고 볶는과정을 결합하는것과 음식을 만들때에 향신료를 많이 쓴다는것이 비슷한거같다."
+			],
+			[
+				7,
+				"것",
+				"NNB",
+				"전체적으로 보면 지지고 볶는과정을 결합하는것과 음식을 만들때에 향신료를 많이 쓴다는것이 비슷한거같다."
+			],
+			[
+				8,
+				"거",
+				"NNB",
+				"전체적으로 보면 지지고 볶는과정을 결합하는것과 음식을 만들때에 향신료를 많이 쓴다는것이 비슷한거같다."
+			],
+			[
+				9,
+				"것",
+				"NNB",
+				"앞으로는 다른 나라의 음식을 보는것도 중요하지만 우리음식이 실린책도 한번 보고 다른 사람에게 알릴수있는 기회가 오면 좋겠다."
+			],
+			[
+				10,
+				"번",
+				"NNB",
+				"앞으로는 다른 나라의 음식을 보는것도 중요하지만 우리음식이 실린책도 한번 보고 다른 사람에게 알릴수있는 기회가 오면 좋겠다."
+			],
+			[
+				11,
+				"수",
+				"NNB",
+				"앞으로는 다른 나라의 음식을 보는것도 중요하지만 우리음식이 실린책도 한번 보고 다른 사람에게 알릴수있는 기회가 오면 좋겠다."
+			]
+		],
+		"NP_Lst": [
+			[
+				0,
+				"저",
+				"NP",
+				"하지만 저는 이 책에서 타코나 브리또가 아닌 콩, 옥수수, 아보카도를 이용한 요리들을 보았다."
+			],
+			[
+				1,
+				"그",
+				"NP",
+				"콩은 단백질 음식으로 그들의 건강한 식단에 필요로했다."
+			],
+			[
+				2,
+				"우리",
+				"NP",
+				"앞으로는 다른 나라의 음식을 보는것도 중요하지만 우리음식이 실린책도 한번 보고 다른 사람에게 알릴수있는 기회가 오면 좋겠다."
+			]
+		],
+		"NP_People_Lst": [
+			[
+				0,
+				"저",
+				"NP",
+				"하지만 저는 이 책에서 타코나 브리또가 아닌 콩, 옥수수, 아보카도를 이용한 요리들을 보았다."
+			],
+			[
+				1,
+				"그",
+				"NP",
+				"콩은 단백질 음식으로 그들의 건강한 식단에 필요로했다."
+			],
+			[
+				2,
+				"우리",
+				"NP",
+				"앞으로는 다른 나라의 음식을 보는것도 중요하지만 우리음식이 실린책도 한번 보고 다른 사람에게 알릴수있는 기회가 오면 좋겠다."
+			]
+		],
+		"NP_Things_Lst": [],
+		"NR_Lst": [
+			[
+				0,
+				"수십",
+				"NR",
+				"옛날에 주로 콩은 고기류를 잘 먹지 못하는 원주민들이 섭취해왔고 수십가지에 콩을 사용한다."
+			]
+		],
+		"VL_Lst": [
+			[
+				0,
+				"요리하",
+				"VV",
+				"맥시코 요리하면 어떤 요리가 생각나시나요?"
+			],
+			[
+				1,
+				"생각나",
+				"VV",
+				"맥시코 요리하면 어떤 요리가 생각나시나요?"
+			],
+			[
+				2,
+				"생각나",
+				"VV",
+				"주로 타코나 브리또가 생각나실겁니다."
+			],
+			[
+				3,
+				"이",
+				"VCP",
+				"주로 타코나 브리또가 생각나실겁니다."
+			],
+			[
+				4,
+				"아니",
+				"VCN",
+				"하지만 저는 이 책에서 타코나 브리또가 아닌 콩, 옥수수, 아보카도를 이용한 요리들을 보았다."
+			],
+			[
+				5,
+				"이용하",
+				"VV",
+				"하지만 저는 이 책에서 타코나 브리또가 아닌 콩, 옥수수, 아보카도를 이용한 요리들을 보았다."
+			],
+			[
+				6,
+				"보",
+				"VV",
+				"하지만 저는 이 책에서 타코나 브리또가 아닌 콩, 옥수수, 아보카도를 이용한 요리들을 보았다."
+			],
+			[
+				7,
+				"건강하",
+				"VA",
+				"콩은 단백질 음식으로 그들의 건강한 식단에 필요로했다."
+			],
+			[
+				8,
+				"먹",
+				"VV",
+				"옛날에 주로 콩은 고기류를 잘 먹지 못하는 원주민들이 섭취해왔고 수십가지에 콩을 사용한다."
+			],
+			[
+				9,
+				"못하",
+				"VX",
+				"옛날에 주로 콩은 고기류를 잘 먹지 못하는 원주민들이 섭취해왔고 수십가지에 콩을 사용한다."
+			],
+			[
+				10,
+				"섭취하",
+				"VV",
+				"옛날에 주로 콩은 고기류를 잘 먹지 못하는 원주민들이 섭취해왔고 수십가지에 콩을 사용한다."
+			],
+			[
+				11,
+				"오",
+				"VX",
+				"옛날에 주로 콩은 고기류를 잘 먹지 못하는 원주민들이 섭취해왔고 수십가지에 콩을 사용한다."
+			],
+			[
+				12,
+				"사용하",
+				"VV",
+				"옛날에 주로 콩은 고기류를 잘 먹지 못하는 원주민들이 섭취해왔고 수십가지에 콩을 사용한다."
+			],
+			[
+				13,
+				"다양하",
+				"VA",
+				"요리법도 다양하다."
+			],
+			[
+				14,
+				"볶",
+				"VV",
+				"볶고 튀기고 으께고등의 과정들을 섞어서 사용하는데 막상 할려고하면 엄청 많다."
+			],
+			[
+				15,
+				"튀기",
+				"VV",
+				"볶고 튀기고 으께고등의 과정들을 섞어서 사용하는데 막상 할려고하면 엄청 많다."
+			],
+			[
+				16,
+				"섞",
+				"VV",
+				"볶고 튀기고 으께고등의 과정들을 섞어서 사용하는데 막상 할려고하면 엄청 많다."
+			],
+			[
+				17,
+				"사용하",
+				"VV",
+				"볶고 튀기고 으께고등의 과정들을 섞어서 사용하는데 막상 할려고하면 엄청 많다."
+			],
+			[
+				18,
+				"하",
+				"VV",
+				"볶고 튀기고 으께고등의 과정들을 섞어서 사용하는데 막상 할려고하면 엄청 많다."
+			],
+			[
+				19,
+				"하",
+				"VX",
+				"볶고 튀기고 으께고등의 과정들을 섞어서 사용하는데 막상 할려고하면 엄청 많다."
+			],
+			[
+				20,
+				"많",
+				"VA",
+				"볶고 튀기고 으께고등의 과정들을 섞어서 사용하는데 막상 할려고하면 엄청 많다."
+			],
+			[
+				21,
+				"싱겁",
+				"VA",
+				"맥시코 음식에서 싱겁다고 느낀적이 있나요."
+			],
+			[
+				22,
+				"느끼",
+				"VV",
+				"맥시코 음식에서 싱겁다고 느낀적이 있나요."
+			],
+			[
+				23,
+				"있",
+				"VA",
+				"맥시코 음식에서 싱겁다고 느낀적이 있나요."
+			],
+			[
+				24,
+				"사용하",
+				"VV",
+				"여러가지 고추를 사용하기 떄문에 싱겁다는 느낌이들지 않을수도있다."
+			],
+			[
+				25,
+				"싱겁",
+				"VA",
+				"여러가지 고추를 사용하기 떄문에 싱겁다는 느낌이들지 않을수도있다."
+			],
+			[
+				26,
+				"들",
+				"VV",
+				"여러가지 고추를 사용하기 떄문에 싱겁다는 느낌이들지 않을수도있다."
+			],
+			[
+				27,
+				"않",
+				"VX",
+				"여러가지 고추를 사용하기 떄문에 싱겁다는 느낌이들지 않을수도있다."
+			],
+			[
+				28,
+				"있",
+				"VA",
+				"여러가지 고추를 사용하기 떄문에 싱겁다는 느낌이들지 않을수도있다."
+			],
+			[
+				29,
+				"많",
+				"VA",
+				"마지막으로 아보카도는 전 세계적으로 인기가많습니다."
+			],
+			[
+				30,
+				"싫어하",
+				"VV",
+				"하지만 특유의 향떄문에 아보카도를 싫어하는 사람도 생각보다 많습니다."
+			],
+			[
+				31,
+				"많",
+				"VA",
+				"하지만 특유의 향떄문에 아보카도를 싫어하는 사람도 생각보다 많습니다."
+			],
+			[
+				32,
+				"많",
+				"VA",
+				"지방이 많아 오일로도 뽑아쓰고 그냥 먹거나 다른 음식과 같이먹어도맛있다."
+			],
+			[
+				33,
+				"뽑아쓰",
+				"VA",
+				"지방이 많아 오일로도 뽑아쓰고 그냥 먹거나 다른 음식과 같이먹어도맛있다."
+			],
+			[
+				34,
+				"먹",
+				"VV",
+				"지방이 많아 오일로도 뽑아쓰고 그냥 먹거나 다른 음식과 같이먹어도맛있다."
+			],
+			[
+				35,
+				"다르",
+				"VA",
+				"지방이 많아 오일로도 뽑아쓰고 그냥 먹거나 다른 음식과 같이먹어도맛있다."
+			],
+			[
+				36,
+				"먹",
+				"VV",
+				"지방이 많아 오일로도 뽑아쓰고 그냥 먹거나 다른 음식과 같이먹어도맛있다."
+			],
+			[
+				37,
+				"맛있",
+				"VA",
+				"지방이 많아 오일로도 뽑아쓰고 그냥 먹거나 다른 음식과 같이먹어도맛있다."
+			],
+			[
+				38,
+				"으께",
+				"VV",
+				"아보카도 요리법중 과카몰레는 아보카도를 으께고 토마토 다른 향신료와 섞어서 치차론 타코등에 올려먹기도 한다."
+			],
+			[
+				39,
+				"섞",
+				"VV",
+				"아보카도 요리법중 과카몰레는 아보카도를 으께고 토마토 다른 향신료와 섞어서 치차론 타코등에 올려먹기도 한다."
+			],
+			[
+				40,
+				"올리",
+				"VV",
+				"아보카도 요리법중 과카몰레는 아보카도를 으께고 토마토 다른 향신료와 섞어서 치차론 타코등에 올려먹기도 한다."
+			],
+			[
+				41,
+				"먹",
+				"VV",
+				"아보카도 요리법중 과카몰레는 아보카도를 으께고 토마토 다른 향신료와 섞어서 치차론 타코등에 올려먹기도 한다."
+			],
+			[
+				42,
+				"하",
+				"VX",
+				"아보카도 요리법중 과카몰레는 아보카도를 으께고 토마토 다른 향신료와 섞어서 치차론 타코등에 올려먹기도 한다."
+			],
+			[
+				43,
+				"보",
+				"VV",
+				"전체적으로 보면 지지고 볶는과정을 결합하는것과 음식을 만들때에 향신료를 많이 쓴다는것이 비슷한거같다."
+			],
+			[
+				44,
+				"지지",
+				"VV",
+				"전체적으로 보면 지지고 볶는과정을 결합하는것과 음식을 만들때에 향신료를 많이 쓴다는것이 비슷한거같다."
+			],
+			[
+				45,
+				"볶",
+				"VV",
+				"전체적으로 보면 지지고 볶는과정을 결합하는것과 음식을 만들때에 향신료를 많이 쓴다는것이 비슷한거같다."
+			],
+			[
+				46,
+				"결합하",
+				"VV",
+				"전체적으로 보면 지지고 볶는과정을 결합하는것과 음식을 만들때에 향신료를 많이 쓴다는것이 비슷한거같다."
+			],
+			[
+				47,
+				"만들",
+				"VV",
+				"전체적으로 보면 지지고 볶는과정을 결합하는것과 음식을 만들때에 향신료를 많이 쓴다는것이 비슷한거같다."
+			],
+			[
+				48,
+				"쓰",
+				"VV",
+				"전체적으로 보면 지지고 볶는과정을 결합하는것과 음식을 만들때에 향신료를 많이 쓴다는것이 비슷한거같다."
+			],
+			[
+				49,
+				"비슷하",
+				"VA",
+				"전체적으로 보면 지지고 볶는과정을 결합하는것과 음식을 만들때에 향신료를 많이 쓴다는것이 비슷한거같다."
+			],
+			[
+				50,
+				"같",
+				"VA",
+				"전체적으로 보면 지지고 볶는과정을 결합하는것과 음식을 만들때에 향신료를 많이 쓴다는것이 비슷한거같다."
+			],
+			[
+				51,
+				"보",
+				"VV",
+				"앞으로는 다른 나라의 음식을 보는것도 중요하지만 우리음식이 실린책도 한번 보고 다른 사람에게 알릴수있는 기회가 오면 좋겠다."
+			],
+			[
+				52,
+				"중요하",
+				"VA",
+				"앞으로는 다른 나라의 음식을 보는것도 중요하지만 우리음식이 실린책도 한번 보고 다른 사람에게 알릴수있는 기회가 오면 좋겠다."
+			],
+			[
+				53,
+				"실리",
+				"VV",
+				"앞으로는 다른 나라의 음식을 보는것도 중요하지만 우리음식이 실린책도 한번 보고 다른 사람에게 알릴수있는 기회가 오면 좋겠다."
+			],
+			[
+				54,
+				"보",
+				"VV",
+				"앞으로는 다른 나라의 음식을 보는것도 중요하지만 우리음식이 실린책도 한번 보고 다른 사람에게 알릴수있는 기회가 오면 좋겠다."
+			],
+			[
+				55,
+				"알리",
+				"VV",
+				"앞으로는 다른 나라의 음식을 보는것도 중요하지만 우리음식이 실린책도 한번 보고 다른 사람에게 알릴수있는 기회가 오면 좋겠다."
+			],
+			[
+				56,
+				"있",
+				"VA",
+				"앞으로는 다른 나라의 음식을 보는것도 중요하지만 우리음식이 실린책도 한번 보고 다른 사람에게 알릴수있는 기회가 오면 좋겠다."
+			],
+			[
+				57,
+				"오",
+				"VV",
+				"앞으로는 다른 나라의 음식을 보는것도 중요하지만 우리음식이 실린책도 한번 보고 다른 사람에게 알릴수있는 기회가 오면 좋겠다."
+			],
+			[
+				58,
+				"좋",
+				"VA",
+				"앞으로는 다른 나라의 음식을 보는것도 중요하지만 우리음식이 실린책도 한번 보고 다른 사람에게 알릴수있는 기회가 오면 좋겠다."
+			]
+		],
+		"VV_Lst": [
+			[
+				0,
+				"요리하",
+				"VV",
+				"맥시코 요리하면 어떤 요리가 생각나시나요?"
+			],
+			[
+				1,
+				"생각나",
+				"VV",
+				"맥시코 요리하면 어떤 요리가 생각나시나요?"
+			],
+			[
+				2,
+				"생각나",
+				"VV",
+				"주로 타코나 브리또가 생각나실겁니다."
+			],
+			[
+				3,
+				"이용하",
+				"VV",
+				"하지만 저는 이 책에서 타코나 브리또가 아닌 콩, 옥수수, 아보카도를 이용한 요리들을 보았다."
+			],
+			[
+				4,
+				"보",
+				"VV",
+				"하지만 저는 이 책에서 타코나 브리또가 아닌 콩, 옥수수, 아보카도를 이용한 요리들을 보았다."
+			],
+			[
+				5,
+				"먹",
+				"VV",
+				"옛날에 주로 콩은 고기류를 잘 먹지 못하는 원주민들이 섭취해왔고 수십가지에 콩을 사용한다."
+			],
+			[
+				6,
+				"섭취하",
+				"VV",
+				"옛날에 주로 콩은 고기류를 잘 먹지 못하는 원주민들이 섭취해왔고 수십가지에 콩을 사용한다."
+			],
+			[
+				7,
+				"사용하",
+				"VV",
+				"옛날에 주로 콩은 고기류를 잘 먹지 못하는 원주민들이 섭취해왔고 수십가지에 콩을 사용한다."
+			],
+			[
+				8,
+				"볶",
+				"VV",
+				"볶고 튀기고 으께고등의 과정들을 섞어서 사용하는데 막상 할려고하면 엄청 많다."
+			],
+			[
+				9,
+				"튀기",
+				"VV",
+				"볶고 튀기고 으께고등의 과정들을 섞어서 사용하는데 막상 할려고하면 엄청 많다."
+			],
+			[
+				10,
+				"섞",
+				"VV",
+				"볶고 튀기고 으께고등의 과정들을 섞어서 사용하는데 막상 할려고하면 엄청 많다."
+			],
+			[
+				11,
+				"사용하",
+				"VV",
+				"볶고 튀기고 으께고등의 과정들을 섞어서 사용하는데 막상 할려고하면 엄청 많다."
+			],
+			[
+				12,
+				"하",
+				"VV",
+				"볶고 튀기고 으께고등의 과정들을 섞어서 사용하는데 막상 할려고하면 엄청 많다."
+			],
+			[
+				13,
+				"느끼",
+				"VV",
+				"맥시코 음식에서 싱겁다고 느낀적이 있나요."
+			],
+			[
+				14,
+				"사용하",
+				"VV",
+				"여러가지 고추를 사용하기 떄문에 싱겁다는 느낌이들지 않을수도있다."
+			],
+			[
+				15,
+				"들",
+				"VV",
+				"여러가지 고추를 사용하기 떄문에 싱겁다는 느낌이들지 않을수도있다."
+			],
+			[
+				16,
+				"싫어하",
+				"VV",
+				"하지만 특유의 향떄문에 아보카도를 싫어하는 사람도 생각보다 많습니다."
+			],
+			[
+				17,
+				"먹",
+				"VV",
+				"지방이 많아 오일로도 뽑아쓰고 그냥 먹거나 다른 음식과 같이먹어도맛있다."
+			],
+			[
+				18,
+				"먹",
+				"VV",
+				"지방이 많아 오일로도 뽑아쓰고 그냥 먹거나 다른 음식과 같이먹어도맛있다."
+			],
+			[
+				19,
+				"으께",
+				"VV",
+				"아보카도 요리법중 과카몰레는 아보카도를 으께고 토마토 다른 향신료와 섞어서 치차론 타코등에 올려먹기도 한다."
+			],
+			[
+				20,
+				"섞",
+				"VV",
+				"아보카도 요리법중 과카몰레는 아보카도를 으께고 토마토 다른 향신료와 섞어서 치차론 타코등에 올려먹기도 한다."
+			],
+			[
+				21,
+				"올리",
+				"VV",
+				"아보카도 요리법중 과카몰레는 아보카도를 으께고 토마토 다른 향신료와 섞어서 치차론 타코등에 올려먹기도 한다."
+			],
+			[
+				22,
+				"먹",
+				"VV",
+				"아보카도 요리법중 과카몰레는 아보카도를 으께고 토마토 다른 향신료와 섞어서 치차론 타코등에 올려먹기도 한다."
+			],
+			[
+				23,
+				"보",
+				"VV",
+				"전체적으로 보면 지지고 볶는과정을 결합하는것과 음식을 만들때에 향신료를 많이 쓴다는것이 비슷한거같다."
+			],
+			[
+				24,
+				"지지",
+				"VV",
+				"전체적으로 보면 지지고 볶는과정을 결합하는것과 음식을 만들때에 향신료를 많이 쓴다는것이 비슷한거같다."
+			],
+			[
+				25,
+				"볶",
+				"VV",
+				"전체적으로 보면 지지고 볶는과정을 결합하는것과 음식을 만들때에 향신료를 많이 쓴다는것이 비슷한거같다."
+			],
+			[
+				26,
+				"결합하",
+				"VV",
+				"전체적으로 보면 지지고 볶는과정을 결합하는것과 음식을 만들때에 향신료를 많이 쓴다는것이 비슷한거같다."
+			],
+			[
+				27,
+				"만들",
+				"VV",
+				"전체적으로 보면 지지고 볶는과정을 결합하는것과 음식을 만들때에 향신료를 많이 쓴다는것이 비슷한거같다."
+			],
+			[
+				28,
+				"쓰",
+				"VV",
+				"전체적으로 보면 지지고 볶는과정을 결합하는것과 음식을 만들때에 향신료를 많이 쓴다는것이 비슷한거같다."
+			],
+			[
+				29,
+				"보",
+				"VV",
+				"앞으로는 다른 나라의 음식을 보는것도 중요하지만 우리음식이 실린책도 한번 보고 다른 사람에게 알릴수있는 기회가 오면 좋겠다."
+			],
+			[
+				30,
+				"실리",
+				"VV",
+				"앞으로는 다른 나라의 음식을 보는것도 중요하지만 우리음식이 실린책도 한번 보고 다른 사람에게 알릴수있는 기회가 오면 좋겠다."
+			],
+			[
+				31,
+				"보",
+				"VV",
+				"앞으로는 다른 나라의 음식을 보는것도 중요하지만 우리음식이 실린책도 한번 보고 다른 사람에게 알릴수있는 기회가 오면 좋겠다."
+			],
+			[
+				32,
+				"알리",
+				"VV",
+				"앞으로는 다른 나라의 음식을 보는것도 중요하지만 우리음식이 실린책도 한번 보고 다른 사람에게 알릴수있는 기회가 오면 좋겠다."
+			],
+			[
+				33,
+				"오",
+				"VV",
+				"앞으로는 다른 나라의 음식을 보는것도 중요하지만 우리음식이 실린책도 한번 보고 다른 사람에게 알릴수있는 기회가 오면 좋겠다."
+			]
+		],
+		"VA_Lst": [
+			[
+				0,
+				"건강하",
+				"VA",
+				"콩은 단백질 음식으로 그들의 건강한 식단에 필요로했다."
+			],
+			[
+				1,
+				"다양하",
+				"VA",
+				"요리법도 다양하다."
+			],
+			[
+				2,
+				"많",
+				"VA",
+				"볶고 튀기고 으께고등의 과정들을 섞어서 사용하는데 막상 할려고하면 엄청 많다."
+			],
+			[
+				3,
+				"싱겁",
+				"VA",
+				"맥시코 음식에서 싱겁다고 느낀적이 있나요."
+			],
+			[
+				4,
+				"있",
+				"VA",
+				"맥시코 음식에서 싱겁다고 느낀적이 있나요."
+			],
+			[
+				5,
+				"싱겁",
+				"VA",
+				"여러가지 고추를 사용하기 떄문에 싱겁다는 느낌이들지 않을수도있다."
+			],
+			[
+				6,
+				"있",
+				"VA",
+				"여러가지 고추를 사용하기 떄문에 싱겁다는 느낌이들지 않을수도있다."
+			],
+			[
+				7,
+				"많",
+				"VA",
+				"마지막으로 아보카도는 전 세계적으로 인기가많습니다."
+			],
+			[
+				8,
+				"많",
+				"VA",
+				"하지만 특유의 향떄문에 아보카도를 싫어하는 사람도 생각보다 많습니다."
+			],
+			[
+				9,
+				"많",
+				"VA",
+				"지방이 많아 오일로도 뽑아쓰고 그냥 먹거나 다른 음식과 같이먹어도맛있다."
+			],
+			[
+				10,
+				"뽑아쓰",
+				"VA",
+				"지방이 많아 오일로도 뽑아쓰고 그냥 먹거나 다른 음식과 같이먹어도맛있다."
+			],
+			[
+				11,
+				"다르",
+				"VA",
+				"지방이 많아 오일로도 뽑아쓰고 그냥 먹거나 다른 음식과 같이먹어도맛있다."
+			],
+			[
+				12,
+				"맛있",
+				"VA",
+				"지방이 많아 오일로도 뽑아쓰고 그냥 먹거나 다른 음식과 같이먹어도맛있다."
+			],
+			[
+				13,
+				"비슷하",
+				"VA",
+				"전체적으로 보면 지지고 볶는과정을 결합하는것과 음식을 만들때에 향신료를 많이 쓴다는것이 비슷한거같다."
+			],
+			[
+				14,
+				"같",
+				"VA",
+				"전체적으로 보면 지지고 볶는과정을 결합하는것과 음식을 만들때에 향신료를 많이 쓴다는것이 비슷한거같다."
+			],
+			[
+				15,
+				"중요하",
+				"VA",
+				"앞으로는 다른 나라의 음식을 보는것도 중요하지만 우리음식이 실린책도 한번 보고 다른 사람에게 알릴수있는 기회가 오면 좋겠다."
+			],
+			[
+				16,
+				"있",
+				"VA",
+				"앞으로는 다른 나라의 음식을 보는것도 중요하지만 우리음식이 실린책도 한번 보고 다른 사람에게 알릴수있는 기회가 오면 좋겠다."
+			],
+			[
+				17,
+				"좋",
+				"VA",
+				"앞으로는 다른 나라의 음식을 보는것도 중요하지만 우리음식이 실린책도 한번 보고 다른 사람에게 알릴수있는 기회가 오면 좋겠다."
+			]
+		],
+		"VX_Lst": [
+			[
+				0,
+				"못하",
+				"VX",
+				"옛날에 주로 콩은 고기류를 잘 먹지 못하는 원주민들이 섭취해왔고 수십가지에 콩을 사용한다."
+			],
+			[
+				1,
+				"오",
+				"VX",
+				"옛날에 주로 콩은 고기류를 잘 먹지 못하는 원주민들이 섭취해왔고 수십가지에 콩을 사용한다."
+			],
+			[
+				2,
+				"하",
+				"VX",
+				"볶고 튀기고 으께고등의 과정들을 섞어서 사용하는데 막상 할려고하면 엄청 많다."
+			],
+			[
+				3,
+				"않",
+				"VX",
+				"여러가지 고추를 사용하기 떄문에 싱겁다는 느낌이들지 않을수도있다."
+			],
+			[
+				4,
+				"하",
+				"VX",
+				"아보카도 요리법중 과카몰레는 아보카도를 으께고 토마토 다른 향신료와 섞어서 치차론 타코등에 올려먹기도 한다."
+			]
+		],
+		"VCP_Lst": [
+			[
+				0,
+				"이",
+				"VCP",
+				"주로 타코나 브리또가 생각나실겁니다."
+			]
+		],
+		"VCN_Lst": [
+			[
+				0,
+				"아니",
+				"VCN",
+				"하지만 저는 이 책에서 타코나 브리또가 아닌 콩, 옥수수, 아보카도를 이용한 요리들을 보았다."
+			]
+		],
+		"ML_Lst": [
+			[
+				0,
+				"맥시코",
+				"MAG",
+				"맥시코 요리하면 어떤 요리가 생각나시나요?"
+			],
+			[
+				1,
+				"주로",
+				"MAG",
+				"주로 타코나 브리또가 생각나실겁니다."
+			],
+			[
+				2,
+				"하지만",
+				"MAJ",
+				"하지만 저는 이 책에서 타코나 브리또가 아닌 콩, 옥수수, 아보카도를 이용한 요리들을 보았다."
+			],
+			[
+				3,
+				"주로",
+				"MAG",
+				"옛날에 주로 콩은 고기류를 잘 먹지 못하는 원주민들이 섭취해왔고 수십가지에 콩을 사용한다."
+			],
+			[
+				4,
+				"잘",
+				"MAG",
+				"옛날에 주로 콩은 고기류를 잘 먹지 못하는 원주민들이 섭취해왔고 수십가지에 콩을 사용한다."
+			],
+			[
+				5,
+				"막상",
+				"MAG",
+				"볶고 튀기고 으께고등의 과정들을 섞어서 사용하는데 막상 할려고하면 엄청 많다."
+			],
+			[
+				6,
+				"엄청",
+				"MAG",
+				"볶고 튀기고 으께고등의 과정들을 섞어서 사용하는데 막상 할려고하면 엄청 많다."
+			],
+			[
+				7,
+				"하지만",
+				"MAJ",
+				"하지만 특유의 향떄문에 아보카도를 싫어하는 사람도 생각보다 많습니다."
+			],
+			[
+				8,
+				"그냥",
+				"MAG",
+				"지방이 많아 오일로도 뽑아쓰고 그냥 먹거나 다른 음식과 같이먹어도맛있다."
+			],
+			[
+				9,
+				"같이",
+				"MAG",
+				"지방이 많아 오일로도 뽑아쓰고 그냥 먹거나 다른 음식과 같이먹어도맛있다."
+			],
+			[
+				10,
+				"많이",
+				"MAG",
+				"전체적으로 보면 지지고 볶는과정을 결합하는것과 음식을 만들때에 향신료를 많이 쓴다는것이 비슷한거같다."
+			]
+		],
+		"MA_Lst": [],
+		"MM_Lst": [],
+		"J_Lst": [
+			[
+				0,
+				"가",
+				"JKS",
+				"맥시코 요리하면 어떤 요리가 생각나시나요?"
+			],
+			[
+				1,
+				"요",
+				"JX",
+				"맥시코 요리하면 어떤 요리가 생각나시나요?"
+			],
+			[
+				2,
+				"가",
+				"JKS",
+				"주로 타코나 브리또가 생각나실겁니다."
+			],
+			[
+				3,
+				"는",
+				"JX",
+				"하지만 저는 이 책에서 타코나 브리또가 아닌 콩, 옥수수, 아보카도를 이용한 요리들을 보았다."
+			],
+			[
+				4,
+				"에서",
+				"JKB",
+				"하지만 저는 이 책에서 타코나 브리또가 아닌 콩, 옥수수, 아보카도를 이용한 요리들을 보았다."
+			],
+			[
+				5,
+				"나",
+				"JC",
+				"하지만 저는 이 책에서 타코나 브리또가 아닌 콩, 옥수수, 아보카도를 이용한 요리들을 보았다."
+			],
+			[
+				6,
+				"가",
+				"JKC",
+				"하지만 저는 이 책에서 타코나 브리또가 아닌 콩, 옥수수, 아보카도를 이용한 요리들을 보았다."
+			],
+			[
+				7,
+				"를",
+				"JKO",
+				"하지만 저는 이 책에서 타코나 브리또가 아닌 콩, 옥수수, 아보카도를 이용한 요리들을 보았다."
+			],
+			[
+				8,
+				"을",
+				"JKO",
+				"하지만 저는 이 책에서 타코나 브리또가 아닌 콩, 옥수수, 아보카도를 이용한 요리들을 보았다."
+			],
+			[
+				9,
+				"은",
+				"JX",
+				"콩은 단백질 음식으로 그들의 건강한 식단에 필요로했다."
+			],
+			[
+				10,
+				"으로",
+				"JKB",
+				"콩은 단백질 음식으로 그들의 건강한 식단에 필요로했다."
+			],
+			[
+				11,
+				"의",
+				"JKG",
+				"콩은 단백질 음식으로 그들의 건강한 식단에 필요로했다."
+			],
+			[
+				12,
+				"에",
+				"JKB",
+				"콩은 단백질 음식으로 그들의 건강한 식단에 필요로했다."
+			],
+			[
+				13,
+				"로",
+				"JKB",
+				"콩은 단백질 음식으로 그들의 건강한 식단에 필요로했다."
+			],
+			[
+				14,
+				"에",
+				"JKB",
+				"옛날에 주로 콩은 고기류를 잘 먹지 못하는 원주민들이 섭취해왔고 수십가지에 콩을 사용한다."
+			],
+			[
+				15,
+				"은",
+				"JX",
+				"옛날에 주로 콩은 고기류를 잘 먹지 못하는 원주민들이 섭취해왔고 수십가지에 콩을 사용한다."
+			],
+			[
+				16,
+				"를",
+				"JKO",
+				"옛날에 주로 콩은 고기류를 잘 먹지 못하는 원주민들이 섭취해왔고 수십가지에 콩을 사용한다."
+			],
+			[
+				17,
+				"이",
+				"JKS",
+				"옛날에 주로 콩은 고기류를 잘 먹지 못하는 원주민들이 섭취해왔고 수십가지에 콩을 사용한다."
+			],
+			[
+				18,
+				"에",
+				"JKB",
+				"옛날에 주로 콩은 고기류를 잘 먹지 못하는 원주민들이 섭취해왔고 수십가지에 콩을 사용한다."
+			],
+			[
+				19,
+				"을",
+				"JKO",
+				"옛날에 주로 콩은 고기류를 잘 먹지 못하는 원주민들이 섭취해왔고 수십가지에 콩을 사용한다."
+			],
+			[
+				20,
+				"도",
+				"JX",
+				"요리법도 다양하다."
+			],
+			[
+				21,
+				"의",
+				"JKG",
+				"볶고 튀기고 으께고등의 과정들을 섞어서 사용하는데 막상 할려고하면 엄청 많다."
+			],
+			[
+				22,
+				"을",
+				"JKO",
+				"볶고 튀기고 으께고등의 과정들을 섞어서 사용하는데 막상 할려고하면 엄청 많다."
+			],
+			[
+				23,
+				"에서",
+				"JKB",
+				"맥시코 음식에서 싱겁다고 느낀적이 있나요."
+			],
+			[
+				24,
+				"이",
+				"JKS",
+				"맥시코 음식에서 싱겁다고 느낀적이 있나요."
+			],
+			[
+				25,
+				"요",
+				"JX",
+				"맥시코 음식에서 싱겁다고 느낀적이 있나요."
+			],
+			[
+				26,
+				"를",
+				"JKO",
+				"여러가지 고추를 사용하기 떄문에 싱겁다는 느낌이들지 않을수도있다."
+			],
+			[
+				27,
+				"에",
+				"JKB",
+				"여러가지 고추를 사용하기 떄문에 싱겁다는 느낌이들지 않을수도있다."
+			],
+			[
+				28,
+				"이",
+				"JKS",
+				"여러가지 고추를 사용하기 떄문에 싱겁다는 느낌이들지 않을수도있다."
+			],
+			[
+				29,
+				"도",
+				"JX",
+				"여러가지 고추를 사용하기 떄문에 싱겁다는 느낌이들지 않을수도있다."
+			],
+			[
+				30,
+				"으로",
+				"JKB",
+				"마지막으로 아보카도는 전 세계적으로 인기가많습니다."
+			],
+			[
+				31,
+				"는",
+				"JX",
+				"마지막으로 아보카도는 전 세계적으로 인기가많습니다."
+			],
+			[
+				32,
+				"으로",
+				"JKB",
+				"마지막으로 아보카도는 전 세계적으로 인기가많습니다."
+			],
+			[
+				33,
+				"가",
+				"JKS",
+				"마지막으로 아보카도는 전 세계적으로 인기가많습니다."
+			],
+			[
+				34,
+				"의",
+				"JKG",
+				"하지만 특유의 향떄문에 아보카도를 싫어하는 사람도 생각보다 많습니다."
+			],
+			[
+				35,
+				"에",
+				"JKB",
+				"하지만 특유의 향떄문에 아보카도를 싫어하는 사람도 생각보다 많습니다."
+			],
+			[
+				36,
+				"를",
+				"JKO",
+				"하지만 특유의 향떄문에 아보카도를 싫어하는 사람도 생각보다 많습니다."
+			],
+			[
+				37,
+				"도",
+				"JX",
+				"하지만 특유의 향떄문에 아보카도를 싫어하는 사람도 생각보다 많습니다."
+			],
+			[
+				38,
+				"보다",
+				"JKB",
+				"하지만 특유의 향떄문에 아보카도를 싫어하는 사람도 생각보다 많습니다."
+			],
+			[
+				39,
+				"이",
+				"JKS",
+				"지방이 많아 오일로도 뽑아쓰고 그냥 먹거나 다른 음식과 같이먹어도맛있다."
+			],
+			[
+				40,
+				"로",
+				"JKB",
+				"지방이 많아 오일로도 뽑아쓰고 그냥 먹거나 다른 음식과 같이먹어도맛있다."
+			],
+			[
+				41,
+				"도",
+				"JX",
+				"지방이 많아 오일로도 뽑아쓰고 그냥 먹거나 다른 음식과 같이먹어도맛있다."
+			],
+			[
+				42,
+				"과",
+				"JKB",
+				"지방이 많아 오일로도 뽑아쓰고 그냥 먹거나 다른 음식과 같이먹어도맛있다."
+			],
+			[
+				43,
+				"도",
+				"JX",
+				"아보카도 요리법중 과카몰레는 아보카도를 으께고 토마토 다른 향신료와 섞어서 치차론 타코등에 올려먹기도 한다."
+			],
+			[
+				44,
+				"는",
+				"JX",
+				"아보카도 요리법중 과카몰레는 아보카도를 으께고 토마토 다른 향신료와 섞어서 치차론 타코등에 올려먹기도 한다."
+			],
+			[
+				45,
+				"를",
+				"JKO",
+				"아보카도 요리법중 과카몰레는 아보카도를 으께고 토마토 다른 향신료와 섞어서 치차론 타코등에 올려먹기도 한다."
+			],
+			[
+				46,
+				"와",
+				"JKB",
+				"아보카도 요리법중 과카몰레는 아보카도를 으께고 토마토 다른 향신료와 섞어서 치차론 타코등에 올려먹기도 한다."
+			],
+			[
+				47,
+				"에",
+				"JKB",
+				"아보카도 요리법중 과카몰레는 아보카도를 으께고 토마토 다른 향신료와 섞어서 치차론 타코등에 올려먹기도 한다."
+			],
+			[
+				48,
+				"도",
+				"JX",
+				"아보카도 요리법중 과카몰레는 아보카도를 으께고 토마토 다른 향신료와 섞어서 치차론 타코등에 올려먹기도 한다."
+			],
+			[
+				49,
+				"으로",
+				"JKB",
+				"전체적으로 보면 지지고 볶는과정을 결합하는것과 음식을 만들때에 향신료를 많이 쓴다는것이 비슷한거같다."
+			],
+			[
+				50,
+				"을",
+				"JKO",
+				"전체적으로 보면 지지고 볶는과정을 결합하는것과 음식을 만들때에 향신료를 많이 쓴다는것이 비슷한거같다."
+			],
+			[
+				51,
+				"과",
+				"JC",
+				"전체적으로 보면 지지고 볶는과정을 결합하는것과 음식을 만들때에 향신료를 많이 쓴다는것이 비슷한거같다."
+			],
+			[
+				52,
+				"을",
+				"JKO",
+				"전체적으로 보면 지지고 볶는과정을 결합하는것과 음식을 만들때에 향신료를 많이 쓴다는것이 비슷한거같다."
+			],
+			[
+				53,
+				"에",
+				"JKB",
+				"전체적으로 보면 지지고 볶는과정을 결합하는것과 음식을 만들때에 향신료를 많이 쓴다는것이 비슷한거같다."
+			],
+			[
+				54,
+				"를",
+				"JKO",
+				"전체적으로 보면 지지고 볶는과정을 결합하는것과 음식을 만들때에 향신료를 많이 쓴다는것이 비슷한거같다."
+			],
+			[
+				55,
+				"이",
+				"JKS",
+				"전체적으로 보면 지지고 볶는과정을 결합하는것과 음식을 만들때에 향신료를 많이 쓴다는것이 비슷한거같다."
+			],
+			[
+				56,
+				"으로",
+				"JKB",
+				"앞으로는 다른 나라의 음식을 보는것도 중요하지만 우리음식이 실린책도 한번 보고 다른 사람에게 알릴수있는 기회가 오면 좋겠다."
+			],
+			[
+				57,
+				"는",
+				"JX",
+				"앞으로는 다른 나라의 음식을 보는것도 중요하지만 우리음식이 실린책도 한번 보고 다른 사람에게 알릴수있는 기회가 오면 좋겠다."
+			],
+			[
+				58,
+				"의",
+				"JKG",
+				"앞으로는 다른 나라의 음식을 보는것도 중요하지만 우리음식이 실린책도 한번 보고 다른 사람에게 알릴수있는 기회가 오면 좋겠다."
+			],
+			[
+				59,
+				"을",
+				"JKO",
+				"앞으로는 다른 나라의 음식을 보는것도 중요하지만 우리음식이 실린책도 한번 보고 다른 사람에게 알릴수있는 기회가 오면 좋겠다."
+			],
+			[
+				60,
+				"도",
+				"JX",
+				"앞으로는 다른 나라의 음식을 보는것도 중요하지만 우리음식이 실린책도 한번 보고 다른 사람에게 알릴수있는 기회가 오면 좋겠다."
+			],
+			[
+				61,
+				"이",
+				"JKS",
+				"앞으로는 다른 나라의 음식을 보는것도 중요하지만 우리음식이 실린책도 한번 보고 다른 사람에게 알릴수있는 기회가 오면 좋겠다."
+			],
+			[
+				62,
+				"도",
+				"JX",
+				"앞으로는 다른 나라의 음식을 보는것도 중요하지만 우리음식이 실린책도 한번 보고 다른 사람에게 알릴수있는 기회가 오면 좋겠다."
+			],
+			[
+				63,
+				"에게",
+				"JKB",
+				"앞으로는 다른 나라의 음식을 보는것도 중요하지만 우리음식이 실린책도 한번 보고 다른 사람에게 알릴수있는 기회가 오면 좋겠다."
+			],
+			[
+				64,
+				"가",
+				"JKS",
+				"앞으로는 다른 나라의 음식을 보는것도 중요하지만 우리음식이 실린책도 한번 보고 다른 사람에게 알릴수있는 기회가 오면 좋겠다."
+			]
+		],
+		"E_Lst": [
+			[
+				0,
+				"면",
+				"EC",
+				"맥시코 요리하면 어떤 요리가 생각나시나요?"
+			],
+			[
+				1,
+				"시",
+				"EP",
+				"맥시코 요리하면 어떤 요리가 생각나시나요?"
+			],
+			[
+				2,
+				"나",
+				"EF",
+				"맥시코 요리하면 어떤 요리가 생각나시나요?"
+			],
+			[
+				3,
+				"시",
+				"EP",
+				"주로 타코나 브리또가 생각나실겁니다."
+			],
+			[
+				4,
+				"ㄹ",
+				"ETM",
+				"주로 타코나 브리또가 생각나실겁니다."
+			],
+			[
+				5,
+				"ㅂ니다",
+				"EF",
+				"주로 타코나 브리또가 생각나실겁니다."
+			],
+			[
+				6,
+				"ㄴ",
+				"ETM",
+				"하지만 저는 이 책에서 타코나 브리또가 아닌 콩, 옥수수, 아보카도를 이용한 요리들을 보았다."
+			],
+			[
+				7,
+				"ㄴ",
+				"ETM",
+				"하지만 저는 이 책에서 타코나 브리또가 아닌 콩, 옥수수, 아보카도를 이용한 요리들을 보았다."
+			],
+			[
+				8,
+				"았",
+				"EP",
+				"하지만 저는 이 책에서 타코나 브리또가 아닌 콩, 옥수수, 아보카도를 이용한 요리들을 보았다."
+			],
+			[
+				9,
+				"다",
+				"EF",
+				"하지만 저는 이 책에서 타코나 브리또가 아닌 콩, 옥수수, 아보카도를 이용한 요리들을 보았다."
+			],
+			[
+				10,
+				"ㄴ",
+				"ETM",
+				"콩은 단백질 음식으로 그들의 건강한 식단에 필요로했다."
+			],
+			[
+				11,
+				"았",
+				"EP",
+				"콩은 단백질 음식으로 그들의 건강한 식단에 필요로했다."
+			],
+			[
+				12,
+				"다",
+				"EF",
+				"콩은 단백질 음식으로 그들의 건강한 식단에 필요로했다."
+			],
+			[
+				13,
+				"지",
+				"EC",
+				"옛날에 주로 콩은 고기류를 잘 먹지 못하는 원주민들이 섭취해왔고 수십가지에 콩을 사용한다."
+			],
+			[
+				14,
+				"는",
+				"ETM",
+				"옛날에 주로 콩은 고기류를 잘 먹지 못하는 원주민들이 섭취해왔고 수십가지에 콩을 사용한다."
+			],
+			[
+				15,
+				"아",
+				"EC",
+				"옛날에 주로 콩은 고기류를 잘 먹지 못하는 원주민들이 섭취해왔고 수십가지에 콩을 사용한다."
+			],
+			[
+				16,
+				"았",
+				"EP",
+				"옛날에 주로 콩은 고기류를 잘 먹지 못하는 원주민들이 섭취해왔고 수십가지에 콩을 사용한다."
+			],
+			[
+				17,
+				"고",
+				"EC",
+				"옛날에 주로 콩은 고기류를 잘 먹지 못하는 원주민들이 섭취해왔고 수십가지에 콩을 사용한다."
+			],
+			[
+				18,
+				"ㄴ다",
+				"EF",
+				"옛날에 주로 콩은 고기류를 잘 먹지 못하는 원주민들이 섭취해왔고 수십가지에 콩을 사용한다."
+			],
+			[
+				19,
+				"다",
+				"EF",
+				"요리법도 다양하다."
+			],
+			[
+				20,
+				"고",
+				"EC",
+				"볶고 튀기고 으께고등의 과정들을 섞어서 사용하는데 막상 할려고하면 엄청 많다."
+			],
+			[
+				21,
+				"고",
+				"EC",
+				"볶고 튀기고 으께고등의 과정들을 섞어서 사용하는데 막상 할려고하면 엄청 많다."
+			],
+			[
+				22,
+				"어서",
+				"EC",
+				"볶고 튀기고 으께고등의 과정들을 섞어서 사용하는데 막상 할려고하면 엄청 많다."
+			],
+			[
+				23,
+				"는데",
+				"EC",
+				"볶고 튀기고 으께고등의 과정들을 섞어서 사용하는데 막상 할려고하면 엄청 많다."
+			],
+			[
+				24,
+				"ㄹ려고",
+				"EC",
+				"볶고 튀기고 으께고등의 과정들을 섞어서 사용하는데 막상 할려고하면 엄청 많다."
+			],
+			[
+				25,
+				"면",
+				"EC",
+				"볶고 튀기고 으께고등의 과정들을 섞어서 사용하는데 막상 할려고하면 엄청 많다."
+			],
+			[
+				26,
+				"다",
+				"EF",
+				"볶고 튀기고 으께고등의 과정들을 섞어서 사용하는데 막상 할려고하면 엄청 많다."
+			],
+			[
+				27,
+				"다고",
+				"EC",
+				"맥시코 음식에서 싱겁다고 느낀적이 있나요."
+			],
+			[
+				28,
+				"ㄴ",
+				"ETM",
+				"맥시코 음식에서 싱겁다고 느낀적이 있나요."
+			],
+			[
+				29,
+				"나",
+				"EF",
+				"맥시코 음식에서 싱겁다고 느낀적이 있나요."
+			],
+			[
+				30,
+				"기",
+				"ETN",
+				"여러가지 고추를 사용하기 떄문에 싱겁다는 느낌이들지 않을수도있다."
+			],
+			[
+				31,
+				"다는",
+				"ETM",
+				"여러가지 고추를 사용하기 떄문에 싱겁다는 느낌이들지 않을수도있다."
+			],
+			[
+				32,
+				"지",
+				"EC",
+				"여러가지 고추를 사용하기 떄문에 싱겁다는 느낌이들지 않을수도있다."
+			],
+			[
+				33,
+				"을",
+				"ETM",
+				"여러가지 고추를 사용하기 떄문에 싱겁다는 느낌이들지 않을수도있다."
+			],
+			[
+				34,
+				"다",
+				"EF",
+				"여러가지 고추를 사용하기 떄문에 싱겁다는 느낌이들지 않을수도있다."
+			],
+			[
+				35,
+				"습니다",
+				"EF",
+				"마지막으로 아보카도는 전 세계적으로 인기가많습니다."
+			],
+			[
+				36,
+				"는",
+				"ETM",
+				"하지만 특유의 향떄문에 아보카도를 싫어하는 사람도 생각보다 많습니다."
+			],
+			[
+				37,
+				"습니다",
+				"EF",
+				"하지만 특유의 향떄문에 아보카도를 싫어하는 사람도 생각보다 많습니다."
+			],
+			[
+				38,
+				"아",
+				"EC",
+				"지방이 많아 오일로도 뽑아쓰고 그냥 먹거나 다른 음식과 같이먹어도맛있다."
+			],
+			[
+				39,
+				"고",
+				"EC",
+				"지방이 많아 오일로도 뽑아쓰고 그냥 먹거나 다른 음식과 같이먹어도맛있다."
+			],
+			[
+				40,
+				"거나",
+				"EC",
+				"지방이 많아 오일로도 뽑아쓰고 그냥 먹거나 다른 음식과 같이먹어도맛있다."
+			],
+			[
+				41,
+				"ㄴ",
+				"ETM",
+				"지방이 많아 오일로도 뽑아쓰고 그냥 먹거나 다른 음식과 같이먹어도맛있다."
+			],
+			[
+				42,
+				"어도",
+				"EC",
+				"지방이 많아 오일로도 뽑아쓰고 그냥 먹거나 다른 음식과 같이먹어도맛있다."
+			],
+			[
+				43,
+				"다",
+				"EF",
+				"지방이 많아 오일로도 뽑아쓰고 그냥 먹거나 다른 음식과 같이먹어도맛있다."
+			],
+			[
+				44,
+				"고",
+				"EC",
+				"아보카도 요리법중 과카몰레는 아보카도를 으께고 토마토 다른 향신료와 섞어서 치차론 타코등에 올려먹기도 한다."
+			],
+			[
+				45,
+				"어서",
+				"EC",
+				"아보카도 요리법중 과카몰레는 아보카도를 으께고 토마토 다른 향신료와 섞어서 치차론 타코등에 올려먹기도 한다."
+			],
+			[
+				46,
+				"어",
+				"EC",
+				"아보카도 요리법중 과카몰레는 아보카도를 으께고 토마토 다른 향신료와 섞어서 치차론 타코등에 올려먹기도 한다."
+			],
+			[
+				47,
+				"기",
+				"ETN",
+				"아보카도 요리법중 과카몰레는 아보카도를 으께고 토마토 다른 향신료와 섞어서 치차론 타코등에 올려먹기도 한다."
+			],
+			[
+				48,
+				"ㄴ다",
+				"EF",
+				"아보카도 요리법중 과카몰레는 아보카도를 으께고 토마토 다른 향신료와 섞어서 치차론 타코등에 올려먹기도 한다."
+			],
+			[
+				49,
+				"면",
+				"EC",
+				"전체적으로 보면 지지고 볶는과정을 결합하는것과 음식을 만들때에 향신료를 많이 쓴다는것이 비슷한거같다."
+			],
+			[
+				50,
+				"고",
+				"EC",
+				"전체적으로 보면 지지고 볶는과정을 결합하는것과 음식을 만들때에 향신료를 많이 쓴다는것이 비슷한거같다."
+			],
+			[
+				51,
+				"는",
+				"ETM",
+				"전체적으로 보면 지지고 볶는과정을 결합하는것과 음식을 만들때에 향신료를 많이 쓴다는것이 비슷한거같다."
+			],
+			[
+				52,
+				"는",
+				"ETM",
+				"전체적으로 보면 지지고 볶는과정을 결합하는것과 음식을 만들때에 향신료를 많이 쓴다는것이 비슷한거같다."
+			],
+			[
+				53,
+				"ㄹ",
+				"ETM",
+				"전체적으로 보면 지지고 볶는과정을 결합하는것과 음식을 만들때에 향신료를 많이 쓴다는것이 비슷한거같다."
+			],
+			[
+				54,
+				"ㄴ다는",
+				"ETM",
+				"전체적으로 보면 지지고 볶는과정을 결합하는것과 음식을 만들때에 향신료를 많이 쓴다는것이 비슷한거같다."
+			],
+			[
+				55,
+				"ㄴ",
+				"ETM",
+				"전체적으로 보면 지지고 볶는과정을 결합하는것과 음식을 만들때에 향신료를 많이 쓴다는것이 비슷한거같다."
+			],
+			[
+				56,
+				"다",
+				"EF",
+				"전체적으로 보면 지지고 볶는과정을 결합하는것과 음식을 만들때에 향신료를 많이 쓴다는것이 비슷한거같다."
+			],
+			[
+				57,
+				"는",
+				"ETM",
+				"앞으로는 다른 나라의 음식을 보는것도 중요하지만 우리음식이 실린책도 한번 보고 다른 사람에게 알릴수있는 기회가 오면 좋겠다."
+			],
+			[
+				58,
+				"지만",
+				"EC",
+				"앞으로는 다른 나라의 음식을 보는것도 중요하지만 우리음식이 실린책도 한번 보고 다른 사람에게 알릴수있는 기회가 오면 좋겠다."
+			],
+			[
+				59,
+				"ㄴ",
+				"ETM",
+				"앞으로는 다른 나라의 음식을 보는것도 중요하지만 우리음식이 실린책도 한번 보고 다른 사람에게 알릴수있는 기회가 오면 좋겠다."
+			],
+			[
+				60,
+				"고",
+				"EC",
+				"앞으로는 다른 나라의 음식을 보는것도 중요하지만 우리음식이 실린책도 한번 보고 다른 사람에게 알릴수있는 기회가 오면 좋겠다."
+			],
+			[
+				61,
+				"ㄹ",
+				"ETM",
+				"앞으로는 다른 나라의 음식을 보는것도 중요하지만 우리음식이 실린책도 한번 보고 다른 사람에게 알릴수있는 기회가 오면 좋겠다."
+			],
+			[
+				62,
+				"는",
+				"ETM",
+				"앞으로는 다른 나라의 음식을 보는것도 중요하지만 우리음식이 실린책도 한번 보고 다른 사람에게 알릴수있는 기회가 오면 좋겠다."
+			],
+			[
+				63,
+				"면",
+				"EC",
+				"앞으로는 다른 나라의 음식을 보는것도 중요하지만 우리음식이 실린책도 한번 보고 다른 사람에게 알릴수있는 기회가 오면 좋겠다."
+			],
+			[
+				64,
+				"겠",
+				"EP",
+				"앞으로는 다른 나라의 음식을 보는것도 중요하지만 우리음식이 실린책도 한번 보고 다른 사람에게 알릴수있는 기회가 오면 좋겠다."
+			],
+			[
+				65,
+				"다",
+				"EF",
+				"앞으로는 다른 나라의 음식을 보는것도 중요하지만 우리음식이 실린책도 한번 보고 다른 사람에게 알릴수있는 기회가 오면 좋겠다."
+			]
+		],
+		"X_Lst": [
+			[
+				0,
+				"들",
+				"XSN",
+				"하지만 저는 이 책에서 타코나 브리또가 아닌 콩, 옥수수, 아보카도를 이용한 요리들을 보았다."
+			],
+			[
+				1,
+				"들",
+				"XSN",
+				"콩은 단백질 음식으로 그들의 건강한 식단에 필요로했다."
+			],
+			[
+				2,
+				"하",
+				"XSA",
+				"콩은 단백질 음식으로 그들의 건강한 식단에 필요로했다."
+			],
+			[
+				3,
+				"류",
+				"XSN",
+				"옛날에 주로 콩은 고기류를 잘 먹지 못하는 원주민들이 섭취해왔고 수십가지에 콩을 사용한다."
+			],
+			[
+				4,
+				"들",
+				"XSN",
+				"옛날에 주로 콩은 고기류를 잘 먹지 못하는 원주민들이 섭취해왔고 수십가지에 콩을 사용한다."
+			],
+			[
+				5,
+				"들",
+				"XSN",
+				"볶고 튀기고 으께고등의 과정들을 섞어서 사용하는데 막상 할려고하면 엄청 많다."
+			],
+			[
+				6,
+				"적",
+				"XSN",
+				"마지막으로 아보카도는 전 세계적으로 인기가많습니다."
+			],
+			[
+				7,
+				"론",
+				"XSN",
+				"아보카도 요리법중 과카몰레는 아보카도를 으께고 토마토 다른 향신료와 섞어서 치차론 타코등에 올려먹기도 한다."
+			],
+			[
+				8,
+				"적",
+				"XSN",
+				"전체적으로 보면 지지고 볶는과정을 결합하는것과 음식을 만들때에 향신료를 많이 쓴다는것이 비슷한거같다."
+			]
+		],
+		"IC_Lst": []
+	},
+	"NDW": {
+		"morph_NDW": 166,
+		"NL_NDW": 78,
+		"NNG_NDW": 56,
+		"NNP_NDW": 6,
+		"NNB_NDW": 12,
+		"NP_NDW": 3,
+		"NR_NDW": 1,
+		"VL_NDW": 59,
+		"VV_NDW": 34,
+		"VA_NDW": 18,
+		"ML_NDW": 11,
+		"MM_NDW": 0,
+		"IC_NDW": 0,
+		"J_NDW": 65,
+		"E_NDW": 66,
+		"X_NDW": 9,
+		"CL_NDW": 148,
+		"FL_NDW": 140
+	}
+}

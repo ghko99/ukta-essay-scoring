@@ -1,0 +1,3493 @@
+﻿{
+	"morpheme": {
+		"sentences": [
+			{
+				"text": {
+					"content": "장애인이 아닌 사람을 비장애인이라 칭하고 있다.",
+					"length": 26,
+					"beginOffset": 0
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "장애인이",
+							"length": 4,
+							"beginOffset": 0
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "장애인",
+									"length": 3,
+									"beginOffset": 0
+								},
+								"tag": "NNG",
+								"probability": 0.94448066,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 3,
+									"length": 1
+								},
+								"tag": "JKC",
+								"probability": 0.99020255,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "장애인",
+						"tagged": "장애인/NNG+이/JKC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "아닌",
+							"beginOffset": 5,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "아니",
+									"beginOffset": 5,
+									"length": 2
+								},
+								"tag": "VCN",
+								"probability": 0.9999966,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 6,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99997574,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "아니",
+						"tagged": "아니/VCN+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사람을",
+							"beginOffset": 8,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사람",
+									"beginOffset": 8,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98681897,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 10,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99991137,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사람",
+						"tagged": "사람/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "비장애인이라",
+							"beginOffset": 12,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "비",
+									"beginOffset": 12,
+									"length": 1
+								},
+								"tag": "XPN",
+								"probability": 0.97128755,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "장애인",
+									"beginOffset": 13,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.98303246,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 16,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.9997465,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "라",
+									"beginOffset": 17,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9677869,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "비",
+						"tagged": "비/XPN+장애인/NNG+이/VCP+라/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "칭하고",
+							"beginOffset": 19,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "칭하",
+									"beginOffset": 19,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9891558,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 21,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99361056,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "칭하",
+						"tagged": "칭하/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있다.",
+							"beginOffset": 23,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 23,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.94040436,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 24,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9943701,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 25,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9996648,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VX+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "장애인이 아닌 사람을 비장애인이라 칭하고 있다."
+			},
+			{
+				"text": {
+					"content": "이는 모든 사람들이 장애를 입을 가능성이 있는 잠재 장애인임을 의미한다.",
+					"beginOffset": 27,
+					"length": 40
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "이는",
+							"beginOffset": 27,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 27,
+									"length": 1
+								},
+								"tag": "NP",
+								"probability": 0.96122915,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 28,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9985083,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이",
+						"tagged": "이/NP+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "모든",
+							"beginOffset": 30,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "모든",
+									"beginOffset": 30,
+									"length": 2
+								},
+								"tag": "MMN",
+								"probability": 0.99949676,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "모든",
+						"tagged": "모든/MMN",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사람들이",
+							"beginOffset": 33,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사람",
+									"beginOffset": 33,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9857966,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "들",
+									"beginOffset": 35,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.9920524,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 36,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.98815274,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사람",
+						"tagged": "사람/NNG+들/XSN+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "장애를",
+							"beginOffset": 38,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "장애",
+									"beginOffset": 38,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9813924,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 40,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999209,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "장애",
+						"tagged": "장애/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "입을",
+							"beginOffset": 42,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "입",
+									"beginOffset": 42,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9880715,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 43,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99998885,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "입",
+						"tagged": "입/VV+을/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "가능성이",
+							"beginOffset": 45,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "가능",
+									"beginOffset": 45,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98491776,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "성",
+									"beginOffset": 47,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.984862,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 48,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9962207,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "가능",
+						"tagged": "가능/NNG+성/XSN+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있는",
+							"beginOffset": 50,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 50,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9763031,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 51,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99996006,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VA+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "잠재",
+							"beginOffset": 53,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "잠재",
+									"beginOffset": 53,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9785245,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "잠재",
+						"tagged": "잠재/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "장애인임을",
+							"beginOffset": 56,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "장애인",
+									"beginOffset": 56,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.98552185,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 59,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.9998749,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㅁ",
+									"beginOffset": 59,
+									"length": 1
+								},
+								"tag": "ETN",
+								"probability": 0.9995324,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 60,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99994487,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "장애인",
+						"tagged": "장애인/NNG+이/VCP+ㅁ/ETN+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "의미한다.",
+							"beginOffset": 62,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "의미하",
+									"beginOffset": 62,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ다",
+									"beginOffset": 64,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.99119216,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 66,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9998059,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "의미하",
+						"tagged": "의미하/VV+ㄴ다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "이는 모든 사람들이 장애를 입을 가능성이 있는 잠재 장애인임을 의미한다."
+			},
+			{
+				"text": {
+					"content": "현대 산업사회에서는 위험성 때문에 비장애인은 장애인이 될 가능성이 높다.",
+					"beginOffset": 68,
+					"length": 40
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "현대",
+							"beginOffset": 68,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "현대",
+									"beginOffset": 68,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.58192635,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "현대",
+						"tagged": "현대/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "산업사회에서는",
+							"beginOffset": 71,
+							"length": 7
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "산업",
+									"beginOffset": 71,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "사회",
+									"beginOffset": 73,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "에서",
+									"beginOffset": 75,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.99626815,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 77,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.998046,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "산업",
+						"tagged": "산업/NNG+사회/NNG+에서/JKB+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "위험성",
+							"beginOffset": 79,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "위험",
+									"beginOffset": 79,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9841559,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "성",
+									"beginOffset": 81,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.98365784,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "위험",
+						"tagged": "위험/NNG+성/XSN",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "때문에",
+							"beginOffset": 83,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "때문",
+									"beginOffset": 83,
+									"length": 2
+								},
+								"tag": "NNB",
+								"probability": 0.97417957,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 85,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99661887,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "때문",
+						"tagged": "때문/NNB+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "비장애인은",
+							"beginOffset": 87,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "비",
+									"beginOffset": 87,
+									"length": 1
+								},
+								"tag": "XPN",
+								"probability": 0.9828518,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "장애인",
+									"beginOffset": 88,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9840801,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 91,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9984301,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "비",
+						"tagged": "비/XPN+장애인/NNG+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "장애인이",
+							"beginOffset": 93,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "장애인",
+									"beginOffset": 93,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.98476255,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 96,
+									"length": 1
+								},
+								"tag": "JKC",
+								"probability": 0.9638487,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "장애인",
+						"tagged": "장애인/NNG+이/JKC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "될",
+							"beginOffset": 98,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "되",
+									"beginOffset": 98,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.98288953,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ",
+									"beginOffset": 98,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999741,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "되",
+						"tagged": "되/VV+ㄹ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "가능성이",
+							"beginOffset": 100,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "가능",
+									"beginOffset": 100,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98302096,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "성",
+									"beginOffset": 102,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.9802693,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 103,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9915689,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "가능",
+						"tagged": "가능/NNG+성/XSN+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "높다.",
+							"beginOffset": 105,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "높",
+									"beginOffset": 105,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9877336,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 106,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.99482214,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 107,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9995793,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "높",
+						"tagged": "높/VA+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "현대 산업사회에서는 위험성 때문에 비장애인은 장애인이 될 가능성이 높다."
+			},
+			{
+				"text": {
+					"content": "이러한 장애의 편재성에 대한 인식이야말로 장애인에 대한 올바른 시각을 정립하는 출발점이 될 것이다.",
+					"beginOffset": 109,
+					"length": 55
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "이러한",
+							"beginOffset": 109,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이러하",
+									"beginOffset": 109,
+									"length": 3
+								},
+								"tag": "VA",
+								"probability": 0.9858026,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 111,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99999374,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이러하",
+						"tagged": "이러하/VA+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "장애의",
+							"beginOffset": 113,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "장애",
+									"beginOffset": 113,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9812069,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 115,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9983292,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "장애",
+						"tagged": "장애/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "편재성에",
+							"beginOffset": 117,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "편재",
+									"beginOffset": 117,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97452307,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "성",
+									"beginOffset": 119,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.95686406,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 120,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9951259,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "편재",
+						"tagged": "편재/NNG+성/XSN+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "대한",
+							"beginOffset": 122,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "대하",
+									"beginOffset": 122,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.99222296,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 123,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999849,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "대하",
+						"tagged": "대하/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "인식이야말로",
+							"beginOffset": 125,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "인식",
+									"beginOffset": 125,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98406607,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이야말로",
+									"beginOffset": 127,
+									"length": 4
+								},
+								"tag": "JX",
+								"probability": 0.99846363,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "인식",
+						"tagged": "인식/NNG+이야말로/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "장애인에",
+							"beginOffset": 132,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "장애인",
+									"beginOffset": 132,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.98177266,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 135,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99640656,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "장애인",
+						"tagged": "장애인/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "대한",
+							"beginOffset": 137,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "대하",
+									"beginOffset": 137,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.98993605,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 138,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99998784,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "대하",
+						"tagged": "대하/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "올바른",
+							"beginOffset": 140,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "올바르",
+									"beginOffset": 140,
+									"length": 3
+								},
+								"tag": "VA",
+								"probability": 0.98733604,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 142,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999898,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "올바르",
+						"tagged": "올바르/VA+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "시각을",
+							"beginOffset": 144,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "시각",
+									"beginOffset": 144,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9822407,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 146,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99994135,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "시각",
+						"tagged": "시각/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "정립하는",
+							"beginOffset": 148,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "정립하",
+									"beginOffset": 148,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 151,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9998226,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "정립하",
+						"tagged": "정립하/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "출발점이",
+							"beginOffset": 153,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "출발점",
+									"beginOffset": 153,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9820898,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 156,
+									"length": 1
+								},
+								"tag": "JKC",
+								"probability": 0.96231675,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "출발점",
+						"tagged": "출발점/NNG+이/JKC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "될",
+							"beginOffset": 158,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "되",
+									"beginOffset": 158,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.98674273,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ",
+									"beginOffset": 158,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99998003,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "되",
+						"tagged": "되/VV+ㄹ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "것이다.",
+							"beginOffset": 160,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "것",
+									"beginOffset": 160,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9830367,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 161,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.9997166,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 162,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.98996913,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 163,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9996243,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "것",
+						"tagged": "것/NNB+이/VCP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "이러한 장애의 편재성에 대한 인식이야말로 장애인에 대한 올바른 시각을 정립하는 출발점이 될 것이다."
+			},
+			{
+				"text": {
+					"content": "여러분들이 생각하기에 장애를 가진 사람들에 대한 인식을 바꿀 수 있는 가장 좋은 방법은 무엇이라고 생각하나요?",
+					"beginOffset": 165,
+					"length": 61
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "여러분들이",
+							"beginOffset": 165,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "여러분",
+									"beginOffset": 165,
+									"length": 3
+								},
+								"tag": "NP",
+								"probability": 0.9823444,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "들",
+									"beginOffset": 168,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.98792803,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 169,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9897702,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "여러분",
+						"tagged": "여러분/NP+들/XSN+이/JKS",
+						"modified": "여러분들이"
+					},
+					{
+						"text": {
+							"content": "생각하기에",
+							"beginOffset": 171,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "생각하",
+									"beginOffset": 171,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.0,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "기",
+									"beginOffset": 174,
+									"length": 1
+								},
+								"tag": "ETN",
+								"probability": 0.9995833,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 175,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9637196,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "생각하",
+						"tagged": "생각하/VV+기/ETN+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "장애를",
+							"beginOffset": 177,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "장애",
+									"beginOffset": 177,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97614646,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 179,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99993384,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "장애",
+						"tagged": "장애/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "가진",
+							"beginOffset": 181,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "가지",
+									"beginOffset": 181,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9887011,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 182,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99999386,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "가지",
+						"tagged": "가지/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사람들에",
+							"beginOffset": 184,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사람",
+									"beginOffset": 184,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9857982,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "들",
+									"beginOffset": 186,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.99067694,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 187,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.97684896,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사람",
+						"tagged": "사람/NNG+들/XSN+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "대한",
+							"beginOffset": 189,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "대하",
+									"beginOffset": 189,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.99087536,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 190,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99999225,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "대하",
+						"tagged": "대하/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "인식을",
+							"beginOffset": 192,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "인식",
+									"beginOffset": 192,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9855521,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 194,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.999972,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "인식",
+						"tagged": "인식/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "바꿀",
+							"beginOffset": 196,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "바꾸",
+									"beginOffset": 196,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9885972,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ",
+									"beginOffset": 197,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999297,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "바꾸",
+						"tagged": "바꾸/VV+ㄹ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "수",
+							"beginOffset": 199,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "수",
+									"beginOffset": 199,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.97896093,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "수",
+						"tagged": "수/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있는",
+							"beginOffset": 201,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 201,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.97558254,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 202,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9998451,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VA+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "가장",
+							"beginOffset": 204,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "가장",
+									"beginOffset": 204,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.98887634,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "가장",
+						"tagged": "가장/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "좋은",
+							"beginOffset": 207,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "좋",
+									"beginOffset": 207,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9855978,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 208,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.999983,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "좋",
+						"tagged": "좋/VA+은/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "방법은",
+							"beginOffset": 210,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "방법",
+									"beginOffset": 210,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98077184,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 212,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99856305,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "방법",
+						"tagged": "방법/NNG+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "무엇이라고",
+							"beginOffset": 214,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "무엇",
+									"beginOffset": 214,
+									"length": 2
+								},
+								"tag": "NP",
+								"probability": 0.9834419,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 216,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.9997336,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "라고",
+									"beginOffset": 217,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99260485,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "무엇",
+						"tagged": "무엇/NP+이/VCP+라고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "생각하나요?",
+							"beginOffset": 220,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "생각하",
+									"beginOffset": 220,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.0,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "나",
+									"beginOffset": 223,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9866413,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "요",
+									"beginOffset": 224,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9981273,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "?",
+									"beginOffset": 225,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99966186,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "생각하",
+						"tagged": "생각하/VV+나/EF+요/JX+?/SF",
+						"modified": ""
+					}
+				],
+				"refined": "여러분들이 생각하기에 장애를 가진 사람들에 대한 인식을 바꿀 수 있는 가장 좋은 방법은 무엇이라고 생각하나요?"
+			}
+		],
+		"language": "ko_KR"
+	},
+	"ttr": {
+		"lemma_Cnt": 118,
+		"lemma_TTR": 0.4959349593495935,
+		"CL_TTR": 0.631578947368421,
+		"NL_TTR": 0.6451612903225806,
+		"NN_TTR": 0.6071428571428571,
+		"NNG_TTR": 0.56,
+		"NNP_TTR": 0,
+		"NNB_TTR": 1.0,
+		"NP_TTR": 1.0,
+		"NR_TTR": 0,
+		"VL_TTR": 0.64,
+		"VV_TTR": 0.6923076923076923,
+		"VA_TTR": 0.8333333333333334,
+		"ML_TTR": 1.0,
+		"MM_TTR": 0,
+		"MA_TTR": 1.0,
+		"MAJ_TTR": 0,
+		"IC_TTR": 0,
+		"FL_TTR": 0.38333333333333336,
+		"J_TTR": 0.38461538461538464,
+		"E_TTR": 0.52,
+		"X_TTR": 0.3333333333333333,
+		"lemma_RTTR": 5.5001847714713366,
+		"CL_RTTR": 4.768316485434157,
+		"NL_RTTR": 3.5921060405354983,
+		"NN_RTTR": 3.2126980205784315,
+		"NNG_RTTR": 2.8,
+		"NNP_RTTR": 0,
+		"NNB_RTTR": 1.7320508075688774,
+		"NP_RTTR": 1.7320508075688774,
+		"NR_RTTR": 0,
+		"VL_RTTR": 3.2,
+		"VV_RTTR": 2.4961508830135313,
+		"VA_RTTR": 2.041241452319315,
+		"ML_RTTR": 1.0,
+		"MM_RTTR": 0,
+		"MA_RTTR": 1.0,
+		"MAJ_RTTR": 0,
+		"IC_RTTR": 0,
+		"FL_RTTR": 2.969287232092353,
+		"J_RTTR": 1.9611613513818404,
+		"E_RTTR": 2.6,
+		"X_RTTR": 1.0,
+		"lemma_CTTR": 3.8892179496863633,
+		"CL_CTTR": 3.3717089216940983,
+		"NL_CTTR": 2.54000254000381,
+		"NN_CTTR": 2.271720556255607,
+		"NNG_CTTR": 1.979898987322333,
+		"NNP_CTTR": 0,
+		"NNB_CTTR": 1.2247448713915892,
+		"NP_CTTR": 1.2247448713915892,
+		"NR_CTTR": 0,
+		"VL_CTTR": 2.262741699796952,
+		"VV_CTTR": 1.7650452162436565,
+		"VA_CTTR": 1.4433756729740645,
+		"ML_CTTR": 0.7071067811865475,
+		"MM_CTTR": 0,
+		"MA_CTTR": 0.7071067811865475,
+		"MAJ_CTTR": 0,
+		"IC_CTTR": 0,
+		"FL_CTTR": 2.099603137103137,
+		"J_CTTR": 1.386750490563073,
+		"E_CTTR": 1.8384776310850235,
+		"X_CTTR": 0.7071067811865476,
+		"lemma_MSTTR": 0.65,
+		"CL_MSTTR": 0.64,
+		"NL_MSTTR": 0.6451612903225806,
+		"NN_MSTTR": 0.6071428571428571,
+		"NNG_MSTTR": 0.56,
+		"NNP_MSTTR": 0,
+		"NNB_MSTTR": 1.0,
+		"NP_MSTTR": 1.0,
+		"NR_MSTTR": 0,
+		"VL_MSTTR": 0.64,
+		"VV_MSTTR": 0.6923076923076923,
+		"VA_MSTTR": 0.8333333333333334,
+		"ML_MSTTR": 1.0,
+		"MM_MSTTR": 0,
+		"MA_MSTTR": 1.0,
+		"MAJ_MSTTR": 0,
+		"IC_MSTTR": 0,
+		"FL_MSTTR": 0.4,
+		"J_MSTTR": 0.38461538461538464,
+		"E_MSTTR": 0.52,
+		"X_MSTTR": 0.3333333333333333,
+		"lemma_MATTR": 0.6659459459459459,
+		"CL_MATTR": 0.6649999999999999,
+		"NL_MATTR": 0.6451612903225806,
+		"NN_MATTR": 0.6071428571428571,
+		"NNG_MATTR": 0.56,
+		"NNP_MATTR": 0,
+		"NNB_MATTR": 1.0,
+		"NP_MATTR": 1.0,
+		"NR_MATTR": 0,
+		"VL_MATTR": 0.64,
+		"VV_MATTR": 0.6923076923076923,
+		"VA_MATTR": 0.8333333333333334,
+		"ML_MATTR": 1.0,
+		"MM_MATTR": 0,
+		"MA_MATTR": 1.0,
+		"MAJ_MATTR": 0,
+		"IC_MATTR": 0,
+		"FL_MATTR": 0.3909090909090909,
+		"J_MATTR": 0.38461538461538464,
+		"E_MATTR": 0.52,
+		"X_MATTR": 0.3333333333333333,
+		"lemma_MTLD": 43.03552385069895,
+		"CL_MTLD": 28.774655963302756,
+		"NL_MTLD": 17.41337560155832,
+		"NN_MTLD": 12.830950760154302,
+		"NNG_MTLD": 12.85377358490566,
+		"NNP_MTLD": 0.0,
+		"NNB_MTLD": 0.0,
+		"NP_MTLD": 0.0,
+		"NR_MTLD": 0.0,
+		"VL_MTLD": 16.220715466122293,
+		"VV_MTLD": 12.415000000000001,
+		"VA_MTLD": 10.080000000000004,
+		"ML_MTLD": 0.0,
+		"MM_MTLD": 0.0,
+		"MA_MTLD": 0.0,
+		"MAJ_MTLD": 0.0,
+		"IC_MTLD": 0.0,
+		"FL_MTLD": 17.95960771276596,
+		"J_MTLD": 11.509174311926607,
+		"E_MTLD": 12.5,
+		"X_MTLD": 3.7800000000000002,
+		"lemma_VOCDD": 35.2544888228418,
+		"CL_VOCDD": 31.433748885468457,
+		"NL_VOCDD": 0,
+		"NN_VOCDD": 0,
+		"NNG_VOCDD": 0,
+		"NNP_VOCDD": 0,
+		"NNB_VOCDD": 0,
+		"NP_VOCDD": 0,
+		"NR_VOCDD": 0,
+		"VL_VOCDD": 0,
+		"VV_VOCDD": 0,
+		"VA_VOCDD": 0,
+		"ML_VOCDD": 0,
+		"MM_VOCDD": 0,
+		"MA_VOCDD": 0,
+		"MAJ_VOCDD": 0,
+		"IC_VOCDD": 0,
+		"FL_VOCDD": 8.366253095547396,
+		"J_VOCDD": 0,
+		"E_VOCDD": 0,
+		"X_VOCDD": 0,
+		"lemma_HDD": 0.7051931434953547,
+		"CL_HDD": 0.6864685895222142,
+		"NL_HDD": 0.0,
+		"NN_HDD": 0.0,
+		"NNG_HDD": 0.0,
+		"NNP_HDD": 0.0,
+		"NNB_HDD": 0.0,
+		"NP_HDD": 0.0,
+		"NR_HDD": 0.0,
+		"VL_HDD": 0.0,
+		"VV_HDD": 0.0,
+		"VA_HDD": 0.0,
+		"ML_HDD": 0.0,
+		"MM_HDD": 0.0,
+		"MA_HDD": 0.0,
+		"MAJ_HDD": 0.0,
+		"IC_HDD": 0.0,
+		"FL_HDD": 0.4623949869005084,
+		"J_HDD": 0.0,
+		"E_HDD": 0.0,
+		"X_HDD": 0.0
+	},
+	"similarity": {
+		"avgSentSimilarity": 0.3394423723220825,
+		"topicConsistency": 0.6269
+	},
+	"adjacency": {
+		"adjacent_sentence_overlap_all_lemmas": 85,
+		"adjacent_sentence_overlap_all_lemmas_normed": 4,
+		"binary_adjacent_sentence_overlap_all_lemmas": 4,
+		"adjacent_two_sentence_overlap_all_lemmas": 58,
+		"adjacent_two_sentence_overlap_all_lemmas_normed": 3,
+		"binary_adjacent_two_sentence_overlap_all_lemmas": 3,
+		"adjacent_sentence_overlap_content_lemmas": 43,
+		"adjacent_sentence_overlap_content_lemmas_normed": 4,
+		"binary_adjacent_sentence_overlap_content_lemmas": 4,
+		"adjacent_two_sentence_overlap_content_lemmas": 32,
+		"adjacent_two_sentence_overlap_content_lemmas_normed": 3,
+		"binary_adjacent_two_sentence_overlap_content_lemmas": 2,
+		"adjacent_sentence_overlap_function_lemmas": 33,
+		"adjacent_sentence_overlap_function_lemmas_normed": 4,
+		"binary_adjacent_sentence_overlap_function_lemmas": 4,
+		"adjacent_two_sentence_overlap_function_lemmas": 20,
+		"adjacent_two_sentence_overlap_function_lemmas_normed": 3,
+		"binary_adjacent_two_sentence_overlap_function_lemmas": 3,
+		"adjacent_sentence_overlap_noun_lemmas": 29,
+		"adjacent_sentence_overlap_noun_lemmas_normed": 4,
+		"binary_adjacent_sentence_overlap_noun_lemmas": 4,
+		"adjacent_two_sentence_overlap_noun_lemmas": 21,
+		"adjacent_two_sentence_overlap_noun_lemmas_normed": 3,
+		"binary_adjacent_two_sentence_overlap_noun_lemmas": 2,
+		"adjacent_sentence_overlap_verb_lemmas": 19,
+		"adjacent_sentence_overlap_verb_lemmas_normed": 4,
+		"binary_adjacent_sentence_overlap_verb_lemmas": 4,
+		"adjacent_two_sentence_overlap_verb_lemmas": 14,
+		"adjacent_two_sentence_overlap_verb_lemmas_normed": 3,
+		"binary_adjacent_two_sentence_overlap_verb_lemmas": 2,
+		"adjacent_sentence_overlap_adjective_lemmas": 5,
+		"adjacent_sentence_overlap_adjective_lemmas_normed": 3,
+		"binary_adjacent_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas": 4,
+		"adjacent_two_sentence_overlap_adjective_lemmas_normed": 2,
+		"binary_adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_sentence_overlap_adverb_lemmas_normed": 0,
+		"binary_adjacent_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adverb_lemmas": 0
+	},
+	"basic_count": {
+		"para_Cnt": 1,
+		"sentence_Cnt": 5,
+		"word_Cnt": 53,
+		"morph_Cnt": 123,
+		"char_Cnt": 185,
+		"CL_Cnt": 57,
+		"NL_Cnt": 31,
+		"NN_Cnt": 28,
+		"NNG_Cnt": 25,
+		"NNP_Cnt": 0,
+		"NNB_Cnt": 3,
+		"NP_Cnt": 3,
+		"NP_People_Cnt": 0,
+		"NP_Things_Cnt": 2,
+		"NR_Cnt": 0,
+		"VL_Cnt": 25,
+		"VV_Cnt": 13,
+		"VA_Cnt": 6,
+		"VX_Cnt": 1,
+		"VCP_Cnt": 4,
+		"VCN_Cnt": 1,
+		"ML_Cnt": 1,
+		"MA_Cnt": 0,
+		"MM_Cnt": 0,
+		"FL_Cnt": 60,
+		"J_Cnt": 26,
+		"E_Cnt": 25,
+		"X_Cnt": 9,
+		"IC_Cnt": 0
+	},
+	"basic_density": {
+		"CL_Den": 0.4634146341463415,
+		"FL_Den": 0.4878048780487805,
+		"NL_Den": 0.22764227642276422,
+		"NNGL_Den": 0.2032520325203252,
+		"NNPL_Den": 0.0,
+		"NNBL_Den": 0.024390243902439025,
+		"NPL_Den": 0.024390243902439025,
+		"NML_Den": 0.0,
+		"VL_Den": 0.2032520325203252,
+		"VVL_Den": 0.10569105691056911,
+		"VAL_Den": 0.04878048780487805,
+		"ML_Den": 0.008130081300813009,
+		"MML_Den": 0.0,
+		"MAL_Den": 0.0,
+		"JL_Den": 0.21138211382113822,
+		"EL_Den": 0.2032520325203252,
+		"XL_Den": 0.07317073170731707,
+		"ITL_Den": 0.0,
+		"NCL_Den": 0.49122807017543857,
+		"NNCL_Den": 0.43859649122807015,
+		"NNGCL_Den": 0.0,
+		"NNBCL_Den": 0.05263157894736842,
+		"NPCL_Den": 0.05263157894736842,
+		"NMCL_Den": 0.0,
+		"VCL_Den": 0.43859649122807015,
+		"VVCL_Den": 0.22807017543859648,
+		"VACL_Den": 0.10526315789473684,
+		"MCL_Den": 0.017543859649122806,
+		"MMCL_Den": 0.0,
+		"MACL_Den": 0.0,
+		"INCL_Den": 0.0,
+		"JFL_Den": 0.43333333333333335,
+		"EFL_Den": 0.4166666666666667,
+		"XFL_Den": 0.15
+	},
+	"basic_level": {
+		"morph_LenAvg": 1.5121951219512195,
+		"morph_LenStd": 0.7254474779253407,
+		"word_LenAvg": 3.188679245283019,
+		"word_LenStd": 1.3466464815136214
+	},
+	"basic_list": {
+		"NL_Lst": [
+			[
+				0,
+				"장애인",
+				"NNG",
+				"장애인이 아닌 사람을 비장애인이라 칭하고 있다."
+			],
+			[
+				1,
+				"사람",
+				"NNG",
+				"장애인이 아닌 사람을 비장애인이라 칭하고 있다."
+			],
+			[
+				2,
+				"장애인",
+				"NNG",
+				"장애인이 아닌 사람을 비장애인이라 칭하고 있다."
+			],
+			[
+				3,
+				"이",
+				"NP",
+				"이는 모든 사람들이 장애를 입을 가능성이 있는 잠재 장애인임을 의미한다."
+			],
+			[
+				4,
+				"사람",
+				"NNG",
+				"이는 모든 사람들이 장애를 입을 가능성이 있는 잠재 장애인임을 의미한다."
+			],
+			[
+				5,
+				"장애",
+				"NNG",
+				"이는 모든 사람들이 장애를 입을 가능성이 있는 잠재 장애인임을 의미한다."
+			],
+			[
+				6,
+				"가능",
+				"NNG",
+				"이는 모든 사람들이 장애를 입을 가능성이 있는 잠재 장애인임을 의미한다."
+			],
+			[
+				7,
+				"잠재",
+				"NNG",
+				"이는 모든 사람들이 장애를 입을 가능성이 있는 잠재 장애인임을 의미한다."
+			],
+			[
+				8,
+				"장애인",
+				"NNG",
+				"이는 모든 사람들이 장애를 입을 가능성이 있는 잠재 장애인임을 의미한다."
+			],
+			[
+				9,
+				"현대",
+				"NNG",
+				"현대 산업사회에서는 위험성 때문에 비장애인은 장애인이 될 가능성이 높다."
+			],
+			[
+				10,
+				"산업",
+				"NNG",
+				"현대 산업사회에서는 위험성 때문에 비장애인은 장애인이 될 가능성이 높다."
+			],
+			[
+				11,
+				"사회",
+				"NNG",
+				"현대 산업사회에서는 위험성 때문에 비장애인은 장애인이 될 가능성이 높다."
+			],
+			[
+				12,
+				"위험",
+				"NNG",
+				"현대 산업사회에서는 위험성 때문에 비장애인은 장애인이 될 가능성이 높다."
+			],
+			[
+				13,
+				"때문",
+				"NNB",
+				"현대 산업사회에서는 위험성 때문에 비장애인은 장애인이 될 가능성이 높다."
+			],
+			[
+				14,
+				"장애인",
+				"NNG",
+				"현대 산업사회에서는 위험성 때문에 비장애인은 장애인이 될 가능성이 높다."
+			],
+			[
+				15,
+				"장애인",
+				"NNG",
+				"현대 산업사회에서는 위험성 때문에 비장애인은 장애인이 될 가능성이 높다."
+			],
+			[
+				16,
+				"가능",
+				"NNG",
+				"현대 산업사회에서는 위험성 때문에 비장애인은 장애인이 될 가능성이 높다."
+			],
+			[
+				17,
+				"장애",
+				"NNG",
+				"이러한 장애의 편재성에 대한 인식이야말로 장애인에 대한 올바른 시각을 정립하는 출발점이 될 것이다."
+			],
+			[
+				18,
+				"편재",
+				"NNG",
+				"이러한 장애의 편재성에 대한 인식이야말로 장애인에 대한 올바른 시각을 정립하는 출발점이 될 것이다."
+			],
+			[
+				19,
+				"인식",
+				"NNG",
+				"이러한 장애의 편재성에 대한 인식이야말로 장애인에 대한 올바른 시각을 정립하는 출발점이 될 것이다."
+			],
+			[
+				20,
+				"장애인",
+				"NNG",
+				"이러한 장애의 편재성에 대한 인식이야말로 장애인에 대한 올바른 시각을 정립하는 출발점이 될 것이다."
+			],
+			[
+				21,
+				"시각",
+				"NNG",
+				"이러한 장애의 편재성에 대한 인식이야말로 장애인에 대한 올바른 시각을 정립하는 출발점이 될 것이다."
+			],
+			[
+				22,
+				"출발점",
+				"NNG",
+				"이러한 장애의 편재성에 대한 인식이야말로 장애인에 대한 올바른 시각을 정립하는 출발점이 될 것이다."
+			],
+			[
+				23,
+				"것",
+				"NNB",
+				"이러한 장애의 편재성에 대한 인식이야말로 장애인에 대한 올바른 시각을 정립하는 출발점이 될 것이다."
+			],
+			[
+				24,
+				"여러분",
+				"NP",
+				"여러분들이 생각하기에 장애를 가진 사람들에 대한 인식을 바꿀 수 있는 가장 좋은 방법은 무엇이라고 생각하나요?"
+			],
+			[
+				25,
+				"장애",
+				"NNG",
+				"여러분들이 생각하기에 장애를 가진 사람들에 대한 인식을 바꿀 수 있는 가장 좋은 방법은 무엇이라고 생각하나요?"
+			],
+			[
+				26,
+				"사람",
+				"NNG",
+				"여러분들이 생각하기에 장애를 가진 사람들에 대한 인식을 바꿀 수 있는 가장 좋은 방법은 무엇이라고 생각하나요?"
+			],
+			[
+				27,
+				"인식",
+				"NNG",
+				"여러분들이 생각하기에 장애를 가진 사람들에 대한 인식을 바꿀 수 있는 가장 좋은 방법은 무엇이라고 생각하나요?"
+			],
+			[
+				28,
+				"수",
+				"NNB",
+				"여러분들이 생각하기에 장애를 가진 사람들에 대한 인식을 바꿀 수 있는 가장 좋은 방법은 무엇이라고 생각하나요?"
+			],
+			[
+				29,
+				"방법",
+				"NNG",
+				"여러분들이 생각하기에 장애를 가진 사람들에 대한 인식을 바꿀 수 있는 가장 좋은 방법은 무엇이라고 생각하나요?"
+			],
+			[
+				30,
+				"무엇",
+				"NP",
+				"여러분들이 생각하기에 장애를 가진 사람들에 대한 인식을 바꿀 수 있는 가장 좋은 방법은 무엇이라고 생각하나요?"
+			]
+		],
+		"NN_Lst": [
+			[
+				0,
+				"장애인",
+				"NNG",
+				"장애인이 아닌 사람을 비장애인이라 칭하고 있다."
+			],
+			[
+				1,
+				"사람",
+				"NNG",
+				"장애인이 아닌 사람을 비장애인이라 칭하고 있다."
+			],
+			[
+				2,
+				"장애인",
+				"NNG",
+				"장애인이 아닌 사람을 비장애인이라 칭하고 있다."
+			],
+			[
+				3,
+				"사람",
+				"NNG",
+				"이는 모든 사람들이 장애를 입을 가능성이 있는 잠재 장애인임을 의미한다."
+			],
+			[
+				4,
+				"장애",
+				"NNG",
+				"이는 모든 사람들이 장애를 입을 가능성이 있는 잠재 장애인임을 의미한다."
+			],
+			[
+				5,
+				"가능",
+				"NNG",
+				"이는 모든 사람들이 장애를 입을 가능성이 있는 잠재 장애인임을 의미한다."
+			],
+			[
+				6,
+				"잠재",
+				"NNG",
+				"이는 모든 사람들이 장애를 입을 가능성이 있는 잠재 장애인임을 의미한다."
+			],
+			[
+				7,
+				"장애인",
+				"NNG",
+				"이는 모든 사람들이 장애를 입을 가능성이 있는 잠재 장애인임을 의미한다."
+			],
+			[
+				8,
+				"현대",
+				"NNG",
+				"현대 산업사회에서는 위험성 때문에 비장애인은 장애인이 될 가능성이 높다."
+			],
+			[
+				9,
+				"산업",
+				"NNG",
+				"현대 산업사회에서는 위험성 때문에 비장애인은 장애인이 될 가능성이 높다."
+			],
+			[
+				10,
+				"사회",
+				"NNG",
+				"현대 산업사회에서는 위험성 때문에 비장애인은 장애인이 될 가능성이 높다."
+			],
+			[
+				11,
+				"위험",
+				"NNG",
+				"현대 산업사회에서는 위험성 때문에 비장애인은 장애인이 될 가능성이 높다."
+			],
+			[
+				12,
+				"때문",
+				"NNB",
+				"현대 산업사회에서는 위험성 때문에 비장애인은 장애인이 될 가능성이 높다."
+			],
+			[
+				13,
+				"장애인",
+				"NNG",
+				"현대 산업사회에서는 위험성 때문에 비장애인은 장애인이 될 가능성이 높다."
+			],
+			[
+				14,
+				"장애인",
+				"NNG",
+				"현대 산업사회에서는 위험성 때문에 비장애인은 장애인이 될 가능성이 높다."
+			],
+			[
+				15,
+				"가능",
+				"NNG",
+				"현대 산업사회에서는 위험성 때문에 비장애인은 장애인이 될 가능성이 높다."
+			],
+			[
+				16,
+				"장애",
+				"NNG",
+				"이러한 장애의 편재성에 대한 인식이야말로 장애인에 대한 올바른 시각을 정립하는 출발점이 될 것이다."
+			],
+			[
+				17,
+				"편재",
+				"NNG",
+				"이러한 장애의 편재성에 대한 인식이야말로 장애인에 대한 올바른 시각을 정립하는 출발점이 될 것이다."
+			],
+			[
+				18,
+				"인식",
+				"NNG",
+				"이러한 장애의 편재성에 대한 인식이야말로 장애인에 대한 올바른 시각을 정립하는 출발점이 될 것이다."
+			],
+			[
+				19,
+				"장애인",
+				"NNG",
+				"이러한 장애의 편재성에 대한 인식이야말로 장애인에 대한 올바른 시각을 정립하는 출발점이 될 것이다."
+			],
+			[
+				20,
+				"시각",
+				"NNG",
+				"이러한 장애의 편재성에 대한 인식이야말로 장애인에 대한 올바른 시각을 정립하는 출발점이 될 것이다."
+			],
+			[
+				21,
+				"출발점",
+				"NNG",
+				"이러한 장애의 편재성에 대한 인식이야말로 장애인에 대한 올바른 시각을 정립하는 출발점이 될 것이다."
+			],
+			[
+				22,
+				"것",
+				"NNB",
+				"이러한 장애의 편재성에 대한 인식이야말로 장애인에 대한 올바른 시각을 정립하는 출발점이 될 것이다."
+			],
+			[
+				23,
+				"장애",
+				"NNG",
+				"여러분들이 생각하기에 장애를 가진 사람들에 대한 인식을 바꿀 수 있는 가장 좋은 방법은 무엇이라고 생각하나요?"
+			],
+			[
+				24,
+				"사람",
+				"NNG",
+				"여러분들이 생각하기에 장애를 가진 사람들에 대한 인식을 바꿀 수 있는 가장 좋은 방법은 무엇이라고 생각하나요?"
+			],
+			[
+				25,
+				"인식",
+				"NNG",
+				"여러분들이 생각하기에 장애를 가진 사람들에 대한 인식을 바꿀 수 있는 가장 좋은 방법은 무엇이라고 생각하나요?"
+			],
+			[
+				26,
+				"수",
+				"NNB",
+				"여러분들이 생각하기에 장애를 가진 사람들에 대한 인식을 바꿀 수 있는 가장 좋은 방법은 무엇이라고 생각하나요?"
+			],
+			[
+				27,
+				"방법",
+				"NNG",
+				"여러분들이 생각하기에 장애를 가진 사람들에 대한 인식을 바꿀 수 있는 가장 좋은 방법은 무엇이라고 생각하나요?"
+			]
+		],
+		"NNG_Lst": [
+			[
+				0,
+				"장애인",
+				"NNG",
+				"장애인이 아닌 사람을 비장애인이라 칭하고 있다."
+			],
+			[
+				1,
+				"사람",
+				"NNG",
+				"장애인이 아닌 사람을 비장애인이라 칭하고 있다."
+			],
+			[
+				2,
+				"장애인",
+				"NNG",
+				"장애인이 아닌 사람을 비장애인이라 칭하고 있다."
+			],
+			[
+				3,
+				"사람",
+				"NNG",
+				"이는 모든 사람들이 장애를 입을 가능성이 있는 잠재 장애인임을 의미한다."
+			],
+			[
+				4,
+				"장애",
+				"NNG",
+				"이는 모든 사람들이 장애를 입을 가능성이 있는 잠재 장애인임을 의미한다."
+			],
+			[
+				5,
+				"가능",
+				"NNG",
+				"이는 모든 사람들이 장애를 입을 가능성이 있는 잠재 장애인임을 의미한다."
+			],
+			[
+				6,
+				"잠재",
+				"NNG",
+				"이는 모든 사람들이 장애를 입을 가능성이 있는 잠재 장애인임을 의미한다."
+			],
+			[
+				7,
+				"장애인",
+				"NNG",
+				"이는 모든 사람들이 장애를 입을 가능성이 있는 잠재 장애인임을 의미한다."
+			],
+			[
+				8,
+				"현대",
+				"NNG",
+				"현대 산업사회에서는 위험성 때문에 비장애인은 장애인이 될 가능성이 높다."
+			],
+			[
+				9,
+				"산업",
+				"NNG",
+				"현대 산업사회에서는 위험성 때문에 비장애인은 장애인이 될 가능성이 높다."
+			],
+			[
+				10,
+				"사회",
+				"NNG",
+				"현대 산업사회에서는 위험성 때문에 비장애인은 장애인이 될 가능성이 높다."
+			],
+			[
+				11,
+				"위험",
+				"NNG",
+				"현대 산업사회에서는 위험성 때문에 비장애인은 장애인이 될 가능성이 높다."
+			],
+			[
+				12,
+				"장애인",
+				"NNG",
+				"현대 산업사회에서는 위험성 때문에 비장애인은 장애인이 될 가능성이 높다."
+			],
+			[
+				13,
+				"장애인",
+				"NNG",
+				"현대 산업사회에서는 위험성 때문에 비장애인은 장애인이 될 가능성이 높다."
+			],
+			[
+				14,
+				"가능",
+				"NNG",
+				"현대 산업사회에서는 위험성 때문에 비장애인은 장애인이 될 가능성이 높다."
+			],
+			[
+				15,
+				"장애",
+				"NNG",
+				"이러한 장애의 편재성에 대한 인식이야말로 장애인에 대한 올바른 시각을 정립하는 출발점이 될 것이다."
+			],
+			[
+				16,
+				"편재",
+				"NNG",
+				"이러한 장애의 편재성에 대한 인식이야말로 장애인에 대한 올바른 시각을 정립하는 출발점이 될 것이다."
+			],
+			[
+				17,
+				"인식",
+				"NNG",
+				"이러한 장애의 편재성에 대한 인식이야말로 장애인에 대한 올바른 시각을 정립하는 출발점이 될 것이다."
+			],
+			[
+				18,
+				"장애인",
+				"NNG",
+				"이러한 장애의 편재성에 대한 인식이야말로 장애인에 대한 올바른 시각을 정립하는 출발점이 될 것이다."
+			],
+			[
+				19,
+				"시각",
+				"NNG",
+				"이러한 장애의 편재성에 대한 인식이야말로 장애인에 대한 올바른 시각을 정립하는 출발점이 될 것이다."
+			],
+			[
+				20,
+				"출발점",
+				"NNG",
+				"이러한 장애의 편재성에 대한 인식이야말로 장애인에 대한 올바른 시각을 정립하는 출발점이 될 것이다."
+			],
+			[
+				21,
+				"장애",
+				"NNG",
+				"여러분들이 생각하기에 장애를 가진 사람들에 대한 인식을 바꿀 수 있는 가장 좋은 방법은 무엇이라고 생각하나요?"
+			],
+			[
+				22,
+				"사람",
+				"NNG",
+				"여러분들이 생각하기에 장애를 가진 사람들에 대한 인식을 바꿀 수 있는 가장 좋은 방법은 무엇이라고 생각하나요?"
+			],
+			[
+				23,
+				"인식",
+				"NNG",
+				"여러분들이 생각하기에 장애를 가진 사람들에 대한 인식을 바꿀 수 있는 가장 좋은 방법은 무엇이라고 생각하나요?"
+			],
+			[
+				24,
+				"방법",
+				"NNG",
+				"여러분들이 생각하기에 장애를 가진 사람들에 대한 인식을 바꿀 수 있는 가장 좋은 방법은 무엇이라고 생각하나요?"
+			]
+		],
+		"NNP_Lst": [],
+		"NNB_Lst": [
+			[
+				0,
+				"때문",
+				"NNB",
+				"현대 산업사회에서는 위험성 때문에 비장애인은 장애인이 될 가능성이 높다."
+			],
+			[
+				1,
+				"것",
+				"NNB",
+				"이러한 장애의 편재성에 대한 인식이야말로 장애인에 대한 올바른 시각을 정립하는 출발점이 될 것이다."
+			],
+			[
+				2,
+				"수",
+				"NNB",
+				"여러분들이 생각하기에 장애를 가진 사람들에 대한 인식을 바꿀 수 있는 가장 좋은 방법은 무엇이라고 생각하나요?"
+			]
+		],
+		"NP_Lst": [
+			[
+				0,
+				"이",
+				"NP",
+				"이는 모든 사람들이 장애를 입을 가능성이 있는 잠재 장애인임을 의미한다."
+			],
+			[
+				1,
+				"여러분",
+				"NP",
+				"여러분들이 생각하기에 장애를 가진 사람들에 대한 인식을 바꿀 수 있는 가장 좋은 방법은 무엇이라고 생각하나요?"
+			],
+			[
+				2,
+				"무엇",
+				"NP",
+				"여러분들이 생각하기에 장애를 가진 사람들에 대한 인식을 바꿀 수 있는 가장 좋은 방법은 무엇이라고 생각하나요?"
+			]
+		],
+		"NP_People_Lst": [],
+		"NP_Things_Lst": [
+			[
+				0,
+				"이",
+				"NP",
+				"이는 모든 사람들이 장애를 입을 가능성이 있는 잠재 장애인임을 의미한다."
+			],
+			[
+				1,
+				"무엇",
+				"NP",
+				"여러분들이 생각하기에 장애를 가진 사람들에 대한 인식을 바꿀 수 있는 가장 좋은 방법은 무엇이라고 생각하나요?"
+			]
+		],
+		"NR_Lst": [],
+		"VL_Lst": [
+			[
+				0,
+				"아니",
+				"VCN",
+				"장애인이 아닌 사람을 비장애인이라 칭하고 있다."
+			],
+			[
+				1,
+				"이",
+				"VCP",
+				"장애인이 아닌 사람을 비장애인이라 칭하고 있다."
+			],
+			[
+				2,
+				"칭하",
+				"VV",
+				"장애인이 아닌 사람을 비장애인이라 칭하고 있다."
+			],
+			[
+				3,
+				"있",
+				"VX",
+				"장애인이 아닌 사람을 비장애인이라 칭하고 있다."
+			],
+			[
+				4,
+				"입",
+				"VV",
+				"이는 모든 사람들이 장애를 입을 가능성이 있는 잠재 장애인임을 의미한다."
+			],
+			[
+				5,
+				"있",
+				"VA",
+				"이는 모든 사람들이 장애를 입을 가능성이 있는 잠재 장애인임을 의미한다."
+			],
+			[
+				6,
+				"이",
+				"VCP",
+				"이는 모든 사람들이 장애를 입을 가능성이 있는 잠재 장애인임을 의미한다."
+			],
+			[
+				7,
+				"의미하",
+				"VV",
+				"이는 모든 사람들이 장애를 입을 가능성이 있는 잠재 장애인임을 의미한다."
+			],
+			[
+				8,
+				"되",
+				"VV",
+				"현대 산업사회에서는 위험성 때문에 비장애인은 장애인이 될 가능성이 높다."
+			],
+			[
+				9,
+				"높",
+				"VA",
+				"현대 산업사회에서는 위험성 때문에 비장애인은 장애인이 될 가능성이 높다."
+			],
+			[
+				10,
+				"이러하",
+				"VA",
+				"이러한 장애의 편재성에 대한 인식이야말로 장애인에 대한 올바른 시각을 정립하는 출발점이 될 것이다."
+			],
+			[
+				11,
+				"대하",
+				"VV",
+				"이러한 장애의 편재성에 대한 인식이야말로 장애인에 대한 올바른 시각을 정립하는 출발점이 될 것이다."
+			],
+			[
+				12,
+				"대하",
+				"VV",
+				"이러한 장애의 편재성에 대한 인식이야말로 장애인에 대한 올바른 시각을 정립하는 출발점이 될 것이다."
+			],
+			[
+				13,
+				"올바르",
+				"VA",
+				"이러한 장애의 편재성에 대한 인식이야말로 장애인에 대한 올바른 시각을 정립하는 출발점이 될 것이다."
+			],
+			[
+				14,
+				"정립하",
+				"VV",
+				"이러한 장애의 편재성에 대한 인식이야말로 장애인에 대한 올바른 시각을 정립하는 출발점이 될 것이다."
+			],
+			[
+				15,
+				"되",
+				"VV",
+				"이러한 장애의 편재성에 대한 인식이야말로 장애인에 대한 올바른 시각을 정립하는 출발점이 될 것이다."
+			],
+			[
+				16,
+				"이",
+				"VCP",
+				"이러한 장애의 편재성에 대한 인식이야말로 장애인에 대한 올바른 시각을 정립하는 출발점이 될 것이다."
+			],
+			[
+				17,
+				"생각하",
+				"VV",
+				"여러분들이 생각하기에 장애를 가진 사람들에 대한 인식을 바꿀 수 있는 가장 좋은 방법은 무엇이라고 생각하나요?"
+			],
+			[
+				18,
+				"가지",
+				"VV",
+				"여러분들이 생각하기에 장애를 가진 사람들에 대한 인식을 바꿀 수 있는 가장 좋은 방법은 무엇이라고 생각하나요?"
+			],
+			[
+				19,
+				"대하",
+				"VV",
+				"여러분들이 생각하기에 장애를 가진 사람들에 대한 인식을 바꿀 수 있는 가장 좋은 방법은 무엇이라고 생각하나요?"
+			],
+			[
+				20,
+				"바꾸",
+				"VV",
+				"여러분들이 생각하기에 장애를 가진 사람들에 대한 인식을 바꿀 수 있는 가장 좋은 방법은 무엇이라고 생각하나요?"
+			],
+			[
+				21,
+				"있",
+				"VA",
+				"여러분들이 생각하기에 장애를 가진 사람들에 대한 인식을 바꿀 수 있는 가장 좋은 방법은 무엇이라고 생각하나요?"
+			],
+			[
+				22,
+				"좋",
+				"VA",
+				"여러분들이 생각하기에 장애를 가진 사람들에 대한 인식을 바꿀 수 있는 가장 좋은 방법은 무엇이라고 생각하나요?"
+			],
+			[
+				23,
+				"이",
+				"VCP",
+				"여러분들이 생각하기에 장애를 가진 사람들에 대한 인식을 바꿀 수 있는 가장 좋은 방법은 무엇이라고 생각하나요?"
+			],
+			[
+				24,
+				"생각하",
+				"VV",
+				"여러분들이 생각하기에 장애를 가진 사람들에 대한 인식을 바꿀 수 있는 가장 좋은 방법은 무엇이라고 생각하나요?"
+			]
+		],
+		"VV_Lst": [
+			[
+				0,
+				"칭하",
+				"VV",
+				"장애인이 아닌 사람을 비장애인이라 칭하고 있다."
+			],
+			[
+				1,
+				"입",
+				"VV",
+				"이는 모든 사람들이 장애를 입을 가능성이 있는 잠재 장애인임을 의미한다."
+			],
+			[
+				2,
+				"의미하",
+				"VV",
+				"이는 모든 사람들이 장애를 입을 가능성이 있는 잠재 장애인임을 의미한다."
+			],
+			[
+				3,
+				"되",
+				"VV",
+				"현대 산업사회에서는 위험성 때문에 비장애인은 장애인이 될 가능성이 높다."
+			],
+			[
+				4,
+				"대하",
+				"VV",
+				"이러한 장애의 편재성에 대한 인식이야말로 장애인에 대한 올바른 시각을 정립하는 출발점이 될 것이다."
+			],
+			[
+				5,
+				"대하",
+				"VV",
+				"이러한 장애의 편재성에 대한 인식이야말로 장애인에 대한 올바른 시각을 정립하는 출발점이 될 것이다."
+			],
+			[
+				6,
+				"정립하",
+				"VV",
+				"이러한 장애의 편재성에 대한 인식이야말로 장애인에 대한 올바른 시각을 정립하는 출발점이 될 것이다."
+			],
+			[
+				7,
+				"되",
+				"VV",
+				"이러한 장애의 편재성에 대한 인식이야말로 장애인에 대한 올바른 시각을 정립하는 출발점이 될 것이다."
+			],
+			[
+				8,
+				"생각하",
+				"VV",
+				"여러분들이 생각하기에 장애를 가진 사람들에 대한 인식을 바꿀 수 있는 가장 좋은 방법은 무엇이라고 생각하나요?"
+			],
+			[
+				9,
+				"가지",
+				"VV",
+				"여러분들이 생각하기에 장애를 가진 사람들에 대한 인식을 바꿀 수 있는 가장 좋은 방법은 무엇이라고 생각하나요?"
+			],
+			[
+				10,
+				"대하",
+				"VV",
+				"여러분들이 생각하기에 장애를 가진 사람들에 대한 인식을 바꿀 수 있는 가장 좋은 방법은 무엇이라고 생각하나요?"
+			],
+			[
+				11,
+				"바꾸",
+				"VV",
+				"여러분들이 생각하기에 장애를 가진 사람들에 대한 인식을 바꿀 수 있는 가장 좋은 방법은 무엇이라고 생각하나요?"
+			],
+			[
+				12,
+				"생각하",
+				"VV",
+				"여러분들이 생각하기에 장애를 가진 사람들에 대한 인식을 바꿀 수 있는 가장 좋은 방법은 무엇이라고 생각하나요?"
+			]
+		],
+		"VA_Lst": [
+			[
+				0,
+				"있",
+				"VA",
+				"이는 모든 사람들이 장애를 입을 가능성이 있는 잠재 장애인임을 의미한다."
+			],
+			[
+				1,
+				"높",
+				"VA",
+				"현대 산업사회에서는 위험성 때문에 비장애인은 장애인이 될 가능성이 높다."
+			],
+			[
+				2,
+				"이러하",
+				"VA",
+				"이러한 장애의 편재성에 대한 인식이야말로 장애인에 대한 올바른 시각을 정립하는 출발점이 될 것이다."
+			],
+			[
+				3,
+				"올바르",
+				"VA",
+				"이러한 장애의 편재성에 대한 인식이야말로 장애인에 대한 올바른 시각을 정립하는 출발점이 될 것이다."
+			],
+			[
+				4,
+				"있",
+				"VA",
+				"여러분들이 생각하기에 장애를 가진 사람들에 대한 인식을 바꿀 수 있는 가장 좋은 방법은 무엇이라고 생각하나요?"
+			],
+			[
+				5,
+				"좋",
+				"VA",
+				"여러분들이 생각하기에 장애를 가진 사람들에 대한 인식을 바꿀 수 있는 가장 좋은 방법은 무엇이라고 생각하나요?"
+			]
+		],
+		"VX_Lst": [
+			[
+				0,
+				"있",
+				"VX",
+				"장애인이 아닌 사람을 비장애인이라 칭하고 있다."
+			]
+		],
+		"VCP_Lst": [
+			[
+				0,
+				"이",
+				"VCP",
+				"장애인이 아닌 사람을 비장애인이라 칭하고 있다."
+			],
+			[
+				1,
+				"이",
+				"VCP",
+				"이는 모든 사람들이 장애를 입을 가능성이 있는 잠재 장애인임을 의미한다."
+			],
+			[
+				2,
+				"이",
+				"VCP",
+				"이러한 장애의 편재성에 대한 인식이야말로 장애인에 대한 올바른 시각을 정립하는 출발점이 될 것이다."
+			],
+			[
+				3,
+				"이",
+				"VCP",
+				"여러분들이 생각하기에 장애를 가진 사람들에 대한 인식을 바꿀 수 있는 가장 좋은 방법은 무엇이라고 생각하나요?"
+			]
+		],
+		"VCN_Lst": [
+			[
+				0,
+				"아니",
+				"VCN",
+				"장애인이 아닌 사람을 비장애인이라 칭하고 있다."
+			]
+		],
+		"ML_Lst": [
+			[
+				0,
+				"가장",
+				"MAG",
+				"여러분들이 생각하기에 장애를 가진 사람들에 대한 인식을 바꿀 수 있는 가장 좋은 방법은 무엇이라고 생각하나요?"
+			]
+		],
+		"MA_Lst": [],
+		"MM_Lst": [],
+		"J_Lst": [
+			[
+				0,
+				"이",
+				"JKC",
+				"장애인이 아닌 사람을 비장애인이라 칭하고 있다."
+			],
+			[
+				1,
+				"을",
+				"JKO",
+				"장애인이 아닌 사람을 비장애인이라 칭하고 있다."
+			],
+			[
+				2,
+				"는",
+				"JX",
+				"이는 모든 사람들이 장애를 입을 가능성이 있는 잠재 장애인임을 의미한다."
+			],
+			[
+				3,
+				"이",
+				"JKS",
+				"이는 모든 사람들이 장애를 입을 가능성이 있는 잠재 장애인임을 의미한다."
+			],
+			[
+				4,
+				"를",
+				"JKO",
+				"이는 모든 사람들이 장애를 입을 가능성이 있는 잠재 장애인임을 의미한다."
+			],
+			[
+				5,
+				"이",
+				"JKS",
+				"이는 모든 사람들이 장애를 입을 가능성이 있는 잠재 장애인임을 의미한다."
+			],
+			[
+				6,
+				"을",
+				"JKO",
+				"이는 모든 사람들이 장애를 입을 가능성이 있는 잠재 장애인임을 의미한다."
+			],
+			[
+				7,
+				"에서",
+				"JKB",
+				"현대 산업사회에서는 위험성 때문에 비장애인은 장애인이 될 가능성이 높다."
+			],
+			[
+				8,
+				"는",
+				"JX",
+				"현대 산업사회에서는 위험성 때문에 비장애인은 장애인이 될 가능성이 높다."
+			],
+			[
+				9,
+				"에",
+				"JKB",
+				"현대 산업사회에서는 위험성 때문에 비장애인은 장애인이 될 가능성이 높다."
+			],
+			[
+				10,
+				"은",
+				"JX",
+				"현대 산업사회에서는 위험성 때문에 비장애인은 장애인이 될 가능성이 높다."
+			],
+			[
+				11,
+				"이",
+				"JKC",
+				"현대 산업사회에서는 위험성 때문에 비장애인은 장애인이 될 가능성이 높다."
+			],
+			[
+				12,
+				"이",
+				"JKS",
+				"현대 산업사회에서는 위험성 때문에 비장애인은 장애인이 될 가능성이 높다."
+			],
+			[
+				13,
+				"의",
+				"JKG",
+				"이러한 장애의 편재성에 대한 인식이야말로 장애인에 대한 올바른 시각을 정립하는 출발점이 될 것이다."
+			],
+			[
+				14,
+				"에",
+				"JKB",
+				"이러한 장애의 편재성에 대한 인식이야말로 장애인에 대한 올바른 시각을 정립하는 출발점이 될 것이다."
+			],
+			[
+				15,
+				"이야말로",
+				"JX",
+				"이러한 장애의 편재성에 대한 인식이야말로 장애인에 대한 올바른 시각을 정립하는 출발점이 될 것이다."
+			],
+			[
+				16,
+				"에",
+				"JKB",
+				"이러한 장애의 편재성에 대한 인식이야말로 장애인에 대한 올바른 시각을 정립하는 출발점이 될 것이다."
+			],
+			[
+				17,
+				"을",
+				"JKO",
+				"이러한 장애의 편재성에 대한 인식이야말로 장애인에 대한 올바른 시각을 정립하는 출발점이 될 것이다."
+			],
+			[
+				18,
+				"이",
+				"JKC",
+				"이러한 장애의 편재성에 대한 인식이야말로 장애인에 대한 올바른 시각을 정립하는 출발점이 될 것이다."
+			],
+			[
+				19,
+				"이",
+				"JKS",
+				"여러분들이 생각하기에 장애를 가진 사람들에 대한 인식을 바꿀 수 있는 가장 좋은 방법은 무엇이라고 생각하나요?"
+			],
+			[
+				20,
+				"에",
+				"JKB",
+				"여러분들이 생각하기에 장애를 가진 사람들에 대한 인식을 바꿀 수 있는 가장 좋은 방법은 무엇이라고 생각하나요?"
+			],
+			[
+				21,
+				"를",
+				"JKO",
+				"여러분들이 생각하기에 장애를 가진 사람들에 대한 인식을 바꿀 수 있는 가장 좋은 방법은 무엇이라고 생각하나요?"
+			],
+			[
+				22,
+				"에",
+				"JKB",
+				"여러분들이 생각하기에 장애를 가진 사람들에 대한 인식을 바꿀 수 있는 가장 좋은 방법은 무엇이라고 생각하나요?"
+			],
+			[
+				23,
+				"을",
+				"JKO",
+				"여러분들이 생각하기에 장애를 가진 사람들에 대한 인식을 바꿀 수 있는 가장 좋은 방법은 무엇이라고 생각하나요?"
+			],
+			[
+				24,
+				"은",
+				"JX",
+				"여러분들이 생각하기에 장애를 가진 사람들에 대한 인식을 바꿀 수 있는 가장 좋은 방법은 무엇이라고 생각하나요?"
+			],
+			[
+				25,
+				"요",
+				"JX",
+				"여러분들이 생각하기에 장애를 가진 사람들에 대한 인식을 바꿀 수 있는 가장 좋은 방법은 무엇이라고 생각하나요?"
+			]
+		],
+		"E_Lst": [
+			[
+				0,
+				"ㄴ",
+				"ETM",
+				"장애인이 아닌 사람을 비장애인이라 칭하고 있다."
+			],
+			[
+				1,
+				"라",
+				"EC",
+				"장애인이 아닌 사람을 비장애인이라 칭하고 있다."
+			],
+			[
+				2,
+				"고",
+				"EC",
+				"장애인이 아닌 사람을 비장애인이라 칭하고 있다."
+			],
+			[
+				3,
+				"다",
+				"EF",
+				"장애인이 아닌 사람을 비장애인이라 칭하고 있다."
+			],
+			[
+				4,
+				"을",
+				"ETM",
+				"이는 모든 사람들이 장애를 입을 가능성이 있는 잠재 장애인임을 의미한다."
+			],
+			[
+				5,
+				"는",
+				"ETM",
+				"이는 모든 사람들이 장애를 입을 가능성이 있는 잠재 장애인임을 의미한다."
+			],
+			[
+				6,
+				"ㅁ",
+				"ETN",
+				"이는 모든 사람들이 장애를 입을 가능성이 있는 잠재 장애인임을 의미한다."
+			],
+			[
+				7,
+				"ㄴ다",
+				"EF",
+				"이는 모든 사람들이 장애를 입을 가능성이 있는 잠재 장애인임을 의미한다."
+			],
+			[
+				8,
+				"ㄹ",
+				"ETM",
+				"현대 산업사회에서는 위험성 때문에 비장애인은 장애인이 될 가능성이 높다."
+			],
+			[
+				9,
+				"다",
+				"EF",
+				"현대 산업사회에서는 위험성 때문에 비장애인은 장애인이 될 가능성이 높다."
+			],
+			[
+				10,
+				"ㄴ",
+				"ETM",
+				"이러한 장애의 편재성에 대한 인식이야말로 장애인에 대한 올바른 시각을 정립하는 출발점이 될 것이다."
+			],
+			[
+				11,
+				"ㄴ",
+				"ETM",
+				"이러한 장애의 편재성에 대한 인식이야말로 장애인에 대한 올바른 시각을 정립하는 출발점이 될 것이다."
+			],
+			[
+				12,
+				"ㄴ",
+				"ETM",
+				"이러한 장애의 편재성에 대한 인식이야말로 장애인에 대한 올바른 시각을 정립하는 출발점이 될 것이다."
+			],
+			[
+				13,
+				"ㄴ",
+				"ETM",
+				"이러한 장애의 편재성에 대한 인식이야말로 장애인에 대한 올바른 시각을 정립하는 출발점이 될 것이다."
+			],
+			[
+				14,
+				"는",
+				"ETM",
+				"이러한 장애의 편재성에 대한 인식이야말로 장애인에 대한 올바른 시각을 정립하는 출발점이 될 것이다."
+			],
+			[
+				15,
+				"ㄹ",
+				"ETM",
+				"이러한 장애의 편재성에 대한 인식이야말로 장애인에 대한 올바른 시각을 정립하는 출발점이 될 것이다."
+			],
+			[
+				16,
+				"다",
+				"EF",
+				"이러한 장애의 편재성에 대한 인식이야말로 장애인에 대한 올바른 시각을 정립하는 출발점이 될 것이다."
+			],
+			[
+				17,
+				"기",
+				"ETN",
+				"여러분들이 생각하기에 장애를 가진 사람들에 대한 인식을 바꿀 수 있는 가장 좋은 방법은 무엇이라고 생각하나요?"
+			],
+			[
+				18,
+				"ㄴ",
+				"ETM",
+				"여러분들이 생각하기에 장애를 가진 사람들에 대한 인식을 바꿀 수 있는 가장 좋은 방법은 무엇이라고 생각하나요?"
+			],
+			[
+				19,
+				"ㄴ",
+				"ETM",
+				"여러분들이 생각하기에 장애를 가진 사람들에 대한 인식을 바꿀 수 있는 가장 좋은 방법은 무엇이라고 생각하나요?"
+			],
+			[
+				20,
+				"ㄹ",
+				"ETM",
+				"여러분들이 생각하기에 장애를 가진 사람들에 대한 인식을 바꿀 수 있는 가장 좋은 방법은 무엇이라고 생각하나요?"
+			],
+			[
+				21,
+				"는",
+				"ETM",
+				"여러분들이 생각하기에 장애를 가진 사람들에 대한 인식을 바꿀 수 있는 가장 좋은 방법은 무엇이라고 생각하나요?"
+			],
+			[
+				22,
+				"은",
+				"ETM",
+				"여러분들이 생각하기에 장애를 가진 사람들에 대한 인식을 바꿀 수 있는 가장 좋은 방법은 무엇이라고 생각하나요?"
+			],
+			[
+				23,
+				"라고",
+				"EC",
+				"여러분들이 생각하기에 장애를 가진 사람들에 대한 인식을 바꿀 수 있는 가장 좋은 방법은 무엇이라고 생각하나요?"
+			],
+			[
+				24,
+				"나",
+				"EF",
+				"여러분들이 생각하기에 장애를 가진 사람들에 대한 인식을 바꿀 수 있는 가장 좋은 방법은 무엇이라고 생각하나요?"
+			]
+		],
+		"X_Lst": [
+			[
+				0,
+				"비",
+				"XPN",
+				"장애인이 아닌 사람을 비장애인이라 칭하고 있다."
+			],
+			[
+				1,
+				"들",
+				"XSN",
+				"이는 모든 사람들이 장애를 입을 가능성이 있는 잠재 장애인임을 의미한다."
+			],
+			[
+				2,
+				"성",
+				"XSN",
+				"이는 모든 사람들이 장애를 입을 가능성이 있는 잠재 장애인임을 의미한다."
+			],
+			[
+				3,
+				"성",
+				"XSN",
+				"현대 산업사회에서는 위험성 때문에 비장애인은 장애인이 될 가능성이 높다."
+			],
+			[
+				4,
+				"비",
+				"XPN",
+				"현대 산업사회에서는 위험성 때문에 비장애인은 장애인이 될 가능성이 높다."
+			],
+			[
+				5,
+				"성",
+				"XSN",
+				"현대 산업사회에서는 위험성 때문에 비장애인은 장애인이 될 가능성이 높다."
+			],
+			[
+				6,
+				"성",
+				"XSN",
+				"이러한 장애의 편재성에 대한 인식이야말로 장애인에 대한 올바른 시각을 정립하는 출발점이 될 것이다."
+			],
+			[
+				7,
+				"들",
+				"XSN",
+				"여러분들이 생각하기에 장애를 가진 사람들에 대한 인식을 바꿀 수 있는 가장 좋은 방법은 무엇이라고 생각하나요?"
+			],
+			[
+				8,
+				"들",
+				"XSN",
+				"여러분들이 생각하기에 장애를 가진 사람들에 대한 인식을 바꿀 수 있는 가장 좋은 방법은 무엇이라고 생각하나요?"
+			]
+		],
+		"IC_Lst": []
+	},
+	"NDW": {
+		"morph_NDW": 68,
+		"NL_NDW": 31,
+		"NNG_NDW": 25,
+		"NNP_NDW": 0,
+		"NNB_NDW": 3,
+		"NP_NDW": 3,
+		"NR_NDW": 0,
+		"VL_NDW": 25,
+		"VV_NDW": 13,
+		"VA_NDW": 6,
+		"ML_NDW": 1,
+		"MM_NDW": 0,
+		"IC_NDW": 0,
+		"J_NDW": 26,
+		"E_NDW": 25,
+		"X_NDW": 9,
+		"CL_NDW": 57,
+		"FL_NDW": 60
+	}
+}

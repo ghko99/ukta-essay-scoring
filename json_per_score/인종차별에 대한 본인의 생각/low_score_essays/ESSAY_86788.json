@@ -1,0 +1,3133 @@
+﻿{
+	"morpheme": {
+		"sentences": [
+			{
+				"text": {
+					"content": "극 중 우크라이나 출신으로 설정된 페트라는 주인공 에밀리와 프랑스어 교실에서 처음 만나 함께 쇼핑을 나섰다.",
+					"length": 60,
+					"beginOffset": 0
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "극",
+							"length": 1,
+							"beginOffset": 0
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "극",
+									"length": 1,
+									"beginOffset": 0
+								},
+								"tag": "NNG",
+								"probability": 0.96290094,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "극",
+						"tagged": "극/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "중",
+							"beginOffset": 2,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "중",
+									"beginOffset": 2,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.96809113,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "중",
+						"tagged": "중/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "우크라이나",
+							"beginOffset": 4,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "우크라이나",
+									"beginOffset": 4,
+									"length": 5
+								},
+								"tag": "NNP",
+								"probability": 0.9659483,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "우크라이나",
+						"tagged": "우크라이나/NNP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "출신으로",
+							"beginOffset": 10,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "출신",
+									"beginOffset": 10,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97282004,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으로",
+									"beginOffset": 12,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9955721,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "출신",
+						"tagged": "출신/NNG+으로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "설정된",
+							"beginOffset": 15,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "설정되",
+									"beginOffset": 15,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 17,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999434,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "설정되",
+						"tagged": "설정되/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "페트라는",
+							"beginOffset": 19,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "페트라",
+									"beginOffset": 19,
+									"length": 3
+								},
+								"tag": "NNP",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 22,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99875754,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "페트라",
+						"tagged": "페트라/NNP+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "주인공",
+							"beginOffset": 24,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "주인공",
+									"beginOffset": 24,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9688399,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "주인공",
+						"tagged": "주인공/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "에밀리와",
+							"beginOffset": 28,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "에밀리",
+									"beginOffset": 28,
+									"length": 3
+								},
+								"tag": "NNP",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "와",
+									"beginOffset": 31,
+									"length": 1
+								},
+								"tag": "JC",
+								"probability": 0.6220669,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "에밀리",
+						"tagged": "에밀리/NNP+와/JC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "프랑스어",
+							"beginOffset": 33,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "프랑스어",
+									"beginOffset": 33,
+									"length": 4
+								},
+								"tag": "NNP",
+								"probability": 0.9542189,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "프랑스어",
+						"tagged": "프랑스어/NNP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "교실에서",
+							"beginOffset": 38,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "교실",
+									"beginOffset": 38,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97935253,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에서",
+									"beginOffset": 40,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.994377,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "교실",
+						"tagged": "교실/NNG+에서/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "처음",
+							"beginOffset": 43,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "처음",
+									"beginOffset": 43,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9834786,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "처음",
+						"tagged": "처음/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "만나",
+							"beginOffset": 46,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "만나",
+									"beginOffset": 46,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.99023527,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 47,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9916349,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "만나",
+						"tagged": "만나/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "함께",
+							"beginOffset": 49,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "함께",
+									"beginOffset": 49,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9919091,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "함께",
+						"tagged": "함께/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "쇼핑을",
+							"beginOffset": 52,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "쇼핑",
+									"beginOffset": 52,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97791433,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 54,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.999862,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "쇼핑",
+						"tagged": "쇼핑/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "나섰다.",
+							"beginOffset": 56,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "나서",
+									"beginOffset": 56,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9931804,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 57,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99981534,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 58,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9860799,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 59,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9995977,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "나서",
+						"tagged": "나서/VV+었/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "극 중 우크라이나 출신으로 설정된 페트라는 주인공 에밀리와 프랑스어 교실에서 처음 만나 함께 쇼핑을 나섰다."
+			},
+			{
+				"text": {
+					"content": "페트라는 가게에서 별생각 없이 옷이나 장신구를 훔치려다가 에밀리를 경악하게 하는 장면이 등장한다.",
+					"beginOffset": 61,
+					"length": 54
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "페트라는",
+							"beginOffset": 61,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "페트라",
+									"beginOffset": 61,
+									"length": 3
+								},
+								"tag": "NNP",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 64,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99959284,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "페트라",
+						"tagged": "페트라/NNP+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "가게에서",
+							"beginOffset": 66,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "가게",
+									"beginOffset": 66,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98380363,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에서",
+									"beginOffset": 68,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9955923,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "가게",
+						"tagged": "가게/NNG+에서/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "별생각",
+							"beginOffset": 71,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "별생각",
+									"beginOffset": 71,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.88772935,
+								"outOfVocab": "OUT_OF_VOCAB"
+							}
+						],
+						"lemma": "별생각",
+						"tagged": "별생각/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "없이",
+							"beginOffset": 75,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "없이",
+									"beginOffset": 75,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.99250185,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "없이",
+						"tagged": "없이/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "옷이나",
+							"beginOffset": 78,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "옷",
+									"beginOffset": 78,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9803475,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이나",
+									"beginOffset": 79,
+									"length": 2
+								},
+								"tag": "JC",
+								"probability": 0.99459416,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "옷",
+						"tagged": "옷/NNG+이나/JC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "장신구를",
+							"beginOffset": 82,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "장신구",
+									"beginOffset": 82,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9801781,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 85,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999271,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "장신구",
+						"tagged": "장신구/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "훔치려다가",
+							"beginOffset": 87,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "훔치",
+									"beginOffset": 87,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.99145305,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "려다가",
+									"beginOffset": 89,
+									"length": 3
+								},
+								"tag": "EC",
+								"probability": 0.9957733,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "훔치",
+						"tagged": "훔치/VV+려다가/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "에밀리를",
+							"beginOffset": 93,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "에밀리",
+									"beginOffset": 93,
+									"length": 3
+								},
+								"tag": "NNP",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 96,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999761,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "에밀리",
+						"tagged": "에밀리/NNP+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "경악하게",
+							"beginOffset": 98,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "경악하",
+									"beginOffset": 98,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "게",
+									"beginOffset": 101,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9913701,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "경악하",
+						"tagged": "경악하/VV+게/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "하는",
+							"beginOffset": 103,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 103,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.9323159,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 104,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99991494,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VX+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "장면이",
+							"beginOffset": 106,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "장면",
+									"beginOffset": 106,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97976285,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 108,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.99617475,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "장면",
+						"tagged": "장면/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "등장한다.",
+							"beginOffset": 110,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "등장하",
+									"beginOffset": 110,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ다",
+									"beginOffset": 112,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.99059534,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 114,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9996581,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "등장하",
+						"tagged": "등장하/VV+ㄴ다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "페트라는 가게에서 별생각 없이 옷이나 장신구를 훔치려다가 에밀리를 경악하게 하는 장면이 등장한다."
+			},
+			{
+				"text": {
+					"content": "또한 페트라는 프랑스에서 강제추방 당할까 조마조마한 모습과 뒤떨어진 패션 감각을 소유한 것으로도 나타났다.",
+					"beginOffset": 116,
+					"length": 59
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "또한",
+							"beginOffset": 116,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "또한",
+									"beginOffset": 116,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.97693,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "또한",
+						"tagged": "또한/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "페트라는",
+							"beginOffset": 119,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "페트라",
+									"beginOffset": 119,
+									"length": 3
+								},
+								"tag": "NNP",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 122,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99951607,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "페트라",
+						"tagged": "페트라/NNP+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "프랑스에서",
+							"beginOffset": 124,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "프랑스",
+									"beginOffset": 124,
+									"length": 3
+								},
+								"tag": "NNP",
+								"probability": 0.9710464,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에서",
+									"beginOffset": 127,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.991857,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "프랑스",
+						"tagged": "프랑스/NNP+에서/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "강제추방",
+							"beginOffset": 130,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "강제",
+									"beginOffset": 130,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9814944,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "추방",
+									"beginOffset": 132,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9846608,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "강제",
+						"tagged": "강제/NNG+추방/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "당할까",
+							"beginOffset": 135,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "당하",
+									"beginOffset": 135,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9600165,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ까",
+									"beginOffset": 136,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.9655994,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "당하",
+						"tagged": "당하/VV+ㄹ까/EF",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "조마조마한",
+							"beginOffset": 139,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "조마조마하",
+									"beginOffset": 139,
+									"length": 5
+								},
+								"tag": "VA",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 143,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99995184,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "조마조마하",
+						"tagged": "조마조마하/VA+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "모습과",
+							"beginOffset": 145,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "모습",
+									"beginOffset": 145,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98224974,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "과",
+									"beginOffset": 147,
+									"length": 1
+								},
+								"tag": "JC",
+								"probability": 0.679666,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "모습",
+						"tagged": "모습/NNG+과/JC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "뒤떨어진",
+							"beginOffset": 149,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "뒤떨어지",
+									"beginOffset": 149,
+									"length": 4
+								},
+								"tag": "VV",
+								"probability": 0.9903764,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 152,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999704,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "뒤떨어지",
+						"tagged": "뒤떨어지/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "패션",
+							"beginOffset": 154,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "패션",
+									"beginOffset": 154,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9791934,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "패션",
+						"tagged": "패션/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "감각을",
+							"beginOffset": 157,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "감각",
+									"beginOffset": 157,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98382586,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 159,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999542,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "감각",
+						"tagged": "감각/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "소유한",
+							"beginOffset": 161,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "소유하",
+									"beginOffset": 161,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 163,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99997675,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "소유하",
+						"tagged": "소유하/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "것으로도",
+							"beginOffset": 165,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "것",
+									"beginOffset": 165,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9825684,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으로",
+									"beginOffset": 166,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.99567014,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 168,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9993523,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "것",
+						"tagged": "것/NNB+으로/JKB+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "나타났다.",
+							"beginOffset": 170,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "나타나",
+									"beginOffset": 170,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.990739,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 172,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99993557,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 173,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9847194,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 174,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9998637,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "나타나",
+						"tagged": "나타나/VV+았/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "또한 페트라는 프랑스에서 강제추방 당할까 조마조마한 모습과 뒤떨어진 패션 감각을 소유한 것으로도 나타났다."
+			},
+			{
+				"text": {
+					"content": "특히 페트라가 부정적인 면모를 가진 채 짧게 등장하고 퇴장한다는 점도 함께 논란이 됐다.",
+					"beginOffset": 176,
+					"length": 49
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "특히",
+							"beginOffset": 176,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "특히",
+									"beginOffset": 176,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9906642,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "특히",
+						"tagged": "특히/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "페트라가",
+							"beginOffset": 179,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "페트라",
+									"beginOffset": 179,
+									"length": 3
+								},
+								"tag": "NNP",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 182,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9838167,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "페트라",
+						"tagged": "페트라/NNP+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "부정적인",
+							"beginOffset": 184,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "부정",
+									"beginOffset": 184,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.983847,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "적",
+									"beginOffset": 186,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.9851568,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 187,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.99970394,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 187,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999914,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "부정",
+						"tagged": "부정/NNG+적/XSN+이/VCP+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "면모를",
+							"beginOffset": 189,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "면모",
+									"beginOffset": 189,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9841885,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 191,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99989384,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "면모",
+						"tagged": "면모/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "가진",
+							"beginOffset": 193,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "가지",
+									"beginOffset": 193,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.98843104,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 194,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99993694,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "가지",
+						"tagged": "가지/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "채",
+							"beginOffset": 196,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "채",
+									"beginOffset": 196,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.97697324,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "채",
+						"tagged": "채/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "짧게",
+							"beginOffset": 198,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "짧",
+									"beginOffset": 198,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9852788,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "게",
+									"beginOffset": 199,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99610114,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "짧",
+						"tagged": "짧/VA+게/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "등장하고",
+							"beginOffset": 201,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "등장하",
+									"beginOffset": 201,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 204,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9939973,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "등장하",
+						"tagged": "등장하/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "퇴장한다는",
+							"beginOffset": 206,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "퇴장하",
+									"beginOffset": 206,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ다는",
+									"beginOffset": 208,
+									"length": 3
+								},
+								"tag": "ETM",
+								"probability": 0.9997955,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "퇴장하",
+						"tagged": "퇴장하/VV+ㄴ다는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "점도",
+							"beginOffset": 212,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "점",
+									"beginOffset": 212,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.8965848,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 213,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9988187,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "점",
+						"tagged": "점/NNG+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "함께",
+							"beginOffset": 215,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "함께",
+									"beginOffset": 215,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.99282515,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "함께",
+						"tagged": "함께/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "논란이",
+							"beginOffset": 218,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "논란",
+									"beginOffset": 218,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9812093,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 220,
+									"length": 1
+								},
+								"tag": "JKC",
+								"probability": 0.7712881,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "논란",
+						"tagged": "논란/NNG+이/JKC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "됐다.",
+							"beginOffset": 222,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "되",
+									"beginOffset": 222,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.96602476,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 222,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9997371,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 223,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.986392,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 224,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99964005,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "되",
+						"tagged": "되/VV+었/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "특히 페트라가 부정적인 면모를 가진 채 짧게 등장하고 퇴장한다는 점도 함께 논란이 됐다."
+			}
+		],
+		"language": "ko_KR"
+	},
+	"ttr": {
+		"lemma_Cnt": 98,
+		"lemma_TTR": 0.7058823529411765,
+		"CL_TTR": 0.8909090909090909,
+		"NL_TTR": 0.875,
+		"NN_TTR": 0.875,
+		"NNG_TTR": 1.0,
+		"NNP_TTR": 0.5555555555555556,
+		"NNB_TTR": 1.0,
+		"NP_TTR": 0,
+		"NR_TTR": 0,
+		"VL_TTR": 0.9444444444444444,
+		"VV_TTR": 0.9285714285714286,
+		"VA_TTR": 1.0,
+		"ML_TTR": 0.8,
+		"MM_TTR": 0,
+		"MA_TTR": 0.8,
+		"MAJ_TTR": 0,
+		"IC_TTR": 0,
+		"FL_TTR": 0.5348837209302325,
+		"J_TTR": 0.5238095238095238,
+		"E_TTR": 0.5714285714285714,
+		"X_TTR": 1.0,
+		"lemma_RTTR": 7.129062309432055,
+		"CL_RTTR": 6.6071586521397725,
+		"NL_RTTR": 4.949747468305833,
+		"NN_RTTR": 4.949747468305833,
+		"NNG_RTTR": 4.47213595499958,
+		"NNP_RTTR": 1.6666666666666667,
+		"NNB_RTTR": 1.7320508075688774,
+		"NP_RTTR": 0,
+		"NR_RTTR": 0,
+		"VL_RTTR": 4.00693842672377,
+		"VV_RTTR": 3.474396144861517,
+		"VA_RTTR": 1.414213562373095,
+		"ML_RTTR": 1.7888543819998317,
+		"MM_RTTR": 0,
+		"MA_RTTR": 1.7888543819998317,
+		"MAJ_RTTR": 0,
+		"IC_RTTR": 0,
+		"FL_RTTR": 3.5074671176499073,
+		"J_RTTR": 2.400396792595916,
+		"E_RTTR": 2.618614682831909,
+		"X_RTTR": 1.0,
+		"lemma_CTTR": 5.041008302500835,
+		"CL_CTTR": 4.671966687303402,
+		"NL_CTTR": 3.5,
+		"NN_CTTR": 3.5,
+		"NNG_CTTR": 3.162277660168379,
+		"NNP_CTTR": 1.1785113019775793,
+		"NNB_CTTR": 1.2247448713915892,
+		"NP_CTTR": 0,
+		"NR_CTTR": 0,
+		"VL_CTTR": 2.8333333333333335,
+		"VV_CTTR": 2.456769074559977,
+		"VA_CTTR": 1.0,
+		"ML_CTTR": 1.2649110640673518,
+		"MM_CTTR": 0,
+		"MA_CTTR": 1.2649110640673518,
+		"MAJ_CTTR": 0,
+		"IC_CTTR": 0,
+		"FL_CTTR": 2.4801537836790835,
+		"J_CTTR": 1.697336849583011,
+		"E_CTTR": 1.8516401995451028,
+		"X_CTTR": 0.7071067811865475,
+		"lemma_MSTTR": 0.86,
+		"CL_MSTTR": 0.9,
+		"NL_MSTTR": 0.875,
+		"NN_MSTTR": 0.875,
+		"NNG_MSTTR": 1.0,
+		"NNP_MSTTR": 0.5555555555555556,
+		"NNB_MSTTR": 1.0,
+		"NP_MSTTR": 0,
+		"NR_MSTTR": 0,
+		"VL_MSTTR": 0.9444444444444444,
+		"VV_MSTTR": 0.9285714285714286,
+		"VA_MSTTR": 1.0,
+		"ML_MSTTR": 0.8,
+		"MM_MSTTR": 0,
+		"MA_MSTTR": 0.8,
+		"MAJ_MSTTR": 0,
+		"IC_MSTTR": 0,
+		"FL_MSTTR": 0.5348837209302325,
+		"J_MSTTR": 0.5238095238095238,
+		"E_MSTTR": 0.5714285714285714,
+		"X_MSTTR": 1.0,
+		"lemma_MATTR": 0.8373584905660378,
+		"CL_MATTR": 0.89,
+		"NL_MATTR": 0.875,
+		"NN_MATTR": 0.875,
+		"NNG_MATTR": 1.0,
+		"NNP_MATTR": 0.5555555555555556,
+		"NNB_MATTR": 1.0,
+		"NP_MATTR": 0,
+		"NR_MATTR": 0,
+		"VL_MATTR": 0.9444444444444444,
+		"VV_MATTR": 0.9285714285714286,
+		"VA_MATTR": 1.0,
+		"ML_MATTR": 0.8,
+		"MM_MATTR": 0,
+		"MA_MATTR": 0.8,
+		"MAJ_MATTR": 0,
+		"IC_MATTR": 0,
+		"FL_MATTR": 0.5348837209302325,
+		"J_MATTR": 0.5238095238095238,
+		"E_MATTR": 0.5714285714285714,
+		"X_MATTR": 1.0,
+		"lemma_MTLD": 102.0,
+		"CL_MTLD": 141.16666666666663,
+		"NL_MTLD": 71.68,
+		"NN_MTLD": 71.68,
+		"NNG_MTLD": 0.0,
+		"NNP_MTLD": 5.670000000000001,
+		"NNB_MTLD": 0.0,
+		"NP_MTLD": 0.0,
+		"NR_MTLD": 0.0,
+		"VL_MTLD": 90.71999999999997,
+		"VV_MTLD": 54.88000000000004,
+		"VA_MTLD": 0.0,
+		"ML_MTLD": 7.000000000000002,
+		"MM_MTLD": 0.0,
+		"MA_MTLD": 7.000000000000002,
+		"MAJ_MTLD": 0.0,
+		"IC_MTLD": 0.0,
+		"FL_MTLD": 21.641447368421055,
+		"J_MTLD": 11.91331154360422,
+		"E_MTLD": 13.318844434986168,
+		"X_MTLD": 0.0,
+		"lemma_VOCDD": 89.23418771127739,
+		"CL_VOCDD": 193.66220290187857,
+		"NL_VOCDD": 0,
+		"NN_VOCDD": 0,
+		"NNG_VOCDD": 0,
+		"NNP_VOCDD": 0,
+		"NNB_VOCDD": 0,
+		"NP_VOCDD": 0,
+		"NR_VOCDD": 0,
+		"VL_VOCDD": 0,
+		"VV_VOCDD": 0,
+		"VA_VOCDD": 0,
+		"ML_VOCDD": 0,
+		"MM_VOCDD": 0,
+		"MA_VOCDD": 0,
+		"MAJ_VOCDD": 0,
+		"IC_VOCDD": 0,
+		"FL_VOCDD": 0,
+		"J_VOCDD": 0,
+		"E_VOCDD": 0,
+		"X_VOCDD": 0,
+		"lemma_HDD": 0.8364574182198845,
+		"CL_HDD": 0.9096181945238551,
+		"NL_HDD": 0.0,
+		"NN_HDD": 0.0,
+		"NNG_HDD": 0.0,
+		"NNP_HDD": 0.0,
+		"NNB_HDD": 0.0,
+		"NP_HDD": 0.0,
+		"NR_HDD": 0.0,
+		"VL_HDD": 0.0,
+		"VV_HDD": 0.0,
+		"VA_HDD": 0.0,
+		"ML_HDD": 0.0,
+		"MM_HDD": 0.0,
+		"MA_HDD": 0.0,
+		"MAJ_HDD": 0.0,
+		"IC_HDD": 0.0,
+		"FL_HDD": 0.5409745293466224,
+		"J_HDD": 0.0,
+		"E_HDD": 0.0,
+		"X_HDD": 0.0
+	},
+	"similarity": {
+		"avgSentSimilarity": 0.20549744367599487,
+		"topicConsistency": 0.5615
+	},
+	"adjacency": {
+		"adjacent_sentence_overlap_all_lemmas": 66,
+		"adjacent_sentence_overlap_all_lemmas_normed": 3,
+		"binary_adjacent_sentence_overlap_all_lemmas": 3,
+		"adjacent_two_sentence_overlap_all_lemmas": 42,
+		"adjacent_two_sentence_overlap_all_lemmas_normed": 2,
+		"binary_adjacent_two_sentence_overlap_all_lemmas": 2,
+		"adjacent_sentence_overlap_content_lemmas": 36,
+		"adjacent_sentence_overlap_content_lemmas_normed": 3,
+		"binary_adjacent_sentence_overlap_content_lemmas": 3,
+		"adjacent_two_sentence_overlap_content_lemmas": 23,
+		"adjacent_two_sentence_overlap_content_lemmas_normed": 2,
+		"binary_adjacent_two_sentence_overlap_content_lemmas": 2,
+		"adjacent_sentence_overlap_function_lemmas": 27,
+		"adjacent_sentence_overlap_function_lemmas_normed": 3,
+		"binary_adjacent_sentence_overlap_function_lemmas": 3,
+		"adjacent_two_sentence_overlap_function_lemmas": 17,
+		"adjacent_two_sentence_overlap_function_lemmas_normed": 2,
+		"binary_adjacent_two_sentence_overlap_function_lemmas": 2,
+		"adjacent_sentence_overlap_noun_lemmas": 20,
+		"adjacent_sentence_overlap_noun_lemmas_normed": 3,
+		"binary_adjacent_sentence_overlap_noun_lemmas": 3,
+		"adjacent_two_sentence_overlap_noun_lemmas": 12,
+		"adjacent_two_sentence_overlap_noun_lemmas_normed": 2,
+		"binary_adjacent_two_sentence_overlap_noun_lemmas": 2,
+		"adjacent_sentence_overlap_verb_lemmas": 12,
+		"adjacent_sentence_overlap_verb_lemmas_normed": 3,
+		"binary_adjacent_sentence_overlap_verb_lemmas": 0,
+		"adjacent_two_sentence_overlap_verb_lemmas": 8,
+		"adjacent_two_sentence_overlap_verb_lemmas_normed": 2,
+		"binary_adjacent_two_sentence_overlap_verb_lemmas": 0,
+		"adjacent_sentence_overlap_adjective_lemmas": 1,
+		"adjacent_sentence_overlap_adjective_lemmas_normed": 1,
+		"binary_adjacent_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_sentence_overlap_adverb_lemmas": 4,
+		"adjacent_sentence_overlap_adverb_lemmas_normed": 3,
+		"binary_adjacent_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas": 3,
+		"adjacent_two_sentence_overlap_adverb_lemmas_normed": 2,
+		"binary_adjacent_two_sentence_overlap_adverb_lemmas": 0
+	},
+	"basic_count": {
+		"para_Cnt": 1,
+		"sentence_Cnt": 4,
+		"word_Cnt": 53,
+		"morph_Cnt": 102,
+		"char_Cnt": 181,
+		"CL_Cnt": 55,
+		"NL_Cnt": 32,
+		"NN_Cnt": 32,
+		"NNG_Cnt": 20,
+		"NNP_Cnt": 9,
+		"NNB_Cnt": 3,
+		"NP_Cnt": 0,
+		"NP_People_Cnt": 0,
+		"NP_Things_Cnt": 0,
+		"NR_Cnt": 0,
+		"VL_Cnt": 18,
+		"VV_Cnt": 14,
+		"VA_Cnt": 2,
+		"VX_Cnt": 1,
+		"VCP_Cnt": 1,
+		"VCN_Cnt": 0,
+		"ML_Cnt": 5,
+		"MA_Cnt": 0,
+		"MM_Cnt": 0,
+		"FL_Cnt": 43,
+		"J_Cnt": 21,
+		"E_Cnt": 21,
+		"X_Cnt": 1,
+		"IC_Cnt": 0
+	},
+	"basic_density": {
+		"CL_Den": 0.5392156862745098,
+		"FL_Den": 0.4215686274509804,
+		"NL_Den": 0.3137254901960784,
+		"NNGL_Den": 0.19607843137254902,
+		"NNPL_Den": 0.08823529411764706,
+		"NNBL_Den": 0.029411764705882353,
+		"NPL_Den": 0.0,
+		"NML_Den": 0.0,
+		"VL_Den": 0.17647058823529413,
+		"VVL_Den": 0.13725490196078433,
+		"VAL_Den": 0.0196078431372549,
+		"ML_Den": 0.049019607843137254,
+		"MML_Den": 0.0,
+		"MAL_Den": 0.0,
+		"JL_Den": 0.20588235294117646,
+		"EL_Den": 0.20588235294117646,
+		"XL_Den": 0.00980392156862745,
+		"ITL_Den": 0.0,
+		"NCL_Den": 0.5818181818181818,
+		"NNCL_Den": 0.36363636363636365,
+		"NNGCL_Den": 0.16363636363636364,
+		"NNBCL_Den": 0.05454545454545454,
+		"NPCL_Den": 0.0,
+		"NMCL_Den": 0.0,
+		"VCL_Den": 0.32727272727272727,
+		"VVCL_Den": 0.2545454545454545,
+		"VACL_Den": 0.03636363636363636,
+		"MCL_Den": 0.09090909090909091,
+		"MMCL_Den": 0.0,
+		"MACL_Den": 0.0,
+		"INCL_Den": 0.0,
+		"JFL_Den": 0.4883720930232558,
+		"EFL_Den": 0.4883720930232558,
+		"XFL_Den": 0.023255813953488372
+	},
+	"basic_level": {
+		"morph_LenAvg": 1.8235294117647058,
+		"morph_LenStd": 0.9331767870032003,
+		"word_LenAvg": 3.188679245283019,
+		"word_LenStd": 1.0825651537947962
+	},
+	"basic_list": {
+		"NL_Lst": [
+			[
+				0,
+				"극",
+				"NNG",
+				"극 중 우크라이나 출신으로 설정된 페트라는 주인공 에밀리와 프랑스어 교실에서 처음 만나 함께 쇼핑을 나섰다."
+			],
+			[
+				1,
+				"중",
+				"NNB",
+				"극 중 우크라이나 출신으로 설정된 페트라는 주인공 에밀리와 프랑스어 교실에서 처음 만나 함께 쇼핑을 나섰다."
+			],
+			[
+				2,
+				"우크라이나",
+				"NNP",
+				"극 중 우크라이나 출신으로 설정된 페트라는 주인공 에밀리와 프랑스어 교실에서 처음 만나 함께 쇼핑을 나섰다."
+			],
+			[
+				3,
+				"출신",
+				"NNG",
+				"극 중 우크라이나 출신으로 설정된 페트라는 주인공 에밀리와 프랑스어 교실에서 처음 만나 함께 쇼핑을 나섰다."
+			],
+			[
+				4,
+				"페트라",
+				"NNP",
+				"극 중 우크라이나 출신으로 설정된 페트라는 주인공 에밀리와 프랑스어 교실에서 처음 만나 함께 쇼핑을 나섰다."
+			],
+			[
+				5,
+				"주인공",
+				"NNG",
+				"극 중 우크라이나 출신으로 설정된 페트라는 주인공 에밀리와 프랑스어 교실에서 처음 만나 함께 쇼핑을 나섰다."
+			],
+			[
+				6,
+				"에밀리",
+				"NNP",
+				"극 중 우크라이나 출신으로 설정된 페트라는 주인공 에밀리와 프랑스어 교실에서 처음 만나 함께 쇼핑을 나섰다."
+			],
+			[
+				7,
+				"프랑스어",
+				"NNP",
+				"극 중 우크라이나 출신으로 설정된 페트라는 주인공 에밀리와 프랑스어 교실에서 처음 만나 함께 쇼핑을 나섰다."
+			],
+			[
+				8,
+				"교실",
+				"NNG",
+				"극 중 우크라이나 출신으로 설정된 페트라는 주인공 에밀리와 프랑스어 교실에서 처음 만나 함께 쇼핑을 나섰다."
+			],
+			[
+				9,
+				"처음",
+				"NNG",
+				"극 중 우크라이나 출신으로 설정된 페트라는 주인공 에밀리와 프랑스어 교실에서 처음 만나 함께 쇼핑을 나섰다."
+			],
+			[
+				10,
+				"쇼핑",
+				"NNG",
+				"극 중 우크라이나 출신으로 설정된 페트라는 주인공 에밀리와 프랑스어 교실에서 처음 만나 함께 쇼핑을 나섰다."
+			],
+			[
+				11,
+				"페트라",
+				"NNP",
+				"페트라는 가게에서 별생각 없이 옷이나 장신구를 훔치려다가 에밀리를 경악하게 하는 장면이 등장한다."
+			],
+			[
+				12,
+				"가게",
+				"NNG",
+				"페트라는 가게에서 별생각 없이 옷이나 장신구를 훔치려다가 에밀리를 경악하게 하는 장면이 등장한다."
+			],
+			[
+				13,
+				"별생각",
+				"NNG",
+				"페트라는 가게에서 별생각 없이 옷이나 장신구를 훔치려다가 에밀리를 경악하게 하는 장면이 등장한다."
+			],
+			[
+				14,
+				"옷",
+				"NNG",
+				"페트라는 가게에서 별생각 없이 옷이나 장신구를 훔치려다가 에밀리를 경악하게 하는 장면이 등장한다."
+			],
+			[
+				15,
+				"장신구",
+				"NNG",
+				"페트라는 가게에서 별생각 없이 옷이나 장신구를 훔치려다가 에밀리를 경악하게 하는 장면이 등장한다."
+			],
+			[
+				16,
+				"에밀리",
+				"NNP",
+				"페트라는 가게에서 별생각 없이 옷이나 장신구를 훔치려다가 에밀리를 경악하게 하는 장면이 등장한다."
+			],
+			[
+				17,
+				"장면",
+				"NNG",
+				"페트라는 가게에서 별생각 없이 옷이나 장신구를 훔치려다가 에밀리를 경악하게 하는 장면이 등장한다."
+			],
+			[
+				18,
+				"페트라",
+				"NNP",
+				"또한 페트라는 프랑스에서 강제추방 당할까 조마조마한 모습과 뒤떨어진 패션 감각을 소유한 것으로도 나타났다."
+			],
+			[
+				19,
+				"프랑스",
+				"NNP",
+				"또한 페트라는 프랑스에서 강제추방 당할까 조마조마한 모습과 뒤떨어진 패션 감각을 소유한 것으로도 나타났다."
+			],
+			[
+				20,
+				"강제",
+				"NNG",
+				"또한 페트라는 프랑스에서 강제추방 당할까 조마조마한 모습과 뒤떨어진 패션 감각을 소유한 것으로도 나타났다."
+			],
+			[
+				21,
+				"추방",
+				"NNG",
+				"또한 페트라는 프랑스에서 강제추방 당할까 조마조마한 모습과 뒤떨어진 패션 감각을 소유한 것으로도 나타났다."
+			],
+			[
+				22,
+				"모습",
+				"NNG",
+				"또한 페트라는 프랑스에서 강제추방 당할까 조마조마한 모습과 뒤떨어진 패션 감각을 소유한 것으로도 나타났다."
+			],
+			[
+				23,
+				"패션",
+				"NNG",
+				"또한 페트라는 프랑스에서 강제추방 당할까 조마조마한 모습과 뒤떨어진 패션 감각을 소유한 것으로도 나타났다."
+			],
+			[
+				24,
+				"감각",
+				"NNG",
+				"또한 페트라는 프랑스에서 강제추방 당할까 조마조마한 모습과 뒤떨어진 패션 감각을 소유한 것으로도 나타났다."
+			],
+			[
+				25,
+				"것",
+				"NNB",
+				"또한 페트라는 프랑스에서 강제추방 당할까 조마조마한 모습과 뒤떨어진 패션 감각을 소유한 것으로도 나타났다."
+			],
+			[
+				26,
+				"페트라",
+				"NNP",
+				"특히 페트라가 부정적인 면모를 가진 채 짧게 등장하고 퇴장한다는 점도 함께 논란이 됐다."
+			],
+			[
+				27,
+				"부정",
+				"NNG",
+				"특히 페트라가 부정적인 면모를 가진 채 짧게 등장하고 퇴장한다는 점도 함께 논란이 됐다."
+			],
+			[
+				28,
+				"면모",
+				"NNG",
+				"특히 페트라가 부정적인 면모를 가진 채 짧게 등장하고 퇴장한다는 점도 함께 논란이 됐다."
+			],
+			[
+				29,
+				"채",
+				"NNB",
+				"특히 페트라가 부정적인 면모를 가진 채 짧게 등장하고 퇴장한다는 점도 함께 논란이 됐다."
+			],
+			[
+				30,
+				"점",
+				"NNG",
+				"특히 페트라가 부정적인 면모를 가진 채 짧게 등장하고 퇴장한다는 점도 함께 논란이 됐다."
+			],
+			[
+				31,
+				"논란",
+				"NNG",
+				"특히 페트라가 부정적인 면모를 가진 채 짧게 등장하고 퇴장한다는 점도 함께 논란이 됐다."
+			]
+		],
+		"NN_Lst": [
+			[
+				0,
+				"극",
+				"NNG",
+				"극 중 우크라이나 출신으로 설정된 페트라는 주인공 에밀리와 프랑스어 교실에서 처음 만나 함께 쇼핑을 나섰다."
+			],
+			[
+				1,
+				"중",
+				"NNB",
+				"극 중 우크라이나 출신으로 설정된 페트라는 주인공 에밀리와 프랑스어 교실에서 처음 만나 함께 쇼핑을 나섰다."
+			],
+			[
+				2,
+				"우크라이나",
+				"NNP",
+				"극 중 우크라이나 출신으로 설정된 페트라는 주인공 에밀리와 프랑스어 교실에서 처음 만나 함께 쇼핑을 나섰다."
+			],
+			[
+				3,
+				"출신",
+				"NNG",
+				"극 중 우크라이나 출신으로 설정된 페트라는 주인공 에밀리와 프랑스어 교실에서 처음 만나 함께 쇼핑을 나섰다."
+			],
+			[
+				4,
+				"페트라",
+				"NNP",
+				"극 중 우크라이나 출신으로 설정된 페트라는 주인공 에밀리와 프랑스어 교실에서 처음 만나 함께 쇼핑을 나섰다."
+			],
+			[
+				5,
+				"주인공",
+				"NNG",
+				"극 중 우크라이나 출신으로 설정된 페트라는 주인공 에밀리와 프랑스어 교실에서 처음 만나 함께 쇼핑을 나섰다."
+			],
+			[
+				6,
+				"에밀리",
+				"NNP",
+				"극 중 우크라이나 출신으로 설정된 페트라는 주인공 에밀리와 프랑스어 교실에서 처음 만나 함께 쇼핑을 나섰다."
+			],
+			[
+				7,
+				"프랑스어",
+				"NNP",
+				"극 중 우크라이나 출신으로 설정된 페트라는 주인공 에밀리와 프랑스어 교실에서 처음 만나 함께 쇼핑을 나섰다."
+			],
+			[
+				8,
+				"교실",
+				"NNG",
+				"극 중 우크라이나 출신으로 설정된 페트라는 주인공 에밀리와 프랑스어 교실에서 처음 만나 함께 쇼핑을 나섰다."
+			],
+			[
+				9,
+				"처음",
+				"NNG",
+				"극 중 우크라이나 출신으로 설정된 페트라는 주인공 에밀리와 프랑스어 교실에서 처음 만나 함께 쇼핑을 나섰다."
+			],
+			[
+				10,
+				"쇼핑",
+				"NNG",
+				"극 중 우크라이나 출신으로 설정된 페트라는 주인공 에밀리와 프랑스어 교실에서 처음 만나 함께 쇼핑을 나섰다."
+			],
+			[
+				11,
+				"페트라",
+				"NNP",
+				"페트라는 가게에서 별생각 없이 옷이나 장신구를 훔치려다가 에밀리를 경악하게 하는 장면이 등장한다."
+			],
+			[
+				12,
+				"가게",
+				"NNG",
+				"페트라는 가게에서 별생각 없이 옷이나 장신구를 훔치려다가 에밀리를 경악하게 하는 장면이 등장한다."
+			],
+			[
+				13,
+				"별생각",
+				"NNG",
+				"페트라는 가게에서 별생각 없이 옷이나 장신구를 훔치려다가 에밀리를 경악하게 하는 장면이 등장한다."
+			],
+			[
+				14,
+				"옷",
+				"NNG",
+				"페트라는 가게에서 별생각 없이 옷이나 장신구를 훔치려다가 에밀리를 경악하게 하는 장면이 등장한다."
+			],
+			[
+				15,
+				"장신구",
+				"NNG",
+				"페트라는 가게에서 별생각 없이 옷이나 장신구를 훔치려다가 에밀리를 경악하게 하는 장면이 등장한다."
+			],
+			[
+				16,
+				"에밀리",
+				"NNP",
+				"페트라는 가게에서 별생각 없이 옷이나 장신구를 훔치려다가 에밀리를 경악하게 하는 장면이 등장한다."
+			],
+			[
+				17,
+				"장면",
+				"NNG",
+				"페트라는 가게에서 별생각 없이 옷이나 장신구를 훔치려다가 에밀리를 경악하게 하는 장면이 등장한다."
+			],
+			[
+				18,
+				"페트라",
+				"NNP",
+				"또한 페트라는 프랑스에서 강제추방 당할까 조마조마한 모습과 뒤떨어진 패션 감각을 소유한 것으로도 나타났다."
+			],
+			[
+				19,
+				"프랑스",
+				"NNP",
+				"또한 페트라는 프랑스에서 강제추방 당할까 조마조마한 모습과 뒤떨어진 패션 감각을 소유한 것으로도 나타났다."
+			],
+			[
+				20,
+				"강제",
+				"NNG",
+				"또한 페트라는 프랑스에서 강제추방 당할까 조마조마한 모습과 뒤떨어진 패션 감각을 소유한 것으로도 나타났다."
+			],
+			[
+				21,
+				"추방",
+				"NNG",
+				"또한 페트라는 프랑스에서 강제추방 당할까 조마조마한 모습과 뒤떨어진 패션 감각을 소유한 것으로도 나타났다."
+			],
+			[
+				22,
+				"모습",
+				"NNG",
+				"또한 페트라는 프랑스에서 강제추방 당할까 조마조마한 모습과 뒤떨어진 패션 감각을 소유한 것으로도 나타났다."
+			],
+			[
+				23,
+				"패션",
+				"NNG",
+				"또한 페트라는 프랑스에서 강제추방 당할까 조마조마한 모습과 뒤떨어진 패션 감각을 소유한 것으로도 나타났다."
+			],
+			[
+				24,
+				"감각",
+				"NNG",
+				"또한 페트라는 프랑스에서 강제추방 당할까 조마조마한 모습과 뒤떨어진 패션 감각을 소유한 것으로도 나타났다."
+			],
+			[
+				25,
+				"것",
+				"NNB",
+				"또한 페트라는 프랑스에서 강제추방 당할까 조마조마한 모습과 뒤떨어진 패션 감각을 소유한 것으로도 나타났다."
+			],
+			[
+				26,
+				"페트라",
+				"NNP",
+				"특히 페트라가 부정적인 면모를 가진 채 짧게 등장하고 퇴장한다는 점도 함께 논란이 됐다."
+			],
+			[
+				27,
+				"부정",
+				"NNG",
+				"특히 페트라가 부정적인 면모를 가진 채 짧게 등장하고 퇴장한다는 점도 함께 논란이 됐다."
+			],
+			[
+				28,
+				"면모",
+				"NNG",
+				"특히 페트라가 부정적인 면모를 가진 채 짧게 등장하고 퇴장한다는 점도 함께 논란이 됐다."
+			],
+			[
+				29,
+				"채",
+				"NNB",
+				"특히 페트라가 부정적인 면모를 가진 채 짧게 등장하고 퇴장한다는 점도 함께 논란이 됐다."
+			],
+			[
+				30,
+				"점",
+				"NNG",
+				"특히 페트라가 부정적인 면모를 가진 채 짧게 등장하고 퇴장한다는 점도 함께 논란이 됐다."
+			],
+			[
+				31,
+				"논란",
+				"NNG",
+				"특히 페트라가 부정적인 면모를 가진 채 짧게 등장하고 퇴장한다는 점도 함께 논란이 됐다."
+			]
+		],
+		"NNG_Lst": [
+			[
+				0,
+				"극",
+				"NNG",
+				"극 중 우크라이나 출신으로 설정된 페트라는 주인공 에밀리와 프랑스어 교실에서 처음 만나 함께 쇼핑을 나섰다."
+			],
+			[
+				1,
+				"출신",
+				"NNG",
+				"극 중 우크라이나 출신으로 설정된 페트라는 주인공 에밀리와 프랑스어 교실에서 처음 만나 함께 쇼핑을 나섰다."
+			],
+			[
+				2,
+				"주인공",
+				"NNG",
+				"극 중 우크라이나 출신으로 설정된 페트라는 주인공 에밀리와 프랑스어 교실에서 처음 만나 함께 쇼핑을 나섰다."
+			],
+			[
+				3,
+				"교실",
+				"NNG",
+				"극 중 우크라이나 출신으로 설정된 페트라는 주인공 에밀리와 프랑스어 교실에서 처음 만나 함께 쇼핑을 나섰다."
+			],
+			[
+				4,
+				"처음",
+				"NNG",
+				"극 중 우크라이나 출신으로 설정된 페트라는 주인공 에밀리와 프랑스어 교실에서 처음 만나 함께 쇼핑을 나섰다."
+			],
+			[
+				5,
+				"쇼핑",
+				"NNG",
+				"극 중 우크라이나 출신으로 설정된 페트라는 주인공 에밀리와 프랑스어 교실에서 처음 만나 함께 쇼핑을 나섰다."
+			],
+			[
+				6,
+				"가게",
+				"NNG",
+				"페트라는 가게에서 별생각 없이 옷이나 장신구를 훔치려다가 에밀리를 경악하게 하는 장면이 등장한다."
+			],
+			[
+				7,
+				"별생각",
+				"NNG",
+				"페트라는 가게에서 별생각 없이 옷이나 장신구를 훔치려다가 에밀리를 경악하게 하는 장면이 등장한다."
+			],
+			[
+				8,
+				"옷",
+				"NNG",
+				"페트라는 가게에서 별생각 없이 옷이나 장신구를 훔치려다가 에밀리를 경악하게 하는 장면이 등장한다."
+			],
+			[
+				9,
+				"장신구",
+				"NNG",
+				"페트라는 가게에서 별생각 없이 옷이나 장신구를 훔치려다가 에밀리를 경악하게 하는 장면이 등장한다."
+			],
+			[
+				10,
+				"장면",
+				"NNG",
+				"페트라는 가게에서 별생각 없이 옷이나 장신구를 훔치려다가 에밀리를 경악하게 하는 장면이 등장한다."
+			],
+			[
+				11,
+				"강제",
+				"NNG",
+				"또한 페트라는 프랑스에서 강제추방 당할까 조마조마한 모습과 뒤떨어진 패션 감각을 소유한 것으로도 나타났다."
+			],
+			[
+				12,
+				"추방",
+				"NNG",
+				"또한 페트라는 프랑스에서 강제추방 당할까 조마조마한 모습과 뒤떨어진 패션 감각을 소유한 것으로도 나타났다."
+			],
+			[
+				13,
+				"모습",
+				"NNG",
+				"또한 페트라는 프랑스에서 강제추방 당할까 조마조마한 모습과 뒤떨어진 패션 감각을 소유한 것으로도 나타났다."
+			],
+			[
+				14,
+				"패션",
+				"NNG",
+				"또한 페트라는 프랑스에서 강제추방 당할까 조마조마한 모습과 뒤떨어진 패션 감각을 소유한 것으로도 나타났다."
+			],
+			[
+				15,
+				"감각",
+				"NNG",
+				"또한 페트라는 프랑스에서 강제추방 당할까 조마조마한 모습과 뒤떨어진 패션 감각을 소유한 것으로도 나타났다."
+			],
+			[
+				16,
+				"부정",
+				"NNG",
+				"특히 페트라가 부정적인 면모를 가진 채 짧게 등장하고 퇴장한다는 점도 함께 논란이 됐다."
+			],
+			[
+				17,
+				"면모",
+				"NNG",
+				"특히 페트라가 부정적인 면모를 가진 채 짧게 등장하고 퇴장한다는 점도 함께 논란이 됐다."
+			],
+			[
+				18,
+				"점",
+				"NNG",
+				"특히 페트라가 부정적인 면모를 가진 채 짧게 등장하고 퇴장한다는 점도 함께 논란이 됐다."
+			],
+			[
+				19,
+				"논란",
+				"NNG",
+				"특히 페트라가 부정적인 면모를 가진 채 짧게 등장하고 퇴장한다는 점도 함께 논란이 됐다."
+			]
+		],
+		"NNP_Lst": [
+			[
+				0,
+				"우크라이나",
+				"NNP",
+				"극 중 우크라이나 출신으로 설정된 페트라는 주인공 에밀리와 프랑스어 교실에서 처음 만나 함께 쇼핑을 나섰다."
+			],
+			[
+				1,
+				"페트라",
+				"NNP",
+				"극 중 우크라이나 출신으로 설정된 페트라는 주인공 에밀리와 프랑스어 교실에서 처음 만나 함께 쇼핑을 나섰다."
+			],
+			[
+				2,
+				"에밀리",
+				"NNP",
+				"극 중 우크라이나 출신으로 설정된 페트라는 주인공 에밀리와 프랑스어 교실에서 처음 만나 함께 쇼핑을 나섰다."
+			],
+			[
+				3,
+				"프랑스어",
+				"NNP",
+				"극 중 우크라이나 출신으로 설정된 페트라는 주인공 에밀리와 프랑스어 교실에서 처음 만나 함께 쇼핑을 나섰다."
+			],
+			[
+				4,
+				"페트라",
+				"NNP",
+				"페트라는 가게에서 별생각 없이 옷이나 장신구를 훔치려다가 에밀리를 경악하게 하는 장면이 등장한다."
+			],
+			[
+				5,
+				"에밀리",
+				"NNP",
+				"페트라는 가게에서 별생각 없이 옷이나 장신구를 훔치려다가 에밀리를 경악하게 하는 장면이 등장한다."
+			],
+			[
+				6,
+				"페트라",
+				"NNP",
+				"또한 페트라는 프랑스에서 강제추방 당할까 조마조마한 모습과 뒤떨어진 패션 감각을 소유한 것으로도 나타났다."
+			],
+			[
+				7,
+				"프랑스",
+				"NNP",
+				"또한 페트라는 프랑스에서 강제추방 당할까 조마조마한 모습과 뒤떨어진 패션 감각을 소유한 것으로도 나타났다."
+			],
+			[
+				8,
+				"페트라",
+				"NNP",
+				"특히 페트라가 부정적인 면모를 가진 채 짧게 등장하고 퇴장한다는 점도 함께 논란이 됐다."
+			]
+		],
+		"NNB_Lst": [
+			[
+				0,
+				"중",
+				"NNB",
+				"극 중 우크라이나 출신으로 설정된 페트라는 주인공 에밀리와 프랑스어 교실에서 처음 만나 함께 쇼핑을 나섰다."
+			],
+			[
+				1,
+				"것",
+				"NNB",
+				"또한 페트라는 프랑스에서 강제추방 당할까 조마조마한 모습과 뒤떨어진 패션 감각을 소유한 것으로도 나타났다."
+			],
+			[
+				2,
+				"채",
+				"NNB",
+				"특히 페트라가 부정적인 면모를 가진 채 짧게 등장하고 퇴장한다는 점도 함께 논란이 됐다."
+			]
+		],
+		"NP_Lst": [],
+		"NP_People_Lst": [],
+		"NP_Things_Lst": [],
+		"NR_Lst": [],
+		"VL_Lst": [
+			[
+				0,
+				"설정되",
+				"VV",
+				"극 중 우크라이나 출신으로 설정된 페트라는 주인공 에밀리와 프랑스어 교실에서 처음 만나 함께 쇼핑을 나섰다."
+			],
+			[
+				1,
+				"만나",
+				"VV",
+				"극 중 우크라이나 출신으로 설정된 페트라는 주인공 에밀리와 프랑스어 교실에서 처음 만나 함께 쇼핑을 나섰다."
+			],
+			[
+				2,
+				"나서",
+				"VV",
+				"극 중 우크라이나 출신으로 설정된 페트라는 주인공 에밀리와 프랑스어 교실에서 처음 만나 함께 쇼핑을 나섰다."
+			],
+			[
+				3,
+				"훔치",
+				"VV",
+				"페트라는 가게에서 별생각 없이 옷이나 장신구를 훔치려다가 에밀리를 경악하게 하는 장면이 등장한다."
+			],
+			[
+				4,
+				"경악하",
+				"VV",
+				"페트라는 가게에서 별생각 없이 옷이나 장신구를 훔치려다가 에밀리를 경악하게 하는 장면이 등장한다."
+			],
+			[
+				5,
+				"하",
+				"VX",
+				"페트라는 가게에서 별생각 없이 옷이나 장신구를 훔치려다가 에밀리를 경악하게 하는 장면이 등장한다."
+			],
+			[
+				6,
+				"등장하",
+				"VV",
+				"페트라는 가게에서 별생각 없이 옷이나 장신구를 훔치려다가 에밀리를 경악하게 하는 장면이 등장한다."
+			],
+			[
+				7,
+				"당하",
+				"VV",
+				"또한 페트라는 프랑스에서 강제추방 당할까 조마조마한 모습과 뒤떨어진 패션 감각을 소유한 것으로도 나타났다."
+			],
+			[
+				8,
+				"조마조마하",
+				"VA",
+				"또한 페트라는 프랑스에서 강제추방 당할까 조마조마한 모습과 뒤떨어진 패션 감각을 소유한 것으로도 나타났다."
+			],
+			[
+				9,
+				"뒤떨어지",
+				"VV",
+				"또한 페트라는 프랑스에서 강제추방 당할까 조마조마한 모습과 뒤떨어진 패션 감각을 소유한 것으로도 나타났다."
+			],
+			[
+				10,
+				"소유하",
+				"VV",
+				"또한 페트라는 프랑스에서 강제추방 당할까 조마조마한 모습과 뒤떨어진 패션 감각을 소유한 것으로도 나타났다."
+			],
+			[
+				11,
+				"나타나",
+				"VV",
+				"또한 페트라는 프랑스에서 강제추방 당할까 조마조마한 모습과 뒤떨어진 패션 감각을 소유한 것으로도 나타났다."
+			],
+			[
+				12,
+				"이",
+				"VCP",
+				"특히 페트라가 부정적인 면모를 가진 채 짧게 등장하고 퇴장한다는 점도 함께 논란이 됐다."
+			],
+			[
+				13,
+				"가지",
+				"VV",
+				"특히 페트라가 부정적인 면모를 가진 채 짧게 등장하고 퇴장한다는 점도 함께 논란이 됐다."
+			],
+			[
+				14,
+				"짧",
+				"VA",
+				"특히 페트라가 부정적인 면모를 가진 채 짧게 등장하고 퇴장한다는 점도 함께 논란이 됐다."
+			],
+			[
+				15,
+				"등장하",
+				"VV",
+				"특히 페트라가 부정적인 면모를 가진 채 짧게 등장하고 퇴장한다는 점도 함께 논란이 됐다."
+			],
+			[
+				16,
+				"퇴장하",
+				"VV",
+				"특히 페트라가 부정적인 면모를 가진 채 짧게 등장하고 퇴장한다는 점도 함께 논란이 됐다."
+			],
+			[
+				17,
+				"되",
+				"VV",
+				"특히 페트라가 부정적인 면모를 가진 채 짧게 등장하고 퇴장한다는 점도 함께 논란이 됐다."
+			]
+		],
+		"VV_Lst": [
+			[
+				0,
+				"설정되",
+				"VV",
+				"극 중 우크라이나 출신으로 설정된 페트라는 주인공 에밀리와 프랑스어 교실에서 처음 만나 함께 쇼핑을 나섰다."
+			],
+			[
+				1,
+				"만나",
+				"VV",
+				"극 중 우크라이나 출신으로 설정된 페트라는 주인공 에밀리와 프랑스어 교실에서 처음 만나 함께 쇼핑을 나섰다."
+			],
+			[
+				2,
+				"나서",
+				"VV",
+				"극 중 우크라이나 출신으로 설정된 페트라는 주인공 에밀리와 프랑스어 교실에서 처음 만나 함께 쇼핑을 나섰다."
+			],
+			[
+				3,
+				"훔치",
+				"VV",
+				"페트라는 가게에서 별생각 없이 옷이나 장신구를 훔치려다가 에밀리를 경악하게 하는 장면이 등장한다."
+			],
+			[
+				4,
+				"경악하",
+				"VV",
+				"페트라는 가게에서 별생각 없이 옷이나 장신구를 훔치려다가 에밀리를 경악하게 하는 장면이 등장한다."
+			],
+			[
+				5,
+				"등장하",
+				"VV",
+				"페트라는 가게에서 별생각 없이 옷이나 장신구를 훔치려다가 에밀리를 경악하게 하는 장면이 등장한다."
+			],
+			[
+				6,
+				"당하",
+				"VV",
+				"또한 페트라는 프랑스에서 강제추방 당할까 조마조마한 모습과 뒤떨어진 패션 감각을 소유한 것으로도 나타났다."
+			],
+			[
+				7,
+				"뒤떨어지",
+				"VV",
+				"또한 페트라는 프랑스에서 강제추방 당할까 조마조마한 모습과 뒤떨어진 패션 감각을 소유한 것으로도 나타났다."
+			],
+			[
+				8,
+				"소유하",
+				"VV",
+				"또한 페트라는 프랑스에서 강제추방 당할까 조마조마한 모습과 뒤떨어진 패션 감각을 소유한 것으로도 나타났다."
+			],
+			[
+				9,
+				"나타나",
+				"VV",
+				"또한 페트라는 프랑스에서 강제추방 당할까 조마조마한 모습과 뒤떨어진 패션 감각을 소유한 것으로도 나타났다."
+			],
+			[
+				10,
+				"가지",
+				"VV",
+				"특히 페트라가 부정적인 면모를 가진 채 짧게 등장하고 퇴장한다는 점도 함께 논란이 됐다."
+			],
+			[
+				11,
+				"등장하",
+				"VV",
+				"특히 페트라가 부정적인 면모를 가진 채 짧게 등장하고 퇴장한다는 점도 함께 논란이 됐다."
+			],
+			[
+				12,
+				"퇴장하",
+				"VV",
+				"특히 페트라가 부정적인 면모를 가진 채 짧게 등장하고 퇴장한다는 점도 함께 논란이 됐다."
+			],
+			[
+				13,
+				"되",
+				"VV",
+				"특히 페트라가 부정적인 면모를 가진 채 짧게 등장하고 퇴장한다는 점도 함께 논란이 됐다."
+			]
+		],
+		"VA_Lst": [
+			[
+				0,
+				"조마조마하",
+				"VA",
+				"또한 페트라는 프랑스에서 강제추방 당할까 조마조마한 모습과 뒤떨어진 패션 감각을 소유한 것으로도 나타났다."
+			],
+			[
+				1,
+				"짧",
+				"VA",
+				"특히 페트라가 부정적인 면모를 가진 채 짧게 등장하고 퇴장한다는 점도 함께 논란이 됐다."
+			]
+		],
+		"VX_Lst": [
+			[
+				0,
+				"하",
+				"VX",
+				"페트라는 가게에서 별생각 없이 옷이나 장신구를 훔치려다가 에밀리를 경악하게 하는 장면이 등장한다."
+			]
+		],
+		"VCP_Lst": [
+			[
+				0,
+				"이",
+				"VCP",
+				"특히 페트라가 부정적인 면모를 가진 채 짧게 등장하고 퇴장한다는 점도 함께 논란이 됐다."
+			]
+		],
+		"VCN_Lst": [],
+		"ML_Lst": [
+			[
+				0,
+				"함께",
+				"MAG",
+				"극 중 우크라이나 출신으로 설정된 페트라는 주인공 에밀리와 프랑스어 교실에서 처음 만나 함께 쇼핑을 나섰다."
+			],
+			[
+				1,
+				"없이",
+				"MAG",
+				"페트라는 가게에서 별생각 없이 옷이나 장신구를 훔치려다가 에밀리를 경악하게 하는 장면이 등장한다."
+			],
+			[
+				2,
+				"또한",
+				"MAG",
+				"또한 페트라는 프랑스에서 강제추방 당할까 조마조마한 모습과 뒤떨어진 패션 감각을 소유한 것으로도 나타났다."
+			],
+			[
+				3,
+				"특히",
+				"MAG",
+				"특히 페트라가 부정적인 면모를 가진 채 짧게 등장하고 퇴장한다는 점도 함께 논란이 됐다."
+			],
+			[
+				4,
+				"함께",
+				"MAG",
+				"특히 페트라가 부정적인 면모를 가진 채 짧게 등장하고 퇴장한다는 점도 함께 논란이 됐다."
+			]
+		],
+		"MA_Lst": [],
+		"MM_Lst": [],
+		"J_Lst": [
+			[
+				0,
+				"으로",
+				"JKB",
+				"극 중 우크라이나 출신으로 설정된 페트라는 주인공 에밀리와 프랑스어 교실에서 처음 만나 함께 쇼핑을 나섰다."
+			],
+			[
+				1,
+				"는",
+				"JX",
+				"극 중 우크라이나 출신으로 설정된 페트라는 주인공 에밀리와 프랑스어 교실에서 처음 만나 함께 쇼핑을 나섰다."
+			],
+			[
+				2,
+				"와",
+				"JC",
+				"극 중 우크라이나 출신으로 설정된 페트라는 주인공 에밀리와 프랑스어 교실에서 처음 만나 함께 쇼핑을 나섰다."
+			],
+			[
+				3,
+				"에서",
+				"JKB",
+				"극 중 우크라이나 출신으로 설정된 페트라는 주인공 에밀리와 프랑스어 교실에서 처음 만나 함께 쇼핑을 나섰다."
+			],
+			[
+				4,
+				"을",
+				"JKO",
+				"극 중 우크라이나 출신으로 설정된 페트라는 주인공 에밀리와 프랑스어 교실에서 처음 만나 함께 쇼핑을 나섰다."
+			],
+			[
+				5,
+				"는",
+				"JX",
+				"페트라는 가게에서 별생각 없이 옷이나 장신구를 훔치려다가 에밀리를 경악하게 하는 장면이 등장한다."
+			],
+			[
+				6,
+				"에서",
+				"JKB",
+				"페트라는 가게에서 별생각 없이 옷이나 장신구를 훔치려다가 에밀리를 경악하게 하는 장면이 등장한다."
+			],
+			[
+				7,
+				"이나",
+				"JC",
+				"페트라는 가게에서 별생각 없이 옷이나 장신구를 훔치려다가 에밀리를 경악하게 하는 장면이 등장한다."
+			],
+			[
+				8,
+				"를",
+				"JKO",
+				"페트라는 가게에서 별생각 없이 옷이나 장신구를 훔치려다가 에밀리를 경악하게 하는 장면이 등장한다."
+			],
+			[
+				9,
+				"를",
+				"JKO",
+				"페트라는 가게에서 별생각 없이 옷이나 장신구를 훔치려다가 에밀리를 경악하게 하는 장면이 등장한다."
+			],
+			[
+				10,
+				"이",
+				"JKS",
+				"페트라는 가게에서 별생각 없이 옷이나 장신구를 훔치려다가 에밀리를 경악하게 하는 장면이 등장한다."
+			],
+			[
+				11,
+				"는",
+				"JX",
+				"또한 페트라는 프랑스에서 강제추방 당할까 조마조마한 모습과 뒤떨어진 패션 감각을 소유한 것으로도 나타났다."
+			],
+			[
+				12,
+				"에서",
+				"JKB",
+				"또한 페트라는 프랑스에서 강제추방 당할까 조마조마한 모습과 뒤떨어진 패션 감각을 소유한 것으로도 나타났다."
+			],
+			[
+				13,
+				"과",
+				"JC",
+				"또한 페트라는 프랑스에서 강제추방 당할까 조마조마한 모습과 뒤떨어진 패션 감각을 소유한 것으로도 나타났다."
+			],
+			[
+				14,
+				"을",
+				"JKO",
+				"또한 페트라는 프랑스에서 강제추방 당할까 조마조마한 모습과 뒤떨어진 패션 감각을 소유한 것으로도 나타났다."
+			],
+			[
+				15,
+				"으로",
+				"JKB",
+				"또한 페트라는 프랑스에서 강제추방 당할까 조마조마한 모습과 뒤떨어진 패션 감각을 소유한 것으로도 나타났다."
+			],
+			[
+				16,
+				"도",
+				"JX",
+				"또한 페트라는 프랑스에서 강제추방 당할까 조마조마한 모습과 뒤떨어진 패션 감각을 소유한 것으로도 나타났다."
+			],
+			[
+				17,
+				"가",
+				"JKS",
+				"특히 페트라가 부정적인 면모를 가진 채 짧게 등장하고 퇴장한다는 점도 함께 논란이 됐다."
+			],
+			[
+				18,
+				"를",
+				"JKO",
+				"특히 페트라가 부정적인 면모를 가진 채 짧게 등장하고 퇴장한다는 점도 함께 논란이 됐다."
+			],
+			[
+				19,
+				"도",
+				"JX",
+				"특히 페트라가 부정적인 면모를 가진 채 짧게 등장하고 퇴장한다는 점도 함께 논란이 됐다."
+			],
+			[
+				20,
+				"이",
+				"JKC",
+				"특히 페트라가 부정적인 면모를 가진 채 짧게 등장하고 퇴장한다는 점도 함께 논란이 됐다."
+			]
+		],
+		"E_Lst": [
+			[
+				0,
+				"ㄴ",
+				"ETM",
+				"극 중 우크라이나 출신으로 설정된 페트라는 주인공 에밀리와 프랑스어 교실에서 처음 만나 함께 쇼핑을 나섰다."
+			],
+			[
+				1,
+				"아",
+				"EC",
+				"극 중 우크라이나 출신으로 설정된 페트라는 주인공 에밀리와 프랑스어 교실에서 처음 만나 함께 쇼핑을 나섰다."
+			],
+			[
+				2,
+				"었",
+				"EP",
+				"극 중 우크라이나 출신으로 설정된 페트라는 주인공 에밀리와 프랑스어 교실에서 처음 만나 함께 쇼핑을 나섰다."
+			],
+			[
+				3,
+				"다",
+				"EF",
+				"극 중 우크라이나 출신으로 설정된 페트라는 주인공 에밀리와 프랑스어 교실에서 처음 만나 함께 쇼핑을 나섰다."
+			],
+			[
+				4,
+				"려다가",
+				"EC",
+				"페트라는 가게에서 별생각 없이 옷이나 장신구를 훔치려다가 에밀리를 경악하게 하는 장면이 등장한다."
+			],
+			[
+				5,
+				"게",
+				"EC",
+				"페트라는 가게에서 별생각 없이 옷이나 장신구를 훔치려다가 에밀리를 경악하게 하는 장면이 등장한다."
+			],
+			[
+				6,
+				"는",
+				"ETM",
+				"페트라는 가게에서 별생각 없이 옷이나 장신구를 훔치려다가 에밀리를 경악하게 하는 장면이 등장한다."
+			],
+			[
+				7,
+				"ㄴ다",
+				"EF",
+				"페트라는 가게에서 별생각 없이 옷이나 장신구를 훔치려다가 에밀리를 경악하게 하는 장면이 등장한다."
+			],
+			[
+				8,
+				"ㄹ까",
+				"EF",
+				"또한 페트라는 프랑스에서 강제추방 당할까 조마조마한 모습과 뒤떨어진 패션 감각을 소유한 것으로도 나타났다."
+			],
+			[
+				9,
+				"ㄴ",
+				"ETM",
+				"또한 페트라는 프랑스에서 강제추방 당할까 조마조마한 모습과 뒤떨어진 패션 감각을 소유한 것으로도 나타났다."
+			],
+			[
+				10,
+				"ㄴ",
+				"ETM",
+				"또한 페트라는 프랑스에서 강제추방 당할까 조마조마한 모습과 뒤떨어진 패션 감각을 소유한 것으로도 나타났다."
+			],
+			[
+				11,
+				"ㄴ",
+				"ETM",
+				"또한 페트라는 프랑스에서 강제추방 당할까 조마조마한 모습과 뒤떨어진 패션 감각을 소유한 것으로도 나타났다."
+			],
+			[
+				12,
+				"았",
+				"EP",
+				"또한 페트라는 프랑스에서 강제추방 당할까 조마조마한 모습과 뒤떨어진 패션 감각을 소유한 것으로도 나타났다."
+			],
+			[
+				13,
+				"다",
+				"EF",
+				"또한 페트라는 프랑스에서 강제추방 당할까 조마조마한 모습과 뒤떨어진 패션 감각을 소유한 것으로도 나타났다."
+			],
+			[
+				14,
+				"ㄴ",
+				"ETM",
+				"특히 페트라가 부정적인 면모를 가진 채 짧게 등장하고 퇴장한다는 점도 함께 논란이 됐다."
+			],
+			[
+				15,
+				"ㄴ",
+				"ETM",
+				"특히 페트라가 부정적인 면모를 가진 채 짧게 등장하고 퇴장한다는 점도 함께 논란이 됐다."
+			],
+			[
+				16,
+				"게",
+				"EC",
+				"특히 페트라가 부정적인 면모를 가진 채 짧게 등장하고 퇴장한다는 점도 함께 논란이 됐다."
+			],
+			[
+				17,
+				"고",
+				"EC",
+				"특히 페트라가 부정적인 면모를 가진 채 짧게 등장하고 퇴장한다는 점도 함께 논란이 됐다."
+			],
+			[
+				18,
+				"ㄴ다는",
+				"ETM",
+				"특히 페트라가 부정적인 면모를 가진 채 짧게 등장하고 퇴장한다는 점도 함께 논란이 됐다."
+			],
+			[
+				19,
+				"었",
+				"EP",
+				"특히 페트라가 부정적인 면모를 가진 채 짧게 등장하고 퇴장한다는 점도 함께 논란이 됐다."
+			],
+			[
+				20,
+				"다",
+				"EF",
+				"특히 페트라가 부정적인 면모를 가진 채 짧게 등장하고 퇴장한다는 점도 함께 논란이 됐다."
+			]
+		],
+		"X_Lst": [
+			[
+				0,
+				"적",
+				"XSN",
+				"특히 페트라가 부정적인 면모를 가진 채 짧게 등장하고 퇴장한다는 점도 함께 논란이 됐다."
+			]
+		],
+		"IC_Lst": []
+	},
+	"NDW": {
+		"morph_NDW": 75,
+		"NL_NDW": 32,
+		"NNG_NDW": 20,
+		"NNP_NDW": 9,
+		"NNB_NDW": 3,
+		"NP_NDW": 0,
+		"NR_NDW": 0,
+		"VL_NDW": 18,
+		"VV_NDW": 14,
+		"VA_NDW": 2,
+		"ML_NDW": 5,
+		"MM_NDW": 0,
+		"IC_NDW": 0,
+		"J_NDW": 21,
+		"E_NDW": 21,
+		"X_NDW": 1,
+		"CL_NDW": 55,
+		"FL_NDW": 43
+	}
+}

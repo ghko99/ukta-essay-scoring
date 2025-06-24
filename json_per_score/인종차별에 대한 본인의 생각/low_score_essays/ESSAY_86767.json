@@ -1,0 +1,3116 @@
+﻿{
+	"morpheme": {
+		"sentences": [
+			{
+				"text": {
+					"content": "넷플릭스 한국 시리즈 '오징어 게임'이 인종차별의 온상 골든글로브의 주요 부문 후보에 올라 이목을 집중시키고 있다.",
+					"length": 64,
+					"beginOffset": 0
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "넷플릭스",
+							"length": 4,
+							"beginOffset": 0
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "넷플릭스",
+									"length": 4,
+									"beginOffset": 0
+								},
+								"tag": "NNP",
+								"probability": 0.9665889,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "넷플릭스",
+						"tagged": "넷플릭스/NNP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "한국",
+							"beginOffset": 5,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "한국",
+									"beginOffset": 5,
+									"length": 2
+								},
+								"tag": "NNP",
+								"probability": 0.9672431,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "한국",
+						"tagged": "한국/NNP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "시리즈",
+							"beginOffset": 8,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "시리즈",
+									"beginOffset": 8,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9845313,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "시리즈",
+						"tagged": "시리즈/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "'오징어",
+							"beginOffset": 12,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "'",
+									"beginOffset": 12,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9999223,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "오징어",
+									"beginOffset": 13,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.97890526,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "'",
+						"tagged": "'/SS+오징어/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "게임'이",
+							"beginOffset": 17,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "게임",
+									"beginOffset": 17,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98344594,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "'",
+									"beginOffset": 19,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.99997157,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 20,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9939673,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "게임",
+						"tagged": "게임/NNG+'/SS+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "인종차별의",
+							"beginOffset": 22,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "인종",
+									"beginOffset": 22,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "차별",
+									"beginOffset": 24,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 26,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9997626,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "인종",
+						"tagged": "인종/NNG+차별/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "온상",
+							"beginOffset": 28,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "온상",
+									"beginOffset": 28,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9715384,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "온상",
+						"tagged": "온상/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "골든글로브의",
+							"beginOffset": 31,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "골든글로브",
+									"beginOffset": 31,
+									"length": 5
+								},
+								"tag": "NNG",
+								"probability": 0.881566,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 36,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99892557,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "골든글로브",
+						"tagged": "골든글로브/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "주요",
+							"beginOffset": 38,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "주요",
+									"beginOffset": 38,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9850574,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "주요",
+						"tagged": "주요/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "부문",
+							"beginOffset": 41,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "부문",
+									"beginOffset": 41,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98160076,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "부문",
+						"tagged": "부문/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "후보에",
+							"beginOffset": 44,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "후보",
+									"beginOffset": 44,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9860892,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 46,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9955522,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "후보",
+						"tagged": "후보/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "올라",
+							"beginOffset": 48,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "오르",
+									"beginOffset": 48,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9902529,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 49,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9940185,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "오르",
+						"tagged": "오르/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이목을",
+							"beginOffset": 51,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이목",
+									"beginOffset": 51,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9804579,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 53,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99991196,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이목",
+						"tagged": "이목/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "집중시키고",
+							"beginOffset": 55,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "집중",
+									"beginOffset": 55,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9803161,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "시키",
+									"beginOffset": 57,
+									"length": 2
+								},
+								"tag": "XSV",
+								"probability": 0.9900822,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 59,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.98755664,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "집중",
+						"tagged": "집중/NNG+시키/XSV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있다.",
+							"beginOffset": 61,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 61,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.4912607,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 62,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.99394506,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 63,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9991348,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VX+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "넷플릭스 한국 시리즈 '오징어 게임'이 인종차별의 온상 골든글로브의 주요 부문 후보에 올라 이목을 집중시키고 있다."
+			},
+			{
+				"text": {
+					"content": "13일(현지시간) 미국 할리우드외신기자협회(HFPA)가 발표한 제79회 골든글로브 시상식 후보에서 '오징어 게임'이 주요 부문을 석권했다.",
+					"beginOffset": 65,
+					"length": 77
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "13일",
+							"beginOffset": 65,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "13",
+									"beginOffset": 65,
+									"length": 2
+								},
+								"tag": "SN",
+								"probability": 0.9982787,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "일",
+									"beginOffset": 67,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9755969,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "13",
+						"tagged": "13/SN+일/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "(현지시간)",
+							"beginOffset": 68,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "(",
+									"beginOffset": 68,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9999858,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "현지",
+									"beginOffset": 69,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97417593,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "시간",
+									"beginOffset": 71,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9560659,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ")",
+									"beginOffset": 73,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.99996066,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "(",
+						"tagged": "(/SS+현지/NNG+시간/NNG+)/SS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "미국",
+							"beginOffset": 75,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "미국",
+									"beginOffset": 75,
+									"length": 2
+								},
+								"tag": "NNP",
+								"probability": 0.9685154,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "미국",
+						"tagged": "미국/NNP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "할리우드외신기자협회(HFPA)가",
+							"beginOffset": 78,
+							"length": 17
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "할리우드외신기자협회",
+									"beginOffset": 78,
+									"length": 10
+								},
+								"tag": "NNP",
+								"probability": 0.8011059,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "(",
+									"beginOffset": 88,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.99996537,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "HFPA",
+									"beginOffset": 89,
+									"length": 4
+								},
+								"tag": "SL",
+								"probability": 0.43440005,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": ")",
+									"beginOffset": 93,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9999548,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 94,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9939993,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "할리우드외신기자협회",
+						"tagged": "할리우드외신기자협회/NNP+(/SS+HFPA/SL+)/SS+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "발표한",
+							"beginOffset": 96,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "발표하",
+									"beginOffset": 96,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 98,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.999949,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "발표하",
+						"tagged": "발표하/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "제79회",
+							"beginOffset": 100,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "제",
+									"beginOffset": 100,
+									"length": 1
+								},
+								"tag": "XPN",
+								"probability": 0.99177444,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "79",
+									"beginOffset": 101,
+									"length": 2
+								},
+								"tag": "SN",
+								"probability": 0.9951905,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "회",
+									"beginOffset": 103,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9772622,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "제",
+						"tagged": "제/XPN+79/SN+회/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "골든글로브",
+							"beginOffset": 105,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "골든글로브",
+									"beginOffset": 105,
+									"length": 5
+								},
+								"tag": "NNG",
+								"probability": 0.59091824,
+								"outOfVocab": "OUT_OF_VOCAB"
+							}
+						],
+						"lemma": "골든글로브",
+						"tagged": "골든글로브/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "시상식",
+							"beginOffset": 111,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "시상식",
+									"beginOffset": 111,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9637754,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "시상식",
+						"tagged": "시상식/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "후보에서",
+							"beginOffset": 115,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "후보",
+									"beginOffset": 115,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9798593,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에서",
+									"beginOffset": 117,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.99748,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "후보",
+						"tagged": "후보/NNG+에서/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "'오징어",
+							"beginOffset": 120,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "'",
+									"beginOffset": 120,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.99998087,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "오징어",
+									"beginOffset": 121,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.97418255,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "'",
+						"tagged": "'/SS+오징어/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "게임'이",
+							"beginOffset": 125,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "게임",
+									"beginOffset": 125,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97779703,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "'",
+									"beginOffset": 127,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9999723,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 128,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.99142015,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "게임",
+						"tagged": "게임/NNG+'/SS+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "주요",
+							"beginOffset": 130,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "주요",
+									"beginOffset": 130,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9863524,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "주요",
+						"tagged": "주요/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "부문을",
+							"beginOffset": 133,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "부문",
+									"beginOffset": 133,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.983699,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 135,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99997,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "부문",
+						"tagged": "부문/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "석권했다.",
+							"beginOffset": 137,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "석권하",
+									"beginOffset": 137,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 139,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99988407,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 140,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.98899996,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 141,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9997253,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "석권하",
+						"tagged": "석권하/VV+았/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "13일 (현지시간) 미국 할리우드외신기자협회(HFPA)가 발표한 제79회 골든글로브 시상식 후보에서 '오징어 게임'이 주요 부문을 석권했다."
+			},
+			{
+				"text": {
+					"content": "'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다.",
+					"beginOffset": 143,
+					"length": 96
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "'오징어",
+							"beginOffset": 143,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "'",
+									"beginOffset": 143,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9999514,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "오징어",
+									"beginOffset": 144,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.96718955,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "'",
+						"tagged": "'/SS+오징어/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "게임'은",
+							"beginOffset": 148,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "게임",
+									"beginOffset": 148,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.978333,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "'",
+									"beginOffset": 150,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.99994487,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 151,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99250746,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "게임",
+						"tagged": "게임/NNG+'/SS+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "'텔레비전",
+							"beginOffset": 153,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "'",
+									"beginOffset": 153,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.99993014,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "텔레비전",
+									"beginOffset": 154,
+									"length": 4
+								},
+								"tag": "NNG",
+								"probability": 0.9535327,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "'",
+						"tagged": "'/SS+텔레비전/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "시리즈-드라마",
+							"beginOffset": 159,
+							"length": 7
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "시리즈",
+									"beginOffset": 159,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9771105,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "-",
+									"beginOffset": 162,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.97297746,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "드라마",
+									"beginOffset": 163,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.97851336,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "시리즈",
+						"tagged": "시리즈/NNG+-/SP+드라마/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "작품상'을",
+							"beginOffset": 167,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "작품",
+									"beginOffset": 167,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9811193,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "상",
+									"beginOffset": 169,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.8783164,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "'",
+									"beginOffset": 170,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9998878,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 171,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99990493,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "작품",
+						"tagged": "작품/NNG+상/NNG+'/SS+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "비롯해",
+							"beginOffset": 173,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "비롯하",
+									"beginOffset": 173,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.98781145,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 175,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9654957,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "비롯하",
+						"tagged": "비롯하/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "'텔레비전",
+							"beginOffset": 177,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "'",
+									"beginOffset": 177,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9998311,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "텔레비전",
+									"beginOffset": 178,
+									"length": 4
+								},
+								"tag": "NNG",
+								"probability": 0.9347115,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "'",
+						"tagged": "'/SS+텔레비전/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "부문",
+							"beginOffset": 183,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "부문",
+									"beginOffset": 183,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9680837,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "부문",
+						"tagged": "부문/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "남우주연상'(이정재)과",
+							"beginOffset": 186,
+							"length": 12
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "남우",
+									"beginOffset": 186,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "주연상",
+									"beginOffset": 188,
+									"length": 3
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "'",
+									"beginOffset": 191,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.99993926,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "(",
+									"beginOffset": 192,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9999471,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이정재",
+									"beginOffset": 193,
+									"length": 3
+								},
+								"tag": "NNP",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": ")",
+									"beginOffset": 196,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9999714,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "과",
+									"beginOffset": 197,
+									"length": 1
+								},
+								"tag": "JC",
+								"probability": 0.88769865,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "남우",
+						"tagged": "남우/NNG+주연상/NNG+'/SS+(/SS+이정재/NNP+)/SS+과/JC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "'텔레비전",
+							"beginOffset": 199,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "'",
+									"beginOffset": 199,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9999712,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "텔레비전",
+									"beginOffset": 200,
+									"length": 4
+								},
+								"tag": "NNG",
+								"probability": 0.9698821,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "'",
+						"tagged": "'/SS+텔레비전/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "부문",
+							"beginOffset": 205,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "부문",
+									"beginOffset": 205,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9650894,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "부문",
+						"tagged": "부문/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "남우조연상'(오영수)",
+							"beginOffset": 208,
+							"length": 11
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "남우",
+									"beginOffset": 208,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "조연상",
+									"beginOffset": 210,
+									"length": 3
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "'",
+									"beginOffset": 213,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.99972326,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "(",
+									"beginOffset": 214,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9995793,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "오영수",
+									"beginOffset": 215,
+									"length": 3
+								},
+								"tag": "NNP",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": ")",
+									"beginOffset": 218,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9999331,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "남우",
+						"tagged": "남우/NNG+조연상/NNG+'/SS+(/SS+오영수/NNP+)/SS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "후보",
+							"beginOffset": 220,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "후보",
+									"beginOffset": 220,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97859764,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "후보",
+						"tagged": "후보/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "등",
+							"beginOffset": 223,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "등",
+									"beginOffset": 223,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9819152,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "등",
+						"tagged": "등/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "3개",
+							"beginOffset": 225,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "3",
+									"beginOffset": 225,
+									"length": 1
+								},
+								"tag": "SN",
+								"probability": 0.9971546,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "개",
+									"beginOffset": 226,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.96872956,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "3",
+						"tagged": "3/SN+개/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "부문",
+							"beginOffset": 228,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "부문",
+									"beginOffset": 228,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9824968,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "부문",
+						"tagged": "부문/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "후보에",
+							"beginOffset": 231,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "후보",
+									"beginOffset": 231,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9841136,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 233,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9978243,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "후보",
+						"tagged": "후보/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "올랐다.",
+							"beginOffset": 235,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "오르",
+									"beginOffset": 235,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9900208,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 236,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9997748,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 237,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.99091077,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 238,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99931455,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "오르",
+						"tagged": "오르/VV+았/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다."
+			}
+		],
+		"language": "ko_KR"
+	},
+	"ttr": {
+		"lemma_Cnt": 79,
+		"lemma_TTR": 0.5700934579439252,
+		"CL_TTR": 0.6727272727272727,
+		"NL_TTR": 0.6530612244897959,
+		"NN_TTR": 0.6530612244897959,
+		"NNG_TTR": 0.5641025641025641,
+		"NNP_TTR": 1.0,
+		"NNB_TTR": 1.0,
+		"NP_TTR": 0,
+		"NR_TTR": 0,
+		"VL_TTR": 0.8333333333333334,
+		"VV_TTR": 0.8,
+		"VA_TTR": 0,
+		"ML_TTR": 0,
+		"MM_TTR": 0,
+		"MA_TTR": 0,
+		"MAJ_TTR": 0,
+		"IC_TTR": 0,
+		"FL_TTR": 0.625,
+		"J_TTR": 0.6153846153846154,
+		"E_TTR": 0.5555555555555556,
+		"X_TTR": 1.0,
+		"lemma_RTTR": 5.897092583178547,
+		"CL_RTTR": 4.9890789822279915,
+		"NL_RTTR": 4.571428571428571,
+		"NN_RTTR": 4.571428571428571,
+		"NNG_RTTR": 3.522819383711917,
+		"NNP_RTTR": 2.4494897427831783,
+		"NNB_RTTR": 2.0,
+		"NP_RTTR": 0,
+		"NR_RTTR": 0,
+		"VL_RTTR": 2.041241452319315,
+		"VV_RTTR": 1.7888543819998317,
+		"VA_RTTR": 0,
+		"ML_RTTR": 0,
+		"MM_RTTR": 0,
+		"MA_RTTR": 0,
+		"MAJ_RTTR": 0,
+		"IC_RTTR": 0,
+		"FL_RTTR": 3.061862178478973,
+		"J_RTTR": 2.2188007849009166,
+		"E_RTTR": 1.6666666666666667,
+		"X_RTTR": 1.414213562373095,
+		"lemma_CTTR": 4.169874154850445,
+		"CL_CTTR": 3.5278115802086916,
+		"NL_CTTR": 3.232488142567074,
+		"NN_CTTR": 3.232488142567074,
+		"NNG_CTTR": 2.49100947511811,
+		"NNP_CTTR": 1.7320508075688774,
+		"NNB_CTTR": 1.414213562373095,
+		"NP_CTTR": 0,
+		"NR_CTTR": 0,
+		"VL_CTTR": 1.4433756729740645,
+		"VV_CTTR": 1.2649110640673518,
+		"VA_CTTR": 0,
+		"ML_CTTR": 0,
+		"MM_CTTR": 0,
+		"MA_CTTR": 0,
+		"MAJ_CTTR": 0,
+		"IC_CTTR": 0,
+		"FL_CTTR": 2.165063509461097,
+		"J_CTTR": 1.5689290811054724,
+		"E_CTTR": 1.1785113019775793,
+		"X_CTTR": 1.0,
+		"lemma_MSTTR": 0.75,
+		"CL_MSTTR": 0.7,
+		"NL_MSTTR": 0.6530612244897959,
+		"NN_MSTTR": 0.6530612244897959,
+		"NNG_MSTTR": 0.5641025641025641,
+		"NNP_MSTTR": 1.0,
+		"NNB_MSTTR": 1.0,
+		"NP_MSTTR": 0,
+		"NR_MSTTR": 0,
+		"VL_MSTTR": 0.8333333333333334,
+		"VV_MSTTR": 0.8,
+		"VA_MSTTR": 0,
+		"ML_MSTTR": 0,
+		"MM_MSTTR": 0,
+		"MA_MSTTR": 0,
+		"MAJ_MSTTR": 0,
+		"IC_MSTTR": 0,
+		"FL_MSTTR": 0.625,
+		"J_MSTTR": 0.6153846153846154,
+		"E_MSTTR": 0.5555555555555556,
+		"X_MSTTR": 1.0,
+		"lemma_MATTR": 0.7368965517241377,
+		"CL_MATTR": 0.7000000000000001,
+		"NL_MATTR": 0.6530612244897959,
+		"NN_MATTR": 0.6530612244897959,
+		"NNG_MATTR": 0.5641025641025641,
+		"NNP_MATTR": 1.0,
+		"NNB_MATTR": 1.0,
+		"NP_MATTR": 0,
+		"NR_MATTR": 0,
+		"VL_MATTR": 0.8333333333333334,
+		"VV_MATTR": 0.8,
+		"VA_MATTR": 0,
+		"ML_MATTR": 0,
+		"MM_MATTR": 0,
+		"MA_MATTR": 0,
+		"MAJ_MATTR": 0,
+		"IC_MATTR": 0,
+		"FL_MATTR": 0.625,
+		"J_MATTR": 0.6153846153846154,
+		"E_MATTR": 0.5555555555555556,
+		"X_MATTR": 1.0,
+		"lemma_MTLD": 45.10383264969923,
+		"CL_MTLD": 34.762801204819276,
+		"NL_MTLD": 24.548804780876495,
+		"NN_MTLD": 24.548804780876495,
+		"NNG_MTLD": 16.49074074074074,
+		"NNP_MTLD": 0.0,
+		"NNB_MTLD": 0.0,
+		"NP_MTLD": 0.0,
+		"NR_MTLD": 0.0,
+		"VL_MTLD": 10.080000000000004,
+		"VV_MTLD": 7.000000000000002,
+		"VA_MTLD": 0.0,
+		"ML_MTLD": 0.0,
+		"MM_MTLD": 0.0,
+		"MA_MTLD": 0.0,
+		"MAJ_MTLD": 0.0,
+		"IC_MTLD": 0.0,
+		"FL_MTLD": 19.945945945945944,
+		"J_MTLD": 9.467391304347826,
+		"E_MTLD": 5.670000000000001,
+		"X_MTLD": 0.0,
+		"lemma_VOCDD": 45.41452096616042,
+		"CL_VOCDD": 39.252972649845226,
+		"NL_VOCDD": 0,
+		"NN_VOCDD": 0,
+		"NNG_VOCDD": 0,
+		"NNP_VOCDD": 0,
+		"NNB_VOCDD": 0,
+		"NP_VOCDD": 0,
+		"NR_VOCDD": 0,
+		"VL_VOCDD": 0,
+		"VV_VOCDD": 0,
+		"VA_VOCDD": 0,
+		"ML_VOCDD": 0,
+		"MM_VOCDD": 0,
+		"MA_VOCDD": 0,
+		"MAJ_VOCDD": 0,
+		"IC_VOCDD": 0,
+		"FL_VOCDD": 0,
+		"J_VOCDD": 0,
+		"E_VOCDD": 0,
+		"X_VOCDD": 0,
+		"lemma_HDD": 0.7438058448860109,
+		"CL_HDD": 0.7219139228018252,
+		"NL_HDD": 0.681832901214757,
+		"NN_HDD": 0.681832901214757,
+		"NNG_HDD": 0.0,
+		"NNP_HDD": 0.0,
+		"NNB_HDD": 0.0,
+		"NP_HDD": 0.0,
+		"NR_HDD": 0.0,
+		"VL_HDD": 0.0,
+		"VV_HDD": 0.0,
+		"VA_HDD": 0.0,
+		"ML_HDD": 0.0,
+		"MM_HDD": 0.0,
+		"MA_HDD": 0.0,
+		"MAJ_HDD": 0.0,
+		"IC_HDD": 0.0,
+		"FL_HDD": 0.0,
+		"J_HDD": 0.0,
+		"E_HDD": 0.0,
+		"X_HDD": 0.0
+	},
+	"similarity": {
+		"avgSentSimilarity": 0.12562647461891174,
+		"topicConsistency": 0.5458
+	},
+	"adjacency": {
+		"adjacent_sentence_overlap_all_lemmas": 67,
+		"adjacent_sentence_overlap_all_lemmas_normed": 2,
+		"binary_adjacent_sentence_overlap_all_lemmas": 2,
+		"adjacent_two_sentence_overlap_all_lemmas": 38,
+		"adjacent_two_sentence_overlap_all_lemmas_normed": 1,
+		"binary_adjacent_two_sentence_overlap_all_lemmas": 1,
+		"adjacent_sentence_overlap_content_lemmas": 37,
+		"adjacent_sentence_overlap_content_lemmas_normed": 2,
+		"binary_adjacent_sentence_overlap_content_lemmas": 2,
+		"adjacent_two_sentence_overlap_content_lemmas": 22,
+		"adjacent_two_sentence_overlap_content_lemmas_normed": 1,
+		"binary_adjacent_two_sentence_overlap_content_lemmas": 1,
+		"adjacent_sentence_overlap_function_lemmas": 9,
+		"adjacent_sentence_overlap_function_lemmas_normed": 2,
+		"binary_adjacent_sentence_overlap_function_lemmas": 2,
+		"adjacent_two_sentence_overlap_function_lemmas": 3,
+		"adjacent_two_sentence_overlap_function_lemmas_normed": 1,
+		"binary_adjacent_two_sentence_overlap_function_lemmas": 1,
+		"adjacent_sentence_overlap_noun_lemmas": 34,
+		"adjacent_sentence_overlap_noun_lemmas_normed": 2,
+		"binary_adjacent_sentence_overlap_noun_lemmas": 2,
+		"adjacent_two_sentence_overlap_noun_lemmas": 20,
+		"adjacent_two_sentence_overlap_noun_lemmas_normed": 1,
+		"binary_adjacent_two_sentence_overlap_noun_lemmas": 1,
+		"adjacent_sentence_overlap_verb_lemmas": 4,
+		"adjacent_sentence_overlap_verb_lemmas_normed": 2,
+		"binary_adjacent_sentence_overlap_verb_lemmas": 0,
+		"adjacent_two_sentence_overlap_verb_lemmas": 2,
+		"adjacent_two_sentence_overlap_verb_lemmas_normed": 1,
+		"binary_adjacent_two_sentence_overlap_verb_lemmas": 0,
+		"adjacent_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_sentence_overlap_adjective_lemmas_normed": 0,
+		"binary_adjacent_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_sentence_overlap_adverb_lemmas_normed": 0,
+		"binary_adjacent_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adverb_lemmas": 0
+	},
+	"basic_count": {
+		"para_Cnt": 1,
+		"sentence_Cnt": 3,
+		"word_Cnt": 46,
+		"morph_Cnt": 107,
+		"char_Cnt": 169,
+		"CL_Cnt": 55,
+		"NL_Cnt": 49,
+		"NN_Cnt": 49,
+		"NNG_Cnt": 39,
+		"NNP_Cnt": 6,
+		"NNB_Cnt": 4,
+		"NP_Cnt": 0,
+		"NP_People_Cnt": 0,
+		"NP_Things_Cnt": 0,
+		"NR_Cnt": 0,
+		"VL_Cnt": 6,
+		"VV_Cnt": 5,
+		"VA_Cnt": 0,
+		"VX_Cnt": 1,
+		"VCP_Cnt": 0,
+		"VCN_Cnt": 0,
+		"ML_Cnt": 0,
+		"MA_Cnt": 0,
+		"MM_Cnt": 0,
+		"FL_Cnt": 24,
+		"J_Cnt": 13,
+		"E_Cnt": 9,
+		"X_Cnt": 2,
+		"IC_Cnt": 0
+	},
+	"basic_density": {
+		"CL_Den": 0.514018691588785,
+		"FL_Den": 0.22429906542056074,
+		"NL_Den": 0.45794392523364486,
+		"NNGL_Den": 0.3644859813084112,
+		"NNPL_Den": 0.056074766355140186,
+		"NNBL_Den": 0.037383177570093455,
+		"NPL_Den": 0.0,
+		"NML_Den": 0.0,
+		"VL_Den": 0.056074766355140186,
+		"VVL_Den": 0.04672897196261682,
+		"VAL_Den": 0.0,
+		"ML_Den": 0.0,
+		"MML_Den": 0.0,
+		"MAL_Den": 0.0,
+		"JL_Den": 0.12149532710280374,
+		"EL_Den": 0.08411214953271028,
+		"XL_Den": 0.018691588785046728,
+		"ITL_Den": 0.0,
+		"NCL_Den": 0.8909090909090909,
+		"NNCL_Den": 0.7090909090909091,
+		"NNGCL_Den": 0.10909090909090909,
+		"NNBCL_Den": 0.07272727272727272,
+		"NPCL_Den": 0.0,
+		"NMCL_Den": 0.0,
+		"VCL_Den": 0.10909090909090909,
+		"VVCL_Den": 0.09090909090909091,
+		"VACL_Den": 0.0,
+		"MCL_Den": 0.0,
+		"MMCL_Den": 0.0,
+		"MACL_Den": 0.0,
+		"INCL_Den": 0.0,
+		"JFL_Den": 0.5416666666666666,
+		"EFL_Den": 0.375,
+		"XFL_Den": 0.08333333333333333
+	},
+	"basic_level": {
+		"morph_LenAvg": 1.8598130841121496,
+		"morph_LenStd": 1.2489142808657048,
+		"word_LenAvg": 3.6956521739130435,
+		"word_LenStd": 2.3486311019251316
+	},
+	"basic_list": {
+		"NL_Lst": [
+			[
+				0,
+				"넷플릭스",
+				"NNP",
+				"넷플릭스 한국 시리즈 '오징어 게임'이 인종차별의 온상 골든글로브의 주요 부문 후보에 올라 이목을 집중시키고 있다."
+			],
+			[
+				1,
+				"한국",
+				"NNP",
+				"넷플릭스 한국 시리즈 '오징어 게임'이 인종차별의 온상 골든글로브의 주요 부문 후보에 올라 이목을 집중시키고 있다."
+			],
+			[
+				2,
+				"시리즈",
+				"NNG",
+				"넷플릭스 한국 시리즈 '오징어 게임'이 인종차별의 온상 골든글로브의 주요 부문 후보에 올라 이목을 집중시키고 있다."
+			],
+			[
+				3,
+				"오징어",
+				"NNG",
+				"넷플릭스 한국 시리즈 '오징어 게임'이 인종차별의 온상 골든글로브의 주요 부문 후보에 올라 이목을 집중시키고 있다."
+			],
+			[
+				4,
+				"게임",
+				"NNG",
+				"넷플릭스 한국 시리즈 '오징어 게임'이 인종차별의 온상 골든글로브의 주요 부문 후보에 올라 이목을 집중시키고 있다."
+			],
+			[
+				5,
+				"인종",
+				"NNG",
+				"넷플릭스 한국 시리즈 '오징어 게임'이 인종차별의 온상 골든글로브의 주요 부문 후보에 올라 이목을 집중시키고 있다."
+			],
+			[
+				6,
+				"차별",
+				"NNG",
+				"넷플릭스 한국 시리즈 '오징어 게임'이 인종차별의 온상 골든글로브의 주요 부문 후보에 올라 이목을 집중시키고 있다."
+			],
+			[
+				7,
+				"온상",
+				"NNG",
+				"넷플릭스 한국 시리즈 '오징어 게임'이 인종차별의 온상 골든글로브의 주요 부문 후보에 올라 이목을 집중시키고 있다."
+			],
+			[
+				8,
+				"골든글로브",
+				"NNG",
+				"넷플릭스 한국 시리즈 '오징어 게임'이 인종차별의 온상 골든글로브의 주요 부문 후보에 올라 이목을 집중시키고 있다."
+			],
+			[
+				9,
+				"주요",
+				"NNG",
+				"넷플릭스 한국 시리즈 '오징어 게임'이 인종차별의 온상 골든글로브의 주요 부문 후보에 올라 이목을 집중시키고 있다."
+			],
+			[
+				10,
+				"부문",
+				"NNG",
+				"넷플릭스 한국 시리즈 '오징어 게임'이 인종차별의 온상 골든글로브의 주요 부문 후보에 올라 이목을 집중시키고 있다."
+			],
+			[
+				11,
+				"후보",
+				"NNG",
+				"넷플릭스 한국 시리즈 '오징어 게임'이 인종차별의 온상 골든글로브의 주요 부문 후보에 올라 이목을 집중시키고 있다."
+			],
+			[
+				12,
+				"이목",
+				"NNG",
+				"넷플릭스 한국 시리즈 '오징어 게임'이 인종차별의 온상 골든글로브의 주요 부문 후보에 올라 이목을 집중시키고 있다."
+			],
+			[
+				13,
+				"집중",
+				"NNG",
+				"넷플릭스 한국 시리즈 '오징어 게임'이 인종차별의 온상 골든글로브의 주요 부문 후보에 올라 이목을 집중시키고 있다."
+			],
+			[
+				14,
+				"일",
+				"NNB",
+				"13일(현지시간) 미국 할리우드외신기자협회(HFPA)가 발표한 제79회 골든글로브 시상식 후보에서 '오징어 게임'이 주요 부문을 석권했다."
+			],
+			[
+				15,
+				"현지",
+				"NNG",
+				"13일(현지시간) 미국 할리우드외신기자협회(HFPA)가 발표한 제79회 골든글로브 시상식 후보에서 '오징어 게임'이 주요 부문을 석권했다."
+			],
+			[
+				16,
+				"시간",
+				"NNG",
+				"13일(현지시간) 미국 할리우드외신기자협회(HFPA)가 발표한 제79회 골든글로브 시상식 후보에서 '오징어 게임'이 주요 부문을 석권했다."
+			],
+			[
+				17,
+				"미국",
+				"NNP",
+				"13일(현지시간) 미국 할리우드외신기자협회(HFPA)가 발표한 제79회 골든글로브 시상식 후보에서 '오징어 게임'이 주요 부문을 석권했다."
+			],
+			[
+				18,
+				"할리우드외신기자협회",
+				"NNP",
+				"13일(현지시간) 미국 할리우드외신기자협회(HFPA)가 발표한 제79회 골든글로브 시상식 후보에서 '오징어 게임'이 주요 부문을 석권했다."
+			],
+			[
+				19,
+				"회",
+				"NNB",
+				"13일(현지시간) 미국 할리우드외신기자협회(HFPA)가 발표한 제79회 골든글로브 시상식 후보에서 '오징어 게임'이 주요 부문을 석권했다."
+			],
+			[
+				20,
+				"골든글로브",
+				"NNG",
+				"13일(현지시간) 미국 할리우드외신기자협회(HFPA)가 발표한 제79회 골든글로브 시상식 후보에서 '오징어 게임'이 주요 부문을 석권했다."
+			],
+			[
+				21,
+				"시상식",
+				"NNG",
+				"13일(현지시간) 미국 할리우드외신기자협회(HFPA)가 발표한 제79회 골든글로브 시상식 후보에서 '오징어 게임'이 주요 부문을 석권했다."
+			],
+			[
+				22,
+				"후보",
+				"NNG",
+				"13일(현지시간) 미국 할리우드외신기자협회(HFPA)가 발표한 제79회 골든글로브 시상식 후보에서 '오징어 게임'이 주요 부문을 석권했다."
+			],
+			[
+				23,
+				"오징어",
+				"NNG",
+				"13일(현지시간) 미국 할리우드외신기자협회(HFPA)가 발표한 제79회 골든글로브 시상식 후보에서 '오징어 게임'이 주요 부문을 석권했다."
+			],
+			[
+				24,
+				"게임",
+				"NNG",
+				"13일(현지시간) 미국 할리우드외신기자협회(HFPA)가 발표한 제79회 골든글로브 시상식 후보에서 '오징어 게임'이 주요 부문을 석권했다."
+			],
+			[
+				25,
+				"주요",
+				"NNG",
+				"13일(현지시간) 미국 할리우드외신기자협회(HFPA)가 발표한 제79회 골든글로브 시상식 후보에서 '오징어 게임'이 주요 부문을 석권했다."
+			],
+			[
+				26,
+				"부문",
+				"NNG",
+				"13일(현지시간) 미국 할리우드외신기자협회(HFPA)가 발표한 제79회 골든글로브 시상식 후보에서 '오징어 게임'이 주요 부문을 석권했다."
+			],
+			[
+				27,
+				"오징어",
+				"NNG",
+				"'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다."
+			],
+			[
+				28,
+				"게임",
+				"NNG",
+				"'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다."
+			],
+			[
+				29,
+				"텔레비전",
+				"NNG",
+				"'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다."
+			],
+			[
+				30,
+				"시리즈",
+				"NNG",
+				"'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다."
+			],
+			[
+				31,
+				"드라마",
+				"NNG",
+				"'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다."
+			],
+			[
+				32,
+				"작품",
+				"NNG",
+				"'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다."
+			],
+			[
+				33,
+				"상",
+				"NNG",
+				"'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다."
+			],
+			[
+				34,
+				"텔레비전",
+				"NNG",
+				"'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다."
+			],
+			[
+				35,
+				"부문",
+				"NNG",
+				"'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다."
+			],
+			[
+				36,
+				"남우",
+				"NNG",
+				"'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다."
+			],
+			[
+				37,
+				"주연상",
+				"NNG",
+				"'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다."
+			],
+			[
+				38,
+				"이정재",
+				"NNP",
+				"'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다."
+			],
+			[
+				39,
+				"텔레비전",
+				"NNG",
+				"'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다."
+			],
+			[
+				40,
+				"부문",
+				"NNG",
+				"'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다."
+			],
+			[
+				41,
+				"남우",
+				"NNG",
+				"'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다."
+			],
+			[
+				42,
+				"조연상",
+				"NNG",
+				"'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다."
+			],
+			[
+				43,
+				"오영수",
+				"NNP",
+				"'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다."
+			],
+			[
+				44,
+				"후보",
+				"NNG",
+				"'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다."
+			],
+			[
+				45,
+				"등",
+				"NNB",
+				"'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다."
+			],
+			[
+				46,
+				"개",
+				"NNB",
+				"'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다."
+			],
+			[
+				47,
+				"부문",
+				"NNG",
+				"'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다."
+			],
+			[
+				48,
+				"후보",
+				"NNG",
+				"'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다."
+			]
+		],
+		"NN_Lst": [
+			[
+				0,
+				"넷플릭스",
+				"NNP",
+				"넷플릭스 한국 시리즈 '오징어 게임'이 인종차별의 온상 골든글로브의 주요 부문 후보에 올라 이목을 집중시키고 있다."
+			],
+			[
+				1,
+				"한국",
+				"NNP",
+				"넷플릭스 한국 시리즈 '오징어 게임'이 인종차별의 온상 골든글로브의 주요 부문 후보에 올라 이목을 집중시키고 있다."
+			],
+			[
+				2,
+				"시리즈",
+				"NNG",
+				"넷플릭스 한국 시리즈 '오징어 게임'이 인종차별의 온상 골든글로브의 주요 부문 후보에 올라 이목을 집중시키고 있다."
+			],
+			[
+				3,
+				"오징어",
+				"NNG",
+				"넷플릭스 한국 시리즈 '오징어 게임'이 인종차별의 온상 골든글로브의 주요 부문 후보에 올라 이목을 집중시키고 있다."
+			],
+			[
+				4,
+				"게임",
+				"NNG",
+				"넷플릭스 한국 시리즈 '오징어 게임'이 인종차별의 온상 골든글로브의 주요 부문 후보에 올라 이목을 집중시키고 있다."
+			],
+			[
+				5,
+				"인종",
+				"NNG",
+				"넷플릭스 한국 시리즈 '오징어 게임'이 인종차별의 온상 골든글로브의 주요 부문 후보에 올라 이목을 집중시키고 있다."
+			],
+			[
+				6,
+				"차별",
+				"NNG",
+				"넷플릭스 한국 시리즈 '오징어 게임'이 인종차별의 온상 골든글로브의 주요 부문 후보에 올라 이목을 집중시키고 있다."
+			],
+			[
+				7,
+				"온상",
+				"NNG",
+				"넷플릭스 한국 시리즈 '오징어 게임'이 인종차별의 온상 골든글로브의 주요 부문 후보에 올라 이목을 집중시키고 있다."
+			],
+			[
+				8,
+				"골든글로브",
+				"NNG",
+				"넷플릭스 한국 시리즈 '오징어 게임'이 인종차별의 온상 골든글로브의 주요 부문 후보에 올라 이목을 집중시키고 있다."
+			],
+			[
+				9,
+				"주요",
+				"NNG",
+				"넷플릭스 한국 시리즈 '오징어 게임'이 인종차별의 온상 골든글로브의 주요 부문 후보에 올라 이목을 집중시키고 있다."
+			],
+			[
+				10,
+				"부문",
+				"NNG",
+				"넷플릭스 한국 시리즈 '오징어 게임'이 인종차별의 온상 골든글로브의 주요 부문 후보에 올라 이목을 집중시키고 있다."
+			],
+			[
+				11,
+				"후보",
+				"NNG",
+				"넷플릭스 한국 시리즈 '오징어 게임'이 인종차별의 온상 골든글로브의 주요 부문 후보에 올라 이목을 집중시키고 있다."
+			],
+			[
+				12,
+				"이목",
+				"NNG",
+				"넷플릭스 한국 시리즈 '오징어 게임'이 인종차별의 온상 골든글로브의 주요 부문 후보에 올라 이목을 집중시키고 있다."
+			],
+			[
+				13,
+				"집중",
+				"NNG",
+				"넷플릭스 한국 시리즈 '오징어 게임'이 인종차별의 온상 골든글로브의 주요 부문 후보에 올라 이목을 집중시키고 있다."
+			],
+			[
+				14,
+				"일",
+				"NNB",
+				"13일(현지시간) 미국 할리우드외신기자협회(HFPA)가 발표한 제79회 골든글로브 시상식 후보에서 '오징어 게임'이 주요 부문을 석권했다."
+			],
+			[
+				15,
+				"현지",
+				"NNG",
+				"13일(현지시간) 미국 할리우드외신기자협회(HFPA)가 발표한 제79회 골든글로브 시상식 후보에서 '오징어 게임'이 주요 부문을 석권했다."
+			],
+			[
+				16,
+				"시간",
+				"NNG",
+				"13일(현지시간) 미국 할리우드외신기자협회(HFPA)가 발표한 제79회 골든글로브 시상식 후보에서 '오징어 게임'이 주요 부문을 석권했다."
+			],
+			[
+				17,
+				"미국",
+				"NNP",
+				"13일(현지시간) 미국 할리우드외신기자협회(HFPA)가 발표한 제79회 골든글로브 시상식 후보에서 '오징어 게임'이 주요 부문을 석권했다."
+			],
+			[
+				18,
+				"할리우드외신기자협회",
+				"NNP",
+				"13일(현지시간) 미국 할리우드외신기자협회(HFPA)가 발표한 제79회 골든글로브 시상식 후보에서 '오징어 게임'이 주요 부문을 석권했다."
+			],
+			[
+				19,
+				"회",
+				"NNB",
+				"13일(현지시간) 미국 할리우드외신기자협회(HFPA)가 발표한 제79회 골든글로브 시상식 후보에서 '오징어 게임'이 주요 부문을 석권했다."
+			],
+			[
+				20,
+				"골든글로브",
+				"NNG",
+				"13일(현지시간) 미국 할리우드외신기자협회(HFPA)가 발표한 제79회 골든글로브 시상식 후보에서 '오징어 게임'이 주요 부문을 석권했다."
+			],
+			[
+				21,
+				"시상식",
+				"NNG",
+				"13일(현지시간) 미국 할리우드외신기자협회(HFPA)가 발표한 제79회 골든글로브 시상식 후보에서 '오징어 게임'이 주요 부문을 석권했다."
+			],
+			[
+				22,
+				"후보",
+				"NNG",
+				"13일(현지시간) 미국 할리우드외신기자협회(HFPA)가 발표한 제79회 골든글로브 시상식 후보에서 '오징어 게임'이 주요 부문을 석권했다."
+			],
+			[
+				23,
+				"오징어",
+				"NNG",
+				"13일(현지시간) 미국 할리우드외신기자협회(HFPA)가 발표한 제79회 골든글로브 시상식 후보에서 '오징어 게임'이 주요 부문을 석권했다."
+			],
+			[
+				24,
+				"게임",
+				"NNG",
+				"13일(현지시간) 미국 할리우드외신기자협회(HFPA)가 발표한 제79회 골든글로브 시상식 후보에서 '오징어 게임'이 주요 부문을 석권했다."
+			],
+			[
+				25,
+				"주요",
+				"NNG",
+				"13일(현지시간) 미국 할리우드외신기자협회(HFPA)가 발표한 제79회 골든글로브 시상식 후보에서 '오징어 게임'이 주요 부문을 석권했다."
+			],
+			[
+				26,
+				"부문",
+				"NNG",
+				"13일(현지시간) 미국 할리우드외신기자협회(HFPA)가 발표한 제79회 골든글로브 시상식 후보에서 '오징어 게임'이 주요 부문을 석권했다."
+			],
+			[
+				27,
+				"오징어",
+				"NNG",
+				"'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다."
+			],
+			[
+				28,
+				"게임",
+				"NNG",
+				"'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다."
+			],
+			[
+				29,
+				"텔레비전",
+				"NNG",
+				"'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다."
+			],
+			[
+				30,
+				"시리즈",
+				"NNG",
+				"'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다."
+			],
+			[
+				31,
+				"드라마",
+				"NNG",
+				"'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다."
+			],
+			[
+				32,
+				"작품",
+				"NNG",
+				"'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다."
+			],
+			[
+				33,
+				"상",
+				"NNG",
+				"'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다."
+			],
+			[
+				34,
+				"텔레비전",
+				"NNG",
+				"'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다."
+			],
+			[
+				35,
+				"부문",
+				"NNG",
+				"'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다."
+			],
+			[
+				36,
+				"남우",
+				"NNG",
+				"'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다."
+			],
+			[
+				37,
+				"주연상",
+				"NNG",
+				"'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다."
+			],
+			[
+				38,
+				"이정재",
+				"NNP",
+				"'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다."
+			],
+			[
+				39,
+				"텔레비전",
+				"NNG",
+				"'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다."
+			],
+			[
+				40,
+				"부문",
+				"NNG",
+				"'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다."
+			],
+			[
+				41,
+				"남우",
+				"NNG",
+				"'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다."
+			],
+			[
+				42,
+				"조연상",
+				"NNG",
+				"'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다."
+			],
+			[
+				43,
+				"오영수",
+				"NNP",
+				"'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다."
+			],
+			[
+				44,
+				"후보",
+				"NNG",
+				"'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다."
+			],
+			[
+				45,
+				"등",
+				"NNB",
+				"'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다."
+			],
+			[
+				46,
+				"개",
+				"NNB",
+				"'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다."
+			],
+			[
+				47,
+				"부문",
+				"NNG",
+				"'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다."
+			],
+			[
+				48,
+				"후보",
+				"NNG",
+				"'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다."
+			]
+		],
+		"NNG_Lst": [
+			[
+				0,
+				"시리즈",
+				"NNG",
+				"넷플릭스 한국 시리즈 '오징어 게임'이 인종차별의 온상 골든글로브의 주요 부문 후보에 올라 이목을 집중시키고 있다."
+			],
+			[
+				1,
+				"오징어",
+				"NNG",
+				"넷플릭스 한국 시리즈 '오징어 게임'이 인종차별의 온상 골든글로브의 주요 부문 후보에 올라 이목을 집중시키고 있다."
+			],
+			[
+				2,
+				"게임",
+				"NNG",
+				"넷플릭스 한국 시리즈 '오징어 게임'이 인종차별의 온상 골든글로브의 주요 부문 후보에 올라 이목을 집중시키고 있다."
+			],
+			[
+				3,
+				"인종",
+				"NNG",
+				"넷플릭스 한국 시리즈 '오징어 게임'이 인종차별의 온상 골든글로브의 주요 부문 후보에 올라 이목을 집중시키고 있다."
+			],
+			[
+				4,
+				"차별",
+				"NNG",
+				"넷플릭스 한국 시리즈 '오징어 게임'이 인종차별의 온상 골든글로브의 주요 부문 후보에 올라 이목을 집중시키고 있다."
+			],
+			[
+				5,
+				"온상",
+				"NNG",
+				"넷플릭스 한국 시리즈 '오징어 게임'이 인종차별의 온상 골든글로브의 주요 부문 후보에 올라 이목을 집중시키고 있다."
+			],
+			[
+				6,
+				"골든글로브",
+				"NNG",
+				"넷플릭스 한국 시리즈 '오징어 게임'이 인종차별의 온상 골든글로브의 주요 부문 후보에 올라 이목을 집중시키고 있다."
+			],
+			[
+				7,
+				"주요",
+				"NNG",
+				"넷플릭스 한국 시리즈 '오징어 게임'이 인종차별의 온상 골든글로브의 주요 부문 후보에 올라 이목을 집중시키고 있다."
+			],
+			[
+				8,
+				"부문",
+				"NNG",
+				"넷플릭스 한국 시리즈 '오징어 게임'이 인종차별의 온상 골든글로브의 주요 부문 후보에 올라 이목을 집중시키고 있다."
+			],
+			[
+				9,
+				"후보",
+				"NNG",
+				"넷플릭스 한국 시리즈 '오징어 게임'이 인종차별의 온상 골든글로브의 주요 부문 후보에 올라 이목을 집중시키고 있다."
+			],
+			[
+				10,
+				"이목",
+				"NNG",
+				"넷플릭스 한국 시리즈 '오징어 게임'이 인종차별의 온상 골든글로브의 주요 부문 후보에 올라 이목을 집중시키고 있다."
+			],
+			[
+				11,
+				"집중",
+				"NNG",
+				"넷플릭스 한국 시리즈 '오징어 게임'이 인종차별의 온상 골든글로브의 주요 부문 후보에 올라 이목을 집중시키고 있다."
+			],
+			[
+				12,
+				"현지",
+				"NNG",
+				"13일(현지시간) 미국 할리우드외신기자협회(HFPA)가 발표한 제79회 골든글로브 시상식 후보에서 '오징어 게임'이 주요 부문을 석권했다."
+			],
+			[
+				13,
+				"시간",
+				"NNG",
+				"13일(현지시간) 미국 할리우드외신기자협회(HFPA)가 발표한 제79회 골든글로브 시상식 후보에서 '오징어 게임'이 주요 부문을 석권했다."
+			],
+			[
+				14,
+				"골든글로브",
+				"NNG",
+				"13일(현지시간) 미국 할리우드외신기자협회(HFPA)가 발표한 제79회 골든글로브 시상식 후보에서 '오징어 게임'이 주요 부문을 석권했다."
+			],
+			[
+				15,
+				"시상식",
+				"NNG",
+				"13일(현지시간) 미국 할리우드외신기자협회(HFPA)가 발표한 제79회 골든글로브 시상식 후보에서 '오징어 게임'이 주요 부문을 석권했다."
+			],
+			[
+				16,
+				"후보",
+				"NNG",
+				"13일(현지시간) 미국 할리우드외신기자협회(HFPA)가 발표한 제79회 골든글로브 시상식 후보에서 '오징어 게임'이 주요 부문을 석권했다."
+			],
+			[
+				17,
+				"오징어",
+				"NNG",
+				"13일(현지시간) 미국 할리우드외신기자협회(HFPA)가 발표한 제79회 골든글로브 시상식 후보에서 '오징어 게임'이 주요 부문을 석권했다."
+			],
+			[
+				18,
+				"게임",
+				"NNG",
+				"13일(현지시간) 미국 할리우드외신기자협회(HFPA)가 발표한 제79회 골든글로브 시상식 후보에서 '오징어 게임'이 주요 부문을 석권했다."
+			],
+			[
+				19,
+				"주요",
+				"NNG",
+				"13일(현지시간) 미국 할리우드외신기자협회(HFPA)가 발표한 제79회 골든글로브 시상식 후보에서 '오징어 게임'이 주요 부문을 석권했다."
+			],
+			[
+				20,
+				"부문",
+				"NNG",
+				"13일(현지시간) 미국 할리우드외신기자협회(HFPA)가 발표한 제79회 골든글로브 시상식 후보에서 '오징어 게임'이 주요 부문을 석권했다."
+			],
+			[
+				21,
+				"오징어",
+				"NNG",
+				"'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다."
+			],
+			[
+				22,
+				"게임",
+				"NNG",
+				"'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다."
+			],
+			[
+				23,
+				"텔레비전",
+				"NNG",
+				"'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다."
+			],
+			[
+				24,
+				"시리즈",
+				"NNG",
+				"'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다."
+			],
+			[
+				25,
+				"드라마",
+				"NNG",
+				"'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다."
+			],
+			[
+				26,
+				"작품",
+				"NNG",
+				"'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다."
+			],
+			[
+				27,
+				"상",
+				"NNG",
+				"'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다."
+			],
+			[
+				28,
+				"텔레비전",
+				"NNG",
+				"'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다."
+			],
+			[
+				29,
+				"부문",
+				"NNG",
+				"'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다."
+			],
+			[
+				30,
+				"남우",
+				"NNG",
+				"'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다."
+			],
+			[
+				31,
+				"주연상",
+				"NNG",
+				"'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다."
+			],
+			[
+				32,
+				"텔레비전",
+				"NNG",
+				"'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다."
+			],
+			[
+				33,
+				"부문",
+				"NNG",
+				"'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다."
+			],
+			[
+				34,
+				"남우",
+				"NNG",
+				"'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다."
+			],
+			[
+				35,
+				"조연상",
+				"NNG",
+				"'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다."
+			],
+			[
+				36,
+				"후보",
+				"NNG",
+				"'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다."
+			],
+			[
+				37,
+				"부문",
+				"NNG",
+				"'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다."
+			],
+			[
+				38,
+				"후보",
+				"NNG",
+				"'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다."
+			]
+		],
+		"NNP_Lst": [
+			[
+				0,
+				"넷플릭스",
+				"NNP",
+				"넷플릭스 한국 시리즈 '오징어 게임'이 인종차별의 온상 골든글로브의 주요 부문 후보에 올라 이목을 집중시키고 있다."
+			],
+			[
+				1,
+				"한국",
+				"NNP",
+				"넷플릭스 한국 시리즈 '오징어 게임'이 인종차별의 온상 골든글로브의 주요 부문 후보에 올라 이목을 집중시키고 있다."
+			],
+			[
+				2,
+				"미국",
+				"NNP",
+				"13일(현지시간) 미국 할리우드외신기자협회(HFPA)가 발표한 제79회 골든글로브 시상식 후보에서 '오징어 게임'이 주요 부문을 석권했다."
+			],
+			[
+				3,
+				"할리우드외신기자협회",
+				"NNP",
+				"13일(현지시간) 미국 할리우드외신기자협회(HFPA)가 발표한 제79회 골든글로브 시상식 후보에서 '오징어 게임'이 주요 부문을 석권했다."
+			],
+			[
+				4,
+				"이정재",
+				"NNP",
+				"'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다."
+			],
+			[
+				5,
+				"오영수",
+				"NNP",
+				"'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다."
+			]
+		],
+		"NNB_Lst": [
+			[
+				0,
+				"일",
+				"NNB",
+				"13일(현지시간) 미국 할리우드외신기자협회(HFPA)가 발표한 제79회 골든글로브 시상식 후보에서 '오징어 게임'이 주요 부문을 석권했다."
+			],
+			[
+				1,
+				"회",
+				"NNB",
+				"13일(현지시간) 미국 할리우드외신기자협회(HFPA)가 발표한 제79회 골든글로브 시상식 후보에서 '오징어 게임'이 주요 부문을 석권했다."
+			],
+			[
+				2,
+				"등",
+				"NNB",
+				"'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다."
+			],
+			[
+				3,
+				"개",
+				"NNB",
+				"'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다."
+			]
+		],
+		"NP_Lst": [],
+		"NP_People_Lst": [],
+		"NP_Things_Lst": [],
+		"NR_Lst": [],
+		"VL_Lst": [
+			[
+				0,
+				"오르",
+				"VV",
+				"넷플릭스 한국 시리즈 '오징어 게임'이 인종차별의 온상 골든글로브의 주요 부문 후보에 올라 이목을 집중시키고 있다."
+			],
+			[
+				1,
+				"있",
+				"VX",
+				"넷플릭스 한국 시리즈 '오징어 게임'이 인종차별의 온상 골든글로브의 주요 부문 후보에 올라 이목을 집중시키고 있다."
+			],
+			[
+				2,
+				"발표하",
+				"VV",
+				"13일(현지시간) 미국 할리우드외신기자협회(HFPA)가 발표한 제79회 골든글로브 시상식 후보에서 '오징어 게임'이 주요 부문을 석권했다."
+			],
+			[
+				3,
+				"석권하",
+				"VV",
+				"13일(현지시간) 미국 할리우드외신기자협회(HFPA)가 발표한 제79회 골든글로브 시상식 후보에서 '오징어 게임'이 주요 부문을 석권했다."
+			],
+			[
+				4,
+				"비롯하",
+				"VV",
+				"'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다."
+			],
+			[
+				5,
+				"오르",
+				"VV",
+				"'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다."
+			]
+		],
+		"VV_Lst": [
+			[
+				0,
+				"오르",
+				"VV",
+				"넷플릭스 한국 시리즈 '오징어 게임'이 인종차별의 온상 골든글로브의 주요 부문 후보에 올라 이목을 집중시키고 있다."
+			],
+			[
+				1,
+				"발표하",
+				"VV",
+				"13일(현지시간) 미국 할리우드외신기자협회(HFPA)가 발표한 제79회 골든글로브 시상식 후보에서 '오징어 게임'이 주요 부문을 석권했다."
+			],
+			[
+				2,
+				"석권하",
+				"VV",
+				"13일(현지시간) 미국 할리우드외신기자협회(HFPA)가 발표한 제79회 골든글로브 시상식 후보에서 '오징어 게임'이 주요 부문을 석권했다."
+			],
+			[
+				3,
+				"비롯하",
+				"VV",
+				"'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다."
+			],
+			[
+				4,
+				"오르",
+				"VV",
+				"'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다."
+			]
+		],
+		"VA_Lst": [],
+		"VX_Lst": [
+			[
+				0,
+				"있",
+				"VX",
+				"넷플릭스 한국 시리즈 '오징어 게임'이 인종차별의 온상 골든글로브의 주요 부문 후보에 올라 이목을 집중시키고 있다."
+			]
+		],
+		"VCP_Lst": [],
+		"VCN_Lst": [],
+		"ML_Lst": [],
+		"MA_Lst": [],
+		"MM_Lst": [],
+		"J_Lst": [
+			[
+				0,
+				"이",
+				"JKS",
+				"넷플릭스 한국 시리즈 '오징어 게임'이 인종차별의 온상 골든글로브의 주요 부문 후보에 올라 이목을 집중시키고 있다."
+			],
+			[
+				1,
+				"의",
+				"JKG",
+				"넷플릭스 한국 시리즈 '오징어 게임'이 인종차별의 온상 골든글로브의 주요 부문 후보에 올라 이목을 집중시키고 있다."
+			],
+			[
+				2,
+				"의",
+				"JKG",
+				"넷플릭스 한국 시리즈 '오징어 게임'이 인종차별의 온상 골든글로브의 주요 부문 후보에 올라 이목을 집중시키고 있다."
+			],
+			[
+				3,
+				"에",
+				"JKB",
+				"넷플릭스 한국 시리즈 '오징어 게임'이 인종차별의 온상 골든글로브의 주요 부문 후보에 올라 이목을 집중시키고 있다."
+			],
+			[
+				4,
+				"을",
+				"JKO",
+				"넷플릭스 한국 시리즈 '오징어 게임'이 인종차별의 온상 골든글로브의 주요 부문 후보에 올라 이목을 집중시키고 있다."
+			],
+			[
+				5,
+				"가",
+				"JKS",
+				"13일(현지시간) 미국 할리우드외신기자협회(HFPA)가 발표한 제79회 골든글로브 시상식 후보에서 '오징어 게임'이 주요 부문을 석권했다."
+			],
+			[
+				6,
+				"에서",
+				"JKB",
+				"13일(현지시간) 미국 할리우드외신기자협회(HFPA)가 발표한 제79회 골든글로브 시상식 후보에서 '오징어 게임'이 주요 부문을 석권했다."
+			],
+			[
+				7,
+				"이",
+				"JKS",
+				"13일(현지시간) 미국 할리우드외신기자협회(HFPA)가 발표한 제79회 골든글로브 시상식 후보에서 '오징어 게임'이 주요 부문을 석권했다."
+			],
+			[
+				8,
+				"을",
+				"JKO",
+				"13일(현지시간) 미국 할리우드외신기자협회(HFPA)가 발표한 제79회 골든글로브 시상식 후보에서 '오징어 게임'이 주요 부문을 석권했다."
+			],
+			[
+				9,
+				"은",
+				"JX",
+				"'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다."
+			],
+			[
+				10,
+				"을",
+				"JKO",
+				"'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다."
+			],
+			[
+				11,
+				"과",
+				"JC",
+				"'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다."
+			],
+			[
+				12,
+				"에",
+				"JKB",
+				"'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다."
+			]
+		],
+		"E_Lst": [
+			[
+				0,
+				"아",
+				"EC",
+				"넷플릭스 한국 시리즈 '오징어 게임'이 인종차별의 온상 골든글로브의 주요 부문 후보에 올라 이목을 집중시키고 있다."
+			],
+			[
+				1,
+				"고",
+				"EC",
+				"넷플릭스 한국 시리즈 '오징어 게임'이 인종차별의 온상 골든글로브의 주요 부문 후보에 올라 이목을 집중시키고 있다."
+			],
+			[
+				2,
+				"다",
+				"EF",
+				"넷플릭스 한국 시리즈 '오징어 게임'이 인종차별의 온상 골든글로브의 주요 부문 후보에 올라 이목을 집중시키고 있다."
+			],
+			[
+				3,
+				"ㄴ",
+				"ETM",
+				"13일(현지시간) 미국 할리우드외신기자협회(HFPA)가 발표한 제79회 골든글로브 시상식 후보에서 '오징어 게임'이 주요 부문을 석권했다."
+			],
+			[
+				4,
+				"았",
+				"EP",
+				"13일(현지시간) 미국 할리우드외신기자협회(HFPA)가 발표한 제79회 골든글로브 시상식 후보에서 '오징어 게임'이 주요 부문을 석권했다."
+			],
+			[
+				5,
+				"다",
+				"EF",
+				"13일(현지시간) 미국 할리우드외신기자협회(HFPA)가 발표한 제79회 골든글로브 시상식 후보에서 '오징어 게임'이 주요 부문을 석권했다."
+			],
+			[
+				6,
+				"아",
+				"EC",
+				"'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다."
+			],
+			[
+				7,
+				"았",
+				"EP",
+				"'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다."
+			],
+			[
+				8,
+				"다",
+				"EF",
+				"'오징어 게임'은 '텔레비전 시리즈-드라마 작품상'을 비롯해 '텔레비전 부문 남우주연상'(이정재)과 '텔레비전 부문 남우조연상'(오영수) 후보 등 3개 부문 후보에 올랐다."
+			]
+		],
+		"X_Lst": [
+			[
+				0,
+				"시키",
+				"XSV",
+				"넷플릭스 한국 시리즈 '오징어 게임'이 인종차별의 온상 골든글로브의 주요 부문 후보에 올라 이목을 집중시키고 있다."
+			],
+			[
+				1,
+				"제",
+				"XPN",
+				"13일(현지시간) 미국 할리우드외신기자협회(HFPA)가 발표한 제79회 골든글로브 시상식 후보에서 '오징어 게임'이 주요 부문을 석권했다."
+			]
+		],
+		"IC_Lst": []
+	},
+	"NDW": {
+		"morph_NDW": 61,
+		"NL_NDW": 49,
+		"NNG_NDW": 39,
+		"NNP_NDW": 6,
+		"NNB_NDW": 4,
+		"NP_NDW": 0,
+		"NR_NDW": 0,
+		"VL_NDW": 6,
+		"VV_NDW": 5,
+		"VA_NDW": 0,
+		"ML_NDW": 0,
+		"MM_NDW": 0,
+		"IC_NDW": 0,
+		"J_NDW": 13,
+		"E_NDW": 9,
+		"X_NDW": 2,
+		"CL_NDW": 55,
+		"FL_NDW": 24
+	}
+}

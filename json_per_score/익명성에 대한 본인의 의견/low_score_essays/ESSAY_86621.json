@@ -1,0 +1,5620 @@
+﻿{
+	"morpheme": {
+		"sentences": [
+			{
+				"text": {
+					"content": "진천중학교의 커맵 활동을 추진한 이는 송준숙 진천군마을만들기지원센터 사무국장이었다.",
+					"length": 46,
+					"beginOffset": 0
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "진천중학교의",
+							"length": 6,
+							"beginOffset": 0
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "진천중학교",
+									"length": 5,
+									"beginOffset": 0
+								},
+								"tag": "NNP",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 5,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99938333,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "진천중학교",
+						"tagged": "진천중학교/NNP+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "커맵",
+							"beginOffset": 7,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "커맵",
+									"beginOffset": 7,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.6206566,
+								"outOfVocab": "OUT_OF_VOCAB"
+							}
+						],
+						"lemma": "커맵",
+						"tagged": "커맵/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "활동을",
+							"beginOffset": 10,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "활동",
+									"beginOffset": 10,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98261124,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 12,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999668,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "활동",
+						"tagged": "활동/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "추진한",
+							"beginOffset": 14,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "추진하",
+									"beginOffset": 14,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 16,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9998591,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "추진하",
+						"tagged": "추진하/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이는",
+							"beginOffset": 18,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 18,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.8330146,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 19,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9991207,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이",
+						"tagged": "이/NNB+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "송준숙",
+							"beginOffset": 21,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "송준숙",
+									"beginOffset": 21,
+									"length": 3
+								},
+								"tag": "NNP",
+								"probability": 0.5824412,
+								"outOfVocab": "OUT_OF_VOCAB"
+							}
+						],
+						"lemma": "송준숙",
+						"tagged": "송준숙/NNP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "진천군마을만들기지원센터",
+							"beginOffset": 25,
+							"length": 12
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "진천군",
+									"beginOffset": 25,
+									"length": 3
+								},
+								"tag": "NNP",
+								"probability": 0.81725264,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "마을",
+									"beginOffset": 28,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.96348387,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "만",
+									"beginOffset": 30,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.90914565,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "들기",
+									"beginOffset": 31,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.92371404,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "지원",
+									"beginOffset": 33,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9781333,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "센터",
+									"beginOffset": 35,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.96599305,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "진천군",
+						"tagged": "진천군/NNP+마을/NNG+만/NNG+들기/NNG+지원/NNG+센터/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사무국장이었다.",
+							"beginOffset": 38,
+							"length": 8
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사무국장",
+									"beginOffset": 38,
+									"length": 4
+								},
+								"tag": "NNG",
+								"probability": 0.979635,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 42,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.9998537,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 43,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9999107,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 44,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.99242675,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 45,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9996945,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사무국장",
+						"tagged": "사무국장/NNG+이/VCP+었/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "진천중학교의 커맵 활동을 추진한 이는 송준숙 진천군마을만들기지원센터 사무국장이었다."
+			},
+			{
+				"text": {
+					"content": "송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다.",
+					"beginOffset": 47,
+					"length": 207
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "송",
+							"beginOffset": 47,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "송",
+									"beginOffset": 47,
+									"length": 1
+								},
+								"tag": "NNP",
+								"probability": 0.9597226,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "송",
+						"tagged": "송/NNP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "국장은",
+							"beginOffset": 49,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "국장",
+									"beginOffset": 49,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9840599,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 51,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99926883,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "국장",
+						"tagged": "국장/NNG+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "\"커뮤니티매핑이",
+							"beginOffset": 53,
+							"length": 8
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "\"",
+									"beginOffset": 53,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9997308,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "커뮤니티매핑",
+									"beginOffset": 54,
+									"length": 6
+								},
+								"tag": "NNP",
+								"probability": 0.73462033,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 60,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.94562644,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "\"",
+						"tagged": "\"/SS+커뮤니티매핑/NNP+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "지도를",
+							"beginOffset": 62,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "지도",
+									"beginOffset": 62,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9825959,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 64,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999912,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "지도",
+						"tagged": "지도/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "그리는",
+							"beginOffset": 66,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그리",
+									"beginOffset": 66,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9912101,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 68,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999094,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그리",
+						"tagged": "그리/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "과정에서",
+							"beginOffset": 70,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "과정",
+									"beginOffset": 70,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98483187,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에서",
+									"beginOffset": 72,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9967899,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "과정",
+						"tagged": "과정/NNG+에서/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "커뮤니티를",
+							"beginOffset": 75,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "커뮤니티",
+									"beginOffset": 75,
+									"length": 4
+								},
+								"tag": "NNG",
+								"probability": 0.9829901,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 79,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99996215,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "커뮤니티",
+						"tagged": "커뮤니티/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "형성하면서",
+							"beginOffset": 81,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "형성하",
+									"beginOffset": 81,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "면서",
+									"beginOffset": 84,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9937845,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "형성하",
+						"tagged": "형성하/VV+면서/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "우리",
+							"beginOffset": 87,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "우리",
+									"beginOffset": 87,
+									"length": 2
+								},
+								"tag": "NP",
+								"probability": 0.9857216,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "우리",
+						"tagged": "우리/NP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "지역의",
+							"beginOffset": 90,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "지역",
+									"beginOffset": 90,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9861139,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 92,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9995937,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "지역",
+						"tagged": "지역/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "문제점과",
+							"beginOffset": 94,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "문제점",
+									"beginOffset": 94,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.98317707,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "과",
+									"beginOffset": 97,
+									"length": 1
+								},
+								"tag": "JC",
+								"probability": 0.96498215,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "문제점",
+						"tagged": "문제점/NNG+과/JC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "해결",
+							"beginOffset": 99,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "해결",
+									"beginOffset": 99,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98476946,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "해결",
+						"tagged": "해결/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "방법을",
+							"beginOffset": 102,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "방법",
+									"beginOffset": 102,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9851283,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 104,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99997914,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "방법",
+						"tagged": "방법/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "찾아낼",
+							"beginOffset": 106,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "찾아내",
+									"beginOffset": 106,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.99024254,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ",
+									"beginOffset": 108,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99994284,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "찾아내",
+						"tagged": "찾아내/VV+ㄹ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "수",
+							"beginOffset": 110,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "수",
+									"beginOffset": 110,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.97993755,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "수",
+						"tagged": "수/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있는",
+							"beginOffset": 112,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 112,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.97449267,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 113,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99991554,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VA+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "좋은",
+							"beginOffset": 115,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "좋",
+									"beginOffset": 115,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9864494,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 116,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99998814,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "좋",
+						"tagged": "좋/VA+은/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "도구여서",
+							"beginOffset": 118,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "도구",
+									"beginOffset": 118,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98302096,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 120,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.99976265,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어서",
+									"beginOffset": 120,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99488515,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "도구",
+						"tagged": "도구/NNG+이/VCP+어서/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": ",",
+							"beginOffset": 122,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 122,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.99909765,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": ",",
+						"tagged": ",/SP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "학생들을",
+							"beginOffset": 124,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "학생",
+									"beginOffset": 124,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98571914,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "들",
+									"beginOffset": 126,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.99125576,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 127,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999357,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "학생",
+						"tagged": "학생/NNG+들/XSN+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "지역",
+							"beginOffset": 129,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "지역",
+									"beginOffset": 129,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9829759,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "지역",
+						"tagged": "지역/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "문제에",
+							"beginOffset": 132,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "문제",
+									"beginOffset": 132,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9841348,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 134,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99316067,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "문제",
+						"tagged": "문제/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "관심과",
+							"beginOffset": 136,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "관심",
+									"beginOffset": 136,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98408604,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "과",
+									"beginOffset": 138,
+									"length": 1
+								},
+								"tag": "JC",
+								"probability": 0.98356384,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "관심",
+						"tagged": "관심/NNG+과/JC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "애정을",
+							"beginOffset": 140,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "애정",
+									"beginOffset": 140,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98129284,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 142,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99998116,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "애정",
+						"tagged": "애정/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "갖게",
+							"beginOffset": 144,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "갖",
+									"beginOffset": 144,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.98999715,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "게",
+									"beginOffset": 145,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9942795,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "갖",
+						"tagged": "갖/VV+게/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "하려고",
+							"beginOffset": 147,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 147,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.43341014,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "려고",
+									"beginOffset": 148,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99503386,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VV+려고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이를",
+							"beginOffset": 151,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 151,
+									"length": 1
+								},
+								"tag": "NP",
+								"probability": 0.96761435,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 152,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9996141,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이",
+						"tagged": "이/NP+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "기획했다\"며",
+							"beginOffset": 154,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "기획하",
+									"beginOffset": 154,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 156,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9999744,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 157,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9872211,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "\"",
+									"beginOffset": 158,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.99990785,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "며",
+									"beginOffset": 159,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99450225,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "기획하",
+						"tagged": "기획하/VV+았/EP+다/EF+\"/SS+며/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "\"처음에는",
+							"beginOffset": 161,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "\"",
+									"beginOffset": 161,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.99984384,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "처음",
+									"beginOffset": 162,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98305446,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 164,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99559414,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 165,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9992016,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "\"",
+						"tagged": "\"/SS+처음/NNG+에/JKB+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "관심이",
+							"beginOffset": 167,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "관심",
+									"beginOffset": 167,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98107475,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 169,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9965491,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "관심",
+						"tagged": "관심/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "크게",
+							"beginOffset": 171,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "크",
+									"beginOffset": 171,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9790589,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "게",
+									"beginOffset": 172,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99546903,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "크",
+						"tagged": "크/VA+게/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "없던",
+							"beginOffset": 174,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "없",
+									"beginOffset": 174,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9906903,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "던",
+									"beginOffset": 175,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99996305,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "없",
+						"tagged": "없/VA+던/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "아이들이",
+							"beginOffset": 177,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "아이",
+									"beginOffset": 177,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98531735,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "들",
+									"beginOffset": 179,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.99010414,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 180,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.99479425,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "아이",
+						"tagged": "아이/NNG+들/XSN+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "점점",
+							"beginOffset": 182,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "점점",
+									"beginOffset": 182,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9928678,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "점점",
+						"tagged": "점점/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "적극적으로",
+							"beginOffset": 185,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "적극",
+									"beginOffset": 185,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9842314,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "적",
+									"beginOffset": 187,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.9914196,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으로",
+									"beginOffset": 188,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9927901,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "적극",
+						"tagged": "적극/NNG+적/XSN+으로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "변해",
+							"beginOffset": 191,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "변하",
+									"beginOffset": 191,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.98158586,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 192,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9943598,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "변하",
+						"tagged": "변하/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "가면서",
+							"beginOffset": 193,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 193,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.9770015,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "면서",
+									"beginOffset": 194,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99145454,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "가",
+						"tagged": "가/VX+면서/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "나중에는",
+							"beginOffset": 197,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "나중",
+									"beginOffset": 197,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9778892,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 199,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99702144,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 200,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9983327,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "나중",
+						"tagged": "나중/NNG+에/JKB+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "새로운",
+							"beginOffset": 202,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "새롭",
+									"beginOffset": 202,
+									"length": 2
+								},
+								"tag": "VA",
+								"probability": 0.9887151,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 204,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999928,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "새롭",
+						"tagged": "새롭/VA+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "제안까지",
+							"beginOffset": 206,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "제안",
+									"beginOffset": 206,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9836802,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "까지",
+									"beginOffset": 208,
+									"length": 2
+								},
+								"tag": "JX",
+								"probability": 0.9991007,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "제안",
+						"tagged": "제안/NNG+까지/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "하는",
+							"beginOffset": 211,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 211,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9616023,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 212,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999909,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "것을",
+							"beginOffset": 214,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "것",
+									"beginOffset": 214,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.98350424,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 215,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9998975,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "것",
+						"tagged": "것/NNB+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "보고",
+							"beginOffset": 217,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "보",
+									"beginOffset": 217,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.95449513,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 218,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9947456,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "보",
+						"tagged": "보/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이",
+							"beginOffset": 220,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 220,
+									"length": 1
+								},
+								"tag": "MMD",
+								"probability": 0.9997355,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이",
+						"tagged": "이/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "불씨가",
+							"beginOffset": 222,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "불씨",
+									"beginOffset": 222,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9852164,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 224,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.95792973,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "불씨",
+						"tagged": "불씨/NNG+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "계속",
+							"beginOffset": 226,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "계속",
+									"beginOffset": 226,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.99228245,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "계속",
+						"tagged": "계속/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "지속됐으면",
+							"beginOffset": 229,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "지속되",
+									"beginOffset": 229,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 231,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9999533,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으면",
+									"beginOffset": 232,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9923784,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "지속되",
+						"tagged": "지속되/VV+었/EP+으면/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "좋겠다는",
+							"beginOffset": 235,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "좋",
+									"beginOffset": 235,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9844686,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "겠",
+									"beginOffset": 236,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99980325,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다는",
+									"beginOffset": 237,
+									"length": 2
+								},
+								"tag": "ETM",
+								"probability": 0.9999935,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "좋",
+						"tagged": "좋/VA+겠/EP+다는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "생각이",
+							"beginOffset": 240,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "생각",
+									"beginOffset": 240,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9844229,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 242,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9843351,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "생각",
+						"tagged": "생각/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "들었다\"고",
+							"beginOffset": 244,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "들",
+									"beginOffset": 244,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.98225504,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 245,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99985224,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 246,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.99118036,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "\"",
+									"beginOffset": 247,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.99968684,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 248,
+									"length": 1
+								},
+								"tag": "JKQ",
+								"probability": 0.9992293,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "들",
+						"tagged": "들/VV+었/EP+다/EF+\"/SS+고/JKQ",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "말했다.",
+							"beginOffset": 250,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "말하",
+									"beginOffset": 250,
+									"length": 2
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 251,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99980336,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 252,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.99230677,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 253,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9997818,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "말하",
+						"tagged": "말하/VV+았/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서 , 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해 가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			},
+			{
+				"text": {
+					"content": "그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다.",
+					"beginOffset": 255,
+					"length": 138
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "그는",
+							"beginOffset": 255,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그",
+									"beginOffset": 255,
+									"length": 1
+								},
+								"tag": "NP",
+								"probability": 0.9869249,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 256,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99935937,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그",
+						"tagged": "그/NP+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "또",
+							"beginOffset": 258,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "또",
+									"beginOffset": 258,
+									"length": 1
+								},
+								"tag": "MAG",
+								"probability": 0.97951955,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "또",
+						"tagged": "또/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "\"공동체를",
+							"beginOffset": 260,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "\"",
+									"beginOffset": 260,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9997341,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "공동체",
+									"beginOffset": 261,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9836934,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 264,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99992645,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "\"",
+						"tagged": "\"/SS+공동체/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "다시",
+							"beginOffset": 266,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "다시",
+									"beginOffset": 266,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.98946,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "다시",
+						"tagged": "다시/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "바라보고",
+							"beginOffset": 269,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "바라보",
+									"beginOffset": 269,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.9897959,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 272,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9945097,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "바라보",
+						"tagged": "바라보/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "공동체의",
+							"beginOffset": 274,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "공동체",
+									"beginOffset": 274,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.985391,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 277,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9986573,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "공동체",
+						"tagged": "공동체/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "결속을",
+							"beginOffset": 279,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "결속",
+									"beginOffset": 279,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9809887,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 281,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999305,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "결속",
+						"tagged": "결속/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "다지면서",
+							"beginOffset": 283,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "다지",
+									"beginOffset": 283,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9896572,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "면서",
+									"beginOffset": 285,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99280024,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "다지",
+						"tagged": "다지/VV+면서/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "모두가",
+							"beginOffset": 288,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "모두",
+									"beginOffset": 288,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97275776,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 290,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.99216396,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "모두",
+						"tagged": "모두/NNG+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "그",
+							"beginOffset": 292,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그",
+									"beginOffset": 292,
+									"length": 1
+								},
+								"tag": "MMD",
+								"probability": 0.9999074,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그",
+						"tagged": "그/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "성과를",
+							"beginOffset": 294,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "성과",
+									"beginOffset": 294,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98317724,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 296,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999351,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "성과",
+						"tagged": "성과/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "바로",
+							"beginOffset": 298,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "바로",
+									"beginOffset": 298,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9933417,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "바로",
+						"tagged": "바로/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "볼",
+							"beginOffset": 301,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "보",
+									"beginOffset": 301,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.97814095,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ",
+									"beginOffset": 301,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999905,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "보",
+						"tagged": "보/VV+ㄹ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "수",
+							"beginOffset": 303,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "수",
+									"beginOffset": 303,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9829477,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "수",
+						"tagged": "수/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있는",
+							"beginOffset": 305,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 305,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.48729,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 306,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999704,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VA+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "도구가",
+							"beginOffset": 308,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "도구",
+									"beginOffset": 308,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9819304,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 310,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.8404329,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "도구",
+						"tagged": "도구/NNG+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "커맵\"이라며",
+							"beginOffset": 312,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "커맵",
+									"beginOffset": 312,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.7418432,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "\"",
+									"beginOffset": 314,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.99958485,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 315,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.99913466,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "라며",
+									"beginOffset": 316,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99028116,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "커맵",
+						"tagged": "커맵/NNG+\"/SS+이/VCP+라며/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "\"진천군의",
+							"beginOffset": 319,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "\"",
+									"beginOffset": 319,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.99985725,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "진천군",
+									"beginOffset": 320,
+									"length": 3
+								},
+								"tag": "NNP",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 323,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9994412,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "\"",
+						"tagged": "\"/SS+진천군/NNP+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "다른",
+							"beginOffset": 325,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "다른",
+									"beginOffset": 325,
+									"length": 2
+								},
+								"tag": "MMD",
+								"probability": 0.9987264,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "다른",
+						"tagged": "다른/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "초·중·고에도",
+							"beginOffset": 328,
+							"length": 7
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "초",
+									"beginOffset": 328,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9293853,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "·",
+									"beginOffset": 329,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.9975558,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "중",
+									"beginOffset": 330,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9509216,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "·",
+									"beginOffset": 331,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.9979122,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 332,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.8741296,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 333,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.996656,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 334,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99942136,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "초",
+						"tagged": "초/NNG+·/SP+중/NNG+·/SP+고/NNG+에/JKB+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "커맵",
+							"beginOffset": 336,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "커맵",
+									"beginOffset": 336,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.77886516,
+								"outOfVocab": "OUT_OF_VOCAB"
+							}
+						],
+						"lemma": "커맵",
+						"tagged": "커맵/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "활동이",
+							"beginOffset": 339,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "활동",
+									"beginOffset": 339,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9820889,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 341,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9801504,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "활동",
+						"tagged": "활동/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "확산되어",
+							"beginOffset": 343,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "확산되",
+									"beginOffset": 343,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "어",
+									"beginOffset": 346,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9923264,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "확산되",
+						"tagged": "확산되/VV+어/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "장애인",
+							"beginOffset": 348,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "장애인",
+									"beginOffset": 348,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.97420233,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "장애인",
+						"tagged": "장애인/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "편의시설,",
+							"beginOffset": 352,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "편의",
+									"beginOffset": 352,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "시설",
+									"beginOffset": 354,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 356,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.9990598,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "편의",
+						"tagged": "편의/NNG+시설/NNG+,/SP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "노인",
+							"beginOffset": 358,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "노인",
+									"beginOffset": 358,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9824329,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "노인",
+						"tagged": "노인/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "복지시설",
+							"beginOffset": 361,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "복지",
+									"beginOffset": 361,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "시설",
+									"beginOffset": 363,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							}
+						],
+						"lemma": "복지",
+						"tagged": "복지/NNG+시설/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "등",
+							"beginOffset": 366,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "등",
+									"beginOffset": 366,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.97827446,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "등",
+						"tagged": "등/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "다양한",
+							"beginOffset": 368,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "다양하",
+									"beginOffset": 368,
+									"length": 3
+								},
+								"tag": "VA",
+								"probability": 0.0,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 370,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9997476,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "다양하",
+						"tagged": "다양하/VA+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "커맵이",
+							"beginOffset": 372,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "커맵",
+									"beginOffset": 372,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9123301,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 374,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.99042606,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "커맵",
+						"tagged": "커맵/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "만들어",
+							"beginOffset": 376,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "만들",
+									"beginOffset": 376,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.98733455,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어",
+									"beginOffset": 378,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99533236,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "만들",
+						"tagged": "만들/VV+어/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "지길",
+							"beginOffset": 379,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "지",
+									"beginOffset": 379,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.98131126,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "기",
+									"beginOffset": 380,
+									"length": 1
+								},
+								"tag": "ETN",
+								"probability": 0.99857837,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ",
+									"beginOffset": 380,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99979836,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "지",
+						"tagged": "지/VX+기/ETN+ㄹ/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "바란다\"고",
+							"beginOffset": 382,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "바라",
+									"beginOffset": 382,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.99016523,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ다",
+									"beginOffset": 383,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.99288595,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "\"",
+									"beginOffset": 385,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.99995136,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 386,
+									"length": 1
+								},
+								"tag": "JKQ",
+								"probability": 0.9996882,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "바라",
+						"tagged": "바라/VV+ㄴ다/EF+\"/SS+고/JKQ",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "덧붙였다.",
+							"beginOffset": 388,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "덧붙이",
+									"beginOffset": 388,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.98909694,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 390,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9997986,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 391,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9920054,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 392,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99955493,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "덧붙이",
+						"tagged": "덧붙이/VV+었/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어 지길 바란다\"고 덧붙였다."
+			}
+		],
+		"language": "ko_KR"
+	},
+	"ttr": {
+		"lemma_Cnt": 190,
+		"lemma_TTR": 0.5756097560975609,
+		"CL_TTR": 0.8118811881188119,
+		"NL_TTR": 0.8095238095238095,
+		"NN_TTR": 0.8166666666666667,
+		"NNG_TTR": 0.8163265306122449,
+		"NNP_TTR": 0.8333333333333334,
+		"NNB_TTR": 0.8,
+		"NP_TTR": 1.0,
+		"NR_TTR": 0,
+		"VL_TTR": 0.8181818181818182,
+		"VV_TTR": 0.9,
+		"VA_TTR": 0.75,
+		"ML_TTR": 1.0,
+		"MM_TTR": 0,
+		"MA_TTR": 1.0,
+		"MAJ_TTR": 0,
+		"IC_TTR": 0,
+		"FL_TTR": 0.4166666666666667,
+		"J_TTR": 0.35,
+		"E_TTR": 0.5365853658536586,
+		"X_TTR": 0.6666666666666666,
+		"lemma_RTTR": 8.241477490081023,
+		"CL_RTTR": 8.159304959721911,
+		"NL_RTTR": 6.425396041156863,
+		"NN_RTTR": 6.325872798805447,
+		"NNG_RTTR": 5.714285714285714,
+		"NNP_RTTR": 2.041241452319315,
+		"NNB_RTTR": 1.7888543819998317,
+		"NP_RTTR": 1.7320508075688774,
+		"NR_RTTR": 0,
+		"VL_RTTR": 4.700096710803842,
+		"VV_RTTR": 4.024922359499621,
+		"VA_RTTR": 2.1213203435596424,
+		"ML_RTTR": 2.23606797749979,
+		"MM_RTTR": 0,
+		"MA_RTTR": 2.23606797749979,
+		"MAJ_RTTR": 0,
+		"IC_RTTR": 0,
+		"FL_RTTR": 3.8188130791298667,
+		"J_RTTR": 2.2135943621178655,
+		"E_RTTR": 3.4358227615493333,
+		"X_RTTR": 1.1547005383792517,
+		"lemma_CTTR": 5.827604620232579,
+		"CL_CTTR": 5.769499866788394,
+		"NL_CTTR": 4.543441112511214,
+		"NN_CTTR": 4.473067552958857,
+		"NNG_CTTR": 4.040610178208843,
+		"NNP_CTTR": 1.4433756729740645,
+		"NNB_CTTR": 1.2649110640673518,
+		"NP_CTTR": 1.2247448713915892,
+		"NR_CTTR": 0,
+		"VL_CTTR": 3.3234702564419836,
+		"VV_CTTR": 2.846049894151541,
+		"VA_CTTR": 1.5,
+		"ML_CTTR": 1.5811388300841895,
+		"MM_CTTR": 0,
+		"MA_CTTR": 1.5811388300841895,
+		"MAJ_CTTR": 0,
+		"IC_CTTR": 0,
+		"FL_CTTR": 2.7003086243366083,
+		"J_CTTR": 1.5652475842498528,
+		"E_CTTR": 2.429493573646624,
+		"X_CTTR": 0.8164965809277261,
+		"lemma_MSTTR": 0.8049999999999999,
+		"CL_MSTTR": 0.9,
+		"NL_MSTTR": 0.84,
+		"NN_MSTTR": 0.86,
+		"NNG_MSTTR": 0.8163265306122449,
+		"NNP_MSTTR": 0.8333333333333334,
+		"NNB_MSTTR": 0.8,
+		"NP_MSTTR": 1.0,
+		"NR_MSTTR": 0,
+		"VL_MSTTR": 0.8181818181818182,
+		"VV_MSTTR": 0.9,
+		"VA_MSTTR": 0.75,
+		"ML_MSTTR": 1.0,
+		"MM_MSTTR": 0,
+		"MA_MSTTR": 1.0,
+		"MAJ_MSTTR": 0,
+		"IC_MSTTR": 0,
+		"FL_MSTTR": 0.54,
+		"J_MSTTR": 0.35,
+		"E_MSTTR": 0.5365853658536586,
+		"X_MSTTR": 0.6666666666666666,
+		"lemma_MATTR": 0.8002564102564099,
+		"CL_MATTR": 0.8953846153846149,
+		"NL_MATTR": 0.8628571428571429,
+		"NN_MATTR": 0.8581818181818182,
+		"NNG_MATTR": 0.8163265306122449,
+		"NNP_MATTR": 0.8333333333333334,
+		"NNB_MATTR": 0.8,
+		"NP_MATTR": 1.0,
+		"NR_MATTR": 0,
+		"VL_MATTR": 0.8181818181818182,
+		"VV_MATTR": 0.9,
+		"VA_MATTR": 0.75,
+		"ML_MATTR": 1.0,
+		"MM_MATTR": 0,
+		"MA_MATTR": 1.0,
+		"MAJ_MATTR": 0,
+		"IC_MATTR": 0,
+		"FL_MATTR": 0.5737142857142855,
+		"J_MATTR": 0.35,
+		"E_MATTR": 0.5365853658536586,
+		"X_MATTR": 0.6666666666666666,
+		"lemma_MTLD": 79.47341870913934,
+		"CL_MTLD": 150.3305263157895,
+		"NL_MTLD": 92.61000000000001,
+		"NN_MTLD": 91.63636363636364,
+		"NNG_MTLD": 74.6977777777778,
+		"NNP_MTLD": 10.080000000000004,
+		"NNB_MTLD": 7.000000000000002,
+		"NP_MTLD": 0.0,
+		"NR_MTLD": 0.0,
+		"VL_MTLD": 50.820000000000014,
+		"VV_MTLD": 56.000000000000014,
+		"VA_MTLD": 8.96,
+		"ML_MTLD": 0.0,
+		"MM_MTLD": 0.0,
+		"MA_MTLD": 0.0,
+		"MAJ_MTLD": 0.0,
+		"IC_MTLD": 0.0,
+		"FL_MTLD": 25.569444444444443,
+		"J_MTLD": 11.606217616580311,
+		"E_MTLD": 18.714987478327878,
+		"X_MTLD": 2.52,
+		"lemma_VOCDD": 84.8746172602767,
+		"CL_VOCDD": 182.88280679345124,
+		"NL_VOCDD": 116.60668004909377,
+		"NN_VOCDD": 115.78799839012026,
+		"NNG_VOCDD": 0,
+		"NNP_VOCDD": 0,
+		"NNB_VOCDD": 0,
+		"NP_VOCDD": 0,
+		"NR_VOCDD": 0,
+		"VL_VOCDD": 0,
+		"VV_VOCDD": 0,
+		"VA_VOCDD": 0,
+		"ML_VOCDD": 0,
+		"MM_VOCDD": 0,
+		"MA_VOCDD": 0,
+		"MAJ_VOCDD": 0,
+		"IC_VOCDD": 0,
+		"FL_VOCDD": 17.128554785163733,
+		"J_VOCDD": 0,
+		"E_VOCDD": 0,
+		"X_VOCDD": 0,
+		"lemma_HDD": 0.8315139306295478,
+		"CL_HDD": 0.9056383239838822,
+		"NL_HDD": 0.8656081858091389,
+		"NN_HDD": 0.8643380807366154,
+		"NNG_HDD": 0.8375811008954929,
+		"NNP_HDD": 0.0,
+		"NNB_HDD": 0.0,
+		"NP_HDD": 0.0,
+		"NR_HDD": 0.0,
+		"VL_HDD": 0.0,
+		"VV_HDD": 0.0,
+		"VA_HDD": 0.0,
+		"ML_HDD": 0.0,
+		"MM_HDD": 0.0,
+		"MA_HDD": 0.0,
+		"MAJ_HDD": 0.0,
+		"IC_HDD": 0.0,
+		"FL_HDD": 0.5840833270552146,
+		"J_HDD": 0.0,
+		"E_HDD": 0.0,
+		"X_HDD": 0.0
+	},
+	"similarity": {
+		"avgSentSimilarity": 0.19094321131706238,
+		"topicConsistency": 0.5602
+	},
+	"adjacency": {
+		"adjacent_sentence_overlap_all_lemmas": 140,
+		"adjacent_sentence_overlap_all_lemmas_normed": 2,
+		"binary_adjacent_sentence_overlap_all_lemmas": 2,
+		"adjacent_two_sentence_overlap_all_lemmas": 45,
+		"adjacent_two_sentence_overlap_all_lemmas_normed": 1,
+		"binary_adjacent_two_sentence_overlap_all_lemmas": 1,
+		"adjacent_sentence_overlap_content_lemmas": 75,
+		"adjacent_sentence_overlap_content_lemmas_normed": 2,
+		"binary_adjacent_sentence_overlap_content_lemmas": 2,
+		"adjacent_two_sentence_overlap_content_lemmas": 30,
+		"adjacent_two_sentence_overlap_content_lemmas_normed": 1,
+		"binary_adjacent_two_sentence_overlap_content_lemmas": 1,
+		"adjacent_sentence_overlap_function_lemmas": 53,
+		"adjacent_sentence_overlap_function_lemmas_normed": 2,
+		"binary_adjacent_sentence_overlap_function_lemmas": 2,
+		"adjacent_two_sentence_overlap_function_lemmas": 14,
+		"adjacent_two_sentence_overlap_function_lemmas_normed": 1,
+		"binary_adjacent_two_sentence_overlap_function_lemmas": 1,
+		"adjacent_sentence_overlap_noun_lemmas": 49,
+		"adjacent_sentence_overlap_noun_lemmas_normed": 2,
+		"binary_adjacent_sentence_overlap_noun_lemmas": 2,
+		"adjacent_two_sentence_overlap_noun_lemmas": 22,
+		"adjacent_two_sentence_overlap_noun_lemmas_normed": 1,
+		"binary_adjacent_two_sentence_overlap_noun_lemmas": 1,
+		"adjacent_sentence_overlap_verb_lemmas": 24,
+		"adjacent_sentence_overlap_verb_lemmas_normed": 2,
+		"binary_adjacent_sentence_overlap_verb_lemmas": 2,
+		"adjacent_two_sentence_overlap_verb_lemmas": 8,
+		"adjacent_two_sentence_overlap_verb_lemmas_normed": 1,
+		"binary_adjacent_two_sentence_overlap_verb_lemmas": 1,
+		"adjacent_sentence_overlap_adjective_lemmas": 2,
+		"adjacent_sentence_overlap_adjective_lemmas_normed": 1,
+		"binary_adjacent_sentence_overlap_adjective_lemmas": 1,
+		"adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_sentence_overlap_adverb_lemmas": 3,
+		"adjacent_sentence_overlap_adverb_lemmas_normed": 1,
+		"binary_adjacent_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adverb_lemmas": 0
+	},
+	"basic_count": {
+		"para_Cnt": 1,
+		"sentence_Cnt": 3,
+		"word_Cnt": 90,
+		"morph_Cnt": 205,
+		"char_Cnt": 297,
+		"CL_Cnt": 101,
+		"NL_Cnt": 63,
+		"NN_Cnt": 60,
+		"NNG_Cnt": 49,
+		"NNP_Cnt": 6,
+		"NNB_Cnt": 5,
+		"NP_Cnt": 3,
+		"NP_People_Cnt": 2,
+		"NP_Things_Cnt": 1,
+		"NR_Cnt": 0,
+		"VL_Cnt": 33,
+		"VV_Cnt": 20,
+		"VA_Cnt": 8,
+		"VX_Cnt": 2,
+		"VCP_Cnt": 3,
+		"VCN_Cnt": 0,
+		"ML_Cnt": 5,
+		"MA_Cnt": 0,
+		"MM_Cnt": 0,
+		"FL_Cnt": 84,
+		"J_Cnt": 40,
+		"E_Cnt": 41,
+		"X_Cnt": 3,
+		"IC_Cnt": 0
+	},
+	"basic_density": {
+		"CL_Den": 0.4926829268292683,
+		"FL_Den": 0.4097560975609756,
+		"NL_Den": 0.2926829268292683,
+		"NNGL_Den": 0.23902439024390243,
+		"NNPL_Den": 0.02926829268292683,
+		"NNBL_Den": 0.024390243902439025,
+		"NPL_Den": 0.014634146341463415,
+		"NML_Den": 0.0,
+		"VL_Den": 0.16097560975609757,
+		"VVL_Den": 0.0975609756097561,
+		"VAL_Den": 0.03902439024390244,
+		"ML_Den": 0.024390243902439025,
+		"MML_Den": 0.0,
+		"MAL_Den": 0.0,
+		"JL_Den": 0.1951219512195122,
+		"EL_Den": 0.2,
+		"XL_Den": 0.014634146341463415,
+		"ITL_Den": 0.0,
+		"NCL_Den": 0.594059405940594,
+		"NNCL_Den": 0.48514851485148514,
+		"NNGCL_Den": 0.0594059405940594,
+		"NNBCL_Den": 0.04950495049504951,
+		"NPCL_Den": 0.0297029702970297,
+		"NMCL_Den": 0.0,
+		"VCL_Den": 0.32673267326732675,
+		"VVCL_Den": 0.19801980198019803,
+		"VACL_Den": 0.07920792079207921,
+		"MCL_Den": 0.04950495049504951,
+		"MMCL_Den": 0.0,
+		"MACL_Den": 0.0,
+		"INCL_Den": 0.0,
+		"JFL_Den": 0.47619047619047616,
+		"EFL_Den": 0.4880952380952381,
+		"XFL_Den": 0.03571428571428571
+	},
+	"basic_level": {
+		"morph_LenAvg": 1.5414634146341464,
+		"morph_LenStd": 0.7867734696619806,
+		"word_LenAvg": 3.2333333333333334,
+		"word_LenStd": 1.6333333333333329
+	},
+	"basic_list": {
+		"NL_Lst": [
+			[
+				0,
+				"진천중학교",
+				"NNP",
+				"진천중학교의 커맵 활동을 추진한 이는 송준숙 진천군마을만들기지원센터 사무국장이었다."
+			],
+			[
+				1,
+				"커맵",
+				"NNG",
+				"진천중학교의 커맵 활동을 추진한 이는 송준숙 진천군마을만들기지원센터 사무국장이었다."
+			],
+			[
+				2,
+				"활동",
+				"NNG",
+				"진천중학교의 커맵 활동을 추진한 이는 송준숙 진천군마을만들기지원센터 사무국장이었다."
+			],
+			[
+				3,
+				"이",
+				"NNB",
+				"진천중학교의 커맵 활동을 추진한 이는 송준숙 진천군마을만들기지원센터 사무국장이었다."
+			],
+			[
+				4,
+				"송준숙",
+				"NNP",
+				"진천중학교의 커맵 활동을 추진한 이는 송준숙 진천군마을만들기지원센터 사무국장이었다."
+			],
+			[
+				5,
+				"진천군",
+				"NNP",
+				"진천중학교의 커맵 활동을 추진한 이는 송준숙 진천군마을만들기지원센터 사무국장이었다."
+			],
+			[
+				6,
+				"마을",
+				"NNG",
+				"진천중학교의 커맵 활동을 추진한 이는 송준숙 진천군마을만들기지원센터 사무국장이었다."
+			],
+			[
+				7,
+				"만",
+				"NNG",
+				"진천중학교의 커맵 활동을 추진한 이는 송준숙 진천군마을만들기지원센터 사무국장이었다."
+			],
+			[
+				8,
+				"들기",
+				"NNG",
+				"진천중학교의 커맵 활동을 추진한 이는 송준숙 진천군마을만들기지원센터 사무국장이었다."
+			],
+			[
+				9,
+				"지원",
+				"NNG",
+				"진천중학교의 커맵 활동을 추진한 이는 송준숙 진천군마을만들기지원센터 사무국장이었다."
+			],
+			[
+				10,
+				"센터",
+				"NNG",
+				"진천중학교의 커맵 활동을 추진한 이는 송준숙 진천군마을만들기지원센터 사무국장이었다."
+			],
+			[
+				11,
+				"사무국장",
+				"NNG",
+				"진천중학교의 커맵 활동을 추진한 이는 송준숙 진천군마을만들기지원센터 사무국장이었다."
+			],
+			[
+				12,
+				"송",
+				"NNP",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				13,
+				"국장",
+				"NNG",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				14,
+				"커뮤니티매핑",
+				"NNP",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				15,
+				"지도",
+				"NNG",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				16,
+				"과정",
+				"NNG",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				17,
+				"커뮤니티",
+				"NNG",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				18,
+				"우리",
+				"NP",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				19,
+				"지역",
+				"NNG",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				20,
+				"문제점",
+				"NNG",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				21,
+				"해결",
+				"NNG",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				22,
+				"방법",
+				"NNG",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				23,
+				"수",
+				"NNB",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				24,
+				"도구",
+				"NNG",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				25,
+				"학생",
+				"NNG",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				26,
+				"지역",
+				"NNG",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				27,
+				"문제",
+				"NNG",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				28,
+				"관심",
+				"NNG",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				29,
+				"애정",
+				"NNG",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				30,
+				"이",
+				"NP",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				31,
+				"처음",
+				"NNG",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				32,
+				"관심",
+				"NNG",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				33,
+				"아이",
+				"NNG",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				34,
+				"적극",
+				"NNG",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				35,
+				"나중",
+				"NNG",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				36,
+				"제안",
+				"NNG",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				37,
+				"것",
+				"NNB",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				38,
+				"불씨",
+				"NNG",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				39,
+				"생각",
+				"NNG",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				40,
+				"그",
+				"NP",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				41,
+				"공동체",
+				"NNG",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				42,
+				"공동체",
+				"NNG",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				43,
+				"결속",
+				"NNG",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				44,
+				"모두",
+				"NNG",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				45,
+				"성과",
+				"NNG",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				46,
+				"수",
+				"NNB",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				47,
+				"도구",
+				"NNG",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				48,
+				"커맵",
+				"NNG",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				49,
+				"진천군",
+				"NNP",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				50,
+				"초",
+				"NNG",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				51,
+				"중",
+				"NNG",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				52,
+				"고",
+				"NNG",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				53,
+				"커맵",
+				"NNG",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				54,
+				"활동",
+				"NNG",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				55,
+				"장애인",
+				"NNG",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				56,
+				"편의",
+				"NNG",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				57,
+				"시설",
+				"NNG",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				58,
+				"노인",
+				"NNG",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				59,
+				"복지",
+				"NNG",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				60,
+				"시설",
+				"NNG",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				61,
+				"등",
+				"NNB",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				62,
+				"커맵",
+				"NNG",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			]
+		],
+		"NN_Lst": [
+			[
+				0,
+				"진천중학교",
+				"NNP",
+				"진천중학교의 커맵 활동을 추진한 이는 송준숙 진천군마을만들기지원센터 사무국장이었다."
+			],
+			[
+				1,
+				"커맵",
+				"NNG",
+				"진천중학교의 커맵 활동을 추진한 이는 송준숙 진천군마을만들기지원센터 사무국장이었다."
+			],
+			[
+				2,
+				"활동",
+				"NNG",
+				"진천중학교의 커맵 활동을 추진한 이는 송준숙 진천군마을만들기지원센터 사무국장이었다."
+			],
+			[
+				3,
+				"이",
+				"NNB",
+				"진천중학교의 커맵 활동을 추진한 이는 송준숙 진천군마을만들기지원센터 사무국장이었다."
+			],
+			[
+				4,
+				"송준숙",
+				"NNP",
+				"진천중학교의 커맵 활동을 추진한 이는 송준숙 진천군마을만들기지원센터 사무국장이었다."
+			],
+			[
+				5,
+				"진천군",
+				"NNP",
+				"진천중학교의 커맵 활동을 추진한 이는 송준숙 진천군마을만들기지원센터 사무국장이었다."
+			],
+			[
+				6,
+				"마을",
+				"NNG",
+				"진천중학교의 커맵 활동을 추진한 이는 송준숙 진천군마을만들기지원센터 사무국장이었다."
+			],
+			[
+				7,
+				"만",
+				"NNG",
+				"진천중학교의 커맵 활동을 추진한 이는 송준숙 진천군마을만들기지원센터 사무국장이었다."
+			],
+			[
+				8,
+				"들기",
+				"NNG",
+				"진천중학교의 커맵 활동을 추진한 이는 송준숙 진천군마을만들기지원센터 사무국장이었다."
+			],
+			[
+				9,
+				"지원",
+				"NNG",
+				"진천중학교의 커맵 활동을 추진한 이는 송준숙 진천군마을만들기지원센터 사무국장이었다."
+			],
+			[
+				10,
+				"센터",
+				"NNG",
+				"진천중학교의 커맵 활동을 추진한 이는 송준숙 진천군마을만들기지원센터 사무국장이었다."
+			],
+			[
+				11,
+				"사무국장",
+				"NNG",
+				"진천중학교의 커맵 활동을 추진한 이는 송준숙 진천군마을만들기지원센터 사무국장이었다."
+			],
+			[
+				12,
+				"송",
+				"NNP",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				13,
+				"국장",
+				"NNG",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				14,
+				"커뮤니티매핑",
+				"NNP",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				15,
+				"지도",
+				"NNG",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				16,
+				"과정",
+				"NNG",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				17,
+				"커뮤니티",
+				"NNG",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				18,
+				"지역",
+				"NNG",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				19,
+				"문제점",
+				"NNG",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				20,
+				"해결",
+				"NNG",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				21,
+				"방법",
+				"NNG",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				22,
+				"수",
+				"NNB",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				23,
+				"도구",
+				"NNG",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				24,
+				"학생",
+				"NNG",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				25,
+				"지역",
+				"NNG",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				26,
+				"문제",
+				"NNG",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				27,
+				"관심",
+				"NNG",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				28,
+				"애정",
+				"NNG",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				29,
+				"처음",
+				"NNG",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				30,
+				"관심",
+				"NNG",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				31,
+				"아이",
+				"NNG",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				32,
+				"적극",
+				"NNG",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				33,
+				"나중",
+				"NNG",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				34,
+				"제안",
+				"NNG",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				35,
+				"것",
+				"NNB",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				36,
+				"불씨",
+				"NNG",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				37,
+				"생각",
+				"NNG",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				38,
+				"공동체",
+				"NNG",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				39,
+				"공동체",
+				"NNG",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				40,
+				"결속",
+				"NNG",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				41,
+				"모두",
+				"NNG",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				42,
+				"성과",
+				"NNG",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				43,
+				"수",
+				"NNB",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				44,
+				"도구",
+				"NNG",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				45,
+				"커맵",
+				"NNG",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				46,
+				"진천군",
+				"NNP",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				47,
+				"초",
+				"NNG",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				48,
+				"중",
+				"NNG",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				49,
+				"고",
+				"NNG",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				50,
+				"커맵",
+				"NNG",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				51,
+				"활동",
+				"NNG",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				52,
+				"장애인",
+				"NNG",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				53,
+				"편의",
+				"NNG",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				54,
+				"시설",
+				"NNG",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				55,
+				"노인",
+				"NNG",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				56,
+				"복지",
+				"NNG",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				57,
+				"시설",
+				"NNG",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				58,
+				"등",
+				"NNB",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				59,
+				"커맵",
+				"NNG",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			]
+		],
+		"NNG_Lst": [
+			[
+				0,
+				"커맵",
+				"NNG",
+				"진천중학교의 커맵 활동을 추진한 이는 송준숙 진천군마을만들기지원센터 사무국장이었다."
+			],
+			[
+				1,
+				"활동",
+				"NNG",
+				"진천중학교의 커맵 활동을 추진한 이는 송준숙 진천군마을만들기지원센터 사무국장이었다."
+			],
+			[
+				2,
+				"마을",
+				"NNG",
+				"진천중학교의 커맵 활동을 추진한 이는 송준숙 진천군마을만들기지원센터 사무국장이었다."
+			],
+			[
+				3,
+				"만",
+				"NNG",
+				"진천중학교의 커맵 활동을 추진한 이는 송준숙 진천군마을만들기지원센터 사무국장이었다."
+			],
+			[
+				4,
+				"들기",
+				"NNG",
+				"진천중학교의 커맵 활동을 추진한 이는 송준숙 진천군마을만들기지원센터 사무국장이었다."
+			],
+			[
+				5,
+				"지원",
+				"NNG",
+				"진천중학교의 커맵 활동을 추진한 이는 송준숙 진천군마을만들기지원센터 사무국장이었다."
+			],
+			[
+				6,
+				"센터",
+				"NNG",
+				"진천중학교의 커맵 활동을 추진한 이는 송준숙 진천군마을만들기지원센터 사무국장이었다."
+			],
+			[
+				7,
+				"사무국장",
+				"NNG",
+				"진천중학교의 커맵 활동을 추진한 이는 송준숙 진천군마을만들기지원센터 사무국장이었다."
+			],
+			[
+				8,
+				"국장",
+				"NNG",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				9,
+				"지도",
+				"NNG",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				10,
+				"과정",
+				"NNG",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				11,
+				"커뮤니티",
+				"NNG",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				12,
+				"지역",
+				"NNG",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				13,
+				"문제점",
+				"NNG",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				14,
+				"해결",
+				"NNG",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				15,
+				"방법",
+				"NNG",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				16,
+				"도구",
+				"NNG",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				17,
+				"학생",
+				"NNG",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				18,
+				"지역",
+				"NNG",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				19,
+				"문제",
+				"NNG",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				20,
+				"관심",
+				"NNG",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				21,
+				"애정",
+				"NNG",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				22,
+				"처음",
+				"NNG",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				23,
+				"관심",
+				"NNG",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				24,
+				"아이",
+				"NNG",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				25,
+				"적극",
+				"NNG",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				26,
+				"나중",
+				"NNG",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				27,
+				"제안",
+				"NNG",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				28,
+				"불씨",
+				"NNG",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				29,
+				"생각",
+				"NNG",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				30,
+				"공동체",
+				"NNG",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				31,
+				"공동체",
+				"NNG",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				32,
+				"결속",
+				"NNG",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				33,
+				"모두",
+				"NNG",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				34,
+				"성과",
+				"NNG",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				35,
+				"도구",
+				"NNG",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				36,
+				"커맵",
+				"NNG",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				37,
+				"초",
+				"NNG",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				38,
+				"중",
+				"NNG",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				39,
+				"고",
+				"NNG",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				40,
+				"커맵",
+				"NNG",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				41,
+				"활동",
+				"NNG",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				42,
+				"장애인",
+				"NNG",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				43,
+				"편의",
+				"NNG",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				44,
+				"시설",
+				"NNG",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				45,
+				"노인",
+				"NNG",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				46,
+				"복지",
+				"NNG",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				47,
+				"시설",
+				"NNG",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				48,
+				"커맵",
+				"NNG",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			]
+		],
+		"NNP_Lst": [
+			[
+				0,
+				"진천중학교",
+				"NNP",
+				"진천중학교의 커맵 활동을 추진한 이는 송준숙 진천군마을만들기지원센터 사무국장이었다."
+			],
+			[
+				1,
+				"송준숙",
+				"NNP",
+				"진천중학교의 커맵 활동을 추진한 이는 송준숙 진천군마을만들기지원센터 사무국장이었다."
+			],
+			[
+				2,
+				"진천군",
+				"NNP",
+				"진천중학교의 커맵 활동을 추진한 이는 송준숙 진천군마을만들기지원센터 사무국장이었다."
+			],
+			[
+				3,
+				"송",
+				"NNP",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				4,
+				"커뮤니티매핑",
+				"NNP",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				5,
+				"진천군",
+				"NNP",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			]
+		],
+		"NNB_Lst": [
+			[
+				0,
+				"이",
+				"NNB",
+				"진천중학교의 커맵 활동을 추진한 이는 송준숙 진천군마을만들기지원센터 사무국장이었다."
+			],
+			[
+				1,
+				"수",
+				"NNB",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				2,
+				"것",
+				"NNB",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				3,
+				"수",
+				"NNB",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				4,
+				"등",
+				"NNB",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			]
+		],
+		"NP_Lst": [
+			[
+				0,
+				"우리",
+				"NP",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				1,
+				"이",
+				"NP",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				2,
+				"그",
+				"NP",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			]
+		],
+		"NP_People_Lst": [
+			[
+				0,
+				"우리",
+				"NP",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				1,
+				"그",
+				"NP",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			]
+		],
+		"NP_Things_Lst": [
+			[
+				0,
+				"이",
+				"NP",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			]
+		],
+		"NR_Lst": [],
+		"VL_Lst": [
+			[
+				0,
+				"추진하",
+				"VV",
+				"진천중학교의 커맵 활동을 추진한 이는 송준숙 진천군마을만들기지원센터 사무국장이었다."
+			],
+			[
+				1,
+				"이",
+				"VCP",
+				"진천중학교의 커맵 활동을 추진한 이는 송준숙 진천군마을만들기지원센터 사무국장이었다."
+			],
+			[
+				2,
+				"그리",
+				"VV",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				3,
+				"형성하",
+				"VV",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				4,
+				"찾아내",
+				"VV",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				5,
+				"있",
+				"VA",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				6,
+				"좋",
+				"VA",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				7,
+				"이",
+				"VCP",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				8,
+				"갖",
+				"VV",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				9,
+				"하",
+				"VV",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				10,
+				"기획하",
+				"VV",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				11,
+				"크",
+				"VA",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				12,
+				"없",
+				"VA",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				13,
+				"변하",
+				"VV",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				14,
+				"가",
+				"VX",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				15,
+				"새롭",
+				"VA",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				16,
+				"하",
+				"VV",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				17,
+				"보",
+				"VV",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				18,
+				"지속되",
+				"VV",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				19,
+				"좋",
+				"VA",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				20,
+				"들",
+				"VV",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				21,
+				"말하",
+				"VV",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				22,
+				"바라보",
+				"VV",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				23,
+				"다지",
+				"VV",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				24,
+				"보",
+				"VV",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				25,
+				"있",
+				"VA",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				26,
+				"이",
+				"VCP",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				27,
+				"확산되",
+				"VV",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				28,
+				"다양하",
+				"VA",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				29,
+				"만들",
+				"VV",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				30,
+				"지",
+				"VX",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				31,
+				"바라",
+				"VV",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				32,
+				"덧붙이",
+				"VV",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			]
+		],
+		"VV_Lst": [
+			[
+				0,
+				"추진하",
+				"VV",
+				"진천중학교의 커맵 활동을 추진한 이는 송준숙 진천군마을만들기지원센터 사무국장이었다."
+			],
+			[
+				1,
+				"그리",
+				"VV",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				2,
+				"형성하",
+				"VV",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				3,
+				"찾아내",
+				"VV",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				4,
+				"갖",
+				"VV",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				5,
+				"하",
+				"VV",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				6,
+				"기획하",
+				"VV",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				7,
+				"변하",
+				"VV",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				8,
+				"하",
+				"VV",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				9,
+				"보",
+				"VV",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				10,
+				"지속되",
+				"VV",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				11,
+				"들",
+				"VV",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				12,
+				"말하",
+				"VV",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				13,
+				"바라보",
+				"VV",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				14,
+				"다지",
+				"VV",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				15,
+				"보",
+				"VV",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				16,
+				"확산되",
+				"VV",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				17,
+				"만들",
+				"VV",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				18,
+				"바라",
+				"VV",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				19,
+				"덧붙이",
+				"VV",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			]
+		],
+		"VA_Lst": [
+			[
+				0,
+				"있",
+				"VA",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				1,
+				"좋",
+				"VA",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				2,
+				"크",
+				"VA",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				3,
+				"없",
+				"VA",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				4,
+				"새롭",
+				"VA",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				5,
+				"좋",
+				"VA",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				6,
+				"있",
+				"VA",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				7,
+				"다양하",
+				"VA",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			]
+		],
+		"VX_Lst": [
+			[
+				0,
+				"가",
+				"VX",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				1,
+				"지",
+				"VX",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			]
+		],
+		"VCP_Lst": [
+			[
+				0,
+				"이",
+				"VCP",
+				"진천중학교의 커맵 활동을 추진한 이는 송준숙 진천군마을만들기지원센터 사무국장이었다."
+			],
+			[
+				1,
+				"이",
+				"VCP",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				2,
+				"이",
+				"VCP",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			]
+		],
+		"VCN_Lst": [],
+		"ML_Lst": [
+			[
+				0,
+				"점점",
+				"MAG",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				1,
+				"계속",
+				"MAG",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				2,
+				"또",
+				"MAG",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				3,
+				"다시",
+				"MAG",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				4,
+				"바로",
+				"MAG",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			]
+		],
+		"MA_Lst": [],
+		"MM_Lst": [],
+		"J_Lst": [
+			[
+				0,
+				"의",
+				"JKG",
+				"진천중학교의 커맵 활동을 추진한 이는 송준숙 진천군마을만들기지원센터 사무국장이었다."
+			],
+			[
+				1,
+				"을",
+				"JKO",
+				"진천중학교의 커맵 활동을 추진한 이는 송준숙 진천군마을만들기지원센터 사무국장이었다."
+			],
+			[
+				2,
+				"는",
+				"JX",
+				"진천중학교의 커맵 활동을 추진한 이는 송준숙 진천군마을만들기지원센터 사무국장이었다."
+			],
+			[
+				3,
+				"은",
+				"JX",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				4,
+				"이",
+				"JKS",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				5,
+				"를",
+				"JKO",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				6,
+				"에서",
+				"JKB",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				7,
+				"를",
+				"JKO",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				8,
+				"의",
+				"JKG",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				9,
+				"과",
+				"JC",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				10,
+				"을",
+				"JKO",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				11,
+				"을",
+				"JKO",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				12,
+				"에",
+				"JKB",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				13,
+				"과",
+				"JC",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				14,
+				"을",
+				"JKO",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				15,
+				"를",
+				"JKO",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				16,
+				"에",
+				"JKB",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				17,
+				"는",
+				"JX",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				18,
+				"이",
+				"JKS",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				19,
+				"이",
+				"JKS",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				20,
+				"으로",
+				"JKB",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				21,
+				"에",
+				"JKB",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				22,
+				"는",
+				"JX",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				23,
+				"까지",
+				"JX",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				24,
+				"을",
+				"JKO",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				25,
+				"가",
+				"JKS",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				26,
+				"이",
+				"JKS",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				27,
+				"는",
+				"JX",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				28,
+				"를",
+				"JKO",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				29,
+				"의",
+				"JKG",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				30,
+				"을",
+				"JKO",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				31,
+				"가",
+				"JKS",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				32,
+				"를",
+				"JKO",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				33,
+				"가",
+				"JKS",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				34,
+				"의",
+				"JKG",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				35,
+				"에",
+				"JKB",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				36,
+				"도",
+				"JX",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				37,
+				"이",
+				"JKS",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				38,
+				"이",
+				"JKS",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				39,
+				"ㄹ",
+				"JKO",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			]
+		],
+		"E_Lst": [
+			[
+				0,
+				"ㄴ",
+				"ETM",
+				"진천중학교의 커맵 활동을 추진한 이는 송준숙 진천군마을만들기지원센터 사무국장이었다."
+			],
+			[
+				1,
+				"었",
+				"EP",
+				"진천중학교의 커맵 활동을 추진한 이는 송준숙 진천군마을만들기지원센터 사무국장이었다."
+			],
+			[
+				2,
+				"다",
+				"EF",
+				"진천중학교의 커맵 활동을 추진한 이는 송준숙 진천군마을만들기지원센터 사무국장이었다."
+			],
+			[
+				3,
+				"는",
+				"ETM",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				4,
+				"면서",
+				"EC",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				5,
+				"ㄹ",
+				"ETM",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				6,
+				"는",
+				"ETM",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				7,
+				"은",
+				"ETM",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				8,
+				"어서",
+				"EC",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				9,
+				"게",
+				"EC",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				10,
+				"려고",
+				"EC",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				11,
+				"았",
+				"EP",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				12,
+				"다",
+				"EF",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				13,
+				"며",
+				"EC",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				14,
+				"게",
+				"EC",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				15,
+				"던",
+				"ETM",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				16,
+				"아",
+				"EC",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				17,
+				"면서",
+				"EC",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				18,
+				"ㄴ",
+				"ETM",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				19,
+				"는",
+				"ETM",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				20,
+				"고",
+				"EC",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				21,
+				"었",
+				"EP",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				22,
+				"으면",
+				"EC",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				23,
+				"겠",
+				"EP",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				24,
+				"다는",
+				"ETM",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				25,
+				"었",
+				"EP",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				26,
+				"다",
+				"EF",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				27,
+				"았",
+				"EP",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				28,
+				"다",
+				"EF",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				29,
+				"고",
+				"EC",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				30,
+				"면서",
+				"EC",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				31,
+				"ㄹ",
+				"ETM",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				32,
+				"는",
+				"ETM",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				33,
+				"라며",
+				"EC",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				34,
+				"어",
+				"EC",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				35,
+				"ㄴ",
+				"ETM",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				36,
+				"어",
+				"EC",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				37,
+				"기",
+				"ETN",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				38,
+				"ㄴ다",
+				"EF",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				39,
+				"었",
+				"EP",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			],
+			[
+				40,
+				"다",
+				"EF",
+				"그는 또 \"공동체를 다시 바라보고 공동체의 결속을 다지면서 모두가 그 성과를 바로 볼 수 있는 도구가 커맵\"이라며 \"진천군의 다른 초·중·고에도 커맵 활동이 확산되어 장애인 편의시설, 노인 복지시설 등 다양한 커맵이 만들어지길 바란다\"고 덧붙였다."
+			]
+		],
+		"X_Lst": [
+			[
+				0,
+				"들",
+				"XSN",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				1,
+				"들",
+				"XSN",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			],
+			[
+				2,
+				"적",
+				"XSN",
+				"송 국장은 \"커뮤니티매핑이 지도를 그리는 과정에서 커뮤니티를 형성하면서 우리 지역의 문제점과 해결 방법을 찾아낼 수 있는 좋은 도구여서, 학생들을 지역 문제에 관심과 애정을 갖게 하려고 이를 기획했다\"며 \"처음에는 관심이 크게 없던 아이들이 점점 적극적으로 변해가면서 나중에는 새로운 제안까지 하는 것을 보고 이 불씨가 계속 지속됐으면 좋겠다는 생각이 들었다\"고 말했다."
+			]
+		],
+		"IC_Lst": []
+	},
+	"NDW": {
+		"morph_NDW": 130,
+		"NL_NDW": 63,
+		"NNG_NDW": 49,
+		"NNP_NDW": 6,
+		"NNB_NDW": 5,
+		"NP_NDW": 3,
+		"NR_NDW": 0,
+		"VL_NDW": 33,
+		"VV_NDW": 20,
+		"VA_NDW": 8,
+		"ML_NDW": 5,
+		"MM_NDW": 0,
+		"IC_NDW": 0,
+		"J_NDW": 40,
+		"E_NDW": 41,
+		"X_NDW": 3,
+		"CL_NDW": 101,
+		"FL_NDW": 84
+	}
+}

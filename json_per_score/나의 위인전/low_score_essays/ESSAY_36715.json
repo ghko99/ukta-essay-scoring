@@ -1,0 +1,5186 @@
+﻿{
+	"morpheme": {
+		"sentences": [
+			{
+				"text": {
+					"content": "저는 가족이 저의 멘토라고 생각합니다.",
+					"length": 21,
+					"beginOffset": 0
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "저는",
+							"length": 2,
+							"beginOffset": 0
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "저",
+									"length": 1,
+									"beginOffset": 0
+								},
+								"tag": "NP",
+								"probability": 0.9852665,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 1,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99893105,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "저",
+						"tagged": "저/NP+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "가족이",
+							"beginOffset": 3,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "가족",
+									"beginOffset": 3,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9837125,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 5,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9820114,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "가족",
+						"tagged": "가족/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "저의",
+							"beginOffset": 7,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "저",
+									"beginOffset": 7,
+									"length": 1
+								},
+								"tag": "NP",
+								"probability": 0.9520081,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 8,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99905753,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "저",
+						"tagged": "저/NP+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "멘토라고",
+							"beginOffset": 10,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "멘토",
+									"beginOffset": 10,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9798581,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 12,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.99998957,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "라고",
+									"beginOffset": 12,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.98945904,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "멘토",
+						"tagged": "멘토/NNG+이/VCP+라고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "생각합니다.",
+							"beginOffset": 15,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "생각하",
+									"beginOffset": 15,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.0,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㅂ니다",
+									"beginOffset": 17,
+									"length": 3
+								},
+								"tag": "EF",
+								"probability": 0.9886125,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 20,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9987718,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "생각하",
+						"tagged": "생각하/VV+ㅂ니다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "저는 가족이 저의 멘토라고 생각합니다."
+			},
+			{
+				"text": {
+					"content": "왜냐하면 가족은 저와 함께 공감할 수 있는 존재라고 생각하기 때문입니다.",
+					"beginOffset": 22,
+					"length": 40
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "왜냐하면",
+							"beginOffset": 22,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "왜냐하면",
+									"beginOffset": 22,
+									"length": 4
+								},
+								"tag": "MAG",
+								"probability": 0.9159301,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "왜냐하면",
+						"tagged": "왜냐하면/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "가족은",
+							"beginOffset": 27,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "가족",
+									"beginOffset": 27,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98457,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 29,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99886256,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "가족",
+						"tagged": "가족/NNG+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "저와",
+							"beginOffset": 31,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "저",
+									"beginOffset": 31,
+									"length": 1
+								},
+								"tag": "NP",
+								"probability": 0.97718877,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "와",
+									"beginOffset": 32,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9681605,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "저",
+						"tagged": "저/NP+와/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "함께",
+							"beginOffset": 34,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "함께",
+									"beginOffset": 34,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.99078906,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "함께",
+						"tagged": "함께/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "공감할",
+							"beginOffset": 37,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "공감하",
+									"beginOffset": 37,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄹ",
+									"beginOffset": 39,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999211,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "공감하",
+						"tagged": "공감하/VV+ㄹ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "수",
+							"beginOffset": 41,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "수",
+									"beginOffset": 41,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9804047,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "수",
+						"tagged": "수/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있는",
+							"beginOffset": 43,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 43,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9415088,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 44,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99997514,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VA+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "존재라고",
+							"beginOffset": 46,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "존재",
+									"beginOffset": 46,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97958046,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 48,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.9999544,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "라고",
+									"beginOffset": 48,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.98619765,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "존재",
+						"tagged": "존재/NNG+이/VCP+라고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "생각하기",
+							"beginOffset": 51,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "생각하",
+									"beginOffset": 51,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.0,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "기",
+									"beginOffset": 54,
+									"length": 1
+								},
+								"tag": "ETN",
+								"probability": 0.99954426,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "생각하",
+						"tagged": "생각하/VV+기/ETN",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "때문입니다.",
+							"beginOffset": 56,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "때문",
+									"beginOffset": 56,
+									"length": 2
+								},
+								"tag": "NNB",
+								"probability": 0.9745923,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 58,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.9995445,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㅂ니다",
+									"beginOffset": 58,
+									"length": 3
+								},
+								"tag": "EF",
+								"probability": 0.9824645,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 61,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99970716,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "때문",
+						"tagged": "때문/NNB+이/VCP+ㅂ니다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "왜냐하면 가족은 저와 함께 공감할 수 있는 존재라고 생각하기 때문입니다."
+			},
+			{
+				"text": {
+					"content": "아무리 친한 사람이라 하더라도 그 사람에게도 가족이 있을 것이므로 언제나 내 곁에서 내 말을 들어주기에는 어려운 점이 있습니다.",
+					"beginOffset": 63,
+					"length": 71
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "아무리",
+							"beginOffset": 63,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "아무리",
+									"beginOffset": 63,
+									"length": 3
+								},
+								"tag": "MAG",
+								"probability": 0.99110836,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "아무리",
+						"tagged": "아무리/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "친한",
+							"beginOffset": 67,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "친하",
+									"beginOffset": 67,
+									"length": 2
+								},
+								"tag": "VA",
+								"probability": 0.98604363,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 68,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99999106,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "친하",
+						"tagged": "친하/VA+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사람이라",
+							"beginOffset": 70,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사람",
+									"beginOffset": 70,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9822262,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 72,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.9997874,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "라",
+									"beginOffset": 73,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.96940905,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사람",
+						"tagged": "사람/NNG+이/VCP+라/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "하더라도",
+							"beginOffset": 75,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 75,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.91932046,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "더라도",
+									"beginOffset": 76,
+									"length": 3
+								},
+								"tag": "EC",
+								"probability": 0.99375427,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VV+더라도/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "그",
+							"beginOffset": 80,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그",
+									"beginOffset": 80,
+									"length": 1
+								},
+								"tag": "MMD",
+								"probability": 0.99993414,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그",
+						"tagged": "그/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사람에게도",
+							"beginOffset": 82,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사람",
+									"beginOffset": 82,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98002267,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에게",
+									"beginOffset": 84,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9953565,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 86,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9980023,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사람",
+						"tagged": "사람/NNG+에게/JKB+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "가족이",
+							"beginOffset": 88,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "가족",
+									"beginOffset": 88,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97909904,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 90,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.98741704,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "가족",
+						"tagged": "가족/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있을",
+							"beginOffset": 92,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 92,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9717375,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 93,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999124,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VA+을/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "것이므로",
+							"beginOffset": 95,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "것",
+									"beginOffset": 95,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9819982,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 96,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.99990743,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "므로",
+									"beginOffset": 97,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9790833,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "것",
+						"tagged": "것/NNB+이/VCP+므로/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "언제나",
+							"beginOffset": 100,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "언제나",
+									"beginOffset": 100,
+									"length": 3
+								},
+								"tag": "MAG",
+								"probability": 0.989114,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "언제나",
+						"tagged": "언제나/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "내",
+							"beginOffset": 104,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "나",
+									"beginOffset": 104,
+									"length": 1
+								},
+								"tag": "NP",
+								"probability": 0.98269457,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 104,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99978626,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "나",
+						"tagged": "나/NP+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "곁에서",
+							"beginOffset": 106,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "곁",
+									"beginOffset": 106,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.98132056,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에서",
+									"beginOffset": 107,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9956795,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "곁",
+						"tagged": "곁/NNG+에서/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "내",
+							"beginOffset": 110,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "나",
+									"beginOffset": 110,
+									"length": 1
+								},
+								"tag": "NP",
+								"probability": 0.99002486,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 110,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99972475,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "나",
+						"tagged": "나/NP+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "말을",
+							"beginOffset": 112,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "말",
+									"beginOffset": 112,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9532002,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 113,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9998978,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "말",
+						"tagged": "말/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "들어주기에는",
+							"beginOffset": 115,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "듣어주",
+									"beginOffset": 115,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.7665741,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "기",
+									"beginOffset": 118,
+									"length": 1
+								},
+								"tag": "ETN",
+								"probability": 0.9998125,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 119,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9959975,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 120,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99698263,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "듣어주",
+						"tagged": "듣어주/VV+기/ETN+에/JKB+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "어려운",
+							"beginOffset": 122,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "어렵",
+									"beginOffset": 122,
+									"length": 2
+								},
+								"tag": "VA",
+								"probability": 0.98906046,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 124,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999563,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "어렵",
+						"tagged": "어렵/VA+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "점이",
+							"beginOffset": 126,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "점",
+									"beginOffset": 126,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.45601016,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 127,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9298599,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "점",
+						"tagged": "점/NNB+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있습니다.",
+							"beginOffset": 129,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 129,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9676291,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "습니다",
+									"beginOffset": 130,
+									"length": 3
+								},
+								"tag": "EF",
+								"probability": 0.99238884,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 133,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9991051,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VA+습니다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "아무리 친한 사람이라 하더라도 그 사람에게도 가족이 있을 것이므로 언제나 내 곁에서 내 말을 들어주기에는 어려운 점이 있습니다."
+			},
+			{
+				"text": {
+					"content": "하지만 가족은 다르다고 생각합니다.",
+					"beginOffset": 135,
+					"length": 19
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "하지만",
+							"beginOffset": 135,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하지만",
+									"beginOffset": 135,
+									"length": 3
+								},
+								"tag": "MAJ",
+								"probability": 0.9988778,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하지만",
+						"tagged": "하지만/MAJ",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "가족은",
+							"beginOffset": 139,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "가족",
+									"beginOffset": 139,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98517364,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 141,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99912256,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "가족",
+						"tagged": "가족/NNG+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "다르다고",
+							"beginOffset": 143,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "다르",
+									"beginOffset": 143,
+									"length": 2
+								},
+								"tag": "VA",
+								"probability": 0.9863477,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다고",
+									"beginOffset": 145,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99427,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "다르",
+						"tagged": "다르/VA+다고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "생각합니다.",
+							"beginOffset": 148,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "생각하",
+									"beginOffset": 148,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.0,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㅂ니다",
+									"beginOffset": 150,
+									"length": 3
+								},
+								"tag": "EF",
+								"probability": 0.9900998,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 153,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9996682,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "생각하",
+						"tagged": "생각하/VV+ㅂ니다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "하지만 가족은 다르다고 생각합니다."
+			},
+			{
+				"text": {
+					"content": "제가 태어났을 때부터 가족과는 자연스럽게 만나고 자연스럽게 성장하면서 '안락함', '편안함' 이라는 감정을 느낄 수 있었을 것입니다.",
+					"beginOffset": 155,
+					"length": 74
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "제가",
+							"beginOffset": 155,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "제",
+									"beginOffset": 155,
+									"length": 1
+								},
+								"tag": "NP",
+								"probability": 0.96488357,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 156,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9829264,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "제",
+						"tagged": "제/NP+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "태어났을",
+							"beginOffset": 158,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "태어나",
+									"beginOffset": 158,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.9897392,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 160,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99995077,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 161,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99992424,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "태어나",
+						"tagged": "태어나/VV+았/EP+을/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "때부터",
+							"beginOffset": 163,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "때",
+									"beginOffset": 163,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9834877,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "부터",
+									"beginOffset": 164,
+									"length": 2
+								},
+								"tag": "JX",
+								"probability": 0.99474835,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "때",
+						"tagged": "때/NNG+부터/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "가족과는",
+							"beginOffset": 167,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "가족",
+									"beginOffset": 167,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98356897,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "과",
+									"beginOffset": 169,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9552493,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 170,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9987945,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "가족",
+						"tagged": "가족/NNG+과/JKB+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "자연스럽게",
+							"beginOffset": 172,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "자연스럽",
+									"beginOffset": 172,
+									"length": 4
+								},
+								"tag": "VA",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "게",
+									"beginOffset": 176,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9949422,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "자연스럽",
+						"tagged": "자연스럽/VA+게/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "만나고",
+							"beginOffset": 178,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "만나",
+									"beginOffset": 178,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9905217,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 180,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99061745,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "만나",
+						"tagged": "만나/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "자연스럽게",
+							"beginOffset": 182,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "자연스럽",
+									"beginOffset": 182,
+									"length": 4
+								},
+								"tag": "VA",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "게",
+									"beginOffset": 186,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9934347,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "자연스럽",
+						"tagged": "자연스럽/VA+게/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "성장하면서",
+							"beginOffset": 188,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "성장하",
+									"beginOffset": 188,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "면서",
+									"beginOffset": 191,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99439424,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "성장하",
+						"tagged": "성장하/VV+면서/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "'안락함',",
+							"beginOffset": 194,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "'",
+									"beginOffset": 194,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9996195,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "안락",
+									"beginOffset": 195,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9811963,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 197,
+									"length": 1
+								},
+								"tag": "XSA",
+								"probability": 0.98578715,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㅁ",
+									"beginOffset": 197,
+									"length": 1
+								},
+								"tag": "ETN",
+								"probability": 0.9998415,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "'",
+									"beginOffset": 198,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9999687,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 199,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.9993515,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "'",
+						"tagged": "'/SS+안락/NNG+하/XSA+ㅁ/ETN+'/SS+,/SP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "'편안함'",
+							"beginOffset": 201,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "'",
+									"beginOffset": 201,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9999264,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "편안",
+									"beginOffset": 202,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97948015,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 204,
+									"length": 1
+								},
+								"tag": "XSA",
+								"probability": 0.99219817,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㅁ",
+									"beginOffset": 204,
+									"length": 1
+								},
+								"tag": "ETN",
+								"probability": 0.9998422,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "'",
+									"beginOffset": 205,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.99992007,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "'",
+						"tagged": "'/SS+편안/NNG+하/XSA+ㅁ/ETN+'/SS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이라는",
+							"beginOffset": 207,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 207,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.99760956,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "라는",
+									"beginOffset": 208,
+									"length": 2
+								},
+								"tag": "ETM",
+								"probability": 0.9998956,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이",
+						"tagged": "이/VCP+라는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "감정을",
+							"beginOffset": 211,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "감정",
+									"beginOffset": 211,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9839073,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 213,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99984396,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "감정",
+						"tagged": "감정/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "느낄",
+							"beginOffset": 215,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "느끼",
+									"beginOffset": 215,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9905006,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ",
+									"beginOffset": 216,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9998588,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "느끼",
+						"tagged": "느끼/VV+ㄹ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "수",
+							"beginOffset": 218,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "수",
+									"beginOffset": 218,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.98093253,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "수",
+						"tagged": "수/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있었을",
+							"beginOffset": 220,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 220,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.92294645,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 221,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9999164,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 222,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999816,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VA+었/EP+을/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "것입니다.",
+							"beginOffset": 224,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "것",
+									"beginOffset": 224,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9809904,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 225,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.9996862,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㅂ니다",
+									"beginOffset": 225,
+									"length": 3
+								},
+								"tag": "EF",
+								"probability": 0.9936592,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 228,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99984205,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "것",
+						"tagged": "것/NNB+이/VCP+ㅂ니다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "제가 태어났을 때부터 가족과는 자연스럽게 만나고 자연스럽게 성장하면서 '안락함', '편안함' 이라는 감정을 느낄 수 있었을 것입니다."
+			},
+			{
+				"text": {
+					"content": "그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다.",
+					"beginOffset": 230,
+					"length": 107
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "그런",
+							"beginOffset": 230,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그런",
+									"beginOffset": 230,
+									"length": 2
+								},
+								"tag": "MMD",
+								"probability": 0.9997986,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그런",
+						"tagged": "그런/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "점에서",
+							"beginOffset": 233,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "점",
+									"beginOffset": 233,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.93186,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에서",
+									"beginOffset": 234,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9960724,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "점",
+						"tagged": "점/NNG+에서/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "가족은",
+							"beginOffset": 237,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "가족",
+									"beginOffset": 237,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.984591,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 239,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99813676,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "가족",
+						"tagged": "가족/NNG+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "다른",
+							"beginOffset": 241,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "다른",
+									"beginOffset": 241,
+									"length": 2
+								},
+								"tag": "MMD",
+								"probability": 0.99877536,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "다른",
+						"tagged": "다른/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "존재들보다도",
+							"beginOffset": 244,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "존재",
+									"beginOffset": 244,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9814891,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "들",
+									"beginOffset": 246,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.9822156,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "보다",
+									"beginOffset": 247,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.99404466,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 249,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9989627,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "존재",
+						"tagged": "존재/NNG+들/XSN+보다/JKB+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "편안한",
+							"beginOffset": 251,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "편안하",
+									"beginOffset": 251,
+									"length": 3
+								},
+								"tag": "VA",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 253,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99999326,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "편안하",
+						"tagged": "편안하/VA+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "다음으로",
+							"beginOffset": 255,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "다음",
+									"beginOffset": 255,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9813817,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으로",
+									"beginOffset": 257,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.99304855,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "다음",
+						"tagged": "다음/NNG+으로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "나의",
+							"beginOffset": 260,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "나",
+									"beginOffset": 260,
+									"length": 1
+								},
+								"tag": "NP",
+								"probability": 0.9501708,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 261,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9996817,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "나",
+						"tagged": "나/NP+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "감정을",
+							"beginOffset": 263,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "감정",
+									"beginOffset": 263,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98308474,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 265,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999595,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "감정",
+						"tagged": "감정/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "공유하고",
+							"beginOffset": 267,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "공유하",
+									"beginOffset": 267,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 270,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.98689264,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "공유하",
+						"tagged": "공유하/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "공감하여",
+							"beginOffset": 272,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "공감하",
+									"beginOffset": 272,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 275,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99277043,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "공감하",
+						"tagged": "공감하/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "주기도",
+							"beginOffset": 277,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "주",
+									"beginOffset": 277,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.9369766,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "기",
+									"beginOffset": 278,
+									"length": 1
+								},
+								"tag": "ETN",
+								"probability": 0.9986257,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 279,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9993536,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "주",
+						"tagged": "주/VX+기/ETN+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "하고",
+							"beginOffset": 281,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 281,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.6898792,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 282,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9908912,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": ",",
+							"beginOffset": 283,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 283,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.9989491,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": ",",
+						"tagged": ",/SP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "때로는",
+							"beginOffset": 285,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "때로",
+									"beginOffset": 285,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9912065,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 287,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9990452,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "때로",
+						"tagged": "때로/MAG+는/JX",
+						"modified": "때로는"
+					},
+					{
+						"text": {
+							"content": "제가",
+							"beginOffset": 289,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "제",
+									"beginOffset": 289,
+									"length": 1
+								},
+								"tag": "NP",
+								"probability": 0.9840051,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 290,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.97847635,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "제",
+						"tagged": "제/NP+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "몰랐던",
+							"beginOffset": 292,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "모르",
+									"beginOffset": 292,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9898217,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 293,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9997906,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "던",
+									"beginOffset": 294,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99994504,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "모르",
+						"tagged": "모르/VV+았/EP+던/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "점을",
+							"beginOffset": 296,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "점",
+									"beginOffset": 296,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.7582402,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 297,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999445,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "점",
+						"tagged": "점/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "깨닫게",
+							"beginOffset": 299,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "깨닫",
+									"beginOffset": 299,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9909141,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "게",
+									"beginOffset": 301,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99276024,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "깨닫",
+						"tagged": "깨닫/VV+게/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "하여",
+							"beginOffset": 303,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 303,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.5814431,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 304,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.98174435,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VX+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "저를",
+							"beginOffset": 306,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "저",
+									"beginOffset": 306,
+									"length": 1
+								},
+								"tag": "NP",
+								"probability": 0.97844297,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 307,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999087,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "저",
+						"tagged": "저/NP+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "더욱",
+							"beginOffset": 309,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "더욱",
+									"beginOffset": 309,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9907033,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "더욱",
+						"tagged": "더욱/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "성장시킬",
+							"beginOffset": 312,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "성장시키",
+									"beginOffset": 312,
+									"length": 4
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄹ",
+									"beginOffset": 315,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99992305,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "성장시키",
+						"tagged": "성장시키/VV+ㄹ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "수",
+							"beginOffset": 316,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "수",
+									"beginOffset": 316,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9836957,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "수",
+						"tagged": "수/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있는",
+							"beginOffset": 318,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 318,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.97099644,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 319,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999434,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VA+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "존재이기에",
+							"beginOffset": 321,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "존재",
+									"beginOffset": 321,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98355544,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 323,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.9999204,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "기에",
+									"beginOffset": 324,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99301684,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "존재",
+						"tagged": "존재/NNG+이/VCP+기에/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "그렇게",
+							"beginOffset": 327,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그렇",
+									"beginOffset": 327,
+									"length": 2
+								},
+								"tag": "VA",
+								"probability": 0.9870498,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "게",
+									"beginOffset": 329,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99523485,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그렇",
+						"tagged": "그렇/VA+게/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "생각합니다.",
+							"beginOffset": 331,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "생각하",
+									"beginOffset": 331,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.0,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㅂ니다",
+									"beginOffset": 333,
+									"length": 3
+								},
+								"tag": "EF",
+								"probability": 0.9877019,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 336,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9992875,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "생각하",
+						"tagged": "생각하/VV+ㅂ니다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고 , 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬 수 있는 존재이기에 그렇게 생각합니다."
+			},
+			{
+				"text": {
+					"content": "따라서 저는 가족이 저의 멘토라고 생각합니다.",
+					"beginOffset": 338,
+					"length": 25
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "따라서",
+							"beginOffset": 338,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "따라서",
+									"beginOffset": 338,
+									"length": 3
+								},
+								"tag": "MAJ",
+								"probability": 0.99777895,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "따라서",
+						"tagged": "따라서/MAJ",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "저는",
+							"beginOffset": 342,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "저",
+									"beginOffset": 342,
+									"length": 1
+								},
+								"tag": "NP",
+								"probability": 0.9762435,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 343,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99941224,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "저",
+						"tagged": "저/NP+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "가족이",
+							"beginOffset": 345,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "가족",
+									"beginOffset": 345,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9858919,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 347,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.98101956,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "가족",
+						"tagged": "가족/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "저의",
+							"beginOffset": 349,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "저",
+									"beginOffset": 349,
+									"length": 1
+								},
+								"tag": "NP",
+								"probability": 0.96489644,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 350,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9987869,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "저",
+						"tagged": "저/NP+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "멘토라고",
+							"beginOffset": 352,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "멘토",
+									"beginOffset": 352,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9845099,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 354,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.99997157,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "라고",
+									"beginOffset": 354,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9911432,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "멘토",
+						"tagged": "멘토/NNG+이/VCP+라고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "생각합니다.",
+							"beginOffset": 357,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "생각하",
+									"beginOffset": 357,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.0,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㅂ니다",
+									"beginOffset": 359,
+									"length": 3
+								},
+								"tag": "EF",
+								"probability": 0.9906951,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 362,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9984257,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "생각하",
+						"tagged": "생각하/VV+ㅂ니다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "따라서 저는 가족이 저의 멘토라고 생각합니다."
+			}
+		],
+		"language": "ko_KR"
+	},
+	"ttr": {
+		"lemma_Cnt": 179,
+		"lemma_TTR": 0.4635416666666667,
+		"CL_TTR": 0.5164835164835165,
+		"NL_TTR": 0.42857142857142855,
+		"NN_TTR": 0.4838709677419355,
+		"NNG_TTR": 0.5,
+		"NNP_TTR": 0,
+		"NNB_TTR": 0.5714285714285714,
+		"NP_TTR": 0.2727272727272727,
+		"NR_TTR": 0,
+		"VL_TTR": 0.5121951219512195,
+		"VV_TTR": 0.6666666666666666,
+		"VA_TTR": 0.5833333333333334,
+		"ML_TTR": 1.0,
+		"MM_TTR": 0,
+		"MA_TTR": 1.0,
+		"MAJ_TTR": 1.0,
+		"IC_TTR": 0,
+		"FL_TTR": 0.4470588235294118,
+		"J_TTR": 0.4444444444444444,
+		"E_TTR": 0.4782608695652174,
+		"X_TTR": 0.6666666666666666,
+		"lemma_RTTR": 6.423021744734587,
+		"CL_RTTR": 4.926938732593016,
+		"NL_RTTR": 2.7774602993176543,
+		"NN_RTTR": 2.694079530401624,
+		"NNG_RTTR": 2.4494897427831783,
+		"NNP_RTTR": 0,
+		"NNB_RTTR": 1.5118578920369088,
+		"NP_RTTR": 0.9045340337332909,
+		"NR_RTTR": 0,
+		"VL_RTTR": 3.2796489996607274,
+		"VV_RTTR": 2.8284271247461903,
+		"VA_RTTR": 2.0207259421636903,
+		"ML_RTTR": 2.82842712474619,
+		"MM_RTTR": 0,
+		"MA_RTTR": 2.82842712474619,
+		"MAJ_RTTR": 1.414213562373095,
+		"IC_RTTR": 0,
+		"FL_RTTR": 4.121678698554468,
+		"J_RTTR": 2.6666666666666665,
+		"E_RTTR": 3.243723035407737,
+		"X_RTTR": 1.1547005383792517,
+		"lemma_CTTR": 4.541762231410477,
+		"CL_CTTR": 3.4838717883071757,
+		"NL_CTTR": 1.9639610121239315,
+		"NN_CTTR": 1.9050019050028575,
+		"NNG_CTTR": 1.7320508075688774,
+		"NNP_CTTR": 0,
+		"NNB_CTTR": 1.0690449676496976,
+		"NP_CTTR": 0.6396021490668313,
+		"NR_CTTR": 0,
+		"VL_CTTR": 2.3190620475717774,
+		"VV_CTTR": 2.0,
+		"VA_CTTR": 1.4288690166235207,
+		"ML_CTTR": 2.0,
+		"MM_CTTR": 0,
+		"MA_CTTR": 2.0,
+		"MAJ_CTTR": 1.0,
+		"IC_CTTR": 0,
+		"FL_CTTR": 2.9144669576200073,
+		"J_CTTR": 1.885618083164127,
+		"E_CTTR": 2.2936585546278225,
+		"X_CTTR": 0.8164965809277261,
+		"lemma_MSTTR": 0.7600000000000001,
+		"CL_MSTTR": 0.66,
+		"NL_MSTTR": 0.42857142857142855,
+		"NN_MSTTR": 0.4838709677419355,
+		"NNG_MSTTR": 0.5,
+		"NNP_MSTTR": 0,
+		"NNB_MSTTR": 0.5714285714285714,
+		"NP_MSTTR": 0.2727272727272727,
+		"NR_MSTTR": 0,
+		"VL_MSTTR": 0.5121951219512195,
+		"VV_MSTTR": 0.6666666666666666,
+		"VA_MSTTR": 0.5833333333333334,
+		"ML_MSTTR": 1.0,
+		"MM_MSTTR": 0,
+		"MA_MSTTR": 1.0,
+		"MAJ_MSTTR": 1.0,
+		"IC_MSTTR": 0,
+		"FL_MSTTR": 0.6,
+		"J_MSTTR": 0.4444444444444444,
+		"E_MSTTR": 0.4782608695652174,
+		"X_MSTTR": 0.6666666666666666,
+		"lemma_MATTR": 0.7923076923076917,
+		"CL_MATTR": 0.6909523809523807,
+		"NL_MATTR": 0.42857142857142855,
+		"NN_MATTR": 0.4838709677419355,
+		"NNG_MATTR": 0.5,
+		"NNP_MATTR": 0,
+		"NNB_MATTR": 0.5714285714285714,
+		"NP_MATTR": 0.2727272727272727,
+		"NR_MATTR": 0,
+		"VL_MATTR": 0.5121951219512195,
+		"VV_MATTR": 0.6666666666666666,
+		"VA_MATTR": 0.5833333333333334,
+		"ML_MATTR": 1.0,
+		"MM_MATTR": 0,
+		"MA_MATTR": 1.0,
+		"MAJ_MATTR": 1.0,
+		"IC_MATTR": 0,
+		"FL_MATTR": 0.6116666666666666,
+		"J_MATTR": 0.4444444444444444,
+		"E_MATTR": 0.4782608695652174,
+		"X_MATTR": 0.6666666666666666,
+		"lemma_MTLD": 49.192447039768126,
+		"CL_MTLD": 26.85474006116208,
+		"NL_MTLD": 14.435797665369652,
+		"NN_MTLD": 15.5,
+		"NNG_MTLD": 10.148148148148149,
+		"NNP_MTLD": 0.0,
+		"NNB_MTLD": 4.573333333333333,
+		"NP_MTLD": 11.0,
+		"NR_MTLD": 0.0,
+		"VL_MTLD": 15.105263157894738,
+		"VV_MTLD": 14.25,
+		"VA_MTLD": 12.0,
+		"ML_MTLD": 0.0,
+		"MM_MTLD": 0.0,
+		"MA_MTLD": 0.0,
+		"MAJ_MTLD": 0.0,
+		"IC_MTLD": 0.0,
+		"FL_MTLD": 30.23094688221709,
+		"J_MTLD": 18.0,
+		"E_MTLD": 17.15505675954593,
+		"X_MTLD": 2.52,
+		"lemma_VOCDD": 52.36094012880168,
+		"CL_VOCDD": 27.63495689672172,
+		"NL_VOCDD": 0,
+		"NN_VOCDD": 0,
+		"NNG_VOCDD": 0,
+		"NNP_VOCDD": 0,
+		"NNB_VOCDD": 0,
+		"NP_VOCDD": 0,
+		"NR_VOCDD": 0,
+		"VL_VOCDD": 0,
+		"VV_VOCDD": 0,
+		"VA_VOCDD": 0,
+		"ML_VOCDD": 0,
+		"MM_VOCDD": 0,
+		"MA_VOCDD": 0,
+		"MAJ_VOCDD": 0,
+		"IC_VOCDD": 0,
+		"FL_VOCDD": 20.60459008418551,
+		"J_VOCDD": 0,
+		"E_VOCDD": 0,
+		"X_VOCDD": 0,
+		"lemma_HDD": 0.7660816895898745,
+		"CL_HDD": 0.6657474468858816,
+		"NL_HDD": 0.4285714285714287,
+		"NN_HDD": 0.0,
+		"NNG_HDD": 0.0,
+		"NNP_HDD": 0.0,
+		"NNB_HDD": 0.0,
+		"NP_HDD": 0.0,
+		"NR_HDD": 0.0,
+		"VL_HDD": 0.0,
+		"VV_HDD": 0.0,
+		"VA_HDD": 0.0,
+		"ML_HDD": 0.0,
+		"MM_HDD": 0.0,
+		"MA_HDD": 0.0,
+		"MAJ_HDD": 0.0,
+		"IC_HDD": 0.0,
+		"FL_HDD": 0.6147075764992703,
+		"J_HDD": 0.0,
+		"E_HDD": 0.502515695741176,
+		"X_HDD": 0.0
+	},
+	"similarity": {
+		"avgSentSimilarity": 0.23827695846557617,
+		"topicConsistency": 0.5751
+	},
+	"adjacency": {
+		"adjacent_sentence_overlap_all_lemmas": 132,
+		"adjacent_sentence_overlap_all_lemmas_normed": 6,
+		"binary_adjacent_sentence_overlap_all_lemmas": 6,
+		"adjacent_two_sentence_overlap_all_lemmas": 86,
+		"adjacent_two_sentence_overlap_all_lemmas_normed": 5,
+		"binary_adjacent_two_sentence_overlap_all_lemmas": 5,
+		"adjacent_sentence_overlap_content_lemmas": 61,
+		"adjacent_sentence_overlap_content_lemmas_normed": 6,
+		"binary_adjacent_sentence_overlap_content_lemmas": 6,
+		"adjacent_two_sentence_overlap_content_lemmas": 45,
+		"adjacent_two_sentence_overlap_content_lemmas_normed": 5,
+		"binary_adjacent_two_sentence_overlap_content_lemmas": 5,
+		"adjacent_sentence_overlap_function_lemmas": 56,
+		"adjacent_sentence_overlap_function_lemmas_normed": 6,
+		"binary_adjacent_sentence_overlap_function_lemmas": 5,
+		"adjacent_two_sentence_overlap_function_lemmas": 32,
+		"adjacent_two_sentence_overlap_function_lemmas_normed": 5,
+		"binary_adjacent_two_sentence_overlap_function_lemmas": 4,
+		"adjacent_sentence_overlap_noun_lemmas": 35,
+		"adjacent_sentence_overlap_noun_lemmas_normed": 6,
+		"binary_adjacent_sentence_overlap_noun_lemmas": 6,
+		"adjacent_two_sentence_overlap_noun_lemmas": 24,
+		"adjacent_two_sentence_overlap_noun_lemmas_normed": 5,
+		"binary_adjacent_two_sentence_overlap_noun_lemmas": 5,
+		"adjacent_sentence_overlap_verb_lemmas": 34,
+		"adjacent_sentence_overlap_verb_lemmas_normed": 6,
+		"binary_adjacent_sentence_overlap_verb_lemmas": 4,
+		"adjacent_two_sentence_overlap_verb_lemmas": 25,
+		"adjacent_two_sentence_overlap_verb_lemmas_normed": 5,
+		"binary_adjacent_two_sentence_overlap_verb_lemmas": 3,
+		"adjacent_sentence_overlap_adjective_lemmas": 11,
+		"adjacent_sentence_overlap_adjective_lemmas_normed": 4,
+		"binary_adjacent_sentence_overlap_adjective_lemmas": 2,
+		"adjacent_two_sentence_overlap_adjective_lemmas": 7,
+		"adjacent_two_sentence_overlap_adjective_lemmas_normed": 3,
+		"binary_adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_sentence_overlap_adverb_lemmas": 2,
+		"adjacent_sentence_overlap_adverb_lemmas_normed": 1,
+		"binary_adjacent_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adverb_lemmas": 0
+	},
+	"basic_count": {
+		"para_Cnt": 1,
+		"sentence_Cnt": 7,
+		"word_Cnt": 85,
+		"morph_Cnt": 192,
+		"char_Cnt": 294,
+		"CL_Cnt": 91,
+		"NL_Cnt": 42,
+		"NN_Cnt": 31,
+		"NNG_Cnt": 24,
+		"NNP_Cnt": 0,
+		"NNB_Cnt": 7,
+		"NP_Cnt": 11,
+		"NP_People_Cnt": 9,
+		"NP_Things_Cnt": 0,
+		"NR_Cnt": 0,
+		"VL_Cnt": 41,
+		"VV_Cnt": 18,
+		"VA_Cnt": 12,
+		"VX_Cnt": 2,
+		"VCP_Cnt": 9,
+		"VCN_Cnt": 0,
+		"ML_Cnt": 8,
+		"MA_Cnt": 0,
+		"MM_Cnt": 0,
+		"FL_Cnt": 85,
+		"J_Cnt": 36,
+		"E_Cnt": 46,
+		"X_Cnt": 3,
+		"IC_Cnt": 0
+	},
+	"basic_density": {
+		"CL_Den": 0.4739583333333333,
+		"FL_Den": 0.4427083333333333,
+		"NL_Den": 0.16145833333333334,
+		"NNGL_Den": 0.125,
+		"NNPL_Den": 0.0,
+		"NNBL_Den": 0.036458333333333336,
+		"NPL_Den": 0.057291666666666664,
+		"NML_Den": 0.0,
+		"VL_Den": 0.21354166666666666,
+		"VVL_Den": 0.09375,
+		"VAL_Den": 0.0625,
+		"ML_Den": 0.041666666666666664,
+		"MML_Den": 0.0,
+		"MAL_Den": 0.0,
+		"JL_Den": 0.1875,
+		"EL_Den": 0.23958333333333334,
+		"XL_Den": 0.015625,
+		"ITL_Den": 0.0,
+		"NCL_Den": 0.34065934065934067,
+		"NNCL_Den": 0.26373626373626374,
+		"NNGCL_Den": 0.0,
+		"NNBCL_Den": 0.07692307692307693,
+		"NPCL_Den": 0.12087912087912088,
+		"NMCL_Den": 0.0,
+		"VCL_Den": 0.45054945054945056,
+		"VVCL_Den": 0.1978021978021978,
+		"VACL_Den": 0.13186813186813187,
+		"MCL_Den": 0.08791208791208792,
+		"MMCL_Den": 0.0,
+		"MACL_Den": 0.0,
+		"INCL_Den": 0.0,
+		"JFL_Den": 0.4235294117647059,
+		"EFL_Den": 0.5411764705882353,
+		"XFL_Den": 0.03529411764705882
+	},
+	"basic_level": {
+		"morph_LenAvg": 1.5572916666666667,
+		"morph_LenStd": 0.7884907513284832,
+		"word_LenAvg": 3.1294117647058823,
+		"word_LenStd": 1.1860784151650412
+	},
+	"basic_list": {
+		"NL_Lst": [
+			[
+				0,
+				"저",
+				"NP",
+				"저는 가족이 저의 멘토라고 생각합니다."
+			],
+			[
+				1,
+				"가족",
+				"NNG",
+				"저는 가족이 저의 멘토라고 생각합니다."
+			],
+			[
+				2,
+				"저",
+				"NP",
+				"저는 가족이 저의 멘토라고 생각합니다."
+			],
+			[
+				3,
+				"멘토",
+				"NNG",
+				"저는 가족이 저의 멘토라고 생각합니다."
+			],
+			[
+				4,
+				"가족",
+				"NNG",
+				"왜냐하면 가족은 저와 함께 공감할 수 있는 존재라고 생각하기 때문입니다."
+			],
+			[
+				5,
+				"저",
+				"NP",
+				"왜냐하면 가족은 저와 함께 공감할 수 있는 존재라고 생각하기 때문입니다."
+			],
+			[
+				6,
+				"수",
+				"NNB",
+				"왜냐하면 가족은 저와 함께 공감할 수 있는 존재라고 생각하기 때문입니다."
+			],
+			[
+				7,
+				"존재",
+				"NNG",
+				"왜냐하면 가족은 저와 함께 공감할 수 있는 존재라고 생각하기 때문입니다."
+			],
+			[
+				8,
+				"때문",
+				"NNB",
+				"왜냐하면 가족은 저와 함께 공감할 수 있는 존재라고 생각하기 때문입니다."
+			],
+			[
+				9,
+				"사람",
+				"NNG",
+				"아무리 친한 사람이라 하더라도 그 사람에게도 가족이 있을 것이므로 언제나 내 곁에서 내 말을 들어주기에는 어려운 점이 있습니다."
+			],
+			[
+				10,
+				"사람",
+				"NNG",
+				"아무리 친한 사람이라 하더라도 그 사람에게도 가족이 있을 것이므로 언제나 내 곁에서 내 말을 들어주기에는 어려운 점이 있습니다."
+			],
+			[
+				11,
+				"가족",
+				"NNG",
+				"아무리 친한 사람이라 하더라도 그 사람에게도 가족이 있을 것이므로 언제나 내 곁에서 내 말을 들어주기에는 어려운 점이 있습니다."
+			],
+			[
+				12,
+				"것",
+				"NNB",
+				"아무리 친한 사람이라 하더라도 그 사람에게도 가족이 있을 것이므로 언제나 내 곁에서 내 말을 들어주기에는 어려운 점이 있습니다."
+			],
+			[
+				13,
+				"나",
+				"NP",
+				"아무리 친한 사람이라 하더라도 그 사람에게도 가족이 있을 것이므로 언제나 내 곁에서 내 말을 들어주기에는 어려운 점이 있습니다."
+			],
+			[
+				14,
+				"곁",
+				"NNG",
+				"아무리 친한 사람이라 하더라도 그 사람에게도 가족이 있을 것이므로 언제나 내 곁에서 내 말을 들어주기에는 어려운 점이 있습니다."
+			],
+			[
+				15,
+				"나",
+				"NP",
+				"아무리 친한 사람이라 하더라도 그 사람에게도 가족이 있을 것이므로 언제나 내 곁에서 내 말을 들어주기에는 어려운 점이 있습니다."
+			],
+			[
+				16,
+				"말",
+				"NNG",
+				"아무리 친한 사람이라 하더라도 그 사람에게도 가족이 있을 것이므로 언제나 내 곁에서 내 말을 들어주기에는 어려운 점이 있습니다."
+			],
+			[
+				17,
+				"점",
+				"NNB",
+				"아무리 친한 사람이라 하더라도 그 사람에게도 가족이 있을 것이므로 언제나 내 곁에서 내 말을 들어주기에는 어려운 점이 있습니다."
+			],
+			[
+				18,
+				"가족",
+				"NNG",
+				"하지만 가족은 다르다고 생각합니다."
+			],
+			[
+				19,
+				"제",
+				"NP",
+				"제가 태어났을 때부터 가족과는 자연스럽게 만나고 자연스럽게 성장하면서 '안락함', '편안함' 이라는 감정을 느낄 수 있었을 것입니다."
+			],
+			[
+				20,
+				"때",
+				"NNG",
+				"제가 태어났을 때부터 가족과는 자연스럽게 만나고 자연스럽게 성장하면서 '안락함', '편안함' 이라는 감정을 느낄 수 있었을 것입니다."
+			],
+			[
+				21,
+				"가족",
+				"NNG",
+				"제가 태어났을 때부터 가족과는 자연스럽게 만나고 자연스럽게 성장하면서 '안락함', '편안함' 이라는 감정을 느낄 수 있었을 것입니다."
+			],
+			[
+				22,
+				"안락",
+				"NNG",
+				"제가 태어났을 때부터 가족과는 자연스럽게 만나고 자연스럽게 성장하면서 '안락함', '편안함' 이라는 감정을 느낄 수 있었을 것입니다."
+			],
+			[
+				23,
+				"편안",
+				"NNG",
+				"제가 태어났을 때부터 가족과는 자연스럽게 만나고 자연스럽게 성장하면서 '안락함', '편안함' 이라는 감정을 느낄 수 있었을 것입니다."
+			],
+			[
+				24,
+				"감정",
+				"NNG",
+				"제가 태어났을 때부터 가족과는 자연스럽게 만나고 자연스럽게 성장하면서 '안락함', '편안함' 이라는 감정을 느낄 수 있었을 것입니다."
+			],
+			[
+				25,
+				"수",
+				"NNB",
+				"제가 태어났을 때부터 가족과는 자연스럽게 만나고 자연스럽게 성장하면서 '안락함', '편안함' 이라는 감정을 느낄 수 있었을 것입니다."
+			],
+			[
+				26,
+				"것",
+				"NNB",
+				"제가 태어났을 때부터 가족과는 자연스럽게 만나고 자연스럽게 성장하면서 '안락함', '편안함' 이라는 감정을 느낄 수 있었을 것입니다."
+			],
+			[
+				27,
+				"점",
+				"NNG",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				28,
+				"가족",
+				"NNG",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				29,
+				"존재",
+				"NNG",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				30,
+				"다음",
+				"NNG",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				31,
+				"나",
+				"NP",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				32,
+				"감정",
+				"NNG",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				33,
+				"제",
+				"NP",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				34,
+				"점",
+				"NNG",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				35,
+				"저",
+				"NP",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				36,
+				"수",
+				"NNB",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				37,
+				"존재",
+				"NNG",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				38,
+				"저",
+				"NP",
+				"따라서 저는 가족이 저의 멘토라고 생각합니다."
+			],
+			[
+				39,
+				"가족",
+				"NNG",
+				"따라서 저는 가족이 저의 멘토라고 생각합니다."
+			],
+			[
+				40,
+				"저",
+				"NP",
+				"따라서 저는 가족이 저의 멘토라고 생각합니다."
+			],
+			[
+				41,
+				"멘토",
+				"NNG",
+				"따라서 저는 가족이 저의 멘토라고 생각합니다."
+			]
+		],
+		"NN_Lst": [
+			[
+				0,
+				"가족",
+				"NNG",
+				"저는 가족이 저의 멘토라고 생각합니다."
+			],
+			[
+				1,
+				"멘토",
+				"NNG",
+				"저는 가족이 저의 멘토라고 생각합니다."
+			],
+			[
+				2,
+				"가족",
+				"NNG",
+				"왜냐하면 가족은 저와 함께 공감할 수 있는 존재라고 생각하기 때문입니다."
+			],
+			[
+				3,
+				"수",
+				"NNB",
+				"왜냐하면 가족은 저와 함께 공감할 수 있는 존재라고 생각하기 때문입니다."
+			],
+			[
+				4,
+				"존재",
+				"NNG",
+				"왜냐하면 가족은 저와 함께 공감할 수 있는 존재라고 생각하기 때문입니다."
+			],
+			[
+				5,
+				"때문",
+				"NNB",
+				"왜냐하면 가족은 저와 함께 공감할 수 있는 존재라고 생각하기 때문입니다."
+			],
+			[
+				6,
+				"사람",
+				"NNG",
+				"아무리 친한 사람이라 하더라도 그 사람에게도 가족이 있을 것이므로 언제나 내 곁에서 내 말을 들어주기에는 어려운 점이 있습니다."
+			],
+			[
+				7,
+				"사람",
+				"NNG",
+				"아무리 친한 사람이라 하더라도 그 사람에게도 가족이 있을 것이므로 언제나 내 곁에서 내 말을 들어주기에는 어려운 점이 있습니다."
+			],
+			[
+				8,
+				"가족",
+				"NNG",
+				"아무리 친한 사람이라 하더라도 그 사람에게도 가족이 있을 것이므로 언제나 내 곁에서 내 말을 들어주기에는 어려운 점이 있습니다."
+			],
+			[
+				9,
+				"것",
+				"NNB",
+				"아무리 친한 사람이라 하더라도 그 사람에게도 가족이 있을 것이므로 언제나 내 곁에서 내 말을 들어주기에는 어려운 점이 있습니다."
+			],
+			[
+				10,
+				"곁",
+				"NNG",
+				"아무리 친한 사람이라 하더라도 그 사람에게도 가족이 있을 것이므로 언제나 내 곁에서 내 말을 들어주기에는 어려운 점이 있습니다."
+			],
+			[
+				11,
+				"말",
+				"NNG",
+				"아무리 친한 사람이라 하더라도 그 사람에게도 가족이 있을 것이므로 언제나 내 곁에서 내 말을 들어주기에는 어려운 점이 있습니다."
+			],
+			[
+				12,
+				"점",
+				"NNB",
+				"아무리 친한 사람이라 하더라도 그 사람에게도 가족이 있을 것이므로 언제나 내 곁에서 내 말을 들어주기에는 어려운 점이 있습니다."
+			],
+			[
+				13,
+				"가족",
+				"NNG",
+				"하지만 가족은 다르다고 생각합니다."
+			],
+			[
+				14,
+				"때",
+				"NNG",
+				"제가 태어났을 때부터 가족과는 자연스럽게 만나고 자연스럽게 성장하면서 '안락함', '편안함' 이라는 감정을 느낄 수 있었을 것입니다."
+			],
+			[
+				15,
+				"가족",
+				"NNG",
+				"제가 태어났을 때부터 가족과는 자연스럽게 만나고 자연스럽게 성장하면서 '안락함', '편안함' 이라는 감정을 느낄 수 있었을 것입니다."
+			],
+			[
+				16,
+				"안락",
+				"NNG",
+				"제가 태어났을 때부터 가족과는 자연스럽게 만나고 자연스럽게 성장하면서 '안락함', '편안함' 이라는 감정을 느낄 수 있었을 것입니다."
+			],
+			[
+				17,
+				"편안",
+				"NNG",
+				"제가 태어났을 때부터 가족과는 자연스럽게 만나고 자연스럽게 성장하면서 '안락함', '편안함' 이라는 감정을 느낄 수 있었을 것입니다."
+			],
+			[
+				18,
+				"감정",
+				"NNG",
+				"제가 태어났을 때부터 가족과는 자연스럽게 만나고 자연스럽게 성장하면서 '안락함', '편안함' 이라는 감정을 느낄 수 있었을 것입니다."
+			],
+			[
+				19,
+				"수",
+				"NNB",
+				"제가 태어났을 때부터 가족과는 자연스럽게 만나고 자연스럽게 성장하면서 '안락함', '편안함' 이라는 감정을 느낄 수 있었을 것입니다."
+			],
+			[
+				20,
+				"것",
+				"NNB",
+				"제가 태어났을 때부터 가족과는 자연스럽게 만나고 자연스럽게 성장하면서 '안락함', '편안함' 이라는 감정을 느낄 수 있었을 것입니다."
+			],
+			[
+				21,
+				"점",
+				"NNG",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				22,
+				"가족",
+				"NNG",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				23,
+				"존재",
+				"NNG",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				24,
+				"다음",
+				"NNG",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				25,
+				"감정",
+				"NNG",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				26,
+				"점",
+				"NNG",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				27,
+				"수",
+				"NNB",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				28,
+				"존재",
+				"NNG",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				29,
+				"가족",
+				"NNG",
+				"따라서 저는 가족이 저의 멘토라고 생각합니다."
+			],
+			[
+				30,
+				"멘토",
+				"NNG",
+				"따라서 저는 가족이 저의 멘토라고 생각합니다."
+			]
+		],
+		"NNG_Lst": [
+			[
+				0,
+				"가족",
+				"NNG",
+				"저는 가족이 저의 멘토라고 생각합니다."
+			],
+			[
+				1,
+				"멘토",
+				"NNG",
+				"저는 가족이 저의 멘토라고 생각합니다."
+			],
+			[
+				2,
+				"가족",
+				"NNG",
+				"왜냐하면 가족은 저와 함께 공감할 수 있는 존재라고 생각하기 때문입니다."
+			],
+			[
+				3,
+				"존재",
+				"NNG",
+				"왜냐하면 가족은 저와 함께 공감할 수 있는 존재라고 생각하기 때문입니다."
+			],
+			[
+				4,
+				"사람",
+				"NNG",
+				"아무리 친한 사람이라 하더라도 그 사람에게도 가족이 있을 것이므로 언제나 내 곁에서 내 말을 들어주기에는 어려운 점이 있습니다."
+			],
+			[
+				5,
+				"사람",
+				"NNG",
+				"아무리 친한 사람이라 하더라도 그 사람에게도 가족이 있을 것이므로 언제나 내 곁에서 내 말을 들어주기에는 어려운 점이 있습니다."
+			],
+			[
+				6,
+				"가족",
+				"NNG",
+				"아무리 친한 사람이라 하더라도 그 사람에게도 가족이 있을 것이므로 언제나 내 곁에서 내 말을 들어주기에는 어려운 점이 있습니다."
+			],
+			[
+				7,
+				"곁",
+				"NNG",
+				"아무리 친한 사람이라 하더라도 그 사람에게도 가족이 있을 것이므로 언제나 내 곁에서 내 말을 들어주기에는 어려운 점이 있습니다."
+			],
+			[
+				8,
+				"말",
+				"NNG",
+				"아무리 친한 사람이라 하더라도 그 사람에게도 가족이 있을 것이므로 언제나 내 곁에서 내 말을 들어주기에는 어려운 점이 있습니다."
+			],
+			[
+				9,
+				"가족",
+				"NNG",
+				"하지만 가족은 다르다고 생각합니다."
+			],
+			[
+				10,
+				"때",
+				"NNG",
+				"제가 태어났을 때부터 가족과는 자연스럽게 만나고 자연스럽게 성장하면서 '안락함', '편안함' 이라는 감정을 느낄 수 있었을 것입니다."
+			],
+			[
+				11,
+				"가족",
+				"NNG",
+				"제가 태어났을 때부터 가족과는 자연스럽게 만나고 자연스럽게 성장하면서 '안락함', '편안함' 이라는 감정을 느낄 수 있었을 것입니다."
+			],
+			[
+				12,
+				"안락",
+				"NNG",
+				"제가 태어났을 때부터 가족과는 자연스럽게 만나고 자연스럽게 성장하면서 '안락함', '편안함' 이라는 감정을 느낄 수 있었을 것입니다."
+			],
+			[
+				13,
+				"편안",
+				"NNG",
+				"제가 태어났을 때부터 가족과는 자연스럽게 만나고 자연스럽게 성장하면서 '안락함', '편안함' 이라는 감정을 느낄 수 있었을 것입니다."
+			],
+			[
+				14,
+				"감정",
+				"NNG",
+				"제가 태어났을 때부터 가족과는 자연스럽게 만나고 자연스럽게 성장하면서 '안락함', '편안함' 이라는 감정을 느낄 수 있었을 것입니다."
+			],
+			[
+				15,
+				"점",
+				"NNG",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				16,
+				"가족",
+				"NNG",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				17,
+				"존재",
+				"NNG",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				18,
+				"다음",
+				"NNG",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				19,
+				"감정",
+				"NNG",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				20,
+				"점",
+				"NNG",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				21,
+				"존재",
+				"NNG",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				22,
+				"가족",
+				"NNG",
+				"따라서 저는 가족이 저의 멘토라고 생각합니다."
+			],
+			[
+				23,
+				"멘토",
+				"NNG",
+				"따라서 저는 가족이 저의 멘토라고 생각합니다."
+			]
+		],
+		"NNP_Lst": [],
+		"NNB_Lst": [
+			[
+				0,
+				"수",
+				"NNB",
+				"왜냐하면 가족은 저와 함께 공감할 수 있는 존재라고 생각하기 때문입니다."
+			],
+			[
+				1,
+				"때문",
+				"NNB",
+				"왜냐하면 가족은 저와 함께 공감할 수 있는 존재라고 생각하기 때문입니다."
+			],
+			[
+				2,
+				"것",
+				"NNB",
+				"아무리 친한 사람이라 하더라도 그 사람에게도 가족이 있을 것이므로 언제나 내 곁에서 내 말을 들어주기에는 어려운 점이 있습니다."
+			],
+			[
+				3,
+				"점",
+				"NNB",
+				"아무리 친한 사람이라 하더라도 그 사람에게도 가족이 있을 것이므로 언제나 내 곁에서 내 말을 들어주기에는 어려운 점이 있습니다."
+			],
+			[
+				4,
+				"수",
+				"NNB",
+				"제가 태어났을 때부터 가족과는 자연스럽게 만나고 자연스럽게 성장하면서 '안락함', '편안함' 이라는 감정을 느낄 수 있었을 것입니다."
+			],
+			[
+				5,
+				"것",
+				"NNB",
+				"제가 태어났을 때부터 가족과는 자연스럽게 만나고 자연스럽게 성장하면서 '안락함', '편안함' 이라는 감정을 느낄 수 있었을 것입니다."
+			],
+			[
+				6,
+				"수",
+				"NNB",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			]
+		],
+		"NP_Lst": [
+			[
+				0,
+				"저",
+				"NP",
+				"저는 가족이 저의 멘토라고 생각합니다."
+			],
+			[
+				1,
+				"저",
+				"NP",
+				"저는 가족이 저의 멘토라고 생각합니다."
+			],
+			[
+				2,
+				"저",
+				"NP",
+				"왜냐하면 가족은 저와 함께 공감할 수 있는 존재라고 생각하기 때문입니다."
+			],
+			[
+				3,
+				"나",
+				"NP",
+				"아무리 친한 사람이라 하더라도 그 사람에게도 가족이 있을 것이므로 언제나 내 곁에서 내 말을 들어주기에는 어려운 점이 있습니다."
+			],
+			[
+				4,
+				"나",
+				"NP",
+				"아무리 친한 사람이라 하더라도 그 사람에게도 가족이 있을 것이므로 언제나 내 곁에서 내 말을 들어주기에는 어려운 점이 있습니다."
+			],
+			[
+				5,
+				"제",
+				"NP",
+				"제가 태어났을 때부터 가족과는 자연스럽게 만나고 자연스럽게 성장하면서 '안락함', '편안함' 이라는 감정을 느낄 수 있었을 것입니다."
+			],
+			[
+				6,
+				"나",
+				"NP",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				7,
+				"제",
+				"NP",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				8,
+				"저",
+				"NP",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				9,
+				"저",
+				"NP",
+				"따라서 저는 가족이 저의 멘토라고 생각합니다."
+			],
+			[
+				10,
+				"저",
+				"NP",
+				"따라서 저는 가족이 저의 멘토라고 생각합니다."
+			]
+		],
+		"NP_People_Lst": [
+			[
+				0,
+				"저",
+				"NP",
+				"저는 가족이 저의 멘토라고 생각합니다."
+			],
+			[
+				1,
+				"저",
+				"NP",
+				"저는 가족이 저의 멘토라고 생각합니다."
+			],
+			[
+				2,
+				"저",
+				"NP",
+				"왜냐하면 가족은 저와 함께 공감할 수 있는 존재라고 생각하기 때문입니다."
+			],
+			[
+				3,
+				"나",
+				"NP",
+				"아무리 친한 사람이라 하더라도 그 사람에게도 가족이 있을 것이므로 언제나 내 곁에서 내 말을 들어주기에는 어려운 점이 있습니다."
+			],
+			[
+				4,
+				"나",
+				"NP",
+				"아무리 친한 사람이라 하더라도 그 사람에게도 가족이 있을 것이므로 언제나 내 곁에서 내 말을 들어주기에는 어려운 점이 있습니다."
+			],
+			[
+				5,
+				"나",
+				"NP",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				6,
+				"저",
+				"NP",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				7,
+				"저",
+				"NP",
+				"따라서 저는 가족이 저의 멘토라고 생각합니다."
+			],
+			[
+				8,
+				"저",
+				"NP",
+				"따라서 저는 가족이 저의 멘토라고 생각합니다."
+			]
+		],
+		"NP_Things_Lst": [],
+		"NR_Lst": [],
+		"VL_Lst": [
+			[
+				0,
+				"이",
+				"VCP",
+				"저는 가족이 저의 멘토라고 생각합니다."
+			],
+			[
+				1,
+				"생각하",
+				"VV",
+				"저는 가족이 저의 멘토라고 생각합니다."
+			],
+			[
+				2,
+				"공감하",
+				"VV",
+				"왜냐하면 가족은 저와 함께 공감할 수 있는 존재라고 생각하기 때문입니다."
+			],
+			[
+				3,
+				"있",
+				"VA",
+				"왜냐하면 가족은 저와 함께 공감할 수 있는 존재라고 생각하기 때문입니다."
+			],
+			[
+				4,
+				"이",
+				"VCP",
+				"왜냐하면 가족은 저와 함께 공감할 수 있는 존재라고 생각하기 때문입니다."
+			],
+			[
+				5,
+				"생각하",
+				"VV",
+				"왜냐하면 가족은 저와 함께 공감할 수 있는 존재라고 생각하기 때문입니다."
+			],
+			[
+				6,
+				"이",
+				"VCP",
+				"왜냐하면 가족은 저와 함께 공감할 수 있는 존재라고 생각하기 때문입니다."
+			],
+			[
+				7,
+				"친하",
+				"VA",
+				"아무리 친한 사람이라 하더라도 그 사람에게도 가족이 있을 것이므로 언제나 내 곁에서 내 말을 들어주기에는 어려운 점이 있습니다."
+			],
+			[
+				8,
+				"이",
+				"VCP",
+				"아무리 친한 사람이라 하더라도 그 사람에게도 가족이 있을 것이므로 언제나 내 곁에서 내 말을 들어주기에는 어려운 점이 있습니다."
+			],
+			[
+				9,
+				"하",
+				"VV",
+				"아무리 친한 사람이라 하더라도 그 사람에게도 가족이 있을 것이므로 언제나 내 곁에서 내 말을 들어주기에는 어려운 점이 있습니다."
+			],
+			[
+				10,
+				"있",
+				"VA",
+				"아무리 친한 사람이라 하더라도 그 사람에게도 가족이 있을 것이므로 언제나 내 곁에서 내 말을 들어주기에는 어려운 점이 있습니다."
+			],
+			[
+				11,
+				"이",
+				"VCP",
+				"아무리 친한 사람이라 하더라도 그 사람에게도 가족이 있을 것이므로 언제나 내 곁에서 내 말을 들어주기에는 어려운 점이 있습니다."
+			],
+			[
+				12,
+				"듣어주",
+				"VV",
+				"아무리 친한 사람이라 하더라도 그 사람에게도 가족이 있을 것이므로 언제나 내 곁에서 내 말을 들어주기에는 어려운 점이 있습니다."
+			],
+			[
+				13,
+				"어렵",
+				"VA",
+				"아무리 친한 사람이라 하더라도 그 사람에게도 가족이 있을 것이므로 언제나 내 곁에서 내 말을 들어주기에는 어려운 점이 있습니다."
+			],
+			[
+				14,
+				"있",
+				"VA",
+				"아무리 친한 사람이라 하더라도 그 사람에게도 가족이 있을 것이므로 언제나 내 곁에서 내 말을 들어주기에는 어려운 점이 있습니다."
+			],
+			[
+				15,
+				"다르",
+				"VA",
+				"하지만 가족은 다르다고 생각합니다."
+			],
+			[
+				16,
+				"생각하",
+				"VV",
+				"하지만 가족은 다르다고 생각합니다."
+			],
+			[
+				17,
+				"태어나",
+				"VV",
+				"제가 태어났을 때부터 가족과는 자연스럽게 만나고 자연스럽게 성장하면서 '안락함', '편안함' 이라는 감정을 느낄 수 있었을 것입니다."
+			],
+			[
+				18,
+				"자연스럽",
+				"VA",
+				"제가 태어났을 때부터 가족과는 자연스럽게 만나고 자연스럽게 성장하면서 '안락함', '편안함' 이라는 감정을 느낄 수 있었을 것입니다."
+			],
+			[
+				19,
+				"만나",
+				"VV",
+				"제가 태어났을 때부터 가족과는 자연스럽게 만나고 자연스럽게 성장하면서 '안락함', '편안함' 이라는 감정을 느낄 수 있었을 것입니다."
+			],
+			[
+				20,
+				"자연스럽",
+				"VA",
+				"제가 태어났을 때부터 가족과는 자연스럽게 만나고 자연스럽게 성장하면서 '안락함', '편안함' 이라는 감정을 느낄 수 있었을 것입니다."
+			],
+			[
+				21,
+				"성장하",
+				"VV",
+				"제가 태어났을 때부터 가족과는 자연스럽게 만나고 자연스럽게 성장하면서 '안락함', '편안함' 이라는 감정을 느낄 수 있었을 것입니다."
+			],
+			[
+				22,
+				"이",
+				"VCP",
+				"제가 태어났을 때부터 가족과는 자연스럽게 만나고 자연스럽게 성장하면서 '안락함', '편안함' 이라는 감정을 느낄 수 있었을 것입니다."
+			],
+			[
+				23,
+				"느끼",
+				"VV",
+				"제가 태어났을 때부터 가족과는 자연스럽게 만나고 자연스럽게 성장하면서 '안락함', '편안함' 이라는 감정을 느낄 수 있었을 것입니다."
+			],
+			[
+				24,
+				"있",
+				"VA",
+				"제가 태어났을 때부터 가족과는 자연스럽게 만나고 자연스럽게 성장하면서 '안락함', '편안함' 이라는 감정을 느낄 수 있었을 것입니다."
+			],
+			[
+				25,
+				"이",
+				"VCP",
+				"제가 태어났을 때부터 가족과는 자연스럽게 만나고 자연스럽게 성장하면서 '안락함', '편안함' 이라는 감정을 느낄 수 있었을 것입니다."
+			],
+			[
+				26,
+				"편안하",
+				"VA",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				27,
+				"공유하",
+				"VV",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				28,
+				"공감하",
+				"VV",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				29,
+				"주",
+				"VX",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				30,
+				"하",
+				"VV",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				31,
+				"모르",
+				"VV",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				32,
+				"깨닫",
+				"VV",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				33,
+				"하",
+				"VX",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				34,
+				"성장시키",
+				"VV",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				35,
+				"있",
+				"VA",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				36,
+				"이",
+				"VCP",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				37,
+				"그렇",
+				"VA",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				38,
+				"생각하",
+				"VV",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				39,
+				"이",
+				"VCP",
+				"따라서 저는 가족이 저의 멘토라고 생각합니다."
+			],
+			[
+				40,
+				"생각하",
+				"VV",
+				"따라서 저는 가족이 저의 멘토라고 생각합니다."
+			]
+		],
+		"VV_Lst": [
+			[
+				0,
+				"생각하",
+				"VV",
+				"저는 가족이 저의 멘토라고 생각합니다."
+			],
+			[
+				1,
+				"공감하",
+				"VV",
+				"왜냐하면 가족은 저와 함께 공감할 수 있는 존재라고 생각하기 때문입니다."
+			],
+			[
+				2,
+				"생각하",
+				"VV",
+				"왜냐하면 가족은 저와 함께 공감할 수 있는 존재라고 생각하기 때문입니다."
+			],
+			[
+				3,
+				"하",
+				"VV",
+				"아무리 친한 사람이라 하더라도 그 사람에게도 가족이 있을 것이므로 언제나 내 곁에서 내 말을 들어주기에는 어려운 점이 있습니다."
+			],
+			[
+				4,
+				"듣어주",
+				"VV",
+				"아무리 친한 사람이라 하더라도 그 사람에게도 가족이 있을 것이므로 언제나 내 곁에서 내 말을 들어주기에는 어려운 점이 있습니다."
+			],
+			[
+				5,
+				"생각하",
+				"VV",
+				"하지만 가족은 다르다고 생각합니다."
+			],
+			[
+				6,
+				"태어나",
+				"VV",
+				"제가 태어났을 때부터 가족과는 자연스럽게 만나고 자연스럽게 성장하면서 '안락함', '편안함' 이라는 감정을 느낄 수 있었을 것입니다."
+			],
+			[
+				7,
+				"만나",
+				"VV",
+				"제가 태어났을 때부터 가족과는 자연스럽게 만나고 자연스럽게 성장하면서 '안락함', '편안함' 이라는 감정을 느낄 수 있었을 것입니다."
+			],
+			[
+				8,
+				"성장하",
+				"VV",
+				"제가 태어났을 때부터 가족과는 자연스럽게 만나고 자연스럽게 성장하면서 '안락함', '편안함' 이라는 감정을 느낄 수 있었을 것입니다."
+			],
+			[
+				9,
+				"느끼",
+				"VV",
+				"제가 태어났을 때부터 가족과는 자연스럽게 만나고 자연스럽게 성장하면서 '안락함', '편안함' 이라는 감정을 느낄 수 있었을 것입니다."
+			],
+			[
+				10,
+				"공유하",
+				"VV",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				11,
+				"공감하",
+				"VV",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				12,
+				"하",
+				"VV",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				13,
+				"모르",
+				"VV",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				14,
+				"깨닫",
+				"VV",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				15,
+				"성장시키",
+				"VV",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				16,
+				"생각하",
+				"VV",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				17,
+				"생각하",
+				"VV",
+				"따라서 저는 가족이 저의 멘토라고 생각합니다."
+			]
+		],
+		"VA_Lst": [
+			[
+				0,
+				"있",
+				"VA",
+				"왜냐하면 가족은 저와 함께 공감할 수 있는 존재라고 생각하기 때문입니다."
+			],
+			[
+				1,
+				"친하",
+				"VA",
+				"아무리 친한 사람이라 하더라도 그 사람에게도 가족이 있을 것이므로 언제나 내 곁에서 내 말을 들어주기에는 어려운 점이 있습니다."
+			],
+			[
+				2,
+				"있",
+				"VA",
+				"아무리 친한 사람이라 하더라도 그 사람에게도 가족이 있을 것이므로 언제나 내 곁에서 내 말을 들어주기에는 어려운 점이 있습니다."
+			],
+			[
+				3,
+				"어렵",
+				"VA",
+				"아무리 친한 사람이라 하더라도 그 사람에게도 가족이 있을 것이므로 언제나 내 곁에서 내 말을 들어주기에는 어려운 점이 있습니다."
+			],
+			[
+				4,
+				"있",
+				"VA",
+				"아무리 친한 사람이라 하더라도 그 사람에게도 가족이 있을 것이므로 언제나 내 곁에서 내 말을 들어주기에는 어려운 점이 있습니다."
+			],
+			[
+				5,
+				"다르",
+				"VA",
+				"하지만 가족은 다르다고 생각합니다."
+			],
+			[
+				6,
+				"자연스럽",
+				"VA",
+				"제가 태어났을 때부터 가족과는 자연스럽게 만나고 자연스럽게 성장하면서 '안락함', '편안함' 이라는 감정을 느낄 수 있었을 것입니다."
+			],
+			[
+				7,
+				"자연스럽",
+				"VA",
+				"제가 태어났을 때부터 가족과는 자연스럽게 만나고 자연스럽게 성장하면서 '안락함', '편안함' 이라는 감정을 느낄 수 있었을 것입니다."
+			],
+			[
+				8,
+				"있",
+				"VA",
+				"제가 태어났을 때부터 가족과는 자연스럽게 만나고 자연스럽게 성장하면서 '안락함', '편안함' 이라는 감정을 느낄 수 있었을 것입니다."
+			],
+			[
+				9,
+				"편안하",
+				"VA",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				10,
+				"있",
+				"VA",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				11,
+				"그렇",
+				"VA",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			]
+		],
+		"VX_Lst": [
+			[
+				0,
+				"주",
+				"VX",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				1,
+				"하",
+				"VX",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			]
+		],
+		"VCP_Lst": [
+			[
+				0,
+				"이",
+				"VCP",
+				"저는 가족이 저의 멘토라고 생각합니다."
+			],
+			[
+				1,
+				"이",
+				"VCP",
+				"왜냐하면 가족은 저와 함께 공감할 수 있는 존재라고 생각하기 때문입니다."
+			],
+			[
+				2,
+				"이",
+				"VCP",
+				"왜냐하면 가족은 저와 함께 공감할 수 있는 존재라고 생각하기 때문입니다."
+			],
+			[
+				3,
+				"이",
+				"VCP",
+				"아무리 친한 사람이라 하더라도 그 사람에게도 가족이 있을 것이므로 언제나 내 곁에서 내 말을 들어주기에는 어려운 점이 있습니다."
+			],
+			[
+				4,
+				"이",
+				"VCP",
+				"아무리 친한 사람이라 하더라도 그 사람에게도 가족이 있을 것이므로 언제나 내 곁에서 내 말을 들어주기에는 어려운 점이 있습니다."
+			],
+			[
+				5,
+				"이",
+				"VCP",
+				"제가 태어났을 때부터 가족과는 자연스럽게 만나고 자연스럽게 성장하면서 '안락함', '편안함' 이라는 감정을 느낄 수 있었을 것입니다."
+			],
+			[
+				6,
+				"이",
+				"VCP",
+				"제가 태어났을 때부터 가족과는 자연스럽게 만나고 자연스럽게 성장하면서 '안락함', '편안함' 이라는 감정을 느낄 수 있었을 것입니다."
+			],
+			[
+				7,
+				"이",
+				"VCP",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				8,
+				"이",
+				"VCP",
+				"따라서 저는 가족이 저의 멘토라고 생각합니다."
+			]
+		],
+		"VCN_Lst": [],
+		"ML_Lst": [
+			[
+				0,
+				"왜냐하면",
+				"MAG",
+				"왜냐하면 가족은 저와 함께 공감할 수 있는 존재라고 생각하기 때문입니다."
+			],
+			[
+				1,
+				"함께",
+				"MAG",
+				"왜냐하면 가족은 저와 함께 공감할 수 있는 존재라고 생각하기 때문입니다."
+			],
+			[
+				2,
+				"아무리",
+				"MAG",
+				"아무리 친한 사람이라 하더라도 그 사람에게도 가족이 있을 것이므로 언제나 내 곁에서 내 말을 들어주기에는 어려운 점이 있습니다."
+			],
+			[
+				3,
+				"언제나",
+				"MAG",
+				"아무리 친한 사람이라 하더라도 그 사람에게도 가족이 있을 것이므로 언제나 내 곁에서 내 말을 들어주기에는 어려운 점이 있습니다."
+			],
+			[
+				4,
+				"하지만",
+				"MAJ",
+				"하지만 가족은 다르다고 생각합니다."
+			],
+			[
+				5,
+				"때로",
+				"MAG",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				6,
+				"더욱",
+				"MAG",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				7,
+				"따라서",
+				"MAJ",
+				"따라서 저는 가족이 저의 멘토라고 생각합니다."
+			]
+		],
+		"MA_Lst": [],
+		"MM_Lst": [],
+		"J_Lst": [
+			[
+				0,
+				"는",
+				"JX",
+				"저는 가족이 저의 멘토라고 생각합니다."
+			],
+			[
+				1,
+				"이",
+				"JKS",
+				"저는 가족이 저의 멘토라고 생각합니다."
+			],
+			[
+				2,
+				"의",
+				"JKG",
+				"저는 가족이 저의 멘토라고 생각합니다."
+			],
+			[
+				3,
+				"은",
+				"JX",
+				"왜냐하면 가족은 저와 함께 공감할 수 있는 존재라고 생각하기 때문입니다."
+			],
+			[
+				4,
+				"와",
+				"JKB",
+				"왜냐하면 가족은 저와 함께 공감할 수 있는 존재라고 생각하기 때문입니다."
+			],
+			[
+				5,
+				"에게",
+				"JKB",
+				"아무리 친한 사람이라 하더라도 그 사람에게도 가족이 있을 것이므로 언제나 내 곁에서 내 말을 들어주기에는 어려운 점이 있습니다."
+			],
+			[
+				6,
+				"도",
+				"JX",
+				"아무리 친한 사람이라 하더라도 그 사람에게도 가족이 있을 것이므로 언제나 내 곁에서 내 말을 들어주기에는 어려운 점이 있습니다."
+			],
+			[
+				7,
+				"이",
+				"JKS",
+				"아무리 친한 사람이라 하더라도 그 사람에게도 가족이 있을 것이므로 언제나 내 곁에서 내 말을 들어주기에는 어려운 점이 있습니다."
+			],
+			[
+				8,
+				"의",
+				"JKG",
+				"아무리 친한 사람이라 하더라도 그 사람에게도 가족이 있을 것이므로 언제나 내 곁에서 내 말을 들어주기에는 어려운 점이 있습니다."
+			],
+			[
+				9,
+				"에서",
+				"JKB",
+				"아무리 친한 사람이라 하더라도 그 사람에게도 가족이 있을 것이므로 언제나 내 곁에서 내 말을 들어주기에는 어려운 점이 있습니다."
+			],
+			[
+				10,
+				"의",
+				"JKG",
+				"아무리 친한 사람이라 하더라도 그 사람에게도 가족이 있을 것이므로 언제나 내 곁에서 내 말을 들어주기에는 어려운 점이 있습니다."
+			],
+			[
+				11,
+				"을",
+				"JKO",
+				"아무리 친한 사람이라 하더라도 그 사람에게도 가족이 있을 것이므로 언제나 내 곁에서 내 말을 들어주기에는 어려운 점이 있습니다."
+			],
+			[
+				12,
+				"에",
+				"JKB",
+				"아무리 친한 사람이라 하더라도 그 사람에게도 가족이 있을 것이므로 언제나 내 곁에서 내 말을 들어주기에는 어려운 점이 있습니다."
+			],
+			[
+				13,
+				"는",
+				"JX",
+				"아무리 친한 사람이라 하더라도 그 사람에게도 가족이 있을 것이므로 언제나 내 곁에서 내 말을 들어주기에는 어려운 점이 있습니다."
+			],
+			[
+				14,
+				"이",
+				"JKS",
+				"아무리 친한 사람이라 하더라도 그 사람에게도 가족이 있을 것이므로 언제나 내 곁에서 내 말을 들어주기에는 어려운 점이 있습니다."
+			],
+			[
+				15,
+				"은",
+				"JX",
+				"하지만 가족은 다르다고 생각합니다."
+			],
+			[
+				16,
+				"가",
+				"JKS",
+				"제가 태어났을 때부터 가족과는 자연스럽게 만나고 자연스럽게 성장하면서 '안락함', '편안함' 이라는 감정을 느낄 수 있었을 것입니다."
+			],
+			[
+				17,
+				"부터",
+				"JX",
+				"제가 태어났을 때부터 가족과는 자연스럽게 만나고 자연스럽게 성장하면서 '안락함', '편안함' 이라는 감정을 느낄 수 있었을 것입니다."
+			],
+			[
+				18,
+				"과",
+				"JKB",
+				"제가 태어났을 때부터 가족과는 자연스럽게 만나고 자연스럽게 성장하면서 '안락함', '편안함' 이라는 감정을 느낄 수 있었을 것입니다."
+			],
+			[
+				19,
+				"는",
+				"JX",
+				"제가 태어났을 때부터 가족과는 자연스럽게 만나고 자연스럽게 성장하면서 '안락함', '편안함' 이라는 감정을 느낄 수 있었을 것입니다."
+			],
+			[
+				20,
+				"을",
+				"JKO",
+				"제가 태어났을 때부터 가족과는 자연스럽게 만나고 자연스럽게 성장하면서 '안락함', '편안함' 이라는 감정을 느낄 수 있었을 것입니다."
+			],
+			[
+				21,
+				"에서",
+				"JKB",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				22,
+				"은",
+				"JX",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				23,
+				"보다",
+				"JKB",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				24,
+				"도",
+				"JX",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				25,
+				"으로",
+				"JKB",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				26,
+				"의",
+				"JKG",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				27,
+				"을",
+				"JKO",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				28,
+				"도",
+				"JX",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				29,
+				"는",
+				"JX",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				30,
+				"가",
+				"JKS",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				31,
+				"을",
+				"JKO",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				32,
+				"를",
+				"JKO",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				33,
+				"는",
+				"JX",
+				"따라서 저는 가족이 저의 멘토라고 생각합니다."
+			],
+			[
+				34,
+				"이",
+				"JKS",
+				"따라서 저는 가족이 저의 멘토라고 생각합니다."
+			],
+			[
+				35,
+				"의",
+				"JKG",
+				"따라서 저는 가족이 저의 멘토라고 생각합니다."
+			]
+		],
+		"E_Lst": [
+			[
+				0,
+				"라고",
+				"EC",
+				"저는 가족이 저의 멘토라고 생각합니다."
+			],
+			[
+				1,
+				"ㅂ니다",
+				"EF",
+				"저는 가족이 저의 멘토라고 생각합니다."
+			],
+			[
+				2,
+				"ㄹ",
+				"ETM",
+				"왜냐하면 가족은 저와 함께 공감할 수 있는 존재라고 생각하기 때문입니다."
+			],
+			[
+				3,
+				"는",
+				"ETM",
+				"왜냐하면 가족은 저와 함께 공감할 수 있는 존재라고 생각하기 때문입니다."
+			],
+			[
+				4,
+				"라고",
+				"EC",
+				"왜냐하면 가족은 저와 함께 공감할 수 있는 존재라고 생각하기 때문입니다."
+			],
+			[
+				5,
+				"기",
+				"ETN",
+				"왜냐하면 가족은 저와 함께 공감할 수 있는 존재라고 생각하기 때문입니다."
+			],
+			[
+				6,
+				"ㅂ니다",
+				"EF",
+				"왜냐하면 가족은 저와 함께 공감할 수 있는 존재라고 생각하기 때문입니다."
+			],
+			[
+				7,
+				"ㄴ",
+				"ETM",
+				"아무리 친한 사람이라 하더라도 그 사람에게도 가족이 있을 것이므로 언제나 내 곁에서 내 말을 들어주기에는 어려운 점이 있습니다."
+			],
+			[
+				8,
+				"라",
+				"EC",
+				"아무리 친한 사람이라 하더라도 그 사람에게도 가족이 있을 것이므로 언제나 내 곁에서 내 말을 들어주기에는 어려운 점이 있습니다."
+			],
+			[
+				9,
+				"더라도",
+				"EC",
+				"아무리 친한 사람이라 하더라도 그 사람에게도 가족이 있을 것이므로 언제나 내 곁에서 내 말을 들어주기에는 어려운 점이 있습니다."
+			],
+			[
+				10,
+				"을",
+				"ETM",
+				"아무리 친한 사람이라 하더라도 그 사람에게도 가족이 있을 것이므로 언제나 내 곁에서 내 말을 들어주기에는 어려운 점이 있습니다."
+			],
+			[
+				11,
+				"므로",
+				"EC",
+				"아무리 친한 사람이라 하더라도 그 사람에게도 가족이 있을 것이므로 언제나 내 곁에서 내 말을 들어주기에는 어려운 점이 있습니다."
+			],
+			[
+				12,
+				"기",
+				"ETN",
+				"아무리 친한 사람이라 하더라도 그 사람에게도 가족이 있을 것이므로 언제나 내 곁에서 내 말을 들어주기에는 어려운 점이 있습니다."
+			],
+			[
+				13,
+				"ㄴ",
+				"ETM",
+				"아무리 친한 사람이라 하더라도 그 사람에게도 가족이 있을 것이므로 언제나 내 곁에서 내 말을 들어주기에는 어려운 점이 있습니다."
+			],
+			[
+				14,
+				"습니다",
+				"EF",
+				"아무리 친한 사람이라 하더라도 그 사람에게도 가족이 있을 것이므로 언제나 내 곁에서 내 말을 들어주기에는 어려운 점이 있습니다."
+			],
+			[
+				15,
+				"다고",
+				"EC",
+				"하지만 가족은 다르다고 생각합니다."
+			],
+			[
+				16,
+				"ㅂ니다",
+				"EF",
+				"하지만 가족은 다르다고 생각합니다."
+			],
+			[
+				17,
+				"았",
+				"EP",
+				"제가 태어났을 때부터 가족과는 자연스럽게 만나고 자연스럽게 성장하면서 '안락함', '편안함' 이라는 감정을 느낄 수 있었을 것입니다."
+			],
+			[
+				18,
+				"을",
+				"ETM",
+				"제가 태어났을 때부터 가족과는 자연스럽게 만나고 자연스럽게 성장하면서 '안락함', '편안함' 이라는 감정을 느낄 수 있었을 것입니다."
+			],
+			[
+				19,
+				"게",
+				"EC",
+				"제가 태어났을 때부터 가족과는 자연스럽게 만나고 자연스럽게 성장하면서 '안락함', '편안함' 이라는 감정을 느낄 수 있었을 것입니다."
+			],
+			[
+				20,
+				"고",
+				"EC",
+				"제가 태어났을 때부터 가족과는 자연스럽게 만나고 자연스럽게 성장하면서 '안락함', '편안함' 이라는 감정을 느낄 수 있었을 것입니다."
+			],
+			[
+				21,
+				"게",
+				"EC",
+				"제가 태어났을 때부터 가족과는 자연스럽게 만나고 자연스럽게 성장하면서 '안락함', '편안함' 이라는 감정을 느낄 수 있었을 것입니다."
+			],
+			[
+				22,
+				"면서",
+				"EC",
+				"제가 태어났을 때부터 가족과는 자연스럽게 만나고 자연스럽게 성장하면서 '안락함', '편안함' 이라는 감정을 느낄 수 있었을 것입니다."
+			],
+			[
+				23,
+				"ㅁ",
+				"ETN",
+				"제가 태어났을 때부터 가족과는 자연스럽게 만나고 자연스럽게 성장하면서 '안락함', '편안함' 이라는 감정을 느낄 수 있었을 것입니다."
+			],
+			[
+				24,
+				"ㅁ",
+				"ETN",
+				"제가 태어났을 때부터 가족과는 자연스럽게 만나고 자연스럽게 성장하면서 '안락함', '편안함' 이라는 감정을 느낄 수 있었을 것입니다."
+			],
+			[
+				25,
+				"라는",
+				"ETM",
+				"제가 태어났을 때부터 가족과는 자연스럽게 만나고 자연스럽게 성장하면서 '안락함', '편안함' 이라는 감정을 느낄 수 있었을 것입니다."
+			],
+			[
+				26,
+				"ㄹ",
+				"ETM",
+				"제가 태어났을 때부터 가족과는 자연스럽게 만나고 자연스럽게 성장하면서 '안락함', '편안함' 이라는 감정을 느낄 수 있었을 것입니다."
+			],
+			[
+				27,
+				"었",
+				"EP",
+				"제가 태어났을 때부터 가족과는 자연스럽게 만나고 자연스럽게 성장하면서 '안락함', '편안함' 이라는 감정을 느낄 수 있었을 것입니다."
+			],
+			[
+				28,
+				"을",
+				"ETM",
+				"제가 태어났을 때부터 가족과는 자연스럽게 만나고 자연스럽게 성장하면서 '안락함', '편안함' 이라는 감정을 느낄 수 있었을 것입니다."
+			],
+			[
+				29,
+				"ㅂ니다",
+				"EF",
+				"제가 태어났을 때부터 가족과는 자연스럽게 만나고 자연스럽게 성장하면서 '안락함', '편안함' 이라는 감정을 느낄 수 있었을 것입니다."
+			],
+			[
+				30,
+				"ㄴ",
+				"ETM",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				31,
+				"고",
+				"EC",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				32,
+				"아",
+				"EC",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				33,
+				"기",
+				"ETN",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				34,
+				"고",
+				"EC",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				35,
+				"았",
+				"EP",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				36,
+				"던",
+				"ETM",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				37,
+				"게",
+				"EC",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				38,
+				"아",
+				"EC",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				39,
+				"ㄹ",
+				"ETM",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				40,
+				"는",
+				"ETM",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				41,
+				"기에",
+				"EC",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				42,
+				"게",
+				"EC",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				43,
+				"ㅂ니다",
+				"EF",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			],
+			[
+				44,
+				"라고",
+				"EC",
+				"따라서 저는 가족이 저의 멘토라고 생각합니다."
+			],
+			[
+				45,
+				"ㅂ니다",
+				"EF",
+				"따라서 저는 가족이 저의 멘토라고 생각합니다."
+			]
+		],
+		"X_Lst": [
+			[
+				0,
+				"하",
+				"XSA",
+				"제가 태어났을 때부터 가족과는 자연스럽게 만나고 자연스럽게 성장하면서 '안락함', '편안함' 이라는 감정을 느낄 수 있었을 것입니다."
+			],
+			[
+				1,
+				"하",
+				"XSA",
+				"제가 태어났을 때부터 가족과는 자연스럽게 만나고 자연스럽게 성장하면서 '안락함', '편안함' 이라는 감정을 느낄 수 있었을 것입니다."
+			],
+			[
+				2,
+				"들",
+				"XSN",
+				"그런 점에서 가족은 다른 존재들보다도 편안한 다음으로 나의 감정을 공유하고 공감하여 주기도 하고, 때로는 제가 몰랐던 점을 깨닫게 하여 저를 더욱 성장시킬수 있는 존재이기에 그렇게 생각합니다."
+			]
+		],
+		"IC_Lst": []
+	},
+	"NDW": {
+		"morph_NDW": 95,
+		"NL_NDW": 42,
+		"NNG_NDW": 24,
+		"NNP_NDW": 0,
+		"NNB_NDW": 7,
+		"NP_NDW": 11,
+		"NR_NDW": 0,
+		"VL_NDW": 41,
+		"VV_NDW": 18,
+		"VA_NDW": 12,
+		"ML_NDW": 8,
+		"MM_NDW": 0,
+		"IC_NDW": 0,
+		"J_NDW": 36,
+		"E_NDW": 46,
+		"X_NDW": 3,
+		"CL_NDW": 91,
+		"FL_NDW": 85
+	}
+}

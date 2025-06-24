@@ -1,0 +1,3022 @@
+﻿{
+	"morpheme": {
+		"sentences": [
+			{
+				"text": {
+					"content": "우주 밖에는 뭐가 있을까요?",
+					"length": 15,
+					"beginOffset": 0
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "우주",
+							"length": 2,
+							"beginOffset": 0
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "우주",
+									"length": 2,
+									"beginOffset": 0
+								},
+								"tag": "NNG",
+								"probability": 0.972652,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "우주",
+						"tagged": "우주/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "밖에는",
+							"beginOffset": 3,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "밖",
+									"beginOffset": 3,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9781544,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 4,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.98904514,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 5,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9979696,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "밖",
+						"tagged": "밖/NNG+에/JKB+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "뭐가",
+							"beginOffset": 7,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "뭐",
+									"beginOffset": 7,
+									"length": 1
+								},
+								"tag": "NP",
+								"probability": 0.9836402,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 8,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.98672235,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "뭐",
+						"tagged": "뭐/NP+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있을까요?",
+							"beginOffset": 10,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 10,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9230544,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을까",
+									"beginOffset": 11,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.9702831,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "요",
+									"beginOffset": 13,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9978186,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "?",
+									"beginOffset": 14,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99976045,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VA+을까/EF+요/JX+?/SF",
+						"modified": ""
+					}
+				],
+				"refined": "우주 밖에는 뭐가 있을까요?"
+			},
+			{
+				"text": {
+					"content": "앞에서 이야기한 빅뱅 이론에 의하면 우주는 시간도 공간도 없는 진정으로 아무 것도 없는 곳에서 탄생하여 지금과 같이 커졌다고 했습니다.",
+					"beginOffset": 16,
+					"length": 75
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "앞에서",
+							"beginOffset": 16,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "앞",
+									"beginOffset": 16,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9770004,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에서",
+									"beginOffset": 17,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.99320215,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "앞",
+						"tagged": "앞/NNG+에서/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이야기한",
+							"beginOffset": 20,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이야기하",
+									"beginOffset": 20,
+									"length": 4
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 23,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99996567,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이야기하",
+						"tagged": "이야기하/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "빅뱅",
+							"beginOffset": 25,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "빅뱅",
+									"beginOffset": 25,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9542477,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "빅뱅",
+						"tagged": "빅뱅/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이론에",
+							"beginOffset": 28,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이론",
+									"beginOffset": 28,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9797884,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 30,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99701554,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이론",
+						"tagged": "이론/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "의하면",
+							"beginOffset": 32,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "의하",
+									"beginOffset": 32,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.98516905,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "면",
+									"beginOffset": 34,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99457127,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "의하",
+						"tagged": "의하/VV+면/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "우주는",
+							"beginOffset": 36,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "우주",
+									"beginOffset": 36,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.986728,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 38,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9982716,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "우주",
+						"tagged": "우주/NNG+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "시간도",
+							"beginOffset": 40,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "시간",
+									"beginOffset": 40,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97704905,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 42,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99863285,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "시간",
+						"tagged": "시간/NNG+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "공간도",
+							"beginOffset": 44,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "공간",
+									"beginOffset": 44,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9834403,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 46,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99939275,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "공간",
+						"tagged": "공간/NNG+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "없는",
+							"beginOffset": 48,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "없",
+									"beginOffset": 48,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9870897,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 49,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999041,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "없",
+						"tagged": "없/VA+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "진정으로",
+							"beginOffset": 51,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "진정",
+									"beginOffset": 51,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9771199,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으로",
+									"beginOffset": 53,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.99647784,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "진정",
+						"tagged": "진정/NNG+으로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "아무",
+							"beginOffset": 56,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "아무",
+									"beginOffset": 56,
+									"length": 2
+								},
+								"tag": "MMD",
+								"probability": 0.9993168,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "아무",
+						"tagged": "아무/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "것도",
+							"beginOffset": 59,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "것",
+									"beginOffset": 59,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9779913,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 60,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9994588,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "것",
+						"tagged": "것/NNB+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "없는",
+							"beginOffset": 62,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "없",
+									"beginOffset": 62,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9878018,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 63,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99995136,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "없",
+						"tagged": "없/VA+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "곳에서",
+							"beginOffset": 65,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "곳",
+									"beginOffset": 65,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9658377,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에서",
+									"beginOffset": 66,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9918539,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "곳",
+						"tagged": "곳/NNG+에서/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "탄생하여",
+							"beginOffset": 69,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "탄생하",
+									"beginOffset": 69,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 72,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.96044064,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "탄생하",
+						"tagged": "탄생하/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "지금과",
+							"beginOffset": 74,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "지금",
+									"beginOffset": 74,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.985829,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "과",
+									"beginOffset": 76,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.8743996,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "지금",
+						"tagged": "지금/NNG+과/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "같이",
+							"beginOffset": 78,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "같이",
+									"beginOffset": 78,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9925584,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "같이",
+						"tagged": "같이/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "커졌다고",
+							"beginOffset": 81,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "커지",
+									"beginOffset": 81,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9857272,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 82,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99997807,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다고",
+									"beginOffset": 83,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.994462,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "커지",
+						"tagged": "커지/VV+었/EP+다고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "했습니다.",
+							"beginOffset": 86,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 86,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.7599005,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 86,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9999009,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "습니다",
+									"beginOffset": 87,
+									"length": 3
+								},
+								"tag": "EF",
+								"probability": 0.9860409,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 90,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99981284,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VV+았/EP+습니다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "앞에서 이야기한 빅뱅 이론에 의하면 우주는 시간도 공간도 없는 진정으로 아무 것도 없는 곳에서 탄생하여 지금과 같이 커졌다고 했습니다."
+			},
+			{
+				"text": {
+					"content": "그렇다면 우주 밖에는 빅뱅 이전과 같이 시간도 공간도 없다고 해야 맞을 것입니다.",
+					"beginOffset": 92,
+					"length": 45
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "그렇다면",
+							"beginOffset": 92,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그렇",
+									"beginOffset": 92,
+									"length": 2
+								},
+								"tag": "VA",
+								"probability": 0.9866152,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다면",
+									"beginOffset": 94,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9923311,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그렇",
+						"tagged": "그렇/VA+다면/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "우주",
+							"beginOffset": 97,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "우주",
+									"beginOffset": 97,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98599285,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "우주",
+						"tagged": "우주/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "밖에는",
+							"beginOffset": 100,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "밖",
+									"beginOffset": 100,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.98519087,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 101,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9963328,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 102,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9984546,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "밖",
+						"tagged": "밖/NNG+에/JKB+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "빅뱅",
+							"beginOffset": 104,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "빅뱅",
+									"beginOffset": 104,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9573706,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "빅뱅",
+						"tagged": "빅뱅/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이전과",
+							"beginOffset": 107,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이전",
+									"beginOffset": 107,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9621091,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "과",
+									"beginOffset": 109,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9296446,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이전",
+						"tagged": "이전/NNG+과/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "같이",
+							"beginOffset": 111,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "같이",
+									"beginOffset": 111,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.99021775,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "같이",
+						"tagged": "같이/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "시간도",
+							"beginOffset": 114,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "시간",
+									"beginOffset": 114,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9775902,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 116,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9994761,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "시간",
+						"tagged": "시간/NNG+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "공간도",
+							"beginOffset": 118,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "공간",
+									"beginOffset": 118,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98330474,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 120,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99930894,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "공간",
+						"tagged": "공간/NNG+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "없다고",
+							"beginOffset": 122,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "없",
+									"beginOffset": 122,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9890907,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다고",
+									"beginOffset": 123,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99504834,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "없",
+						"tagged": "없/VA+다고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "해야",
+							"beginOffset": 126,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 126,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.86055523,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아야",
+									"beginOffset": 126,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99407077,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VV+아야/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "맞을",
+							"beginOffset": 129,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "맞",
+									"beginOffset": 129,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9662785,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 130,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999884,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "맞",
+						"tagged": "맞/VV+을/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "것입니다.",
+							"beginOffset": 132,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "것",
+									"beginOffset": 132,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9815754,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 133,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.9996436,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㅂ니다",
+									"beginOffset": 133,
+									"length": 3
+								},
+								"tag": "EF",
+								"probability": 0.9921816,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 136,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99896866,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "것",
+						"tagged": "것/NNB+이/VCP+ㅂ니다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "그렇다면 우주 밖에는 빅뱅 이전과 같이 시간도 공간도 없다고 해야 맞을 것입니다."
+			},
+			{
+				"text": {
+					"content": "그러나 우리 우주조차도 완벽하게 모르고 있는 상황에서 우주 밖을 안다는 것은 불가능한 일이 아닐까 생각됩니다.",
+					"beginOffset": 138,
+					"length": 61
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "그러나",
+							"beginOffset": 138,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그러나",
+									"beginOffset": 138,
+									"length": 3
+								},
+								"tag": "MAJ",
+								"probability": 0.99795264,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그러나",
+						"tagged": "그러나/MAJ",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "우리",
+							"beginOffset": 142,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "우리",
+									"beginOffset": 142,
+									"length": 2
+								},
+								"tag": "NP",
+								"probability": 0.9833633,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "우리",
+						"tagged": "우리/NP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "우주조차도",
+							"beginOffset": 145,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "우주",
+									"beginOffset": 145,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98398024,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "조차",
+									"beginOffset": 147,
+									"length": 2
+								},
+								"tag": "JX",
+								"probability": 0.9965451,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 149,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9977269,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "우주",
+						"tagged": "우주/NNG+조차/JX+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "완벽하게",
+							"beginOffset": 151,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "완벽하",
+									"beginOffset": 151,
+									"length": 3
+								},
+								"tag": "VA",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "게",
+									"beginOffset": 154,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9912656,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "완벽하",
+						"tagged": "완벽하/VA+게/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "모르고",
+							"beginOffset": 156,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "모르",
+									"beginOffset": 156,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9905203,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 158,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9942497,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "모르",
+						"tagged": "모르/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있는",
+							"beginOffset": 160,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 160,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.9668802,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 161,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999865,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VX+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "상황에서",
+							"beginOffset": 163,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "상황",
+									"beginOffset": 163,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9814687,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에서",
+									"beginOffset": 165,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.99459594,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "상황",
+						"tagged": "상황/NNG+에서/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "우주",
+							"beginOffset": 168,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "우주",
+									"beginOffset": 168,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9852574,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "우주",
+						"tagged": "우주/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "밖을",
+							"beginOffset": 171,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "밖",
+									"beginOffset": 171,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.98386663,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 172,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999262,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "밖",
+						"tagged": "밖/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "안다는",
+							"beginOffset": 174,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "알",
+									"beginOffset": 174,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.99000084,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ다는",
+									"beginOffset": 174,
+									"length": 3
+								},
+								"tag": "ETM",
+								"probability": 0.9999962,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "알",
+						"tagged": "알/VV+ㄴ다는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "것은",
+							"beginOffset": 178,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "것",
+									"beginOffset": 178,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9807669,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 179,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99916536,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "것",
+						"tagged": "것/NNB+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "불가능한",
+							"beginOffset": 181,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "불가능하",
+									"beginOffset": 181,
+									"length": 4
+								},
+								"tag": "VA",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 184,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999425,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "불가능하",
+						"tagged": "불가능하/VA+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "일이",
+							"beginOffset": 186,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "일",
+									"beginOffset": 186,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9680511,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 187,
+									"length": 1
+								},
+								"tag": "JKC",
+								"probability": 0.7588218,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "일",
+						"tagged": "일/NNG+이/JKC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "아닐까",
+							"beginOffset": 189,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "아니",
+									"beginOffset": 189,
+									"length": 2
+								},
+								"tag": "VCN",
+								"probability": 0.99999183,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ까",
+									"beginOffset": 190,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.94045556,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "아니",
+						"tagged": "아니/VCN+ㄹ까/EF",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "생각됩니다.",
+							"beginOffset": 193,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "생각되",
+									"beginOffset": 193,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㅂ니다",
+									"beginOffset": 195,
+									"length": 3
+								},
+								"tag": "EF",
+								"probability": 0.990804,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 198,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99954337,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "생각되",
+						"tagged": "생각되/VV+ㅂ니다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "그러나 우리 우주조차도 완벽하게 모르고 있는 상황에서 우주 밖을 안다는 것은 불가능한 일이 아닐까 생각됩니다."
+			}
+		],
+		"language": "ko_KR"
+	},
+	"ttr": {
+		"lemma_Cnt": 97,
+		"lemma_TTR": 0.6237623762376238,
+		"CL_TTR": 0.68,
+		"NL_TTR": 0.5925925925925926,
+		"NN_TTR": 0.56,
+		"NNG_TTR": 0.5909090909090909,
+		"NNP_TTR": 0,
+		"NNB_TTR": 0.3333333333333333,
+		"NP_TTR": 1.0,
+		"NR_TTR": 0,
+		"VL_TTR": 0.8,
+		"VV_TTR": 0.9,
+		"VA_TTR": 0.7142857142857143,
+		"ML_TTR": 0.6666666666666666,
+		"MM_TTR": 0,
+		"MA_TTR": 0.6666666666666666,
+		"MAJ_TTR": 1.0,
+		"IC_TTR": 0,
+		"FL_TTR": 0.5869565217391305,
+		"J_TTR": 0.5,
+		"E_TTR": 0.7727272727272727,
+		"X_TTR": 0,
+		"lemma_RTTR": 6.268734298322932,
+		"CL_RTTR": 4.808326112068523,
+		"NL_RTTR": 3.079201435678004,
+		"NN_RTTR": 2.8,
+		"NNG_RTTR": 2.7716093126229358,
+		"NNP_RTTR": 0,
+		"NNB_RTTR": 0.5773502691896258,
+		"NP_RTTR": 1.414213562373095,
+		"NR_RTTR": 0,
+		"VL_RTTR": 3.5777087639996634,
+		"VV_RTTR": 2.846049894151541,
+		"VA_RTTR": 1.889822365046136,
+		"ML_RTTR": 1.1547005383792517,
+		"MM_RTTR": 0,
+		"MA_RTTR": 1.1547005383792517,
+		"MAJ_RTTR": 1.0,
+		"IC_RTTR": 0,
+		"FL_RTTR": 3.9809328161822224,
+		"J_RTTR": 2.4494897427831783,
+		"E_RTTR": 3.624412178045377,
+		"X_RTTR": 0,
+		"lemma_CTTR": 4.432664531800839,
+		"CL_CTTR": 3.4,
+		"NL_CTTR": 2.1773242158072694,
+		"NN_CTTR": 1.979898987322333,
+		"NNG_CTTR": 1.9598237397554636,
+		"NNP_CTTR": 0,
+		"NNB_CTTR": 0.4082482904638631,
+		"NP_CTTR": 1.0,
+		"NR_CTTR": 0,
+		"VL_CTTR": 2.5298221281347035,
+		"VV_CTTR": 2.0124611797498106,
+		"VA_CTTR": 1.3363062095621219,
+		"ML_CTTR": 0.8164965809277261,
+		"MM_CTTR": 0,
+		"MA_CTTR": 0.8164965809277261,
+		"MAJ_CTTR": 0.7071067811865475,
+		"IC_CTTR": 0,
+		"FL_CTTR": 2.8149445897705094,
+		"J_CTTR": 1.7320508075688774,
+		"E_CTTR": 2.5628464289109907,
+		"X_CTTR": 0,
+		"lemma_MSTTR": 0.81,
+		"CL_MSTTR": 0.68,
+		"NL_MSTTR": 0.5925925925925926,
+		"NN_MSTTR": 0.56,
+		"NNG_MSTTR": 0.5909090909090909,
+		"NNP_MSTTR": 0,
+		"NNB_MSTTR": 0.3333333333333333,
+		"NP_MSTTR": 1.0,
+		"NR_MSTTR": 0,
+		"VL_MSTTR": 0.8,
+		"VV_MSTTR": 0.9,
+		"VA_MSTTR": 0.7142857142857143,
+		"ML_MSTTR": 0.6666666666666666,
+		"MM_MSTTR": 0,
+		"MA_MSTTR": 0.6666666666666666,
+		"MAJ_MSTTR": 1.0,
+		"IC_MSTTR": 0,
+		"FL_MSTTR": 0.5869565217391305,
+		"J_MSTTR": 0.5,
+		"E_MSTTR": 0.7727272727272727,
+		"X_MSTTR": 0,
+		"lemma_MATTR": 0.7603846153846153,
+		"CL_MATTR": 0.68,
+		"NL_MATTR": 0.5925925925925926,
+		"NN_MATTR": 0.56,
+		"NNG_MATTR": 0.5909090909090909,
+		"NNP_MATTR": 0,
+		"NNB_MATTR": 0.3333333333333333,
+		"NP_MATTR": 1.0,
+		"NR_MATTR": 0,
+		"VL_MATTR": 0.8,
+		"VV_MATTR": 0.9,
+		"VA_MATTR": 0.7142857142857143,
+		"ML_MATTR": 0.6666666666666666,
+		"MM_MATTR": 0,
+		"MA_MATTR": 0.6666666666666666,
+		"MAJ_MATTR": 1.0,
+		"IC_MATTR": 0,
+		"FL_MATTR": 0.5869565217391305,
+		"J_MATTR": 0.5,
+		"E_MATTR": 0.7727272727272727,
+		"X_MATTR": 0,
+		"lemma_MTLD": 62.097053531264066,
+		"CL_MTLD": 43.169398907103826,
+		"NL_MTLD": 17.722592713077425,
+		"NN_MTLD": 16.23680110784144,
+		"NNG_MTLD": 14.500460659664641,
+		"NNP_MTLD": 0.0,
+		"NNB_MTLD": 1.26,
+		"NP_MTLD": 0.0,
+		"NR_MTLD": 0.0,
+		"VL_MTLD": 28.000000000000007,
+		"VV_MTLD": 28.000000000000007,
+		"VA_MTLD": 6.860000000000001,
+		"ML_MTLD": 2.52,
+		"MM_MTLD": 0.0,
+		"MA_MTLD": 2.52,
+		"MAJ_MTLD": 0.0,
+		"IC_MTLD": 0.0,
+		"FL_MTLD": 20.9014598540146,
+		"J_MTLD": 12.0,
+		"E_MTLD": 27.104,
+		"X_MTLD": 0.0,
+		"lemma_VOCDD": 61.18624660137556,
+		"CL_VOCDD": 0,
+		"NL_VOCDD": 0,
+		"NN_VOCDD": 0,
+		"NNG_VOCDD": 0,
+		"NNP_VOCDD": 0,
+		"NNB_VOCDD": 0,
+		"NP_VOCDD": 0,
+		"NR_VOCDD": 0,
+		"VL_VOCDD": 0,
+		"VV_VOCDD": 0,
+		"VA_VOCDD": 0,
+		"ML_VOCDD": 0,
+		"MM_VOCDD": 0,
+		"MA_VOCDD": 0,
+		"MAJ_VOCDD": 0,
+		"IC_VOCDD": 0,
+		"FL_VOCDD": 0,
+		"J_VOCDD": 0,
+		"E_VOCDD": 0,
+		"X_VOCDD": 0,
+		"lemma_HDD": 0.787972675344539,
+		"CL_HDD": 0.7146252210412382,
+		"NL_HDD": 0.0,
+		"NN_HDD": 0.0,
+		"NNG_HDD": 0.0,
+		"NNP_HDD": 0.0,
+		"NNB_HDD": 0.0,
+		"NP_HDD": 0.0,
+		"NR_HDD": 0.0,
+		"VL_HDD": 0.0,
+		"VV_HDD": 0.0,
+		"VA_HDD": 0.0,
+		"ML_HDD": 0.0,
+		"MM_HDD": 0.0,
+		"MA_HDD": 0.0,
+		"MAJ_HDD": 0.0,
+		"IC_HDD": 0.0,
+		"FL_HDD": 0.6048873831482525,
+		"J_HDD": 0.0,
+		"E_HDD": 0.0,
+		"X_HDD": 0.0
+	},
+	"similarity": {
+		"avgSentSimilarity": 0.40795326232910156,
+		"topicConsistency": 0.5346
+	},
+	"adjacency": {
+		"adjacent_sentence_overlap_all_lemmas": 68,
+		"adjacent_sentence_overlap_all_lemmas_normed": 3,
+		"binary_adjacent_sentence_overlap_all_lemmas": 3,
+		"adjacent_two_sentence_overlap_all_lemmas": 38,
+		"adjacent_two_sentence_overlap_all_lemmas_normed": 2,
+		"binary_adjacent_two_sentence_overlap_all_lemmas": 2,
+		"adjacent_sentence_overlap_content_lemmas": 34,
+		"adjacent_sentence_overlap_content_lemmas_normed": 3,
+		"binary_adjacent_sentence_overlap_content_lemmas": 3,
+		"adjacent_two_sentence_overlap_content_lemmas": 19,
+		"adjacent_two_sentence_overlap_content_lemmas_normed": 2,
+		"binary_adjacent_two_sentence_overlap_content_lemmas": 2,
+		"adjacent_sentence_overlap_function_lemmas": 31,
+		"adjacent_sentence_overlap_function_lemmas_normed": 3,
+		"binary_adjacent_sentence_overlap_function_lemmas": 3,
+		"adjacent_two_sentence_overlap_function_lemmas": 17,
+		"adjacent_two_sentence_overlap_function_lemmas_normed": 2,
+		"binary_adjacent_two_sentence_overlap_function_lemmas": 2,
+		"adjacent_sentence_overlap_noun_lemmas": 22,
+		"adjacent_sentence_overlap_noun_lemmas_normed": 3,
+		"binary_adjacent_sentence_overlap_noun_lemmas": 3,
+		"adjacent_two_sentence_overlap_noun_lemmas": 12,
+		"adjacent_two_sentence_overlap_noun_lemmas_normed": 2,
+		"binary_adjacent_two_sentence_overlap_noun_lemmas": 2,
+		"adjacent_sentence_overlap_verb_lemmas": 11,
+		"adjacent_sentence_overlap_verb_lemmas_normed": 3,
+		"binary_adjacent_sentence_overlap_verb_lemmas": 2,
+		"adjacent_two_sentence_overlap_verb_lemmas": 7,
+		"adjacent_two_sentence_overlap_verb_lemmas_normed": 2,
+		"binary_adjacent_two_sentence_overlap_verb_lemmas": 0,
+		"adjacent_sentence_overlap_adjective_lemmas": 6,
+		"adjacent_sentence_overlap_adjective_lemmas_normed": 3,
+		"binary_adjacent_sentence_overlap_adjective_lemmas": 1,
+		"adjacent_two_sentence_overlap_adjective_lemmas": 4,
+		"adjacent_two_sentence_overlap_adjective_lemmas_normed": 2,
+		"binary_adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_sentence_overlap_adverb_lemmas": 1,
+		"adjacent_sentence_overlap_adverb_lemmas_normed": 1,
+		"binary_adjacent_sentence_overlap_adverb_lemmas": 1,
+		"adjacent_two_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adverb_lemmas": 0
+	},
+	"basic_count": {
+		"para_Cnt": 1,
+		"sentence_Cnt": 4,
+		"word_Cnt": 50,
+		"morph_Cnt": 101,
+		"char_Cnt": 158,
+		"CL_Cnt": 50,
+		"NL_Cnt": 27,
+		"NN_Cnt": 25,
+		"NNG_Cnt": 22,
+		"NNP_Cnt": 0,
+		"NNB_Cnt": 3,
+		"NP_Cnt": 2,
+		"NP_People_Cnt": 1,
+		"NP_Things_Cnt": 0,
+		"NR_Cnt": 0,
+		"VL_Cnt": 20,
+		"VV_Cnt": 10,
+		"VA_Cnt": 7,
+		"VX_Cnt": 1,
+		"VCP_Cnt": 1,
+		"VCN_Cnt": 1,
+		"ML_Cnt": 3,
+		"MA_Cnt": 0,
+		"MM_Cnt": 0,
+		"FL_Cnt": 46,
+		"J_Cnt": 24,
+		"E_Cnt": 22,
+		"X_Cnt": 0,
+		"IC_Cnt": 0
+	},
+	"basic_density": {
+		"CL_Den": 0.49504950495049505,
+		"FL_Den": 0.45544554455445546,
+		"NL_Den": 0.24752475247524752,
+		"NNGL_Den": 0.21782178217821782,
+		"NNPL_Den": 0.0,
+		"NNBL_Den": 0.0297029702970297,
+		"NPL_Den": 0.019801980198019802,
+		"NML_Den": 0.0,
+		"VL_Den": 0.19801980198019803,
+		"VVL_Den": 0.09900990099009901,
+		"VAL_Den": 0.06930693069306931,
+		"ML_Den": 0.0297029702970297,
+		"MML_Den": 0.0,
+		"MAL_Den": 0.0,
+		"JL_Den": 0.2376237623762376,
+		"EL_Den": 0.21782178217821782,
+		"XL_Den": 0.0,
+		"ITL_Den": 0.0,
+		"NCL_Den": 0.5,
+		"NNCL_Den": 0.44,
+		"NNGCL_Den": 0.0,
+		"NNBCL_Den": 0.06,
+		"NPCL_Den": 0.04,
+		"NMCL_Den": 0.0,
+		"VCL_Den": 0.4,
+		"VVCL_Den": 0.2,
+		"VACL_Den": 0.14,
+		"MCL_Den": 0.06,
+		"MMCL_Den": 0.0,
+		"MACL_Den": 0.0,
+		"INCL_Den": 0.0,
+		"JFL_Den": 0.5217391304347826,
+		"EFL_Den": 0.4782608695652174,
+		"XFL_Den": 0.0
+	},
+	"basic_level": {
+		"morph_LenAvg": 1.5742574257425743,
+		"morph_LenStd": 0.7222974162312665,
+		"word_LenAvg": 2.92,
+		"word_LenStd": 0.868101376568428
+	},
+	"basic_list": {
+		"NL_Lst": [
+			[
+				0,
+				"우주",
+				"NNG",
+				"우주 밖에는 뭐가 있을까요?"
+			],
+			[
+				1,
+				"밖",
+				"NNG",
+				"우주 밖에는 뭐가 있을까요?"
+			],
+			[
+				2,
+				"뭐",
+				"NP",
+				"우주 밖에는 뭐가 있을까요?"
+			],
+			[
+				3,
+				"앞",
+				"NNG",
+				"앞에서 이야기한 빅뱅 이론에 의하면 우주는 시간도 공간도 없는 진정으로 아무 것도 없는 곳에서 탄생하여 지금과 같이 커졌다고 했습니다."
+			],
+			[
+				4,
+				"빅뱅",
+				"NNG",
+				"앞에서 이야기한 빅뱅 이론에 의하면 우주는 시간도 공간도 없는 진정으로 아무 것도 없는 곳에서 탄생하여 지금과 같이 커졌다고 했습니다."
+			],
+			[
+				5,
+				"이론",
+				"NNG",
+				"앞에서 이야기한 빅뱅 이론에 의하면 우주는 시간도 공간도 없는 진정으로 아무 것도 없는 곳에서 탄생하여 지금과 같이 커졌다고 했습니다."
+			],
+			[
+				6,
+				"우주",
+				"NNG",
+				"앞에서 이야기한 빅뱅 이론에 의하면 우주는 시간도 공간도 없는 진정으로 아무 것도 없는 곳에서 탄생하여 지금과 같이 커졌다고 했습니다."
+			],
+			[
+				7,
+				"시간",
+				"NNG",
+				"앞에서 이야기한 빅뱅 이론에 의하면 우주는 시간도 공간도 없는 진정으로 아무 것도 없는 곳에서 탄생하여 지금과 같이 커졌다고 했습니다."
+			],
+			[
+				8,
+				"공간",
+				"NNG",
+				"앞에서 이야기한 빅뱅 이론에 의하면 우주는 시간도 공간도 없는 진정으로 아무 것도 없는 곳에서 탄생하여 지금과 같이 커졌다고 했습니다."
+			],
+			[
+				9,
+				"진정",
+				"NNG",
+				"앞에서 이야기한 빅뱅 이론에 의하면 우주는 시간도 공간도 없는 진정으로 아무 것도 없는 곳에서 탄생하여 지금과 같이 커졌다고 했습니다."
+			],
+			[
+				10,
+				"것",
+				"NNB",
+				"앞에서 이야기한 빅뱅 이론에 의하면 우주는 시간도 공간도 없는 진정으로 아무 것도 없는 곳에서 탄생하여 지금과 같이 커졌다고 했습니다."
+			],
+			[
+				11,
+				"곳",
+				"NNG",
+				"앞에서 이야기한 빅뱅 이론에 의하면 우주는 시간도 공간도 없는 진정으로 아무 것도 없는 곳에서 탄생하여 지금과 같이 커졌다고 했습니다."
+			],
+			[
+				12,
+				"지금",
+				"NNG",
+				"앞에서 이야기한 빅뱅 이론에 의하면 우주는 시간도 공간도 없는 진정으로 아무 것도 없는 곳에서 탄생하여 지금과 같이 커졌다고 했습니다."
+			],
+			[
+				13,
+				"우주",
+				"NNG",
+				"그렇다면 우주 밖에는 빅뱅 이전과 같이 시간도 공간도 없다고 해야 맞을 것입니다."
+			],
+			[
+				14,
+				"밖",
+				"NNG",
+				"그렇다면 우주 밖에는 빅뱅 이전과 같이 시간도 공간도 없다고 해야 맞을 것입니다."
+			],
+			[
+				15,
+				"빅뱅",
+				"NNG",
+				"그렇다면 우주 밖에는 빅뱅 이전과 같이 시간도 공간도 없다고 해야 맞을 것입니다."
+			],
+			[
+				16,
+				"이전",
+				"NNG",
+				"그렇다면 우주 밖에는 빅뱅 이전과 같이 시간도 공간도 없다고 해야 맞을 것입니다."
+			],
+			[
+				17,
+				"시간",
+				"NNG",
+				"그렇다면 우주 밖에는 빅뱅 이전과 같이 시간도 공간도 없다고 해야 맞을 것입니다."
+			],
+			[
+				18,
+				"공간",
+				"NNG",
+				"그렇다면 우주 밖에는 빅뱅 이전과 같이 시간도 공간도 없다고 해야 맞을 것입니다."
+			],
+			[
+				19,
+				"것",
+				"NNB",
+				"그렇다면 우주 밖에는 빅뱅 이전과 같이 시간도 공간도 없다고 해야 맞을 것입니다."
+			],
+			[
+				20,
+				"우리",
+				"NP",
+				"그러나 우리 우주조차도 완벽하게 모르고 있는 상황에서 우주 밖을 안다는 것은 불가능한 일이 아닐까 생각됩니다."
+			],
+			[
+				21,
+				"우주",
+				"NNG",
+				"그러나 우리 우주조차도 완벽하게 모르고 있는 상황에서 우주 밖을 안다는 것은 불가능한 일이 아닐까 생각됩니다."
+			],
+			[
+				22,
+				"상황",
+				"NNG",
+				"그러나 우리 우주조차도 완벽하게 모르고 있는 상황에서 우주 밖을 안다는 것은 불가능한 일이 아닐까 생각됩니다."
+			],
+			[
+				23,
+				"우주",
+				"NNG",
+				"그러나 우리 우주조차도 완벽하게 모르고 있는 상황에서 우주 밖을 안다는 것은 불가능한 일이 아닐까 생각됩니다."
+			],
+			[
+				24,
+				"밖",
+				"NNG",
+				"그러나 우리 우주조차도 완벽하게 모르고 있는 상황에서 우주 밖을 안다는 것은 불가능한 일이 아닐까 생각됩니다."
+			],
+			[
+				25,
+				"것",
+				"NNB",
+				"그러나 우리 우주조차도 완벽하게 모르고 있는 상황에서 우주 밖을 안다는 것은 불가능한 일이 아닐까 생각됩니다."
+			],
+			[
+				26,
+				"일",
+				"NNG",
+				"그러나 우리 우주조차도 완벽하게 모르고 있는 상황에서 우주 밖을 안다는 것은 불가능한 일이 아닐까 생각됩니다."
+			]
+		],
+		"NN_Lst": [
+			[
+				0,
+				"우주",
+				"NNG",
+				"우주 밖에는 뭐가 있을까요?"
+			],
+			[
+				1,
+				"밖",
+				"NNG",
+				"우주 밖에는 뭐가 있을까요?"
+			],
+			[
+				2,
+				"앞",
+				"NNG",
+				"앞에서 이야기한 빅뱅 이론에 의하면 우주는 시간도 공간도 없는 진정으로 아무 것도 없는 곳에서 탄생하여 지금과 같이 커졌다고 했습니다."
+			],
+			[
+				3,
+				"빅뱅",
+				"NNG",
+				"앞에서 이야기한 빅뱅 이론에 의하면 우주는 시간도 공간도 없는 진정으로 아무 것도 없는 곳에서 탄생하여 지금과 같이 커졌다고 했습니다."
+			],
+			[
+				4,
+				"이론",
+				"NNG",
+				"앞에서 이야기한 빅뱅 이론에 의하면 우주는 시간도 공간도 없는 진정으로 아무 것도 없는 곳에서 탄생하여 지금과 같이 커졌다고 했습니다."
+			],
+			[
+				5,
+				"우주",
+				"NNG",
+				"앞에서 이야기한 빅뱅 이론에 의하면 우주는 시간도 공간도 없는 진정으로 아무 것도 없는 곳에서 탄생하여 지금과 같이 커졌다고 했습니다."
+			],
+			[
+				6,
+				"시간",
+				"NNG",
+				"앞에서 이야기한 빅뱅 이론에 의하면 우주는 시간도 공간도 없는 진정으로 아무 것도 없는 곳에서 탄생하여 지금과 같이 커졌다고 했습니다."
+			],
+			[
+				7,
+				"공간",
+				"NNG",
+				"앞에서 이야기한 빅뱅 이론에 의하면 우주는 시간도 공간도 없는 진정으로 아무 것도 없는 곳에서 탄생하여 지금과 같이 커졌다고 했습니다."
+			],
+			[
+				8,
+				"진정",
+				"NNG",
+				"앞에서 이야기한 빅뱅 이론에 의하면 우주는 시간도 공간도 없는 진정으로 아무 것도 없는 곳에서 탄생하여 지금과 같이 커졌다고 했습니다."
+			],
+			[
+				9,
+				"것",
+				"NNB",
+				"앞에서 이야기한 빅뱅 이론에 의하면 우주는 시간도 공간도 없는 진정으로 아무 것도 없는 곳에서 탄생하여 지금과 같이 커졌다고 했습니다."
+			],
+			[
+				10,
+				"곳",
+				"NNG",
+				"앞에서 이야기한 빅뱅 이론에 의하면 우주는 시간도 공간도 없는 진정으로 아무 것도 없는 곳에서 탄생하여 지금과 같이 커졌다고 했습니다."
+			],
+			[
+				11,
+				"지금",
+				"NNG",
+				"앞에서 이야기한 빅뱅 이론에 의하면 우주는 시간도 공간도 없는 진정으로 아무 것도 없는 곳에서 탄생하여 지금과 같이 커졌다고 했습니다."
+			],
+			[
+				12,
+				"우주",
+				"NNG",
+				"그렇다면 우주 밖에는 빅뱅 이전과 같이 시간도 공간도 없다고 해야 맞을 것입니다."
+			],
+			[
+				13,
+				"밖",
+				"NNG",
+				"그렇다면 우주 밖에는 빅뱅 이전과 같이 시간도 공간도 없다고 해야 맞을 것입니다."
+			],
+			[
+				14,
+				"빅뱅",
+				"NNG",
+				"그렇다면 우주 밖에는 빅뱅 이전과 같이 시간도 공간도 없다고 해야 맞을 것입니다."
+			],
+			[
+				15,
+				"이전",
+				"NNG",
+				"그렇다면 우주 밖에는 빅뱅 이전과 같이 시간도 공간도 없다고 해야 맞을 것입니다."
+			],
+			[
+				16,
+				"시간",
+				"NNG",
+				"그렇다면 우주 밖에는 빅뱅 이전과 같이 시간도 공간도 없다고 해야 맞을 것입니다."
+			],
+			[
+				17,
+				"공간",
+				"NNG",
+				"그렇다면 우주 밖에는 빅뱅 이전과 같이 시간도 공간도 없다고 해야 맞을 것입니다."
+			],
+			[
+				18,
+				"것",
+				"NNB",
+				"그렇다면 우주 밖에는 빅뱅 이전과 같이 시간도 공간도 없다고 해야 맞을 것입니다."
+			],
+			[
+				19,
+				"우주",
+				"NNG",
+				"그러나 우리 우주조차도 완벽하게 모르고 있는 상황에서 우주 밖을 안다는 것은 불가능한 일이 아닐까 생각됩니다."
+			],
+			[
+				20,
+				"상황",
+				"NNG",
+				"그러나 우리 우주조차도 완벽하게 모르고 있는 상황에서 우주 밖을 안다는 것은 불가능한 일이 아닐까 생각됩니다."
+			],
+			[
+				21,
+				"우주",
+				"NNG",
+				"그러나 우리 우주조차도 완벽하게 모르고 있는 상황에서 우주 밖을 안다는 것은 불가능한 일이 아닐까 생각됩니다."
+			],
+			[
+				22,
+				"밖",
+				"NNG",
+				"그러나 우리 우주조차도 완벽하게 모르고 있는 상황에서 우주 밖을 안다는 것은 불가능한 일이 아닐까 생각됩니다."
+			],
+			[
+				23,
+				"것",
+				"NNB",
+				"그러나 우리 우주조차도 완벽하게 모르고 있는 상황에서 우주 밖을 안다는 것은 불가능한 일이 아닐까 생각됩니다."
+			],
+			[
+				24,
+				"일",
+				"NNG",
+				"그러나 우리 우주조차도 완벽하게 모르고 있는 상황에서 우주 밖을 안다는 것은 불가능한 일이 아닐까 생각됩니다."
+			]
+		],
+		"NNG_Lst": [
+			[
+				0,
+				"우주",
+				"NNG",
+				"우주 밖에는 뭐가 있을까요?"
+			],
+			[
+				1,
+				"밖",
+				"NNG",
+				"우주 밖에는 뭐가 있을까요?"
+			],
+			[
+				2,
+				"앞",
+				"NNG",
+				"앞에서 이야기한 빅뱅 이론에 의하면 우주는 시간도 공간도 없는 진정으로 아무 것도 없는 곳에서 탄생하여 지금과 같이 커졌다고 했습니다."
+			],
+			[
+				3,
+				"빅뱅",
+				"NNG",
+				"앞에서 이야기한 빅뱅 이론에 의하면 우주는 시간도 공간도 없는 진정으로 아무 것도 없는 곳에서 탄생하여 지금과 같이 커졌다고 했습니다."
+			],
+			[
+				4,
+				"이론",
+				"NNG",
+				"앞에서 이야기한 빅뱅 이론에 의하면 우주는 시간도 공간도 없는 진정으로 아무 것도 없는 곳에서 탄생하여 지금과 같이 커졌다고 했습니다."
+			],
+			[
+				5,
+				"우주",
+				"NNG",
+				"앞에서 이야기한 빅뱅 이론에 의하면 우주는 시간도 공간도 없는 진정으로 아무 것도 없는 곳에서 탄생하여 지금과 같이 커졌다고 했습니다."
+			],
+			[
+				6,
+				"시간",
+				"NNG",
+				"앞에서 이야기한 빅뱅 이론에 의하면 우주는 시간도 공간도 없는 진정으로 아무 것도 없는 곳에서 탄생하여 지금과 같이 커졌다고 했습니다."
+			],
+			[
+				7,
+				"공간",
+				"NNG",
+				"앞에서 이야기한 빅뱅 이론에 의하면 우주는 시간도 공간도 없는 진정으로 아무 것도 없는 곳에서 탄생하여 지금과 같이 커졌다고 했습니다."
+			],
+			[
+				8,
+				"진정",
+				"NNG",
+				"앞에서 이야기한 빅뱅 이론에 의하면 우주는 시간도 공간도 없는 진정으로 아무 것도 없는 곳에서 탄생하여 지금과 같이 커졌다고 했습니다."
+			],
+			[
+				9,
+				"곳",
+				"NNG",
+				"앞에서 이야기한 빅뱅 이론에 의하면 우주는 시간도 공간도 없는 진정으로 아무 것도 없는 곳에서 탄생하여 지금과 같이 커졌다고 했습니다."
+			],
+			[
+				10,
+				"지금",
+				"NNG",
+				"앞에서 이야기한 빅뱅 이론에 의하면 우주는 시간도 공간도 없는 진정으로 아무 것도 없는 곳에서 탄생하여 지금과 같이 커졌다고 했습니다."
+			],
+			[
+				11,
+				"우주",
+				"NNG",
+				"그렇다면 우주 밖에는 빅뱅 이전과 같이 시간도 공간도 없다고 해야 맞을 것입니다."
+			],
+			[
+				12,
+				"밖",
+				"NNG",
+				"그렇다면 우주 밖에는 빅뱅 이전과 같이 시간도 공간도 없다고 해야 맞을 것입니다."
+			],
+			[
+				13,
+				"빅뱅",
+				"NNG",
+				"그렇다면 우주 밖에는 빅뱅 이전과 같이 시간도 공간도 없다고 해야 맞을 것입니다."
+			],
+			[
+				14,
+				"이전",
+				"NNG",
+				"그렇다면 우주 밖에는 빅뱅 이전과 같이 시간도 공간도 없다고 해야 맞을 것입니다."
+			],
+			[
+				15,
+				"시간",
+				"NNG",
+				"그렇다면 우주 밖에는 빅뱅 이전과 같이 시간도 공간도 없다고 해야 맞을 것입니다."
+			],
+			[
+				16,
+				"공간",
+				"NNG",
+				"그렇다면 우주 밖에는 빅뱅 이전과 같이 시간도 공간도 없다고 해야 맞을 것입니다."
+			],
+			[
+				17,
+				"우주",
+				"NNG",
+				"그러나 우리 우주조차도 완벽하게 모르고 있는 상황에서 우주 밖을 안다는 것은 불가능한 일이 아닐까 생각됩니다."
+			],
+			[
+				18,
+				"상황",
+				"NNG",
+				"그러나 우리 우주조차도 완벽하게 모르고 있는 상황에서 우주 밖을 안다는 것은 불가능한 일이 아닐까 생각됩니다."
+			],
+			[
+				19,
+				"우주",
+				"NNG",
+				"그러나 우리 우주조차도 완벽하게 모르고 있는 상황에서 우주 밖을 안다는 것은 불가능한 일이 아닐까 생각됩니다."
+			],
+			[
+				20,
+				"밖",
+				"NNG",
+				"그러나 우리 우주조차도 완벽하게 모르고 있는 상황에서 우주 밖을 안다는 것은 불가능한 일이 아닐까 생각됩니다."
+			],
+			[
+				21,
+				"일",
+				"NNG",
+				"그러나 우리 우주조차도 완벽하게 모르고 있는 상황에서 우주 밖을 안다는 것은 불가능한 일이 아닐까 생각됩니다."
+			]
+		],
+		"NNP_Lst": [],
+		"NNB_Lst": [
+			[
+				0,
+				"것",
+				"NNB",
+				"앞에서 이야기한 빅뱅 이론에 의하면 우주는 시간도 공간도 없는 진정으로 아무 것도 없는 곳에서 탄생하여 지금과 같이 커졌다고 했습니다."
+			],
+			[
+				1,
+				"것",
+				"NNB",
+				"그렇다면 우주 밖에는 빅뱅 이전과 같이 시간도 공간도 없다고 해야 맞을 것입니다."
+			],
+			[
+				2,
+				"것",
+				"NNB",
+				"그러나 우리 우주조차도 완벽하게 모르고 있는 상황에서 우주 밖을 안다는 것은 불가능한 일이 아닐까 생각됩니다."
+			]
+		],
+		"NP_Lst": [
+			[
+				0,
+				"뭐",
+				"NP",
+				"우주 밖에는 뭐가 있을까요?"
+			],
+			[
+				1,
+				"우리",
+				"NP",
+				"그러나 우리 우주조차도 완벽하게 모르고 있는 상황에서 우주 밖을 안다는 것은 불가능한 일이 아닐까 생각됩니다."
+			]
+		],
+		"NP_People_Lst": [
+			[
+				0,
+				"우리",
+				"NP",
+				"그러나 우리 우주조차도 완벽하게 모르고 있는 상황에서 우주 밖을 안다는 것은 불가능한 일이 아닐까 생각됩니다."
+			]
+		],
+		"NP_Things_Lst": [],
+		"NR_Lst": [],
+		"VL_Lst": [
+			[
+				0,
+				"있",
+				"VA",
+				"우주 밖에는 뭐가 있을까요?"
+			],
+			[
+				1,
+				"이야기하",
+				"VV",
+				"앞에서 이야기한 빅뱅 이론에 의하면 우주는 시간도 공간도 없는 진정으로 아무 것도 없는 곳에서 탄생하여 지금과 같이 커졌다고 했습니다."
+			],
+			[
+				2,
+				"의하",
+				"VV",
+				"앞에서 이야기한 빅뱅 이론에 의하면 우주는 시간도 공간도 없는 진정으로 아무 것도 없는 곳에서 탄생하여 지금과 같이 커졌다고 했습니다."
+			],
+			[
+				3,
+				"없",
+				"VA",
+				"앞에서 이야기한 빅뱅 이론에 의하면 우주는 시간도 공간도 없는 진정으로 아무 것도 없는 곳에서 탄생하여 지금과 같이 커졌다고 했습니다."
+			],
+			[
+				4,
+				"없",
+				"VA",
+				"앞에서 이야기한 빅뱅 이론에 의하면 우주는 시간도 공간도 없는 진정으로 아무 것도 없는 곳에서 탄생하여 지금과 같이 커졌다고 했습니다."
+			],
+			[
+				5,
+				"탄생하",
+				"VV",
+				"앞에서 이야기한 빅뱅 이론에 의하면 우주는 시간도 공간도 없는 진정으로 아무 것도 없는 곳에서 탄생하여 지금과 같이 커졌다고 했습니다."
+			],
+			[
+				6,
+				"커지",
+				"VV",
+				"앞에서 이야기한 빅뱅 이론에 의하면 우주는 시간도 공간도 없는 진정으로 아무 것도 없는 곳에서 탄생하여 지금과 같이 커졌다고 했습니다."
+			],
+			[
+				7,
+				"하",
+				"VV",
+				"앞에서 이야기한 빅뱅 이론에 의하면 우주는 시간도 공간도 없는 진정으로 아무 것도 없는 곳에서 탄생하여 지금과 같이 커졌다고 했습니다."
+			],
+			[
+				8,
+				"그렇",
+				"VA",
+				"그렇다면 우주 밖에는 빅뱅 이전과 같이 시간도 공간도 없다고 해야 맞을 것입니다."
+			],
+			[
+				9,
+				"없",
+				"VA",
+				"그렇다면 우주 밖에는 빅뱅 이전과 같이 시간도 공간도 없다고 해야 맞을 것입니다."
+			],
+			[
+				10,
+				"하",
+				"VV",
+				"그렇다면 우주 밖에는 빅뱅 이전과 같이 시간도 공간도 없다고 해야 맞을 것입니다."
+			],
+			[
+				11,
+				"맞",
+				"VV",
+				"그렇다면 우주 밖에는 빅뱅 이전과 같이 시간도 공간도 없다고 해야 맞을 것입니다."
+			],
+			[
+				12,
+				"이",
+				"VCP",
+				"그렇다면 우주 밖에는 빅뱅 이전과 같이 시간도 공간도 없다고 해야 맞을 것입니다."
+			],
+			[
+				13,
+				"완벽하",
+				"VA",
+				"그러나 우리 우주조차도 완벽하게 모르고 있는 상황에서 우주 밖을 안다는 것은 불가능한 일이 아닐까 생각됩니다."
+			],
+			[
+				14,
+				"모르",
+				"VV",
+				"그러나 우리 우주조차도 완벽하게 모르고 있는 상황에서 우주 밖을 안다는 것은 불가능한 일이 아닐까 생각됩니다."
+			],
+			[
+				15,
+				"있",
+				"VX",
+				"그러나 우리 우주조차도 완벽하게 모르고 있는 상황에서 우주 밖을 안다는 것은 불가능한 일이 아닐까 생각됩니다."
+			],
+			[
+				16,
+				"알",
+				"VV",
+				"그러나 우리 우주조차도 완벽하게 모르고 있는 상황에서 우주 밖을 안다는 것은 불가능한 일이 아닐까 생각됩니다."
+			],
+			[
+				17,
+				"불가능하",
+				"VA",
+				"그러나 우리 우주조차도 완벽하게 모르고 있는 상황에서 우주 밖을 안다는 것은 불가능한 일이 아닐까 생각됩니다."
+			],
+			[
+				18,
+				"아니",
+				"VCN",
+				"그러나 우리 우주조차도 완벽하게 모르고 있는 상황에서 우주 밖을 안다는 것은 불가능한 일이 아닐까 생각됩니다."
+			],
+			[
+				19,
+				"생각되",
+				"VV",
+				"그러나 우리 우주조차도 완벽하게 모르고 있는 상황에서 우주 밖을 안다는 것은 불가능한 일이 아닐까 생각됩니다."
+			]
+		],
+		"VV_Lst": [
+			[
+				0,
+				"이야기하",
+				"VV",
+				"앞에서 이야기한 빅뱅 이론에 의하면 우주는 시간도 공간도 없는 진정으로 아무 것도 없는 곳에서 탄생하여 지금과 같이 커졌다고 했습니다."
+			],
+			[
+				1,
+				"의하",
+				"VV",
+				"앞에서 이야기한 빅뱅 이론에 의하면 우주는 시간도 공간도 없는 진정으로 아무 것도 없는 곳에서 탄생하여 지금과 같이 커졌다고 했습니다."
+			],
+			[
+				2,
+				"탄생하",
+				"VV",
+				"앞에서 이야기한 빅뱅 이론에 의하면 우주는 시간도 공간도 없는 진정으로 아무 것도 없는 곳에서 탄생하여 지금과 같이 커졌다고 했습니다."
+			],
+			[
+				3,
+				"커지",
+				"VV",
+				"앞에서 이야기한 빅뱅 이론에 의하면 우주는 시간도 공간도 없는 진정으로 아무 것도 없는 곳에서 탄생하여 지금과 같이 커졌다고 했습니다."
+			],
+			[
+				4,
+				"하",
+				"VV",
+				"앞에서 이야기한 빅뱅 이론에 의하면 우주는 시간도 공간도 없는 진정으로 아무 것도 없는 곳에서 탄생하여 지금과 같이 커졌다고 했습니다."
+			],
+			[
+				5,
+				"하",
+				"VV",
+				"그렇다면 우주 밖에는 빅뱅 이전과 같이 시간도 공간도 없다고 해야 맞을 것입니다."
+			],
+			[
+				6,
+				"맞",
+				"VV",
+				"그렇다면 우주 밖에는 빅뱅 이전과 같이 시간도 공간도 없다고 해야 맞을 것입니다."
+			],
+			[
+				7,
+				"모르",
+				"VV",
+				"그러나 우리 우주조차도 완벽하게 모르고 있는 상황에서 우주 밖을 안다는 것은 불가능한 일이 아닐까 생각됩니다."
+			],
+			[
+				8,
+				"알",
+				"VV",
+				"그러나 우리 우주조차도 완벽하게 모르고 있는 상황에서 우주 밖을 안다는 것은 불가능한 일이 아닐까 생각됩니다."
+			],
+			[
+				9,
+				"생각되",
+				"VV",
+				"그러나 우리 우주조차도 완벽하게 모르고 있는 상황에서 우주 밖을 안다는 것은 불가능한 일이 아닐까 생각됩니다."
+			]
+		],
+		"VA_Lst": [
+			[
+				0,
+				"있",
+				"VA",
+				"우주 밖에는 뭐가 있을까요?"
+			],
+			[
+				1,
+				"없",
+				"VA",
+				"앞에서 이야기한 빅뱅 이론에 의하면 우주는 시간도 공간도 없는 진정으로 아무 것도 없는 곳에서 탄생하여 지금과 같이 커졌다고 했습니다."
+			],
+			[
+				2,
+				"없",
+				"VA",
+				"앞에서 이야기한 빅뱅 이론에 의하면 우주는 시간도 공간도 없는 진정으로 아무 것도 없는 곳에서 탄생하여 지금과 같이 커졌다고 했습니다."
+			],
+			[
+				3,
+				"그렇",
+				"VA",
+				"그렇다면 우주 밖에는 빅뱅 이전과 같이 시간도 공간도 없다고 해야 맞을 것입니다."
+			],
+			[
+				4,
+				"없",
+				"VA",
+				"그렇다면 우주 밖에는 빅뱅 이전과 같이 시간도 공간도 없다고 해야 맞을 것입니다."
+			],
+			[
+				5,
+				"완벽하",
+				"VA",
+				"그러나 우리 우주조차도 완벽하게 모르고 있는 상황에서 우주 밖을 안다는 것은 불가능한 일이 아닐까 생각됩니다."
+			],
+			[
+				6,
+				"불가능하",
+				"VA",
+				"그러나 우리 우주조차도 완벽하게 모르고 있는 상황에서 우주 밖을 안다는 것은 불가능한 일이 아닐까 생각됩니다."
+			]
+		],
+		"VX_Lst": [
+			[
+				0,
+				"있",
+				"VX",
+				"그러나 우리 우주조차도 완벽하게 모르고 있는 상황에서 우주 밖을 안다는 것은 불가능한 일이 아닐까 생각됩니다."
+			]
+		],
+		"VCP_Lst": [
+			[
+				0,
+				"이",
+				"VCP",
+				"그렇다면 우주 밖에는 빅뱅 이전과 같이 시간도 공간도 없다고 해야 맞을 것입니다."
+			]
+		],
+		"VCN_Lst": [
+			[
+				0,
+				"아니",
+				"VCN",
+				"그러나 우리 우주조차도 완벽하게 모르고 있는 상황에서 우주 밖을 안다는 것은 불가능한 일이 아닐까 생각됩니다."
+			]
+		],
+		"ML_Lst": [
+			[
+				0,
+				"같이",
+				"MAG",
+				"앞에서 이야기한 빅뱅 이론에 의하면 우주는 시간도 공간도 없는 진정으로 아무 것도 없는 곳에서 탄생하여 지금과 같이 커졌다고 했습니다."
+			],
+			[
+				1,
+				"같이",
+				"MAG",
+				"그렇다면 우주 밖에는 빅뱅 이전과 같이 시간도 공간도 없다고 해야 맞을 것입니다."
+			],
+			[
+				2,
+				"그러나",
+				"MAJ",
+				"그러나 우리 우주조차도 완벽하게 모르고 있는 상황에서 우주 밖을 안다는 것은 불가능한 일이 아닐까 생각됩니다."
+			]
+		],
+		"MA_Lst": [],
+		"MM_Lst": [],
+		"J_Lst": [
+			[
+				0,
+				"에",
+				"JKB",
+				"우주 밖에는 뭐가 있을까요?"
+			],
+			[
+				1,
+				"는",
+				"JX",
+				"우주 밖에는 뭐가 있을까요?"
+			],
+			[
+				2,
+				"가",
+				"JKS",
+				"우주 밖에는 뭐가 있을까요?"
+			],
+			[
+				3,
+				"요",
+				"JX",
+				"우주 밖에는 뭐가 있을까요?"
+			],
+			[
+				4,
+				"에서",
+				"JKB",
+				"앞에서 이야기한 빅뱅 이론에 의하면 우주는 시간도 공간도 없는 진정으로 아무 것도 없는 곳에서 탄생하여 지금과 같이 커졌다고 했습니다."
+			],
+			[
+				5,
+				"에",
+				"JKB",
+				"앞에서 이야기한 빅뱅 이론에 의하면 우주는 시간도 공간도 없는 진정으로 아무 것도 없는 곳에서 탄생하여 지금과 같이 커졌다고 했습니다."
+			],
+			[
+				6,
+				"는",
+				"JX",
+				"앞에서 이야기한 빅뱅 이론에 의하면 우주는 시간도 공간도 없는 진정으로 아무 것도 없는 곳에서 탄생하여 지금과 같이 커졌다고 했습니다."
+			],
+			[
+				7,
+				"도",
+				"JX",
+				"앞에서 이야기한 빅뱅 이론에 의하면 우주는 시간도 공간도 없는 진정으로 아무 것도 없는 곳에서 탄생하여 지금과 같이 커졌다고 했습니다."
+			],
+			[
+				8,
+				"도",
+				"JX",
+				"앞에서 이야기한 빅뱅 이론에 의하면 우주는 시간도 공간도 없는 진정으로 아무 것도 없는 곳에서 탄생하여 지금과 같이 커졌다고 했습니다."
+			],
+			[
+				9,
+				"으로",
+				"JKB",
+				"앞에서 이야기한 빅뱅 이론에 의하면 우주는 시간도 공간도 없는 진정으로 아무 것도 없는 곳에서 탄생하여 지금과 같이 커졌다고 했습니다."
+			],
+			[
+				10,
+				"도",
+				"JX",
+				"앞에서 이야기한 빅뱅 이론에 의하면 우주는 시간도 공간도 없는 진정으로 아무 것도 없는 곳에서 탄생하여 지금과 같이 커졌다고 했습니다."
+			],
+			[
+				11,
+				"에서",
+				"JKB",
+				"앞에서 이야기한 빅뱅 이론에 의하면 우주는 시간도 공간도 없는 진정으로 아무 것도 없는 곳에서 탄생하여 지금과 같이 커졌다고 했습니다."
+			],
+			[
+				12,
+				"과",
+				"JKB",
+				"앞에서 이야기한 빅뱅 이론에 의하면 우주는 시간도 공간도 없는 진정으로 아무 것도 없는 곳에서 탄생하여 지금과 같이 커졌다고 했습니다."
+			],
+			[
+				13,
+				"에",
+				"JKB",
+				"그렇다면 우주 밖에는 빅뱅 이전과 같이 시간도 공간도 없다고 해야 맞을 것입니다."
+			],
+			[
+				14,
+				"는",
+				"JX",
+				"그렇다면 우주 밖에는 빅뱅 이전과 같이 시간도 공간도 없다고 해야 맞을 것입니다."
+			],
+			[
+				15,
+				"과",
+				"JKB",
+				"그렇다면 우주 밖에는 빅뱅 이전과 같이 시간도 공간도 없다고 해야 맞을 것입니다."
+			],
+			[
+				16,
+				"도",
+				"JX",
+				"그렇다면 우주 밖에는 빅뱅 이전과 같이 시간도 공간도 없다고 해야 맞을 것입니다."
+			],
+			[
+				17,
+				"도",
+				"JX",
+				"그렇다면 우주 밖에는 빅뱅 이전과 같이 시간도 공간도 없다고 해야 맞을 것입니다."
+			],
+			[
+				18,
+				"조차",
+				"JX",
+				"그러나 우리 우주조차도 완벽하게 모르고 있는 상황에서 우주 밖을 안다는 것은 불가능한 일이 아닐까 생각됩니다."
+			],
+			[
+				19,
+				"도",
+				"JX",
+				"그러나 우리 우주조차도 완벽하게 모르고 있는 상황에서 우주 밖을 안다는 것은 불가능한 일이 아닐까 생각됩니다."
+			],
+			[
+				20,
+				"에서",
+				"JKB",
+				"그러나 우리 우주조차도 완벽하게 모르고 있는 상황에서 우주 밖을 안다는 것은 불가능한 일이 아닐까 생각됩니다."
+			],
+			[
+				21,
+				"을",
+				"JKO",
+				"그러나 우리 우주조차도 완벽하게 모르고 있는 상황에서 우주 밖을 안다는 것은 불가능한 일이 아닐까 생각됩니다."
+			],
+			[
+				22,
+				"은",
+				"JX",
+				"그러나 우리 우주조차도 완벽하게 모르고 있는 상황에서 우주 밖을 안다는 것은 불가능한 일이 아닐까 생각됩니다."
+			],
+			[
+				23,
+				"이",
+				"JKC",
+				"그러나 우리 우주조차도 완벽하게 모르고 있는 상황에서 우주 밖을 안다는 것은 불가능한 일이 아닐까 생각됩니다."
+			]
+		],
+		"E_Lst": [
+			[
+				0,
+				"을까",
+				"EF",
+				"우주 밖에는 뭐가 있을까요?"
+			],
+			[
+				1,
+				"ㄴ",
+				"ETM",
+				"앞에서 이야기한 빅뱅 이론에 의하면 우주는 시간도 공간도 없는 진정으로 아무 것도 없는 곳에서 탄생하여 지금과 같이 커졌다고 했습니다."
+			],
+			[
+				2,
+				"면",
+				"EC",
+				"앞에서 이야기한 빅뱅 이론에 의하면 우주는 시간도 공간도 없는 진정으로 아무 것도 없는 곳에서 탄생하여 지금과 같이 커졌다고 했습니다."
+			],
+			[
+				3,
+				"는",
+				"ETM",
+				"앞에서 이야기한 빅뱅 이론에 의하면 우주는 시간도 공간도 없는 진정으로 아무 것도 없는 곳에서 탄생하여 지금과 같이 커졌다고 했습니다."
+			],
+			[
+				4,
+				"는",
+				"ETM",
+				"앞에서 이야기한 빅뱅 이론에 의하면 우주는 시간도 공간도 없는 진정으로 아무 것도 없는 곳에서 탄생하여 지금과 같이 커졌다고 했습니다."
+			],
+			[
+				5,
+				"아",
+				"EC",
+				"앞에서 이야기한 빅뱅 이론에 의하면 우주는 시간도 공간도 없는 진정으로 아무 것도 없는 곳에서 탄생하여 지금과 같이 커졌다고 했습니다."
+			],
+			[
+				6,
+				"었",
+				"EP",
+				"앞에서 이야기한 빅뱅 이론에 의하면 우주는 시간도 공간도 없는 진정으로 아무 것도 없는 곳에서 탄생하여 지금과 같이 커졌다고 했습니다."
+			],
+			[
+				7,
+				"다고",
+				"EC",
+				"앞에서 이야기한 빅뱅 이론에 의하면 우주는 시간도 공간도 없는 진정으로 아무 것도 없는 곳에서 탄생하여 지금과 같이 커졌다고 했습니다."
+			],
+			[
+				8,
+				"았",
+				"EP",
+				"앞에서 이야기한 빅뱅 이론에 의하면 우주는 시간도 공간도 없는 진정으로 아무 것도 없는 곳에서 탄생하여 지금과 같이 커졌다고 했습니다."
+			],
+			[
+				9,
+				"습니다",
+				"EF",
+				"앞에서 이야기한 빅뱅 이론에 의하면 우주는 시간도 공간도 없는 진정으로 아무 것도 없는 곳에서 탄생하여 지금과 같이 커졌다고 했습니다."
+			],
+			[
+				10,
+				"다면",
+				"EC",
+				"그렇다면 우주 밖에는 빅뱅 이전과 같이 시간도 공간도 없다고 해야 맞을 것입니다."
+			],
+			[
+				11,
+				"다고",
+				"EC",
+				"그렇다면 우주 밖에는 빅뱅 이전과 같이 시간도 공간도 없다고 해야 맞을 것입니다."
+			],
+			[
+				12,
+				"아야",
+				"EC",
+				"그렇다면 우주 밖에는 빅뱅 이전과 같이 시간도 공간도 없다고 해야 맞을 것입니다."
+			],
+			[
+				13,
+				"을",
+				"ETM",
+				"그렇다면 우주 밖에는 빅뱅 이전과 같이 시간도 공간도 없다고 해야 맞을 것입니다."
+			],
+			[
+				14,
+				"ㅂ니다",
+				"EF",
+				"그렇다면 우주 밖에는 빅뱅 이전과 같이 시간도 공간도 없다고 해야 맞을 것입니다."
+			],
+			[
+				15,
+				"게",
+				"EC",
+				"그러나 우리 우주조차도 완벽하게 모르고 있는 상황에서 우주 밖을 안다는 것은 불가능한 일이 아닐까 생각됩니다."
+			],
+			[
+				16,
+				"고",
+				"EC",
+				"그러나 우리 우주조차도 완벽하게 모르고 있는 상황에서 우주 밖을 안다는 것은 불가능한 일이 아닐까 생각됩니다."
+			],
+			[
+				17,
+				"는",
+				"ETM",
+				"그러나 우리 우주조차도 완벽하게 모르고 있는 상황에서 우주 밖을 안다는 것은 불가능한 일이 아닐까 생각됩니다."
+			],
+			[
+				18,
+				"ㄴ다는",
+				"ETM",
+				"그러나 우리 우주조차도 완벽하게 모르고 있는 상황에서 우주 밖을 안다는 것은 불가능한 일이 아닐까 생각됩니다."
+			],
+			[
+				19,
+				"ㄴ",
+				"ETM",
+				"그러나 우리 우주조차도 완벽하게 모르고 있는 상황에서 우주 밖을 안다는 것은 불가능한 일이 아닐까 생각됩니다."
+			],
+			[
+				20,
+				"ㄹ까",
+				"EF",
+				"그러나 우리 우주조차도 완벽하게 모르고 있는 상황에서 우주 밖을 안다는 것은 불가능한 일이 아닐까 생각됩니다."
+			],
+			[
+				21,
+				"ㅂ니다",
+				"EF",
+				"그러나 우리 우주조차도 완벽하게 모르고 있는 상황에서 우주 밖을 안다는 것은 불가능한 일이 아닐까 생각됩니다."
+			]
+		],
+		"X_Lst": [],
+		"IC_Lst": []
+	},
+	"NDW": {
+		"morph_NDW": 67,
+		"NL_NDW": 27,
+		"NNG_NDW": 22,
+		"NNP_NDW": 0,
+		"NNB_NDW": 3,
+		"NP_NDW": 2,
+		"NR_NDW": 0,
+		"VL_NDW": 20,
+		"VV_NDW": 10,
+		"VA_NDW": 7,
+		"ML_NDW": 3,
+		"MM_NDW": 0,
+		"IC_NDW": 0,
+		"J_NDW": 24,
+		"E_NDW": 22,
+		"X_NDW": 0,
+		"CL_NDW": 50,
+		"FL_NDW": 46
+	}
+}

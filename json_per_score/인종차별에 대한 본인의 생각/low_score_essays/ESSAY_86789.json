@@ -1,0 +1,3299 @@
+﻿{
+	"morpheme": {
+		"sentences": [
+			{
+				"text": {
+					"content": "이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다.",
+					"length": 117,
+					"beginOffset": 0
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "이에",
+							"length": 2,
+							"beginOffset": 0
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이",
+									"length": 1,
+									"beginOffset": 0
+								},
+								"tag": "NP",
+								"probability": 0.97714365,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 1,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99631596,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이",
+						"tagged": "이/NP+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "우크라이나",
+							"beginOffset": 3,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "우크라이나",
+									"beginOffset": 3,
+									"length": 5
+								},
+								"tag": "NNP",
+								"probability": 0.9688281,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "우크라이나",
+						"tagged": "우크라이나/NNP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "시청자들은",
+							"beginOffset": 9,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "시청자",
+									"beginOffset": 9,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.98608536,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "들",
+									"beginOffset": 12,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.9933321,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 13,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99952435,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "시청자",
+						"tagged": "시청자/NNG+들/XSN+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "\"편견과",
+							"beginOffset": 15,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "\"",
+									"beginOffset": 15,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.99979335,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "편견",
+									"beginOffset": 16,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9805808,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "과",
+									"beginOffset": 18,
+									"length": 1
+								},
+								"tag": "JC",
+								"probability": 0.9923372,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "\"",
+						"tagged": "\"/SS+편견/NNG+과/JC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "선입견을",
+							"beginOffset": 20,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "선입견",
+									"beginOffset": 20,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9821329,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 23,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999545,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "선입견",
+						"tagged": "선입견/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "조장한다\"며",
+							"beginOffset": 25,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "조장하",
+									"beginOffset": 25,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ다",
+									"beginOffset": 27,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.9897273,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "\"",
+									"beginOffset": 29,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9996417,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "며",
+									"beginOffset": 30,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9927441,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "조장하",
+						"tagged": "조장하/VV+ㄴ다/EF+\"/SS+며/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "반발했고",
+							"beginOffset": 32,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "반발하",
+									"beginOffset": 32,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 34,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9999506,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 35,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99183816,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "반발하",
+						"tagged": "반발하/VV+았/EP+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": ",",
+							"beginOffset": 36,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 36,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.9992174,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": ",",
+						"tagged": ",/SP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "올렉산드르",
+							"beginOffset": 38,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "올렉산드르",
+									"beginOffset": 38,
+									"length": 5
+								},
+								"tag": "NNP",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							}
+						],
+						"lemma": "올렉산드르",
+						"tagged": "올렉산드르/NNP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "트카첸코",
+							"beginOffset": 44,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "트카첸코",
+									"beginOffset": 44,
+									"length": 4
+								},
+								"tag": "NNP",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							}
+						],
+						"lemma": "트카첸코",
+						"tagged": "트카첸코/NNP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "우크라이나",
+							"beginOffset": 49,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "우크라이나",
+									"beginOffset": 49,
+									"length": 5
+								},
+								"tag": "NNP",
+								"probability": 0.9639317,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "우크라이나",
+						"tagged": "우크라이나/NNP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "문화",
+							"beginOffset": 55,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "문화",
+									"beginOffset": 55,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.95294386,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "문화",
+						"tagged": "문화/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "장관은",
+							"beginOffset": 58,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "장관",
+									"beginOffset": 58,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97494525,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 60,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99971884,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "장관",
+						"tagged": "장관/NNG+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "\"드라마",
+							"beginOffset": 62,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "\"",
+									"beginOffset": 62,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.99943733,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "드라마",
+									"beginOffset": 63,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.98518413,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "\"",
+						"tagged": "\"/SS+드라마/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "속",
+							"beginOffset": 67,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "속",
+									"beginOffset": 67,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9816167,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "속",
+						"tagged": "속/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "우크라이나",
+							"beginOffset": 69,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "우크라이나",
+									"beginOffset": 69,
+									"length": 5
+								},
+								"tag": "NNP",
+								"probability": 0.9638581,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "우크라이나",
+						"tagged": "우크라이나/NNP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "여성",
+							"beginOffset": 75,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "여성",
+									"beginOffset": 75,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98427397,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "여성",
+						"tagged": "여성/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "묘사는",
+							"beginOffset": 78,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "묘사",
+									"beginOffset": 78,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98356473,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 80,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99929756,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "묘사",
+						"tagged": "묘사/NNG+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "용납할",
+							"beginOffset": 82,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "용납하",
+									"beginOffset": 82,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄹ",
+									"beginOffset": 84,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999575,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "용납하",
+						"tagged": "용납하/VV+ㄹ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "수",
+							"beginOffset": 86,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "수",
+									"beginOffset": 86,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9794134,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "수",
+						"tagged": "수/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "없고",
+							"beginOffset": 88,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "없",
+									"beginOffset": 88,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9858314,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 89,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.98807704,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "없",
+						"tagged": "없/VA+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": ",",
+							"beginOffset": 90,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 90,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.99886626,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": ",",
+						"tagged": ",/SP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "모욕적인",
+							"beginOffset": 92,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "모욕",
+									"beginOffset": 92,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9827568,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "적",
+									"beginOffset": 94,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.98790437,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 95,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.9993966,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 95,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999878,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "모욕",
+						"tagged": "모욕/NNG+적/XSN+이/VCP+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "일\"이라고",
+							"beginOffset": 97,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "일",
+									"beginOffset": 97,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.92111224,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "\"",
+									"beginOffset": 98,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9997692,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이라고",
+									"beginOffset": 99,
+									"length": 3
+								},
+								"tag": "JKQ",
+								"probability": 0.99887234,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "일",
+						"tagged": "일/NNG+\"/SS+이라고/JKQ",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "표현하며",
+							"beginOffset": 103,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "표현하",
+									"beginOffset": 103,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "며",
+									"beginOffset": 106,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9944697,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "표현하",
+						"tagged": "표현하/VV+며/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "문제를",
+							"beginOffset": 108,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "문제",
+									"beginOffset": 108,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9860409,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 110,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99983543,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "문제",
+						"tagged": "문제/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "제기했다.",
+							"beginOffset": 112,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "제기하",
+									"beginOffset": 112,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 114,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9997865,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 115,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.99073756,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 116,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9996904,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "제기하",
+						"tagged": "제기하/VV+았/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고 , 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고 , 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			},
+			{
+				"text": {
+					"content": "앞서 '에밀리, 파리에 가다'는 시즌1에서도 프랑스인의 실내 흡연, 불륜 등을 묘사해 편견을 부추긴다는 논란이 일기도 했다.",
+					"beginOffset": 118,
+					"length": 69
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "앞서",
+							"beginOffset": 118,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "앞서",
+									"beginOffset": 118,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.98501617,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "앞서",
+						"tagged": "앞서/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "'에밀리,",
+							"beginOffset": 121,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "'",
+									"beginOffset": 121,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9999852,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에밀리",
+									"beginOffset": 122,
+									"length": 3
+								},
+								"tag": "NNP",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 125,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.99771774,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "'",
+						"tagged": "'/SS+에밀리/NNP+,/SP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "파리에",
+							"beginOffset": 127,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "파리",
+									"beginOffset": 127,
+									"length": 2
+								},
+								"tag": "NNP",
+								"probability": 0.62976885,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 129,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99725616,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "파리",
+						"tagged": "파리/NNP+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "가다'는",
+							"beginOffset": 131,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 131,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.96968263,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 132,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.5595964,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "'",
+									"beginOffset": 133,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.99978155,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 134,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99997574,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "가",
+						"tagged": "가/VV+다/EF+'/SS+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "시즌1에서도",
+							"beginOffset": 136,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "시즌",
+									"beginOffset": 136,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9836793,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "1",
+									"beginOffset": 138,
+									"length": 1
+								},
+								"tag": "SN",
+								"probability": 0.99636567,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에서",
+									"beginOffset": 139,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9953869,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 141,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99944025,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "시즌",
+						"tagged": "시즌/NNG+1/SN+에서/JKB+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "프랑스인의",
+							"beginOffset": 143,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "프랑스인",
+									"beginOffset": 143,
+									"length": 4
+								},
+								"tag": "NNG",
+								"probability": 0.97864115,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 147,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9998523,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "프랑스인",
+						"tagged": "프랑스인/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "실내",
+							"beginOffset": 149,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "실내",
+									"beginOffset": 149,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97970057,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "실내",
+						"tagged": "실내/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "흡연,",
+							"beginOffset": 152,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "흡연",
+									"beginOffset": 152,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98351145,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 154,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.9994179,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "흡연",
+						"tagged": "흡연/NNG+,/SP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "불륜",
+							"beginOffset": 156,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "불륜",
+									"beginOffset": 156,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9821852,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "불륜",
+						"tagged": "불륜/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "등을",
+							"beginOffset": 159,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "등",
+									"beginOffset": 159,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.97464496,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 160,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99996746,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "등",
+						"tagged": "등/NNB+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "묘사해",
+							"beginOffset": 162,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "묘사하",
+									"beginOffset": 162,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 164,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9948593,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "묘사하",
+						"tagged": "묘사하/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "편견을",
+							"beginOffset": 166,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "편견",
+									"beginOffset": 166,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98216635,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 168,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99988115,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "편견",
+						"tagged": "편견/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "부추긴다는",
+							"beginOffset": 170,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "부추기",
+									"beginOffset": 170,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.98920417,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ다는",
+									"beginOffset": 172,
+									"length": 3
+								},
+								"tag": "ETM",
+								"probability": 0.9999484,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "부추기",
+						"tagged": "부추기/VV+ㄴ다는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "논란이",
+							"beginOffset": 176,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "논란",
+									"beginOffset": 176,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9782237,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 178,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9673686,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "논란",
+						"tagged": "논란/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "일기도",
+							"beginOffset": 180,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "일",
+									"beginOffset": 180,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9917922,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "기",
+									"beginOffset": 181,
+									"length": 1
+								},
+								"tag": "ETN",
+								"probability": 0.999917,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 182,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9990166,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "일",
+						"tagged": "일/VV+기/ETN+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "했다.",
+							"beginOffset": 184,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 184,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.79846126,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 184,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99995095,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 185,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.992791,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 186,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9998036,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VX+았/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "앞서 '에밀리, 파리에 가다'는 시즌1에서도 프랑스인의 실내 흡연, 불륜 등을 묘사해 편견을 부추긴다는 논란이 일기도 했다."
+			},
+			{
+				"text": {
+					"content": "한편, 넷플릭스 미국 오리지널 드라마 '에밀리, 파리에 가다 시즌2'는 지난달 22일 공개됐다.",
+					"beginOffset": 188,
+					"length": 53
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "한편",
+							"beginOffset": 188,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "한편",
+									"beginOffset": 188,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.98454946,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "한편",
+						"tagged": "한편/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": ",",
+							"beginOffset": 190,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 190,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.99934316,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": ",",
+						"tagged": ",/SP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "넷플릭스",
+							"beginOffset": 192,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "넷플릭스",
+									"beginOffset": 192,
+									"length": 4
+								},
+								"tag": "NNP",
+								"probability": 0.9612534,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "넷플릭스",
+						"tagged": "넷플릭스/NNP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "미국",
+							"beginOffset": 197,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "미국",
+									"beginOffset": 197,
+									"length": 2
+								},
+								"tag": "NNP",
+								"probability": 0.9551973,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "미국",
+						"tagged": "미국/NNP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "오리지널",
+							"beginOffset": 200,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "오리지널",
+									"beginOffset": 200,
+									"length": 4
+								},
+								"tag": "NNG",
+								"probability": 0.9754253,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "오리지널",
+						"tagged": "오리지널/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "드라마",
+							"beginOffset": 205,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "드라마",
+									"beginOffset": 205,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9734059,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "드라마",
+						"tagged": "드라마/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "'에밀리,",
+							"beginOffset": 209,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "'",
+									"beginOffset": 209,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.99980533,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에밀리",
+									"beginOffset": 210,
+									"length": 3
+								},
+								"tag": "NNP",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 213,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.9923015,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "'",
+						"tagged": "'/SS+에밀리/NNP+,/SP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "파리에",
+							"beginOffset": 215,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "파리",
+									"beginOffset": 215,
+									"length": 2
+								},
+								"tag": "NNP",
+								"probability": 0.96070033,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 217,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9963796,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "파리",
+						"tagged": "파리/NNP+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "가다",
+							"beginOffset": 219,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 219,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9800207,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 220,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.94634175,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "가",
+						"tagged": "가/VV+다/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "시즌2'는",
+							"beginOffset": 222,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "시즌",
+									"beginOffset": 222,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9580754,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "2",
+									"beginOffset": 224,
+									"length": 1
+								},
+								"tag": "SN",
+								"probability": 0.9911402,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "'",
+									"beginOffset": 225,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9999428,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 226,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9991004,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "시즌",
+						"tagged": "시즌/NNG+2/SN+'/SS+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "지난달",
+							"beginOffset": 228,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "지난달",
+									"beginOffset": 228,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.97843117,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "지난달",
+						"tagged": "지난달/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "22일",
+							"beginOffset": 232,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "22",
+									"beginOffset": 232,
+									"length": 2
+								},
+								"tag": "SN",
+								"probability": 0.9985499,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "일",
+									"beginOffset": 234,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.97223306,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "22",
+						"tagged": "22/SN+일/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "공개됐다.",
+							"beginOffset": 236,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "공개되",
+									"beginOffset": 236,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 238,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99985725,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 239,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9900476,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 240,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9995026,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "공개되",
+						"tagged": "공개되/VV+었/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "한편 , 넷플릭스 미국 오리지널 드라마 '에밀리, 파리에 가다 시즌2'는 지난달 22일 공개됐다."
+			}
+		],
+		"language": "ko_KR"
+	},
+	"ttr": {
+		"lemma_Cnt": 94,
+		"lemma_TTR": 0.6403508771929824,
+		"CL_TTR": 0.7962962962962963,
+		"NL_TTR": 0.7894736842105263,
+		"NN_TTR": 0.7837837837837838,
+		"NNG_TTR": 0.8695652173913043,
+		"NNP_TTR": 0.6363636363636364,
+		"NNB_TTR": 1.0,
+		"NP_TTR": 1.0,
+		"NR_TTR": 0,
+		"VL_TTR": 0.9285714285714286,
+		"VV_TTR": 0.9090909090909091,
+		"VA_TTR": 1.0,
+		"ML_TTR": 1.0,
+		"MM_TTR": 0,
+		"MA_TTR": 1.0,
+		"MAJ_TTR": 0,
+		"IC_TTR": 0,
+		"FL_TTR": 0.5897435897435898,
+		"J_TTR": 0.5882352941176471,
+		"E_TTR": 0.6,
+		"X_TTR": 1.0,
+		"lemma_RTTR": 6.837076424546366,
+		"CL_RTTR": 5.851558829982037,
+		"NL_RTTR": 4.8666426339228765,
+		"NN_RTTR": 4.767570631855362,
+		"NNG_RTTR": 4.170288281141495,
+		"NNP_RTTR": 2.1105794120443453,
+		"NNB_RTTR": 1.7320508075688774,
+		"NP_RTTR": 1.0,
+		"NR_RTTR": 0,
+		"VL_RTTR": 3.474396144861517,
+		"VV_RTTR": 3.015113445777636,
+		"VA_RTTR": 1.0,
+		"ML_RTTR": 1.414213562373095,
+		"MM_RTTR": 0,
+		"MA_RTTR": 1.414213562373095,
+		"MAJ_RTTR": 0,
+		"IC_RTTR": 0,
+		"FL_RTTR": 3.682947537517004,
+		"J_RTTR": 2.42535625036333,
+		"E_RTTR": 2.6832815729997477,
+		"X_RTTR": 1.414213562373095,
+		"lemma_CTTR": 4.83454310328741,
+		"CL_CTTR": 4.137676929192318,
+		"NL_CTTR": 3.4412360080584263,
+		"NN_CTTR": 3.371181523570759,
+		"NNG_CTTR": 2.9488391230979425,
+		"NNP_CTTR": 1.4924050144892729,
+		"NNB_CTTR": 1.2247448713915892,
+		"NP_CTTR": 0.7071067811865475,
+		"NR_CTTR": 0,
+		"VL_CTTR": 2.456769074559977,
+		"VV_CTTR": 2.1320071635561044,
+		"VA_CTTR": 0.7071067811865475,
+		"ML_CTTR": 1.0,
+		"MM_CTTR": 0,
+		"MA_CTTR": 1.0,
+		"MAJ_CTTR": 0,
+		"IC_CTTR": 0,
+		"FL_CTTR": 2.60423717853257,
+		"J_CTTR": 1.7149858514250882,
+		"E_CTTR": 1.8973665961010275,
+		"X_CTTR": 1.0,
+		"lemma_MSTTR": 0.77,
+		"CL_MSTTR": 0.82,
+		"NL_MSTTR": 0.7894736842105263,
+		"NN_MSTTR": 0.7837837837837838,
+		"NNG_MSTTR": 0.8695652173913043,
+		"NNP_MSTTR": 0.6363636363636364,
+		"NNB_MSTTR": 1.0,
+		"NP_MSTTR": 1.0,
+		"NR_MSTTR": 0,
+		"VL_MSTTR": 0.9285714285714286,
+		"VV_MSTTR": 0.9090909090909091,
+		"VA_MSTTR": 1.0,
+		"ML_MSTTR": 1.0,
+		"MM_MSTTR": 0,
+		"MA_MSTTR": 1.0,
+		"MAJ_MSTTR": 0,
+		"IC_MSTTR": 0,
+		"FL_MSTTR": 0.5897435897435898,
+		"J_MSTTR": 0.5882352941176471,
+		"E_MSTTR": 0.6,
+		"X_MSTTR": 1.0,
+		"lemma_MATTR": 0.8224615384615384,
+		"CL_MATTR": 0.828,
+		"NL_MATTR": 0.7894736842105263,
+		"NN_MATTR": 0.7837837837837838,
+		"NNG_MATTR": 0.8695652173913043,
+		"NNP_MATTR": 0.6363636363636364,
+		"NNB_MATTR": 1.0,
+		"NP_MATTR": 1.0,
+		"NR_MATTR": 0,
+		"VL_MATTR": 0.9285714285714286,
+		"VV_MATTR": 0.9090909090909091,
+		"VA_MATTR": 1.0,
+		"ML_MATTR": 1.0,
+		"MM_MATTR": 0,
+		"MA_MATTR": 1.0,
+		"MAJ_MATTR": 0,
+		"IC_MATTR": 0,
+		"FL_MATTR": 0.5897435897435898,
+		"J_MATTR": 0.5882352941176471,
+		"E_MATTR": 0.6,
+		"X_MATTR": 1.0,
+		"lemma_MTLD": 68.80920795942255,
+		"CL_MTLD": 74.22545454545454,
+		"NL_MTLD": 50.54000000000001,
+		"NN_MTLD": 47.915,
+		"NNG_MTLD": 49.37333333333333,
+		"NNP_MTLD": 11.0,
+		"NNB_MTLD": 0.0,
+		"NP_MTLD": 0.0,
+		"NR_MTLD": 0.0,
+		"VL_MTLD": 54.88000000000004,
+		"VV_MTLD": 33.879999999999995,
+		"VA_MTLD": 0.0,
+		"ML_MTLD": 0.0,
+		"MM_MTLD": 0.0,
+		"MA_MTLD": 0.0,
+		"MAJ_MTLD": 0.0,
+		"IC_MTLD": 0.0,
+		"FL_MTLD": 20.090731413966772,
+		"J_MTLD": 14.128378378378379,
+		"E_MTLD": 9.655172413793105,
+		"X_MTLD": 0.0,
+		"lemma_VOCDD": 77.16451174273308,
+		"CL_VOCDD": 89.24707620786428,
+		"NL_VOCDD": 0,
+		"NN_VOCDD": 0,
+		"NNG_VOCDD": 0,
+		"NNP_VOCDD": 0,
+		"NNB_VOCDD": 0,
+		"NP_VOCDD": 0,
+		"NR_VOCDD": 0,
+		"VL_VOCDD": 0,
+		"VV_VOCDD": 0,
+		"VA_VOCDD": 0,
+		"ML_VOCDD": 0,
+		"MM_VOCDD": 0,
+		"MA_VOCDD": 0,
+		"MAJ_VOCDD": 0,
+		"IC_VOCDD": 0,
+		"FL_VOCDD": 0,
+		"J_VOCDD": 0,
+		"E_VOCDD": 0,
+		"X_VOCDD": 0,
+		"lemma_HDD": 0.8184461909608592,
+		"CL_HDD": 0.8358060527871843,
+		"NL_HDD": 0.0,
+		"NN_HDD": 0.0,
+		"NNG_HDD": 0.0,
+		"NNP_HDD": 0.0,
+		"NNB_HDD": 0.0,
+		"NP_HDD": 0.0,
+		"NR_HDD": 0.0,
+		"VL_HDD": 0.0,
+		"VV_HDD": 0.0,
+		"VA_HDD": 0.0,
+		"ML_HDD": 0.0,
+		"MM_HDD": 0.0,
+		"MA_HDD": 0.0,
+		"MAJ_HDD": 0.0,
+		"IC_HDD": 0.0,
+		"FL_HDD": 0.0,
+		"J_HDD": 0.0,
+		"E_HDD": 0.0,
+		"X_HDD": 0.0
+	},
+	"similarity": {
+		"avgSentSimilarity": 0.19981756806373596,
+		"topicConsistency": 0.5043
+	},
+	"adjacency": {
+		"adjacent_sentence_overlap_all_lemmas": 55,
+		"adjacent_sentence_overlap_all_lemmas_normed": 2,
+		"binary_adjacent_sentence_overlap_all_lemmas": 2,
+		"adjacent_two_sentence_overlap_all_lemmas": 21,
+		"adjacent_two_sentence_overlap_all_lemmas_normed": 1,
+		"binary_adjacent_two_sentence_overlap_all_lemmas": 1,
+		"adjacent_sentence_overlap_content_lemmas": 26,
+		"adjacent_sentence_overlap_content_lemmas_normed": 2,
+		"binary_adjacent_sentence_overlap_content_lemmas": 2,
+		"adjacent_two_sentence_overlap_content_lemmas": 11,
+		"adjacent_two_sentence_overlap_content_lemmas_normed": 1,
+		"binary_adjacent_two_sentence_overlap_content_lemmas": 1,
+		"adjacent_sentence_overlap_function_lemmas": 17,
+		"adjacent_sentence_overlap_function_lemmas_normed": 2,
+		"binary_adjacent_sentence_overlap_function_lemmas": 2,
+		"adjacent_two_sentence_overlap_function_lemmas": 5,
+		"adjacent_two_sentence_overlap_function_lemmas_normed": 1,
+		"binary_adjacent_two_sentence_overlap_function_lemmas": 1,
+		"adjacent_sentence_overlap_noun_lemmas": 21,
+		"adjacent_sentence_overlap_noun_lemmas_normed": 2,
+		"binary_adjacent_sentence_overlap_noun_lemmas": 2,
+		"adjacent_two_sentence_overlap_noun_lemmas": 9,
+		"adjacent_two_sentence_overlap_noun_lemmas_normed": 1,
+		"binary_adjacent_two_sentence_overlap_noun_lemmas": 1,
+		"adjacent_sentence_overlap_verb_lemmas": 6,
+		"adjacent_sentence_overlap_verb_lemmas_normed": 2,
+		"binary_adjacent_sentence_overlap_verb_lemmas": 2,
+		"adjacent_two_sentence_overlap_verb_lemmas": 2,
+		"adjacent_two_sentence_overlap_verb_lemmas_normed": 1,
+		"binary_adjacent_two_sentence_overlap_verb_lemmas": 0,
+		"adjacent_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_sentence_overlap_adjective_lemmas_normed": 0,
+		"binary_adjacent_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_sentence_overlap_adverb_lemmas": 1,
+		"adjacent_sentence_overlap_adverb_lemmas_normed": 1,
+		"binary_adjacent_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adverb_lemmas": 0
+	},
+	"basic_count": {
+		"para_Cnt": 1,
+		"sentence_Cnt": 3,
+		"word_Cnt": 53,
+		"morph_Cnt": 114,
+		"char_Cnt": 176,
+		"CL_Cnt": 54,
+		"NL_Cnt": 38,
+		"NN_Cnt": 37,
+		"NNG_Cnt": 23,
+		"NNP_Cnt": 11,
+		"NNB_Cnt": 3,
+		"NP_Cnt": 1,
+		"NP_People_Cnt": 0,
+		"NP_Things_Cnt": 1,
+		"NR_Cnt": 0,
+		"VL_Cnt": 14,
+		"VV_Cnt": 11,
+		"VA_Cnt": 1,
+		"VX_Cnt": 1,
+		"VCP_Cnt": 1,
+		"VCN_Cnt": 0,
+		"ML_Cnt": 2,
+		"MA_Cnt": 0,
+		"MM_Cnt": 0,
+		"FL_Cnt": 39,
+		"J_Cnt": 17,
+		"E_Cnt": 20,
+		"X_Cnt": 2,
+		"IC_Cnt": 0
+	},
+	"basic_density": {
+		"CL_Den": 0.47368421052631576,
+		"FL_Den": 0.34210526315789475,
+		"NL_Den": 0.32456140350877194,
+		"NNGL_Den": 0.20175438596491227,
+		"NNPL_Den": 0.09649122807017543,
+		"NNBL_Den": 0.02631578947368421,
+		"NPL_Den": 0.008771929824561403,
+		"NML_Den": 0.0,
+		"VL_Den": 0.12280701754385964,
+		"VVL_Den": 0.09649122807017543,
+		"VAL_Den": 0.008771929824561403,
+		"ML_Den": 0.017543859649122806,
+		"MML_Den": 0.0,
+		"MAL_Den": 0.0,
+		"JL_Den": 0.14912280701754385,
+		"EL_Den": 0.17543859649122806,
+		"XL_Den": 0.017543859649122806,
+		"ITL_Den": 0.0,
+		"NCL_Den": 0.6851851851851852,
+		"NNCL_Den": 0.42592592592592593,
+		"NNGCL_Den": 0.2037037037037037,
+		"NNBCL_Den": 0.05555555555555555,
+		"NPCL_Den": 0.018518518518518517,
+		"NMCL_Den": 0.0,
+		"VCL_Den": 0.25925925925925924,
+		"VVCL_Den": 0.2037037037037037,
+		"VACL_Den": 0.018518518518518517,
+		"MCL_Den": 0.037037037037037035,
+		"MMCL_Den": 0.0,
+		"MACL_Den": 0.0,
+		"INCL_Den": 0.0,
+		"JFL_Den": 0.4358974358974359,
+		"EFL_Den": 0.5128205128205128,
+		"XFL_Den": 0.05128205128205128
+	},
+	"basic_level": {
+		"morph_LenAvg": 1.736842105263158,
+		"morph_LenStd": 1.060061497545318,
+		"word_LenAvg": 3.2452830188679247,
+		"word_LenStd": 1.1476910434524938
+	},
+	"basic_list": {
+		"NL_Lst": [
+			[
+				0,
+				"이",
+				"NP",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				1,
+				"우크라이나",
+				"NNP",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				2,
+				"시청자",
+				"NNG",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				3,
+				"편견",
+				"NNG",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				4,
+				"선입견",
+				"NNG",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				5,
+				"올렉산드르",
+				"NNP",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				6,
+				"트카첸코",
+				"NNP",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				7,
+				"우크라이나",
+				"NNP",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				8,
+				"문화",
+				"NNG",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				9,
+				"장관",
+				"NNG",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				10,
+				"드라마",
+				"NNG",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				11,
+				"속",
+				"NNG",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				12,
+				"우크라이나",
+				"NNP",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				13,
+				"여성",
+				"NNG",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				14,
+				"묘사",
+				"NNG",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				15,
+				"수",
+				"NNB",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				16,
+				"모욕",
+				"NNG",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				17,
+				"일",
+				"NNG",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				18,
+				"문제",
+				"NNG",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				19,
+				"에밀리",
+				"NNP",
+				"앞서 '에밀리, 파리에 가다'는 시즌1에서도 프랑스인의 실내 흡연, 불륜 등을 묘사해 편견을 부추긴다는 논란이 일기도 했다."
+			],
+			[
+				20,
+				"파리",
+				"NNP",
+				"앞서 '에밀리, 파리에 가다'는 시즌1에서도 프랑스인의 실내 흡연, 불륜 등을 묘사해 편견을 부추긴다는 논란이 일기도 했다."
+			],
+			[
+				21,
+				"시즌",
+				"NNG",
+				"앞서 '에밀리, 파리에 가다'는 시즌1에서도 프랑스인의 실내 흡연, 불륜 등을 묘사해 편견을 부추긴다는 논란이 일기도 했다."
+			],
+			[
+				22,
+				"프랑스인",
+				"NNG",
+				"앞서 '에밀리, 파리에 가다'는 시즌1에서도 프랑스인의 실내 흡연, 불륜 등을 묘사해 편견을 부추긴다는 논란이 일기도 했다."
+			],
+			[
+				23,
+				"실내",
+				"NNG",
+				"앞서 '에밀리, 파리에 가다'는 시즌1에서도 프랑스인의 실내 흡연, 불륜 등을 묘사해 편견을 부추긴다는 논란이 일기도 했다."
+			],
+			[
+				24,
+				"흡연",
+				"NNG",
+				"앞서 '에밀리, 파리에 가다'는 시즌1에서도 프랑스인의 실내 흡연, 불륜 등을 묘사해 편견을 부추긴다는 논란이 일기도 했다."
+			],
+			[
+				25,
+				"불륜",
+				"NNG",
+				"앞서 '에밀리, 파리에 가다'는 시즌1에서도 프랑스인의 실내 흡연, 불륜 등을 묘사해 편견을 부추긴다는 논란이 일기도 했다."
+			],
+			[
+				26,
+				"등",
+				"NNB",
+				"앞서 '에밀리, 파리에 가다'는 시즌1에서도 프랑스인의 실내 흡연, 불륜 등을 묘사해 편견을 부추긴다는 논란이 일기도 했다."
+			],
+			[
+				27,
+				"편견",
+				"NNG",
+				"앞서 '에밀리, 파리에 가다'는 시즌1에서도 프랑스인의 실내 흡연, 불륜 등을 묘사해 편견을 부추긴다는 논란이 일기도 했다."
+			],
+			[
+				28,
+				"논란",
+				"NNG",
+				"앞서 '에밀리, 파리에 가다'는 시즌1에서도 프랑스인의 실내 흡연, 불륜 등을 묘사해 편견을 부추긴다는 논란이 일기도 했다."
+			],
+			[
+				29,
+				"넷플릭스",
+				"NNP",
+				"한편, 넷플릭스 미국 오리지널 드라마 '에밀리, 파리에 가다 시즌2'는 지난달 22일 공개됐다."
+			],
+			[
+				30,
+				"미국",
+				"NNP",
+				"한편, 넷플릭스 미국 오리지널 드라마 '에밀리, 파리에 가다 시즌2'는 지난달 22일 공개됐다."
+			],
+			[
+				31,
+				"오리지널",
+				"NNG",
+				"한편, 넷플릭스 미국 오리지널 드라마 '에밀리, 파리에 가다 시즌2'는 지난달 22일 공개됐다."
+			],
+			[
+				32,
+				"드라마",
+				"NNG",
+				"한편, 넷플릭스 미국 오리지널 드라마 '에밀리, 파리에 가다 시즌2'는 지난달 22일 공개됐다."
+			],
+			[
+				33,
+				"에밀리",
+				"NNP",
+				"한편, 넷플릭스 미국 오리지널 드라마 '에밀리, 파리에 가다 시즌2'는 지난달 22일 공개됐다."
+			],
+			[
+				34,
+				"파리",
+				"NNP",
+				"한편, 넷플릭스 미국 오리지널 드라마 '에밀리, 파리에 가다 시즌2'는 지난달 22일 공개됐다."
+			],
+			[
+				35,
+				"시즌",
+				"NNG",
+				"한편, 넷플릭스 미국 오리지널 드라마 '에밀리, 파리에 가다 시즌2'는 지난달 22일 공개됐다."
+			],
+			[
+				36,
+				"지난달",
+				"NNG",
+				"한편, 넷플릭스 미국 오리지널 드라마 '에밀리, 파리에 가다 시즌2'는 지난달 22일 공개됐다."
+			],
+			[
+				37,
+				"일",
+				"NNB",
+				"한편, 넷플릭스 미국 오리지널 드라마 '에밀리, 파리에 가다 시즌2'는 지난달 22일 공개됐다."
+			]
+		],
+		"NN_Lst": [
+			[
+				0,
+				"우크라이나",
+				"NNP",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				1,
+				"시청자",
+				"NNG",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				2,
+				"편견",
+				"NNG",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				3,
+				"선입견",
+				"NNG",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				4,
+				"올렉산드르",
+				"NNP",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				5,
+				"트카첸코",
+				"NNP",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				6,
+				"우크라이나",
+				"NNP",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				7,
+				"문화",
+				"NNG",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				8,
+				"장관",
+				"NNG",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				9,
+				"드라마",
+				"NNG",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				10,
+				"속",
+				"NNG",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				11,
+				"우크라이나",
+				"NNP",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				12,
+				"여성",
+				"NNG",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				13,
+				"묘사",
+				"NNG",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				14,
+				"수",
+				"NNB",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				15,
+				"모욕",
+				"NNG",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				16,
+				"일",
+				"NNG",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				17,
+				"문제",
+				"NNG",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				18,
+				"에밀리",
+				"NNP",
+				"앞서 '에밀리, 파리에 가다'는 시즌1에서도 프랑스인의 실내 흡연, 불륜 등을 묘사해 편견을 부추긴다는 논란이 일기도 했다."
+			],
+			[
+				19,
+				"파리",
+				"NNP",
+				"앞서 '에밀리, 파리에 가다'는 시즌1에서도 프랑스인의 실내 흡연, 불륜 등을 묘사해 편견을 부추긴다는 논란이 일기도 했다."
+			],
+			[
+				20,
+				"시즌",
+				"NNG",
+				"앞서 '에밀리, 파리에 가다'는 시즌1에서도 프랑스인의 실내 흡연, 불륜 등을 묘사해 편견을 부추긴다는 논란이 일기도 했다."
+			],
+			[
+				21,
+				"프랑스인",
+				"NNG",
+				"앞서 '에밀리, 파리에 가다'는 시즌1에서도 프랑스인의 실내 흡연, 불륜 등을 묘사해 편견을 부추긴다는 논란이 일기도 했다."
+			],
+			[
+				22,
+				"실내",
+				"NNG",
+				"앞서 '에밀리, 파리에 가다'는 시즌1에서도 프랑스인의 실내 흡연, 불륜 등을 묘사해 편견을 부추긴다는 논란이 일기도 했다."
+			],
+			[
+				23,
+				"흡연",
+				"NNG",
+				"앞서 '에밀리, 파리에 가다'는 시즌1에서도 프랑스인의 실내 흡연, 불륜 등을 묘사해 편견을 부추긴다는 논란이 일기도 했다."
+			],
+			[
+				24,
+				"불륜",
+				"NNG",
+				"앞서 '에밀리, 파리에 가다'는 시즌1에서도 프랑스인의 실내 흡연, 불륜 등을 묘사해 편견을 부추긴다는 논란이 일기도 했다."
+			],
+			[
+				25,
+				"등",
+				"NNB",
+				"앞서 '에밀리, 파리에 가다'는 시즌1에서도 프랑스인의 실내 흡연, 불륜 등을 묘사해 편견을 부추긴다는 논란이 일기도 했다."
+			],
+			[
+				26,
+				"편견",
+				"NNG",
+				"앞서 '에밀리, 파리에 가다'는 시즌1에서도 프랑스인의 실내 흡연, 불륜 등을 묘사해 편견을 부추긴다는 논란이 일기도 했다."
+			],
+			[
+				27,
+				"논란",
+				"NNG",
+				"앞서 '에밀리, 파리에 가다'는 시즌1에서도 프랑스인의 실내 흡연, 불륜 등을 묘사해 편견을 부추긴다는 논란이 일기도 했다."
+			],
+			[
+				28,
+				"넷플릭스",
+				"NNP",
+				"한편, 넷플릭스 미국 오리지널 드라마 '에밀리, 파리에 가다 시즌2'는 지난달 22일 공개됐다."
+			],
+			[
+				29,
+				"미국",
+				"NNP",
+				"한편, 넷플릭스 미국 오리지널 드라마 '에밀리, 파리에 가다 시즌2'는 지난달 22일 공개됐다."
+			],
+			[
+				30,
+				"오리지널",
+				"NNG",
+				"한편, 넷플릭스 미국 오리지널 드라마 '에밀리, 파리에 가다 시즌2'는 지난달 22일 공개됐다."
+			],
+			[
+				31,
+				"드라마",
+				"NNG",
+				"한편, 넷플릭스 미국 오리지널 드라마 '에밀리, 파리에 가다 시즌2'는 지난달 22일 공개됐다."
+			],
+			[
+				32,
+				"에밀리",
+				"NNP",
+				"한편, 넷플릭스 미국 오리지널 드라마 '에밀리, 파리에 가다 시즌2'는 지난달 22일 공개됐다."
+			],
+			[
+				33,
+				"파리",
+				"NNP",
+				"한편, 넷플릭스 미국 오리지널 드라마 '에밀리, 파리에 가다 시즌2'는 지난달 22일 공개됐다."
+			],
+			[
+				34,
+				"시즌",
+				"NNG",
+				"한편, 넷플릭스 미국 오리지널 드라마 '에밀리, 파리에 가다 시즌2'는 지난달 22일 공개됐다."
+			],
+			[
+				35,
+				"지난달",
+				"NNG",
+				"한편, 넷플릭스 미국 오리지널 드라마 '에밀리, 파리에 가다 시즌2'는 지난달 22일 공개됐다."
+			],
+			[
+				36,
+				"일",
+				"NNB",
+				"한편, 넷플릭스 미국 오리지널 드라마 '에밀리, 파리에 가다 시즌2'는 지난달 22일 공개됐다."
+			]
+		],
+		"NNG_Lst": [
+			[
+				0,
+				"시청자",
+				"NNG",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				1,
+				"편견",
+				"NNG",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				2,
+				"선입견",
+				"NNG",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				3,
+				"문화",
+				"NNG",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				4,
+				"장관",
+				"NNG",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				5,
+				"드라마",
+				"NNG",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				6,
+				"속",
+				"NNG",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				7,
+				"여성",
+				"NNG",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				8,
+				"묘사",
+				"NNG",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				9,
+				"모욕",
+				"NNG",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				10,
+				"일",
+				"NNG",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				11,
+				"문제",
+				"NNG",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				12,
+				"시즌",
+				"NNG",
+				"앞서 '에밀리, 파리에 가다'는 시즌1에서도 프랑스인의 실내 흡연, 불륜 등을 묘사해 편견을 부추긴다는 논란이 일기도 했다."
+			],
+			[
+				13,
+				"프랑스인",
+				"NNG",
+				"앞서 '에밀리, 파리에 가다'는 시즌1에서도 프랑스인의 실내 흡연, 불륜 등을 묘사해 편견을 부추긴다는 논란이 일기도 했다."
+			],
+			[
+				14,
+				"실내",
+				"NNG",
+				"앞서 '에밀리, 파리에 가다'는 시즌1에서도 프랑스인의 실내 흡연, 불륜 등을 묘사해 편견을 부추긴다는 논란이 일기도 했다."
+			],
+			[
+				15,
+				"흡연",
+				"NNG",
+				"앞서 '에밀리, 파리에 가다'는 시즌1에서도 프랑스인의 실내 흡연, 불륜 등을 묘사해 편견을 부추긴다는 논란이 일기도 했다."
+			],
+			[
+				16,
+				"불륜",
+				"NNG",
+				"앞서 '에밀리, 파리에 가다'는 시즌1에서도 프랑스인의 실내 흡연, 불륜 등을 묘사해 편견을 부추긴다는 논란이 일기도 했다."
+			],
+			[
+				17,
+				"편견",
+				"NNG",
+				"앞서 '에밀리, 파리에 가다'는 시즌1에서도 프랑스인의 실내 흡연, 불륜 등을 묘사해 편견을 부추긴다는 논란이 일기도 했다."
+			],
+			[
+				18,
+				"논란",
+				"NNG",
+				"앞서 '에밀리, 파리에 가다'는 시즌1에서도 프랑스인의 실내 흡연, 불륜 등을 묘사해 편견을 부추긴다는 논란이 일기도 했다."
+			],
+			[
+				19,
+				"오리지널",
+				"NNG",
+				"한편, 넷플릭스 미국 오리지널 드라마 '에밀리, 파리에 가다 시즌2'는 지난달 22일 공개됐다."
+			],
+			[
+				20,
+				"드라마",
+				"NNG",
+				"한편, 넷플릭스 미국 오리지널 드라마 '에밀리, 파리에 가다 시즌2'는 지난달 22일 공개됐다."
+			],
+			[
+				21,
+				"시즌",
+				"NNG",
+				"한편, 넷플릭스 미국 오리지널 드라마 '에밀리, 파리에 가다 시즌2'는 지난달 22일 공개됐다."
+			],
+			[
+				22,
+				"지난달",
+				"NNG",
+				"한편, 넷플릭스 미국 오리지널 드라마 '에밀리, 파리에 가다 시즌2'는 지난달 22일 공개됐다."
+			]
+		],
+		"NNP_Lst": [
+			[
+				0,
+				"우크라이나",
+				"NNP",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				1,
+				"올렉산드르",
+				"NNP",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				2,
+				"트카첸코",
+				"NNP",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				3,
+				"우크라이나",
+				"NNP",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				4,
+				"우크라이나",
+				"NNP",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				5,
+				"에밀리",
+				"NNP",
+				"앞서 '에밀리, 파리에 가다'는 시즌1에서도 프랑스인의 실내 흡연, 불륜 등을 묘사해 편견을 부추긴다는 논란이 일기도 했다."
+			],
+			[
+				6,
+				"파리",
+				"NNP",
+				"앞서 '에밀리, 파리에 가다'는 시즌1에서도 프랑스인의 실내 흡연, 불륜 등을 묘사해 편견을 부추긴다는 논란이 일기도 했다."
+			],
+			[
+				7,
+				"넷플릭스",
+				"NNP",
+				"한편, 넷플릭스 미국 오리지널 드라마 '에밀리, 파리에 가다 시즌2'는 지난달 22일 공개됐다."
+			],
+			[
+				8,
+				"미국",
+				"NNP",
+				"한편, 넷플릭스 미국 오리지널 드라마 '에밀리, 파리에 가다 시즌2'는 지난달 22일 공개됐다."
+			],
+			[
+				9,
+				"에밀리",
+				"NNP",
+				"한편, 넷플릭스 미국 오리지널 드라마 '에밀리, 파리에 가다 시즌2'는 지난달 22일 공개됐다."
+			],
+			[
+				10,
+				"파리",
+				"NNP",
+				"한편, 넷플릭스 미국 오리지널 드라마 '에밀리, 파리에 가다 시즌2'는 지난달 22일 공개됐다."
+			]
+		],
+		"NNB_Lst": [
+			[
+				0,
+				"수",
+				"NNB",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				1,
+				"등",
+				"NNB",
+				"앞서 '에밀리, 파리에 가다'는 시즌1에서도 프랑스인의 실내 흡연, 불륜 등을 묘사해 편견을 부추긴다는 논란이 일기도 했다."
+			],
+			[
+				2,
+				"일",
+				"NNB",
+				"한편, 넷플릭스 미국 오리지널 드라마 '에밀리, 파리에 가다 시즌2'는 지난달 22일 공개됐다."
+			]
+		],
+		"NP_Lst": [
+			[
+				0,
+				"이",
+				"NP",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			]
+		],
+		"NP_People_Lst": [],
+		"NP_Things_Lst": [
+			[
+				0,
+				"이",
+				"NP",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			]
+		],
+		"NR_Lst": [],
+		"VL_Lst": [
+			[
+				0,
+				"조장하",
+				"VV",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				1,
+				"반발하",
+				"VV",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				2,
+				"용납하",
+				"VV",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				3,
+				"없",
+				"VA",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				4,
+				"이",
+				"VCP",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				5,
+				"표현하",
+				"VV",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				6,
+				"제기하",
+				"VV",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				7,
+				"가",
+				"VV",
+				"앞서 '에밀리, 파리에 가다'는 시즌1에서도 프랑스인의 실내 흡연, 불륜 등을 묘사해 편견을 부추긴다는 논란이 일기도 했다."
+			],
+			[
+				8,
+				"묘사하",
+				"VV",
+				"앞서 '에밀리, 파리에 가다'는 시즌1에서도 프랑스인의 실내 흡연, 불륜 등을 묘사해 편견을 부추긴다는 논란이 일기도 했다."
+			],
+			[
+				9,
+				"부추기",
+				"VV",
+				"앞서 '에밀리, 파리에 가다'는 시즌1에서도 프랑스인의 실내 흡연, 불륜 등을 묘사해 편견을 부추긴다는 논란이 일기도 했다."
+			],
+			[
+				10,
+				"일",
+				"VV",
+				"앞서 '에밀리, 파리에 가다'는 시즌1에서도 프랑스인의 실내 흡연, 불륜 등을 묘사해 편견을 부추긴다는 논란이 일기도 했다."
+			],
+			[
+				11,
+				"하",
+				"VX",
+				"앞서 '에밀리, 파리에 가다'는 시즌1에서도 프랑스인의 실내 흡연, 불륜 등을 묘사해 편견을 부추긴다는 논란이 일기도 했다."
+			],
+			[
+				12,
+				"가",
+				"VV",
+				"한편, 넷플릭스 미국 오리지널 드라마 '에밀리, 파리에 가다 시즌2'는 지난달 22일 공개됐다."
+			],
+			[
+				13,
+				"공개되",
+				"VV",
+				"한편, 넷플릭스 미국 오리지널 드라마 '에밀리, 파리에 가다 시즌2'는 지난달 22일 공개됐다."
+			]
+		],
+		"VV_Lst": [
+			[
+				0,
+				"조장하",
+				"VV",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				1,
+				"반발하",
+				"VV",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				2,
+				"용납하",
+				"VV",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				3,
+				"표현하",
+				"VV",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				4,
+				"제기하",
+				"VV",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				5,
+				"가",
+				"VV",
+				"앞서 '에밀리, 파리에 가다'는 시즌1에서도 프랑스인의 실내 흡연, 불륜 등을 묘사해 편견을 부추긴다는 논란이 일기도 했다."
+			],
+			[
+				6,
+				"묘사하",
+				"VV",
+				"앞서 '에밀리, 파리에 가다'는 시즌1에서도 프랑스인의 실내 흡연, 불륜 등을 묘사해 편견을 부추긴다는 논란이 일기도 했다."
+			],
+			[
+				7,
+				"부추기",
+				"VV",
+				"앞서 '에밀리, 파리에 가다'는 시즌1에서도 프랑스인의 실내 흡연, 불륜 등을 묘사해 편견을 부추긴다는 논란이 일기도 했다."
+			],
+			[
+				8,
+				"일",
+				"VV",
+				"앞서 '에밀리, 파리에 가다'는 시즌1에서도 프랑스인의 실내 흡연, 불륜 등을 묘사해 편견을 부추긴다는 논란이 일기도 했다."
+			],
+			[
+				9,
+				"가",
+				"VV",
+				"한편, 넷플릭스 미국 오리지널 드라마 '에밀리, 파리에 가다 시즌2'는 지난달 22일 공개됐다."
+			],
+			[
+				10,
+				"공개되",
+				"VV",
+				"한편, 넷플릭스 미국 오리지널 드라마 '에밀리, 파리에 가다 시즌2'는 지난달 22일 공개됐다."
+			]
+		],
+		"VA_Lst": [
+			[
+				0,
+				"없",
+				"VA",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			]
+		],
+		"VX_Lst": [
+			[
+				0,
+				"하",
+				"VX",
+				"앞서 '에밀리, 파리에 가다'는 시즌1에서도 프랑스인의 실내 흡연, 불륜 등을 묘사해 편견을 부추긴다는 논란이 일기도 했다."
+			]
+		],
+		"VCP_Lst": [
+			[
+				0,
+				"이",
+				"VCP",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			]
+		],
+		"VCN_Lst": [],
+		"ML_Lst": [
+			[
+				0,
+				"앞서",
+				"MAG",
+				"앞서 '에밀리, 파리에 가다'는 시즌1에서도 프랑스인의 실내 흡연, 불륜 등을 묘사해 편견을 부추긴다는 논란이 일기도 했다."
+			],
+			[
+				1,
+				"한편",
+				"MAG",
+				"한편, 넷플릭스 미국 오리지널 드라마 '에밀리, 파리에 가다 시즌2'는 지난달 22일 공개됐다."
+			]
+		],
+		"MA_Lst": [],
+		"MM_Lst": [],
+		"J_Lst": [
+			[
+				0,
+				"에",
+				"JKB",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				1,
+				"은",
+				"JX",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				2,
+				"과",
+				"JC",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				3,
+				"을",
+				"JKO",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				4,
+				"은",
+				"JX",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				5,
+				"는",
+				"JX",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				6,
+				"를",
+				"JKO",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				7,
+				"에",
+				"JKB",
+				"앞서 '에밀리, 파리에 가다'는 시즌1에서도 프랑스인의 실내 흡연, 불륜 등을 묘사해 편견을 부추긴다는 논란이 일기도 했다."
+			],
+			[
+				8,
+				"에서",
+				"JKB",
+				"앞서 '에밀리, 파리에 가다'는 시즌1에서도 프랑스인의 실내 흡연, 불륜 등을 묘사해 편견을 부추긴다는 논란이 일기도 했다."
+			],
+			[
+				9,
+				"도",
+				"JX",
+				"앞서 '에밀리, 파리에 가다'는 시즌1에서도 프랑스인의 실내 흡연, 불륜 등을 묘사해 편견을 부추긴다는 논란이 일기도 했다."
+			],
+			[
+				10,
+				"의",
+				"JKG",
+				"앞서 '에밀리, 파리에 가다'는 시즌1에서도 프랑스인의 실내 흡연, 불륜 등을 묘사해 편견을 부추긴다는 논란이 일기도 했다."
+			],
+			[
+				11,
+				"을",
+				"JKO",
+				"앞서 '에밀리, 파리에 가다'는 시즌1에서도 프랑스인의 실내 흡연, 불륜 등을 묘사해 편견을 부추긴다는 논란이 일기도 했다."
+			],
+			[
+				12,
+				"을",
+				"JKO",
+				"앞서 '에밀리, 파리에 가다'는 시즌1에서도 프랑스인의 실내 흡연, 불륜 등을 묘사해 편견을 부추긴다는 논란이 일기도 했다."
+			],
+			[
+				13,
+				"이",
+				"JKS",
+				"앞서 '에밀리, 파리에 가다'는 시즌1에서도 프랑스인의 실내 흡연, 불륜 등을 묘사해 편견을 부추긴다는 논란이 일기도 했다."
+			],
+			[
+				14,
+				"도",
+				"JX",
+				"앞서 '에밀리, 파리에 가다'는 시즌1에서도 프랑스인의 실내 흡연, 불륜 등을 묘사해 편견을 부추긴다는 논란이 일기도 했다."
+			],
+			[
+				15,
+				"에",
+				"JKB",
+				"한편, 넷플릭스 미국 오리지널 드라마 '에밀리, 파리에 가다 시즌2'는 지난달 22일 공개됐다."
+			],
+			[
+				16,
+				"는",
+				"JX",
+				"한편, 넷플릭스 미국 오리지널 드라마 '에밀리, 파리에 가다 시즌2'는 지난달 22일 공개됐다."
+			]
+		],
+		"E_Lst": [
+			[
+				0,
+				"ㄴ다",
+				"EF",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				1,
+				"며",
+				"EC",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				2,
+				"았",
+				"EP",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				3,
+				"고",
+				"EC",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				4,
+				"ㄹ",
+				"ETM",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				5,
+				"고",
+				"EC",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				6,
+				"ㄴ",
+				"ETM",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				7,
+				"며",
+				"EC",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				8,
+				"았",
+				"EP",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				9,
+				"다",
+				"EF",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				10,
+				"다",
+				"EF",
+				"앞서 '에밀리, 파리에 가다'는 시즌1에서도 프랑스인의 실내 흡연, 불륜 등을 묘사해 편견을 부추긴다는 논란이 일기도 했다."
+			],
+			[
+				11,
+				"는",
+				"ETM",
+				"앞서 '에밀리, 파리에 가다'는 시즌1에서도 프랑스인의 실내 흡연, 불륜 등을 묘사해 편견을 부추긴다는 논란이 일기도 했다."
+			],
+			[
+				12,
+				"아",
+				"EC",
+				"앞서 '에밀리, 파리에 가다'는 시즌1에서도 프랑스인의 실내 흡연, 불륜 등을 묘사해 편견을 부추긴다는 논란이 일기도 했다."
+			],
+			[
+				13,
+				"ㄴ다는",
+				"ETM",
+				"앞서 '에밀리, 파리에 가다'는 시즌1에서도 프랑스인의 실내 흡연, 불륜 등을 묘사해 편견을 부추긴다는 논란이 일기도 했다."
+			],
+			[
+				14,
+				"기",
+				"ETN",
+				"앞서 '에밀리, 파리에 가다'는 시즌1에서도 프랑스인의 실내 흡연, 불륜 등을 묘사해 편견을 부추긴다는 논란이 일기도 했다."
+			],
+			[
+				15,
+				"았",
+				"EP",
+				"앞서 '에밀리, 파리에 가다'는 시즌1에서도 프랑스인의 실내 흡연, 불륜 등을 묘사해 편견을 부추긴다는 논란이 일기도 했다."
+			],
+			[
+				16,
+				"다",
+				"EF",
+				"앞서 '에밀리, 파리에 가다'는 시즌1에서도 프랑스인의 실내 흡연, 불륜 등을 묘사해 편견을 부추긴다는 논란이 일기도 했다."
+			],
+			[
+				17,
+				"다",
+				"EC",
+				"한편, 넷플릭스 미국 오리지널 드라마 '에밀리, 파리에 가다 시즌2'는 지난달 22일 공개됐다."
+			],
+			[
+				18,
+				"었",
+				"EP",
+				"한편, 넷플릭스 미국 오리지널 드라마 '에밀리, 파리에 가다 시즌2'는 지난달 22일 공개됐다."
+			],
+			[
+				19,
+				"다",
+				"EF",
+				"한편, 넷플릭스 미국 오리지널 드라마 '에밀리, 파리에 가다 시즌2'는 지난달 22일 공개됐다."
+			]
+		],
+		"X_Lst": [
+			[
+				0,
+				"들",
+				"XSN",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			],
+			[
+				1,
+				"적",
+				"XSN",
+				"이에 우크라이나 시청자들은 \"편견과 선입견을 조장한다\"며 반발했고, 올렉산드르 트카첸코 우크라이나 문화 장관은 \"드라마 속 우크라이나 여성 묘사는 용납할 수 없고, 모욕적인 일\"이라고 표현하며 문제를 제기했다."
+			]
+		],
+		"IC_Lst": []
+	},
+	"NDW": {
+		"morph_NDW": 79,
+		"NL_NDW": 38,
+		"NNG_NDW": 23,
+		"NNP_NDW": 11,
+		"NNB_NDW": 3,
+		"NP_NDW": 1,
+		"NR_NDW": 0,
+		"VL_NDW": 14,
+		"VV_NDW": 11,
+		"VA_NDW": 1,
+		"ML_NDW": 2,
+		"MM_NDW": 0,
+		"IC_NDW": 0,
+		"J_NDW": 17,
+		"E_NDW": 20,
+		"X_NDW": 2,
+		"CL_NDW": 54,
+		"FL_NDW": 39
+	}
+}

@@ -1,0 +1,2793 @@
+﻿{
+	"morpheme": {
+		"sentences": [
+			{
+				"text": {
+					"content": "지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다.",
+					"length": 101,
+					"beginOffset": 0
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "지난해",
+							"length": 3,
+							"beginOffset": 0
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "지난해",
+									"length": 3,
+									"beginOffset": 0
+								},
+								"tag": "NNG",
+								"probability": 0.9754879,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "지난해",
+						"tagged": "지난해/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "2월",
+							"beginOffset": 4,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "2",
+									"beginOffset": 4,
+									"length": 1
+								},
+								"tag": "SN",
+								"probability": 0.99854165,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "월",
+									"beginOffset": 5,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9766515,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "2",
+						"tagged": "2/SN+월/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "청각·언어장애인",
+							"beginOffset": 7,
+							"length": 8
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "청각",
+									"beginOffset": 7,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9825603,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "·",
+									"beginOffset": 9,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.99797255,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "언어",
+									"beginOffset": 10,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "장애인",
+									"beginOffset": 12,
+									"length": 3
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							}
+						],
+						"lemma": "청각",
+						"tagged": "청각/NNG+·/SP+언어/NNG+장애인/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "당사자들은",
+							"beginOffset": 16,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "당사자",
+									"beginOffset": 16,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9840996,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "들",
+									"beginOffset": 19,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.988876,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 20,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99825484,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "당사자",
+						"tagged": "당사자/NNG+들/XSN+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "스타벅스",
+							"beginOffset": 22,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "스타벅스",
+									"beginOffset": 22,
+									"length": 4
+								},
+								"tag": "NNP",
+								"probability": 0.95970833,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "스타벅스",
+						"tagged": "스타벅스/NNP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "드라이브스루(차에",
+							"beginOffset": 27,
+							"length": 9
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "드라이브스루",
+									"beginOffset": 27,
+									"length": 6
+								},
+								"tag": "NNP",
+								"probability": 0.53083026,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "(",
+									"beginOffset": 33,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9999491,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "차",
+									"beginOffset": 34,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9545381,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 35,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9970494,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "드라이브스루",
+						"tagged": "드라이브스루/NNP+(/SS+차/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "탄",
+							"beginOffset": 37,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "타",
+									"beginOffset": 37,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.98877496,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 37,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99937636,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "타",
+						"tagged": "타/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "채로",
+							"beginOffset": 39,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "채",
+									"beginOffset": 39,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.966415,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "로",
+									"beginOffset": 40,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9946089,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "채",
+						"tagged": "채/NNB+로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "서비스를",
+							"beginOffset": 42,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "서비스",
+									"beginOffset": 42,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9815415,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 45,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999829,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "서비스",
+						"tagged": "서비스/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이용하는",
+							"beginOffset": 47,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이용하",
+									"beginOffset": 47,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 50,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999314,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이용하",
+						"tagged": "이용하/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "것",
+							"beginOffset": 52,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "것",
+									"beginOffset": 52,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9844234,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "것",
+						"tagged": "것/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": ")",
+							"beginOffset": 53,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": ")",
+									"beginOffset": 53,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9999109,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": ")",
+						"tagged": ")/SS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "매장에서",
+							"beginOffset": 55,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "매장",
+									"beginOffset": 55,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97318506,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에서",
+									"beginOffset": 57,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9944594,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "매장",
+						"tagged": "매장/NNG+에서/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "차별을",
+							"beginOffset": 60,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "차별",
+									"beginOffset": 60,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98194635,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 62,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99993205,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "차별",
+						"tagged": "차별/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "당했다고",
+							"beginOffset": 64,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "당하",
+									"beginOffset": 64,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9828409,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 65,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99997044,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다고",
+									"beginOffset": 66,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9768153,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "당하",
+						"tagged": "당하/VV+았/EP+다고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "국가인권위원회(아래",
+							"beginOffset": 69,
+							"length": 10
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "국가",
+									"beginOffset": 69,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "인권",
+									"beginOffset": 71,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "위원회",
+									"beginOffset": 73,
+									"length": 3
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "(",
+									"beginOffset": 76,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9999119,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아래",
+									"beginOffset": 77,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9767906,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "국가",
+						"tagged": "국가/NNG+인권/NNG+위원회/NNG+(/SS+아래/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "인권위)",
+							"beginOffset": 80,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "인권위",
+									"beginOffset": 80,
+									"length": 3
+								},
+								"tag": "NNP",
+								"probability": 0.76410735,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ")",
+									"beginOffset": 83,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9997912,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "인권위",
+						"tagged": "인권위/NNP+)/SS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "대구사무소에",
+							"beginOffset": 85,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "대구",
+									"beginOffset": 85,
+									"length": 2
+								},
+								"tag": "NNP",
+								"probability": 0.93340254,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "사무소",
+									"beginOffset": 87,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9771242,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 90,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99531376,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "대구",
+						"tagged": "대구/NNP+사무소/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "차별을",
+							"beginOffset": 92,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "차별",
+									"beginOffset": 92,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98302186,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 94,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999354,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "차별",
+						"tagged": "차별/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "진정했다.",
+							"beginOffset": 96,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "진정하",
+									"beginOffset": 96,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.0,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 98,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.999969,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 99,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.99042994,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 100,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99986297,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "진정하",
+						"tagged": "진정하/VV+았/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것 ) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			},
+			{
+				"text": {
+					"content": "드라이브스루는 음성언어로만 주문이 가능하기 때문에 청각·언어장애인은 이용이 힘들다.",
+					"beginOffset": 102,
+					"length": 46
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "드라이브스루는",
+							"beginOffset": 102,
+							"length": 7
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "드라이브",
+									"beginOffset": 102,
+									"length": 4
+								},
+								"tag": "NNG",
+								"probability": 0.9656977,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "스루",
+									"beginOffset": 106,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.91425604,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 108,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9992705,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "드라이브",
+						"tagged": "드라이브/NNG+스루/NNG+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "음성언어로만",
+							"beginOffset": 110,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "음성",
+									"beginOffset": 110,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "언어",
+									"beginOffset": 112,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "로",
+									"beginOffset": 114,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9963686,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "만",
+									"beginOffset": 115,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9974608,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "음성",
+						"tagged": "음성/NNG+언어/NNG+로/JKB+만/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "주문이",
+							"beginOffset": 117,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "주문",
+									"beginOffset": 117,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9825259,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 119,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.99264026,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "주문",
+						"tagged": "주문/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "가능하기",
+							"beginOffset": 121,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "가능하",
+									"beginOffset": 121,
+									"length": 3
+								},
+								"tag": "VA",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "기",
+									"beginOffset": 124,
+									"length": 1
+								},
+								"tag": "ETN",
+								"probability": 0.9994369,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "가능하",
+						"tagged": "가능하/VA+기/ETN",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "때문에",
+							"beginOffset": 126,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "때문",
+									"beginOffset": 126,
+									"length": 2
+								},
+								"tag": "NNB",
+								"probability": 0.97020906,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 128,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99715,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "때문",
+						"tagged": "때문/NNB+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "청각·언어장애인은",
+							"beginOffset": 130,
+							"length": 9
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "청각",
+									"beginOffset": 130,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9805239,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "·",
+									"beginOffset": 132,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.99865544,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "언어",
+									"beginOffset": 133,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "장애인",
+									"beginOffset": 135,
+									"length": 3
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 138,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99945396,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "청각",
+						"tagged": "청각/NNG+·/SP+언어/NNG+장애인/NNG+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이용이",
+							"beginOffset": 140,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이용",
+									"beginOffset": 140,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98525286,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 142,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.95536697,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이용",
+						"tagged": "이용/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "힘들다.",
+							"beginOffset": 144,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "힘들",
+									"beginOffset": 144,
+									"length": 2
+								},
+								"tag": "VA",
+								"probability": 0.98808074,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 146,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.99367166,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 147,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99979615,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "힘들",
+						"tagged": "힘들/VA+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "드라이브스루는 음성언어로만 주문이 가능하기 때문에 청각·언어장애인은 이용이 힘들다."
+			},
+			{
+				"text": {
+					"content": "따라서 화상수어채팅 또는 장애인 편의가 마련된 키오스크 방식으로 제공되어야 마땅하다고 주장했다.",
+					"beginOffset": 149,
+					"length": 53
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "따라서",
+							"beginOffset": 149,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "따라서",
+									"beginOffset": 149,
+									"length": 3
+								},
+								"tag": "MAJ",
+								"probability": 0.99746954,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "따라서",
+						"tagged": "따라서/MAJ",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "화상수어채팅",
+							"beginOffset": 153,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "화상",
+									"beginOffset": 153,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.90658575,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "수어",
+									"beginOffset": 155,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.96531713,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "채팅",
+									"beginOffset": 157,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97906137,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "화상",
+						"tagged": "화상/NNG+수어/NNG+채팅/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "또는",
+							"beginOffset": 160,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "또는",
+									"beginOffset": 160,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.97627336,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "또는",
+						"tagged": "또는/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "장애인",
+							"beginOffset": 163,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "장애인",
+									"beginOffset": 163,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.98085004,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "장애인",
+						"tagged": "장애인/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "편의가",
+							"beginOffset": 167,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "편의",
+									"beginOffset": 167,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98249733,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 169,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.97417486,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "편의",
+						"tagged": "편의/NNG+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "마련된",
+							"beginOffset": 171,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "마련되",
+									"beginOffset": 171,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 173,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99991983,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "마련되",
+						"tagged": "마련되/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "키오스크",
+							"beginOffset": 175,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "키오스크",
+									"beginOffset": 175,
+									"length": 4
+								},
+								"tag": "NNG",
+								"probability": 0.90903944,
+								"outOfVocab": "OUT_OF_VOCAB"
+							}
+						],
+						"lemma": "키오스크",
+						"tagged": "키오스크/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "방식으로",
+							"beginOffset": 180,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "방식",
+									"beginOffset": 180,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9852281,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으로",
+									"beginOffset": 182,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.99652845,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "방식",
+						"tagged": "방식/NNG+으로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "제공되어야",
+							"beginOffset": 185,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "제공되",
+									"beginOffset": 185,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "어야",
+									"beginOffset": 188,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99386495,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "제공되",
+						"tagged": "제공되/VV+어야/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "마땅하다고",
+							"beginOffset": 191,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "마땅하",
+									"beginOffset": 191,
+									"length": 3
+								},
+								"tag": "VA",
+								"probability": 0.9824604,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다고",
+									"beginOffset": 194,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9937264,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "마땅하",
+						"tagged": "마땅하/VA+다고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "주장했다.",
+							"beginOffset": 197,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "주장하",
+									"beginOffset": 197,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 199,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9998639,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 200,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.99101746,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 201,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99935526,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "주장하",
+						"tagged": "주장하/VV+았/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "따라서 화상수어채팅 또는 장애인 편의가 마련된 키오스크 방식으로 제공되어야 마땅하다고 주장했다."
+			}
+		],
+		"language": "ko_KR"
+	},
+	"ttr": {
+		"lemma_Cnt": 82,
+		"lemma_TTR": 0.7391304347826086,
+		"CL_TTR": 0.8823529411764706,
+		"NL_TTR": 0.8461538461538461,
+		"NN_TTR": 0.8461538461538461,
+		"NNG_TTR": 0.8064516129032258,
+		"NNP_TTR": 1.0,
+		"NNB_TTR": 1.0,
+		"NP_TTR": 0,
+		"NR_TTR": 0,
+		"VL_TTR": 1.0,
+		"VV_TTR": 1.0,
+		"VA_TTR": 1.0,
+		"ML_TTR": 1.0,
+		"MM_TTR": 0,
+		"MA_TTR": 1.0,
+		"MAJ_TTR": 1.0,
+		"IC_TTR": 0,
+		"FL_TTR": 0.5806451612903226,
+		"J_TTR": 0.6470588235294118,
+		"E_TTR": 0.5384615384615384,
+		"X_TTR": 1.0,
+		"lemma_RTTR": 7.0894900779405425,
+		"CL_RTTR": 6.3012603781260434,
+		"NL_RTTR": 5.284229075567875,
+		"NN_RTTR": 5.284229075567875,
+		"NNG_RTTR": 4.490132550669373,
+		"NNP_RTTR": 2.0,
+		"NNB_RTTR": 2.0,
+		"NP_RTTR": 0,
+		"NR_RTTR": 0,
+		"VL_RTTR": 3.162277660168379,
+		"VV_RTTR": 2.6457513110645903,
+		"VA_RTTR": 1.7320508075688774,
+		"ML_RTTR": 1.414213562373095,
+		"MM_RTTR": 0,
+		"MA_RTTR": 1.414213562373095,
+		"MAJ_RTTR": 1.0,
+		"IC_RTTR": 0,
+		"FL_RTTR": 3.2328954364819484,
+		"J_RTTR": 2.6678918753996625,
+		"E_RTTR": 1.9414506867883021,
+		"X_RTTR": 1.0,
+		"lemma_CTTR": 5.013026509266503,
+		"CL_CTTR": 4.4556639433950345,
+		"NL_CTTR": 3.7365142126771658,
+		"NN_CTTR": 3.7365142126771658,
+		"NNG_CTTR": 3.1750031750047625,
+		"NNP_CTTR": 1.414213562373095,
+		"NNB_CTTR": 1.414213562373095,
+		"NP_CTTR": 0,
+		"NR_CTTR": 0,
+		"VL_CTTR": 2.23606797749979,
+		"VV_CTTR": 1.8708286933869707,
+		"VA_CTTR": 1.2247448713915892,
+		"ML_CTTR": 1.0,
+		"MM_CTTR": 0,
+		"MA_CTTR": 1.0,
+		"MAJ_CTTR": 0.7071067811865475,
+		"IC_CTTR": 0,
+		"FL_CTTR": 2.286002286003429,
+		"J_CTTR": 1.8864844365675972,
+		"E_CTTR": 1.3728129459672884,
+		"X_CTTR": 0.7071067811865475,
+		"lemma_MSTTR": 0.88,
+		"CL_MSTTR": 0.88,
+		"NL_MSTTR": 0.8461538461538461,
+		"NN_MSTTR": 0.8461538461538461,
+		"NNG_MSTTR": 0.8064516129032258,
+		"NNP_MSTTR": 1.0,
+		"NNB_MSTTR": 1.0,
+		"NP_MSTTR": 0,
+		"NR_MSTTR": 0,
+		"VL_MSTTR": 1.0,
+		"VV_MSTTR": 1.0,
+		"VA_MSTTR": 1.0,
+		"ML_MSTTR": 1.0,
+		"MM_MSTTR": 0,
+		"MA_MSTTR": 1.0,
+		"MAJ_MSTTR": 1.0,
+		"IC_MSTTR": 0,
+		"FL_MSTTR": 0.5806451612903226,
+		"J_MSTTR": 0.6470588235294118,
+		"E_MSTTR": 0.5384615384615384,
+		"X_MSTTR": 1.0,
+		"lemma_MATTR": 0.8451162790697677,
+		"CL_MATTR": 0.88,
+		"NL_MATTR": 0.8461538461538461,
+		"NN_MATTR": 0.8461538461538461,
+		"NNG_MATTR": 0.8064516129032258,
+		"NNP_MATTR": 1.0,
+		"NNB_MATTR": 1.0,
+		"NP_MATTR": 0,
+		"NR_MATTR": 0,
+		"VL_MATTR": 1.0,
+		"VV_MATTR": 1.0,
+		"VA_MATTR": 1.0,
+		"ML_MATTR": 1.0,
+		"MM_MATTR": 0,
+		"MA_MATTR": 1.0,
+		"MAJ_MATTR": 1.0,
+		"IC_MATTR": 0,
+		"FL_MATTR": 0.5806451612903226,
+		"J_MATTR": 0.6470588235294118,
+		"E_MATTR": 0.5384615384615384,
+		"X_MATTR": 1.0,
+		"lemma_MTLD": 98.74666666666666,
+		"CL_MTLD": 121.37999999999998,
+		"NL_MTLD": 70.98,
+		"NN_MTLD": 70.98,
+		"NNG_MTLD": 44.84666666666666,
+		"NNP_MTLD": 0.0,
+		"NNB_MTLD": 0.0,
+		"NP_MTLD": 0.0,
+		"NR_MTLD": 0.0,
+		"VL_MTLD": 0.0,
+		"VV_MTLD": 0.0,
+		"VA_MTLD": 0.0,
+		"ML_MTLD": 0.0,
+		"MM_MTLD": 0.0,
+		"MA_MTLD": 0.0,
+		"MAJ_MTLD": 0.0,
+		"IC_MTLD": 0.0,
+		"FL_MTLD": 25.763513513513512,
+		"J_MTLD": 14.128378378378379,
+		"E_MTLD": 13.0,
+		"X_MTLD": 0.0,
+		"lemma_VOCDD": 117.47554055033437,
+		"CL_VOCDD": 166.12216321201603,
+		"NL_VOCDD": 0,
+		"NN_VOCDD": 0,
+		"NNG_VOCDD": 0,
+		"NNP_VOCDD": 0,
+		"NNB_VOCDD": 0,
+		"NP_VOCDD": 0,
+		"NR_VOCDD": 0,
+		"VL_VOCDD": 0,
+		"VV_VOCDD": 0,
+		"VA_VOCDD": 0,
+		"ML_VOCDD": 0,
+		"MM_VOCDD": 0,
+		"MA_VOCDD": 0,
+		"MAJ_VOCDD": 0,
+		"IC_VOCDD": 0,
+		"FL_VOCDD": 0,
+		"J_VOCDD": 0,
+		"E_VOCDD": 0,
+		"X_VOCDD": 0,
+		"lemma_HDD": 0.866141105271541,
+		"CL_HDD": 0.8976230492196884,
+		"NL_HDD": 0.0,
+		"NN_HDD": 0.0,
+		"NNG_HDD": 0.0,
+		"NNP_HDD": 0.0,
+		"NNB_HDD": 0.0,
+		"NP_HDD": 0.0,
+		"NR_HDD": 0.0,
+		"VL_HDD": 0.0,
+		"VV_HDD": 0.0,
+		"VA_HDD": 0.0,
+		"ML_HDD": 0.0,
+		"MM_HDD": 0.0,
+		"MA_HDD": 0.0,
+		"MAJ_HDD": 0.0,
+		"IC_HDD": 0.0,
+		"FL_HDD": 0.0,
+		"J_HDD": 0.0,
+		"E_HDD": 0.0,
+		"X_HDD": 0.0
+	},
+	"similarity": {
+		"avgSentSimilarity": 0.30771318078041077,
+		"topicConsistency": 0.6598
+	},
+	"adjacency": {
+		"adjacent_sentence_overlap_all_lemmas": 30,
+		"adjacent_sentence_overlap_all_lemmas_normed": 2,
+		"binary_adjacent_sentence_overlap_all_lemmas": 2,
+		"adjacent_two_sentence_overlap_all_lemmas": 10,
+		"adjacent_two_sentence_overlap_all_lemmas_normed": 1,
+		"binary_adjacent_two_sentence_overlap_all_lemmas": 1,
+		"adjacent_sentence_overlap_content_lemmas": 18,
+		"adjacent_sentence_overlap_content_lemmas_normed": 2,
+		"binary_adjacent_sentence_overlap_content_lemmas": 2,
+		"adjacent_two_sentence_overlap_content_lemmas": 7,
+		"adjacent_two_sentence_overlap_content_lemmas_normed": 1,
+		"binary_adjacent_two_sentence_overlap_content_lemmas": 1,
+		"adjacent_sentence_overlap_function_lemmas": 9,
+		"adjacent_sentence_overlap_function_lemmas_normed": 2,
+		"binary_adjacent_sentence_overlap_function_lemmas": 2,
+		"adjacent_two_sentence_overlap_function_lemmas": 2,
+		"adjacent_two_sentence_overlap_function_lemmas_normed": 1,
+		"binary_adjacent_two_sentence_overlap_function_lemmas": 1,
+		"adjacent_sentence_overlap_noun_lemmas": 17,
+		"adjacent_sentence_overlap_noun_lemmas_normed": 2,
+		"binary_adjacent_sentence_overlap_noun_lemmas": 2,
+		"adjacent_two_sentence_overlap_noun_lemmas": 7,
+		"adjacent_two_sentence_overlap_noun_lemmas_normed": 1,
+		"binary_adjacent_two_sentence_overlap_noun_lemmas": 1,
+		"adjacent_sentence_overlap_verb_lemmas": 1,
+		"adjacent_sentence_overlap_verb_lemmas_normed": 1,
+		"binary_adjacent_sentence_overlap_verb_lemmas": 0,
+		"adjacent_two_sentence_overlap_verb_lemmas": 0,
+		"adjacent_two_sentence_overlap_verb_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_verb_lemmas": 0,
+		"adjacent_sentence_overlap_adjective_lemmas": 1,
+		"adjacent_sentence_overlap_adjective_lemmas_normed": 1,
+		"binary_adjacent_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_sentence_overlap_adverb_lemmas_normed": 0,
+		"binary_adjacent_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adverb_lemmas": 0
+	},
+	"basic_count": {
+		"para_Cnt": 1,
+		"sentence_Cnt": 3,
+		"word_Cnt": 38,
+		"morph_Cnt": 92,
+		"char_Cnt": 163,
+		"CL_Cnt": 51,
+		"NL_Cnt": 39,
+		"NN_Cnt": 39,
+		"NNG_Cnt": 31,
+		"NNP_Cnt": 4,
+		"NNB_Cnt": 4,
+		"NP_Cnt": 0,
+		"NP_People_Cnt": 0,
+		"NP_Things_Cnt": 0,
+		"NR_Cnt": 0,
+		"VL_Cnt": 10,
+		"VV_Cnt": 7,
+		"VA_Cnt": 3,
+		"VX_Cnt": 0,
+		"VCP_Cnt": 0,
+		"VCN_Cnt": 0,
+		"ML_Cnt": 2,
+		"MA_Cnt": 0,
+		"MM_Cnt": 0,
+		"FL_Cnt": 31,
+		"J_Cnt": 17,
+		"E_Cnt": 13,
+		"X_Cnt": 1,
+		"IC_Cnt": 0
+	},
+	"basic_density": {
+		"CL_Den": 0.5543478260869565,
+		"FL_Den": 0.33695652173913043,
+		"NL_Den": 0.42391304347826086,
+		"NNGL_Den": 0.33695652173913043,
+		"NNPL_Den": 0.043478260869565216,
+		"NNBL_Den": 0.043478260869565216,
+		"NPL_Den": 0.0,
+		"NML_Den": 0.0,
+		"VL_Den": 0.10869565217391304,
+		"VVL_Den": 0.07608695652173914,
+		"VAL_Den": 0.03260869565217391,
+		"ML_Den": 0.021739130434782608,
+		"MML_Den": 0.0,
+		"MAL_Den": 0.0,
+		"JL_Den": 0.18478260869565216,
+		"EL_Den": 0.14130434782608695,
+		"XL_Den": 0.010869565217391304,
+		"ITL_Den": 0.0,
+		"NCL_Den": 0.7647058823529411,
+		"NNCL_Den": 0.6078431372549019,
+		"NNGCL_Den": 0.0784313725490196,
+		"NNBCL_Den": 0.0784313725490196,
+		"NPCL_Den": 0.0,
+		"NMCL_Den": 0.0,
+		"VCL_Den": 0.19607843137254902,
+		"VVCL_Den": 0.13725490196078433,
+		"VACL_Den": 0.058823529411764705,
+		"MCL_Den": 0.0392156862745098,
+		"MMCL_Den": 0.0,
+		"MACL_Den": 0.0,
+		"INCL_Den": 0.0,
+		"JFL_Den": 0.5483870967741935,
+		"EFL_Den": 0.41935483870967744,
+		"XFL_Den": 0.03225806451612903
+	},
+	"basic_level": {
+		"morph_LenAvg": 1.8478260869565217,
+		"morph_LenStd": 0.9547909241738158,
+		"word_LenAvg": 4.157894736842105,
+		"word_LenStd": 1.9671822727400803
+	},
+	"basic_list": {
+		"NL_Lst": [
+			[
+				0,
+				"지난해",
+				"NNG",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				1,
+				"월",
+				"NNB",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				2,
+				"청각",
+				"NNG",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				3,
+				"언어",
+				"NNG",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				4,
+				"장애인",
+				"NNG",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				5,
+				"당사자",
+				"NNG",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				6,
+				"스타벅스",
+				"NNP",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				7,
+				"드라이브스루",
+				"NNP",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				8,
+				"차",
+				"NNG",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				9,
+				"채",
+				"NNB",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				10,
+				"서비스",
+				"NNG",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				11,
+				"것",
+				"NNB",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				12,
+				"매장",
+				"NNG",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				13,
+				"차별",
+				"NNG",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				14,
+				"국가",
+				"NNG",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				15,
+				"인권",
+				"NNG",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				16,
+				"위원회",
+				"NNG",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				17,
+				"아래",
+				"NNG",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				18,
+				"인권위",
+				"NNP",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				19,
+				"대구",
+				"NNP",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				20,
+				"사무소",
+				"NNG",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				21,
+				"차별",
+				"NNG",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				22,
+				"드라이브",
+				"NNG",
+				"드라이브스루는 음성언어로만 주문이 가능하기 때문에 청각·언어장애인은 이용이 힘들다."
+			],
+			[
+				23,
+				"스루",
+				"NNG",
+				"드라이브스루는 음성언어로만 주문이 가능하기 때문에 청각·언어장애인은 이용이 힘들다."
+			],
+			[
+				24,
+				"음성",
+				"NNG",
+				"드라이브스루는 음성언어로만 주문이 가능하기 때문에 청각·언어장애인은 이용이 힘들다."
+			],
+			[
+				25,
+				"언어",
+				"NNG",
+				"드라이브스루는 음성언어로만 주문이 가능하기 때문에 청각·언어장애인은 이용이 힘들다."
+			],
+			[
+				26,
+				"주문",
+				"NNG",
+				"드라이브스루는 음성언어로만 주문이 가능하기 때문에 청각·언어장애인은 이용이 힘들다."
+			],
+			[
+				27,
+				"때문",
+				"NNB",
+				"드라이브스루는 음성언어로만 주문이 가능하기 때문에 청각·언어장애인은 이용이 힘들다."
+			],
+			[
+				28,
+				"청각",
+				"NNG",
+				"드라이브스루는 음성언어로만 주문이 가능하기 때문에 청각·언어장애인은 이용이 힘들다."
+			],
+			[
+				29,
+				"언어",
+				"NNG",
+				"드라이브스루는 음성언어로만 주문이 가능하기 때문에 청각·언어장애인은 이용이 힘들다."
+			],
+			[
+				30,
+				"장애인",
+				"NNG",
+				"드라이브스루는 음성언어로만 주문이 가능하기 때문에 청각·언어장애인은 이용이 힘들다."
+			],
+			[
+				31,
+				"이용",
+				"NNG",
+				"드라이브스루는 음성언어로만 주문이 가능하기 때문에 청각·언어장애인은 이용이 힘들다."
+			],
+			[
+				32,
+				"화상",
+				"NNG",
+				"따라서 화상수어채팅 또는 장애인 편의가 마련된 키오스크 방식으로 제공되어야 마땅하다고 주장했다."
+			],
+			[
+				33,
+				"수어",
+				"NNG",
+				"따라서 화상수어채팅 또는 장애인 편의가 마련된 키오스크 방식으로 제공되어야 마땅하다고 주장했다."
+			],
+			[
+				34,
+				"채팅",
+				"NNG",
+				"따라서 화상수어채팅 또는 장애인 편의가 마련된 키오스크 방식으로 제공되어야 마땅하다고 주장했다."
+			],
+			[
+				35,
+				"장애인",
+				"NNG",
+				"따라서 화상수어채팅 또는 장애인 편의가 마련된 키오스크 방식으로 제공되어야 마땅하다고 주장했다."
+			],
+			[
+				36,
+				"편의",
+				"NNG",
+				"따라서 화상수어채팅 또는 장애인 편의가 마련된 키오스크 방식으로 제공되어야 마땅하다고 주장했다."
+			],
+			[
+				37,
+				"키오스크",
+				"NNG",
+				"따라서 화상수어채팅 또는 장애인 편의가 마련된 키오스크 방식으로 제공되어야 마땅하다고 주장했다."
+			],
+			[
+				38,
+				"방식",
+				"NNG",
+				"따라서 화상수어채팅 또는 장애인 편의가 마련된 키오스크 방식으로 제공되어야 마땅하다고 주장했다."
+			]
+		],
+		"NN_Lst": [
+			[
+				0,
+				"지난해",
+				"NNG",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				1,
+				"월",
+				"NNB",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				2,
+				"청각",
+				"NNG",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				3,
+				"언어",
+				"NNG",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				4,
+				"장애인",
+				"NNG",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				5,
+				"당사자",
+				"NNG",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				6,
+				"스타벅스",
+				"NNP",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				7,
+				"드라이브스루",
+				"NNP",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				8,
+				"차",
+				"NNG",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				9,
+				"채",
+				"NNB",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				10,
+				"서비스",
+				"NNG",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				11,
+				"것",
+				"NNB",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				12,
+				"매장",
+				"NNG",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				13,
+				"차별",
+				"NNG",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				14,
+				"국가",
+				"NNG",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				15,
+				"인권",
+				"NNG",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				16,
+				"위원회",
+				"NNG",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				17,
+				"아래",
+				"NNG",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				18,
+				"인권위",
+				"NNP",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				19,
+				"대구",
+				"NNP",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				20,
+				"사무소",
+				"NNG",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				21,
+				"차별",
+				"NNG",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				22,
+				"드라이브",
+				"NNG",
+				"드라이브스루는 음성언어로만 주문이 가능하기 때문에 청각·언어장애인은 이용이 힘들다."
+			],
+			[
+				23,
+				"스루",
+				"NNG",
+				"드라이브스루는 음성언어로만 주문이 가능하기 때문에 청각·언어장애인은 이용이 힘들다."
+			],
+			[
+				24,
+				"음성",
+				"NNG",
+				"드라이브스루는 음성언어로만 주문이 가능하기 때문에 청각·언어장애인은 이용이 힘들다."
+			],
+			[
+				25,
+				"언어",
+				"NNG",
+				"드라이브스루는 음성언어로만 주문이 가능하기 때문에 청각·언어장애인은 이용이 힘들다."
+			],
+			[
+				26,
+				"주문",
+				"NNG",
+				"드라이브스루는 음성언어로만 주문이 가능하기 때문에 청각·언어장애인은 이용이 힘들다."
+			],
+			[
+				27,
+				"때문",
+				"NNB",
+				"드라이브스루는 음성언어로만 주문이 가능하기 때문에 청각·언어장애인은 이용이 힘들다."
+			],
+			[
+				28,
+				"청각",
+				"NNG",
+				"드라이브스루는 음성언어로만 주문이 가능하기 때문에 청각·언어장애인은 이용이 힘들다."
+			],
+			[
+				29,
+				"언어",
+				"NNG",
+				"드라이브스루는 음성언어로만 주문이 가능하기 때문에 청각·언어장애인은 이용이 힘들다."
+			],
+			[
+				30,
+				"장애인",
+				"NNG",
+				"드라이브스루는 음성언어로만 주문이 가능하기 때문에 청각·언어장애인은 이용이 힘들다."
+			],
+			[
+				31,
+				"이용",
+				"NNG",
+				"드라이브스루는 음성언어로만 주문이 가능하기 때문에 청각·언어장애인은 이용이 힘들다."
+			],
+			[
+				32,
+				"화상",
+				"NNG",
+				"따라서 화상수어채팅 또는 장애인 편의가 마련된 키오스크 방식으로 제공되어야 마땅하다고 주장했다."
+			],
+			[
+				33,
+				"수어",
+				"NNG",
+				"따라서 화상수어채팅 또는 장애인 편의가 마련된 키오스크 방식으로 제공되어야 마땅하다고 주장했다."
+			],
+			[
+				34,
+				"채팅",
+				"NNG",
+				"따라서 화상수어채팅 또는 장애인 편의가 마련된 키오스크 방식으로 제공되어야 마땅하다고 주장했다."
+			],
+			[
+				35,
+				"장애인",
+				"NNG",
+				"따라서 화상수어채팅 또는 장애인 편의가 마련된 키오스크 방식으로 제공되어야 마땅하다고 주장했다."
+			],
+			[
+				36,
+				"편의",
+				"NNG",
+				"따라서 화상수어채팅 또는 장애인 편의가 마련된 키오스크 방식으로 제공되어야 마땅하다고 주장했다."
+			],
+			[
+				37,
+				"키오스크",
+				"NNG",
+				"따라서 화상수어채팅 또는 장애인 편의가 마련된 키오스크 방식으로 제공되어야 마땅하다고 주장했다."
+			],
+			[
+				38,
+				"방식",
+				"NNG",
+				"따라서 화상수어채팅 또는 장애인 편의가 마련된 키오스크 방식으로 제공되어야 마땅하다고 주장했다."
+			]
+		],
+		"NNG_Lst": [
+			[
+				0,
+				"지난해",
+				"NNG",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				1,
+				"청각",
+				"NNG",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				2,
+				"언어",
+				"NNG",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				3,
+				"장애인",
+				"NNG",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				4,
+				"당사자",
+				"NNG",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				5,
+				"차",
+				"NNG",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				6,
+				"서비스",
+				"NNG",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				7,
+				"매장",
+				"NNG",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				8,
+				"차별",
+				"NNG",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				9,
+				"국가",
+				"NNG",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				10,
+				"인권",
+				"NNG",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				11,
+				"위원회",
+				"NNG",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				12,
+				"아래",
+				"NNG",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				13,
+				"사무소",
+				"NNG",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				14,
+				"차별",
+				"NNG",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				15,
+				"드라이브",
+				"NNG",
+				"드라이브스루는 음성언어로만 주문이 가능하기 때문에 청각·언어장애인은 이용이 힘들다."
+			],
+			[
+				16,
+				"스루",
+				"NNG",
+				"드라이브스루는 음성언어로만 주문이 가능하기 때문에 청각·언어장애인은 이용이 힘들다."
+			],
+			[
+				17,
+				"음성",
+				"NNG",
+				"드라이브스루는 음성언어로만 주문이 가능하기 때문에 청각·언어장애인은 이용이 힘들다."
+			],
+			[
+				18,
+				"언어",
+				"NNG",
+				"드라이브스루는 음성언어로만 주문이 가능하기 때문에 청각·언어장애인은 이용이 힘들다."
+			],
+			[
+				19,
+				"주문",
+				"NNG",
+				"드라이브스루는 음성언어로만 주문이 가능하기 때문에 청각·언어장애인은 이용이 힘들다."
+			],
+			[
+				20,
+				"청각",
+				"NNG",
+				"드라이브스루는 음성언어로만 주문이 가능하기 때문에 청각·언어장애인은 이용이 힘들다."
+			],
+			[
+				21,
+				"언어",
+				"NNG",
+				"드라이브스루는 음성언어로만 주문이 가능하기 때문에 청각·언어장애인은 이용이 힘들다."
+			],
+			[
+				22,
+				"장애인",
+				"NNG",
+				"드라이브스루는 음성언어로만 주문이 가능하기 때문에 청각·언어장애인은 이용이 힘들다."
+			],
+			[
+				23,
+				"이용",
+				"NNG",
+				"드라이브스루는 음성언어로만 주문이 가능하기 때문에 청각·언어장애인은 이용이 힘들다."
+			],
+			[
+				24,
+				"화상",
+				"NNG",
+				"따라서 화상수어채팅 또는 장애인 편의가 마련된 키오스크 방식으로 제공되어야 마땅하다고 주장했다."
+			],
+			[
+				25,
+				"수어",
+				"NNG",
+				"따라서 화상수어채팅 또는 장애인 편의가 마련된 키오스크 방식으로 제공되어야 마땅하다고 주장했다."
+			],
+			[
+				26,
+				"채팅",
+				"NNG",
+				"따라서 화상수어채팅 또는 장애인 편의가 마련된 키오스크 방식으로 제공되어야 마땅하다고 주장했다."
+			],
+			[
+				27,
+				"장애인",
+				"NNG",
+				"따라서 화상수어채팅 또는 장애인 편의가 마련된 키오스크 방식으로 제공되어야 마땅하다고 주장했다."
+			],
+			[
+				28,
+				"편의",
+				"NNG",
+				"따라서 화상수어채팅 또는 장애인 편의가 마련된 키오스크 방식으로 제공되어야 마땅하다고 주장했다."
+			],
+			[
+				29,
+				"키오스크",
+				"NNG",
+				"따라서 화상수어채팅 또는 장애인 편의가 마련된 키오스크 방식으로 제공되어야 마땅하다고 주장했다."
+			],
+			[
+				30,
+				"방식",
+				"NNG",
+				"따라서 화상수어채팅 또는 장애인 편의가 마련된 키오스크 방식으로 제공되어야 마땅하다고 주장했다."
+			]
+		],
+		"NNP_Lst": [
+			[
+				0,
+				"스타벅스",
+				"NNP",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				1,
+				"드라이브스루",
+				"NNP",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				2,
+				"인권위",
+				"NNP",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				3,
+				"대구",
+				"NNP",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			]
+		],
+		"NNB_Lst": [
+			[
+				0,
+				"월",
+				"NNB",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				1,
+				"채",
+				"NNB",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				2,
+				"것",
+				"NNB",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				3,
+				"때문",
+				"NNB",
+				"드라이브스루는 음성언어로만 주문이 가능하기 때문에 청각·언어장애인은 이용이 힘들다."
+			]
+		],
+		"NP_Lst": [],
+		"NP_People_Lst": [],
+		"NP_Things_Lst": [],
+		"NR_Lst": [],
+		"VL_Lst": [
+			[
+				0,
+				"타",
+				"VV",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				1,
+				"이용하",
+				"VV",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				2,
+				"당하",
+				"VV",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				3,
+				"진정하",
+				"VV",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				4,
+				"가능하",
+				"VA",
+				"드라이브스루는 음성언어로만 주문이 가능하기 때문에 청각·언어장애인은 이용이 힘들다."
+			],
+			[
+				5,
+				"힘들",
+				"VA",
+				"드라이브스루는 음성언어로만 주문이 가능하기 때문에 청각·언어장애인은 이용이 힘들다."
+			],
+			[
+				6,
+				"마련되",
+				"VV",
+				"따라서 화상수어채팅 또는 장애인 편의가 마련된 키오스크 방식으로 제공되어야 마땅하다고 주장했다."
+			],
+			[
+				7,
+				"제공되",
+				"VV",
+				"따라서 화상수어채팅 또는 장애인 편의가 마련된 키오스크 방식으로 제공되어야 마땅하다고 주장했다."
+			],
+			[
+				8,
+				"마땅하",
+				"VA",
+				"따라서 화상수어채팅 또는 장애인 편의가 마련된 키오스크 방식으로 제공되어야 마땅하다고 주장했다."
+			],
+			[
+				9,
+				"주장하",
+				"VV",
+				"따라서 화상수어채팅 또는 장애인 편의가 마련된 키오스크 방식으로 제공되어야 마땅하다고 주장했다."
+			]
+		],
+		"VV_Lst": [
+			[
+				0,
+				"타",
+				"VV",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				1,
+				"이용하",
+				"VV",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				2,
+				"당하",
+				"VV",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				3,
+				"진정하",
+				"VV",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				4,
+				"마련되",
+				"VV",
+				"따라서 화상수어채팅 또는 장애인 편의가 마련된 키오스크 방식으로 제공되어야 마땅하다고 주장했다."
+			],
+			[
+				5,
+				"제공되",
+				"VV",
+				"따라서 화상수어채팅 또는 장애인 편의가 마련된 키오스크 방식으로 제공되어야 마땅하다고 주장했다."
+			],
+			[
+				6,
+				"주장하",
+				"VV",
+				"따라서 화상수어채팅 또는 장애인 편의가 마련된 키오스크 방식으로 제공되어야 마땅하다고 주장했다."
+			]
+		],
+		"VA_Lst": [
+			[
+				0,
+				"가능하",
+				"VA",
+				"드라이브스루는 음성언어로만 주문이 가능하기 때문에 청각·언어장애인은 이용이 힘들다."
+			],
+			[
+				1,
+				"힘들",
+				"VA",
+				"드라이브스루는 음성언어로만 주문이 가능하기 때문에 청각·언어장애인은 이용이 힘들다."
+			],
+			[
+				2,
+				"마땅하",
+				"VA",
+				"따라서 화상수어채팅 또는 장애인 편의가 마련된 키오스크 방식으로 제공되어야 마땅하다고 주장했다."
+			]
+		],
+		"VX_Lst": [],
+		"VCP_Lst": [],
+		"VCN_Lst": [],
+		"ML_Lst": [
+			[
+				0,
+				"따라서",
+				"MAJ",
+				"따라서 화상수어채팅 또는 장애인 편의가 마련된 키오스크 방식으로 제공되어야 마땅하다고 주장했다."
+			],
+			[
+				1,
+				"또는",
+				"MAG",
+				"따라서 화상수어채팅 또는 장애인 편의가 마련된 키오스크 방식으로 제공되어야 마땅하다고 주장했다."
+			]
+		],
+		"MA_Lst": [],
+		"MM_Lst": [],
+		"J_Lst": [
+			[
+				0,
+				"은",
+				"JX",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				1,
+				"에",
+				"JKB",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				2,
+				"로",
+				"JKB",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				3,
+				"를",
+				"JKO",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				4,
+				"에서",
+				"JKB",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				5,
+				"을",
+				"JKO",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				6,
+				"에",
+				"JKB",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				7,
+				"을",
+				"JKO",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				8,
+				"는",
+				"JX",
+				"드라이브스루는 음성언어로만 주문이 가능하기 때문에 청각·언어장애인은 이용이 힘들다."
+			],
+			[
+				9,
+				"로",
+				"JKB",
+				"드라이브스루는 음성언어로만 주문이 가능하기 때문에 청각·언어장애인은 이용이 힘들다."
+			],
+			[
+				10,
+				"만",
+				"JX",
+				"드라이브스루는 음성언어로만 주문이 가능하기 때문에 청각·언어장애인은 이용이 힘들다."
+			],
+			[
+				11,
+				"이",
+				"JKS",
+				"드라이브스루는 음성언어로만 주문이 가능하기 때문에 청각·언어장애인은 이용이 힘들다."
+			],
+			[
+				12,
+				"에",
+				"JKB",
+				"드라이브스루는 음성언어로만 주문이 가능하기 때문에 청각·언어장애인은 이용이 힘들다."
+			],
+			[
+				13,
+				"은",
+				"JX",
+				"드라이브스루는 음성언어로만 주문이 가능하기 때문에 청각·언어장애인은 이용이 힘들다."
+			],
+			[
+				14,
+				"이",
+				"JKS",
+				"드라이브스루는 음성언어로만 주문이 가능하기 때문에 청각·언어장애인은 이용이 힘들다."
+			],
+			[
+				15,
+				"가",
+				"JKS",
+				"따라서 화상수어채팅 또는 장애인 편의가 마련된 키오스크 방식으로 제공되어야 마땅하다고 주장했다."
+			],
+			[
+				16,
+				"으로",
+				"JKB",
+				"따라서 화상수어채팅 또는 장애인 편의가 마련된 키오스크 방식으로 제공되어야 마땅하다고 주장했다."
+			]
+		],
+		"E_Lst": [
+			[
+				0,
+				"ㄴ",
+				"ETM",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				1,
+				"는",
+				"ETM",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				2,
+				"았",
+				"EP",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				3,
+				"다고",
+				"EC",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				4,
+				"았",
+				"EP",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				5,
+				"다",
+				"EF",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			],
+			[
+				6,
+				"기",
+				"ETN",
+				"드라이브스루는 음성언어로만 주문이 가능하기 때문에 청각·언어장애인은 이용이 힘들다."
+			],
+			[
+				7,
+				"다",
+				"EF",
+				"드라이브스루는 음성언어로만 주문이 가능하기 때문에 청각·언어장애인은 이용이 힘들다."
+			],
+			[
+				8,
+				"ㄴ",
+				"ETM",
+				"따라서 화상수어채팅 또는 장애인 편의가 마련된 키오스크 방식으로 제공되어야 마땅하다고 주장했다."
+			],
+			[
+				9,
+				"어야",
+				"EC",
+				"따라서 화상수어채팅 또는 장애인 편의가 마련된 키오스크 방식으로 제공되어야 마땅하다고 주장했다."
+			],
+			[
+				10,
+				"다고",
+				"EC",
+				"따라서 화상수어채팅 또는 장애인 편의가 마련된 키오스크 방식으로 제공되어야 마땅하다고 주장했다."
+			],
+			[
+				11,
+				"았",
+				"EP",
+				"따라서 화상수어채팅 또는 장애인 편의가 마련된 키오스크 방식으로 제공되어야 마땅하다고 주장했다."
+			],
+			[
+				12,
+				"다",
+				"EF",
+				"따라서 화상수어채팅 또는 장애인 편의가 마련된 키오스크 방식으로 제공되어야 마땅하다고 주장했다."
+			]
+		],
+		"X_Lst": [
+			[
+				0,
+				"들",
+				"XSN",
+				"지난해 2월 청각·언어장애인 당사자들은 스타벅스 드라이브스루(차에 탄 채로 서비스를 이용하는 것) 매장에서 차별을 당했다고 국가인권위원회(아래 인권위) 대구사무소에 차별을 진정했다."
+			]
+		],
+		"IC_Lst": []
+	},
+	"NDW": {
+		"morph_NDW": 69,
+		"NL_NDW": 39,
+		"NNG_NDW": 31,
+		"NNP_NDW": 4,
+		"NNB_NDW": 4,
+		"NP_NDW": 0,
+		"NR_NDW": 0,
+		"VL_NDW": 10,
+		"VV_NDW": 7,
+		"VA_NDW": 3,
+		"ML_NDW": 2,
+		"MM_NDW": 0,
+		"IC_NDW": 0,
+		"J_NDW": 17,
+		"E_NDW": 13,
+		"X_NDW": 1,
+		"CL_NDW": 51,
+		"FL_NDW": 31
+	}
+}

@@ -1,0 +1,2853 @@
+﻿{
+	"morpheme": {
+		"sentences": [
+			{
+				"text": {
+					"content": "한편 '배틀그라운드 모바일'은 게임 내 부정 행위를 근절하기 위해 지난해 12월 기기 차단(하드웨어 밴) 기능을 도입했다.",
+					"length": 68,
+					"beginOffset": 0
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "한편",
+							"length": 2,
+							"beginOffset": 0
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "한편",
+									"length": 2,
+									"beginOffset": 0
+								},
+								"tag": "MAG",
+								"probability": 0.99209726,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "한편",
+						"tagged": "한편/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "'배틀그라운드",
+							"beginOffset": 3,
+							"length": 7
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "'",
+									"beginOffset": 3,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.99998796,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "배틀그라운드",
+									"beginOffset": 4,
+									"length": 6
+								},
+								"tag": "SL",
+								"probability": 0.5370159,
+								"outOfVocab": "OUT_OF_VOCAB"
+							}
+						],
+						"lemma": "'",
+						"tagged": "'/SS+배틀그라운드/SL",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "모바일'은",
+							"beginOffset": 11,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "모바일",
+									"beginOffset": 11,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9774472,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "'",
+									"beginOffset": 14,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.99991894,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 15,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9978943,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "모바일",
+						"tagged": "모바일/NNG+'/SS+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "게임",
+							"beginOffset": 17,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "게임",
+									"beginOffset": 17,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9840817,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "게임",
+						"tagged": "게임/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "내",
+							"beginOffset": 20,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "내",
+									"beginOffset": 20,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9470537,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "내",
+						"tagged": "내/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "부정",
+							"beginOffset": 22,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "부정",
+									"beginOffset": 22,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98277783,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "부정",
+						"tagged": "부정/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "행위를",
+							"beginOffset": 25,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "행위",
+									"beginOffset": 25,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98684096,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 27,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999682,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "행위",
+						"tagged": "행위/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "근절하기",
+							"beginOffset": 29,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "근절하",
+									"beginOffset": 29,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "기",
+									"beginOffset": 32,
+									"length": 1
+								},
+								"tag": "ETN",
+								"probability": 0.99990404,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "근절하",
+						"tagged": "근절하/VV+기/ETN",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "위해",
+							"beginOffset": 34,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "위하",
+									"beginOffset": 34,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.99060297,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 35,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9922211,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "위하",
+						"tagged": "위하/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "지난해",
+							"beginOffset": 37,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "지난해",
+									"beginOffset": 37,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.98206055,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "지난해",
+						"tagged": "지난해/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "12월",
+							"beginOffset": 41,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "12",
+									"beginOffset": 41,
+									"length": 2
+								},
+								"tag": "SN",
+								"probability": 0.99835396,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "월",
+									"beginOffset": 43,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9759219,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "12",
+						"tagged": "12/SN+월/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "기기",
+							"beginOffset": 45,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "기기",
+									"beginOffset": 45,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9832726,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "기기",
+						"tagged": "기기/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "차단(하드웨어",
+							"beginOffset": 48,
+							"length": 7
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "차단",
+									"beginOffset": 48,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9834677,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "(",
+									"beginOffset": 50,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9999454,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "하드웨어",
+									"beginOffset": 51,
+									"length": 4
+								},
+								"tag": "NNG",
+								"probability": 0.9848651,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "차단",
+						"tagged": "차단/NNG+(/SS+하드웨어/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "밴)",
+							"beginOffset": 56,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "밴",
+									"beginOffset": 56,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9811899,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ")",
+									"beginOffset": 57,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.99981797,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "밴",
+						"tagged": "밴/NNG+)/SS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "기능을",
+							"beginOffset": 59,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "기능",
+									"beginOffset": 59,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9819363,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 61,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999599,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "기능",
+						"tagged": "기능/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "도입했다.",
+							"beginOffset": 63,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "도입하",
+									"beginOffset": 63,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 65,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9998965,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 66,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9905384,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 67,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99982387,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "도입하",
+						"tagged": "도입하/VV+았/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "한편 '배틀그라운드 모바일'은 게임 내 부정 행위를 근절하기 위해 지난해 12월 기기 차단(하드웨어 밴) 기능을 도입했다."
+			},
+			{
+				"text": {
+					"content": "시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다.",
+					"beginOffset": 69,
+					"length": 96
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "시스템에서",
+							"beginOffset": 69,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "시스템",
+									"beginOffset": 69,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9823354,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에서",
+									"beginOffset": 72,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.99199516,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "시스템",
+						"tagged": "시스템/NNG+에서/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "부정",
+							"beginOffset": 75,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "부정",
+									"beginOffset": 75,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97432554,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "부정",
+						"tagged": "부정/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "행위를",
+							"beginOffset": 78,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "행위",
+									"beginOffset": 78,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98700756,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 80,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999583,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "행위",
+						"tagged": "행위/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "했다고",
+							"beginOffset": 82,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 82,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.96401346,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 82,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99992317,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다고",
+									"beginOffset": 83,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9866842,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VV+았/EP+다고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "판단한",
+							"beginOffset": 86,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "판단하",
+									"beginOffset": 86,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 88,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99996156,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "판단하",
+						"tagged": "판단하/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "유저의",
+							"beginOffset": 90,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "유저",
+									"beginOffset": 90,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97635686,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 92,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9989374,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "유저",
+						"tagged": "유저/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "기기를",
+							"beginOffset": 94,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "기기",
+									"beginOffset": 94,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9809408,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 96,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99998635,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "기기",
+						"tagged": "기기/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "영구적으로",
+							"beginOffset": 98,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "영구",
+									"beginOffset": 98,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9816862,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "적",
+									"beginOffset": 100,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.99007183,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으로",
+									"beginOffset": 101,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9960482,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "영구",
+						"tagged": "영구/NNG+적/XSN+으로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "차단해",
+							"beginOffset": 104,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "차단하",
+									"beginOffset": 104,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 106,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9951733,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "차단하",
+						"tagged": "차단하/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "해당",
+							"beginOffset": 108,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "해당",
+									"beginOffset": 108,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9836429,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "해당",
+						"tagged": "해당/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "기기에서",
+							"beginOffset": 111,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "기기",
+									"beginOffset": 111,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9834096,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에서",
+									"beginOffset": 113,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9891634,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "기기",
+						"tagged": "기기/NNG+에서/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "더",
+							"beginOffset": 116,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "더",
+									"beginOffset": 116,
+									"length": 1
+								},
+								"tag": "MAG",
+								"probability": 0.9918267,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "더",
+						"tagged": "더/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이상",
+							"beginOffset": 118,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이상",
+									"beginOffset": 118,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9836658,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이상",
+						"tagged": "이상/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "'배틀그라운드",
+							"beginOffset": 121,
+							"length": 7
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "'",
+									"beginOffset": 121,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.99998134,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "배틀그라운드",
+									"beginOffset": 122,
+									"length": 6
+								},
+								"tag": "NNP",
+								"probability": 0.5633831,
+								"outOfVocab": "OUT_OF_VOCAB"
+							}
+						],
+						"lemma": "'",
+						"tagged": "'/SS+배틀그라운드/NNP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "모바일'에",
+							"beginOffset": 129,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "모바일",
+									"beginOffset": 129,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.97741425,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "'",
+									"beginOffset": 132,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9998955,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 133,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99601144,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "모바일",
+						"tagged": "모바일/NNG+'/SS+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "접속하거나",
+							"beginOffset": 135,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "접속하",
+									"beginOffset": 135,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "거나",
+									"beginOffset": 138,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9942847,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "접속하",
+						"tagged": "접속하/VV+거나/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "새로운",
+							"beginOffset": 141,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "새롭",
+									"beginOffset": 141,
+									"length": 2
+								},
+								"tag": "VA",
+								"probability": 0.9900962,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 143,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999956,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "새롭",
+						"tagged": "새롭/VA+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "계정을",
+							"beginOffset": 145,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "계정",
+									"beginOffset": 145,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97869223,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 147,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99993056,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "계정",
+						"tagged": "계정/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "만들",
+							"beginOffset": 149,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "만들",
+									"beginOffset": 149,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9880095,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ",
+									"beginOffset": 150,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99995476,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "만들",
+						"tagged": "만들/VV+ㄹ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "수",
+							"beginOffset": 152,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "수",
+									"beginOffset": 152,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9791666,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "수",
+						"tagged": "수/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "없게",
+							"beginOffset": 154,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "없",
+									"beginOffset": 154,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9870106,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "게",
+									"beginOffset": 155,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9898542,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "없",
+						"tagged": "없/VA+게/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "하는",
+							"beginOffset": 157,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 157,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.8145541,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 158,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999718,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VX+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "기능이다.",
+							"beginOffset": 160,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "기능",
+									"beginOffset": 160,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98388493,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 162,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.9998994,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 163,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9917557,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 164,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99963856,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "기능",
+						"tagged": "기능/NNG+이/VCP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			},
+			{
+				"text": {
+					"content": "모바일게임이 기기 차단 기능을 도입한 사례는 매우 이례적이다.",
+					"beginOffset": 166,
+					"length": 34
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "모바일게임이",
+							"beginOffset": 166,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "모바일",
+									"beginOffset": 166,
+									"length": 3
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "게임",
+									"beginOffset": 169,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 171,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.97406477,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "모바일",
+						"tagged": "모바일/NNG+게임/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "기기",
+							"beginOffset": 173,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "기기",
+									"beginOffset": 173,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97211844,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "기기",
+						"tagged": "기기/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "차단",
+							"beginOffset": 176,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "차단",
+									"beginOffset": 176,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98405004,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "차단",
+						"tagged": "차단/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "기능을",
+							"beginOffset": 179,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "기능",
+									"beginOffset": 179,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9840339,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 181,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999815,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "기능",
+						"tagged": "기능/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "도입한",
+							"beginOffset": 183,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "도입하",
+									"beginOffset": 183,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 185,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999767,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "도입하",
+						"tagged": "도입하/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사례는",
+							"beginOffset": 187,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사례",
+									"beginOffset": 187,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9843985,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 189,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9980715,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사례",
+						"tagged": "사례/NNG+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "매우",
+							"beginOffset": 191,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "매우",
+									"beginOffset": 191,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.99360263,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "매우",
+						"tagged": "매우/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이례적이다.",
+							"beginOffset": 194,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이례",
+									"beginOffset": 194,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9800444,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "적",
+									"beginOffset": 196,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.99255484,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 197,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.99978787,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 198,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9928829,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 199,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9997071,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이례",
+						"tagged": "이례/NNG+적/XSN+이/VCP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "모바일게임이 기기 차단 기능을 도입한 사례는 매우 이례적이다."
+			}
+		],
+		"language": "ko_KR"
+	},
+	"ttr": {
+		"lemma_Cnt": 82,
+		"lemma_TTR": 0.6344086021505376,
+		"CL_TTR": 0.72,
+		"NL_TTR": 0.6666666666666666,
+		"NN_TTR": 0.6666666666666666,
+		"NNG_TTR": 0.6206896551724138,
+		"NNP_TTR": 1.0,
+		"NNB_TTR": 1.0,
+		"NP_TTR": 0,
+		"NR_TTR": 0,
+		"VL_TTR": 0.7857142857142857,
+		"VV_TTR": 0.8888888888888888,
+		"VA_TTR": 1.0,
+		"ML_TTR": 1.0,
+		"MM_TTR": 0,
+		"MA_TTR": 1.0,
+		"MAJ_TTR": 0,
+		"IC_TTR": 0,
+		"FL_TTR": 0.59375,
+		"J_TTR": 0.6428571428571429,
+		"E_TTR": 0.625,
+		"X_TTR": 0.5,
+		"lemma_RTTR": 6.118014998909509,
+		"CL_RTTR": 5.091168824543142,
+		"NL_RTTR": 3.8297084310253524,
+		"NN_RTTR": 3.8297084310253524,
+		"NNG_RTTR": 3.342516087186934,
+		"NNP_RTTR": 1.0,
+		"NNB_RTTR": 1.7320508075688774,
+		"NP_RTTR": 0,
+		"NR_RTTR": 0,
+		"VL_RTTR": 2.9398736610366685,
+		"VV_RTTR": 2.6666666666666665,
+		"VA_RTTR": 1.414213562373095,
+		"ML_RTTR": 1.7320508075688774,
+		"MM_RTTR": 0,
+		"MA_RTTR": 1.7320508075688774,
+		"MAJ_RTTR": 0,
+		"IC_RTTR": 0,
+		"FL_RTTR": 3.3587572106361003,
+		"J_RTTR": 2.4053511772118195,
+		"E_RTTR": 2.5,
+		"X_RTTR": 0.7071067811865475,
+		"lemma_CTTR": 4.3260898931299225,
+		"CL_CTTR": 3.6,
+		"NL_CTTR": 2.70801280154532,
+		"NN_CTTR": 2.70801280154532,
+		"NNG_CTTR": 2.363515791475006,
+		"NNP_CTTR": 0.7071067811865475,
+		"NNB_CTTR": 1.2247448713915892,
+		"NP_CTTR": 0,
+		"NR_CTTR": 0,
+		"VL_CTTR": 2.0788046015507495,
+		"VV_CTTR": 1.885618083164127,
+		"VA_CTTR": 1.0,
+		"ML_CTTR": 1.2247448713915892,
+		"MM_CTTR": 0,
+		"MA_CTTR": 1.2247448713915892,
+		"MAJ_CTTR": 0,
+		"IC_CTTR": 0,
+		"FL_CTTR": 2.375,
+		"J_CTTR": 1.7008401285415224,
+		"E_CTTR": 1.7677669529663687,
+		"X_CTTR": 0.5,
+		"lemma_MSTTR": 0.84,
+		"CL_MSTTR": 0.72,
+		"NL_MSTTR": 0.6666666666666666,
+		"NN_MSTTR": 0.6666666666666666,
+		"NNG_MSTTR": 0.6206896551724138,
+		"NNP_MSTTR": 1.0,
+		"NNB_MSTTR": 1.0,
+		"NP_MSTTR": 0,
+		"NR_MSTTR": 0,
+		"VL_MSTTR": 0.7857142857142857,
+		"VV_MSTTR": 0.8888888888888888,
+		"VA_MSTTR": 1.0,
+		"ML_MSTTR": 1.0,
+		"MM_MSTTR": 0,
+		"MA_MSTTR": 1.0,
+		"MAJ_MSTTR": 0,
+		"IC_MSTTR": 0,
+		"FL_MSTTR": 0.59375,
+		"J_MSTTR": 0.6428571428571429,
+		"E_MSTTR": 0.625,
+		"X_MSTTR": 0.5,
+		"lemma_MATTR": 0.8204545454545453,
+		"CL_MATTR": 0.72,
+		"NL_MATTR": 0.6666666666666666,
+		"NN_MATTR": 0.6666666666666666,
+		"NNG_MATTR": 0.6206896551724138,
+		"NNP_MATTR": 1.0,
+		"NNB_MATTR": 1.0,
+		"NP_MATTR": 0,
+		"NR_MATTR": 0,
+		"VL_MATTR": 0.7857142857142857,
+		"VV_MATTR": 0.8888888888888888,
+		"VA_MATTR": 1.0,
+		"ML_MATTR": 1.0,
+		"MM_MATTR": 0,
+		"MA_MATTR": 1.0,
+		"MAJ_MATTR": 0,
+		"IC_MATTR": 0,
+		"FL_MATTR": 0.59375,
+		"J_MATTR": 0.6428571428571429,
+		"E_MATTR": 0.625,
+		"X_MATTR": 0.5,
+		"lemma_MTLD": 78.95900809716599,
+		"CL_MTLD": 50.0,
+		"NL_MTLD": 33.0,
+		"NN_MTLD": 33.0,
+		"NNG_MTLD": 29.0,
+		"NNP_MTLD": 0.0,
+		"NNB_MTLD": 0.0,
+		"NP_MTLD": 0.0,
+		"NR_MTLD": 0.0,
+		"VL_MTLD": 18.293333333333333,
+		"VV_MTLD": 22.679999999999993,
+		"VA_MTLD": 0.0,
+		"ML_MTLD": 0.0,
+		"MM_MTLD": 0.0,
+		"MA_MTLD": 0.0,
+		"MAJ_MTLD": 0.0,
+		"IC_MTLD": 0.0,
+		"FL_MTLD": 16.558093346573983,
+		"J_MTLD": 10.69811320754717,
+		"E_MTLD": 10.029850746268659,
+		"X_MTLD": 1.12,
+		"lemma_VOCDD": 67.87851733268623,
+		"CL_VOCDD": 0,
+		"NL_VOCDD": 0,
+		"NN_VOCDD": 0,
+		"NNG_VOCDD": 0,
+		"NNP_VOCDD": 0,
+		"NNB_VOCDD": 0,
+		"NP_VOCDD": 0,
+		"NR_VOCDD": 0,
+		"VL_VOCDD": 0,
+		"VV_VOCDD": 0,
+		"VA_VOCDD": 0,
+		"ML_VOCDD": 0,
+		"MM_VOCDD": 0,
+		"MA_VOCDD": 0,
+		"MAJ_VOCDD": 0,
+		"IC_VOCDD": 0,
+		"FL_VOCDD": 0,
+		"J_VOCDD": 0,
+		"E_VOCDD": 0,
+		"X_VOCDD": 0,
+		"lemma_HDD": 0.80186215529834,
+		"CL_HDD": 0.7541424229266175,
+		"NL_HDD": 0.0,
+		"NN_HDD": 0.0,
+		"NNG_HDD": 0.0,
+		"NNP_HDD": 0.0,
+		"NNB_HDD": 0.0,
+		"NP_HDD": 0.0,
+		"NR_HDD": 0.0,
+		"VL_HDD": 0.0,
+		"VV_HDD": 0.0,
+		"VA_HDD": 0.0,
+		"ML_HDD": 0.0,
+		"MM_HDD": 0.0,
+		"MA_HDD": 0.0,
+		"MAJ_HDD": 0.0,
+		"IC_HDD": 0.0,
+		"FL_HDD": 0.0,
+		"J_HDD": 0.0,
+		"E_HDD": 0.0,
+		"X_HDD": 0.0
+	},
+	"similarity": {
+		"avgSentSimilarity": 0.1332770586013794,
+		"topicConsistency": 0.5462
+	},
+	"adjacency": {
+		"adjacent_sentence_overlap_all_lemmas": 46,
+		"adjacent_sentence_overlap_all_lemmas_normed": 2,
+		"binary_adjacent_sentence_overlap_all_lemmas": 2,
+		"adjacent_two_sentence_overlap_all_lemmas": 12,
+		"adjacent_two_sentence_overlap_all_lemmas_normed": 1,
+		"binary_adjacent_two_sentence_overlap_all_lemmas": 1,
+		"adjacent_sentence_overlap_content_lemmas": 29,
+		"adjacent_sentence_overlap_content_lemmas_normed": 2,
+		"binary_adjacent_sentence_overlap_content_lemmas": 2,
+		"adjacent_two_sentence_overlap_content_lemmas": 9,
+		"adjacent_two_sentence_overlap_content_lemmas_normed": 1,
+		"binary_adjacent_two_sentence_overlap_content_lemmas": 1,
+		"adjacent_sentence_overlap_function_lemmas": 12,
+		"adjacent_sentence_overlap_function_lemmas_normed": 2,
+		"binary_adjacent_sentence_overlap_function_lemmas": 2,
+		"adjacent_two_sentence_overlap_function_lemmas": 2,
+		"adjacent_two_sentence_overlap_function_lemmas_normed": 1,
+		"binary_adjacent_two_sentence_overlap_function_lemmas": 1,
+		"adjacent_sentence_overlap_noun_lemmas": 21,
+		"adjacent_sentence_overlap_noun_lemmas_normed": 2,
+		"binary_adjacent_sentence_overlap_noun_lemmas": 2,
+		"adjacent_two_sentence_overlap_noun_lemmas": 7,
+		"adjacent_two_sentence_overlap_noun_lemmas_normed": 1,
+		"binary_adjacent_two_sentence_overlap_noun_lemmas": 1,
+		"adjacent_sentence_overlap_verb_lemmas": 7,
+		"adjacent_sentence_overlap_verb_lemmas_normed": 2,
+		"binary_adjacent_sentence_overlap_verb_lemmas": 1,
+		"adjacent_two_sentence_overlap_verb_lemmas": 1,
+		"adjacent_two_sentence_overlap_verb_lemmas_normed": 1,
+		"binary_adjacent_two_sentence_overlap_verb_lemmas": 0,
+		"adjacent_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_sentence_overlap_adjective_lemmas_normed": 0,
+		"binary_adjacent_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_sentence_overlap_adverb_lemmas": 2,
+		"adjacent_sentence_overlap_adverb_lemmas_normed": 2,
+		"binary_adjacent_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas": 1,
+		"adjacent_two_sentence_overlap_adverb_lemmas_normed": 1,
+		"binary_adjacent_two_sentence_overlap_adverb_lemmas": 0
+	},
+	"basic_count": {
+		"para_Cnt": 1,
+		"sentence_Cnt": 3,
+		"word_Cnt": 47,
+		"morph_Cnt": 93,
+		"char_Cnt": 151,
+		"CL_Cnt": 50,
+		"NL_Cnt": 33,
+		"NN_Cnt": 33,
+		"NNG_Cnt": 29,
+		"NNP_Cnt": 1,
+		"NNB_Cnt": 3,
+		"NP_Cnt": 0,
+		"NP_People_Cnt": 0,
+		"NP_Things_Cnt": 0,
+		"NR_Cnt": 0,
+		"VL_Cnt": 14,
+		"VV_Cnt": 9,
+		"VA_Cnt": 2,
+		"VX_Cnt": 1,
+		"VCP_Cnt": 2,
+		"VCN_Cnt": 0,
+		"ML_Cnt": 3,
+		"MA_Cnt": 0,
+		"MM_Cnt": 0,
+		"FL_Cnt": 32,
+		"J_Cnt": 14,
+		"E_Cnt": 16,
+		"X_Cnt": 2,
+		"IC_Cnt": 0
+	},
+	"basic_density": {
+		"CL_Den": 0.5376344086021505,
+		"FL_Den": 0.34408602150537637,
+		"NL_Den": 0.3548387096774194,
+		"NNGL_Den": 0.3118279569892473,
+		"NNPL_Den": 0.010752688172043012,
+		"NNBL_Den": 0.03225806451612903,
+		"NPL_Den": 0.0,
+		"NML_Den": 0.0,
+		"VL_Den": 0.15053763440860216,
+		"VVL_Den": 0.0967741935483871,
+		"VAL_Den": 0.021505376344086023,
+		"ML_Den": 0.03225806451612903,
+		"MML_Den": 0.0,
+		"MAL_Den": 0.0,
+		"JL_Den": 0.15053763440860216,
+		"EL_Den": 0.17204301075268819,
+		"XL_Den": 0.021505376344086023,
+		"ITL_Den": 0.0,
+		"NCL_Den": 0.66,
+		"NNCL_Den": 0.58,
+		"NNGCL_Den": 0.02,
+		"NNBCL_Den": 0.06,
+		"NPCL_Den": 0.0,
+		"NMCL_Den": 0.0,
+		"VCL_Den": 0.28,
+		"VVCL_Den": 0.18,
+		"VACL_Den": 0.04,
+		"MCL_Den": 0.06,
+		"MMCL_Den": 0.0,
+		"MACL_Den": 0.0,
+		"INCL_Den": 0.0,
+		"JFL_Den": 0.4375,
+		"EFL_Den": 0.5,
+		"XFL_Den": 0.0625
+	},
+	"basic_level": {
+		"morph_LenAvg": 1.7311827956989247,
+		"morph_LenStd": 0.9631912118949976,
+		"word_LenAvg": 3.0851063829787235,
+		"word_LenStd": 1.3656856626281881
+	},
+	"basic_list": {
+		"NL_Lst": [
+			[
+				0,
+				"모바일",
+				"NNG",
+				"한편 '배틀그라운드 모바일'은 게임 내 부정 행위를 근절하기 위해 지난해 12월 기기 차단(하드웨어 밴) 기능을 도입했다."
+			],
+			[
+				1,
+				"게임",
+				"NNG",
+				"한편 '배틀그라운드 모바일'은 게임 내 부정 행위를 근절하기 위해 지난해 12월 기기 차단(하드웨어 밴) 기능을 도입했다."
+			],
+			[
+				2,
+				"내",
+				"NNB",
+				"한편 '배틀그라운드 모바일'은 게임 내 부정 행위를 근절하기 위해 지난해 12월 기기 차단(하드웨어 밴) 기능을 도입했다."
+			],
+			[
+				3,
+				"부정",
+				"NNG",
+				"한편 '배틀그라운드 모바일'은 게임 내 부정 행위를 근절하기 위해 지난해 12월 기기 차단(하드웨어 밴) 기능을 도입했다."
+			],
+			[
+				4,
+				"행위",
+				"NNG",
+				"한편 '배틀그라운드 모바일'은 게임 내 부정 행위를 근절하기 위해 지난해 12월 기기 차단(하드웨어 밴) 기능을 도입했다."
+			],
+			[
+				5,
+				"지난해",
+				"NNG",
+				"한편 '배틀그라운드 모바일'은 게임 내 부정 행위를 근절하기 위해 지난해 12월 기기 차단(하드웨어 밴) 기능을 도입했다."
+			],
+			[
+				6,
+				"월",
+				"NNB",
+				"한편 '배틀그라운드 모바일'은 게임 내 부정 행위를 근절하기 위해 지난해 12월 기기 차단(하드웨어 밴) 기능을 도입했다."
+			],
+			[
+				7,
+				"기기",
+				"NNG",
+				"한편 '배틀그라운드 모바일'은 게임 내 부정 행위를 근절하기 위해 지난해 12월 기기 차단(하드웨어 밴) 기능을 도입했다."
+			],
+			[
+				8,
+				"차단",
+				"NNG",
+				"한편 '배틀그라운드 모바일'은 게임 내 부정 행위를 근절하기 위해 지난해 12월 기기 차단(하드웨어 밴) 기능을 도입했다."
+			],
+			[
+				9,
+				"하드웨어",
+				"NNG",
+				"한편 '배틀그라운드 모바일'은 게임 내 부정 행위를 근절하기 위해 지난해 12월 기기 차단(하드웨어 밴) 기능을 도입했다."
+			],
+			[
+				10,
+				"밴",
+				"NNG",
+				"한편 '배틀그라운드 모바일'은 게임 내 부정 행위를 근절하기 위해 지난해 12월 기기 차단(하드웨어 밴) 기능을 도입했다."
+			],
+			[
+				11,
+				"기능",
+				"NNG",
+				"한편 '배틀그라운드 모바일'은 게임 내 부정 행위를 근절하기 위해 지난해 12월 기기 차단(하드웨어 밴) 기능을 도입했다."
+			],
+			[
+				12,
+				"시스템",
+				"NNG",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			],
+			[
+				13,
+				"부정",
+				"NNG",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			],
+			[
+				14,
+				"행위",
+				"NNG",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			],
+			[
+				15,
+				"유저",
+				"NNG",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			],
+			[
+				16,
+				"기기",
+				"NNG",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			],
+			[
+				17,
+				"영구",
+				"NNG",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			],
+			[
+				18,
+				"해당",
+				"NNG",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			],
+			[
+				19,
+				"기기",
+				"NNG",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			],
+			[
+				20,
+				"이상",
+				"NNG",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			],
+			[
+				21,
+				"배틀그라운드",
+				"NNP",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			],
+			[
+				22,
+				"모바일",
+				"NNG",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			],
+			[
+				23,
+				"계정",
+				"NNG",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			],
+			[
+				24,
+				"수",
+				"NNB",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			],
+			[
+				25,
+				"기능",
+				"NNG",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			],
+			[
+				26,
+				"모바일",
+				"NNG",
+				"모바일게임이 기기 차단 기능을 도입한 사례는 매우 이례적이다."
+			],
+			[
+				27,
+				"게임",
+				"NNG",
+				"모바일게임이 기기 차단 기능을 도입한 사례는 매우 이례적이다."
+			],
+			[
+				28,
+				"기기",
+				"NNG",
+				"모바일게임이 기기 차단 기능을 도입한 사례는 매우 이례적이다."
+			],
+			[
+				29,
+				"차단",
+				"NNG",
+				"모바일게임이 기기 차단 기능을 도입한 사례는 매우 이례적이다."
+			],
+			[
+				30,
+				"기능",
+				"NNG",
+				"모바일게임이 기기 차단 기능을 도입한 사례는 매우 이례적이다."
+			],
+			[
+				31,
+				"사례",
+				"NNG",
+				"모바일게임이 기기 차단 기능을 도입한 사례는 매우 이례적이다."
+			],
+			[
+				32,
+				"이례",
+				"NNG",
+				"모바일게임이 기기 차단 기능을 도입한 사례는 매우 이례적이다."
+			]
+		],
+		"NN_Lst": [
+			[
+				0,
+				"모바일",
+				"NNG",
+				"한편 '배틀그라운드 모바일'은 게임 내 부정 행위를 근절하기 위해 지난해 12월 기기 차단(하드웨어 밴) 기능을 도입했다."
+			],
+			[
+				1,
+				"게임",
+				"NNG",
+				"한편 '배틀그라운드 모바일'은 게임 내 부정 행위를 근절하기 위해 지난해 12월 기기 차단(하드웨어 밴) 기능을 도입했다."
+			],
+			[
+				2,
+				"내",
+				"NNB",
+				"한편 '배틀그라운드 모바일'은 게임 내 부정 행위를 근절하기 위해 지난해 12월 기기 차단(하드웨어 밴) 기능을 도입했다."
+			],
+			[
+				3,
+				"부정",
+				"NNG",
+				"한편 '배틀그라운드 모바일'은 게임 내 부정 행위를 근절하기 위해 지난해 12월 기기 차단(하드웨어 밴) 기능을 도입했다."
+			],
+			[
+				4,
+				"행위",
+				"NNG",
+				"한편 '배틀그라운드 모바일'은 게임 내 부정 행위를 근절하기 위해 지난해 12월 기기 차단(하드웨어 밴) 기능을 도입했다."
+			],
+			[
+				5,
+				"지난해",
+				"NNG",
+				"한편 '배틀그라운드 모바일'은 게임 내 부정 행위를 근절하기 위해 지난해 12월 기기 차단(하드웨어 밴) 기능을 도입했다."
+			],
+			[
+				6,
+				"월",
+				"NNB",
+				"한편 '배틀그라운드 모바일'은 게임 내 부정 행위를 근절하기 위해 지난해 12월 기기 차단(하드웨어 밴) 기능을 도입했다."
+			],
+			[
+				7,
+				"기기",
+				"NNG",
+				"한편 '배틀그라운드 모바일'은 게임 내 부정 행위를 근절하기 위해 지난해 12월 기기 차단(하드웨어 밴) 기능을 도입했다."
+			],
+			[
+				8,
+				"차단",
+				"NNG",
+				"한편 '배틀그라운드 모바일'은 게임 내 부정 행위를 근절하기 위해 지난해 12월 기기 차단(하드웨어 밴) 기능을 도입했다."
+			],
+			[
+				9,
+				"하드웨어",
+				"NNG",
+				"한편 '배틀그라운드 모바일'은 게임 내 부정 행위를 근절하기 위해 지난해 12월 기기 차단(하드웨어 밴) 기능을 도입했다."
+			],
+			[
+				10,
+				"밴",
+				"NNG",
+				"한편 '배틀그라운드 모바일'은 게임 내 부정 행위를 근절하기 위해 지난해 12월 기기 차단(하드웨어 밴) 기능을 도입했다."
+			],
+			[
+				11,
+				"기능",
+				"NNG",
+				"한편 '배틀그라운드 모바일'은 게임 내 부정 행위를 근절하기 위해 지난해 12월 기기 차단(하드웨어 밴) 기능을 도입했다."
+			],
+			[
+				12,
+				"시스템",
+				"NNG",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			],
+			[
+				13,
+				"부정",
+				"NNG",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			],
+			[
+				14,
+				"행위",
+				"NNG",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			],
+			[
+				15,
+				"유저",
+				"NNG",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			],
+			[
+				16,
+				"기기",
+				"NNG",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			],
+			[
+				17,
+				"영구",
+				"NNG",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			],
+			[
+				18,
+				"해당",
+				"NNG",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			],
+			[
+				19,
+				"기기",
+				"NNG",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			],
+			[
+				20,
+				"이상",
+				"NNG",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			],
+			[
+				21,
+				"배틀그라운드",
+				"NNP",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			],
+			[
+				22,
+				"모바일",
+				"NNG",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			],
+			[
+				23,
+				"계정",
+				"NNG",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			],
+			[
+				24,
+				"수",
+				"NNB",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			],
+			[
+				25,
+				"기능",
+				"NNG",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			],
+			[
+				26,
+				"모바일",
+				"NNG",
+				"모바일게임이 기기 차단 기능을 도입한 사례는 매우 이례적이다."
+			],
+			[
+				27,
+				"게임",
+				"NNG",
+				"모바일게임이 기기 차단 기능을 도입한 사례는 매우 이례적이다."
+			],
+			[
+				28,
+				"기기",
+				"NNG",
+				"모바일게임이 기기 차단 기능을 도입한 사례는 매우 이례적이다."
+			],
+			[
+				29,
+				"차단",
+				"NNG",
+				"모바일게임이 기기 차단 기능을 도입한 사례는 매우 이례적이다."
+			],
+			[
+				30,
+				"기능",
+				"NNG",
+				"모바일게임이 기기 차단 기능을 도입한 사례는 매우 이례적이다."
+			],
+			[
+				31,
+				"사례",
+				"NNG",
+				"모바일게임이 기기 차단 기능을 도입한 사례는 매우 이례적이다."
+			],
+			[
+				32,
+				"이례",
+				"NNG",
+				"모바일게임이 기기 차단 기능을 도입한 사례는 매우 이례적이다."
+			]
+		],
+		"NNG_Lst": [
+			[
+				0,
+				"모바일",
+				"NNG",
+				"한편 '배틀그라운드 모바일'은 게임 내 부정 행위를 근절하기 위해 지난해 12월 기기 차단(하드웨어 밴) 기능을 도입했다."
+			],
+			[
+				1,
+				"게임",
+				"NNG",
+				"한편 '배틀그라운드 모바일'은 게임 내 부정 행위를 근절하기 위해 지난해 12월 기기 차단(하드웨어 밴) 기능을 도입했다."
+			],
+			[
+				2,
+				"부정",
+				"NNG",
+				"한편 '배틀그라운드 모바일'은 게임 내 부정 행위를 근절하기 위해 지난해 12월 기기 차단(하드웨어 밴) 기능을 도입했다."
+			],
+			[
+				3,
+				"행위",
+				"NNG",
+				"한편 '배틀그라운드 모바일'은 게임 내 부정 행위를 근절하기 위해 지난해 12월 기기 차단(하드웨어 밴) 기능을 도입했다."
+			],
+			[
+				4,
+				"지난해",
+				"NNG",
+				"한편 '배틀그라운드 모바일'은 게임 내 부정 행위를 근절하기 위해 지난해 12월 기기 차단(하드웨어 밴) 기능을 도입했다."
+			],
+			[
+				5,
+				"기기",
+				"NNG",
+				"한편 '배틀그라운드 모바일'은 게임 내 부정 행위를 근절하기 위해 지난해 12월 기기 차단(하드웨어 밴) 기능을 도입했다."
+			],
+			[
+				6,
+				"차단",
+				"NNG",
+				"한편 '배틀그라운드 모바일'은 게임 내 부정 행위를 근절하기 위해 지난해 12월 기기 차단(하드웨어 밴) 기능을 도입했다."
+			],
+			[
+				7,
+				"하드웨어",
+				"NNG",
+				"한편 '배틀그라운드 모바일'은 게임 내 부정 행위를 근절하기 위해 지난해 12월 기기 차단(하드웨어 밴) 기능을 도입했다."
+			],
+			[
+				8,
+				"밴",
+				"NNG",
+				"한편 '배틀그라운드 모바일'은 게임 내 부정 행위를 근절하기 위해 지난해 12월 기기 차단(하드웨어 밴) 기능을 도입했다."
+			],
+			[
+				9,
+				"기능",
+				"NNG",
+				"한편 '배틀그라운드 모바일'은 게임 내 부정 행위를 근절하기 위해 지난해 12월 기기 차단(하드웨어 밴) 기능을 도입했다."
+			],
+			[
+				10,
+				"시스템",
+				"NNG",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			],
+			[
+				11,
+				"부정",
+				"NNG",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			],
+			[
+				12,
+				"행위",
+				"NNG",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			],
+			[
+				13,
+				"유저",
+				"NNG",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			],
+			[
+				14,
+				"기기",
+				"NNG",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			],
+			[
+				15,
+				"영구",
+				"NNG",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			],
+			[
+				16,
+				"해당",
+				"NNG",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			],
+			[
+				17,
+				"기기",
+				"NNG",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			],
+			[
+				18,
+				"이상",
+				"NNG",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			],
+			[
+				19,
+				"모바일",
+				"NNG",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			],
+			[
+				20,
+				"계정",
+				"NNG",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			],
+			[
+				21,
+				"기능",
+				"NNG",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			],
+			[
+				22,
+				"모바일",
+				"NNG",
+				"모바일게임이 기기 차단 기능을 도입한 사례는 매우 이례적이다."
+			],
+			[
+				23,
+				"게임",
+				"NNG",
+				"모바일게임이 기기 차단 기능을 도입한 사례는 매우 이례적이다."
+			],
+			[
+				24,
+				"기기",
+				"NNG",
+				"모바일게임이 기기 차단 기능을 도입한 사례는 매우 이례적이다."
+			],
+			[
+				25,
+				"차단",
+				"NNG",
+				"모바일게임이 기기 차단 기능을 도입한 사례는 매우 이례적이다."
+			],
+			[
+				26,
+				"기능",
+				"NNG",
+				"모바일게임이 기기 차단 기능을 도입한 사례는 매우 이례적이다."
+			],
+			[
+				27,
+				"사례",
+				"NNG",
+				"모바일게임이 기기 차단 기능을 도입한 사례는 매우 이례적이다."
+			],
+			[
+				28,
+				"이례",
+				"NNG",
+				"모바일게임이 기기 차단 기능을 도입한 사례는 매우 이례적이다."
+			]
+		],
+		"NNP_Lst": [
+			[
+				0,
+				"배틀그라운드",
+				"NNP",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			]
+		],
+		"NNB_Lst": [
+			[
+				0,
+				"내",
+				"NNB",
+				"한편 '배틀그라운드 모바일'은 게임 내 부정 행위를 근절하기 위해 지난해 12월 기기 차단(하드웨어 밴) 기능을 도입했다."
+			],
+			[
+				1,
+				"월",
+				"NNB",
+				"한편 '배틀그라운드 모바일'은 게임 내 부정 행위를 근절하기 위해 지난해 12월 기기 차단(하드웨어 밴) 기능을 도입했다."
+			],
+			[
+				2,
+				"수",
+				"NNB",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			]
+		],
+		"NP_Lst": [],
+		"NP_People_Lst": [],
+		"NP_Things_Lst": [],
+		"NR_Lst": [],
+		"VL_Lst": [
+			[
+				0,
+				"근절하",
+				"VV",
+				"한편 '배틀그라운드 모바일'은 게임 내 부정 행위를 근절하기 위해 지난해 12월 기기 차단(하드웨어 밴) 기능을 도입했다."
+			],
+			[
+				1,
+				"위하",
+				"VV",
+				"한편 '배틀그라운드 모바일'은 게임 내 부정 행위를 근절하기 위해 지난해 12월 기기 차단(하드웨어 밴) 기능을 도입했다."
+			],
+			[
+				2,
+				"도입하",
+				"VV",
+				"한편 '배틀그라운드 모바일'은 게임 내 부정 행위를 근절하기 위해 지난해 12월 기기 차단(하드웨어 밴) 기능을 도입했다."
+			],
+			[
+				3,
+				"하",
+				"VV",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			],
+			[
+				4,
+				"판단하",
+				"VV",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			],
+			[
+				5,
+				"차단하",
+				"VV",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			],
+			[
+				6,
+				"접속하",
+				"VV",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			],
+			[
+				7,
+				"새롭",
+				"VA",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			],
+			[
+				8,
+				"만들",
+				"VV",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			],
+			[
+				9,
+				"없",
+				"VA",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			],
+			[
+				10,
+				"하",
+				"VX",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			],
+			[
+				11,
+				"이",
+				"VCP",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			],
+			[
+				12,
+				"도입하",
+				"VV",
+				"모바일게임이 기기 차단 기능을 도입한 사례는 매우 이례적이다."
+			],
+			[
+				13,
+				"이",
+				"VCP",
+				"모바일게임이 기기 차단 기능을 도입한 사례는 매우 이례적이다."
+			]
+		],
+		"VV_Lst": [
+			[
+				0,
+				"근절하",
+				"VV",
+				"한편 '배틀그라운드 모바일'은 게임 내 부정 행위를 근절하기 위해 지난해 12월 기기 차단(하드웨어 밴) 기능을 도입했다."
+			],
+			[
+				1,
+				"위하",
+				"VV",
+				"한편 '배틀그라운드 모바일'은 게임 내 부정 행위를 근절하기 위해 지난해 12월 기기 차단(하드웨어 밴) 기능을 도입했다."
+			],
+			[
+				2,
+				"도입하",
+				"VV",
+				"한편 '배틀그라운드 모바일'은 게임 내 부정 행위를 근절하기 위해 지난해 12월 기기 차단(하드웨어 밴) 기능을 도입했다."
+			],
+			[
+				3,
+				"하",
+				"VV",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			],
+			[
+				4,
+				"판단하",
+				"VV",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			],
+			[
+				5,
+				"차단하",
+				"VV",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			],
+			[
+				6,
+				"접속하",
+				"VV",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			],
+			[
+				7,
+				"만들",
+				"VV",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			],
+			[
+				8,
+				"도입하",
+				"VV",
+				"모바일게임이 기기 차단 기능을 도입한 사례는 매우 이례적이다."
+			]
+		],
+		"VA_Lst": [
+			[
+				0,
+				"새롭",
+				"VA",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			],
+			[
+				1,
+				"없",
+				"VA",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			]
+		],
+		"VX_Lst": [
+			[
+				0,
+				"하",
+				"VX",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			]
+		],
+		"VCP_Lst": [
+			[
+				0,
+				"이",
+				"VCP",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			],
+			[
+				1,
+				"이",
+				"VCP",
+				"모바일게임이 기기 차단 기능을 도입한 사례는 매우 이례적이다."
+			]
+		],
+		"VCN_Lst": [],
+		"ML_Lst": [
+			[
+				0,
+				"한편",
+				"MAG",
+				"한편 '배틀그라운드 모바일'은 게임 내 부정 행위를 근절하기 위해 지난해 12월 기기 차단(하드웨어 밴) 기능을 도입했다."
+			],
+			[
+				1,
+				"더",
+				"MAG",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			],
+			[
+				2,
+				"매우",
+				"MAG",
+				"모바일게임이 기기 차단 기능을 도입한 사례는 매우 이례적이다."
+			]
+		],
+		"MA_Lst": [],
+		"MM_Lst": [],
+		"J_Lst": [
+			[
+				0,
+				"은",
+				"JX",
+				"한편 '배틀그라운드 모바일'은 게임 내 부정 행위를 근절하기 위해 지난해 12월 기기 차단(하드웨어 밴) 기능을 도입했다."
+			],
+			[
+				1,
+				"를",
+				"JKO",
+				"한편 '배틀그라운드 모바일'은 게임 내 부정 행위를 근절하기 위해 지난해 12월 기기 차단(하드웨어 밴) 기능을 도입했다."
+			],
+			[
+				2,
+				"을",
+				"JKO",
+				"한편 '배틀그라운드 모바일'은 게임 내 부정 행위를 근절하기 위해 지난해 12월 기기 차단(하드웨어 밴) 기능을 도입했다."
+			],
+			[
+				3,
+				"에서",
+				"JKB",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			],
+			[
+				4,
+				"를",
+				"JKO",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			],
+			[
+				5,
+				"의",
+				"JKG",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			],
+			[
+				6,
+				"를",
+				"JKO",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			],
+			[
+				7,
+				"으로",
+				"JKB",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			],
+			[
+				8,
+				"에서",
+				"JKB",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			],
+			[
+				9,
+				"에",
+				"JKB",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			],
+			[
+				10,
+				"을",
+				"JKO",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			],
+			[
+				11,
+				"이",
+				"JKS",
+				"모바일게임이 기기 차단 기능을 도입한 사례는 매우 이례적이다."
+			],
+			[
+				12,
+				"을",
+				"JKO",
+				"모바일게임이 기기 차단 기능을 도입한 사례는 매우 이례적이다."
+			],
+			[
+				13,
+				"는",
+				"JX",
+				"모바일게임이 기기 차단 기능을 도입한 사례는 매우 이례적이다."
+			]
+		],
+		"E_Lst": [
+			[
+				0,
+				"기",
+				"ETN",
+				"한편 '배틀그라운드 모바일'은 게임 내 부정 행위를 근절하기 위해 지난해 12월 기기 차단(하드웨어 밴) 기능을 도입했다."
+			],
+			[
+				1,
+				"아",
+				"EC",
+				"한편 '배틀그라운드 모바일'은 게임 내 부정 행위를 근절하기 위해 지난해 12월 기기 차단(하드웨어 밴) 기능을 도입했다."
+			],
+			[
+				2,
+				"았",
+				"EP",
+				"한편 '배틀그라운드 모바일'은 게임 내 부정 행위를 근절하기 위해 지난해 12월 기기 차단(하드웨어 밴) 기능을 도입했다."
+			],
+			[
+				3,
+				"다",
+				"EF",
+				"한편 '배틀그라운드 모바일'은 게임 내 부정 행위를 근절하기 위해 지난해 12월 기기 차단(하드웨어 밴) 기능을 도입했다."
+			],
+			[
+				4,
+				"았",
+				"EP",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			],
+			[
+				5,
+				"다고",
+				"EC",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			],
+			[
+				6,
+				"ㄴ",
+				"ETM",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			],
+			[
+				7,
+				"아",
+				"EC",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			],
+			[
+				8,
+				"거나",
+				"EC",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			],
+			[
+				9,
+				"ㄴ",
+				"ETM",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			],
+			[
+				10,
+				"ㄹ",
+				"ETM",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			],
+			[
+				11,
+				"게",
+				"EC",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			],
+			[
+				12,
+				"는",
+				"ETM",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			],
+			[
+				13,
+				"다",
+				"EF",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			],
+			[
+				14,
+				"ㄴ",
+				"ETM",
+				"모바일게임이 기기 차단 기능을 도입한 사례는 매우 이례적이다."
+			],
+			[
+				15,
+				"다",
+				"EF",
+				"모바일게임이 기기 차단 기능을 도입한 사례는 매우 이례적이다."
+			]
+		],
+		"X_Lst": [
+			[
+				0,
+				"적",
+				"XSN",
+				"시스템에서 부정 행위를 했다고 판단한 유저의 기기를 영구적으로 차단해 해당 기기에서 더 이상 '배틀그라운드 모바일'에 접속하거나 새로운 계정을 만들 수 없게 하는 기능이다."
+			],
+			[
+				1,
+				"적",
+				"XSN",
+				"모바일게임이 기기 차단 기능을 도입한 사례는 매우 이례적이다."
+			]
+		],
+		"IC_Lst": []
+	},
+	"NDW": {
+		"morph_NDW": 63,
+		"NL_NDW": 33,
+		"NNG_NDW": 29,
+		"NNP_NDW": 1,
+		"NNB_NDW": 3,
+		"NP_NDW": 0,
+		"NR_NDW": 0,
+		"VL_NDW": 14,
+		"VV_NDW": 9,
+		"VA_NDW": 2,
+		"ML_NDW": 3,
+		"MM_NDW": 0,
+		"IC_NDW": 0,
+		"J_NDW": 14,
+		"E_NDW": 16,
+		"X_NDW": 2,
+		"CL_NDW": 50,
+		"FL_NDW": 32
+	}
+}

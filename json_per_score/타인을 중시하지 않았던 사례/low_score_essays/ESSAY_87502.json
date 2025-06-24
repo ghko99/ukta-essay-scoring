@@ -1,0 +1,3002 @@
+﻿{
+	"morpheme": {
+		"sentences": [
+			{
+				"text": {
+					"content": "집단주의는 개인을 '나'라는 고유한 정체성보다 집단 안에서의 역할과 의무와 관련지어 이해한다.",
+					"length": 52,
+					"beginOffset": 0
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "집단주의는",
+							"length": 5,
+							"beginOffset": 0
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "집단주의",
+									"length": 4,
+									"beginOffset": 0
+								},
+								"tag": "NNP",
+								"probability": 0.58453614,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 4,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9977786,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "집단주의",
+						"tagged": "집단주의/NNP+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "개인을",
+							"beginOffset": 6,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "개인",
+									"beginOffset": 6,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9812523,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 8,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999748,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "개인",
+						"tagged": "개인/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "'나",
+							"beginOffset": 10,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "'",
+									"beginOffset": 10,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9999181,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "나",
+									"beginOffset": 11,
+									"length": 1
+								},
+								"tag": "NP",
+								"probability": 0.8255517,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "'",
+						"tagged": "'/SS+나/NP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "'라는",
+							"beginOffset": 12,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "'",
+									"beginOffset": 12,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9999543,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 13,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.9972308,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "라는",
+									"beginOffset": 13,
+									"length": 2
+								},
+								"tag": "ETM",
+								"probability": 0.9999572,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "'",
+						"tagged": "'/SS+이/VCP+라는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "고유한",
+							"beginOffset": 16,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "고유하",
+									"beginOffset": 16,
+									"length": 3
+								},
+								"tag": "VA",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 18,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99998873,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "고유하",
+						"tagged": "고유하/VA+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "정체성보다",
+							"beginOffset": 20,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "정체",
+									"beginOffset": 20,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9837112,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "성",
+									"beginOffset": 22,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.9854711,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "보다",
+									"beginOffset": 23,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9959232,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "정체",
+						"tagged": "정체/NNG+성/XSN+보다/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "집단",
+							"beginOffset": 26,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "집단",
+									"beginOffset": 26,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9833557,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "집단",
+						"tagged": "집단/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "안에서의",
+							"beginOffset": 29,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "안",
+									"beginOffset": 29,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.97880787,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에서",
+									"beginOffset": 30,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.996874,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 32,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9996319,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "안",
+						"tagged": "안/NNG+에서/JKB+의/JKG",
+						"modified": "안에서의"
+					},
+					{
+						"text": {
+							"content": "역할과",
+							"beginOffset": 34,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "역할",
+									"beginOffset": 34,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98482406,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "과",
+									"beginOffset": 36,
+									"length": 1
+								},
+								"tag": "JC",
+								"probability": 0.9426054,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "역할",
+						"tagged": "역할/NNG+과/JC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "의무와",
+							"beginOffset": 38,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "의무",
+									"beginOffset": 38,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98312354,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "와",
+									"beginOffset": 40,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.84588665,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "의무",
+						"tagged": "의무/NNG+와/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "관련지어",
+							"beginOffset": 42,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "관련짓",
+									"beginOffset": 42,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.9900029,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어",
+									"beginOffset": 45,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.98763597,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "관련짓",
+						"tagged": "관련짓/VV+어/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이해한다.",
+							"beginOffset": 47,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이해하",
+									"beginOffset": 47,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ다",
+									"beginOffset": 49,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.9927924,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 51,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9995791,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이해하",
+						"tagged": "이해하/VV+ㄴ다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "집단주의는 개인을 '나 '라는 고유한 정체성보다 집단 안에서의 역할과 의무와 관련지어 이해한다."
+			},
+			{
+				"text": {
+					"content": "또한, 개인의 욕구와 소망이 아닌 집단 전체가 추구하는 가치와 목표를 더 중요시한다.",
+					"beginOffset": 53,
+					"length": 47
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "또한",
+							"beginOffset": 53,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "또한",
+									"beginOffset": 53,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.98165965,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "또한",
+						"tagged": "또한/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": ",",
+							"beginOffset": 55,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 55,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.9993104,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": ",",
+						"tagged": ",/SP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "개인의",
+							"beginOffset": 57,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "개인",
+									"beginOffset": 57,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9803378,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 59,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9997856,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "개인",
+						"tagged": "개인/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "욕구와",
+							"beginOffset": 61,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "욕구",
+									"beginOffset": 61,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9832036,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "와",
+									"beginOffset": 63,
+									"length": 1
+								},
+								"tag": "JC",
+								"probability": 0.98767155,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "욕구",
+						"tagged": "욕구/NNG+와/JC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "소망이",
+							"beginOffset": 65,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "소망",
+									"beginOffset": 65,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.980372,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 67,
+									"length": 1
+								},
+								"tag": "JKC",
+								"probability": 0.9817902,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "소망",
+						"tagged": "소망/NNG+이/JKC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "아닌",
+							"beginOffset": 69,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "아니",
+									"beginOffset": 69,
+									"length": 2
+								},
+								"tag": "VCN",
+								"probability": 0.99982643,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 70,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99995047,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "아니",
+						"tagged": "아니/VCN+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "집단",
+							"beginOffset": 72,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "집단",
+									"beginOffset": 72,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.982431,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "집단",
+						"tagged": "집단/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "전체가",
+							"beginOffset": 75,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "전체",
+									"beginOffset": 75,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98337096,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 77,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9933117,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "전체",
+						"tagged": "전체/NNG+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "추구하는",
+							"beginOffset": 79,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "추구하",
+									"beginOffset": 79,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 82,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999339,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "추구하",
+						"tagged": "추구하/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "가치와",
+							"beginOffset": 84,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "가치",
+									"beginOffset": 84,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98312515,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "와",
+									"beginOffset": 86,
+									"length": 1
+								},
+								"tag": "JC",
+								"probability": 0.8426948,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "가치",
+						"tagged": "가치/NNG+와/JC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "목표를",
+							"beginOffset": 88,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "목표",
+									"beginOffset": 88,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98618394,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 90,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.999951,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "목표",
+						"tagged": "목표/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "더",
+							"beginOffset": 92,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "더",
+									"beginOffset": 92,
+									"length": 1
+								},
+								"tag": "MAG",
+								"probability": 0.9919,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "더",
+						"tagged": "더/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "중요시한다.",
+							"beginOffset": 94,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "중요시하",
+									"beginOffset": 94,
+									"length": 4
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ다",
+									"beginOffset": 97,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.990411,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 99,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9996126,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "중요시하",
+						"tagged": "중요시하/VV+ㄴ다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "또한 , 개인의 욕구와 소망이 아닌 집단 전체가 추구하는 가치와 목표를 더 중요시한다."
+			},
+			{
+				"text": {
+					"content": "집단주의 문화의 사람들은 자아를 개인 차원이 아닌 사회적 차원에서 타인에게 받아들여지는 것에 중점을 두어 형성해간다.",
+					"beginOffset": 101,
+					"length": 65
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "집단주의",
+							"beginOffset": 101,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "집단주의",
+									"beginOffset": 101,
+									"length": 4
+								},
+								"tag": "NNP",
+								"probability": 0.5286428,
+								"outOfVocab": "OUT_OF_VOCAB"
+							}
+						],
+						"lemma": "집단주의",
+						"tagged": "집단주의/NNP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "문화의",
+							"beginOffset": 106,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "문화",
+									"beginOffset": 106,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9846989,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 108,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9992314,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "문화",
+						"tagged": "문화/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사람들은",
+							"beginOffset": 110,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사람",
+									"beginOffset": 110,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9852199,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "들",
+									"beginOffset": 112,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.99264604,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 113,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.999343,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사람",
+						"tagged": "사람/NNG+들/XSN+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "자아를",
+							"beginOffset": 115,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "자아",
+									"beginOffset": 115,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98317826,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 117,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999659,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "자아",
+						"tagged": "자아/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "개인",
+							"beginOffset": 119,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "개인",
+									"beginOffset": 119,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9811096,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "개인",
+						"tagged": "개인/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "차원이",
+							"beginOffset": 122,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "차원",
+									"beginOffset": 122,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9812569,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 124,
+									"length": 1
+								},
+								"tag": "JKC",
+								"probability": 0.9874783,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "차원",
+						"tagged": "차원/NNG+이/JKC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "아닌",
+							"beginOffset": 126,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "아니",
+									"beginOffset": 126,
+									"length": 2
+								},
+								"tag": "VCN",
+								"probability": 0.9999696,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 127,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99992126,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "아니",
+						"tagged": "아니/VCN+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사회적",
+							"beginOffset": 129,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사회",
+									"beginOffset": 129,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98436254,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "적",
+									"beginOffset": 131,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.9912069,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사회",
+						"tagged": "사회/NNG+적/XSN",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "차원에서",
+							"beginOffset": 133,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "차원",
+									"beginOffset": 133,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9822951,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에서",
+									"beginOffset": 135,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9963413,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "차원",
+						"tagged": "차원/NNG+에서/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "타인에게",
+							"beginOffset": 138,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "타인",
+									"beginOffset": 138,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98170817,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에게",
+									"beginOffset": 140,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.99676436,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "타인",
+						"tagged": "타인/NNG+에게/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "받아들여",
+							"beginOffset": 143,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "받아들이",
+									"beginOffset": 143,
+									"length": 4
+								},
+								"tag": "VV",
+								"probability": 0.98892283,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어",
+									"beginOffset": 146,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99517566,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "받아들이",
+						"tagged": "받아들이/VV+어/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "지는",
+							"beginOffset": 147,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "지",
+									"beginOffset": 147,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.9797793,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 148,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99993753,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "지",
+						"tagged": "지/VX+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "것에",
+							"beginOffset": 150,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "것",
+									"beginOffset": 150,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.97970736,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 151,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9972657,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "것",
+						"tagged": "것/NNB+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "중점을",
+							"beginOffset": 153,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "중점",
+									"beginOffset": 153,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98240346,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 155,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999743,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "중점",
+						"tagged": "중점/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "두어",
+							"beginOffset": 157,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "두",
+									"beginOffset": 157,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.59990895,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어",
+									"beginOffset": 158,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.94686306,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "두",
+						"tagged": "두/VV+어/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "형성해",
+							"beginOffset": 160,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "형성하",
+									"beginOffset": 160,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 162,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9911139,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "형성하",
+						"tagged": "형성하/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "간다.",
+							"beginOffset": 163,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 163,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.940433,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ다",
+									"beginOffset": 163,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.9887558,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 165,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9998298,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "가",
+						"tagged": "가/VX+ㄴ다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "집단주의 문화의 사람들은 자아를 개인 차원이 아닌 사회적 차원에서 타인에게 받아들여 지는 것에 중점을 두어 형성해 간다."
+			},
+			{
+				"text": {
+					"content": "이런 집단주의 문화에서의 자아를 '상호의존적 자기'라고 부른다.",
+					"beginOffset": 167,
+					"length": 35
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "이런",
+							"beginOffset": 167,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이런",
+									"beginOffset": 167,
+									"length": 2
+								},
+								"tag": "MMD",
+								"probability": 0.99899316,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이런",
+						"tagged": "이런/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "집단주의",
+							"beginOffset": 170,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "집단주의",
+									"beginOffset": 170,
+									"length": 4
+								},
+								"tag": "NNG",
+								"probability": 0.51574236,
+								"outOfVocab": "OUT_OF_VOCAB"
+							}
+						],
+						"lemma": "집단주의",
+						"tagged": "집단주의/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "문화에서의",
+							"beginOffset": 175,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "문화",
+									"beginOffset": 175,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9843622,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에서",
+									"beginOffset": 177,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.99674404,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 179,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9985675,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "문화",
+						"tagged": "문화/NNG+에서/JKB+의/JKG",
+						"modified": "문화에서의"
+					},
+					{
+						"text": {
+							"content": "자아를",
+							"beginOffset": 181,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "자아",
+									"beginOffset": 181,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9831757,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 183,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99997526,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "자아",
+						"tagged": "자아/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "'상호의존적",
+							"beginOffset": 185,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "'",
+									"beginOffset": 185,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9999564,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "상호",
+									"beginOffset": 186,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "의존적",
+									"beginOffset": 188,
+									"length": 3
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							}
+						],
+						"lemma": "'",
+						"tagged": "'/SS+상호/NNG+의존적/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "자기",
+							"beginOffset": 192,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "자기",
+									"beginOffset": 192,
+									"length": 2
+								},
+								"tag": "NP",
+								"probability": 0.6186418,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "자기",
+						"tagged": "자기/NP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "'라고",
+							"beginOffset": 194,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "'",
+									"beginOffset": 194,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.999971,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "라고",
+									"beginOffset": 195,
+									"length": 2
+								},
+								"tag": "JKQ",
+								"probability": 0.99945617,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "'",
+						"tagged": "'/SS+라고/JKQ",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "부른다.",
+							"beginOffset": 198,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "부르",
+									"beginOffset": 198,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9880727,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ다",
+									"beginOffset": 199,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.9905633,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 201,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99983925,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "부르",
+						"tagged": "부르/VV+ㄴ다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "이런 집단주의 문화에서의 자아를 '상호의존적 자기 '라고 부른다."
+			}
+		],
+		"language": "ko_KR"
+	},
+	"ttr": {
+		"lemma_Cnt": 91,
+		"lemma_TTR": 0.63,
+		"CL_TTR": 0.8125,
+		"NL_TTR": 0.75,
+		"NN_TTR": 0.7333333333333333,
+		"NNG_TTR": 0.7777777777777778,
+		"NNP_TTR": 0.5,
+		"NNB_TTR": 1.0,
+		"NP_TTR": 1.0,
+		"NR_TTR": 0,
+		"VL_TTR": 0.9285714285714286,
+		"VV_TTR": 1.0,
+		"VA_TTR": 1.0,
+		"ML_TTR": 1.0,
+		"MM_TTR": 0,
+		"MA_TTR": 1.0,
+		"MAJ_TTR": 0,
+		"IC_TTR": 0,
+		"FL_TTR": 0.5121951219512195,
+		"J_TTR": 0.5416666666666666,
+		"E_TTR": 0.42857142857142855,
+		"X_TTR": 1.0,
+		"lemma_RTTR": 6.3,
+		"CL_RTTR": 5.629165124598852,
+		"NL_RTTR": 4.242640687119285,
+		"NN_RTTR": 4.016632088371218,
+		"NNG_RTTR": 4.041451884327381,
+		"NNP_RTTR": 0.7071067811865475,
+		"NNB_RTTR": 1.0,
+		"NP_RTTR": 1.414213562373095,
+		"NR_RTTR": 0,
+		"VL_RTTR": 3.474396144861517,
+		"VV_RTTR": 2.82842712474619,
+		"VA_RTTR": 1.0,
+		"ML_RTTR": 1.414213562373095,
+		"MM_RTTR": 0,
+		"MA_RTTR": 1.414213562373095,
+		"MAJ_RTTR": 0,
+		"IC_RTTR": 0,
+		"FL_RTTR": 3.2796489996607274,
+		"J_RTTR": 2.65361388801511,
+		"E_RTTR": 1.6035674514745464,
+		"X_RTTR": 1.7320508075688774,
+		"lemma_CTTR": 4.4547727214752495,
+		"CL_CTTR": 3.9804208320226646,
+		"NL_CTTR": 3.0,
+		"NN_CTTR": 2.840187787218772,
+		"NNG_CTTR": 2.857738033247041,
+		"NNP_CTTR": 0.5,
+		"NNB_CTTR": 0.7071067811865475,
+		"NP_CTTR": 1.0,
+		"NR_CTTR": 0,
+		"VL_CTTR": 2.456769074559977,
+		"VV_CTTR": 2.0,
+		"VA_CTTR": 0.7071067811865475,
+		"ML_CTTR": 1.0,
+		"MM_CTTR": 0,
+		"MA_CTTR": 1.0,
+		"MAJ_CTTR": 0,
+		"IC_CTTR": 0,
+		"FL_CTTR": 2.3190620475717774,
+		"J_CTTR": 1.8763883748662837,
+		"E_CTTR": 1.1338934190276817,
+		"X_CTTR": 1.2247448713915892,
+		"lemma_MSTTR": 0.78,
+		"CL_MSTTR": 0.8125,
+		"NL_MSTTR": 0.75,
+		"NN_MSTTR": 0.7333333333333333,
+		"NNG_MSTTR": 0.7777777777777778,
+		"NNP_MSTTR": 0.5,
+		"NNB_MSTTR": 1.0,
+		"NP_MSTTR": 1.0,
+		"NR_MSTTR": 0,
+		"VL_MSTTR": 0.9285714285714286,
+		"VV_MSTTR": 1.0,
+		"VA_MSTTR": 1.0,
+		"ML_MSTTR": 1.0,
+		"MM_MSTTR": 0,
+		"MA_MSTTR": 1.0,
+		"MAJ_MSTTR": 0,
+		"IC_MSTTR": 0,
+		"FL_MSTTR": 0.5121951219512195,
+		"J_MSTTR": 0.5416666666666666,
+		"E_MSTTR": 0.42857142857142855,
+		"X_MSTTR": 1.0,
+		"lemma_MATTR": 0.7917647058823533,
+		"CL_MATTR": 0.8125,
+		"NL_MATTR": 0.75,
+		"NN_MATTR": 0.7333333333333333,
+		"NNG_MATTR": 0.7777777777777778,
+		"NNP_MATTR": 0.5,
+		"NNB_MATTR": 1.0,
+		"NP_MATTR": 1.0,
+		"NR_MATTR": 0,
+		"VL_MATTR": 0.9285714285714286,
+		"VV_MATTR": 1.0,
+		"VA_MATTR": 1.0,
+		"ML_MATTR": 1.0,
+		"MM_MATTR": 0,
+		"MA_MATTR": 1.0,
+		"MAJ_MATTR": 0,
+		"IC_MATTR": 0,
+		"FL_MATTR": 0.5121951219512195,
+		"J_MATTR": 0.5416666666666666,
+		"E_MATTR": 0.42857142857142855,
+		"X_MATTR": 1.0,
+		"lemma_MTLD": 68.93105892504931,
+		"CL_MTLD": 71.68,
+		"NL_MTLD": 35.84,
+		"NN_MTLD": 30.75,
+		"NNG_MTLD": 34.02,
+		"NNP_MTLD": 1.12,
+		"NNB_MTLD": 0.0,
+		"NP_MTLD": 0.0,
+		"NR_MTLD": 0.0,
+		"VL_MTLD": 54.88000000000004,
+		"VV_MTLD": 0.0,
+		"VA_MTLD": 0.0,
+		"ML_MTLD": 0.0,
+		"MM_MTLD": 0.0,
+		"MA_MTLD": 0.0,
+		"MAJ_MTLD": 0.0,
+		"IC_MTLD": 0.0,
+		"FL_MTLD": 21.660377358490567,
+		"J_MTLD": 13.0,
+		"E_MTLD": 10.69811320754717,
+		"X_MTLD": 0.0,
+		"lemma_VOCDD": 66.49228587991168,
+		"CL_VOCDD": 0,
+		"NL_VOCDD": 0,
+		"NN_VOCDD": 0,
+		"NNG_VOCDD": 0,
+		"NNP_VOCDD": 0,
+		"NNB_VOCDD": 0,
+		"NP_VOCDD": 0,
+		"NR_VOCDD": 0,
+		"VL_VOCDD": 0,
+		"VV_VOCDD": 0,
+		"VA_VOCDD": 0,
+		"ML_VOCDD": 0,
+		"MM_VOCDD": 0,
+		"MA_VOCDD": 0,
+		"MAJ_VOCDD": 0,
+		"IC_VOCDD": 0,
+		"FL_VOCDD": 0,
+		"J_VOCDD": 0,
+		"E_VOCDD": 0,
+		"X_VOCDD": 0,
+		"lemma_HDD": 0.7993387695596831,
+		"CL_HDD": 0.8316951896392231,
+		"NL_HDD": 0.0,
+		"NN_HDD": 0.0,
+		"NNG_HDD": 0.0,
+		"NNP_HDD": 0.0,
+		"NNB_HDD": 0.0,
+		"NP_HDD": 0.0,
+		"NR_HDD": 0.0,
+		"VL_HDD": 0.0,
+		"VV_HDD": 0.0,
+		"VA_HDD": 0.0,
+		"ML_HDD": 0.0,
+		"MM_HDD": 0.0,
+		"MA_HDD": 0.0,
+		"MAJ_HDD": 0.0,
+		"IC_HDD": 0.0,
+		"FL_HDD": 0.0,
+		"J_HDD": 0.0,
+		"E_HDD": 0.0,
+		"X_HDD": 0.0
+	},
+	"similarity": {
+		"avgSentSimilarity": 0.32013142108917236,
+		"topicConsistency": 0.6982
+	},
+	"adjacency": {
+		"adjacent_sentence_overlap_all_lemmas": 49,
+		"adjacent_sentence_overlap_all_lemmas_normed": 3,
+		"binary_adjacent_sentence_overlap_all_lemmas": 3,
+		"adjacent_two_sentence_overlap_all_lemmas": 29,
+		"adjacent_two_sentence_overlap_all_lemmas_normed": 2,
+		"binary_adjacent_two_sentence_overlap_all_lemmas": 2,
+		"adjacent_sentence_overlap_content_lemmas": 28,
+		"adjacent_sentence_overlap_content_lemmas_normed": 3,
+		"binary_adjacent_sentence_overlap_content_lemmas": 3,
+		"adjacent_two_sentence_overlap_content_lemmas": 18,
+		"adjacent_two_sentence_overlap_content_lemmas_normed": 2,
+		"binary_adjacent_two_sentence_overlap_content_lemmas": 1,
+		"adjacent_sentence_overlap_function_lemmas": 18,
+		"adjacent_sentence_overlap_function_lemmas_normed": 3,
+		"binary_adjacent_sentence_overlap_function_lemmas": 3,
+		"adjacent_two_sentence_overlap_function_lemmas": 9,
+		"adjacent_two_sentence_overlap_function_lemmas_normed": 2,
+		"binary_adjacent_two_sentence_overlap_function_lemmas": 2,
+		"adjacent_sentence_overlap_noun_lemmas": 22,
+		"adjacent_sentence_overlap_noun_lemmas_normed": 3,
+		"binary_adjacent_sentence_overlap_noun_lemmas": 3,
+		"adjacent_two_sentence_overlap_noun_lemmas": 14,
+		"adjacent_two_sentence_overlap_noun_lemmas_normed": 2,
+		"binary_adjacent_two_sentence_overlap_noun_lemmas": 1,
+		"adjacent_sentence_overlap_verb_lemmas": 7,
+		"adjacent_sentence_overlap_verb_lemmas_normed": 3,
+		"binary_adjacent_sentence_overlap_verb_lemmas": 2,
+		"adjacent_two_sentence_overlap_verb_lemmas": 4,
+		"adjacent_two_sentence_overlap_verb_lemmas_normed": 2,
+		"binary_adjacent_two_sentence_overlap_verb_lemmas": 1,
+		"adjacent_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_sentence_overlap_adjective_lemmas_normed": 0,
+		"binary_adjacent_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_sentence_overlap_adverb_lemmas_normed": 0,
+		"binary_adjacent_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adverb_lemmas": 0
+	},
+	"basic_count": {
+		"para_Cnt": 1,
+		"sentence_Cnt": 4,
+		"word_Cnt": 45,
+		"morph_Cnt": 100,
+		"char_Cnt": 161,
+		"CL_Cnt": 48,
+		"NL_Cnt": 32,
+		"NN_Cnt": 30,
+		"NNG_Cnt": 27,
+		"NNP_Cnt": 2,
+		"NNB_Cnt": 1,
+		"NP_Cnt": 2,
+		"NP_People_Cnt": 2,
+		"NP_Things_Cnt": 0,
+		"NR_Cnt": 0,
+		"VL_Cnt": 14,
+		"VV_Cnt": 8,
+		"VA_Cnt": 1,
+		"VX_Cnt": 2,
+		"VCP_Cnt": 1,
+		"VCN_Cnt": 2,
+		"ML_Cnt": 2,
+		"MA_Cnt": 0,
+		"MM_Cnt": 0,
+		"FL_Cnt": 41,
+		"J_Cnt": 24,
+		"E_Cnt": 14,
+		"X_Cnt": 3,
+		"IC_Cnt": 0
+	},
+	"basic_density": {
+		"CL_Den": 0.48,
+		"FL_Den": 0.41,
+		"NL_Den": 0.3,
+		"NNGL_Den": 0.27,
+		"NNPL_Den": 0.02,
+		"NNBL_Den": 0.01,
+		"NPL_Den": 0.02,
+		"NML_Den": 0.0,
+		"VL_Den": 0.14,
+		"VVL_Den": 0.08,
+		"VAL_Den": 0.01,
+		"ML_Den": 0.02,
+		"MML_Den": 0.0,
+		"MAL_Den": 0.0,
+		"JL_Den": 0.24,
+		"EL_Den": 0.14,
+		"XL_Den": 0.03,
+		"ITL_Den": 0.0,
+		"NCL_Den": 0.625,
+		"NNCL_Den": 0.5625,
+		"NNGCL_Den": 0.041666666666666664,
+		"NNBCL_Den": 0.020833333333333332,
+		"NPCL_Den": 0.041666666666666664,
+		"NMCL_Den": 0.0,
+		"VCL_Den": 0.2916666666666667,
+		"VVCL_Den": 0.16666666666666666,
+		"VACL_Den": 0.020833333333333332,
+		"MCL_Den": 0.041666666666666664,
+		"MMCL_Den": 0.0,
+		"MACL_Den": 0.0,
+		"INCL_Den": 0.0,
+		"JFL_Den": 0.5853658536585366,
+		"EFL_Den": 0.34146341463414637,
+		"XFL_Den": 0.07317073170731707
+	},
+	"basic_level": {
+		"morph_LenAvg": 1.68,
+		"morph_LenStd": 0.7984985911070859,
+		"word_LenAvg": 3.311111111111111,
+		"word_LenStd": 1.0712862927283509
+	},
+	"basic_list": {
+		"NL_Lst": [
+			[
+				0,
+				"집단주의",
+				"NNP",
+				"집단주의는 개인을 '나'라는 고유한 정체성보다 집단 안에서의 역할과 의무와 관련지어 이해한다."
+			],
+			[
+				1,
+				"개인",
+				"NNG",
+				"집단주의는 개인을 '나'라는 고유한 정체성보다 집단 안에서의 역할과 의무와 관련지어 이해한다."
+			],
+			[
+				2,
+				"나",
+				"NP",
+				"집단주의는 개인을 '나'라는 고유한 정체성보다 집단 안에서의 역할과 의무와 관련지어 이해한다."
+			],
+			[
+				3,
+				"정체",
+				"NNG",
+				"집단주의는 개인을 '나'라는 고유한 정체성보다 집단 안에서의 역할과 의무와 관련지어 이해한다."
+			],
+			[
+				4,
+				"집단",
+				"NNG",
+				"집단주의는 개인을 '나'라는 고유한 정체성보다 집단 안에서의 역할과 의무와 관련지어 이해한다."
+			],
+			[
+				5,
+				"안",
+				"NNG",
+				"집단주의는 개인을 '나'라는 고유한 정체성보다 집단 안에서의 역할과 의무와 관련지어 이해한다."
+			],
+			[
+				6,
+				"역할",
+				"NNG",
+				"집단주의는 개인을 '나'라는 고유한 정체성보다 집단 안에서의 역할과 의무와 관련지어 이해한다."
+			],
+			[
+				7,
+				"의무",
+				"NNG",
+				"집단주의는 개인을 '나'라는 고유한 정체성보다 집단 안에서의 역할과 의무와 관련지어 이해한다."
+			],
+			[
+				8,
+				"개인",
+				"NNG",
+				"또한, 개인의 욕구와 소망이 아닌 집단 전체가 추구하는 가치와 목표를 더 중요시한다."
+			],
+			[
+				9,
+				"욕구",
+				"NNG",
+				"또한, 개인의 욕구와 소망이 아닌 집단 전체가 추구하는 가치와 목표를 더 중요시한다."
+			],
+			[
+				10,
+				"소망",
+				"NNG",
+				"또한, 개인의 욕구와 소망이 아닌 집단 전체가 추구하는 가치와 목표를 더 중요시한다."
+			],
+			[
+				11,
+				"집단",
+				"NNG",
+				"또한, 개인의 욕구와 소망이 아닌 집단 전체가 추구하는 가치와 목표를 더 중요시한다."
+			],
+			[
+				12,
+				"전체",
+				"NNG",
+				"또한, 개인의 욕구와 소망이 아닌 집단 전체가 추구하는 가치와 목표를 더 중요시한다."
+			],
+			[
+				13,
+				"가치",
+				"NNG",
+				"또한, 개인의 욕구와 소망이 아닌 집단 전체가 추구하는 가치와 목표를 더 중요시한다."
+			],
+			[
+				14,
+				"목표",
+				"NNG",
+				"또한, 개인의 욕구와 소망이 아닌 집단 전체가 추구하는 가치와 목표를 더 중요시한다."
+			],
+			[
+				15,
+				"집단주의",
+				"NNP",
+				"집단주의 문화의 사람들은 자아를 개인 차원이 아닌 사회적 차원에서 타인에게 받아들여지는 것에 중점을 두어 형성해간다."
+			],
+			[
+				16,
+				"문화",
+				"NNG",
+				"집단주의 문화의 사람들은 자아를 개인 차원이 아닌 사회적 차원에서 타인에게 받아들여지는 것에 중점을 두어 형성해간다."
+			],
+			[
+				17,
+				"사람",
+				"NNG",
+				"집단주의 문화의 사람들은 자아를 개인 차원이 아닌 사회적 차원에서 타인에게 받아들여지는 것에 중점을 두어 형성해간다."
+			],
+			[
+				18,
+				"자아",
+				"NNG",
+				"집단주의 문화의 사람들은 자아를 개인 차원이 아닌 사회적 차원에서 타인에게 받아들여지는 것에 중점을 두어 형성해간다."
+			],
+			[
+				19,
+				"개인",
+				"NNG",
+				"집단주의 문화의 사람들은 자아를 개인 차원이 아닌 사회적 차원에서 타인에게 받아들여지는 것에 중점을 두어 형성해간다."
+			],
+			[
+				20,
+				"차원",
+				"NNG",
+				"집단주의 문화의 사람들은 자아를 개인 차원이 아닌 사회적 차원에서 타인에게 받아들여지는 것에 중점을 두어 형성해간다."
+			],
+			[
+				21,
+				"사회",
+				"NNG",
+				"집단주의 문화의 사람들은 자아를 개인 차원이 아닌 사회적 차원에서 타인에게 받아들여지는 것에 중점을 두어 형성해간다."
+			],
+			[
+				22,
+				"차원",
+				"NNG",
+				"집단주의 문화의 사람들은 자아를 개인 차원이 아닌 사회적 차원에서 타인에게 받아들여지는 것에 중점을 두어 형성해간다."
+			],
+			[
+				23,
+				"타인",
+				"NNG",
+				"집단주의 문화의 사람들은 자아를 개인 차원이 아닌 사회적 차원에서 타인에게 받아들여지는 것에 중점을 두어 형성해간다."
+			],
+			[
+				24,
+				"것",
+				"NNB",
+				"집단주의 문화의 사람들은 자아를 개인 차원이 아닌 사회적 차원에서 타인에게 받아들여지는 것에 중점을 두어 형성해간다."
+			],
+			[
+				25,
+				"중점",
+				"NNG",
+				"집단주의 문화의 사람들은 자아를 개인 차원이 아닌 사회적 차원에서 타인에게 받아들여지는 것에 중점을 두어 형성해간다."
+			],
+			[
+				26,
+				"집단주의",
+				"NNG",
+				"이런 집단주의 문화에서의 자아를 '상호의존적 자기'라고 부른다."
+			],
+			[
+				27,
+				"문화",
+				"NNG",
+				"이런 집단주의 문화에서의 자아를 '상호의존적 자기'라고 부른다."
+			],
+			[
+				28,
+				"자아",
+				"NNG",
+				"이런 집단주의 문화에서의 자아를 '상호의존적 자기'라고 부른다."
+			],
+			[
+				29,
+				"상호",
+				"NNG",
+				"이런 집단주의 문화에서의 자아를 '상호의존적 자기'라고 부른다."
+			],
+			[
+				30,
+				"의존적",
+				"NNG",
+				"이런 집단주의 문화에서의 자아를 '상호의존적 자기'라고 부른다."
+			],
+			[
+				31,
+				"자기",
+				"NP",
+				"이런 집단주의 문화에서의 자아를 '상호의존적 자기'라고 부른다."
+			]
+		],
+		"NN_Lst": [
+			[
+				0,
+				"집단주의",
+				"NNP",
+				"집단주의는 개인을 '나'라는 고유한 정체성보다 집단 안에서의 역할과 의무와 관련지어 이해한다."
+			],
+			[
+				1,
+				"개인",
+				"NNG",
+				"집단주의는 개인을 '나'라는 고유한 정체성보다 집단 안에서의 역할과 의무와 관련지어 이해한다."
+			],
+			[
+				2,
+				"정체",
+				"NNG",
+				"집단주의는 개인을 '나'라는 고유한 정체성보다 집단 안에서의 역할과 의무와 관련지어 이해한다."
+			],
+			[
+				3,
+				"집단",
+				"NNG",
+				"집단주의는 개인을 '나'라는 고유한 정체성보다 집단 안에서의 역할과 의무와 관련지어 이해한다."
+			],
+			[
+				4,
+				"안",
+				"NNG",
+				"집단주의는 개인을 '나'라는 고유한 정체성보다 집단 안에서의 역할과 의무와 관련지어 이해한다."
+			],
+			[
+				5,
+				"역할",
+				"NNG",
+				"집단주의는 개인을 '나'라는 고유한 정체성보다 집단 안에서의 역할과 의무와 관련지어 이해한다."
+			],
+			[
+				6,
+				"의무",
+				"NNG",
+				"집단주의는 개인을 '나'라는 고유한 정체성보다 집단 안에서의 역할과 의무와 관련지어 이해한다."
+			],
+			[
+				7,
+				"개인",
+				"NNG",
+				"또한, 개인의 욕구와 소망이 아닌 집단 전체가 추구하는 가치와 목표를 더 중요시한다."
+			],
+			[
+				8,
+				"욕구",
+				"NNG",
+				"또한, 개인의 욕구와 소망이 아닌 집단 전체가 추구하는 가치와 목표를 더 중요시한다."
+			],
+			[
+				9,
+				"소망",
+				"NNG",
+				"또한, 개인의 욕구와 소망이 아닌 집단 전체가 추구하는 가치와 목표를 더 중요시한다."
+			],
+			[
+				10,
+				"집단",
+				"NNG",
+				"또한, 개인의 욕구와 소망이 아닌 집단 전체가 추구하는 가치와 목표를 더 중요시한다."
+			],
+			[
+				11,
+				"전체",
+				"NNG",
+				"또한, 개인의 욕구와 소망이 아닌 집단 전체가 추구하는 가치와 목표를 더 중요시한다."
+			],
+			[
+				12,
+				"가치",
+				"NNG",
+				"또한, 개인의 욕구와 소망이 아닌 집단 전체가 추구하는 가치와 목표를 더 중요시한다."
+			],
+			[
+				13,
+				"목표",
+				"NNG",
+				"또한, 개인의 욕구와 소망이 아닌 집단 전체가 추구하는 가치와 목표를 더 중요시한다."
+			],
+			[
+				14,
+				"집단주의",
+				"NNP",
+				"집단주의 문화의 사람들은 자아를 개인 차원이 아닌 사회적 차원에서 타인에게 받아들여지는 것에 중점을 두어 형성해간다."
+			],
+			[
+				15,
+				"문화",
+				"NNG",
+				"집단주의 문화의 사람들은 자아를 개인 차원이 아닌 사회적 차원에서 타인에게 받아들여지는 것에 중점을 두어 형성해간다."
+			],
+			[
+				16,
+				"사람",
+				"NNG",
+				"집단주의 문화의 사람들은 자아를 개인 차원이 아닌 사회적 차원에서 타인에게 받아들여지는 것에 중점을 두어 형성해간다."
+			],
+			[
+				17,
+				"자아",
+				"NNG",
+				"집단주의 문화의 사람들은 자아를 개인 차원이 아닌 사회적 차원에서 타인에게 받아들여지는 것에 중점을 두어 형성해간다."
+			],
+			[
+				18,
+				"개인",
+				"NNG",
+				"집단주의 문화의 사람들은 자아를 개인 차원이 아닌 사회적 차원에서 타인에게 받아들여지는 것에 중점을 두어 형성해간다."
+			],
+			[
+				19,
+				"차원",
+				"NNG",
+				"집단주의 문화의 사람들은 자아를 개인 차원이 아닌 사회적 차원에서 타인에게 받아들여지는 것에 중점을 두어 형성해간다."
+			],
+			[
+				20,
+				"사회",
+				"NNG",
+				"집단주의 문화의 사람들은 자아를 개인 차원이 아닌 사회적 차원에서 타인에게 받아들여지는 것에 중점을 두어 형성해간다."
+			],
+			[
+				21,
+				"차원",
+				"NNG",
+				"집단주의 문화의 사람들은 자아를 개인 차원이 아닌 사회적 차원에서 타인에게 받아들여지는 것에 중점을 두어 형성해간다."
+			],
+			[
+				22,
+				"타인",
+				"NNG",
+				"집단주의 문화의 사람들은 자아를 개인 차원이 아닌 사회적 차원에서 타인에게 받아들여지는 것에 중점을 두어 형성해간다."
+			],
+			[
+				23,
+				"것",
+				"NNB",
+				"집단주의 문화의 사람들은 자아를 개인 차원이 아닌 사회적 차원에서 타인에게 받아들여지는 것에 중점을 두어 형성해간다."
+			],
+			[
+				24,
+				"중점",
+				"NNG",
+				"집단주의 문화의 사람들은 자아를 개인 차원이 아닌 사회적 차원에서 타인에게 받아들여지는 것에 중점을 두어 형성해간다."
+			],
+			[
+				25,
+				"집단주의",
+				"NNG",
+				"이런 집단주의 문화에서의 자아를 '상호의존적 자기'라고 부른다."
+			],
+			[
+				26,
+				"문화",
+				"NNG",
+				"이런 집단주의 문화에서의 자아를 '상호의존적 자기'라고 부른다."
+			],
+			[
+				27,
+				"자아",
+				"NNG",
+				"이런 집단주의 문화에서의 자아를 '상호의존적 자기'라고 부른다."
+			],
+			[
+				28,
+				"상호",
+				"NNG",
+				"이런 집단주의 문화에서의 자아를 '상호의존적 자기'라고 부른다."
+			],
+			[
+				29,
+				"의존적",
+				"NNG",
+				"이런 집단주의 문화에서의 자아를 '상호의존적 자기'라고 부른다."
+			]
+		],
+		"NNG_Lst": [
+			[
+				0,
+				"개인",
+				"NNG",
+				"집단주의는 개인을 '나'라는 고유한 정체성보다 집단 안에서의 역할과 의무와 관련지어 이해한다."
+			],
+			[
+				1,
+				"정체",
+				"NNG",
+				"집단주의는 개인을 '나'라는 고유한 정체성보다 집단 안에서의 역할과 의무와 관련지어 이해한다."
+			],
+			[
+				2,
+				"집단",
+				"NNG",
+				"집단주의는 개인을 '나'라는 고유한 정체성보다 집단 안에서의 역할과 의무와 관련지어 이해한다."
+			],
+			[
+				3,
+				"안",
+				"NNG",
+				"집단주의는 개인을 '나'라는 고유한 정체성보다 집단 안에서의 역할과 의무와 관련지어 이해한다."
+			],
+			[
+				4,
+				"역할",
+				"NNG",
+				"집단주의는 개인을 '나'라는 고유한 정체성보다 집단 안에서의 역할과 의무와 관련지어 이해한다."
+			],
+			[
+				5,
+				"의무",
+				"NNG",
+				"집단주의는 개인을 '나'라는 고유한 정체성보다 집단 안에서의 역할과 의무와 관련지어 이해한다."
+			],
+			[
+				6,
+				"개인",
+				"NNG",
+				"또한, 개인의 욕구와 소망이 아닌 집단 전체가 추구하는 가치와 목표를 더 중요시한다."
+			],
+			[
+				7,
+				"욕구",
+				"NNG",
+				"또한, 개인의 욕구와 소망이 아닌 집단 전체가 추구하는 가치와 목표를 더 중요시한다."
+			],
+			[
+				8,
+				"소망",
+				"NNG",
+				"또한, 개인의 욕구와 소망이 아닌 집단 전체가 추구하는 가치와 목표를 더 중요시한다."
+			],
+			[
+				9,
+				"집단",
+				"NNG",
+				"또한, 개인의 욕구와 소망이 아닌 집단 전체가 추구하는 가치와 목표를 더 중요시한다."
+			],
+			[
+				10,
+				"전체",
+				"NNG",
+				"또한, 개인의 욕구와 소망이 아닌 집단 전체가 추구하는 가치와 목표를 더 중요시한다."
+			],
+			[
+				11,
+				"가치",
+				"NNG",
+				"또한, 개인의 욕구와 소망이 아닌 집단 전체가 추구하는 가치와 목표를 더 중요시한다."
+			],
+			[
+				12,
+				"목표",
+				"NNG",
+				"또한, 개인의 욕구와 소망이 아닌 집단 전체가 추구하는 가치와 목표를 더 중요시한다."
+			],
+			[
+				13,
+				"문화",
+				"NNG",
+				"집단주의 문화의 사람들은 자아를 개인 차원이 아닌 사회적 차원에서 타인에게 받아들여지는 것에 중점을 두어 형성해간다."
+			],
+			[
+				14,
+				"사람",
+				"NNG",
+				"집단주의 문화의 사람들은 자아를 개인 차원이 아닌 사회적 차원에서 타인에게 받아들여지는 것에 중점을 두어 형성해간다."
+			],
+			[
+				15,
+				"자아",
+				"NNG",
+				"집단주의 문화의 사람들은 자아를 개인 차원이 아닌 사회적 차원에서 타인에게 받아들여지는 것에 중점을 두어 형성해간다."
+			],
+			[
+				16,
+				"개인",
+				"NNG",
+				"집단주의 문화의 사람들은 자아를 개인 차원이 아닌 사회적 차원에서 타인에게 받아들여지는 것에 중점을 두어 형성해간다."
+			],
+			[
+				17,
+				"차원",
+				"NNG",
+				"집단주의 문화의 사람들은 자아를 개인 차원이 아닌 사회적 차원에서 타인에게 받아들여지는 것에 중점을 두어 형성해간다."
+			],
+			[
+				18,
+				"사회",
+				"NNG",
+				"집단주의 문화의 사람들은 자아를 개인 차원이 아닌 사회적 차원에서 타인에게 받아들여지는 것에 중점을 두어 형성해간다."
+			],
+			[
+				19,
+				"차원",
+				"NNG",
+				"집단주의 문화의 사람들은 자아를 개인 차원이 아닌 사회적 차원에서 타인에게 받아들여지는 것에 중점을 두어 형성해간다."
+			],
+			[
+				20,
+				"타인",
+				"NNG",
+				"집단주의 문화의 사람들은 자아를 개인 차원이 아닌 사회적 차원에서 타인에게 받아들여지는 것에 중점을 두어 형성해간다."
+			],
+			[
+				21,
+				"중점",
+				"NNG",
+				"집단주의 문화의 사람들은 자아를 개인 차원이 아닌 사회적 차원에서 타인에게 받아들여지는 것에 중점을 두어 형성해간다."
+			],
+			[
+				22,
+				"집단주의",
+				"NNG",
+				"이런 집단주의 문화에서의 자아를 '상호의존적 자기'라고 부른다."
+			],
+			[
+				23,
+				"문화",
+				"NNG",
+				"이런 집단주의 문화에서의 자아를 '상호의존적 자기'라고 부른다."
+			],
+			[
+				24,
+				"자아",
+				"NNG",
+				"이런 집단주의 문화에서의 자아를 '상호의존적 자기'라고 부른다."
+			],
+			[
+				25,
+				"상호",
+				"NNG",
+				"이런 집단주의 문화에서의 자아를 '상호의존적 자기'라고 부른다."
+			],
+			[
+				26,
+				"의존적",
+				"NNG",
+				"이런 집단주의 문화에서의 자아를 '상호의존적 자기'라고 부른다."
+			]
+		],
+		"NNP_Lst": [
+			[
+				0,
+				"집단주의",
+				"NNP",
+				"집단주의는 개인을 '나'라는 고유한 정체성보다 집단 안에서의 역할과 의무와 관련지어 이해한다."
+			],
+			[
+				1,
+				"집단주의",
+				"NNP",
+				"집단주의 문화의 사람들은 자아를 개인 차원이 아닌 사회적 차원에서 타인에게 받아들여지는 것에 중점을 두어 형성해간다."
+			]
+		],
+		"NNB_Lst": [
+			[
+				0,
+				"것",
+				"NNB",
+				"집단주의 문화의 사람들은 자아를 개인 차원이 아닌 사회적 차원에서 타인에게 받아들여지는 것에 중점을 두어 형성해간다."
+			]
+		],
+		"NP_Lst": [
+			[
+				0,
+				"나",
+				"NP",
+				"집단주의는 개인을 '나'라는 고유한 정체성보다 집단 안에서의 역할과 의무와 관련지어 이해한다."
+			],
+			[
+				1,
+				"자기",
+				"NP",
+				"이런 집단주의 문화에서의 자아를 '상호의존적 자기'라고 부른다."
+			]
+		],
+		"NP_People_Lst": [
+			[
+				0,
+				"나",
+				"NP",
+				"집단주의는 개인을 '나'라는 고유한 정체성보다 집단 안에서의 역할과 의무와 관련지어 이해한다."
+			],
+			[
+				1,
+				"자기",
+				"NP",
+				"이런 집단주의 문화에서의 자아를 '상호의존적 자기'라고 부른다."
+			]
+		],
+		"NP_Things_Lst": [],
+		"NR_Lst": [],
+		"VL_Lst": [
+			[
+				0,
+				"이",
+				"VCP",
+				"집단주의는 개인을 '나'라는 고유한 정체성보다 집단 안에서의 역할과 의무와 관련지어 이해한다."
+			],
+			[
+				1,
+				"고유하",
+				"VA",
+				"집단주의는 개인을 '나'라는 고유한 정체성보다 집단 안에서의 역할과 의무와 관련지어 이해한다."
+			],
+			[
+				2,
+				"관련짓",
+				"VV",
+				"집단주의는 개인을 '나'라는 고유한 정체성보다 집단 안에서의 역할과 의무와 관련지어 이해한다."
+			],
+			[
+				3,
+				"이해하",
+				"VV",
+				"집단주의는 개인을 '나'라는 고유한 정체성보다 집단 안에서의 역할과 의무와 관련지어 이해한다."
+			],
+			[
+				4,
+				"아니",
+				"VCN",
+				"또한, 개인의 욕구와 소망이 아닌 집단 전체가 추구하는 가치와 목표를 더 중요시한다."
+			],
+			[
+				5,
+				"추구하",
+				"VV",
+				"또한, 개인의 욕구와 소망이 아닌 집단 전체가 추구하는 가치와 목표를 더 중요시한다."
+			],
+			[
+				6,
+				"중요시하",
+				"VV",
+				"또한, 개인의 욕구와 소망이 아닌 집단 전체가 추구하는 가치와 목표를 더 중요시한다."
+			],
+			[
+				7,
+				"아니",
+				"VCN",
+				"집단주의 문화의 사람들은 자아를 개인 차원이 아닌 사회적 차원에서 타인에게 받아들여지는 것에 중점을 두어 형성해간다."
+			],
+			[
+				8,
+				"받아들이",
+				"VV",
+				"집단주의 문화의 사람들은 자아를 개인 차원이 아닌 사회적 차원에서 타인에게 받아들여지는 것에 중점을 두어 형성해간다."
+			],
+			[
+				9,
+				"지",
+				"VX",
+				"집단주의 문화의 사람들은 자아를 개인 차원이 아닌 사회적 차원에서 타인에게 받아들여지는 것에 중점을 두어 형성해간다."
+			],
+			[
+				10,
+				"두",
+				"VV",
+				"집단주의 문화의 사람들은 자아를 개인 차원이 아닌 사회적 차원에서 타인에게 받아들여지는 것에 중점을 두어 형성해간다."
+			],
+			[
+				11,
+				"형성하",
+				"VV",
+				"집단주의 문화의 사람들은 자아를 개인 차원이 아닌 사회적 차원에서 타인에게 받아들여지는 것에 중점을 두어 형성해간다."
+			],
+			[
+				12,
+				"가",
+				"VX",
+				"집단주의 문화의 사람들은 자아를 개인 차원이 아닌 사회적 차원에서 타인에게 받아들여지는 것에 중점을 두어 형성해간다."
+			],
+			[
+				13,
+				"부르",
+				"VV",
+				"이런 집단주의 문화에서의 자아를 '상호의존적 자기'라고 부른다."
+			]
+		],
+		"VV_Lst": [
+			[
+				0,
+				"관련짓",
+				"VV",
+				"집단주의는 개인을 '나'라는 고유한 정체성보다 집단 안에서의 역할과 의무와 관련지어 이해한다."
+			],
+			[
+				1,
+				"이해하",
+				"VV",
+				"집단주의는 개인을 '나'라는 고유한 정체성보다 집단 안에서의 역할과 의무와 관련지어 이해한다."
+			],
+			[
+				2,
+				"추구하",
+				"VV",
+				"또한, 개인의 욕구와 소망이 아닌 집단 전체가 추구하는 가치와 목표를 더 중요시한다."
+			],
+			[
+				3,
+				"중요시하",
+				"VV",
+				"또한, 개인의 욕구와 소망이 아닌 집단 전체가 추구하는 가치와 목표를 더 중요시한다."
+			],
+			[
+				4,
+				"받아들이",
+				"VV",
+				"집단주의 문화의 사람들은 자아를 개인 차원이 아닌 사회적 차원에서 타인에게 받아들여지는 것에 중점을 두어 형성해간다."
+			],
+			[
+				5,
+				"두",
+				"VV",
+				"집단주의 문화의 사람들은 자아를 개인 차원이 아닌 사회적 차원에서 타인에게 받아들여지는 것에 중점을 두어 형성해간다."
+			],
+			[
+				6,
+				"형성하",
+				"VV",
+				"집단주의 문화의 사람들은 자아를 개인 차원이 아닌 사회적 차원에서 타인에게 받아들여지는 것에 중점을 두어 형성해간다."
+			],
+			[
+				7,
+				"부르",
+				"VV",
+				"이런 집단주의 문화에서의 자아를 '상호의존적 자기'라고 부른다."
+			]
+		],
+		"VA_Lst": [
+			[
+				0,
+				"고유하",
+				"VA",
+				"집단주의는 개인을 '나'라는 고유한 정체성보다 집단 안에서의 역할과 의무와 관련지어 이해한다."
+			]
+		],
+		"VX_Lst": [
+			[
+				0,
+				"지",
+				"VX",
+				"집단주의 문화의 사람들은 자아를 개인 차원이 아닌 사회적 차원에서 타인에게 받아들여지는 것에 중점을 두어 형성해간다."
+			],
+			[
+				1,
+				"가",
+				"VX",
+				"집단주의 문화의 사람들은 자아를 개인 차원이 아닌 사회적 차원에서 타인에게 받아들여지는 것에 중점을 두어 형성해간다."
+			]
+		],
+		"VCP_Lst": [
+			[
+				0,
+				"이",
+				"VCP",
+				"집단주의는 개인을 '나'라는 고유한 정체성보다 집단 안에서의 역할과 의무와 관련지어 이해한다."
+			]
+		],
+		"VCN_Lst": [
+			[
+				0,
+				"아니",
+				"VCN",
+				"또한, 개인의 욕구와 소망이 아닌 집단 전체가 추구하는 가치와 목표를 더 중요시한다."
+			],
+			[
+				1,
+				"아니",
+				"VCN",
+				"집단주의 문화의 사람들은 자아를 개인 차원이 아닌 사회적 차원에서 타인에게 받아들여지는 것에 중점을 두어 형성해간다."
+			]
+		],
+		"ML_Lst": [
+			[
+				0,
+				"또한",
+				"MAG",
+				"또한, 개인의 욕구와 소망이 아닌 집단 전체가 추구하는 가치와 목표를 더 중요시한다."
+			],
+			[
+				1,
+				"더",
+				"MAG",
+				"또한, 개인의 욕구와 소망이 아닌 집단 전체가 추구하는 가치와 목표를 더 중요시한다."
+			]
+		],
+		"MA_Lst": [],
+		"MM_Lst": [],
+		"J_Lst": [
+			[
+				0,
+				"는",
+				"JX",
+				"집단주의는 개인을 '나'라는 고유한 정체성보다 집단 안에서의 역할과 의무와 관련지어 이해한다."
+			],
+			[
+				1,
+				"을",
+				"JKO",
+				"집단주의는 개인을 '나'라는 고유한 정체성보다 집단 안에서의 역할과 의무와 관련지어 이해한다."
+			],
+			[
+				2,
+				"보다",
+				"JKB",
+				"집단주의는 개인을 '나'라는 고유한 정체성보다 집단 안에서의 역할과 의무와 관련지어 이해한다."
+			],
+			[
+				3,
+				"에서",
+				"JKB",
+				"집단주의는 개인을 '나'라는 고유한 정체성보다 집단 안에서의 역할과 의무와 관련지어 이해한다."
+			],
+			[
+				4,
+				"의",
+				"JKG",
+				"집단주의는 개인을 '나'라는 고유한 정체성보다 집단 안에서의 역할과 의무와 관련지어 이해한다."
+			],
+			[
+				5,
+				"과",
+				"JC",
+				"집단주의는 개인을 '나'라는 고유한 정체성보다 집단 안에서의 역할과 의무와 관련지어 이해한다."
+			],
+			[
+				6,
+				"와",
+				"JKB",
+				"집단주의는 개인을 '나'라는 고유한 정체성보다 집단 안에서의 역할과 의무와 관련지어 이해한다."
+			],
+			[
+				7,
+				"의",
+				"JKG",
+				"또한, 개인의 욕구와 소망이 아닌 집단 전체가 추구하는 가치와 목표를 더 중요시한다."
+			],
+			[
+				8,
+				"와",
+				"JC",
+				"또한, 개인의 욕구와 소망이 아닌 집단 전체가 추구하는 가치와 목표를 더 중요시한다."
+			],
+			[
+				9,
+				"이",
+				"JKC",
+				"또한, 개인의 욕구와 소망이 아닌 집단 전체가 추구하는 가치와 목표를 더 중요시한다."
+			],
+			[
+				10,
+				"가",
+				"JKS",
+				"또한, 개인의 욕구와 소망이 아닌 집단 전체가 추구하는 가치와 목표를 더 중요시한다."
+			],
+			[
+				11,
+				"와",
+				"JC",
+				"또한, 개인의 욕구와 소망이 아닌 집단 전체가 추구하는 가치와 목표를 더 중요시한다."
+			],
+			[
+				12,
+				"를",
+				"JKO",
+				"또한, 개인의 욕구와 소망이 아닌 집단 전체가 추구하는 가치와 목표를 더 중요시한다."
+			],
+			[
+				13,
+				"의",
+				"JKG",
+				"집단주의 문화의 사람들은 자아를 개인 차원이 아닌 사회적 차원에서 타인에게 받아들여지는 것에 중점을 두어 형성해간다."
+			],
+			[
+				14,
+				"은",
+				"JX",
+				"집단주의 문화의 사람들은 자아를 개인 차원이 아닌 사회적 차원에서 타인에게 받아들여지는 것에 중점을 두어 형성해간다."
+			],
+			[
+				15,
+				"를",
+				"JKO",
+				"집단주의 문화의 사람들은 자아를 개인 차원이 아닌 사회적 차원에서 타인에게 받아들여지는 것에 중점을 두어 형성해간다."
+			],
+			[
+				16,
+				"이",
+				"JKC",
+				"집단주의 문화의 사람들은 자아를 개인 차원이 아닌 사회적 차원에서 타인에게 받아들여지는 것에 중점을 두어 형성해간다."
+			],
+			[
+				17,
+				"에서",
+				"JKB",
+				"집단주의 문화의 사람들은 자아를 개인 차원이 아닌 사회적 차원에서 타인에게 받아들여지는 것에 중점을 두어 형성해간다."
+			],
+			[
+				18,
+				"에게",
+				"JKB",
+				"집단주의 문화의 사람들은 자아를 개인 차원이 아닌 사회적 차원에서 타인에게 받아들여지는 것에 중점을 두어 형성해간다."
+			],
+			[
+				19,
+				"에",
+				"JKB",
+				"집단주의 문화의 사람들은 자아를 개인 차원이 아닌 사회적 차원에서 타인에게 받아들여지는 것에 중점을 두어 형성해간다."
+			],
+			[
+				20,
+				"을",
+				"JKO",
+				"집단주의 문화의 사람들은 자아를 개인 차원이 아닌 사회적 차원에서 타인에게 받아들여지는 것에 중점을 두어 형성해간다."
+			],
+			[
+				21,
+				"에서",
+				"JKB",
+				"이런 집단주의 문화에서의 자아를 '상호의존적 자기'라고 부른다."
+			],
+			[
+				22,
+				"의",
+				"JKG",
+				"이런 집단주의 문화에서의 자아를 '상호의존적 자기'라고 부른다."
+			],
+			[
+				23,
+				"를",
+				"JKO",
+				"이런 집단주의 문화에서의 자아를 '상호의존적 자기'라고 부른다."
+			]
+		],
+		"E_Lst": [
+			[
+				0,
+				"라는",
+				"ETM",
+				"집단주의는 개인을 '나'라는 고유한 정체성보다 집단 안에서의 역할과 의무와 관련지어 이해한다."
+			],
+			[
+				1,
+				"ㄴ",
+				"ETM",
+				"집단주의는 개인을 '나'라는 고유한 정체성보다 집단 안에서의 역할과 의무와 관련지어 이해한다."
+			],
+			[
+				2,
+				"어",
+				"EC",
+				"집단주의는 개인을 '나'라는 고유한 정체성보다 집단 안에서의 역할과 의무와 관련지어 이해한다."
+			],
+			[
+				3,
+				"ㄴ다",
+				"EF",
+				"집단주의는 개인을 '나'라는 고유한 정체성보다 집단 안에서의 역할과 의무와 관련지어 이해한다."
+			],
+			[
+				4,
+				"ㄴ",
+				"ETM",
+				"또한, 개인의 욕구와 소망이 아닌 집단 전체가 추구하는 가치와 목표를 더 중요시한다."
+			],
+			[
+				5,
+				"는",
+				"ETM",
+				"또한, 개인의 욕구와 소망이 아닌 집단 전체가 추구하는 가치와 목표를 더 중요시한다."
+			],
+			[
+				6,
+				"ㄴ다",
+				"EF",
+				"또한, 개인의 욕구와 소망이 아닌 집단 전체가 추구하는 가치와 목표를 더 중요시한다."
+			],
+			[
+				7,
+				"ㄴ",
+				"ETM",
+				"집단주의 문화의 사람들은 자아를 개인 차원이 아닌 사회적 차원에서 타인에게 받아들여지는 것에 중점을 두어 형성해간다."
+			],
+			[
+				8,
+				"어",
+				"EC",
+				"집단주의 문화의 사람들은 자아를 개인 차원이 아닌 사회적 차원에서 타인에게 받아들여지는 것에 중점을 두어 형성해간다."
+			],
+			[
+				9,
+				"는",
+				"ETM",
+				"집단주의 문화의 사람들은 자아를 개인 차원이 아닌 사회적 차원에서 타인에게 받아들여지는 것에 중점을 두어 형성해간다."
+			],
+			[
+				10,
+				"어",
+				"EC",
+				"집단주의 문화의 사람들은 자아를 개인 차원이 아닌 사회적 차원에서 타인에게 받아들여지는 것에 중점을 두어 형성해간다."
+			],
+			[
+				11,
+				"아",
+				"EC",
+				"집단주의 문화의 사람들은 자아를 개인 차원이 아닌 사회적 차원에서 타인에게 받아들여지는 것에 중점을 두어 형성해간다."
+			],
+			[
+				12,
+				"ㄴ다",
+				"EF",
+				"집단주의 문화의 사람들은 자아를 개인 차원이 아닌 사회적 차원에서 타인에게 받아들여지는 것에 중점을 두어 형성해간다."
+			],
+			[
+				13,
+				"ㄴ다",
+				"EF",
+				"이런 집단주의 문화에서의 자아를 '상호의존적 자기'라고 부른다."
+			]
+		],
+		"X_Lst": [
+			[
+				0,
+				"성",
+				"XSN",
+				"집단주의는 개인을 '나'라는 고유한 정체성보다 집단 안에서의 역할과 의무와 관련지어 이해한다."
+			],
+			[
+				1,
+				"들",
+				"XSN",
+				"집단주의 문화의 사람들은 자아를 개인 차원이 아닌 사회적 차원에서 타인에게 받아들여지는 것에 중점을 두어 형성해간다."
+			],
+			[
+				2,
+				"적",
+				"XSN",
+				"집단주의 문화의 사람들은 자아를 개인 차원이 아닌 사회적 차원에서 타인에게 받아들여지는 것에 중점을 두어 형성해간다."
+			]
+		],
+		"IC_Lst": []
+	},
+	"NDW": {
+		"morph_NDW": 68,
+		"NL_NDW": 32,
+		"NNG_NDW": 27,
+		"NNP_NDW": 2,
+		"NNB_NDW": 1,
+		"NP_NDW": 2,
+		"NR_NDW": 0,
+		"VL_NDW": 14,
+		"VV_NDW": 8,
+		"VA_NDW": 1,
+		"ML_NDW": 2,
+		"MM_NDW": 0,
+		"IC_NDW": 0,
+		"J_NDW": 24,
+		"E_NDW": 14,
+		"X_NDW": 3,
+		"CL_NDW": 48,
+		"FL_NDW": 41
+	}
+}

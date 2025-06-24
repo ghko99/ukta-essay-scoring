@@ -1,0 +1,4521 @@
+﻿{
+	"morpheme": {
+		"sentences": [
+			{
+				"text": {
+					"content": "재석이는 180cm의 큰덩치로 폭력서클에 들어갔다.",
+					"length": 28,
+					"beginOffset": 0
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "재석이는",
+							"length": 4,
+							"beginOffset": 0
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "재석이",
+									"length": 3,
+									"beginOffset": 0
+								},
+								"tag": "NNP",
+								"probability": 0.9698013,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 3,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9995749,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "재석이",
+						"tagged": "재석이/NNP+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "180cm의",
+							"beginOffset": 5,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "180",
+									"beginOffset": 5,
+									"length": 3
+								},
+								"tag": "SN",
+								"probability": 0.99804276,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "cm",
+									"beginOffset": 8,
+									"length": 2
+								},
+								"tag": "SW",
+								"probability": 0.9985974,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 10,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99945146,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "180",
+						"tagged": "180/SN+cm/SW+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "큰",
+							"beginOffset": 12,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "크",
+									"beginOffset": 12,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9885826,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 12,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.999986,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "크",
+						"tagged": "크/VA+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "덩치로",
+							"beginOffset": 13,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "덩치",
+									"beginOffset": 13,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9842727,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "로",
+									"beginOffset": 15,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9967104,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "덩치",
+						"tagged": "덩치/NNG+로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "폭력서클에",
+							"beginOffset": 17,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "폭력",
+									"beginOffset": 17,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9812396,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "서클",
+									"beginOffset": 19,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97499704,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 21,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99563855,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "폭력",
+						"tagged": "폭력/NNG+서클/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "들어갔다.",
+							"beginOffset": 23,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "들어가",
+									"beginOffset": 23,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.9895753,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 25,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99993193,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 26,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.98686254,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 27,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99975795,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "들어가",
+						"tagged": "들어가/VV+았/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "재석이는 180cm의 큰 덩치로 폭력서클에 들어갔다."
+			},
+			{
+				"text": {
+					"content": "싸움꾼이 된 재석은 어떤일에 연루되어 사회봉사를 하게 된다.",
+					"beginOffset": 29,
+					"length": 33
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "싸움꾼이",
+							"beginOffset": 29,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "싸움",
+									"beginOffset": 29,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9828651,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "꾼",
+									"beginOffset": 31,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.9894481,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 32,
+									"length": 1
+								},
+								"tag": "JKC",
+								"probability": 0.9419185,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "싸움",
+						"tagged": "싸움/NNG+꾼/XSN+이/JKC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "된",
+							"beginOffset": 34,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "되",
+									"beginOffset": 34,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9864168,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 34,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999279,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "되",
+						"tagged": "되/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "재석은",
+							"beginOffset": 36,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "재석",
+									"beginOffset": 36,
+									"length": 2
+								},
+								"tag": "NNP",
+								"probability": 0.7846697,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 38,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9911276,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "재석",
+						"tagged": "재석/NNP+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "어떤",
+							"beginOffset": 40,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "어떤",
+									"beginOffset": 40,
+									"length": 2
+								},
+								"tag": "MMD",
+								"probability": 0.9998688,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "어떤",
+						"tagged": "어떤/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "일에",
+							"beginOffset": 42,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "일",
+									"beginOffset": 42,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.96431535,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 43,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9956351,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "일",
+						"tagged": "일/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "연루되어",
+							"beginOffset": 45,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "연루되",
+									"beginOffset": 45,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "어",
+									"beginOffset": 48,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9897937,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "연루되",
+						"tagged": "연루되/VV+어/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사회봉사를",
+							"beginOffset": 50,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사회봉사",
+									"beginOffset": 50,
+									"length": 4
+								},
+								"tag": "NNG",
+								"probability": 0.98264176,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 54,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9998694,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사회봉사",
+						"tagged": "사회봉사/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "하게",
+							"beginOffset": 56,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 56,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.98049,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "게",
+									"beginOffset": 57,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9951475,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VV+게/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "된다.",
+							"beginOffset": 59,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "되",
+									"beginOffset": 59,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.97661966,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ다",
+									"beginOffset": 59,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.992224,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 61,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9998586,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "되",
+						"tagged": "되/VV+ㄴ다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "싸움꾼이 된 재석은 어떤 일에 연루되어 사회봉사를 하게 된다."
+			},
+			{
+				"text": {
+					"content": "사회봉사를 하는 곳은 노인 복지관이다.",
+					"beginOffset": 63,
+					"length": 21
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "사회봉사를",
+							"beginOffset": 63,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사회봉사",
+									"beginOffset": 63,
+									"length": 4
+								},
+								"tag": "NNG",
+								"probability": 0.9848008,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 67,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9995642,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사회봉사",
+						"tagged": "사회봉사/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "하는",
+							"beginOffset": 69,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 69,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.98456925,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 70,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999409,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "곳은",
+							"beginOffset": 72,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "곳",
+									"beginOffset": 72,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9799856,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 73,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99935895,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "곳",
+						"tagged": "곳/NNG+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "노인",
+							"beginOffset": 75,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "노인",
+									"beginOffset": 75,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98079795,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "노인",
+						"tagged": "노인/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "복지관이다.",
+							"beginOffset": 78,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "복지관",
+									"beginOffset": 78,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9836561,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 81,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.9998585,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 82,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9908669,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 83,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9994452,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "복지관",
+						"tagged": "복지관/NNG+이/VCP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "사회봉사를 하는 곳은 노인 복지관이다."
+			},
+			{
+				"text": {
+					"content": "그곳에서 재석이는 힘든 상황에서도 좌절하지 않는 끈기를 배우게 되면서 재석은 180도 변한다.",
+					"beginOffset": 85,
+					"length": 52
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "그곳에서",
+							"beginOffset": 85,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그곳",
+									"beginOffset": 85,
+									"length": 2
+								},
+								"tag": "NP",
+								"probability": 0.98968476,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에서",
+									"beginOffset": 87,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9959209,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그곳",
+						"tagged": "그곳/NP+에서/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "재석이는",
+							"beginOffset": 90,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "재석이",
+									"beginOffset": 90,
+									"length": 3
+								},
+								"tag": "NNP",
+								"probability": 0.97637874,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 93,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9995938,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "재석이",
+						"tagged": "재석이/NNP+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "힘든",
+							"beginOffset": 95,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "힘들",
+									"beginOffset": 95,
+									"length": 2
+								},
+								"tag": "VA",
+								"probability": 0.98812574,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 96,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.999982,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "힘들",
+						"tagged": "힘들/VA+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "상황에서도",
+							"beginOffset": 98,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "상황",
+									"beginOffset": 98,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9804524,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에서",
+									"beginOffset": 100,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.99705285,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 102,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9992099,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "상황",
+						"tagged": "상황/NNG+에서/JKB+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "좌절하지",
+							"beginOffset": 104,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "좌절하",
+									"beginOffset": 104,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "지",
+									"beginOffset": 107,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99448615,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "좌절하",
+						"tagged": "좌절하/VV+지/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "않는",
+							"beginOffset": 109,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "않",
+									"beginOffset": 109,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.9593597,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 110,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999618,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "않",
+						"tagged": "않/VX+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "끈기를",
+							"beginOffset": 112,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "끈기",
+									"beginOffset": 112,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98495966,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 114,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99989134,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "끈기",
+						"tagged": "끈기/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "배우게",
+							"beginOffset": 116,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "배우",
+									"beginOffset": 116,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9881545,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "게",
+									"beginOffset": 118,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99309295,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "배우",
+						"tagged": "배우/VV+게/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "되면서",
+							"beginOffset": 120,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "되",
+									"beginOffset": 120,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.979384,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "면서",
+									"beginOffset": 121,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9955145,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "되",
+						"tagged": "되/VV+면서/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "재석은",
+							"beginOffset": 124,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "재석",
+									"beginOffset": 124,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.6115094,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 126,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99880075,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "재석",
+						"tagged": "재석/NNG+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "180도",
+							"beginOffset": 128,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "180",
+									"beginOffset": 128,
+									"length": 3
+								},
+								"tag": "SN",
+								"probability": 0.99767494,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 131,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9748458,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "180",
+						"tagged": "180/SN+도/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "변한다.",
+							"beginOffset": 133,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "변하",
+									"beginOffset": 133,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9849499,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ다",
+									"beginOffset": 134,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.99009055,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 136,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9994216,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "변하",
+						"tagged": "변하/VV+ㄴ다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "그곳에서 재석이는 힘든 상황에서도 좌절하지 않는 끈기를 배우게 되면서 재석은 180도 변한다."
+			},
+			{
+				"text": {
+					"content": "이 책은 청소년이 읽으면 재밌을 것 같다.",
+					"beginOffset": 138,
+					"length": 23
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "이",
+							"beginOffset": 138,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 138,
+									"length": 1
+								},
+								"tag": "MMD",
+								"probability": 0.99953663,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이",
+						"tagged": "이/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "책은",
+							"beginOffset": 140,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "책",
+									"beginOffset": 140,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.98342127,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 141,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99914783,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "책",
+						"tagged": "책/NNG+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "청소년이",
+							"beginOffset": 143,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "청소년",
+									"beginOffset": 143,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9757679,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 146,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9851277,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "청소년",
+						"tagged": "청소년/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "읽으면",
+							"beginOffset": 148,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "읽",
+									"beginOffset": 148,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9875947,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으면",
+									"beginOffset": 149,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9959068,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "읽",
+						"tagged": "읽/VV+으면/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "재밌을",
+							"beginOffset": 152,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "재밌",
+									"beginOffset": 152,
+									"length": 2
+								},
+								"tag": "VA",
+								"probability": 0.9875169,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 154,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99997044,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "재밌",
+						"tagged": "재밌/VA+을/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "것",
+							"beginOffset": 156,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "것",
+									"beginOffset": 156,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9818023,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "것",
+						"tagged": "것/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "같다.",
+							"beginOffset": 158,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "같",
+									"beginOffset": 158,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.98482937,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 159,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.98944473,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 160,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9998422,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "같",
+						"tagged": "같/VA+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "이 책은 청소년이 읽으면 재밌을 것 같다."
+			},
+			{
+				"text": {
+					"content": "학교에서 일어나는 일을 중심으로 이야기가 흘러가기 때문에 공감이 되는 이야기도 분명 있을 것 이다.",
+					"beginOffset": 162,
+					"length": 55
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "학교에서",
+							"beginOffset": 162,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "학교",
+									"beginOffset": 162,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98240495,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에서",
+									"beginOffset": 164,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9967308,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "학교",
+						"tagged": "학교/NNG+에서/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "일어나는",
+							"beginOffset": 167,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "일어나",
+									"beginOffset": 167,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.9905541,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 170,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99995714,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "일어나",
+						"tagged": "일어나/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "일을",
+							"beginOffset": 172,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "일",
+									"beginOffset": 172,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9713998,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 173,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99997187,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "일",
+						"tagged": "일/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "중심으로",
+							"beginOffset": 175,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "중심",
+									"beginOffset": 175,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9833971,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으로",
+									"beginOffset": 177,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9957765,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "중심",
+						"tagged": "중심/NNG+으로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이야기가",
+							"beginOffset": 180,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이야기",
+									"beginOffset": 180,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.982066,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 183,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9402651,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이야기",
+						"tagged": "이야기/NNG+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "흘러가기",
+							"beginOffset": 185,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "흘러가",
+									"beginOffset": 185,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.9905399,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "기",
+									"beginOffset": 188,
+									"length": 1
+								},
+								"tag": "ETN",
+								"probability": 0.9977715,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "흘러가",
+						"tagged": "흘러가/VV+기/ETN",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "때문에",
+							"beginOffset": 190,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "때문",
+									"beginOffset": 190,
+									"length": 2
+								},
+								"tag": "NNB",
+								"probability": 0.9795311,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 192,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99749196,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "때문",
+						"tagged": "때문/NNB+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "공감이",
+							"beginOffset": 194,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "공감",
+									"beginOffset": 194,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9829262,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 196,
+									"length": 1
+								},
+								"tag": "JKC",
+								"probability": 0.8576058,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "공감",
+						"tagged": "공감/NNG+이/JKC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "되는",
+							"beginOffset": 198,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "되",
+									"beginOffset": 198,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9802555,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 199,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99981475,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "되",
+						"tagged": "되/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이야기도",
+							"beginOffset": 201,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이야기",
+									"beginOffset": 201,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9854163,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 204,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99940413,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이야기",
+						"tagged": "이야기/NNG+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "분명",
+							"beginOffset": 206,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "분명",
+									"beginOffset": 206,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9938059,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "분명",
+						"tagged": "분명/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있을",
+							"beginOffset": 209,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 209,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9231356,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 210,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9998289,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VA+을/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "것 이다.",
+							"beginOffset": 212,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "것",
+									"beginOffset": 212,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9836417,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 213,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.9963141,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 214,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.99251455,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 215,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9993369,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "것",
+						"tagged": "것/NNB+이/VCP+다/EF+./SF",
+						"modified": "것이다."
+					}
+				],
+				"refined": "학교에서 일어나는 일을 중심으로 이야기가 흘러가기 때문에 공감이 되는 이야기도 분명 있을 것이다."
+			},
+			{
+				"text": {
+					"content": "이 책의 작가인 고정욱 작가님을 실제로 만나봤는데 정말 유쾌하고 재밌는 분이었다.",
+					"beginOffset": 218,
+					"length": 45
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "이",
+							"beginOffset": 218,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 218,
+									"length": 1
+								},
+								"tag": "MMD",
+								"probability": 0.99972963,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이",
+						"tagged": "이/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "책의",
+							"beginOffset": 220,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "책",
+									"beginOffset": 220,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.98457414,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 221,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99939877,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "책",
+						"tagged": "책/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "작가인",
+							"beginOffset": 223,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "작가",
+									"beginOffset": 223,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9864585,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 225,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.99982417,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 225,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9998907,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "작가",
+						"tagged": "작가/NNG+이/VCP+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "고정욱",
+							"beginOffset": 227,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "고정욱",
+									"beginOffset": 227,
+									"length": 3
+								},
+								"tag": "NNP",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							}
+						],
+						"lemma": "고정욱",
+						"tagged": "고정욱/NNP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "작가님을",
+							"beginOffset": 231,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "작가",
+									"beginOffset": 231,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9773504,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "님",
+									"beginOffset": 233,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.9864919,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 234,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999135,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "작가",
+						"tagged": "작가/NNG+님/XSN+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "실제로",
+							"beginOffset": 236,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "실제로",
+									"beginOffset": 236,
+									"length": 3
+								},
+								"tag": "MAG",
+								"probability": 0.9891716,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "실제로",
+						"tagged": "실제로/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "만나",
+							"beginOffset": 240,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "만나",
+									"beginOffset": 240,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.98967916,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 241,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.995207,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "만나",
+						"tagged": "만나/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "봤는데",
+							"beginOffset": 242,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "보",
+									"beginOffset": 242,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.9512014,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 242,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9999132,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는데",
+									"beginOffset": 243,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9885232,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "보",
+						"tagged": "보/VX+았/EP+는데/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "정말",
+							"beginOffset": 246,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "정말",
+									"beginOffset": 246,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9933757,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "정말",
+						"tagged": "정말/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "유쾌하고",
+							"beginOffset": 249,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "유쾌하",
+									"beginOffset": 249,
+									"length": 3
+								},
+								"tag": "VA",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 252,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99241674,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "유쾌하",
+						"tagged": "유쾌하/VA+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "재밌는",
+							"beginOffset": 254,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "재밌",
+									"beginOffset": 254,
+									"length": 2
+								},
+								"tag": "VA",
+								"probability": 0.98633957,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 256,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99996966,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "재밌",
+						"tagged": "재밌/VA+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "분이었다.",
+							"beginOffset": 258,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "분",
+									"beginOffset": 258,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.97016543,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 259,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.9999349,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 260,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.999903,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 261,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9908846,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 262,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99855614,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "분",
+						"tagged": "분/NNB+이/VCP+었/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "이 책의 작가인 고정욱 작가님을 실제로 만나 봤는데 정말 유쾌하고 재밌는 분이었다."
+			},
+			{
+				"text": {
+					"content": "이 세상은 보는 시각에 따라, 입장에 따라 얼마든지 다르게 해석될 수 있다",
+					"beginOffset": 264,
+					"length": 41
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "이",
+							"beginOffset": 264,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 264,
+									"length": 1
+								},
+								"tag": "MMD",
+								"probability": 0.9993548,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이",
+						"tagged": "이/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "세상은",
+							"beginOffset": 266,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "세상",
+									"beginOffset": 266,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9830998,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 268,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9991506,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "세상",
+						"tagged": "세상/NNG+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "보는",
+							"beginOffset": 270,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "보",
+									"beginOffset": 270,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.97226924,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 271,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99998695,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "보",
+						"tagged": "보/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "시각에",
+							"beginOffset": 273,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "시각",
+									"beginOffset": 273,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9846539,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 275,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99114186,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "시각",
+						"tagged": "시각/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "따라",
+							"beginOffset": 277,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "따르",
+									"beginOffset": 277,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9904599,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 278,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9917676,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "따르",
+						"tagged": "따르/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": ",",
+							"beginOffset": 279,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 279,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.9990921,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": ",",
+						"tagged": ",/SP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "입장에",
+							"beginOffset": 281,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "입장",
+									"beginOffset": 281,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9841542,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 283,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99622387,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "입장",
+						"tagged": "입장/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "따라",
+							"beginOffset": 285,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "따르",
+									"beginOffset": 285,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.99048126,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 286,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.994876,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "따르",
+						"tagged": "따르/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "얼마든지",
+							"beginOffset": 288,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "얼마",
+									"beginOffset": 288,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.984567,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "든지",
+									"beginOffset": 290,
+									"length": 2
+								},
+								"tag": "JX",
+								"probability": 0.9971559,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "얼마",
+						"tagged": "얼마/NNG+든지/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "다르게",
+							"beginOffset": 293,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "다르",
+									"beginOffset": 293,
+									"length": 2
+								},
+								"tag": "VA",
+								"probability": 0.9862581,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "게",
+									"beginOffset": 295,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99466866,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "다르",
+						"tagged": "다르/VA+게/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "해석될",
+							"beginOffset": 297,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "해석되",
+									"beginOffset": 297,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄹ",
+									"beginOffset": 299,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.999841,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "해석되",
+						"tagged": "해석되/VV+ㄹ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "수",
+							"beginOffset": 301,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "수",
+									"beginOffset": 301,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9833306,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "수",
+						"tagged": "수/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있다",
+							"beginOffset": 303,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 303,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9564196,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 304,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9692949,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VA+다/EF",
+						"modified": ""
+					}
+				],
+				"refined": "이 세상은 보는 시각에 따라 , 입장에 따라 얼마든지 다르게 해석될 수 있다"
+			}
+		],
+		"language": "ko_KR"
+	},
+	"ttr": {
+		"lemma_Cnt": 150,
+		"lemma_TTR": 0.5590062111801242,
+		"CL_TTR": 0.75,
+		"NL_TTR": 0.7948717948717948,
+		"NN_TTR": 0.7894736842105263,
+		"NNG_TTR": 0.8214285714285714,
+		"NNP_TTR": 0.75,
+		"NNB_TTR": 0.8333333333333334,
+		"NP_TTR": 1.0,
+		"NR_TTR": 0,
+		"VL_TTR": 0.6764705882352942,
+		"VV_TTR": 0.7368421052631579,
+		"VA_TTR": 0.7777777777777778,
+		"ML_TTR": 1.0,
+		"MM_TTR": 0,
+		"MA_TTR": 1.0,
+		"MAJ_TTR": 0,
+		"IC_TTR": 0,
+		"FL_TTR": 0.42857142857142855,
+		"J_TTR": 0.41935483870967744,
+		"E_TTR": 0.4594594594594595,
+		"X_TTR": 1.0,
+		"lemma_RTTR": 7.092993656151906,
+		"CL_RTTR": 6.53834841531101,
+		"NL_RTTR": 4.963972767957701,
+		"NN_RTTR": 4.8666426339228765,
+		"NNG_RTTR": 4.3465914396061125,
+		"NNP_RTTR": 1.5,
+		"NNB_RTTR": 2.041241452319315,
+		"NP_RTTR": 1.0,
+		"NR_RTTR": 0,
+		"VL_RTTR": 3.9444674582777033,
+		"VV_RTTR": 3.2118202741878643,
+		"VA_RTTR": 2.3333333333333335,
+		"ML_RTTR": 1.7320508075688774,
+		"MM_RTTR": 0,
+		"MA_RTTR": 1.7320508075688774,
+		"MAJ_RTTR": 0,
+		"IC_RTTR": 0,
+		"FL_RTTR": 3.585685828003181,
+		"J_RTTR": 2.334868926348074,
+		"E_RTTR": 2.794782784191074,
+		"X_RTTR": 1.414213562373095,
+		"lemma_CTTR": 5.015503913178175,
+		"CL_CTTR": 4.623310502226732,
+		"NL_CTTR": 3.5100588058482463,
+		"NN_CTTR": 3.4412360080584263,
+		"NNG_CTTR": 3.0735042819928804,
+		"NNP_CTTR": 1.0606601717798212,
+		"NNB_CTTR": 1.4433756729740645,
+		"NP_CTTR": 0.7071067811865475,
+		"NR_CTTR": 0,
+		"VL_CTTR": 2.789159687917829,
+		"VV_CTTR": 2.271099895830676,
+		"VA_CTTR": 1.649915822768611,
+		"ML_CTTR": 1.2247448713915892,
+		"MM_CTTR": 0,
+		"MA_CTTR": 1.2247448713915892,
+		"MAJ_CTTR": 0,
+		"IC_CTTR": 0,
+		"FL_CTTR": 2.53546276418555,
+		"J_CTTR": 1.6510016510024765,
+		"E_CTTR": 1.9762098586449277,
+		"X_CTTR": 1.0,
+		"lemma_MSTTR": 0.7666666666666666,
+		"CL_MSTTR": 0.82,
+		"NL_MSTTR": 0.7948717948717948,
+		"NN_MSTTR": 0.7894736842105263,
+		"NNG_MSTTR": 0.8214285714285714,
+		"NNP_MSTTR": 0.75,
+		"NNB_MSTTR": 0.8333333333333334,
+		"NP_MSTTR": 1.0,
+		"NR_MSTTR": 0,
+		"VL_MSTTR": 0.6764705882352942,
+		"VV_MSTTR": 0.7368421052631579,
+		"VA_MSTTR": 0.7777777777777778,
+		"ML_MSTTR": 1.0,
+		"MM_MSTTR": 0,
+		"MA_MSTTR": 1.0,
+		"MAJ_MSTTR": 0,
+		"IC_MSTTR": 0,
+		"FL_MSTTR": 0.46,
+		"J_MSTTR": 0.41935483870967744,
+		"E_MSTTR": 0.4594594594594595,
+		"X_MSTTR": 1.0,
+		"lemma_MATTR": 0.741964285714286,
+		"CL_MATTR": 0.7970370370370373,
+		"NL_MATTR": 0.7948717948717948,
+		"NN_MATTR": 0.7894736842105263,
+		"NNG_MATTR": 0.8214285714285714,
+		"NNP_MATTR": 0.75,
+		"NNB_MATTR": 0.8333333333333334,
+		"NP_MATTR": 1.0,
+		"NR_MATTR": 0,
+		"VL_MATTR": 0.6764705882352942,
+		"VV_MATTR": 0.7368421052631579,
+		"VA_MATTR": 0.7777777777777778,
+		"ML_MATTR": 1.0,
+		"MM_MATTR": 0,
+		"MA_MATTR": 1.0,
+		"MAJ_MATTR": 0,
+		"IC_MATTR": 0,
+		"FL_MATTR": 0.5028571428571427,
+		"J_MATTR": 0.41935483870967744,
+		"E_MATTR": 0.4594594594594595,
+		"X_MATTR": 1.0,
+		"lemma_MTLD": 60.98324231681029,
+		"CL_MTLD": 85.12,
+		"NL_MTLD": 53.23499999999999,
+		"NN_MTLD": 50.54000000000001,
+		"NNG_MTLD": 43.903999999999996,
+		"NNP_MTLD": 4.48,
+		"NNB_MTLD": 10.080000000000004,
+		"NP_MTLD": 0.0,
+		"NR_MTLD": 0.0,
+		"VL_MTLD": 20.77412532479304,
+		"VV_MTLD": 16.909136363636364,
+		"VA_MTLD": 11.340000000000002,
+		"ML_MTLD": 0.0,
+		"MM_MTLD": 0.0,
+		"MA_MTLD": 0.0,
+		"MAJ_MTLD": 0.0,
+		"IC_MTLD": 0.0,
+		"FL_MTLD": 23.333333333333332,
+		"J_MTLD": 12.025286944045911,
+		"E_MTLD": 13.68704379562044,
+		"X_MTLD": 0.0,
+		"lemma_VOCDD": 65.45316339671116,
+		"CL_VOCDD": 98.30669335030895,
+		"NL_VOCDD": 0,
+		"NN_VOCDD": 0,
+		"NNG_VOCDD": 0,
+		"NNP_VOCDD": 0,
+		"NNB_VOCDD": 0,
+		"NP_VOCDD": 0,
+		"NR_VOCDD": 0,
+		"VL_VOCDD": 0,
+		"VV_VOCDD": 0,
+		"VA_VOCDD": 0,
+		"ML_VOCDD": 0,
+		"MM_VOCDD": 0,
+		"MA_VOCDD": 0,
+		"MAJ_VOCDD": 0,
+		"IC_VOCDD": 0,
+		"FL_VOCDD": 13.89621957522433,
+		"J_VOCDD": 0,
+		"E_VOCDD": 0,
+		"X_VOCDD": 0,
+		"lemma_HDD": 0.7953323369497926,
+		"CL_HDD": 0.8471258208460809,
+		"NL_HDD": 0.0,
+		"NN_HDD": 0.0,
+		"NNG_HDD": 0.0,
+		"NNP_HDD": 0.0,
+		"NNB_HDD": 0.0,
+		"NP_HDD": 0.0,
+		"NR_HDD": 0.0,
+		"VL_HDD": 0.0,
+		"VV_HDD": 0.0,
+		"VA_HDD": 0.0,
+		"ML_HDD": 0.0,
+		"MM_HDD": 0.0,
+		"MA_HDD": 0.0,
+		"MAJ_HDD": 0.0,
+		"IC_HDD": 0.0,
+		"FL_HDD": 0.547870846468491,
+		"J_HDD": 0.0,
+		"E_HDD": 0.0,
+		"X_HDD": 0.0
+	},
+	"similarity": {
+		"avgSentSimilarity": 0.14473742246627808,
+		"topicConsistency": 0.5936
+	},
+	"adjacency": {
+		"adjacent_sentence_overlap_all_lemmas": 102,
+		"adjacent_sentence_overlap_all_lemmas_normed": 7,
+		"binary_adjacent_sentence_overlap_all_lemmas": 7,
+		"adjacent_two_sentence_overlap_all_lemmas": 74,
+		"adjacent_two_sentence_overlap_all_lemmas_normed": 6,
+		"binary_adjacent_two_sentence_overlap_all_lemmas": 6,
+		"adjacent_sentence_overlap_content_lemmas": 60,
+		"adjacent_sentence_overlap_content_lemmas_normed": 7,
+		"binary_adjacent_sentence_overlap_content_lemmas": 4,
+		"adjacent_two_sentence_overlap_content_lemmas": 45,
+		"adjacent_two_sentence_overlap_content_lemmas_normed": 6,
+		"binary_adjacent_two_sentence_overlap_content_lemmas": 3,
+		"adjacent_sentence_overlap_function_lemmas": 35,
+		"adjacent_sentence_overlap_function_lemmas_normed": 7,
+		"binary_adjacent_sentence_overlap_function_lemmas": 7,
+		"adjacent_two_sentence_overlap_function_lemmas": 24,
+		"adjacent_two_sentence_overlap_function_lemmas_normed": 6,
+		"binary_adjacent_two_sentence_overlap_function_lemmas": 6,
+		"adjacent_sentence_overlap_noun_lemmas": 31,
+		"adjacent_sentence_overlap_noun_lemmas_normed": 7,
+		"binary_adjacent_sentence_overlap_noun_lemmas": 2,
+		"adjacent_two_sentence_overlap_noun_lemmas": 26,
+		"adjacent_two_sentence_overlap_noun_lemmas_normed": 6,
+		"binary_adjacent_two_sentence_overlap_noun_lemmas": 2,
+		"adjacent_sentence_overlap_verb_lemmas": 27,
+		"adjacent_sentence_overlap_verb_lemmas_normed": 7,
+		"binary_adjacent_sentence_overlap_verb_lemmas": 3,
+		"adjacent_two_sentence_overlap_verb_lemmas": 19,
+		"adjacent_two_sentence_overlap_verb_lemmas_normed": 6,
+		"binary_adjacent_two_sentence_overlap_verb_lemmas": 2,
+		"adjacent_sentence_overlap_adjective_lemmas": 7,
+		"adjacent_sentence_overlap_adjective_lemmas_normed": 4,
+		"binary_adjacent_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas": 5,
+		"adjacent_two_sentence_overlap_adjective_lemmas_normed": 3,
+		"binary_adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_sentence_overlap_adverb_lemmas": 2,
+		"adjacent_sentence_overlap_adverb_lemmas_normed": 1,
+		"binary_adjacent_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adverb_lemmas": 0
+	},
+	"basic_count": {
+		"para_Cnt": 1,
+		"sentence_Cnt": 8,
+		"word_Cnt": 74,
+		"morph_Cnt": 161,
+		"char_Cnt": 248,
+		"CL_Cnt": 76,
+		"NL_Cnt": 39,
+		"NN_Cnt": 38,
+		"NNG_Cnt": 28,
+		"NNP_Cnt": 4,
+		"NNB_Cnt": 6,
+		"NP_Cnt": 1,
+		"NP_People_Cnt": 0,
+		"NP_Things_Cnt": 1,
+		"NR_Cnt": 0,
+		"VL_Cnt": 34,
+		"VV_Cnt": 19,
+		"VA_Cnt": 9,
+		"VX_Cnt": 2,
+		"VCP_Cnt": 4,
+		"VCN_Cnt": 0,
+		"ML_Cnt": 3,
+		"MA_Cnt": 0,
+		"MM_Cnt": 0,
+		"FL_Cnt": 70,
+		"J_Cnt": 31,
+		"E_Cnt": 37,
+		"X_Cnt": 2,
+		"IC_Cnt": 0
+	},
+	"basic_density": {
+		"CL_Den": 0.4720496894409938,
+		"FL_Den": 0.43478260869565216,
+		"NL_Den": 0.2360248447204969,
+		"NNGL_Den": 0.17391304347826086,
+		"NNPL_Den": 0.024844720496894408,
+		"NNBL_Den": 0.037267080745341616,
+		"NPL_Den": 0.006211180124223602,
+		"NML_Den": 0.0,
+		"VL_Den": 0.2111801242236025,
+		"VVL_Den": 0.11801242236024845,
+		"VAL_Den": 0.055900621118012424,
+		"ML_Den": 0.018633540372670808,
+		"MML_Den": 0.0,
+		"MAL_Den": 0.0,
+		"JL_Den": 0.19254658385093168,
+		"EL_Den": 0.22981366459627328,
+		"XL_Den": 0.012422360248447204,
+		"ITL_Den": 0.0,
+		"NCL_Den": 0.5,
+		"NNCL_Den": 0.3684210526315789,
+		"NNGCL_Den": 0.05263157894736842,
+		"NNBCL_Den": 0.07894736842105263,
+		"NPCL_Den": 0.013157894736842105,
+		"NMCL_Den": 0.0,
+		"VCL_Den": 0.4473684210526316,
+		"VVCL_Den": 0.25,
+		"VACL_Den": 0.11842105263157894,
+		"MCL_Den": 0.039473684210526314,
+		"MMCL_Den": 0.0,
+		"MACL_Den": 0.0,
+		"INCL_Den": 0.0,
+		"JFL_Den": 0.44285714285714284,
+		"EFL_Den": 0.5285714285714286,
+		"XFL_Den": 0.02857142857142857
+	},
+	"basic_level": {
+		"morph_LenAvg": 1.515527950310559,
+		"morph_LenStd": 0.7317603217402799,
+		"word_LenAvg": 3.027027027027027,
+		"word_LenStd": 1.1737324730058627
+	},
+	"basic_list": {
+		"NL_Lst": [
+			[
+				0,
+				"재석이",
+				"NNP",
+				"재석이는 180cm의 큰덩치로 폭력서클에 들어갔다."
+			],
+			[
+				1,
+				"덩치",
+				"NNG",
+				"재석이는 180cm의 큰덩치로 폭력서클에 들어갔다."
+			],
+			[
+				2,
+				"폭력",
+				"NNG",
+				"재석이는 180cm의 큰덩치로 폭력서클에 들어갔다."
+			],
+			[
+				3,
+				"서클",
+				"NNG",
+				"재석이는 180cm의 큰덩치로 폭력서클에 들어갔다."
+			],
+			[
+				4,
+				"싸움",
+				"NNG",
+				"싸움꾼이 된 재석은 어떤일에 연루되어 사회봉사를 하게 된다."
+			],
+			[
+				5,
+				"재석",
+				"NNP",
+				"싸움꾼이 된 재석은 어떤일에 연루되어 사회봉사를 하게 된다."
+			],
+			[
+				6,
+				"일",
+				"NNG",
+				"싸움꾼이 된 재석은 어떤일에 연루되어 사회봉사를 하게 된다."
+			],
+			[
+				7,
+				"사회봉사",
+				"NNG",
+				"싸움꾼이 된 재석은 어떤일에 연루되어 사회봉사를 하게 된다."
+			],
+			[
+				8,
+				"사회봉사",
+				"NNG",
+				"사회봉사를 하는 곳은 노인 복지관이다."
+			],
+			[
+				9,
+				"곳",
+				"NNG",
+				"사회봉사를 하는 곳은 노인 복지관이다."
+			],
+			[
+				10,
+				"노인",
+				"NNG",
+				"사회봉사를 하는 곳은 노인 복지관이다."
+			],
+			[
+				11,
+				"복지관",
+				"NNG",
+				"사회봉사를 하는 곳은 노인 복지관이다."
+			],
+			[
+				12,
+				"그곳",
+				"NP",
+				"그곳에서 재석이는 힘든 상황에서도 좌절하지 않는 끈기를 배우게 되면서 재석은 180도 변한다."
+			],
+			[
+				13,
+				"재석이",
+				"NNP",
+				"그곳에서 재석이는 힘든 상황에서도 좌절하지 않는 끈기를 배우게 되면서 재석은 180도 변한다."
+			],
+			[
+				14,
+				"상황",
+				"NNG",
+				"그곳에서 재석이는 힘든 상황에서도 좌절하지 않는 끈기를 배우게 되면서 재석은 180도 변한다."
+			],
+			[
+				15,
+				"끈기",
+				"NNG",
+				"그곳에서 재석이는 힘든 상황에서도 좌절하지 않는 끈기를 배우게 되면서 재석은 180도 변한다."
+			],
+			[
+				16,
+				"재석",
+				"NNG",
+				"그곳에서 재석이는 힘든 상황에서도 좌절하지 않는 끈기를 배우게 되면서 재석은 180도 변한다."
+			],
+			[
+				17,
+				"도",
+				"NNB",
+				"그곳에서 재석이는 힘든 상황에서도 좌절하지 않는 끈기를 배우게 되면서 재석은 180도 변한다."
+			],
+			[
+				18,
+				"책",
+				"NNG",
+				"이 책은 청소년이 읽으면 재밌을 것 같다."
+			],
+			[
+				19,
+				"청소년",
+				"NNG",
+				"이 책은 청소년이 읽으면 재밌을 것 같다."
+			],
+			[
+				20,
+				"것",
+				"NNB",
+				"이 책은 청소년이 읽으면 재밌을 것 같다."
+			],
+			[
+				21,
+				"학교",
+				"NNG",
+				"학교에서 일어나는 일을 중심으로 이야기가 흘러가기 때문에 공감이 되는 이야기도 분명 있을 것 이다."
+			],
+			[
+				22,
+				"일",
+				"NNG",
+				"학교에서 일어나는 일을 중심으로 이야기가 흘러가기 때문에 공감이 되는 이야기도 분명 있을 것 이다."
+			],
+			[
+				23,
+				"중심",
+				"NNG",
+				"학교에서 일어나는 일을 중심으로 이야기가 흘러가기 때문에 공감이 되는 이야기도 분명 있을 것 이다."
+			],
+			[
+				24,
+				"이야기",
+				"NNG",
+				"학교에서 일어나는 일을 중심으로 이야기가 흘러가기 때문에 공감이 되는 이야기도 분명 있을 것 이다."
+			],
+			[
+				25,
+				"때문",
+				"NNB",
+				"학교에서 일어나는 일을 중심으로 이야기가 흘러가기 때문에 공감이 되는 이야기도 분명 있을 것 이다."
+			],
+			[
+				26,
+				"공감",
+				"NNG",
+				"학교에서 일어나는 일을 중심으로 이야기가 흘러가기 때문에 공감이 되는 이야기도 분명 있을 것 이다."
+			],
+			[
+				27,
+				"이야기",
+				"NNG",
+				"학교에서 일어나는 일을 중심으로 이야기가 흘러가기 때문에 공감이 되는 이야기도 분명 있을 것 이다."
+			],
+			[
+				28,
+				"것",
+				"NNB",
+				"학교에서 일어나는 일을 중심으로 이야기가 흘러가기 때문에 공감이 되는 이야기도 분명 있을 것 이다."
+			],
+			[
+				29,
+				"책",
+				"NNG",
+				"이 책의 작가인 고정욱 작가님을 실제로 만나봤는데 정말 유쾌하고 재밌는 분이었다."
+			],
+			[
+				30,
+				"작가",
+				"NNG",
+				"이 책의 작가인 고정욱 작가님을 실제로 만나봤는데 정말 유쾌하고 재밌는 분이었다."
+			],
+			[
+				31,
+				"고정욱",
+				"NNP",
+				"이 책의 작가인 고정욱 작가님을 실제로 만나봤는데 정말 유쾌하고 재밌는 분이었다."
+			],
+			[
+				32,
+				"작가",
+				"NNG",
+				"이 책의 작가인 고정욱 작가님을 실제로 만나봤는데 정말 유쾌하고 재밌는 분이었다."
+			],
+			[
+				33,
+				"분",
+				"NNB",
+				"이 책의 작가인 고정욱 작가님을 실제로 만나봤는데 정말 유쾌하고 재밌는 분이었다."
+			],
+			[
+				34,
+				"세상",
+				"NNG",
+				"이 세상은 보는 시각에 따라, 입장에 따라 얼마든지 다르게 해석될 수 있다"
+			],
+			[
+				35,
+				"시각",
+				"NNG",
+				"이 세상은 보는 시각에 따라, 입장에 따라 얼마든지 다르게 해석될 수 있다"
+			],
+			[
+				36,
+				"입장",
+				"NNG",
+				"이 세상은 보는 시각에 따라, 입장에 따라 얼마든지 다르게 해석될 수 있다"
+			],
+			[
+				37,
+				"얼마",
+				"NNG",
+				"이 세상은 보는 시각에 따라, 입장에 따라 얼마든지 다르게 해석될 수 있다"
+			],
+			[
+				38,
+				"수",
+				"NNB",
+				"이 세상은 보는 시각에 따라, 입장에 따라 얼마든지 다르게 해석될 수 있다"
+			]
+		],
+		"NN_Lst": [
+			[
+				0,
+				"재석이",
+				"NNP",
+				"재석이는 180cm의 큰덩치로 폭력서클에 들어갔다."
+			],
+			[
+				1,
+				"덩치",
+				"NNG",
+				"재석이는 180cm의 큰덩치로 폭력서클에 들어갔다."
+			],
+			[
+				2,
+				"폭력",
+				"NNG",
+				"재석이는 180cm의 큰덩치로 폭력서클에 들어갔다."
+			],
+			[
+				3,
+				"서클",
+				"NNG",
+				"재석이는 180cm의 큰덩치로 폭력서클에 들어갔다."
+			],
+			[
+				4,
+				"싸움",
+				"NNG",
+				"싸움꾼이 된 재석은 어떤일에 연루되어 사회봉사를 하게 된다."
+			],
+			[
+				5,
+				"재석",
+				"NNP",
+				"싸움꾼이 된 재석은 어떤일에 연루되어 사회봉사를 하게 된다."
+			],
+			[
+				6,
+				"일",
+				"NNG",
+				"싸움꾼이 된 재석은 어떤일에 연루되어 사회봉사를 하게 된다."
+			],
+			[
+				7,
+				"사회봉사",
+				"NNG",
+				"싸움꾼이 된 재석은 어떤일에 연루되어 사회봉사를 하게 된다."
+			],
+			[
+				8,
+				"사회봉사",
+				"NNG",
+				"사회봉사를 하는 곳은 노인 복지관이다."
+			],
+			[
+				9,
+				"곳",
+				"NNG",
+				"사회봉사를 하는 곳은 노인 복지관이다."
+			],
+			[
+				10,
+				"노인",
+				"NNG",
+				"사회봉사를 하는 곳은 노인 복지관이다."
+			],
+			[
+				11,
+				"복지관",
+				"NNG",
+				"사회봉사를 하는 곳은 노인 복지관이다."
+			],
+			[
+				12,
+				"재석이",
+				"NNP",
+				"그곳에서 재석이는 힘든 상황에서도 좌절하지 않는 끈기를 배우게 되면서 재석은 180도 변한다."
+			],
+			[
+				13,
+				"상황",
+				"NNG",
+				"그곳에서 재석이는 힘든 상황에서도 좌절하지 않는 끈기를 배우게 되면서 재석은 180도 변한다."
+			],
+			[
+				14,
+				"끈기",
+				"NNG",
+				"그곳에서 재석이는 힘든 상황에서도 좌절하지 않는 끈기를 배우게 되면서 재석은 180도 변한다."
+			],
+			[
+				15,
+				"재석",
+				"NNG",
+				"그곳에서 재석이는 힘든 상황에서도 좌절하지 않는 끈기를 배우게 되면서 재석은 180도 변한다."
+			],
+			[
+				16,
+				"도",
+				"NNB",
+				"그곳에서 재석이는 힘든 상황에서도 좌절하지 않는 끈기를 배우게 되면서 재석은 180도 변한다."
+			],
+			[
+				17,
+				"책",
+				"NNG",
+				"이 책은 청소년이 읽으면 재밌을 것 같다."
+			],
+			[
+				18,
+				"청소년",
+				"NNG",
+				"이 책은 청소년이 읽으면 재밌을 것 같다."
+			],
+			[
+				19,
+				"것",
+				"NNB",
+				"이 책은 청소년이 읽으면 재밌을 것 같다."
+			],
+			[
+				20,
+				"학교",
+				"NNG",
+				"학교에서 일어나는 일을 중심으로 이야기가 흘러가기 때문에 공감이 되는 이야기도 분명 있을 것 이다."
+			],
+			[
+				21,
+				"일",
+				"NNG",
+				"학교에서 일어나는 일을 중심으로 이야기가 흘러가기 때문에 공감이 되는 이야기도 분명 있을 것 이다."
+			],
+			[
+				22,
+				"중심",
+				"NNG",
+				"학교에서 일어나는 일을 중심으로 이야기가 흘러가기 때문에 공감이 되는 이야기도 분명 있을 것 이다."
+			],
+			[
+				23,
+				"이야기",
+				"NNG",
+				"학교에서 일어나는 일을 중심으로 이야기가 흘러가기 때문에 공감이 되는 이야기도 분명 있을 것 이다."
+			],
+			[
+				24,
+				"때문",
+				"NNB",
+				"학교에서 일어나는 일을 중심으로 이야기가 흘러가기 때문에 공감이 되는 이야기도 분명 있을 것 이다."
+			],
+			[
+				25,
+				"공감",
+				"NNG",
+				"학교에서 일어나는 일을 중심으로 이야기가 흘러가기 때문에 공감이 되는 이야기도 분명 있을 것 이다."
+			],
+			[
+				26,
+				"이야기",
+				"NNG",
+				"학교에서 일어나는 일을 중심으로 이야기가 흘러가기 때문에 공감이 되는 이야기도 분명 있을 것 이다."
+			],
+			[
+				27,
+				"것",
+				"NNB",
+				"학교에서 일어나는 일을 중심으로 이야기가 흘러가기 때문에 공감이 되는 이야기도 분명 있을 것 이다."
+			],
+			[
+				28,
+				"책",
+				"NNG",
+				"이 책의 작가인 고정욱 작가님을 실제로 만나봤는데 정말 유쾌하고 재밌는 분이었다."
+			],
+			[
+				29,
+				"작가",
+				"NNG",
+				"이 책의 작가인 고정욱 작가님을 실제로 만나봤는데 정말 유쾌하고 재밌는 분이었다."
+			],
+			[
+				30,
+				"고정욱",
+				"NNP",
+				"이 책의 작가인 고정욱 작가님을 실제로 만나봤는데 정말 유쾌하고 재밌는 분이었다."
+			],
+			[
+				31,
+				"작가",
+				"NNG",
+				"이 책의 작가인 고정욱 작가님을 실제로 만나봤는데 정말 유쾌하고 재밌는 분이었다."
+			],
+			[
+				32,
+				"분",
+				"NNB",
+				"이 책의 작가인 고정욱 작가님을 실제로 만나봤는데 정말 유쾌하고 재밌는 분이었다."
+			],
+			[
+				33,
+				"세상",
+				"NNG",
+				"이 세상은 보는 시각에 따라, 입장에 따라 얼마든지 다르게 해석될 수 있다"
+			],
+			[
+				34,
+				"시각",
+				"NNG",
+				"이 세상은 보는 시각에 따라, 입장에 따라 얼마든지 다르게 해석될 수 있다"
+			],
+			[
+				35,
+				"입장",
+				"NNG",
+				"이 세상은 보는 시각에 따라, 입장에 따라 얼마든지 다르게 해석될 수 있다"
+			],
+			[
+				36,
+				"얼마",
+				"NNG",
+				"이 세상은 보는 시각에 따라, 입장에 따라 얼마든지 다르게 해석될 수 있다"
+			],
+			[
+				37,
+				"수",
+				"NNB",
+				"이 세상은 보는 시각에 따라, 입장에 따라 얼마든지 다르게 해석될 수 있다"
+			]
+		],
+		"NNG_Lst": [
+			[
+				0,
+				"덩치",
+				"NNG",
+				"재석이는 180cm의 큰덩치로 폭력서클에 들어갔다."
+			],
+			[
+				1,
+				"폭력",
+				"NNG",
+				"재석이는 180cm의 큰덩치로 폭력서클에 들어갔다."
+			],
+			[
+				2,
+				"서클",
+				"NNG",
+				"재석이는 180cm의 큰덩치로 폭력서클에 들어갔다."
+			],
+			[
+				3,
+				"싸움",
+				"NNG",
+				"싸움꾼이 된 재석은 어떤일에 연루되어 사회봉사를 하게 된다."
+			],
+			[
+				4,
+				"일",
+				"NNG",
+				"싸움꾼이 된 재석은 어떤일에 연루되어 사회봉사를 하게 된다."
+			],
+			[
+				5,
+				"사회봉사",
+				"NNG",
+				"싸움꾼이 된 재석은 어떤일에 연루되어 사회봉사를 하게 된다."
+			],
+			[
+				6,
+				"사회봉사",
+				"NNG",
+				"사회봉사를 하는 곳은 노인 복지관이다."
+			],
+			[
+				7,
+				"곳",
+				"NNG",
+				"사회봉사를 하는 곳은 노인 복지관이다."
+			],
+			[
+				8,
+				"노인",
+				"NNG",
+				"사회봉사를 하는 곳은 노인 복지관이다."
+			],
+			[
+				9,
+				"복지관",
+				"NNG",
+				"사회봉사를 하는 곳은 노인 복지관이다."
+			],
+			[
+				10,
+				"상황",
+				"NNG",
+				"그곳에서 재석이는 힘든 상황에서도 좌절하지 않는 끈기를 배우게 되면서 재석은 180도 변한다."
+			],
+			[
+				11,
+				"끈기",
+				"NNG",
+				"그곳에서 재석이는 힘든 상황에서도 좌절하지 않는 끈기를 배우게 되면서 재석은 180도 변한다."
+			],
+			[
+				12,
+				"재석",
+				"NNG",
+				"그곳에서 재석이는 힘든 상황에서도 좌절하지 않는 끈기를 배우게 되면서 재석은 180도 변한다."
+			],
+			[
+				13,
+				"책",
+				"NNG",
+				"이 책은 청소년이 읽으면 재밌을 것 같다."
+			],
+			[
+				14,
+				"청소년",
+				"NNG",
+				"이 책은 청소년이 읽으면 재밌을 것 같다."
+			],
+			[
+				15,
+				"학교",
+				"NNG",
+				"학교에서 일어나는 일을 중심으로 이야기가 흘러가기 때문에 공감이 되는 이야기도 분명 있을 것 이다."
+			],
+			[
+				16,
+				"일",
+				"NNG",
+				"학교에서 일어나는 일을 중심으로 이야기가 흘러가기 때문에 공감이 되는 이야기도 분명 있을 것 이다."
+			],
+			[
+				17,
+				"중심",
+				"NNG",
+				"학교에서 일어나는 일을 중심으로 이야기가 흘러가기 때문에 공감이 되는 이야기도 분명 있을 것 이다."
+			],
+			[
+				18,
+				"이야기",
+				"NNG",
+				"학교에서 일어나는 일을 중심으로 이야기가 흘러가기 때문에 공감이 되는 이야기도 분명 있을 것 이다."
+			],
+			[
+				19,
+				"공감",
+				"NNG",
+				"학교에서 일어나는 일을 중심으로 이야기가 흘러가기 때문에 공감이 되는 이야기도 분명 있을 것 이다."
+			],
+			[
+				20,
+				"이야기",
+				"NNG",
+				"학교에서 일어나는 일을 중심으로 이야기가 흘러가기 때문에 공감이 되는 이야기도 분명 있을 것 이다."
+			],
+			[
+				21,
+				"책",
+				"NNG",
+				"이 책의 작가인 고정욱 작가님을 실제로 만나봤는데 정말 유쾌하고 재밌는 분이었다."
+			],
+			[
+				22,
+				"작가",
+				"NNG",
+				"이 책의 작가인 고정욱 작가님을 실제로 만나봤는데 정말 유쾌하고 재밌는 분이었다."
+			],
+			[
+				23,
+				"작가",
+				"NNG",
+				"이 책의 작가인 고정욱 작가님을 실제로 만나봤는데 정말 유쾌하고 재밌는 분이었다."
+			],
+			[
+				24,
+				"세상",
+				"NNG",
+				"이 세상은 보는 시각에 따라, 입장에 따라 얼마든지 다르게 해석될 수 있다"
+			],
+			[
+				25,
+				"시각",
+				"NNG",
+				"이 세상은 보는 시각에 따라, 입장에 따라 얼마든지 다르게 해석될 수 있다"
+			],
+			[
+				26,
+				"입장",
+				"NNG",
+				"이 세상은 보는 시각에 따라, 입장에 따라 얼마든지 다르게 해석될 수 있다"
+			],
+			[
+				27,
+				"얼마",
+				"NNG",
+				"이 세상은 보는 시각에 따라, 입장에 따라 얼마든지 다르게 해석될 수 있다"
+			]
+		],
+		"NNP_Lst": [
+			[
+				0,
+				"재석이",
+				"NNP",
+				"재석이는 180cm의 큰덩치로 폭력서클에 들어갔다."
+			],
+			[
+				1,
+				"재석",
+				"NNP",
+				"싸움꾼이 된 재석은 어떤일에 연루되어 사회봉사를 하게 된다."
+			],
+			[
+				2,
+				"재석이",
+				"NNP",
+				"그곳에서 재석이는 힘든 상황에서도 좌절하지 않는 끈기를 배우게 되면서 재석은 180도 변한다."
+			],
+			[
+				3,
+				"고정욱",
+				"NNP",
+				"이 책의 작가인 고정욱 작가님을 실제로 만나봤는데 정말 유쾌하고 재밌는 분이었다."
+			]
+		],
+		"NNB_Lst": [
+			[
+				0,
+				"도",
+				"NNB",
+				"그곳에서 재석이는 힘든 상황에서도 좌절하지 않는 끈기를 배우게 되면서 재석은 180도 변한다."
+			],
+			[
+				1,
+				"것",
+				"NNB",
+				"이 책은 청소년이 읽으면 재밌을 것 같다."
+			],
+			[
+				2,
+				"때문",
+				"NNB",
+				"학교에서 일어나는 일을 중심으로 이야기가 흘러가기 때문에 공감이 되는 이야기도 분명 있을 것 이다."
+			],
+			[
+				3,
+				"것",
+				"NNB",
+				"학교에서 일어나는 일을 중심으로 이야기가 흘러가기 때문에 공감이 되는 이야기도 분명 있을 것 이다."
+			],
+			[
+				4,
+				"분",
+				"NNB",
+				"이 책의 작가인 고정욱 작가님을 실제로 만나봤는데 정말 유쾌하고 재밌는 분이었다."
+			],
+			[
+				5,
+				"수",
+				"NNB",
+				"이 세상은 보는 시각에 따라, 입장에 따라 얼마든지 다르게 해석될 수 있다"
+			]
+		],
+		"NP_Lst": [
+			[
+				0,
+				"그곳",
+				"NP",
+				"그곳에서 재석이는 힘든 상황에서도 좌절하지 않는 끈기를 배우게 되면서 재석은 180도 변한다."
+			]
+		],
+		"NP_People_Lst": [],
+		"NP_Things_Lst": [
+			[
+				0,
+				"그곳",
+				"NP",
+				"그곳에서 재석이는 힘든 상황에서도 좌절하지 않는 끈기를 배우게 되면서 재석은 180도 변한다."
+			]
+		],
+		"NR_Lst": [],
+		"VL_Lst": [
+			[
+				0,
+				"크",
+				"VA",
+				"재석이는 180cm의 큰덩치로 폭력서클에 들어갔다."
+			],
+			[
+				1,
+				"들어가",
+				"VV",
+				"재석이는 180cm의 큰덩치로 폭력서클에 들어갔다."
+			],
+			[
+				2,
+				"되",
+				"VV",
+				"싸움꾼이 된 재석은 어떤일에 연루되어 사회봉사를 하게 된다."
+			],
+			[
+				3,
+				"연루되",
+				"VV",
+				"싸움꾼이 된 재석은 어떤일에 연루되어 사회봉사를 하게 된다."
+			],
+			[
+				4,
+				"하",
+				"VV",
+				"싸움꾼이 된 재석은 어떤일에 연루되어 사회봉사를 하게 된다."
+			],
+			[
+				5,
+				"되",
+				"VV",
+				"싸움꾼이 된 재석은 어떤일에 연루되어 사회봉사를 하게 된다."
+			],
+			[
+				6,
+				"하",
+				"VV",
+				"사회봉사를 하는 곳은 노인 복지관이다."
+			],
+			[
+				7,
+				"이",
+				"VCP",
+				"사회봉사를 하는 곳은 노인 복지관이다."
+			],
+			[
+				8,
+				"힘들",
+				"VA",
+				"그곳에서 재석이는 힘든 상황에서도 좌절하지 않는 끈기를 배우게 되면서 재석은 180도 변한다."
+			],
+			[
+				9,
+				"좌절하",
+				"VV",
+				"그곳에서 재석이는 힘든 상황에서도 좌절하지 않는 끈기를 배우게 되면서 재석은 180도 변한다."
+			],
+			[
+				10,
+				"않",
+				"VX",
+				"그곳에서 재석이는 힘든 상황에서도 좌절하지 않는 끈기를 배우게 되면서 재석은 180도 변한다."
+			],
+			[
+				11,
+				"배우",
+				"VV",
+				"그곳에서 재석이는 힘든 상황에서도 좌절하지 않는 끈기를 배우게 되면서 재석은 180도 변한다."
+			],
+			[
+				12,
+				"되",
+				"VV",
+				"그곳에서 재석이는 힘든 상황에서도 좌절하지 않는 끈기를 배우게 되면서 재석은 180도 변한다."
+			],
+			[
+				13,
+				"변하",
+				"VV",
+				"그곳에서 재석이는 힘든 상황에서도 좌절하지 않는 끈기를 배우게 되면서 재석은 180도 변한다."
+			],
+			[
+				14,
+				"읽",
+				"VV",
+				"이 책은 청소년이 읽으면 재밌을 것 같다."
+			],
+			[
+				15,
+				"재밌",
+				"VA",
+				"이 책은 청소년이 읽으면 재밌을 것 같다."
+			],
+			[
+				16,
+				"같",
+				"VA",
+				"이 책은 청소년이 읽으면 재밌을 것 같다."
+			],
+			[
+				17,
+				"일어나",
+				"VV",
+				"학교에서 일어나는 일을 중심으로 이야기가 흘러가기 때문에 공감이 되는 이야기도 분명 있을 것 이다."
+			],
+			[
+				18,
+				"흘러가",
+				"VV",
+				"학교에서 일어나는 일을 중심으로 이야기가 흘러가기 때문에 공감이 되는 이야기도 분명 있을 것 이다."
+			],
+			[
+				19,
+				"되",
+				"VV",
+				"학교에서 일어나는 일을 중심으로 이야기가 흘러가기 때문에 공감이 되는 이야기도 분명 있을 것 이다."
+			],
+			[
+				20,
+				"있",
+				"VA",
+				"학교에서 일어나는 일을 중심으로 이야기가 흘러가기 때문에 공감이 되는 이야기도 분명 있을 것 이다."
+			],
+			[
+				21,
+				"이",
+				"VCP",
+				"학교에서 일어나는 일을 중심으로 이야기가 흘러가기 때문에 공감이 되는 이야기도 분명 있을 것 이다."
+			],
+			[
+				22,
+				"이",
+				"VCP",
+				"이 책의 작가인 고정욱 작가님을 실제로 만나봤는데 정말 유쾌하고 재밌는 분이었다."
+			],
+			[
+				23,
+				"만나",
+				"VV",
+				"이 책의 작가인 고정욱 작가님을 실제로 만나봤는데 정말 유쾌하고 재밌는 분이었다."
+			],
+			[
+				24,
+				"보",
+				"VX",
+				"이 책의 작가인 고정욱 작가님을 실제로 만나봤는데 정말 유쾌하고 재밌는 분이었다."
+			],
+			[
+				25,
+				"유쾌하",
+				"VA",
+				"이 책의 작가인 고정욱 작가님을 실제로 만나봤는데 정말 유쾌하고 재밌는 분이었다."
+			],
+			[
+				26,
+				"재밌",
+				"VA",
+				"이 책의 작가인 고정욱 작가님을 실제로 만나봤는데 정말 유쾌하고 재밌는 분이었다."
+			],
+			[
+				27,
+				"이",
+				"VCP",
+				"이 책의 작가인 고정욱 작가님을 실제로 만나봤는데 정말 유쾌하고 재밌는 분이었다."
+			],
+			[
+				28,
+				"보",
+				"VV",
+				"이 세상은 보는 시각에 따라, 입장에 따라 얼마든지 다르게 해석될 수 있다"
+			],
+			[
+				29,
+				"따르",
+				"VV",
+				"이 세상은 보는 시각에 따라, 입장에 따라 얼마든지 다르게 해석될 수 있다"
+			],
+			[
+				30,
+				"따르",
+				"VV",
+				"이 세상은 보는 시각에 따라, 입장에 따라 얼마든지 다르게 해석될 수 있다"
+			],
+			[
+				31,
+				"다르",
+				"VA",
+				"이 세상은 보는 시각에 따라, 입장에 따라 얼마든지 다르게 해석될 수 있다"
+			],
+			[
+				32,
+				"해석되",
+				"VV",
+				"이 세상은 보는 시각에 따라, 입장에 따라 얼마든지 다르게 해석될 수 있다"
+			],
+			[
+				33,
+				"있",
+				"VA",
+				"이 세상은 보는 시각에 따라, 입장에 따라 얼마든지 다르게 해석될 수 있다"
+			]
+		],
+		"VV_Lst": [
+			[
+				0,
+				"들어가",
+				"VV",
+				"재석이는 180cm의 큰덩치로 폭력서클에 들어갔다."
+			],
+			[
+				1,
+				"되",
+				"VV",
+				"싸움꾼이 된 재석은 어떤일에 연루되어 사회봉사를 하게 된다."
+			],
+			[
+				2,
+				"연루되",
+				"VV",
+				"싸움꾼이 된 재석은 어떤일에 연루되어 사회봉사를 하게 된다."
+			],
+			[
+				3,
+				"하",
+				"VV",
+				"싸움꾼이 된 재석은 어떤일에 연루되어 사회봉사를 하게 된다."
+			],
+			[
+				4,
+				"되",
+				"VV",
+				"싸움꾼이 된 재석은 어떤일에 연루되어 사회봉사를 하게 된다."
+			],
+			[
+				5,
+				"하",
+				"VV",
+				"사회봉사를 하는 곳은 노인 복지관이다."
+			],
+			[
+				6,
+				"좌절하",
+				"VV",
+				"그곳에서 재석이는 힘든 상황에서도 좌절하지 않는 끈기를 배우게 되면서 재석은 180도 변한다."
+			],
+			[
+				7,
+				"배우",
+				"VV",
+				"그곳에서 재석이는 힘든 상황에서도 좌절하지 않는 끈기를 배우게 되면서 재석은 180도 변한다."
+			],
+			[
+				8,
+				"되",
+				"VV",
+				"그곳에서 재석이는 힘든 상황에서도 좌절하지 않는 끈기를 배우게 되면서 재석은 180도 변한다."
+			],
+			[
+				9,
+				"변하",
+				"VV",
+				"그곳에서 재석이는 힘든 상황에서도 좌절하지 않는 끈기를 배우게 되면서 재석은 180도 변한다."
+			],
+			[
+				10,
+				"읽",
+				"VV",
+				"이 책은 청소년이 읽으면 재밌을 것 같다."
+			],
+			[
+				11,
+				"일어나",
+				"VV",
+				"학교에서 일어나는 일을 중심으로 이야기가 흘러가기 때문에 공감이 되는 이야기도 분명 있을 것 이다."
+			],
+			[
+				12,
+				"흘러가",
+				"VV",
+				"학교에서 일어나는 일을 중심으로 이야기가 흘러가기 때문에 공감이 되는 이야기도 분명 있을 것 이다."
+			],
+			[
+				13,
+				"되",
+				"VV",
+				"학교에서 일어나는 일을 중심으로 이야기가 흘러가기 때문에 공감이 되는 이야기도 분명 있을 것 이다."
+			],
+			[
+				14,
+				"만나",
+				"VV",
+				"이 책의 작가인 고정욱 작가님을 실제로 만나봤는데 정말 유쾌하고 재밌는 분이었다."
+			],
+			[
+				15,
+				"보",
+				"VV",
+				"이 세상은 보는 시각에 따라, 입장에 따라 얼마든지 다르게 해석될 수 있다"
+			],
+			[
+				16,
+				"따르",
+				"VV",
+				"이 세상은 보는 시각에 따라, 입장에 따라 얼마든지 다르게 해석될 수 있다"
+			],
+			[
+				17,
+				"따르",
+				"VV",
+				"이 세상은 보는 시각에 따라, 입장에 따라 얼마든지 다르게 해석될 수 있다"
+			],
+			[
+				18,
+				"해석되",
+				"VV",
+				"이 세상은 보는 시각에 따라, 입장에 따라 얼마든지 다르게 해석될 수 있다"
+			]
+		],
+		"VA_Lst": [
+			[
+				0,
+				"크",
+				"VA",
+				"재석이는 180cm의 큰덩치로 폭력서클에 들어갔다."
+			],
+			[
+				1,
+				"힘들",
+				"VA",
+				"그곳에서 재석이는 힘든 상황에서도 좌절하지 않는 끈기를 배우게 되면서 재석은 180도 변한다."
+			],
+			[
+				2,
+				"재밌",
+				"VA",
+				"이 책은 청소년이 읽으면 재밌을 것 같다."
+			],
+			[
+				3,
+				"같",
+				"VA",
+				"이 책은 청소년이 읽으면 재밌을 것 같다."
+			],
+			[
+				4,
+				"있",
+				"VA",
+				"학교에서 일어나는 일을 중심으로 이야기가 흘러가기 때문에 공감이 되는 이야기도 분명 있을 것 이다."
+			],
+			[
+				5,
+				"유쾌하",
+				"VA",
+				"이 책의 작가인 고정욱 작가님을 실제로 만나봤는데 정말 유쾌하고 재밌는 분이었다."
+			],
+			[
+				6,
+				"재밌",
+				"VA",
+				"이 책의 작가인 고정욱 작가님을 실제로 만나봤는데 정말 유쾌하고 재밌는 분이었다."
+			],
+			[
+				7,
+				"다르",
+				"VA",
+				"이 세상은 보는 시각에 따라, 입장에 따라 얼마든지 다르게 해석될 수 있다"
+			],
+			[
+				8,
+				"있",
+				"VA",
+				"이 세상은 보는 시각에 따라, 입장에 따라 얼마든지 다르게 해석될 수 있다"
+			]
+		],
+		"VX_Lst": [
+			[
+				0,
+				"않",
+				"VX",
+				"그곳에서 재석이는 힘든 상황에서도 좌절하지 않는 끈기를 배우게 되면서 재석은 180도 변한다."
+			],
+			[
+				1,
+				"보",
+				"VX",
+				"이 책의 작가인 고정욱 작가님을 실제로 만나봤는데 정말 유쾌하고 재밌는 분이었다."
+			]
+		],
+		"VCP_Lst": [
+			[
+				0,
+				"이",
+				"VCP",
+				"사회봉사를 하는 곳은 노인 복지관이다."
+			],
+			[
+				1,
+				"이",
+				"VCP",
+				"학교에서 일어나는 일을 중심으로 이야기가 흘러가기 때문에 공감이 되는 이야기도 분명 있을 것 이다."
+			],
+			[
+				2,
+				"이",
+				"VCP",
+				"이 책의 작가인 고정욱 작가님을 실제로 만나봤는데 정말 유쾌하고 재밌는 분이었다."
+			],
+			[
+				3,
+				"이",
+				"VCP",
+				"이 책의 작가인 고정욱 작가님을 실제로 만나봤는데 정말 유쾌하고 재밌는 분이었다."
+			]
+		],
+		"VCN_Lst": [],
+		"ML_Lst": [
+			[
+				0,
+				"분명",
+				"MAG",
+				"학교에서 일어나는 일을 중심으로 이야기가 흘러가기 때문에 공감이 되는 이야기도 분명 있을 것 이다."
+			],
+			[
+				1,
+				"실제로",
+				"MAG",
+				"이 책의 작가인 고정욱 작가님을 실제로 만나봤는데 정말 유쾌하고 재밌는 분이었다."
+			],
+			[
+				2,
+				"정말",
+				"MAG",
+				"이 책의 작가인 고정욱 작가님을 실제로 만나봤는데 정말 유쾌하고 재밌는 분이었다."
+			]
+		],
+		"MA_Lst": [],
+		"MM_Lst": [],
+		"J_Lst": [
+			[
+				0,
+				"는",
+				"JX",
+				"재석이는 180cm의 큰덩치로 폭력서클에 들어갔다."
+			],
+			[
+				1,
+				"의",
+				"JKG",
+				"재석이는 180cm의 큰덩치로 폭력서클에 들어갔다."
+			],
+			[
+				2,
+				"로",
+				"JKB",
+				"재석이는 180cm의 큰덩치로 폭력서클에 들어갔다."
+			],
+			[
+				3,
+				"에",
+				"JKB",
+				"재석이는 180cm의 큰덩치로 폭력서클에 들어갔다."
+			],
+			[
+				4,
+				"이",
+				"JKC",
+				"싸움꾼이 된 재석은 어떤일에 연루되어 사회봉사를 하게 된다."
+			],
+			[
+				5,
+				"은",
+				"JX",
+				"싸움꾼이 된 재석은 어떤일에 연루되어 사회봉사를 하게 된다."
+			],
+			[
+				6,
+				"에",
+				"JKB",
+				"싸움꾼이 된 재석은 어떤일에 연루되어 사회봉사를 하게 된다."
+			],
+			[
+				7,
+				"를",
+				"JKO",
+				"싸움꾼이 된 재석은 어떤일에 연루되어 사회봉사를 하게 된다."
+			],
+			[
+				8,
+				"를",
+				"JKO",
+				"사회봉사를 하는 곳은 노인 복지관이다."
+			],
+			[
+				9,
+				"은",
+				"JX",
+				"사회봉사를 하는 곳은 노인 복지관이다."
+			],
+			[
+				10,
+				"에서",
+				"JKB",
+				"그곳에서 재석이는 힘든 상황에서도 좌절하지 않는 끈기를 배우게 되면서 재석은 180도 변한다."
+			],
+			[
+				11,
+				"는",
+				"JX",
+				"그곳에서 재석이는 힘든 상황에서도 좌절하지 않는 끈기를 배우게 되면서 재석은 180도 변한다."
+			],
+			[
+				12,
+				"에서",
+				"JKB",
+				"그곳에서 재석이는 힘든 상황에서도 좌절하지 않는 끈기를 배우게 되면서 재석은 180도 변한다."
+			],
+			[
+				13,
+				"도",
+				"JX",
+				"그곳에서 재석이는 힘든 상황에서도 좌절하지 않는 끈기를 배우게 되면서 재석은 180도 변한다."
+			],
+			[
+				14,
+				"를",
+				"JKO",
+				"그곳에서 재석이는 힘든 상황에서도 좌절하지 않는 끈기를 배우게 되면서 재석은 180도 변한다."
+			],
+			[
+				15,
+				"은",
+				"JX",
+				"그곳에서 재석이는 힘든 상황에서도 좌절하지 않는 끈기를 배우게 되면서 재석은 180도 변한다."
+			],
+			[
+				16,
+				"은",
+				"JX",
+				"이 책은 청소년이 읽으면 재밌을 것 같다."
+			],
+			[
+				17,
+				"이",
+				"JKS",
+				"이 책은 청소년이 읽으면 재밌을 것 같다."
+			],
+			[
+				18,
+				"에서",
+				"JKB",
+				"학교에서 일어나는 일을 중심으로 이야기가 흘러가기 때문에 공감이 되는 이야기도 분명 있을 것 이다."
+			],
+			[
+				19,
+				"을",
+				"JKO",
+				"학교에서 일어나는 일을 중심으로 이야기가 흘러가기 때문에 공감이 되는 이야기도 분명 있을 것 이다."
+			],
+			[
+				20,
+				"으로",
+				"JKB",
+				"학교에서 일어나는 일을 중심으로 이야기가 흘러가기 때문에 공감이 되는 이야기도 분명 있을 것 이다."
+			],
+			[
+				21,
+				"가",
+				"JKS",
+				"학교에서 일어나는 일을 중심으로 이야기가 흘러가기 때문에 공감이 되는 이야기도 분명 있을 것 이다."
+			],
+			[
+				22,
+				"에",
+				"JKB",
+				"학교에서 일어나는 일을 중심으로 이야기가 흘러가기 때문에 공감이 되는 이야기도 분명 있을 것 이다."
+			],
+			[
+				23,
+				"이",
+				"JKC",
+				"학교에서 일어나는 일을 중심으로 이야기가 흘러가기 때문에 공감이 되는 이야기도 분명 있을 것 이다."
+			],
+			[
+				24,
+				"도",
+				"JX",
+				"학교에서 일어나는 일을 중심으로 이야기가 흘러가기 때문에 공감이 되는 이야기도 분명 있을 것 이다."
+			],
+			[
+				25,
+				"의",
+				"JKG",
+				"이 책의 작가인 고정욱 작가님을 실제로 만나봤는데 정말 유쾌하고 재밌는 분이었다."
+			],
+			[
+				26,
+				"을",
+				"JKO",
+				"이 책의 작가인 고정욱 작가님을 실제로 만나봤는데 정말 유쾌하고 재밌는 분이었다."
+			],
+			[
+				27,
+				"은",
+				"JX",
+				"이 세상은 보는 시각에 따라, 입장에 따라 얼마든지 다르게 해석될 수 있다"
+			],
+			[
+				28,
+				"에",
+				"JKB",
+				"이 세상은 보는 시각에 따라, 입장에 따라 얼마든지 다르게 해석될 수 있다"
+			],
+			[
+				29,
+				"에",
+				"JKB",
+				"이 세상은 보는 시각에 따라, 입장에 따라 얼마든지 다르게 해석될 수 있다"
+			],
+			[
+				30,
+				"든지",
+				"JX",
+				"이 세상은 보는 시각에 따라, 입장에 따라 얼마든지 다르게 해석될 수 있다"
+			]
+		],
+		"E_Lst": [
+			[
+				0,
+				"ㄴ",
+				"ETM",
+				"재석이는 180cm의 큰덩치로 폭력서클에 들어갔다."
+			],
+			[
+				1,
+				"았",
+				"EP",
+				"재석이는 180cm의 큰덩치로 폭력서클에 들어갔다."
+			],
+			[
+				2,
+				"다",
+				"EF",
+				"재석이는 180cm의 큰덩치로 폭력서클에 들어갔다."
+			],
+			[
+				3,
+				"ㄴ",
+				"ETM",
+				"싸움꾼이 된 재석은 어떤일에 연루되어 사회봉사를 하게 된다."
+			],
+			[
+				4,
+				"어",
+				"EC",
+				"싸움꾼이 된 재석은 어떤일에 연루되어 사회봉사를 하게 된다."
+			],
+			[
+				5,
+				"게",
+				"EC",
+				"싸움꾼이 된 재석은 어떤일에 연루되어 사회봉사를 하게 된다."
+			],
+			[
+				6,
+				"ㄴ다",
+				"EF",
+				"싸움꾼이 된 재석은 어떤일에 연루되어 사회봉사를 하게 된다."
+			],
+			[
+				7,
+				"는",
+				"ETM",
+				"사회봉사를 하는 곳은 노인 복지관이다."
+			],
+			[
+				8,
+				"다",
+				"EF",
+				"사회봉사를 하는 곳은 노인 복지관이다."
+			],
+			[
+				9,
+				"ㄴ",
+				"ETM",
+				"그곳에서 재석이는 힘든 상황에서도 좌절하지 않는 끈기를 배우게 되면서 재석은 180도 변한다."
+			],
+			[
+				10,
+				"지",
+				"EC",
+				"그곳에서 재석이는 힘든 상황에서도 좌절하지 않는 끈기를 배우게 되면서 재석은 180도 변한다."
+			],
+			[
+				11,
+				"는",
+				"ETM",
+				"그곳에서 재석이는 힘든 상황에서도 좌절하지 않는 끈기를 배우게 되면서 재석은 180도 변한다."
+			],
+			[
+				12,
+				"게",
+				"EC",
+				"그곳에서 재석이는 힘든 상황에서도 좌절하지 않는 끈기를 배우게 되면서 재석은 180도 변한다."
+			],
+			[
+				13,
+				"면서",
+				"EC",
+				"그곳에서 재석이는 힘든 상황에서도 좌절하지 않는 끈기를 배우게 되면서 재석은 180도 변한다."
+			],
+			[
+				14,
+				"ㄴ다",
+				"EF",
+				"그곳에서 재석이는 힘든 상황에서도 좌절하지 않는 끈기를 배우게 되면서 재석은 180도 변한다."
+			],
+			[
+				15,
+				"으면",
+				"EC",
+				"이 책은 청소년이 읽으면 재밌을 것 같다."
+			],
+			[
+				16,
+				"을",
+				"ETM",
+				"이 책은 청소년이 읽으면 재밌을 것 같다."
+			],
+			[
+				17,
+				"다",
+				"EF",
+				"이 책은 청소년이 읽으면 재밌을 것 같다."
+			],
+			[
+				18,
+				"는",
+				"ETM",
+				"학교에서 일어나는 일을 중심으로 이야기가 흘러가기 때문에 공감이 되는 이야기도 분명 있을 것 이다."
+			],
+			[
+				19,
+				"기",
+				"ETN",
+				"학교에서 일어나는 일을 중심으로 이야기가 흘러가기 때문에 공감이 되는 이야기도 분명 있을 것 이다."
+			],
+			[
+				20,
+				"는",
+				"ETM",
+				"학교에서 일어나는 일을 중심으로 이야기가 흘러가기 때문에 공감이 되는 이야기도 분명 있을 것 이다."
+			],
+			[
+				21,
+				"을",
+				"ETM",
+				"학교에서 일어나는 일을 중심으로 이야기가 흘러가기 때문에 공감이 되는 이야기도 분명 있을 것 이다."
+			],
+			[
+				22,
+				"다",
+				"EF",
+				"학교에서 일어나는 일을 중심으로 이야기가 흘러가기 때문에 공감이 되는 이야기도 분명 있을 것 이다."
+			],
+			[
+				23,
+				"ㄴ",
+				"ETM",
+				"이 책의 작가인 고정욱 작가님을 실제로 만나봤는데 정말 유쾌하고 재밌는 분이었다."
+			],
+			[
+				24,
+				"아",
+				"EC",
+				"이 책의 작가인 고정욱 작가님을 실제로 만나봤는데 정말 유쾌하고 재밌는 분이었다."
+			],
+			[
+				25,
+				"았",
+				"EP",
+				"이 책의 작가인 고정욱 작가님을 실제로 만나봤는데 정말 유쾌하고 재밌는 분이었다."
+			],
+			[
+				26,
+				"는데",
+				"EC",
+				"이 책의 작가인 고정욱 작가님을 실제로 만나봤는데 정말 유쾌하고 재밌는 분이었다."
+			],
+			[
+				27,
+				"고",
+				"EC",
+				"이 책의 작가인 고정욱 작가님을 실제로 만나봤는데 정말 유쾌하고 재밌는 분이었다."
+			],
+			[
+				28,
+				"는",
+				"ETM",
+				"이 책의 작가인 고정욱 작가님을 실제로 만나봤는데 정말 유쾌하고 재밌는 분이었다."
+			],
+			[
+				29,
+				"었",
+				"EP",
+				"이 책의 작가인 고정욱 작가님을 실제로 만나봤는데 정말 유쾌하고 재밌는 분이었다."
+			],
+			[
+				30,
+				"다",
+				"EF",
+				"이 책의 작가인 고정욱 작가님을 실제로 만나봤는데 정말 유쾌하고 재밌는 분이었다."
+			],
+			[
+				31,
+				"는",
+				"ETM",
+				"이 세상은 보는 시각에 따라, 입장에 따라 얼마든지 다르게 해석될 수 있다"
+			],
+			[
+				32,
+				"아",
+				"EC",
+				"이 세상은 보는 시각에 따라, 입장에 따라 얼마든지 다르게 해석될 수 있다"
+			],
+			[
+				33,
+				"아",
+				"EC",
+				"이 세상은 보는 시각에 따라, 입장에 따라 얼마든지 다르게 해석될 수 있다"
+			],
+			[
+				34,
+				"게",
+				"EC",
+				"이 세상은 보는 시각에 따라, 입장에 따라 얼마든지 다르게 해석될 수 있다"
+			],
+			[
+				35,
+				"ㄹ",
+				"ETM",
+				"이 세상은 보는 시각에 따라, 입장에 따라 얼마든지 다르게 해석될 수 있다"
+			],
+			[
+				36,
+				"다",
+				"EF",
+				"이 세상은 보는 시각에 따라, 입장에 따라 얼마든지 다르게 해석될 수 있다"
+			]
+		],
+		"X_Lst": [
+			[
+				0,
+				"꾼",
+				"XSN",
+				"싸움꾼이 된 재석은 어떤일에 연루되어 사회봉사를 하게 된다."
+			],
+			[
+				1,
+				"님",
+				"XSN",
+				"이 책의 작가인 고정욱 작가님을 실제로 만나봤는데 정말 유쾌하고 재밌는 분이었다."
+			]
+		],
+		"IC_Lst": []
+	},
+	"NDW": {
+		"morph_NDW": 98,
+		"NL_NDW": 39,
+		"NNG_NDW": 28,
+		"NNP_NDW": 4,
+		"NNB_NDW": 6,
+		"NP_NDW": 1,
+		"NR_NDW": 0,
+		"VL_NDW": 34,
+		"VV_NDW": 19,
+		"VA_NDW": 9,
+		"ML_NDW": 3,
+		"MM_NDW": 0,
+		"IC_NDW": 0,
+		"J_NDW": 31,
+		"E_NDW": 37,
+		"X_NDW": 2,
+		"CL_NDW": 76,
+		"FL_NDW": 70
+	}
+}

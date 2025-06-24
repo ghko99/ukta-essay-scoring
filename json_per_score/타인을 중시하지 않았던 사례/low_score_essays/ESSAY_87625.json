@@ -1,0 +1,3146 @@
+﻿{
+	"morpheme": {
+		"sentences": [
+			{
+				"text": {
+					"content": "요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다.",
+					"length": 138,
+					"beginOffset": 0
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "요즘",
+							"length": 2,
+							"beginOffset": 0
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "요즘",
+									"length": 2,
+									"beginOffset": 0
+								},
+								"tag": "NNG",
+								"probability": 0.98540103,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "요즘",
+						"tagged": "요즘/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "자신이나",
+							"beginOffset": 3,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "자신",
+									"beginOffset": 3,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9836856,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이나",
+									"beginOffset": 5,
+									"length": 2
+								},
+								"tag": "JC",
+								"probability": 0.82554626,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "자신",
+						"tagged": "자신/NNG+이나/JC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "또는",
+							"beginOffset": 8,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "또는",
+									"beginOffset": 8,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9816909,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "또는",
+						"tagged": "또는/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "유명한",
+							"beginOffset": 11,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "유명하",
+									"beginOffset": 11,
+									"length": 3
+								},
+								"tag": "VA",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 13,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99999136,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "유명하",
+						"tagged": "유명하/VA+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사람이",
+							"beginOffset": 15,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사람",
+									"beginOffset": 15,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98492163,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 17,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9670216,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사람",
+						"tagged": "사람/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "타인이",
+							"beginOffset": 19,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "타인",
+									"beginOffset": 19,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9822201,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 21,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.99289995,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "타인",
+						"tagged": "타인/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "중시하는",
+							"beginOffset": 23,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "중시하",
+									"beginOffset": 23,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 26,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99989605,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "중시하",
+						"tagged": "중시하/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "것을",
+							"beginOffset": 28,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "것",
+									"beginOffset": 28,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9807063,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 29,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99996567,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "것",
+						"tagged": "것/NNB+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "무시하고",
+							"beginOffset": 31,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "무시하",
+									"beginOffset": 31,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 34,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99211556,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "무시하",
+						"tagged": "무시하/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "배려하지",
+							"beginOffset": 36,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "배려하",
+									"beginOffset": 36,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "지",
+									"beginOffset": 39,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99398774,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "배려하",
+						"tagged": "배려하/VV+지/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "않았던",
+							"beginOffset": 41,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "않",
+									"beginOffset": 41,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.94751644,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 42,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99989706,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "던",
+									"beginOffset": 43,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99929726,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "않",
+						"tagged": "않/VX+았/EP+던/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사례로",
+							"beginOffset": 45,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사례",
+									"beginOffset": 45,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98576593,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "로",
+									"beginOffset": 47,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99561197,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사례",
+						"tagged": "사례/NNG+로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "일단",
+							"beginOffset": 49,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "일단",
+									"beginOffset": 49,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.991558,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "일단",
+						"tagged": "일단/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "저에",
+							"beginOffset": 52,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "저",
+									"beginOffset": 52,
+									"length": 1
+								},
+								"tag": "NP",
+								"probability": 0.9591361,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 53,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9901011,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "저",
+						"tagged": "저/NP+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "대한",
+							"beginOffset": 55,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "대하",
+									"beginOffset": 55,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.99254537,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 56,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99998766,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "대하",
+						"tagged": "대하/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사례는",
+							"beginOffset": 58,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사례",
+									"beginOffset": 58,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9841231,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 60,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99919075,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사례",
+						"tagged": "사례/NNG+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "상대방이",
+							"beginOffset": 62,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "상대방",
+									"beginOffset": 62,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.97988087,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 65,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9877613,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "상대방",
+						"tagged": "상대방/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "중요시",
+							"beginOffset": 67,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "중요",
+									"beginOffset": 67,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.96662545,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "시",
+									"beginOffset": 69,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.9425913,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "중요",
+						"tagged": "중요/NNG+시/XSN",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "여기던",
+							"beginOffset": 71,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "여기",
+									"beginOffset": 71,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9855773,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "던",
+									"beginOffset": 73,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99998754,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "여기",
+						"tagged": "여기/VV+던/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "물건이나",
+							"beginOffset": 75,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "물건",
+									"beginOffset": 75,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9815582,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이나",
+									"beginOffset": 77,
+									"length": 2
+								},
+								"tag": "JC",
+								"probability": 0.98537606,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "물건",
+						"tagged": "물건/NNG+이나/JC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "생각",
+							"beginOffset": 80,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "생각",
+									"beginOffset": 80,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98281026,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "생각",
+						"tagged": "생각/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "등을",
+							"beginOffset": 83,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "등",
+									"beginOffset": 83,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.96404225,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 84,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999242,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "등",
+						"tagged": "등/NNB+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "저는",
+							"beginOffset": 86,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "저",
+									"beginOffset": 86,
+									"length": 1
+								},
+								"tag": "NP",
+								"probability": 0.985774,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 87,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99924934,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "저",
+						"tagged": "저/NP+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "중요하지",
+							"beginOffset": 89,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "중요하",
+									"beginOffset": 89,
+									"length": 3
+								},
+								"tag": "VA",
+								"probability": 0.0,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "지",
+									"beginOffset": 92,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9957333,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "중요하",
+						"tagged": "중요하/VA+지/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "않다고",
+							"beginOffset": 94,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "않",
+									"beginOffset": 94,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.9651378,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다고",
+									"beginOffset": 95,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9958552,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "않",
+						"tagged": "않/VX+다고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "생각하기에",
+							"beginOffset": 98,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "생각하",
+									"beginOffset": 98,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.0,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "기",
+									"beginOffset": 101,
+									"length": 1
+								},
+								"tag": "ETN",
+								"probability": 0.99984163,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 102,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9805415,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "생각하",
+						"tagged": "생각하/VV+기/ETN+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "함부로",
+							"beginOffset": 104,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "함부로",
+									"beginOffset": 104,
+									"length": 3
+								},
+								"tag": "MAG",
+								"probability": 0.9899029,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "함부로",
+						"tagged": "함부로/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사용하거나",
+							"beginOffset": 108,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사용하",
+									"beginOffset": 108,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "거나",
+									"beginOffset": 111,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99480784,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사용하",
+						"tagged": "사용하/VV+거나/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "상대방의",
+							"beginOffset": 114,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "상대방",
+									"beginOffset": 114,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.98349243,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 117,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99972326,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "상대방",
+						"tagged": "상대방/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "생각을",
+							"beginOffset": 119,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "생각",
+									"beginOffset": 119,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9814518,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 121,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99997634,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "생각",
+						"tagged": "생각/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "무시하는",
+							"beginOffset": 123,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "무시하",
+									"beginOffset": 123,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 126,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999767,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "무시하",
+						"tagged": "무시하/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "경우가",
+							"beginOffset": 128,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "경우",
+									"beginOffset": 128,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98508185,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 130,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9442501,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "경우",
+						"tagged": "경우/NNG+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있었습니다.",
+							"beginOffset": 132,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 132,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.968567,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 133,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9998295,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "습니다",
+									"beginOffset": 134,
+									"length": 3
+								},
+								"tag": "EF",
+								"probability": 0.98336047,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 137,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9998685,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VA+었/EP+습니다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			},
+			{
+				"text": {
+					"content": "남을 무시하게 되면 언젠간 그 죄의 무게는 자신에게 돌아올것이라고 알게 되었고 앞으로 더욱더 남을 배려하고 존경하면서 살 것을 맹세했습니다.",
+					"beginOffset": 139,
+					"length": 78
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "남을",
+							"beginOffset": 139,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "남",
+									"beginOffset": 139,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9748215,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 140,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999708,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "남",
+						"tagged": "남/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "무시하게",
+							"beginOffset": 142,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "무시하",
+									"beginOffset": 142,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "게",
+									"beginOffset": 145,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9928866,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "무시하",
+						"tagged": "무시하/VV+게/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "되면",
+							"beginOffset": 147,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "되",
+									"beginOffset": 147,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9645909,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "면",
+									"beginOffset": 148,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9956896,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "되",
+						"tagged": "되/VV+면/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "언젠간",
+							"beginOffset": 150,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "언젠가",
+									"beginOffset": 150,
+									"length": 3
+								},
+								"tag": "MAG",
+								"probability": 0.9915214,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 153,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99924755,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "언젠가",
+						"tagged": "언젠가/MAG+ㄴ/JX",
+						"modified": "언젠간"
+					},
+					{
+						"text": {
+							"content": "그",
+							"beginOffset": 154,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그",
+									"beginOffset": 154,
+									"length": 1
+								},
+								"tag": "MMD",
+								"probability": 0.9998185,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그",
+						"tagged": "그/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "죄의",
+							"beginOffset": 156,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "죄",
+									"beginOffset": 156,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.98311734,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 157,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99937785,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "죄",
+						"tagged": "죄/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "무게는",
+							"beginOffset": 159,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "무게",
+									"beginOffset": 159,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.95654845,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 161,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9988999,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "무게",
+						"tagged": "무게/NNG+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "자신에게",
+							"beginOffset": 163,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "자신",
+									"beginOffset": 163,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98088044,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에게",
+									"beginOffset": 165,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.98964596,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "자신",
+						"tagged": "자신/NNG+에게/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "돌아올",
+							"beginOffset": 168,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "돌아오",
+									"beginOffset": 168,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.9898342,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ",
+									"beginOffset": 170,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99993885,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "돌아오",
+						"tagged": "돌아오/VV+ㄹ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "것이라고",
+							"beginOffset": 171,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "것",
+									"beginOffset": 171,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9821826,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 172,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.99975544,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "라고",
+									"beginOffset": 173,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9792241,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "것",
+						"tagged": "것/NNB+이/VCP+라고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "알게",
+							"beginOffset": 176,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "알",
+									"beginOffset": 176,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.98805416,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "게",
+									"beginOffset": 177,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99502295,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "알",
+						"tagged": "알/VV+게/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "되었고",
+							"beginOffset": 179,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "되",
+									"beginOffset": 179,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.98762894,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 180,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9998968,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 181,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.98769367,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "되",
+						"tagged": "되/VV+었/EP+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "앞으로",
+							"beginOffset": 183,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "앞",
+									"beginOffset": 183,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.98345214,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으로",
+									"beginOffset": 184,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9930571,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "앞",
+						"tagged": "앞/NNG+으로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "더욱더",
+							"beginOffset": 187,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "더욱더",
+									"beginOffset": 187,
+									"length": 3
+								},
+								"tag": "MAG",
+								"probability": 0.9853409,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "더욱더",
+						"tagged": "더욱더/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "남을",
+							"beginOffset": 191,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "남",
+									"beginOffset": 191,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.88220716,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 192,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9995324,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "남",
+						"tagged": "남/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "배려하고",
+							"beginOffset": 194,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "배려하",
+									"beginOffset": 194,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 197,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9960206,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "배려하",
+						"tagged": "배려하/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "존경하면서",
+							"beginOffset": 199,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "존경하",
+									"beginOffset": 199,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "면서",
+									"beginOffset": 202,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99309874,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "존경하",
+						"tagged": "존경하/VV+면서/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "살",
+							"beginOffset": 205,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "살",
+									"beginOffset": 205,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9869077,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ",
+									"beginOffset": 205,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999445,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "살",
+						"tagged": "살/VV+ㄹ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "것을",
+							"beginOffset": 207,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "것",
+									"beginOffset": 207,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9811602,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 208,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999066,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "것",
+						"tagged": "것/NNB+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "맹세했습니다.",
+							"beginOffset": 210,
+							"length": 7
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "맹세하",
+									"beginOffset": 210,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 212,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9998398,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "습니다",
+									"beginOffset": 213,
+									"length": 3
+								},
+								"tag": "EF",
+								"probability": 0.9816507,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 216,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9998602,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "맹세하",
+						"tagged": "맹세하/VV+았/EP+습니다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "남을 무시하게 되면 언젠간 그 죄의 무게는 자신에게 돌아올 것이라고 알게 되었고 앞으로 더욱더 남을 배려하고 존경하면서 살 것을 맹세했습니다."
+			}
+		],
+		"language": "ko_KR"
+	},
+	"ttr": {
+		"lemma_Cnt": 105,
+		"lemma_TTR": 0.6261682242990654,
+		"CL_TTR": 0.7547169811320755,
+		"NL_TTR": 0.68,
+		"NN_TTR": 0.6956521739130435,
+		"NNG_TTR": 0.7368421052631579,
+		"NNP_TTR": 0,
+		"NNB_TTR": 0.5,
+		"NP_TTR": 0.5,
+		"NR_TTR": 0,
+		"VL_TTR": 0.782608695652174,
+		"VV_TTR": 0.7647058823529411,
+		"VA_TTR": 1.0,
+		"ML_TTR": 1.0,
+		"MM_TTR": 0,
+		"MA_TTR": 1.0,
+		"MAJ_TTR": 0,
+		"IC_TTR": 0,
+		"FL_TTR": 0.5098039215686274,
+		"J_TTR": 0.4782608695652174,
+		"E_TTR": 0.5925925925925926,
+		"X_TTR": 1.0,
+		"lemma_RTTR": 6.477134476605945,
+		"CL_RTTR": 5.494422557947561,
+		"NL_RTTR": 3.4,
+		"NN_RTTR": 3.3362306249131963,
+		"NNG_RTTR": 3.2118202741878643,
+		"NNP_RTTR": 0,
+		"NNB_RTTR": 1.0,
+		"NP_RTTR": 0.7071067811865475,
+		"NR_RTTR": 0,
+		"VL_RTTR": 3.753259453027346,
+		"VV_RTTR": 3.1529631254723287,
+		"VA_RTTR": 1.7320508075688774,
+		"ML_RTTR": 2.23606797749979,
+		"MM_RTTR": 0,
+		"MA_RTTR": 2.23606797749979,
+		"MAJ_RTTR": 0,
+		"IC_RTTR": 0,
+		"FL_RTTR": 3.6407282184728254,
+		"J_RTTR": 2.2936585546278225,
+		"E_RTTR": 3.079201435678004,
+		"X_RTTR": 1.0,
+		"lemma_CTTR": 4.580025711065244,
+		"CL_CTTR": 3.8851434494290564,
+		"NL_CTTR": 2.4041630560342613,
+		"NN_CTTR": 2.359071298478354,
+		"NNG_CTTR": 2.271099895830676,
+		"NNP_CTTR": 0,
+		"NNB_CTTR": 0.7071067811865475,
+		"NP_CTTR": 0.5,
+		"NR_CTTR": 0,
+		"VL_CTTR": 2.6539552107881486,
+		"VV_CTTR": 2.2294816068526147,
+		"VA_CTTR": 1.2247448713915892,
+		"ML_CTTR": 1.5811388300841895,
+		"MM_CTTR": 0,
+		"MA_CTTR": 1.5811388300841895,
+		"MAJ_CTTR": 0,
+		"IC_CTTR": 0,
+		"FL_CTTR": 2.5743836117393535,
+		"J_CTTR": 1.6218615177038684,
+		"E_CTTR": 2.1773242158072694,
+		"X_CTTR": 0.7071067811865475,
+		"lemma_MSTTR": 0.77,
+		"CL_MSTTR": 0.76,
+		"NL_MSTTR": 0.68,
+		"NN_MSTTR": 0.6956521739130435,
+		"NNG_MSTTR": 0.7368421052631579,
+		"NNP_MSTTR": 0,
+		"NNB_MSTTR": 0.5,
+		"NP_MSTTR": 0.5,
+		"NR_MSTTR": 0,
+		"VL_MSTTR": 0.782608695652174,
+		"VV_MSTTR": 0.7647058823529411,
+		"VA_MSTTR": 1.0,
+		"ML_MSTTR": 1.0,
+		"MM_MSTTR": 0,
+		"MA_MSTTR": 1.0,
+		"MAJ_MSTTR": 0,
+		"IC_MSTTR": 0,
+		"FL_MSTTR": 0.52,
+		"J_MSTTR": 0.4782608695652174,
+		"E_MSTTR": 0.5925925925925926,
+		"X_MSTTR": 1.0,
+		"lemma_MATTR": 0.7889655172413793,
+		"CL_MATTR": 0.76,
+		"NL_MATTR": 0.68,
+		"NN_MATTR": 0.6956521739130435,
+		"NNG_MATTR": 0.7368421052631579,
+		"NNP_MATTR": 0,
+		"NNB_MATTR": 0.5,
+		"NP_MATTR": 0.5,
+		"NR_MATTR": 0,
+		"VL_MATTR": 0.782608695652174,
+		"VV_MATTR": 0.7647058823529411,
+		"VA_MATTR": 1.0,
+		"ML_MATTR": 1.0,
+		"MM_MATTR": 0,
+		"MA_MATTR": 1.0,
+		"MAJ_MATTR": 0,
+		"IC_MATTR": 0,
+		"FL_MATTR": 0.52,
+		"J_MATTR": 0.4782608695652174,
+		"E_MATTR": 0.5925925925925926,
+		"X_MATTR": 1.0,
+		"lemma_MTLD": 55.519586894586894,
+		"CL_MTLD": 60.50153846153848,
+		"NL_MTLD": 25.0,
+		"NN_MTLD": 22.08,
+		"NNG_MTLD": 20.216,
+		"NNP_MTLD": 0.0,
+		"NNB_MTLD": 2.24,
+		"NP_MTLD": 1.12,
+		"NR_MTLD": 0.0,
+		"VL_MTLD": 29.624000000000006,
+		"VV_MTLD": 18.615,
+		"VA_MTLD": 0.0,
+		"ML_MTLD": 0.0,
+		"MM_MTLD": 0.0,
+		"MA_MTLD": 0.0,
+		"MAJ_MTLD": 0.0,
+		"IC_MTLD": 0.0,
+		"FL_MTLD": 21.564814814814817,
+		"J_MTLD": 7.208955223880596,
+		"E_MTLD": 13.265834575260806,
+		"X_MTLD": 0.0,
+		"lemma_VOCDD": 75.35853550768343,
+		"CL_VOCDD": 67.13255432942293,
+		"NL_VOCDD": 0,
+		"NN_VOCDD": 0,
+		"NNG_VOCDD": 0,
+		"NNP_VOCDD": 0,
+		"NNB_VOCDD": 0,
+		"NP_VOCDD": 0,
+		"NR_VOCDD": 0,
+		"VL_VOCDD": 0,
+		"VV_VOCDD": 0,
+		"VA_VOCDD": 0,
+		"ML_VOCDD": 0,
+		"MM_VOCDD": 0,
+		"MA_VOCDD": 0,
+		"MAJ_VOCDD": 0,
+		"IC_VOCDD": 0,
+		"FL_VOCDD": 15.32134262341023,
+		"J_VOCDD": 0,
+		"E_VOCDD": 0,
+		"X_VOCDD": 0,
+		"lemma_HDD": 0.8150120059699706,
+		"CL_HDD": 0.8001864025726398,
+		"NL_HDD": 0.0,
+		"NN_HDD": 0.0,
+		"NNG_HDD": 0.0,
+		"NNP_HDD": 0.0,
+		"NNB_HDD": 0.0,
+		"NP_HDD": 0.0,
+		"NR_HDD": 0.0,
+		"VL_HDD": 0.0,
+		"VV_HDD": 0.0,
+		"VA_HDD": 0.0,
+		"ML_HDD": 0.0,
+		"MM_HDD": 0.0,
+		"MA_HDD": 0.0,
+		"MAJ_HDD": 0.0,
+		"IC_HDD": 0.0,
+		"FL_HDD": 0.5658169391715985,
+		"J_HDD": 0.0,
+		"E_HDD": 0.0,
+		"X_HDD": 0.0
+	},
+	"similarity": {
+		"avgSentSimilarity": 0.2622939348220825,
+		"topicConsistency": 0.4419
+	},
+	"adjacency": {
+		"adjacent_sentence_overlap_all_lemmas": 40,
+		"adjacent_sentence_overlap_all_lemmas_normed": 1,
+		"binary_adjacent_sentence_overlap_all_lemmas": 1,
+		"adjacent_two_sentence_overlap_all_lemmas": 0,
+		"adjacent_two_sentence_overlap_all_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_all_lemmas": 0,
+		"adjacent_sentence_overlap_content_lemmas": 19,
+		"adjacent_sentence_overlap_content_lemmas_normed": 1,
+		"binary_adjacent_sentence_overlap_content_lemmas": 1,
+		"adjacent_two_sentence_overlap_content_lemmas": 0,
+		"adjacent_two_sentence_overlap_content_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_content_lemmas": 0,
+		"adjacent_sentence_overlap_function_lemmas": 20,
+		"adjacent_sentence_overlap_function_lemmas_normed": 1,
+		"binary_adjacent_sentence_overlap_function_lemmas": 1,
+		"adjacent_two_sentence_overlap_function_lemmas": 0,
+		"adjacent_two_sentence_overlap_function_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_function_lemmas": 0,
+		"adjacent_sentence_overlap_noun_lemmas": 8,
+		"adjacent_sentence_overlap_noun_lemmas_normed": 1,
+		"binary_adjacent_sentence_overlap_noun_lemmas": 1,
+		"adjacent_two_sentence_overlap_noun_lemmas": 0,
+		"adjacent_two_sentence_overlap_noun_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_noun_lemmas": 0,
+		"adjacent_sentence_overlap_verb_lemmas": 9,
+		"adjacent_sentence_overlap_verb_lemmas_normed": 1,
+		"binary_adjacent_sentence_overlap_verb_lemmas": 1,
+		"adjacent_two_sentence_overlap_verb_lemmas": 0,
+		"adjacent_two_sentence_overlap_verb_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_verb_lemmas": 0,
+		"adjacent_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_sentence_overlap_adjective_lemmas_normed": 0,
+		"binary_adjacent_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_sentence_overlap_adverb_lemmas": 2,
+		"adjacent_sentence_overlap_adverb_lemmas_normed": 1,
+		"binary_adjacent_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adverb_lemmas": 0
+	},
+	"basic_count": {
+		"para_Cnt": 1,
+		"sentence_Cnt": 2,
+		"word_Cnt": 52,
+		"morph_Cnt": 107,
+		"char_Cnt": 168,
+		"CL_Cnt": 53,
+		"NL_Cnt": 25,
+		"NN_Cnt": 23,
+		"NNG_Cnt": 19,
+		"NNP_Cnt": 0,
+		"NNB_Cnt": 4,
+		"NP_Cnt": 2,
+		"NP_People_Cnt": 2,
+		"NP_Things_Cnt": 0,
+		"NR_Cnt": 0,
+		"VL_Cnt": 23,
+		"VV_Cnt": 17,
+		"VA_Cnt": 3,
+		"VX_Cnt": 2,
+		"VCP_Cnt": 1,
+		"VCN_Cnt": 0,
+		"ML_Cnt": 5,
+		"MA_Cnt": 0,
+		"MM_Cnt": 0,
+		"FL_Cnt": 51,
+		"J_Cnt": 23,
+		"E_Cnt": 27,
+		"X_Cnt": 1,
+		"IC_Cnt": 0
+	},
+	"basic_density": {
+		"CL_Den": 0.4953271028037383,
+		"FL_Den": 0.4766355140186916,
+		"NL_Den": 0.21495327102803738,
+		"NNGL_Den": 0.17757009345794392,
+		"NNPL_Den": 0.0,
+		"NNBL_Den": 0.037383177570093455,
+		"NPL_Den": 0.018691588785046728,
+		"NML_Den": 0.0,
+		"VL_Den": 0.21495327102803738,
+		"VVL_Den": 0.1588785046728972,
+		"VAL_Den": 0.028037383177570093,
+		"ML_Den": 0.04672897196261682,
+		"MML_Den": 0.0,
+		"MAL_Den": 0.0,
+		"JL_Den": 0.21495327102803738,
+		"EL_Den": 0.2523364485981308,
+		"XL_Den": 0.009345794392523364,
+		"ITL_Den": 0.0,
+		"NCL_Den": 0.4339622641509434,
+		"NNCL_Den": 0.3584905660377358,
+		"NNGCL_Den": 0.0,
+		"NNBCL_Den": 0.07547169811320754,
+		"NPCL_Den": 0.03773584905660377,
+		"NMCL_Den": 0.0,
+		"VCL_Den": 0.4339622641509434,
+		"VVCL_Den": 0.32075471698113206,
+		"VACL_Den": 0.05660377358490566,
+		"MCL_Den": 0.09433962264150944,
+		"MMCL_Den": 0.0,
+		"MACL_Den": 0.0,
+		"INCL_Den": 0.0,
+		"JFL_Den": 0.45098039215686275,
+		"EFL_Den": 0.5294117647058824,
+		"XFL_Den": 0.0196078431372549
+	},
+	"basic_level": {
+		"morph_LenAvg": 1.6074766355140186,
+		"morph_LenStd": 0.7824835771564295,
+		"word_LenAvg": 3.1538461538461537,
+		"word_LenStd": 1.1991120975476843
+	},
+	"basic_list": {
+		"NL_Lst": [
+			[
+				0,
+				"요즘",
+				"NNG",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				1,
+				"자신",
+				"NNG",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				2,
+				"사람",
+				"NNG",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				3,
+				"타인",
+				"NNG",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				4,
+				"것",
+				"NNB",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				5,
+				"사례",
+				"NNG",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				6,
+				"저",
+				"NP",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				7,
+				"사례",
+				"NNG",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				8,
+				"상대방",
+				"NNG",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				9,
+				"중요",
+				"NNG",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				10,
+				"물건",
+				"NNG",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				11,
+				"생각",
+				"NNG",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				12,
+				"등",
+				"NNB",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				13,
+				"저",
+				"NP",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				14,
+				"상대방",
+				"NNG",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				15,
+				"생각",
+				"NNG",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				16,
+				"경우",
+				"NNG",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				17,
+				"남",
+				"NNG",
+				"남을 무시하게 되면 언젠간 그 죄의 무게는 자신에게 돌아올것이라고 알게 되었고 앞으로 더욱더 남을 배려하고 존경하면서 살 것을 맹세했습니다."
+			],
+			[
+				18,
+				"죄",
+				"NNG",
+				"남을 무시하게 되면 언젠간 그 죄의 무게는 자신에게 돌아올것이라고 알게 되었고 앞으로 더욱더 남을 배려하고 존경하면서 살 것을 맹세했습니다."
+			],
+			[
+				19,
+				"무게",
+				"NNG",
+				"남을 무시하게 되면 언젠간 그 죄의 무게는 자신에게 돌아올것이라고 알게 되었고 앞으로 더욱더 남을 배려하고 존경하면서 살 것을 맹세했습니다."
+			],
+			[
+				20,
+				"자신",
+				"NNG",
+				"남을 무시하게 되면 언젠간 그 죄의 무게는 자신에게 돌아올것이라고 알게 되었고 앞으로 더욱더 남을 배려하고 존경하면서 살 것을 맹세했습니다."
+			],
+			[
+				21,
+				"것",
+				"NNB",
+				"남을 무시하게 되면 언젠간 그 죄의 무게는 자신에게 돌아올것이라고 알게 되었고 앞으로 더욱더 남을 배려하고 존경하면서 살 것을 맹세했습니다."
+			],
+			[
+				22,
+				"앞",
+				"NNG",
+				"남을 무시하게 되면 언젠간 그 죄의 무게는 자신에게 돌아올것이라고 알게 되었고 앞으로 더욱더 남을 배려하고 존경하면서 살 것을 맹세했습니다."
+			],
+			[
+				23,
+				"남",
+				"NNG",
+				"남을 무시하게 되면 언젠간 그 죄의 무게는 자신에게 돌아올것이라고 알게 되었고 앞으로 더욱더 남을 배려하고 존경하면서 살 것을 맹세했습니다."
+			],
+			[
+				24,
+				"것",
+				"NNB",
+				"남을 무시하게 되면 언젠간 그 죄의 무게는 자신에게 돌아올것이라고 알게 되었고 앞으로 더욱더 남을 배려하고 존경하면서 살 것을 맹세했습니다."
+			]
+		],
+		"NN_Lst": [
+			[
+				0,
+				"요즘",
+				"NNG",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				1,
+				"자신",
+				"NNG",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				2,
+				"사람",
+				"NNG",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				3,
+				"타인",
+				"NNG",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				4,
+				"것",
+				"NNB",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				5,
+				"사례",
+				"NNG",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				6,
+				"사례",
+				"NNG",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				7,
+				"상대방",
+				"NNG",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				8,
+				"중요",
+				"NNG",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				9,
+				"물건",
+				"NNG",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				10,
+				"생각",
+				"NNG",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				11,
+				"등",
+				"NNB",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				12,
+				"상대방",
+				"NNG",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				13,
+				"생각",
+				"NNG",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				14,
+				"경우",
+				"NNG",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				15,
+				"남",
+				"NNG",
+				"남을 무시하게 되면 언젠간 그 죄의 무게는 자신에게 돌아올것이라고 알게 되었고 앞으로 더욱더 남을 배려하고 존경하면서 살 것을 맹세했습니다."
+			],
+			[
+				16,
+				"죄",
+				"NNG",
+				"남을 무시하게 되면 언젠간 그 죄의 무게는 자신에게 돌아올것이라고 알게 되었고 앞으로 더욱더 남을 배려하고 존경하면서 살 것을 맹세했습니다."
+			],
+			[
+				17,
+				"무게",
+				"NNG",
+				"남을 무시하게 되면 언젠간 그 죄의 무게는 자신에게 돌아올것이라고 알게 되었고 앞으로 더욱더 남을 배려하고 존경하면서 살 것을 맹세했습니다."
+			],
+			[
+				18,
+				"자신",
+				"NNG",
+				"남을 무시하게 되면 언젠간 그 죄의 무게는 자신에게 돌아올것이라고 알게 되었고 앞으로 더욱더 남을 배려하고 존경하면서 살 것을 맹세했습니다."
+			],
+			[
+				19,
+				"것",
+				"NNB",
+				"남을 무시하게 되면 언젠간 그 죄의 무게는 자신에게 돌아올것이라고 알게 되었고 앞으로 더욱더 남을 배려하고 존경하면서 살 것을 맹세했습니다."
+			],
+			[
+				20,
+				"앞",
+				"NNG",
+				"남을 무시하게 되면 언젠간 그 죄의 무게는 자신에게 돌아올것이라고 알게 되었고 앞으로 더욱더 남을 배려하고 존경하면서 살 것을 맹세했습니다."
+			],
+			[
+				21,
+				"남",
+				"NNG",
+				"남을 무시하게 되면 언젠간 그 죄의 무게는 자신에게 돌아올것이라고 알게 되었고 앞으로 더욱더 남을 배려하고 존경하면서 살 것을 맹세했습니다."
+			],
+			[
+				22,
+				"것",
+				"NNB",
+				"남을 무시하게 되면 언젠간 그 죄의 무게는 자신에게 돌아올것이라고 알게 되었고 앞으로 더욱더 남을 배려하고 존경하면서 살 것을 맹세했습니다."
+			]
+		],
+		"NNG_Lst": [
+			[
+				0,
+				"요즘",
+				"NNG",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				1,
+				"자신",
+				"NNG",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				2,
+				"사람",
+				"NNG",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				3,
+				"타인",
+				"NNG",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				4,
+				"사례",
+				"NNG",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				5,
+				"사례",
+				"NNG",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				6,
+				"상대방",
+				"NNG",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				7,
+				"중요",
+				"NNG",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				8,
+				"물건",
+				"NNG",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				9,
+				"생각",
+				"NNG",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				10,
+				"상대방",
+				"NNG",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				11,
+				"생각",
+				"NNG",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				12,
+				"경우",
+				"NNG",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				13,
+				"남",
+				"NNG",
+				"남을 무시하게 되면 언젠간 그 죄의 무게는 자신에게 돌아올것이라고 알게 되었고 앞으로 더욱더 남을 배려하고 존경하면서 살 것을 맹세했습니다."
+			],
+			[
+				14,
+				"죄",
+				"NNG",
+				"남을 무시하게 되면 언젠간 그 죄의 무게는 자신에게 돌아올것이라고 알게 되었고 앞으로 더욱더 남을 배려하고 존경하면서 살 것을 맹세했습니다."
+			],
+			[
+				15,
+				"무게",
+				"NNG",
+				"남을 무시하게 되면 언젠간 그 죄의 무게는 자신에게 돌아올것이라고 알게 되었고 앞으로 더욱더 남을 배려하고 존경하면서 살 것을 맹세했습니다."
+			],
+			[
+				16,
+				"자신",
+				"NNG",
+				"남을 무시하게 되면 언젠간 그 죄의 무게는 자신에게 돌아올것이라고 알게 되었고 앞으로 더욱더 남을 배려하고 존경하면서 살 것을 맹세했습니다."
+			],
+			[
+				17,
+				"앞",
+				"NNG",
+				"남을 무시하게 되면 언젠간 그 죄의 무게는 자신에게 돌아올것이라고 알게 되었고 앞으로 더욱더 남을 배려하고 존경하면서 살 것을 맹세했습니다."
+			],
+			[
+				18,
+				"남",
+				"NNG",
+				"남을 무시하게 되면 언젠간 그 죄의 무게는 자신에게 돌아올것이라고 알게 되었고 앞으로 더욱더 남을 배려하고 존경하면서 살 것을 맹세했습니다."
+			]
+		],
+		"NNP_Lst": [],
+		"NNB_Lst": [
+			[
+				0,
+				"것",
+				"NNB",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				1,
+				"등",
+				"NNB",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				2,
+				"것",
+				"NNB",
+				"남을 무시하게 되면 언젠간 그 죄의 무게는 자신에게 돌아올것이라고 알게 되었고 앞으로 더욱더 남을 배려하고 존경하면서 살 것을 맹세했습니다."
+			],
+			[
+				3,
+				"것",
+				"NNB",
+				"남을 무시하게 되면 언젠간 그 죄의 무게는 자신에게 돌아올것이라고 알게 되었고 앞으로 더욱더 남을 배려하고 존경하면서 살 것을 맹세했습니다."
+			]
+		],
+		"NP_Lst": [
+			[
+				0,
+				"저",
+				"NP",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				1,
+				"저",
+				"NP",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			]
+		],
+		"NP_People_Lst": [
+			[
+				0,
+				"저",
+				"NP",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				1,
+				"저",
+				"NP",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			]
+		],
+		"NP_Things_Lst": [],
+		"NR_Lst": [],
+		"VL_Lst": [
+			[
+				0,
+				"유명하",
+				"VA",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				1,
+				"중시하",
+				"VV",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				2,
+				"무시하",
+				"VV",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				3,
+				"배려하",
+				"VV",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				4,
+				"않",
+				"VX",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				5,
+				"대하",
+				"VV",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				6,
+				"여기",
+				"VV",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				7,
+				"중요하",
+				"VA",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				8,
+				"않",
+				"VX",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				9,
+				"생각하",
+				"VV",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				10,
+				"사용하",
+				"VV",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				11,
+				"무시하",
+				"VV",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				12,
+				"있",
+				"VA",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				13,
+				"무시하",
+				"VV",
+				"남을 무시하게 되면 언젠간 그 죄의 무게는 자신에게 돌아올것이라고 알게 되었고 앞으로 더욱더 남을 배려하고 존경하면서 살 것을 맹세했습니다."
+			],
+			[
+				14,
+				"되",
+				"VV",
+				"남을 무시하게 되면 언젠간 그 죄의 무게는 자신에게 돌아올것이라고 알게 되었고 앞으로 더욱더 남을 배려하고 존경하면서 살 것을 맹세했습니다."
+			],
+			[
+				15,
+				"돌아오",
+				"VV",
+				"남을 무시하게 되면 언젠간 그 죄의 무게는 자신에게 돌아올것이라고 알게 되었고 앞으로 더욱더 남을 배려하고 존경하면서 살 것을 맹세했습니다."
+			],
+			[
+				16,
+				"이",
+				"VCP",
+				"남을 무시하게 되면 언젠간 그 죄의 무게는 자신에게 돌아올것이라고 알게 되었고 앞으로 더욱더 남을 배려하고 존경하면서 살 것을 맹세했습니다."
+			],
+			[
+				17,
+				"알",
+				"VV",
+				"남을 무시하게 되면 언젠간 그 죄의 무게는 자신에게 돌아올것이라고 알게 되었고 앞으로 더욱더 남을 배려하고 존경하면서 살 것을 맹세했습니다."
+			],
+			[
+				18,
+				"되",
+				"VV",
+				"남을 무시하게 되면 언젠간 그 죄의 무게는 자신에게 돌아올것이라고 알게 되었고 앞으로 더욱더 남을 배려하고 존경하면서 살 것을 맹세했습니다."
+			],
+			[
+				19,
+				"배려하",
+				"VV",
+				"남을 무시하게 되면 언젠간 그 죄의 무게는 자신에게 돌아올것이라고 알게 되었고 앞으로 더욱더 남을 배려하고 존경하면서 살 것을 맹세했습니다."
+			],
+			[
+				20,
+				"존경하",
+				"VV",
+				"남을 무시하게 되면 언젠간 그 죄의 무게는 자신에게 돌아올것이라고 알게 되었고 앞으로 더욱더 남을 배려하고 존경하면서 살 것을 맹세했습니다."
+			],
+			[
+				21,
+				"살",
+				"VV",
+				"남을 무시하게 되면 언젠간 그 죄의 무게는 자신에게 돌아올것이라고 알게 되었고 앞으로 더욱더 남을 배려하고 존경하면서 살 것을 맹세했습니다."
+			],
+			[
+				22,
+				"맹세하",
+				"VV",
+				"남을 무시하게 되면 언젠간 그 죄의 무게는 자신에게 돌아올것이라고 알게 되었고 앞으로 더욱더 남을 배려하고 존경하면서 살 것을 맹세했습니다."
+			]
+		],
+		"VV_Lst": [
+			[
+				0,
+				"중시하",
+				"VV",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				1,
+				"무시하",
+				"VV",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				2,
+				"배려하",
+				"VV",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				3,
+				"대하",
+				"VV",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				4,
+				"여기",
+				"VV",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				5,
+				"생각하",
+				"VV",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				6,
+				"사용하",
+				"VV",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				7,
+				"무시하",
+				"VV",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				8,
+				"무시하",
+				"VV",
+				"남을 무시하게 되면 언젠간 그 죄의 무게는 자신에게 돌아올것이라고 알게 되었고 앞으로 더욱더 남을 배려하고 존경하면서 살 것을 맹세했습니다."
+			],
+			[
+				9,
+				"되",
+				"VV",
+				"남을 무시하게 되면 언젠간 그 죄의 무게는 자신에게 돌아올것이라고 알게 되었고 앞으로 더욱더 남을 배려하고 존경하면서 살 것을 맹세했습니다."
+			],
+			[
+				10,
+				"돌아오",
+				"VV",
+				"남을 무시하게 되면 언젠간 그 죄의 무게는 자신에게 돌아올것이라고 알게 되었고 앞으로 더욱더 남을 배려하고 존경하면서 살 것을 맹세했습니다."
+			],
+			[
+				11,
+				"알",
+				"VV",
+				"남을 무시하게 되면 언젠간 그 죄의 무게는 자신에게 돌아올것이라고 알게 되었고 앞으로 더욱더 남을 배려하고 존경하면서 살 것을 맹세했습니다."
+			],
+			[
+				12,
+				"되",
+				"VV",
+				"남을 무시하게 되면 언젠간 그 죄의 무게는 자신에게 돌아올것이라고 알게 되었고 앞으로 더욱더 남을 배려하고 존경하면서 살 것을 맹세했습니다."
+			],
+			[
+				13,
+				"배려하",
+				"VV",
+				"남을 무시하게 되면 언젠간 그 죄의 무게는 자신에게 돌아올것이라고 알게 되었고 앞으로 더욱더 남을 배려하고 존경하면서 살 것을 맹세했습니다."
+			],
+			[
+				14,
+				"존경하",
+				"VV",
+				"남을 무시하게 되면 언젠간 그 죄의 무게는 자신에게 돌아올것이라고 알게 되었고 앞으로 더욱더 남을 배려하고 존경하면서 살 것을 맹세했습니다."
+			],
+			[
+				15,
+				"살",
+				"VV",
+				"남을 무시하게 되면 언젠간 그 죄의 무게는 자신에게 돌아올것이라고 알게 되었고 앞으로 더욱더 남을 배려하고 존경하면서 살 것을 맹세했습니다."
+			],
+			[
+				16,
+				"맹세하",
+				"VV",
+				"남을 무시하게 되면 언젠간 그 죄의 무게는 자신에게 돌아올것이라고 알게 되었고 앞으로 더욱더 남을 배려하고 존경하면서 살 것을 맹세했습니다."
+			]
+		],
+		"VA_Lst": [
+			[
+				0,
+				"유명하",
+				"VA",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				1,
+				"중요하",
+				"VA",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				2,
+				"있",
+				"VA",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			]
+		],
+		"VX_Lst": [
+			[
+				0,
+				"않",
+				"VX",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				1,
+				"않",
+				"VX",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			]
+		],
+		"VCP_Lst": [
+			[
+				0,
+				"이",
+				"VCP",
+				"남을 무시하게 되면 언젠간 그 죄의 무게는 자신에게 돌아올것이라고 알게 되었고 앞으로 더욱더 남을 배려하고 존경하면서 살 것을 맹세했습니다."
+			]
+		],
+		"VCN_Lst": [],
+		"ML_Lst": [
+			[
+				0,
+				"또는",
+				"MAG",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				1,
+				"일단",
+				"MAG",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				2,
+				"함부로",
+				"MAG",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				3,
+				"언젠가",
+				"MAG",
+				"남을 무시하게 되면 언젠간 그 죄의 무게는 자신에게 돌아올것이라고 알게 되었고 앞으로 더욱더 남을 배려하고 존경하면서 살 것을 맹세했습니다."
+			],
+			[
+				4,
+				"더욱더",
+				"MAG",
+				"남을 무시하게 되면 언젠간 그 죄의 무게는 자신에게 돌아올것이라고 알게 되었고 앞으로 더욱더 남을 배려하고 존경하면서 살 것을 맹세했습니다."
+			]
+		],
+		"MA_Lst": [],
+		"MM_Lst": [],
+		"J_Lst": [
+			[
+				0,
+				"이나",
+				"JC",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				1,
+				"이",
+				"JKS",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				2,
+				"이",
+				"JKS",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				3,
+				"을",
+				"JKO",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				4,
+				"로",
+				"JKB",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				5,
+				"에",
+				"JKB",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				6,
+				"는",
+				"JX",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				7,
+				"이",
+				"JKS",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				8,
+				"이나",
+				"JC",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				9,
+				"을",
+				"JKO",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				10,
+				"는",
+				"JX",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				11,
+				"에",
+				"JKB",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				12,
+				"의",
+				"JKG",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				13,
+				"을",
+				"JKO",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				14,
+				"가",
+				"JKS",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				15,
+				"을",
+				"JKO",
+				"남을 무시하게 되면 언젠간 그 죄의 무게는 자신에게 돌아올것이라고 알게 되었고 앞으로 더욱더 남을 배려하고 존경하면서 살 것을 맹세했습니다."
+			],
+			[
+				16,
+				"ㄴ",
+				"JX",
+				"남을 무시하게 되면 언젠간 그 죄의 무게는 자신에게 돌아올것이라고 알게 되었고 앞으로 더욱더 남을 배려하고 존경하면서 살 것을 맹세했습니다."
+			],
+			[
+				17,
+				"의",
+				"JKG",
+				"남을 무시하게 되면 언젠간 그 죄의 무게는 자신에게 돌아올것이라고 알게 되었고 앞으로 더욱더 남을 배려하고 존경하면서 살 것을 맹세했습니다."
+			],
+			[
+				18,
+				"는",
+				"JX",
+				"남을 무시하게 되면 언젠간 그 죄의 무게는 자신에게 돌아올것이라고 알게 되었고 앞으로 더욱더 남을 배려하고 존경하면서 살 것을 맹세했습니다."
+			],
+			[
+				19,
+				"에게",
+				"JKB",
+				"남을 무시하게 되면 언젠간 그 죄의 무게는 자신에게 돌아올것이라고 알게 되었고 앞으로 더욱더 남을 배려하고 존경하면서 살 것을 맹세했습니다."
+			],
+			[
+				20,
+				"으로",
+				"JKB",
+				"남을 무시하게 되면 언젠간 그 죄의 무게는 자신에게 돌아올것이라고 알게 되었고 앞으로 더욱더 남을 배려하고 존경하면서 살 것을 맹세했습니다."
+			],
+			[
+				21,
+				"을",
+				"JKO",
+				"남을 무시하게 되면 언젠간 그 죄의 무게는 자신에게 돌아올것이라고 알게 되었고 앞으로 더욱더 남을 배려하고 존경하면서 살 것을 맹세했습니다."
+			],
+			[
+				22,
+				"을",
+				"JKO",
+				"남을 무시하게 되면 언젠간 그 죄의 무게는 자신에게 돌아올것이라고 알게 되었고 앞으로 더욱더 남을 배려하고 존경하면서 살 것을 맹세했습니다."
+			]
+		],
+		"E_Lst": [
+			[
+				0,
+				"ㄴ",
+				"ETM",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				1,
+				"는",
+				"ETM",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				2,
+				"고",
+				"EC",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				3,
+				"지",
+				"EC",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				4,
+				"았",
+				"EP",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				5,
+				"던",
+				"ETM",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				6,
+				"ㄴ",
+				"ETM",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				7,
+				"던",
+				"ETM",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				8,
+				"지",
+				"EC",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				9,
+				"다고",
+				"EC",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				10,
+				"기",
+				"ETN",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				11,
+				"거나",
+				"EC",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				12,
+				"는",
+				"ETM",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				13,
+				"었",
+				"EP",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				14,
+				"습니다",
+				"EF",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			],
+			[
+				15,
+				"게",
+				"EC",
+				"남을 무시하게 되면 언젠간 그 죄의 무게는 자신에게 돌아올것이라고 알게 되었고 앞으로 더욱더 남을 배려하고 존경하면서 살 것을 맹세했습니다."
+			],
+			[
+				16,
+				"면",
+				"EC",
+				"남을 무시하게 되면 언젠간 그 죄의 무게는 자신에게 돌아올것이라고 알게 되었고 앞으로 더욱더 남을 배려하고 존경하면서 살 것을 맹세했습니다."
+			],
+			[
+				17,
+				"ㄹ",
+				"ETM",
+				"남을 무시하게 되면 언젠간 그 죄의 무게는 자신에게 돌아올것이라고 알게 되었고 앞으로 더욱더 남을 배려하고 존경하면서 살 것을 맹세했습니다."
+			],
+			[
+				18,
+				"라고",
+				"EC",
+				"남을 무시하게 되면 언젠간 그 죄의 무게는 자신에게 돌아올것이라고 알게 되었고 앞으로 더욱더 남을 배려하고 존경하면서 살 것을 맹세했습니다."
+			],
+			[
+				19,
+				"게",
+				"EC",
+				"남을 무시하게 되면 언젠간 그 죄의 무게는 자신에게 돌아올것이라고 알게 되었고 앞으로 더욱더 남을 배려하고 존경하면서 살 것을 맹세했습니다."
+			],
+			[
+				20,
+				"었",
+				"EP",
+				"남을 무시하게 되면 언젠간 그 죄의 무게는 자신에게 돌아올것이라고 알게 되었고 앞으로 더욱더 남을 배려하고 존경하면서 살 것을 맹세했습니다."
+			],
+			[
+				21,
+				"고",
+				"EC",
+				"남을 무시하게 되면 언젠간 그 죄의 무게는 자신에게 돌아올것이라고 알게 되었고 앞으로 더욱더 남을 배려하고 존경하면서 살 것을 맹세했습니다."
+			],
+			[
+				22,
+				"고",
+				"EC",
+				"남을 무시하게 되면 언젠간 그 죄의 무게는 자신에게 돌아올것이라고 알게 되었고 앞으로 더욱더 남을 배려하고 존경하면서 살 것을 맹세했습니다."
+			],
+			[
+				23,
+				"면서",
+				"EC",
+				"남을 무시하게 되면 언젠간 그 죄의 무게는 자신에게 돌아올것이라고 알게 되었고 앞으로 더욱더 남을 배려하고 존경하면서 살 것을 맹세했습니다."
+			],
+			[
+				24,
+				"ㄹ",
+				"ETM",
+				"남을 무시하게 되면 언젠간 그 죄의 무게는 자신에게 돌아올것이라고 알게 되었고 앞으로 더욱더 남을 배려하고 존경하면서 살 것을 맹세했습니다."
+			],
+			[
+				25,
+				"았",
+				"EP",
+				"남을 무시하게 되면 언젠간 그 죄의 무게는 자신에게 돌아올것이라고 알게 되었고 앞으로 더욱더 남을 배려하고 존경하면서 살 것을 맹세했습니다."
+			],
+			[
+				26,
+				"습니다",
+				"EF",
+				"남을 무시하게 되면 언젠간 그 죄의 무게는 자신에게 돌아올것이라고 알게 되었고 앞으로 더욱더 남을 배려하고 존경하면서 살 것을 맹세했습니다."
+			]
+		],
+		"X_Lst": [
+			[
+				0,
+				"시",
+				"XSN",
+				"요즘 자신이나 또는 유명한 사람이 타인이 중시하는 것을 무시하고 배려하지 않았던 사례로 일단 저에 대한 사례는 상대방이 중요시 여기던 물건이나 생각 등을 저는 중요하지 않다고 생각하기에 함부로 사용하거나 상대방의 생각을 무시하는 경우가 있었습니다."
+			]
+		],
+		"IC_Lst": []
+	},
+	"NDW": {
+		"morph_NDW": 70,
+		"NL_NDW": 25,
+		"NNG_NDW": 19,
+		"NNP_NDW": 0,
+		"NNB_NDW": 4,
+		"NP_NDW": 2,
+		"NR_NDW": 0,
+		"VL_NDW": 23,
+		"VV_NDW": 17,
+		"VA_NDW": 3,
+		"ML_NDW": 5,
+		"MM_NDW": 0,
+		"IC_NDW": 0,
+		"J_NDW": 23,
+		"E_NDW": 27,
+		"X_NDW": 1,
+		"CL_NDW": 53,
+		"FL_NDW": 51
+	}
+}

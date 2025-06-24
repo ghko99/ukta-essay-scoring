@@ -1,0 +1,8322 @@
+﻿{
+	"morpheme": {
+		"sentences": [
+			{
+				"text": {
+					"content": "나의 꿈은 화가이다.",
+					"length": 11,
+					"beginOffset": 0
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "나의",
+							"length": 2,
+							"beginOffset": 0
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "나",
+									"length": 1,
+									"beginOffset": 0
+								},
+								"tag": "NP",
+								"probability": 0.98399043,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 1,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9998086,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "나",
+						"tagged": "나/NP+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "꿈은",
+							"beginOffset": 3,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "꿈",
+									"beginOffset": 3,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9827767,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 4,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9993781,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "꿈",
+						"tagged": "꿈/NNG+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "화가이다.",
+							"beginOffset": 6,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "화가",
+									"beginOffset": 6,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98082316,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 8,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.9999467,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 9,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9894327,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 10,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9996726,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "화가",
+						"tagged": "화가/NNG+이/VCP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "나의 꿈은 화가이다."
+			},
+			{
+				"text": {
+					"content": "어렸을 적 할머니댁에서 본 동양화를 보고 푹 빠졌었다.",
+					"beginOffset": 12,
+					"length": 30
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "어렸을",
+							"beginOffset": 12,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "어리",
+									"beginOffset": 12,
+									"length": 2
+								},
+								"tag": "VA",
+								"probability": 0.9653592,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 13,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9998835,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 14,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99995494,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "어리",
+						"tagged": "어리/VA+었/EP+을/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "적",
+							"beginOffset": 16,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "적",
+									"beginOffset": 16,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.7945463,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "적",
+						"tagged": "적/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "할머니댁에서",
+							"beginOffset": 18,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "할머니",
+									"beginOffset": 18,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.97930604,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "댁",
+									"beginOffset": 21,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.8955232,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에서",
+									"beginOffset": 22,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9925211,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "할머니",
+						"tagged": "할머니/NNG+댁/NNG+에서/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "본",
+							"beginOffset": 25,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "보",
+									"beginOffset": 25,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.96524835,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 25,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99998266,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "보",
+						"tagged": "보/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "동양화를",
+							"beginOffset": 27,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "동양화",
+									"beginOffset": 27,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.978977,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 30,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.999843,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "동양화",
+						"tagged": "동양화/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "보고",
+							"beginOffset": 32,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "보",
+									"beginOffset": 32,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.98109555,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 33,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9957031,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "보",
+						"tagged": "보/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "푹",
+							"beginOffset": 35,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "푹",
+									"beginOffset": 35,
+									"length": 1
+								},
+								"tag": "MAG",
+								"probability": 0.98670334,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "푹",
+						"tagged": "푹/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "빠졌었다.",
+							"beginOffset": 37,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "빠지",
+									"beginOffset": 37,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9826703,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었었",
+									"beginOffset": 38,
+									"length": 2
+								},
+								"tag": "EP",
+								"probability": 0.9999637,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 40,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9915681,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 41,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99973655,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "빠지",
+						"tagged": "빠지/VV+었었/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "어렸을 적 할머니댁에서 본 동양화를 보고 푹 빠졌었다."
+			},
+			{
+				"text": {
+					"content": "그 때 이후로 다양한 동양화에 대해 검색해보고 전시회를 다녀왔을 만큼 동양화에 관심이 많아 동양화를 그리는 화가가 되고 싶다.",
+					"beginOffset": 43,
+					"length": 70
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "그",
+							"beginOffset": 43,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그",
+									"beginOffset": 43,
+									"length": 1
+								},
+								"tag": "MMD",
+								"probability": 0.9995776,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그",
+						"tagged": "그/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "때",
+							"beginOffset": 45,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "때",
+									"beginOffset": 45,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.98298794,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "때",
+						"tagged": "때/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이후로",
+							"beginOffset": 47,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이후",
+									"beginOffset": 47,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.982854,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "로",
+									"beginOffset": 49,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99671626,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이후",
+						"tagged": "이후/NNG+로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "다양한",
+							"beginOffset": 51,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "다양하",
+									"beginOffset": 51,
+									"length": 3
+								},
+								"tag": "VA",
+								"probability": 0.0,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 53,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999851,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "다양하",
+						"tagged": "다양하/VA+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "동양화에",
+							"beginOffset": 55,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "동양화",
+									"beginOffset": 55,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.98213947,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 58,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99793655,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "동양화",
+						"tagged": "동양화/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "대해",
+							"beginOffset": 60,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "대하",
+									"beginOffset": 60,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9898692,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 61,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9882633,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "대하",
+						"tagged": "대하/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "검색해",
+							"beginOffset": 63,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "검색하",
+									"beginOffset": 63,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 65,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99331605,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "검색하",
+						"tagged": "검색하/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "보고",
+							"beginOffset": 66,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "보",
+									"beginOffset": 66,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.96316344,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 67,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9892894,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "보",
+						"tagged": "보/VX+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "전시회를",
+							"beginOffset": 69,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "전시회",
+									"beginOffset": 69,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9820918,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 72,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999589,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "전시회",
+						"tagged": "전시회/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "다녀왔을",
+							"beginOffset": 74,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "다녀오",
+									"beginOffset": 74,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.9858038,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 76,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9997947,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 77,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999807,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "다녀오",
+						"tagged": "다녀오/VV+았/EP+을/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "만큼",
+							"beginOffset": 79,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "만큼",
+									"beginOffset": 79,
+									"length": 2
+								},
+								"tag": "NNB",
+								"probability": 0.97074187,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "만큼",
+						"tagged": "만큼/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "동양화에",
+							"beginOffset": 82,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "동양화",
+									"beginOffset": 82,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.98396534,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 85,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99373406,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "동양화",
+						"tagged": "동양화/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "관심이",
+							"beginOffset": 87,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "관심",
+									"beginOffset": 87,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9845119,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 89,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.96348345,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "관심",
+						"tagged": "관심/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "많아",
+							"beginOffset": 91,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "많",
+									"beginOffset": 91,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.98426414,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 92,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9006148,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "많",
+						"tagged": "많/VA+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "동양화를",
+							"beginOffset": 94,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "동양화",
+									"beginOffset": 94,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.98235947,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 97,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99985313,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "동양화",
+						"tagged": "동양화/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "그리는",
+							"beginOffset": 99,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그리",
+									"beginOffset": 99,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9896901,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 101,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999804,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그리",
+						"tagged": "그리/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "화가가",
+							"beginOffset": 103,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "화가",
+									"beginOffset": 103,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9823045,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 105,
+									"length": 1
+								},
+								"tag": "JKC",
+								"probability": 0.982998,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "화가",
+						"tagged": "화가/NNG+가/JKC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "되고",
+							"beginOffset": 107,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "되",
+									"beginOffset": 107,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.986608,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 108,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99417514,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "되",
+						"tagged": "되/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "싶다.",
+							"beginOffset": 110,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "싶",
+									"beginOffset": 110,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.9751419,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 111,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.99186313,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 112,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99982804,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "싶",
+						"tagged": "싶/VX+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "그 때 이후로 다양한 동양화에 대해 검색해 보고 전시회를 다녀왔을 만큼 동양화에 관심이 많아 동양화를 그리는 화가가 되고 싶다."
+			},
+			{
+				"text": {
+					"content": "무엇보다도 학교에서 미술시간의 교과서에는 서양화 위주가 많아서 아쉬웠다.",
+					"beginOffset": 114,
+					"length": 40
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "무엇보다도",
+							"beginOffset": 114,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "무엇",
+									"beginOffset": 114,
+									"length": 2
+								},
+								"tag": "NP",
+								"probability": 0.9877363,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "보다",
+									"beginOffset": 116,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9906362,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 118,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9983512,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "무엇",
+						"tagged": "무엇/NP+보다/JKB+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "학교에서",
+							"beginOffset": 120,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "학교",
+									"beginOffset": 120,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9808231,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에서",
+									"beginOffset": 122,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9733883,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "학교",
+						"tagged": "학교/NNG+에서/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "미술시간의",
+							"beginOffset": 125,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "미술",
+									"beginOffset": 125,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98347837,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "시간",
+									"beginOffset": 127,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97859186,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 129,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99893373,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "미술",
+						"tagged": "미술/NNG+시간/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "교과서에는",
+							"beginOffset": 131,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "교과서",
+									"beginOffset": 131,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9804351,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 134,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99656045,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 135,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9994438,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "교과서",
+						"tagged": "교과서/NNG+에/JKB+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "서양화",
+							"beginOffset": 137,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "서양화",
+									"beginOffset": 137,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.98011726,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "서양화",
+						"tagged": "서양화/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "위주가",
+							"beginOffset": 141,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "위주",
+									"beginOffset": 141,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9849197,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 143,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.96167034,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "위주",
+						"tagged": "위주/NNG+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "많아서",
+							"beginOffset": 145,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "많",
+									"beginOffset": 145,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.98680675,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아서",
+									"beginOffset": 146,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99462885,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "많",
+						"tagged": "많/VA+아서/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "아쉬웠다.",
+							"beginOffset": 149,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "아쉽",
+									"beginOffset": 149,
+									"length": 2
+								},
+								"tag": "VA",
+								"probability": 0.9883146,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 151,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99996245,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 152,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9923393,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 153,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9997245,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "아쉽",
+						"tagged": "아쉽/VA+었/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "무엇보다도 학교에서 미술시간의 교과서에는 서양화 위주가 많아서 아쉬웠다."
+			},
+			{
+				"text": {
+					"content": "하지만 지금 동양화과에 가기 위해서 학원에 다니며 실기 시험을 준비하고 있는데 다른 친구들이 그린 그림이나 동양화과 선배들이 그린 그림을 보며 그림 기술을 배우고 있다.",
+					"beginOffset": 155,
+					"length": 94
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "하지만",
+							"beginOffset": 155,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하지만",
+									"beginOffset": 155,
+									"length": 3
+								},
+								"tag": "MAJ",
+								"probability": 0.9989048,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하지만",
+						"tagged": "하지만/MAJ",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "지금",
+							"beginOffset": 159,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "지금",
+									"beginOffset": 159,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9894132,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "지금",
+						"tagged": "지금/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "동양화과에",
+							"beginOffset": 162,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "동양화과",
+									"beginOffset": 162,
+									"length": 4
+								},
+								"tag": "NNP",
+								"probability": 0.64404845,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 166,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99192125,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "동양화과",
+						"tagged": "동양화과/NNP+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "가기",
+							"beginOffset": 168,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 168,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.97700524,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "기",
+									"beginOffset": 169,
+									"length": 1
+								},
+								"tag": "ETN",
+								"probability": 0.99740744,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "가",
+						"tagged": "가/VV+기/ETN",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "위해서",
+							"beginOffset": 171,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "위하",
+									"beginOffset": 171,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9895363,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아서",
+									"beginOffset": 172,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99632037,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "위하",
+						"tagged": "위하/VV+아서/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "학원에",
+							"beginOffset": 175,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "학원",
+									"beginOffset": 175,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.981353,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 177,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99437344,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "학원",
+						"tagged": "학원/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "다니며",
+							"beginOffset": 179,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "다니",
+									"beginOffset": 179,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9906535,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "며",
+									"beginOffset": 181,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99391586,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "다니",
+						"tagged": "다니/VV+며/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "실기",
+							"beginOffset": 183,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "실기",
+									"beginOffset": 183,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98612285,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "실기",
+						"tagged": "실기/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "시험을",
+							"beginOffset": 186,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "시험",
+									"beginOffset": 186,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98425955,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 188,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999746,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "시험",
+						"tagged": "시험/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "준비하고",
+							"beginOffset": 190,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "준비하",
+									"beginOffset": 190,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 193,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99440485,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "준비하",
+						"tagged": "준비하/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있는데",
+							"beginOffset": 195,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 195,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.95553154,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는데",
+									"beginOffset": 196,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9943543,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VX+는데/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "다른",
+							"beginOffset": 199,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "다른",
+									"beginOffset": 199,
+									"length": 2
+								},
+								"tag": "MMD",
+								"probability": 0.9995524,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "다른",
+						"tagged": "다른/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "친구들이",
+							"beginOffset": 202,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "친구",
+									"beginOffset": 202,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9839875,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "들",
+									"beginOffset": 204,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.99311537,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 205,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.98769325,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "친구",
+						"tagged": "친구/NNG+들/XSN+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "그린",
+							"beginOffset": 207,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그리",
+									"beginOffset": 207,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.98967063,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 208,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999861,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그리",
+						"tagged": "그리/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "그림이나",
+							"beginOffset": 210,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그림",
+									"beginOffset": 210,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97465724,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이나",
+									"beginOffset": 212,
+									"length": 2
+								},
+								"tag": "JC",
+								"probability": 0.9924019,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그림",
+						"tagged": "그림/NNG+이나/JC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "동양화과",
+							"beginOffset": 215,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "동양화과",
+									"beginOffset": 215,
+									"length": 4
+								},
+								"tag": "NNP",
+								"probability": 0.63103735,
+								"outOfVocab": "OUT_OF_VOCAB"
+							}
+						],
+						"lemma": "동양화과",
+						"tagged": "동양화과/NNP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "선배들이",
+							"beginOffset": 220,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "선배",
+									"beginOffset": 220,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9814013,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "들",
+									"beginOffset": 222,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.9927241,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 223,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9928705,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "선배",
+						"tagged": "선배/NNG+들/XSN+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "그린",
+							"beginOffset": 225,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그리",
+									"beginOffset": 225,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9864847,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 226,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99996763,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그리",
+						"tagged": "그리/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "그림을",
+							"beginOffset": 228,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그림",
+									"beginOffset": 228,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.96073645,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 230,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9997683,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그림",
+						"tagged": "그림/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "보며",
+							"beginOffset": 232,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "보",
+									"beginOffset": 232,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9843957,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "며",
+									"beginOffset": 233,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9937344,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "보",
+						"tagged": "보/VV+며/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "그림",
+							"beginOffset": 235,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그림",
+									"beginOffset": 235,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9760944,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그림",
+						"tagged": "그림/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "기술을",
+							"beginOffset": 238,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "기술",
+									"beginOffset": 238,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98229957,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 240,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999865,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "기술",
+						"tagged": "기술/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "배우고",
+							"beginOffset": 242,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "배우",
+									"beginOffset": 242,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9874787,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 244,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99189943,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "배우",
+						"tagged": "배우/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있다.",
+							"beginOffset": 246,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 246,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.97232646,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 247,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9934836,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 248,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9995976,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VX+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "하지만 지금 동양화과에 가기 위해서 학원에 다니며 실기 시험을 준비하고 있는데 다른 친구들이 그린 그림이나 동양화과 선배들이 그린 그림을 보며 그림 기술을 배우고 있다."
+			},
+			{
+				"text": {
+					"content": "동양화과에 가기 위해서 실기 시험도 중요하지만 내신이 부족하기 때문에 이번 겨울 방학 때 시간을 잘 배분하여 공부 시간을 더욱 확보할 예정이다.",
+					"beginOffset": 250,
+					"length": 80
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "동양화과에",
+							"beginOffset": 250,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "동양화과",
+									"beginOffset": 250,
+									"length": 4
+								},
+								"tag": "NNP",
+								"probability": 0.39261606,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 254,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99473757,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "동양화과",
+						"tagged": "동양화과/NNP+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "가기",
+							"beginOffset": 256,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 256,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9680222,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "기",
+									"beginOffset": 257,
+									"length": 1
+								},
+								"tag": "ETN",
+								"probability": 0.99948645,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "가",
+						"tagged": "가/VV+기/ETN",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "위해서",
+							"beginOffset": 259,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "위하",
+									"beginOffset": 259,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.99087656,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아서",
+									"beginOffset": 260,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9944673,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "위하",
+						"tagged": "위하/VV+아서/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "실기",
+							"beginOffset": 263,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "실기",
+									"beginOffset": 263,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9846526,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "실기",
+						"tagged": "실기/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "시험도",
+							"beginOffset": 266,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "시험",
+									"beginOffset": 266,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98603743,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 268,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9995447,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "시험",
+						"tagged": "시험/NNG+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "중요하지만",
+							"beginOffset": 270,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "중요하",
+									"beginOffset": 270,
+									"length": 3
+								},
+								"tag": "VA",
+								"probability": 0.0,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "지만",
+									"beginOffset": 273,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9944106,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "중요하",
+						"tagged": "중요하/VA+지만/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "내신이",
+							"beginOffset": 276,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "내신",
+									"beginOffset": 276,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9820134,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 278,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9767493,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "내신",
+						"tagged": "내신/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "부족하기",
+							"beginOffset": 280,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "부족하",
+									"beginOffset": 280,
+									"length": 3
+								},
+								"tag": "VA",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "기",
+									"beginOffset": 283,
+									"length": 1
+								},
+								"tag": "ETN",
+								"probability": 0.9994477,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "부족하",
+						"tagged": "부족하/VA+기/ETN",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "때문에",
+							"beginOffset": 285,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "때문",
+									"beginOffset": 285,
+									"length": 2
+								},
+								"tag": "NNB",
+								"probability": 0.9705257,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 287,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9966938,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "때문",
+						"tagged": "때문/NNB+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이번",
+							"beginOffset": 289,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이번",
+									"beginOffset": 289,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9841136,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이번",
+						"tagged": "이번/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "겨울",
+							"beginOffset": 292,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "겨울",
+									"beginOffset": 292,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9846188,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "겨울",
+						"tagged": "겨울/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "방학",
+							"beginOffset": 295,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "방학",
+									"beginOffset": 295,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98587775,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "방학",
+						"tagged": "방학/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "때",
+							"beginOffset": 298,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "때",
+									"beginOffset": 298,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9856636,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "때",
+						"tagged": "때/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "시간을",
+							"beginOffset": 300,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "시간",
+									"beginOffset": 300,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9754715,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 302,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9998174,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "시간",
+						"tagged": "시간/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "잘",
+							"beginOffset": 304,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "잘",
+									"beginOffset": 304,
+									"length": 1
+								},
+								"tag": "MAG",
+								"probability": 0.98993814,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "잘",
+						"tagged": "잘/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "배분하여",
+							"beginOffset": 306,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "배분하",
+									"beginOffset": 306,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 309,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9897662,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "배분하",
+						"tagged": "배분하/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "공부",
+							"beginOffset": 311,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "공부",
+									"beginOffset": 311,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9820654,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "공부",
+						"tagged": "공부/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "시간을",
+							"beginOffset": 314,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "시간",
+									"beginOffset": 314,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98287815,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 316,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99995583,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "시간",
+						"tagged": "시간/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "더욱",
+							"beginOffset": 318,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "더욱",
+									"beginOffset": 318,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9902194,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "더욱",
+						"tagged": "더욱/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "확보할",
+							"beginOffset": 321,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "확보하",
+									"beginOffset": 321,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄹ",
+									"beginOffset": 323,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99996114,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "확보하",
+						"tagged": "확보하/VV+ㄹ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "예정이다.",
+							"beginOffset": 325,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "예정",
+									"beginOffset": 325,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98554236,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 327,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.9998947,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 328,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9916354,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 329,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9995715,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "예정",
+						"tagged": "예정/NNG+이/VCP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "동양화과에 가기 위해서 실기 시험도 중요하지만 내신이 부족하기 때문에 이번 겨울 방학 때 시간을 잘 배분하여 공부 시간을 더욱 확보할 예정이다."
+			},
+			{
+				"text": {
+					"content": "최근 봤던 그림 중에 운파 윤태유화백의 \"일출 황금소나무\"그림이 가장 인상 깊었다.",
+					"beginOffset": 331,
+					"length": 46
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "최근",
+							"beginOffset": 331,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "최근",
+									"beginOffset": 331,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9834805,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "최근",
+						"tagged": "최근/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "봤던",
+							"beginOffset": 334,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "보",
+									"beginOffset": 334,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.97397774,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 334,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9999708,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "던",
+									"beginOffset": 335,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999551,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "보",
+						"tagged": "보/VV+았/EP+던/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "그림",
+							"beginOffset": 337,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그림",
+									"beginOffset": 337,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.982295,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그림",
+						"tagged": "그림/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "중에",
+							"beginOffset": 340,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "중",
+									"beginOffset": 340,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.97297907,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 341,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99628514,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "중",
+						"tagged": "중/NNB+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "운파",
+							"beginOffset": 343,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "운파",
+									"beginOffset": 343,
+									"length": 2
+								},
+								"tag": "NNP",
+								"probability": 0.9259746,
+								"outOfVocab": "OUT_OF_VOCAB"
+							}
+						],
+						"lemma": "운파",
+						"tagged": "운파/NNP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "윤태유화백의",
+							"beginOffset": 346,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "윤태유",
+									"beginOffset": 346,
+									"length": 3
+								},
+								"tag": "NNP",
+								"probability": 0.87957627,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "화백",
+									"beginOffset": 349,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98248416,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 351,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.999582,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "윤태유",
+						"tagged": "윤태유/NNP+화백/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "\"일출",
+							"beginOffset": 353,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "\"",
+									"beginOffset": 353,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.99988407,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "일출",
+									"beginOffset": 354,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9636225,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "\"",
+						"tagged": "\"/SS+일출/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "황금소나무\"그림이",
+							"beginOffset": 357,
+							"length": 9
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "황금",
+									"beginOffset": 357,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98371357,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "소나무",
+									"beginOffset": 359,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9788671,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "\"",
+									"beginOffset": 362,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.99983877,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "그림",
+									"beginOffset": 363,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98379105,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 365,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9955607,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "황금",
+						"tagged": "황금/NNG+소나무/NNG+\"/SS+그림/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "가장",
+							"beginOffset": 367,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "가장",
+									"beginOffset": 367,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9925298,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "가장",
+						"tagged": "가장/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "인상",
+							"beginOffset": 370,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "인상",
+									"beginOffset": 370,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98310715,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "인상",
+						"tagged": "인상/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "깊었다.",
+							"beginOffset": 373,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "깊",
+									"beginOffset": 373,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9889248,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 374,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.999919,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 375,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.990361,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 376,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9997064,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "깊",
+						"tagged": "깊/VA+었/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "최근 봤던 그림 중에 운파 윤태유화백의 \"일출 황금소나무\"그림이 가장 인상 깊었다."
+			},
+			{
+				"text": {
+					"content": "소나무의 나무 질감을 실제의 나무 질감과 비슷하게 표현한 것과 소나무 나뭇잎의 줄기 하나하나 세심하게 그린 모습이 너무 인상깊었다.",
+					"beginOffset": 378,
+					"length": 73
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "소나무의",
+							"beginOffset": 378,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "소나무",
+									"beginOffset": 378,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.97981447,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 381,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99951947,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "소나무",
+						"tagged": "소나무/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "나무",
+							"beginOffset": 383,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "나무",
+									"beginOffset": 383,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98253685,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "나무",
+						"tagged": "나무/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "질감을",
+							"beginOffset": 386,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "질감",
+									"beginOffset": 386,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.981338,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 388,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999697,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "질감",
+						"tagged": "질감/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "실제의",
+							"beginOffset": 390,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "실제",
+									"beginOffset": 390,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98181957,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 392,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9990618,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "실제",
+						"tagged": "실제/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "나무",
+							"beginOffset": 394,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "나무",
+									"beginOffset": 394,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9817799,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "나무",
+						"tagged": "나무/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "질감과",
+							"beginOffset": 397,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "질감",
+									"beginOffset": 397,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98317045,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "과",
+									"beginOffset": 399,
+									"length": 1
+								},
+								"tag": "JC",
+								"probability": 0.56116,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "질감",
+						"tagged": "질감/NNG+과/JC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "비슷하게",
+							"beginOffset": 401,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "비슷하",
+									"beginOffset": 401,
+									"length": 3
+								},
+								"tag": "VA",
+								"probability": 0.9839498,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "게",
+									"beginOffset": 404,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9945347,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "비슷하",
+						"tagged": "비슷하/VA+게/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "표현한",
+							"beginOffset": 406,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "표현하",
+									"beginOffset": 406,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 408,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999764,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "표현하",
+						"tagged": "표현하/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "것과",
+							"beginOffset": 410,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "것",
+									"beginOffset": 410,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9796959,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "과",
+									"beginOffset": 411,
+									"length": 1
+								},
+								"tag": "JC",
+								"probability": 0.8899976,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "것",
+						"tagged": "것/NNB+과/JC",
+						"modified": "것과"
+					},
+					{
+						"text": {
+							"content": "소나무",
+							"beginOffset": 413,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "소나무",
+									"beginOffset": 413,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9792356,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "소나무",
+						"tagged": "소나무/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "나뭇잎의",
+							"beginOffset": 417,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "나뭇잎",
+									"beginOffset": 417,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.98131806,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 420,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99938273,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "나뭇잎",
+						"tagged": "나뭇잎/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "줄기",
+							"beginOffset": 422,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "줄기",
+									"beginOffset": 422,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9813074,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "줄기",
+						"tagged": "줄기/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "하나하나",
+							"beginOffset": 425,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하나하나",
+									"beginOffset": 425,
+									"length": 4
+								},
+								"tag": "MAG",
+								"probability": 0.9921667,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하나하나",
+						"tagged": "하나하나/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "세심하게",
+							"beginOffset": 430,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "세심하",
+									"beginOffset": 430,
+									"length": 3
+								},
+								"tag": "VA",
+								"probability": 0.9747565,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "게",
+									"beginOffset": 433,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9937292,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "세심하",
+						"tagged": "세심하/VA+게/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "그린",
+							"beginOffset": 435,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그리",
+									"beginOffset": 435,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.99067837,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 436,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99999154,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그리",
+						"tagged": "그리/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "모습이",
+							"beginOffset": 438,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "모습",
+									"beginOffset": 438,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9834227,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 440,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.97075385,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "모습",
+						"tagged": "모습/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "너무",
+							"beginOffset": 442,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "너무",
+									"beginOffset": 442,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9894463,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "너무",
+						"tagged": "너무/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "인상깊었다.",
+							"beginOffset": 445,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "인상",
+									"beginOffset": 445,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98497325,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "깊",
+									"beginOffset": 447,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.98955625,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 448,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99991924,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 449,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.99061775,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 450,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9997755,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "인상",
+						"tagged": "인상/NNG+깊/VA+었/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "소나무의 나무 질감을 실제의 나무 질감과 비슷하게 표현한 것과 소나무 나뭇잎의 줄기 하나하나 세심하게 그린 모습이 너무 인상깊었다."
+			},
+			{
+				"text": {
+					"content": "그리고 소나무 뒤에 떠오르는 붉은 태양의 위치가 소나무와 잘 어우러짐과 동시에 배치 방법이 이렇게 중요하구나 깨닫게 되는 그림이었다.",
+					"beginOffset": 452,
+					"length": 74
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "그리고",
+							"beginOffset": 452,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그리고",
+									"beginOffset": 452,
+									"length": 3
+								},
+								"tag": "MAJ",
+								"probability": 0.9988206,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그리고",
+						"tagged": "그리고/MAJ",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "소나무",
+							"beginOffset": 456,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "소나무",
+									"beginOffset": 456,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.98100233,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "소나무",
+						"tagged": "소나무/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "뒤에",
+							"beginOffset": 460,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "뒤",
+									"beginOffset": 460,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9809682,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 461,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99505085,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "뒤",
+						"tagged": "뒤/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "떠오르는",
+							"beginOffset": 463,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "떠오르",
+									"beginOffset": 463,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.9895831,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 466,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999861,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "떠오르",
+						"tagged": "떠오르/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "붉은",
+							"beginOffset": 468,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "붉",
+									"beginOffset": 468,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9862033,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 469,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999582,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "붉",
+						"tagged": "붉/VA+은/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "태양의",
+							"beginOffset": 471,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "태양",
+									"beginOffset": 471,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9819578,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 473,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99941975,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "태양",
+						"tagged": "태양/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "위치가",
+							"beginOffset": 475,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "위치",
+									"beginOffset": 475,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9792754,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 477,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.97176427,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "위치",
+						"tagged": "위치/NNG+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "소나무와",
+							"beginOffset": 479,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "소나무",
+									"beginOffset": 479,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9822121,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "와",
+									"beginOffset": 482,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.80300856,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "소나무",
+						"tagged": "소나무/NNG+와/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "잘",
+							"beginOffset": 484,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "잘",
+									"beginOffset": 484,
+									"length": 1
+								},
+								"tag": "MAG",
+								"probability": 0.99031365,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "잘",
+						"tagged": "잘/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "어우러짐과",
+							"beginOffset": 486,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "어우러지",
+									"beginOffset": 486,
+									"length": 4
+								},
+								"tag": "VV",
+								"probability": 0.9889817,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㅁ",
+									"beginOffset": 489,
+									"length": 1
+								},
+								"tag": "ETN",
+								"probability": 0.9998804,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "과",
+									"beginOffset": 490,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.87130874,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "어우러지",
+						"tagged": "어우러지/VV+ㅁ/ETN+과/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "동시에",
+							"beginOffset": 492,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "동시",
+									"beginOffset": 492,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9844221,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 494,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9664569,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "동시",
+						"tagged": "동시/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "배치",
+							"beginOffset": 496,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "배치",
+									"beginOffset": 496,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.981271,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "배치",
+						"tagged": "배치/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "방법이",
+							"beginOffset": 499,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "방법",
+									"beginOffset": 499,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98206687,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 501,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9839442,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "방법",
+						"tagged": "방법/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이렇게",
+							"beginOffset": 503,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이렇",
+									"beginOffset": 503,
+									"length": 2
+								},
+								"tag": "VA",
+								"probability": 0.9853,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "게",
+									"beginOffset": 505,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9955641,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이렇",
+						"tagged": "이렇/VA+게/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "중요하구나",
+							"beginOffset": 507,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "중요하",
+									"beginOffset": 507,
+									"length": 3
+								},
+								"tag": "VA",
+								"probability": 0.0,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "구나",
+									"beginOffset": 510,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.79900384,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "중요하",
+						"tagged": "중요하/VA+구나/EF",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "깨닫게",
+							"beginOffset": 513,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "깨닫",
+									"beginOffset": 513,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.99111724,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "게",
+									"beginOffset": 515,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9966952,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "깨닫",
+						"tagged": "깨닫/VV+게/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "되는",
+							"beginOffset": 517,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "되",
+									"beginOffset": 517,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9609566,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 518,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999641,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "되",
+						"tagged": "되/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "그림이었다.",
+							"beginOffset": 520,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그림",
+									"beginOffset": 520,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9828613,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 522,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.9999341,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 523,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99972814,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 524,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.99099445,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 525,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9992797,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그림",
+						"tagged": "그림/NNG+이/VCP+었/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "그리고 소나무 뒤에 떠오르는 붉은 태양의 위치가 소나무와 잘 어우러짐과 동시에 배치 방법이 이렇게 중요하구나 깨닫게 되는 그림이었다."
+			},
+			{
+				"text": {
+					"content": "나중에 동양화과에 가서 졸업을 한 후에 인기와 경력을 얻으면 나만의 동양화 전시회를 열어 세계적으로 유명한 동양화 화가가 되고 싶다.",
+					"beginOffset": 527,
+					"length": 74
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "나중에",
+							"beginOffset": 527,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "나중",
+									"beginOffset": 527,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9814581,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 529,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99576765,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "나중",
+						"tagged": "나중/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "동양화과에",
+							"beginOffset": 531,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "동양화과",
+									"beginOffset": 531,
+									"length": 4
+								},
+								"tag": "NNP",
+								"probability": 0.7320395,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 535,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9952026,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "동양화과",
+						"tagged": "동양화과/NNP+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "가서",
+							"beginOffset": 537,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 537,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.98656714,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아서",
+									"beginOffset": 537,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9945322,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "가",
+						"tagged": "가/VV+아서/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "졸업을",
+							"beginOffset": 540,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "졸업",
+									"beginOffset": 540,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98253417,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 542,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99992967,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "졸업",
+						"tagged": "졸업/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "한",
+							"beginOffset": 544,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 544,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9863471,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 544,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99998266,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "후에",
+							"beginOffset": 546,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "후",
+									"beginOffset": 546,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.979051,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 547,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9895556,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "후",
+						"tagged": "후/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "인기와",
+							"beginOffset": 549,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "인기",
+									"beginOffset": 549,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9825999,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "와",
+									"beginOffset": 551,
+									"length": 1
+								},
+								"tag": "JC",
+								"probability": 0.94589555,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "인기",
+						"tagged": "인기/NNG+와/JC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "경력을",
+							"beginOffset": 553,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "경력",
+									"beginOffset": 553,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9825329,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 555,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999317,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "경력",
+						"tagged": "경력/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "얻으면",
+							"beginOffset": 557,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "얻",
+									"beginOffset": 557,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.98800683,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으면",
+									"beginOffset": 558,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9935019,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "얻",
+						"tagged": "얻/VV+으면/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "나만의",
+							"beginOffset": 561,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "나",
+									"beginOffset": 561,
+									"length": 1
+								},
+								"tag": "NP",
+								"probability": 0.6555892,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "만",
+									"beginOffset": 562,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99754804,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 563,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99960285,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "나",
+						"tagged": "나/NP+만/JX+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "동양화",
+							"beginOffset": 565,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "동양화",
+									"beginOffset": 565,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.98392725,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "동양화",
+						"tagged": "동양화/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "전시회를",
+							"beginOffset": 569,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "전시회",
+									"beginOffset": 569,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.98389,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 572,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999671,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "전시회",
+						"tagged": "전시회/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "열어",
+							"beginOffset": 574,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "열",
+									"beginOffset": 574,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.98703986,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어",
+									"beginOffset": 575,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9910149,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "열",
+						"tagged": "열/VV+어/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "세계적으로",
+							"beginOffset": 577,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "세계",
+									"beginOffset": 577,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9815153,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "적",
+									"beginOffset": 579,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.9896092,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으로",
+									"beginOffset": 580,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9949766,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "세계",
+						"tagged": "세계/NNG+적/XSN+으로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "유명한",
+							"beginOffset": 583,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "유명하",
+									"beginOffset": 583,
+									"length": 3
+								},
+								"tag": "VA",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 585,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.999977,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "유명하",
+						"tagged": "유명하/VA+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "동양화",
+							"beginOffset": 587,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "동양화",
+									"beginOffset": 587,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.97833824,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "동양화",
+						"tagged": "동양화/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "화가가",
+							"beginOffset": 591,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "화가",
+									"beginOffset": 591,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98316056,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 593,
+									"length": 1
+								},
+								"tag": "JKC",
+								"probability": 0.9844495,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "화가",
+						"tagged": "화가/NNG+가/JKC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "되고",
+							"beginOffset": 595,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "되",
+									"beginOffset": 595,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9868653,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 596,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99262786,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "되",
+						"tagged": "되/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "싶다.",
+							"beginOffset": 598,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "싶",
+									"beginOffset": 598,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.97551227,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 599,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9915364,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 600,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99979055,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "싶",
+						"tagged": "싶/VX+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "나중에 동양화과에 가서 졸업을 한 후에 인기와 경력을 얻으면 나만의 동양화 전시회를 열어 세계적으로 유명한 동양화 화가가 되고 싶다."
+			}
+		],
+		"language": "ko_KR"
+	},
+	"ttr": {
+		"lemma_Cnt": 284,
+		"lemma_TTR": 0.49324324324324326,
+		"CL_TTR": 0.6858974358974359,
+		"NL_TTR": 0.6813186813186813,
+		"NN_TTR": 0.6818181818181818,
+		"NNG_TTR": 0.6753246753246753,
+		"NNP_TTR": 0.5,
+		"NNB_TTR": 1.0,
+		"NP_TTR": 0.6666666666666666,
+		"NR_TTR": 0,
+		"VL_TTR": 0.6545454545454545,
+		"VV_TTR": 0.65625,
+		"VA_TTR": 0.8,
+		"ML_TTR": 0.9,
+		"MM_TTR": 0,
+		"MA_TTR": 0.9,
+		"MAJ_TTR": 1.0,
+		"IC_TTR": 0,
+		"FL_TTR": 0.30158730158730157,
+		"J_TTR": 0.2833333333333333,
+		"E_TTR": 0.3492063492063492,
+		"X_TTR": 0.6666666666666666,
+		"lemma_RTTR": 8.486077628298808,
+		"CL_RTTR": 8.566856228572162,
+		"NL_RTTR": 6.499365987675894,
+		"NN_RTTR": 6.396021490668312,
+		"NNG_RTTR": 5.925949975901173,
+		"NNP_RTTR": 1.2247448713915892,
+		"NNB_RTTR": 2.23606797749979,
+		"NP_RTTR": 1.1547005383792517,
+		"NR_RTTR": 0,
+		"VL_RTTR": 4.854239009735343,
+		"VV_RTTR": 3.7123106012293743,
+		"VA_RTTR": 3.0983866769659336,
+		"ML_RTTR": 2.846049894151541,
+		"MM_RTTR": 0,
+		"MA_RTTR": 2.846049894151541,
+		"MAJ_RTTR": 1.414213562373095,
+		"IC_RTTR": 0,
+		"FL_RTTR": 3.385309064224042,
+		"J_RTTR": 2.1946905628508695,
+		"E_RTTR": 2.771739468734333,
+		"X_RTTR": 1.1547005383792517,
+		"lemma_CTTR": 6.000563036645541,
+		"CL_CTTR": 6.057682132673587,
+		"NL_CTTR": 4.595745763298828,
+		"NN_CTTR": 4.522670168666455,
+		"NNG_CTTR": 4.190279412931978,
+		"NNP_CTTR": 0.8660254037844387,
+		"NNB_CTTR": 1.5811388300841895,
+		"NP_CTTR": 0.8164965809277261,
+		"NR_CTTR": 0,
+		"VL_CTTR": 3.4324653212841323,
+		"VV_CTTR": 2.625,
+		"VA_CTTR": 2.1908902300206643,
+		"ML_CTTR": 2.0124611797498106,
+		"MM_CTTR": 0,
+		"MA_CTTR": 2.0124611797498106,
+		"MAJ_CTTR": 1.0,
+		"IC_CTTR": 0,
+		"FL_CTTR": 2.3937749957251055,
+		"J_CTTR": 1.5518805795979707,
+		"E_CTTR": 1.9599157740244455,
+		"X_CTTR": 0.8164965809277261,
+		"lemma_MSTTR": 0.7759999999999999,
+		"CL_MSTTR": 0.86,
+		"NL_MSTTR": 0.72,
+		"NN_MSTTR": 0.72,
+		"NNG_MSTTR": 0.72,
+		"NNP_MSTTR": 0.5,
+		"NNB_MSTTR": 1.0,
+		"NP_MSTTR": 0.6666666666666666,
+		"NR_MSTTR": 0,
+		"VL_MSTTR": 0.66,
+		"VV_MSTTR": 0.65625,
+		"VA_MSTTR": 0.8,
+		"ML_MSTTR": 0.9,
+		"MM_MSTTR": 0,
+		"MA_MSTTR": 0.9,
+		"MAJ_MSTTR": 1.0,
+		"IC_MSTTR": 0,
+		"FL_MSTTR": 0.5,
+		"J_MSTTR": 0.3,
+		"E_MSTTR": 0.38,
+		"X_MSTTR": 0.6666666666666666,
+		"lemma_MATTR": 0.7735222672064775,
+		"CL_MATTR": 0.8168224299065415,
+		"NL_MATTR": 0.7457142857142858,
+		"NN_MATTR": 0.7430769230769232,
+		"NNG_MATTR": 0.7192857142857143,
+		"NNP_MATTR": 0.5,
+		"NNB_MATTR": 1.0,
+		"NP_MATTR": 0.6666666666666666,
+		"NR_MATTR": 0,
+		"VL_MATTR": 0.6833333333333332,
+		"VV_MATTR": 0.65625,
+		"VA_MATTR": 0.8,
+		"ML_MATTR": 0.9,
+		"MM_MATTR": 0,
+		"MA_MATTR": 0.9,
+		"MAJ_MATTR": 1.0,
+		"IC_MATTR": 0,
+		"FL_MATTR": 0.46363636363636396,
+		"J_MATTR": 0.2854545454545454,
+		"E_MATTR": 0.39714285714285713,
+		"X_MATTR": 0.6666666666666666,
+		"lemma_MTLD": 74.35922330097088,
+		"CL_MTLD": 99.77850808850611,
+		"NL_MTLD": 55.49563501554652,
+		"NN_MTLD": 51.455584663015,
+		"NNG_MTLD": 39.12096774193549,
+		"NNP_MTLD": 3.3600000000000003,
+		"NNB_MTLD": 0.0,
+		"NP_MTLD": 2.52,
+		"NR_MTLD": 0.0,
+		"VL_MTLD": 34.680047694753576,
+		"VV_MTLD": 23.98480531813865,
+		"VA_MTLD": 21.000000000000007,
+		"ML_MTLD": 28.000000000000007,
+		"MM_MTLD": 0.0,
+		"MA_MTLD": 28.000000000000007,
+		"MAJ_MTLD": 0.0,
+		"IC_MTLD": 0.0,
+		"FL_MTLD": 18.677115987460816,
+		"J_MTLD": 11.25,
+		"E_MTLD": 13.555354948907734,
+		"X_MTLD": 2.52,
+		"lemma_VOCDD": 80.09701565428385,
+		"CL_VOCDD": 123.26041265865824,
+		"NL_VOCDD": 65.50577784008429,
+		"NN_VOCDD": 62.097761507701314,
+		"NNG_VOCDD": 52.780822174754945,
+		"NNP_VOCDD": 0,
+		"NNB_VOCDD": 0,
+		"NP_VOCDD": 0,
+		"NR_VOCDD": 0,
+		"VL_VOCDD": 36.061618289197135,
+		"VV_VOCDD": 0,
+		"VA_VOCDD": 0,
+		"ML_VOCDD": 0,
+		"MM_VOCDD": 0,
+		"MA_VOCDD": 0,
+		"MAJ_VOCDD": 0,
+		"IC_VOCDD": 0,
+		"FL_VOCDD": 13.522700732222448,
+		"J_VOCDD": 3.890997691860971,
+		"E_VOCDD": 7.010259406900778,
+		"X_VOCDD": 0,
+		"lemma_HDD": 0.8227362301060879,
+		"CL_HDD": 0.8718180404195194,
+		"NL_HDD": 0.7950204717907876,
+		"NN_HDD": 0.7886424545690266,
+		"NNG_HDD": 0.7663253994544549,
+		"NNP_HDD": 0.0,
+		"NNB_HDD": 0.0,
+		"NP_HDD": 0.0,
+		"NR_HDD": 0.0,
+		"VL_HDD": 0.7081092089971114,
+		"VV_HDD": 0.0,
+		"VA_HDD": 0.0,
+		"ML_HDD": 0.0,
+		"MM_HDD": 0.0,
+		"MA_HDD": 0.0,
+		"MAJ_HDD": 0.0,
+		"IC_HDD": 0.0,
+		"FL_HDD": 0.5427354193063615,
+		"J_HDD": 0.3477182210410064,
+		"E_HDD": 0.43436214927770644,
+		"X_HDD": 0.0
+	},
+	"similarity": {
+		"avgSentSimilarity": 0.36639925837516785,
+		"topicConsistency": 0.5296
+	},
+	"adjacency": {
+		"adjacent_sentence_overlap_all_lemmas": 210,
+		"adjacent_sentence_overlap_all_lemmas_normed": 9,
+		"binary_adjacent_sentence_overlap_all_lemmas": 9,
+		"adjacent_two_sentence_overlap_all_lemmas": 158,
+		"adjacent_two_sentence_overlap_all_lemmas_normed": 8,
+		"binary_adjacent_two_sentence_overlap_all_lemmas": 8,
+		"adjacent_sentence_overlap_content_lemmas": 120,
+		"adjacent_sentence_overlap_content_lemmas_normed": 9,
+		"binary_adjacent_sentence_overlap_content_lemmas": 7,
+		"adjacent_two_sentence_overlap_content_lemmas": 100,
+		"adjacent_two_sentence_overlap_content_lemmas_normed": 8,
+		"binary_adjacent_two_sentence_overlap_content_lemmas": 4,
+		"adjacent_sentence_overlap_function_lemmas": 81,
+		"adjacent_sentence_overlap_function_lemmas_normed": 9,
+		"binary_adjacent_sentence_overlap_function_lemmas": 9,
+		"adjacent_two_sentence_overlap_function_lemmas": 50,
+		"adjacent_two_sentence_overlap_function_lemmas_normed": 8,
+		"binary_adjacent_two_sentence_overlap_function_lemmas": 8,
+		"adjacent_sentence_overlap_noun_lemmas": 83,
+		"adjacent_sentence_overlap_noun_lemmas_normed": 9,
+		"binary_adjacent_sentence_overlap_noun_lemmas": 4,
+		"adjacent_two_sentence_overlap_noun_lemmas": 75,
+		"adjacent_two_sentence_overlap_noun_lemmas_normed": 8,
+		"binary_adjacent_two_sentence_overlap_noun_lemmas": 2,
+		"adjacent_sentence_overlap_verb_lemmas": 33,
+		"adjacent_sentence_overlap_verb_lemmas_normed": 7,
+		"binary_adjacent_sentence_overlap_verb_lemmas": 6,
+		"adjacent_two_sentence_overlap_verb_lemmas": 21,
+		"adjacent_two_sentence_overlap_verb_lemmas_normed": 6,
+		"binary_adjacent_two_sentence_overlap_verb_lemmas": 3,
+		"adjacent_sentence_overlap_adjective_lemmas": 12,
+		"adjacent_sentence_overlap_adjective_lemmas_normed": 6,
+		"binary_adjacent_sentence_overlap_adjective_lemmas": 2,
+		"adjacent_two_sentence_overlap_adjective_lemmas": 9,
+		"adjacent_two_sentence_overlap_adjective_lemmas_normed": 4,
+		"binary_adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_sentence_overlap_adverb_lemmas": 6,
+		"adjacent_sentence_overlap_adverb_lemmas_normed": 4,
+		"binary_adjacent_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas": 4,
+		"adjacent_two_sentence_overlap_adverb_lemmas_normed": 3,
+		"binary_adjacent_two_sentence_overlap_adverb_lemmas": 0
+	},
+	"basic_count": {
+		"para_Cnt": 1,
+		"sentence_Cnt": 10,
+		"word_Cnt": 148,
+		"morph_Cnt": 296,
+		"char_Cnt": 478,
+		"CL_Cnt": 156,
+		"NL_Cnt": 91,
+		"NN_Cnt": 88,
+		"NNG_Cnt": 77,
+		"NNP_Cnt": 6,
+		"NNB_Cnt": 5,
+		"NP_Cnt": 3,
+		"NP_People_Cnt": 2,
+		"NP_Things_Cnt": 1,
+		"NR_Cnt": 0,
+		"VL_Cnt": 55,
+		"VV_Cnt": 32,
+		"VA_Cnt": 15,
+		"VX_Cnt": 5,
+		"VCP_Cnt": 3,
+		"VCN_Cnt": 0,
+		"ML_Cnt": 10,
+		"MA_Cnt": 0,
+		"MM_Cnt": 0,
+		"FL_Cnt": 126,
+		"J_Cnt": 60,
+		"E_Cnt": 63,
+		"X_Cnt": 3,
+		"IC_Cnt": 0
+	},
+	"basic_density": {
+		"CL_Den": 0.527027027027027,
+		"FL_Den": 0.42567567567567566,
+		"NL_Den": 0.2972972972972973,
+		"NNGL_Den": 0.26013513513513514,
+		"NNPL_Den": 0.02027027027027027,
+		"NNBL_Den": 0.016891891891891893,
+		"NPL_Den": 0.010135135135135136,
+		"NML_Den": 0.0,
+		"VL_Den": 0.1858108108108108,
+		"VVL_Den": 0.10810810810810811,
+		"VAL_Den": 0.05067567567567568,
+		"ML_Den": 0.033783783783783786,
+		"MML_Den": 0.0,
+		"MAL_Den": 0.0,
+		"JL_Den": 0.20270270270270271,
+		"EL_Den": 0.21283783783783783,
+		"XL_Den": 0.010135135135135136,
+		"ITL_Den": 0.0,
+		"NCL_Den": 0.5641025641025641,
+		"NNCL_Den": 0.4935897435897436,
+		"NNGCL_Den": 0.038461538461538464,
+		"NNBCL_Den": 0.03205128205128205,
+		"NPCL_Den": 0.019230769230769232,
+		"NMCL_Den": 0.0,
+		"VCL_Den": 0.3525641025641026,
+		"VVCL_Den": 0.20512820512820512,
+		"VACL_Den": 0.09615384615384616,
+		"MCL_Den": 0.0641025641025641,
+		"MMCL_Den": 0.0,
+		"MACL_Den": 0.0,
+		"INCL_Den": 0.0,
+		"JFL_Den": 0.47619047619047616,
+		"EFL_Den": 0.5,
+		"XFL_Den": 0.023809523809523808
+	},
+	"basic_level": {
+		"morph_LenAvg": 1.597972972972973,
+		"morph_LenStd": 0.7692546053929022,
+		"word_LenAvg": 2.9864864864864864,
+		"word_LenStd": 1.173965827156353
+	},
+	"basic_list": {
+		"NL_Lst": [
+			[
+				0,
+				"나",
+				"NP",
+				"나의 꿈은 화가이다."
+			],
+			[
+				1,
+				"꿈",
+				"NNG",
+				"나의 꿈은 화가이다."
+			],
+			[
+				2,
+				"화가",
+				"NNG",
+				"나의 꿈은 화가이다."
+			],
+			[
+				3,
+				"적",
+				"NNB",
+				"어렸을 적 할머니댁에서 본 동양화를 보고 푹 빠졌었다."
+			],
+			[
+				4,
+				"할머니",
+				"NNG",
+				"어렸을 적 할머니댁에서 본 동양화를 보고 푹 빠졌었다."
+			],
+			[
+				5,
+				"댁",
+				"NNG",
+				"어렸을 적 할머니댁에서 본 동양화를 보고 푹 빠졌었다."
+			],
+			[
+				6,
+				"동양화",
+				"NNG",
+				"어렸을 적 할머니댁에서 본 동양화를 보고 푹 빠졌었다."
+			],
+			[
+				7,
+				"때",
+				"NNG",
+				"그 때 이후로 다양한 동양화에 대해 검색해보고 전시회를 다녀왔을 만큼 동양화에 관심이 많아 동양화를 그리는 화가가 되고 싶다."
+			],
+			[
+				8,
+				"이후",
+				"NNG",
+				"그 때 이후로 다양한 동양화에 대해 검색해보고 전시회를 다녀왔을 만큼 동양화에 관심이 많아 동양화를 그리는 화가가 되고 싶다."
+			],
+			[
+				9,
+				"동양화",
+				"NNG",
+				"그 때 이후로 다양한 동양화에 대해 검색해보고 전시회를 다녀왔을 만큼 동양화에 관심이 많아 동양화를 그리는 화가가 되고 싶다."
+			],
+			[
+				10,
+				"전시회",
+				"NNG",
+				"그 때 이후로 다양한 동양화에 대해 검색해보고 전시회를 다녀왔을 만큼 동양화에 관심이 많아 동양화를 그리는 화가가 되고 싶다."
+			],
+			[
+				11,
+				"만큼",
+				"NNB",
+				"그 때 이후로 다양한 동양화에 대해 검색해보고 전시회를 다녀왔을 만큼 동양화에 관심이 많아 동양화를 그리는 화가가 되고 싶다."
+			],
+			[
+				12,
+				"동양화",
+				"NNG",
+				"그 때 이후로 다양한 동양화에 대해 검색해보고 전시회를 다녀왔을 만큼 동양화에 관심이 많아 동양화를 그리는 화가가 되고 싶다."
+			],
+			[
+				13,
+				"관심",
+				"NNG",
+				"그 때 이후로 다양한 동양화에 대해 검색해보고 전시회를 다녀왔을 만큼 동양화에 관심이 많아 동양화를 그리는 화가가 되고 싶다."
+			],
+			[
+				14,
+				"동양화",
+				"NNG",
+				"그 때 이후로 다양한 동양화에 대해 검색해보고 전시회를 다녀왔을 만큼 동양화에 관심이 많아 동양화를 그리는 화가가 되고 싶다."
+			],
+			[
+				15,
+				"화가",
+				"NNG",
+				"그 때 이후로 다양한 동양화에 대해 검색해보고 전시회를 다녀왔을 만큼 동양화에 관심이 많아 동양화를 그리는 화가가 되고 싶다."
+			],
+			[
+				16,
+				"무엇",
+				"NP",
+				"무엇보다도 학교에서 미술시간의 교과서에는 서양화 위주가 많아서 아쉬웠다."
+			],
+			[
+				17,
+				"학교",
+				"NNG",
+				"무엇보다도 학교에서 미술시간의 교과서에는 서양화 위주가 많아서 아쉬웠다."
+			],
+			[
+				18,
+				"미술",
+				"NNG",
+				"무엇보다도 학교에서 미술시간의 교과서에는 서양화 위주가 많아서 아쉬웠다."
+			],
+			[
+				19,
+				"시간",
+				"NNG",
+				"무엇보다도 학교에서 미술시간의 교과서에는 서양화 위주가 많아서 아쉬웠다."
+			],
+			[
+				20,
+				"교과서",
+				"NNG",
+				"무엇보다도 학교에서 미술시간의 교과서에는 서양화 위주가 많아서 아쉬웠다."
+			],
+			[
+				21,
+				"서양화",
+				"NNG",
+				"무엇보다도 학교에서 미술시간의 교과서에는 서양화 위주가 많아서 아쉬웠다."
+			],
+			[
+				22,
+				"위주",
+				"NNG",
+				"무엇보다도 학교에서 미술시간의 교과서에는 서양화 위주가 많아서 아쉬웠다."
+			],
+			[
+				23,
+				"동양화과",
+				"NNP",
+				"하지만 지금 동양화과에 가기 위해서 학원에 다니며 실기 시험을 준비하고 있는데 다른 친구들이 그린 그림이나 동양화과 선배들이 그린 그림을 보며 그림 기술을 배우고 있다."
+			],
+			[
+				24,
+				"학원",
+				"NNG",
+				"하지만 지금 동양화과에 가기 위해서 학원에 다니며 실기 시험을 준비하고 있는데 다른 친구들이 그린 그림이나 동양화과 선배들이 그린 그림을 보며 그림 기술을 배우고 있다."
+			],
+			[
+				25,
+				"실기",
+				"NNG",
+				"하지만 지금 동양화과에 가기 위해서 학원에 다니며 실기 시험을 준비하고 있는데 다른 친구들이 그린 그림이나 동양화과 선배들이 그린 그림을 보며 그림 기술을 배우고 있다."
+			],
+			[
+				26,
+				"시험",
+				"NNG",
+				"하지만 지금 동양화과에 가기 위해서 학원에 다니며 실기 시험을 준비하고 있는데 다른 친구들이 그린 그림이나 동양화과 선배들이 그린 그림을 보며 그림 기술을 배우고 있다."
+			],
+			[
+				27,
+				"친구",
+				"NNG",
+				"하지만 지금 동양화과에 가기 위해서 학원에 다니며 실기 시험을 준비하고 있는데 다른 친구들이 그린 그림이나 동양화과 선배들이 그린 그림을 보며 그림 기술을 배우고 있다."
+			],
+			[
+				28,
+				"그림",
+				"NNG",
+				"하지만 지금 동양화과에 가기 위해서 학원에 다니며 실기 시험을 준비하고 있는데 다른 친구들이 그린 그림이나 동양화과 선배들이 그린 그림을 보며 그림 기술을 배우고 있다."
+			],
+			[
+				29,
+				"동양화과",
+				"NNP",
+				"하지만 지금 동양화과에 가기 위해서 학원에 다니며 실기 시험을 준비하고 있는데 다른 친구들이 그린 그림이나 동양화과 선배들이 그린 그림을 보며 그림 기술을 배우고 있다."
+			],
+			[
+				30,
+				"선배",
+				"NNG",
+				"하지만 지금 동양화과에 가기 위해서 학원에 다니며 실기 시험을 준비하고 있는데 다른 친구들이 그린 그림이나 동양화과 선배들이 그린 그림을 보며 그림 기술을 배우고 있다."
+			],
+			[
+				31,
+				"그림",
+				"NNG",
+				"하지만 지금 동양화과에 가기 위해서 학원에 다니며 실기 시험을 준비하고 있는데 다른 친구들이 그린 그림이나 동양화과 선배들이 그린 그림을 보며 그림 기술을 배우고 있다."
+			],
+			[
+				32,
+				"그림",
+				"NNG",
+				"하지만 지금 동양화과에 가기 위해서 학원에 다니며 실기 시험을 준비하고 있는데 다른 친구들이 그린 그림이나 동양화과 선배들이 그린 그림을 보며 그림 기술을 배우고 있다."
+			],
+			[
+				33,
+				"기술",
+				"NNG",
+				"하지만 지금 동양화과에 가기 위해서 학원에 다니며 실기 시험을 준비하고 있는데 다른 친구들이 그린 그림이나 동양화과 선배들이 그린 그림을 보며 그림 기술을 배우고 있다."
+			],
+			[
+				34,
+				"동양화과",
+				"NNP",
+				"동양화과에 가기 위해서 실기 시험도 중요하지만 내신이 부족하기 때문에 이번 겨울 방학 때 시간을 잘 배분하여 공부 시간을 더욱 확보할 예정이다."
+			],
+			[
+				35,
+				"실기",
+				"NNG",
+				"동양화과에 가기 위해서 실기 시험도 중요하지만 내신이 부족하기 때문에 이번 겨울 방학 때 시간을 잘 배분하여 공부 시간을 더욱 확보할 예정이다."
+			],
+			[
+				36,
+				"시험",
+				"NNG",
+				"동양화과에 가기 위해서 실기 시험도 중요하지만 내신이 부족하기 때문에 이번 겨울 방학 때 시간을 잘 배분하여 공부 시간을 더욱 확보할 예정이다."
+			],
+			[
+				37,
+				"내신",
+				"NNG",
+				"동양화과에 가기 위해서 실기 시험도 중요하지만 내신이 부족하기 때문에 이번 겨울 방학 때 시간을 잘 배분하여 공부 시간을 더욱 확보할 예정이다."
+			],
+			[
+				38,
+				"때문",
+				"NNB",
+				"동양화과에 가기 위해서 실기 시험도 중요하지만 내신이 부족하기 때문에 이번 겨울 방학 때 시간을 잘 배분하여 공부 시간을 더욱 확보할 예정이다."
+			],
+			[
+				39,
+				"이번",
+				"NNG",
+				"동양화과에 가기 위해서 실기 시험도 중요하지만 내신이 부족하기 때문에 이번 겨울 방학 때 시간을 잘 배분하여 공부 시간을 더욱 확보할 예정이다."
+			],
+			[
+				40,
+				"겨울",
+				"NNG",
+				"동양화과에 가기 위해서 실기 시험도 중요하지만 내신이 부족하기 때문에 이번 겨울 방학 때 시간을 잘 배분하여 공부 시간을 더욱 확보할 예정이다."
+			],
+			[
+				41,
+				"방학",
+				"NNG",
+				"동양화과에 가기 위해서 실기 시험도 중요하지만 내신이 부족하기 때문에 이번 겨울 방학 때 시간을 잘 배분하여 공부 시간을 더욱 확보할 예정이다."
+			],
+			[
+				42,
+				"때",
+				"NNG",
+				"동양화과에 가기 위해서 실기 시험도 중요하지만 내신이 부족하기 때문에 이번 겨울 방학 때 시간을 잘 배분하여 공부 시간을 더욱 확보할 예정이다."
+			],
+			[
+				43,
+				"시간",
+				"NNG",
+				"동양화과에 가기 위해서 실기 시험도 중요하지만 내신이 부족하기 때문에 이번 겨울 방학 때 시간을 잘 배분하여 공부 시간을 더욱 확보할 예정이다."
+			],
+			[
+				44,
+				"공부",
+				"NNG",
+				"동양화과에 가기 위해서 실기 시험도 중요하지만 내신이 부족하기 때문에 이번 겨울 방학 때 시간을 잘 배분하여 공부 시간을 더욱 확보할 예정이다."
+			],
+			[
+				45,
+				"시간",
+				"NNG",
+				"동양화과에 가기 위해서 실기 시험도 중요하지만 내신이 부족하기 때문에 이번 겨울 방학 때 시간을 잘 배분하여 공부 시간을 더욱 확보할 예정이다."
+			],
+			[
+				46,
+				"예정",
+				"NNG",
+				"동양화과에 가기 위해서 실기 시험도 중요하지만 내신이 부족하기 때문에 이번 겨울 방학 때 시간을 잘 배분하여 공부 시간을 더욱 확보할 예정이다."
+			],
+			[
+				47,
+				"최근",
+				"NNG",
+				"최근 봤던 그림 중에 운파 윤태유화백의 \"일출 황금소나무\"그림이 가장 인상 깊었다."
+			],
+			[
+				48,
+				"그림",
+				"NNG",
+				"최근 봤던 그림 중에 운파 윤태유화백의 \"일출 황금소나무\"그림이 가장 인상 깊었다."
+			],
+			[
+				49,
+				"중",
+				"NNB",
+				"최근 봤던 그림 중에 운파 윤태유화백의 \"일출 황금소나무\"그림이 가장 인상 깊었다."
+			],
+			[
+				50,
+				"운파",
+				"NNP",
+				"최근 봤던 그림 중에 운파 윤태유화백의 \"일출 황금소나무\"그림이 가장 인상 깊었다."
+			],
+			[
+				51,
+				"윤태유",
+				"NNP",
+				"최근 봤던 그림 중에 운파 윤태유화백의 \"일출 황금소나무\"그림이 가장 인상 깊었다."
+			],
+			[
+				52,
+				"화백",
+				"NNG",
+				"최근 봤던 그림 중에 운파 윤태유화백의 \"일출 황금소나무\"그림이 가장 인상 깊었다."
+			],
+			[
+				53,
+				"일출",
+				"NNG",
+				"최근 봤던 그림 중에 운파 윤태유화백의 \"일출 황금소나무\"그림이 가장 인상 깊었다."
+			],
+			[
+				54,
+				"황금",
+				"NNG",
+				"최근 봤던 그림 중에 운파 윤태유화백의 \"일출 황금소나무\"그림이 가장 인상 깊었다."
+			],
+			[
+				55,
+				"소나무",
+				"NNG",
+				"최근 봤던 그림 중에 운파 윤태유화백의 \"일출 황금소나무\"그림이 가장 인상 깊었다."
+			],
+			[
+				56,
+				"그림",
+				"NNG",
+				"최근 봤던 그림 중에 운파 윤태유화백의 \"일출 황금소나무\"그림이 가장 인상 깊었다."
+			],
+			[
+				57,
+				"인상",
+				"NNG",
+				"최근 봤던 그림 중에 운파 윤태유화백의 \"일출 황금소나무\"그림이 가장 인상 깊었다."
+			],
+			[
+				58,
+				"소나무",
+				"NNG",
+				"소나무의 나무 질감을 실제의 나무 질감과 비슷하게 표현한 것과 소나무 나뭇잎의 줄기 하나하나 세심하게 그린 모습이 너무 인상깊었다."
+			],
+			[
+				59,
+				"나무",
+				"NNG",
+				"소나무의 나무 질감을 실제의 나무 질감과 비슷하게 표현한 것과 소나무 나뭇잎의 줄기 하나하나 세심하게 그린 모습이 너무 인상깊었다."
+			],
+			[
+				60,
+				"질감",
+				"NNG",
+				"소나무의 나무 질감을 실제의 나무 질감과 비슷하게 표현한 것과 소나무 나뭇잎의 줄기 하나하나 세심하게 그린 모습이 너무 인상깊었다."
+			],
+			[
+				61,
+				"실제",
+				"NNG",
+				"소나무의 나무 질감을 실제의 나무 질감과 비슷하게 표현한 것과 소나무 나뭇잎의 줄기 하나하나 세심하게 그린 모습이 너무 인상깊었다."
+			],
+			[
+				62,
+				"나무",
+				"NNG",
+				"소나무의 나무 질감을 실제의 나무 질감과 비슷하게 표현한 것과 소나무 나뭇잎의 줄기 하나하나 세심하게 그린 모습이 너무 인상깊었다."
+			],
+			[
+				63,
+				"질감",
+				"NNG",
+				"소나무의 나무 질감을 실제의 나무 질감과 비슷하게 표현한 것과 소나무 나뭇잎의 줄기 하나하나 세심하게 그린 모습이 너무 인상깊었다."
+			],
+			[
+				64,
+				"것",
+				"NNB",
+				"소나무의 나무 질감을 실제의 나무 질감과 비슷하게 표현한 것과 소나무 나뭇잎의 줄기 하나하나 세심하게 그린 모습이 너무 인상깊었다."
+			],
+			[
+				65,
+				"소나무",
+				"NNG",
+				"소나무의 나무 질감을 실제의 나무 질감과 비슷하게 표현한 것과 소나무 나뭇잎의 줄기 하나하나 세심하게 그린 모습이 너무 인상깊었다."
+			],
+			[
+				66,
+				"나뭇잎",
+				"NNG",
+				"소나무의 나무 질감을 실제의 나무 질감과 비슷하게 표현한 것과 소나무 나뭇잎의 줄기 하나하나 세심하게 그린 모습이 너무 인상깊었다."
+			],
+			[
+				67,
+				"줄기",
+				"NNG",
+				"소나무의 나무 질감을 실제의 나무 질감과 비슷하게 표현한 것과 소나무 나뭇잎의 줄기 하나하나 세심하게 그린 모습이 너무 인상깊었다."
+			],
+			[
+				68,
+				"모습",
+				"NNG",
+				"소나무의 나무 질감을 실제의 나무 질감과 비슷하게 표현한 것과 소나무 나뭇잎의 줄기 하나하나 세심하게 그린 모습이 너무 인상깊었다."
+			],
+			[
+				69,
+				"인상",
+				"NNG",
+				"소나무의 나무 질감을 실제의 나무 질감과 비슷하게 표현한 것과 소나무 나뭇잎의 줄기 하나하나 세심하게 그린 모습이 너무 인상깊었다."
+			],
+			[
+				70,
+				"소나무",
+				"NNG",
+				"그리고 소나무 뒤에 떠오르는 붉은 태양의 위치가 소나무와 잘 어우러짐과 동시에 배치 방법이 이렇게 중요하구나 깨닫게 되는 그림이었다."
+			],
+			[
+				71,
+				"뒤",
+				"NNG",
+				"그리고 소나무 뒤에 떠오르는 붉은 태양의 위치가 소나무와 잘 어우러짐과 동시에 배치 방법이 이렇게 중요하구나 깨닫게 되는 그림이었다."
+			],
+			[
+				72,
+				"태양",
+				"NNG",
+				"그리고 소나무 뒤에 떠오르는 붉은 태양의 위치가 소나무와 잘 어우러짐과 동시에 배치 방법이 이렇게 중요하구나 깨닫게 되는 그림이었다."
+			],
+			[
+				73,
+				"위치",
+				"NNG",
+				"그리고 소나무 뒤에 떠오르는 붉은 태양의 위치가 소나무와 잘 어우러짐과 동시에 배치 방법이 이렇게 중요하구나 깨닫게 되는 그림이었다."
+			],
+			[
+				74,
+				"소나무",
+				"NNG",
+				"그리고 소나무 뒤에 떠오르는 붉은 태양의 위치가 소나무와 잘 어우러짐과 동시에 배치 방법이 이렇게 중요하구나 깨닫게 되는 그림이었다."
+			],
+			[
+				75,
+				"동시",
+				"NNG",
+				"그리고 소나무 뒤에 떠오르는 붉은 태양의 위치가 소나무와 잘 어우러짐과 동시에 배치 방법이 이렇게 중요하구나 깨닫게 되는 그림이었다."
+			],
+			[
+				76,
+				"배치",
+				"NNG",
+				"그리고 소나무 뒤에 떠오르는 붉은 태양의 위치가 소나무와 잘 어우러짐과 동시에 배치 방법이 이렇게 중요하구나 깨닫게 되는 그림이었다."
+			],
+			[
+				77,
+				"방법",
+				"NNG",
+				"그리고 소나무 뒤에 떠오르는 붉은 태양의 위치가 소나무와 잘 어우러짐과 동시에 배치 방법이 이렇게 중요하구나 깨닫게 되는 그림이었다."
+			],
+			[
+				78,
+				"그림",
+				"NNG",
+				"그리고 소나무 뒤에 떠오르는 붉은 태양의 위치가 소나무와 잘 어우러짐과 동시에 배치 방법이 이렇게 중요하구나 깨닫게 되는 그림이었다."
+			],
+			[
+				79,
+				"나중",
+				"NNG",
+				"나중에 동양화과에 가서 졸업을 한 후에 인기와 경력을 얻으면 나만의 동양화 전시회를 열어 세계적으로 유명한 동양화 화가가 되고 싶다."
+			],
+			[
+				80,
+				"동양화과",
+				"NNP",
+				"나중에 동양화과에 가서 졸업을 한 후에 인기와 경력을 얻으면 나만의 동양화 전시회를 열어 세계적으로 유명한 동양화 화가가 되고 싶다."
+			],
+			[
+				81,
+				"졸업",
+				"NNG",
+				"나중에 동양화과에 가서 졸업을 한 후에 인기와 경력을 얻으면 나만의 동양화 전시회를 열어 세계적으로 유명한 동양화 화가가 되고 싶다."
+			],
+			[
+				82,
+				"후",
+				"NNG",
+				"나중에 동양화과에 가서 졸업을 한 후에 인기와 경력을 얻으면 나만의 동양화 전시회를 열어 세계적으로 유명한 동양화 화가가 되고 싶다."
+			],
+			[
+				83,
+				"인기",
+				"NNG",
+				"나중에 동양화과에 가서 졸업을 한 후에 인기와 경력을 얻으면 나만의 동양화 전시회를 열어 세계적으로 유명한 동양화 화가가 되고 싶다."
+			],
+			[
+				84,
+				"경력",
+				"NNG",
+				"나중에 동양화과에 가서 졸업을 한 후에 인기와 경력을 얻으면 나만의 동양화 전시회를 열어 세계적으로 유명한 동양화 화가가 되고 싶다."
+			],
+			[
+				85,
+				"나",
+				"NP",
+				"나중에 동양화과에 가서 졸업을 한 후에 인기와 경력을 얻으면 나만의 동양화 전시회를 열어 세계적으로 유명한 동양화 화가가 되고 싶다."
+			],
+			[
+				86,
+				"동양화",
+				"NNG",
+				"나중에 동양화과에 가서 졸업을 한 후에 인기와 경력을 얻으면 나만의 동양화 전시회를 열어 세계적으로 유명한 동양화 화가가 되고 싶다."
+			],
+			[
+				87,
+				"전시회",
+				"NNG",
+				"나중에 동양화과에 가서 졸업을 한 후에 인기와 경력을 얻으면 나만의 동양화 전시회를 열어 세계적으로 유명한 동양화 화가가 되고 싶다."
+			],
+			[
+				88,
+				"세계",
+				"NNG",
+				"나중에 동양화과에 가서 졸업을 한 후에 인기와 경력을 얻으면 나만의 동양화 전시회를 열어 세계적으로 유명한 동양화 화가가 되고 싶다."
+			],
+			[
+				89,
+				"동양화",
+				"NNG",
+				"나중에 동양화과에 가서 졸업을 한 후에 인기와 경력을 얻으면 나만의 동양화 전시회를 열어 세계적으로 유명한 동양화 화가가 되고 싶다."
+			],
+			[
+				90,
+				"화가",
+				"NNG",
+				"나중에 동양화과에 가서 졸업을 한 후에 인기와 경력을 얻으면 나만의 동양화 전시회를 열어 세계적으로 유명한 동양화 화가가 되고 싶다."
+			]
+		],
+		"NN_Lst": [
+			[
+				0,
+				"꿈",
+				"NNG",
+				"나의 꿈은 화가이다."
+			],
+			[
+				1,
+				"화가",
+				"NNG",
+				"나의 꿈은 화가이다."
+			],
+			[
+				2,
+				"적",
+				"NNB",
+				"어렸을 적 할머니댁에서 본 동양화를 보고 푹 빠졌었다."
+			],
+			[
+				3,
+				"할머니",
+				"NNG",
+				"어렸을 적 할머니댁에서 본 동양화를 보고 푹 빠졌었다."
+			],
+			[
+				4,
+				"댁",
+				"NNG",
+				"어렸을 적 할머니댁에서 본 동양화를 보고 푹 빠졌었다."
+			],
+			[
+				5,
+				"동양화",
+				"NNG",
+				"어렸을 적 할머니댁에서 본 동양화를 보고 푹 빠졌었다."
+			],
+			[
+				6,
+				"때",
+				"NNG",
+				"그 때 이후로 다양한 동양화에 대해 검색해보고 전시회를 다녀왔을 만큼 동양화에 관심이 많아 동양화를 그리는 화가가 되고 싶다."
+			],
+			[
+				7,
+				"이후",
+				"NNG",
+				"그 때 이후로 다양한 동양화에 대해 검색해보고 전시회를 다녀왔을 만큼 동양화에 관심이 많아 동양화를 그리는 화가가 되고 싶다."
+			],
+			[
+				8,
+				"동양화",
+				"NNG",
+				"그 때 이후로 다양한 동양화에 대해 검색해보고 전시회를 다녀왔을 만큼 동양화에 관심이 많아 동양화를 그리는 화가가 되고 싶다."
+			],
+			[
+				9,
+				"전시회",
+				"NNG",
+				"그 때 이후로 다양한 동양화에 대해 검색해보고 전시회를 다녀왔을 만큼 동양화에 관심이 많아 동양화를 그리는 화가가 되고 싶다."
+			],
+			[
+				10,
+				"만큼",
+				"NNB",
+				"그 때 이후로 다양한 동양화에 대해 검색해보고 전시회를 다녀왔을 만큼 동양화에 관심이 많아 동양화를 그리는 화가가 되고 싶다."
+			],
+			[
+				11,
+				"동양화",
+				"NNG",
+				"그 때 이후로 다양한 동양화에 대해 검색해보고 전시회를 다녀왔을 만큼 동양화에 관심이 많아 동양화를 그리는 화가가 되고 싶다."
+			],
+			[
+				12,
+				"관심",
+				"NNG",
+				"그 때 이후로 다양한 동양화에 대해 검색해보고 전시회를 다녀왔을 만큼 동양화에 관심이 많아 동양화를 그리는 화가가 되고 싶다."
+			],
+			[
+				13,
+				"동양화",
+				"NNG",
+				"그 때 이후로 다양한 동양화에 대해 검색해보고 전시회를 다녀왔을 만큼 동양화에 관심이 많아 동양화를 그리는 화가가 되고 싶다."
+			],
+			[
+				14,
+				"화가",
+				"NNG",
+				"그 때 이후로 다양한 동양화에 대해 검색해보고 전시회를 다녀왔을 만큼 동양화에 관심이 많아 동양화를 그리는 화가가 되고 싶다."
+			],
+			[
+				15,
+				"학교",
+				"NNG",
+				"무엇보다도 학교에서 미술시간의 교과서에는 서양화 위주가 많아서 아쉬웠다."
+			],
+			[
+				16,
+				"미술",
+				"NNG",
+				"무엇보다도 학교에서 미술시간의 교과서에는 서양화 위주가 많아서 아쉬웠다."
+			],
+			[
+				17,
+				"시간",
+				"NNG",
+				"무엇보다도 학교에서 미술시간의 교과서에는 서양화 위주가 많아서 아쉬웠다."
+			],
+			[
+				18,
+				"교과서",
+				"NNG",
+				"무엇보다도 학교에서 미술시간의 교과서에는 서양화 위주가 많아서 아쉬웠다."
+			],
+			[
+				19,
+				"서양화",
+				"NNG",
+				"무엇보다도 학교에서 미술시간의 교과서에는 서양화 위주가 많아서 아쉬웠다."
+			],
+			[
+				20,
+				"위주",
+				"NNG",
+				"무엇보다도 학교에서 미술시간의 교과서에는 서양화 위주가 많아서 아쉬웠다."
+			],
+			[
+				21,
+				"동양화과",
+				"NNP",
+				"하지만 지금 동양화과에 가기 위해서 학원에 다니며 실기 시험을 준비하고 있는데 다른 친구들이 그린 그림이나 동양화과 선배들이 그린 그림을 보며 그림 기술을 배우고 있다."
+			],
+			[
+				22,
+				"학원",
+				"NNG",
+				"하지만 지금 동양화과에 가기 위해서 학원에 다니며 실기 시험을 준비하고 있는데 다른 친구들이 그린 그림이나 동양화과 선배들이 그린 그림을 보며 그림 기술을 배우고 있다."
+			],
+			[
+				23,
+				"실기",
+				"NNG",
+				"하지만 지금 동양화과에 가기 위해서 학원에 다니며 실기 시험을 준비하고 있는데 다른 친구들이 그린 그림이나 동양화과 선배들이 그린 그림을 보며 그림 기술을 배우고 있다."
+			],
+			[
+				24,
+				"시험",
+				"NNG",
+				"하지만 지금 동양화과에 가기 위해서 학원에 다니며 실기 시험을 준비하고 있는데 다른 친구들이 그린 그림이나 동양화과 선배들이 그린 그림을 보며 그림 기술을 배우고 있다."
+			],
+			[
+				25,
+				"친구",
+				"NNG",
+				"하지만 지금 동양화과에 가기 위해서 학원에 다니며 실기 시험을 준비하고 있는데 다른 친구들이 그린 그림이나 동양화과 선배들이 그린 그림을 보며 그림 기술을 배우고 있다."
+			],
+			[
+				26,
+				"그림",
+				"NNG",
+				"하지만 지금 동양화과에 가기 위해서 학원에 다니며 실기 시험을 준비하고 있는데 다른 친구들이 그린 그림이나 동양화과 선배들이 그린 그림을 보며 그림 기술을 배우고 있다."
+			],
+			[
+				27,
+				"동양화과",
+				"NNP",
+				"하지만 지금 동양화과에 가기 위해서 학원에 다니며 실기 시험을 준비하고 있는데 다른 친구들이 그린 그림이나 동양화과 선배들이 그린 그림을 보며 그림 기술을 배우고 있다."
+			],
+			[
+				28,
+				"선배",
+				"NNG",
+				"하지만 지금 동양화과에 가기 위해서 학원에 다니며 실기 시험을 준비하고 있는데 다른 친구들이 그린 그림이나 동양화과 선배들이 그린 그림을 보며 그림 기술을 배우고 있다."
+			],
+			[
+				29,
+				"그림",
+				"NNG",
+				"하지만 지금 동양화과에 가기 위해서 학원에 다니며 실기 시험을 준비하고 있는데 다른 친구들이 그린 그림이나 동양화과 선배들이 그린 그림을 보며 그림 기술을 배우고 있다."
+			],
+			[
+				30,
+				"그림",
+				"NNG",
+				"하지만 지금 동양화과에 가기 위해서 학원에 다니며 실기 시험을 준비하고 있는데 다른 친구들이 그린 그림이나 동양화과 선배들이 그린 그림을 보며 그림 기술을 배우고 있다."
+			],
+			[
+				31,
+				"기술",
+				"NNG",
+				"하지만 지금 동양화과에 가기 위해서 학원에 다니며 실기 시험을 준비하고 있는데 다른 친구들이 그린 그림이나 동양화과 선배들이 그린 그림을 보며 그림 기술을 배우고 있다."
+			],
+			[
+				32,
+				"동양화과",
+				"NNP",
+				"동양화과에 가기 위해서 실기 시험도 중요하지만 내신이 부족하기 때문에 이번 겨울 방학 때 시간을 잘 배분하여 공부 시간을 더욱 확보할 예정이다."
+			],
+			[
+				33,
+				"실기",
+				"NNG",
+				"동양화과에 가기 위해서 실기 시험도 중요하지만 내신이 부족하기 때문에 이번 겨울 방학 때 시간을 잘 배분하여 공부 시간을 더욱 확보할 예정이다."
+			],
+			[
+				34,
+				"시험",
+				"NNG",
+				"동양화과에 가기 위해서 실기 시험도 중요하지만 내신이 부족하기 때문에 이번 겨울 방학 때 시간을 잘 배분하여 공부 시간을 더욱 확보할 예정이다."
+			],
+			[
+				35,
+				"내신",
+				"NNG",
+				"동양화과에 가기 위해서 실기 시험도 중요하지만 내신이 부족하기 때문에 이번 겨울 방학 때 시간을 잘 배분하여 공부 시간을 더욱 확보할 예정이다."
+			],
+			[
+				36,
+				"때문",
+				"NNB",
+				"동양화과에 가기 위해서 실기 시험도 중요하지만 내신이 부족하기 때문에 이번 겨울 방학 때 시간을 잘 배분하여 공부 시간을 더욱 확보할 예정이다."
+			],
+			[
+				37,
+				"이번",
+				"NNG",
+				"동양화과에 가기 위해서 실기 시험도 중요하지만 내신이 부족하기 때문에 이번 겨울 방학 때 시간을 잘 배분하여 공부 시간을 더욱 확보할 예정이다."
+			],
+			[
+				38,
+				"겨울",
+				"NNG",
+				"동양화과에 가기 위해서 실기 시험도 중요하지만 내신이 부족하기 때문에 이번 겨울 방학 때 시간을 잘 배분하여 공부 시간을 더욱 확보할 예정이다."
+			],
+			[
+				39,
+				"방학",
+				"NNG",
+				"동양화과에 가기 위해서 실기 시험도 중요하지만 내신이 부족하기 때문에 이번 겨울 방학 때 시간을 잘 배분하여 공부 시간을 더욱 확보할 예정이다."
+			],
+			[
+				40,
+				"때",
+				"NNG",
+				"동양화과에 가기 위해서 실기 시험도 중요하지만 내신이 부족하기 때문에 이번 겨울 방학 때 시간을 잘 배분하여 공부 시간을 더욱 확보할 예정이다."
+			],
+			[
+				41,
+				"시간",
+				"NNG",
+				"동양화과에 가기 위해서 실기 시험도 중요하지만 내신이 부족하기 때문에 이번 겨울 방학 때 시간을 잘 배분하여 공부 시간을 더욱 확보할 예정이다."
+			],
+			[
+				42,
+				"공부",
+				"NNG",
+				"동양화과에 가기 위해서 실기 시험도 중요하지만 내신이 부족하기 때문에 이번 겨울 방학 때 시간을 잘 배분하여 공부 시간을 더욱 확보할 예정이다."
+			],
+			[
+				43,
+				"시간",
+				"NNG",
+				"동양화과에 가기 위해서 실기 시험도 중요하지만 내신이 부족하기 때문에 이번 겨울 방학 때 시간을 잘 배분하여 공부 시간을 더욱 확보할 예정이다."
+			],
+			[
+				44,
+				"예정",
+				"NNG",
+				"동양화과에 가기 위해서 실기 시험도 중요하지만 내신이 부족하기 때문에 이번 겨울 방학 때 시간을 잘 배분하여 공부 시간을 더욱 확보할 예정이다."
+			],
+			[
+				45,
+				"최근",
+				"NNG",
+				"최근 봤던 그림 중에 운파 윤태유화백의 \"일출 황금소나무\"그림이 가장 인상 깊었다."
+			],
+			[
+				46,
+				"그림",
+				"NNG",
+				"최근 봤던 그림 중에 운파 윤태유화백의 \"일출 황금소나무\"그림이 가장 인상 깊었다."
+			],
+			[
+				47,
+				"중",
+				"NNB",
+				"최근 봤던 그림 중에 운파 윤태유화백의 \"일출 황금소나무\"그림이 가장 인상 깊었다."
+			],
+			[
+				48,
+				"운파",
+				"NNP",
+				"최근 봤던 그림 중에 운파 윤태유화백의 \"일출 황금소나무\"그림이 가장 인상 깊었다."
+			],
+			[
+				49,
+				"윤태유",
+				"NNP",
+				"최근 봤던 그림 중에 운파 윤태유화백의 \"일출 황금소나무\"그림이 가장 인상 깊었다."
+			],
+			[
+				50,
+				"화백",
+				"NNG",
+				"최근 봤던 그림 중에 운파 윤태유화백의 \"일출 황금소나무\"그림이 가장 인상 깊었다."
+			],
+			[
+				51,
+				"일출",
+				"NNG",
+				"최근 봤던 그림 중에 운파 윤태유화백의 \"일출 황금소나무\"그림이 가장 인상 깊었다."
+			],
+			[
+				52,
+				"황금",
+				"NNG",
+				"최근 봤던 그림 중에 운파 윤태유화백의 \"일출 황금소나무\"그림이 가장 인상 깊었다."
+			],
+			[
+				53,
+				"소나무",
+				"NNG",
+				"최근 봤던 그림 중에 운파 윤태유화백의 \"일출 황금소나무\"그림이 가장 인상 깊었다."
+			],
+			[
+				54,
+				"그림",
+				"NNG",
+				"최근 봤던 그림 중에 운파 윤태유화백의 \"일출 황금소나무\"그림이 가장 인상 깊었다."
+			],
+			[
+				55,
+				"인상",
+				"NNG",
+				"최근 봤던 그림 중에 운파 윤태유화백의 \"일출 황금소나무\"그림이 가장 인상 깊었다."
+			],
+			[
+				56,
+				"소나무",
+				"NNG",
+				"소나무의 나무 질감을 실제의 나무 질감과 비슷하게 표현한 것과 소나무 나뭇잎의 줄기 하나하나 세심하게 그린 모습이 너무 인상깊었다."
+			],
+			[
+				57,
+				"나무",
+				"NNG",
+				"소나무의 나무 질감을 실제의 나무 질감과 비슷하게 표현한 것과 소나무 나뭇잎의 줄기 하나하나 세심하게 그린 모습이 너무 인상깊었다."
+			],
+			[
+				58,
+				"질감",
+				"NNG",
+				"소나무의 나무 질감을 실제의 나무 질감과 비슷하게 표현한 것과 소나무 나뭇잎의 줄기 하나하나 세심하게 그린 모습이 너무 인상깊었다."
+			],
+			[
+				59,
+				"실제",
+				"NNG",
+				"소나무의 나무 질감을 실제의 나무 질감과 비슷하게 표현한 것과 소나무 나뭇잎의 줄기 하나하나 세심하게 그린 모습이 너무 인상깊었다."
+			],
+			[
+				60,
+				"나무",
+				"NNG",
+				"소나무의 나무 질감을 실제의 나무 질감과 비슷하게 표현한 것과 소나무 나뭇잎의 줄기 하나하나 세심하게 그린 모습이 너무 인상깊었다."
+			],
+			[
+				61,
+				"질감",
+				"NNG",
+				"소나무의 나무 질감을 실제의 나무 질감과 비슷하게 표현한 것과 소나무 나뭇잎의 줄기 하나하나 세심하게 그린 모습이 너무 인상깊었다."
+			],
+			[
+				62,
+				"것",
+				"NNB",
+				"소나무의 나무 질감을 실제의 나무 질감과 비슷하게 표현한 것과 소나무 나뭇잎의 줄기 하나하나 세심하게 그린 모습이 너무 인상깊었다."
+			],
+			[
+				63,
+				"소나무",
+				"NNG",
+				"소나무의 나무 질감을 실제의 나무 질감과 비슷하게 표현한 것과 소나무 나뭇잎의 줄기 하나하나 세심하게 그린 모습이 너무 인상깊었다."
+			],
+			[
+				64,
+				"나뭇잎",
+				"NNG",
+				"소나무의 나무 질감을 실제의 나무 질감과 비슷하게 표현한 것과 소나무 나뭇잎의 줄기 하나하나 세심하게 그린 모습이 너무 인상깊었다."
+			],
+			[
+				65,
+				"줄기",
+				"NNG",
+				"소나무의 나무 질감을 실제의 나무 질감과 비슷하게 표현한 것과 소나무 나뭇잎의 줄기 하나하나 세심하게 그린 모습이 너무 인상깊었다."
+			],
+			[
+				66,
+				"모습",
+				"NNG",
+				"소나무의 나무 질감을 실제의 나무 질감과 비슷하게 표현한 것과 소나무 나뭇잎의 줄기 하나하나 세심하게 그린 모습이 너무 인상깊었다."
+			],
+			[
+				67,
+				"인상",
+				"NNG",
+				"소나무의 나무 질감을 실제의 나무 질감과 비슷하게 표현한 것과 소나무 나뭇잎의 줄기 하나하나 세심하게 그린 모습이 너무 인상깊었다."
+			],
+			[
+				68,
+				"소나무",
+				"NNG",
+				"그리고 소나무 뒤에 떠오르는 붉은 태양의 위치가 소나무와 잘 어우러짐과 동시에 배치 방법이 이렇게 중요하구나 깨닫게 되는 그림이었다."
+			],
+			[
+				69,
+				"뒤",
+				"NNG",
+				"그리고 소나무 뒤에 떠오르는 붉은 태양의 위치가 소나무와 잘 어우러짐과 동시에 배치 방법이 이렇게 중요하구나 깨닫게 되는 그림이었다."
+			],
+			[
+				70,
+				"태양",
+				"NNG",
+				"그리고 소나무 뒤에 떠오르는 붉은 태양의 위치가 소나무와 잘 어우러짐과 동시에 배치 방법이 이렇게 중요하구나 깨닫게 되는 그림이었다."
+			],
+			[
+				71,
+				"위치",
+				"NNG",
+				"그리고 소나무 뒤에 떠오르는 붉은 태양의 위치가 소나무와 잘 어우러짐과 동시에 배치 방법이 이렇게 중요하구나 깨닫게 되는 그림이었다."
+			],
+			[
+				72,
+				"소나무",
+				"NNG",
+				"그리고 소나무 뒤에 떠오르는 붉은 태양의 위치가 소나무와 잘 어우러짐과 동시에 배치 방법이 이렇게 중요하구나 깨닫게 되는 그림이었다."
+			],
+			[
+				73,
+				"동시",
+				"NNG",
+				"그리고 소나무 뒤에 떠오르는 붉은 태양의 위치가 소나무와 잘 어우러짐과 동시에 배치 방법이 이렇게 중요하구나 깨닫게 되는 그림이었다."
+			],
+			[
+				74,
+				"배치",
+				"NNG",
+				"그리고 소나무 뒤에 떠오르는 붉은 태양의 위치가 소나무와 잘 어우러짐과 동시에 배치 방법이 이렇게 중요하구나 깨닫게 되는 그림이었다."
+			],
+			[
+				75,
+				"방법",
+				"NNG",
+				"그리고 소나무 뒤에 떠오르는 붉은 태양의 위치가 소나무와 잘 어우러짐과 동시에 배치 방법이 이렇게 중요하구나 깨닫게 되는 그림이었다."
+			],
+			[
+				76,
+				"그림",
+				"NNG",
+				"그리고 소나무 뒤에 떠오르는 붉은 태양의 위치가 소나무와 잘 어우러짐과 동시에 배치 방법이 이렇게 중요하구나 깨닫게 되는 그림이었다."
+			],
+			[
+				77,
+				"나중",
+				"NNG",
+				"나중에 동양화과에 가서 졸업을 한 후에 인기와 경력을 얻으면 나만의 동양화 전시회를 열어 세계적으로 유명한 동양화 화가가 되고 싶다."
+			],
+			[
+				78,
+				"동양화과",
+				"NNP",
+				"나중에 동양화과에 가서 졸업을 한 후에 인기와 경력을 얻으면 나만의 동양화 전시회를 열어 세계적으로 유명한 동양화 화가가 되고 싶다."
+			],
+			[
+				79,
+				"졸업",
+				"NNG",
+				"나중에 동양화과에 가서 졸업을 한 후에 인기와 경력을 얻으면 나만의 동양화 전시회를 열어 세계적으로 유명한 동양화 화가가 되고 싶다."
+			],
+			[
+				80,
+				"후",
+				"NNG",
+				"나중에 동양화과에 가서 졸업을 한 후에 인기와 경력을 얻으면 나만의 동양화 전시회를 열어 세계적으로 유명한 동양화 화가가 되고 싶다."
+			],
+			[
+				81,
+				"인기",
+				"NNG",
+				"나중에 동양화과에 가서 졸업을 한 후에 인기와 경력을 얻으면 나만의 동양화 전시회를 열어 세계적으로 유명한 동양화 화가가 되고 싶다."
+			],
+			[
+				82,
+				"경력",
+				"NNG",
+				"나중에 동양화과에 가서 졸업을 한 후에 인기와 경력을 얻으면 나만의 동양화 전시회를 열어 세계적으로 유명한 동양화 화가가 되고 싶다."
+			],
+			[
+				83,
+				"동양화",
+				"NNG",
+				"나중에 동양화과에 가서 졸업을 한 후에 인기와 경력을 얻으면 나만의 동양화 전시회를 열어 세계적으로 유명한 동양화 화가가 되고 싶다."
+			],
+			[
+				84,
+				"전시회",
+				"NNG",
+				"나중에 동양화과에 가서 졸업을 한 후에 인기와 경력을 얻으면 나만의 동양화 전시회를 열어 세계적으로 유명한 동양화 화가가 되고 싶다."
+			],
+			[
+				85,
+				"세계",
+				"NNG",
+				"나중에 동양화과에 가서 졸업을 한 후에 인기와 경력을 얻으면 나만의 동양화 전시회를 열어 세계적으로 유명한 동양화 화가가 되고 싶다."
+			],
+			[
+				86,
+				"동양화",
+				"NNG",
+				"나중에 동양화과에 가서 졸업을 한 후에 인기와 경력을 얻으면 나만의 동양화 전시회를 열어 세계적으로 유명한 동양화 화가가 되고 싶다."
+			],
+			[
+				87,
+				"화가",
+				"NNG",
+				"나중에 동양화과에 가서 졸업을 한 후에 인기와 경력을 얻으면 나만의 동양화 전시회를 열어 세계적으로 유명한 동양화 화가가 되고 싶다."
+			]
+		],
+		"NNG_Lst": [
+			[
+				0,
+				"꿈",
+				"NNG",
+				"나의 꿈은 화가이다."
+			],
+			[
+				1,
+				"화가",
+				"NNG",
+				"나의 꿈은 화가이다."
+			],
+			[
+				2,
+				"할머니",
+				"NNG",
+				"어렸을 적 할머니댁에서 본 동양화를 보고 푹 빠졌었다."
+			],
+			[
+				3,
+				"댁",
+				"NNG",
+				"어렸을 적 할머니댁에서 본 동양화를 보고 푹 빠졌었다."
+			],
+			[
+				4,
+				"동양화",
+				"NNG",
+				"어렸을 적 할머니댁에서 본 동양화를 보고 푹 빠졌었다."
+			],
+			[
+				5,
+				"때",
+				"NNG",
+				"그 때 이후로 다양한 동양화에 대해 검색해보고 전시회를 다녀왔을 만큼 동양화에 관심이 많아 동양화를 그리는 화가가 되고 싶다."
+			],
+			[
+				6,
+				"이후",
+				"NNG",
+				"그 때 이후로 다양한 동양화에 대해 검색해보고 전시회를 다녀왔을 만큼 동양화에 관심이 많아 동양화를 그리는 화가가 되고 싶다."
+			],
+			[
+				7,
+				"동양화",
+				"NNG",
+				"그 때 이후로 다양한 동양화에 대해 검색해보고 전시회를 다녀왔을 만큼 동양화에 관심이 많아 동양화를 그리는 화가가 되고 싶다."
+			],
+			[
+				8,
+				"전시회",
+				"NNG",
+				"그 때 이후로 다양한 동양화에 대해 검색해보고 전시회를 다녀왔을 만큼 동양화에 관심이 많아 동양화를 그리는 화가가 되고 싶다."
+			],
+			[
+				9,
+				"동양화",
+				"NNG",
+				"그 때 이후로 다양한 동양화에 대해 검색해보고 전시회를 다녀왔을 만큼 동양화에 관심이 많아 동양화를 그리는 화가가 되고 싶다."
+			],
+			[
+				10,
+				"관심",
+				"NNG",
+				"그 때 이후로 다양한 동양화에 대해 검색해보고 전시회를 다녀왔을 만큼 동양화에 관심이 많아 동양화를 그리는 화가가 되고 싶다."
+			],
+			[
+				11,
+				"동양화",
+				"NNG",
+				"그 때 이후로 다양한 동양화에 대해 검색해보고 전시회를 다녀왔을 만큼 동양화에 관심이 많아 동양화를 그리는 화가가 되고 싶다."
+			],
+			[
+				12,
+				"화가",
+				"NNG",
+				"그 때 이후로 다양한 동양화에 대해 검색해보고 전시회를 다녀왔을 만큼 동양화에 관심이 많아 동양화를 그리는 화가가 되고 싶다."
+			],
+			[
+				13,
+				"학교",
+				"NNG",
+				"무엇보다도 학교에서 미술시간의 교과서에는 서양화 위주가 많아서 아쉬웠다."
+			],
+			[
+				14,
+				"미술",
+				"NNG",
+				"무엇보다도 학교에서 미술시간의 교과서에는 서양화 위주가 많아서 아쉬웠다."
+			],
+			[
+				15,
+				"시간",
+				"NNG",
+				"무엇보다도 학교에서 미술시간의 교과서에는 서양화 위주가 많아서 아쉬웠다."
+			],
+			[
+				16,
+				"교과서",
+				"NNG",
+				"무엇보다도 학교에서 미술시간의 교과서에는 서양화 위주가 많아서 아쉬웠다."
+			],
+			[
+				17,
+				"서양화",
+				"NNG",
+				"무엇보다도 학교에서 미술시간의 교과서에는 서양화 위주가 많아서 아쉬웠다."
+			],
+			[
+				18,
+				"위주",
+				"NNG",
+				"무엇보다도 학교에서 미술시간의 교과서에는 서양화 위주가 많아서 아쉬웠다."
+			],
+			[
+				19,
+				"학원",
+				"NNG",
+				"하지만 지금 동양화과에 가기 위해서 학원에 다니며 실기 시험을 준비하고 있는데 다른 친구들이 그린 그림이나 동양화과 선배들이 그린 그림을 보며 그림 기술을 배우고 있다."
+			],
+			[
+				20,
+				"실기",
+				"NNG",
+				"하지만 지금 동양화과에 가기 위해서 학원에 다니며 실기 시험을 준비하고 있는데 다른 친구들이 그린 그림이나 동양화과 선배들이 그린 그림을 보며 그림 기술을 배우고 있다."
+			],
+			[
+				21,
+				"시험",
+				"NNG",
+				"하지만 지금 동양화과에 가기 위해서 학원에 다니며 실기 시험을 준비하고 있는데 다른 친구들이 그린 그림이나 동양화과 선배들이 그린 그림을 보며 그림 기술을 배우고 있다."
+			],
+			[
+				22,
+				"친구",
+				"NNG",
+				"하지만 지금 동양화과에 가기 위해서 학원에 다니며 실기 시험을 준비하고 있는데 다른 친구들이 그린 그림이나 동양화과 선배들이 그린 그림을 보며 그림 기술을 배우고 있다."
+			],
+			[
+				23,
+				"그림",
+				"NNG",
+				"하지만 지금 동양화과에 가기 위해서 학원에 다니며 실기 시험을 준비하고 있는데 다른 친구들이 그린 그림이나 동양화과 선배들이 그린 그림을 보며 그림 기술을 배우고 있다."
+			],
+			[
+				24,
+				"선배",
+				"NNG",
+				"하지만 지금 동양화과에 가기 위해서 학원에 다니며 실기 시험을 준비하고 있는데 다른 친구들이 그린 그림이나 동양화과 선배들이 그린 그림을 보며 그림 기술을 배우고 있다."
+			],
+			[
+				25,
+				"그림",
+				"NNG",
+				"하지만 지금 동양화과에 가기 위해서 학원에 다니며 실기 시험을 준비하고 있는데 다른 친구들이 그린 그림이나 동양화과 선배들이 그린 그림을 보며 그림 기술을 배우고 있다."
+			],
+			[
+				26,
+				"그림",
+				"NNG",
+				"하지만 지금 동양화과에 가기 위해서 학원에 다니며 실기 시험을 준비하고 있는데 다른 친구들이 그린 그림이나 동양화과 선배들이 그린 그림을 보며 그림 기술을 배우고 있다."
+			],
+			[
+				27,
+				"기술",
+				"NNG",
+				"하지만 지금 동양화과에 가기 위해서 학원에 다니며 실기 시험을 준비하고 있는데 다른 친구들이 그린 그림이나 동양화과 선배들이 그린 그림을 보며 그림 기술을 배우고 있다."
+			],
+			[
+				28,
+				"실기",
+				"NNG",
+				"동양화과에 가기 위해서 실기 시험도 중요하지만 내신이 부족하기 때문에 이번 겨울 방학 때 시간을 잘 배분하여 공부 시간을 더욱 확보할 예정이다."
+			],
+			[
+				29,
+				"시험",
+				"NNG",
+				"동양화과에 가기 위해서 실기 시험도 중요하지만 내신이 부족하기 때문에 이번 겨울 방학 때 시간을 잘 배분하여 공부 시간을 더욱 확보할 예정이다."
+			],
+			[
+				30,
+				"내신",
+				"NNG",
+				"동양화과에 가기 위해서 실기 시험도 중요하지만 내신이 부족하기 때문에 이번 겨울 방학 때 시간을 잘 배분하여 공부 시간을 더욱 확보할 예정이다."
+			],
+			[
+				31,
+				"이번",
+				"NNG",
+				"동양화과에 가기 위해서 실기 시험도 중요하지만 내신이 부족하기 때문에 이번 겨울 방학 때 시간을 잘 배분하여 공부 시간을 더욱 확보할 예정이다."
+			],
+			[
+				32,
+				"겨울",
+				"NNG",
+				"동양화과에 가기 위해서 실기 시험도 중요하지만 내신이 부족하기 때문에 이번 겨울 방학 때 시간을 잘 배분하여 공부 시간을 더욱 확보할 예정이다."
+			],
+			[
+				33,
+				"방학",
+				"NNG",
+				"동양화과에 가기 위해서 실기 시험도 중요하지만 내신이 부족하기 때문에 이번 겨울 방학 때 시간을 잘 배분하여 공부 시간을 더욱 확보할 예정이다."
+			],
+			[
+				34,
+				"때",
+				"NNG",
+				"동양화과에 가기 위해서 실기 시험도 중요하지만 내신이 부족하기 때문에 이번 겨울 방학 때 시간을 잘 배분하여 공부 시간을 더욱 확보할 예정이다."
+			],
+			[
+				35,
+				"시간",
+				"NNG",
+				"동양화과에 가기 위해서 실기 시험도 중요하지만 내신이 부족하기 때문에 이번 겨울 방학 때 시간을 잘 배분하여 공부 시간을 더욱 확보할 예정이다."
+			],
+			[
+				36,
+				"공부",
+				"NNG",
+				"동양화과에 가기 위해서 실기 시험도 중요하지만 내신이 부족하기 때문에 이번 겨울 방학 때 시간을 잘 배분하여 공부 시간을 더욱 확보할 예정이다."
+			],
+			[
+				37,
+				"시간",
+				"NNG",
+				"동양화과에 가기 위해서 실기 시험도 중요하지만 내신이 부족하기 때문에 이번 겨울 방학 때 시간을 잘 배분하여 공부 시간을 더욱 확보할 예정이다."
+			],
+			[
+				38,
+				"예정",
+				"NNG",
+				"동양화과에 가기 위해서 실기 시험도 중요하지만 내신이 부족하기 때문에 이번 겨울 방학 때 시간을 잘 배분하여 공부 시간을 더욱 확보할 예정이다."
+			],
+			[
+				39,
+				"최근",
+				"NNG",
+				"최근 봤던 그림 중에 운파 윤태유화백의 \"일출 황금소나무\"그림이 가장 인상 깊었다."
+			],
+			[
+				40,
+				"그림",
+				"NNG",
+				"최근 봤던 그림 중에 운파 윤태유화백의 \"일출 황금소나무\"그림이 가장 인상 깊었다."
+			],
+			[
+				41,
+				"화백",
+				"NNG",
+				"최근 봤던 그림 중에 운파 윤태유화백의 \"일출 황금소나무\"그림이 가장 인상 깊었다."
+			],
+			[
+				42,
+				"일출",
+				"NNG",
+				"최근 봤던 그림 중에 운파 윤태유화백의 \"일출 황금소나무\"그림이 가장 인상 깊었다."
+			],
+			[
+				43,
+				"황금",
+				"NNG",
+				"최근 봤던 그림 중에 운파 윤태유화백의 \"일출 황금소나무\"그림이 가장 인상 깊었다."
+			],
+			[
+				44,
+				"소나무",
+				"NNG",
+				"최근 봤던 그림 중에 운파 윤태유화백의 \"일출 황금소나무\"그림이 가장 인상 깊었다."
+			],
+			[
+				45,
+				"그림",
+				"NNG",
+				"최근 봤던 그림 중에 운파 윤태유화백의 \"일출 황금소나무\"그림이 가장 인상 깊었다."
+			],
+			[
+				46,
+				"인상",
+				"NNG",
+				"최근 봤던 그림 중에 운파 윤태유화백의 \"일출 황금소나무\"그림이 가장 인상 깊었다."
+			],
+			[
+				47,
+				"소나무",
+				"NNG",
+				"소나무의 나무 질감을 실제의 나무 질감과 비슷하게 표현한 것과 소나무 나뭇잎의 줄기 하나하나 세심하게 그린 모습이 너무 인상깊었다."
+			],
+			[
+				48,
+				"나무",
+				"NNG",
+				"소나무의 나무 질감을 실제의 나무 질감과 비슷하게 표현한 것과 소나무 나뭇잎의 줄기 하나하나 세심하게 그린 모습이 너무 인상깊었다."
+			],
+			[
+				49,
+				"질감",
+				"NNG",
+				"소나무의 나무 질감을 실제의 나무 질감과 비슷하게 표현한 것과 소나무 나뭇잎의 줄기 하나하나 세심하게 그린 모습이 너무 인상깊었다."
+			],
+			[
+				50,
+				"실제",
+				"NNG",
+				"소나무의 나무 질감을 실제의 나무 질감과 비슷하게 표현한 것과 소나무 나뭇잎의 줄기 하나하나 세심하게 그린 모습이 너무 인상깊었다."
+			],
+			[
+				51,
+				"나무",
+				"NNG",
+				"소나무의 나무 질감을 실제의 나무 질감과 비슷하게 표현한 것과 소나무 나뭇잎의 줄기 하나하나 세심하게 그린 모습이 너무 인상깊었다."
+			],
+			[
+				52,
+				"질감",
+				"NNG",
+				"소나무의 나무 질감을 실제의 나무 질감과 비슷하게 표현한 것과 소나무 나뭇잎의 줄기 하나하나 세심하게 그린 모습이 너무 인상깊었다."
+			],
+			[
+				53,
+				"소나무",
+				"NNG",
+				"소나무의 나무 질감을 실제의 나무 질감과 비슷하게 표현한 것과 소나무 나뭇잎의 줄기 하나하나 세심하게 그린 모습이 너무 인상깊었다."
+			],
+			[
+				54,
+				"나뭇잎",
+				"NNG",
+				"소나무의 나무 질감을 실제의 나무 질감과 비슷하게 표현한 것과 소나무 나뭇잎의 줄기 하나하나 세심하게 그린 모습이 너무 인상깊었다."
+			],
+			[
+				55,
+				"줄기",
+				"NNG",
+				"소나무의 나무 질감을 실제의 나무 질감과 비슷하게 표현한 것과 소나무 나뭇잎의 줄기 하나하나 세심하게 그린 모습이 너무 인상깊었다."
+			],
+			[
+				56,
+				"모습",
+				"NNG",
+				"소나무의 나무 질감을 실제의 나무 질감과 비슷하게 표현한 것과 소나무 나뭇잎의 줄기 하나하나 세심하게 그린 모습이 너무 인상깊었다."
+			],
+			[
+				57,
+				"인상",
+				"NNG",
+				"소나무의 나무 질감을 실제의 나무 질감과 비슷하게 표현한 것과 소나무 나뭇잎의 줄기 하나하나 세심하게 그린 모습이 너무 인상깊었다."
+			],
+			[
+				58,
+				"소나무",
+				"NNG",
+				"그리고 소나무 뒤에 떠오르는 붉은 태양의 위치가 소나무와 잘 어우러짐과 동시에 배치 방법이 이렇게 중요하구나 깨닫게 되는 그림이었다."
+			],
+			[
+				59,
+				"뒤",
+				"NNG",
+				"그리고 소나무 뒤에 떠오르는 붉은 태양의 위치가 소나무와 잘 어우러짐과 동시에 배치 방법이 이렇게 중요하구나 깨닫게 되는 그림이었다."
+			],
+			[
+				60,
+				"태양",
+				"NNG",
+				"그리고 소나무 뒤에 떠오르는 붉은 태양의 위치가 소나무와 잘 어우러짐과 동시에 배치 방법이 이렇게 중요하구나 깨닫게 되는 그림이었다."
+			],
+			[
+				61,
+				"위치",
+				"NNG",
+				"그리고 소나무 뒤에 떠오르는 붉은 태양의 위치가 소나무와 잘 어우러짐과 동시에 배치 방법이 이렇게 중요하구나 깨닫게 되는 그림이었다."
+			],
+			[
+				62,
+				"소나무",
+				"NNG",
+				"그리고 소나무 뒤에 떠오르는 붉은 태양의 위치가 소나무와 잘 어우러짐과 동시에 배치 방법이 이렇게 중요하구나 깨닫게 되는 그림이었다."
+			],
+			[
+				63,
+				"동시",
+				"NNG",
+				"그리고 소나무 뒤에 떠오르는 붉은 태양의 위치가 소나무와 잘 어우러짐과 동시에 배치 방법이 이렇게 중요하구나 깨닫게 되는 그림이었다."
+			],
+			[
+				64,
+				"배치",
+				"NNG",
+				"그리고 소나무 뒤에 떠오르는 붉은 태양의 위치가 소나무와 잘 어우러짐과 동시에 배치 방법이 이렇게 중요하구나 깨닫게 되는 그림이었다."
+			],
+			[
+				65,
+				"방법",
+				"NNG",
+				"그리고 소나무 뒤에 떠오르는 붉은 태양의 위치가 소나무와 잘 어우러짐과 동시에 배치 방법이 이렇게 중요하구나 깨닫게 되는 그림이었다."
+			],
+			[
+				66,
+				"그림",
+				"NNG",
+				"그리고 소나무 뒤에 떠오르는 붉은 태양의 위치가 소나무와 잘 어우러짐과 동시에 배치 방법이 이렇게 중요하구나 깨닫게 되는 그림이었다."
+			],
+			[
+				67,
+				"나중",
+				"NNG",
+				"나중에 동양화과에 가서 졸업을 한 후에 인기와 경력을 얻으면 나만의 동양화 전시회를 열어 세계적으로 유명한 동양화 화가가 되고 싶다."
+			],
+			[
+				68,
+				"졸업",
+				"NNG",
+				"나중에 동양화과에 가서 졸업을 한 후에 인기와 경력을 얻으면 나만의 동양화 전시회를 열어 세계적으로 유명한 동양화 화가가 되고 싶다."
+			],
+			[
+				69,
+				"후",
+				"NNG",
+				"나중에 동양화과에 가서 졸업을 한 후에 인기와 경력을 얻으면 나만의 동양화 전시회를 열어 세계적으로 유명한 동양화 화가가 되고 싶다."
+			],
+			[
+				70,
+				"인기",
+				"NNG",
+				"나중에 동양화과에 가서 졸업을 한 후에 인기와 경력을 얻으면 나만의 동양화 전시회를 열어 세계적으로 유명한 동양화 화가가 되고 싶다."
+			],
+			[
+				71,
+				"경력",
+				"NNG",
+				"나중에 동양화과에 가서 졸업을 한 후에 인기와 경력을 얻으면 나만의 동양화 전시회를 열어 세계적으로 유명한 동양화 화가가 되고 싶다."
+			],
+			[
+				72,
+				"동양화",
+				"NNG",
+				"나중에 동양화과에 가서 졸업을 한 후에 인기와 경력을 얻으면 나만의 동양화 전시회를 열어 세계적으로 유명한 동양화 화가가 되고 싶다."
+			],
+			[
+				73,
+				"전시회",
+				"NNG",
+				"나중에 동양화과에 가서 졸업을 한 후에 인기와 경력을 얻으면 나만의 동양화 전시회를 열어 세계적으로 유명한 동양화 화가가 되고 싶다."
+			],
+			[
+				74,
+				"세계",
+				"NNG",
+				"나중에 동양화과에 가서 졸업을 한 후에 인기와 경력을 얻으면 나만의 동양화 전시회를 열어 세계적으로 유명한 동양화 화가가 되고 싶다."
+			],
+			[
+				75,
+				"동양화",
+				"NNG",
+				"나중에 동양화과에 가서 졸업을 한 후에 인기와 경력을 얻으면 나만의 동양화 전시회를 열어 세계적으로 유명한 동양화 화가가 되고 싶다."
+			],
+			[
+				76,
+				"화가",
+				"NNG",
+				"나중에 동양화과에 가서 졸업을 한 후에 인기와 경력을 얻으면 나만의 동양화 전시회를 열어 세계적으로 유명한 동양화 화가가 되고 싶다."
+			]
+		],
+		"NNP_Lst": [
+			[
+				0,
+				"동양화과",
+				"NNP",
+				"하지만 지금 동양화과에 가기 위해서 학원에 다니며 실기 시험을 준비하고 있는데 다른 친구들이 그린 그림이나 동양화과 선배들이 그린 그림을 보며 그림 기술을 배우고 있다."
+			],
+			[
+				1,
+				"동양화과",
+				"NNP",
+				"하지만 지금 동양화과에 가기 위해서 학원에 다니며 실기 시험을 준비하고 있는데 다른 친구들이 그린 그림이나 동양화과 선배들이 그린 그림을 보며 그림 기술을 배우고 있다."
+			],
+			[
+				2,
+				"동양화과",
+				"NNP",
+				"동양화과에 가기 위해서 실기 시험도 중요하지만 내신이 부족하기 때문에 이번 겨울 방학 때 시간을 잘 배분하여 공부 시간을 더욱 확보할 예정이다."
+			],
+			[
+				3,
+				"운파",
+				"NNP",
+				"최근 봤던 그림 중에 운파 윤태유화백의 \"일출 황금소나무\"그림이 가장 인상 깊었다."
+			],
+			[
+				4,
+				"윤태유",
+				"NNP",
+				"최근 봤던 그림 중에 운파 윤태유화백의 \"일출 황금소나무\"그림이 가장 인상 깊었다."
+			],
+			[
+				5,
+				"동양화과",
+				"NNP",
+				"나중에 동양화과에 가서 졸업을 한 후에 인기와 경력을 얻으면 나만의 동양화 전시회를 열어 세계적으로 유명한 동양화 화가가 되고 싶다."
+			]
+		],
+		"NNB_Lst": [
+			[
+				0,
+				"적",
+				"NNB",
+				"어렸을 적 할머니댁에서 본 동양화를 보고 푹 빠졌었다."
+			],
+			[
+				1,
+				"만큼",
+				"NNB",
+				"그 때 이후로 다양한 동양화에 대해 검색해보고 전시회를 다녀왔을 만큼 동양화에 관심이 많아 동양화를 그리는 화가가 되고 싶다."
+			],
+			[
+				2,
+				"때문",
+				"NNB",
+				"동양화과에 가기 위해서 실기 시험도 중요하지만 내신이 부족하기 때문에 이번 겨울 방학 때 시간을 잘 배분하여 공부 시간을 더욱 확보할 예정이다."
+			],
+			[
+				3,
+				"중",
+				"NNB",
+				"최근 봤던 그림 중에 운파 윤태유화백의 \"일출 황금소나무\"그림이 가장 인상 깊었다."
+			],
+			[
+				4,
+				"것",
+				"NNB",
+				"소나무의 나무 질감을 실제의 나무 질감과 비슷하게 표현한 것과 소나무 나뭇잎의 줄기 하나하나 세심하게 그린 모습이 너무 인상깊었다."
+			]
+		],
+		"NP_Lst": [
+			[
+				0,
+				"나",
+				"NP",
+				"나의 꿈은 화가이다."
+			],
+			[
+				1,
+				"무엇",
+				"NP",
+				"무엇보다도 학교에서 미술시간의 교과서에는 서양화 위주가 많아서 아쉬웠다."
+			],
+			[
+				2,
+				"나",
+				"NP",
+				"나중에 동양화과에 가서 졸업을 한 후에 인기와 경력을 얻으면 나만의 동양화 전시회를 열어 세계적으로 유명한 동양화 화가가 되고 싶다."
+			]
+		],
+		"NP_People_Lst": [
+			[
+				0,
+				"나",
+				"NP",
+				"나의 꿈은 화가이다."
+			],
+			[
+				1,
+				"나",
+				"NP",
+				"나중에 동양화과에 가서 졸업을 한 후에 인기와 경력을 얻으면 나만의 동양화 전시회를 열어 세계적으로 유명한 동양화 화가가 되고 싶다."
+			]
+		],
+		"NP_Things_Lst": [
+			[
+				0,
+				"무엇",
+				"NP",
+				"무엇보다도 학교에서 미술시간의 교과서에는 서양화 위주가 많아서 아쉬웠다."
+			]
+		],
+		"NR_Lst": [],
+		"VL_Lst": [
+			[
+				0,
+				"이",
+				"VCP",
+				"나의 꿈은 화가이다."
+			],
+			[
+				1,
+				"어리",
+				"VA",
+				"어렸을 적 할머니댁에서 본 동양화를 보고 푹 빠졌었다."
+			],
+			[
+				2,
+				"보",
+				"VV",
+				"어렸을 적 할머니댁에서 본 동양화를 보고 푹 빠졌었다."
+			],
+			[
+				3,
+				"보",
+				"VV",
+				"어렸을 적 할머니댁에서 본 동양화를 보고 푹 빠졌었다."
+			],
+			[
+				4,
+				"빠지",
+				"VV",
+				"어렸을 적 할머니댁에서 본 동양화를 보고 푹 빠졌었다."
+			],
+			[
+				5,
+				"다양하",
+				"VA",
+				"그 때 이후로 다양한 동양화에 대해 검색해보고 전시회를 다녀왔을 만큼 동양화에 관심이 많아 동양화를 그리는 화가가 되고 싶다."
+			],
+			[
+				6,
+				"대하",
+				"VV",
+				"그 때 이후로 다양한 동양화에 대해 검색해보고 전시회를 다녀왔을 만큼 동양화에 관심이 많아 동양화를 그리는 화가가 되고 싶다."
+			],
+			[
+				7,
+				"검색하",
+				"VV",
+				"그 때 이후로 다양한 동양화에 대해 검색해보고 전시회를 다녀왔을 만큼 동양화에 관심이 많아 동양화를 그리는 화가가 되고 싶다."
+			],
+			[
+				8,
+				"보",
+				"VX",
+				"그 때 이후로 다양한 동양화에 대해 검색해보고 전시회를 다녀왔을 만큼 동양화에 관심이 많아 동양화를 그리는 화가가 되고 싶다."
+			],
+			[
+				9,
+				"다녀오",
+				"VV",
+				"그 때 이후로 다양한 동양화에 대해 검색해보고 전시회를 다녀왔을 만큼 동양화에 관심이 많아 동양화를 그리는 화가가 되고 싶다."
+			],
+			[
+				10,
+				"많",
+				"VA",
+				"그 때 이후로 다양한 동양화에 대해 검색해보고 전시회를 다녀왔을 만큼 동양화에 관심이 많아 동양화를 그리는 화가가 되고 싶다."
+			],
+			[
+				11,
+				"그리",
+				"VV",
+				"그 때 이후로 다양한 동양화에 대해 검색해보고 전시회를 다녀왔을 만큼 동양화에 관심이 많아 동양화를 그리는 화가가 되고 싶다."
+			],
+			[
+				12,
+				"되",
+				"VV",
+				"그 때 이후로 다양한 동양화에 대해 검색해보고 전시회를 다녀왔을 만큼 동양화에 관심이 많아 동양화를 그리는 화가가 되고 싶다."
+			],
+			[
+				13,
+				"싶",
+				"VX",
+				"그 때 이후로 다양한 동양화에 대해 검색해보고 전시회를 다녀왔을 만큼 동양화에 관심이 많아 동양화를 그리는 화가가 되고 싶다."
+			],
+			[
+				14,
+				"많",
+				"VA",
+				"무엇보다도 학교에서 미술시간의 교과서에는 서양화 위주가 많아서 아쉬웠다."
+			],
+			[
+				15,
+				"아쉽",
+				"VA",
+				"무엇보다도 학교에서 미술시간의 교과서에는 서양화 위주가 많아서 아쉬웠다."
+			],
+			[
+				16,
+				"가",
+				"VV",
+				"하지만 지금 동양화과에 가기 위해서 학원에 다니며 실기 시험을 준비하고 있는데 다른 친구들이 그린 그림이나 동양화과 선배들이 그린 그림을 보며 그림 기술을 배우고 있다."
+			],
+			[
+				17,
+				"위하",
+				"VV",
+				"하지만 지금 동양화과에 가기 위해서 학원에 다니며 실기 시험을 준비하고 있는데 다른 친구들이 그린 그림이나 동양화과 선배들이 그린 그림을 보며 그림 기술을 배우고 있다."
+			],
+			[
+				18,
+				"다니",
+				"VV",
+				"하지만 지금 동양화과에 가기 위해서 학원에 다니며 실기 시험을 준비하고 있는데 다른 친구들이 그린 그림이나 동양화과 선배들이 그린 그림을 보며 그림 기술을 배우고 있다."
+			],
+			[
+				19,
+				"준비하",
+				"VV",
+				"하지만 지금 동양화과에 가기 위해서 학원에 다니며 실기 시험을 준비하고 있는데 다른 친구들이 그린 그림이나 동양화과 선배들이 그린 그림을 보며 그림 기술을 배우고 있다."
+			],
+			[
+				20,
+				"있",
+				"VX",
+				"하지만 지금 동양화과에 가기 위해서 학원에 다니며 실기 시험을 준비하고 있는데 다른 친구들이 그린 그림이나 동양화과 선배들이 그린 그림을 보며 그림 기술을 배우고 있다."
+			],
+			[
+				21,
+				"그리",
+				"VV",
+				"하지만 지금 동양화과에 가기 위해서 학원에 다니며 실기 시험을 준비하고 있는데 다른 친구들이 그린 그림이나 동양화과 선배들이 그린 그림을 보며 그림 기술을 배우고 있다."
+			],
+			[
+				22,
+				"그리",
+				"VV",
+				"하지만 지금 동양화과에 가기 위해서 학원에 다니며 실기 시험을 준비하고 있는데 다른 친구들이 그린 그림이나 동양화과 선배들이 그린 그림을 보며 그림 기술을 배우고 있다."
+			],
+			[
+				23,
+				"보",
+				"VV",
+				"하지만 지금 동양화과에 가기 위해서 학원에 다니며 실기 시험을 준비하고 있는데 다른 친구들이 그린 그림이나 동양화과 선배들이 그린 그림을 보며 그림 기술을 배우고 있다."
+			],
+			[
+				24,
+				"배우",
+				"VV",
+				"하지만 지금 동양화과에 가기 위해서 학원에 다니며 실기 시험을 준비하고 있는데 다른 친구들이 그린 그림이나 동양화과 선배들이 그린 그림을 보며 그림 기술을 배우고 있다."
+			],
+			[
+				25,
+				"있",
+				"VX",
+				"하지만 지금 동양화과에 가기 위해서 학원에 다니며 실기 시험을 준비하고 있는데 다른 친구들이 그린 그림이나 동양화과 선배들이 그린 그림을 보며 그림 기술을 배우고 있다."
+			],
+			[
+				26,
+				"가",
+				"VV",
+				"동양화과에 가기 위해서 실기 시험도 중요하지만 내신이 부족하기 때문에 이번 겨울 방학 때 시간을 잘 배분하여 공부 시간을 더욱 확보할 예정이다."
+			],
+			[
+				27,
+				"위하",
+				"VV",
+				"동양화과에 가기 위해서 실기 시험도 중요하지만 내신이 부족하기 때문에 이번 겨울 방학 때 시간을 잘 배분하여 공부 시간을 더욱 확보할 예정이다."
+			],
+			[
+				28,
+				"중요하",
+				"VA",
+				"동양화과에 가기 위해서 실기 시험도 중요하지만 내신이 부족하기 때문에 이번 겨울 방학 때 시간을 잘 배분하여 공부 시간을 더욱 확보할 예정이다."
+			],
+			[
+				29,
+				"부족하",
+				"VA",
+				"동양화과에 가기 위해서 실기 시험도 중요하지만 내신이 부족하기 때문에 이번 겨울 방학 때 시간을 잘 배분하여 공부 시간을 더욱 확보할 예정이다."
+			],
+			[
+				30,
+				"배분하",
+				"VV",
+				"동양화과에 가기 위해서 실기 시험도 중요하지만 내신이 부족하기 때문에 이번 겨울 방학 때 시간을 잘 배분하여 공부 시간을 더욱 확보할 예정이다."
+			],
+			[
+				31,
+				"확보하",
+				"VV",
+				"동양화과에 가기 위해서 실기 시험도 중요하지만 내신이 부족하기 때문에 이번 겨울 방학 때 시간을 잘 배분하여 공부 시간을 더욱 확보할 예정이다."
+			],
+			[
+				32,
+				"이",
+				"VCP",
+				"동양화과에 가기 위해서 실기 시험도 중요하지만 내신이 부족하기 때문에 이번 겨울 방학 때 시간을 잘 배분하여 공부 시간을 더욱 확보할 예정이다."
+			],
+			[
+				33,
+				"보",
+				"VV",
+				"최근 봤던 그림 중에 운파 윤태유화백의 \"일출 황금소나무\"그림이 가장 인상 깊었다."
+			],
+			[
+				34,
+				"깊",
+				"VA",
+				"최근 봤던 그림 중에 운파 윤태유화백의 \"일출 황금소나무\"그림이 가장 인상 깊었다."
+			],
+			[
+				35,
+				"비슷하",
+				"VA",
+				"소나무의 나무 질감을 실제의 나무 질감과 비슷하게 표현한 것과 소나무 나뭇잎의 줄기 하나하나 세심하게 그린 모습이 너무 인상깊었다."
+			],
+			[
+				36,
+				"표현하",
+				"VV",
+				"소나무의 나무 질감을 실제의 나무 질감과 비슷하게 표현한 것과 소나무 나뭇잎의 줄기 하나하나 세심하게 그린 모습이 너무 인상깊었다."
+			],
+			[
+				37,
+				"세심하",
+				"VA",
+				"소나무의 나무 질감을 실제의 나무 질감과 비슷하게 표현한 것과 소나무 나뭇잎의 줄기 하나하나 세심하게 그린 모습이 너무 인상깊었다."
+			],
+			[
+				38,
+				"그리",
+				"VV",
+				"소나무의 나무 질감을 실제의 나무 질감과 비슷하게 표현한 것과 소나무 나뭇잎의 줄기 하나하나 세심하게 그린 모습이 너무 인상깊었다."
+			],
+			[
+				39,
+				"깊",
+				"VA",
+				"소나무의 나무 질감을 실제의 나무 질감과 비슷하게 표현한 것과 소나무 나뭇잎의 줄기 하나하나 세심하게 그린 모습이 너무 인상깊었다."
+			],
+			[
+				40,
+				"떠오르",
+				"VV",
+				"그리고 소나무 뒤에 떠오르는 붉은 태양의 위치가 소나무와 잘 어우러짐과 동시에 배치 방법이 이렇게 중요하구나 깨닫게 되는 그림이었다."
+			],
+			[
+				41,
+				"붉",
+				"VA",
+				"그리고 소나무 뒤에 떠오르는 붉은 태양의 위치가 소나무와 잘 어우러짐과 동시에 배치 방법이 이렇게 중요하구나 깨닫게 되는 그림이었다."
+			],
+			[
+				42,
+				"어우러지",
+				"VV",
+				"그리고 소나무 뒤에 떠오르는 붉은 태양의 위치가 소나무와 잘 어우러짐과 동시에 배치 방법이 이렇게 중요하구나 깨닫게 되는 그림이었다."
+			],
+			[
+				43,
+				"이렇",
+				"VA",
+				"그리고 소나무 뒤에 떠오르는 붉은 태양의 위치가 소나무와 잘 어우러짐과 동시에 배치 방법이 이렇게 중요하구나 깨닫게 되는 그림이었다."
+			],
+			[
+				44,
+				"중요하",
+				"VA",
+				"그리고 소나무 뒤에 떠오르는 붉은 태양의 위치가 소나무와 잘 어우러짐과 동시에 배치 방법이 이렇게 중요하구나 깨닫게 되는 그림이었다."
+			],
+			[
+				45,
+				"깨닫",
+				"VV",
+				"그리고 소나무 뒤에 떠오르는 붉은 태양의 위치가 소나무와 잘 어우러짐과 동시에 배치 방법이 이렇게 중요하구나 깨닫게 되는 그림이었다."
+			],
+			[
+				46,
+				"되",
+				"VV",
+				"그리고 소나무 뒤에 떠오르는 붉은 태양의 위치가 소나무와 잘 어우러짐과 동시에 배치 방법이 이렇게 중요하구나 깨닫게 되는 그림이었다."
+			],
+			[
+				47,
+				"이",
+				"VCP",
+				"그리고 소나무 뒤에 떠오르는 붉은 태양의 위치가 소나무와 잘 어우러짐과 동시에 배치 방법이 이렇게 중요하구나 깨닫게 되는 그림이었다."
+			],
+			[
+				48,
+				"가",
+				"VV",
+				"나중에 동양화과에 가서 졸업을 한 후에 인기와 경력을 얻으면 나만의 동양화 전시회를 열어 세계적으로 유명한 동양화 화가가 되고 싶다."
+			],
+			[
+				49,
+				"하",
+				"VV",
+				"나중에 동양화과에 가서 졸업을 한 후에 인기와 경력을 얻으면 나만의 동양화 전시회를 열어 세계적으로 유명한 동양화 화가가 되고 싶다."
+			],
+			[
+				50,
+				"얻",
+				"VV",
+				"나중에 동양화과에 가서 졸업을 한 후에 인기와 경력을 얻으면 나만의 동양화 전시회를 열어 세계적으로 유명한 동양화 화가가 되고 싶다."
+			],
+			[
+				51,
+				"열",
+				"VV",
+				"나중에 동양화과에 가서 졸업을 한 후에 인기와 경력을 얻으면 나만의 동양화 전시회를 열어 세계적으로 유명한 동양화 화가가 되고 싶다."
+			],
+			[
+				52,
+				"유명하",
+				"VA",
+				"나중에 동양화과에 가서 졸업을 한 후에 인기와 경력을 얻으면 나만의 동양화 전시회를 열어 세계적으로 유명한 동양화 화가가 되고 싶다."
+			],
+			[
+				53,
+				"되",
+				"VV",
+				"나중에 동양화과에 가서 졸업을 한 후에 인기와 경력을 얻으면 나만의 동양화 전시회를 열어 세계적으로 유명한 동양화 화가가 되고 싶다."
+			],
+			[
+				54,
+				"싶",
+				"VX",
+				"나중에 동양화과에 가서 졸업을 한 후에 인기와 경력을 얻으면 나만의 동양화 전시회를 열어 세계적으로 유명한 동양화 화가가 되고 싶다."
+			]
+		],
+		"VV_Lst": [
+			[
+				0,
+				"보",
+				"VV",
+				"어렸을 적 할머니댁에서 본 동양화를 보고 푹 빠졌었다."
+			],
+			[
+				1,
+				"보",
+				"VV",
+				"어렸을 적 할머니댁에서 본 동양화를 보고 푹 빠졌었다."
+			],
+			[
+				2,
+				"빠지",
+				"VV",
+				"어렸을 적 할머니댁에서 본 동양화를 보고 푹 빠졌었다."
+			],
+			[
+				3,
+				"대하",
+				"VV",
+				"그 때 이후로 다양한 동양화에 대해 검색해보고 전시회를 다녀왔을 만큼 동양화에 관심이 많아 동양화를 그리는 화가가 되고 싶다."
+			],
+			[
+				4,
+				"검색하",
+				"VV",
+				"그 때 이후로 다양한 동양화에 대해 검색해보고 전시회를 다녀왔을 만큼 동양화에 관심이 많아 동양화를 그리는 화가가 되고 싶다."
+			],
+			[
+				5,
+				"다녀오",
+				"VV",
+				"그 때 이후로 다양한 동양화에 대해 검색해보고 전시회를 다녀왔을 만큼 동양화에 관심이 많아 동양화를 그리는 화가가 되고 싶다."
+			],
+			[
+				6,
+				"그리",
+				"VV",
+				"그 때 이후로 다양한 동양화에 대해 검색해보고 전시회를 다녀왔을 만큼 동양화에 관심이 많아 동양화를 그리는 화가가 되고 싶다."
+			],
+			[
+				7,
+				"되",
+				"VV",
+				"그 때 이후로 다양한 동양화에 대해 검색해보고 전시회를 다녀왔을 만큼 동양화에 관심이 많아 동양화를 그리는 화가가 되고 싶다."
+			],
+			[
+				8,
+				"가",
+				"VV",
+				"하지만 지금 동양화과에 가기 위해서 학원에 다니며 실기 시험을 준비하고 있는데 다른 친구들이 그린 그림이나 동양화과 선배들이 그린 그림을 보며 그림 기술을 배우고 있다."
+			],
+			[
+				9,
+				"위하",
+				"VV",
+				"하지만 지금 동양화과에 가기 위해서 학원에 다니며 실기 시험을 준비하고 있는데 다른 친구들이 그린 그림이나 동양화과 선배들이 그린 그림을 보며 그림 기술을 배우고 있다."
+			],
+			[
+				10,
+				"다니",
+				"VV",
+				"하지만 지금 동양화과에 가기 위해서 학원에 다니며 실기 시험을 준비하고 있는데 다른 친구들이 그린 그림이나 동양화과 선배들이 그린 그림을 보며 그림 기술을 배우고 있다."
+			],
+			[
+				11,
+				"준비하",
+				"VV",
+				"하지만 지금 동양화과에 가기 위해서 학원에 다니며 실기 시험을 준비하고 있는데 다른 친구들이 그린 그림이나 동양화과 선배들이 그린 그림을 보며 그림 기술을 배우고 있다."
+			],
+			[
+				12,
+				"그리",
+				"VV",
+				"하지만 지금 동양화과에 가기 위해서 학원에 다니며 실기 시험을 준비하고 있는데 다른 친구들이 그린 그림이나 동양화과 선배들이 그린 그림을 보며 그림 기술을 배우고 있다."
+			],
+			[
+				13,
+				"그리",
+				"VV",
+				"하지만 지금 동양화과에 가기 위해서 학원에 다니며 실기 시험을 준비하고 있는데 다른 친구들이 그린 그림이나 동양화과 선배들이 그린 그림을 보며 그림 기술을 배우고 있다."
+			],
+			[
+				14,
+				"보",
+				"VV",
+				"하지만 지금 동양화과에 가기 위해서 학원에 다니며 실기 시험을 준비하고 있는데 다른 친구들이 그린 그림이나 동양화과 선배들이 그린 그림을 보며 그림 기술을 배우고 있다."
+			],
+			[
+				15,
+				"배우",
+				"VV",
+				"하지만 지금 동양화과에 가기 위해서 학원에 다니며 실기 시험을 준비하고 있는데 다른 친구들이 그린 그림이나 동양화과 선배들이 그린 그림을 보며 그림 기술을 배우고 있다."
+			],
+			[
+				16,
+				"가",
+				"VV",
+				"동양화과에 가기 위해서 실기 시험도 중요하지만 내신이 부족하기 때문에 이번 겨울 방학 때 시간을 잘 배분하여 공부 시간을 더욱 확보할 예정이다."
+			],
+			[
+				17,
+				"위하",
+				"VV",
+				"동양화과에 가기 위해서 실기 시험도 중요하지만 내신이 부족하기 때문에 이번 겨울 방학 때 시간을 잘 배분하여 공부 시간을 더욱 확보할 예정이다."
+			],
+			[
+				18,
+				"배분하",
+				"VV",
+				"동양화과에 가기 위해서 실기 시험도 중요하지만 내신이 부족하기 때문에 이번 겨울 방학 때 시간을 잘 배분하여 공부 시간을 더욱 확보할 예정이다."
+			],
+			[
+				19,
+				"확보하",
+				"VV",
+				"동양화과에 가기 위해서 실기 시험도 중요하지만 내신이 부족하기 때문에 이번 겨울 방학 때 시간을 잘 배분하여 공부 시간을 더욱 확보할 예정이다."
+			],
+			[
+				20,
+				"보",
+				"VV",
+				"최근 봤던 그림 중에 운파 윤태유화백의 \"일출 황금소나무\"그림이 가장 인상 깊었다."
+			],
+			[
+				21,
+				"표현하",
+				"VV",
+				"소나무의 나무 질감을 실제의 나무 질감과 비슷하게 표현한 것과 소나무 나뭇잎의 줄기 하나하나 세심하게 그린 모습이 너무 인상깊었다."
+			],
+			[
+				22,
+				"그리",
+				"VV",
+				"소나무의 나무 질감을 실제의 나무 질감과 비슷하게 표현한 것과 소나무 나뭇잎의 줄기 하나하나 세심하게 그린 모습이 너무 인상깊었다."
+			],
+			[
+				23,
+				"떠오르",
+				"VV",
+				"그리고 소나무 뒤에 떠오르는 붉은 태양의 위치가 소나무와 잘 어우러짐과 동시에 배치 방법이 이렇게 중요하구나 깨닫게 되는 그림이었다."
+			],
+			[
+				24,
+				"어우러지",
+				"VV",
+				"그리고 소나무 뒤에 떠오르는 붉은 태양의 위치가 소나무와 잘 어우러짐과 동시에 배치 방법이 이렇게 중요하구나 깨닫게 되는 그림이었다."
+			],
+			[
+				25,
+				"깨닫",
+				"VV",
+				"그리고 소나무 뒤에 떠오르는 붉은 태양의 위치가 소나무와 잘 어우러짐과 동시에 배치 방법이 이렇게 중요하구나 깨닫게 되는 그림이었다."
+			],
+			[
+				26,
+				"되",
+				"VV",
+				"그리고 소나무 뒤에 떠오르는 붉은 태양의 위치가 소나무와 잘 어우러짐과 동시에 배치 방법이 이렇게 중요하구나 깨닫게 되는 그림이었다."
+			],
+			[
+				27,
+				"가",
+				"VV",
+				"나중에 동양화과에 가서 졸업을 한 후에 인기와 경력을 얻으면 나만의 동양화 전시회를 열어 세계적으로 유명한 동양화 화가가 되고 싶다."
+			],
+			[
+				28,
+				"하",
+				"VV",
+				"나중에 동양화과에 가서 졸업을 한 후에 인기와 경력을 얻으면 나만의 동양화 전시회를 열어 세계적으로 유명한 동양화 화가가 되고 싶다."
+			],
+			[
+				29,
+				"얻",
+				"VV",
+				"나중에 동양화과에 가서 졸업을 한 후에 인기와 경력을 얻으면 나만의 동양화 전시회를 열어 세계적으로 유명한 동양화 화가가 되고 싶다."
+			],
+			[
+				30,
+				"열",
+				"VV",
+				"나중에 동양화과에 가서 졸업을 한 후에 인기와 경력을 얻으면 나만의 동양화 전시회를 열어 세계적으로 유명한 동양화 화가가 되고 싶다."
+			],
+			[
+				31,
+				"되",
+				"VV",
+				"나중에 동양화과에 가서 졸업을 한 후에 인기와 경력을 얻으면 나만의 동양화 전시회를 열어 세계적으로 유명한 동양화 화가가 되고 싶다."
+			]
+		],
+		"VA_Lst": [
+			[
+				0,
+				"어리",
+				"VA",
+				"어렸을 적 할머니댁에서 본 동양화를 보고 푹 빠졌었다."
+			],
+			[
+				1,
+				"다양하",
+				"VA",
+				"그 때 이후로 다양한 동양화에 대해 검색해보고 전시회를 다녀왔을 만큼 동양화에 관심이 많아 동양화를 그리는 화가가 되고 싶다."
+			],
+			[
+				2,
+				"많",
+				"VA",
+				"그 때 이후로 다양한 동양화에 대해 검색해보고 전시회를 다녀왔을 만큼 동양화에 관심이 많아 동양화를 그리는 화가가 되고 싶다."
+			],
+			[
+				3,
+				"많",
+				"VA",
+				"무엇보다도 학교에서 미술시간의 교과서에는 서양화 위주가 많아서 아쉬웠다."
+			],
+			[
+				4,
+				"아쉽",
+				"VA",
+				"무엇보다도 학교에서 미술시간의 교과서에는 서양화 위주가 많아서 아쉬웠다."
+			],
+			[
+				5,
+				"중요하",
+				"VA",
+				"동양화과에 가기 위해서 실기 시험도 중요하지만 내신이 부족하기 때문에 이번 겨울 방학 때 시간을 잘 배분하여 공부 시간을 더욱 확보할 예정이다."
+			],
+			[
+				6,
+				"부족하",
+				"VA",
+				"동양화과에 가기 위해서 실기 시험도 중요하지만 내신이 부족하기 때문에 이번 겨울 방학 때 시간을 잘 배분하여 공부 시간을 더욱 확보할 예정이다."
+			],
+			[
+				7,
+				"깊",
+				"VA",
+				"최근 봤던 그림 중에 운파 윤태유화백의 \"일출 황금소나무\"그림이 가장 인상 깊었다."
+			],
+			[
+				8,
+				"비슷하",
+				"VA",
+				"소나무의 나무 질감을 실제의 나무 질감과 비슷하게 표현한 것과 소나무 나뭇잎의 줄기 하나하나 세심하게 그린 모습이 너무 인상깊었다."
+			],
+			[
+				9,
+				"세심하",
+				"VA",
+				"소나무의 나무 질감을 실제의 나무 질감과 비슷하게 표현한 것과 소나무 나뭇잎의 줄기 하나하나 세심하게 그린 모습이 너무 인상깊었다."
+			],
+			[
+				10,
+				"깊",
+				"VA",
+				"소나무의 나무 질감을 실제의 나무 질감과 비슷하게 표현한 것과 소나무 나뭇잎의 줄기 하나하나 세심하게 그린 모습이 너무 인상깊었다."
+			],
+			[
+				11,
+				"붉",
+				"VA",
+				"그리고 소나무 뒤에 떠오르는 붉은 태양의 위치가 소나무와 잘 어우러짐과 동시에 배치 방법이 이렇게 중요하구나 깨닫게 되는 그림이었다."
+			],
+			[
+				12,
+				"이렇",
+				"VA",
+				"그리고 소나무 뒤에 떠오르는 붉은 태양의 위치가 소나무와 잘 어우러짐과 동시에 배치 방법이 이렇게 중요하구나 깨닫게 되는 그림이었다."
+			],
+			[
+				13,
+				"중요하",
+				"VA",
+				"그리고 소나무 뒤에 떠오르는 붉은 태양의 위치가 소나무와 잘 어우러짐과 동시에 배치 방법이 이렇게 중요하구나 깨닫게 되는 그림이었다."
+			],
+			[
+				14,
+				"유명하",
+				"VA",
+				"나중에 동양화과에 가서 졸업을 한 후에 인기와 경력을 얻으면 나만의 동양화 전시회를 열어 세계적으로 유명한 동양화 화가가 되고 싶다."
+			]
+		],
+		"VX_Lst": [
+			[
+				0,
+				"보",
+				"VX",
+				"그 때 이후로 다양한 동양화에 대해 검색해보고 전시회를 다녀왔을 만큼 동양화에 관심이 많아 동양화를 그리는 화가가 되고 싶다."
+			],
+			[
+				1,
+				"싶",
+				"VX",
+				"그 때 이후로 다양한 동양화에 대해 검색해보고 전시회를 다녀왔을 만큼 동양화에 관심이 많아 동양화를 그리는 화가가 되고 싶다."
+			],
+			[
+				2,
+				"있",
+				"VX",
+				"하지만 지금 동양화과에 가기 위해서 학원에 다니며 실기 시험을 준비하고 있는데 다른 친구들이 그린 그림이나 동양화과 선배들이 그린 그림을 보며 그림 기술을 배우고 있다."
+			],
+			[
+				3,
+				"있",
+				"VX",
+				"하지만 지금 동양화과에 가기 위해서 학원에 다니며 실기 시험을 준비하고 있는데 다른 친구들이 그린 그림이나 동양화과 선배들이 그린 그림을 보며 그림 기술을 배우고 있다."
+			],
+			[
+				4,
+				"싶",
+				"VX",
+				"나중에 동양화과에 가서 졸업을 한 후에 인기와 경력을 얻으면 나만의 동양화 전시회를 열어 세계적으로 유명한 동양화 화가가 되고 싶다."
+			]
+		],
+		"VCP_Lst": [
+			[
+				0,
+				"이",
+				"VCP",
+				"나의 꿈은 화가이다."
+			],
+			[
+				1,
+				"이",
+				"VCP",
+				"동양화과에 가기 위해서 실기 시험도 중요하지만 내신이 부족하기 때문에 이번 겨울 방학 때 시간을 잘 배분하여 공부 시간을 더욱 확보할 예정이다."
+			],
+			[
+				2,
+				"이",
+				"VCP",
+				"그리고 소나무 뒤에 떠오르는 붉은 태양의 위치가 소나무와 잘 어우러짐과 동시에 배치 방법이 이렇게 중요하구나 깨닫게 되는 그림이었다."
+			]
+		],
+		"VCN_Lst": [],
+		"ML_Lst": [
+			[
+				0,
+				"푹",
+				"MAG",
+				"어렸을 적 할머니댁에서 본 동양화를 보고 푹 빠졌었다."
+			],
+			[
+				1,
+				"하지만",
+				"MAJ",
+				"하지만 지금 동양화과에 가기 위해서 학원에 다니며 실기 시험을 준비하고 있는데 다른 친구들이 그린 그림이나 동양화과 선배들이 그린 그림을 보며 그림 기술을 배우고 있다."
+			],
+			[
+				2,
+				"지금",
+				"MAG",
+				"하지만 지금 동양화과에 가기 위해서 학원에 다니며 실기 시험을 준비하고 있는데 다른 친구들이 그린 그림이나 동양화과 선배들이 그린 그림을 보며 그림 기술을 배우고 있다."
+			],
+			[
+				3,
+				"잘",
+				"MAG",
+				"동양화과에 가기 위해서 실기 시험도 중요하지만 내신이 부족하기 때문에 이번 겨울 방학 때 시간을 잘 배분하여 공부 시간을 더욱 확보할 예정이다."
+			],
+			[
+				4,
+				"더욱",
+				"MAG",
+				"동양화과에 가기 위해서 실기 시험도 중요하지만 내신이 부족하기 때문에 이번 겨울 방학 때 시간을 잘 배분하여 공부 시간을 더욱 확보할 예정이다."
+			],
+			[
+				5,
+				"가장",
+				"MAG",
+				"최근 봤던 그림 중에 운파 윤태유화백의 \"일출 황금소나무\"그림이 가장 인상 깊었다."
+			],
+			[
+				6,
+				"하나하나",
+				"MAG",
+				"소나무의 나무 질감을 실제의 나무 질감과 비슷하게 표현한 것과 소나무 나뭇잎의 줄기 하나하나 세심하게 그린 모습이 너무 인상깊었다."
+			],
+			[
+				7,
+				"너무",
+				"MAG",
+				"소나무의 나무 질감을 실제의 나무 질감과 비슷하게 표현한 것과 소나무 나뭇잎의 줄기 하나하나 세심하게 그린 모습이 너무 인상깊었다."
+			],
+			[
+				8,
+				"그리고",
+				"MAJ",
+				"그리고 소나무 뒤에 떠오르는 붉은 태양의 위치가 소나무와 잘 어우러짐과 동시에 배치 방법이 이렇게 중요하구나 깨닫게 되는 그림이었다."
+			],
+			[
+				9,
+				"잘",
+				"MAG",
+				"그리고 소나무 뒤에 떠오르는 붉은 태양의 위치가 소나무와 잘 어우러짐과 동시에 배치 방법이 이렇게 중요하구나 깨닫게 되는 그림이었다."
+			]
+		],
+		"MA_Lst": [],
+		"MM_Lst": [],
+		"J_Lst": [
+			[
+				0,
+				"의",
+				"JKG",
+				"나의 꿈은 화가이다."
+			],
+			[
+				1,
+				"은",
+				"JX",
+				"나의 꿈은 화가이다."
+			],
+			[
+				2,
+				"에서",
+				"JKB",
+				"어렸을 적 할머니댁에서 본 동양화를 보고 푹 빠졌었다."
+			],
+			[
+				3,
+				"를",
+				"JKO",
+				"어렸을 적 할머니댁에서 본 동양화를 보고 푹 빠졌었다."
+			],
+			[
+				4,
+				"로",
+				"JKB",
+				"그 때 이후로 다양한 동양화에 대해 검색해보고 전시회를 다녀왔을 만큼 동양화에 관심이 많아 동양화를 그리는 화가가 되고 싶다."
+			],
+			[
+				5,
+				"에",
+				"JKB",
+				"그 때 이후로 다양한 동양화에 대해 검색해보고 전시회를 다녀왔을 만큼 동양화에 관심이 많아 동양화를 그리는 화가가 되고 싶다."
+			],
+			[
+				6,
+				"를",
+				"JKO",
+				"그 때 이후로 다양한 동양화에 대해 검색해보고 전시회를 다녀왔을 만큼 동양화에 관심이 많아 동양화를 그리는 화가가 되고 싶다."
+			],
+			[
+				7,
+				"에",
+				"JKB",
+				"그 때 이후로 다양한 동양화에 대해 검색해보고 전시회를 다녀왔을 만큼 동양화에 관심이 많아 동양화를 그리는 화가가 되고 싶다."
+			],
+			[
+				8,
+				"이",
+				"JKS",
+				"그 때 이후로 다양한 동양화에 대해 검색해보고 전시회를 다녀왔을 만큼 동양화에 관심이 많아 동양화를 그리는 화가가 되고 싶다."
+			],
+			[
+				9,
+				"를",
+				"JKO",
+				"그 때 이후로 다양한 동양화에 대해 검색해보고 전시회를 다녀왔을 만큼 동양화에 관심이 많아 동양화를 그리는 화가가 되고 싶다."
+			],
+			[
+				10,
+				"가",
+				"JKC",
+				"그 때 이후로 다양한 동양화에 대해 검색해보고 전시회를 다녀왔을 만큼 동양화에 관심이 많아 동양화를 그리는 화가가 되고 싶다."
+			],
+			[
+				11,
+				"보다",
+				"JKB",
+				"무엇보다도 학교에서 미술시간의 교과서에는 서양화 위주가 많아서 아쉬웠다."
+			],
+			[
+				12,
+				"도",
+				"JX",
+				"무엇보다도 학교에서 미술시간의 교과서에는 서양화 위주가 많아서 아쉬웠다."
+			],
+			[
+				13,
+				"에서",
+				"JKB",
+				"무엇보다도 학교에서 미술시간의 교과서에는 서양화 위주가 많아서 아쉬웠다."
+			],
+			[
+				14,
+				"의",
+				"JKG",
+				"무엇보다도 학교에서 미술시간의 교과서에는 서양화 위주가 많아서 아쉬웠다."
+			],
+			[
+				15,
+				"에",
+				"JKB",
+				"무엇보다도 학교에서 미술시간의 교과서에는 서양화 위주가 많아서 아쉬웠다."
+			],
+			[
+				16,
+				"는",
+				"JX",
+				"무엇보다도 학교에서 미술시간의 교과서에는 서양화 위주가 많아서 아쉬웠다."
+			],
+			[
+				17,
+				"가",
+				"JKS",
+				"무엇보다도 학교에서 미술시간의 교과서에는 서양화 위주가 많아서 아쉬웠다."
+			],
+			[
+				18,
+				"에",
+				"JKB",
+				"하지만 지금 동양화과에 가기 위해서 학원에 다니며 실기 시험을 준비하고 있는데 다른 친구들이 그린 그림이나 동양화과 선배들이 그린 그림을 보며 그림 기술을 배우고 있다."
+			],
+			[
+				19,
+				"에",
+				"JKB",
+				"하지만 지금 동양화과에 가기 위해서 학원에 다니며 실기 시험을 준비하고 있는데 다른 친구들이 그린 그림이나 동양화과 선배들이 그린 그림을 보며 그림 기술을 배우고 있다."
+			],
+			[
+				20,
+				"을",
+				"JKO",
+				"하지만 지금 동양화과에 가기 위해서 학원에 다니며 실기 시험을 준비하고 있는데 다른 친구들이 그린 그림이나 동양화과 선배들이 그린 그림을 보며 그림 기술을 배우고 있다."
+			],
+			[
+				21,
+				"이",
+				"JKS",
+				"하지만 지금 동양화과에 가기 위해서 학원에 다니며 실기 시험을 준비하고 있는데 다른 친구들이 그린 그림이나 동양화과 선배들이 그린 그림을 보며 그림 기술을 배우고 있다."
+			],
+			[
+				22,
+				"이나",
+				"JC",
+				"하지만 지금 동양화과에 가기 위해서 학원에 다니며 실기 시험을 준비하고 있는데 다른 친구들이 그린 그림이나 동양화과 선배들이 그린 그림을 보며 그림 기술을 배우고 있다."
+			],
+			[
+				23,
+				"이",
+				"JKS",
+				"하지만 지금 동양화과에 가기 위해서 학원에 다니며 실기 시험을 준비하고 있는데 다른 친구들이 그린 그림이나 동양화과 선배들이 그린 그림을 보며 그림 기술을 배우고 있다."
+			],
+			[
+				24,
+				"을",
+				"JKO",
+				"하지만 지금 동양화과에 가기 위해서 학원에 다니며 실기 시험을 준비하고 있는데 다른 친구들이 그린 그림이나 동양화과 선배들이 그린 그림을 보며 그림 기술을 배우고 있다."
+			],
+			[
+				25,
+				"을",
+				"JKO",
+				"하지만 지금 동양화과에 가기 위해서 학원에 다니며 실기 시험을 준비하고 있는데 다른 친구들이 그린 그림이나 동양화과 선배들이 그린 그림을 보며 그림 기술을 배우고 있다."
+			],
+			[
+				26,
+				"에",
+				"JKB",
+				"동양화과에 가기 위해서 실기 시험도 중요하지만 내신이 부족하기 때문에 이번 겨울 방학 때 시간을 잘 배분하여 공부 시간을 더욱 확보할 예정이다."
+			],
+			[
+				27,
+				"도",
+				"JX",
+				"동양화과에 가기 위해서 실기 시험도 중요하지만 내신이 부족하기 때문에 이번 겨울 방학 때 시간을 잘 배분하여 공부 시간을 더욱 확보할 예정이다."
+			],
+			[
+				28,
+				"이",
+				"JKS",
+				"동양화과에 가기 위해서 실기 시험도 중요하지만 내신이 부족하기 때문에 이번 겨울 방학 때 시간을 잘 배분하여 공부 시간을 더욱 확보할 예정이다."
+			],
+			[
+				29,
+				"에",
+				"JKB",
+				"동양화과에 가기 위해서 실기 시험도 중요하지만 내신이 부족하기 때문에 이번 겨울 방학 때 시간을 잘 배분하여 공부 시간을 더욱 확보할 예정이다."
+			],
+			[
+				30,
+				"을",
+				"JKO",
+				"동양화과에 가기 위해서 실기 시험도 중요하지만 내신이 부족하기 때문에 이번 겨울 방학 때 시간을 잘 배분하여 공부 시간을 더욱 확보할 예정이다."
+			],
+			[
+				31,
+				"을",
+				"JKO",
+				"동양화과에 가기 위해서 실기 시험도 중요하지만 내신이 부족하기 때문에 이번 겨울 방학 때 시간을 잘 배분하여 공부 시간을 더욱 확보할 예정이다."
+			],
+			[
+				32,
+				"에",
+				"JKB",
+				"최근 봤던 그림 중에 운파 윤태유화백의 \"일출 황금소나무\"그림이 가장 인상 깊었다."
+			],
+			[
+				33,
+				"의",
+				"JKG",
+				"최근 봤던 그림 중에 운파 윤태유화백의 \"일출 황금소나무\"그림이 가장 인상 깊었다."
+			],
+			[
+				34,
+				"이",
+				"JKS",
+				"최근 봤던 그림 중에 운파 윤태유화백의 \"일출 황금소나무\"그림이 가장 인상 깊었다."
+			],
+			[
+				35,
+				"의",
+				"JKG",
+				"소나무의 나무 질감을 실제의 나무 질감과 비슷하게 표현한 것과 소나무 나뭇잎의 줄기 하나하나 세심하게 그린 모습이 너무 인상깊었다."
+			],
+			[
+				36,
+				"을",
+				"JKO",
+				"소나무의 나무 질감을 실제의 나무 질감과 비슷하게 표현한 것과 소나무 나뭇잎의 줄기 하나하나 세심하게 그린 모습이 너무 인상깊었다."
+			],
+			[
+				37,
+				"의",
+				"JKG",
+				"소나무의 나무 질감을 실제의 나무 질감과 비슷하게 표현한 것과 소나무 나뭇잎의 줄기 하나하나 세심하게 그린 모습이 너무 인상깊었다."
+			],
+			[
+				38,
+				"과",
+				"JC",
+				"소나무의 나무 질감을 실제의 나무 질감과 비슷하게 표현한 것과 소나무 나뭇잎의 줄기 하나하나 세심하게 그린 모습이 너무 인상깊었다."
+			],
+			[
+				39,
+				"과",
+				"JC",
+				"소나무의 나무 질감을 실제의 나무 질감과 비슷하게 표현한 것과 소나무 나뭇잎의 줄기 하나하나 세심하게 그린 모습이 너무 인상깊었다."
+			],
+			[
+				40,
+				"의",
+				"JKG",
+				"소나무의 나무 질감을 실제의 나무 질감과 비슷하게 표현한 것과 소나무 나뭇잎의 줄기 하나하나 세심하게 그린 모습이 너무 인상깊었다."
+			],
+			[
+				41,
+				"이",
+				"JKS",
+				"소나무의 나무 질감을 실제의 나무 질감과 비슷하게 표현한 것과 소나무 나뭇잎의 줄기 하나하나 세심하게 그린 모습이 너무 인상깊었다."
+			],
+			[
+				42,
+				"에",
+				"JKB",
+				"그리고 소나무 뒤에 떠오르는 붉은 태양의 위치가 소나무와 잘 어우러짐과 동시에 배치 방법이 이렇게 중요하구나 깨닫게 되는 그림이었다."
+			],
+			[
+				43,
+				"의",
+				"JKG",
+				"그리고 소나무 뒤에 떠오르는 붉은 태양의 위치가 소나무와 잘 어우러짐과 동시에 배치 방법이 이렇게 중요하구나 깨닫게 되는 그림이었다."
+			],
+			[
+				44,
+				"가",
+				"JKS",
+				"그리고 소나무 뒤에 떠오르는 붉은 태양의 위치가 소나무와 잘 어우러짐과 동시에 배치 방법이 이렇게 중요하구나 깨닫게 되는 그림이었다."
+			],
+			[
+				45,
+				"와",
+				"JKB",
+				"그리고 소나무 뒤에 떠오르는 붉은 태양의 위치가 소나무와 잘 어우러짐과 동시에 배치 방법이 이렇게 중요하구나 깨닫게 되는 그림이었다."
+			],
+			[
+				46,
+				"과",
+				"JKB",
+				"그리고 소나무 뒤에 떠오르는 붉은 태양의 위치가 소나무와 잘 어우러짐과 동시에 배치 방법이 이렇게 중요하구나 깨닫게 되는 그림이었다."
+			],
+			[
+				47,
+				"에",
+				"JKB",
+				"그리고 소나무 뒤에 떠오르는 붉은 태양의 위치가 소나무와 잘 어우러짐과 동시에 배치 방법이 이렇게 중요하구나 깨닫게 되는 그림이었다."
+			],
+			[
+				48,
+				"이",
+				"JKS",
+				"그리고 소나무 뒤에 떠오르는 붉은 태양의 위치가 소나무와 잘 어우러짐과 동시에 배치 방법이 이렇게 중요하구나 깨닫게 되는 그림이었다."
+			],
+			[
+				49,
+				"에",
+				"JKB",
+				"나중에 동양화과에 가서 졸업을 한 후에 인기와 경력을 얻으면 나만의 동양화 전시회를 열어 세계적으로 유명한 동양화 화가가 되고 싶다."
+			],
+			[
+				50,
+				"에",
+				"JKB",
+				"나중에 동양화과에 가서 졸업을 한 후에 인기와 경력을 얻으면 나만의 동양화 전시회를 열어 세계적으로 유명한 동양화 화가가 되고 싶다."
+			],
+			[
+				51,
+				"을",
+				"JKO",
+				"나중에 동양화과에 가서 졸업을 한 후에 인기와 경력을 얻으면 나만의 동양화 전시회를 열어 세계적으로 유명한 동양화 화가가 되고 싶다."
+			],
+			[
+				52,
+				"에",
+				"JKB",
+				"나중에 동양화과에 가서 졸업을 한 후에 인기와 경력을 얻으면 나만의 동양화 전시회를 열어 세계적으로 유명한 동양화 화가가 되고 싶다."
+			],
+			[
+				53,
+				"와",
+				"JC",
+				"나중에 동양화과에 가서 졸업을 한 후에 인기와 경력을 얻으면 나만의 동양화 전시회를 열어 세계적으로 유명한 동양화 화가가 되고 싶다."
+			],
+			[
+				54,
+				"을",
+				"JKO",
+				"나중에 동양화과에 가서 졸업을 한 후에 인기와 경력을 얻으면 나만의 동양화 전시회를 열어 세계적으로 유명한 동양화 화가가 되고 싶다."
+			],
+			[
+				55,
+				"만",
+				"JX",
+				"나중에 동양화과에 가서 졸업을 한 후에 인기와 경력을 얻으면 나만의 동양화 전시회를 열어 세계적으로 유명한 동양화 화가가 되고 싶다."
+			],
+			[
+				56,
+				"의",
+				"JKG",
+				"나중에 동양화과에 가서 졸업을 한 후에 인기와 경력을 얻으면 나만의 동양화 전시회를 열어 세계적으로 유명한 동양화 화가가 되고 싶다."
+			],
+			[
+				57,
+				"를",
+				"JKO",
+				"나중에 동양화과에 가서 졸업을 한 후에 인기와 경력을 얻으면 나만의 동양화 전시회를 열어 세계적으로 유명한 동양화 화가가 되고 싶다."
+			],
+			[
+				58,
+				"으로",
+				"JKB",
+				"나중에 동양화과에 가서 졸업을 한 후에 인기와 경력을 얻으면 나만의 동양화 전시회를 열어 세계적으로 유명한 동양화 화가가 되고 싶다."
+			],
+			[
+				59,
+				"가",
+				"JKC",
+				"나중에 동양화과에 가서 졸업을 한 후에 인기와 경력을 얻으면 나만의 동양화 전시회를 열어 세계적으로 유명한 동양화 화가가 되고 싶다."
+			]
+		],
+		"E_Lst": [
+			[
+				0,
+				"다",
+				"EF",
+				"나의 꿈은 화가이다."
+			],
+			[
+				1,
+				"었",
+				"EP",
+				"어렸을 적 할머니댁에서 본 동양화를 보고 푹 빠졌었다."
+			],
+			[
+				2,
+				"을",
+				"ETM",
+				"어렸을 적 할머니댁에서 본 동양화를 보고 푹 빠졌었다."
+			],
+			[
+				3,
+				"ㄴ",
+				"ETM",
+				"어렸을 적 할머니댁에서 본 동양화를 보고 푹 빠졌었다."
+			],
+			[
+				4,
+				"고",
+				"EC",
+				"어렸을 적 할머니댁에서 본 동양화를 보고 푹 빠졌었다."
+			],
+			[
+				5,
+				"었었",
+				"EP",
+				"어렸을 적 할머니댁에서 본 동양화를 보고 푹 빠졌었다."
+			],
+			[
+				6,
+				"다",
+				"EF",
+				"어렸을 적 할머니댁에서 본 동양화를 보고 푹 빠졌었다."
+			],
+			[
+				7,
+				"ㄴ",
+				"ETM",
+				"그 때 이후로 다양한 동양화에 대해 검색해보고 전시회를 다녀왔을 만큼 동양화에 관심이 많아 동양화를 그리는 화가가 되고 싶다."
+			],
+			[
+				8,
+				"아",
+				"EC",
+				"그 때 이후로 다양한 동양화에 대해 검색해보고 전시회를 다녀왔을 만큼 동양화에 관심이 많아 동양화를 그리는 화가가 되고 싶다."
+			],
+			[
+				9,
+				"아",
+				"EC",
+				"그 때 이후로 다양한 동양화에 대해 검색해보고 전시회를 다녀왔을 만큼 동양화에 관심이 많아 동양화를 그리는 화가가 되고 싶다."
+			],
+			[
+				10,
+				"고",
+				"EC",
+				"그 때 이후로 다양한 동양화에 대해 검색해보고 전시회를 다녀왔을 만큼 동양화에 관심이 많아 동양화를 그리는 화가가 되고 싶다."
+			],
+			[
+				11,
+				"았",
+				"EP",
+				"그 때 이후로 다양한 동양화에 대해 검색해보고 전시회를 다녀왔을 만큼 동양화에 관심이 많아 동양화를 그리는 화가가 되고 싶다."
+			],
+			[
+				12,
+				"을",
+				"ETM",
+				"그 때 이후로 다양한 동양화에 대해 검색해보고 전시회를 다녀왔을 만큼 동양화에 관심이 많아 동양화를 그리는 화가가 되고 싶다."
+			],
+			[
+				13,
+				"아",
+				"EC",
+				"그 때 이후로 다양한 동양화에 대해 검색해보고 전시회를 다녀왔을 만큼 동양화에 관심이 많아 동양화를 그리는 화가가 되고 싶다."
+			],
+			[
+				14,
+				"는",
+				"ETM",
+				"그 때 이후로 다양한 동양화에 대해 검색해보고 전시회를 다녀왔을 만큼 동양화에 관심이 많아 동양화를 그리는 화가가 되고 싶다."
+			],
+			[
+				15,
+				"고",
+				"EC",
+				"그 때 이후로 다양한 동양화에 대해 검색해보고 전시회를 다녀왔을 만큼 동양화에 관심이 많아 동양화를 그리는 화가가 되고 싶다."
+			],
+			[
+				16,
+				"다",
+				"EF",
+				"그 때 이후로 다양한 동양화에 대해 검색해보고 전시회를 다녀왔을 만큼 동양화에 관심이 많아 동양화를 그리는 화가가 되고 싶다."
+			],
+			[
+				17,
+				"아서",
+				"EC",
+				"무엇보다도 학교에서 미술시간의 교과서에는 서양화 위주가 많아서 아쉬웠다."
+			],
+			[
+				18,
+				"었",
+				"EP",
+				"무엇보다도 학교에서 미술시간의 교과서에는 서양화 위주가 많아서 아쉬웠다."
+			],
+			[
+				19,
+				"다",
+				"EF",
+				"무엇보다도 학교에서 미술시간의 교과서에는 서양화 위주가 많아서 아쉬웠다."
+			],
+			[
+				20,
+				"기",
+				"ETN",
+				"하지만 지금 동양화과에 가기 위해서 학원에 다니며 실기 시험을 준비하고 있는데 다른 친구들이 그린 그림이나 동양화과 선배들이 그린 그림을 보며 그림 기술을 배우고 있다."
+			],
+			[
+				21,
+				"아서",
+				"EC",
+				"하지만 지금 동양화과에 가기 위해서 학원에 다니며 실기 시험을 준비하고 있는데 다른 친구들이 그린 그림이나 동양화과 선배들이 그린 그림을 보며 그림 기술을 배우고 있다."
+			],
+			[
+				22,
+				"며",
+				"EC",
+				"하지만 지금 동양화과에 가기 위해서 학원에 다니며 실기 시험을 준비하고 있는데 다른 친구들이 그린 그림이나 동양화과 선배들이 그린 그림을 보며 그림 기술을 배우고 있다."
+			],
+			[
+				23,
+				"고",
+				"EC",
+				"하지만 지금 동양화과에 가기 위해서 학원에 다니며 실기 시험을 준비하고 있는데 다른 친구들이 그린 그림이나 동양화과 선배들이 그린 그림을 보며 그림 기술을 배우고 있다."
+			],
+			[
+				24,
+				"는데",
+				"EC",
+				"하지만 지금 동양화과에 가기 위해서 학원에 다니며 실기 시험을 준비하고 있는데 다른 친구들이 그린 그림이나 동양화과 선배들이 그린 그림을 보며 그림 기술을 배우고 있다."
+			],
+			[
+				25,
+				"ㄴ",
+				"ETM",
+				"하지만 지금 동양화과에 가기 위해서 학원에 다니며 실기 시험을 준비하고 있는데 다른 친구들이 그린 그림이나 동양화과 선배들이 그린 그림을 보며 그림 기술을 배우고 있다."
+			],
+			[
+				26,
+				"ㄴ",
+				"ETM",
+				"하지만 지금 동양화과에 가기 위해서 학원에 다니며 실기 시험을 준비하고 있는데 다른 친구들이 그린 그림이나 동양화과 선배들이 그린 그림을 보며 그림 기술을 배우고 있다."
+			],
+			[
+				27,
+				"며",
+				"EC",
+				"하지만 지금 동양화과에 가기 위해서 학원에 다니며 실기 시험을 준비하고 있는데 다른 친구들이 그린 그림이나 동양화과 선배들이 그린 그림을 보며 그림 기술을 배우고 있다."
+			],
+			[
+				28,
+				"고",
+				"EC",
+				"하지만 지금 동양화과에 가기 위해서 학원에 다니며 실기 시험을 준비하고 있는데 다른 친구들이 그린 그림이나 동양화과 선배들이 그린 그림을 보며 그림 기술을 배우고 있다."
+			],
+			[
+				29,
+				"다",
+				"EF",
+				"하지만 지금 동양화과에 가기 위해서 학원에 다니며 실기 시험을 준비하고 있는데 다른 친구들이 그린 그림이나 동양화과 선배들이 그린 그림을 보며 그림 기술을 배우고 있다."
+			],
+			[
+				30,
+				"기",
+				"ETN",
+				"동양화과에 가기 위해서 실기 시험도 중요하지만 내신이 부족하기 때문에 이번 겨울 방학 때 시간을 잘 배분하여 공부 시간을 더욱 확보할 예정이다."
+			],
+			[
+				31,
+				"아서",
+				"EC",
+				"동양화과에 가기 위해서 실기 시험도 중요하지만 내신이 부족하기 때문에 이번 겨울 방학 때 시간을 잘 배분하여 공부 시간을 더욱 확보할 예정이다."
+			],
+			[
+				32,
+				"지만",
+				"EC",
+				"동양화과에 가기 위해서 실기 시험도 중요하지만 내신이 부족하기 때문에 이번 겨울 방학 때 시간을 잘 배분하여 공부 시간을 더욱 확보할 예정이다."
+			],
+			[
+				33,
+				"기",
+				"ETN",
+				"동양화과에 가기 위해서 실기 시험도 중요하지만 내신이 부족하기 때문에 이번 겨울 방학 때 시간을 잘 배분하여 공부 시간을 더욱 확보할 예정이다."
+			],
+			[
+				34,
+				"아",
+				"EC",
+				"동양화과에 가기 위해서 실기 시험도 중요하지만 내신이 부족하기 때문에 이번 겨울 방학 때 시간을 잘 배분하여 공부 시간을 더욱 확보할 예정이다."
+			],
+			[
+				35,
+				"ㄹ",
+				"ETM",
+				"동양화과에 가기 위해서 실기 시험도 중요하지만 내신이 부족하기 때문에 이번 겨울 방학 때 시간을 잘 배분하여 공부 시간을 더욱 확보할 예정이다."
+			],
+			[
+				36,
+				"다",
+				"EF",
+				"동양화과에 가기 위해서 실기 시험도 중요하지만 내신이 부족하기 때문에 이번 겨울 방학 때 시간을 잘 배분하여 공부 시간을 더욱 확보할 예정이다."
+			],
+			[
+				37,
+				"았",
+				"EP",
+				"최근 봤던 그림 중에 운파 윤태유화백의 \"일출 황금소나무\"그림이 가장 인상 깊었다."
+			],
+			[
+				38,
+				"던",
+				"ETM",
+				"최근 봤던 그림 중에 운파 윤태유화백의 \"일출 황금소나무\"그림이 가장 인상 깊었다."
+			],
+			[
+				39,
+				"었",
+				"EP",
+				"최근 봤던 그림 중에 운파 윤태유화백의 \"일출 황금소나무\"그림이 가장 인상 깊었다."
+			],
+			[
+				40,
+				"다",
+				"EF",
+				"최근 봤던 그림 중에 운파 윤태유화백의 \"일출 황금소나무\"그림이 가장 인상 깊었다."
+			],
+			[
+				41,
+				"게",
+				"EC",
+				"소나무의 나무 질감을 실제의 나무 질감과 비슷하게 표현한 것과 소나무 나뭇잎의 줄기 하나하나 세심하게 그린 모습이 너무 인상깊었다."
+			],
+			[
+				42,
+				"ㄴ",
+				"ETM",
+				"소나무의 나무 질감을 실제의 나무 질감과 비슷하게 표현한 것과 소나무 나뭇잎의 줄기 하나하나 세심하게 그린 모습이 너무 인상깊었다."
+			],
+			[
+				43,
+				"게",
+				"EC",
+				"소나무의 나무 질감을 실제의 나무 질감과 비슷하게 표현한 것과 소나무 나뭇잎의 줄기 하나하나 세심하게 그린 모습이 너무 인상깊었다."
+			],
+			[
+				44,
+				"ㄴ",
+				"ETM",
+				"소나무의 나무 질감을 실제의 나무 질감과 비슷하게 표현한 것과 소나무 나뭇잎의 줄기 하나하나 세심하게 그린 모습이 너무 인상깊었다."
+			],
+			[
+				45,
+				"었",
+				"EP",
+				"소나무의 나무 질감을 실제의 나무 질감과 비슷하게 표현한 것과 소나무 나뭇잎의 줄기 하나하나 세심하게 그린 모습이 너무 인상깊었다."
+			],
+			[
+				46,
+				"다",
+				"EF",
+				"소나무의 나무 질감을 실제의 나무 질감과 비슷하게 표현한 것과 소나무 나뭇잎의 줄기 하나하나 세심하게 그린 모습이 너무 인상깊었다."
+			],
+			[
+				47,
+				"는",
+				"ETM",
+				"그리고 소나무 뒤에 떠오르는 붉은 태양의 위치가 소나무와 잘 어우러짐과 동시에 배치 방법이 이렇게 중요하구나 깨닫게 되는 그림이었다."
+			],
+			[
+				48,
+				"은",
+				"ETM",
+				"그리고 소나무 뒤에 떠오르는 붉은 태양의 위치가 소나무와 잘 어우러짐과 동시에 배치 방법이 이렇게 중요하구나 깨닫게 되는 그림이었다."
+			],
+			[
+				49,
+				"ㅁ",
+				"ETN",
+				"그리고 소나무 뒤에 떠오르는 붉은 태양의 위치가 소나무와 잘 어우러짐과 동시에 배치 방법이 이렇게 중요하구나 깨닫게 되는 그림이었다."
+			],
+			[
+				50,
+				"게",
+				"EC",
+				"그리고 소나무 뒤에 떠오르는 붉은 태양의 위치가 소나무와 잘 어우러짐과 동시에 배치 방법이 이렇게 중요하구나 깨닫게 되는 그림이었다."
+			],
+			[
+				51,
+				"구나",
+				"EF",
+				"그리고 소나무 뒤에 떠오르는 붉은 태양의 위치가 소나무와 잘 어우러짐과 동시에 배치 방법이 이렇게 중요하구나 깨닫게 되는 그림이었다."
+			],
+			[
+				52,
+				"게",
+				"EC",
+				"그리고 소나무 뒤에 떠오르는 붉은 태양의 위치가 소나무와 잘 어우러짐과 동시에 배치 방법이 이렇게 중요하구나 깨닫게 되는 그림이었다."
+			],
+			[
+				53,
+				"는",
+				"ETM",
+				"그리고 소나무 뒤에 떠오르는 붉은 태양의 위치가 소나무와 잘 어우러짐과 동시에 배치 방법이 이렇게 중요하구나 깨닫게 되는 그림이었다."
+			],
+			[
+				54,
+				"었",
+				"EP",
+				"그리고 소나무 뒤에 떠오르는 붉은 태양의 위치가 소나무와 잘 어우러짐과 동시에 배치 방법이 이렇게 중요하구나 깨닫게 되는 그림이었다."
+			],
+			[
+				55,
+				"다",
+				"EF",
+				"그리고 소나무 뒤에 떠오르는 붉은 태양의 위치가 소나무와 잘 어우러짐과 동시에 배치 방법이 이렇게 중요하구나 깨닫게 되는 그림이었다."
+			],
+			[
+				56,
+				"아서",
+				"EC",
+				"나중에 동양화과에 가서 졸업을 한 후에 인기와 경력을 얻으면 나만의 동양화 전시회를 열어 세계적으로 유명한 동양화 화가가 되고 싶다."
+			],
+			[
+				57,
+				"ㄴ",
+				"ETM",
+				"나중에 동양화과에 가서 졸업을 한 후에 인기와 경력을 얻으면 나만의 동양화 전시회를 열어 세계적으로 유명한 동양화 화가가 되고 싶다."
+			],
+			[
+				58,
+				"으면",
+				"EC",
+				"나중에 동양화과에 가서 졸업을 한 후에 인기와 경력을 얻으면 나만의 동양화 전시회를 열어 세계적으로 유명한 동양화 화가가 되고 싶다."
+			],
+			[
+				59,
+				"어",
+				"EC",
+				"나중에 동양화과에 가서 졸업을 한 후에 인기와 경력을 얻으면 나만의 동양화 전시회를 열어 세계적으로 유명한 동양화 화가가 되고 싶다."
+			],
+			[
+				60,
+				"ㄴ",
+				"ETM",
+				"나중에 동양화과에 가서 졸업을 한 후에 인기와 경력을 얻으면 나만의 동양화 전시회를 열어 세계적으로 유명한 동양화 화가가 되고 싶다."
+			],
+			[
+				61,
+				"고",
+				"EC",
+				"나중에 동양화과에 가서 졸업을 한 후에 인기와 경력을 얻으면 나만의 동양화 전시회를 열어 세계적으로 유명한 동양화 화가가 되고 싶다."
+			],
+			[
+				62,
+				"다",
+				"EF",
+				"나중에 동양화과에 가서 졸업을 한 후에 인기와 경력을 얻으면 나만의 동양화 전시회를 열어 세계적으로 유명한 동양화 화가가 되고 싶다."
+			]
+		],
+		"X_Lst": [
+			[
+				0,
+				"들",
+				"XSN",
+				"하지만 지금 동양화과에 가기 위해서 학원에 다니며 실기 시험을 준비하고 있는데 다른 친구들이 그린 그림이나 동양화과 선배들이 그린 그림을 보며 그림 기술을 배우고 있다."
+			],
+			[
+				1,
+				"들",
+				"XSN",
+				"하지만 지금 동양화과에 가기 위해서 학원에 다니며 실기 시험을 준비하고 있는데 다른 친구들이 그린 그림이나 동양화과 선배들이 그린 그림을 보며 그림 기술을 배우고 있다."
+			],
+			[
+				2,
+				"적",
+				"XSN",
+				"나중에 동양화과에 가서 졸업을 한 후에 인기와 경력을 얻으면 나만의 동양화 전시회를 열어 세계적으로 유명한 동양화 화가가 되고 싶다."
+			]
+		],
+		"IC_Lst": []
+	},
+	"NDW": {
+		"morph_NDW": 156,
+		"NL_NDW": 91,
+		"NNG_NDW": 77,
+		"NNP_NDW": 6,
+		"NNB_NDW": 5,
+		"NP_NDW": 3,
+		"NR_NDW": 0,
+		"VL_NDW": 55,
+		"VV_NDW": 32,
+		"VA_NDW": 15,
+		"ML_NDW": 10,
+		"MM_NDW": 0,
+		"IC_NDW": 0,
+		"J_NDW": 60,
+		"E_NDW": 63,
+		"X_NDW": 3,
+		"CL_NDW": 156,
+		"FL_NDW": 126
+	}
+}

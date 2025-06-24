@@ -1,0 +1,7938 @@
+﻿{
+	"morpheme": {
+		"sentences": [
+			{
+				"text": {
+					"content": "나는 우리 영어학원 선생님을 존정한다.",
+					"length": 21,
+					"beginOffset": 0
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "나는",
+							"length": 2,
+							"beginOffset": 0
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "나",
+									"length": 1,
+									"beginOffset": 0
+								},
+								"tag": "NP",
+								"probability": 0.9839065,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 1,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9989337,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "나",
+						"tagged": "나/NP+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "우리",
+							"beginOffset": 3,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "우리",
+									"beginOffset": 3,
+									"length": 2
+								},
+								"tag": "NP",
+								"probability": 0.9841144,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "우리",
+						"tagged": "우리/NP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "영어학원",
+							"beginOffset": 6,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "영어",
+									"beginOffset": 6,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "학원",
+									"beginOffset": 8,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							}
+						],
+						"lemma": "영어",
+						"tagged": "영어/NNG+학원/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "선생님을",
+							"beginOffset": 11,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "선생",
+									"beginOffset": 11,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9852028,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "님",
+									"beginOffset": 13,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.98870516,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 14,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99985856,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "선생",
+						"tagged": "선생/NNG+님/XSN+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "존정한다.",
+							"beginOffset": 16,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "존정",
+									"beginOffset": 16,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.7754549,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 18,
+									"length": 1
+								},
+								"tag": "XSV",
+								"probability": 0.9483188,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ다",
+									"beginOffset": 18,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.9856829,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 20,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99850917,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "존정",
+						"tagged": "존정/NNG+하/XSV+ㄴ다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "나는 우리 영어학원 선생님을 존정한다."
+			},
+			{
+				"text": {
+					"content": "이 선생님과의 만남이 한 1~2년전에 시작되었는데, 그 만남이 조금 특별했다.",
+					"beginOffset": 22,
+					"length": 43
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "이",
+							"beginOffset": 22,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 22,
+									"length": 1
+								},
+								"tag": "MMD",
+								"probability": 0.9994869,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이",
+						"tagged": "이/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "선생님과의",
+							"beginOffset": 24,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "선생",
+									"beginOffset": 24,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9847493,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "님",
+									"beginOffset": 26,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.9921302,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "과",
+									"beginOffset": 27,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9742144,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 28,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9992006,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "선생",
+						"tagged": "선생/NNG+님/XSN+과/JKB+의/JKG",
+						"modified": "선생님과의"
+					},
+					{
+						"text": {
+							"content": "만남이",
+							"beginOffset": 30,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "만남",
+									"beginOffset": 30,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97931397,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 32,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9771286,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "만남",
+						"tagged": "만남/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "한",
+							"beginOffset": 34,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "한",
+									"beginOffset": 34,
+									"length": 1
+								},
+								"tag": "MMA",
+								"probability": 0.7709198,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "한",
+						"tagged": "한/MMA",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "1~2년",
+							"beginOffset": 36,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "1",
+									"beginOffset": 36,
+									"length": 1
+								},
+								"tag": "SN",
+								"probability": 0.9967914,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "~",
+									"beginOffset": 37,
+									"length": 1
+								},
+								"tag": "SO",
+								"probability": 0.9978732,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "2",
+									"beginOffset": 38,
+									"length": 1
+								},
+								"tag": "SN",
+								"probability": 0.9956677,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "년",
+									"beginOffset": 39,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9788625,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "1",
+						"tagged": "1/SN+~/SO+2/SN+년/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "전에",
+							"beginOffset": 40,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "전",
+									"beginOffset": 40,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.952903,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 41,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9950093,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "전",
+						"tagged": "전/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "시작되었는데",
+							"beginOffset": 43,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "시작되",
+									"beginOffset": 43,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 46,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99994195,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는데",
+									"beginOffset": 47,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9911702,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "시작되",
+						"tagged": "시작되/VV+었/EP+는데/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": ",",
+							"beginOffset": 49,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 49,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.99894506,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": ",",
+						"tagged": ",/SP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "그",
+							"beginOffset": 51,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그",
+									"beginOffset": 51,
+									"length": 1
+								},
+								"tag": "MMD",
+								"probability": 0.9998825,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그",
+						"tagged": "그/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "만남이",
+							"beginOffset": 53,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "만남",
+									"beginOffset": 53,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9798131,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 55,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.98148125,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "만남",
+						"tagged": "만남/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "조금",
+							"beginOffset": 57,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "조금",
+									"beginOffset": 57,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9917918,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "조금",
+						"tagged": "조금/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "특별했다.",
+							"beginOffset": 60,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "특별하",
+									"beginOffset": 60,
+									"length": 3
+								},
+								"tag": "VA",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 62,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99995536,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 63,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.98949546,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 64,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9991203,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "특별하",
+						"tagged": "특별하/VA+았/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "이 선생님과의 만남이 한 1~2년 전에 시작되었는데 , 그 만남이 조금 특별했다."
+			},
+			{
+				"text": {
+					"content": "전에 다니던 영어학원에서 불미스러운 일로 짤리게 되고, 화나 난 김에 바로 친구가 다니고 있는 지금 이 영어 학원에 오게 되었다.",
+					"beginOffset": 66,
+					"length": 72
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "전에",
+							"beginOffset": 66,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "전",
+									"beginOffset": 66,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.97599536,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 67,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.994401,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "전",
+						"tagged": "전/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "다니던",
+							"beginOffset": 69,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "다니",
+									"beginOffset": 69,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.98914254,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "던",
+									"beginOffset": 71,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99966824,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "다니",
+						"tagged": "다니/VV+던/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "영어학원에서",
+							"beginOffset": 73,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "영어",
+									"beginOffset": 73,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "학원",
+									"beginOffset": 75,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "에서",
+									"beginOffset": 77,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9916127,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "영어",
+						"tagged": "영어/NNG+학원/NNG+에서/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "불미스러운",
+							"beginOffset": 80,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "불미스럽",
+									"beginOffset": 80,
+									"length": 4
+								},
+								"tag": "VA",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 84,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999645,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "불미스럽",
+						"tagged": "불미스럽/VA+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "일로",
+							"beginOffset": 86,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "일",
+									"beginOffset": 86,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9760623,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "로",
+									"beginOffset": 87,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99482733,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "일",
+						"tagged": "일/NNG+로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "짤리게",
+							"beginOffset": 89,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "짤리",
+									"beginOffset": 89,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9870675,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "게",
+									"beginOffset": 91,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99189085,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "짤리",
+						"tagged": "짤리/VV+게/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "되고",
+							"beginOffset": 93,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "되",
+									"beginOffset": 93,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.98401785,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 94,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9576663,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "되",
+						"tagged": "되/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": ",",
+							"beginOffset": 95,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 95,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.9993277,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": ",",
+						"tagged": ",/SP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "화나",
+							"beginOffset": 97,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "화",
+									"beginOffset": 97,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9603446,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "나",
+									"beginOffset": 98,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.82113004,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 98,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9820585,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "화",
+						"tagged": "화/NNG+나/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "난",
+							"beginOffset": 100,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "나",
+									"beginOffset": 100,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.9171545,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 100,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99995893,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "나",
+						"tagged": "나/VX+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "김에",
+							"beginOffset": 102,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "김",
+									"beginOffset": 102,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.97609097,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 103,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9844647,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "김",
+						"tagged": "김/NNB+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "바로",
+							"beginOffset": 105,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "바로",
+									"beginOffset": 105,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.98873794,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "바로",
+						"tagged": "바로/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "친구가",
+							"beginOffset": 108,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "친구",
+									"beginOffset": 108,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98197895,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 110,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9332953,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "친구",
+						"tagged": "친구/NNG+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "다니고",
+							"beginOffset": 112,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "다니",
+									"beginOffset": 112,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.99017006,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 114,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99173963,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "다니",
+						"tagged": "다니/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있는",
+							"beginOffset": 116,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 116,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.9351834,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 117,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999138,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VX+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "지금",
+							"beginOffset": 119,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "지금",
+									"beginOffset": 119,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9933239,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "지금",
+						"tagged": "지금/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이",
+							"beginOffset": 122,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 122,
+									"length": 1
+								},
+								"tag": "MMD",
+								"probability": 0.99965477,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이",
+						"tagged": "이/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "영어",
+							"beginOffset": 124,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "영어",
+									"beginOffset": 124,
+									"length": 2
+								},
+								"tag": "NNP",
+								"probability": 0.96860534,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "영어",
+						"tagged": "영어/NNP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "학원에",
+							"beginOffset": 127,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "학원",
+									"beginOffset": 127,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98089206,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 129,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99520206,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "학원",
+						"tagged": "학원/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "오게",
+							"beginOffset": 131,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "오",
+									"beginOffset": 131,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9785307,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "게",
+									"beginOffset": 132,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99211526,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "오",
+						"tagged": "오/VV+게/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "되었다.",
+							"beginOffset": 134,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "되",
+									"beginOffset": 134,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9884934,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 135,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99991196,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 136,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9887754,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 137,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99862015,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "되",
+						"tagged": "되/VV+었/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "전에 다니던 영어학원에서 불미스러운 일로 짤리게 되고 , 화나 난 김에 바로 친구가 다니고 있는 지금 이 영어 학원에 오게 되었다."
+			},
+			{
+				"text": {
+					"content": "여기까지만 들으면 별 내용 없을 것 같지만 아니다.",
+					"beginOffset": 139,
+					"length": 28
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "여기까지만",
+							"beginOffset": 139,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "여기",
+									"beginOffset": 139,
+									"length": 2
+								},
+								"tag": "NP",
+								"probability": 0.97973967,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "까지",
+									"beginOffset": 141,
+									"length": 2
+								},
+								"tag": "JX",
+								"probability": 0.99668473,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "만",
+									"beginOffset": 143,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9988399,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "여기",
+						"tagged": "여기/NP+까지/JX+만/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "들으면",
+							"beginOffset": 145,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "듣",
+									"beginOffset": 145,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.99096584,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으면",
+									"beginOffset": 146,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9950604,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "듣",
+						"tagged": "듣/VV+으면/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "별",
+							"beginOffset": 149,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "별",
+									"beginOffset": 149,
+									"length": 1
+								},
+								"tag": "MMA",
+								"probability": 0.99840957,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "별",
+						"tagged": "별/MMA",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "내용",
+							"beginOffset": 151,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "내용",
+									"beginOffset": 151,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98672926,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "내용",
+						"tagged": "내용/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "없을",
+							"beginOffset": 154,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "없",
+									"beginOffset": 154,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.99000144,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 155,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99993664,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "없",
+						"tagged": "없/VA+을/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "것",
+							"beginOffset": 157,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "것",
+									"beginOffset": 157,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9833242,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "것",
+						"tagged": "것/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "같지만",
+							"beginOffset": 159,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "같",
+									"beginOffset": 159,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.98696065,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "지만",
+									"beginOffset": 160,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.98457724,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "같",
+						"tagged": "같/VA+지만/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "아니다.",
+							"beginOffset": 163,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "아니",
+									"beginOffset": 163,
+									"length": 2
+								},
+								"tag": "VCN",
+								"probability": 0.9990892,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 165,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9928523,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 166,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99956733,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "아니",
+						"tagged": "아니/VCN+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "여기까지만 들으면 별 내용 없을 것 같지만 아니다."
+			},
+			{
+				"text": {
+					"content": "내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다.",
+					"beginOffset": 168,
+					"length": 98
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "내가",
+							"beginOffset": 168,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "내",
+									"beginOffset": 168,
+									"length": 1
+								},
+								"tag": "NP",
+								"probability": 0.98807406,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 169,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9935213,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "내",
+						"tagged": "내/NP+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이",
+							"beginOffset": 171,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 171,
+									"length": 1
+								},
+								"tag": "MMD",
+								"probability": 0.9997881,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이",
+						"tagged": "이/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "선생님을",
+							"beginOffset": 173,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "선생",
+									"beginOffset": 173,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.982284,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "님",
+									"beginOffset": 175,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.9918877,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 176,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999388,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "선생",
+						"tagged": "선생/NNG+님/XSN+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "존경하는",
+							"beginOffset": 178,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "존경하",
+									"beginOffset": 178,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 181,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9998137,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "존경하",
+						"tagged": "존경하/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이유는",
+							"beginOffset": 183,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이유",
+									"beginOffset": 183,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9844423,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 185,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9967821,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이유",
+						"tagged": "이유/NNG+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "내가",
+							"beginOffset": 187,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "내",
+									"beginOffset": 187,
+									"length": 1
+								},
+								"tag": "NP",
+								"probability": 0.9889598,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 188,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9846425,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "내",
+						"tagged": "내/NP+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "솔직히",
+							"beginOffset": 190,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "솔직히",
+									"beginOffset": 190,
+									"length": 3
+								},
+								"tag": "MAG",
+								"probability": 0.9888903,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "솔직히",
+						"tagged": "솔직히/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "좀",
+							"beginOffset": 194,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "좀",
+									"beginOffset": 194,
+									"length": 1
+								},
+								"tag": "MAG",
+								"probability": 0.9906136,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "좀",
+						"tagged": "좀/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "놀고",
+							"beginOffset": 196,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "놀",
+									"beginOffset": 196,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9877172,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 197,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9916483,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "놀",
+						"tagged": "놀/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "다루기",
+							"beginOffset": 199,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "다루",
+									"beginOffset": 199,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9883073,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "기",
+									"beginOffset": 201,
+									"length": 1
+								},
+								"tag": "ETN",
+								"probability": 0.9999163,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "다루",
+						"tagged": "다루/VV+기/ETN",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "힘들다고",
+							"beginOffset": 203,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "힘들",
+									"beginOffset": 203,
+									"length": 2
+								},
+								"tag": "VA",
+								"probability": 0.97894096,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다고",
+									"beginOffset": 205,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.991902,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "힘들",
+						"tagged": "힘들/VA+다고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "내",
+							"beginOffset": 208,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "나",
+									"beginOffset": 208,
+									"length": 1
+								},
+								"tag": "NP",
+								"probability": 0.97461915,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 208,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9991394,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "나",
+						"tagged": "나/NP+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "스스로도",
+							"beginOffset": 210,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "스스로",
+									"beginOffset": 210,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.98218215,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 213,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99822015,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "스스로",
+						"tagged": "스스로/NNG+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "생각하지만",
+							"beginOffset": 215,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "생각하",
+									"beginOffset": 215,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.0,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "지만",
+									"beginOffset": 218,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9779793,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "생각하",
+						"tagged": "생각하/VV+지만/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "나보다",
+							"beginOffset": 221,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "나",
+									"beginOffset": 221,
+									"length": 1
+								},
+								"tag": "NP",
+								"probability": 0.9714618,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "보다",
+									"beginOffset": 222,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.994103,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "나",
+						"tagged": "나/NP+보다/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "더한",
+							"beginOffset": 225,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "더하",
+									"beginOffset": 225,
+									"length": 2
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 226,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999828,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "더하",
+						"tagged": "더하/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "친구와",
+							"beginOffset": 228,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "친구",
+									"beginOffset": 228,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98207057,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "와",
+									"beginOffset": 230,
+									"length": 1
+								},
+								"tag": "JC",
+								"probability": 0.8310895,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "친구",
+						"tagged": "친구/NNG+와/JC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "형들끼리",
+							"beginOffset": 232,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "형",
+									"beginOffset": 232,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9739604,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "들",
+									"beginOffset": 233,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.99100655,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "끼리",
+									"beginOffset": 234,
+									"length": 2
+								},
+								"tag": "XSN",
+								"probability": 0.98985755,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "형",
+						"tagged": "형/NNG+들/XSN+끼리/XSN",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "모두",
+							"beginOffset": 237,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "모두",
+									"beginOffset": 237,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9901193,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "모두",
+						"tagged": "모두/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "혼자",
+							"beginOffset": 240,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "혼자",
+									"beginOffset": 240,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98437256,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "혼자",
+						"tagged": "혼자/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "다루어",
+							"beginOffset": 243,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "다루",
+									"beginOffset": 243,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.98980606,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어",
+									"beginOffset": 245,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9939282,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "다루",
+						"tagged": "다루/VV+어/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "주시고",
+							"beginOffset": 246,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "주",
+									"beginOffset": 246,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.9613432,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "시",
+									"beginOffset": 247,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99994147,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 248,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.97868806,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "주",
+						"tagged": "주/VX+시/EP+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "공부를",
+							"beginOffset": 250,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "공부",
+									"beginOffset": 250,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9822847,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 252,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9998935,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "공부",
+						"tagged": "공부/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "노지",
+							"beginOffset": 254,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "놓",
+									"beginOffset": 254,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9732483,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "지",
+									"beginOffset": 255,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99507314,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "놓",
+						"tagged": "놓/VV+지/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "않게",
+							"beginOffset": 257,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "않",
+									"beginOffset": 257,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.9111095,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "게",
+									"beginOffset": 258,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9945305,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "않",
+						"tagged": "않/VX+게/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "도아주신다.",
+							"beginOffset": 260,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "도아주",
+									"beginOffset": 260,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.61531734,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "시",
+									"beginOffset": 263,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99996,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ다",
+									"beginOffset": 263,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.9917483,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 265,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9999,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "도아주",
+						"tagged": "도아주/VV+시/EP+ㄴ다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어 주시고 공부를 노지 않게 도아주신다."
+			},
+			{
+				"text": {
+					"content": "또한 그냥 영어학원이 아니라 이곳에서는 인성, 예절, 사회생활 등등 다양한 살아 가면서 필요한 능력을 배우는 것 같아 너무 만족스럽다.",
+					"beginOffset": 267,
+					"length": 75
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "또한",
+							"beginOffset": 267,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "또한",
+									"beginOffset": 267,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.96550167,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "또한",
+						"tagged": "또한/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "그냥",
+							"beginOffset": 270,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그냥",
+									"beginOffset": 270,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.98925024,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그냥",
+						"tagged": "그냥/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "영어학원이",
+							"beginOffset": 273,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "영어",
+									"beginOffset": 273,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "학원",
+									"beginOffset": 275,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 277,
+									"length": 1
+								},
+								"tag": "JKC",
+								"probability": 0.9823489,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "영어",
+						"tagged": "영어/NNG+학원/NNG+이/JKC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "아니라",
+							"beginOffset": 279,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "아니",
+									"beginOffset": 279,
+									"length": 2
+								},
+								"tag": "VCN",
+								"probability": 0.99991745,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "라",
+									"beginOffset": 281,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.988282,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "아니",
+						"tagged": "아니/VCN+라/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이곳에서는",
+							"beginOffset": 283,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이곳",
+									"beginOffset": 283,
+									"length": 2
+								},
+								"tag": "NP",
+								"probability": 0.9870458,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에서",
+									"beginOffset": 285,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.995672,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 287,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9991243,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이곳",
+						"tagged": "이곳/NP+에서/JKB+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "인성,",
+							"beginOffset": 289,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "인성",
+									"beginOffset": 289,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9792706,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 291,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.9992569,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "인성",
+						"tagged": "인성/NNG+,/SP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "예절,",
+							"beginOffset": 293,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "예절",
+									"beginOffset": 293,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.980896,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 295,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.9984886,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "예절",
+						"tagged": "예절/NNG+,/SP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사회생활",
+							"beginOffset": 297,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사회생활",
+									"beginOffset": 297,
+									"length": 4
+								},
+								"tag": "NNG",
+								"probability": 0.98182774,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사회생활",
+						"tagged": "사회생활/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "등등",
+							"beginOffset": 302,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "등등",
+									"beginOffset": 302,
+									"length": 2
+								},
+								"tag": "NNB",
+								"probability": 0.9720447,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "등등",
+						"tagged": "등등/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "다양한",
+							"beginOffset": 305,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "다양하",
+									"beginOffset": 305,
+									"length": 3
+								},
+								"tag": "VA",
+								"probability": 0.0,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 307,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99997497,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "다양하",
+						"tagged": "다양하/VA+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "살아 가면서",
+							"beginOffset": 309,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "살아가",
+									"beginOffset": 309,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.0,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "면서",
+									"beginOffset": 312,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9930829,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "살아가",
+						"tagged": "살아가/VV+면서/EC",
+						"modified": "살아가면서"
+					},
+					{
+						"text": {
+							"content": "필요한",
+							"beginOffset": 316,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "필요하",
+									"beginOffset": 316,
+									"length": 3
+								},
+								"tag": "VA",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 318,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999386,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "필요하",
+						"tagged": "필요하/VA+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "능력을",
+							"beginOffset": 320,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "능력",
+									"beginOffset": 320,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98422366,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 322,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999402,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "능력",
+						"tagged": "능력/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "배우는",
+							"beginOffset": 324,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "배우",
+									"beginOffset": 324,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9871221,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 326,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99994254,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "배우",
+						"tagged": "배우/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "것",
+							"beginOffset": 328,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "것",
+									"beginOffset": 328,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9815671,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "것",
+						"tagged": "것/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "같아",
+							"beginOffset": 330,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "같",
+									"beginOffset": 330,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.98429215,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 331,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.96556306,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "같",
+						"tagged": "같/VA+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "너무",
+							"beginOffset": 333,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "너무",
+									"beginOffset": 333,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.99331254,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "너무",
+						"tagged": "너무/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "만족스럽다.",
+							"beginOffset": 336,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "만족스럽",
+									"beginOffset": 336,
+									"length": 4
+								},
+								"tag": "VA",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 340,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9929156,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 341,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9994122,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "만족스럽",
+						"tagged": "만족스럽/VA+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "또한 그냥 영어학원이 아니라 이곳에서는 인성, 예절, 사회생활 등등 다양한 살아가면서 필요한 능력을 배우는 것 같아 너무 만족스럽다."
+			},
+			{
+				"text": {
+					"content": "물론 나의 성적도 많이 올랐다.",
+					"beginOffset": 343,
+					"length": 17
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "물론",
+							"beginOffset": 343,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "물론",
+									"beginOffset": 343,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.98676425,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "물론",
+						"tagged": "물론/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "나의",
+							"beginOffset": 346,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "나",
+									"beginOffset": 346,
+									"length": 1
+								},
+								"tag": "NP",
+								"probability": 0.984908,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 347,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.999581,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "나",
+						"tagged": "나/NP+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "성적도",
+							"beginOffset": 349,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "성적",
+									"beginOffset": 349,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9825541,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 351,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9993298,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "성적",
+						"tagged": "성적/NNG+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "많이",
+							"beginOffset": 353,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "많이",
+									"beginOffset": 353,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9885183,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "많이",
+						"tagged": "많이/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "올랐다.",
+							"beginOffset": 356,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "오르",
+									"beginOffset": 356,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.99088216,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 357,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99984896,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 358,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.99252516,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 359,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99929935,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "오르",
+						"tagged": "오르/VV+았/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "물론 나의 성적도 많이 올랐다."
+			},
+			{
+				"text": {
+					"content": "솔직히 인생학원이라고 불리요 과연이 아닌 것 같다.",
+					"beginOffset": 361,
+					"length": 28
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "솔직히",
+							"beginOffset": 361,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "솔직히",
+									"beginOffset": 361,
+									"length": 3
+								},
+								"tag": "MAG",
+								"probability": 0.98994994,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "솔직히",
+						"tagged": "솔직히/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "인생학원이라고",
+							"beginOffset": 365,
+							"length": 7
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "인생",
+									"beginOffset": 365,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.96129155,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "학원",
+									"beginOffset": 367,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9830801,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 369,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.9998689,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "라고",
+									"beginOffset": 370,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.97897124,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "인생",
+						"tagged": "인생/NNG+학원/NNG+이/VCP+라고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "불리요",
+							"beginOffset": 373,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "불리",
+									"beginOffset": 373,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.98885113,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "요",
+									"beginOffset": 375,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9868353,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "불리",
+						"tagged": "불리/VV+요/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "과연이",
+							"beginOffset": 377,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "과연",
+									"beginOffset": 377,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.98913866,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 379,
+									"length": 1
+								},
+								"tag": "JKC",
+								"probability": 0.98510915,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "과연",
+						"tagged": "과연/MAG+이/JKC",
+						"modified": "과연이"
+					},
+					{
+						"text": {
+							"content": "아닌",
+							"beginOffset": 381,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "아니",
+									"beginOffset": 381,
+									"length": 2
+								},
+								"tag": "VCN",
+								"probability": 0.99996847,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 382,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999431,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "아니",
+						"tagged": "아니/VCN+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "것",
+							"beginOffset": 384,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "것",
+									"beginOffset": 384,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9816175,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "것",
+						"tagged": "것/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "같다.",
+							"beginOffset": 386,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "같",
+									"beginOffset": 386,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9843584,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 387,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9908146,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 388,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9997646,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "같",
+						"tagged": "같/VA+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "솔직히 인생학원이라고 불리요 과연이 아닌 것 같다."
+			},
+			{
+				"text": {
+					"content": "꼭 이학원을 졸업한후 동국대 체교에 들어가 선생님도 보러 가끔 찾아가고 거시거 공부하고 있는 후배들에게 나를 보여주고 싶다.",
+					"beginOffset": 390,
+					"length": 69
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "꼭",
+							"beginOffset": 390,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "꼭",
+									"beginOffset": 390,
+									"length": 1
+								},
+								"tag": "MAG",
+								"probability": 0.9907013,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "꼭",
+						"tagged": "꼭/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이학원을",
+							"beginOffset": 392,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이학원",
+									"beginOffset": 392,
+									"length": 3
+								},
+								"tag": "NNP",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 395,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.999976,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이학원",
+						"tagged": "이학원/NNP+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "졸업한",
+							"beginOffset": 397,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "졸업하",
+									"beginOffset": 397,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 399,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999352,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "졸업하",
+						"tagged": "졸업하/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "후",
+							"beginOffset": 400,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "후",
+									"beginOffset": 400,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9786563,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "후",
+						"tagged": "후/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "동국대",
+							"beginOffset": 402,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "동국대",
+									"beginOffset": 402,
+									"length": 3
+								},
+								"tag": "NNP",
+								"probability": 0.95699203,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "동국대",
+						"tagged": "동국대/NNP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "체교에",
+							"beginOffset": 406,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "체교",
+									"beginOffset": 406,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.6383908,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 408,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9893627,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "체교",
+						"tagged": "체교/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "들어가",
+							"beginOffset": 410,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "들어가",
+									"beginOffset": 410,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.99117225,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 412,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.98590183,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "들어가",
+						"tagged": "들어가/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "선생님도",
+							"beginOffset": 414,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "선생",
+									"beginOffset": 414,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9839373,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "님",
+									"beginOffset": 416,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.98996204,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 417,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9975613,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "선생",
+						"tagged": "선생/NNG+님/XSN+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "보러",
+							"beginOffset": 419,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "보",
+									"beginOffset": 419,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9181356,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "러",
+									"beginOffset": 420,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.98748136,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "보",
+						"tagged": "보/VV+러/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "가끔",
+							"beginOffset": 422,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "가끔",
+									"beginOffset": 422,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9939168,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "가끔",
+						"tagged": "가끔/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "찾아가고",
+							"beginOffset": 425,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "찾아가",
+									"beginOffset": 425,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.98717153,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 428,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99126536,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "찾아가",
+						"tagged": "찾아가/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "거시거",
+							"beginOffset": 430,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "거",
+									"beginOffset": 430,
+									"length": 1
+								},
+								"tag": "IC",
+								"probability": 0.990602,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "시거",
+									"beginOffset": 431,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.31549782,
+								"outOfVocab": "OUT_OF_VOCAB"
+							}
+						],
+						"lemma": "거",
+						"tagged": "거/IC+시거/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "공부하고",
+							"beginOffset": 434,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "공부하",
+									"beginOffset": 434,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 437,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9931667,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "공부하",
+						"tagged": "공부하/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있는",
+							"beginOffset": 439,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 439,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.46986964,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 440,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999699,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VX+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "후배들에게",
+							"beginOffset": 442,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "후배",
+									"beginOffset": 442,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9818655,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "들",
+									"beginOffset": 444,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.99169564,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에게",
+									"beginOffset": 445,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.99488103,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "후배",
+						"tagged": "후배/NNG+들/XSN+에게/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "나를",
+							"beginOffset": 448,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "나",
+									"beginOffset": 448,
+									"length": 1
+								},
+								"tag": "NP",
+								"probability": 0.972916,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 449,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999541,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "나",
+						"tagged": "나/NP+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "보여",
+							"beginOffset": 451,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "보이",
+									"beginOffset": 451,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9859067,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어",
+									"beginOffset": 452,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.98416656,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "보이",
+						"tagged": "보이/VV+어/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "주고",
+							"beginOffset": 453,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "주",
+									"beginOffset": 453,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.9741795,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 454,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9922792,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "주",
+						"tagged": "주/VX+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "싶다.",
+							"beginOffset": 456,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "싶",
+									"beginOffset": 456,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.97655916,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 457,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.99014735,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 458,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99978286,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "싶",
+						"tagged": "싶/VX+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "꼭 이학원을 졸업한 후 동국대 체교에 들어가 선생님도 보러 가끔 찾아가고 거시거 공부하고 있는 후배들에게 나를 보여 주고 싶다."
+			},
+			{
+				"text": {
+					"content": "이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다",
+					"beginOffset": 460,
+					"length": 99
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "이",
+							"beginOffset": 460,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 460,
+									"length": 1
+								},
+								"tag": "MMD",
+								"probability": 0.9992913,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이",
+						"tagged": "이/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "내가",
+							"beginOffset": 462,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "내",
+									"beginOffset": 462,
+									"length": 1
+								},
+								"tag": "NP",
+								"probability": 0.9598564,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 463,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9923162,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "내",
+						"tagged": "내/NP+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이렇게",
+							"beginOffset": 465,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이렇",
+									"beginOffset": 465,
+									"length": 2
+								},
+								"tag": "VA",
+								"probability": 0.9867588,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "게",
+									"beginOffset": 467,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99461174,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이렇",
+						"tagged": "이렇/VA+게/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "성공했는데",
+							"beginOffset": 469,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "성공하",
+									"beginOffset": 469,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 471,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99995816,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는데",
+									"beginOffset": 472,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9928472,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "성공하",
+						"tagged": "성공하/VV+았/EP+는데/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "너네는",
+							"beginOffset": 475,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "너",
+									"beginOffset": 475,
+									"length": 1
+								},
+								"tag": "NP",
+								"probability": 0.9844758,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "네",
+									"beginOffset": 476,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.9539355,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 477,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99734586,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "너",
+						"tagged": "너/NP+네/XSN+는/JX",
+						"modified": "너네는"
+					},
+					{
+						"text": {
+							"content": "못할",
+							"beginOffset": 479,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "못하",
+									"beginOffset": 479,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.0,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ",
+									"beginOffset": 480,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99997216,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "못하",
+						"tagged": "못하/VV+ㄹ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "것",
+							"beginOffset": 482,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "것",
+									"beginOffset": 482,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9817426,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "것",
+						"tagged": "것/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "같야고",
+							"beginOffset": 484,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "같",
+									"beginOffset": 484,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.98500603,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "야",
+									"beginOffset": 485,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9607004,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 486,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.9974561,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 486,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9929484,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "같",
+						"tagged": "같/VA+야/EF+이/VCP+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "때론",
+							"beginOffset": 488,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "때로",
+									"beginOffset": 488,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9927432,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 490,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99920154,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "때로",
+						"tagged": "때로/MAG+ㄴ/JX",
+						"modified": "때론"
+					},
+					{
+						"text": {
+							"content": "아직도",
+							"beginOffset": 491,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "아직",
+									"beginOffset": 491,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9880233,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 493,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99870986,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "아직",
+						"tagged": "아직/MAG+도/JX",
+						"modified": "아직도"
+					},
+					{
+						"text": {
+							"content": "부족하지만",
+							"beginOffset": 495,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "부족하",
+									"beginOffset": 495,
+									"length": 3
+								},
+								"tag": "VA",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "지만",
+									"beginOffset": 498,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.98592764,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "부족하",
+						"tagged": "부족하/VA+지만/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "전점",
+							"beginOffset": 501,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "전점",
+									"beginOffset": 501,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.4295324,
+								"outOfVocab": "OUT_OF_VOCAB"
+							}
+						],
+						"lemma": "전점",
+						"tagged": "전점/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이",
+							"beginOffset": 504,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 504,
+									"length": 1
+								},
+								"tag": "MMD",
+								"probability": 0.99975115,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이",
+						"tagged": "이/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "학원",
+							"beginOffset": 506,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "학원",
+									"beginOffset": 506,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98080146,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "학원",
+						"tagged": "학원/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "다니며",
+							"beginOffset": 509,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "다니",
+									"beginOffset": 509,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.99210805,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "며",
+									"beginOffset": 511,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9958025,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "다니",
+						"tagged": "다니/VV+며/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "공부등등",
+							"beginOffset": 513,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "공부",
+									"beginOffset": 513,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9824384,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "등등",
+									"beginOffset": 515,
+									"length": 2
+								},
+								"tag": "NNB",
+								"probability": 0.9636784,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "공부",
+						"tagged": "공부/NNG+등등/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "실력을",
+							"beginOffset": 518,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "실력",
+									"beginOffset": 518,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9808816,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 520,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9998144,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "실력",
+						"tagged": "실력/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "놀라고",
+							"beginOffset": 522,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "놀라",
+									"beginOffset": 522,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.99105346,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 524,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9939819,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "놀라",
+						"tagged": "놀라/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "꼭",
+							"beginOffset": 526,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "꼭",
+									"beginOffset": 526,
+									"length": 1
+								},
+								"tag": "MAG",
+								"probability": 0.98472244,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "꼭",
+						"tagged": "꼭/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "좋은",
+							"beginOffset": 528,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "좋",
+									"beginOffset": 528,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9868139,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 529,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99997556,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "좋",
+						"tagged": "좋/VA+은/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "대학에",
+							"beginOffset": 531,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "대학",
+									"beginOffset": 531,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98372465,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 533,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9930217,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "대학",
+						"tagged": "대학/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "들어가",
+							"beginOffset": 535,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "들어가",
+									"beginOffset": 535,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.98857915,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 537,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99259675,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "들어가",
+						"tagged": "들어가/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "선생님의",
+							"beginOffset": 539,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "선생",
+									"beginOffset": 539,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98488986,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "님",
+									"beginOffset": 541,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.98512834,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 542,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9986839,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "선생",
+						"tagged": "선생/NNG+님/XSN+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "자랑과",
+							"beginOffset": 544,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "자랑",
+									"beginOffset": 544,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9757555,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "과",
+									"beginOffset": 546,
+									"length": 1
+								},
+								"tag": "JC",
+								"probability": 0.7431316,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "자랑",
+						"tagged": "자랑/NNG+과/JC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "보람거리가",
+							"beginOffset": 548,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "보람거리",
+									"beginOffset": 548,
+									"length": 4
+								},
+								"tag": "NNG",
+								"probability": 0.60752666,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 552,
+									"length": 1
+								},
+								"tag": "JKC",
+								"probability": 0.88682693,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "보람거리",
+						"tagged": "보람거리/NNG+가/JKC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "되고",
+							"beginOffset": 554,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "되",
+									"beginOffset": 554,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.98738295,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 555,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9948689,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "되",
+						"tagged": "되/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "싶다",
+							"beginOffset": 557,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "싶",
+									"beginOffset": 557,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.9768248,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 558,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.941448,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "싶",
+						"tagged": "싶/VX+다/EF",
+						"modified": ""
+					}
+				],
+				"refined": "이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			}
+		],
+		"language": "ko_KR"
+	},
+	"ttr": {
+		"lemma_Cnt": 278,
+		"lemma_TTR": 0.5306122448979592,
+		"CL_TTR": 0.6938775510204082,
+		"NL_TTR": 0.6119402985074627,
+		"NN_TTR": 0.6363636363636364,
+		"NNG_TTR": 0.6590909090909091,
+		"NNP_TTR": 1.0,
+		"NNB_TTR": 0.5,
+		"NP_TTR": 0.5,
+		"NR_TTR": 0,
+		"VL_TTR": 0.7333333333333333,
+		"VV_TTR": 0.8181818181818182,
+		"VA_TTR": 0.7857142857142857,
+		"ML_TTR": 0.8947368421052632,
+		"MM_TTR": 0,
+		"MA_TTR": 0.8947368421052632,
+		"MAJ_TTR": 0,
+		"IC_TTR": 1.0,
+		"FL_TTR": 0.3821138211382114,
+		"J_TTR": 0.37777777777777777,
+		"E_TTR": 0.4117647058823529,
+		"X_TTR": 0.5,
+		"lemma_RTTR": 9.098104758908947,
+		"CL_RTTR": 8.41281820819169,
+		"NL_RTTR": 5.0089472186085136,
+		"NN_RTTR": 4.719399037242694,
+		"NNG_RTTR": 4.371914496377572,
+		"NNP_RTTR": 1.7320508075688774,
+		"NNB_RTTR": 1.414213562373095,
+		"NP_RTTR": 1.7320508075688774,
+		"NR_RTTR": 0,
+		"VL_RTTR": 5.680375574437544,
+		"VV_RTTR": 4.700096710803842,
+		"VA_RTTR": 2.9398736610366685,
+		"ML_RTTR": 3.9000674757995495,
+		"MM_RTTR": 0,
+		"MA_RTTR": 3.9000674757995495,
+		"MAJ_RTTR": 0,
+		"IC_RTTR": 1.0,
+		"FL_RTTR": 4.237847282936931,
+		"J_RTTR": 2.5342103744997617,
+		"E_RTTR": 3.395498750508662,
+		"X_RTTR": 1.5811388300841895,
+		"lemma_CTTR": 6.4333315709701155,
+		"CL_CTTR": 5.948760803902004,
+		"NL_CTTR": 3.5418605448835763,
+		"NN_CTTR": 3.337119062359573,
+		"NNG_CTTR": 3.091410387156351,
+		"NNP_CTTR": 1.2247448713915892,
+		"NNB_CTTR": 1.0,
+		"NP_CTTR": 1.2247448713915892,
+		"NR_CTTR": 0,
+		"VL_CTTR": 4.016632088371218,
+		"VV_CTTR": 3.3234702564419836,
+		"VA_CTTR": 2.0788046015507495,
+		"ML_CTTR": 2.757764159222963,
+		"MM_CTTR": 0,
+		"MA_CTTR": 2.757764159222963,
+		"MAJ_CTTR": 0,
+		"IC_CTTR": 0.7071067811865475,
+		"FL_CTTR": 2.9966105513976897,
+		"J_CTTR": 1.7919573407620817,
+		"E_CTTR": 2.4009801919951235,
+		"X_CTTR": 1.118033988749895,
+		"lemma_MSTTR": 0.8480000000000001,
+		"CL_MSTTR": 0.8,
+		"NL_MSTTR": 0.64,
+		"NN_MSTTR": 0.62,
+		"NNG_MSTTR": 0.6590909090909091,
+		"NNP_MSTTR": 1.0,
+		"NNB_MSTTR": 0.5,
+		"NP_MSTTR": 0.5,
+		"NR_MSTTR": 0,
+		"VL_MSTTR": 0.8,
+		"VV_MSTTR": 0.8181818181818182,
+		"VA_MSTTR": 0.7857142857142857,
+		"ML_MSTTR": 0.8947368421052632,
+		"MM_MSTTR": 0,
+		"MA_MSTTR": 0.8947368421052632,
+		"MAJ_MSTTR": 0,
+		"IC_MSTTR": 1.0,
+		"FL_MSTTR": 0.5800000000000001,
+		"J_MSTTR": 0.37777777777777777,
+		"E_MSTTR": 0.48,
+		"X_MSTTR": 0.5,
+		"lemma_MATTR": 0.8579591836734695,
+		"CL_MATTR": 0.8734693877551023,
+		"NL_MATTR": 0.6688888888888889,
+		"NN_MATTR": 0.6533333333333334,
+		"NNG_MATTR": 0.6590909090909091,
+		"NNP_MATTR": 1.0,
+		"NNB_MATTR": 0.5,
+		"NP_MATTR": 0.5,
+		"NR_MATTR": 0,
+		"VL_MATTR": 0.7836363636363637,
+		"VV_MATTR": 0.8181818181818182,
+		"VA_MATTR": 0.7857142857142857,
+		"ML_MATTR": 0.8947368421052632,
+		"MM_MATTR": 0,
+		"MA_MATTR": 0.8947368421052632,
+		"MAJ_MATTR": 0,
+		"IC_MATTR": 1.0,
+		"FL_MATTR": 0.6189189189189189,
+		"J_MATTR": 0.37777777777777777,
+		"E_MATTR": 0.4842105263157894,
+		"X_MATTR": 0.5,
+		"lemma_MTLD": 101.88491048593352,
+		"CL_MTLD": 83.33534386270364,
+		"NL_MTLD": 32.06099656357388,
+		"NN_MTLD": 26.745780590717303,
+		"NNG_MTLD": 24.78767123287671,
+		"NNP_MTLD": 0.0,
+		"NNB_MTLD": 4.48,
+		"NP_MTLD": 12.0,
+		"NR_MTLD": 0.0,
+		"VL_MTLD": 62.99999999999999,
+		"VV_MTLD": 50.820000000000014,
+		"VA_MTLD": 18.293333333333333,
+		"ML_MTLD": 50.54000000000001,
+		"MM_MTLD": 0.0,
+		"MA_MTLD": 50.54000000000001,
+		"MAJ_MTLD": 0.0,
+		"IC_MTLD": 0.0,
+		"FL_MTLD": 31.93269230769231,
+		"J_MTLD": 14.030851462865716,
+		"E_MTLD": 17.52981029810298,
+		"X_MTLD": 5.6000000000000005,
+		"lemma_VOCDD": 97.30113245084631,
+		"CL_VOCDD": 116.60878082377845,
+		"NL_VOCDD": 32.36029237610852,
+		"NN_VOCDD": 30.57706225856683,
+		"NNG_VOCDD": 0,
+		"NNP_VOCDD": 0,
+		"NNB_VOCDD": 0,
+		"NP_VOCDD": 0,
+		"NR_VOCDD": 0,
+		"VL_VOCDD": 65.06104148386687,
+		"VV_VOCDD": 0,
+		"VA_VOCDD": 0,
+		"ML_VOCDD": 0,
+		"MM_VOCDD": 0,
+		"MA_VOCDD": 0,
+		"MAJ_VOCDD": 0,
+		"IC_VOCDD": 0,
+		"FL_VOCDD": 21.052964376417517,
+		"J_VOCDD": 0,
+		"E_VOCDD": 11.022861293629743,
+		"X_VOCDD": 0,
+		"lemma_HDD": 0.8463605550030026,
+		"CL_HDD": 0.8653723177134566,
+		"NL_HDD": 0.6912796920620705,
+		"NN_HDD": 0.6806499325478239,
+		"NNG_HDD": 0.6665659921473873,
+		"NNP_HDD": 0.0,
+		"NNB_HDD": 0.0,
+		"NP_HDD": 0.0,
+		"NR_HDD": 0.0,
+		"VL_HDD": 0.7956453084786771,
+		"VV_HDD": 0.0,
+		"VA_HDD": 0.0,
+		"ML_HDD": 0.0,
+		"MM_HDD": 0.0,
+		"MA_HDD": 0.0,
+		"MAJ_HDD": 0.0,
+		"IC_HDD": 0.0,
+		"FL_HDD": 0.6188315503465325,
+		"J_HDD": 0.3934343434343434,
+		"E_HDD": 0.5093243138867439,
+		"X_HDD": 0.0
+	},
+	"similarity": {
+		"avgSentSimilarity": 0.2834910452365875,
+		"topicConsistency": 0.6456
+	},
+	"adjacency": {
+		"adjacent_sentence_overlap_all_lemmas": 188,
+		"adjacent_sentence_overlap_all_lemmas_normed": 9,
+		"binary_adjacent_sentence_overlap_all_lemmas": 9,
+		"adjacent_two_sentence_overlap_all_lemmas": 126,
+		"adjacent_two_sentence_overlap_all_lemmas_normed": 8,
+		"binary_adjacent_two_sentence_overlap_all_lemmas": 8,
+		"adjacent_sentence_overlap_content_lemmas": 98,
+		"adjacent_sentence_overlap_content_lemmas_normed": 9,
+		"binary_adjacent_sentence_overlap_content_lemmas": 3,
+		"adjacent_two_sentence_overlap_content_lemmas": 79,
+		"adjacent_two_sentence_overlap_content_lemmas_normed": 8,
+		"binary_adjacent_two_sentence_overlap_content_lemmas": 1,
+		"adjacent_sentence_overlap_function_lemmas": 69,
+		"adjacent_sentence_overlap_function_lemmas_normed": 9,
+		"binary_adjacent_sentence_overlap_function_lemmas": 8,
+		"adjacent_two_sentence_overlap_function_lemmas": 38,
+		"adjacent_two_sentence_overlap_function_lemmas_normed": 8,
+		"binary_adjacent_two_sentence_overlap_function_lemmas": 7,
+		"adjacent_sentence_overlap_noun_lemmas": 53,
+		"adjacent_sentence_overlap_noun_lemmas_normed": 9,
+		"binary_adjacent_sentence_overlap_noun_lemmas": 3,
+		"adjacent_two_sentence_overlap_noun_lemmas": 39,
+		"adjacent_two_sentence_overlap_noun_lemmas_normed": 8,
+		"binary_adjacent_two_sentence_overlap_noun_lemmas": 1,
+		"adjacent_sentence_overlap_verb_lemmas": 41,
+		"adjacent_sentence_overlap_verb_lemmas_normed": 8,
+		"binary_adjacent_sentence_overlap_verb_lemmas": 1,
+		"adjacent_two_sentence_overlap_verb_lemmas": 32,
+		"adjacent_two_sentence_overlap_verb_lemmas_normed": 7,
+		"binary_adjacent_two_sentence_overlap_verb_lemmas": 0,
+		"adjacent_sentence_overlap_adjective_lemmas": 8,
+		"adjacent_sentence_overlap_adjective_lemmas_normed": 4,
+		"binary_adjacent_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas": 7,
+		"adjacent_two_sentence_overlap_adjective_lemmas_normed": 3,
+		"binary_adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_sentence_overlap_adverb_lemmas": 15,
+		"adjacent_sentence_overlap_adverb_lemmas_normed": 6,
+		"binary_adjacent_sentence_overlap_adverb_lemmas": 1,
+		"adjacent_two_sentence_overlap_adverb_lemmas": 10,
+		"adjacent_two_sentence_overlap_adverb_lemmas_normed": 4,
+		"binary_adjacent_two_sentence_overlap_adverb_lemmas": 0
+	},
+	"basic_count": {
+		"para_Cnt": 1,
+		"sentence_Cnt": 10,
+		"word_Cnt": 143,
+		"morph_Cnt": 294,
+		"char_Cnt": 441,
+		"CL_Cnt": 147,
+		"NL_Cnt": 67,
+		"NN_Cnt": 55,
+		"NNG_Cnt": 44,
+		"NNP_Cnt": 3,
+		"NNB_Cnt": 8,
+		"NP_Cnt": 12,
+		"NP_People_Cnt": 7,
+		"NP_Things_Cnt": 1,
+		"NR_Cnt": 0,
+		"VL_Cnt": 60,
+		"VV_Cnt": 33,
+		"VA_Cnt": 14,
+		"VX_Cnt": 8,
+		"VCP_Cnt": 2,
+		"VCN_Cnt": 3,
+		"ML_Cnt": 19,
+		"MA_Cnt": 0,
+		"MM_Cnt": 0,
+		"FL_Cnt": 123,
+		"J_Cnt": 45,
+		"E_Cnt": 68,
+		"X_Cnt": 10,
+		"IC_Cnt": 1
+	},
+	"basic_density": {
+		"CL_Den": 0.5,
+		"FL_Den": 0.41836734693877553,
+		"NL_Den": 0.1870748299319728,
+		"NNGL_Den": 0.14965986394557823,
+		"NNPL_Den": 0.01020408163265306,
+		"NNBL_Den": 0.027210884353741496,
+		"NPL_Den": 0.04081632653061224,
+		"NML_Den": 0.0,
+		"VL_Den": 0.20408163265306123,
+		"VVL_Den": 0.11224489795918367,
+		"VAL_Den": 0.047619047619047616,
+		"ML_Den": 0.06462585034013606,
+		"MML_Den": 0.0,
+		"MAL_Den": 0.0,
+		"JL_Den": 0.15306122448979592,
+		"EL_Den": 0.23129251700680273,
+		"XL_Den": 0.034013605442176874,
+		"ITL_Den": 0.003401360544217687,
+		"NCL_Den": 0.3741496598639456,
+		"NNCL_Den": 0.29931972789115646,
+		"NNGCL_Den": 0.02040816326530612,
+		"NNBCL_Den": 0.05442176870748299,
+		"NPCL_Den": 0.08163265306122448,
+		"NMCL_Den": 0.0,
+		"VCL_Den": 0.40816326530612246,
+		"VVCL_Den": 0.22448979591836735,
+		"VACL_Den": 0.09523809523809523,
+		"MCL_Den": 0.1292517006802721,
+		"MMCL_Den": 0.0,
+		"MACL_Den": 0.0,
+		"INCL_Den": 0.006802721088435374,
+		"JFL_Den": 0.36585365853658536,
+		"EFL_Den": 0.5528455284552846,
+		"XFL_Den": 0.08130081300813008
+	},
+	"basic_level": {
+		"morph_LenAvg": 1.4829931972789117,
+		"morph_LenStd": 0.6836650082395154,
+		"word_LenAvg": 2.8181818181818183,
+		"word_LenStd": 1.2551230047895463
+	},
+	"basic_list": {
+		"NL_Lst": [
+			[
+				0,
+				"나",
+				"NP",
+				"나는 우리 영어학원 선생님을 존정한다."
+			],
+			[
+				1,
+				"우리",
+				"NP",
+				"나는 우리 영어학원 선생님을 존정한다."
+			],
+			[
+				2,
+				"영어",
+				"NNG",
+				"나는 우리 영어학원 선생님을 존정한다."
+			],
+			[
+				3,
+				"학원",
+				"NNG",
+				"나는 우리 영어학원 선생님을 존정한다."
+			],
+			[
+				4,
+				"선생",
+				"NNG",
+				"나는 우리 영어학원 선생님을 존정한다."
+			],
+			[
+				5,
+				"존정",
+				"NNG",
+				"나는 우리 영어학원 선생님을 존정한다."
+			],
+			[
+				6,
+				"선생",
+				"NNG",
+				"이 선생님과의 만남이 한 1~2년전에 시작되었는데, 그 만남이 조금 특별했다."
+			],
+			[
+				7,
+				"만남",
+				"NNG",
+				"이 선생님과의 만남이 한 1~2년전에 시작되었는데, 그 만남이 조금 특별했다."
+			],
+			[
+				8,
+				"년",
+				"NNB",
+				"이 선생님과의 만남이 한 1~2년전에 시작되었는데, 그 만남이 조금 특별했다."
+			],
+			[
+				9,
+				"전",
+				"NNG",
+				"이 선생님과의 만남이 한 1~2년전에 시작되었는데, 그 만남이 조금 특별했다."
+			],
+			[
+				10,
+				"만남",
+				"NNG",
+				"이 선생님과의 만남이 한 1~2년전에 시작되었는데, 그 만남이 조금 특별했다."
+			],
+			[
+				11,
+				"전",
+				"NNG",
+				"전에 다니던 영어학원에서 불미스러운 일로 짤리게 되고, 화나 난 김에 바로 친구가 다니고 있는 지금 이 영어 학원에 오게 되었다."
+			],
+			[
+				12,
+				"영어",
+				"NNG",
+				"전에 다니던 영어학원에서 불미스러운 일로 짤리게 되고, 화나 난 김에 바로 친구가 다니고 있는 지금 이 영어 학원에 오게 되었다."
+			],
+			[
+				13,
+				"학원",
+				"NNG",
+				"전에 다니던 영어학원에서 불미스러운 일로 짤리게 되고, 화나 난 김에 바로 친구가 다니고 있는 지금 이 영어 학원에 오게 되었다."
+			],
+			[
+				14,
+				"일",
+				"NNG",
+				"전에 다니던 영어학원에서 불미스러운 일로 짤리게 되고, 화나 난 김에 바로 친구가 다니고 있는 지금 이 영어 학원에 오게 되었다."
+			],
+			[
+				15,
+				"화",
+				"NNG",
+				"전에 다니던 영어학원에서 불미스러운 일로 짤리게 되고, 화나 난 김에 바로 친구가 다니고 있는 지금 이 영어 학원에 오게 되었다."
+			],
+			[
+				16,
+				"김",
+				"NNB",
+				"전에 다니던 영어학원에서 불미스러운 일로 짤리게 되고, 화나 난 김에 바로 친구가 다니고 있는 지금 이 영어 학원에 오게 되었다."
+			],
+			[
+				17,
+				"친구",
+				"NNG",
+				"전에 다니던 영어학원에서 불미스러운 일로 짤리게 되고, 화나 난 김에 바로 친구가 다니고 있는 지금 이 영어 학원에 오게 되었다."
+			],
+			[
+				18,
+				"영어",
+				"NNP",
+				"전에 다니던 영어학원에서 불미스러운 일로 짤리게 되고, 화나 난 김에 바로 친구가 다니고 있는 지금 이 영어 학원에 오게 되었다."
+			],
+			[
+				19,
+				"학원",
+				"NNG",
+				"전에 다니던 영어학원에서 불미스러운 일로 짤리게 되고, 화나 난 김에 바로 친구가 다니고 있는 지금 이 영어 학원에 오게 되었다."
+			],
+			[
+				20,
+				"여기",
+				"NP",
+				"여기까지만 들으면 별 내용 없을 것 같지만 아니다."
+			],
+			[
+				21,
+				"내용",
+				"NNG",
+				"여기까지만 들으면 별 내용 없을 것 같지만 아니다."
+			],
+			[
+				22,
+				"것",
+				"NNB",
+				"여기까지만 들으면 별 내용 없을 것 같지만 아니다."
+			],
+			[
+				23,
+				"내",
+				"NP",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				24,
+				"선생",
+				"NNG",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				25,
+				"이유",
+				"NNG",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				26,
+				"내",
+				"NP",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				27,
+				"나",
+				"NP",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				28,
+				"스스로",
+				"NNG",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				29,
+				"나",
+				"NP",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				30,
+				"친구",
+				"NNG",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				31,
+				"형",
+				"NNG",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				32,
+				"혼자",
+				"NNG",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				33,
+				"공부",
+				"NNG",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				34,
+				"영어",
+				"NNG",
+				"또한 그냥 영어학원이 아니라 이곳에서는 인성, 예절, 사회생활 등등 다양한 살아 가면서 필요한 능력을 배우는 것 같아 너무 만족스럽다."
+			],
+			[
+				35,
+				"학원",
+				"NNG",
+				"또한 그냥 영어학원이 아니라 이곳에서는 인성, 예절, 사회생활 등등 다양한 살아 가면서 필요한 능력을 배우는 것 같아 너무 만족스럽다."
+			],
+			[
+				36,
+				"이곳",
+				"NP",
+				"또한 그냥 영어학원이 아니라 이곳에서는 인성, 예절, 사회생활 등등 다양한 살아 가면서 필요한 능력을 배우는 것 같아 너무 만족스럽다."
+			],
+			[
+				37,
+				"인성",
+				"NNG",
+				"또한 그냥 영어학원이 아니라 이곳에서는 인성, 예절, 사회생활 등등 다양한 살아 가면서 필요한 능력을 배우는 것 같아 너무 만족스럽다."
+			],
+			[
+				38,
+				"예절",
+				"NNG",
+				"또한 그냥 영어학원이 아니라 이곳에서는 인성, 예절, 사회생활 등등 다양한 살아 가면서 필요한 능력을 배우는 것 같아 너무 만족스럽다."
+			],
+			[
+				39,
+				"사회생활",
+				"NNG",
+				"또한 그냥 영어학원이 아니라 이곳에서는 인성, 예절, 사회생활 등등 다양한 살아 가면서 필요한 능력을 배우는 것 같아 너무 만족스럽다."
+			],
+			[
+				40,
+				"등등",
+				"NNB",
+				"또한 그냥 영어학원이 아니라 이곳에서는 인성, 예절, 사회생활 등등 다양한 살아 가면서 필요한 능력을 배우는 것 같아 너무 만족스럽다."
+			],
+			[
+				41,
+				"능력",
+				"NNG",
+				"또한 그냥 영어학원이 아니라 이곳에서는 인성, 예절, 사회생활 등등 다양한 살아 가면서 필요한 능력을 배우는 것 같아 너무 만족스럽다."
+			],
+			[
+				42,
+				"것",
+				"NNB",
+				"또한 그냥 영어학원이 아니라 이곳에서는 인성, 예절, 사회생활 등등 다양한 살아 가면서 필요한 능력을 배우는 것 같아 너무 만족스럽다."
+			],
+			[
+				43,
+				"나",
+				"NP",
+				"물론 나의 성적도 많이 올랐다."
+			],
+			[
+				44,
+				"성적",
+				"NNG",
+				"물론 나의 성적도 많이 올랐다."
+			],
+			[
+				45,
+				"인생",
+				"NNG",
+				"솔직히 인생학원이라고 불리요 과연이 아닌 것 같다."
+			],
+			[
+				46,
+				"학원",
+				"NNG",
+				"솔직히 인생학원이라고 불리요 과연이 아닌 것 같다."
+			],
+			[
+				47,
+				"것",
+				"NNB",
+				"솔직히 인생학원이라고 불리요 과연이 아닌 것 같다."
+			],
+			[
+				48,
+				"이학원",
+				"NNP",
+				"꼭 이학원을 졸업한후 동국대 체교에 들어가 선생님도 보러 가끔 찾아가고 거시거 공부하고 있는 후배들에게 나를 보여주고 싶다."
+			],
+			[
+				49,
+				"후",
+				"NNG",
+				"꼭 이학원을 졸업한후 동국대 체교에 들어가 선생님도 보러 가끔 찾아가고 거시거 공부하고 있는 후배들에게 나를 보여주고 싶다."
+			],
+			[
+				50,
+				"동국대",
+				"NNP",
+				"꼭 이학원을 졸업한후 동국대 체교에 들어가 선생님도 보러 가끔 찾아가고 거시거 공부하고 있는 후배들에게 나를 보여주고 싶다."
+			],
+			[
+				51,
+				"체교",
+				"NNG",
+				"꼭 이학원을 졸업한후 동국대 체교에 들어가 선생님도 보러 가끔 찾아가고 거시거 공부하고 있는 후배들에게 나를 보여주고 싶다."
+			],
+			[
+				52,
+				"선생",
+				"NNG",
+				"꼭 이학원을 졸업한후 동국대 체교에 들어가 선생님도 보러 가끔 찾아가고 거시거 공부하고 있는 후배들에게 나를 보여주고 싶다."
+			],
+			[
+				53,
+				"시거",
+				"NNG",
+				"꼭 이학원을 졸업한후 동국대 체교에 들어가 선생님도 보러 가끔 찾아가고 거시거 공부하고 있는 후배들에게 나를 보여주고 싶다."
+			],
+			[
+				54,
+				"후배",
+				"NNG",
+				"꼭 이학원을 졸업한후 동국대 체교에 들어가 선생님도 보러 가끔 찾아가고 거시거 공부하고 있는 후배들에게 나를 보여주고 싶다."
+			],
+			[
+				55,
+				"나",
+				"NP",
+				"꼭 이학원을 졸업한후 동국대 체교에 들어가 선생님도 보러 가끔 찾아가고 거시거 공부하고 있는 후배들에게 나를 보여주고 싶다."
+			],
+			[
+				56,
+				"내",
+				"NP",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			],
+			[
+				57,
+				"너",
+				"NP",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			],
+			[
+				58,
+				"것",
+				"NNB",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			],
+			[
+				59,
+				"학원",
+				"NNG",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			],
+			[
+				60,
+				"공부",
+				"NNG",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			],
+			[
+				61,
+				"등등",
+				"NNB",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			],
+			[
+				62,
+				"실력",
+				"NNG",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			],
+			[
+				63,
+				"대학",
+				"NNG",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			],
+			[
+				64,
+				"선생",
+				"NNG",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			],
+			[
+				65,
+				"자랑",
+				"NNG",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			],
+			[
+				66,
+				"보람거리",
+				"NNG",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			]
+		],
+		"NN_Lst": [
+			[
+				0,
+				"영어",
+				"NNG",
+				"나는 우리 영어학원 선생님을 존정한다."
+			],
+			[
+				1,
+				"학원",
+				"NNG",
+				"나는 우리 영어학원 선생님을 존정한다."
+			],
+			[
+				2,
+				"선생",
+				"NNG",
+				"나는 우리 영어학원 선생님을 존정한다."
+			],
+			[
+				3,
+				"존정",
+				"NNG",
+				"나는 우리 영어학원 선생님을 존정한다."
+			],
+			[
+				4,
+				"선생",
+				"NNG",
+				"이 선생님과의 만남이 한 1~2년전에 시작되었는데, 그 만남이 조금 특별했다."
+			],
+			[
+				5,
+				"만남",
+				"NNG",
+				"이 선생님과의 만남이 한 1~2년전에 시작되었는데, 그 만남이 조금 특별했다."
+			],
+			[
+				6,
+				"년",
+				"NNB",
+				"이 선생님과의 만남이 한 1~2년전에 시작되었는데, 그 만남이 조금 특별했다."
+			],
+			[
+				7,
+				"전",
+				"NNG",
+				"이 선생님과의 만남이 한 1~2년전에 시작되었는데, 그 만남이 조금 특별했다."
+			],
+			[
+				8,
+				"만남",
+				"NNG",
+				"이 선생님과의 만남이 한 1~2년전에 시작되었는데, 그 만남이 조금 특별했다."
+			],
+			[
+				9,
+				"전",
+				"NNG",
+				"전에 다니던 영어학원에서 불미스러운 일로 짤리게 되고, 화나 난 김에 바로 친구가 다니고 있는 지금 이 영어 학원에 오게 되었다."
+			],
+			[
+				10,
+				"영어",
+				"NNG",
+				"전에 다니던 영어학원에서 불미스러운 일로 짤리게 되고, 화나 난 김에 바로 친구가 다니고 있는 지금 이 영어 학원에 오게 되었다."
+			],
+			[
+				11,
+				"학원",
+				"NNG",
+				"전에 다니던 영어학원에서 불미스러운 일로 짤리게 되고, 화나 난 김에 바로 친구가 다니고 있는 지금 이 영어 학원에 오게 되었다."
+			],
+			[
+				12,
+				"일",
+				"NNG",
+				"전에 다니던 영어학원에서 불미스러운 일로 짤리게 되고, 화나 난 김에 바로 친구가 다니고 있는 지금 이 영어 학원에 오게 되었다."
+			],
+			[
+				13,
+				"화",
+				"NNG",
+				"전에 다니던 영어학원에서 불미스러운 일로 짤리게 되고, 화나 난 김에 바로 친구가 다니고 있는 지금 이 영어 학원에 오게 되었다."
+			],
+			[
+				14,
+				"김",
+				"NNB",
+				"전에 다니던 영어학원에서 불미스러운 일로 짤리게 되고, 화나 난 김에 바로 친구가 다니고 있는 지금 이 영어 학원에 오게 되었다."
+			],
+			[
+				15,
+				"친구",
+				"NNG",
+				"전에 다니던 영어학원에서 불미스러운 일로 짤리게 되고, 화나 난 김에 바로 친구가 다니고 있는 지금 이 영어 학원에 오게 되었다."
+			],
+			[
+				16,
+				"영어",
+				"NNP",
+				"전에 다니던 영어학원에서 불미스러운 일로 짤리게 되고, 화나 난 김에 바로 친구가 다니고 있는 지금 이 영어 학원에 오게 되었다."
+			],
+			[
+				17,
+				"학원",
+				"NNG",
+				"전에 다니던 영어학원에서 불미스러운 일로 짤리게 되고, 화나 난 김에 바로 친구가 다니고 있는 지금 이 영어 학원에 오게 되었다."
+			],
+			[
+				18,
+				"내용",
+				"NNG",
+				"여기까지만 들으면 별 내용 없을 것 같지만 아니다."
+			],
+			[
+				19,
+				"것",
+				"NNB",
+				"여기까지만 들으면 별 내용 없을 것 같지만 아니다."
+			],
+			[
+				20,
+				"선생",
+				"NNG",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				21,
+				"이유",
+				"NNG",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				22,
+				"스스로",
+				"NNG",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				23,
+				"친구",
+				"NNG",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				24,
+				"형",
+				"NNG",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				25,
+				"혼자",
+				"NNG",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				26,
+				"공부",
+				"NNG",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				27,
+				"영어",
+				"NNG",
+				"또한 그냥 영어학원이 아니라 이곳에서는 인성, 예절, 사회생활 등등 다양한 살아 가면서 필요한 능력을 배우는 것 같아 너무 만족스럽다."
+			],
+			[
+				28,
+				"학원",
+				"NNG",
+				"또한 그냥 영어학원이 아니라 이곳에서는 인성, 예절, 사회생활 등등 다양한 살아 가면서 필요한 능력을 배우는 것 같아 너무 만족스럽다."
+			],
+			[
+				29,
+				"인성",
+				"NNG",
+				"또한 그냥 영어학원이 아니라 이곳에서는 인성, 예절, 사회생활 등등 다양한 살아 가면서 필요한 능력을 배우는 것 같아 너무 만족스럽다."
+			],
+			[
+				30,
+				"예절",
+				"NNG",
+				"또한 그냥 영어학원이 아니라 이곳에서는 인성, 예절, 사회생활 등등 다양한 살아 가면서 필요한 능력을 배우는 것 같아 너무 만족스럽다."
+			],
+			[
+				31,
+				"사회생활",
+				"NNG",
+				"또한 그냥 영어학원이 아니라 이곳에서는 인성, 예절, 사회생활 등등 다양한 살아 가면서 필요한 능력을 배우는 것 같아 너무 만족스럽다."
+			],
+			[
+				32,
+				"등등",
+				"NNB",
+				"또한 그냥 영어학원이 아니라 이곳에서는 인성, 예절, 사회생활 등등 다양한 살아 가면서 필요한 능력을 배우는 것 같아 너무 만족스럽다."
+			],
+			[
+				33,
+				"능력",
+				"NNG",
+				"또한 그냥 영어학원이 아니라 이곳에서는 인성, 예절, 사회생활 등등 다양한 살아 가면서 필요한 능력을 배우는 것 같아 너무 만족스럽다."
+			],
+			[
+				34,
+				"것",
+				"NNB",
+				"또한 그냥 영어학원이 아니라 이곳에서는 인성, 예절, 사회생활 등등 다양한 살아 가면서 필요한 능력을 배우는 것 같아 너무 만족스럽다."
+			],
+			[
+				35,
+				"성적",
+				"NNG",
+				"물론 나의 성적도 많이 올랐다."
+			],
+			[
+				36,
+				"인생",
+				"NNG",
+				"솔직히 인생학원이라고 불리요 과연이 아닌 것 같다."
+			],
+			[
+				37,
+				"학원",
+				"NNG",
+				"솔직히 인생학원이라고 불리요 과연이 아닌 것 같다."
+			],
+			[
+				38,
+				"것",
+				"NNB",
+				"솔직히 인생학원이라고 불리요 과연이 아닌 것 같다."
+			],
+			[
+				39,
+				"이학원",
+				"NNP",
+				"꼭 이학원을 졸업한후 동국대 체교에 들어가 선생님도 보러 가끔 찾아가고 거시거 공부하고 있는 후배들에게 나를 보여주고 싶다."
+			],
+			[
+				40,
+				"후",
+				"NNG",
+				"꼭 이학원을 졸업한후 동국대 체교에 들어가 선생님도 보러 가끔 찾아가고 거시거 공부하고 있는 후배들에게 나를 보여주고 싶다."
+			],
+			[
+				41,
+				"동국대",
+				"NNP",
+				"꼭 이학원을 졸업한후 동국대 체교에 들어가 선생님도 보러 가끔 찾아가고 거시거 공부하고 있는 후배들에게 나를 보여주고 싶다."
+			],
+			[
+				42,
+				"체교",
+				"NNG",
+				"꼭 이학원을 졸업한후 동국대 체교에 들어가 선생님도 보러 가끔 찾아가고 거시거 공부하고 있는 후배들에게 나를 보여주고 싶다."
+			],
+			[
+				43,
+				"선생",
+				"NNG",
+				"꼭 이학원을 졸업한후 동국대 체교에 들어가 선생님도 보러 가끔 찾아가고 거시거 공부하고 있는 후배들에게 나를 보여주고 싶다."
+			],
+			[
+				44,
+				"시거",
+				"NNG",
+				"꼭 이학원을 졸업한후 동국대 체교에 들어가 선생님도 보러 가끔 찾아가고 거시거 공부하고 있는 후배들에게 나를 보여주고 싶다."
+			],
+			[
+				45,
+				"후배",
+				"NNG",
+				"꼭 이학원을 졸업한후 동국대 체교에 들어가 선생님도 보러 가끔 찾아가고 거시거 공부하고 있는 후배들에게 나를 보여주고 싶다."
+			],
+			[
+				46,
+				"것",
+				"NNB",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			],
+			[
+				47,
+				"학원",
+				"NNG",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			],
+			[
+				48,
+				"공부",
+				"NNG",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			],
+			[
+				49,
+				"등등",
+				"NNB",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			],
+			[
+				50,
+				"실력",
+				"NNG",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			],
+			[
+				51,
+				"대학",
+				"NNG",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			],
+			[
+				52,
+				"선생",
+				"NNG",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			],
+			[
+				53,
+				"자랑",
+				"NNG",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			],
+			[
+				54,
+				"보람거리",
+				"NNG",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			]
+		],
+		"NNG_Lst": [
+			[
+				0,
+				"영어",
+				"NNG",
+				"나는 우리 영어학원 선생님을 존정한다."
+			],
+			[
+				1,
+				"학원",
+				"NNG",
+				"나는 우리 영어학원 선생님을 존정한다."
+			],
+			[
+				2,
+				"선생",
+				"NNG",
+				"나는 우리 영어학원 선생님을 존정한다."
+			],
+			[
+				3,
+				"존정",
+				"NNG",
+				"나는 우리 영어학원 선생님을 존정한다."
+			],
+			[
+				4,
+				"선생",
+				"NNG",
+				"이 선생님과의 만남이 한 1~2년전에 시작되었는데, 그 만남이 조금 특별했다."
+			],
+			[
+				5,
+				"만남",
+				"NNG",
+				"이 선생님과의 만남이 한 1~2년전에 시작되었는데, 그 만남이 조금 특별했다."
+			],
+			[
+				6,
+				"전",
+				"NNG",
+				"이 선생님과의 만남이 한 1~2년전에 시작되었는데, 그 만남이 조금 특별했다."
+			],
+			[
+				7,
+				"만남",
+				"NNG",
+				"이 선생님과의 만남이 한 1~2년전에 시작되었는데, 그 만남이 조금 특별했다."
+			],
+			[
+				8,
+				"전",
+				"NNG",
+				"전에 다니던 영어학원에서 불미스러운 일로 짤리게 되고, 화나 난 김에 바로 친구가 다니고 있는 지금 이 영어 학원에 오게 되었다."
+			],
+			[
+				9,
+				"영어",
+				"NNG",
+				"전에 다니던 영어학원에서 불미스러운 일로 짤리게 되고, 화나 난 김에 바로 친구가 다니고 있는 지금 이 영어 학원에 오게 되었다."
+			],
+			[
+				10,
+				"학원",
+				"NNG",
+				"전에 다니던 영어학원에서 불미스러운 일로 짤리게 되고, 화나 난 김에 바로 친구가 다니고 있는 지금 이 영어 학원에 오게 되었다."
+			],
+			[
+				11,
+				"일",
+				"NNG",
+				"전에 다니던 영어학원에서 불미스러운 일로 짤리게 되고, 화나 난 김에 바로 친구가 다니고 있는 지금 이 영어 학원에 오게 되었다."
+			],
+			[
+				12,
+				"화",
+				"NNG",
+				"전에 다니던 영어학원에서 불미스러운 일로 짤리게 되고, 화나 난 김에 바로 친구가 다니고 있는 지금 이 영어 학원에 오게 되었다."
+			],
+			[
+				13,
+				"친구",
+				"NNG",
+				"전에 다니던 영어학원에서 불미스러운 일로 짤리게 되고, 화나 난 김에 바로 친구가 다니고 있는 지금 이 영어 학원에 오게 되었다."
+			],
+			[
+				14,
+				"학원",
+				"NNG",
+				"전에 다니던 영어학원에서 불미스러운 일로 짤리게 되고, 화나 난 김에 바로 친구가 다니고 있는 지금 이 영어 학원에 오게 되었다."
+			],
+			[
+				15,
+				"내용",
+				"NNG",
+				"여기까지만 들으면 별 내용 없을 것 같지만 아니다."
+			],
+			[
+				16,
+				"선생",
+				"NNG",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				17,
+				"이유",
+				"NNG",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				18,
+				"스스로",
+				"NNG",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				19,
+				"친구",
+				"NNG",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				20,
+				"형",
+				"NNG",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				21,
+				"혼자",
+				"NNG",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				22,
+				"공부",
+				"NNG",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				23,
+				"영어",
+				"NNG",
+				"또한 그냥 영어학원이 아니라 이곳에서는 인성, 예절, 사회생활 등등 다양한 살아 가면서 필요한 능력을 배우는 것 같아 너무 만족스럽다."
+			],
+			[
+				24,
+				"학원",
+				"NNG",
+				"또한 그냥 영어학원이 아니라 이곳에서는 인성, 예절, 사회생활 등등 다양한 살아 가면서 필요한 능력을 배우는 것 같아 너무 만족스럽다."
+			],
+			[
+				25,
+				"인성",
+				"NNG",
+				"또한 그냥 영어학원이 아니라 이곳에서는 인성, 예절, 사회생활 등등 다양한 살아 가면서 필요한 능력을 배우는 것 같아 너무 만족스럽다."
+			],
+			[
+				26,
+				"예절",
+				"NNG",
+				"또한 그냥 영어학원이 아니라 이곳에서는 인성, 예절, 사회생활 등등 다양한 살아 가면서 필요한 능력을 배우는 것 같아 너무 만족스럽다."
+			],
+			[
+				27,
+				"사회생활",
+				"NNG",
+				"또한 그냥 영어학원이 아니라 이곳에서는 인성, 예절, 사회생활 등등 다양한 살아 가면서 필요한 능력을 배우는 것 같아 너무 만족스럽다."
+			],
+			[
+				28,
+				"능력",
+				"NNG",
+				"또한 그냥 영어학원이 아니라 이곳에서는 인성, 예절, 사회생활 등등 다양한 살아 가면서 필요한 능력을 배우는 것 같아 너무 만족스럽다."
+			],
+			[
+				29,
+				"성적",
+				"NNG",
+				"물론 나의 성적도 많이 올랐다."
+			],
+			[
+				30,
+				"인생",
+				"NNG",
+				"솔직히 인생학원이라고 불리요 과연이 아닌 것 같다."
+			],
+			[
+				31,
+				"학원",
+				"NNG",
+				"솔직히 인생학원이라고 불리요 과연이 아닌 것 같다."
+			],
+			[
+				32,
+				"후",
+				"NNG",
+				"꼭 이학원을 졸업한후 동국대 체교에 들어가 선생님도 보러 가끔 찾아가고 거시거 공부하고 있는 후배들에게 나를 보여주고 싶다."
+			],
+			[
+				33,
+				"체교",
+				"NNG",
+				"꼭 이학원을 졸업한후 동국대 체교에 들어가 선생님도 보러 가끔 찾아가고 거시거 공부하고 있는 후배들에게 나를 보여주고 싶다."
+			],
+			[
+				34,
+				"선생",
+				"NNG",
+				"꼭 이학원을 졸업한후 동국대 체교에 들어가 선생님도 보러 가끔 찾아가고 거시거 공부하고 있는 후배들에게 나를 보여주고 싶다."
+			],
+			[
+				35,
+				"시거",
+				"NNG",
+				"꼭 이학원을 졸업한후 동국대 체교에 들어가 선생님도 보러 가끔 찾아가고 거시거 공부하고 있는 후배들에게 나를 보여주고 싶다."
+			],
+			[
+				36,
+				"후배",
+				"NNG",
+				"꼭 이학원을 졸업한후 동국대 체교에 들어가 선생님도 보러 가끔 찾아가고 거시거 공부하고 있는 후배들에게 나를 보여주고 싶다."
+			],
+			[
+				37,
+				"학원",
+				"NNG",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			],
+			[
+				38,
+				"공부",
+				"NNG",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			],
+			[
+				39,
+				"실력",
+				"NNG",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			],
+			[
+				40,
+				"대학",
+				"NNG",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			],
+			[
+				41,
+				"선생",
+				"NNG",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			],
+			[
+				42,
+				"자랑",
+				"NNG",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			],
+			[
+				43,
+				"보람거리",
+				"NNG",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			]
+		],
+		"NNP_Lst": [
+			[
+				0,
+				"영어",
+				"NNP",
+				"전에 다니던 영어학원에서 불미스러운 일로 짤리게 되고, 화나 난 김에 바로 친구가 다니고 있는 지금 이 영어 학원에 오게 되었다."
+			],
+			[
+				1,
+				"이학원",
+				"NNP",
+				"꼭 이학원을 졸업한후 동국대 체교에 들어가 선생님도 보러 가끔 찾아가고 거시거 공부하고 있는 후배들에게 나를 보여주고 싶다."
+			],
+			[
+				2,
+				"동국대",
+				"NNP",
+				"꼭 이학원을 졸업한후 동국대 체교에 들어가 선생님도 보러 가끔 찾아가고 거시거 공부하고 있는 후배들에게 나를 보여주고 싶다."
+			]
+		],
+		"NNB_Lst": [
+			[
+				0,
+				"년",
+				"NNB",
+				"이 선생님과의 만남이 한 1~2년전에 시작되었는데, 그 만남이 조금 특별했다."
+			],
+			[
+				1,
+				"김",
+				"NNB",
+				"전에 다니던 영어학원에서 불미스러운 일로 짤리게 되고, 화나 난 김에 바로 친구가 다니고 있는 지금 이 영어 학원에 오게 되었다."
+			],
+			[
+				2,
+				"것",
+				"NNB",
+				"여기까지만 들으면 별 내용 없을 것 같지만 아니다."
+			],
+			[
+				3,
+				"등등",
+				"NNB",
+				"또한 그냥 영어학원이 아니라 이곳에서는 인성, 예절, 사회생활 등등 다양한 살아 가면서 필요한 능력을 배우는 것 같아 너무 만족스럽다."
+			],
+			[
+				4,
+				"것",
+				"NNB",
+				"또한 그냥 영어학원이 아니라 이곳에서는 인성, 예절, 사회생활 등등 다양한 살아 가면서 필요한 능력을 배우는 것 같아 너무 만족스럽다."
+			],
+			[
+				5,
+				"것",
+				"NNB",
+				"솔직히 인생학원이라고 불리요 과연이 아닌 것 같다."
+			],
+			[
+				6,
+				"것",
+				"NNB",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			],
+			[
+				7,
+				"등등",
+				"NNB",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			]
+		],
+		"NP_Lst": [
+			[
+				0,
+				"나",
+				"NP",
+				"나는 우리 영어학원 선생님을 존정한다."
+			],
+			[
+				1,
+				"우리",
+				"NP",
+				"나는 우리 영어학원 선생님을 존정한다."
+			],
+			[
+				2,
+				"여기",
+				"NP",
+				"여기까지만 들으면 별 내용 없을 것 같지만 아니다."
+			],
+			[
+				3,
+				"내",
+				"NP",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				4,
+				"내",
+				"NP",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				5,
+				"나",
+				"NP",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				6,
+				"나",
+				"NP",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				7,
+				"이곳",
+				"NP",
+				"또한 그냥 영어학원이 아니라 이곳에서는 인성, 예절, 사회생활 등등 다양한 살아 가면서 필요한 능력을 배우는 것 같아 너무 만족스럽다."
+			],
+			[
+				8,
+				"나",
+				"NP",
+				"물론 나의 성적도 많이 올랐다."
+			],
+			[
+				9,
+				"나",
+				"NP",
+				"꼭 이학원을 졸업한후 동국대 체교에 들어가 선생님도 보러 가끔 찾아가고 거시거 공부하고 있는 후배들에게 나를 보여주고 싶다."
+			],
+			[
+				10,
+				"내",
+				"NP",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			],
+			[
+				11,
+				"너",
+				"NP",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			]
+		],
+		"NP_People_Lst": [
+			[
+				0,
+				"나",
+				"NP",
+				"나는 우리 영어학원 선생님을 존정한다."
+			],
+			[
+				1,
+				"우리",
+				"NP",
+				"나는 우리 영어학원 선생님을 존정한다."
+			],
+			[
+				2,
+				"나",
+				"NP",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				3,
+				"나",
+				"NP",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				4,
+				"나",
+				"NP",
+				"물론 나의 성적도 많이 올랐다."
+			],
+			[
+				5,
+				"나",
+				"NP",
+				"꼭 이학원을 졸업한후 동국대 체교에 들어가 선생님도 보러 가끔 찾아가고 거시거 공부하고 있는 후배들에게 나를 보여주고 싶다."
+			],
+			[
+				6,
+				"너",
+				"NP",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			]
+		],
+		"NP_Things_Lst": [
+			[
+				0,
+				"여기",
+				"NP",
+				"여기까지만 들으면 별 내용 없을 것 같지만 아니다."
+			]
+		],
+		"NR_Lst": [],
+		"VL_Lst": [
+			[
+				0,
+				"시작되",
+				"VV",
+				"이 선생님과의 만남이 한 1~2년전에 시작되었는데, 그 만남이 조금 특별했다."
+			],
+			[
+				1,
+				"특별하",
+				"VA",
+				"이 선생님과의 만남이 한 1~2년전에 시작되었는데, 그 만남이 조금 특별했다."
+			],
+			[
+				2,
+				"다니",
+				"VV",
+				"전에 다니던 영어학원에서 불미스러운 일로 짤리게 되고, 화나 난 김에 바로 친구가 다니고 있는 지금 이 영어 학원에 오게 되었다."
+			],
+			[
+				3,
+				"불미스럽",
+				"VA",
+				"전에 다니던 영어학원에서 불미스러운 일로 짤리게 되고, 화나 난 김에 바로 친구가 다니고 있는 지금 이 영어 학원에 오게 되었다."
+			],
+			[
+				4,
+				"짤리",
+				"VV",
+				"전에 다니던 영어학원에서 불미스러운 일로 짤리게 되고, 화나 난 김에 바로 친구가 다니고 있는 지금 이 영어 학원에 오게 되었다."
+			],
+			[
+				5,
+				"되",
+				"VV",
+				"전에 다니던 영어학원에서 불미스러운 일로 짤리게 되고, 화나 난 김에 바로 친구가 다니고 있는 지금 이 영어 학원에 오게 되었다."
+			],
+			[
+				6,
+				"나",
+				"VV",
+				"전에 다니던 영어학원에서 불미스러운 일로 짤리게 되고, 화나 난 김에 바로 친구가 다니고 있는 지금 이 영어 학원에 오게 되었다."
+			],
+			[
+				7,
+				"나",
+				"VX",
+				"전에 다니던 영어학원에서 불미스러운 일로 짤리게 되고, 화나 난 김에 바로 친구가 다니고 있는 지금 이 영어 학원에 오게 되었다."
+			],
+			[
+				8,
+				"다니",
+				"VV",
+				"전에 다니던 영어학원에서 불미스러운 일로 짤리게 되고, 화나 난 김에 바로 친구가 다니고 있는 지금 이 영어 학원에 오게 되었다."
+			],
+			[
+				9,
+				"있",
+				"VX",
+				"전에 다니던 영어학원에서 불미스러운 일로 짤리게 되고, 화나 난 김에 바로 친구가 다니고 있는 지금 이 영어 학원에 오게 되었다."
+			],
+			[
+				10,
+				"오",
+				"VV",
+				"전에 다니던 영어학원에서 불미스러운 일로 짤리게 되고, 화나 난 김에 바로 친구가 다니고 있는 지금 이 영어 학원에 오게 되었다."
+			],
+			[
+				11,
+				"되",
+				"VV",
+				"전에 다니던 영어학원에서 불미스러운 일로 짤리게 되고, 화나 난 김에 바로 친구가 다니고 있는 지금 이 영어 학원에 오게 되었다."
+			],
+			[
+				12,
+				"듣",
+				"VV",
+				"여기까지만 들으면 별 내용 없을 것 같지만 아니다."
+			],
+			[
+				13,
+				"없",
+				"VA",
+				"여기까지만 들으면 별 내용 없을 것 같지만 아니다."
+			],
+			[
+				14,
+				"같",
+				"VA",
+				"여기까지만 들으면 별 내용 없을 것 같지만 아니다."
+			],
+			[
+				15,
+				"아니",
+				"VCN",
+				"여기까지만 들으면 별 내용 없을 것 같지만 아니다."
+			],
+			[
+				16,
+				"존경하",
+				"VV",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				17,
+				"놀",
+				"VV",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				18,
+				"다루",
+				"VV",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				19,
+				"힘들",
+				"VA",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				20,
+				"생각하",
+				"VV",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				21,
+				"더하",
+				"VV",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				22,
+				"다루",
+				"VV",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				23,
+				"주",
+				"VX",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				24,
+				"놓",
+				"VV",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				25,
+				"않",
+				"VX",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				26,
+				"도아주",
+				"VV",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				27,
+				"아니",
+				"VCN",
+				"또한 그냥 영어학원이 아니라 이곳에서는 인성, 예절, 사회생활 등등 다양한 살아 가면서 필요한 능력을 배우는 것 같아 너무 만족스럽다."
+			],
+			[
+				28,
+				"다양하",
+				"VA",
+				"또한 그냥 영어학원이 아니라 이곳에서는 인성, 예절, 사회생활 등등 다양한 살아 가면서 필요한 능력을 배우는 것 같아 너무 만족스럽다."
+			],
+			[
+				29,
+				"살아가",
+				"VV",
+				"또한 그냥 영어학원이 아니라 이곳에서는 인성, 예절, 사회생활 등등 다양한 살아 가면서 필요한 능력을 배우는 것 같아 너무 만족스럽다."
+			],
+			[
+				30,
+				"필요하",
+				"VA",
+				"또한 그냥 영어학원이 아니라 이곳에서는 인성, 예절, 사회생활 등등 다양한 살아 가면서 필요한 능력을 배우는 것 같아 너무 만족스럽다."
+			],
+			[
+				31,
+				"배우",
+				"VV",
+				"또한 그냥 영어학원이 아니라 이곳에서는 인성, 예절, 사회생활 등등 다양한 살아 가면서 필요한 능력을 배우는 것 같아 너무 만족스럽다."
+			],
+			[
+				32,
+				"같",
+				"VA",
+				"또한 그냥 영어학원이 아니라 이곳에서는 인성, 예절, 사회생활 등등 다양한 살아 가면서 필요한 능력을 배우는 것 같아 너무 만족스럽다."
+			],
+			[
+				33,
+				"만족스럽",
+				"VA",
+				"또한 그냥 영어학원이 아니라 이곳에서는 인성, 예절, 사회생활 등등 다양한 살아 가면서 필요한 능력을 배우는 것 같아 너무 만족스럽다."
+			],
+			[
+				34,
+				"오르",
+				"VV",
+				"물론 나의 성적도 많이 올랐다."
+			],
+			[
+				35,
+				"이",
+				"VCP",
+				"솔직히 인생학원이라고 불리요 과연이 아닌 것 같다."
+			],
+			[
+				36,
+				"불리",
+				"VV",
+				"솔직히 인생학원이라고 불리요 과연이 아닌 것 같다."
+			],
+			[
+				37,
+				"아니",
+				"VCN",
+				"솔직히 인생학원이라고 불리요 과연이 아닌 것 같다."
+			],
+			[
+				38,
+				"같",
+				"VA",
+				"솔직히 인생학원이라고 불리요 과연이 아닌 것 같다."
+			],
+			[
+				39,
+				"졸업하",
+				"VV",
+				"꼭 이학원을 졸업한후 동국대 체교에 들어가 선생님도 보러 가끔 찾아가고 거시거 공부하고 있는 후배들에게 나를 보여주고 싶다."
+			],
+			[
+				40,
+				"들어가",
+				"VV",
+				"꼭 이학원을 졸업한후 동국대 체교에 들어가 선생님도 보러 가끔 찾아가고 거시거 공부하고 있는 후배들에게 나를 보여주고 싶다."
+			],
+			[
+				41,
+				"보",
+				"VV",
+				"꼭 이학원을 졸업한후 동국대 체교에 들어가 선생님도 보러 가끔 찾아가고 거시거 공부하고 있는 후배들에게 나를 보여주고 싶다."
+			],
+			[
+				42,
+				"찾아가",
+				"VV",
+				"꼭 이학원을 졸업한후 동국대 체교에 들어가 선생님도 보러 가끔 찾아가고 거시거 공부하고 있는 후배들에게 나를 보여주고 싶다."
+			],
+			[
+				43,
+				"공부하",
+				"VV",
+				"꼭 이학원을 졸업한후 동국대 체교에 들어가 선생님도 보러 가끔 찾아가고 거시거 공부하고 있는 후배들에게 나를 보여주고 싶다."
+			],
+			[
+				44,
+				"있",
+				"VX",
+				"꼭 이학원을 졸업한후 동국대 체교에 들어가 선생님도 보러 가끔 찾아가고 거시거 공부하고 있는 후배들에게 나를 보여주고 싶다."
+			],
+			[
+				45,
+				"보이",
+				"VV",
+				"꼭 이학원을 졸업한후 동국대 체교에 들어가 선생님도 보러 가끔 찾아가고 거시거 공부하고 있는 후배들에게 나를 보여주고 싶다."
+			],
+			[
+				46,
+				"주",
+				"VX",
+				"꼭 이학원을 졸업한후 동국대 체교에 들어가 선생님도 보러 가끔 찾아가고 거시거 공부하고 있는 후배들에게 나를 보여주고 싶다."
+			],
+			[
+				47,
+				"싶",
+				"VX",
+				"꼭 이학원을 졸업한후 동국대 체교에 들어가 선생님도 보러 가끔 찾아가고 거시거 공부하고 있는 후배들에게 나를 보여주고 싶다."
+			],
+			[
+				48,
+				"이렇",
+				"VA",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			],
+			[
+				49,
+				"성공하",
+				"VV",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			],
+			[
+				50,
+				"못하",
+				"VV",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			],
+			[
+				51,
+				"같",
+				"VA",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			],
+			[
+				52,
+				"이",
+				"VCP",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			],
+			[
+				53,
+				"부족하",
+				"VA",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			],
+			[
+				54,
+				"다니",
+				"VV",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			],
+			[
+				55,
+				"놀라",
+				"VV",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			],
+			[
+				56,
+				"좋",
+				"VA",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			],
+			[
+				57,
+				"들어가",
+				"VV",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			],
+			[
+				58,
+				"되",
+				"VV",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			],
+			[
+				59,
+				"싶",
+				"VX",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			]
+		],
+		"VV_Lst": [
+			[
+				0,
+				"시작되",
+				"VV",
+				"이 선생님과의 만남이 한 1~2년전에 시작되었는데, 그 만남이 조금 특별했다."
+			],
+			[
+				1,
+				"다니",
+				"VV",
+				"전에 다니던 영어학원에서 불미스러운 일로 짤리게 되고, 화나 난 김에 바로 친구가 다니고 있는 지금 이 영어 학원에 오게 되었다."
+			],
+			[
+				2,
+				"짤리",
+				"VV",
+				"전에 다니던 영어학원에서 불미스러운 일로 짤리게 되고, 화나 난 김에 바로 친구가 다니고 있는 지금 이 영어 학원에 오게 되었다."
+			],
+			[
+				3,
+				"되",
+				"VV",
+				"전에 다니던 영어학원에서 불미스러운 일로 짤리게 되고, 화나 난 김에 바로 친구가 다니고 있는 지금 이 영어 학원에 오게 되었다."
+			],
+			[
+				4,
+				"나",
+				"VV",
+				"전에 다니던 영어학원에서 불미스러운 일로 짤리게 되고, 화나 난 김에 바로 친구가 다니고 있는 지금 이 영어 학원에 오게 되었다."
+			],
+			[
+				5,
+				"다니",
+				"VV",
+				"전에 다니던 영어학원에서 불미스러운 일로 짤리게 되고, 화나 난 김에 바로 친구가 다니고 있는 지금 이 영어 학원에 오게 되었다."
+			],
+			[
+				6,
+				"오",
+				"VV",
+				"전에 다니던 영어학원에서 불미스러운 일로 짤리게 되고, 화나 난 김에 바로 친구가 다니고 있는 지금 이 영어 학원에 오게 되었다."
+			],
+			[
+				7,
+				"되",
+				"VV",
+				"전에 다니던 영어학원에서 불미스러운 일로 짤리게 되고, 화나 난 김에 바로 친구가 다니고 있는 지금 이 영어 학원에 오게 되었다."
+			],
+			[
+				8,
+				"듣",
+				"VV",
+				"여기까지만 들으면 별 내용 없을 것 같지만 아니다."
+			],
+			[
+				9,
+				"존경하",
+				"VV",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				10,
+				"놀",
+				"VV",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				11,
+				"다루",
+				"VV",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				12,
+				"생각하",
+				"VV",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				13,
+				"더하",
+				"VV",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				14,
+				"다루",
+				"VV",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				15,
+				"놓",
+				"VV",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				16,
+				"도아주",
+				"VV",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				17,
+				"살아가",
+				"VV",
+				"또한 그냥 영어학원이 아니라 이곳에서는 인성, 예절, 사회생활 등등 다양한 살아 가면서 필요한 능력을 배우는 것 같아 너무 만족스럽다."
+			],
+			[
+				18,
+				"배우",
+				"VV",
+				"또한 그냥 영어학원이 아니라 이곳에서는 인성, 예절, 사회생활 등등 다양한 살아 가면서 필요한 능력을 배우는 것 같아 너무 만족스럽다."
+			],
+			[
+				19,
+				"오르",
+				"VV",
+				"물론 나의 성적도 많이 올랐다."
+			],
+			[
+				20,
+				"불리",
+				"VV",
+				"솔직히 인생학원이라고 불리요 과연이 아닌 것 같다."
+			],
+			[
+				21,
+				"졸업하",
+				"VV",
+				"꼭 이학원을 졸업한후 동국대 체교에 들어가 선생님도 보러 가끔 찾아가고 거시거 공부하고 있는 후배들에게 나를 보여주고 싶다."
+			],
+			[
+				22,
+				"들어가",
+				"VV",
+				"꼭 이학원을 졸업한후 동국대 체교에 들어가 선생님도 보러 가끔 찾아가고 거시거 공부하고 있는 후배들에게 나를 보여주고 싶다."
+			],
+			[
+				23,
+				"보",
+				"VV",
+				"꼭 이학원을 졸업한후 동국대 체교에 들어가 선생님도 보러 가끔 찾아가고 거시거 공부하고 있는 후배들에게 나를 보여주고 싶다."
+			],
+			[
+				24,
+				"찾아가",
+				"VV",
+				"꼭 이학원을 졸업한후 동국대 체교에 들어가 선생님도 보러 가끔 찾아가고 거시거 공부하고 있는 후배들에게 나를 보여주고 싶다."
+			],
+			[
+				25,
+				"공부하",
+				"VV",
+				"꼭 이학원을 졸업한후 동국대 체교에 들어가 선생님도 보러 가끔 찾아가고 거시거 공부하고 있는 후배들에게 나를 보여주고 싶다."
+			],
+			[
+				26,
+				"보이",
+				"VV",
+				"꼭 이학원을 졸업한후 동국대 체교에 들어가 선생님도 보러 가끔 찾아가고 거시거 공부하고 있는 후배들에게 나를 보여주고 싶다."
+			],
+			[
+				27,
+				"성공하",
+				"VV",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			],
+			[
+				28,
+				"못하",
+				"VV",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			],
+			[
+				29,
+				"다니",
+				"VV",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			],
+			[
+				30,
+				"놀라",
+				"VV",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			],
+			[
+				31,
+				"들어가",
+				"VV",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			],
+			[
+				32,
+				"되",
+				"VV",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			]
+		],
+		"VA_Lst": [
+			[
+				0,
+				"특별하",
+				"VA",
+				"이 선생님과의 만남이 한 1~2년전에 시작되었는데, 그 만남이 조금 특별했다."
+			],
+			[
+				1,
+				"불미스럽",
+				"VA",
+				"전에 다니던 영어학원에서 불미스러운 일로 짤리게 되고, 화나 난 김에 바로 친구가 다니고 있는 지금 이 영어 학원에 오게 되었다."
+			],
+			[
+				2,
+				"없",
+				"VA",
+				"여기까지만 들으면 별 내용 없을 것 같지만 아니다."
+			],
+			[
+				3,
+				"같",
+				"VA",
+				"여기까지만 들으면 별 내용 없을 것 같지만 아니다."
+			],
+			[
+				4,
+				"힘들",
+				"VA",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				5,
+				"다양하",
+				"VA",
+				"또한 그냥 영어학원이 아니라 이곳에서는 인성, 예절, 사회생활 등등 다양한 살아 가면서 필요한 능력을 배우는 것 같아 너무 만족스럽다."
+			],
+			[
+				6,
+				"필요하",
+				"VA",
+				"또한 그냥 영어학원이 아니라 이곳에서는 인성, 예절, 사회생활 등등 다양한 살아 가면서 필요한 능력을 배우는 것 같아 너무 만족스럽다."
+			],
+			[
+				7,
+				"같",
+				"VA",
+				"또한 그냥 영어학원이 아니라 이곳에서는 인성, 예절, 사회생활 등등 다양한 살아 가면서 필요한 능력을 배우는 것 같아 너무 만족스럽다."
+			],
+			[
+				8,
+				"만족스럽",
+				"VA",
+				"또한 그냥 영어학원이 아니라 이곳에서는 인성, 예절, 사회생활 등등 다양한 살아 가면서 필요한 능력을 배우는 것 같아 너무 만족스럽다."
+			],
+			[
+				9,
+				"같",
+				"VA",
+				"솔직히 인생학원이라고 불리요 과연이 아닌 것 같다."
+			],
+			[
+				10,
+				"이렇",
+				"VA",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			],
+			[
+				11,
+				"같",
+				"VA",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			],
+			[
+				12,
+				"부족하",
+				"VA",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			],
+			[
+				13,
+				"좋",
+				"VA",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			]
+		],
+		"VX_Lst": [
+			[
+				0,
+				"나",
+				"VX",
+				"전에 다니던 영어학원에서 불미스러운 일로 짤리게 되고, 화나 난 김에 바로 친구가 다니고 있는 지금 이 영어 학원에 오게 되었다."
+			],
+			[
+				1,
+				"있",
+				"VX",
+				"전에 다니던 영어학원에서 불미스러운 일로 짤리게 되고, 화나 난 김에 바로 친구가 다니고 있는 지금 이 영어 학원에 오게 되었다."
+			],
+			[
+				2,
+				"주",
+				"VX",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				3,
+				"않",
+				"VX",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				4,
+				"있",
+				"VX",
+				"꼭 이학원을 졸업한후 동국대 체교에 들어가 선생님도 보러 가끔 찾아가고 거시거 공부하고 있는 후배들에게 나를 보여주고 싶다."
+			],
+			[
+				5,
+				"주",
+				"VX",
+				"꼭 이학원을 졸업한후 동국대 체교에 들어가 선생님도 보러 가끔 찾아가고 거시거 공부하고 있는 후배들에게 나를 보여주고 싶다."
+			],
+			[
+				6,
+				"싶",
+				"VX",
+				"꼭 이학원을 졸업한후 동국대 체교에 들어가 선생님도 보러 가끔 찾아가고 거시거 공부하고 있는 후배들에게 나를 보여주고 싶다."
+			],
+			[
+				7,
+				"싶",
+				"VX",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			]
+		],
+		"VCP_Lst": [
+			[
+				0,
+				"이",
+				"VCP",
+				"솔직히 인생학원이라고 불리요 과연이 아닌 것 같다."
+			],
+			[
+				1,
+				"이",
+				"VCP",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			]
+		],
+		"VCN_Lst": [
+			[
+				0,
+				"아니",
+				"VCN",
+				"여기까지만 들으면 별 내용 없을 것 같지만 아니다."
+			],
+			[
+				1,
+				"아니",
+				"VCN",
+				"또한 그냥 영어학원이 아니라 이곳에서는 인성, 예절, 사회생활 등등 다양한 살아 가면서 필요한 능력을 배우는 것 같아 너무 만족스럽다."
+			],
+			[
+				2,
+				"아니",
+				"VCN",
+				"솔직히 인생학원이라고 불리요 과연이 아닌 것 같다."
+			]
+		],
+		"ML_Lst": [
+			[
+				0,
+				"조금",
+				"MAG",
+				"이 선생님과의 만남이 한 1~2년전에 시작되었는데, 그 만남이 조금 특별했다."
+			],
+			[
+				1,
+				"바로",
+				"MAG",
+				"전에 다니던 영어학원에서 불미스러운 일로 짤리게 되고, 화나 난 김에 바로 친구가 다니고 있는 지금 이 영어 학원에 오게 되었다."
+			],
+			[
+				2,
+				"지금",
+				"MAG",
+				"전에 다니던 영어학원에서 불미스러운 일로 짤리게 되고, 화나 난 김에 바로 친구가 다니고 있는 지금 이 영어 학원에 오게 되었다."
+			],
+			[
+				3,
+				"솔직히",
+				"MAG",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				4,
+				"좀",
+				"MAG",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				5,
+				"모두",
+				"MAG",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				6,
+				"또한",
+				"MAG",
+				"또한 그냥 영어학원이 아니라 이곳에서는 인성, 예절, 사회생활 등등 다양한 살아 가면서 필요한 능력을 배우는 것 같아 너무 만족스럽다."
+			],
+			[
+				7,
+				"그냥",
+				"MAG",
+				"또한 그냥 영어학원이 아니라 이곳에서는 인성, 예절, 사회생활 등등 다양한 살아 가면서 필요한 능력을 배우는 것 같아 너무 만족스럽다."
+			],
+			[
+				8,
+				"너무",
+				"MAG",
+				"또한 그냥 영어학원이 아니라 이곳에서는 인성, 예절, 사회생활 등등 다양한 살아 가면서 필요한 능력을 배우는 것 같아 너무 만족스럽다."
+			],
+			[
+				9,
+				"물론",
+				"MAG",
+				"물론 나의 성적도 많이 올랐다."
+			],
+			[
+				10,
+				"많이",
+				"MAG",
+				"물론 나의 성적도 많이 올랐다."
+			],
+			[
+				11,
+				"솔직히",
+				"MAG",
+				"솔직히 인생학원이라고 불리요 과연이 아닌 것 같다."
+			],
+			[
+				12,
+				"과연",
+				"MAG",
+				"솔직히 인생학원이라고 불리요 과연이 아닌 것 같다."
+			],
+			[
+				13,
+				"꼭",
+				"MAG",
+				"꼭 이학원을 졸업한후 동국대 체교에 들어가 선생님도 보러 가끔 찾아가고 거시거 공부하고 있는 후배들에게 나를 보여주고 싶다."
+			],
+			[
+				14,
+				"가끔",
+				"MAG",
+				"꼭 이학원을 졸업한후 동국대 체교에 들어가 선생님도 보러 가끔 찾아가고 거시거 공부하고 있는 후배들에게 나를 보여주고 싶다."
+			],
+			[
+				15,
+				"때로",
+				"MAG",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			],
+			[
+				16,
+				"아직",
+				"MAG",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			],
+			[
+				17,
+				"전점",
+				"MAG",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			],
+			[
+				18,
+				"꼭",
+				"MAG",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			]
+		],
+		"MA_Lst": [],
+		"MM_Lst": [],
+		"J_Lst": [
+			[
+				0,
+				"는",
+				"JX",
+				"나는 우리 영어학원 선생님을 존정한다."
+			],
+			[
+				1,
+				"을",
+				"JKO",
+				"나는 우리 영어학원 선생님을 존정한다."
+			],
+			[
+				2,
+				"과",
+				"JKB",
+				"이 선생님과의 만남이 한 1~2년전에 시작되었는데, 그 만남이 조금 특별했다."
+			],
+			[
+				3,
+				"의",
+				"JKG",
+				"이 선생님과의 만남이 한 1~2년전에 시작되었는데, 그 만남이 조금 특별했다."
+			],
+			[
+				4,
+				"이",
+				"JKS",
+				"이 선생님과의 만남이 한 1~2년전에 시작되었는데, 그 만남이 조금 특별했다."
+			],
+			[
+				5,
+				"에",
+				"JKB",
+				"이 선생님과의 만남이 한 1~2년전에 시작되었는데, 그 만남이 조금 특별했다."
+			],
+			[
+				6,
+				"이",
+				"JKS",
+				"이 선생님과의 만남이 한 1~2년전에 시작되었는데, 그 만남이 조금 특별했다."
+			],
+			[
+				7,
+				"에",
+				"JKB",
+				"전에 다니던 영어학원에서 불미스러운 일로 짤리게 되고, 화나 난 김에 바로 친구가 다니고 있는 지금 이 영어 학원에 오게 되었다."
+			],
+			[
+				8,
+				"에서",
+				"JKB",
+				"전에 다니던 영어학원에서 불미스러운 일로 짤리게 되고, 화나 난 김에 바로 친구가 다니고 있는 지금 이 영어 학원에 오게 되었다."
+			],
+			[
+				9,
+				"로",
+				"JKB",
+				"전에 다니던 영어학원에서 불미스러운 일로 짤리게 되고, 화나 난 김에 바로 친구가 다니고 있는 지금 이 영어 학원에 오게 되었다."
+			],
+			[
+				10,
+				"에",
+				"JKB",
+				"전에 다니던 영어학원에서 불미스러운 일로 짤리게 되고, 화나 난 김에 바로 친구가 다니고 있는 지금 이 영어 학원에 오게 되었다."
+			],
+			[
+				11,
+				"가",
+				"JKS",
+				"전에 다니던 영어학원에서 불미스러운 일로 짤리게 되고, 화나 난 김에 바로 친구가 다니고 있는 지금 이 영어 학원에 오게 되었다."
+			],
+			[
+				12,
+				"에",
+				"JKB",
+				"전에 다니던 영어학원에서 불미스러운 일로 짤리게 되고, 화나 난 김에 바로 친구가 다니고 있는 지금 이 영어 학원에 오게 되었다."
+			],
+			[
+				13,
+				"까지",
+				"JX",
+				"여기까지만 들으면 별 내용 없을 것 같지만 아니다."
+			],
+			[
+				14,
+				"만",
+				"JX",
+				"여기까지만 들으면 별 내용 없을 것 같지만 아니다."
+			],
+			[
+				15,
+				"가",
+				"JKS",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				16,
+				"을",
+				"JKO",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				17,
+				"는",
+				"JX",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				18,
+				"가",
+				"JKS",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				19,
+				"의",
+				"JKG",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				20,
+				"도",
+				"JX",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				21,
+				"보다",
+				"JKB",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				22,
+				"와",
+				"JC",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				23,
+				"를",
+				"JKO",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				24,
+				"이",
+				"JKC",
+				"또한 그냥 영어학원이 아니라 이곳에서는 인성, 예절, 사회생활 등등 다양한 살아 가면서 필요한 능력을 배우는 것 같아 너무 만족스럽다."
+			],
+			[
+				25,
+				"에서",
+				"JKB",
+				"또한 그냥 영어학원이 아니라 이곳에서는 인성, 예절, 사회생활 등등 다양한 살아 가면서 필요한 능력을 배우는 것 같아 너무 만족스럽다."
+			],
+			[
+				26,
+				"는",
+				"JX",
+				"또한 그냥 영어학원이 아니라 이곳에서는 인성, 예절, 사회생활 등등 다양한 살아 가면서 필요한 능력을 배우는 것 같아 너무 만족스럽다."
+			],
+			[
+				27,
+				"을",
+				"JKO",
+				"또한 그냥 영어학원이 아니라 이곳에서는 인성, 예절, 사회생활 등등 다양한 살아 가면서 필요한 능력을 배우는 것 같아 너무 만족스럽다."
+			],
+			[
+				28,
+				"의",
+				"JKG",
+				"물론 나의 성적도 많이 올랐다."
+			],
+			[
+				29,
+				"도",
+				"JX",
+				"물론 나의 성적도 많이 올랐다."
+			],
+			[
+				30,
+				"이",
+				"JKC",
+				"솔직히 인생학원이라고 불리요 과연이 아닌 것 같다."
+			],
+			[
+				31,
+				"을",
+				"JKO",
+				"꼭 이학원을 졸업한후 동국대 체교에 들어가 선생님도 보러 가끔 찾아가고 거시거 공부하고 있는 후배들에게 나를 보여주고 싶다."
+			],
+			[
+				32,
+				"에",
+				"JKB",
+				"꼭 이학원을 졸업한후 동국대 체교에 들어가 선생님도 보러 가끔 찾아가고 거시거 공부하고 있는 후배들에게 나를 보여주고 싶다."
+			],
+			[
+				33,
+				"도",
+				"JX",
+				"꼭 이학원을 졸업한후 동국대 체교에 들어가 선생님도 보러 가끔 찾아가고 거시거 공부하고 있는 후배들에게 나를 보여주고 싶다."
+			],
+			[
+				34,
+				"에게",
+				"JKB",
+				"꼭 이학원을 졸업한후 동국대 체교에 들어가 선생님도 보러 가끔 찾아가고 거시거 공부하고 있는 후배들에게 나를 보여주고 싶다."
+			],
+			[
+				35,
+				"를",
+				"JKO",
+				"꼭 이학원을 졸업한후 동국대 체교에 들어가 선생님도 보러 가끔 찾아가고 거시거 공부하고 있는 후배들에게 나를 보여주고 싶다."
+			],
+			[
+				36,
+				"가",
+				"JKS",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			],
+			[
+				37,
+				"는",
+				"JX",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			],
+			[
+				38,
+				"ㄴ",
+				"JX",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			],
+			[
+				39,
+				"도",
+				"JX",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			],
+			[
+				40,
+				"을",
+				"JKO",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			],
+			[
+				41,
+				"에",
+				"JKB",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			],
+			[
+				42,
+				"의",
+				"JKG",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			],
+			[
+				43,
+				"과",
+				"JC",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			],
+			[
+				44,
+				"가",
+				"JKC",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			]
+		],
+		"E_Lst": [
+			[
+				0,
+				"ㄴ다",
+				"EF",
+				"나는 우리 영어학원 선생님을 존정한다."
+			],
+			[
+				1,
+				"었",
+				"EP",
+				"이 선생님과의 만남이 한 1~2년전에 시작되었는데, 그 만남이 조금 특별했다."
+			],
+			[
+				2,
+				"는데",
+				"EC",
+				"이 선생님과의 만남이 한 1~2년전에 시작되었는데, 그 만남이 조금 특별했다."
+			],
+			[
+				3,
+				"았",
+				"EP",
+				"이 선생님과의 만남이 한 1~2년전에 시작되었는데, 그 만남이 조금 특별했다."
+			],
+			[
+				4,
+				"다",
+				"EF",
+				"이 선생님과의 만남이 한 1~2년전에 시작되었는데, 그 만남이 조금 특별했다."
+			],
+			[
+				5,
+				"던",
+				"ETM",
+				"전에 다니던 영어학원에서 불미스러운 일로 짤리게 되고, 화나 난 김에 바로 친구가 다니고 있는 지금 이 영어 학원에 오게 되었다."
+			],
+			[
+				6,
+				"ㄴ",
+				"ETM",
+				"전에 다니던 영어학원에서 불미스러운 일로 짤리게 되고, 화나 난 김에 바로 친구가 다니고 있는 지금 이 영어 학원에 오게 되었다."
+			],
+			[
+				7,
+				"게",
+				"EC",
+				"전에 다니던 영어학원에서 불미스러운 일로 짤리게 되고, 화나 난 김에 바로 친구가 다니고 있는 지금 이 영어 학원에 오게 되었다."
+			],
+			[
+				8,
+				"고",
+				"EC",
+				"전에 다니던 영어학원에서 불미스러운 일로 짤리게 되고, 화나 난 김에 바로 친구가 다니고 있는 지금 이 영어 학원에 오게 되었다."
+			],
+			[
+				9,
+				"아",
+				"EC",
+				"전에 다니던 영어학원에서 불미스러운 일로 짤리게 되고, 화나 난 김에 바로 친구가 다니고 있는 지금 이 영어 학원에 오게 되었다."
+			],
+			[
+				10,
+				"ㄴ",
+				"ETM",
+				"전에 다니던 영어학원에서 불미스러운 일로 짤리게 되고, 화나 난 김에 바로 친구가 다니고 있는 지금 이 영어 학원에 오게 되었다."
+			],
+			[
+				11,
+				"고",
+				"EC",
+				"전에 다니던 영어학원에서 불미스러운 일로 짤리게 되고, 화나 난 김에 바로 친구가 다니고 있는 지금 이 영어 학원에 오게 되었다."
+			],
+			[
+				12,
+				"는",
+				"ETM",
+				"전에 다니던 영어학원에서 불미스러운 일로 짤리게 되고, 화나 난 김에 바로 친구가 다니고 있는 지금 이 영어 학원에 오게 되었다."
+			],
+			[
+				13,
+				"게",
+				"EC",
+				"전에 다니던 영어학원에서 불미스러운 일로 짤리게 되고, 화나 난 김에 바로 친구가 다니고 있는 지금 이 영어 학원에 오게 되었다."
+			],
+			[
+				14,
+				"었",
+				"EP",
+				"전에 다니던 영어학원에서 불미스러운 일로 짤리게 되고, 화나 난 김에 바로 친구가 다니고 있는 지금 이 영어 학원에 오게 되었다."
+			],
+			[
+				15,
+				"다",
+				"EF",
+				"전에 다니던 영어학원에서 불미스러운 일로 짤리게 되고, 화나 난 김에 바로 친구가 다니고 있는 지금 이 영어 학원에 오게 되었다."
+			],
+			[
+				16,
+				"으면",
+				"EC",
+				"여기까지만 들으면 별 내용 없을 것 같지만 아니다."
+			],
+			[
+				17,
+				"을",
+				"ETM",
+				"여기까지만 들으면 별 내용 없을 것 같지만 아니다."
+			],
+			[
+				18,
+				"지만",
+				"EC",
+				"여기까지만 들으면 별 내용 없을 것 같지만 아니다."
+			],
+			[
+				19,
+				"다",
+				"EF",
+				"여기까지만 들으면 별 내용 없을 것 같지만 아니다."
+			],
+			[
+				20,
+				"는",
+				"ETM",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				21,
+				"고",
+				"EC",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				22,
+				"기",
+				"ETN",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				23,
+				"다고",
+				"EC",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				24,
+				"지만",
+				"EC",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				25,
+				"ㄴ",
+				"ETM",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				26,
+				"어",
+				"EC",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				27,
+				"시",
+				"EP",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				28,
+				"고",
+				"EC",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				29,
+				"지",
+				"EC",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				30,
+				"게",
+				"EC",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				31,
+				"시",
+				"EP",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				32,
+				"ㄴ다",
+				"EF",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				33,
+				"라",
+				"EC",
+				"또한 그냥 영어학원이 아니라 이곳에서는 인성, 예절, 사회생활 등등 다양한 살아 가면서 필요한 능력을 배우는 것 같아 너무 만족스럽다."
+			],
+			[
+				34,
+				"ㄴ",
+				"ETM",
+				"또한 그냥 영어학원이 아니라 이곳에서는 인성, 예절, 사회생활 등등 다양한 살아 가면서 필요한 능력을 배우는 것 같아 너무 만족스럽다."
+			],
+			[
+				35,
+				"면서",
+				"EC",
+				"또한 그냥 영어학원이 아니라 이곳에서는 인성, 예절, 사회생활 등등 다양한 살아 가면서 필요한 능력을 배우는 것 같아 너무 만족스럽다."
+			],
+			[
+				36,
+				"ㄴ",
+				"ETM",
+				"또한 그냥 영어학원이 아니라 이곳에서는 인성, 예절, 사회생활 등등 다양한 살아 가면서 필요한 능력을 배우는 것 같아 너무 만족스럽다."
+			],
+			[
+				37,
+				"는",
+				"ETM",
+				"또한 그냥 영어학원이 아니라 이곳에서는 인성, 예절, 사회생활 등등 다양한 살아 가면서 필요한 능력을 배우는 것 같아 너무 만족스럽다."
+			],
+			[
+				38,
+				"아",
+				"EC",
+				"또한 그냥 영어학원이 아니라 이곳에서는 인성, 예절, 사회생활 등등 다양한 살아 가면서 필요한 능력을 배우는 것 같아 너무 만족스럽다."
+			],
+			[
+				39,
+				"다",
+				"EF",
+				"또한 그냥 영어학원이 아니라 이곳에서는 인성, 예절, 사회생활 등등 다양한 살아 가면서 필요한 능력을 배우는 것 같아 너무 만족스럽다."
+			],
+			[
+				40,
+				"았",
+				"EP",
+				"물론 나의 성적도 많이 올랐다."
+			],
+			[
+				41,
+				"다",
+				"EF",
+				"물론 나의 성적도 많이 올랐다."
+			],
+			[
+				42,
+				"라고",
+				"EC",
+				"솔직히 인생학원이라고 불리요 과연이 아닌 것 같다."
+			],
+			[
+				43,
+				"요",
+				"EC",
+				"솔직히 인생학원이라고 불리요 과연이 아닌 것 같다."
+			],
+			[
+				44,
+				"ㄴ",
+				"ETM",
+				"솔직히 인생학원이라고 불리요 과연이 아닌 것 같다."
+			],
+			[
+				45,
+				"다",
+				"EF",
+				"솔직히 인생학원이라고 불리요 과연이 아닌 것 같다."
+			],
+			[
+				46,
+				"ㄴ",
+				"ETM",
+				"꼭 이학원을 졸업한후 동국대 체교에 들어가 선생님도 보러 가끔 찾아가고 거시거 공부하고 있는 후배들에게 나를 보여주고 싶다."
+			],
+			[
+				47,
+				"아",
+				"EC",
+				"꼭 이학원을 졸업한후 동국대 체교에 들어가 선생님도 보러 가끔 찾아가고 거시거 공부하고 있는 후배들에게 나를 보여주고 싶다."
+			],
+			[
+				48,
+				"러",
+				"EC",
+				"꼭 이학원을 졸업한후 동국대 체교에 들어가 선생님도 보러 가끔 찾아가고 거시거 공부하고 있는 후배들에게 나를 보여주고 싶다."
+			],
+			[
+				49,
+				"고",
+				"EC",
+				"꼭 이학원을 졸업한후 동국대 체교에 들어가 선생님도 보러 가끔 찾아가고 거시거 공부하고 있는 후배들에게 나를 보여주고 싶다."
+			],
+			[
+				50,
+				"고",
+				"EC",
+				"꼭 이학원을 졸업한후 동국대 체교에 들어가 선생님도 보러 가끔 찾아가고 거시거 공부하고 있는 후배들에게 나를 보여주고 싶다."
+			],
+			[
+				51,
+				"는",
+				"ETM",
+				"꼭 이학원을 졸업한후 동국대 체교에 들어가 선생님도 보러 가끔 찾아가고 거시거 공부하고 있는 후배들에게 나를 보여주고 싶다."
+			],
+			[
+				52,
+				"어",
+				"EC",
+				"꼭 이학원을 졸업한후 동국대 체교에 들어가 선생님도 보러 가끔 찾아가고 거시거 공부하고 있는 후배들에게 나를 보여주고 싶다."
+			],
+			[
+				53,
+				"고",
+				"EC",
+				"꼭 이학원을 졸업한후 동국대 체교에 들어가 선생님도 보러 가끔 찾아가고 거시거 공부하고 있는 후배들에게 나를 보여주고 싶다."
+			],
+			[
+				54,
+				"다",
+				"EF",
+				"꼭 이학원을 졸업한후 동국대 체교에 들어가 선생님도 보러 가끔 찾아가고 거시거 공부하고 있는 후배들에게 나를 보여주고 싶다."
+			],
+			[
+				55,
+				"게",
+				"EC",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			],
+			[
+				56,
+				"았",
+				"EP",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			],
+			[
+				57,
+				"는데",
+				"EC",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			],
+			[
+				58,
+				"ㄹ",
+				"ETM",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			],
+			[
+				59,
+				"야",
+				"EF",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			],
+			[
+				60,
+				"고",
+				"EC",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			],
+			[
+				61,
+				"지만",
+				"EC",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			],
+			[
+				62,
+				"며",
+				"EC",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			],
+			[
+				63,
+				"고",
+				"EC",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			],
+			[
+				64,
+				"은",
+				"ETM",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			],
+			[
+				65,
+				"아",
+				"EC",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			],
+			[
+				66,
+				"고",
+				"EC",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			],
+			[
+				67,
+				"다",
+				"EF",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			]
+		],
+		"X_Lst": [
+			[
+				0,
+				"님",
+				"XSN",
+				"나는 우리 영어학원 선생님을 존정한다."
+			],
+			[
+				1,
+				"하",
+				"XSV",
+				"나는 우리 영어학원 선생님을 존정한다."
+			],
+			[
+				2,
+				"님",
+				"XSN",
+				"이 선생님과의 만남이 한 1~2년전에 시작되었는데, 그 만남이 조금 특별했다."
+			],
+			[
+				3,
+				"님",
+				"XSN",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				4,
+				"들",
+				"XSN",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				5,
+				"끼리",
+				"XSN",
+				"내가 이 선생님을 존경하는 이유는 내가 솔직히 좀 놀고 다루기 힘들다고 내 스스로도 생각하지만 나보다 더한 친구와 형들끼리 모두 혼자 다루어주시고 공부를 노지 않게 도아주신다."
+			],
+			[
+				6,
+				"님",
+				"XSN",
+				"꼭 이학원을 졸업한후 동국대 체교에 들어가 선생님도 보러 가끔 찾아가고 거시거 공부하고 있는 후배들에게 나를 보여주고 싶다."
+			],
+			[
+				7,
+				"들",
+				"XSN",
+				"꼭 이학원을 졸업한후 동국대 체교에 들어가 선생님도 보러 가끔 찾아가고 거시거 공부하고 있는 후배들에게 나를 보여주고 싶다."
+			],
+			[
+				8,
+				"네",
+				"XSN",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			],
+			[
+				9,
+				"님",
+				"XSN",
+				"이 내가 이렇게 성공했는데 너네는 못할 것 같야고 때론 아직도 부족하지만 전점 이 학원 다니며 공부등등 실력을 놀라고 꼭 좋은 대학에 들어가 선생님의 자랑과 보람거리가 되고 싶다"
+			]
+		],
+		"IC_Lst": [
+			[
+				0,
+				"거",
+				"IC",
+				"꼭 이학원을 졸업한후 동국대 체교에 들어가 선생님도 보러 가끔 찾아가고 거시거 공부하고 있는 후배들에게 나를 보여주고 싶다."
+			]
+		]
+	},
+	"NDW": {
+		"morph_NDW": 167,
+		"NL_NDW": 67,
+		"NNG_NDW": 44,
+		"NNP_NDW": 3,
+		"NNB_NDW": 8,
+		"NP_NDW": 12,
+		"NR_NDW": 0,
+		"VL_NDW": 60,
+		"VV_NDW": 33,
+		"VA_NDW": 14,
+		"ML_NDW": 19,
+		"MM_NDW": 0,
+		"IC_NDW": 1,
+		"J_NDW": 45,
+		"E_NDW": 68,
+		"X_NDW": 10,
+		"CL_NDW": 147,
+		"FL_NDW": 123
+	}
+}

@@ -1,0 +1,3361 @@
+﻿{
+	"morpheme": {
+		"sentences": [
+			{
+				"text": {
+					"content": "현대의 물리학이 고찰할 수 있는 최초의 우주는 대폭발 이후10_43초부터이다.",
+					"length": 43,
+					"beginOffset": 0
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "현대의",
+							"length": 3,
+							"beginOffset": 0
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "현대",
+									"length": 2,
+									"beginOffset": 0
+								},
+								"tag": "NNG",
+								"probability": 0.73186314,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 2,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9990347,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "현대",
+						"tagged": "현대/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "물리학이",
+							"beginOffset": 4,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "물리학",
+									"beginOffset": 4,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9794703,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 7,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9951216,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "물리학",
+						"tagged": "물리학/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "고찰할",
+							"beginOffset": 9,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "고찰하",
+									"beginOffset": 9,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄹ",
+									"beginOffset": 11,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9998479,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "고찰하",
+						"tagged": "고찰하/VV+ㄹ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "수",
+							"beginOffset": 13,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "수",
+									"beginOffset": 13,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.97074115,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "수",
+						"tagged": "수/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있는",
+							"beginOffset": 15,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 15,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9545282,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 16,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999731,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VA+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "최초의",
+							"beginOffset": 18,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "최초",
+									"beginOffset": 18,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9815541,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 20,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9997786,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "최초",
+						"tagged": "최초/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "우주는",
+							"beginOffset": 22,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "우주",
+									"beginOffset": 22,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98504466,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 24,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99916255,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "우주",
+						"tagged": "우주/NNG+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "대폭발",
+							"beginOffset": 26,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "대",
+									"beginOffset": 26,
+									"length": 1
+								},
+								"tag": "XPN",
+								"probability": 0.9924981,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "폭발",
+									"beginOffset": 27,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9838093,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "대",
+						"tagged": "대/XPN+폭발/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이후10_43초부터이다.",
+							"beginOffset": 30,
+							"length": 13
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이후",
+									"beginOffset": 30,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9856876,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "10",
+									"beginOffset": 32,
+									"length": 2
+								},
+								"tag": "SN",
+								"probability": 0.9985382,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "_",
+									"beginOffset": 34,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.53885484,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "43",
+									"beginOffset": 35,
+									"length": 2
+								},
+								"tag": "SN",
+								"probability": 0.9978547,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "초",
+									"beginOffset": 37,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.97277457,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "부터",
+									"beginOffset": 38,
+									"length": 2
+								},
+								"tag": "JX",
+								"probability": 0.9896634,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 40,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.99990946,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 41,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9923966,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 42,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9994971,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이후",
+						"tagged": "이후/NNG+10/SN+_/SS+43/SN+초/NNB+부터/JX+이/VCP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "현대의 물리학이 고찰할 수 있는 최초의 우주는 대폭발 이후10_43초부터이다."
+			},
+			{
+				"text": {
+					"content": "이는 빛이 물리학에서 다룰 수 있는 최소의 길이인 플랑크 길이를 통과하는 시간으로, 플랑크 길이는 약10_33cm이다.",
+					"beginOffset": 44,
+					"length": 66
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "이는",
+							"beginOffset": 44,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 44,
+									"length": 1
+								},
+								"tag": "NP",
+								"probability": 0.9649684,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 45,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99916464,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이",
+						"tagged": "이/NP+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "빛이",
+							"beginOffset": 47,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "빛",
+									"beginOffset": 47,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.96324533,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 48,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9725891,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "빛",
+						"tagged": "빛/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "물리학에서",
+							"beginOffset": 50,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "물리학",
+									"beginOffset": 50,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9801435,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에서",
+									"beginOffset": 53,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9943622,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "물리학",
+						"tagged": "물리학/NNG+에서/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "다룰",
+							"beginOffset": 56,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "다루",
+									"beginOffset": 56,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.990475,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ",
+									"beginOffset": 57,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99998343,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "다루",
+						"tagged": "다루/VV+ㄹ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "수",
+							"beginOffset": 59,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "수",
+									"beginOffset": 59,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.97908616,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "수",
+						"tagged": "수/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있는",
+							"beginOffset": 61,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 61,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9703721,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 62,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999468,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VA+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "최소의",
+							"beginOffset": 64,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "최소",
+									"beginOffset": 64,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.96712995,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 66,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.999189,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "최소",
+						"tagged": "최소/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "길이인",
+							"beginOffset": 68,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "길이",
+									"beginOffset": 68,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98481536,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 70,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.9997891,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 70,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99994755,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "길이",
+						"tagged": "길이/NNG+이/VCP+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "플랑크",
+							"beginOffset": 72,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "플랑크",
+									"beginOffset": 72,
+									"length": 3
+								},
+								"tag": "NNP",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							}
+						],
+						"lemma": "플랑크",
+						"tagged": "플랑크/NNP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "길이를",
+							"beginOffset": 76,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "길이",
+									"beginOffset": 76,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98444617,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 78,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99997526,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "길이",
+						"tagged": "길이/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "통과하는",
+							"beginOffset": 80,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "통과하",
+									"beginOffset": 80,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 83,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9997981,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "통과하",
+						"tagged": "통과하/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "시간으로",
+							"beginOffset": 85,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "시간",
+									"beginOffset": 85,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.96338826,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으로",
+									"beginOffset": 87,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.99720615,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "시간",
+						"tagged": "시간/NNG+으로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": ",",
+							"beginOffset": 89,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 89,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.99953556,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": ",",
+						"tagged": ",/SP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "플랑크",
+							"beginOffset": 91,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "플랑크",
+									"beginOffset": 91,
+									"length": 3
+								},
+								"tag": "NNP",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							}
+						],
+						"lemma": "플랑크",
+						"tagged": "플랑크/NNP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "길이는",
+							"beginOffset": 95,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "길이",
+									"beginOffset": 95,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98118556,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 97,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9989773,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "길이",
+						"tagged": "길이/NNG+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "약",
+							"beginOffset": 99,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "약",
+									"beginOffset": 99,
+									"length": 1
+								},
+								"tag": "MMA",
+								"probability": 0.9972397,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "약",
+						"tagged": "약/MMA",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "10_33cm이다.",
+							"beginOffset": 100,
+							"length": 10
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "10",
+									"beginOffset": 100,
+									"length": 2
+								},
+								"tag": "SN",
+								"probability": 0.9987385,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "_",
+									"beginOffset": 102,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.5426803,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "33",
+									"beginOffset": 103,
+									"length": 2
+								},
+								"tag": "SN",
+								"probability": 0.99878013,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "cm",
+									"beginOffset": 105,
+									"length": 2
+								},
+								"tag": "SW",
+								"probability": 0.9965565,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 107,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.99961305,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 108,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9940938,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 109,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99937886,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "10",
+						"tagged": "10/SN+_/SS+33/SN+cm/SW+이/VCP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "이는 빛이 물리학에서 다룰 수 있는 최소의 길이인 플랑크 길이를 통과하는 시간으로 , 플랑크 길이는 약 10_33cm이다."
+			},
+			{
+				"text": {
+					"content": "초기 우주의 모습은 현대 물리학의 미해결 과제와 기술적 한계로 인해 많은 부분은 추론에 의존하고 있다.",
+					"beginOffset": 111,
+					"length": 57
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "초기",
+							"beginOffset": 111,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "초기",
+									"beginOffset": 111,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97679824,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "초기",
+						"tagged": "초기/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "우주의",
+							"beginOffset": 114,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "우주",
+									"beginOffset": 114,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9841871,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 116,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99977535,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "우주",
+						"tagged": "우주/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "모습은",
+							"beginOffset": 118,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "모습",
+									"beginOffset": 118,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.980767,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 120,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9976813,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "모습",
+						"tagged": "모습/NNG+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "현대",
+							"beginOffset": 122,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "현대",
+									"beginOffset": 122,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.96823883,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "현대",
+						"tagged": "현대/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "물리학의",
+							"beginOffset": 125,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "물리학",
+									"beginOffset": 125,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.98074913,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 128,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99946487,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "물리학",
+						"tagged": "물리학/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "미해결",
+							"beginOffset": 130,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "미",
+									"beginOffset": 130,
+									"length": 1
+								},
+								"tag": "XPN",
+								"probability": 0.99511814,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "해결",
+									"beginOffset": 131,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9834116,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "미",
+						"tagged": "미/XPN+해결/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "과제와",
+							"beginOffset": 134,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "과제",
+									"beginOffset": 134,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98367405,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "와",
+									"beginOffset": 136,
+									"length": 1
+								},
+								"tag": "JC",
+								"probability": 0.9710253,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "과제",
+						"tagged": "과제/NNG+와/JC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "기술적",
+							"beginOffset": 138,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "기술",
+									"beginOffset": 138,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9801371,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "적",
+									"beginOffset": 140,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.9916147,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "기술",
+						"tagged": "기술/NNG+적/XSN",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "한계로",
+							"beginOffset": 142,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "한계",
+									"beginOffset": 142,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.984583,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "로",
+									"beginOffset": 144,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.997396,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "한계",
+						"tagged": "한계/NNG+로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "인해",
+							"beginOffset": 146,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "인하",
+									"beginOffset": 146,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9867931,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 147,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99369556,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "인하",
+						"tagged": "인하/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "많은",
+							"beginOffset": 149,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "많",
+									"beginOffset": 149,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9854376,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 150,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99997866,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "많",
+						"tagged": "많/VA+은/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "부분은",
+							"beginOffset": 152,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "부분",
+									"beginOffset": 152,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9820943,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 154,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99902284,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "부분",
+						"tagged": "부분/NNG+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "추론에",
+							"beginOffset": 156,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "추론",
+									"beginOffset": 156,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9826975,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 158,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9904689,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "추론",
+						"tagged": "추론/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "의존하고",
+							"beginOffset": 160,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "의존하",
+									"beginOffset": 160,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 163,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9962612,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "의존하",
+						"tagged": "의존하/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있다.",
+							"beginOffset": 165,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 165,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.940962,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 166,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.99436224,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 167,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99950546,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VX+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "초기 우주의 모습은 현대 물리학의 미해결 과제와 기술적 한계로 인해 많은 부분은 추론에 의존하고 있다."
+			},
+			{
+				"text": {
+					"content": "지금까지의 관측 결과에 따르면 현재의 우주는 대폭발 이후 약 137억년이 경과된 것으로 보인다.",
+					"beginOffset": 169,
+					"length": 53
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "지금까지의",
+							"beginOffset": 169,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "지금",
+									"beginOffset": 169,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9799472,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "까지",
+									"beginOffset": 171,
+									"length": 2
+								},
+								"tag": "JX",
+								"probability": 0.99902,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 173,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9990678,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "지금",
+						"tagged": "지금/NNG+까지/JX+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "관측",
+							"beginOffset": 175,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "관측",
+									"beginOffset": 175,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9837928,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "관측",
+						"tagged": "관측/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "결과에",
+							"beginOffset": 178,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "결과",
+									"beginOffset": 178,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98602515,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 180,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9962131,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "결과",
+						"tagged": "결과/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "따르면",
+							"beginOffset": 182,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "따르",
+									"beginOffset": 182,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.98706585,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "면",
+									"beginOffset": 184,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99317527,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "따르",
+						"tagged": "따르/VV+면/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "현재의",
+							"beginOffset": 186,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "현재",
+									"beginOffset": 186,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98439246,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 188,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9998613,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "현재",
+						"tagged": "현재/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "우주는",
+							"beginOffset": 190,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "우주",
+									"beginOffset": 190,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9852824,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 192,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99928457,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "우주",
+						"tagged": "우주/NNG+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "대폭발",
+							"beginOffset": 194,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "대",
+									"beginOffset": 194,
+									"length": 1
+								},
+								"tag": "XPN",
+								"probability": 0.98593175,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "폭발",
+									"beginOffset": 195,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9832183,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "대",
+						"tagged": "대/XPN+폭발/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이후",
+							"beginOffset": 198,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이후",
+									"beginOffset": 198,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98645574,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이후",
+						"tagged": "이후/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "약",
+							"beginOffset": 201,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "약",
+									"beginOffset": 201,
+									"length": 1
+								},
+								"tag": "MMA",
+								"probability": 0.9984449,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "약",
+						"tagged": "약/MMA",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "137억년이",
+							"beginOffset": 203,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "137",
+									"beginOffset": 203,
+									"length": 3
+								},
+								"tag": "SN",
+								"probability": 0.9762254,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "억",
+									"beginOffset": 206,
+									"length": 1
+								},
+								"tag": "NR",
+								"probability": 0.9905805,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "년",
+									"beginOffset": 207,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9821391,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 208,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9352782,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "137",
+						"tagged": "137/SN+억/NR+년/NNB+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "경과된",
+							"beginOffset": 210,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "경과되",
+									"beginOffset": 210,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 212,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99996287,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "경과되",
+						"tagged": "경과되/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "것으로",
+							"beginOffset": 214,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "것",
+									"beginOffset": 214,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.98289657,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으로",
+									"beginOffset": 215,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9968494,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "것",
+						"tagged": "것/NNB+으로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "보인다.",
+							"beginOffset": 218,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "보이",
+									"beginOffset": 218,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9932837,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ다",
+									"beginOffset": 219,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.98958737,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 221,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99981296,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "보이",
+						"tagged": "보이/VV+ㄴ다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "지금까지의 관측 결과에 따르면 현재의 우주는 대폭발 이후 약 137억년이 경과된 것으로 보인다."
+			}
+		],
+		"language": "ko_KR"
+	},
+	"ttr": {
+		"lemma_Cnt": 102,
+		"lemma_TTR": 0.6,
+		"CL_TTR": 0.7090909090909091,
+		"NL_TTR": 0.725,
+		"NN_TTR": 0.7105263157894737,
+		"NNG_TTR": 0.7096774193548387,
+		"NNP_TTR": 0.5,
+		"NNB_TTR": 0.8,
+		"NP_TTR": 1.0,
+		"NR_TTR": 1.0,
+		"VL_TTR": 0.7333333333333333,
+		"VV_TTR": 1.0,
+		"VA_TTR": 0.6666666666666666,
+		"ML_TTR": 0,
+		"MM_TTR": 0,
+		"MA_TTR": 0,
+		"MAJ_TTR": 0,
+		"IC_TTR": 0,
+		"FL_TTR": 0.4888888888888889,
+		"J_TTR": 0.46153846153846156,
+		"E_TTR": 0.6,
+		"X_TTR": 0.75,
+		"lemma_RTTR": 6.434283176858165,
+		"CL_RTTR": 5.258758927213289,
+		"NL_RTTR": 4.58530260724415,
+		"NN_RTTR": 4.379978370530589,
+		"NNG_RTTR": 3.951316644589048,
+		"NNP_RTTR": 0.7071067811865475,
+		"NNB_RTTR": 1.7888543819998317,
+		"NP_RTTR": 1.0,
+		"NR_RTTR": 1.0,
+		"VL_RTTR": 2.840187787218772,
+		"VV_RTTR": 2.82842712474619,
+		"VA_RTTR": 1.1547005383792517,
+		"ML_RTTR": 0,
+		"MM_RTTR": 0,
+		"MA_RTTR": 0,
+		"MAJ_RTTR": 0,
+		"IC_RTTR": 0,
+		"FL_RTTR": 3.2795663669996915,
+		"J_RTTR": 2.3533936216582085,
+		"E_RTTR": 2.32379000772445,
+		"X_RTTR": 1.5,
+		"lemma_CTTR": 4.54972526643093,
+		"CL_CTTR": 3.71850409805781,
+		"NL_CTTR": 3.2422985673746947,
+		"NN_CTTR": 3.0971124072525837,
+		"NNG_CTTR": 2.794002794004191,
+		"NNP_CTTR": 0.5,
+		"NNB_CTTR": 1.2649110640673518,
+		"NP_CTTR": 0.7071067811865475,
+		"NR_CTTR": 0.7071067811865475,
+		"VL_CTTR": 2.008316044185609,
+		"VV_CTTR": 2.0,
+		"VA_CTTR": 0.8164965809277261,
+		"ML_CTTR": 0,
+		"MM_CTTR": 0,
+		"MA_CTTR": 0,
+		"MAJ_CTTR": 0,
+		"IC_CTTR": 0,
+		"FL_CTTR": 2.3190036174568114,
+		"J_CTTR": 1.6641005886756874,
+		"E_CTTR": 1.6431676725154982,
+		"X_CTTR": 1.0606601717798212,
+		"lemma_MSTTR": 0.73,
+		"CL_MSTTR": 0.68,
+		"NL_MSTTR": 0.725,
+		"NN_MSTTR": 0.7105263157894737,
+		"NNG_MSTTR": 0.7096774193548387,
+		"NNP_MSTTR": 0.5,
+		"NNB_MSTTR": 0.8,
+		"NP_MSTTR": 1.0,
+		"NR_MSTTR": 1.0,
+		"VL_MSTTR": 0.7333333333333333,
+		"VV_MSTTR": 1.0,
+		"VA_MSTTR": 0.6666666666666666,
+		"ML_MSTTR": 0,
+		"MM_MSTTR": 0,
+		"MA_MSTTR": 0,
+		"MAJ_MSTTR": 0,
+		"IC_MSTTR": 0,
+		"FL_MSTTR": 0.4888888888888889,
+		"J_MSTTR": 0.46153846153846156,
+		"E_MSTTR": 0.6,
+		"X_MSTTR": 0.75,
+		"lemma_MATTR": 0.7790909090909093,
+		"CL_MATTR": 0.7199999999999999,
+		"NL_MATTR": 0.725,
+		"NN_MATTR": 0.7105263157894737,
+		"NNG_MATTR": 0.7096774193548387,
+		"NNP_MATTR": 0.5,
+		"NNB_MATTR": 0.8,
+		"NP_MATTR": 1.0,
+		"NR_MATTR": 1.0,
+		"VL_MATTR": 0.7333333333333333,
+		"VV_MATTR": 1.0,
+		"VA_MATTR": 0.6666666666666666,
+		"ML_MATTR": 0,
+		"MM_MATTR": 0,
+		"MA_MATTR": 0,
+		"MAJ_MATTR": 0,
+		"IC_MATTR": 0,
+		"FL_MATTR": 0.4888888888888889,
+		"J_MATTR": 0.46153846153846156,
+		"E_MATTR": 0.6,
+		"X_MATTR": 0.75,
+		"lemma_MTLD": 50.28846153846153,
+		"CL_MTLD": 50.95339912280703,
+		"NL_MTLD": 40.36363636363636,
+		"NN_MTLD": 37.378181818181815,
+		"NNG_MTLD": 30.44888888888889,
+		"NNP_MTLD": 1.12,
+		"NNB_MTLD": 7.000000000000002,
+		"NP_MTLD": 0.0,
+		"NR_MTLD": 0.0,
+		"VL_MTLD": 15.0,
+		"VV_MTLD": 0.0,
+		"VA_MTLD": 2.52,
+		"ML_MTLD": 0.0,
+		"MM_MTLD": 0.0,
+		"MA_MTLD": 0.0,
+		"MAJ_MTLD": 0.0,
+		"IC_MTLD": 0.0,
+		"FL_MTLD": 20.21341463414634,
+		"J_MTLD": 10.574626865671641,
+		"E_MTLD": 15.0,
+		"X_MTLD": 4.48,
+		"lemma_VOCDD": 58.571788848492396,
+		"CL_VOCDD": 49.625526981531216,
+		"NL_VOCDD": 0,
+		"NN_VOCDD": 0,
+		"NNG_VOCDD": 0,
+		"NNP_VOCDD": 0,
+		"NNB_VOCDD": 0,
+		"NP_VOCDD": 0,
+		"NR_VOCDD": 0,
+		"VL_VOCDD": 0,
+		"VV_VOCDD": 0,
+		"VA_VOCDD": 0,
+		"ML_VOCDD": 0,
+		"MM_VOCDD": 0,
+		"MA_VOCDD": 0,
+		"MAJ_VOCDD": 0,
+		"IC_VOCDD": 0,
+		"FL_VOCDD": 0,
+		"J_VOCDD": 0,
+		"E_VOCDD": 0,
+		"X_VOCDD": 0,
+		"lemma_HDD": 0.7811352896103663,
+		"CL_HDD": 0.7580268089702051,
+		"NL_HDD": 0.0,
+		"NN_HDD": 0.0,
+		"NNG_HDD": 0.0,
+		"NNP_HDD": 0.0,
+		"NNB_HDD": 0.0,
+		"NP_HDD": 0.0,
+		"NR_HDD": 0.0,
+		"VL_HDD": 0.0,
+		"VV_HDD": 0.0,
+		"VA_HDD": 0.0,
+		"ML_HDD": 0.0,
+		"MM_HDD": 0.0,
+		"MA_HDD": 0.0,
+		"MAJ_HDD": 0.0,
+		"IC_HDD": 0.0,
+		"FL_HDD": 0.5043961206751904,
+		"J_HDD": 0.0,
+		"E_HDD": 0.0,
+		"X_HDD": 0.0
+	},
+	"similarity": {
+		"avgSentSimilarity": 0.43146729469299316,
+		"topicConsistency": 0.4738
+	},
+	"adjacency": {
+		"adjacent_sentence_overlap_all_lemmas": 70,
+		"adjacent_sentence_overlap_all_lemmas_normed": 3,
+		"binary_adjacent_sentence_overlap_all_lemmas": 3,
+		"adjacent_two_sentence_overlap_all_lemmas": 40,
+		"adjacent_two_sentence_overlap_all_lemmas_normed": 2,
+		"binary_adjacent_two_sentence_overlap_all_lemmas": 2,
+		"adjacent_sentence_overlap_content_lemmas": 37,
+		"adjacent_sentence_overlap_content_lemmas_normed": 3,
+		"binary_adjacent_sentence_overlap_content_lemmas": 3,
+		"adjacent_two_sentence_overlap_content_lemmas": 24,
+		"adjacent_two_sentence_overlap_content_lemmas_normed": 2,
+		"binary_adjacent_two_sentence_overlap_content_lemmas": 2,
+		"adjacent_sentence_overlap_function_lemmas": 26,
+		"adjacent_sentence_overlap_function_lemmas_normed": 3,
+		"binary_adjacent_sentence_overlap_function_lemmas": 3,
+		"adjacent_two_sentence_overlap_function_lemmas": 14,
+		"adjacent_two_sentence_overlap_function_lemmas_normed": 2,
+		"binary_adjacent_two_sentence_overlap_function_lemmas": 2,
+		"adjacent_sentence_overlap_noun_lemmas": 29,
+		"adjacent_sentence_overlap_noun_lemmas_normed": 3,
+		"binary_adjacent_sentence_overlap_noun_lemmas": 3,
+		"adjacent_two_sentence_overlap_noun_lemmas": 18,
+		"adjacent_two_sentence_overlap_noun_lemmas_normed": 2,
+		"binary_adjacent_two_sentence_overlap_noun_lemmas": 2,
+		"adjacent_sentence_overlap_verb_lemmas": 11,
+		"adjacent_sentence_overlap_verb_lemmas_normed": 3,
+		"binary_adjacent_sentence_overlap_verb_lemmas": 2,
+		"adjacent_two_sentence_overlap_verb_lemmas": 6,
+		"adjacent_two_sentence_overlap_verb_lemmas_normed": 2,
+		"binary_adjacent_two_sentence_overlap_verb_lemmas": 2,
+		"adjacent_sentence_overlap_adjective_lemmas": 2,
+		"adjacent_sentence_overlap_adjective_lemmas_normed": 2,
+		"binary_adjacent_sentence_overlap_adjective_lemmas": 2,
+		"adjacent_two_sentence_overlap_adjective_lemmas": 1,
+		"adjacent_two_sentence_overlap_adjective_lemmas_normed": 1,
+		"binary_adjacent_two_sentence_overlap_adjective_lemmas": 1,
+		"adjacent_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_sentence_overlap_adverb_lemmas_normed": 0,
+		"binary_adjacent_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adverb_lemmas": 0
+	},
+	"basic_count": {
+		"para_Cnt": 1,
+		"sentence_Cnt": 4,
+		"word_Cnt": 52,
+		"morph_Cnt": 115,
+		"char_Cnt": 163,
+		"CL_Cnt": 55,
+		"NL_Cnt": 40,
+		"NN_Cnt": 38,
+		"NNG_Cnt": 31,
+		"NNP_Cnt": 2,
+		"NNB_Cnt": 5,
+		"NP_Cnt": 1,
+		"NP_People_Cnt": 0,
+		"NP_Things_Cnt": 1,
+		"NR_Cnt": 1,
+		"VL_Cnt": 15,
+		"VV_Cnt": 8,
+		"VA_Cnt": 3,
+		"VX_Cnt": 1,
+		"VCP_Cnt": 3,
+		"VCN_Cnt": 0,
+		"ML_Cnt": 0,
+		"MA_Cnt": 0,
+		"MM_Cnt": 0,
+		"FL_Cnt": 45,
+		"J_Cnt": 26,
+		"E_Cnt": 15,
+		"X_Cnt": 4,
+		"IC_Cnt": 0
+	},
+	"basic_density": {
+		"CL_Den": 0.4782608695652174,
+		"FL_Den": 0.391304347826087,
+		"NL_Den": 0.33043478260869563,
+		"NNGL_Den": 0.26956521739130435,
+		"NNPL_Den": 0.017391304347826087,
+		"NNBL_Den": 0.043478260869565216,
+		"NPL_Den": 0.008695652173913044,
+		"NML_Den": 0.008695652173913044,
+		"VL_Den": 0.13043478260869565,
+		"VVL_Den": 0.06956521739130435,
+		"VAL_Den": 0.02608695652173913,
+		"ML_Den": 0.0,
+		"MML_Den": 0.0,
+		"MAL_Den": 0.0,
+		"JL_Den": 0.22608695652173913,
+		"EL_Den": 0.13043478260869565,
+		"XL_Den": 0.034782608695652174,
+		"ITL_Den": 0.0,
+		"NCL_Den": 0.6909090909090909,
+		"NNCL_Den": 0.5636363636363636,
+		"NNGCL_Den": 0.03636363636363636,
+		"NNBCL_Den": 0.09090909090909091,
+		"NPCL_Den": 0.01818181818181818,
+		"NMCL_Den": 0.01818181818181818,
+		"VCL_Den": 0.2727272727272727,
+		"VVCL_Den": 0.14545454545454545,
+		"VACL_Den": 0.05454545454545454,
+		"MCL_Den": 0.0,
+		"MMCL_Den": 0.0,
+		"MACL_Den": 0.0,
+		"INCL_Den": 0.0,
+		"JFL_Den": 0.5777777777777777,
+		"EFL_Den": 0.3333333333333333,
+		"XFL_Den": 0.08888888888888889
+	},
+	"basic_level": {
+		"morph_LenAvg": 1.5391304347826087,
+		"morph_LenStd": 0.6499091109932101,
+		"word_LenAvg": 3.1538461538461537,
+		"word_LenStd": 1.668539381806451
+	},
+	"basic_list": {
+		"NL_Lst": [
+			[
+				0,
+				"현대",
+				"NNG",
+				"현대의 물리학이 고찰할 수 있는 최초의 우주는 대폭발 이후10_43초부터이다."
+			],
+			[
+				1,
+				"물리학",
+				"NNG",
+				"현대의 물리학이 고찰할 수 있는 최초의 우주는 대폭발 이후10_43초부터이다."
+			],
+			[
+				2,
+				"수",
+				"NNB",
+				"현대의 물리학이 고찰할 수 있는 최초의 우주는 대폭발 이후10_43초부터이다."
+			],
+			[
+				3,
+				"최초",
+				"NNG",
+				"현대의 물리학이 고찰할 수 있는 최초의 우주는 대폭발 이후10_43초부터이다."
+			],
+			[
+				4,
+				"우주",
+				"NNG",
+				"현대의 물리학이 고찰할 수 있는 최초의 우주는 대폭발 이후10_43초부터이다."
+			],
+			[
+				5,
+				"폭발",
+				"NNG",
+				"현대의 물리학이 고찰할 수 있는 최초의 우주는 대폭발 이후10_43초부터이다."
+			],
+			[
+				6,
+				"이후",
+				"NNG",
+				"현대의 물리학이 고찰할 수 있는 최초의 우주는 대폭발 이후10_43초부터이다."
+			],
+			[
+				7,
+				"초",
+				"NNB",
+				"현대의 물리학이 고찰할 수 있는 최초의 우주는 대폭발 이후10_43초부터이다."
+			],
+			[
+				8,
+				"이",
+				"NP",
+				"이는 빛이 물리학에서 다룰 수 있는 최소의 길이인 플랑크 길이를 통과하는 시간으로, 플랑크 길이는 약10_33cm이다."
+			],
+			[
+				9,
+				"빛",
+				"NNG",
+				"이는 빛이 물리학에서 다룰 수 있는 최소의 길이인 플랑크 길이를 통과하는 시간으로, 플랑크 길이는 약10_33cm이다."
+			],
+			[
+				10,
+				"물리학",
+				"NNG",
+				"이는 빛이 물리학에서 다룰 수 있는 최소의 길이인 플랑크 길이를 통과하는 시간으로, 플랑크 길이는 약10_33cm이다."
+			],
+			[
+				11,
+				"수",
+				"NNB",
+				"이는 빛이 물리학에서 다룰 수 있는 최소의 길이인 플랑크 길이를 통과하는 시간으로, 플랑크 길이는 약10_33cm이다."
+			],
+			[
+				12,
+				"최소",
+				"NNG",
+				"이는 빛이 물리학에서 다룰 수 있는 최소의 길이인 플랑크 길이를 통과하는 시간으로, 플랑크 길이는 약10_33cm이다."
+			],
+			[
+				13,
+				"길이",
+				"NNG",
+				"이는 빛이 물리학에서 다룰 수 있는 최소의 길이인 플랑크 길이를 통과하는 시간으로, 플랑크 길이는 약10_33cm이다."
+			],
+			[
+				14,
+				"플랑크",
+				"NNP",
+				"이는 빛이 물리학에서 다룰 수 있는 최소의 길이인 플랑크 길이를 통과하는 시간으로, 플랑크 길이는 약10_33cm이다."
+			],
+			[
+				15,
+				"길이",
+				"NNG",
+				"이는 빛이 물리학에서 다룰 수 있는 최소의 길이인 플랑크 길이를 통과하는 시간으로, 플랑크 길이는 약10_33cm이다."
+			],
+			[
+				16,
+				"시간",
+				"NNG",
+				"이는 빛이 물리학에서 다룰 수 있는 최소의 길이인 플랑크 길이를 통과하는 시간으로, 플랑크 길이는 약10_33cm이다."
+			],
+			[
+				17,
+				"플랑크",
+				"NNP",
+				"이는 빛이 물리학에서 다룰 수 있는 최소의 길이인 플랑크 길이를 통과하는 시간으로, 플랑크 길이는 약10_33cm이다."
+			],
+			[
+				18,
+				"길이",
+				"NNG",
+				"이는 빛이 물리학에서 다룰 수 있는 최소의 길이인 플랑크 길이를 통과하는 시간으로, 플랑크 길이는 약10_33cm이다."
+			],
+			[
+				19,
+				"초기",
+				"NNG",
+				"초기 우주의 모습은 현대 물리학의 미해결 과제와 기술적 한계로 인해 많은 부분은 추론에 의존하고 있다."
+			],
+			[
+				20,
+				"우주",
+				"NNG",
+				"초기 우주의 모습은 현대 물리학의 미해결 과제와 기술적 한계로 인해 많은 부분은 추론에 의존하고 있다."
+			],
+			[
+				21,
+				"모습",
+				"NNG",
+				"초기 우주의 모습은 현대 물리학의 미해결 과제와 기술적 한계로 인해 많은 부분은 추론에 의존하고 있다."
+			],
+			[
+				22,
+				"현대",
+				"NNG",
+				"초기 우주의 모습은 현대 물리학의 미해결 과제와 기술적 한계로 인해 많은 부분은 추론에 의존하고 있다."
+			],
+			[
+				23,
+				"물리학",
+				"NNG",
+				"초기 우주의 모습은 현대 물리학의 미해결 과제와 기술적 한계로 인해 많은 부분은 추론에 의존하고 있다."
+			],
+			[
+				24,
+				"해결",
+				"NNG",
+				"초기 우주의 모습은 현대 물리학의 미해결 과제와 기술적 한계로 인해 많은 부분은 추론에 의존하고 있다."
+			],
+			[
+				25,
+				"과제",
+				"NNG",
+				"초기 우주의 모습은 현대 물리학의 미해결 과제와 기술적 한계로 인해 많은 부분은 추론에 의존하고 있다."
+			],
+			[
+				26,
+				"기술",
+				"NNG",
+				"초기 우주의 모습은 현대 물리학의 미해결 과제와 기술적 한계로 인해 많은 부분은 추론에 의존하고 있다."
+			],
+			[
+				27,
+				"한계",
+				"NNG",
+				"초기 우주의 모습은 현대 물리학의 미해결 과제와 기술적 한계로 인해 많은 부분은 추론에 의존하고 있다."
+			],
+			[
+				28,
+				"부분",
+				"NNG",
+				"초기 우주의 모습은 현대 물리학의 미해결 과제와 기술적 한계로 인해 많은 부분은 추론에 의존하고 있다."
+			],
+			[
+				29,
+				"추론",
+				"NNG",
+				"초기 우주의 모습은 현대 물리학의 미해결 과제와 기술적 한계로 인해 많은 부분은 추론에 의존하고 있다."
+			],
+			[
+				30,
+				"지금",
+				"NNG",
+				"지금까지의 관측 결과에 따르면 현재의 우주는 대폭발 이후 약 137억년이 경과된 것으로 보인다."
+			],
+			[
+				31,
+				"관측",
+				"NNG",
+				"지금까지의 관측 결과에 따르면 현재의 우주는 대폭발 이후 약 137억년이 경과된 것으로 보인다."
+			],
+			[
+				32,
+				"결과",
+				"NNG",
+				"지금까지의 관측 결과에 따르면 현재의 우주는 대폭발 이후 약 137억년이 경과된 것으로 보인다."
+			],
+			[
+				33,
+				"현재",
+				"NNG",
+				"지금까지의 관측 결과에 따르면 현재의 우주는 대폭발 이후 약 137억년이 경과된 것으로 보인다."
+			],
+			[
+				34,
+				"우주",
+				"NNG",
+				"지금까지의 관측 결과에 따르면 현재의 우주는 대폭발 이후 약 137억년이 경과된 것으로 보인다."
+			],
+			[
+				35,
+				"폭발",
+				"NNG",
+				"지금까지의 관측 결과에 따르면 현재의 우주는 대폭발 이후 약 137억년이 경과된 것으로 보인다."
+			],
+			[
+				36,
+				"이후",
+				"NNG",
+				"지금까지의 관측 결과에 따르면 현재의 우주는 대폭발 이후 약 137억년이 경과된 것으로 보인다."
+			],
+			[
+				37,
+				"억",
+				"NR",
+				"지금까지의 관측 결과에 따르면 현재의 우주는 대폭발 이후 약 137억년이 경과된 것으로 보인다."
+			],
+			[
+				38,
+				"년",
+				"NNB",
+				"지금까지의 관측 결과에 따르면 현재의 우주는 대폭발 이후 약 137억년이 경과된 것으로 보인다."
+			],
+			[
+				39,
+				"것",
+				"NNB",
+				"지금까지의 관측 결과에 따르면 현재의 우주는 대폭발 이후 약 137억년이 경과된 것으로 보인다."
+			]
+		],
+		"NN_Lst": [
+			[
+				0,
+				"현대",
+				"NNG",
+				"현대의 물리학이 고찰할 수 있는 최초의 우주는 대폭발 이후10_43초부터이다."
+			],
+			[
+				1,
+				"물리학",
+				"NNG",
+				"현대의 물리학이 고찰할 수 있는 최초의 우주는 대폭발 이후10_43초부터이다."
+			],
+			[
+				2,
+				"수",
+				"NNB",
+				"현대의 물리학이 고찰할 수 있는 최초의 우주는 대폭발 이후10_43초부터이다."
+			],
+			[
+				3,
+				"최초",
+				"NNG",
+				"현대의 물리학이 고찰할 수 있는 최초의 우주는 대폭발 이후10_43초부터이다."
+			],
+			[
+				4,
+				"우주",
+				"NNG",
+				"현대의 물리학이 고찰할 수 있는 최초의 우주는 대폭발 이후10_43초부터이다."
+			],
+			[
+				5,
+				"폭발",
+				"NNG",
+				"현대의 물리학이 고찰할 수 있는 최초의 우주는 대폭발 이후10_43초부터이다."
+			],
+			[
+				6,
+				"이후",
+				"NNG",
+				"현대의 물리학이 고찰할 수 있는 최초의 우주는 대폭발 이후10_43초부터이다."
+			],
+			[
+				7,
+				"초",
+				"NNB",
+				"현대의 물리학이 고찰할 수 있는 최초의 우주는 대폭발 이후10_43초부터이다."
+			],
+			[
+				8,
+				"빛",
+				"NNG",
+				"이는 빛이 물리학에서 다룰 수 있는 최소의 길이인 플랑크 길이를 통과하는 시간으로, 플랑크 길이는 약10_33cm이다."
+			],
+			[
+				9,
+				"물리학",
+				"NNG",
+				"이는 빛이 물리학에서 다룰 수 있는 최소의 길이인 플랑크 길이를 통과하는 시간으로, 플랑크 길이는 약10_33cm이다."
+			],
+			[
+				10,
+				"수",
+				"NNB",
+				"이는 빛이 물리학에서 다룰 수 있는 최소의 길이인 플랑크 길이를 통과하는 시간으로, 플랑크 길이는 약10_33cm이다."
+			],
+			[
+				11,
+				"최소",
+				"NNG",
+				"이는 빛이 물리학에서 다룰 수 있는 최소의 길이인 플랑크 길이를 통과하는 시간으로, 플랑크 길이는 약10_33cm이다."
+			],
+			[
+				12,
+				"길이",
+				"NNG",
+				"이는 빛이 물리학에서 다룰 수 있는 최소의 길이인 플랑크 길이를 통과하는 시간으로, 플랑크 길이는 약10_33cm이다."
+			],
+			[
+				13,
+				"플랑크",
+				"NNP",
+				"이는 빛이 물리학에서 다룰 수 있는 최소의 길이인 플랑크 길이를 통과하는 시간으로, 플랑크 길이는 약10_33cm이다."
+			],
+			[
+				14,
+				"길이",
+				"NNG",
+				"이는 빛이 물리학에서 다룰 수 있는 최소의 길이인 플랑크 길이를 통과하는 시간으로, 플랑크 길이는 약10_33cm이다."
+			],
+			[
+				15,
+				"시간",
+				"NNG",
+				"이는 빛이 물리학에서 다룰 수 있는 최소의 길이인 플랑크 길이를 통과하는 시간으로, 플랑크 길이는 약10_33cm이다."
+			],
+			[
+				16,
+				"플랑크",
+				"NNP",
+				"이는 빛이 물리학에서 다룰 수 있는 최소의 길이인 플랑크 길이를 통과하는 시간으로, 플랑크 길이는 약10_33cm이다."
+			],
+			[
+				17,
+				"길이",
+				"NNG",
+				"이는 빛이 물리학에서 다룰 수 있는 최소의 길이인 플랑크 길이를 통과하는 시간으로, 플랑크 길이는 약10_33cm이다."
+			],
+			[
+				18,
+				"초기",
+				"NNG",
+				"초기 우주의 모습은 현대 물리학의 미해결 과제와 기술적 한계로 인해 많은 부분은 추론에 의존하고 있다."
+			],
+			[
+				19,
+				"우주",
+				"NNG",
+				"초기 우주의 모습은 현대 물리학의 미해결 과제와 기술적 한계로 인해 많은 부분은 추론에 의존하고 있다."
+			],
+			[
+				20,
+				"모습",
+				"NNG",
+				"초기 우주의 모습은 현대 물리학의 미해결 과제와 기술적 한계로 인해 많은 부분은 추론에 의존하고 있다."
+			],
+			[
+				21,
+				"현대",
+				"NNG",
+				"초기 우주의 모습은 현대 물리학의 미해결 과제와 기술적 한계로 인해 많은 부분은 추론에 의존하고 있다."
+			],
+			[
+				22,
+				"물리학",
+				"NNG",
+				"초기 우주의 모습은 현대 물리학의 미해결 과제와 기술적 한계로 인해 많은 부분은 추론에 의존하고 있다."
+			],
+			[
+				23,
+				"해결",
+				"NNG",
+				"초기 우주의 모습은 현대 물리학의 미해결 과제와 기술적 한계로 인해 많은 부분은 추론에 의존하고 있다."
+			],
+			[
+				24,
+				"과제",
+				"NNG",
+				"초기 우주의 모습은 현대 물리학의 미해결 과제와 기술적 한계로 인해 많은 부분은 추론에 의존하고 있다."
+			],
+			[
+				25,
+				"기술",
+				"NNG",
+				"초기 우주의 모습은 현대 물리학의 미해결 과제와 기술적 한계로 인해 많은 부분은 추론에 의존하고 있다."
+			],
+			[
+				26,
+				"한계",
+				"NNG",
+				"초기 우주의 모습은 현대 물리학의 미해결 과제와 기술적 한계로 인해 많은 부분은 추론에 의존하고 있다."
+			],
+			[
+				27,
+				"부분",
+				"NNG",
+				"초기 우주의 모습은 현대 물리학의 미해결 과제와 기술적 한계로 인해 많은 부분은 추론에 의존하고 있다."
+			],
+			[
+				28,
+				"추론",
+				"NNG",
+				"초기 우주의 모습은 현대 물리학의 미해결 과제와 기술적 한계로 인해 많은 부분은 추론에 의존하고 있다."
+			],
+			[
+				29,
+				"지금",
+				"NNG",
+				"지금까지의 관측 결과에 따르면 현재의 우주는 대폭발 이후 약 137억년이 경과된 것으로 보인다."
+			],
+			[
+				30,
+				"관측",
+				"NNG",
+				"지금까지의 관측 결과에 따르면 현재의 우주는 대폭발 이후 약 137억년이 경과된 것으로 보인다."
+			],
+			[
+				31,
+				"결과",
+				"NNG",
+				"지금까지의 관측 결과에 따르면 현재의 우주는 대폭발 이후 약 137억년이 경과된 것으로 보인다."
+			],
+			[
+				32,
+				"현재",
+				"NNG",
+				"지금까지의 관측 결과에 따르면 현재의 우주는 대폭발 이후 약 137억년이 경과된 것으로 보인다."
+			],
+			[
+				33,
+				"우주",
+				"NNG",
+				"지금까지의 관측 결과에 따르면 현재의 우주는 대폭발 이후 약 137억년이 경과된 것으로 보인다."
+			],
+			[
+				34,
+				"폭발",
+				"NNG",
+				"지금까지의 관측 결과에 따르면 현재의 우주는 대폭발 이후 약 137억년이 경과된 것으로 보인다."
+			],
+			[
+				35,
+				"이후",
+				"NNG",
+				"지금까지의 관측 결과에 따르면 현재의 우주는 대폭발 이후 약 137억년이 경과된 것으로 보인다."
+			],
+			[
+				36,
+				"년",
+				"NNB",
+				"지금까지의 관측 결과에 따르면 현재의 우주는 대폭발 이후 약 137억년이 경과된 것으로 보인다."
+			],
+			[
+				37,
+				"것",
+				"NNB",
+				"지금까지의 관측 결과에 따르면 현재의 우주는 대폭발 이후 약 137억년이 경과된 것으로 보인다."
+			]
+		],
+		"NNG_Lst": [
+			[
+				0,
+				"현대",
+				"NNG",
+				"현대의 물리학이 고찰할 수 있는 최초의 우주는 대폭발 이후10_43초부터이다."
+			],
+			[
+				1,
+				"물리학",
+				"NNG",
+				"현대의 물리학이 고찰할 수 있는 최초의 우주는 대폭발 이후10_43초부터이다."
+			],
+			[
+				2,
+				"최초",
+				"NNG",
+				"현대의 물리학이 고찰할 수 있는 최초의 우주는 대폭발 이후10_43초부터이다."
+			],
+			[
+				3,
+				"우주",
+				"NNG",
+				"현대의 물리학이 고찰할 수 있는 최초의 우주는 대폭발 이후10_43초부터이다."
+			],
+			[
+				4,
+				"폭발",
+				"NNG",
+				"현대의 물리학이 고찰할 수 있는 최초의 우주는 대폭발 이후10_43초부터이다."
+			],
+			[
+				5,
+				"이후",
+				"NNG",
+				"현대의 물리학이 고찰할 수 있는 최초의 우주는 대폭발 이후10_43초부터이다."
+			],
+			[
+				6,
+				"빛",
+				"NNG",
+				"이는 빛이 물리학에서 다룰 수 있는 최소의 길이인 플랑크 길이를 통과하는 시간으로, 플랑크 길이는 약10_33cm이다."
+			],
+			[
+				7,
+				"물리학",
+				"NNG",
+				"이는 빛이 물리학에서 다룰 수 있는 최소의 길이인 플랑크 길이를 통과하는 시간으로, 플랑크 길이는 약10_33cm이다."
+			],
+			[
+				8,
+				"최소",
+				"NNG",
+				"이는 빛이 물리학에서 다룰 수 있는 최소의 길이인 플랑크 길이를 통과하는 시간으로, 플랑크 길이는 약10_33cm이다."
+			],
+			[
+				9,
+				"길이",
+				"NNG",
+				"이는 빛이 물리학에서 다룰 수 있는 최소의 길이인 플랑크 길이를 통과하는 시간으로, 플랑크 길이는 약10_33cm이다."
+			],
+			[
+				10,
+				"길이",
+				"NNG",
+				"이는 빛이 물리학에서 다룰 수 있는 최소의 길이인 플랑크 길이를 통과하는 시간으로, 플랑크 길이는 약10_33cm이다."
+			],
+			[
+				11,
+				"시간",
+				"NNG",
+				"이는 빛이 물리학에서 다룰 수 있는 최소의 길이인 플랑크 길이를 통과하는 시간으로, 플랑크 길이는 약10_33cm이다."
+			],
+			[
+				12,
+				"길이",
+				"NNG",
+				"이는 빛이 물리학에서 다룰 수 있는 최소의 길이인 플랑크 길이를 통과하는 시간으로, 플랑크 길이는 약10_33cm이다."
+			],
+			[
+				13,
+				"초기",
+				"NNG",
+				"초기 우주의 모습은 현대 물리학의 미해결 과제와 기술적 한계로 인해 많은 부분은 추론에 의존하고 있다."
+			],
+			[
+				14,
+				"우주",
+				"NNG",
+				"초기 우주의 모습은 현대 물리학의 미해결 과제와 기술적 한계로 인해 많은 부분은 추론에 의존하고 있다."
+			],
+			[
+				15,
+				"모습",
+				"NNG",
+				"초기 우주의 모습은 현대 물리학의 미해결 과제와 기술적 한계로 인해 많은 부분은 추론에 의존하고 있다."
+			],
+			[
+				16,
+				"현대",
+				"NNG",
+				"초기 우주의 모습은 현대 물리학의 미해결 과제와 기술적 한계로 인해 많은 부분은 추론에 의존하고 있다."
+			],
+			[
+				17,
+				"물리학",
+				"NNG",
+				"초기 우주의 모습은 현대 물리학의 미해결 과제와 기술적 한계로 인해 많은 부분은 추론에 의존하고 있다."
+			],
+			[
+				18,
+				"해결",
+				"NNG",
+				"초기 우주의 모습은 현대 물리학의 미해결 과제와 기술적 한계로 인해 많은 부분은 추론에 의존하고 있다."
+			],
+			[
+				19,
+				"과제",
+				"NNG",
+				"초기 우주의 모습은 현대 물리학의 미해결 과제와 기술적 한계로 인해 많은 부분은 추론에 의존하고 있다."
+			],
+			[
+				20,
+				"기술",
+				"NNG",
+				"초기 우주의 모습은 현대 물리학의 미해결 과제와 기술적 한계로 인해 많은 부분은 추론에 의존하고 있다."
+			],
+			[
+				21,
+				"한계",
+				"NNG",
+				"초기 우주의 모습은 현대 물리학의 미해결 과제와 기술적 한계로 인해 많은 부분은 추론에 의존하고 있다."
+			],
+			[
+				22,
+				"부분",
+				"NNG",
+				"초기 우주의 모습은 현대 물리학의 미해결 과제와 기술적 한계로 인해 많은 부분은 추론에 의존하고 있다."
+			],
+			[
+				23,
+				"추론",
+				"NNG",
+				"초기 우주의 모습은 현대 물리학의 미해결 과제와 기술적 한계로 인해 많은 부분은 추론에 의존하고 있다."
+			],
+			[
+				24,
+				"지금",
+				"NNG",
+				"지금까지의 관측 결과에 따르면 현재의 우주는 대폭발 이후 약 137억년이 경과된 것으로 보인다."
+			],
+			[
+				25,
+				"관측",
+				"NNG",
+				"지금까지의 관측 결과에 따르면 현재의 우주는 대폭발 이후 약 137억년이 경과된 것으로 보인다."
+			],
+			[
+				26,
+				"결과",
+				"NNG",
+				"지금까지의 관측 결과에 따르면 현재의 우주는 대폭발 이후 약 137억년이 경과된 것으로 보인다."
+			],
+			[
+				27,
+				"현재",
+				"NNG",
+				"지금까지의 관측 결과에 따르면 현재의 우주는 대폭발 이후 약 137억년이 경과된 것으로 보인다."
+			],
+			[
+				28,
+				"우주",
+				"NNG",
+				"지금까지의 관측 결과에 따르면 현재의 우주는 대폭발 이후 약 137억년이 경과된 것으로 보인다."
+			],
+			[
+				29,
+				"폭발",
+				"NNG",
+				"지금까지의 관측 결과에 따르면 현재의 우주는 대폭발 이후 약 137억년이 경과된 것으로 보인다."
+			],
+			[
+				30,
+				"이후",
+				"NNG",
+				"지금까지의 관측 결과에 따르면 현재의 우주는 대폭발 이후 약 137억년이 경과된 것으로 보인다."
+			]
+		],
+		"NNP_Lst": [
+			[
+				0,
+				"플랑크",
+				"NNP",
+				"이는 빛이 물리학에서 다룰 수 있는 최소의 길이인 플랑크 길이를 통과하는 시간으로, 플랑크 길이는 약10_33cm이다."
+			],
+			[
+				1,
+				"플랑크",
+				"NNP",
+				"이는 빛이 물리학에서 다룰 수 있는 최소의 길이인 플랑크 길이를 통과하는 시간으로, 플랑크 길이는 약10_33cm이다."
+			]
+		],
+		"NNB_Lst": [
+			[
+				0,
+				"수",
+				"NNB",
+				"현대의 물리학이 고찰할 수 있는 최초의 우주는 대폭발 이후10_43초부터이다."
+			],
+			[
+				1,
+				"초",
+				"NNB",
+				"현대의 물리학이 고찰할 수 있는 최초의 우주는 대폭발 이후10_43초부터이다."
+			],
+			[
+				2,
+				"수",
+				"NNB",
+				"이는 빛이 물리학에서 다룰 수 있는 최소의 길이인 플랑크 길이를 통과하는 시간으로, 플랑크 길이는 약10_33cm이다."
+			],
+			[
+				3,
+				"년",
+				"NNB",
+				"지금까지의 관측 결과에 따르면 현재의 우주는 대폭발 이후 약 137억년이 경과된 것으로 보인다."
+			],
+			[
+				4,
+				"것",
+				"NNB",
+				"지금까지의 관측 결과에 따르면 현재의 우주는 대폭발 이후 약 137억년이 경과된 것으로 보인다."
+			]
+		],
+		"NP_Lst": [
+			[
+				0,
+				"이",
+				"NP",
+				"이는 빛이 물리학에서 다룰 수 있는 최소의 길이인 플랑크 길이를 통과하는 시간으로, 플랑크 길이는 약10_33cm이다."
+			]
+		],
+		"NP_People_Lst": [],
+		"NP_Things_Lst": [
+			[
+				0,
+				"이",
+				"NP",
+				"이는 빛이 물리학에서 다룰 수 있는 최소의 길이인 플랑크 길이를 통과하는 시간으로, 플랑크 길이는 약10_33cm이다."
+			]
+		],
+		"NR_Lst": [
+			[
+				0,
+				"억",
+				"NR",
+				"지금까지의 관측 결과에 따르면 현재의 우주는 대폭발 이후 약 137억년이 경과된 것으로 보인다."
+			]
+		],
+		"VL_Lst": [
+			[
+				0,
+				"고찰하",
+				"VV",
+				"현대의 물리학이 고찰할 수 있는 최초의 우주는 대폭발 이후10_43초부터이다."
+			],
+			[
+				1,
+				"있",
+				"VA",
+				"현대의 물리학이 고찰할 수 있는 최초의 우주는 대폭발 이후10_43초부터이다."
+			],
+			[
+				2,
+				"이",
+				"VCP",
+				"현대의 물리학이 고찰할 수 있는 최초의 우주는 대폭발 이후10_43초부터이다."
+			],
+			[
+				3,
+				"다루",
+				"VV",
+				"이는 빛이 물리학에서 다룰 수 있는 최소의 길이인 플랑크 길이를 통과하는 시간으로, 플랑크 길이는 약10_33cm이다."
+			],
+			[
+				4,
+				"있",
+				"VA",
+				"이는 빛이 물리학에서 다룰 수 있는 최소의 길이인 플랑크 길이를 통과하는 시간으로, 플랑크 길이는 약10_33cm이다."
+			],
+			[
+				5,
+				"이",
+				"VCP",
+				"이는 빛이 물리학에서 다룰 수 있는 최소의 길이인 플랑크 길이를 통과하는 시간으로, 플랑크 길이는 약10_33cm이다."
+			],
+			[
+				6,
+				"통과하",
+				"VV",
+				"이는 빛이 물리학에서 다룰 수 있는 최소의 길이인 플랑크 길이를 통과하는 시간으로, 플랑크 길이는 약10_33cm이다."
+			],
+			[
+				7,
+				"이",
+				"VCP",
+				"이는 빛이 물리학에서 다룰 수 있는 최소의 길이인 플랑크 길이를 통과하는 시간으로, 플랑크 길이는 약10_33cm이다."
+			],
+			[
+				8,
+				"인하",
+				"VV",
+				"초기 우주의 모습은 현대 물리학의 미해결 과제와 기술적 한계로 인해 많은 부분은 추론에 의존하고 있다."
+			],
+			[
+				9,
+				"많",
+				"VA",
+				"초기 우주의 모습은 현대 물리학의 미해결 과제와 기술적 한계로 인해 많은 부분은 추론에 의존하고 있다."
+			],
+			[
+				10,
+				"의존하",
+				"VV",
+				"초기 우주의 모습은 현대 물리학의 미해결 과제와 기술적 한계로 인해 많은 부분은 추론에 의존하고 있다."
+			],
+			[
+				11,
+				"있",
+				"VX",
+				"초기 우주의 모습은 현대 물리학의 미해결 과제와 기술적 한계로 인해 많은 부분은 추론에 의존하고 있다."
+			],
+			[
+				12,
+				"따르",
+				"VV",
+				"지금까지의 관측 결과에 따르면 현재의 우주는 대폭발 이후 약 137억년이 경과된 것으로 보인다."
+			],
+			[
+				13,
+				"경과되",
+				"VV",
+				"지금까지의 관측 결과에 따르면 현재의 우주는 대폭발 이후 약 137억년이 경과된 것으로 보인다."
+			],
+			[
+				14,
+				"보이",
+				"VV",
+				"지금까지의 관측 결과에 따르면 현재의 우주는 대폭발 이후 약 137억년이 경과된 것으로 보인다."
+			]
+		],
+		"VV_Lst": [
+			[
+				0,
+				"고찰하",
+				"VV",
+				"현대의 물리학이 고찰할 수 있는 최초의 우주는 대폭발 이후10_43초부터이다."
+			],
+			[
+				1,
+				"다루",
+				"VV",
+				"이는 빛이 물리학에서 다룰 수 있는 최소의 길이인 플랑크 길이를 통과하는 시간으로, 플랑크 길이는 약10_33cm이다."
+			],
+			[
+				2,
+				"통과하",
+				"VV",
+				"이는 빛이 물리학에서 다룰 수 있는 최소의 길이인 플랑크 길이를 통과하는 시간으로, 플랑크 길이는 약10_33cm이다."
+			],
+			[
+				3,
+				"인하",
+				"VV",
+				"초기 우주의 모습은 현대 물리학의 미해결 과제와 기술적 한계로 인해 많은 부분은 추론에 의존하고 있다."
+			],
+			[
+				4,
+				"의존하",
+				"VV",
+				"초기 우주의 모습은 현대 물리학의 미해결 과제와 기술적 한계로 인해 많은 부분은 추론에 의존하고 있다."
+			],
+			[
+				5,
+				"따르",
+				"VV",
+				"지금까지의 관측 결과에 따르면 현재의 우주는 대폭발 이후 약 137억년이 경과된 것으로 보인다."
+			],
+			[
+				6,
+				"경과되",
+				"VV",
+				"지금까지의 관측 결과에 따르면 현재의 우주는 대폭발 이후 약 137억년이 경과된 것으로 보인다."
+			],
+			[
+				7,
+				"보이",
+				"VV",
+				"지금까지의 관측 결과에 따르면 현재의 우주는 대폭발 이후 약 137억년이 경과된 것으로 보인다."
+			]
+		],
+		"VA_Lst": [
+			[
+				0,
+				"있",
+				"VA",
+				"현대의 물리학이 고찰할 수 있는 최초의 우주는 대폭발 이후10_43초부터이다."
+			],
+			[
+				1,
+				"있",
+				"VA",
+				"이는 빛이 물리학에서 다룰 수 있는 최소의 길이인 플랑크 길이를 통과하는 시간으로, 플랑크 길이는 약10_33cm이다."
+			],
+			[
+				2,
+				"많",
+				"VA",
+				"초기 우주의 모습은 현대 물리학의 미해결 과제와 기술적 한계로 인해 많은 부분은 추론에 의존하고 있다."
+			]
+		],
+		"VX_Lst": [
+			[
+				0,
+				"있",
+				"VX",
+				"초기 우주의 모습은 현대 물리학의 미해결 과제와 기술적 한계로 인해 많은 부분은 추론에 의존하고 있다."
+			]
+		],
+		"VCP_Lst": [
+			[
+				0,
+				"이",
+				"VCP",
+				"현대의 물리학이 고찰할 수 있는 최초의 우주는 대폭발 이후10_43초부터이다."
+			],
+			[
+				1,
+				"이",
+				"VCP",
+				"이는 빛이 물리학에서 다룰 수 있는 최소의 길이인 플랑크 길이를 통과하는 시간으로, 플랑크 길이는 약10_33cm이다."
+			],
+			[
+				2,
+				"이",
+				"VCP",
+				"이는 빛이 물리학에서 다룰 수 있는 최소의 길이인 플랑크 길이를 통과하는 시간으로, 플랑크 길이는 약10_33cm이다."
+			]
+		],
+		"VCN_Lst": [],
+		"ML_Lst": [],
+		"MA_Lst": [],
+		"MM_Lst": [],
+		"J_Lst": [
+			[
+				0,
+				"의",
+				"JKG",
+				"현대의 물리학이 고찰할 수 있는 최초의 우주는 대폭발 이후10_43초부터이다."
+			],
+			[
+				1,
+				"이",
+				"JKS",
+				"현대의 물리학이 고찰할 수 있는 최초의 우주는 대폭발 이후10_43초부터이다."
+			],
+			[
+				2,
+				"의",
+				"JKG",
+				"현대의 물리학이 고찰할 수 있는 최초의 우주는 대폭발 이후10_43초부터이다."
+			],
+			[
+				3,
+				"는",
+				"JX",
+				"현대의 물리학이 고찰할 수 있는 최초의 우주는 대폭발 이후10_43초부터이다."
+			],
+			[
+				4,
+				"부터",
+				"JX",
+				"현대의 물리학이 고찰할 수 있는 최초의 우주는 대폭발 이후10_43초부터이다."
+			],
+			[
+				5,
+				"는",
+				"JX",
+				"이는 빛이 물리학에서 다룰 수 있는 최소의 길이인 플랑크 길이를 통과하는 시간으로, 플랑크 길이는 약10_33cm이다."
+			],
+			[
+				6,
+				"이",
+				"JKS",
+				"이는 빛이 물리학에서 다룰 수 있는 최소의 길이인 플랑크 길이를 통과하는 시간으로, 플랑크 길이는 약10_33cm이다."
+			],
+			[
+				7,
+				"에서",
+				"JKB",
+				"이는 빛이 물리학에서 다룰 수 있는 최소의 길이인 플랑크 길이를 통과하는 시간으로, 플랑크 길이는 약10_33cm이다."
+			],
+			[
+				8,
+				"의",
+				"JKG",
+				"이는 빛이 물리학에서 다룰 수 있는 최소의 길이인 플랑크 길이를 통과하는 시간으로, 플랑크 길이는 약10_33cm이다."
+			],
+			[
+				9,
+				"를",
+				"JKO",
+				"이는 빛이 물리학에서 다룰 수 있는 최소의 길이인 플랑크 길이를 통과하는 시간으로, 플랑크 길이는 약10_33cm이다."
+			],
+			[
+				10,
+				"으로",
+				"JKB",
+				"이는 빛이 물리학에서 다룰 수 있는 최소의 길이인 플랑크 길이를 통과하는 시간으로, 플랑크 길이는 약10_33cm이다."
+			],
+			[
+				11,
+				"는",
+				"JX",
+				"이는 빛이 물리학에서 다룰 수 있는 최소의 길이인 플랑크 길이를 통과하는 시간으로, 플랑크 길이는 약10_33cm이다."
+			],
+			[
+				12,
+				"의",
+				"JKG",
+				"초기 우주의 모습은 현대 물리학의 미해결 과제와 기술적 한계로 인해 많은 부분은 추론에 의존하고 있다."
+			],
+			[
+				13,
+				"은",
+				"JX",
+				"초기 우주의 모습은 현대 물리학의 미해결 과제와 기술적 한계로 인해 많은 부분은 추론에 의존하고 있다."
+			],
+			[
+				14,
+				"의",
+				"JKG",
+				"초기 우주의 모습은 현대 물리학의 미해결 과제와 기술적 한계로 인해 많은 부분은 추론에 의존하고 있다."
+			],
+			[
+				15,
+				"와",
+				"JC",
+				"초기 우주의 모습은 현대 물리학의 미해결 과제와 기술적 한계로 인해 많은 부분은 추론에 의존하고 있다."
+			],
+			[
+				16,
+				"로",
+				"JKB",
+				"초기 우주의 모습은 현대 물리학의 미해결 과제와 기술적 한계로 인해 많은 부분은 추론에 의존하고 있다."
+			],
+			[
+				17,
+				"은",
+				"JX",
+				"초기 우주의 모습은 현대 물리학의 미해결 과제와 기술적 한계로 인해 많은 부분은 추론에 의존하고 있다."
+			],
+			[
+				18,
+				"에",
+				"JKB",
+				"초기 우주의 모습은 현대 물리학의 미해결 과제와 기술적 한계로 인해 많은 부분은 추론에 의존하고 있다."
+			],
+			[
+				19,
+				"까지",
+				"JX",
+				"지금까지의 관측 결과에 따르면 현재의 우주는 대폭발 이후 약 137억년이 경과된 것으로 보인다."
+			],
+			[
+				20,
+				"의",
+				"JKG",
+				"지금까지의 관측 결과에 따르면 현재의 우주는 대폭발 이후 약 137억년이 경과된 것으로 보인다."
+			],
+			[
+				21,
+				"에",
+				"JKB",
+				"지금까지의 관측 결과에 따르면 현재의 우주는 대폭발 이후 약 137억년이 경과된 것으로 보인다."
+			],
+			[
+				22,
+				"의",
+				"JKG",
+				"지금까지의 관측 결과에 따르면 현재의 우주는 대폭발 이후 약 137억년이 경과된 것으로 보인다."
+			],
+			[
+				23,
+				"는",
+				"JX",
+				"지금까지의 관측 결과에 따르면 현재의 우주는 대폭발 이후 약 137억년이 경과된 것으로 보인다."
+			],
+			[
+				24,
+				"이",
+				"JKS",
+				"지금까지의 관측 결과에 따르면 현재의 우주는 대폭발 이후 약 137억년이 경과된 것으로 보인다."
+			],
+			[
+				25,
+				"으로",
+				"JKB",
+				"지금까지의 관측 결과에 따르면 현재의 우주는 대폭발 이후 약 137억년이 경과된 것으로 보인다."
+			]
+		],
+		"E_Lst": [
+			[
+				0,
+				"ㄹ",
+				"ETM",
+				"현대의 물리학이 고찰할 수 있는 최초의 우주는 대폭발 이후10_43초부터이다."
+			],
+			[
+				1,
+				"는",
+				"ETM",
+				"현대의 물리학이 고찰할 수 있는 최초의 우주는 대폭발 이후10_43초부터이다."
+			],
+			[
+				2,
+				"다",
+				"EF",
+				"현대의 물리학이 고찰할 수 있는 최초의 우주는 대폭발 이후10_43초부터이다."
+			],
+			[
+				3,
+				"ㄹ",
+				"ETM",
+				"이는 빛이 물리학에서 다룰 수 있는 최소의 길이인 플랑크 길이를 통과하는 시간으로, 플랑크 길이는 약10_33cm이다."
+			],
+			[
+				4,
+				"는",
+				"ETM",
+				"이는 빛이 물리학에서 다룰 수 있는 최소의 길이인 플랑크 길이를 통과하는 시간으로, 플랑크 길이는 약10_33cm이다."
+			],
+			[
+				5,
+				"ㄴ",
+				"ETM",
+				"이는 빛이 물리학에서 다룰 수 있는 최소의 길이인 플랑크 길이를 통과하는 시간으로, 플랑크 길이는 약10_33cm이다."
+			],
+			[
+				6,
+				"는",
+				"ETM",
+				"이는 빛이 물리학에서 다룰 수 있는 최소의 길이인 플랑크 길이를 통과하는 시간으로, 플랑크 길이는 약10_33cm이다."
+			],
+			[
+				7,
+				"다",
+				"EF",
+				"이는 빛이 물리학에서 다룰 수 있는 최소의 길이인 플랑크 길이를 통과하는 시간으로, 플랑크 길이는 약10_33cm이다."
+			],
+			[
+				8,
+				"아",
+				"EC",
+				"초기 우주의 모습은 현대 물리학의 미해결 과제와 기술적 한계로 인해 많은 부분은 추론에 의존하고 있다."
+			],
+			[
+				9,
+				"은",
+				"ETM",
+				"초기 우주의 모습은 현대 물리학의 미해결 과제와 기술적 한계로 인해 많은 부분은 추론에 의존하고 있다."
+			],
+			[
+				10,
+				"고",
+				"EC",
+				"초기 우주의 모습은 현대 물리학의 미해결 과제와 기술적 한계로 인해 많은 부분은 추론에 의존하고 있다."
+			],
+			[
+				11,
+				"다",
+				"EF",
+				"초기 우주의 모습은 현대 물리학의 미해결 과제와 기술적 한계로 인해 많은 부분은 추론에 의존하고 있다."
+			],
+			[
+				12,
+				"면",
+				"EC",
+				"지금까지의 관측 결과에 따르면 현재의 우주는 대폭발 이후 약 137억년이 경과된 것으로 보인다."
+			],
+			[
+				13,
+				"ㄴ",
+				"ETM",
+				"지금까지의 관측 결과에 따르면 현재의 우주는 대폭발 이후 약 137억년이 경과된 것으로 보인다."
+			],
+			[
+				14,
+				"ㄴ다",
+				"EF",
+				"지금까지의 관측 결과에 따르면 현재의 우주는 대폭발 이후 약 137억년이 경과된 것으로 보인다."
+			]
+		],
+		"X_Lst": [
+			[
+				0,
+				"대",
+				"XPN",
+				"현대의 물리학이 고찰할 수 있는 최초의 우주는 대폭발 이후10_43초부터이다."
+			],
+			[
+				1,
+				"미",
+				"XPN",
+				"초기 우주의 모습은 현대 물리학의 미해결 과제와 기술적 한계로 인해 많은 부분은 추론에 의존하고 있다."
+			],
+			[
+				2,
+				"적",
+				"XSN",
+				"초기 우주의 모습은 현대 물리학의 미해결 과제와 기술적 한계로 인해 많은 부분은 추론에 의존하고 있다."
+			],
+			[
+				3,
+				"대",
+				"XPN",
+				"지금까지의 관측 결과에 따르면 현재의 우주는 대폭발 이후 약 137억년이 경과된 것으로 보인다."
+			]
+		],
+		"IC_Lst": []
+	},
+	"NDW": {
+		"morph_NDW": 74,
+		"NL_NDW": 40,
+		"NNG_NDW": 31,
+		"NNP_NDW": 2,
+		"NNB_NDW": 5,
+		"NP_NDW": 1,
+		"NR_NDW": 1,
+		"VL_NDW": 15,
+		"VV_NDW": 8,
+		"VA_NDW": 3,
+		"ML_NDW": 0,
+		"MM_NDW": 0,
+		"IC_NDW": 0,
+		"J_NDW": 26,
+		"E_NDW": 15,
+		"X_NDW": 4,
+		"CL_NDW": 55,
+		"FL_NDW": 45
+	}
+}

@@ -1,0 +1,9479 @@
+﻿{
+	"morpheme": {
+		"sentences": [
+			{
+				"text": {
+					"content": "저에게 소중함을 주는 사람들은 바로 엄마, 아빠입니다.",
+					"length": 30,
+					"beginOffset": 0
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "저에게",
+							"length": 3,
+							"beginOffset": 0
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "저",
+									"length": 1,
+									"beginOffset": 0
+								},
+								"tag": "NP",
+								"probability": 0.9785684,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에게",
+									"beginOffset": 1,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9930902,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "저",
+						"tagged": "저/NP+에게/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "소중함을",
+							"beginOffset": 4,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "소중하",
+									"beginOffset": 4,
+									"length": 3
+								},
+								"tag": "VA",
+								"probability": 0.9897415,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㅁ",
+									"beginOffset": 6,
+									"length": 1
+								},
+								"tag": "ETN",
+								"probability": 0.9997015,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 7,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999038,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "소중하",
+						"tagged": "소중하/VA+ㅁ/ETN+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "주는",
+							"beginOffset": 9,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "주",
+									"beginOffset": 9,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9669545,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 10,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99998194,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "주",
+						"tagged": "주/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사람들은",
+							"beginOffset": 12,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사람",
+									"beginOffset": 12,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9857963,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "들",
+									"beginOffset": 14,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.99100053,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 15,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99900717,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사람",
+						"tagged": "사람/NNG+들/XSN+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "바로",
+							"beginOffset": 17,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "바로",
+									"beginOffset": 17,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9909344,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "바로",
+						"tagged": "바로/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "엄마,",
+							"beginOffset": 20,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "엄마",
+									"beginOffset": 20,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9801409,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 22,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.99906534,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "엄마",
+						"tagged": "엄마/NNG+,/SP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "아빠입니다.",
+							"beginOffset": 24,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "아빠",
+									"beginOffset": 24,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98343915,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 26,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.9997875,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㅂ니다",
+									"beginOffset": 26,
+									"length": 3
+								},
+								"tag": "EF",
+								"probability": 0.9941124,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 29,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9995033,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "아빠",
+						"tagged": "아빠/NNG+이/VCP+ㅂ니다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "저에게 소중함을 주는 사람들은 바로 엄마, 아빠입니다."
+			},
+			{
+				"text": {
+					"content": "저희 엄마, 아빠는 항상 저에게 사랑한다고 말씀해주십니다.",
+					"beginOffset": 31,
+					"length": 32
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "저희",
+							"beginOffset": 31,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "저희",
+									"beginOffset": 31,
+									"length": 2
+								},
+								"tag": "NP",
+								"probability": 0.9850461,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "저희",
+						"tagged": "저희/NP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "엄마,",
+							"beginOffset": 34,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "엄마",
+									"beginOffset": 34,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98537606,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 36,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.9981397,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "엄마",
+						"tagged": "엄마/NNG+,/SP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "아빠는",
+							"beginOffset": 38,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "아빠",
+									"beginOffset": 38,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9863124,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 40,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9983455,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "아빠",
+						"tagged": "아빠/NNG+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "항상",
+							"beginOffset": 42,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "항상",
+									"beginOffset": 42,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9904383,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "항상",
+						"tagged": "항상/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "저에게",
+							"beginOffset": 45,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "저",
+									"beginOffset": 45,
+									"length": 1
+								},
+								"tag": "NP",
+								"probability": 0.9832746,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에게",
+									"beginOffset": 46,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9892495,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "저",
+						"tagged": "저/NP+에게/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사랑한다고",
+							"beginOffset": 49,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사랑하",
+									"beginOffset": 49,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ다고",
+									"beginOffset": 51,
+									"length": 3
+								},
+								"tag": "EC",
+								"probability": 0.9585926,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사랑하",
+						"tagged": "사랑하/VV+ㄴ다고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "말씀해",
+							"beginOffset": 55,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "말씀하",
+									"beginOffset": 55,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 57,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9904561,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "말씀하",
+						"tagged": "말씀하/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "주십니다.",
+							"beginOffset": 58,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "주",
+									"beginOffset": 58,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.96567315,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "시",
+									"beginOffset": 59,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99977773,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㅂ니다",
+									"beginOffset": 59,
+									"length": 3
+								},
+								"tag": "EF",
+								"probability": 0.9906083,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 62,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99974036,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "주",
+						"tagged": "주/VX+시/EP+ㅂ니다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "저희 엄마, 아빠는 항상 저에게 사랑한다고 말씀해 주십니다."
+			},
+			{
+				"text": {
+					"content": "그리고 항상 건강하게 잘 커줘서 너무 고맙다고도 말해주십니다.",
+					"beginOffset": 64,
+					"length": 34
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "그리고",
+							"beginOffset": 64,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그리고",
+									"beginOffset": 64,
+									"length": 3
+								},
+								"tag": "MAJ",
+								"probability": 0.99846244,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그리고",
+						"tagged": "그리고/MAJ",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "항상",
+							"beginOffset": 68,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "항상",
+									"beginOffset": 68,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.99411047,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "항상",
+						"tagged": "항상/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "건강하게",
+							"beginOffset": 71,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "건강하",
+									"beginOffset": 71,
+									"length": 3
+								},
+								"tag": "VA",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "게",
+									"beginOffset": 74,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9858831,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "건강하",
+						"tagged": "건강하/VA+게/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "잘",
+							"beginOffset": 76,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "잘",
+									"beginOffset": 76,
+									"length": 1
+								},
+								"tag": "MAG",
+								"probability": 0.9934945,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "잘",
+						"tagged": "잘/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "커",
+							"beginOffset": 78,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "크",
+									"beginOffset": 78,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.769591,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어",
+									"beginOffset": 78,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9574722,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "크",
+						"tagged": "크/VV+어/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "줘서",
+							"beginOffset": 79,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "주",
+									"beginOffset": 79,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.960172,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어서",
+									"beginOffset": 79,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9911315,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "주",
+						"tagged": "주/VX+어서/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "너무",
+							"beginOffset": 82,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "너무",
+									"beginOffset": 82,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9883195,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "너무",
+						"tagged": "너무/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "고맙다고도",
+							"beginOffset": 85,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "고맙",
+									"beginOffset": 85,
+									"length": 2
+								},
+								"tag": "VA",
+								"probability": 0.98412716,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다고",
+									"beginOffset": 87,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.98697865,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 89,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99890035,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "고맙",
+						"tagged": "고맙/VA+다고/EC+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "말해",
+							"beginOffset": 91,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "말하",
+									"beginOffset": 91,
+									"length": 2
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 92,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.98930895,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "말하",
+						"tagged": "말하/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "주십니다.",
+							"beginOffset": 93,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "주",
+									"beginOffset": 93,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.9740061,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "시",
+									"beginOffset": 94,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9998223,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㅂ니다",
+									"beginOffset": 94,
+									"length": 3
+								},
+								"tag": "EF",
+								"probability": 0.98988813,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 97,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9998564,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "주",
+						"tagged": "주/VX+시/EP+ㅂ니다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "그리고 항상 건강하게 잘 커 줘서 너무 고맙다고도 말해 주십니다."
+			},
+			{
+				"text": {
+					"content": "저는 이런 부모님의 사랑을 듬뿍 받고 자랐습니다.",
+					"beginOffset": 99,
+					"length": 27
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "저는",
+							"beginOffset": 99,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "저",
+									"beginOffset": 99,
+									"length": 1
+								},
+								"tag": "NP",
+								"probability": 0.9867917,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 100,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99896616,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "저",
+						"tagged": "저/NP+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이런",
+							"beginOffset": 102,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이런",
+									"beginOffset": 102,
+									"length": 2
+								},
+								"tag": "MMD",
+								"probability": 0.99835324,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이런",
+						"tagged": "이런/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "부모님의",
+							"beginOffset": 105,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "부모",
+									"beginOffset": 105,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9837975,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "님",
+									"beginOffset": 107,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.98163736,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 108,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9994325,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "부모",
+						"tagged": "부모/NNG+님/XSN+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사랑을",
+							"beginOffset": 110,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사랑",
+									"beginOffset": 110,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9836665,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 112,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99994946,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사랑",
+						"tagged": "사랑/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "듬뿍",
+							"beginOffset": 114,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "듬뿍",
+									"beginOffset": 114,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.99260753,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "듬뿍",
+						"tagged": "듬뿍/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "받고",
+							"beginOffset": 117,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "받",
+									"beginOffset": 117,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.98432946,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 118,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99438953,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "받",
+						"tagged": "받/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "자랐습니다.",
+							"beginOffset": 120,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "자라",
+									"beginOffset": 120,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.99015343,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 121,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9996998,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "습니다",
+									"beginOffset": 122,
+									"length": 3
+								},
+								"tag": "EF",
+								"probability": 0.96284646,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 125,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9997486,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "자라",
+						"tagged": "자라/VV+았/EP+습니다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "저는 이런 부모님의 사랑을 듬뿍 받고 자랐습니다."
+			},
+			{
+				"text": {
+					"content": "부모님은 저에게 가족의 소중함을 알려주셨습니다.",
+					"beginOffset": 127,
+					"length": 26
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "부모님은",
+							"beginOffset": 127,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "부모",
+									"beginOffset": 127,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9802386,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "님",
+									"beginOffset": 129,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.98073286,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 130,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9988673,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "부모",
+						"tagged": "부모/NNG+님/XSN+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "저에게",
+							"beginOffset": 132,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "저",
+									"beginOffset": 132,
+									"length": 1
+								},
+								"tag": "NP",
+								"probability": 0.98645455,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에게",
+									"beginOffset": 133,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.98675704,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "저",
+						"tagged": "저/NP+에게/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "가족의",
+							"beginOffset": 136,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "가족",
+									"beginOffset": 136,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9840933,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 138,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99880004,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "가족",
+						"tagged": "가족/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "소중함을",
+							"beginOffset": 140,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "소중하",
+									"beginOffset": 140,
+									"length": 3
+								},
+								"tag": "VA",
+								"probability": 0.99122953,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㅁ",
+									"beginOffset": 142,
+									"length": 1
+								},
+								"tag": "ETN",
+								"probability": 0.9999757,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 143,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9985577,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "소중하",
+						"tagged": "소중하/VA+ㅁ/ETN+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "알려",
+							"beginOffset": 145,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "알리",
+									"beginOffset": 145,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.98684597,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어",
+									"beginOffset": 146,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.994421,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "알리",
+						"tagged": "알리/VV+어/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "주셨습니다.",
+							"beginOffset": 147,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "주",
+									"beginOffset": 147,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.97380954,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "시",
+									"beginOffset": 148,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99973553,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 148,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9999636,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "습니다",
+									"beginOffset": 149,
+									"length": 3
+								},
+								"tag": "EF",
+								"probability": 0.98221076,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 152,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99971306,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "주",
+						"tagged": "주/VX+시/EP+었/EP+습니다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "부모님은 저에게 가족의 소중함을 알려 주셨습니다."
+			},
+			{
+				"text": {
+					"content": "부모님은 힘들때마다 저희를 보고 힘을 낸다고 그니까 너희도 힘내라고 힘들땐 본인들한테 말하라고 함께 고민해보자고 하십니다.",
+					"beginOffset": 154,
+					"length": 68
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "부모님은",
+							"beginOffset": 154,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "부모",
+									"beginOffset": 154,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9810335,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "님",
+									"beginOffset": 156,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.983449,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 157,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9980036,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "부모",
+						"tagged": "부모/NNG+님/XSN+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "힘들",
+							"beginOffset": 159,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "힘들",
+									"beginOffset": 159,
+									"length": 2
+								},
+								"tag": "VA",
+								"probability": 0.9916429,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ",
+									"beginOffset": 160,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99994934,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "힘들",
+						"tagged": "힘들/VA+ㄹ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "때마다",
+							"beginOffset": 161,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "때",
+									"beginOffset": 161,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.98485273,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "마다",
+									"beginOffset": 162,
+									"length": 2
+								},
+								"tag": "JX",
+								"probability": 0.99805665,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "때",
+						"tagged": "때/NNG+마다/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "저희를",
+							"beginOffset": 165,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "저희",
+									"beginOffset": 165,
+									"length": 2
+								},
+								"tag": "NP",
+								"probability": 0.98477817,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 167,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99981964,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "저희",
+						"tagged": "저희/NP+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "보고",
+							"beginOffset": 169,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "보",
+									"beginOffset": 169,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9500877,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 170,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9941481,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "보",
+						"tagged": "보/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "힘을",
+							"beginOffset": 172,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "힘",
+									"beginOffset": 172,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9817428,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 173,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999104,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "힘",
+						"tagged": "힘/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "낸다고",
+							"beginOffset": 175,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "내",
+									"beginOffset": 175,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.98087746,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ다고",
+									"beginOffset": 175,
+									"length": 3
+								},
+								"tag": "EC",
+								"probability": 0.97857755,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "내",
+						"tagged": "내/VV+ㄴ다고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "그니까",
+							"beginOffset": 179,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그니까",
+									"beginOffset": 179,
+									"length": 3
+								},
+								"tag": "MAJ",
+								"probability": 0.9978534,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그니까",
+						"tagged": "그니까/MAJ",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "너희도",
+							"beginOffset": 183,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "너희",
+									"beginOffset": 183,
+									"length": 2
+								},
+								"tag": "NP",
+								"probability": 0.9797591,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 185,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9991961,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "너희",
+						"tagged": "너희/NP+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "힘내라고",
+							"beginOffset": 187,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "힘내",
+									"beginOffset": 187,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.98905414,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "라고",
+									"beginOffset": 189,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99176687,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "힘내",
+						"tagged": "힘내/VV+라고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "힘들",
+							"beginOffset": 192,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "힘들",
+									"beginOffset": 192,
+									"length": 2
+								},
+								"tag": "VA",
+								"probability": 0.9896386,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ",
+									"beginOffset": 193,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99997413,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "힘들",
+						"tagged": "힘들/VA+ㄹ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "땐",
+							"beginOffset": 194,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "때",
+									"beginOffset": 194,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9812005,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 194,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9981679,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "때",
+						"tagged": "때/NNG+ㄴ/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "본인들한테",
+							"beginOffset": 196,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "본인",
+									"beginOffset": 196,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9820583,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "들",
+									"beginOffset": 198,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.98429614,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "한테",
+									"beginOffset": 199,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.98555726,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "본인",
+						"tagged": "본인/NNG+들/XSN+한테/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "말하라고",
+							"beginOffset": 202,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "말하",
+									"beginOffset": 202,
+									"length": 2
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "라고",
+									"beginOffset": 204,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9795275,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "말하",
+						"tagged": "말하/VV+라고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "함께",
+							"beginOffset": 207,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "함께",
+									"beginOffset": 207,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.990563,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "함께",
+						"tagged": "함께/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "고민해",
+							"beginOffset": 210,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "고민하",
+									"beginOffset": 210,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 212,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9810476,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "고민하",
+						"tagged": "고민하/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "보자고",
+							"beginOffset": 213,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "보",
+									"beginOffset": 213,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.9366715,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "자고",
+									"beginOffset": 214,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.97300154,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "보",
+						"tagged": "보/VX+자고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "하십니다.",
+							"beginOffset": 217,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 217,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.77654237,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "시",
+									"beginOffset": 218,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99975455,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㅂ니다",
+									"beginOffset": 218,
+									"length": 3
+								},
+								"tag": "EF",
+								"probability": 0.99093664,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 221,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9989821,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VV+시/EP+ㅂ니다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "부모님은 힘들 때마다 저희를 보고 힘을 낸다고 그니까 너희도 힘내라고 힘들 땐 본인들한테 말하라고 함께 고민해 보자고 하십니다."
+			},
+			{
+				"text": {
+					"content": "저는 그런 부모님을 보고 아 가정을 꾸린다면 이렇게 꾸리고 싶다는 생각이 들었습니다.",
+					"beginOffset": 223,
+					"length": 47
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "저는",
+							"beginOffset": 223,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "저",
+									"beginOffset": 223,
+									"length": 1
+								},
+								"tag": "NP",
+								"probability": 0.9826585,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 224,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.998799,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "저",
+						"tagged": "저/NP+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "그런",
+							"beginOffset": 226,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그런",
+									"beginOffset": 226,
+									"length": 2
+								},
+								"tag": "MMD",
+								"probability": 0.99883467,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그런",
+						"tagged": "그런/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "부모님을",
+							"beginOffset": 229,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "부모",
+									"beginOffset": 229,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9852189,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "님",
+									"beginOffset": 231,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.9862624,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 232,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999001,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "부모",
+						"tagged": "부모/NNG+님/XSN+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "보고",
+							"beginOffset": 234,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "보",
+									"beginOffset": 234,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9628991,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 235,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99344456,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "보",
+						"tagged": "보/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "아",
+							"beginOffset": 237,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 237,
+									"length": 1
+								},
+								"tag": "IC",
+								"probability": 0.9987757,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "아",
+						"tagged": "아/IC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "가정을",
+							"beginOffset": 239,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "가정",
+									"beginOffset": 239,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9860804,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 241,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9997447,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "가정",
+						"tagged": "가정/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "꾸린다면",
+							"beginOffset": 243,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "꾸리",
+									"beginOffset": 243,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9880184,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ다면",
+									"beginOffset": 244,
+									"length": 3
+								},
+								"tag": "EC",
+								"probability": 0.9945359,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "꾸리",
+						"tagged": "꾸리/VV+ㄴ다면/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이렇게",
+							"beginOffset": 248,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이렇",
+									"beginOffset": 248,
+									"length": 2
+								},
+								"tag": "VA",
+								"probability": 0.9833722,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "게",
+									"beginOffset": 250,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.989061,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이렇",
+						"tagged": "이렇/VA+게/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "꾸리고",
+							"beginOffset": 252,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "꾸리",
+									"beginOffset": 252,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9802417,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 254,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99033374,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "꾸리",
+						"tagged": "꾸리/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "싶다는",
+							"beginOffset": 256,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "싶",
+									"beginOffset": 256,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.97638834,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다는",
+									"beginOffset": 257,
+									"length": 2
+								},
+								"tag": "ETM",
+								"probability": 0.9999778,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "싶",
+						"tagged": "싶/VX+다는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "생각이",
+							"beginOffset": 260,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "생각",
+									"beginOffset": 260,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9792316,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 262,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.98733705,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "생각",
+						"tagged": "생각/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "들었습니다.",
+							"beginOffset": 264,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "들",
+									"beginOffset": 264,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9822359,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 265,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.999898,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "습니다",
+									"beginOffset": 266,
+									"length": 3
+								},
+								"tag": "EF",
+								"probability": 0.98159707,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 269,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9996337,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "들",
+						"tagged": "들/VV+었/EP+습니다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "저는 그런 부모님을 보고 아 가정을 꾸린다면 이렇게 꾸리고 싶다는 생각이 들었습니다."
+			},
+			{
+				"text": {
+					"content": "물론 가끔 다투실때도 있지만 아빠가 금방 엄마한테 사과를 하고 잘 풀고 다시 잘 놉니다.",
+					"beginOffset": 271,
+					"length": 49
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "물론",
+							"beginOffset": 271,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "물론",
+									"beginOffset": 271,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9917452,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "물론",
+						"tagged": "물론/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "가끔",
+							"beginOffset": 274,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "가끔",
+									"beginOffset": 274,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9750537,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "가끔",
+						"tagged": "가끔/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "다투실",
+							"beginOffset": 277,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "다투",
+									"beginOffset": 277,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9905318,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "시",
+									"beginOffset": 279,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9999154,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ",
+									"beginOffset": 279,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999516,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "다투",
+						"tagged": "다투/VV+시/EP+ㄹ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "때도",
+							"beginOffset": 280,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "때",
+									"beginOffset": 280,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9815318,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 281,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99931145,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "때",
+						"tagged": "때/NNG+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있지만",
+							"beginOffset": 283,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 283,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.92003876,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "지만",
+									"beginOffset": 284,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99213576,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VA+지만/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "아빠가",
+							"beginOffset": 287,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "아빠",
+									"beginOffset": 287,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9810552,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 289,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.99111414,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "아빠",
+						"tagged": "아빠/NNG+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "금방",
+							"beginOffset": 291,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "금방",
+									"beginOffset": 291,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.98375905,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "금방",
+						"tagged": "금방/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "엄마한테",
+							"beginOffset": 294,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "엄마",
+									"beginOffset": 294,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.981543,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "한테",
+									"beginOffset": 296,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9870661,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "엄마",
+						"tagged": "엄마/NNG+한테/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사과를",
+							"beginOffset": 299,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사과",
+									"beginOffset": 299,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9850411,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 301,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9997508,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사과",
+						"tagged": "사과/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "하고",
+							"beginOffset": 303,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 303,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9859426,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 304,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.990627,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "잘",
+							"beginOffset": 306,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "잘",
+									"beginOffset": 306,
+									"length": 1
+								},
+								"tag": "MAG",
+								"probability": 0.99343914,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "잘",
+						"tagged": "잘/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "풀고",
+							"beginOffset": 308,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "풀",
+									"beginOffset": 308,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9891212,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 309,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9855826,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "풀",
+						"tagged": "풀/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "다시",
+							"beginOffset": 311,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "다시",
+									"beginOffset": 311,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9886953,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "다시",
+						"tagged": "다시/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "잘",
+							"beginOffset": 314,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "잘",
+									"beginOffset": 314,
+									"length": 1
+								},
+								"tag": "MAG",
+								"probability": 0.9926084,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "잘",
+						"tagged": "잘/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "놉니다.",
+							"beginOffset": 316,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "놀",
+									"beginOffset": 316,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9876784,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㅂ니다",
+									"beginOffset": 316,
+									"length": 3
+								},
+								"tag": "EF",
+								"probability": 0.98838204,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 319,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99805075,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "놀",
+						"tagged": "놀/VV+ㅂ니다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "물론 가끔 다투실 때도 있지만 아빠가 금방 엄마한테 사과를 하고 잘 풀고 다시 잘 놉니다."
+			},
+			{
+				"text": {
+					"content": "저는 이런 우리 가족이 너무나도 좋고 이 가정에서 태어난게 너무도 행복하고 기쁩니다.",
+					"beginOffset": 321,
+					"length": 47
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "저는",
+							"beginOffset": 321,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "저",
+									"beginOffset": 321,
+									"length": 1
+								},
+								"tag": "NP",
+								"probability": 0.98624116,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 322,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99862623,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "저",
+						"tagged": "저/NP+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이런",
+							"beginOffset": 324,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이런",
+									"beginOffset": 324,
+									"length": 2
+								},
+								"tag": "MMD",
+								"probability": 0.99858975,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이런",
+						"tagged": "이런/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "우리",
+							"beginOffset": 327,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "우리",
+									"beginOffset": 327,
+									"length": 2
+								},
+								"tag": "NP",
+								"probability": 0.9737583,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "우리",
+						"tagged": "우리/NP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "가족이",
+							"beginOffset": 330,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "가족",
+									"beginOffset": 330,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9830202,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 332,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.988754,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "가족",
+						"tagged": "가족/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "너무나도",
+							"beginOffset": 334,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "너무나",
+									"beginOffset": 334,
+									"length": 3
+								},
+								"tag": "MAG",
+								"probability": 0.9872592,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 337,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.999289,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "너무나",
+						"tagged": "너무나/MAG+도/JX",
+						"modified": "너무나도"
+					},
+					{
+						"text": {
+							"content": "좋고",
+							"beginOffset": 339,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "좋",
+									"beginOffset": 339,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.98791695,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 340,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.98938775,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "좋",
+						"tagged": "좋/VA+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이",
+							"beginOffset": 342,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 342,
+									"length": 1
+								},
+								"tag": "MMD",
+								"probability": 0.99975705,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이",
+						"tagged": "이/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "가정에서",
+							"beginOffset": 344,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "가정",
+									"beginOffset": 344,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9823696,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에서",
+									"beginOffset": 346,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9907588,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "가정",
+						"tagged": "가정/NNG+에서/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "태어난",
+							"beginOffset": 349,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "태어나",
+									"beginOffset": 349,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.9902664,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 351,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999561,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "태어나",
+						"tagged": "태어나/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "게",
+							"beginOffset": 352,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "거",
+									"beginOffset": 352,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.98234725,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 352,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9604526,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "거",
+						"tagged": "거/NNB+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "너무도",
+							"beginOffset": 354,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "너무",
+									"beginOffset": 354,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9906953,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 356,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9989278,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "너무",
+						"tagged": "너무/MAG+도/JX",
+						"modified": "너무도"
+					},
+					{
+						"text": {
+							"content": "행복하고",
+							"beginOffset": 358,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "행복하",
+									"beginOffset": 358,
+									"length": 3
+								},
+								"tag": "VA",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 361,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9930709,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "행복하",
+						"tagged": "행복하/VA+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "기쁩니다.",
+							"beginOffset": 363,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "기쁘",
+									"beginOffset": 363,
+									"length": 2
+								},
+								"tag": "VA",
+								"probability": 0.9876487,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㅂ니다",
+									"beginOffset": 364,
+									"length": 3
+								},
+								"tag": "EF",
+								"probability": 0.9912207,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 367,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9987254,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "기쁘",
+						"tagged": "기쁘/VA+ㅂ니다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "저는 이런 우리 가족이 너무나도 좋고 이 가정에서 태어난 게 너무도 행복하고 기쁩니다."
+			},
+			{
+				"text": {
+					"content": "그래서인지 뉴스에서 가정폭력을 당하면서 자란 아이들과 가정폭력을 당해서 다친 아이들이 뉴스에 나올때면 마음이 너무 아픕니다.",
+					"beginOffset": 369,
+					"length": 69
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "그래서",
+							"beginOffset": 369,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그렇",
+									"beginOffset": 369,
+									"length": 2
+								},
+								"tag": "VA",
+								"probability": 0.98489696,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어서",
+									"beginOffset": 370,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9808582,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그렇",
+						"tagged": "그렇/VA+어서/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "인지",
+							"beginOffset": 372,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 372,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.9993519,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ지",
+									"beginOffset": 372,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9912935,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이",
+						"tagged": "이/VCP+ㄴ지/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "뉴스에서",
+							"beginOffset": 375,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "뉴스",
+									"beginOffset": 375,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9781614,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에서",
+									"beginOffset": 377,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.97844684,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "뉴스",
+						"tagged": "뉴스/NNG+에서/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "가정폭력을",
+							"beginOffset": 380,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "가정",
+									"beginOffset": 380,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "폭력",
+									"beginOffset": 382,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 384,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99981785,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "가정",
+						"tagged": "가정/NNG+폭력/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "당하면서",
+							"beginOffset": 386,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "당하",
+									"beginOffset": 386,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.98713946,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "면서",
+									"beginOffset": 388,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99498296,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "당하",
+						"tagged": "당하/VV+면서/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "자란",
+							"beginOffset": 391,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "자라",
+									"beginOffset": 391,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9891905,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 392,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99995697,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "자라",
+						"tagged": "자라/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "아이들과",
+							"beginOffset": 394,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "아이",
+									"beginOffset": 394,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9790332,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "들",
+									"beginOffset": 396,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.989123,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "과",
+									"beginOffset": 397,
+									"length": 1
+								},
+								"tag": "JC",
+								"probability": 0.56227106,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "아이",
+						"tagged": "아이/NNG+들/XSN+과/JC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "가정폭력을",
+							"beginOffset": 399,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "가정",
+									"beginOffset": 399,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "폭력",
+									"beginOffset": 401,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 403,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99992925,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "가정",
+						"tagged": "가정/NNG+폭력/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "당해서",
+							"beginOffset": 405,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "당하",
+									"beginOffset": 405,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.98353654,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아서",
+									"beginOffset": 406,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9952641,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "당하",
+						"tagged": "당하/VV+아서/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "다친",
+							"beginOffset": 409,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "다치",
+									"beginOffset": 409,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9737122,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 410,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999595,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "다치",
+						"tagged": "다치/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "아이들이",
+							"beginOffset": 412,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "아이",
+									"beginOffset": 412,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9830029,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "들",
+									"beginOffset": 414,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.990109,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 415,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.99421656,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "아이",
+						"tagged": "아이/NNG+들/XSN+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "뉴스에",
+							"beginOffset": 417,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "뉴스",
+									"beginOffset": 417,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9837118,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 419,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99318856,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "뉴스",
+						"tagged": "뉴스/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "나올때면",
+							"beginOffset": 421,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "나올",
+									"beginOffset": 421,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "때",
+									"beginOffset": 423,
+									"length": 1
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "면",
+									"beginOffset": 424,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9884812,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "나올",
+						"tagged": "나올/NNG+때/NNG+면/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "마음이",
+							"beginOffset": 426,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "마음",
+									"beginOffset": 426,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9831789,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 428,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9812257,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "마음",
+						"tagged": "마음/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "너무",
+							"beginOffset": 430,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "너무",
+									"beginOffset": 430,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.99242806,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "너무",
+						"tagged": "너무/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "아픕니다.",
+							"beginOffset": 433,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "아프",
+									"beginOffset": 433,
+									"length": 2
+								},
+								"tag": "VA",
+								"probability": 0.98755646,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㅂ니다",
+									"beginOffset": 434,
+									"length": 3
+								},
+								"tag": "EF",
+								"probability": 0.99346584,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 437,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99926066,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "아프",
+						"tagged": "아프/VA+ㅂ니다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "그래서 인지 뉴스에서 가정폭력을 당하면서 자란 아이들과 가정폭력을 당해서 다친 아이들이 뉴스에 나올때면 마음이 너무 아픕니다."
+			},
+			{
+				"text": {
+					"content": "항상 마음속으로 기도합니다.",
+					"beginOffset": 439,
+					"length": 15
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "항상",
+							"beginOffset": 439,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "항상",
+									"beginOffset": 439,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9948685,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "항상",
+						"tagged": "항상/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "마음속으로",
+							"beginOffset": 442,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "마음속",
+									"beginOffset": 442,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.97920394,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으로",
+									"beginOffset": 445,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.99601996,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "마음속",
+						"tagged": "마음속/NNG+으로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "기도합니다.",
+							"beginOffset": 448,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "기도하",
+									"beginOffset": 448,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㅂ니다",
+									"beginOffset": 450,
+									"length": 3
+								},
+								"tag": "EF",
+								"probability": 0.99094945,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 453,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9997607,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "기도하",
+						"tagged": "기도하/VV+ㅂ니다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "항상 마음속으로 기도합니다."
+			},
+			{
+				"text": {
+					"content": "저 아이들이 다시 태어날땐 꼭 다정하고 사랑을 듬뿍 주는 행복한 가정에서 태어나 따뜻한 집 안에서 행복하게 자리길요.",
+					"beginOffset": 455,
+					"length": 65
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "저",
+							"beginOffset": 455,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "저",
+									"beginOffset": 455,
+									"length": 1
+								},
+								"tag": "MMD",
+								"probability": 0.9992172,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "저",
+						"tagged": "저/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "아이들이",
+							"beginOffset": 457,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "아이",
+									"beginOffset": 457,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98442763,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "들",
+									"beginOffset": 459,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.9891475,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 460,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9915498,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "아이",
+						"tagged": "아이/NNG+들/XSN+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "다시",
+							"beginOffset": 462,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "다시",
+									"beginOffset": 462,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.99031514,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "다시",
+						"tagged": "다시/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "태어날",
+							"beginOffset": 465,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "태어나",
+									"beginOffset": 465,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.99082416,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ",
+									"beginOffset": 467,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999656,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "태어나",
+						"tagged": "태어나/VV+ㄹ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "땐",
+							"beginOffset": 468,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "때",
+									"beginOffset": 468,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.97941536,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 468,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99833894,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "때",
+						"tagged": "때/NNG+ㄴ/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "꼭",
+							"beginOffset": 470,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "꼭",
+									"beginOffset": 470,
+									"length": 1
+								},
+								"tag": "MAG",
+								"probability": 0.9912293,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "꼭",
+						"tagged": "꼭/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "다정하고",
+							"beginOffset": 472,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "다정하",
+									"beginOffset": 472,
+									"length": 3
+								},
+								"tag": "VA",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 475,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9930234,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "다정하",
+						"tagged": "다정하/VA+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사랑을",
+							"beginOffset": 477,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사랑",
+									"beginOffset": 477,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9847889,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 479,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99992496,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사랑",
+						"tagged": "사랑/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "듬뿍",
+							"beginOffset": 481,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "듬뿍",
+									"beginOffset": 481,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9858424,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "듬뿍",
+						"tagged": "듬뿍/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "주는",
+							"beginOffset": 484,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "주",
+									"beginOffset": 484,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.92103064,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 485,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99985605,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "주",
+						"tagged": "주/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "행복한",
+							"beginOffset": 487,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "행복하",
+									"beginOffset": 487,
+									"length": 3
+								},
+								"tag": "VA",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 489,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999434,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "행복하",
+						"tagged": "행복하/VA+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "가정에서",
+							"beginOffset": 491,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "가정",
+									"beginOffset": 491,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.982295,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에서",
+									"beginOffset": 493,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9935891,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "가정",
+						"tagged": "가정/NNG+에서/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "태어나",
+							"beginOffset": 496,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "태어나",
+									"beginOffset": 496,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.9898102,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 498,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99515104,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "태어나",
+						"tagged": "태어나/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "따뜻한",
+							"beginOffset": 500,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "따뜻하",
+									"beginOffset": 500,
+									"length": 3
+								},
+								"tag": "VA",
+								"probability": 0.986568,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 502,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999946,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "따뜻하",
+						"tagged": "따뜻하/VA+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "집",
+							"beginOffset": 504,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "집",
+									"beginOffset": 504,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9650354,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "집",
+						"tagged": "집/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "안에서",
+							"beginOffset": 506,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "안",
+									"beginOffset": 506,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9681658,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에서",
+									"beginOffset": 507,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9921566,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "안",
+						"tagged": "안/NNG+에서/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "행복하게",
+							"beginOffset": 510,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "행복하",
+									"beginOffset": 510,
+									"length": 3
+								},
+								"tag": "VA",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "게",
+									"beginOffset": 513,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9802852,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "행복하",
+						"tagged": "행복하/VA+게/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "자리길요.",
+							"beginOffset": 515,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "자리",
+									"beginOffset": 515,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98242974,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 517,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.99893963,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "기",
+									"beginOffset": 517,
+									"length": 1
+								},
+								"tag": "ETN",
+								"probability": 0.99894965,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ",
+									"beginOffset": 517,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99889356,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "요",
+									"beginOffset": 518,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99576217,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 519,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99924386,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "자리",
+						"tagged": "자리/NNG+이/VCP+기/ETN+ㄹ/JKO+요/JX+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "저 아이들이 다시 태어날 땐 꼭 다정하고 사랑을 듬뿍 주는 행복한 가정에서 태어나 따뜻한 집 안에서 행복하게 자리길요."
+			},
+			{
+				"text": {
+					"content": "저는 부모님의 사랑을 많이 받고 자란만큼 남에게도 사랑을 많이 배풀줄 알고 정이 많게 자랐습니다.",
+					"beginOffset": 521,
+					"length": 54
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "저는",
+							"beginOffset": 521,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "저",
+									"beginOffset": 521,
+									"length": 1
+								},
+								"tag": "NP",
+								"probability": 0.9880099,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 522,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99885255,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "저",
+						"tagged": "저/NP+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "부모님의",
+							"beginOffset": 524,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "부모",
+									"beginOffset": 524,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9822595,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "님",
+									"beginOffset": 526,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.9754722,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 527,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9977117,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "부모",
+						"tagged": "부모/NNG+님/XSN+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사랑을",
+							"beginOffset": 529,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사랑",
+									"beginOffset": 529,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9844123,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 531,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9998988,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사랑",
+						"tagged": "사랑/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "많이",
+							"beginOffset": 533,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "많이",
+									"beginOffset": 533,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9885464,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "많이",
+						"tagged": "많이/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "받고",
+							"beginOffset": 536,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "받",
+									"beginOffset": 536,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.98531383,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 537,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9908088,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "받",
+						"tagged": "받/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "자란",
+							"beginOffset": 539,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "자라",
+									"beginOffset": 539,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9803186,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 540,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999819,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "자라",
+						"tagged": "자라/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "만큼",
+							"beginOffset": 541,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "만큼",
+									"beginOffset": 541,
+									"length": 2
+								},
+								"tag": "NNB",
+								"probability": 0.97783023,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "만큼",
+						"tagged": "만큼/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "남에게도",
+							"beginOffset": 544,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "남",
+									"beginOffset": 544,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9709688,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에게",
+									"beginOffset": 545,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9947066,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 547,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99904364,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "남",
+						"tagged": "남/NNG+에게/JKB+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사랑을",
+							"beginOffset": 549,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사랑",
+									"beginOffset": 549,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98434126,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 551,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999793,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사랑",
+						"tagged": "사랑/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "많이",
+							"beginOffset": 553,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "많이",
+									"beginOffset": 553,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.990669,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "많이",
+						"tagged": "많이/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "배풀",
+							"beginOffset": 556,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "배푸",
+									"beginOffset": 556,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.5412553,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 557,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.9986973,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ",
+									"beginOffset": 557,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999498,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "배푸",
+						"tagged": "배푸/NNG+이/VCP+ㄹ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "줄",
+							"beginOffset": 558,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "줄",
+									"beginOffset": 558,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9782183,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "줄",
+						"tagged": "줄/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "알고",
+							"beginOffset": 560,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "알",
+									"beginOffset": 560,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9901867,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 561,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9924778,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "알",
+						"tagged": "알/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "정이",
+							"beginOffset": 563,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "정",
+									"beginOffset": 563,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.79518723,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 564,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9572801,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "정",
+						"tagged": "정/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "많게",
+							"beginOffset": 566,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "많",
+									"beginOffset": 566,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9876294,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "게",
+									"beginOffset": 567,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.98618734,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "많",
+						"tagged": "많/VA+게/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "자랐습니다.",
+							"beginOffset": 569,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "자라",
+									"beginOffset": 569,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.98898953,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 570,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99996567,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "습니다",
+									"beginOffset": 571,
+									"length": 3
+								},
+								"tag": "EF",
+								"probability": 0.9883715,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 574,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9996687,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "자라",
+						"tagged": "자라/VV+았/EP+습니다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "저는 부모님의 사랑을 많이 받고 자란 만큼 남에게도 사랑을 많이 배풀 줄 알고 정이 많게 자랐습니다."
+			},
+			{
+				"text": {
+					"content": "그리고 부모님은 항상 힘든 사람이 있으면 외면하지 않고 꼭 도와줘야 한다고 알려주셨습니다.",
+					"beginOffset": 576,
+					"length": 50
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "그리고",
+							"beginOffset": 576,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그리고",
+									"beginOffset": 576,
+									"length": 3
+								},
+								"tag": "MAJ",
+								"probability": 0.9985118,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그리고",
+						"tagged": "그리고/MAJ",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "부모님은",
+							"beginOffset": 580,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "부모",
+									"beginOffset": 580,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9789469,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "님",
+									"beginOffset": 582,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.9902498,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 583,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9985656,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "부모",
+						"tagged": "부모/NNG+님/XSN+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "항상",
+							"beginOffset": 585,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "항상",
+									"beginOffset": 585,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9926041,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "항상",
+						"tagged": "항상/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "힘든",
+							"beginOffset": 588,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "힘들",
+									"beginOffset": 588,
+									"length": 2
+								},
+								"tag": "VA",
+								"probability": 0.98645973,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 589,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999884,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "힘들",
+						"tagged": "힘들/VA+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사람이",
+							"beginOffset": 591,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사람",
+									"beginOffset": 591,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98359734,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 593,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.96777606,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사람",
+						"tagged": "사람/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있으면",
+							"beginOffset": 595,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 595,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9700143,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으면",
+									"beginOffset": 596,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99170303,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VA+으면/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "외면하지",
+							"beginOffset": 599,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "외면하",
+									"beginOffset": 599,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "지",
+									"beginOffset": 602,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.98401994,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "외면하",
+						"tagged": "외면하/VV+지/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "않고",
+							"beginOffset": 604,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "않",
+									"beginOffset": 604,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.96382284,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 605,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.98876154,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "않",
+						"tagged": "않/VX+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "꼭",
+							"beginOffset": 607,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "꼭",
+									"beginOffset": 607,
+									"length": 1
+								},
+								"tag": "MAG",
+								"probability": 0.9895273,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "꼭",
+						"tagged": "꼭/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "도와줘야",
+							"beginOffset": 609,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "도와주",
+									"beginOffset": 609,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.983029,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어야",
+									"beginOffset": 611,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99002796,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "도와주",
+						"tagged": "도와주/VV+어야/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "한다고",
+							"beginOffset": 614,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 614,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.92319715,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ다고",
+									"beginOffset": 614,
+									"length": 3
+								},
+								"tag": "EC",
+								"probability": 0.9731894,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VX+ㄴ다고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "알려",
+							"beginOffset": 618,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "알리",
+									"beginOffset": 618,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9723845,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어",
+									"beginOffset": 619,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99171627,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "알리",
+						"tagged": "알리/VV+어/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "주셨습니다.",
+							"beginOffset": 620,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "주",
+									"beginOffset": 620,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.97595394,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "시",
+									"beginOffset": 621,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99969876,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 621,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9999336,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "습니다",
+									"beginOffset": 622,
+									"length": 3
+								},
+								"tag": "EF",
+								"probability": 0.9820464,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 625,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99984396,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "주",
+						"tagged": "주/VX+시/EP+었/EP+습니다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "그리고 부모님은 항상 힘든 사람이 있으면 외면하지 않고 꼭 도와줘야 한다고 알려 주셨습니다."
+			},
+			{
+				"text": {
+					"content": "그래서 우리는 자기 능력 한에서 도와줄수있는 일들은 최대한 도우려고 합니다.",
+					"beginOffset": 627,
+					"length": 42
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "그래서",
+							"beginOffset": 627,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그래서",
+									"beginOffset": 627,
+									"length": 3
+								},
+								"tag": "MAJ",
+								"probability": 0.996623,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그래서",
+						"tagged": "그래서/MAJ",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "우리는",
+							"beginOffset": 631,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "우리",
+									"beginOffset": 631,
+									"length": 2
+								},
+								"tag": "NP",
+								"probability": 0.98374,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 633,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99939,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "우리",
+						"tagged": "우리/NP+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "자기",
+							"beginOffset": 635,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "자기",
+									"beginOffset": 635,
+									"length": 2
+								},
+								"tag": "NP",
+								"probability": 0.9606347,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "자기",
+						"tagged": "자기/NP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "능력",
+							"beginOffset": 638,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "능력",
+									"beginOffset": 638,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9796589,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "능력",
+						"tagged": "능력/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "한에서",
+							"beginOffset": 641,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "한",
+									"beginOffset": 641,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.6824746,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에서",
+									"beginOffset": 642,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.99266815,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "한",
+						"tagged": "한/NNG+에서/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "도와줄",
+							"beginOffset": 645,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "도와주",
+									"beginOffset": 645,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.9882992,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ",
+									"beginOffset": 647,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99992675,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "도와주",
+						"tagged": "도와주/VV+ㄹ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "수",
+							"beginOffset": 648,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "수",
+									"beginOffset": 648,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.98075795,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "수",
+						"tagged": "수/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있는",
+							"beginOffset": 649,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 649,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9642494,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 650,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999804,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VA+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "일들은",
+							"beginOffset": 652,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "일",
+									"beginOffset": 652,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.959134,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "들",
+									"beginOffset": 653,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.99109507,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 654,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9992651,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "일",
+						"tagged": "일/NNG+들/XSN+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "최대한",
+							"beginOffset": 656,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "최대한",
+									"beginOffset": 656,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9770691,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "최대한",
+						"tagged": "최대한/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "도우려고",
+							"beginOffset": 660,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "돕",
+									"beginOffset": 660,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.986882,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으려고",
+									"beginOffset": 661,
+									"length": 3
+								},
+								"tag": "EC",
+								"probability": 0.9954283,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "돕",
+						"tagged": "돕/VV+으려고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "합니다.",
+							"beginOffset": 665,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 665,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.9312424,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㅂ니다",
+									"beginOffset": 665,
+									"length": 3
+								},
+								"tag": "EF",
+								"probability": 0.9859601,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 668,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9995335,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VX+ㅂ니다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "그래서 우리는 자기 능력 한에서 도와줄 수 있는 일들은 최대한 도우려고 합니다."
+			}
+		],
+		"language": "ko_KR"
+	},
+	"ttr": {
+		"lemma_Cnt": 340,
+		"lemma_TTR": 0.4061624649859944,
+		"CL_TTR": 0.5542857142857143,
+		"NL_TTR": 0.5211267605633803,
+		"NN_TTR": 0.5517241379310345,
+		"NNG_TTR": 0.5185185185185185,
+		"NNP_TTR": 0,
+		"NNB_TTR": 1.0,
+		"NP_TTR": 0.38461538461538464,
+		"NR_TTR": 0,
+		"VL_TTR": 0.5733333333333334,
+		"VV_TTR": 0.65,
+		"VA_TTR": 0.6666666666666666,
+		"ML_TTR": 0.5714285714285714,
+		"MM_TTR": 0,
+		"MA_TTR": 0.5714285714285714,
+		"MAJ_TTR": 0.75,
+		"IC_TTR": 1.0,
+		"FL_TTR": 0.29375,
+		"J_TTR": 0.29508196721311475,
+		"E_TTR": 0.3448275862068966,
+		"X_TTR": 0.16666666666666666,
+		"lemma_RTTR": 7.674213798361965,
+		"CL_RTTR": 7.332510776379008,
+		"NL_RTTR": 4.391092135317257,
+		"NN_RTTR": 4.201805851511121,
+		"NNG_RTTR": 3.8103173776627215,
+		"NNP_RTTR": 0,
+		"NNB_RTTR": 2.0,
+		"NP_RTTR": 1.386750490563073,
+		"NR_RTTR": 0,
+		"VL_RTTR": 4.965212315030781,
+		"VV_RTTR": 4.110960958218893,
+		"VA_RTTR": 3.0550504633038935,
+		"ML_RTTR": 3.0237157840738176,
+		"MM_RTTR": 0,
+		"MA_RTTR": 3.0237157840738176,
+		"MAJ_RTTR": 1.5,
+		"IC_RTTR": 1.0,
+		"FL_RTTR": 3.7156762506978454,
+		"J_RTTR": 2.3046638387921274,
+		"E_RTTR": 3.2163376045133845,
+		"X_RTTR": 0.5773502691896258,
+		"lemma_CTTR": 5.426488617097118,
+		"CL_CTTR": 5.1848680931010325,
+		"NL_CTTR": 3.1049710256977496,
+		"NN_CTTR": 2.9711254108328298,
+		"NNG_CTTR": 2.6943012562182536,
+		"NNP_CTTR": 0,
+		"NNB_CTTR": 1.414213562373095,
+		"NP_CTTR": 0.9805806756909202,
+		"NR_CTTR": 0,
+		"VL_CTTR": 3.510935297989222,
+		"VV_CTTR": 2.9068883707497264,
+		"VA_CTTR": 2.1602468994692865,
+		"ML_CTTR": 2.138089935299395,
+		"MM_CTTR": 0,
+		"MA_CTTR": 2.138089935299395,
+		"MAJ_CTTR": 1.0606601717798212,
+		"IC_CTTR": 0.7071067811865475,
+		"FL_CTTR": 2.6273798735622527,
+		"J_CTTR": 1.6296434287653334,
+		"E_CTTR": 2.27429413073671,
+		"X_CTTR": 0.4082482904638631,
+		"lemma_MSTTR": 0.7657142857142858,
+		"CL_MSTTR": 0.7733333333333334,
+		"NL_MSTTR": 0.46,
+		"NN_MSTTR": 0.52,
+		"NNG_MSTTR": 0.48,
+		"NNP_MSTTR": 0,
+		"NNB_MSTTR": 1.0,
+		"NP_MSTTR": 0.38461538461538464,
+		"NR_MSTTR": 0,
+		"VL_MSTTR": 0.7,
+		"VV_MSTTR": 0.65,
+		"VA_MSTTR": 0.6666666666666666,
+		"ML_MSTTR": 0.5714285714285714,
+		"MM_MSTTR": 0,
+		"MA_MSTTR": 0.5714285714285714,
+		"MAJ_MSTTR": 0.75,
+		"IC_MSTTR": 1.0,
+		"FL_MSTTR": 0.56,
+		"J_MSTTR": 0.36,
+		"E_MSTTR": 0.42,
+		"X_MSTTR": 0.16666666666666666,
+		"lemma_MATTR": 0.7743506493506497,
+		"CL_MATTR": 0.7703174603174602,
+		"NL_MATTR": 0.5672727272727274,
+		"NN_MATTR": 0.5666666666666667,
+		"NNG_MATTR": 0.52,
+		"NNP_MATTR": 0,
+		"NNB_MATTR": 1.0,
+		"NP_MATTR": 0.38461538461538464,
+		"NR_MATTR": 0,
+		"VL_MATTR": 0.6823076923076921,
+		"VV_MATTR": 0.65,
+		"VA_MATTR": 0.6666666666666666,
+		"ML_MATTR": 0.5714285714285714,
+		"MM_MATTR": 0,
+		"MA_MATTR": 0.5714285714285714,
+		"MAJ_MATTR": 0.75,
+		"IC_MATTR": 1.0,
+		"FL_MATTR": 0.5459459459459459,
+		"J_MATTR": 0.35999999999999993,
+		"E_MATTR": 0.47157894736842126,
+		"X_MATTR": 0.16666666666666666,
+		"lemma_MTLD": 56.957414618353994,
+		"CL_MTLD": 64.75773001508296,
+		"NL_MTLD": 21.997649271274092,
+		"NN_MTLD": 19.678689270679257,
+		"NNG_MTLD": 18.032929918378834,
+		"NNP_MTLD": 0.0,
+		"NNB_MTLD": 0.0,
+		"NP_MTLD": 9.467391304347826,
+		"NR_MTLD": 0.0,
+		"VL_MTLD": 28.385088272383356,
+		"VV_MTLD": 23.487607228833962,
+		"VA_MTLD": 15.696969696969697,
+		"ML_MTLD": 12.644815907352783,
+		"MM_MTLD": 0.0,
+		"MA_MTLD": 12.644815907352783,
+		"MAJ_MTLD": 4.48,
+		"IC_MTLD": 0.0,
+		"FL_MTLD": 21.0267229254571,
+		"J_MTLD": 11.141304946947773,
+		"E_MTLD": 16.51824324324324,
+		"X_MTLD": 12.0,
+		"lemma_VOCDD": 75.821606417213,
+		"CL_VOCDD": 83.45494339681808,
+		"NL_VOCDD": 22.14238452648102,
+		"NN_VOCDD": 20.65516347063325,
+		"NNG_VOCDD": 15.992993555118659,
+		"NNP_VOCDD": 0,
+		"NNB_VOCDD": 0,
+		"NP_VOCDD": 0,
+		"NR_VOCDD": 0,
+		"VL_VOCDD": 33.68195658361668,
+		"VV_VOCDD": 0,
+		"VA_VOCDD": 0,
+		"ML_VOCDD": 0,
+		"MM_VOCDD": 0,
+		"MA_VOCDD": 0,
+		"MAJ_VOCDD": 0,
+		"IC_VOCDD": 0,
+		"FL_VOCDD": 17.927643778840032,
+		"J_VOCDD": 4.535005606410778,
+		"E_VOCDD": 10.393804034618713,
+		"X_VOCDD": 0,
+		"lemma_HDD": 0.815924669487975,
+		"CL_HDD": 0.8285578780213461,
+		"NL_HDD": 0.628247168752613,
+		"NN_HDD": 0.6156113060198257,
+		"NNG_HDD": 0.5716434614484398,
+		"NNP_HDD": 0.0,
+		"NNB_HDD": 0.0,
+		"NP_HDD": 0.0,
+		"NR_HDD": 0.0,
+		"VL_HDD": 0.6971656573700041,
+		"VV_HDD": 0.0,
+		"VA_HDD": 0.0,
+		"ML_HDD": 0.0,
+		"MM_HDD": 0.0,
+		"MA_HDD": 0.0,
+		"MAJ_HDD": 0.0,
+		"IC_HDD": 0.0,
+		"FL_HDD": 0.591348884137335,
+		"J_HDD": 0.3690495358234879,
+		"E_HDD": 0.49894592749274547,
+		"X_HDD": 0.0
+	},
+	"similarity": {
+		"avgSentSimilarity": 0.18948639929294586,
+		"topicConsistency": 0.5785
+	},
+	"adjacency": {
+		"adjacent_sentence_overlap_all_lemmas": 263,
+		"adjacent_sentence_overlap_all_lemmas_normed": 14,
+		"binary_adjacent_sentence_overlap_all_lemmas": 14,
+		"adjacent_two_sentence_overlap_all_lemmas": 210,
+		"adjacent_two_sentence_overlap_all_lemmas_normed": 13,
+		"binary_adjacent_two_sentence_overlap_all_lemmas": 13,
+		"adjacent_sentence_overlap_content_lemmas": 124,
+		"adjacent_sentence_overlap_content_lemmas_normed": 14,
+		"binary_adjacent_sentence_overlap_content_lemmas": 9,
+		"adjacent_two_sentence_overlap_content_lemmas": 106,
+		"adjacent_two_sentence_overlap_content_lemmas_normed": 13,
+		"binary_adjacent_two_sentence_overlap_content_lemmas": 5,
+		"adjacent_sentence_overlap_function_lemmas": 111,
+		"adjacent_sentence_overlap_function_lemmas_normed": 14,
+		"binary_adjacent_sentence_overlap_function_lemmas": 12,
+		"adjacent_two_sentence_overlap_function_lemmas": 83,
+		"adjacent_two_sentence_overlap_function_lemmas_normed": 13,
+		"binary_adjacent_two_sentence_overlap_function_lemmas": 11,
+		"adjacent_sentence_overlap_noun_lemmas": 62,
+		"adjacent_sentence_overlap_noun_lemmas_normed": 12,
+		"binary_adjacent_sentence_overlap_noun_lemmas": 7,
+		"adjacent_two_sentence_overlap_noun_lemmas": 53,
+		"adjacent_two_sentence_overlap_noun_lemmas_normed": 10,
+		"binary_adjacent_two_sentence_overlap_noun_lemmas": 3,
+		"adjacent_sentence_overlap_verb_lemmas": 58,
+		"adjacent_sentence_overlap_verb_lemmas_normed": 14,
+		"binary_adjacent_sentence_overlap_verb_lemmas": 6,
+		"adjacent_two_sentence_overlap_verb_lemmas": 48,
+		"adjacent_two_sentence_overlap_verb_lemmas_normed": 13,
+		"binary_adjacent_two_sentence_overlap_verb_lemmas": 3,
+		"adjacent_sentence_overlap_adjective_lemmas": 13,
+		"adjacent_sentence_overlap_adjective_lemmas_normed": 8,
+		"binary_adjacent_sentence_overlap_adjective_lemmas": 1,
+		"adjacent_two_sentence_overlap_adjective_lemmas": 10,
+		"adjacent_two_sentence_overlap_adjective_lemmas_normed": 6,
+		"binary_adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_sentence_overlap_adverb_lemmas": 17,
+		"adjacent_sentence_overlap_adverb_lemmas_normed": 10,
+		"binary_adjacent_sentence_overlap_adverb_lemmas": 2,
+		"adjacent_two_sentence_overlap_adverb_lemmas": 13,
+		"adjacent_two_sentence_overlap_adverb_lemmas_normed": 7,
+		"binary_adjacent_two_sentence_overlap_adverb_lemmas": 0
+	},
+	"basic_count": {
+		"para_Cnt": 1,
+		"sentence_Cnt": 15,
+		"word_Cnt": 158,
+		"morph_Cnt": 357,
+		"char_Cnt": 555,
+		"CL_Cnt": 175,
+		"NL_Cnt": 71,
+		"NN_Cnt": 58,
+		"NNG_Cnt": 54,
+		"NNP_Cnt": 0,
+		"NNB_Cnt": 4,
+		"NP_Cnt": 13,
+		"NP_People_Cnt": 13,
+		"NP_Things_Cnt": 0,
+		"NR_Cnt": 0,
+		"VL_Cnt": 75,
+		"VV_Cnt": 40,
+		"VA_Cnt": 21,
+		"VX_Cnt": 10,
+		"VCP_Cnt": 4,
+		"VCN_Cnt": 0,
+		"ML_Cnt": 28,
+		"MA_Cnt": 0,
+		"MM_Cnt": 0,
+		"FL_Cnt": 160,
+		"J_Cnt": 61,
+		"E_Cnt": 87,
+		"X_Cnt": 12,
+		"IC_Cnt": 1
+	},
+	"basic_density": {
+		"CL_Den": 0.49019607843137253,
+		"FL_Den": 0.4481792717086835,
+		"NL_Den": 0.16246498599439776,
+		"NNGL_Den": 0.15126050420168066,
+		"NNPL_Den": 0.0,
+		"NNBL_Den": 0.011204481792717087,
+		"NPL_Den": 0.036414565826330535,
+		"NML_Den": 0.0,
+		"VL_Den": 0.21008403361344538,
+		"VVL_Den": 0.11204481792717087,
+		"VAL_Den": 0.058823529411764705,
+		"ML_Den": 0.0784313725490196,
+		"MML_Den": 0.0,
+		"MAL_Den": 0.0,
+		"JL_Den": 0.17086834733893558,
+		"EL_Den": 0.24369747899159663,
+		"XL_Den": 0.03361344537815126,
+		"ITL_Den": 0.0028011204481792717,
+		"NCL_Den": 0.3314285714285714,
+		"NNCL_Den": 0.30857142857142855,
+		"NNGCL_Den": 0.0,
+		"NNBCL_Den": 0.022857142857142857,
+		"NPCL_Den": 0.07428571428571429,
+		"NMCL_Den": 0.0,
+		"VCL_Den": 0.42857142857142855,
+		"VVCL_Den": 0.22857142857142856,
+		"VACL_Den": 0.12,
+		"MCL_Den": 0.16,
+		"MMCL_Den": 0.0,
+		"MACL_Den": 0.0,
+		"INCL_Den": 0.005714285714285714,
+		"JFL_Den": 0.38125,
+		"EFL_Den": 0.54375,
+		"XFL_Den": 0.075
+	},
+	"basic_level": {
+		"morph_LenAvg": 1.5742296918767507,
+		"morph_LenStd": 0.7007057529974056,
+		"word_LenAvg": 3.132911392405063,
+		"word_LenStd": 1.2533723136824353
+	},
+	"basic_list": {
+		"NL_Lst": [
+			[
+				0,
+				"저",
+				"NP",
+				"저에게 소중함을 주는 사람들은 바로 엄마, 아빠입니다."
+			],
+			[
+				1,
+				"사람",
+				"NNG",
+				"저에게 소중함을 주는 사람들은 바로 엄마, 아빠입니다."
+			],
+			[
+				2,
+				"엄마",
+				"NNG",
+				"저에게 소중함을 주는 사람들은 바로 엄마, 아빠입니다."
+			],
+			[
+				3,
+				"아빠",
+				"NNG",
+				"저에게 소중함을 주는 사람들은 바로 엄마, 아빠입니다."
+			],
+			[
+				4,
+				"저희",
+				"NP",
+				"저희 엄마, 아빠는 항상 저에게 사랑한다고 말씀해주십니다."
+			],
+			[
+				5,
+				"엄마",
+				"NNG",
+				"저희 엄마, 아빠는 항상 저에게 사랑한다고 말씀해주십니다."
+			],
+			[
+				6,
+				"아빠",
+				"NNG",
+				"저희 엄마, 아빠는 항상 저에게 사랑한다고 말씀해주십니다."
+			],
+			[
+				7,
+				"저",
+				"NP",
+				"저희 엄마, 아빠는 항상 저에게 사랑한다고 말씀해주십니다."
+			],
+			[
+				8,
+				"저",
+				"NP",
+				"저는 이런 부모님의 사랑을 듬뿍 받고 자랐습니다."
+			],
+			[
+				9,
+				"부모",
+				"NNG",
+				"저는 이런 부모님의 사랑을 듬뿍 받고 자랐습니다."
+			],
+			[
+				10,
+				"사랑",
+				"NNG",
+				"저는 이런 부모님의 사랑을 듬뿍 받고 자랐습니다."
+			],
+			[
+				11,
+				"부모",
+				"NNG",
+				"부모님은 저에게 가족의 소중함을 알려주셨습니다."
+			],
+			[
+				12,
+				"저",
+				"NP",
+				"부모님은 저에게 가족의 소중함을 알려주셨습니다."
+			],
+			[
+				13,
+				"가족",
+				"NNG",
+				"부모님은 저에게 가족의 소중함을 알려주셨습니다."
+			],
+			[
+				14,
+				"부모",
+				"NNG",
+				"부모님은 힘들때마다 저희를 보고 힘을 낸다고 그니까 너희도 힘내라고 힘들땐 본인들한테 말하라고 함께 고민해보자고 하십니다."
+			],
+			[
+				15,
+				"때",
+				"NNG",
+				"부모님은 힘들때마다 저희를 보고 힘을 낸다고 그니까 너희도 힘내라고 힘들땐 본인들한테 말하라고 함께 고민해보자고 하십니다."
+			],
+			[
+				16,
+				"저희",
+				"NP",
+				"부모님은 힘들때마다 저희를 보고 힘을 낸다고 그니까 너희도 힘내라고 힘들땐 본인들한테 말하라고 함께 고민해보자고 하십니다."
+			],
+			[
+				17,
+				"힘",
+				"NNG",
+				"부모님은 힘들때마다 저희를 보고 힘을 낸다고 그니까 너희도 힘내라고 힘들땐 본인들한테 말하라고 함께 고민해보자고 하십니다."
+			],
+			[
+				18,
+				"너희",
+				"NP",
+				"부모님은 힘들때마다 저희를 보고 힘을 낸다고 그니까 너희도 힘내라고 힘들땐 본인들한테 말하라고 함께 고민해보자고 하십니다."
+			],
+			[
+				19,
+				"때",
+				"NNG",
+				"부모님은 힘들때마다 저희를 보고 힘을 낸다고 그니까 너희도 힘내라고 힘들땐 본인들한테 말하라고 함께 고민해보자고 하십니다."
+			],
+			[
+				20,
+				"본인",
+				"NNG",
+				"부모님은 힘들때마다 저희를 보고 힘을 낸다고 그니까 너희도 힘내라고 힘들땐 본인들한테 말하라고 함께 고민해보자고 하십니다."
+			],
+			[
+				21,
+				"저",
+				"NP",
+				"저는 그런 부모님을 보고 아 가정을 꾸린다면 이렇게 꾸리고 싶다는 생각이 들었습니다."
+			],
+			[
+				22,
+				"부모",
+				"NNG",
+				"저는 그런 부모님을 보고 아 가정을 꾸린다면 이렇게 꾸리고 싶다는 생각이 들었습니다."
+			],
+			[
+				23,
+				"가정",
+				"NNG",
+				"저는 그런 부모님을 보고 아 가정을 꾸린다면 이렇게 꾸리고 싶다는 생각이 들었습니다."
+			],
+			[
+				24,
+				"생각",
+				"NNG",
+				"저는 그런 부모님을 보고 아 가정을 꾸린다면 이렇게 꾸리고 싶다는 생각이 들었습니다."
+			],
+			[
+				25,
+				"때",
+				"NNG",
+				"물론 가끔 다투실때도 있지만 아빠가 금방 엄마한테 사과를 하고 잘 풀고 다시 잘 놉니다."
+			],
+			[
+				26,
+				"아빠",
+				"NNG",
+				"물론 가끔 다투실때도 있지만 아빠가 금방 엄마한테 사과를 하고 잘 풀고 다시 잘 놉니다."
+			],
+			[
+				27,
+				"엄마",
+				"NNG",
+				"물론 가끔 다투실때도 있지만 아빠가 금방 엄마한테 사과를 하고 잘 풀고 다시 잘 놉니다."
+			],
+			[
+				28,
+				"사과",
+				"NNG",
+				"물론 가끔 다투실때도 있지만 아빠가 금방 엄마한테 사과를 하고 잘 풀고 다시 잘 놉니다."
+			],
+			[
+				29,
+				"저",
+				"NP",
+				"저는 이런 우리 가족이 너무나도 좋고 이 가정에서 태어난게 너무도 행복하고 기쁩니다."
+			],
+			[
+				30,
+				"우리",
+				"NP",
+				"저는 이런 우리 가족이 너무나도 좋고 이 가정에서 태어난게 너무도 행복하고 기쁩니다."
+			],
+			[
+				31,
+				"가족",
+				"NNG",
+				"저는 이런 우리 가족이 너무나도 좋고 이 가정에서 태어난게 너무도 행복하고 기쁩니다."
+			],
+			[
+				32,
+				"가정",
+				"NNG",
+				"저는 이런 우리 가족이 너무나도 좋고 이 가정에서 태어난게 너무도 행복하고 기쁩니다."
+			],
+			[
+				33,
+				"거",
+				"NNB",
+				"저는 이런 우리 가족이 너무나도 좋고 이 가정에서 태어난게 너무도 행복하고 기쁩니다."
+			],
+			[
+				34,
+				"뉴스",
+				"NNG",
+				"그래서인지 뉴스에서 가정폭력을 당하면서 자란 아이들과 가정폭력을 당해서 다친 아이들이 뉴스에 나올때면 마음이 너무 아픕니다."
+			],
+			[
+				35,
+				"가정",
+				"NNG",
+				"그래서인지 뉴스에서 가정폭력을 당하면서 자란 아이들과 가정폭력을 당해서 다친 아이들이 뉴스에 나올때면 마음이 너무 아픕니다."
+			],
+			[
+				36,
+				"폭력",
+				"NNG",
+				"그래서인지 뉴스에서 가정폭력을 당하면서 자란 아이들과 가정폭력을 당해서 다친 아이들이 뉴스에 나올때면 마음이 너무 아픕니다."
+			],
+			[
+				37,
+				"아이",
+				"NNG",
+				"그래서인지 뉴스에서 가정폭력을 당하면서 자란 아이들과 가정폭력을 당해서 다친 아이들이 뉴스에 나올때면 마음이 너무 아픕니다."
+			],
+			[
+				38,
+				"가정",
+				"NNG",
+				"그래서인지 뉴스에서 가정폭력을 당하면서 자란 아이들과 가정폭력을 당해서 다친 아이들이 뉴스에 나올때면 마음이 너무 아픕니다."
+			],
+			[
+				39,
+				"폭력",
+				"NNG",
+				"그래서인지 뉴스에서 가정폭력을 당하면서 자란 아이들과 가정폭력을 당해서 다친 아이들이 뉴스에 나올때면 마음이 너무 아픕니다."
+			],
+			[
+				40,
+				"아이",
+				"NNG",
+				"그래서인지 뉴스에서 가정폭력을 당하면서 자란 아이들과 가정폭력을 당해서 다친 아이들이 뉴스에 나올때면 마음이 너무 아픕니다."
+			],
+			[
+				41,
+				"뉴스",
+				"NNG",
+				"그래서인지 뉴스에서 가정폭력을 당하면서 자란 아이들과 가정폭력을 당해서 다친 아이들이 뉴스에 나올때면 마음이 너무 아픕니다."
+			],
+			[
+				42,
+				"나올",
+				"NNG",
+				"그래서인지 뉴스에서 가정폭력을 당하면서 자란 아이들과 가정폭력을 당해서 다친 아이들이 뉴스에 나올때면 마음이 너무 아픕니다."
+			],
+			[
+				43,
+				"때",
+				"NNG",
+				"그래서인지 뉴스에서 가정폭력을 당하면서 자란 아이들과 가정폭력을 당해서 다친 아이들이 뉴스에 나올때면 마음이 너무 아픕니다."
+			],
+			[
+				44,
+				"마음",
+				"NNG",
+				"그래서인지 뉴스에서 가정폭력을 당하면서 자란 아이들과 가정폭력을 당해서 다친 아이들이 뉴스에 나올때면 마음이 너무 아픕니다."
+			],
+			[
+				45,
+				"마음속",
+				"NNG",
+				"항상 마음속으로 기도합니다."
+			],
+			[
+				46,
+				"아이",
+				"NNG",
+				"저 아이들이 다시 태어날땐 꼭 다정하고 사랑을 듬뿍 주는 행복한 가정에서 태어나 따뜻한 집 안에서 행복하게 자리길요."
+			],
+			[
+				47,
+				"때",
+				"NNG",
+				"저 아이들이 다시 태어날땐 꼭 다정하고 사랑을 듬뿍 주는 행복한 가정에서 태어나 따뜻한 집 안에서 행복하게 자리길요."
+			],
+			[
+				48,
+				"사랑",
+				"NNG",
+				"저 아이들이 다시 태어날땐 꼭 다정하고 사랑을 듬뿍 주는 행복한 가정에서 태어나 따뜻한 집 안에서 행복하게 자리길요."
+			],
+			[
+				49,
+				"가정",
+				"NNG",
+				"저 아이들이 다시 태어날땐 꼭 다정하고 사랑을 듬뿍 주는 행복한 가정에서 태어나 따뜻한 집 안에서 행복하게 자리길요."
+			],
+			[
+				50,
+				"집",
+				"NNG",
+				"저 아이들이 다시 태어날땐 꼭 다정하고 사랑을 듬뿍 주는 행복한 가정에서 태어나 따뜻한 집 안에서 행복하게 자리길요."
+			],
+			[
+				51,
+				"안",
+				"NNG",
+				"저 아이들이 다시 태어날땐 꼭 다정하고 사랑을 듬뿍 주는 행복한 가정에서 태어나 따뜻한 집 안에서 행복하게 자리길요."
+			],
+			[
+				52,
+				"자리",
+				"NNG",
+				"저 아이들이 다시 태어날땐 꼭 다정하고 사랑을 듬뿍 주는 행복한 가정에서 태어나 따뜻한 집 안에서 행복하게 자리길요."
+			],
+			[
+				53,
+				"저",
+				"NP",
+				"저는 부모님의 사랑을 많이 받고 자란만큼 남에게도 사랑을 많이 배풀줄 알고 정이 많게 자랐습니다."
+			],
+			[
+				54,
+				"부모",
+				"NNG",
+				"저는 부모님의 사랑을 많이 받고 자란만큼 남에게도 사랑을 많이 배풀줄 알고 정이 많게 자랐습니다."
+			],
+			[
+				55,
+				"사랑",
+				"NNG",
+				"저는 부모님의 사랑을 많이 받고 자란만큼 남에게도 사랑을 많이 배풀줄 알고 정이 많게 자랐습니다."
+			],
+			[
+				56,
+				"만큼",
+				"NNB",
+				"저는 부모님의 사랑을 많이 받고 자란만큼 남에게도 사랑을 많이 배풀줄 알고 정이 많게 자랐습니다."
+			],
+			[
+				57,
+				"남",
+				"NNG",
+				"저는 부모님의 사랑을 많이 받고 자란만큼 남에게도 사랑을 많이 배풀줄 알고 정이 많게 자랐습니다."
+			],
+			[
+				58,
+				"사랑",
+				"NNG",
+				"저는 부모님의 사랑을 많이 받고 자란만큼 남에게도 사랑을 많이 배풀줄 알고 정이 많게 자랐습니다."
+			],
+			[
+				59,
+				"배푸",
+				"NNG",
+				"저는 부모님의 사랑을 많이 받고 자란만큼 남에게도 사랑을 많이 배풀줄 알고 정이 많게 자랐습니다."
+			],
+			[
+				60,
+				"줄",
+				"NNB",
+				"저는 부모님의 사랑을 많이 받고 자란만큼 남에게도 사랑을 많이 배풀줄 알고 정이 많게 자랐습니다."
+			],
+			[
+				61,
+				"정",
+				"NNG",
+				"저는 부모님의 사랑을 많이 받고 자란만큼 남에게도 사랑을 많이 배풀줄 알고 정이 많게 자랐습니다."
+			],
+			[
+				62,
+				"부모",
+				"NNG",
+				"그리고 부모님은 항상 힘든 사람이 있으면 외면하지 않고 꼭 도와줘야 한다고 알려주셨습니다."
+			],
+			[
+				63,
+				"사람",
+				"NNG",
+				"그리고 부모님은 항상 힘든 사람이 있으면 외면하지 않고 꼭 도와줘야 한다고 알려주셨습니다."
+			],
+			[
+				64,
+				"우리",
+				"NP",
+				"그래서 우리는 자기 능력 한에서 도와줄수있는 일들은 최대한 도우려고 합니다."
+			],
+			[
+				65,
+				"자기",
+				"NP",
+				"그래서 우리는 자기 능력 한에서 도와줄수있는 일들은 최대한 도우려고 합니다."
+			],
+			[
+				66,
+				"능력",
+				"NNG",
+				"그래서 우리는 자기 능력 한에서 도와줄수있는 일들은 최대한 도우려고 합니다."
+			],
+			[
+				67,
+				"한",
+				"NNG",
+				"그래서 우리는 자기 능력 한에서 도와줄수있는 일들은 최대한 도우려고 합니다."
+			],
+			[
+				68,
+				"수",
+				"NNB",
+				"그래서 우리는 자기 능력 한에서 도와줄수있는 일들은 최대한 도우려고 합니다."
+			],
+			[
+				69,
+				"일",
+				"NNG",
+				"그래서 우리는 자기 능력 한에서 도와줄수있는 일들은 최대한 도우려고 합니다."
+			],
+			[
+				70,
+				"최대한",
+				"NNG",
+				"그래서 우리는 자기 능력 한에서 도와줄수있는 일들은 최대한 도우려고 합니다."
+			]
+		],
+		"NN_Lst": [
+			[
+				0,
+				"사람",
+				"NNG",
+				"저에게 소중함을 주는 사람들은 바로 엄마, 아빠입니다."
+			],
+			[
+				1,
+				"엄마",
+				"NNG",
+				"저에게 소중함을 주는 사람들은 바로 엄마, 아빠입니다."
+			],
+			[
+				2,
+				"아빠",
+				"NNG",
+				"저에게 소중함을 주는 사람들은 바로 엄마, 아빠입니다."
+			],
+			[
+				3,
+				"엄마",
+				"NNG",
+				"저희 엄마, 아빠는 항상 저에게 사랑한다고 말씀해주십니다."
+			],
+			[
+				4,
+				"아빠",
+				"NNG",
+				"저희 엄마, 아빠는 항상 저에게 사랑한다고 말씀해주십니다."
+			],
+			[
+				5,
+				"부모",
+				"NNG",
+				"저는 이런 부모님의 사랑을 듬뿍 받고 자랐습니다."
+			],
+			[
+				6,
+				"사랑",
+				"NNG",
+				"저는 이런 부모님의 사랑을 듬뿍 받고 자랐습니다."
+			],
+			[
+				7,
+				"부모",
+				"NNG",
+				"부모님은 저에게 가족의 소중함을 알려주셨습니다."
+			],
+			[
+				8,
+				"가족",
+				"NNG",
+				"부모님은 저에게 가족의 소중함을 알려주셨습니다."
+			],
+			[
+				9,
+				"부모",
+				"NNG",
+				"부모님은 힘들때마다 저희를 보고 힘을 낸다고 그니까 너희도 힘내라고 힘들땐 본인들한테 말하라고 함께 고민해보자고 하십니다."
+			],
+			[
+				10,
+				"때",
+				"NNG",
+				"부모님은 힘들때마다 저희를 보고 힘을 낸다고 그니까 너희도 힘내라고 힘들땐 본인들한테 말하라고 함께 고민해보자고 하십니다."
+			],
+			[
+				11,
+				"힘",
+				"NNG",
+				"부모님은 힘들때마다 저희를 보고 힘을 낸다고 그니까 너희도 힘내라고 힘들땐 본인들한테 말하라고 함께 고민해보자고 하십니다."
+			],
+			[
+				12,
+				"때",
+				"NNG",
+				"부모님은 힘들때마다 저희를 보고 힘을 낸다고 그니까 너희도 힘내라고 힘들땐 본인들한테 말하라고 함께 고민해보자고 하십니다."
+			],
+			[
+				13,
+				"본인",
+				"NNG",
+				"부모님은 힘들때마다 저희를 보고 힘을 낸다고 그니까 너희도 힘내라고 힘들땐 본인들한테 말하라고 함께 고민해보자고 하십니다."
+			],
+			[
+				14,
+				"부모",
+				"NNG",
+				"저는 그런 부모님을 보고 아 가정을 꾸린다면 이렇게 꾸리고 싶다는 생각이 들었습니다."
+			],
+			[
+				15,
+				"가정",
+				"NNG",
+				"저는 그런 부모님을 보고 아 가정을 꾸린다면 이렇게 꾸리고 싶다는 생각이 들었습니다."
+			],
+			[
+				16,
+				"생각",
+				"NNG",
+				"저는 그런 부모님을 보고 아 가정을 꾸린다면 이렇게 꾸리고 싶다는 생각이 들었습니다."
+			],
+			[
+				17,
+				"때",
+				"NNG",
+				"물론 가끔 다투실때도 있지만 아빠가 금방 엄마한테 사과를 하고 잘 풀고 다시 잘 놉니다."
+			],
+			[
+				18,
+				"아빠",
+				"NNG",
+				"물론 가끔 다투실때도 있지만 아빠가 금방 엄마한테 사과를 하고 잘 풀고 다시 잘 놉니다."
+			],
+			[
+				19,
+				"엄마",
+				"NNG",
+				"물론 가끔 다투실때도 있지만 아빠가 금방 엄마한테 사과를 하고 잘 풀고 다시 잘 놉니다."
+			],
+			[
+				20,
+				"사과",
+				"NNG",
+				"물론 가끔 다투실때도 있지만 아빠가 금방 엄마한테 사과를 하고 잘 풀고 다시 잘 놉니다."
+			],
+			[
+				21,
+				"가족",
+				"NNG",
+				"저는 이런 우리 가족이 너무나도 좋고 이 가정에서 태어난게 너무도 행복하고 기쁩니다."
+			],
+			[
+				22,
+				"가정",
+				"NNG",
+				"저는 이런 우리 가족이 너무나도 좋고 이 가정에서 태어난게 너무도 행복하고 기쁩니다."
+			],
+			[
+				23,
+				"거",
+				"NNB",
+				"저는 이런 우리 가족이 너무나도 좋고 이 가정에서 태어난게 너무도 행복하고 기쁩니다."
+			],
+			[
+				24,
+				"뉴스",
+				"NNG",
+				"그래서인지 뉴스에서 가정폭력을 당하면서 자란 아이들과 가정폭력을 당해서 다친 아이들이 뉴스에 나올때면 마음이 너무 아픕니다."
+			],
+			[
+				25,
+				"가정",
+				"NNG",
+				"그래서인지 뉴스에서 가정폭력을 당하면서 자란 아이들과 가정폭력을 당해서 다친 아이들이 뉴스에 나올때면 마음이 너무 아픕니다."
+			],
+			[
+				26,
+				"폭력",
+				"NNG",
+				"그래서인지 뉴스에서 가정폭력을 당하면서 자란 아이들과 가정폭력을 당해서 다친 아이들이 뉴스에 나올때면 마음이 너무 아픕니다."
+			],
+			[
+				27,
+				"아이",
+				"NNG",
+				"그래서인지 뉴스에서 가정폭력을 당하면서 자란 아이들과 가정폭력을 당해서 다친 아이들이 뉴스에 나올때면 마음이 너무 아픕니다."
+			],
+			[
+				28,
+				"가정",
+				"NNG",
+				"그래서인지 뉴스에서 가정폭력을 당하면서 자란 아이들과 가정폭력을 당해서 다친 아이들이 뉴스에 나올때면 마음이 너무 아픕니다."
+			],
+			[
+				29,
+				"폭력",
+				"NNG",
+				"그래서인지 뉴스에서 가정폭력을 당하면서 자란 아이들과 가정폭력을 당해서 다친 아이들이 뉴스에 나올때면 마음이 너무 아픕니다."
+			],
+			[
+				30,
+				"아이",
+				"NNG",
+				"그래서인지 뉴스에서 가정폭력을 당하면서 자란 아이들과 가정폭력을 당해서 다친 아이들이 뉴스에 나올때면 마음이 너무 아픕니다."
+			],
+			[
+				31,
+				"뉴스",
+				"NNG",
+				"그래서인지 뉴스에서 가정폭력을 당하면서 자란 아이들과 가정폭력을 당해서 다친 아이들이 뉴스에 나올때면 마음이 너무 아픕니다."
+			],
+			[
+				32,
+				"나올",
+				"NNG",
+				"그래서인지 뉴스에서 가정폭력을 당하면서 자란 아이들과 가정폭력을 당해서 다친 아이들이 뉴스에 나올때면 마음이 너무 아픕니다."
+			],
+			[
+				33,
+				"때",
+				"NNG",
+				"그래서인지 뉴스에서 가정폭력을 당하면서 자란 아이들과 가정폭력을 당해서 다친 아이들이 뉴스에 나올때면 마음이 너무 아픕니다."
+			],
+			[
+				34,
+				"마음",
+				"NNG",
+				"그래서인지 뉴스에서 가정폭력을 당하면서 자란 아이들과 가정폭력을 당해서 다친 아이들이 뉴스에 나올때면 마음이 너무 아픕니다."
+			],
+			[
+				35,
+				"마음속",
+				"NNG",
+				"항상 마음속으로 기도합니다."
+			],
+			[
+				36,
+				"아이",
+				"NNG",
+				"저 아이들이 다시 태어날땐 꼭 다정하고 사랑을 듬뿍 주는 행복한 가정에서 태어나 따뜻한 집 안에서 행복하게 자리길요."
+			],
+			[
+				37,
+				"때",
+				"NNG",
+				"저 아이들이 다시 태어날땐 꼭 다정하고 사랑을 듬뿍 주는 행복한 가정에서 태어나 따뜻한 집 안에서 행복하게 자리길요."
+			],
+			[
+				38,
+				"사랑",
+				"NNG",
+				"저 아이들이 다시 태어날땐 꼭 다정하고 사랑을 듬뿍 주는 행복한 가정에서 태어나 따뜻한 집 안에서 행복하게 자리길요."
+			],
+			[
+				39,
+				"가정",
+				"NNG",
+				"저 아이들이 다시 태어날땐 꼭 다정하고 사랑을 듬뿍 주는 행복한 가정에서 태어나 따뜻한 집 안에서 행복하게 자리길요."
+			],
+			[
+				40,
+				"집",
+				"NNG",
+				"저 아이들이 다시 태어날땐 꼭 다정하고 사랑을 듬뿍 주는 행복한 가정에서 태어나 따뜻한 집 안에서 행복하게 자리길요."
+			],
+			[
+				41,
+				"안",
+				"NNG",
+				"저 아이들이 다시 태어날땐 꼭 다정하고 사랑을 듬뿍 주는 행복한 가정에서 태어나 따뜻한 집 안에서 행복하게 자리길요."
+			],
+			[
+				42,
+				"자리",
+				"NNG",
+				"저 아이들이 다시 태어날땐 꼭 다정하고 사랑을 듬뿍 주는 행복한 가정에서 태어나 따뜻한 집 안에서 행복하게 자리길요."
+			],
+			[
+				43,
+				"부모",
+				"NNG",
+				"저는 부모님의 사랑을 많이 받고 자란만큼 남에게도 사랑을 많이 배풀줄 알고 정이 많게 자랐습니다."
+			],
+			[
+				44,
+				"사랑",
+				"NNG",
+				"저는 부모님의 사랑을 많이 받고 자란만큼 남에게도 사랑을 많이 배풀줄 알고 정이 많게 자랐습니다."
+			],
+			[
+				45,
+				"만큼",
+				"NNB",
+				"저는 부모님의 사랑을 많이 받고 자란만큼 남에게도 사랑을 많이 배풀줄 알고 정이 많게 자랐습니다."
+			],
+			[
+				46,
+				"남",
+				"NNG",
+				"저는 부모님의 사랑을 많이 받고 자란만큼 남에게도 사랑을 많이 배풀줄 알고 정이 많게 자랐습니다."
+			],
+			[
+				47,
+				"사랑",
+				"NNG",
+				"저는 부모님의 사랑을 많이 받고 자란만큼 남에게도 사랑을 많이 배풀줄 알고 정이 많게 자랐습니다."
+			],
+			[
+				48,
+				"배푸",
+				"NNG",
+				"저는 부모님의 사랑을 많이 받고 자란만큼 남에게도 사랑을 많이 배풀줄 알고 정이 많게 자랐습니다."
+			],
+			[
+				49,
+				"줄",
+				"NNB",
+				"저는 부모님의 사랑을 많이 받고 자란만큼 남에게도 사랑을 많이 배풀줄 알고 정이 많게 자랐습니다."
+			],
+			[
+				50,
+				"정",
+				"NNG",
+				"저는 부모님의 사랑을 많이 받고 자란만큼 남에게도 사랑을 많이 배풀줄 알고 정이 많게 자랐습니다."
+			],
+			[
+				51,
+				"부모",
+				"NNG",
+				"그리고 부모님은 항상 힘든 사람이 있으면 외면하지 않고 꼭 도와줘야 한다고 알려주셨습니다."
+			],
+			[
+				52,
+				"사람",
+				"NNG",
+				"그리고 부모님은 항상 힘든 사람이 있으면 외면하지 않고 꼭 도와줘야 한다고 알려주셨습니다."
+			],
+			[
+				53,
+				"능력",
+				"NNG",
+				"그래서 우리는 자기 능력 한에서 도와줄수있는 일들은 최대한 도우려고 합니다."
+			],
+			[
+				54,
+				"한",
+				"NNG",
+				"그래서 우리는 자기 능력 한에서 도와줄수있는 일들은 최대한 도우려고 합니다."
+			],
+			[
+				55,
+				"수",
+				"NNB",
+				"그래서 우리는 자기 능력 한에서 도와줄수있는 일들은 최대한 도우려고 합니다."
+			],
+			[
+				56,
+				"일",
+				"NNG",
+				"그래서 우리는 자기 능력 한에서 도와줄수있는 일들은 최대한 도우려고 합니다."
+			],
+			[
+				57,
+				"최대한",
+				"NNG",
+				"그래서 우리는 자기 능력 한에서 도와줄수있는 일들은 최대한 도우려고 합니다."
+			]
+		],
+		"NNG_Lst": [
+			[
+				0,
+				"사람",
+				"NNG",
+				"저에게 소중함을 주는 사람들은 바로 엄마, 아빠입니다."
+			],
+			[
+				1,
+				"엄마",
+				"NNG",
+				"저에게 소중함을 주는 사람들은 바로 엄마, 아빠입니다."
+			],
+			[
+				2,
+				"아빠",
+				"NNG",
+				"저에게 소중함을 주는 사람들은 바로 엄마, 아빠입니다."
+			],
+			[
+				3,
+				"엄마",
+				"NNG",
+				"저희 엄마, 아빠는 항상 저에게 사랑한다고 말씀해주십니다."
+			],
+			[
+				4,
+				"아빠",
+				"NNG",
+				"저희 엄마, 아빠는 항상 저에게 사랑한다고 말씀해주십니다."
+			],
+			[
+				5,
+				"부모",
+				"NNG",
+				"저는 이런 부모님의 사랑을 듬뿍 받고 자랐습니다."
+			],
+			[
+				6,
+				"사랑",
+				"NNG",
+				"저는 이런 부모님의 사랑을 듬뿍 받고 자랐습니다."
+			],
+			[
+				7,
+				"부모",
+				"NNG",
+				"부모님은 저에게 가족의 소중함을 알려주셨습니다."
+			],
+			[
+				8,
+				"가족",
+				"NNG",
+				"부모님은 저에게 가족의 소중함을 알려주셨습니다."
+			],
+			[
+				9,
+				"부모",
+				"NNG",
+				"부모님은 힘들때마다 저희를 보고 힘을 낸다고 그니까 너희도 힘내라고 힘들땐 본인들한테 말하라고 함께 고민해보자고 하십니다."
+			],
+			[
+				10,
+				"때",
+				"NNG",
+				"부모님은 힘들때마다 저희를 보고 힘을 낸다고 그니까 너희도 힘내라고 힘들땐 본인들한테 말하라고 함께 고민해보자고 하십니다."
+			],
+			[
+				11,
+				"힘",
+				"NNG",
+				"부모님은 힘들때마다 저희를 보고 힘을 낸다고 그니까 너희도 힘내라고 힘들땐 본인들한테 말하라고 함께 고민해보자고 하십니다."
+			],
+			[
+				12,
+				"때",
+				"NNG",
+				"부모님은 힘들때마다 저희를 보고 힘을 낸다고 그니까 너희도 힘내라고 힘들땐 본인들한테 말하라고 함께 고민해보자고 하십니다."
+			],
+			[
+				13,
+				"본인",
+				"NNG",
+				"부모님은 힘들때마다 저희를 보고 힘을 낸다고 그니까 너희도 힘내라고 힘들땐 본인들한테 말하라고 함께 고민해보자고 하십니다."
+			],
+			[
+				14,
+				"부모",
+				"NNG",
+				"저는 그런 부모님을 보고 아 가정을 꾸린다면 이렇게 꾸리고 싶다는 생각이 들었습니다."
+			],
+			[
+				15,
+				"가정",
+				"NNG",
+				"저는 그런 부모님을 보고 아 가정을 꾸린다면 이렇게 꾸리고 싶다는 생각이 들었습니다."
+			],
+			[
+				16,
+				"생각",
+				"NNG",
+				"저는 그런 부모님을 보고 아 가정을 꾸린다면 이렇게 꾸리고 싶다는 생각이 들었습니다."
+			],
+			[
+				17,
+				"때",
+				"NNG",
+				"물론 가끔 다투실때도 있지만 아빠가 금방 엄마한테 사과를 하고 잘 풀고 다시 잘 놉니다."
+			],
+			[
+				18,
+				"아빠",
+				"NNG",
+				"물론 가끔 다투실때도 있지만 아빠가 금방 엄마한테 사과를 하고 잘 풀고 다시 잘 놉니다."
+			],
+			[
+				19,
+				"엄마",
+				"NNG",
+				"물론 가끔 다투실때도 있지만 아빠가 금방 엄마한테 사과를 하고 잘 풀고 다시 잘 놉니다."
+			],
+			[
+				20,
+				"사과",
+				"NNG",
+				"물론 가끔 다투실때도 있지만 아빠가 금방 엄마한테 사과를 하고 잘 풀고 다시 잘 놉니다."
+			],
+			[
+				21,
+				"가족",
+				"NNG",
+				"저는 이런 우리 가족이 너무나도 좋고 이 가정에서 태어난게 너무도 행복하고 기쁩니다."
+			],
+			[
+				22,
+				"가정",
+				"NNG",
+				"저는 이런 우리 가족이 너무나도 좋고 이 가정에서 태어난게 너무도 행복하고 기쁩니다."
+			],
+			[
+				23,
+				"뉴스",
+				"NNG",
+				"그래서인지 뉴스에서 가정폭력을 당하면서 자란 아이들과 가정폭력을 당해서 다친 아이들이 뉴스에 나올때면 마음이 너무 아픕니다."
+			],
+			[
+				24,
+				"가정",
+				"NNG",
+				"그래서인지 뉴스에서 가정폭력을 당하면서 자란 아이들과 가정폭력을 당해서 다친 아이들이 뉴스에 나올때면 마음이 너무 아픕니다."
+			],
+			[
+				25,
+				"폭력",
+				"NNG",
+				"그래서인지 뉴스에서 가정폭력을 당하면서 자란 아이들과 가정폭력을 당해서 다친 아이들이 뉴스에 나올때면 마음이 너무 아픕니다."
+			],
+			[
+				26,
+				"아이",
+				"NNG",
+				"그래서인지 뉴스에서 가정폭력을 당하면서 자란 아이들과 가정폭력을 당해서 다친 아이들이 뉴스에 나올때면 마음이 너무 아픕니다."
+			],
+			[
+				27,
+				"가정",
+				"NNG",
+				"그래서인지 뉴스에서 가정폭력을 당하면서 자란 아이들과 가정폭력을 당해서 다친 아이들이 뉴스에 나올때면 마음이 너무 아픕니다."
+			],
+			[
+				28,
+				"폭력",
+				"NNG",
+				"그래서인지 뉴스에서 가정폭력을 당하면서 자란 아이들과 가정폭력을 당해서 다친 아이들이 뉴스에 나올때면 마음이 너무 아픕니다."
+			],
+			[
+				29,
+				"아이",
+				"NNG",
+				"그래서인지 뉴스에서 가정폭력을 당하면서 자란 아이들과 가정폭력을 당해서 다친 아이들이 뉴스에 나올때면 마음이 너무 아픕니다."
+			],
+			[
+				30,
+				"뉴스",
+				"NNG",
+				"그래서인지 뉴스에서 가정폭력을 당하면서 자란 아이들과 가정폭력을 당해서 다친 아이들이 뉴스에 나올때면 마음이 너무 아픕니다."
+			],
+			[
+				31,
+				"나올",
+				"NNG",
+				"그래서인지 뉴스에서 가정폭력을 당하면서 자란 아이들과 가정폭력을 당해서 다친 아이들이 뉴스에 나올때면 마음이 너무 아픕니다."
+			],
+			[
+				32,
+				"때",
+				"NNG",
+				"그래서인지 뉴스에서 가정폭력을 당하면서 자란 아이들과 가정폭력을 당해서 다친 아이들이 뉴스에 나올때면 마음이 너무 아픕니다."
+			],
+			[
+				33,
+				"마음",
+				"NNG",
+				"그래서인지 뉴스에서 가정폭력을 당하면서 자란 아이들과 가정폭력을 당해서 다친 아이들이 뉴스에 나올때면 마음이 너무 아픕니다."
+			],
+			[
+				34,
+				"마음속",
+				"NNG",
+				"항상 마음속으로 기도합니다."
+			],
+			[
+				35,
+				"아이",
+				"NNG",
+				"저 아이들이 다시 태어날땐 꼭 다정하고 사랑을 듬뿍 주는 행복한 가정에서 태어나 따뜻한 집 안에서 행복하게 자리길요."
+			],
+			[
+				36,
+				"때",
+				"NNG",
+				"저 아이들이 다시 태어날땐 꼭 다정하고 사랑을 듬뿍 주는 행복한 가정에서 태어나 따뜻한 집 안에서 행복하게 자리길요."
+			],
+			[
+				37,
+				"사랑",
+				"NNG",
+				"저 아이들이 다시 태어날땐 꼭 다정하고 사랑을 듬뿍 주는 행복한 가정에서 태어나 따뜻한 집 안에서 행복하게 자리길요."
+			],
+			[
+				38,
+				"가정",
+				"NNG",
+				"저 아이들이 다시 태어날땐 꼭 다정하고 사랑을 듬뿍 주는 행복한 가정에서 태어나 따뜻한 집 안에서 행복하게 자리길요."
+			],
+			[
+				39,
+				"집",
+				"NNG",
+				"저 아이들이 다시 태어날땐 꼭 다정하고 사랑을 듬뿍 주는 행복한 가정에서 태어나 따뜻한 집 안에서 행복하게 자리길요."
+			],
+			[
+				40,
+				"안",
+				"NNG",
+				"저 아이들이 다시 태어날땐 꼭 다정하고 사랑을 듬뿍 주는 행복한 가정에서 태어나 따뜻한 집 안에서 행복하게 자리길요."
+			],
+			[
+				41,
+				"자리",
+				"NNG",
+				"저 아이들이 다시 태어날땐 꼭 다정하고 사랑을 듬뿍 주는 행복한 가정에서 태어나 따뜻한 집 안에서 행복하게 자리길요."
+			],
+			[
+				42,
+				"부모",
+				"NNG",
+				"저는 부모님의 사랑을 많이 받고 자란만큼 남에게도 사랑을 많이 배풀줄 알고 정이 많게 자랐습니다."
+			],
+			[
+				43,
+				"사랑",
+				"NNG",
+				"저는 부모님의 사랑을 많이 받고 자란만큼 남에게도 사랑을 많이 배풀줄 알고 정이 많게 자랐습니다."
+			],
+			[
+				44,
+				"남",
+				"NNG",
+				"저는 부모님의 사랑을 많이 받고 자란만큼 남에게도 사랑을 많이 배풀줄 알고 정이 많게 자랐습니다."
+			],
+			[
+				45,
+				"사랑",
+				"NNG",
+				"저는 부모님의 사랑을 많이 받고 자란만큼 남에게도 사랑을 많이 배풀줄 알고 정이 많게 자랐습니다."
+			],
+			[
+				46,
+				"배푸",
+				"NNG",
+				"저는 부모님의 사랑을 많이 받고 자란만큼 남에게도 사랑을 많이 배풀줄 알고 정이 많게 자랐습니다."
+			],
+			[
+				47,
+				"정",
+				"NNG",
+				"저는 부모님의 사랑을 많이 받고 자란만큼 남에게도 사랑을 많이 배풀줄 알고 정이 많게 자랐습니다."
+			],
+			[
+				48,
+				"부모",
+				"NNG",
+				"그리고 부모님은 항상 힘든 사람이 있으면 외면하지 않고 꼭 도와줘야 한다고 알려주셨습니다."
+			],
+			[
+				49,
+				"사람",
+				"NNG",
+				"그리고 부모님은 항상 힘든 사람이 있으면 외면하지 않고 꼭 도와줘야 한다고 알려주셨습니다."
+			],
+			[
+				50,
+				"능력",
+				"NNG",
+				"그래서 우리는 자기 능력 한에서 도와줄수있는 일들은 최대한 도우려고 합니다."
+			],
+			[
+				51,
+				"한",
+				"NNG",
+				"그래서 우리는 자기 능력 한에서 도와줄수있는 일들은 최대한 도우려고 합니다."
+			],
+			[
+				52,
+				"일",
+				"NNG",
+				"그래서 우리는 자기 능력 한에서 도와줄수있는 일들은 최대한 도우려고 합니다."
+			],
+			[
+				53,
+				"최대한",
+				"NNG",
+				"그래서 우리는 자기 능력 한에서 도와줄수있는 일들은 최대한 도우려고 합니다."
+			]
+		],
+		"NNP_Lst": [],
+		"NNB_Lst": [
+			[
+				0,
+				"거",
+				"NNB",
+				"저는 이런 우리 가족이 너무나도 좋고 이 가정에서 태어난게 너무도 행복하고 기쁩니다."
+			],
+			[
+				1,
+				"만큼",
+				"NNB",
+				"저는 부모님의 사랑을 많이 받고 자란만큼 남에게도 사랑을 많이 배풀줄 알고 정이 많게 자랐습니다."
+			],
+			[
+				2,
+				"줄",
+				"NNB",
+				"저는 부모님의 사랑을 많이 받고 자란만큼 남에게도 사랑을 많이 배풀줄 알고 정이 많게 자랐습니다."
+			],
+			[
+				3,
+				"수",
+				"NNB",
+				"그래서 우리는 자기 능력 한에서 도와줄수있는 일들은 최대한 도우려고 합니다."
+			]
+		],
+		"NP_Lst": [
+			[
+				0,
+				"저",
+				"NP",
+				"저에게 소중함을 주는 사람들은 바로 엄마, 아빠입니다."
+			],
+			[
+				1,
+				"저희",
+				"NP",
+				"저희 엄마, 아빠는 항상 저에게 사랑한다고 말씀해주십니다."
+			],
+			[
+				2,
+				"저",
+				"NP",
+				"저희 엄마, 아빠는 항상 저에게 사랑한다고 말씀해주십니다."
+			],
+			[
+				3,
+				"저",
+				"NP",
+				"저는 이런 부모님의 사랑을 듬뿍 받고 자랐습니다."
+			],
+			[
+				4,
+				"저",
+				"NP",
+				"부모님은 저에게 가족의 소중함을 알려주셨습니다."
+			],
+			[
+				5,
+				"저희",
+				"NP",
+				"부모님은 힘들때마다 저희를 보고 힘을 낸다고 그니까 너희도 힘내라고 힘들땐 본인들한테 말하라고 함께 고민해보자고 하십니다."
+			],
+			[
+				6,
+				"너희",
+				"NP",
+				"부모님은 힘들때마다 저희를 보고 힘을 낸다고 그니까 너희도 힘내라고 힘들땐 본인들한테 말하라고 함께 고민해보자고 하십니다."
+			],
+			[
+				7,
+				"저",
+				"NP",
+				"저는 그런 부모님을 보고 아 가정을 꾸린다면 이렇게 꾸리고 싶다는 생각이 들었습니다."
+			],
+			[
+				8,
+				"저",
+				"NP",
+				"저는 이런 우리 가족이 너무나도 좋고 이 가정에서 태어난게 너무도 행복하고 기쁩니다."
+			],
+			[
+				9,
+				"우리",
+				"NP",
+				"저는 이런 우리 가족이 너무나도 좋고 이 가정에서 태어난게 너무도 행복하고 기쁩니다."
+			],
+			[
+				10,
+				"저",
+				"NP",
+				"저는 부모님의 사랑을 많이 받고 자란만큼 남에게도 사랑을 많이 배풀줄 알고 정이 많게 자랐습니다."
+			],
+			[
+				11,
+				"우리",
+				"NP",
+				"그래서 우리는 자기 능력 한에서 도와줄수있는 일들은 최대한 도우려고 합니다."
+			],
+			[
+				12,
+				"자기",
+				"NP",
+				"그래서 우리는 자기 능력 한에서 도와줄수있는 일들은 최대한 도우려고 합니다."
+			]
+		],
+		"NP_People_Lst": [
+			[
+				0,
+				"저",
+				"NP",
+				"저에게 소중함을 주는 사람들은 바로 엄마, 아빠입니다."
+			],
+			[
+				1,
+				"저희",
+				"NP",
+				"저희 엄마, 아빠는 항상 저에게 사랑한다고 말씀해주십니다."
+			],
+			[
+				2,
+				"저",
+				"NP",
+				"저희 엄마, 아빠는 항상 저에게 사랑한다고 말씀해주십니다."
+			],
+			[
+				3,
+				"저",
+				"NP",
+				"저는 이런 부모님의 사랑을 듬뿍 받고 자랐습니다."
+			],
+			[
+				4,
+				"저",
+				"NP",
+				"부모님은 저에게 가족의 소중함을 알려주셨습니다."
+			],
+			[
+				5,
+				"저희",
+				"NP",
+				"부모님은 힘들때마다 저희를 보고 힘을 낸다고 그니까 너희도 힘내라고 힘들땐 본인들한테 말하라고 함께 고민해보자고 하십니다."
+			],
+			[
+				6,
+				"너희",
+				"NP",
+				"부모님은 힘들때마다 저희를 보고 힘을 낸다고 그니까 너희도 힘내라고 힘들땐 본인들한테 말하라고 함께 고민해보자고 하십니다."
+			],
+			[
+				7,
+				"저",
+				"NP",
+				"저는 그런 부모님을 보고 아 가정을 꾸린다면 이렇게 꾸리고 싶다는 생각이 들었습니다."
+			],
+			[
+				8,
+				"저",
+				"NP",
+				"저는 이런 우리 가족이 너무나도 좋고 이 가정에서 태어난게 너무도 행복하고 기쁩니다."
+			],
+			[
+				9,
+				"우리",
+				"NP",
+				"저는 이런 우리 가족이 너무나도 좋고 이 가정에서 태어난게 너무도 행복하고 기쁩니다."
+			],
+			[
+				10,
+				"저",
+				"NP",
+				"저는 부모님의 사랑을 많이 받고 자란만큼 남에게도 사랑을 많이 배풀줄 알고 정이 많게 자랐습니다."
+			],
+			[
+				11,
+				"우리",
+				"NP",
+				"그래서 우리는 자기 능력 한에서 도와줄수있는 일들은 최대한 도우려고 합니다."
+			],
+			[
+				12,
+				"자기",
+				"NP",
+				"그래서 우리는 자기 능력 한에서 도와줄수있는 일들은 최대한 도우려고 합니다."
+			]
+		],
+		"NP_Things_Lst": [],
+		"NR_Lst": [],
+		"VL_Lst": [
+			[
+				0,
+				"소중하",
+				"VA",
+				"저에게 소중함을 주는 사람들은 바로 엄마, 아빠입니다."
+			],
+			[
+				1,
+				"주",
+				"VV",
+				"저에게 소중함을 주는 사람들은 바로 엄마, 아빠입니다."
+			],
+			[
+				2,
+				"이",
+				"VCP",
+				"저에게 소중함을 주는 사람들은 바로 엄마, 아빠입니다."
+			],
+			[
+				3,
+				"사랑하",
+				"VV",
+				"저희 엄마, 아빠는 항상 저에게 사랑한다고 말씀해주십니다."
+			],
+			[
+				4,
+				"말씀하",
+				"VV",
+				"저희 엄마, 아빠는 항상 저에게 사랑한다고 말씀해주십니다."
+			],
+			[
+				5,
+				"주",
+				"VX",
+				"저희 엄마, 아빠는 항상 저에게 사랑한다고 말씀해주십니다."
+			],
+			[
+				6,
+				"건강하",
+				"VA",
+				"그리고 항상 건강하게 잘 커줘서 너무 고맙다고도 말해주십니다."
+			],
+			[
+				7,
+				"크",
+				"VV",
+				"그리고 항상 건강하게 잘 커줘서 너무 고맙다고도 말해주십니다."
+			],
+			[
+				8,
+				"주",
+				"VX",
+				"그리고 항상 건강하게 잘 커줘서 너무 고맙다고도 말해주십니다."
+			],
+			[
+				9,
+				"고맙",
+				"VA",
+				"그리고 항상 건강하게 잘 커줘서 너무 고맙다고도 말해주십니다."
+			],
+			[
+				10,
+				"말하",
+				"VV",
+				"그리고 항상 건강하게 잘 커줘서 너무 고맙다고도 말해주십니다."
+			],
+			[
+				11,
+				"주",
+				"VX",
+				"그리고 항상 건강하게 잘 커줘서 너무 고맙다고도 말해주십니다."
+			],
+			[
+				12,
+				"받",
+				"VV",
+				"저는 이런 부모님의 사랑을 듬뿍 받고 자랐습니다."
+			],
+			[
+				13,
+				"자라",
+				"VV",
+				"저는 이런 부모님의 사랑을 듬뿍 받고 자랐습니다."
+			],
+			[
+				14,
+				"소중하",
+				"VA",
+				"부모님은 저에게 가족의 소중함을 알려주셨습니다."
+			],
+			[
+				15,
+				"알리",
+				"VV",
+				"부모님은 저에게 가족의 소중함을 알려주셨습니다."
+			],
+			[
+				16,
+				"주",
+				"VX",
+				"부모님은 저에게 가족의 소중함을 알려주셨습니다."
+			],
+			[
+				17,
+				"힘들",
+				"VA",
+				"부모님은 힘들때마다 저희를 보고 힘을 낸다고 그니까 너희도 힘내라고 힘들땐 본인들한테 말하라고 함께 고민해보자고 하십니다."
+			],
+			[
+				18,
+				"보",
+				"VV",
+				"부모님은 힘들때마다 저희를 보고 힘을 낸다고 그니까 너희도 힘내라고 힘들땐 본인들한테 말하라고 함께 고민해보자고 하십니다."
+			],
+			[
+				19,
+				"내",
+				"VV",
+				"부모님은 힘들때마다 저희를 보고 힘을 낸다고 그니까 너희도 힘내라고 힘들땐 본인들한테 말하라고 함께 고민해보자고 하십니다."
+			],
+			[
+				20,
+				"힘내",
+				"VV",
+				"부모님은 힘들때마다 저희를 보고 힘을 낸다고 그니까 너희도 힘내라고 힘들땐 본인들한테 말하라고 함께 고민해보자고 하십니다."
+			],
+			[
+				21,
+				"힘들",
+				"VA",
+				"부모님은 힘들때마다 저희를 보고 힘을 낸다고 그니까 너희도 힘내라고 힘들땐 본인들한테 말하라고 함께 고민해보자고 하십니다."
+			],
+			[
+				22,
+				"말하",
+				"VV",
+				"부모님은 힘들때마다 저희를 보고 힘을 낸다고 그니까 너희도 힘내라고 힘들땐 본인들한테 말하라고 함께 고민해보자고 하십니다."
+			],
+			[
+				23,
+				"고민하",
+				"VV",
+				"부모님은 힘들때마다 저희를 보고 힘을 낸다고 그니까 너희도 힘내라고 힘들땐 본인들한테 말하라고 함께 고민해보자고 하십니다."
+			],
+			[
+				24,
+				"보",
+				"VX",
+				"부모님은 힘들때마다 저희를 보고 힘을 낸다고 그니까 너희도 힘내라고 힘들땐 본인들한테 말하라고 함께 고민해보자고 하십니다."
+			],
+			[
+				25,
+				"하",
+				"VV",
+				"부모님은 힘들때마다 저희를 보고 힘을 낸다고 그니까 너희도 힘내라고 힘들땐 본인들한테 말하라고 함께 고민해보자고 하십니다."
+			],
+			[
+				26,
+				"보",
+				"VV",
+				"저는 그런 부모님을 보고 아 가정을 꾸린다면 이렇게 꾸리고 싶다는 생각이 들었습니다."
+			],
+			[
+				27,
+				"꾸리",
+				"VV",
+				"저는 그런 부모님을 보고 아 가정을 꾸린다면 이렇게 꾸리고 싶다는 생각이 들었습니다."
+			],
+			[
+				28,
+				"이렇",
+				"VA",
+				"저는 그런 부모님을 보고 아 가정을 꾸린다면 이렇게 꾸리고 싶다는 생각이 들었습니다."
+			],
+			[
+				29,
+				"꾸리",
+				"VV",
+				"저는 그런 부모님을 보고 아 가정을 꾸린다면 이렇게 꾸리고 싶다는 생각이 들었습니다."
+			],
+			[
+				30,
+				"싶",
+				"VX",
+				"저는 그런 부모님을 보고 아 가정을 꾸린다면 이렇게 꾸리고 싶다는 생각이 들었습니다."
+			],
+			[
+				31,
+				"들",
+				"VV",
+				"저는 그런 부모님을 보고 아 가정을 꾸린다면 이렇게 꾸리고 싶다는 생각이 들었습니다."
+			],
+			[
+				32,
+				"다투",
+				"VV",
+				"물론 가끔 다투실때도 있지만 아빠가 금방 엄마한테 사과를 하고 잘 풀고 다시 잘 놉니다."
+			],
+			[
+				33,
+				"있",
+				"VA",
+				"물론 가끔 다투실때도 있지만 아빠가 금방 엄마한테 사과를 하고 잘 풀고 다시 잘 놉니다."
+			],
+			[
+				34,
+				"하",
+				"VV",
+				"물론 가끔 다투실때도 있지만 아빠가 금방 엄마한테 사과를 하고 잘 풀고 다시 잘 놉니다."
+			],
+			[
+				35,
+				"풀",
+				"VV",
+				"물론 가끔 다투실때도 있지만 아빠가 금방 엄마한테 사과를 하고 잘 풀고 다시 잘 놉니다."
+			],
+			[
+				36,
+				"놀",
+				"VV",
+				"물론 가끔 다투실때도 있지만 아빠가 금방 엄마한테 사과를 하고 잘 풀고 다시 잘 놉니다."
+			],
+			[
+				37,
+				"좋",
+				"VA",
+				"저는 이런 우리 가족이 너무나도 좋고 이 가정에서 태어난게 너무도 행복하고 기쁩니다."
+			],
+			[
+				38,
+				"태어나",
+				"VV",
+				"저는 이런 우리 가족이 너무나도 좋고 이 가정에서 태어난게 너무도 행복하고 기쁩니다."
+			],
+			[
+				39,
+				"행복하",
+				"VA",
+				"저는 이런 우리 가족이 너무나도 좋고 이 가정에서 태어난게 너무도 행복하고 기쁩니다."
+			],
+			[
+				40,
+				"기쁘",
+				"VA",
+				"저는 이런 우리 가족이 너무나도 좋고 이 가정에서 태어난게 너무도 행복하고 기쁩니다."
+			],
+			[
+				41,
+				"그렇",
+				"VA",
+				"그래서인지 뉴스에서 가정폭력을 당하면서 자란 아이들과 가정폭력을 당해서 다친 아이들이 뉴스에 나올때면 마음이 너무 아픕니다."
+			],
+			[
+				42,
+				"이",
+				"VCP",
+				"그래서인지 뉴스에서 가정폭력을 당하면서 자란 아이들과 가정폭력을 당해서 다친 아이들이 뉴스에 나올때면 마음이 너무 아픕니다."
+			],
+			[
+				43,
+				"당하",
+				"VV",
+				"그래서인지 뉴스에서 가정폭력을 당하면서 자란 아이들과 가정폭력을 당해서 다친 아이들이 뉴스에 나올때면 마음이 너무 아픕니다."
+			],
+			[
+				44,
+				"자라",
+				"VV",
+				"그래서인지 뉴스에서 가정폭력을 당하면서 자란 아이들과 가정폭력을 당해서 다친 아이들이 뉴스에 나올때면 마음이 너무 아픕니다."
+			],
+			[
+				45,
+				"당하",
+				"VV",
+				"그래서인지 뉴스에서 가정폭력을 당하면서 자란 아이들과 가정폭력을 당해서 다친 아이들이 뉴스에 나올때면 마음이 너무 아픕니다."
+			],
+			[
+				46,
+				"다치",
+				"VV",
+				"그래서인지 뉴스에서 가정폭력을 당하면서 자란 아이들과 가정폭력을 당해서 다친 아이들이 뉴스에 나올때면 마음이 너무 아픕니다."
+			],
+			[
+				47,
+				"아프",
+				"VA",
+				"그래서인지 뉴스에서 가정폭력을 당하면서 자란 아이들과 가정폭력을 당해서 다친 아이들이 뉴스에 나올때면 마음이 너무 아픕니다."
+			],
+			[
+				48,
+				"기도하",
+				"VV",
+				"항상 마음속으로 기도합니다."
+			],
+			[
+				49,
+				"태어나",
+				"VV",
+				"저 아이들이 다시 태어날땐 꼭 다정하고 사랑을 듬뿍 주는 행복한 가정에서 태어나 따뜻한 집 안에서 행복하게 자리길요."
+			],
+			[
+				50,
+				"다정하",
+				"VA",
+				"저 아이들이 다시 태어날땐 꼭 다정하고 사랑을 듬뿍 주는 행복한 가정에서 태어나 따뜻한 집 안에서 행복하게 자리길요."
+			],
+			[
+				51,
+				"주",
+				"VV",
+				"저 아이들이 다시 태어날땐 꼭 다정하고 사랑을 듬뿍 주는 행복한 가정에서 태어나 따뜻한 집 안에서 행복하게 자리길요."
+			],
+			[
+				52,
+				"행복하",
+				"VA",
+				"저 아이들이 다시 태어날땐 꼭 다정하고 사랑을 듬뿍 주는 행복한 가정에서 태어나 따뜻한 집 안에서 행복하게 자리길요."
+			],
+			[
+				53,
+				"태어나",
+				"VV",
+				"저 아이들이 다시 태어날땐 꼭 다정하고 사랑을 듬뿍 주는 행복한 가정에서 태어나 따뜻한 집 안에서 행복하게 자리길요."
+			],
+			[
+				54,
+				"따뜻하",
+				"VA",
+				"저 아이들이 다시 태어날땐 꼭 다정하고 사랑을 듬뿍 주는 행복한 가정에서 태어나 따뜻한 집 안에서 행복하게 자리길요."
+			],
+			[
+				55,
+				"행복하",
+				"VA",
+				"저 아이들이 다시 태어날땐 꼭 다정하고 사랑을 듬뿍 주는 행복한 가정에서 태어나 따뜻한 집 안에서 행복하게 자리길요."
+			],
+			[
+				56,
+				"이",
+				"VCP",
+				"저 아이들이 다시 태어날땐 꼭 다정하고 사랑을 듬뿍 주는 행복한 가정에서 태어나 따뜻한 집 안에서 행복하게 자리길요."
+			],
+			[
+				57,
+				"받",
+				"VV",
+				"저는 부모님의 사랑을 많이 받고 자란만큼 남에게도 사랑을 많이 배풀줄 알고 정이 많게 자랐습니다."
+			],
+			[
+				58,
+				"자라",
+				"VV",
+				"저는 부모님의 사랑을 많이 받고 자란만큼 남에게도 사랑을 많이 배풀줄 알고 정이 많게 자랐습니다."
+			],
+			[
+				59,
+				"이",
+				"VCP",
+				"저는 부모님의 사랑을 많이 받고 자란만큼 남에게도 사랑을 많이 배풀줄 알고 정이 많게 자랐습니다."
+			],
+			[
+				60,
+				"알",
+				"VV",
+				"저는 부모님의 사랑을 많이 받고 자란만큼 남에게도 사랑을 많이 배풀줄 알고 정이 많게 자랐습니다."
+			],
+			[
+				61,
+				"많",
+				"VA",
+				"저는 부모님의 사랑을 많이 받고 자란만큼 남에게도 사랑을 많이 배풀줄 알고 정이 많게 자랐습니다."
+			],
+			[
+				62,
+				"자라",
+				"VV",
+				"저는 부모님의 사랑을 많이 받고 자란만큼 남에게도 사랑을 많이 배풀줄 알고 정이 많게 자랐습니다."
+			],
+			[
+				63,
+				"힘들",
+				"VA",
+				"그리고 부모님은 항상 힘든 사람이 있으면 외면하지 않고 꼭 도와줘야 한다고 알려주셨습니다."
+			],
+			[
+				64,
+				"있",
+				"VA",
+				"그리고 부모님은 항상 힘든 사람이 있으면 외면하지 않고 꼭 도와줘야 한다고 알려주셨습니다."
+			],
+			[
+				65,
+				"외면하",
+				"VV",
+				"그리고 부모님은 항상 힘든 사람이 있으면 외면하지 않고 꼭 도와줘야 한다고 알려주셨습니다."
+			],
+			[
+				66,
+				"않",
+				"VX",
+				"그리고 부모님은 항상 힘든 사람이 있으면 외면하지 않고 꼭 도와줘야 한다고 알려주셨습니다."
+			],
+			[
+				67,
+				"도와주",
+				"VV",
+				"그리고 부모님은 항상 힘든 사람이 있으면 외면하지 않고 꼭 도와줘야 한다고 알려주셨습니다."
+			],
+			[
+				68,
+				"하",
+				"VX",
+				"그리고 부모님은 항상 힘든 사람이 있으면 외면하지 않고 꼭 도와줘야 한다고 알려주셨습니다."
+			],
+			[
+				69,
+				"알리",
+				"VV",
+				"그리고 부모님은 항상 힘든 사람이 있으면 외면하지 않고 꼭 도와줘야 한다고 알려주셨습니다."
+			],
+			[
+				70,
+				"주",
+				"VX",
+				"그리고 부모님은 항상 힘든 사람이 있으면 외면하지 않고 꼭 도와줘야 한다고 알려주셨습니다."
+			],
+			[
+				71,
+				"도와주",
+				"VV",
+				"그래서 우리는 자기 능력 한에서 도와줄수있는 일들은 최대한 도우려고 합니다."
+			],
+			[
+				72,
+				"있",
+				"VA",
+				"그래서 우리는 자기 능력 한에서 도와줄수있는 일들은 최대한 도우려고 합니다."
+			],
+			[
+				73,
+				"돕",
+				"VV",
+				"그래서 우리는 자기 능력 한에서 도와줄수있는 일들은 최대한 도우려고 합니다."
+			],
+			[
+				74,
+				"하",
+				"VX",
+				"그래서 우리는 자기 능력 한에서 도와줄수있는 일들은 최대한 도우려고 합니다."
+			]
+		],
+		"VV_Lst": [
+			[
+				0,
+				"주",
+				"VV",
+				"저에게 소중함을 주는 사람들은 바로 엄마, 아빠입니다."
+			],
+			[
+				1,
+				"사랑하",
+				"VV",
+				"저희 엄마, 아빠는 항상 저에게 사랑한다고 말씀해주십니다."
+			],
+			[
+				2,
+				"말씀하",
+				"VV",
+				"저희 엄마, 아빠는 항상 저에게 사랑한다고 말씀해주십니다."
+			],
+			[
+				3,
+				"크",
+				"VV",
+				"그리고 항상 건강하게 잘 커줘서 너무 고맙다고도 말해주십니다."
+			],
+			[
+				4,
+				"말하",
+				"VV",
+				"그리고 항상 건강하게 잘 커줘서 너무 고맙다고도 말해주십니다."
+			],
+			[
+				5,
+				"받",
+				"VV",
+				"저는 이런 부모님의 사랑을 듬뿍 받고 자랐습니다."
+			],
+			[
+				6,
+				"자라",
+				"VV",
+				"저는 이런 부모님의 사랑을 듬뿍 받고 자랐습니다."
+			],
+			[
+				7,
+				"알리",
+				"VV",
+				"부모님은 저에게 가족의 소중함을 알려주셨습니다."
+			],
+			[
+				8,
+				"보",
+				"VV",
+				"부모님은 힘들때마다 저희를 보고 힘을 낸다고 그니까 너희도 힘내라고 힘들땐 본인들한테 말하라고 함께 고민해보자고 하십니다."
+			],
+			[
+				9,
+				"내",
+				"VV",
+				"부모님은 힘들때마다 저희를 보고 힘을 낸다고 그니까 너희도 힘내라고 힘들땐 본인들한테 말하라고 함께 고민해보자고 하십니다."
+			],
+			[
+				10,
+				"힘내",
+				"VV",
+				"부모님은 힘들때마다 저희를 보고 힘을 낸다고 그니까 너희도 힘내라고 힘들땐 본인들한테 말하라고 함께 고민해보자고 하십니다."
+			],
+			[
+				11,
+				"말하",
+				"VV",
+				"부모님은 힘들때마다 저희를 보고 힘을 낸다고 그니까 너희도 힘내라고 힘들땐 본인들한테 말하라고 함께 고민해보자고 하십니다."
+			],
+			[
+				12,
+				"고민하",
+				"VV",
+				"부모님은 힘들때마다 저희를 보고 힘을 낸다고 그니까 너희도 힘내라고 힘들땐 본인들한테 말하라고 함께 고민해보자고 하십니다."
+			],
+			[
+				13,
+				"하",
+				"VV",
+				"부모님은 힘들때마다 저희를 보고 힘을 낸다고 그니까 너희도 힘내라고 힘들땐 본인들한테 말하라고 함께 고민해보자고 하십니다."
+			],
+			[
+				14,
+				"보",
+				"VV",
+				"저는 그런 부모님을 보고 아 가정을 꾸린다면 이렇게 꾸리고 싶다는 생각이 들었습니다."
+			],
+			[
+				15,
+				"꾸리",
+				"VV",
+				"저는 그런 부모님을 보고 아 가정을 꾸린다면 이렇게 꾸리고 싶다는 생각이 들었습니다."
+			],
+			[
+				16,
+				"꾸리",
+				"VV",
+				"저는 그런 부모님을 보고 아 가정을 꾸린다면 이렇게 꾸리고 싶다는 생각이 들었습니다."
+			],
+			[
+				17,
+				"들",
+				"VV",
+				"저는 그런 부모님을 보고 아 가정을 꾸린다면 이렇게 꾸리고 싶다는 생각이 들었습니다."
+			],
+			[
+				18,
+				"다투",
+				"VV",
+				"물론 가끔 다투실때도 있지만 아빠가 금방 엄마한테 사과를 하고 잘 풀고 다시 잘 놉니다."
+			],
+			[
+				19,
+				"하",
+				"VV",
+				"물론 가끔 다투실때도 있지만 아빠가 금방 엄마한테 사과를 하고 잘 풀고 다시 잘 놉니다."
+			],
+			[
+				20,
+				"풀",
+				"VV",
+				"물론 가끔 다투실때도 있지만 아빠가 금방 엄마한테 사과를 하고 잘 풀고 다시 잘 놉니다."
+			],
+			[
+				21,
+				"놀",
+				"VV",
+				"물론 가끔 다투실때도 있지만 아빠가 금방 엄마한테 사과를 하고 잘 풀고 다시 잘 놉니다."
+			],
+			[
+				22,
+				"태어나",
+				"VV",
+				"저는 이런 우리 가족이 너무나도 좋고 이 가정에서 태어난게 너무도 행복하고 기쁩니다."
+			],
+			[
+				23,
+				"당하",
+				"VV",
+				"그래서인지 뉴스에서 가정폭력을 당하면서 자란 아이들과 가정폭력을 당해서 다친 아이들이 뉴스에 나올때면 마음이 너무 아픕니다."
+			],
+			[
+				24,
+				"자라",
+				"VV",
+				"그래서인지 뉴스에서 가정폭력을 당하면서 자란 아이들과 가정폭력을 당해서 다친 아이들이 뉴스에 나올때면 마음이 너무 아픕니다."
+			],
+			[
+				25,
+				"당하",
+				"VV",
+				"그래서인지 뉴스에서 가정폭력을 당하면서 자란 아이들과 가정폭력을 당해서 다친 아이들이 뉴스에 나올때면 마음이 너무 아픕니다."
+			],
+			[
+				26,
+				"다치",
+				"VV",
+				"그래서인지 뉴스에서 가정폭력을 당하면서 자란 아이들과 가정폭력을 당해서 다친 아이들이 뉴스에 나올때면 마음이 너무 아픕니다."
+			],
+			[
+				27,
+				"기도하",
+				"VV",
+				"항상 마음속으로 기도합니다."
+			],
+			[
+				28,
+				"태어나",
+				"VV",
+				"저 아이들이 다시 태어날땐 꼭 다정하고 사랑을 듬뿍 주는 행복한 가정에서 태어나 따뜻한 집 안에서 행복하게 자리길요."
+			],
+			[
+				29,
+				"주",
+				"VV",
+				"저 아이들이 다시 태어날땐 꼭 다정하고 사랑을 듬뿍 주는 행복한 가정에서 태어나 따뜻한 집 안에서 행복하게 자리길요."
+			],
+			[
+				30,
+				"태어나",
+				"VV",
+				"저 아이들이 다시 태어날땐 꼭 다정하고 사랑을 듬뿍 주는 행복한 가정에서 태어나 따뜻한 집 안에서 행복하게 자리길요."
+			],
+			[
+				31,
+				"받",
+				"VV",
+				"저는 부모님의 사랑을 많이 받고 자란만큼 남에게도 사랑을 많이 배풀줄 알고 정이 많게 자랐습니다."
+			],
+			[
+				32,
+				"자라",
+				"VV",
+				"저는 부모님의 사랑을 많이 받고 자란만큼 남에게도 사랑을 많이 배풀줄 알고 정이 많게 자랐습니다."
+			],
+			[
+				33,
+				"알",
+				"VV",
+				"저는 부모님의 사랑을 많이 받고 자란만큼 남에게도 사랑을 많이 배풀줄 알고 정이 많게 자랐습니다."
+			],
+			[
+				34,
+				"자라",
+				"VV",
+				"저는 부모님의 사랑을 많이 받고 자란만큼 남에게도 사랑을 많이 배풀줄 알고 정이 많게 자랐습니다."
+			],
+			[
+				35,
+				"외면하",
+				"VV",
+				"그리고 부모님은 항상 힘든 사람이 있으면 외면하지 않고 꼭 도와줘야 한다고 알려주셨습니다."
+			],
+			[
+				36,
+				"도와주",
+				"VV",
+				"그리고 부모님은 항상 힘든 사람이 있으면 외면하지 않고 꼭 도와줘야 한다고 알려주셨습니다."
+			],
+			[
+				37,
+				"알리",
+				"VV",
+				"그리고 부모님은 항상 힘든 사람이 있으면 외면하지 않고 꼭 도와줘야 한다고 알려주셨습니다."
+			],
+			[
+				38,
+				"도와주",
+				"VV",
+				"그래서 우리는 자기 능력 한에서 도와줄수있는 일들은 최대한 도우려고 합니다."
+			],
+			[
+				39,
+				"돕",
+				"VV",
+				"그래서 우리는 자기 능력 한에서 도와줄수있는 일들은 최대한 도우려고 합니다."
+			]
+		],
+		"VA_Lst": [
+			[
+				0,
+				"소중하",
+				"VA",
+				"저에게 소중함을 주는 사람들은 바로 엄마, 아빠입니다."
+			],
+			[
+				1,
+				"건강하",
+				"VA",
+				"그리고 항상 건강하게 잘 커줘서 너무 고맙다고도 말해주십니다."
+			],
+			[
+				2,
+				"고맙",
+				"VA",
+				"그리고 항상 건강하게 잘 커줘서 너무 고맙다고도 말해주십니다."
+			],
+			[
+				3,
+				"소중하",
+				"VA",
+				"부모님은 저에게 가족의 소중함을 알려주셨습니다."
+			],
+			[
+				4,
+				"힘들",
+				"VA",
+				"부모님은 힘들때마다 저희를 보고 힘을 낸다고 그니까 너희도 힘내라고 힘들땐 본인들한테 말하라고 함께 고민해보자고 하십니다."
+			],
+			[
+				5,
+				"힘들",
+				"VA",
+				"부모님은 힘들때마다 저희를 보고 힘을 낸다고 그니까 너희도 힘내라고 힘들땐 본인들한테 말하라고 함께 고민해보자고 하십니다."
+			],
+			[
+				6,
+				"이렇",
+				"VA",
+				"저는 그런 부모님을 보고 아 가정을 꾸린다면 이렇게 꾸리고 싶다는 생각이 들었습니다."
+			],
+			[
+				7,
+				"있",
+				"VA",
+				"물론 가끔 다투실때도 있지만 아빠가 금방 엄마한테 사과를 하고 잘 풀고 다시 잘 놉니다."
+			],
+			[
+				8,
+				"좋",
+				"VA",
+				"저는 이런 우리 가족이 너무나도 좋고 이 가정에서 태어난게 너무도 행복하고 기쁩니다."
+			],
+			[
+				9,
+				"행복하",
+				"VA",
+				"저는 이런 우리 가족이 너무나도 좋고 이 가정에서 태어난게 너무도 행복하고 기쁩니다."
+			],
+			[
+				10,
+				"기쁘",
+				"VA",
+				"저는 이런 우리 가족이 너무나도 좋고 이 가정에서 태어난게 너무도 행복하고 기쁩니다."
+			],
+			[
+				11,
+				"그렇",
+				"VA",
+				"그래서인지 뉴스에서 가정폭력을 당하면서 자란 아이들과 가정폭력을 당해서 다친 아이들이 뉴스에 나올때면 마음이 너무 아픕니다."
+			],
+			[
+				12,
+				"아프",
+				"VA",
+				"그래서인지 뉴스에서 가정폭력을 당하면서 자란 아이들과 가정폭력을 당해서 다친 아이들이 뉴스에 나올때면 마음이 너무 아픕니다."
+			],
+			[
+				13,
+				"다정하",
+				"VA",
+				"저 아이들이 다시 태어날땐 꼭 다정하고 사랑을 듬뿍 주는 행복한 가정에서 태어나 따뜻한 집 안에서 행복하게 자리길요."
+			],
+			[
+				14,
+				"행복하",
+				"VA",
+				"저 아이들이 다시 태어날땐 꼭 다정하고 사랑을 듬뿍 주는 행복한 가정에서 태어나 따뜻한 집 안에서 행복하게 자리길요."
+			],
+			[
+				15,
+				"따뜻하",
+				"VA",
+				"저 아이들이 다시 태어날땐 꼭 다정하고 사랑을 듬뿍 주는 행복한 가정에서 태어나 따뜻한 집 안에서 행복하게 자리길요."
+			],
+			[
+				16,
+				"행복하",
+				"VA",
+				"저 아이들이 다시 태어날땐 꼭 다정하고 사랑을 듬뿍 주는 행복한 가정에서 태어나 따뜻한 집 안에서 행복하게 자리길요."
+			],
+			[
+				17,
+				"많",
+				"VA",
+				"저는 부모님의 사랑을 많이 받고 자란만큼 남에게도 사랑을 많이 배풀줄 알고 정이 많게 자랐습니다."
+			],
+			[
+				18,
+				"힘들",
+				"VA",
+				"그리고 부모님은 항상 힘든 사람이 있으면 외면하지 않고 꼭 도와줘야 한다고 알려주셨습니다."
+			],
+			[
+				19,
+				"있",
+				"VA",
+				"그리고 부모님은 항상 힘든 사람이 있으면 외면하지 않고 꼭 도와줘야 한다고 알려주셨습니다."
+			],
+			[
+				20,
+				"있",
+				"VA",
+				"그래서 우리는 자기 능력 한에서 도와줄수있는 일들은 최대한 도우려고 합니다."
+			]
+		],
+		"VX_Lst": [
+			[
+				0,
+				"주",
+				"VX",
+				"저희 엄마, 아빠는 항상 저에게 사랑한다고 말씀해주십니다."
+			],
+			[
+				1,
+				"주",
+				"VX",
+				"그리고 항상 건강하게 잘 커줘서 너무 고맙다고도 말해주십니다."
+			],
+			[
+				2,
+				"주",
+				"VX",
+				"그리고 항상 건강하게 잘 커줘서 너무 고맙다고도 말해주십니다."
+			],
+			[
+				3,
+				"주",
+				"VX",
+				"부모님은 저에게 가족의 소중함을 알려주셨습니다."
+			],
+			[
+				4,
+				"보",
+				"VX",
+				"부모님은 힘들때마다 저희를 보고 힘을 낸다고 그니까 너희도 힘내라고 힘들땐 본인들한테 말하라고 함께 고민해보자고 하십니다."
+			],
+			[
+				5,
+				"싶",
+				"VX",
+				"저는 그런 부모님을 보고 아 가정을 꾸린다면 이렇게 꾸리고 싶다는 생각이 들었습니다."
+			],
+			[
+				6,
+				"않",
+				"VX",
+				"그리고 부모님은 항상 힘든 사람이 있으면 외면하지 않고 꼭 도와줘야 한다고 알려주셨습니다."
+			],
+			[
+				7,
+				"하",
+				"VX",
+				"그리고 부모님은 항상 힘든 사람이 있으면 외면하지 않고 꼭 도와줘야 한다고 알려주셨습니다."
+			],
+			[
+				8,
+				"주",
+				"VX",
+				"그리고 부모님은 항상 힘든 사람이 있으면 외면하지 않고 꼭 도와줘야 한다고 알려주셨습니다."
+			],
+			[
+				9,
+				"하",
+				"VX",
+				"그래서 우리는 자기 능력 한에서 도와줄수있는 일들은 최대한 도우려고 합니다."
+			]
+		],
+		"VCP_Lst": [
+			[
+				0,
+				"이",
+				"VCP",
+				"저에게 소중함을 주는 사람들은 바로 엄마, 아빠입니다."
+			],
+			[
+				1,
+				"이",
+				"VCP",
+				"그래서인지 뉴스에서 가정폭력을 당하면서 자란 아이들과 가정폭력을 당해서 다친 아이들이 뉴스에 나올때면 마음이 너무 아픕니다."
+			],
+			[
+				2,
+				"이",
+				"VCP",
+				"저 아이들이 다시 태어날땐 꼭 다정하고 사랑을 듬뿍 주는 행복한 가정에서 태어나 따뜻한 집 안에서 행복하게 자리길요."
+			],
+			[
+				3,
+				"이",
+				"VCP",
+				"저는 부모님의 사랑을 많이 받고 자란만큼 남에게도 사랑을 많이 배풀줄 알고 정이 많게 자랐습니다."
+			]
+		],
+		"VCN_Lst": [],
+		"ML_Lst": [
+			[
+				0,
+				"바로",
+				"MAG",
+				"저에게 소중함을 주는 사람들은 바로 엄마, 아빠입니다."
+			],
+			[
+				1,
+				"항상",
+				"MAG",
+				"저희 엄마, 아빠는 항상 저에게 사랑한다고 말씀해주십니다."
+			],
+			[
+				2,
+				"그리고",
+				"MAJ",
+				"그리고 항상 건강하게 잘 커줘서 너무 고맙다고도 말해주십니다."
+			],
+			[
+				3,
+				"항상",
+				"MAG",
+				"그리고 항상 건강하게 잘 커줘서 너무 고맙다고도 말해주십니다."
+			],
+			[
+				4,
+				"잘",
+				"MAG",
+				"그리고 항상 건강하게 잘 커줘서 너무 고맙다고도 말해주십니다."
+			],
+			[
+				5,
+				"너무",
+				"MAG",
+				"그리고 항상 건강하게 잘 커줘서 너무 고맙다고도 말해주십니다."
+			],
+			[
+				6,
+				"듬뿍",
+				"MAG",
+				"저는 이런 부모님의 사랑을 듬뿍 받고 자랐습니다."
+			],
+			[
+				7,
+				"그니까",
+				"MAJ",
+				"부모님은 힘들때마다 저희를 보고 힘을 낸다고 그니까 너희도 힘내라고 힘들땐 본인들한테 말하라고 함께 고민해보자고 하십니다."
+			],
+			[
+				8,
+				"함께",
+				"MAG",
+				"부모님은 힘들때마다 저희를 보고 힘을 낸다고 그니까 너희도 힘내라고 힘들땐 본인들한테 말하라고 함께 고민해보자고 하십니다."
+			],
+			[
+				9,
+				"물론",
+				"MAG",
+				"물론 가끔 다투실때도 있지만 아빠가 금방 엄마한테 사과를 하고 잘 풀고 다시 잘 놉니다."
+			],
+			[
+				10,
+				"가끔",
+				"MAG",
+				"물론 가끔 다투실때도 있지만 아빠가 금방 엄마한테 사과를 하고 잘 풀고 다시 잘 놉니다."
+			],
+			[
+				11,
+				"금방",
+				"MAG",
+				"물론 가끔 다투실때도 있지만 아빠가 금방 엄마한테 사과를 하고 잘 풀고 다시 잘 놉니다."
+			],
+			[
+				12,
+				"잘",
+				"MAG",
+				"물론 가끔 다투실때도 있지만 아빠가 금방 엄마한테 사과를 하고 잘 풀고 다시 잘 놉니다."
+			],
+			[
+				13,
+				"다시",
+				"MAG",
+				"물론 가끔 다투실때도 있지만 아빠가 금방 엄마한테 사과를 하고 잘 풀고 다시 잘 놉니다."
+			],
+			[
+				14,
+				"잘",
+				"MAG",
+				"물론 가끔 다투실때도 있지만 아빠가 금방 엄마한테 사과를 하고 잘 풀고 다시 잘 놉니다."
+			],
+			[
+				15,
+				"너무나",
+				"MAG",
+				"저는 이런 우리 가족이 너무나도 좋고 이 가정에서 태어난게 너무도 행복하고 기쁩니다."
+			],
+			[
+				16,
+				"너무",
+				"MAG",
+				"저는 이런 우리 가족이 너무나도 좋고 이 가정에서 태어난게 너무도 행복하고 기쁩니다."
+			],
+			[
+				17,
+				"너무",
+				"MAG",
+				"그래서인지 뉴스에서 가정폭력을 당하면서 자란 아이들과 가정폭력을 당해서 다친 아이들이 뉴스에 나올때면 마음이 너무 아픕니다."
+			],
+			[
+				18,
+				"항상",
+				"MAG",
+				"항상 마음속으로 기도합니다."
+			],
+			[
+				19,
+				"다시",
+				"MAG",
+				"저 아이들이 다시 태어날땐 꼭 다정하고 사랑을 듬뿍 주는 행복한 가정에서 태어나 따뜻한 집 안에서 행복하게 자리길요."
+			],
+			[
+				20,
+				"꼭",
+				"MAG",
+				"저 아이들이 다시 태어날땐 꼭 다정하고 사랑을 듬뿍 주는 행복한 가정에서 태어나 따뜻한 집 안에서 행복하게 자리길요."
+			],
+			[
+				21,
+				"듬뿍",
+				"MAG",
+				"저 아이들이 다시 태어날땐 꼭 다정하고 사랑을 듬뿍 주는 행복한 가정에서 태어나 따뜻한 집 안에서 행복하게 자리길요."
+			],
+			[
+				22,
+				"많이",
+				"MAG",
+				"저는 부모님의 사랑을 많이 받고 자란만큼 남에게도 사랑을 많이 배풀줄 알고 정이 많게 자랐습니다."
+			],
+			[
+				23,
+				"많이",
+				"MAG",
+				"저는 부모님의 사랑을 많이 받고 자란만큼 남에게도 사랑을 많이 배풀줄 알고 정이 많게 자랐습니다."
+			],
+			[
+				24,
+				"그리고",
+				"MAJ",
+				"그리고 부모님은 항상 힘든 사람이 있으면 외면하지 않고 꼭 도와줘야 한다고 알려주셨습니다."
+			],
+			[
+				25,
+				"항상",
+				"MAG",
+				"그리고 부모님은 항상 힘든 사람이 있으면 외면하지 않고 꼭 도와줘야 한다고 알려주셨습니다."
+			],
+			[
+				26,
+				"꼭",
+				"MAG",
+				"그리고 부모님은 항상 힘든 사람이 있으면 외면하지 않고 꼭 도와줘야 한다고 알려주셨습니다."
+			],
+			[
+				27,
+				"그래서",
+				"MAJ",
+				"그래서 우리는 자기 능력 한에서 도와줄수있는 일들은 최대한 도우려고 합니다."
+			]
+		],
+		"MA_Lst": [],
+		"MM_Lst": [],
+		"J_Lst": [
+			[
+				0,
+				"에게",
+				"JKB",
+				"저에게 소중함을 주는 사람들은 바로 엄마, 아빠입니다."
+			],
+			[
+				1,
+				"을",
+				"JKO",
+				"저에게 소중함을 주는 사람들은 바로 엄마, 아빠입니다."
+			],
+			[
+				2,
+				"은",
+				"JX",
+				"저에게 소중함을 주는 사람들은 바로 엄마, 아빠입니다."
+			],
+			[
+				3,
+				"는",
+				"JX",
+				"저희 엄마, 아빠는 항상 저에게 사랑한다고 말씀해주십니다."
+			],
+			[
+				4,
+				"에게",
+				"JKB",
+				"저희 엄마, 아빠는 항상 저에게 사랑한다고 말씀해주십니다."
+			],
+			[
+				5,
+				"도",
+				"JX",
+				"그리고 항상 건강하게 잘 커줘서 너무 고맙다고도 말해주십니다."
+			],
+			[
+				6,
+				"는",
+				"JX",
+				"저는 이런 부모님의 사랑을 듬뿍 받고 자랐습니다."
+			],
+			[
+				7,
+				"의",
+				"JKG",
+				"저는 이런 부모님의 사랑을 듬뿍 받고 자랐습니다."
+			],
+			[
+				8,
+				"을",
+				"JKO",
+				"저는 이런 부모님의 사랑을 듬뿍 받고 자랐습니다."
+			],
+			[
+				9,
+				"은",
+				"JX",
+				"부모님은 저에게 가족의 소중함을 알려주셨습니다."
+			],
+			[
+				10,
+				"에게",
+				"JKB",
+				"부모님은 저에게 가족의 소중함을 알려주셨습니다."
+			],
+			[
+				11,
+				"의",
+				"JKG",
+				"부모님은 저에게 가족의 소중함을 알려주셨습니다."
+			],
+			[
+				12,
+				"을",
+				"JKO",
+				"부모님은 저에게 가족의 소중함을 알려주셨습니다."
+			],
+			[
+				13,
+				"은",
+				"JX",
+				"부모님은 힘들때마다 저희를 보고 힘을 낸다고 그니까 너희도 힘내라고 힘들땐 본인들한테 말하라고 함께 고민해보자고 하십니다."
+			],
+			[
+				14,
+				"마다",
+				"JX",
+				"부모님은 힘들때마다 저희를 보고 힘을 낸다고 그니까 너희도 힘내라고 힘들땐 본인들한테 말하라고 함께 고민해보자고 하십니다."
+			],
+			[
+				15,
+				"를",
+				"JKO",
+				"부모님은 힘들때마다 저희를 보고 힘을 낸다고 그니까 너희도 힘내라고 힘들땐 본인들한테 말하라고 함께 고민해보자고 하십니다."
+			],
+			[
+				16,
+				"을",
+				"JKO",
+				"부모님은 힘들때마다 저희를 보고 힘을 낸다고 그니까 너희도 힘내라고 힘들땐 본인들한테 말하라고 함께 고민해보자고 하십니다."
+			],
+			[
+				17,
+				"도",
+				"JX",
+				"부모님은 힘들때마다 저희를 보고 힘을 낸다고 그니까 너희도 힘내라고 힘들땐 본인들한테 말하라고 함께 고민해보자고 하십니다."
+			],
+			[
+				18,
+				"ㄴ",
+				"JX",
+				"부모님은 힘들때마다 저희를 보고 힘을 낸다고 그니까 너희도 힘내라고 힘들땐 본인들한테 말하라고 함께 고민해보자고 하십니다."
+			],
+			[
+				19,
+				"한테",
+				"JKB",
+				"부모님은 힘들때마다 저희를 보고 힘을 낸다고 그니까 너희도 힘내라고 힘들땐 본인들한테 말하라고 함께 고민해보자고 하십니다."
+			],
+			[
+				20,
+				"는",
+				"JX",
+				"저는 그런 부모님을 보고 아 가정을 꾸린다면 이렇게 꾸리고 싶다는 생각이 들었습니다."
+			],
+			[
+				21,
+				"을",
+				"JKO",
+				"저는 그런 부모님을 보고 아 가정을 꾸린다면 이렇게 꾸리고 싶다는 생각이 들었습니다."
+			],
+			[
+				22,
+				"을",
+				"JKO",
+				"저는 그런 부모님을 보고 아 가정을 꾸린다면 이렇게 꾸리고 싶다는 생각이 들었습니다."
+			],
+			[
+				23,
+				"이",
+				"JKS",
+				"저는 그런 부모님을 보고 아 가정을 꾸린다면 이렇게 꾸리고 싶다는 생각이 들었습니다."
+			],
+			[
+				24,
+				"도",
+				"JX",
+				"물론 가끔 다투실때도 있지만 아빠가 금방 엄마한테 사과를 하고 잘 풀고 다시 잘 놉니다."
+			],
+			[
+				25,
+				"가",
+				"JKS",
+				"물론 가끔 다투실때도 있지만 아빠가 금방 엄마한테 사과를 하고 잘 풀고 다시 잘 놉니다."
+			],
+			[
+				26,
+				"한테",
+				"JKB",
+				"물론 가끔 다투실때도 있지만 아빠가 금방 엄마한테 사과를 하고 잘 풀고 다시 잘 놉니다."
+			],
+			[
+				27,
+				"를",
+				"JKO",
+				"물론 가끔 다투실때도 있지만 아빠가 금방 엄마한테 사과를 하고 잘 풀고 다시 잘 놉니다."
+			],
+			[
+				28,
+				"는",
+				"JX",
+				"저는 이런 우리 가족이 너무나도 좋고 이 가정에서 태어난게 너무도 행복하고 기쁩니다."
+			],
+			[
+				29,
+				"이",
+				"JKS",
+				"저는 이런 우리 가족이 너무나도 좋고 이 가정에서 태어난게 너무도 행복하고 기쁩니다."
+			],
+			[
+				30,
+				"도",
+				"JX",
+				"저는 이런 우리 가족이 너무나도 좋고 이 가정에서 태어난게 너무도 행복하고 기쁩니다."
+			],
+			[
+				31,
+				"에서",
+				"JKB",
+				"저는 이런 우리 가족이 너무나도 좋고 이 가정에서 태어난게 너무도 행복하고 기쁩니다."
+			],
+			[
+				32,
+				"이",
+				"JKS",
+				"저는 이런 우리 가족이 너무나도 좋고 이 가정에서 태어난게 너무도 행복하고 기쁩니다."
+			],
+			[
+				33,
+				"도",
+				"JX",
+				"저는 이런 우리 가족이 너무나도 좋고 이 가정에서 태어난게 너무도 행복하고 기쁩니다."
+			],
+			[
+				34,
+				"에서",
+				"JKB",
+				"그래서인지 뉴스에서 가정폭력을 당하면서 자란 아이들과 가정폭력을 당해서 다친 아이들이 뉴스에 나올때면 마음이 너무 아픕니다."
+			],
+			[
+				35,
+				"을",
+				"JKO",
+				"그래서인지 뉴스에서 가정폭력을 당하면서 자란 아이들과 가정폭력을 당해서 다친 아이들이 뉴스에 나올때면 마음이 너무 아픕니다."
+			],
+			[
+				36,
+				"과",
+				"JC",
+				"그래서인지 뉴스에서 가정폭력을 당하면서 자란 아이들과 가정폭력을 당해서 다친 아이들이 뉴스에 나올때면 마음이 너무 아픕니다."
+			],
+			[
+				37,
+				"을",
+				"JKO",
+				"그래서인지 뉴스에서 가정폭력을 당하면서 자란 아이들과 가정폭력을 당해서 다친 아이들이 뉴스에 나올때면 마음이 너무 아픕니다."
+			],
+			[
+				38,
+				"이",
+				"JKS",
+				"그래서인지 뉴스에서 가정폭력을 당하면서 자란 아이들과 가정폭력을 당해서 다친 아이들이 뉴스에 나올때면 마음이 너무 아픕니다."
+			],
+			[
+				39,
+				"에",
+				"JKB",
+				"그래서인지 뉴스에서 가정폭력을 당하면서 자란 아이들과 가정폭력을 당해서 다친 아이들이 뉴스에 나올때면 마음이 너무 아픕니다."
+			],
+			[
+				40,
+				"이",
+				"JKS",
+				"그래서인지 뉴스에서 가정폭력을 당하면서 자란 아이들과 가정폭력을 당해서 다친 아이들이 뉴스에 나올때면 마음이 너무 아픕니다."
+			],
+			[
+				41,
+				"으로",
+				"JKB",
+				"항상 마음속으로 기도합니다."
+			],
+			[
+				42,
+				"이",
+				"JKS",
+				"저 아이들이 다시 태어날땐 꼭 다정하고 사랑을 듬뿍 주는 행복한 가정에서 태어나 따뜻한 집 안에서 행복하게 자리길요."
+			],
+			[
+				43,
+				"ㄴ",
+				"JX",
+				"저 아이들이 다시 태어날땐 꼭 다정하고 사랑을 듬뿍 주는 행복한 가정에서 태어나 따뜻한 집 안에서 행복하게 자리길요."
+			],
+			[
+				44,
+				"을",
+				"JKO",
+				"저 아이들이 다시 태어날땐 꼭 다정하고 사랑을 듬뿍 주는 행복한 가정에서 태어나 따뜻한 집 안에서 행복하게 자리길요."
+			],
+			[
+				45,
+				"에서",
+				"JKB",
+				"저 아이들이 다시 태어날땐 꼭 다정하고 사랑을 듬뿍 주는 행복한 가정에서 태어나 따뜻한 집 안에서 행복하게 자리길요."
+			],
+			[
+				46,
+				"에서",
+				"JKB",
+				"저 아이들이 다시 태어날땐 꼭 다정하고 사랑을 듬뿍 주는 행복한 가정에서 태어나 따뜻한 집 안에서 행복하게 자리길요."
+			],
+			[
+				47,
+				"ㄹ",
+				"JKO",
+				"저 아이들이 다시 태어날땐 꼭 다정하고 사랑을 듬뿍 주는 행복한 가정에서 태어나 따뜻한 집 안에서 행복하게 자리길요."
+			],
+			[
+				48,
+				"요",
+				"JX",
+				"저 아이들이 다시 태어날땐 꼭 다정하고 사랑을 듬뿍 주는 행복한 가정에서 태어나 따뜻한 집 안에서 행복하게 자리길요."
+			],
+			[
+				49,
+				"는",
+				"JX",
+				"저는 부모님의 사랑을 많이 받고 자란만큼 남에게도 사랑을 많이 배풀줄 알고 정이 많게 자랐습니다."
+			],
+			[
+				50,
+				"의",
+				"JKG",
+				"저는 부모님의 사랑을 많이 받고 자란만큼 남에게도 사랑을 많이 배풀줄 알고 정이 많게 자랐습니다."
+			],
+			[
+				51,
+				"을",
+				"JKO",
+				"저는 부모님의 사랑을 많이 받고 자란만큼 남에게도 사랑을 많이 배풀줄 알고 정이 많게 자랐습니다."
+			],
+			[
+				52,
+				"에게",
+				"JKB",
+				"저는 부모님의 사랑을 많이 받고 자란만큼 남에게도 사랑을 많이 배풀줄 알고 정이 많게 자랐습니다."
+			],
+			[
+				53,
+				"도",
+				"JX",
+				"저는 부모님의 사랑을 많이 받고 자란만큼 남에게도 사랑을 많이 배풀줄 알고 정이 많게 자랐습니다."
+			],
+			[
+				54,
+				"을",
+				"JKO",
+				"저는 부모님의 사랑을 많이 받고 자란만큼 남에게도 사랑을 많이 배풀줄 알고 정이 많게 자랐습니다."
+			],
+			[
+				55,
+				"이",
+				"JKS",
+				"저는 부모님의 사랑을 많이 받고 자란만큼 남에게도 사랑을 많이 배풀줄 알고 정이 많게 자랐습니다."
+			],
+			[
+				56,
+				"은",
+				"JX",
+				"그리고 부모님은 항상 힘든 사람이 있으면 외면하지 않고 꼭 도와줘야 한다고 알려주셨습니다."
+			],
+			[
+				57,
+				"이",
+				"JKS",
+				"그리고 부모님은 항상 힘든 사람이 있으면 외면하지 않고 꼭 도와줘야 한다고 알려주셨습니다."
+			],
+			[
+				58,
+				"는",
+				"JX",
+				"그래서 우리는 자기 능력 한에서 도와줄수있는 일들은 최대한 도우려고 합니다."
+			],
+			[
+				59,
+				"에서",
+				"JKB",
+				"그래서 우리는 자기 능력 한에서 도와줄수있는 일들은 최대한 도우려고 합니다."
+			],
+			[
+				60,
+				"은",
+				"JX",
+				"그래서 우리는 자기 능력 한에서 도와줄수있는 일들은 최대한 도우려고 합니다."
+			]
+		],
+		"E_Lst": [
+			[
+				0,
+				"ㅁ",
+				"ETN",
+				"저에게 소중함을 주는 사람들은 바로 엄마, 아빠입니다."
+			],
+			[
+				1,
+				"는",
+				"ETM",
+				"저에게 소중함을 주는 사람들은 바로 엄마, 아빠입니다."
+			],
+			[
+				2,
+				"ㅂ니다",
+				"EF",
+				"저에게 소중함을 주는 사람들은 바로 엄마, 아빠입니다."
+			],
+			[
+				3,
+				"ㄴ다고",
+				"EC",
+				"저희 엄마, 아빠는 항상 저에게 사랑한다고 말씀해주십니다."
+			],
+			[
+				4,
+				"아",
+				"EC",
+				"저희 엄마, 아빠는 항상 저에게 사랑한다고 말씀해주십니다."
+			],
+			[
+				5,
+				"시",
+				"EP",
+				"저희 엄마, 아빠는 항상 저에게 사랑한다고 말씀해주십니다."
+			],
+			[
+				6,
+				"ㅂ니다",
+				"EF",
+				"저희 엄마, 아빠는 항상 저에게 사랑한다고 말씀해주십니다."
+			],
+			[
+				7,
+				"게",
+				"EC",
+				"그리고 항상 건강하게 잘 커줘서 너무 고맙다고도 말해주십니다."
+			],
+			[
+				8,
+				"어",
+				"EC",
+				"그리고 항상 건강하게 잘 커줘서 너무 고맙다고도 말해주십니다."
+			],
+			[
+				9,
+				"어서",
+				"EC",
+				"그리고 항상 건강하게 잘 커줘서 너무 고맙다고도 말해주십니다."
+			],
+			[
+				10,
+				"다고",
+				"EC",
+				"그리고 항상 건강하게 잘 커줘서 너무 고맙다고도 말해주십니다."
+			],
+			[
+				11,
+				"아",
+				"EC",
+				"그리고 항상 건강하게 잘 커줘서 너무 고맙다고도 말해주십니다."
+			],
+			[
+				12,
+				"시",
+				"EP",
+				"그리고 항상 건강하게 잘 커줘서 너무 고맙다고도 말해주십니다."
+			],
+			[
+				13,
+				"ㅂ니다",
+				"EF",
+				"그리고 항상 건강하게 잘 커줘서 너무 고맙다고도 말해주십니다."
+			],
+			[
+				14,
+				"고",
+				"EC",
+				"저는 이런 부모님의 사랑을 듬뿍 받고 자랐습니다."
+			],
+			[
+				15,
+				"았",
+				"EP",
+				"저는 이런 부모님의 사랑을 듬뿍 받고 자랐습니다."
+			],
+			[
+				16,
+				"습니다",
+				"EF",
+				"저는 이런 부모님의 사랑을 듬뿍 받고 자랐습니다."
+			],
+			[
+				17,
+				"ㅁ",
+				"ETN",
+				"부모님은 저에게 가족의 소중함을 알려주셨습니다."
+			],
+			[
+				18,
+				"어",
+				"EC",
+				"부모님은 저에게 가족의 소중함을 알려주셨습니다."
+			],
+			[
+				19,
+				"시",
+				"EP",
+				"부모님은 저에게 가족의 소중함을 알려주셨습니다."
+			],
+			[
+				20,
+				"었",
+				"EP",
+				"부모님은 저에게 가족의 소중함을 알려주셨습니다."
+			],
+			[
+				21,
+				"습니다",
+				"EF",
+				"부모님은 저에게 가족의 소중함을 알려주셨습니다."
+			],
+			[
+				22,
+				"ㄹ",
+				"ETM",
+				"부모님은 힘들때마다 저희를 보고 힘을 낸다고 그니까 너희도 힘내라고 힘들땐 본인들한테 말하라고 함께 고민해보자고 하십니다."
+			],
+			[
+				23,
+				"고",
+				"EC",
+				"부모님은 힘들때마다 저희를 보고 힘을 낸다고 그니까 너희도 힘내라고 힘들땐 본인들한테 말하라고 함께 고민해보자고 하십니다."
+			],
+			[
+				24,
+				"ㄴ다고",
+				"EC",
+				"부모님은 힘들때마다 저희를 보고 힘을 낸다고 그니까 너희도 힘내라고 힘들땐 본인들한테 말하라고 함께 고민해보자고 하십니다."
+			],
+			[
+				25,
+				"라고",
+				"EC",
+				"부모님은 힘들때마다 저희를 보고 힘을 낸다고 그니까 너희도 힘내라고 힘들땐 본인들한테 말하라고 함께 고민해보자고 하십니다."
+			],
+			[
+				26,
+				"ㄹ",
+				"ETM",
+				"부모님은 힘들때마다 저희를 보고 힘을 낸다고 그니까 너희도 힘내라고 힘들땐 본인들한테 말하라고 함께 고민해보자고 하십니다."
+			],
+			[
+				27,
+				"라고",
+				"EC",
+				"부모님은 힘들때마다 저희를 보고 힘을 낸다고 그니까 너희도 힘내라고 힘들땐 본인들한테 말하라고 함께 고민해보자고 하십니다."
+			],
+			[
+				28,
+				"아",
+				"EC",
+				"부모님은 힘들때마다 저희를 보고 힘을 낸다고 그니까 너희도 힘내라고 힘들땐 본인들한테 말하라고 함께 고민해보자고 하십니다."
+			],
+			[
+				29,
+				"자고",
+				"EC",
+				"부모님은 힘들때마다 저희를 보고 힘을 낸다고 그니까 너희도 힘내라고 힘들땐 본인들한테 말하라고 함께 고민해보자고 하십니다."
+			],
+			[
+				30,
+				"시",
+				"EP",
+				"부모님은 힘들때마다 저희를 보고 힘을 낸다고 그니까 너희도 힘내라고 힘들땐 본인들한테 말하라고 함께 고민해보자고 하십니다."
+			],
+			[
+				31,
+				"ㅂ니다",
+				"EF",
+				"부모님은 힘들때마다 저희를 보고 힘을 낸다고 그니까 너희도 힘내라고 힘들땐 본인들한테 말하라고 함께 고민해보자고 하십니다."
+			],
+			[
+				32,
+				"고",
+				"EC",
+				"저는 그런 부모님을 보고 아 가정을 꾸린다면 이렇게 꾸리고 싶다는 생각이 들었습니다."
+			],
+			[
+				33,
+				"ㄴ다면",
+				"EC",
+				"저는 그런 부모님을 보고 아 가정을 꾸린다면 이렇게 꾸리고 싶다는 생각이 들었습니다."
+			],
+			[
+				34,
+				"게",
+				"EC",
+				"저는 그런 부모님을 보고 아 가정을 꾸린다면 이렇게 꾸리고 싶다는 생각이 들었습니다."
+			],
+			[
+				35,
+				"고",
+				"EC",
+				"저는 그런 부모님을 보고 아 가정을 꾸린다면 이렇게 꾸리고 싶다는 생각이 들었습니다."
+			],
+			[
+				36,
+				"다는",
+				"ETM",
+				"저는 그런 부모님을 보고 아 가정을 꾸린다면 이렇게 꾸리고 싶다는 생각이 들었습니다."
+			],
+			[
+				37,
+				"었",
+				"EP",
+				"저는 그런 부모님을 보고 아 가정을 꾸린다면 이렇게 꾸리고 싶다는 생각이 들었습니다."
+			],
+			[
+				38,
+				"습니다",
+				"EF",
+				"저는 그런 부모님을 보고 아 가정을 꾸린다면 이렇게 꾸리고 싶다는 생각이 들었습니다."
+			],
+			[
+				39,
+				"시",
+				"EP",
+				"물론 가끔 다투실때도 있지만 아빠가 금방 엄마한테 사과를 하고 잘 풀고 다시 잘 놉니다."
+			],
+			[
+				40,
+				"ㄹ",
+				"ETM",
+				"물론 가끔 다투실때도 있지만 아빠가 금방 엄마한테 사과를 하고 잘 풀고 다시 잘 놉니다."
+			],
+			[
+				41,
+				"지만",
+				"EC",
+				"물론 가끔 다투실때도 있지만 아빠가 금방 엄마한테 사과를 하고 잘 풀고 다시 잘 놉니다."
+			],
+			[
+				42,
+				"고",
+				"EC",
+				"물론 가끔 다투실때도 있지만 아빠가 금방 엄마한테 사과를 하고 잘 풀고 다시 잘 놉니다."
+			],
+			[
+				43,
+				"고",
+				"EC",
+				"물론 가끔 다투실때도 있지만 아빠가 금방 엄마한테 사과를 하고 잘 풀고 다시 잘 놉니다."
+			],
+			[
+				44,
+				"ㅂ니다",
+				"EF",
+				"물론 가끔 다투실때도 있지만 아빠가 금방 엄마한테 사과를 하고 잘 풀고 다시 잘 놉니다."
+			],
+			[
+				45,
+				"고",
+				"EC",
+				"저는 이런 우리 가족이 너무나도 좋고 이 가정에서 태어난게 너무도 행복하고 기쁩니다."
+			],
+			[
+				46,
+				"ㄴ",
+				"ETM",
+				"저는 이런 우리 가족이 너무나도 좋고 이 가정에서 태어난게 너무도 행복하고 기쁩니다."
+			],
+			[
+				47,
+				"고",
+				"EC",
+				"저는 이런 우리 가족이 너무나도 좋고 이 가정에서 태어난게 너무도 행복하고 기쁩니다."
+			],
+			[
+				48,
+				"ㅂ니다",
+				"EF",
+				"저는 이런 우리 가족이 너무나도 좋고 이 가정에서 태어난게 너무도 행복하고 기쁩니다."
+			],
+			[
+				49,
+				"어서",
+				"EC",
+				"그래서인지 뉴스에서 가정폭력을 당하면서 자란 아이들과 가정폭력을 당해서 다친 아이들이 뉴스에 나올때면 마음이 너무 아픕니다."
+			],
+			[
+				50,
+				"ㄴ지",
+				"EC",
+				"그래서인지 뉴스에서 가정폭력을 당하면서 자란 아이들과 가정폭력을 당해서 다친 아이들이 뉴스에 나올때면 마음이 너무 아픕니다."
+			],
+			[
+				51,
+				"면서",
+				"EC",
+				"그래서인지 뉴스에서 가정폭력을 당하면서 자란 아이들과 가정폭력을 당해서 다친 아이들이 뉴스에 나올때면 마음이 너무 아픕니다."
+			],
+			[
+				52,
+				"ㄴ",
+				"ETM",
+				"그래서인지 뉴스에서 가정폭력을 당하면서 자란 아이들과 가정폭력을 당해서 다친 아이들이 뉴스에 나올때면 마음이 너무 아픕니다."
+			],
+			[
+				53,
+				"아서",
+				"EC",
+				"그래서인지 뉴스에서 가정폭력을 당하면서 자란 아이들과 가정폭력을 당해서 다친 아이들이 뉴스에 나올때면 마음이 너무 아픕니다."
+			],
+			[
+				54,
+				"ㄴ",
+				"ETM",
+				"그래서인지 뉴스에서 가정폭력을 당하면서 자란 아이들과 가정폭력을 당해서 다친 아이들이 뉴스에 나올때면 마음이 너무 아픕니다."
+			],
+			[
+				55,
+				"면",
+				"EC",
+				"그래서인지 뉴스에서 가정폭력을 당하면서 자란 아이들과 가정폭력을 당해서 다친 아이들이 뉴스에 나올때면 마음이 너무 아픕니다."
+			],
+			[
+				56,
+				"ㅂ니다",
+				"EF",
+				"그래서인지 뉴스에서 가정폭력을 당하면서 자란 아이들과 가정폭력을 당해서 다친 아이들이 뉴스에 나올때면 마음이 너무 아픕니다."
+			],
+			[
+				57,
+				"ㅂ니다",
+				"EF",
+				"항상 마음속으로 기도합니다."
+			],
+			[
+				58,
+				"ㄹ",
+				"ETM",
+				"저 아이들이 다시 태어날땐 꼭 다정하고 사랑을 듬뿍 주는 행복한 가정에서 태어나 따뜻한 집 안에서 행복하게 자리길요."
+			],
+			[
+				59,
+				"고",
+				"EC",
+				"저 아이들이 다시 태어날땐 꼭 다정하고 사랑을 듬뿍 주는 행복한 가정에서 태어나 따뜻한 집 안에서 행복하게 자리길요."
+			],
+			[
+				60,
+				"는",
+				"ETM",
+				"저 아이들이 다시 태어날땐 꼭 다정하고 사랑을 듬뿍 주는 행복한 가정에서 태어나 따뜻한 집 안에서 행복하게 자리길요."
+			],
+			[
+				61,
+				"ㄴ",
+				"ETM",
+				"저 아이들이 다시 태어날땐 꼭 다정하고 사랑을 듬뿍 주는 행복한 가정에서 태어나 따뜻한 집 안에서 행복하게 자리길요."
+			],
+			[
+				62,
+				"아",
+				"EC",
+				"저 아이들이 다시 태어날땐 꼭 다정하고 사랑을 듬뿍 주는 행복한 가정에서 태어나 따뜻한 집 안에서 행복하게 자리길요."
+			],
+			[
+				63,
+				"ㄴ",
+				"ETM",
+				"저 아이들이 다시 태어날땐 꼭 다정하고 사랑을 듬뿍 주는 행복한 가정에서 태어나 따뜻한 집 안에서 행복하게 자리길요."
+			],
+			[
+				64,
+				"게",
+				"EC",
+				"저 아이들이 다시 태어날땐 꼭 다정하고 사랑을 듬뿍 주는 행복한 가정에서 태어나 따뜻한 집 안에서 행복하게 자리길요."
+			],
+			[
+				65,
+				"기",
+				"ETN",
+				"저 아이들이 다시 태어날땐 꼭 다정하고 사랑을 듬뿍 주는 행복한 가정에서 태어나 따뜻한 집 안에서 행복하게 자리길요."
+			],
+			[
+				66,
+				"고",
+				"EC",
+				"저는 부모님의 사랑을 많이 받고 자란만큼 남에게도 사랑을 많이 배풀줄 알고 정이 많게 자랐습니다."
+			],
+			[
+				67,
+				"ㄴ",
+				"ETM",
+				"저는 부모님의 사랑을 많이 받고 자란만큼 남에게도 사랑을 많이 배풀줄 알고 정이 많게 자랐습니다."
+			],
+			[
+				68,
+				"ㄹ",
+				"ETM",
+				"저는 부모님의 사랑을 많이 받고 자란만큼 남에게도 사랑을 많이 배풀줄 알고 정이 많게 자랐습니다."
+			],
+			[
+				69,
+				"고",
+				"EC",
+				"저는 부모님의 사랑을 많이 받고 자란만큼 남에게도 사랑을 많이 배풀줄 알고 정이 많게 자랐습니다."
+			],
+			[
+				70,
+				"게",
+				"EC",
+				"저는 부모님의 사랑을 많이 받고 자란만큼 남에게도 사랑을 많이 배풀줄 알고 정이 많게 자랐습니다."
+			],
+			[
+				71,
+				"았",
+				"EP",
+				"저는 부모님의 사랑을 많이 받고 자란만큼 남에게도 사랑을 많이 배풀줄 알고 정이 많게 자랐습니다."
+			],
+			[
+				72,
+				"습니다",
+				"EF",
+				"저는 부모님의 사랑을 많이 받고 자란만큼 남에게도 사랑을 많이 배풀줄 알고 정이 많게 자랐습니다."
+			],
+			[
+				73,
+				"ㄴ",
+				"ETM",
+				"그리고 부모님은 항상 힘든 사람이 있으면 외면하지 않고 꼭 도와줘야 한다고 알려주셨습니다."
+			],
+			[
+				74,
+				"으면",
+				"EC",
+				"그리고 부모님은 항상 힘든 사람이 있으면 외면하지 않고 꼭 도와줘야 한다고 알려주셨습니다."
+			],
+			[
+				75,
+				"지",
+				"EC",
+				"그리고 부모님은 항상 힘든 사람이 있으면 외면하지 않고 꼭 도와줘야 한다고 알려주셨습니다."
+			],
+			[
+				76,
+				"고",
+				"EC",
+				"그리고 부모님은 항상 힘든 사람이 있으면 외면하지 않고 꼭 도와줘야 한다고 알려주셨습니다."
+			],
+			[
+				77,
+				"어야",
+				"EC",
+				"그리고 부모님은 항상 힘든 사람이 있으면 외면하지 않고 꼭 도와줘야 한다고 알려주셨습니다."
+			],
+			[
+				78,
+				"ㄴ다고",
+				"EC",
+				"그리고 부모님은 항상 힘든 사람이 있으면 외면하지 않고 꼭 도와줘야 한다고 알려주셨습니다."
+			],
+			[
+				79,
+				"어",
+				"EC",
+				"그리고 부모님은 항상 힘든 사람이 있으면 외면하지 않고 꼭 도와줘야 한다고 알려주셨습니다."
+			],
+			[
+				80,
+				"시",
+				"EP",
+				"그리고 부모님은 항상 힘든 사람이 있으면 외면하지 않고 꼭 도와줘야 한다고 알려주셨습니다."
+			],
+			[
+				81,
+				"었",
+				"EP",
+				"그리고 부모님은 항상 힘든 사람이 있으면 외면하지 않고 꼭 도와줘야 한다고 알려주셨습니다."
+			],
+			[
+				82,
+				"습니다",
+				"EF",
+				"그리고 부모님은 항상 힘든 사람이 있으면 외면하지 않고 꼭 도와줘야 한다고 알려주셨습니다."
+			],
+			[
+				83,
+				"ㄹ",
+				"ETM",
+				"그래서 우리는 자기 능력 한에서 도와줄수있는 일들은 최대한 도우려고 합니다."
+			],
+			[
+				84,
+				"는",
+				"ETM",
+				"그래서 우리는 자기 능력 한에서 도와줄수있는 일들은 최대한 도우려고 합니다."
+			],
+			[
+				85,
+				"으려고",
+				"EC",
+				"그래서 우리는 자기 능력 한에서 도와줄수있는 일들은 최대한 도우려고 합니다."
+			],
+			[
+				86,
+				"ㅂ니다",
+				"EF",
+				"그래서 우리는 자기 능력 한에서 도와줄수있는 일들은 최대한 도우려고 합니다."
+			]
+		],
+		"X_Lst": [
+			[
+				0,
+				"들",
+				"XSN",
+				"저에게 소중함을 주는 사람들은 바로 엄마, 아빠입니다."
+			],
+			[
+				1,
+				"님",
+				"XSN",
+				"저는 이런 부모님의 사랑을 듬뿍 받고 자랐습니다."
+			],
+			[
+				2,
+				"님",
+				"XSN",
+				"부모님은 저에게 가족의 소중함을 알려주셨습니다."
+			],
+			[
+				3,
+				"님",
+				"XSN",
+				"부모님은 힘들때마다 저희를 보고 힘을 낸다고 그니까 너희도 힘내라고 힘들땐 본인들한테 말하라고 함께 고민해보자고 하십니다."
+			],
+			[
+				4,
+				"들",
+				"XSN",
+				"부모님은 힘들때마다 저희를 보고 힘을 낸다고 그니까 너희도 힘내라고 힘들땐 본인들한테 말하라고 함께 고민해보자고 하십니다."
+			],
+			[
+				5,
+				"님",
+				"XSN",
+				"저는 그런 부모님을 보고 아 가정을 꾸린다면 이렇게 꾸리고 싶다는 생각이 들었습니다."
+			],
+			[
+				6,
+				"들",
+				"XSN",
+				"그래서인지 뉴스에서 가정폭력을 당하면서 자란 아이들과 가정폭력을 당해서 다친 아이들이 뉴스에 나올때면 마음이 너무 아픕니다."
+			],
+			[
+				7,
+				"들",
+				"XSN",
+				"그래서인지 뉴스에서 가정폭력을 당하면서 자란 아이들과 가정폭력을 당해서 다친 아이들이 뉴스에 나올때면 마음이 너무 아픕니다."
+			],
+			[
+				8,
+				"들",
+				"XSN",
+				"저 아이들이 다시 태어날땐 꼭 다정하고 사랑을 듬뿍 주는 행복한 가정에서 태어나 따뜻한 집 안에서 행복하게 자리길요."
+			],
+			[
+				9,
+				"님",
+				"XSN",
+				"저는 부모님의 사랑을 많이 받고 자란만큼 남에게도 사랑을 많이 배풀줄 알고 정이 많게 자랐습니다."
+			],
+			[
+				10,
+				"님",
+				"XSN",
+				"그리고 부모님은 항상 힘든 사람이 있으면 외면하지 않고 꼭 도와줘야 한다고 알려주셨습니다."
+			],
+			[
+				11,
+				"들",
+				"XSN",
+				"그래서 우리는 자기 능력 한에서 도와줄수있는 일들은 최대한 도우려고 합니다."
+			]
+		],
+		"IC_Lst": [
+			[
+				0,
+				"아",
+				"IC",
+				"저는 그런 부모님을 보고 아 가정을 꾸린다면 이렇게 꾸리고 싶다는 생각이 들었습니다."
+			]
+		]
+	},
+	"NDW": {
+		"morph_NDW": 156,
+		"NL_NDW": 71,
+		"NNG_NDW": 54,
+		"NNP_NDW": 0,
+		"NNB_NDW": 4,
+		"NP_NDW": 13,
+		"NR_NDW": 0,
+		"VL_NDW": 75,
+		"VV_NDW": 40,
+		"VA_NDW": 21,
+		"ML_NDW": 28,
+		"MM_NDW": 0,
+		"IC_NDW": 1,
+		"J_NDW": 61,
+		"E_NDW": 87,
+		"X_NDW": 12,
+		"CL_NDW": 175,
+		"FL_NDW": 160
+	}
+}

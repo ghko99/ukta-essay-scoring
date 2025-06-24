@@ -1,0 +1,6553 @@
+﻿{
+	"morpheme": {
+		"sentences": [
+			{
+				"text": {
+					"content": "저는 이 책을 영어시간에 수행평가를 하기 위해서 읽기로 했었습니다.",
+					"length": 37,
+					"beginOffset": 0
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "저는",
+							"length": 2,
+							"beginOffset": 0
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "저",
+									"length": 1,
+									"beginOffset": 0
+								},
+								"tag": "NP",
+								"probability": 0.9860434,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 1,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99815965,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "저",
+						"tagged": "저/NP+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이",
+							"beginOffset": 3,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 3,
+									"length": 1
+								},
+								"tag": "MMD",
+								"probability": 0.99899304,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이",
+						"tagged": "이/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "책을",
+							"beginOffset": 5,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "책",
+									"beginOffset": 5,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9855531,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 6,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999629,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "책",
+						"tagged": "책/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "영어시간에",
+							"beginOffset": 8,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "영어",
+									"beginOffset": 8,
+									"length": 2
+								},
+								"tag": "NNP",
+								"probability": 0.9312948,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "시간",
+									"beginOffset": 10,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.83608603,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 12,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.96856385,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "영어",
+						"tagged": "영어/NNP+시간/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "수행평가를",
+							"beginOffset": 14,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "수행",
+									"beginOffset": 14,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "평가",
+									"beginOffset": 16,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 18,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99985546,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "수행",
+						"tagged": "수행/NNG+평가/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "하기",
+							"beginOffset": 20,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 20,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.97404194,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "기",
+									"beginOffset": 21,
+									"length": 1
+								},
+								"tag": "ETN",
+								"probability": 0.99347174,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VV+기/ETN",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "위해서",
+							"beginOffset": 23,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "위하",
+									"beginOffset": 23,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9907742,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아서",
+									"beginOffset": 24,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99598193,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "위하",
+						"tagged": "위하/VV+아서/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "읽기로",
+							"beginOffset": 27,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "읽",
+									"beginOffset": 27,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9876197,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "기",
+									"beginOffset": 28,
+									"length": 1
+								},
+								"tag": "ETN",
+								"probability": 0.999361,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "로",
+									"beginOffset": 29,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99646044,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "읽",
+						"tagged": "읽/VV+기/ETN+로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "했었습니다.",
+							"beginOffset": 31,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 31,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.7673704,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "았었",
+									"beginOffset": 31,
+									"length": 2
+								},
+								"tag": "EP",
+								"probability": 0.9997592,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "습니다",
+									"beginOffset": 33,
+									"length": 3
+								},
+								"tag": "EF",
+								"probability": 0.98945946,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 36,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9993184,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VV+았었/EP+습니다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "저는 이 책을 영어시간에 수행평가를 하기 위해서 읽기로 했었습니다."
+			},
+			{
+				"text": {
+					"content": "이 책은 음식에 대해 관심이 있는 저의 마음을 사로잡는데 충분 했었습니다.",
+					"beginOffset": 38,
+					"length": 41
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "이",
+							"beginOffset": 38,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 38,
+									"length": 1
+								},
+								"tag": "MMD",
+								"probability": 0.99967355,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이",
+						"tagged": "이/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "책은",
+							"beginOffset": 40,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "책",
+									"beginOffset": 40,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9834653,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 41,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9992768,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "책",
+						"tagged": "책/NNG+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "음식에",
+							"beginOffset": 43,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "음식",
+									"beginOffset": 43,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9823812,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 45,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9959366,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "음식",
+						"tagged": "음식/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "대해",
+							"beginOffset": 47,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "대하",
+									"beginOffset": 47,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.99115485,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 48,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9951999,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "대하",
+						"tagged": "대하/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "관심이",
+							"beginOffset": 50,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "관심",
+									"beginOffset": 50,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98086345,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 52,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9925467,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "관심",
+						"tagged": "관심/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있는",
+							"beginOffset": 54,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 54,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9635106,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 55,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999631,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VA+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "저의",
+							"beginOffset": 57,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "저",
+									"beginOffset": 57,
+									"length": 1
+								},
+								"tag": "NP",
+								"probability": 0.9851313,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 58,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99987656,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "저",
+						"tagged": "저/NP+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "마음을",
+							"beginOffset": 60,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "마음",
+									"beginOffset": 60,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98369694,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 62,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999321,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "마음",
+						"tagged": "마음/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사로잡는데",
+							"beginOffset": 64,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사로잡",
+									"beginOffset": 64,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.988362,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는데",
+									"beginOffset": 67,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9898175,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사로잡",
+						"tagged": "사로잡/VV+는데/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "충분",
+							"beginOffset": 70,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "충분",
+									"beginOffset": 70,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.4639845,
+								"outOfVocab": "OUT_OF_VOCAB"
+							}
+						],
+						"lemma": "충분",
+						"tagged": "충분/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "했었습니다.",
+							"beginOffset": 73,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 73,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.68700165,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "았었",
+									"beginOffset": 73,
+									"length": 2
+								},
+								"tag": "EP",
+								"probability": 0.99993455,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "습니다",
+									"beginOffset": 75,
+									"length": 3
+								},
+								"tag": "EF",
+								"probability": 0.9875522,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 78,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99975693,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VV+았었/EP+습니다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "이 책은 음식에 대해 관심이 있는 저의 마음을 사로잡는데 충분 했었습니다."
+			},
+			{
+				"text": {
+					"content": "<br/>음식은 농부들의 땀과 호흡으로 약 6~7개월이라는 긴 시간이 흐르고 나서야 우리의 식탁위에 오르는 음식의 재료가 됩니다.",
+					"beginOffset": 80,
+					"length": 72
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "<br/>음식은",
+							"beginOffset": 80,
+							"length": 8
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "<",
+									"beginOffset": 80,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.99997586,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "br",
+									"beginOffset": 81,
+									"length": 2
+								},
+								"tag": "NNP",
+								"probability": 0.88367385,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "/",
+									"beginOffset": 83,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.99651706,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ">",
+									"beginOffset": 84,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.99996567,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "음식",
+									"beginOffset": 85,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9688782,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 87,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99792546,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "<",
+						"tagged": "</SS+br/NNP+//SP+>/SS+음식/NNG+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "농부들의",
+							"beginOffset": 89,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "농부",
+									"beginOffset": 89,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9832917,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "들",
+									"beginOffset": 91,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.98820376,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 92,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9986811,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "농부",
+						"tagged": "농부/NNG+들/XSN+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "땀과",
+							"beginOffset": 94,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "땀",
+									"beginOffset": 94,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9825228,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "과",
+									"beginOffset": 95,
+									"length": 1
+								},
+								"tag": "JC",
+								"probability": 0.9550591,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "땀",
+						"tagged": "땀/NNG+과/JC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "호흡으로",
+							"beginOffset": 97,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "호흡",
+									"beginOffset": 97,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.982294,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으로",
+									"beginOffset": 99,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.99469525,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "호흡",
+						"tagged": "호흡/NNG+으로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "약",
+							"beginOffset": 102,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "약",
+									"beginOffset": 102,
+									"length": 1
+								},
+								"tag": "MMA",
+								"probability": 0.99895203,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "약",
+						"tagged": "약/MMA",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "6~7개월이라는",
+							"beginOffset": 104,
+							"length": 8
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "6",
+									"beginOffset": 104,
+									"length": 1
+								},
+								"tag": "SN",
+								"probability": 0.9962502,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "~",
+									"beginOffset": 105,
+									"length": 1
+								},
+								"tag": "SO",
+								"probability": 0.99883413,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "7",
+									"beginOffset": 106,
+									"length": 1
+								},
+								"tag": "SN",
+								"probability": 0.9960527,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "개월",
+									"beginOffset": 107,
+									"length": 2
+								},
+								"tag": "NNB",
+								"probability": 0.97758627,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 109,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.9997084,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "라는",
+									"beginOffset": 110,
+									"length": 2
+								},
+								"tag": "ETM",
+								"probability": 0.9999619,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "6",
+						"tagged": "6/SN+~/SO+7/SN+개월/NNB+이/VCP+라는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "긴",
+							"beginOffset": 113,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "길",
+									"beginOffset": 113,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9839459,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 113,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999926,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "길",
+						"tagged": "길/VA+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "시간이",
+							"beginOffset": 115,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "시간",
+									"beginOffset": 115,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.8796624,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 117,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9910578,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "시간",
+						"tagged": "시간/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "흐르고",
+							"beginOffset": 119,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "흐르",
+									"beginOffset": 119,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9913757,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 121,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9956921,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "흐르",
+						"tagged": "흐르/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "나서야",
+							"beginOffset": 123,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "나",
+									"beginOffset": 123,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.95102066,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아서",
+									"beginOffset": 123,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99574167,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "야",
+									"beginOffset": 125,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99769527,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "나",
+						"tagged": "나/VX+아서/EC+야/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "우리의",
+							"beginOffset": 127,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "우리",
+									"beginOffset": 127,
+									"length": 2
+								},
+								"tag": "NP",
+								"probability": 0.9832736,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 129,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9995425,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "우리",
+						"tagged": "우리/NP+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "식탁위에",
+							"beginOffset": 131,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "식탁",
+									"beginOffset": 131,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9805114,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "위",
+									"beginOffset": 133,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9693759,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 134,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9966262,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "식탁",
+						"tagged": "식탁/NNG+위/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "오르는",
+							"beginOffset": 136,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "오르",
+									"beginOffset": 136,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.99129933,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 138,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9998843,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "오르",
+						"tagged": "오르/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "음식의",
+							"beginOffset": 140,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "음식",
+									"beginOffset": 140,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9824951,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 142,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99933565,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "음식",
+						"tagged": "음식/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "재료가",
+							"beginOffset": 144,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "재료",
+									"beginOffset": 144,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98536736,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 146,
+									"length": 1
+								},
+								"tag": "JKC",
+								"probability": 0.9091151,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "재료",
+						"tagged": "재료/NNG+가/JKC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "됩니다.",
+							"beginOffset": 148,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "되",
+									"beginOffset": 148,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.98942035,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㅂ니다",
+									"beginOffset": 148,
+									"length": 3
+								},
+								"tag": "EF",
+								"probability": 0.9901321,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 151,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99971926,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "되",
+						"tagged": "되/VV+ㅂ니다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "<br/>음식은 농부들의 땀과 호흡으로 약 6~7개월이라는 긴 시간이 흐르고 나서야 우리의 식탁위에 오르는 음식의 재료가 됩니다."
+			},
+			{
+				"text": {
+					"content": "하지만 이 과정이 순탄하지는 않습니다.",
+					"beginOffset": 153,
+					"length": 21
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "하지만",
+							"beginOffset": 153,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하지만",
+									"beginOffset": 153,
+									"length": 3
+								},
+								"tag": "MAJ",
+								"probability": 0.9973394,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하지만",
+						"tagged": "하지만/MAJ",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이",
+							"beginOffset": 157,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 157,
+									"length": 1
+								},
+								"tag": "MMD",
+								"probability": 0.99992293,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이",
+						"tagged": "이/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "과정이",
+							"beginOffset": 159,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "과정",
+									"beginOffset": 159,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9817855,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 161,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.99110395,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "과정",
+						"tagged": "과정/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "순탄하지는",
+							"beginOffset": 163,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "순탄하",
+									"beginOffset": 163,
+									"length": 3
+								},
+								"tag": "VA",
+								"probability": 0.98772424,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "지",
+									"beginOffset": 166,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9904641,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 167,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99926746,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "순탄하",
+						"tagged": "순탄하/VA+지/EC+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "않습니다.",
+							"beginOffset": 169,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "않",
+									"beginOffset": 169,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.9530285,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "습니다",
+									"beginOffset": 170,
+									"length": 3
+								},
+								"tag": "EF",
+								"probability": 0.98606914,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 173,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9997755,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "않",
+						"tagged": "않/VX+습니다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "하지만 이 과정이 순탄하지는 않습니다."
+			},
+			{
+				"text": {
+					"content": "먼저, 열매나 곡식을 쪼아먹는 새들도 쫓아내야 하고, 곡물이 자랄 때 옆에서 같이 자라는 잡초도 뽑아서 곡물에게만 영양분이 흡수되도록 해야 합니다.",
+					"beginOffset": 175,
+					"length": 82
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "먼저",
+							"beginOffset": 175,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "먼저",
+									"beginOffset": 175,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.99072117,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "먼저",
+						"tagged": "먼저/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": ",",
+							"beginOffset": 177,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 177,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.9992973,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": ",",
+						"tagged": ",/SP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "열매나",
+							"beginOffset": 179,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "열매",
+									"beginOffset": 179,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97795075,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "나",
+									"beginOffset": 181,
+									"length": 1
+								},
+								"tag": "JC",
+								"probability": 0.97265565,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "열매",
+						"tagged": "열매/NNG+나/JC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "곡식을",
+							"beginOffset": 183,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "곡식",
+									"beginOffset": 183,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9781245,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 185,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999871,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "곡식",
+						"tagged": "곡식/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "쪼아",
+							"beginOffset": 187,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "쪼",
+									"beginOffset": 187,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9904544,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 188,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9949871,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "쪼",
+						"tagged": "쪼/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "먹는",
+							"beginOffset": 189,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "먹",
+									"beginOffset": 189,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9802644,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 190,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99996924,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "먹",
+						"tagged": "먹/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "새들도",
+							"beginOffset": 192,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "새",
+									"beginOffset": 192,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9821563,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "들",
+									"beginOffset": 193,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.9927664,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 194,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99908304,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "새",
+						"tagged": "새/NNG+들/XSN+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "쫓아내야",
+							"beginOffset": 196,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "쫓아내",
+									"beginOffset": 196,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.9880274,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어야",
+									"beginOffset": 198,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9916602,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "쫓아내",
+						"tagged": "쫓아내/VV+어야/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "하고",
+							"beginOffset": 201,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 201,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.9579485,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 202,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9941067,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VX+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": ",",
+							"beginOffset": 203,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 203,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.9995555,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": ",",
+						"tagged": ",/SP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "곡물이",
+							"beginOffset": 205,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "곡물",
+									"beginOffset": 205,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9828375,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 207,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9888111,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "곡물",
+						"tagged": "곡물/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "자랄",
+							"beginOffset": 209,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "자라",
+									"beginOffset": 209,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9867382,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ",
+									"beginOffset": 210,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99998474,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "자라",
+						"tagged": "자라/VV+ㄹ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "때",
+							"beginOffset": 212,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "때",
+									"beginOffset": 212,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9807097,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "때",
+						"tagged": "때/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "옆에서",
+							"beginOffset": 214,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "옆",
+									"beginOffset": 214,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.977219,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에서",
+									"beginOffset": 215,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9920219,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "옆",
+						"tagged": "옆/NNG+에서/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "같이",
+							"beginOffset": 218,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "같이",
+									"beginOffset": 218,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.99398756,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "같이",
+						"tagged": "같이/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "자라는",
+							"beginOffset": 221,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "자라",
+									"beginOffset": 221,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9898149,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 223,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999898,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "자라",
+						"tagged": "자라/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "잡초도",
+							"beginOffset": 225,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "잡초",
+									"beginOffset": 225,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9835437,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 227,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99875456,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "잡초",
+						"tagged": "잡초/NNG+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "뽑아서",
+							"beginOffset": 229,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "뽑",
+									"beginOffset": 229,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9878779,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아서",
+									"beginOffset": 230,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99428195,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "뽑",
+						"tagged": "뽑/VV+아서/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "곡물에게만",
+							"beginOffset": 233,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "곡물",
+									"beginOffset": 233,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9821603,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에게",
+									"beginOffset": 235,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9961442,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "만",
+									"beginOffset": 237,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9974117,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "곡물",
+						"tagged": "곡물/NNG+에게/JKB+만/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "영양분이",
+							"beginOffset": 239,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "영양분",
+									"beginOffset": 239,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9806322,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 242,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9928778,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "영양분",
+						"tagged": "영양분/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "흡수되도록",
+							"beginOffset": 244,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "흡수되",
+									"beginOffset": 244,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "도록",
+									"beginOffset": 247,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9886808,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "흡수되",
+						"tagged": "흡수되/VV+도록/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "해야",
+							"beginOffset": 250,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 250,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.66074216,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아야",
+									"beginOffset": 250,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99329,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VX+아야/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "합니다.",
+							"beginOffset": 253,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 253,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.9546044,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㅂ니다",
+									"beginOffset": 253,
+									"length": 3
+								},
+								"tag": "EF",
+								"probability": 0.99452066,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 256,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9998342,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VX+ㅂ니다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "먼저 , 열매나 곡식을 쪼아 먹는 새들도 쫓아내야 하고 , 곡물이 자랄 때 옆에서 같이 자라는 잡초도 뽑아서 곡물에게만 영양분이 흡수되도록 해야 합니다."
+			},
+			{
+				"text": {
+					"content": "<br/>그리고 가장 조심해야 하는 것은 해충들입니다.",
+					"beginOffset": 258,
+					"length": 30
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "<br/>그리고",
+							"beginOffset": 258,
+							"length": 8
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "<",
+									"beginOffset": 258,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.99989253,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "br",
+									"beginOffset": 259,
+									"length": 2
+								},
+								"tag": "NNP",
+								"probability": 0.44398704,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "/",
+									"beginOffset": 261,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.9921707,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ">",
+									"beginOffset": 262,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9999461,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "그리고",
+									"beginOffset": 263,
+									"length": 3
+								},
+								"tag": "MAJ",
+								"probability": 0.9952588,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "<",
+						"tagged": "</SS+br/NNP+//SP+>/SS+그리고/MAJ",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "가장",
+							"beginOffset": 267,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "가장",
+									"beginOffset": 267,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.99424857,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "가장",
+						"tagged": "가장/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "조심해야",
+							"beginOffset": 270,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "조심하",
+									"beginOffset": 270,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "아야",
+									"beginOffset": 272,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99362475,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "조심하",
+						"tagged": "조심하/VV+아야/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "하는",
+							"beginOffset": 275,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 275,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.88818294,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 276,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99998087,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VX+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "것은",
+							"beginOffset": 278,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "것",
+									"beginOffset": 278,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.97824293,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 279,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9987827,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "것",
+						"tagged": "것/NNB+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "해충들입니다.",
+							"beginOffset": 281,
+							"length": 7
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "해충",
+									"beginOffset": 281,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9825989,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "들",
+									"beginOffset": 283,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.99125856,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 284,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.99968106,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㅂ니다",
+									"beginOffset": 284,
+									"length": 3
+								},
+								"tag": "EF",
+								"probability": 0.9922552,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 287,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9995308,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "해충",
+						"tagged": "해충/NNG+들/XSN+이/VCP+ㅂ니다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "<br/>그리고 가장 조심해야 하는 것은 해충들입니다."
+			},
+			{
+				"text": {
+					"content": "종류도 어마어마하게 다양해서 신경을 써야 할 부분이 너무 많아서 농사를 짓는 것이 매우 힘든 일입니다.",
+					"beginOffset": 289,
+					"length": 57
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "종류도",
+							"beginOffset": 289,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "종류",
+									"beginOffset": 289,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9785679,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 291,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9992027,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "종류",
+						"tagged": "종류/NNG+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "어마어마하게",
+							"beginOffset": 293,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "어마어마하",
+									"beginOffset": 293,
+									"length": 5
+								},
+								"tag": "VA",
+								"probability": 0.9821077,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "게",
+									"beginOffset": 298,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.98924464,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "어마어마하",
+						"tagged": "어마어마하/VA+게/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "다양해서",
+							"beginOffset": 300,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "다양하",
+									"beginOffset": 300,
+									"length": 3
+								},
+								"tag": "VA",
+								"probability": 0.0,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아서",
+									"beginOffset": 302,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99532616,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "다양하",
+						"tagged": "다양하/VA+아서/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "신경을",
+							"beginOffset": 305,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "신경",
+									"beginOffset": 305,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98275787,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 307,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99973106,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "신경",
+						"tagged": "신경/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "써야",
+							"beginOffset": 309,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "쓰",
+									"beginOffset": 309,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.98683006,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어야",
+									"beginOffset": 309,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99079525,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "쓰",
+						"tagged": "쓰/VV+어야/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "할",
+							"beginOffset": 312,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 312,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.8806826,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ",
+									"beginOffset": 312,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999955,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VX+ㄹ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "부분이",
+							"beginOffset": 314,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "부분",
+									"beginOffset": 314,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9849859,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 316,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9948575,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "부분",
+						"tagged": "부분/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "너무",
+							"beginOffset": 318,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "너무",
+									"beginOffset": 318,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.99071425,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "너무",
+						"tagged": "너무/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "많아서",
+							"beginOffset": 321,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "많",
+									"beginOffset": 321,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.984829,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아서",
+									"beginOffset": 322,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99531186,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "많",
+						"tagged": "많/VA+아서/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "농사를",
+							"beginOffset": 325,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "농사",
+									"beginOffset": 325,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9819711,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 327,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9996392,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "농사",
+						"tagged": "농사/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "짓는",
+							"beginOffset": 329,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "짓",
+									"beginOffset": 329,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.989163,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 330,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999714,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "짓",
+						"tagged": "짓/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "것이",
+							"beginOffset": 332,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "것",
+									"beginOffset": 332,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9738398,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 333,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9916797,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "것",
+						"tagged": "것/NNB+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "매우",
+							"beginOffset": 335,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "매우",
+									"beginOffset": 335,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.98427874,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "매우",
+						"tagged": "매우/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "힘든",
+							"beginOffset": 338,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "힘들",
+									"beginOffset": 338,
+									"length": 2
+								},
+								"tag": "VA",
+								"probability": 0.9851948,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 339,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999512,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "힘들",
+						"tagged": "힘들/VA+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "일입니다.",
+							"beginOffset": 341,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "일",
+									"beginOffset": 341,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.7736277,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 342,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.99973303,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㅂ니다",
+									"beginOffset": 342,
+									"length": 3
+								},
+								"tag": "EF",
+								"probability": 0.9921093,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 345,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9997121,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "일",
+						"tagged": "일/NNG+이/VCP+ㅂ니다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "종류도 어마어마하게 다양해서 신경을 써야 할 부분이 너무 많아서 농사를 짓는 것이 매우 힘든 일입니다."
+			},
+			{
+				"text": {
+					"content": "그래서 우리들은 농부들에게 감사한 마음을 가지고 살아야 합니다.",
+					"beginOffset": 347,
+					"length": 35
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "그래서",
+							"beginOffset": 347,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그래서",
+									"beginOffset": 347,
+									"length": 3
+								},
+								"tag": "MAJ",
+								"probability": 0.99702704,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그래서",
+						"tagged": "그래서/MAJ",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "우리들은",
+							"beginOffset": 351,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "우리",
+									"beginOffset": 351,
+									"length": 2
+								},
+								"tag": "NP",
+								"probability": 0.9666795,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "들",
+									"beginOffset": 353,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.9918502,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 354,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9983409,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "우리",
+						"tagged": "우리/NP+들/XSN+은/JX",
+						"modified": "우리들은"
+					},
+					{
+						"text": {
+							"content": "농부들에게",
+							"beginOffset": 356,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "농부",
+									"beginOffset": 356,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9828481,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "들",
+									"beginOffset": 358,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.98838,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에게",
+									"beginOffset": 359,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.99345624,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "농부",
+						"tagged": "농부/NNG+들/XSN+에게/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "감사한",
+							"beginOffset": 362,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "감사하",
+									"beginOffset": 362,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 364,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999849,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "감사하",
+						"tagged": "감사하/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "마음을",
+							"beginOffset": 366,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "마음",
+									"beginOffset": 366,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97874874,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 368,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.999867,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "마음",
+						"tagged": "마음/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "가지고",
+							"beginOffset": 370,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "가지",
+									"beginOffset": 370,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.97443736,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 372,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9937212,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "가지",
+						"tagged": "가지/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "살아야",
+							"beginOffset": 374,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "살",
+									"beginOffset": 374,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9884011,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아야",
+									"beginOffset": 375,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99580073,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "살",
+						"tagged": "살/VV+아야/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "합니다.",
+							"beginOffset": 378,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 378,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.94294435,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㅂ니다",
+									"beginOffset": 378,
+									"length": 3
+								},
+								"tag": "EF",
+								"probability": 0.9936627,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 381,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99968356,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VX+ㅂ니다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "그래서 우리들은 농부들에게 감사한 마음을 가지고 살아야 합니다."
+			},
+			{
+				"text": {
+					"content": "이 책이 영어책이기 때문에 분량이 짧아서 아쉽긴 했지만 읽기에는 어려운 영어가 없어서 쉽게 해석이 가능한 점이 마음에 듭니다.",
+					"beginOffset": 383,
+					"length": 70
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "이",
+							"beginOffset": 383,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 383,
+									"length": 1
+								},
+								"tag": "MMD",
+								"probability": 0.999619,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이",
+						"tagged": "이/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "책이",
+							"beginOffset": 385,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "책",
+									"beginOffset": 385,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.98382187,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 386,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9906211,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "책",
+						"tagged": "책/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "영어책이기",
+							"beginOffset": 388,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "영어",
+									"beginOffset": 388,
+									"length": 2
+								},
+								"tag": "NNP",
+								"probability": 0.94566315,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "책",
+									"beginOffset": 390,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9863872,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 391,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.9999227,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "기",
+									"beginOffset": 392,
+									"length": 1
+								},
+								"tag": "ETN",
+								"probability": 0.99981946,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "영어",
+						"tagged": "영어/NNP+책/NNG+이/VCP+기/ETN",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "때문에",
+							"beginOffset": 394,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "때문",
+									"beginOffset": 394,
+									"length": 2
+								},
+								"tag": "NNB",
+								"probability": 0.9723949,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 396,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9968651,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "때문",
+						"tagged": "때문/NNB+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "분량이",
+							"beginOffset": 398,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "분량",
+									"beginOffset": 398,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98191035,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 400,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.982548,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "분량",
+						"tagged": "분량/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "짧아서",
+							"beginOffset": 402,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "짧",
+									"beginOffset": 402,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9867452,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아서",
+									"beginOffset": 403,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99562985,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "짧",
+						"tagged": "짧/VA+아서/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "아쉽긴",
+							"beginOffset": 406,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "아쉽",
+									"beginOffset": 406,
+									"length": 2
+								},
+								"tag": "VA",
+								"probability": 0.987786,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "기",
+									"beginOffset": 408,
+									"length": 1
+								},
+								"tag": "ETN",
+								"probability": 0.998406,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 408,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9993136,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "아쉽",
+						"tagged": "아쉽/VA+기/ETN+ㄴ/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "했지만",
+							"beginOffset": 410,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 410,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.89255506,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 410,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99988484,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "지만",
+									"beginOffset": 411,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99418074,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VX+았/EP+지만/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "읽기에는",
+							"beginOffset": 414,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "읽",
+									"beginOffset": 414,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9865148,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "기",
+									"beginOffset": 415,
+									"length": 1
+								},
+								"tag": "ETN",
+								"probability": 0.999681,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 416,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99732053,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 417,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9980301,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "읽",
+						"tagged": "읽/VV+기/ETN+에/JKB+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "어려운",
+							"beginOffset": 419,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "어렵",
+									"beginOffset": 419,
+									"length": 2
+								},
+								"tag": "VA",
+								"probability": 0.987348,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 421,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999659,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "어렵",
+						"tagged": "어렵/VA+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "영어가",
+							"beginOffset": 423,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "영어",
+									"beginOffset": 423,
+									"length": 2
+								},
+								"tag": "NNP",
+								"probability": 0.96447515,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 425,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.8613512,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "영어",
+						"tagged": "영어/NNP+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "없어서",
+							"beginOffset": 427,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "없",
+									"beginOffset": 427,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.98264605,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어서",
+									"beginOffset": 428,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99425995,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "없",
+						"tagged": "없/VA+어서/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "쉽게",
+							"beginOffset": 431,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "쉽",
+									"beginOffset": 431,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.98668396,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "게",
+									"beginOffset": 432,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9924596,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "쉽",
+						"tagged": "쉽/VA+게/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "해석이",
+							"beginOffset": 434,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "해석",
+									"beginOffset": 434,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98384315,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 436,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9693943,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "해석",
+						"tagged": "해석/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "가능한",
+							"beginOffset": 438,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "가능하",
+									"beginOffset": 438,
+									"length": 3
+								},
+								"tag": "VA",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 440,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999427,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "가능하",
+						"tagged": "가능하/VA+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "점이",
+							"beginOffset": 442,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "점",
+									"beginOffset": 442,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.4462041,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 443,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9577366,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "점",
+						"tagged": "점/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "마음에",
+							"beginOffset": 445,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "마음",
+									"beginOffset": 445,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9816391,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 447,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9522667,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "마음",
+						"tagged": "마음/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "듭니다.",
+							"beginOffset": 449,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "들",
+									"beginOffset": 449,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.981888,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㅂ니다",
+									"beginOffset": 449,
+									"length": 3
+								},
+								"tag": "EF",
+								"probability": 0.9915705,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 452,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9995465,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "들",
+						"tagged": "들/VV+ㅂ니다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "이 책이 영어책이기 때문에 분량이 짧아서 아쉽긴 했지만 읽기에는 어려운 영어가 없어서 쉽게 해석이 가능한 점이 마음에 듭니다."
+			}
+		],
+		"language": "ko_KR"
+	},
+	"ttr": {
+		"lemma_Cnt": 228,
+		"lemma_TTR": 0.5120967741935484,
+		"CL_TTR": 0.7368421052631579,
+		"NL_TTR": 0.7037037037037037,
+		"NN_TTR": 0.72,
+		"NNG_TTR": 0.7560975609756098,
+		"NNP_TTR": 0.4,
+		"NNB_TTR": 0.75,
+		"NP_TTR": 0.5,
+		"NR_TTR": 0,
+		"VL_TTR": 0.7254901960784313,
+		"VV_TTR": 0.84,
+		"VA_TTR": 1.0,
+		"ML_TTR": 1.0,
+		"MM_TTR": 0,
+		"MA_TTR": 1.0,
+		"MAJ_TTR": 1.0,
+		"IC_TTR": 0,
+		"FL_TTR": 0.3394495412844037,
+		"J_TTR": 0.36,
+		"E_TTR": 0.37037037037037035,
+		"X_TTR": 0.2,
+		"lemma_RTTR": 8.064508064512097,
+		"CL_RTTR": 7.867320817286229,
+		"NL_RTTR": 5.171145012542265,
+		"NN_RTTR": 5.091168824543142,
+		"NNG_RTTR": 4.841386618546788,
+		"NNP_RTTR": 0.8944271909999159,
+		"NNB_RTTR": 1.5,
+		"NP_RTTR": 1.0,
+		"NR_RTTR": 0,
+		"VL_RTTR": 5.181036310903636,
+		"VV_RTTR": 4.2,
+		"VA_RTTR": 3.6055512754639896,
+		"ML_RTTR": 3.0,
+		"MM_RTTR": 0,
+		"MA_RTTR": 3.0,
+		"MAJ_RTTR": 1.7320508075688774,
+		"IC_RTTR": 0,
+		"FL_RTTR": 3.54395725531826,
+		"J_RTTR": 2.545584412271571,
+		"E_RTTR": 2.721655269759087,
+		"X_RTTR": 0.4472135954999579,
+		"lemma_CTTR": 5.702468339350103,
+		"CL_CTTR": 5.563035899673184,
+		"NL_CTTR": 3.65655170486763,
+		"NN_CTTR": 3.6,
+		"NNG_CTTR": 3.4233773083202426,
+		"NNP_CTTR": 0.6324555320336759,
+		"NNB_CTTR": 1.0606601717798212,
+		"NP_CTTR": 0.7071067811865475,
+		"NR_CTTR": 0,
+		"VL_CTTR": 3.663545909013695,
+		"VV_CTTR": 2.9698484809834995,
+		"VA_CTTR": 2.5495097567963927,
+		"ML_CTTR": 2.121320343559643,
+		"MM_CTTR": 0,
+		"MA_CTTR": 2.121320343559643,
+		"MAJ_CTTR": 1.2247448713915892,
+		"IC_CTTR": 0,
+		"FL_CTTR": 2.5059562074708066,
+		"J_CTTR": 1.8,
+		"E_CTTR": 1.9245008972987525,
+		"X_CTTR": 0.31622776601683794,
+		"lemma_MSTTR": 0.78,
+		"CL_MSTTR": 0.8200000000000001,
+		"NL_MSTTR": 0.72,
+		"NN_MSTTR": 0.72,
+		"NNG_MSTTR": 0.7560975609756098,
+		"NNP_MSTTR": 0.4,
+		"NNB_MSTTR": 0.75,
+		"NP_MSTTR": 0.5,
+		"NR_MSTTR": 0,
+		"VL_MSTTR": 0.72,
+		"VV_MSTTR": 0.84,
+		"VA_MSTTR": 1.0,
+		"ML_MSTTR": 1.0,
+		"MM_MSTTR": 0,
+		"MA_MSTTR": 1.0,
+		"MAJ_MSTTR": 1.0,
+		"IC_MSTTR": 0,
+		"FL_MSTTR": 0.5,
+		"J_MSTTR": 0.36,
+		"E_MSTTR": 0.38,
+		"X_MSTTR": 0.2,
+		"lemma_MATTR": 0.7974874371859296,
+		"CL_MATTR": 0.8513846153846155,
+		"NL_MATTR": 0.7399999999999999,
+		"NN_MATTR": 0.72,
+		"NNG_MATTR": 0.7560975609756098,
+		"NNP_MATTR": 0.4,
+		"NNB_MATTR": 0.75,
+		"NP_MATTR": 0.5,
+		"NR_MATTR": 0,
+		"VL_MATTR": 0.73,
+		"VV_MATTR": 0.84,
+		"VA_MATTR": 1.0,
+		"ML_MATTR": 1.0,
+		"MM_MATTR": 0,
+		"MA_MATTR": 1.0,
+		"MAJ_MATTR": 1.0,
+		"IC_MATTR": 0,
+		"FL_MATTR": 0.5206666666666669,
+		"J_MATTR": 0.36,
+		"E_MATTR": 0.396,
+		"X_MATTR": 0.2,
+		"lemma_MTLD": 57.310398819650416,
+		"CL_MTLD": 121.296,
+		"NL_MTLD": 41.903225806451616,
+		"NN_MTLD": 39.583333333333336,
+		"NNG_MTLD": 47.068000000000005,
+		"NNP_MTLD": 2.3333333333333335,
+		"NNB_MTLD": 4.48,
+		"NP_MTLD": 2.24,
+		"NR_MTLD": 0.0,
+		"VL_MTLD": 44.032786885245905,
+		"VV_MTLD": 43.74999999999999,
+		"VA_MTLD": 0.0,
+		"ML_MTLD": 0.0,
+		"MM_MTLD": 0.0,
+		"MA_MTLD": 0.0,
+		"MAJ_MTLD": 0.0,
+		"IC_MTLD": 0.0,
+		"FL_MTLD": 21.8,
+		"J_MTLD": 13.578087195787276,
+		"E_MTLD": 13.810344827586206,
+		"X_MTLD": 1.75,
+		"lemma_VOCDD": 68.11151083101167,
+		"CL_VOCDD": 103.14161941900193,
+		"NL_VOCDD": 48.27503162228711,
+		"NN_VOCDD": 0,
+		"NNG_VOCDD": 0,
+		"NNP_VOCDD": 0,
+		"NNB_VOCDD": 0,
+		"NP_VOCDD": 0,
+		"NR_VOCDD": 0,
+		"VL_VOCDD": 44.59098970780682,
+		"VV_VOCDD": 0,
+		"VA_VOCDD": 0,
+		"ML_VOCDD": 0,
+		"MM_VOCDD": 0,
+		"MA_VOCDD": 0,
+		"MAJ_VOCDD": 0,
+		"IC_VOCDD": 0,
+		"FL_VOCDD": 15.376579097117796,
+		"J_VOCDD": 0,
+		"E_VOCDD": 6.914855166500135,
+		"X_VOCDD": 0,
+		"lemma_HDD": 0.8021108976581308,
+		"CL_HDD": 0.8521254181042794,
+		"NL_HDD": 0.7535470243572349,
+		"NN_HDD": 0.751353307280359,
+		"NNG_HDD": 0.0,
+		"NNP_HDD": 0.0,
+		"NNB_HDD": 0.0,
+		"NP_HDD": 0.0,
+		"NR_HDD": 0.0,
+		"VL_HDD": 0.7409403761504605,
+		"VV_HDD": 0.0,
+		"VA_HDD": 0.0,
+		"ML_HDD": 0.0,
+		"MM_HDD": 0.0,
+		"MA_HDD": 0.0,
+		"MAJ_HDD": 0.0,
+		"IC_HDD": 0.0,
+		"FL_HDD": 0.5652996510391867,
+		"J_HDD": 0.39631138548543077,
+		"E_HDD": 0.43301475403901274,
+		"X_HDD": 0.0
+	},
+	"similarity": {
+		"avgSentSimilarity": 0.11410243809223175,
+		"topicConsistency": 0.5085
+	},
+	"adjacency": {
+		"adjacent_sentence_overlap_all_lemmas": 147,
+		"adjacent_sentence_overlap_all_lemmas_normed": 8,
+		"binary_adjacent_sentence_overlap_all_lemmas": 8,
+		"adjacent_two_sentence_overlap_all_lemmas": 110,
+		"adjacent_two_sentence_overlap_all_lemmas_normed": 7,
+		"binary_adjacent_two_sentence_overlap_all_lemmas": 7,
+		"adjacent_sentence_overlap_content_lemmas": 66,
+		"adjacent_sentence_overlap_content_lemmas_normed": 8,
+		"binary_adjacent_sentence_overlap_content_lemmas": 7,
+		"adjacent_two_sentence_overlap_content_lemmas": 53,
+		"adjacent_two_sentence_overlap_content_lemmas_normed": 7,
+		"binary_adjacent_two_sentence_overlap_content_lemmas": 5,
+		"adjacent_sentence_overlap_function_lemmas": 68,
+		"adjacent_sentence_overlap_function_lemmas_normed": 8,
+		"binary_adjacent_sentence_overlap_function_lemmas": 8,
+		"adjacent_two_sentence_overlap_function_lemmas": 49,
+		"adjacent_two_sentence_overlap_function_lemmas_normed": 7,
+		"binary_adjacent_two_sentence_overlap_function_lemmas": 7,
+		"adjacent_sentence_overlap_noun_lemmas": 41,
+		"adjacent_sentence_overlap_noun_lemmas_normed": 8,
+		"binary_adjacent_sentence_overlap_noun_lemmas": 5,
+		"adjacent_two_sentence_overlap_noun_lemmas": 34,
+		"adjacent_two_sentence_overlap_noun_lemmas_normed": 7,
+		"binary_adjacent_two_sentence_overlap_noun_lemmas": 2,
+		"adjacent_sentence_overlap_verb_lemmas": 25,
+		"adjacent_sentence_overlap_verb_lemmas_normed": 8,
+		"binary_adjacent_sentence_overlap_verb_lemmas": 6,
+		"adjacent_two_sentence_overlap_verb_lemmas": 18,
+		"adjacent_two_sentence_overlap_verb_lemmas_normed": 7,
+		"binary_adjacent_two_sentence_overlap_verb_lemmas": 4,
+		"adjacent_sentence_overlap_adjective_lemmas": 2,
+		"adjacent_sentence_overlap_adjective_lemmas_normed": 2,
+		"binary_adjacent_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas": 1,
+		"adjacent_two_sentence_overlap_adjective_lemmas_normed": 1,
+		"binary_adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_sentence_overlap_adverb_lemmas": 3,
+		"adjacent_sentence_overlap_adverb_lemmas_normed": 2,
+		"binary_adjacent_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas": 2,
+		"adjacent_two_sentence_overlap_adverb_lemmas_normed": 2,
+		"binary_adjacent_two_sentence_overlap_adverb_lemmas": 0
+	},
+	"basic_count": {
+		"para_Cnt": 1,
+		"sentence_Cnt": 9,
+		"word_Cnt": 108,
+		"morph_Cnt": 248,
+		"char_Cnt": 358,
+		"CL_Cnt": 114,
+		"NL_Cnt": 54,
+		"NN_Cnt": 50,
+		"NNG_Cnt": 41,
+		"NNP_Cnt": 5,
+		"NNB_Cnt": 4,
+		"NP_Cnt": 4,
+		"NP_People_Cnt": 4,
+		"NP_Things_Cnt": 0,
+		"NR_Cnt": 0,
+		"VL_Cnt": 51,
+		"VV_Cnt": 25,
+		"VA_Cnt": 13,
+		"VX_Cnt": 9,
+		"VCP_Cnt": 4,
+		"VCN_Cnt": 0,
+		"ML_Cnt": 9,
+		"MA_Cnt": 0,
+		"MM_Cnt": 0,
+		"FL_Cnt": 109,
+		"J_Cnt": 50,
+		"E_Cnt": 54,
+		"X_Cnt": 5,
+		"IC_Cnt": 0
+	},
+	"basic_density": {
+		"CL_Den": 0.4596774193548387,
+		"FL_Den": 0.43951612903225806,
+		"NL_Den": 0.20161290322580644,
+		"NNGL_Den": 0.16532258064516128,
+		"NNPL_Den": 0.020161290322580645,
+		"NNBL_Den": 0.016129032258064516,
+		"NPL_Den": 0.016129032258064516,
+		"NML_Den": 0.0,
+		"VL_Den": 0.2056451612903226,
+		"VVL_Den": 0.10080645161290322,
+		"VAL_Den": 0.05241935483870968,
+		"ML_Den": 0.036290322580645164,
+		"MML_Den": 0.0,
+		"MAL_Den": 0.0,
+		"JL_Den": 0.20161290322580644,
+		"EL_Den": 0.21774193548387097,
+		"XL_Den": 0.020161290322580645,
+		"ITL_Den": 0.0,
+		"NCL_Den": 0.43859649122807015,
+		"NNCL_Den": 0.35964912280701755,
+		"NNGCL_Den": 0.043859649122807015,
+		"NNBCL_Den": 0.03508771929824561,
+		"NPCL_Den": 0.03508771929824561,
+		"NMCL_Den": 0.0,
+		"VCL_Den": 0.4473684210526316,
+		"VVCL_Den": 0.21929824561403508,
+		"VACL_Den": 0.11403508771929824,
+		"MCL_Den": 0.07894736842105263,
+		"MMCL_Den": 0.0,
+		"MACL_Den": 0.0,
+		"INCL_Den": 0.0,
+		"JFL_Den": 0.45871559633027525,
+		"EFL_Den": 0.4954128440366973,
+		"XFL_Den": 0.045871559633027525
+	},
+	"basic_level": {
+		"morph_LenAvg": 1.4919354838709677,
+		"morph_LenStd": 0.6838690657307712,
+		"word_LenAvg": 3.037037037037037,
+		"word_LenStd": 1.1857637476727505
+	},
+	"basic_list": {
+		"NL_Lst": [
+			[
+				0,
+				"저",
+				"NP",
+				"저는 이 책을 영어시간에 수행평가를 하기 위해서 읽기로 했었습니다."
+			],
+			[
+				1,
+				"책",
+				"NNG",
+				"저는 이 책을 영어시간에 수행평가를 하기 위해서 읽기로 했었습니다."
+			],
+			[
+				2,
+				"영어",
+				"NNP",
+				"저는 이 책을 영어시간에 수행평가를 하기 위해서 읽기로 했었습니다."
+			],
+			[
+				3,
+				"시간",
+				"NNG",
+				"저는 이 책을 영어시간에 수행평가를 하기 위해서 읽기로 했었습니다."
+			],
+			[
+				4,
+				"수행",
+				"NNG",
+				"저는 이 책을 영어시간에 수행평가를 하기 위해서 읽기로 했었습니다."
+			],
+			[
+				5,
+				"평가",
+				"NNG",
+				"저는 이 책을 영어시간에 수행평가를 하기 위해서 읽기로 했었습니다."
+			],
+			[
+				6,
+				"책",
+				"NNG",
+				"이 책은 음식에 대해 관심이 있는 저의 마음을 사로잡는데 충분 했었습니다."
+			],
+			[
+				7,
+				"음식",
+				"NNG",
+				"이 책은 음식에 대해 관심이 있는 저의 마음을 사로잡는데 충분 했었습니다."
+			],
+			[
+				8,
+				"관심",
+				"NNG",
+				"이 책은 음식에 대해 관심이 있는 저의 마음을 사로잡는데 충분 했었습니다."
+			],
+			[
+				9,
+				"저",
+				"NP",
+				"이 책은 음식에 대해 관심이 있는 저의 마음을 사로잡는데 충분 했었습니다."
+			],
+			[
+				10,
+				"마음",
+				"NNG",
+				"이 책은 음식에 대해 관심이 있는 저의 마음을 사로잡는데 충분 했었습니다."
+			],
+			[
+				11,
+				"br",
+				"NNP",
+				"<br/>음식은 농부들의 땀과 호흡으로 약 6~7개월이라는 긴 시간이 흐르고 나서야 우리의 식탁위에 오르는 음식의 재료가 됩니다."
+			],
+			[
+				12,
+				"음식",
+				"NNG",
+				"<br/>음식은 농부들의 땀과 호흡으로 약 6~7개월이라는 긴 시간이 흐르고 나서야 우리의 식탁위에 오르는 음식의 재료가 됩니다."
+			],
+			[
+				13,
+				"농부",
+				"NNG",
+				"<br/>음식은 농부들의 땀과 호흡으로 약 6~7개월이라는 긴 시간이 흐르고 나서야 우리의 식탁위에 오르는 음식의 재료가 됩니다."
+			],
+			[
+				14,
+				"땀",
+				"NNG",
+				"<br/>음식은 농부들의 땀과 호흡으로 약 6~7개월이라는 긴 시간이 흐르고 나서야 우리의 식탁위에 오르는 음식의 재료가 됩니다."
+			],
+			[
+				15,
+				"호흡",
+				"NNG",
+				"<br/>음식은 농부들의 땀과 호흡으로 약 6~7개월이라는 긴 시간이 흐르고 나서야 우리의 식탁위에 오르는 음식의 재료가 됩니다."
+			],
+			[
+				16,
+				"개월",
+				"NNB",
+				"<br/>음식은 농부들의 땀과 호흡으로 약 6~7개월이라는 긴 시간이 흐르고 나서야 우리의 식탁위에 오르는 음식의 재료가 됩니다."
+			],
+			[
+				17,
+				"시간",
+				"NNG",
+				"<br/>음식은 농부들의 땀과 호흡으로 약 6~7개월이라는 긴 시간이 흐르고 나서야 우리의 식탁위에 오르는 음식의 재료가 됩니다."
+			],
+			[
+				18,
+				"우리",
+				"NP",
+				"<br/>음식은 농부들의 땀과 호흡으로 약 6~7개월이라는 긴 시간이 흐르고 나서야 우리의 식탁위에 오르는 음식의 재료가 됩니다."
+			],
+			[
+				19,
+				"식탁",
+				"NNG",
+				"<br/>음식은 농부들의 땀과 호흡으로 약 6~7개월이라는 긴 시간이 흐르고 나서야 우리의 식탁위에 오르는 음식의 재료가 됩니다."
+			],
+			[
+				20,
+				"위",
+				"NNG",
+				"<br/>음식은 농부들의 땀과 호흡으로 약 6~7개월이라는 긴 시간이 흐르고 나서야 우리의 식탁위에 오르는 음식의 재료가 됩니다."
+			],
+			[
+				21,
+				"음식",
+				"NNG",
+				"<br/>음식은 농부들의 땀과 호흡으로 약 6~7개월이라는 긴 시간이 흐르고 나서야 우리의 식탁위에 오르는 음식의 재료가 됩니다."
+			],
+			[
+				22,
+				"재료",
+				"NNG",
+				"<br/>음식은 농부들의 땀과 호흡으로 약 6~7개월이라는 긴 시간이 흐르고 나서야 우리의 식탁위에 오르는 음식의 재료가 됩니다."
+			],
+			[
+				23,
+				"과정",
+				"NNG",
+				"하지만 이 과정이 순탄하지는 않습니다."
+			],
+			[
+				24,
+				"열매",
+				"NNG",
+				"먼저, 열매나 곡식을 쪼아먹는 새들도 쫓아내야 하고, 곡물이 자랄 때 옆에서 같이 자라는 잡초도 뽑아서 곡물에게만 영양분이 흡수되도록 해야 합니다."
+			],
+			[
+				25,
+				"곡식",
+				"NNG",
+				"먼저, 열매나 곡식을 쪼아먹는 새들도 쫓아내야 하고, 곡물이 자랄 때 옆에서 같이 자라는 잡초도 뽑아서 곡물에게만 영양분이 흡수되도록 해야 합니다."
+			],
+			[
+				26,
+				"새",
+				"NNG",
+				"먼저, 열매나 곡식을 쪼아먹는 새들도 쫓아내야 하고, 곡물이 자랄 때 옆에서 같이 자라는 잡초도 뽑아서 곡물에게만 영양분이 흡수되도록 해야 합니다."
+			],
+			[
+				27,
+				"곡물",
+				"NNG",
+				"먼저, 열매나 곡식을 쪼아먹는 새들도 쫓아내야 하고, 곡물이 자랄 때 옆에서 같이 자라는 잡초도 뽑아서 곡물에게만 영양분이 흡수되도록 해야 합니다."
+			],
+			[
+				28,
+				"때",
+				"NNG",
+				"먼저, 열매나 곡식을 쪼아먹는 새들도 쫓아내야 하고, 곡물이 자랄 때 옆에서 같이 자라는 잡초도 뽑아서 곡물에게만 영양분이 흡수되도록 해야 합니다."
+			],
+			[
+				29,
+				"옆",
+				"NNG",
+				"먼저, 열매나 곡식을 쪼아먹는 새들도 쫓아내야 하고, 곡물이 자랄 때 옆에서 같이 자라는 잡초도 뽑아서 곡물에게만 영양분이 흡수되도록 해야 합니다."
+			],
+			[
+				30,
+				"잡초",
+				"NNG",
+				"먼저, 열매나 곡식을 쪼아먹는 새들도 쫓아내야 하고, 곡물이 자랄 때 옆에서 같이 자라는 잡초도 뽑아서 곡물에게만 영양분이 흡수되도록 해야 합니다."
+			],
+			[
+				31,
+				"곡물",
+				"NNG",
+				"먼저, 열매나 곡식을 쪼아먹는 새들도 쫓아내야 하고, 곡물이 자랄 때 옆에서 같이 자라는 잡초도 뽑아서 곡물에게만 영양분이 흡수되도록 해야 합니다."
+			],
+			[
+				32,
+				"영양분",
+				"NNG",
+				"먼저, 열매나 곡식을 쪼아먹는 새들도 쫓아내야 하고, 곡물이 자랄 때 옆에서 같이 자라는 잡초도 뽑아서 곡물에게만 영양분이 흡수되도록 해야 합니다."
+			],
+			[
+				33,
+				"br",
+				"NNP",
+				"<br/>그리고 가장 조심해야 하는 것은 해충들입니다."
+			],
+			[
+				34,
+				"것",
+				"NNB",
+				"<br/>그리고 가장 조심해야 하는 것은 해충들입니다."
+			],
+			[
+				35,
+				"해충",
+				"NNG",
+				"<br/>그리고 가장 조심해야 하는 것은 해충들입니다."
+			],
+			[
+				36,
+				"종류",
+				"NNG",
+				"종류도 어마어마하게 다양해서 신경을 써야 할 부분이 너무 많아서 농사를 짓는 것이 매우 힘든 일입니다."
+			],
+			[
+				37,
+				"신경",
+				"NNG",
+				"종류도 어마어마하게 다양해서 신경을 써야 할 부분이 너무 많아서 농사를 짓는 것이 매우 힘든 일입니다."
+			],
+			[
+				38,
+				"부분",
+				"NNG",
+				"종류도 어마어마하게 다양해서 신경을 써야 할 부분이 너무 많아서 농사를 짓는 것이 매우 힘든 일입니다."
+			],
+			[
+				39,
+				"농사",
+				"NNG",
+				"종류도 어마어마하게 다양해서 신경을 써야 할 부분이 너무 많아서 농사를 짓는 것이 매우 힘든 일입니다."
+			],
+			[
+				40,
+				"것",
+				"NNB",
+				"종류도 어마어마하게 다양해서 신경을 써야 할 부분이 너무 많아서 농사를 짓는 것이 매우 힘든 일입니다."
+			],
+			[
+				41,
+				"일",
+				"NNG",
+				"종류도 어마어마하게 다양해서 신경을 써야 할 부분이 너무 많아서 농사를 짓는 것이 매우 힘든 일입니다."
+			],
+			[
+				42,
+				"우리",
+				"NP",
+				"그래서 우리들은 농부들에게 감사한 마음을 가지고 살아야 합니다."
+			],
+			[
+				43,
+				"농부",
+				"NNG",
+				"그래서 우리들은 농부들에게 감사한 마음을 가지고 살아야 합니다."
+			],
+			[
+				44,
+				"마음",
+				"NNG",
+				"그래서 우리들은 농부들에게 감사한 마음을 가지고 살아야 합니다."
+			],
+			[
+				45,
+				"책",
+				"NNG",
+				"이 책이 영어책이기 때문에 분량이 짧아서 아쉽긴 했지만 읽기에는 어려운 영어가 없어서 쉽게 해석이 가능한 점이 마음에 듭니다."
+			],
+			[
+				46,
+				"영어",
+				"NNP",
+				"이 책이 영어책이기 때문에 분량이 짧아서 아쉽긴 했지만 읽기에는 어려운 영어가 없어서 쉽게 해석이 가능한 점이 마음에 듭니다."
+			],
+			[
+				47,
+				"책",
+				"NNG",
+				"이 책이 영어책이기 때문에 분량이 짧아서 아쉽긴 했지만 읽기에는 어려운 영어가 없어서 쉽게 해석이 가능한 점이 마음에 듭니다."
+			],
+			[
+				48,
+				"때문",
+				"NNB",
+				"이 책이 영어책이기 때문에 분량이 짧아서 아쉽긴 했지만 읽기에는 어려운 영어가 없어서 쉽게 해석이 가능한 점이 마음에 듭니다."
+			],
+			[
+				49,
+				"분량",
+				"NNG",
+				"이 책이 영어책이기 때문에 분량이 짧아서 아쉽긴 했지만 읽기에는 어려운 영어가 없어서 쉽게 해석이 가능한 점이 마음에 듭니다."
+			],
+			[
+				50,
+				"영어",
+				"NNP",
+				"이 책이 영어책이기 때문에 분량이 짧아서 아쉽긴 했지만 읽기에는 어려운 영어가 없어서 쉽게 해석이 가능한 점이 마음에 듭니다."
+			],
+			[
+				51,
+				"해석",
+				"NNG",
+				"이 책이 영어책이기 때문에 분량이 짧아서 아쉽긴 했지만 읽기에는 어려운 영어가 없어서 쉽게 해석이 가능한 점이 마음에 듭니다."
+			],
+			[
+				52,
+				"점",
+				"NNG",
+				"이 책이 영어책이기 때문에 분량이 짧아서 아쉽긴 했지만 읽기에는 어려운 영어가 없어서 쉽게 해석이 가능한 점이 마음에 듭니다."
+			],
+			[
+				53,
+				"마음",
+				"NNG",
+				"이 책이 영어책이기 때문에 분량이 짧아서 아쉽긴 했지만 읽기에는 어려운 영어가 없어서 쉽게 해석이 가능한 점이 마음에 듭니다."
+			]
+		],
+		"NN_Lst": [
+			[
+				0,
+				"책",
+				"NNG",
+				"저는 이 책을 영어시간에 수행평가를 하기 위해서 읽기로 했었습니다."
+			],
+			[
+				1,
+				"영어",
+				"NNP",
+				"저는 이 책을 영어시간에 수행평가를 하기 위해서 읽기로 했었습니다."
+			],
+			[
+				2,
+				"시간",
+				"NNG",
+				"저는 이 책을 영어시간에 수행평가를 하기 위해서 읽기로 했었습니다."
+			],
+			[
+				3,
+				"수행",
+				"NNG",
+				"저는 이 책을 영어시간에 수행평가를 하기 위해서 읽기로 했었습니다."
+			],
+			[
+				4,
+				"평가",
+				"NNG",
+				"저는 이 책을 영어시간에 수행평가를 하기 위해서 읽기로 했었습니다."
+			],
+			[
+				5,
+				"책",
+				"NNG",
+				"이 책은 음식에 대해 관심이 있는 저의 마음을 사로잡는데 충분 했었습니다."
+			],
+			[
+				6,
+				"음식",
+				"NNG",
+				"이 책은 음식에 대해 관심이 있는 저의 마음을 사로잡는데 충분 했었습니다."
+			],
+			[
+				7,
+				"관심",
+				"NNG",
+				"이 책은 음식에 대해 관심이 있는 저의 마음을 사로잡는데 충분 했었습니다."
+			],
+			[
+				8,
+				"마음",
+				"NNG",
+				"이 책은 음식에 대해 관심이 있는 저의 마음을 사로잡는데 충분 했었습니다."
+			],
+			[
+				9,
+				"br",
+				"NNP",
+				"<br/>음식은 농부들의 땀과 호흡으로 약 6~7개월이라는 긴 시간이 흐르고 나서야 우리의 식탁위에 오르는 음식의 재료가 됩니다."
+			],
+			[
+				10,
+				"음식",
+				"NNG",
+				"<br/>음식은 농부들의 땀과 호흡으로 약 6~7개월이라는 긴 시간이 흐르고 나서야 우리의 식탁위에 오르는 음식의 재료가 됩니다."
+			],
+			[
+				11,
+				"농부",
+				"NNG",
+				"<br/>음식은 농부들의 땀과 호흡으로 약 6~7개월이라는 긴 시간이 흐르고 나서야 우리의 식탁위에 오르는 음식의 재료가 됩니다."
+			],
+			[
+				12,
+				"땀",
+				"NNG",
+				"<br/>음식은 농부들의 땀과 호흡으로 약 6~7개월이라는 긴 시간이 흐르고 나서야 우리의 식탁위에 오르는 음식의 재료가 됩니다."
+			],
+			[
+				13,
+				"호흡",
+				"NNG",
+				"<br/>음식은 농부들의 땀과 호흡으로 약 6~7개월이라는 긴 시간이 흐르고 나서야 우리의 식탁위에 오르는 음식의 재료가 됩니다."
+			],
+			[
+				14,
+				"개월",
+				"NNB",
+				"<br/>음식은 농부들의 땀과 호흡으로 약 6~7개월이라는 긴 시간이 흐르고 나서야 우리의 식탁위에 오르는 음식의 재료가 됩니다."
+			],
+			[
+				15,
+				"시간",
+				"NNG",
+				"<br/>음식은 농부들의 땀과 호흡으로 약 6~7개월이라는 긴 시간이 흐르고 나서야 우리의 식탁위에 오르는 음식의 재료가 됩니다."
+			],
+			[
+				16,
+				"식탁",
+				"NNG",
+				"<br/>음식은 농부들의 땀과 호흡으로 약 6~7개월이라는 긴 시간이 흐르고 나서야 우리의 식탁위에 오르는 음식의 재료가 됩니다."
+			],
+			[
+				17,
+				"위",
+				"NNG",
+				"<br/>음식은 농부들의 땀과 호흡으로 약 6~7개월이라는 긴 시간이 흐르고 나서야 우리의 식탁위에 오르는 음식의 재료가 됩니다."
+			],
+			[
+				18,
+				"음식",
+				"NNG",
+				"<br/>음식은 농부들의 땀과 호흡으로 약 6~7개월이라는 긴 시간이 흐르고 나서야 우리의 식탁위에 오르는 음식의 재료가 됩니다."
+			],
+			[
+				19,
+				"재료",
+				"NNG",
+				"<br/>음식은 농부들의 땀과 호흡으로 약 6~7개월이라는 긴 시간이 흐르고 나서야 우리의 식탁위에 오르는 음식의 재료가 됩니다."
+			],
+			[
+				20,
+				"과정",
+				"NNG",
+				"하지만 이 과정이 순탄하지는 않습니다."
+			],
+			[
+				21,
+				"열매",
+				"NNG",
+				"먼저, 열매나 곡식을 쪼아먹는 새들도 쫓아내야 하고, 곡물이 자랄 때 옆에서 같이 자라는 잡초도 뽑아서 곡물에게만 영양분이 흡수되도록 해야 합니다."
+			],
+			[
+				22,
+				"곡식",
+				"NNG",
+				"먼저, 열매나 곡식을 쪼아먹는 새들도 쫓아내야 하고, 곡물이 자랄 때 옆에서 같이 자라는 잡초도 뽑아서 곡물에게만 영양분이 흡수되도록 해야 합니다."
+			],
+			[
+				23,
+				"새",
+				"NNG",
+				"먼저, 열매나 곡식을 쪼아먹는 새들도 쫓아내야 하고, 곡물이 자랄 때 옆에서 같이 자라는 잡초도 뽑아서 곡물에게만 영양분이 흡수되도록 해야 합니다."
+			],
+			[
+				24,
+				"곡물",
+				"NNG",
+				"먼저, 열매나 곡식을 쪼아먹는 새들도 쫓아내야 하고, 곡물이 자랄 때 옆에서 같이 자라는 잡초도 뽑아서 곡물에게만 영양분이 흡수되도록 해야 합니다."
+			],
+			[
+				25,
+				"때",
+				"NNG",
+				"먼저, 열매나 곡식을 쪼아먹는 새들도 쫓아내야 하고, 곡물이 자랄 때 옆에서 같이 자라는 잡초도 뽑아서 곡물에게만 영양분이 흡수되도록 해야 합니다."
+			],
+			[
+				26,
+				"옆",
+				"NNG",
+				"먼저, 열매나 곡식을 쪼아먹는 새들도 쫓아내야 하고, 곡물이 자랄 때 옆에서 같이 자라는 잡초도 뽑아서 곡물에게만 영양분이 흡수되도록 해야 합니다."
+			],
+			[
+				27,
+				"잡초",
+				"NNG",
+				"먼저, 열매나 곡식을 쪼아먹는 새들도 쫓아내야 하고, 곡물이 자랄 때 옆에서 같이 자라는 잡초도 뽑아서 곡물에게만 영양분이 흡수되도록 해야 합니다."
+			],
+			[
+				28,
+				"곡물",
+				"NNG",
+				"먼저, 열매나 곡식을 쪼아먹는 새들도 쫓아내야 하고, 곡물이 자랄 때 옆에서 같이 자라는 잡초도 뽑아서 곡물에게만 영양분이 흡수되도록 해야 합니다."
+			],
+			[
+				29,
+				"영양분",
+				"NNG",
+				"먼저, 열매나 곡식을 쪼아먹는 새들도 쫓아내야 하고, 곡물이 자랄 때 옆에서 같이 자라는 잡초도 뽑아서 곡물에게만 영양분이 흡수되도록 해야 합니다."
+			],
+			[
+				30,
+				"br",
+				"NNP",
+				"<br/>그리고 가장 조심해야 하는 것은 해충들입니다."
+			],
+			[
+				31,
+				"것",
+				"NNB",
+				"<br/>그리고 가장 조심해야 하는 것은 해충들입니다."
+			],
+			[
+				32,
+				"해충",
+				"NNG",
+				"<br/>그리고 가장 조심해야 하는 것은 해충들입니다."
+			],
+			[
+				33,
+				"종류",
+				"NNG",
+				"종류도 어마어마하게 다양해서 신경을 써야 할 부분이 너무 많아서 농사를 짓는 것이 매우 힘든 일입니다."
+			],
+			[
+				34,
+				"신경",
+				"NNG",
+				"종류도 어마어마하게 다양해서 신경을 써야 할 부분이 너무 많아서 농사를 짓는 것이 매우 힘든 일입니다."
+			],
+			[
+				35,
+				"부분",
+				"NNG",
+				"종류도 어마어마하게 다양해서 신경을 써야 할 부분이 너무 많아서 농사를 짓는 것이 매우 힘든 일입니다."
+			],
+			[
+				36,
+				"농사",
+				"NNG",
+				"종류도 어마어마하게 다양해서 신경을 써야 할 부분이 너무 많아서 농사를 짓는 것이 매우 힘든 일입니다."
+			],
+			[
+				37,
+				"것",
+				"NNB",
+				"종류도 어마어마하게 다양해서 신경을 써야 할 부분이 너무 많아서 농사를 짓는 것이 매우 힘든 일입니다."
+			],
+			[
+				38,
+				"일",
+				"NNG",
+				"종류도 어마어마하게 다양해서 신경을 써야 할 부분이 너무 많아서 농사를 짓는 것이 매우 힘든 일입니다."
+			],
+			[
+				39,
+				"농부",
+				"NNG",
+				"그래서 우리들은 농부들에게 감사한 마음을 가지고 살아야 합니다."
+			],
+			[
+				40,
+				"마음",
+				"NNG",
+				"그래서 우리들은 농부들에게 감사한 마음을 가지고 살아야 합니다."
+			],
+			[
+				41,
+				"책",
+				"NNG",
+				"이 책이 영어책이기 때문에 분량이 짧아서 아쉽긴 했지만 읽기에는 어려운 영어가 없어서 쉽게 해석이 가능한 점이 마음에 듭니다."
+			],
+			[
+				42,
+				"영어",
+				"NNP",
+				"이 책이 영어책이기 때문에 분량이 짧아서 아쉽긴 했지만 읽기에는 어려운 영어가 없어서 쉽게 해석이 가능한 점이 마음에 듭니다."
+			],
+			[
+				43,
+				"책",
+				"NNG",
+				"이 책이 영어책이기 때문에 분량이 짧아서 아쉽긴 했지만 읽기에는 어려운 영어가 없어서 쉽게 해석이 가능한 점이 마음에 듭니다."
+			],
+			[
+				44,
+				"때문",
+				"NNB",
+				"이 책이 영어책이기 때문에 분량이 짧아서 아쉽긴 했지만 읽기에는 어려운 영어가 없어서 쉽게 해석이 가능한 점이 마음에 듭니다."
+			],
+			[
+				45,
+				"분량",
+				"NNG",
+				"이 책이 영어책이기 때문에 분량이 짧아서 아쉽긴 했지만 읽기에는 어려운 영어가 없어서 쉽게 해석이 가능한 점이 마음에 듭니다."
+			],
+			[
+				46,
+				"영어",
+				"NNP",
+				"이 책이 영어책이기 때문에 분량이 짧아서 아쉽긴 했지만 읽기에는 어려운 영어가 없어서 쉽게 해석이 가능한 점이 마음에 듭니다."
+			],
+			[
+				47,
+				"해석",
+				"NNG",
+				"이 책이 영어책이기 때문에 분량이 짧아서 아쉽긴 했지만 읽기에는 어려운 영어가 없어서 쉽게 해석이 가능한 점이 마음에 듭니다."
+			],
+			[
+				48,
+				"점",
+				"NNG",
+				"이 책이 영어책이기 때문에 분량이 짧아서 아쉽긴 했지만 읽기에는 어려운 영어가 없어서 쉽게 해석이 가능한 점이 마음에 듭니다."
+			],
+			[
+				49,
+				"마음",
+				"NNG",
+				"이 책이 영어책이기 때문에 분량이 짧아서 아쉽긴 했지만 읽기에는 어려운 영어가 없어서 쉽게 해석이 가능한 점이 마음에 듭니다."
+			]
+		],
+		"NNG_Lst": [
+			[
+				0,
+				"책",
+				"NNG",
+				"저는 이 책을 영어시간에 수행평가를 하기 위해서 읽기로 했었습니다."
+			],
+			[
+				1,
+				"시간",
+				"NNG",
+				"저는 이 책을 영어시간에 수행평가를 하기 위해서 읽기로 했었습니다."
+			],
+			[
+				2,
+				"수행",
+				"NNG",
+				"저는 이 책을 영어시간에 수행평가를 하기 위해서 읽기로 했었습니다."
+			],
+			[
+				3,
+				"평가",
+				"NNG",
+				"저는 이 책을 영어시간에 수행평가를 하기 위해서 읽기로 했었습니다."
+			],
+			[
+				4,
+				"책",
+				"NNG",
+				"이 책은 음식에 대해 관심이 있는 저의 마음을 사로잡는데 충분 했었습니다."
+			],
+			[
+				5,
+				"음식",
+				"NNG",
+				"이 책은 음식에 대해 관심이 있는 저의 마음을 사로잡는데 충분 했었습니다."
+			],
+			[
+				6,
+				"관심",
+				"NNG",
+				"이 책은 음식에 대해 관심이 있는 저의 마음을 사로잡는데 충분 했었습니다."
+			],
+			[
+				7,
+				"마음",
+				"NNG",
+				"이 책은 음식에 대해 관심이 있는 저의 마음을 사로잡는데 충분 했었습니다."
+			],
+			[
+				8,
+				"음식",
+				"NNG",
+				"<br/>음식은 농부들의 땀과 호흡으로 약 6~7개월이라는 긴 시간이 흐르고 나서야 우리의 식탁위에 오르는 음식의 재료가 됩니다."
+			],
+			[
+				9,
+				"농부",
+				"NNG",
+				"<br/>음식은 농부들의 땀과 호흡으로 약 6~7개월이라는 긴 시간이 흐르고 나서야 우리의 식탁위에 오르는 음식의 재료가 됩니다."
+			],
+			[
+				10,
+				"땀",
+				"NNG",
+				"<br/>음식은 농부들의 땀과 호흡으로 약 6~7개월이라는 긴 시간이 흐르고 나서야 우리의 식탁위에 오르는 음식의 재료가 됩니다."
+			],
+			[
+				11,
+				"호흡",
+				"NNG",
+				"<br/>음식은 농부들의 땀과 호흡으로 약 6~7개월이라는 긴 시간이 흐르고 나서야 우리의 식탁위에 오르는 음식의 재료가 됩니다."
+			],
+			[
+				12,
+				"시간",
+				"NNG",
+				"<br/>음식은 농부들의 땀과 호흡으로 약 6~7개월이라는 긴 시간이 흐르고 나서야 우리의 식탁위에 오르는 음식의 재료가 됩니다."
+			],
+			[
+				13,
+				"식탁",
+				"NNG",
+				"<br/>음식은 농부들의 땀과 호흡으로 약 6~7개월이라는 긴 시간이 흐르고 나서야 우리의 식탁위에 오르는 음식의 재료가 됩니다."
+			],
+			[
+				14,
+				"위",
+				"NNG",
+				"<br/>음식은 농부들의 땀과 호흡으로 약 6~7개월이라는 긴 시간이 흐르고 나서야 우리의 식탁위에 오르는 음식의 재료가 됩니다."
+			],
+			[
+				15,
+				"음식",
+				"NNG",
+				"<br/>음식은 농부들의 땀과 호흡으로 약 6~7개월이라는 긴 시간이 흐르고 나서야 우리의 식탁위에 오르는 음식의 재료가 됩니다."
+			],
+			[
+				16,
+				"재료",
+				"NNG",
+				"<br/>음식은 농부들의 땀과 호흡으로 약 6~7개월이라는 긴 시간이 흐르고 나서야 우리의 식탁위에 오르는 음식의 재료가 됩니다."
+			],
+			[
+				17,
+				"과정",
+				"NNG",
+				"하지만 이 과정이 순탄하지는 않습니다."
+			],
+			[
+				18,
+				"열매",
+				"NNG",
+				"먼저, 열매나 곡식을 쪼아먹는 새들도 쫓아내야 하고, 곡물이 자랄 때 옆에서 같이 자라는 잡초도 뽑아서 곡물에게만 영양분이 흡수되도록 해야 합니다."
+			],
+			[
+				19,
+				"곡식",
+				"NNG",
+				"먼저, 열매나 곡식을 쪼아먹는 새들도 쫓아내야 하고, 곡물이 자랄 때 옆에서 같이 자라는 잡초도 뽑아서 곡물에게만 영양분이 흡수되도록 해야 합니다."
+			],
+			[
+				20,
+				"새",
+				"NNG",
+				"먼저, 열매나 곡식을 쪼아먹는 새들도 쫓아내야 하고, 곡물이 자랄 때 옆에서 같이 자라는 잡초도 뽑아서 곡물에게만 영양분이 흡수되도록 해야 합니다."
+			],
+			[
+				21,
+				"곡물",
+				"NNG",
+				"먼저, 열매나 곡식을 쪼아먹는 새들도 쫓아내야 하고, 곡물이 자랄 때 옆에서 같이 자라는 잡초도 뽑아서 곡물에게만 영양분이 흡수되도록 해야 합니다."
+			],
+			[
+				22,
+				"때",
+				"NNG",
+				"먼저, 열매나 곡식을 쪼아먹는 새들도 쫓아내야 하고, 곡물이 자랄 때 옆에서 같이 자라는 잡초도 뽑아서 곡물에게만 영양분이 흡수되도록 해야 합니다."
+			],
+			[
+				23,
+				"옆",
+				"NNG",
+				"먼저, 열매나 곡식을 쪼아먹는 새들도 쫓아내야 하고, 곡물이 자랄 때 옆에서 같이 자라는 잡초도 뽑아서 곡물에게만 영양분이 흡수되도록 해야 합니다."
+			],
+			[
+				24,
+				"잡초",
+				"NNG",
+				"먼저, 열매나 곡식을 쪼아먹는 새들도 쫓아내야 하고, 곡물이 자랄 때 옆에서 같이 자라는 잡초도 뽑아서 곡물에게만 영양분이 흡수되도록 해야 합니다."
+			],
+			[
+				25,
+				"곡물",
+				"NNG",
+				"먼저, 열매나 곡식을 쪼아먹는 새들도 쫓아내야 하고, 곡물이 자랄 때 옆에서 같이 자라는 잡초도 뽑아서 곡물에게만 영양분이 흡수되도록 해야 합니다."
+			],
+			[
+				26,
+				"영양분",
+				"NNG",
+				"먼저, 열매나 곡식을 쪼아먹는 새들도 쫓아내야 하고, 곡물이 자랄 때 옆에서 같이 자라는 잡초도 뽑아서 곡물에게만 영양분이 흡수되도록 해야 합니다."
+			],
+			[
+				27,
+				"해충",
+				"NNG",
+				"<br/>그리고 가장 조심해야 하는 것은 해충들입니다."
+			],
+			[
+				28,
+				"종류",
+				"NNG",
+				"종류도 어마어마하게 다양해서 신경을 써야 할 부분이 너무 많아서 농사를 짓는 것이 매우 힘든 일입니다."
+			],
+			[
+				29,
+				"신경",
+				"NNG",
+				"종류도 어마어마하게 다양해서 신경을 써야 할 부분이 너무 많아서 농사를 짓는 것이 매우 힘든 일입니다."
+			],
+			[
+				30,
+				"부분",
+				"NNG",
+				"종류도 어마어마하게 다양해서 신경을 써야 할 부분이 너무 많아서 농사를 짓는 것이 매우 힘든 일입니다."
+			],
+			[
+				31,
+				"농사",
+				"NNG",
+				"종류도 어마어마하게 다양해서 신경을 써야 할 부분이 너무 많아서 농사를 짓는 것이 매우 힘든 일입니다."
+			],
+			[
+				32,
+				"일",
+				"NNG",
+				"종류도 어마어마하게 다양해서 신경을 써야 할 부분이 너무 많아서 농사를 짓는 것이 매우 힘든 일입니다."
+			],
+			[
+				33,
+				"농부",
+				"NNG",
+				"그래서 우리들은 농부들에게 감사한 마음을 가지고 살아야 합니다."
+			],
+			[
+				34,
+				"마음",
+				"NNG",
+				"그래서 우리들은 농부들에게 감사한 마음을 가지고 살아야 합니다."
+			],
+			[
+				35,
+				"책",
+				"NNG",
+				"이 책이 영어책이기 때문에 분량이 짧아서 아쉽긴 했지만 읽기에는 어려운 영어가 없어서 쉽게 해석이 가능한 점이 마음에 듭니다."
+			],
+			[
+				36,
+				"책",
+				"NNG",
+				"이 책이 영어책이기 때문에 분량이 짧아서 아쉽긴 했지만 읽기에는 어려운 영어가 없어서 쉽게 해석이 가능한 점이 마음에 듭니다."
+			],
+			[
+				37,
+				"분량",
+				"NNG",
+				"이 책이 영어책이기 때문에 분량이 짧아서 아쉽긴 했지만 읽기에는 어려운 영어가 없어서 쉽게 해석이 가능한 점이 마음에 듭니다."
+			],
+			[
+				38,
+				"해석",
+				"NNG",
+				"이 책이 영어책이기 때문에 분량이 짧아서 아쉽긴 했지만 읽기에는 어려운 영어가 없어서 쉽게 해석이 가능한 점이 마음에 듭니다."
+			],
+			[
+				39,
+				"점",
+				"NNG",
+				"이 책이 영어책이기 때문에 분량이 짧아서 아쉽긴 했지만 읽기에는 어려운 영어가 없어서 쉽게 해석이 가능한 점이 마음에 듭니다."
+			],
+			[
+				40,
+				"마음",
+				"NNG",
+				"이 책이 영어책이기 때문에 분량이 짧아서 아쉽긴 했지만 읽기에는 어려운 영어가 없어서 쉽게 해석이 가능한 점이 마음에 듭니다."
+			]
+		],
+		"NNP_Lst": [
+			[
+				0,
+				"영어",
+				"NNP",
+				"저는 이 책을 영어시간에 수행평가를 하기 위해서 읽기로 했었습니다."
+			],
+			[
+				1,
+				"br",
+				"NNP",
+				"<br/>음식은 농부들의 땀과 호흡으로 약 6~7개월이라는 긴 시간이 흐르고 나서야 우리의 식탁위에 오르는 음식의 재료가 됩니다."
+			],
+			[
+				2,
+				"br",
+				"NNP",
+				"<br/>그리고 가장 조심해야 하는 것은 해충들입니다."
+			],
+			[
+				3,
+				"영어",
+				"NNP",
+				"이 책이 영어책이기 때문에 분량이 짧아서 아쉽긴 했지만 읽기에는 어려운 영어가 없어서 쉽게 해석이 가능한 점이 마음에 듭니다."
+			],
+			[
+				4,
+				"영어",
+				"NNP",
+				"이 책이 영어책이기 때문에 분량이 짧아서 아쉽긴 했지만 읽기에는 어려운 영어가 없어서 쉽게 해석이 가능한 점이 마음에 듭니다."
+			]
+		],
+		"NNB_Lst": [
+			[
+				0,
+				"개월",
+				"NNB",
+				"<br/>음식은 농부들의 땀과 호흡으로 약 6~7개월이라는 긴 시간이 흐르고 나서야 우리의 식탁위에 오르는 음식의 재료가 됩니다."
+			],
+			[
+				1,
+				"것",
+				"NNB",
+				"<br/>그리고 가장 조심해야 하는 것은 해충들입니다."
+			],
+			[
+				2,
+				"것",
+				"NNB",
+				"종류도 어마어마하게 다양해서 신경을 써야 할 부분이 너무 많아서 농사를 짓는 것이 매우 힘든 일입니다."
+			],
+			[
+				3,
+				"때문",
+				"NNB",
+				"이 책이 영어책이기 때문에 분량이 짧아서 아쉽긴 했지만 읽기에는 어려운 영어가 없어서 쉽게 해석이 가능한 점이 마음에 듭니다."
+			]
+		],
+		"NP_Lst": [
+			[
+				0,
+				"저",
+				"NP",
+				"저는 이 책을 영어시간에 수행평가를 하기 위해서 읽기로 했었습니다."
+			],
+			[
+				1,
+				"저",
+				"NP",
+				"이 책은 음식에 대해 관심이 있는 저의 마음을 사로잡는데 충분 했었습니다."
+			],
+			[
+				2,
+				"우리",
+				"NP",
+				"<br/>음식은 농부들의 땀과 호흡으로 약 6~7개월이라는 긴 시간이 흐르고 나서야 우리의 식탁위에 오르는 음식의 재료가 됩니다."
+			],
+			[
+				3,
+				"우리",
+				"NP",
+				"그래서 우리들은 농부들에게 감사한 마음을 가지고 살아야 합니다."
+			]
+		],
+		"NP_People_Lst": [
+			[
+				0,
+				"저",
+				"NP",
+				"저는 이 책을 영어시간에 수행평가를 하기 위해서 읽기로 했었습니다."
+			],
+			[
+				1,
+				"저",
+				"NP",
+				"이 책은 음식에 대해 관심이 있는 저의 마음을 사로잡는데 충분 했었습니다."
+			],
+			[
+				2,
+				"우리",
+				"NP",
+				"<br/>음식은 농부들의 땀과 호흡으로 약 6~7개월이라는 긴 시간이 흐르고 나서야 우리의 식탁위에 오르는 음식의 재료가 됩니다."
+			],
+			[
+				3,
+				"우리",
+				"NP",
+				"그래서 우리들은 농부들에게 감사한 마음을 가지고 살아야 합니다."
+			]
+		],
+		"NP_Things_Lst": [],
+		"NR_Lst": [],
+		"VL_Lst": [
+			[
+				0,
+				"하",
+				"VV",
+				"저는 이 책을 영어시간에 수행평가를 하기 위해서 읽기로 했었습니다."
+			],
+			[
+				1,
+				"위하",
+				"VV",
+				"저는 이 책을 영어시간에 수행평가를 하기 위해서 읽기로 했었습니다."
+			],
+			[
+				2,
+				"읽",
+				"VV",
+				"저는 이 책을 영어시간에 수행평가를 하기 위해서 읽기로 했었습니다."
+			],
+			[
+				3,
+				"하",
+				"VV",
+				"저는 이 책을 영어시간에 수행평가를 하기 위해서 읽기로 했었습니다."
+			],
+			[
+				4,
+				"대하",
+				"VV",
+				"이 책은 음식에 대해 관심이 있는 저의 마음을 사로잡는데 충분 했었습니다."
+			],
+			[
+				5,
+				"있",
+				"VA",
+				"이 책은 음식에 대해 관심이 있는 저의 마음을 사로잡는데 충분 했었습니다."
+			],
+			[
+				6,
+				"사로잡",
+				"VV",
+				"이 책은 음식에 대해 관심이 있는 저의 마음을 사로잡는데 충분 했었습니다."
+			],
+			[
+				7,
+				"하",
+				"VV",
+				"이 책은 음식에 대해 관심이 있는 저의 마음을 사로잡는데 충분 했었습니다."
+			],
+			[
+				8,
+				"이",
+				"VCP",
+				"<br/>음식은 농부들의 땀과 호흡으로 약 6~7개월이라는 긴 시간이 흐르고 나서야 우리의 식탁위에 오르는 음식의 재료가 됩니다."
+			],
+			[
+				9,
+				"길",
+				"VA",
+				"<br/>음식은 농부들의 땀과 호흡으로 약 6~7개월이라는 긴 시간이 흐르고 나서야 우리의 식탁위에 오르는 음식의 재료가 됩니다."
+			],
+			[
+				10,
+				"흐르",
+				"VV",
+				"<br/>음식은 농부들의 땀과 호흡으로 약 6~7개월이라는 긴 시간이 흐르고 나서야 우리의 식탁위에 오르는 음식의 재료가 됩니다."
+			],
+			[
+				11,
+				"나",
+				"VX",
+				"<br/>음식은 농부들의 땀과 호흡으로 약 6~7개월이라는 긴 시간이 흐르고 나서야 우리의 식탁위에 오르는 음식의 재료가 됩니다."
+			],
+			[
+				12,
+				"오르",
+				"VV",
+				"<br/>음식은 농부들의 땀과 호흡으로 약 6~7개월이라는 긴 시간이 흐르고 나서야 우리의 식탁위에 오르는 음식의 재료가 됩니다."
+			],
+			[
+				13,
+				"되",
+				"VV",
+				"<br/>음식은 농부들의 땀과 호흡으로 약 6~7개월이라는 긴 시간이 흐르고 나서야 우리의 식탁위에 오르는 음식의 재료가 됩니다."
+			],
+			[
+				14,
+				"순탄하",
+				"VA",
+				"하지만 이 과정이 순탄하지는 않습니다."
+			],
+			[
+				15,
+				"않",
+				"VX",
+				"하지만 이 과정이 순탄하지는 않습니다."
+			],
+			[
+				16,
+				"쪼",
+				"VV",
+				"먼저, 열매나 곡식을 쪼아먹는 새들도 쫓아내야 하고, 곡물이 자랄 때 옆에서 같이 자라는 잡초도 뽑아서 곡물에게만 영양분이 흡수되도록 해야 합니다."
+			],
+			[
+				17,
+				"먹",
+				"VV",
+				"먼저, 열매나 곡식을 쪼아먹는 새들도 쫓아내야 하고, 곡물이 자랄 때 옆에서 같이 자라는 잡초도 뽑아서 곡물에게만 영양분이 흡수되도록 해야 합니다."
+			],
+			[
+				18,
+				"쫓아내",
+				"VV",
+				"먼저, 열매나 곡식을 쪼아먹는 새들도 쫓아내야 하고, 곡물이 자랄 때 옆에서 같이 자라는 잡초도 뽑아서 곡물에게만 영양분이 흡수되도록 해야 합니다."
+			],
+			[
+				19,
+				"하",
+				"VX",
+				"먼저, 열매나 곡식을 쪼아먹는 새들도 쫓아내야 하고, 곡물이 자랄 때 옆에서 같이 자라는 잡초도 뽑아서 곡물에게만 영양분이 흡수되도록 해야 합니다."
+			],
+			[
+				20,
+				"자라",
+				"VV",
+				"먼저, 열매나 곡식을 쪼아먹는 새들도 쫓아내야 하고, 곡물이 자랄 때 옆에서 같이 자라는 잡초도 뽑아서 곡물에게만 영양분이 흡수되도록 해야 합니다."
+			],
+			[
+				21,
+				"자라",
+				"VV",
+				"먼저, 열매나 곡식을 쪼아먹는 새들도 쫓아내야 하고, 곡물이 자랄 때 옆에서 같이 자라는 잡초도 뽑아서 곡물에게만 영양분이 흡수되도록 해야 합니다."
+			],
+			[
+				22,
+				"뽑",
+				"VV",
+				"먼저, 열매나 곡식을 쪼아먹는 새들도 쫓아내야 하고, 곡물이 자랄 때 옆에서 같이 자라는 잡초도 뽑아서 곡물에게만 영양분이 흡수되도록 해야 합니다."
+			],
+			[
+				23,
+				"흡수되",
+				"VV",
+				"먼저, 열매나 곡식을 쪼아먹는 새들도 쫓아내야 하고, 곡물이 자랄 때 옆에서 같이 자라는 잡초도 뽑아서 곡물에게만 영양분이 흡수되도록 해야 합니다."
+			],
+			[
+				24,
+				"하",
+				"VX",
+				"먼저, 열매나 곡식을 쪼아먹는 새들도 쫓아내야 하고, 곡물이 자랄 때 옆에서 같이 자라는 잡초도 뽑아서 곡물에게만 영양분이 흡수되도록 해야 합니다."
+			],
+			[
+				25,
+				"하",
+				"VX",
+				"먼저, 열매나 곡식을 쪼아먹는 새들도 쫓아내야 하고, 곡물이 자랄 때 옆에서 같이 자라는 잡초도 뽑아서 곡물에게만 영양분이 흡수되도록 해야 합니다."
+			],
+			[
+				26,
+				"조심하",
+				"VV",
+				"<br/>그리고 가장 조심해야 하는 것은 해충들입니다."
+			],
+			[
+				27,
+				"하",
+				"VX",
+				"<br/>그리고 가장 조심해야 하는 것은 해충들입니다."
+			],
+			[
+				28,
+				"이",
+				"VCP",
+				"<br/>그리고 가장 조심해야 하는 것은 해충들입니다."
+			],
+			[
+				29,
+				"어마어마하",
+				"VA",
+				"종류도 어마어마하게 다양해서 신경을 써야 할 부분이 너무 많아서 농사를 짓는 것이 매우 힘든 일입니다."
+			],
+			[
+				30,
+				"다양하",
+				"VA",
+				"종류도 어마어마하게 다양해서 신경을 써야 할 부분이 너무 많아서 농사를 짓는 것이 매우 힘든 일입니다."
+			],
+			[
+				31,
+				"쓰",
+				"VV",
+				"종류도 어마어마하게 다양해서 신경을 써야 할 부분이 너무 많아서 농사를 짓는 것이 매우 힘든 일입니다."
+			],
+			[
+				32,
+				"하",
+				"VX",
+				"종류도 어마어마하게 다양해서 신경을 써야 할 부분이 너무 많아서 농사를 짓는 것이 매우 힘든 일입니다."
+			],
+			[
+				33,
+				"많",
+				"VA",
+				"종류도 어마어마하게 다양해서 신경을 써야 할 부분이 너무 많아서 농사를 짓는 것이 매우 힘든 일입니다."
+			],
+			[
+				34,
+				"짓",
+				"VV",
+				"종류도 어마어마하게 다양해서 신경을 써야 할 부분이 너무 많아서 농사를 짓는 것이 매우 힘든 일입니다."
+			],
+			[
+				35,
+				"힘들",
+				"VA",
+				"종류도 어마어마하게 다양해서 신경을 써야 할 부분이 너무 많아서 농사를 짓는 것이 매우 힘든 일입니다."
+			],
+			[
+				36,
+				"이",
+				"VCP",
+				"종류도 어마어마하게 다양해서 신경을 써야 할 부분이 너무 많아서 농사를 짓는 것이 매우 힘든 일입니다."
+			],
+			[
+				37,
+				"감사하",
+				"VV",
+				"그래서 우리들은 농부들에게 감사한 마음을 가지고 살아야 합니다."
+			],
+			[
+				38,
+				"가지",
+				"VV",
+				"그래서 우리들은 농부들에게 감사한 마음을 가지고 살아야 합니다."
+			],
+			[
+				39,
+				"살",
+				"VV",
+				"그래서 우리들은 농부들에게 감사한 마음을 가지고 살아야 합니다."
+			],
+			[
+				40,
+				"하",
+				"VX",
+				"그래서 우리들은 농부들에게 감사한 마음을 가지고 살아야 합니다."
+			],
+			[
+				41,
+				"이",
+				"VCP",
+				"이 책이 영어책이기 때문에 분량이 짧아서 아쉽긴 했지만 읽기에는 어려운 영어가 없어서 쉽게 해석이 가능한 점이 마음에 듭니다."
+			],
+			[
+				42,
+				"짧",
+				"VA",
+				"이 책이 영어책이기 때문에 분량이 짧아서 아쉽긴 했지만 읽기에는 어려운 영어가 없어서 쉽게 해석이 가능한 점이 마음에 듭니다."
+			],
+			[
+				43,
+				"아쉽",
+				"VA",
+				"이 책이 영어책이기 때문에 분량이 짧아서 아쉽긴 했지만 읽기에는 어려운 영어가 없어서 쉽게 해석이 가능한 점이 마음에 듭니다."
+			],
+			[
+				44,
+				"하",
+				"VX",
+				"이 책이 영어책이기 때문에 분량이 짧아서 아쉽긴 했지만 읽기에는 어려운 영어가 없어서 쉽게 해석이 가능한 점이 마음에 듭니다."
+			],
+			[
+				45,
+				"읽",
+				"VV",
+				"이 책이 영어책이기 때문에 분량이 짧아서 아쉽긴 했지만 읽기에는 어려운 영어가 없어서 쉽게 해석이 가능한 점이 마음에 듭니다."
+			],
+			[
+				46,
+				"어렵",
+				"VA",
+				"이 책이 영어책이기 때문에 분량이 짧아서 아쉽긴 했지만 읽기에는 어려운 영어가 없어서 쉽게 해석이 가능한 점이 마음에 듭니다."
+			],
+			[
+				47,
+				"없",
+				"VA",
+				"이 책이 영어책이기 때문에 분량이 짧아서 아쉽긴 했지만 읽기에는 어려운 영어가 없어서 쉽게 해석이 가능한 점이 마음에 듭니다."
+			],
+			[
+				48,
+				"쉽",
+				"VA",
+				"이 책이 영어책이기 때문에 분량이 짧아서 아쉽긴 했지만 읽기에는 어려운 영어가 없어서 쉽게 해석이 가능한 점이 마음에 듭니다."
+			],
+			[
+				49,
+				"가능하",
+				"VA",
+				"이 책이 영어책이기 때문에 분량이 짧아서 아쉽긴 했지만 읽기에는 어려운 영어가 없어서 쉽게 해석이 가능한 점이 마음에 듭니다."
+			],
+			[
+				50,
+				"들",
+				"VV",
+				"이 책이 영어책이기 때문에 분량이 짧아서 아쉽긴 했지만 읽기에는 어려운 영어가 없어서 쉽게 해석이 가능한 점이 마음에 듭니다."
+			]
+		],
+		"VV_Lst": [
+			[
+				0,
+				"하",
+				"VV",
+				"저는 이 책을 영어시간에 수행평가를 하기 위해서 읽기로 했었습니다."
+			],
+			[
+				1,
+				"위하",
+				"VV",
+				"저는 이 책을 영어시간에 수행평가를 하기 위해서 읽기로 했었습니다."
+			],
+			[
+				2,
+				"읽",
+				"VV",
+				"저는 이 책을 영어시간에 수행평가를 하기 위해서 읽기로 했었습니다."
+			],
+			[
+				3,
+				"하",
+				"VV",
+				"저는 이 책을 영어시간에 수행평가를 하기 위해서 읽기로 했었습니다."
+			],
+			[
+				4,
+				"대하",
+				"VV",
+				"이 책은 음식에 대해 관심이 있는 저의 마음을 사로잡는데 충분 했었습니다."
+			],
+			[
+				5,
+				"사로잡",
+				"VV",
+				"이 책은 음식에 대해 관심이 있는 저의 마음을 사로잡는데 충분 했었습니다."
+			],
+			[
+				6,
+				"하",
+				"VV",
+				"이 책은 음식에 대해 관심이 있는 저의 마음을 사로잡는데 충분 했었습니다."
+			],
+			[
+				7,
+				"흐르",
+				"VV",
+				"<br/>음식은 농부들의 땀과 호흡으로 약 6~7개월이라는 긴 시간이 흐르고 나서야 우리의 식탁위에 오르는 음식의 재료가 됩니다."
+			],
+			[
+				8,
+				"오르",
+				"VV",
+				"<br/>음식은 농부들의 땀과 호흡으로 약 6~7개월이라는 긴 시간이 흐르고 나서야 우리의 식탁위에 오르는 음식의 재료가 됩니다."
+			],
+			[
+				9,
+				"되",
+				"VV",
+				"<br/>음식은 농부들의 땀과 호흡으로 약 6~7개월이라는 긴 시간이 흐르고 나서야 우리의 식탁위에 오르는 음식의 재료가 됩니다."
+			],
+			[
+				10,
+				"쪼",
+				"VV",
+				"먼저, 열매나 곡식을 쪼아먹는 새들도 쫓아내야 하고, 곡물이 자랄 때 옆에서 같이 자라는 잡초도 뽑아서 곡물에게만 영양분이 흡수되도록 해야 합니다."
+			],
+			[
+				11,
+				"먹",
+				"VV",
+				"먼저, 열매나 곡식을 쪼아먹는 새들도 쫓아내야 하고, 곡물이 자랄 때 옆에서 같이 자라는 잡초도 뽑아서 곡물에게만 영양분이 흡수되도록 해야 합니다."
+			],
+			[
+				12,
+				"쫓아내",
+				"VV",
+				"먼저, 열매나 곡식을 쪼아먹는 새들도 쫓아내야 하고, 곡물이 자랄 때 옆에서 같이 자라는 잡초도 뽑아서 곡물에게만 영양분이 흡수되도록 해야 합니다."
+			],
+			[
+				13,
+				"자라",
+				"VV",
+				"먼저, 열매나 곡식을 쪼아먹는 새들도 쫓아내야 하고, 곡물이 자랄 때 옆에서 같이 자라는 잡초도 뽑아서 곡물에게만 영양분이 흡수되도록 해야 합니다."
+			],
+			[
+				14,
+				"자라",
+				"VV",
+				"먼저, 열매나 곡식을 쪼아먹는 새들도 쫓아내야 하고, 곡물이 자랄 때 옆에서 같이 자라는 잡초도 뽑아서 곡물에게만 영양분이 흡수되도록 해야 합니다."
+			],
+			[
+				15,
+				"뽑",
+				"VV",
+				"먼저, 열매나 곡식을 쪼아먹는 새들도 쫓아내야 하고, 곡물이 자랄 때 옆에서 같이 자라는 잡초도 뽑아서 곡물에게만 영양분이 흡수되도록 해야 합니다."
+			],
+			[
+				16,
+				"흡수되",
+				"VV",
+				"먼저, 열매나 곡식을 쪼아먹는 새들도 쫓아내야 하고, 곡물이 자랄 때 옆에서 같이 자라는 잡초도 뽑아서 곡물에게만 영양분이 흡수되도록 해야 합니다."
+			],
+			[
+				17,
+				"조심하",
+				"VV",
+				"<br/>그리고 가장 조심해야 하는 것은 해충들입니다."
+			],
+			[
+				18,
+				"쓰",
+				"VV",
+				"종류도 어마어마하게 다양해서 신경을 써야 할 부분이 너무 많아서 농사를 짓는 것이 매우 힘든 일입니다."
+			],
+			[
+				19,
+				"짓",
+				"VV",
+				"종류도 어마어마하게 다양해서 신경을 써야 할 부분이 너무 많아서 농사를 짓는 것이 매우 힘든 일입니다."
+			],
+			[
+				20,
+				"감사하",
+				"VV",
+				"그래서 우리들은 농부들에게 감사한 마음을 가지고 살아야 합니다."
+			],
+			[
+				21,
+				"가지",
+				"VV",
+				"그래서 우리들은 농부들에게 감사한 마음을 가지고 살아야 합니다."
+			],
+			[
+				22,
+				"살",
+				"VV",
+				"그래서 우리들은 농부들에게 감사한 마음을 가지고 살아야 합니다."
+			],
+			[
+				23,
+				"읽",
+				"VV",
+				"이 책이 영어책이기 때문에 분량이 짧아서 아쉽긴 했지만 읽기에는 어려운 영어가 없어서 쉽게 해석이 가능한 점이 마음에 듭니다."
+			],
+			[
+				24,
+				"들",
+				"VV",
+				"이 책이 영어책이기 때문에 분량이 짧아서 아쉽긴 했지만 읽기에는 어려운 영어가 없어서 쉽게 해석이 가능한 점이 마음에 듭니다."
+			]
+		],
+		"VA_Lst": [
+			[
+				0,
+				"있",
+				"VA",
+				"이 책은 음식에 대해 관심이 있는 저의 마음을 사로잡는데 충분 했었습니다."
+			],
+			[
+				1,
+				"길",
+				"VA",
+				"<br/>음식은 농부들의 땀과 호흡으로 약 6~7개월이라는 긴 시간이 흐르고 나서야 우리의 식탁위에 오르는 음식의 재료가 됩니다."
+			],
+			[
+				2,
+				"순탄하",
+				"VA",
+				"하지만 이 과정이 순탄하지는 않습니다."
+			],
+			[
+				3,
+				"어마어마하",
+				"VA",
+				"종류도 어마어마하게 다양해서 신경을 써야 할 부분이 너무 많아서 농사를 짓는 것이 매우 힘든 일입니다."
+			],
+			[
+				4,
+				"다양하",
+				"VA",
+				"종류도 어마어마하게 다양해서 신경을 써야 할 부분이 너무 많아서 농사를 짓는 것이 매우 힘든 일입니다."
+			],
+			[
+				5,
+				"많",
+				"VA",
+				"종류도 어마어마하게 다양해서 신경을 써야 할 부분이 너무 많아서 농사를 짓는 것이 매우 힘든 일입니다."
+			],
+			[
+				6,
+				"힘들",
+				"VA",
+				"종류도 어마어마하게 다양해서 신경을 써야 할 부분이 너무 많아서 농사를 짓는 것이 매우 힘든 일입니다."
+			],
+			[
+				7,
+				"짧",
+				"VA",
+				"이 책이 영어책이기 때문에 분량이 짧아서 아쉽긴 했지만 읽기에는 어려운 영어가 없어서 쉽게 해석이 가능한 점이 마음에 듭니다."
+			],
+			[
+				8,
+				"아쉽",
+				"VA",
+				"이 책이 영어책이기 때문에 분량이 짧아서 아쉽긴 했지만 읽기에는 어려운 영어가 없어서 쉽게 해석이 가능한 점이 마음에 듭니다."
+			],
+			[
+				9,
+				"어렵",
+				"VA",
+				"이 책이 영어책이기 때문에 분량이 짧아서 아쉽긴 했지만 읽기에는 어려운 영어가 없어서 쉽게 해석이 가능한 점이 마음에 듭니다."
+			],
+			[
+				10,
+				"없",
+				"VA",
+				"이 책이 영어책이기 때문에 분량이 짧아서 아쉽긴 했지만 읽기에는 어려운 영어가 없어서 쉽게 해석이 가능한 점이 마음에 듭니다."
+			],
+			[
+				11,
+				"쉽",
+				"VA",
+				"이 책이 영어책이기 때문에 분량이 짧아서 아쉽긴 했지만 읽기에는 어려운 영어가 없어서 쉽게 해석이 가능한 점이 마음에 듭니다."
+			],
+			[
+				12,
+				"가능하",
+				"VA",
+				"이 책이 영어책이기 때문에 분량이 짧아서 아쉽긴 했지만 읽기에는 어려운 영어가 없어서 쉽게 해석이 가능한 점이 마음에 듭니다."
+			]
+		],
+		"VX_Lst": [
+			[
+				0,
+				"나",
+				"VX",
+				"<br/>음식은 농부들의 땀과 호흡으로 약 6~7개월이라는 긴 시간이 흐르고 나서야 우리의 식탁위에 오르는 음식의 재료가 됩니다."
+			],
+			[
+				1,
+				"않",
+				"VX",
+				"하지만 이 과정이 순탄하지는 않습니다."
+			],
+			[
+				2,
+				"하",
+				"VX",
+				"먼저, 열매나 곡식을 쪼아먹는 새들도 쫓아내야 하고, 곡물이 자랄 때 옆에서 같이 자라는 잡초도 뽑아서 곡물에게만 영양분이 흡수되도록 해야 합니다."
+			],
+			[
+				3,
+				"하",
+				"VX",
+				"먼저, 열매나 곡식을 쪼아먹는 새들도 쫓아내야 하고, 곡물이 자랄 때 옆에서 같이 자라는 잡초도 뽑아서 곡물에게만 영양분이 흡수되도록 해야 합니다."
+			],
+			[
+				4,
+				"하",
+				"VX",
+				"먼저, 열매나 곡식을 쪼아먹는 새들도 쫓아내야 하고, 곡물이 자랄 때 옆에서 같이 자라는 잡초도 뽑아서 곡물에게만 영양분이 흡수되도록 해야 합니다."
+			],
+			[
+				5,
+				"하",
+				"VX",
+				"<br/>그리고 가장 조심해야 하는 것은 해충들입니다."
+			],
+			[
+				6,
+				"하",
+				"VX",
+				"종류도 어마어마하게 다양해서 신경을 써야 할 부분이 너무 많아서 농사를 짓는 것이 매우 힘든 일입니다."
+			],
+			[
+				7,
+				"하",
+				"VX",
+				"그래서 우리들은 농부들에게 감사한 마음을 가지고 살아야 합니다."
+			],
+			[
+				8,
+				"하",
+				"VX",
+				"이 책이 영어책이기 때문에 분량이 짧아서 아쉽긴 했지만 읽기에는 어려운 영어가 없어서 쉽게 해석이 가능한 점이 마음에 듭니다."
+			]
+		],
+		"VCP_Lst": [
+			[
+				0,
+				"이",
+				"VCP",
+				"<br/>음식은 농부들의 땀과 호흡으로 약 6~7개월이라는 긴 시간이 흐르고 나서야 우리의 식탁위에 오르는 음식의 재료가 됩니다."
+			],
+			[
+				1,
+				"이",
+				"VCP",
+				"<br/>그리고 가장 조심해야 하는 것은 해충들입니다."
+			],
+			[
+				2,
+				"이",
+				"VCP",
+				"종류도 어마어마하게 다양해서 신경을 써야 할 부분이 너무 많아서 농사를 짓는 것이 매우 힘든 일입니다."
+			],
+			[
+				3,
+				"이",
+				"VCP",
+				"이 책이 영어책이기 때문에 분량이 짧아서 아쉽긴 했지만 읽기에는 어려운 영어가 없어서 쉽게 해석이 가능한 점이 마음에 듭니다."
+			]
+		],
+		"VCN_Lst": [],
+		"ML_Lst": [
+			[
+				0,
+				"충분",
+				"MAG",
+				"이 책은 음식에 대해 관심이 있는 저의 마음을 사로잡는데 충분 했었습니다."
+			],
+			[
+				1,
+				"하지만",
+				"MAJ",
+				"하지만 이 과정이 순탄하지는 않습니다."
+			],
+			[
+				2,
+				"먼저",
+				"MAG",
+				"먼저, 열매나 곡식을 쪼아먹는 새들도 쫓아내야 하고, 곡물이 자랄 때 옆에서 같이 자라는 잡초도 뽑아서 곡물에게만 영양분이 흡수되도록 해야 합니다."
+			],
+			[
+				3,
+				"같이",
+				"MAG",
+				"먼저, 열매나 곡식을 쪼아먹는 새들도 쫓아내야 하고, 곡물이 자랄 때 옆에서 같이 자라는 잡초도 뽑아서 곡물에게만 영양분이 흡수되도록 해야 합니다."
+			],
+			[
+				4,
+				"그리고",
+				"MAJ",
+				"<br/>그리고 가장 조심해야 하는 것은 해충들입니다."
+			],
+			[
+				5,
+				"가장",
+				"MAG",
+				"<br/>그리고 가장 조심해야 하는 것은 해충들입니다."
+			],
+			[
+				6,
+				"너무",
+				"MAG",
+				"종류도 어마어마하게 다양해서 신경을 써야 할 부분이 너무 많아서 농사를 짓는 것이 매우 힘든 일입니다."
+			],
+			[
+				7,
+				"매우",
+				"MAG",
+				"종류도 어마어마하게 다양해서 신경을 써야 할 부분이 너무 많아서 농사를 짓는 것이 매우 힘든 일입니다."
+			],
+			[
+				8,
+				"그래서",
+				"MAJ",
+				"그래서 우리들은 농부들에게 감사한 마음을 가지고 살아야 합니다."
+			]
+		],
+		"MA_Lst": [],
+		"MM_Lst": [],
+		"J_Lst": [
+			[
+				0,
+				"는",
+				"JX",
+				"저는 이 책을 영어시간에 수행평가를 하기 위해서 읽기로 했었습니다."
+			],
+			[
+				1,
+				"을",
+				"JKO",
+				"저는 이 책을 영어시간에 수행평가를 하기 위해서 읽기로 했었습니다."
+			],
+			[
+				2,
+				"에",
+				"JKB",
+				"저는 이 책을 영어시간에 수행평가를 하기 위해서 읽기로 했었습니다."
+			],
+			[
+				3,
+				"를",
+				"JKO",
+				"저는 이 책을 영어시간에 수행평가를 하기 위해서 읽기로 했었습니다."
+			],
+			[
+				4,
+				"로",
+				"JKB",
+				"저는 이 책을 영어시간에 수행평가를 하기 위해서 읽기로 했었습니다."
+			],
+			[
+				5,
+				"은",
+				"JX",
+				"이 책은 음식에 대해 관심이 있는 저의 마음을 사로잡는데 충분 했었습니다."
+			],
+			[
+				6,
+				"에",
+				"JKB",
+				"이 책은 음식에 대해 관심이 있는 저의 마음을 사로잡는데 충분 했었습니다."
+			],
+			[
+				7,
+				"이",
+				"JKS",
+				"이 책은 음식에 대해 관심이 있는 저의 마음을 사로잡는데 충분 했었습니다."
+			],
+			[
+				8,
+				"의",
+				"JKG",
+				"이 책은 음식에 대해 관심이 있는 저의 마음을 사로잡는데 충분 했었습니다."
+			],
+			[
+				9,
+				"을",
+				"JKO",
+				"이 책은 음식에 대해 관심이 있는 저의 마음을 사로잡는데 충분 했었습니다."
+			],
+			[
+				10,
+				"은",
+				"JX",
+				"<br/>음식은 농부들의 땀과 호흡으로 약 6~7개월이라는 긴 시간이 흐르고 나서야 우리의 식탁위에 오르는 음식의 재료가 됩니다."
+			],
+			[
+				11,
+				"의",
+				"JKG",
+				"<br/>음식은 농부들의 땀과 호흡으로 약 6~7개월이라는 긴 시간이 흐르고 나서야 우리의 식탁위에 오르는 음식의 재료가 됩니다."
+			],
+			[
+				12,
+				"과",
+				"JC",
+				"<br/>음식은 농부들의 땀과 호흡으로 약 6~7개월이라는 긴 시간이 흐르고 나서야 우리의 식탁위에 오르는 음식의 재료가 됩니다."
+			],
+			[
+				13,
+				"으로",
+				"JKB",
+				"<br/>음식은 농부들의 땀과 호흡으로 약 6~7개월이라는 긴 시간이 흐르고 나서야 우리의 식탁위에 오르는 음식의 재료가 됩니다."
+			],
+			[
+				14,
+				"이",
+				"JKS",
+				"<br/>음식은 농부들의 땀과 호흡으로 약 6~7개월이라는 긴 시간이 흐르고 나서야 우리의 식탁위에 오르는 음식의 재료가 됩니다."
+			],
+			[
+				15,
+				"야",
+				"JX",
+				"<br/>음식은 농부들의 땀과 호흡으로 약 6~7개월이라는 긴 시간이 흐르고 나서야 우리의 식탁위에 오르는 음식의 재료가 됩니다."
+			],
+			[
+				16,
+				"의",
+				"JKG",
+				"<br/>음식은 농부들의 땀과 호흡으로 약 6~7개월이라는 긴 시간이 흐르고 나서야 우리의 식탁위에 오르는 음식의 재료가 됩니다."
+			],
+			[
+				17,
+				"에",
+				"JKB",
+				"<br/>음식은 농부들의 땀과 호흡으로 약 6~7개월이라는 긴 시간이 흐르고 나서야 우리의 식탁위에 오르는 음식의 재료가 됩니다."
+			],
+			[
+				18,
+				"의",
+				"JKG",
+				"<br/>음식은 농부들의 땀과 호흡으로 약 6~7개월이라는 긴 시간이 흐르고 나서야 우리의 식탁위에 오르는 음식의 재료가 됩니다."
+			],
+			[
+				19,
+				"가",
+				"JKC",
+				"<br/>음식은 농부들의 땀과 호흡으로 약 6~7개월이라는 긴 시간이 흐르고 나서야 우리의 식탁위에 오르는 음식의 재료가 됩니다."
+			],
+			[
+				20,
+				"이",
+				"JKS",
+				"하지만 이 과정이 순탄하지는 않습니다."
+			],
+			[
+				21,
+				"는",
+				"JX",
+				"하지만 이 과정이 순탄하지는 않습니다."
+			],
+			[
+				22,
+				"나",
+				"JC",
+				"먼저, 열매나 곡식을 쪼아먹는 새들도 쫓아내야 하고, 곡물이 자랄 때 옆에서 같이 자라는 잡초도 뽑아서 곡물에게만 영양분이 흡수되도록 해야 합니다."
+			],
+			[
+				23,
+				"을",
+				"JKO",
+				"먼저, 열매나 곡식을 쪼아먹는 새들도 쫓아내야 하고, 곡물이 자랄 때 옆에서 같이 자라는 잡초도 뽑아서 곡물에게만 영양분이 흡수되도록 해야 합니다."
+			],
+			[
+				24,
+				"도",
+				"JX",
+				"먼저, 열매나 곡식을 쪼아먹는 새들도 쫓아내야 하고, 곡물이 자랄 때 옆에서 같이 자라는 잡초도 뽑아서 곡물에게만 영양분이 흡수되도록 해야 합니다."
+			],
+			[
+				25,
+				"이",
+				"JKS",
+				"먼저, 열매나 곡식을 쪼아먹는 새들도 쫓아내야 하고, 곡물이 자랄 때 옆에서 같이 자라는 잡초도 뽑아서 곡물에게만 영양분이 흡수되도록 해야 합니다."
+			],
+			[
+				26,
+				"에서",
+				"JKB",
+				"먼저, 열매나 곡식을 쪼아먹는 새들도 쫓아내야 하고, 곡물이 자랄 때 옆에서 같이 자라는 잡초도 뽑아서 곡물에게만 영양분이 흡수되도록 해야 합니다."
+			],
+			[
+				27,
+				"도",
+				"JX",
+				"먼저, 열매나 곡식을 쪼아먹는 새들도 쫓아내야 하고, 곡물이 자랄 때 옆에서 같이 자라는 잡초도 뽑아서 곡물에게만 영양분이 흡수되도록 해야 합니다."
+			],
+			[
+				28,
+				"에게",
+				"JKB",
+				"먼저, 열매나 곡식을 쪼아먹는 새들도 쫓아내야 하고, 곡물이 자랄 때 옆에서 같이 자라는 잡초도 뽑아서 곡물에게만 영양분이 흡수되도록 해야 합니다."
+			],
+			[
+				29,
+				"만",
+				"JX",
+				"먼저, 열매나 곡식을 쪼아먹는 새들도 쫓아내야 하고, 곡물이 자랄 때 옆에서 같이 자라는 잡초도 뽑아서 곡물에게만 영양분이 흡수되도록 해야 합니다."
+			],
+			[
+				30,
+				"이",
+				"JKS",
+				"먼저, 열매나 곡식을 쪼아먹는 새들도 쫓아내야 하고, 곡물이 자랄 때 옆에서 같이 자라는 잡초도 뽑아서 곡물에게만 영양분이 흡수되도록 해야 합니다."
+			],
+			[
+				31,
+				"은",
+				"JX",
+				"<br/>그리고 가장 조심해야 하는 것은 해충들입니다."
+			],
+			[
+				32,
+				"도",
+				"JX",
+				"종류도 어마어마하게 다양해서 신경을 써야 할 부분이 너무 많아서 농사를 짓는 것이 매우 힘든 일입니다."
+			],
+			[
+				33,
+				"을",
+				"JKO",
+				"종류도 어마어마하게 다양해서 신경을 써야 할 부분이 너무 많아서 농사를 짓는 것이 매우 힘든 일입니다."
+			],
+			[
+				34,
+				"이",
+				"JKS",
+				"종류도 어마어마하게 다양해서 신경을 써야 할 부분이 너무 많아서 농사를 짓는 것이 매우 힘든 일입니다."
+			],
+			[
+				35,
+				"를",
+				"JKO",
+				"종류도 어마어마하게 다양해서 신경을 써야 할 부분이 너무 많아서 농사를 짓는 것이 매우 힘든 일입니다."
+			],
+			[
+				36,
+				"이",
+				"JKS",
+				"종류도 어마어마하게 다양해서 신경을 써야 할 부분이 너무 많아서 농사를 짓는 것이 매우 힘든 일입니다."
+			],
+			[
+				37,
+				"은",
+				"JX",
+				"그래서 우리들은 농부들에게 감사한 마음을 가지고 살아야 합니다."
+			],
+			[
+				38,
+				"에게",
+				"JKB",
+				"그래서 우리들은 농부들에게 감사한 마음을 가지고 살아야 합니다."
+			],
+			[
+				39,
+				"을",
+				"JKO",
+				"그래서 우리들은 농부들에게 감사한 마음을 가지고 살아야 합니다."
+			],
+			[
+				40,
+				"이",
+				"JKS",
+				"이 책이 영어책이기 때문에 분량이 짧아서 아쉽긴 했지만 읽기에는 어려운 영어가 없어서 쉽게 해석이 가능한 점이 마음에 듭니다."
+			],
+			[
+				41,
+				"에",
+				"JKB",
+				"이 책이 영어책이기 때문에 분량이 짧아서 아쉽긴 했지만 읽기에는 어려운 영어가 없어서 쉽게 해석이 가능한 점이 마음에 듭니다."
+			],
+			[
+				42,
+				"이",
+				"JKS",
+				"이 책이 영어책이기 때문에 분량이 짧아서 아쉽긴 했지만 읽기에는 어려운 영어가 없어서 쉽게 해석이 가능한 점이 마음에 듭니다."
+			],
+			[
+				43,
+				"ㄴ",
+				"JX",
+				"이 책이 영어책이기 때문에 분량이 짧아서 아쉽긴 했지만 읽기에는 어려운 영어가 없어서 쉽게 해석이 가능한 점이 마음에 듭니다."
+			],
+			[
+				44,
+				"에",
+				"JKB",
+				"이 책이 영어책이기 때문에 분량이 짧아서 아쉽긴 했지만 읽기에는 어려운 영어가 없어서 쉽게 해석이 가능한 점이 마음에 듭니다."
+			],
+			[
+				45,
+				"는",
+				"JX",
+				"이 책이 영어책이기 때문에 분량이 짧아서 아쉽긴 했지만 읽기에는 어려운 영어가 없어서 쉽게 해석이 가능한 점이 마음에 듭니다."
+			],
+			[
+				46,
+				"가",
+				"JKS",
+				"이 책이 영어책이기 때문에 분량이 짧아서 아쉽긴 했지만 읽기에는 어려운 영어가 없어서 쉽게 해석이 가능한 점이 마음에 듭니다."
+			],
+			[
+				47,
+				"이",
+				"JKS",
+				"이 책이 영어책이기 때문에 분량이 짧아서 아쉽긴 했지만 읽기에는 어려운 영어가 없어서 쉽게 해석이 가능한 점이 마음에 듭니다."
+			],
+			[
+				48,
+				"이",
+				"JKS",
+				"이 책이 영어책이기 때문에 분량이 짧아서 아쉽긴 했지만 읽기에는 어려운 영어가 없어서 쉽게 해석이 가능한 점이 마음에 듭니다."
+			],
+			[
+				49,
+				"에",
+				"JKB",
+				"이 책이 영어책이기 때문에 분량이 짧아서 아쉽긴 했지만 읽기에는 어려운 영어가 없어서 쉽게 해석이 가능한 점이 마음에 듭니다."
+			]
+		],
+		"E_Lst": [
+			[
+				0,
+				"기",
+				"ETN",
+				"저는 이 책을 영어시간에 수행평가를 하기 위해서 읽기로 했었습니다."
+			],
+			[
+				1,
+				"아서",
+				"EC",
+				"저는 이 책을 영어시간에 수행평가를 하기 위해서 읽기로 했었습니다."
+			],
+			[
+				2,
+				"기",
+				"ETN",
+				"저는 이 책을 영어시간에 수행평가를 하기 위해서 읽기로 했었습니다."
+			],
+			[
+				3,
+				"았었",
+				"EP",
+				"저는 이 책을 영어시간에 수행평가를 하기 위해서 읽기로 했었습니다."
+			],
+			[
+				4,
+				"습니다",
+				"EF",
+				"저는 이 책을 영어시간에 수행평가를 하기 위해서 읽기로 했었습니다."
+			],
+			[
+				5,
+				"아",
+				"EC",
+				"이 책은 음식에 대해 관심이 있는 저의 마음을 사로잡는데 충분 했었습니다."
+			],
+			[
+				6,
+				"는",
+				"ETM",
+				"이 책은 음식에 대해 관심이 있는 저의 마음을 사로잡는데 충분 했었습니다."
+			],
+			[
+				7,
+				"는데",
+				"EC",
+				"이 책은 음식에 대해 관심이 있는 저의 마음을 사로잡는데 충분 했었습니다."
+			],
+			[
+				8,
+				"았었",
+				"EP",
+				"이 책은 음식에 대해 관심이 있는 저의 마음을 사로잡는데 충분 했었습니다."
+			],
+			[
+				9,
+				"습니다",
+				"EF",
+				"이 책은 음식에 대해 관심이 있는 저의 마음을 사로잡는데 충분 했었습니다."
+			],
+			[
+				10,
+				"라는",
+				"ETM",
+				"<br/>음식은 농부들의 땀과 호흡으로 약 6~7개월이라는 긴 시간이 흐르고 나서야 우리의 식탁위에 오르는 음식의 재료가 됩니다."
+			],
+			[
+				11,
+				"ㄴ",
+				"ETM",
+				"<br/>음식은 농부들의 땀과 호흡으로 약 6~7개월이라는 긴 시간이 흐르고 나서야 우리의 식탁위에 오르는 음식의 재료가 됩니다."
+			],
+			[
+				12,
+				"고",
+				"EC",
+				"<br/>음식은 농부들의 땀과 호흡으로 약 6~7개월이라는 긴 시간이 흐르고 나서야 우리의 식탁위에 오르는 음식의 재료가 됩니다."
+			],
+			[
+				13,
+				"아서",
+				"EC",
+				"<br/>음식은 농부들의 땀과 호흡으로 약 6~7개월이라는 긴 시간이 흐르고 나서야 우리의 식탁위에 오르는 음식의 재료가 됩니다."
+			],
+			[
+				14,
+				"는",
+				"ETM",
+				"<br/>음식은 농부들의 땀과 호흡으로 약 6~7개월이라는 긴 시간이 흐르고 나서야 우리의 식탁위에 오르는 음식의 재료가 됩니다."
+			],
+			[
+				15,
+				"ㅂ니다",
+				"EF",
+				"<br/>음식은 농부들의 땀과 호흡으로 약 6~7개월이라는 긴 시간이 흐르고 나서야 우리의 식탁위에 오르는 음식의 재료가 됩니다."
+			],
+			[
+				16,
+				"지",
+				"EC",
+				"하지만 이 과정이 순탄하지는 않습니다."
+			],
+			[
+				17,
+				"습니다",
+				"EF",
+				"하지만 이 과정이 순탄하지는 않습니다."
+			],
+			[
+				18,
+				"아",
+				"EC",
+				"먼저, 열매나 곡식을 쪼아먹는 새들도 쫓아내야 하고, 곡물이 자랄 때 옆에서 같이 자라는 잡초도 뽑아서 곡물에게만 영양분이 흡수되도록 해야 합니다."
+			],
+			[
+				19,
+				"는",
+				"ETM",
+				"먼저, 열매나 곡식을 쪼아먹는 새들도 쫓아내야 하고, 곡물이 자랄 때 옆에서 같이 자라는 잡초도 뽑아서 곡물에게만 영양분이 흡수되도록 해야 합니다."
+			],
+			[
+				20,
+				"어야",
+				"EC",
+				"먼저, 열매나 곡식을 쪼아먹는 새들도 쫓아내야 하고, 곡물이 자랄 때 옆에서 같이 자라는 잡초도 뽑아서 곡물에게만 영양분이 흡수되도록 해야 합니다."
+			],
+			[
+				21,
+				"고",
+				"EC",
+				"먼저, 열매나 곡식을 쪼아먹는 새들도 쫓아내야 하고, 곡물이 자랄 때 옆에서 같이 자라는 잡초도 뽑아서 곡물에게만 영양분이 흡수되도록 해야 합니다."
+			],
+			[
+				22,
+				"ㄹ",
+				"ETM",
+				"먼저, 열매나 곡식을 쪼아먹는 새들도 쫓아내야 하고, 곡물이 자랄 때 옆에서 같이 자라는 잡초도 뽑아서 곡물에게만 영양분이 흡수되도록 해야 합니다."
+			],
+			[
+				23,
+				"는",
+				"ETM",
+				"먼저, 열매나 곡식을 쪼아먹는 새들도 쫓아내야 하고, 곡물이 자랄 때 옆에서 같이 자라는 잡초도 뽑아서 곡물에게만 영양분이 흡수되도록 해야 합니다."
+			],
+			[
+				24,
+				"아서",
+				"EC",
+				"먼저, 열매나 곡식을 쪼아먹는 새들도 쫓아내야 하고, 곡물이 자랄 때 옆에서 같이 자라는 잡초도 뽑아서 곡물에게만 영양분이 흡수되도록 해야 합니다."
+			],
+			[
+				25,
+				"도록",
+				"EC",
+				"먼저, 열매나 곡식을 쪼아먹는 새들도 쫓아내야 하고, 곡물이 자랄 때 옆에서 같이 자라는 잡초도 뽑아서 곡물에게만 영양분이 흡수되도록 해야 합니다."
+			],
+			[
+				26,
+				"아야",
+				"EC",
+				"먼저, 열매나 곡식을 쪼아먹는 새들도 쫓아내야 하고, 곡물이 자랄 때 옆에서 같이 자라는 잡초도 뽑아서 곡물에게만 영양분이 흡수되도록 해야 합니다."
+			],
+			[
+				27,
+				"ㅂ니다",
+				"EF",
+				"먼저, 열매나 곡식을 쪼아먹는 새들도 쫓아내야 하고, 곡물이 자랄 때 옆에서 같이 자라는 잡초도 뽑아서 곡물에게만 영양분이 흡수되도록 해야 합니다."
+			],
+			[
+				28,
+				"아야",
+				"EC",
+				"<br/>그리고 가장 조심해야 하는 것은 해충들입니다."
+			],
+			[
+				29,
+				"는",
+				"ETM",
+				"<br/>그리고 가장 조심해야 하는 것은 해충들입니다."
+			],
+			[
+				30,
+				"ㅂ니다",
+				"EF",
+				"<br/>그리고 가장 조심해야 하는 것은 해충들입니다."
+			],
+			[
+				31,
+				"게",
+				"EC",
+				"종류도 어마어마하게 다양해서 신경을 써야 할 부분이 너무 많아서 농사를 짓는 것이 매우 힘든 일입니다."
+			],
+			[
+				32,
+				"아서",
+				"EC",
+				"종류도 어마어마하게 다양해서 신경을 써야 할 부분이 너무 많아서 농사를 짓는 것이 매우 힘든 일입니다."
+			],
+			[
+				33,
+				"어야",
+				"EC",
+				"종류도 어마어마하게 다양해서 신경을 써야 할 부분이 너무 많아서 농사를 짓는 것이 매우 힘든 일입니다."
+			],
+			[
+				34,
+				"ㄹ",
+				"ETM",
+				"종류도 어마어마하게 다양해서 신경을 써야 할 부분이 너무 많아서 농사를 짓는 것이 매우 힘든 일입니다."
+			],
+			[
+				35,
+				"아서",
+				"EC",
+				"종류도 어마어마하게 다양해서 신경을 써야 할 부분이 너무 많아서 농사를 짓는 것이 매우 힘든 일입니다."
+			],
+			[
+				36,
+				"는",
+				"ETM",
+				"종류도 어마어마하게 다양해서 신경을 써야 할 부분이 너무 많아서 농사를 짓는 것이 매우 힘든 일입니다."
+			],
+			[
+				37,
+				"ㄴ",
+				"ETM",
+				"종류도 어마어마하게 다양해서 신경을 써야 할 부분이 너무 많아서 농사를 짓는 것이 매우 힘든 일입니다."
+			],
+			[
+				38,
+				"ㅂ니다",
+				"EF",
+				"종류도 어마어마하게 다양해서 신경을 써야 할 부분이 너무 많아서 농사를 짓는 것이 매우 힘든 일입니다."
+			],
+			[
+				39,
+				"ㄴ",
+				"ETM",
+				"그래서 우리들은 농부들에게 감사한 마음을 가지고 살아야 합니다."
+			],
+			[
+				40,
+				"고",
+				"EC",
+				"그래서 우리들은 농부들에게 감사한 마음을 가지고 살아야 합니다."
+			],
+			[
+				41,
+				"아야",
+				"EC",
+				"그래서 우리들은 농부들에게 감사한 마음을 가지고 살아야 합니다."
+			],
+			[
+				42,
+				"ㅂ니다",
+				"EF",
+				"그래서 우리들은 농부들에게 감사한 마음을 가지고 살아야 합니다."
+			],
+			[
+				43,
+				"기",
+				"ETN",
+				"이 책이 영어책이기 때문에 분량이 짧아서 아쉽긴 했지만 읽기에는 어려운 영어가 없어서 쉽게 해석이 가능한 점이 마음에 듭니다."
+			],
+			[
+				44,
+				"아서",
+				"EC",
+				"이 책이 영어책이기 때문에 분량이 짧아서 아쉽긴 했지만 읽기에는 어려운 영어가 없어서 쉽게 해석이 가능한 점이 마음에 듭니다."
+			],
+			[
+				45,
+				"기",
+				"ETN",
+				"이 책이 영어책이기 때문에 분량이 짧아서 아쉽긴 했지만 읽기에는 어려운 영어가 없어서 쉽게 해석이 가능한 점이 마음에 듭니다."
+			],
+			[
+				46,
+				"았",
+				"EP",
+				"이 책이 영어책이기 때문에 분량이 짧아서 아쉽긴 했지만 읽기에는 어려운 영어가 없어서 쉽게 해석이 가능한 점이 마음에 듭니다."
+			],
+			[
+				47,
+				"지만",
+				"EC",
+				"이 책이 영어책이기 때문에 분량이 짧아서 아쉽긴 했지만 읽기에는 어려운 영어가 없어서 쉽게 해석이 가능한 점이 마음에 듭니다."
+			],
+			[
+				48,
+				"기",
+				"ETN",
+				"이 책이 영어책이기 때문에 분량이 짧아서 아쉽긴 했지만 읽기에는 어려운 영어가 없어서 쉽게 해석이 가능한 점이 마음에 듭니다."
+			],
+			[
+				49,
+				"ㄴ",
+				"ETM",
+				"이 책이 영어책이기 때문에 분량이 짧아서 아쉽긴 했지만 읽기에는 어려운 영어가 없어서 쉽게 해석이 가능한 점이 마음에 듭니다."
+			],
+			[
+				50,
+				"어서",
+				"EC",
+				"이 책이 영어책이기 때문에 분량이 짧아서 아쉽긴 했지만 읽기에는 어려운 영어가 없어서 쉽게 해석이 가능한 점이 마음에 듭니다."
+			],
+			[
+				51,
+				"게",
+				"EC",
+				"이 책이 영어책이기 때문에 분량이 짧아서 아쉽긴 했지만 읽기에는 어려운 영어가 없어서 쉽게 해석이 가능한 점이 마음에 듭니다."
+			],
+			[
+				52,
+				"ㄴ",
+				"ETM",
+				"이 책이 영어책이기 때문에 분량이 짧아서 아쉽긴 했지만 읽기에는 어려운 영어가 없어서 쉽게 해석이 가능한 점이 마음에 듭니다."
+			],
+			[
+				53,
+				"ㅂ니다",
+				"EF",
+				"이 책이 영어책이기 때문에 분량이 짧아서 아쉽긴 했지만 읽기에는 어려운 영어가 없어서 쉽게 해석이 가능한 점이 마음에 듭니다."
+			]
+		],
+		"X_Lst": [
+			[
+				0,
+				"들",
+				"XSN",
+				"<br/>음식은 농부들의 땀과 호흡으로 약 6~7개월이라는 긴 시간이 흐르고 나서야 우리의 식탁위에 오르는 음식의 재료가 됩니다."
+			],
+			[
+				1,
+				"들",
+				"XSN",
+				"먼저, 열매나 곡식을 쪼아먹는 새들도 쫓아내야 하고, 곡물이 자랄 때 옆에서 같이 자라는 잡초도 뽑아서 곡물에게만 영양분이 흡수되도록 해야 합니다."
+			],
+			[
+				2,
+				"들",
+				"XSN",
+				"<br/>그리고 가장 조심해야 하는 것은 해충들입니다."
+			],
+			[
+				3,
+				"들",
+				"XSN",
+				"그래서 우리들은 농부들에게 감사한 마음을 가지고 살아야 합니다."
+			],
+			[
+				4,
+				"들",
+				"XSN",
+				"그래서 우리들은 농부들에게 감사한 마음을 가지고 살아야 합니다."
+			]
+		],
+		"IC_Lst": []
+	},
+	"NDW": {
+		"morph_NDW": 135,
+		"NL_NDW": 54,
+		"NNG_NDW": 41,
+		"NNP_NDW": 5,
+		"NNB_NDW": 4,
+		"NP_NDW": 4,
+		"NR_NDW": 0,
+		"VL_NDW": 51,
+		"VV_NDW": 25,
+		"VA_NDW": 13,
+		"ML_NDW": 9,
+		"MM_NDW": 0,
+		"IC_NDW": 0,
+		"J_NDW": 50,
+		"E_NDW": 54,
+		"X_NDW": 5,
+		"CL_NDW": 114,
+		"FL_NDW": 109
+	}
+}

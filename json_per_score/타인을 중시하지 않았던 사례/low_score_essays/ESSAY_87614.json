@@ -1,0 +1,3173 @@
+﻿{
+	"morpheme": {
+		"sentences": [
+			{
+				"text": {
+					"content": "길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다.",
+					"length": 126,
+					"beginOffset": 0
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "길을",
+							"length": 2,
+							"beginOffset": 0
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "길",
+									"length": 1,
+									"beginOffset": 0
+								},
+								"tag": "NNG",
+								"probability": 0.97963816,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 1,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99994516,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "길",
+						"tagged": "길/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "가다가",
+							"beginOffset": 3,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 3,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9702079,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다가",
+									"beginOffset": 4,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9936955,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "가",
+						"tagged": "가/VV+다가/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "폐지를",
+							"beginOffset": 7,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "폐지",
+									"beginOffset": 7,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9849644,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 9,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99998116,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "폐지",
+						"tagged": "폐지/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "줍고",
+							"beginOffset": 11,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "줍",
+									"beginOffset": 11,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.98818076,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 12,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99444914,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "줍",
+						"tagged": "줍/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "계시는",
+							"beginOffset": 14,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "계시",
+									"beginOffset": 14,
+									"length": 2
+								},
+								"tag": "VX",
+								"probability": 0.88619435,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 16,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99998313,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "계시",
+						"tagged": "계시/VX+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "할머니와",
+							"beginOffset": 18,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "할머니와",
+									"beginOffset": 18,
+									"length": 4
+								},
+								"tag": "NNP",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							}
+						],
+						"lemma": "할머니와",
+						"tagged": "할머니와/NNP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "할아버지를",
+							"beginOffset": 23,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "할아버지",
+									"beginOffset": 23,
+									"length": 4
+								},
+								"tag": "NNG",
+								"probability": 0.96448666,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 27,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99993396,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "할아버지",
+						"tagged": "할아버지/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "볼",
+							"beginOffset": 29,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "보",
+									"beginOffset": 29,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.97314006,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ",
+									"beginOffset": 29,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.999957,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "보",
+						"tagged": "보/VV+ㄹ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "때마다",
+							"beginOffset": 31,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "때",
+									"beginOffset": 31,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9828236,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "마다",
+									"beginOffset": 32,
+									"length": 2
+								},
+								"tag": "JX",
+								"probability": 0.9990129,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "때",
+						"tagged": "때/NNG+마다/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "같이",
+							"beginOffset": 35,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "같이",
+									"beginOffset": 35,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.989704,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "같이",
+						"tagged": "같이/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "줍고",
+							"beginOffset": 38,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "줍",
+									"beginOffset": 38,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9864128,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 39,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9938143,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "줍",
+						"tagged": "줍/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "리어카도",
+							"beginOffset": 41,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "리어카",
+									"beginOffset": 41,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.98531914,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 44,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99947166,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "리어카",
+						"tagged": "리어카/NNG+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "밀어",
+							"beginOffset": 46,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "밀",
+									"beginOffset": 46,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.99105257,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어",
+									"beginOffset": 47,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99247205,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "밀",
+						"tagged": "밀/VV+어/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "드렸으며",
+							"beginOffset": 49,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "드리",
+									"beginOffset": 49,
+									"length": 2
+								},
+								"tag": "VX",
+								"probability": 0.50996774,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 50,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9999295,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으며",
+									"beginOffset": 51,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99576867,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "드리",
+						"tagged": "드리/VX+었/EP+으며/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": ",",
+							"beginOffset": 53,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 53,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.9993612,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": ",",
+						"tagged": ",/SP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "버스나",
+							"beginOffset": 55,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "버스",
+									"beginOffset": 55,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.984422,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "나",
+									"beginOffset": 57,
+									"length": 1
+								},
+								"tag": "JC",
+								"probability": 0.9824165,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "버스",
+						"tagged": "버스/NNG+나/JC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "지하철에",
+							"beginOffset": 59,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "지하철",
+									"beginOffset": 59,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.984358,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 62,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9973056,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "지하철",
+						"tagged": "지하철/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "앉아",
+							"beginOffset": 64,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "앉",
+									"beginOffset": 64,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9811007,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 65,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9952547,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "앉",
+						"tagged": "앉/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있다가도",
+							"beginOffset": 66,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 66,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.9749516,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다가",
+									"beginOffset": 67,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99456257,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 69,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9996538,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VX+다가/EC+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "노인분이",
+							"beginOffset": 71,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "노인",
+									"beginOffset": 71,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9758579,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "분",
+									"beginOffset": 73,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.63705885,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 74,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.98567474,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "노인",
+						"tagged": "노인/NNG+분/XSN+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "계시면",
+							"beginOffset": 76,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "계시",
+									"beginOffset": 76,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.927764,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "면",
+									"beginOffset": 78,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9951683,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "계시",
+						"tagged": "계시/VV+면/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "자리를",
+							"beginOffset": 80,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "자리",
+									"beginOffset": 80,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98276806,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 82,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99993783,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "자리",
+						"tagged": "자리/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "양보해",
+							"beginOffset": 84,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "양보하",
+									"beginOffset": 84,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 86,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99486905,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "양보하",
+						"tagged": "양보하/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "드리는",
+							"beginOffset": 87,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "드리",
+									"beginOffset": 87,
+									"length": 2
+								},
+								"tag": "VX",
+								"probability": 0.94790447,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 89,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99957764,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "드리",
+						"tagged": "드리/VX+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "등",
+							"beginOffset": 91,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "등",
+									"beginOffset": 91,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9127829,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "등",
+						"tagged": "등/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사소한",
+							"beginOffset": 93,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사소하",
+									"beginOffset": 93,
+									"length": 3
+								},
+								"tag": "VA",
+								"probability": 0.9874484,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 95,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.999986,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사소하",
+						"tagged": "사소하/VA+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "것부터",
+							"beginOffset": 97,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "것",
+									"beginOffset": 97,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9644526,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "부터",
+									"beginOffset": 98,
+									"length": 2
+								},
+								"tag": "JX",
+								"probability": 0.9817583,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "것",
+						"tagged": "것/NNB+부터/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "시작하여",
+							"beginOffset": 101,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "시작하",
+									"beginOffset": 101,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 104,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.97981566,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "시작하",
+						"tagged": "시작하/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "배려가",
+							"beginOffset": 106,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "배려",
+									"beginOffset": 106,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9814328,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 108,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.987545,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "배려",
+						"tagged": "배려/NNG+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "몸에",
+							"beginOffset": 110,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "몸",
+									"beginOffset": 110,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.98323864,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 111,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9939283,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "몸",
+						"tagged": "몸/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "밸",
+							"beginOffset": 113,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "배",
+									"beginOffset": 113,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.985586,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ",
+									"beginOffset": 113,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99997485,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "배",
+						"tagged": "배/VV+ㄹ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "수",
+							"beginOffset": 115,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "수",
+									"beginOffset": 115,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.980775,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "수",
+						"tagged": "수/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있게",
+							"beginOffset": 117,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 117,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.96018326,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "게",
+									"beginOffset": 118,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99497473,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VA+게/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "하였습니다.",
+							"beginOffset": 120,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 120,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.89733785,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 121,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9998491,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "습니다",
+									"beginOffset": 122,
+									"length": 3
+								},
+								"tag": "EF",
+								"probability": 0.9915476,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 125,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99986714,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VX+았/EP+습니다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며 , 버스나 지하철에 앉아 있다가도 노인분이 계시면 자리를 양보해 드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			},
+			{
+				"text": {
+					"content": "내가 하는 배려가 남에게는 어떤 영향을 미칠지는 알지 못하지만 먼 훗날 나이가 들었을 때 빛을 발휘할 수 있지 않을까 생각합니다.",
+					"beginOffset": 127,
+					"length": 72
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "내가",
+							"beginOffset": 127,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "내",
+									"beginOffset": 127,
+									"length": 1
+								},
+								"tag": "NP",
+								"probability": 0.9889375,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 128,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.98897934,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "내",
+						"tagged": "내/NP+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "하는",
+							"beginOffset": 130,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 130,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9512623,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 131,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99985963,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "배려가",
+							"beginOffset": 133,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "배려",
+									"beginOffset": 133,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9452822,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 135,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.98724484,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "배려",
+						"tagged": "배려/NNG+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "남에게는",
+							"beginOffset": 137,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "남",
+									"beginOffset": 137,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.94466645,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에게",
+									"beginOffset": 138,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.99565667,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 140,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9988075,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "남",
+						"tagged": "남/NNG+에게/JKB+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "어떤",
+							"beginOffset": 142,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "어떤",
+									"beginOffset": 142,
+									"length": 2
+								},
+								"tag": "MMD",
+								"probability": 0.9997887,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "어떤",
+						"tagged": "어떤/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "영향을",
+							"beginOffset": 145,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "영향",
+									"beginOffset": 145,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9824373,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 147,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9997272,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "영향",
+						"tagged": "영향/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "미칠지는",
+							"beginOffset": 149,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "미치",
+									"beginOffset": 149,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9899272,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ지",
+									"beginOffset": 150,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.45392373,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 152,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9993781,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "미치",
+						"tagged": "미치/VV+ㄹ지/EF+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "알지",
+							"beginOffset": 154,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "알",
+									"beginOffset": 154,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.98709255,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ지",
+									"beginOffset": 154,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.8150539,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "알",
+						"tagged": "알/VV+ㄹ지/EF",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "못하지만",
+							"beginOffset": 157,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "못하",
+									"beginOffset": 157,
+									"length": 2
+								},
+								"tag": "VX",
+								"probability": 0.9726411,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "지만",
+									"beginOffset": 159,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9913938,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "못하",
+						"tagged": "못하/VX+지만/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "먼",
+							"beginOffset": 162,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "멀",
+									"beginOffset": 162,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9839767,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 162,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.999963,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "멀",
+						"tagged": "멀/VA+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "훗날",
+							"beginOffset": 164,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "훗날",
+									"beginOffset": 164,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.983439,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "훗날",
+						"tagged": "훗날/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "나이가",
+							"beginOffset": 167,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "나이",
+									"beginOffset": 167,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9833191,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 169,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9888199,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "나이",
+						"tagged": "나이/NNG+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "들었을",
+							"beginOffset": 171,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "들",
+									"beginOffset": 171,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.98253554,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 172,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99986196,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 173,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99995565,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "들",
+						"tagged": "들/VV+었/EP+을/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "때",
+							"beginOffset": 175,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "때",
+									"beginOffset": 175,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9850054,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "때",
+						"tagged": "때/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "빛을",
+							"beginOffset": 177,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "빛",
+									"beginOffset": 177,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.98094165,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 178,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999786,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "빛",
+						"tagged": "빛/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "발휘할",
+							"beginOffset": 180,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "발휘하",
+									"beginOffset": 180,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄹ",
+									"beginOffset": 182,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999806,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "발휘하",
+						"tagged": "발휘하/VV+ㄹ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "수",
+							"beginOffset": 184,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "수",
+									"beginOffset": 184,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9826303,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "수",
+						"tagged": "수/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있지",
+							"beginOffset": 186,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 186,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9204592,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "지",
+									"beginOffset": 187,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.994871,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VA+지/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "않을까",
+							"beginOffset": 189,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "않",
+									"beginOffset": 189,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.9663336,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을까",
+									"beginOffset": 190,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.9302207,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "않",
+						"tagged": "않/VX+을까/EF",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "생각합니다.",
+							"beginOffset": 193,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "생각하",
+									"beginOffset": 193,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.0,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㅂ니다",
+									"beginOffset": 195,
+									"length": 3
+								},
+								"tag": "EF",
+								"probability": 0.99086314,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 198,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99979466,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "생각하",
+						"tagged": "생각하/VV+ㅂ니다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "내가 하는 배려가 남에게는 어떤 영향을 미칠지는 알지 못하지만 먼 훗날 나이가 들었을 때 빛을 발휘할 수 있지 않을까 생각합니다."
+			}
+		],
+		"language": "ko_KR"
+	},
+	"ttr": {
+		"lemma_Cnt": 105,
+		"lemma_TTR": 0.6851851851851852,
+		"CL_TTR": 0.8269230769230769,
+		"NL_TTR": 0.875,
+		"NN_TTR": 0.8695652173913043,
+		"NNG_TTR": 0.8888888888888888,
+		"NNP_TTR": 1.0,
+		"NNB_TTR": 0.75,
+		"NP_TTR": 1.0,
+		"NR_TTR": 0,
+		"VL_TTR": 0.7777777777777778,
+		"VV_TTR": 0.9375,
+		"VA_TTR": 0.75,
+		"ML_TTR": 1.0,
+		"MM_TTR": 0,
+		"MA_TTR": 1.0,
+		"MAJ_TTR": 0,
+		"IC_TTR": 0,
+		"FL_TTR": 0.5576923076923077,
+		"J_TTR": 0.5238095238095238,
+		"E_TTR": 0.6333333333333333,
+		"X_TTR": 1.0,
+		"lemma_RTTR": 7.120653320005384,
+		"CL_RTTR": 5.963027109421214,
+		"NL_RTTR": 4.286607049870562,
+		"NN_RTTR": 4.170288281141495,
+		"NNG_RTTR": 3.771236166328254,
+		"NNP_RTTR": 1.0,
+		"NNB_RTTR": 1.5,
+		"NP_RTTR": 1.0,
+		"NR_RTTR": 0,
+		"VL_RTTR": 4.041451884327381,
+		"VV_RTTR": 3.75,
+		"VA_RTTR": 1.5,
+		"ML_RTTR": 1.0,
+		"MM_RTTR": 0,
+		"MA_RTTR": 1.0,
+		"MAJ_RTTR": 0,
+		"IC_RTTR": 0,
+		"FL_RTTR": 4.021576422632911,
+		"J_RTTR": 2.400396792595916,
+		"E_RTTR": 3.468909530866052,
+		"X_RTTR": 1.0,
+		"lemma_CTTR": 5.03506224905431,
+		"CL_CTTR": 4.216496905470957,
+		"NL_CTTR": 3.0310889132455356,
+		"NN_CTTR": 2.9488391230979425,
+		"NNG_CTTR": 2.6666666666666665,
+		"NNP_CTTR": 0.7071067811865475,
+		"NNB_CTTR": 1.0606601717798212,
+		"NP_CTTR": 0.7071067811865475,
+		"NR_CTTR": 0,
+		"VL_CTTR": 2.857738033247041,
+		"VV_CTTR": 2.651650429449553,
+		"VA_CTTR": 1.0606601717798212,
+		"ML_CTTR": 0.7071067811865475,
+		"MM_CTTR": 0,
+		"MA_CTTR": 0.7071067811865475,
+		"MAJ_CTTR": 0,
+		"IC_CTTR": 0,
+		"FL_CTTR": 2.8436839595036685,
+		"J_CTTR": 1.697336849583011,
+		"E_CTTR": 2.4528894525980305,
+		"X_CTTR": 0.7071067811865475,
+		"lemma_MSTTR": 0.78,
+		"CL_MSTTR": 0.82,
+		"NL_MSTTR": 0.875,
+		"NN_MSTTR": 0.8695652173913043,
+		"NNG_MSTTR": 0.8888888888888888,
+		"NNP_MSTTR": 1.0,
+		"NNB_MSTTR": 0.75,
+		"NP_MSTTR": 1.0,
+		"NR_MSTTR": 0,
+		"VL_MSTTR": 0.7777777777777778,
+		"VV_MSTTR": 0.9375,
+		"VA_MSTTR": 0.75,
+		"ML_MSTTR": 1.0,
+		"MM_MSTTR": 0,
+		"MA_MSTTR": 1.0,
+		"MAJ_MSTTR": 0,
+		"IC_MSTTR": 0,
+		"FL_MSTTR": 0.54,
+		"J_MSTTR": 0.5238095238095238,
+		"E_MSTTR": 0.6333333333333333,
+		"X_MSTTR": 1.0,
+		"lemma_MATTR": 0.8108474576271187,
+		"CL_MATTR": 0.82,
+		"NL_MATTR": 0.875,
+		"NN_MATTR": 0.8695652173913043,
+		"NNG_MATTR": 0.8888888888888888,
+		"NNP_MATTR": 1.0,
+		"NNB_MATTR": 0.75,
+		"NP_MATTR": 1.0,
+		"NR_MATTR": 0,
+		"VL_MATTR": 0.7777777777777778,
+		"VV_MATTR": 0.9375,
+		"VA_MATTR": 0.75,
+		"ML_MATTR": 1.0,
+		"MM_MATTR": 0,
+		"MA_MATTR": 1.0,
+		"MAJ_MATTR": 0,
+		"IC_MATTR": 0,
+		"FL_MATTR": 0.56,
+		"J_MATTR": 0.5238095238095238,
+		"E_MATTR": 0.6333333333333333,
+		"X_MATTR": 1.0,
+		"lemma_MTLD": 100.74193548387098,
+		"CL_MTLD": 84.12444444444442,
+		"NL_MTLD": 53.760000000000005,
+		"NN_MTLD": 49.37333333333333,
+		"NNG_MTLD": 45.359999999999985,
+		"NNP_MTLD": 0.0,
+		"NNB_MTLD": 4.48,
+		"NP_MTLD": 0.0,
+		"NR_MTLD": 0.0,
+		"VL_MTLD": 34.02,
+		"VV_MTLD": 71.68,
+		"VA_MTLD": 4.48,
+		"ML_MTLD": 0.0,
+		"MM_MTLD": 0.0,
+		"MA_MTLD": 0.0,
+		"MAJ_MTLD": 0.0,
+		"IC_MTLD": 0.0,
+		"FL_MTLD": 23.627737226277375,
+		"J_MTLD": 10.5,
+		"E_MTLD": 18.60401600246192,
+		"X_MTLD": 0.0,
+		"lemma_VOCDD": 95.90457080841522,
+		"CL_VOCDD": 107.48465109146046,
+		"NL_VOCDD": 0,
+		"NN_VOCDD": 0,
+		"NNG_VOCDD": 0,
+		"NNP_VOCDD": 0,
+		"NNB_VOCDD": 0,
+		"NP_VOCDD": 0,
+		"NR_VOCDD": 0,
+		"VL_VOCDD": 0,
+		"VV_VOCDD": 0,
+		"VA_VOCDD": 0,
+		"ML_VOCDD": 0,
+		"MM_VOCDD": 0,
+		"MA_VOCDD": 0,
+		"MAJ_VOCDD": 0,
+		"IC_VOCDD": 0,
+		"FL_VOCDD": 20.16823162482055,
+		"J_VOCDD": 0,
+		"E_VOCDD": 0,
+		"X_VOCDD": 0,
+		"lemma_HDD": 0.8443400891381851,
+		"CL_HDD": 0.8577677224736053,
+		"NL_HDD": 0.0,
+		"NN_HDD": 0.0,
+		"NNG_HDD": 0.0,
+		"NNP_HDD": 0.0,
+		"NNB_HDD": 0.0,
+		"NP_HDD": 0.0,
+		"NR_HDD": 0.0,
+		"VL_HDD": 0.0,
+		"VV_HDD": 0.0,
+		"VA_HDD": 0.0,
+		"ML_HDD": 0.0,
+		"MM_HDD": 0.0,
+		"MA_HDD": 0.0,
+		"MAJ_HDD": 0.0,
+		"IC_HDD": 0.0,
+		"FL_HDD": 0.6111329147043434,
+		"J_HDD": 0.0,
+		"E_HDD": 0.0,
+		"X_HDD": 0.0
+	},
+	"similarity": {
+		"avgSentSimilarity": 0.3159934878349304,
+		"topicConsistency": 0.5805
+	},
+	"adjacency": {
+		"adjacent_sentence_overlap_all_lemmas": 38,
+		"adjacent_sentence_overlap_all_lemmas_normed": 1,
+		"binary_adjacent_sentence_overlap_all_lemmas": 1,
+		"adjacent_two_sentence_overlap_all_lemmas": 0,
+		"adjacent_two_sentence_overlap_all_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_all_lemmas": 0,
+		"adjacent_sentence_overlap_content_lemmas": 18,
+		"adjacent_sentence_overlap_content_lemmas_normed": 1,
+		"binary_adjacent_sentence_overlap_content_lemmas": 1,
+		"adjacent_two_sentence_overlap_content_lemmas": 0,
+		"adjacent_two_sentence_overlap_content_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_content_lemmas": 0,
+		"adjacent_sentence_overlap_function_lemmas": 19,
+		"adjacent_sentence_overlap_function_lemmas_normed": 1,
+		"binary_adjacent_sentence_overlap_function_lemmas": 1,
+		"adjacent_two_sentence_overlap_function_lemmas": 0,
+		"adjacent_two_sentence_overlap_function_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_function_lemmas": 0,
+		"adjacent_sentence_overlap_noun_lemmas": 8,
+		"adjacent_sentence_overlap_noun_lemmas_normed": 1,
+		"binary_adjacent_sentence_overlap_noun_lemmas": 1,
+		"adjacent_two_sentence_overlap_noun_lemmas": 0,
+		"adjacent_two_sentence_overlap_noun_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_noun_lemmas": 0,
+		"adjacent_sentence_overlap_verb_lemmas": 10,
+		"adjacent_sentence_overlap_verb_lemmas_normed": 1,
+		"binary_adjacent_sentence_overlap_verb_lemmas": 1,
+		"adjacent_two_sentence_overlap_verb_lemmas": 0,
+		"adjacent_two_sentence_overlap_verb_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_verb_lemmas": 0,
+		"adjacent_sentence_overlap_adjective_lemmas": 2,
+		"adjacent_sentence_overlap_adjective_lemmas_normed": 1,
+		"binary_adjacent_sentence_overlap_adjective_lemmas": 1,
+		"adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_sentence_overlap_adverb_lemmas_normed": 0,
+		"binary_adjacent_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adverb_lemmas": 0
+	},
+	"basic_count": {
+		"para_Cnt": 1,
+		"sentence_Cnt": 2,
+		"word_Cnt": 51,
+		"morph_Cnt": 108,
+		"char_Cnt": 150,
+		"CL_Cnt": 52,
+		"NL_Cnt": 24,
+		"NN_Cnt": 23,
+		"NNG_Cnt": 18,
+		"NNP_Cnt": 1,
+		"NNB_Cnt": 4,
+		"NP_Cnt": 1,
+		"NP_People_Cnt": 0,
+		"NP_Things_Cnt": 0,
+		"NR_Cnt": 0,
+		"VL_Cnt": 27,
+		"VV_Cnt": 16,
+		"VA_Cnt": 4,
+		"VX_Cnt": 7,
+		"VCP_Cnt": 0,
+		"VCN_Cnt": 0,
+		"ML_Cnt": 1,
+		"MA_Cnt": 0,
+		"MM_Cnt": 0,
+		"FL_Cnt": 52,
+		"J_Cnt": 21,
+		"E_Cnt": 30,
+		"X_Cnt": 1,
+		"IC_Cnt": 0
+	},
+	"basic_density": {
+		"CL_Den": 0.48148148148148145,
+		"FL_Den": 0.48148148148148145,
+		"NL_Den": 0.21296296296296297,
+		"NNGL_Den": 0.16666666666666666,
+		"NNPL_Den": 0.009259259259259259,
+		"NNBL_Den": 0.037037037037037035,
+		"NPL_Den": 0.009259259259259259,
+		"NML_Den": 0.0,
+		"VL_Den": 0.25,
+		"VVL_Den": 0.14814814814814814,
+		"VAL_Den": 0.037037037037037035,
+		"ML_Den": 0.009259259259259259,
+		"MML_Den": 0.0,
+		"MAL_Den": 0.0,
+		"JL_Den": 0.19444444444444445,
+		"EL_Den": 0.2777777777777778,
+		"XL_Den": 0.009259259259259259,
+		"ITL_Den": 0.0,
+		"NCL_Den": 0.4423076923076923,
+		"NNCL_Den": 0.34615384615384615,
+		"NNGCL_Den": 0.019230769230769232,
+		"NNBCL_Den": 0.07692307692307693,
+		"NPCL_Den": 0.019230769230769232,
+		"NMCL_Den": 0.0,
+		"VCL_Den": 0.5192307692307693,
+		"VVCL_Den": 0.3076923076923077,
+		"VACL_Den": 0.07692307692307693,
+		"MCL_Den": 0.019230769230769232,
+		"MMCL_Den": 0.0,
+		"MACL_Den": 0.0,
+		"INCL_Den": 0.0,
+		"JFL_Den": 0.40384615384615385,
+		"EFL_Den": 0.5769230769230769,
+		"XFL_Den": 0.019230769230769232
+	},
+	"basic_level": {
+		"morph_LenAvg": 1.4722222222222223,
+		"morph_LenStd": 0.7259519080762213,
+		"word_LenAvg": 2.8627450980392157,
+		"word_LenStd": 1.2527555172520224
+	},
+	"basic_list": {
+		"NL_Lst": [
+			[
+				0,
+				"길",
+				"NNG",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				1,
+				"폐지",
+				"NNG",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				2,
+				"할머니와",
+				"NNP",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				3,
+				"할아버지",
+				"NNG",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				4,
+				"때",
+				"NNG",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				5,
+				"리어카",
+				"NNG",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				6,
+				"버스",
+				"NNG",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				7,
+				"지하철",
+				"NNG",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				8,
+				"노인",
+				"NNG",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				9,
+				"자리",
+				"NNG",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				10,
+				"등",
+				"NNB",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				11,
+				"것",
+				"NNB",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				12,
+				"배려",
+				"NNG",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				13,
+				"몸",
+				"NNG",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				14,
+				"수",
+				"NNB",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				15,
+				"내",
+				"NP",
+				"내가 하는 배려가 남에게는 어떤 영향을 미칠지는 알지 못하지만 먼 훗날 나이가 들었을 때 빛을 발휘할 수 있지 않을까 생각합니다."
+			],
+			[
+				16,
+				"배려",
+				"NNG",
+				"내가 하는 배려가 남에게는 어떤 영향을 미칠지는 알지 못하지만 먼 훗날 나이가 들었을 때 빛을 발휘할 수 있지 않을까 생각합니다."
+			],
+			[
+				17,
+				"남",
+				"NNG",
+				"내가 하는 배려가 남에게는 어떤 영향을 미칠지는 알지 못하지만 먼 훗날 나이가 들었을 때 빛을 발휘할 수 있지 않을까 생각합니다."
+			],
+			[
+				18,
+				"영향",
+				"NNG",
+				"내가 하는 배려가 남에게는 어떤 영향을 미칠지는 알지 못하지만 먼 훗날 나이가 들었을 때 빛을 발휘할 수 있지 않을까 생각합니다."
+			],
+			[
+				19,
+				"훗날",
+				"NNG",
+				"내가 하는 배려가 남에게는 어떤 영향을 미칠지는 알지 못하지만 먼 훗날 나이가 들었을 때 빛을 발휘할 수 있지 않을까 생각합니다."
+			],
+			[
+				20,
+				"나이",
+				"NNG",
+				"내가 하는 배려가 남에게는 어떤 영향을 미칠지는 알지 못하지만 먼 훗날 나이가 들었을 때 빛을 발휘할 수 있지 않을까 생각합니다."
+			],
+			[
+				21,
+				"때",
+				"NNG",
+				"내가 하는 배려가 남에게는 어떤 영향을 미칠지는 알지 못하지만 먼 훗날 나이가 들었을 때 빛을 발휘할 수 있지 않을까 생각합니다."
+			],
+			[
+				22,
+				"빛",
+				"NNG",
+				"내가 하는 배려가 남에게는 어떤 영향을 미칠지는 알지 못하지만 먼 훗날 나이가 들었을 때 빛을 발휘할 수 있지 않을까 생각합니다."
+			],
+			[
+				23,
+				"수",
+				"NNB",
+				"내가 하는 배려가 남에게는 어떤 영향을 미칠지는 알지 못하지만 먼 훗날 나이가 들었을 때 빛을 발휘할 수 있지 않을까 생각합니다."
+			]
+		],
+		"NN_Lst": [
+			[
+				0,
+				"길",
+				"NNG",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				1,
+				"폐지",
+				"NNG",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				2,
+				"할머니와",
+				"NNP",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				3,
+				"할아버지",
+				"NNG",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				4,
+				"때",
+				"NNG",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				5,
+				"리어카",
+				"NNG",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				6,
+				"버스",
+				"NNG",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				7,
+				"지하철",
+				"NNG",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				8,
+				"노인",
+				"NNG",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				9,
+				"자리",
+				"NNG",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				10,
+				"등",
+				"NNB",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				11,
+				"것",
+				"NNB",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				12,
+				"배려",
+				"NNG",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				13,
+				"몸",
+				"NNG",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				14,
+				"수",
+				"NNB",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				15,
+				"배려",
+				"NNG",
+				"내가 하는 배려가 남에게는 어떤 영향을 미칠지는 알지 못하지만 먼 훗날 나이가 들었을 때 빛을 발휘할 수 있지 않을까 생각합니다."
+			],
+			[
+				16,
+				"남",
+				"NNG",
+				"내가 하는 배려가 남에게는 어떤 영향을 미칠지는 알지 못하지만 먼 훗날 나이가 들었을 때 빛을 발휘할 수 있지 않을까 생각합니다."
+			],
+			[
+				17,
+				"영향",
+				"NNG",
+				"내가 하는 배려가 남에게는 어떤 영향을 미칠지는 알지 못하지만 먼 훗날 나이가 들었을 때 빛을 발휘할 수 있지 않을까 생각합니다."
+			],
+			[
+				18,
+				"훗날",
+				"NNG",
+				"내가 하는 배려가 남에게는 어떤 영향을 미칠지는 알지 못하지만 먼 훗날 나이가 들었을 때 빛을 발휘할 수 있지 않을까 생각합니다."
+			],
+			[
+				19,
+				"나이",
+				"NNG",
+				"내가 하는 배려가 남에게는 어떤 영향을 미칠지는 알지 못하지만 먼 훗날 나이가 들었을 때 빛을 발휘할 수 있지 않을까 생각합니다."
+			],
+			[
+				20,
+				"때",
+				"NNG",
+				"내가 하는 배려가 남에게는 어떤 영향을 미칠지는 알지 못하지만 먼 훗날 나이가 들었을 때 빛을 발휘할 수 있지 않을까 생각합니다."
+			],
+			[
+				21,
+				"빛",
+				"NNG",
+				"내가 하는 배려가 남에게는 어떤 영향을 미칠지는 알지 못하지만 먼 훗날 나이가 들었을 때 빛을 발휘할 수 있지 않을까 생각합니다."
+			],
+			[
+				22,
+				"수",
+				"NNB",
+				"내가 하는 배려가 남에게는 어떤 영향을 미칠지는 알지 못하지만 먼 훗날 나이가 들었을 때 빛을 발휘할 수 있지 않을까 생각합니다."
+			]
+		],
+		"NNG_Lst": [
+			[
+				0,
+				"길",
+				"NNG",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				1,
+				"폐지",
+				"NNG",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				2,
+				"할아버지",
+				"NNG",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				3,
+				"때",
+				"NNG",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				4,
+				"리어카",
+				"NNG",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				5,
+				"버스",
+				"NNG",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				6,
+				"지하철",
+				"NNG",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				7,
+				"노인",
+				"NNG",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				8,
+				"자리",
+				"NNG",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				9,
+				"배려",
+				"NNG",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				10,
+				"몸",
+				"NNG",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				11,
+				"배려",
+				"NNG",
+				"내가 하는 배려가 남에게는 어떤 영향을 미칠지는 알지 못하지만 먼 훗날 나이가 들었을 때 빛을 발휘할 수 있지 않을까 생각합니다."
+			],
+			[
+				12,
+				"남",
+				"NNG",
+				"내가 하는 배려가 남에게는 어떤 영향을 미칠지는 알지 못하지만 먼 훗날 나이가 들었을 때 빛을 발휘할 수 있지 않을까 생각합니다."
+			],
+			[
+				13,
+				"영향",
+				"NNG",
+				"내가 하는 배려가 남에게는 어떤 영향을 미칠지는 알지 못하지만 먼 훗날 나이가 들었을 때 빛을 발휘할 수 있지 않을까 생각합니다."
+			],
+			[
+				14,
+				"훗날",
+				"NNG",
+				"내가 하는 배려가 남에게는 어떤 영향을 미칠지는 알지 못하지만 먼 훗날 나이가 들었을 때 빛을 발휘할 수 있지 않을까 생각합니다."
+			],
+			[
+				15,
+				"나이",
+				"NNG",
+				"내가 하는 배려가 남에게는 어떤 영향을 미칠지는 알지 못하지만 먼 훗날 나이가 들었을 때 빛을 발휘할 수 있지 않을까 생각합니다."
+			],
+			[
+				16,
+				"때",
+				"NNG",
+				"내가 하는 배려가 남에게는 어떤 영향을 미칠지는 알지 못하지만 먼 훗날 나이가 들었을 때 빛을 발휘할 수 있지 않을까 생각합니다."
+			],
+			[
+				17,
+				"빛",
+				"NNG",
+				"내가 하는 배려가 남에게는 어떤 영향을 미칠지는 알지 못하지만 먼 훗날 나이가 들었을 때 빛을 발휘할 수 있지 않을까 생각합니다."
+			]
+		],
+		"NNP_Lst": [
+			[
+				0,
+				"할머니와",
+				"NNP",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			]
+		],
+		"NNB_Lst": [
+			[
+				0,
+				"등",
+				"NNB",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				1,
+				"것",
+				"NNB",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				2,
+				"수",
+				"NNB",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				3,
+				"수",
+				"NNB",
+				"내가 하는 배려가 남에게는 어떤 영향을 미칠지는 알지 못하지만 먼 훗날 나이가 들었을 때 빛을 발휘할 수 있지 않을까 생각합니다."
+			]
+		],
+		"NP_Lst": [
+			[
+				0,
+				"내",
+				"NP",
+				"내가 하는 배려가 남에게는 어떤 영향을 미칠지는 알지 못하지만 먼 훗날 나이가 들었을 때 빛을 발휘할 수 있지 않을까 생각합니다."
+			]
+		],
+		"NP_People_Lst": [],
+		"NP_Things_Lst": [],
+		"NR_Lst": [],
+		"VL_Lst": [
+			[
+				0,
+				"가",
+				"VV",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				1,
+				"줍",
+				"VV",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				2,
+				"계시",
+				"VX",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				3,
+				"보",
+				"VV",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				4,
+				"줍",
+				"VV",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				5,
+				"밀",
+				"VV",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				6,
+				"드리",
+				"VX",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				7,
+				"앉",
+				"VV",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				8,
+				"있",
+				"VX",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				9,
+				"계시",
+				"VV",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				10,
+				"양보하",
+				"VV",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				11,
+				"드리",
+				"VX",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				12,
+				"사소하",
+				"VA",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				13,
+				"시작하",
+				"VV",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				14,
+				"배",
+				"VV",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				15,
+				"있",
+				"VA",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				16,
+				"하",
+				"VX",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				17,
+				"하",
+				"VV",
+				"내가 하는 배려가 남에게는 어떤 영향을 미칠지는 알지 못하지만 먼 훗날 나이가 들었을 때 빛을 발휘할 수 있지 않을까 생각합니다."
+			],
+			[
+				18,
+				"미치",
+				"VV",
+				"내가 하는 배려가 남에게는 어떤 영향을 미칠지는 알지 못하지만 먼 훗날 나이가 들었을 때 빛을 발휘할 수 있지 않을까 생각합니다."
+			],
+			[
+				19,
+				"알",
+				"VV",
+				"내가 하는 배려가 남에게는 어떤 영향을 미칠지는 알지 못하지만 먼 훗날 나이가 들었을 때 빛을 발휘할 수 있지 않을까 생각합니다."
+			],
+			[
+				20,
+				"못하",
+				"VX",
+				"내가 하는 배려가 남에게는 어떤 영향을 미칠지는 알지 못하지만 먼 훗날 나이가 들었을 때 빛을 발휘할 수 있지 않을까 생각합니다."
+			],
+			[
+				21,
+				"멀",
+				"VA",
+				"내가 하는 배려가 남에게는 어떤 영향을 미칠지는 알지 못하지만 먼 훗날 나이가 들었을 때 빛을 발휘할 수 있지 않을까 생각합니다."
+			],
+			[
+				22,
+				"들",
+				"VV",
+				"내가 하는 배려가 남에게는 어떤 영향을 미칠지는 알지 못하지만 먼 훗날 나이가 들었을 때 빛을 발휘할 수 있지 않을까 생각합니다."
+			],
+			[
+				23,
+				"발휘하",
+				"VV",
+				"내가 하는 배려가 남에게는 어떤 영향을 미칠지는 알지 못하지만 먼 훗날 나이가 들었을 때 빛을 발휘할 수 있지 않을까 생각합니다."
+			],
+			[
+				24,
+				"있",
+				"VA",
+				"내가 하는 배려가 남에게는 어떤 영향을 미칠지는 알지 못하지만 먼 훗날 나이가 들었을 때 빛을 발휘할 수 있지 않을까 생각합니다."
+			],
+			[
+				25,
+				"않",
+				"VX",
+				"내가 하는 배려가 남에게는 어떤 영향을 미칠지는 알지 못하지만 먼 훗날 나이가 들었을 때 빛을 발휘할 수 있지 않을까 생각합니다."
+			],
+			[
+				26,
+				"생각하",
+				"VV",
+				"내가 하는 배려가 남에게는 어떤 영향을 미칠지는 알지 못하지만 먼 훗날 나이가 들었을 때 빛을 발휘할 수 있지 않을까 생각합니다."
+			]
+		],
+		"VV_Lst": [
+			[
+				0,
+				"가",
+				"VV",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				1,
+				"줍",
+				"VV",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				2,
+				"보",
+				"VV",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				3,
+				"줍",
+				"VV",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				4,
+				"밀",
+				"VV",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				5,
+				"앉",
+				"VV",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				6,
+				"계시",
+				"VV",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				7,
+				"양보하",
+				"VV",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				8,
+				"시작하",
+				"VV",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				9,
+				"배",
+				"VV",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				10,
+				"하",
+				"VV",
+				"내가 하는 배려가 남에게는 어떤 영향을 미칠지는 알지 못하지만 먼 훗날 나이가 들었을 때 빛을 발휘할 수 있지 않을까 생각합니다."
+			],
+			[
+				11,
+				"미치",
+				"VV",
+				"내가 하는 배려가 남에게는 어떤 영향을 미칠지는 알지 못하지만 먼 훗날 나이가 들었을 때 빛을 발휘할 수 있지 않을까 생각합니다."
+			],
+			[
+				12,
+				"알",
+				"VV",
+				"내가 하는 배려가 남에게는 어떤 영향을 미칠지는 알지 못하지만 먼 훗날 나이가 들었을 때 빛을 발휘할 수 있지 않을까 생각합니다."
+			],
+			[
+				13,
+				"들",
+				"VV",
+				"내가 하는 배려가 남에게는 어떤 영향을 미칠지는 알지 못하지만 먼 훗날 나이가 들었을 때 빛을 발휘할 수 있지 않을까 생각합니다."
+			],
+			[
+				14,
+				"발휘하",
+				"VV",
+				"내가 하는 배려가 남에게는 어떤 영향을 미칠지는 알지 못하지만 먼 훗날 나이가 들었을 때 빛을 발휘할 수 있지 않을까 생각합니다."
+			],
+			[
+				15,
+				"생각하",
+				"VV",
+				"내가 하는 배려가 남에게는 어떤 영향을 미칠지는 알지 못하지만 먼 훗날 나이가 들었을 때 빛을 발휘할 수 있지 않을까 생각합니다."
+			]
+		],
+		"VA_Lst": [
+			[
+				0,
+				"사소하",
+				"VA",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				1,
+				"있",
+				"VA",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				2,
+				"멀",
+				"VA",
+				"내가 하는 배려가 남에게는 어떤 영향을 미칠지는 알지 못하지만 먼 훗날 나이가 들었을 때 빛을 발휘할 수 있지 않을까 생각합니다."
+			],
+			[
+				3,
+				"있",
+				"VA",
+				"내가 하는 배려가 남에게는 어떤 영향을 미칠지는 알지 못하지만 먼 훗날 나이가 들었을 때 빛을 발휘할 수 있지 않을까 생각합니다."
+			]
+		],
+		"VX_Lst": [
+			[
+				0,
+				"계시",
+				"VX",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				1,
+				"드리",
+				"VX",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				2,
+				"있",
+				"VX",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				3,
+				"드리",
+				"VX",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				4,
+				"하",
+				"VX",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				5,
+				"못하",
+				"VX",
+				"내가 하는 배려가 남에게는 어떤 영향을 미칠지는 알지 못하지만 먼 훗날 나이가 들었을 때 빛을 발휘할 수 있지 않을까 생각합니다."
+			],
+			[
+				6,
+				"않",
+				"VX",
+				"내가 하는 배려가 남에게는 어떤 영향을 미칠지는 알지 못하지만 먼 훗날 나이가 들었을 때 빛을 발휘할 수 있지 않을까 생각합니다."
+			]
+		],
+		"VCP_Lst": [],
+		"VCN_Lst": [],
+		"ML_Lst": [
+			[
+				0,
+				"같이",
+				"MAG",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			]
+		],
+		"MA_Lst": [],
+		"MM_Lst": [],
+		"J_Lst": [
+			[
+				0,
+				"을",
+				"JKO",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				1,
+				"를",
+				"JKO",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				2,
+				"를",
+				"JKO",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				3,
+				"마다",
+				"JX",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				4,
+				"도",
+				"JX",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				5,
+				"나",
+				"JC",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				6,
+				"에",
+				"JKB",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				7,
+				"도",
+				"JX",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				8,
+				"이",
+				"JKS",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				9,
+				"를",
+				"JKO",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				10,
+				"부터",
+				"JX",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				11,
+				"가",
+				"JKS",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				12,
+				"에",
+				"JKB",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				13,
+				"가",
+				"JKS",
+				"내가 하는 배려가 남에게는 어떤 영향을 미칠지는 알지 못하지만 먼 훗날 나이가 들었을 때 빛을 발휘할 수 있지 않을까 생각합니다."
+			],
+			[
+				14,
+				"가",
+				"JKS",
+				"내가 하는 배려가 남에게는 어떤 영향을 미칠지는 알지 못하지만 먼 훗날 나이가 들었을 때 빛을 발휘할 수 있지 않을까 생각합니다."
+			],
+			[
+				15,
+				"에게",
+				"JKB",
+				"내가 하는 배려가 남에게는 어떤 영향을 미칠지는 알지 못하지만 먼 훗날 나이가 들었을 때 빛을 발휘할 수 있지 않을까 생각합니다."
+			],
+			[
+				16,
+				"는",
+				"JX",
+				"내가 하는 배려가 남에게는 어떤 영향을 미칠지는 알지 못하지만 먼 훗날 나이가 들었을 때 빛을 발휘할 수 있지 않을까 생각합니다."
+			],
+			[
+				17,
+				"을",
+				"JKO",
+				"내가 하는 배려가 남에게는 어떤 영향을 미칠지는 알지 못하지만 먼 훗날 나이가 들었을 때 빛을 발휘할 수 있지 않을까 생각합니다."
+			],
+			[
+				18,
+				"는",
+				"JX",
+				"내가 하는 배려가 남에게는 어떤 영향을 미칠지는 알지 못하지만 먼 훗날 나이가 들었을 때 빛을 발휘할 수 있지 않을까 생각합니다."
+			],
+			[
+				19,
+				"가",
+				"JKS",
+				"내가 하는 배려가 남에게는 어떤 영향을 미칠지는 알지 못하지만 먼 훗날 나이가 들었을 때 빛을 발휘할 수 있지 않을까 생각합니다."
+			],
+			[
+				20,
+				"을",
+				"JKO",
+				"내가 하는 배려가 남에게는 어떤 영향을 미칠지는 알지 못하지만 먼 훗날 나이가 들었을 때 빛을 발휘할 수 있지 않을까 생각합니다."
+			]
+		],
+		"E_Lst": [
+			[
+				0,
+				"다가",
+				"EC",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				1,
+				"고",
+				"EC",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				2,
+				"는",
+				"ETM",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				3,
+				"ㄹ",
+				"ETM",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				4,
+				"고",
+				"EC",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				5,
+				"어",
+				"EC",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				6,
+				"었",
+				"EP",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				7,
+				"으며",
+				"EC",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				8,
+				"아",
+				"EC",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				9,
+				"다가",
+				"EC",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				10,
+				"면",
+				"EC",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				11,
+				"아",
+				"EC",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				12,
+				"는",
+				"ETM",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				13,
+				"ㄴ",
+				"ETM",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				14,
+				"아",
+				"EC",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				15,
+				"ㄹ",
+				"ETM",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				16,
+				"게",
+				"EC",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				17,
+				"았",
+				"EP",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				18,
+				"습니다",
+				"EF",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			],
+			[
+				19,
+				"는",
+				"ETM",
+				"내가 하는 배려가 남에게는 어떤 영향을 미칠지는 알지 못하지만 먼 훗날 나이가 들었을 때 빛을 발휘할 수 있지 않을까 생각합니다."
+			],
+			[
+				20,
+				"ㄹ지",
+				"EF",
+				"내가 하는 배려가 남에게는 어떤 영향을 미칠지는 알지 못하지만 먼 훗날 나이가 들었을 때 빛을 발휘할 수 있지 않을까 생각합니다."
+			],
+			[
+				21,
+				"ㄹ지",
+				"EF",
+				"내가 하는 배려가 남에게는 어떤 영향을 미칠지는 알지 못하지만 먼 훗날 나이가 들었을 때 빛을 발휘할 수 있지 않을까 생각합니다."
+			],
+			[
+				22,
+				"지만",
+				"EC",
+				"내가 하는 배려가 남에게는 어떤 영향을 미칠지는 알지 못하지만 먼 훗날 나이가 들었을 때 빛을 발휘할 수 있지 않을까 생각합니다."
+			],
+			[
+				23,
+				"ㄴ",
+				"ETM",
+				"내가 하는 배려가 남에게는 어떤 영향을 미칠지는 알지 못하지만 먼 훗날 나이가 들었을 때 빛을 발휘할 수 있지 않을까 생각합니다."
+			],
+			[
+				24,
+				"었",
+				"EP",
+				"내가 하는 배려가 남에게는 어떤 영향을 미칠지는 알지 못하지만 먼 훗날 나이가 들었을 때 빛을 발휘할 수 있지 않을까 생각합니다."
+			],
+			[
+				25,
+				"을",
+				"ETM",
+				"내가 하는 배려가 남에게는 어떤 영향을 미칠지는 알지 못하지만 먼 훗날 나이가 들었을 때 빛을 발휘할 수 있지 않을까 생각합니다."
+			],
+			[
+				26,
+				"ㄹ",
+				"ETM",
+				"내가 하는 배려가 남에게는 어떤 영향을 미칠지는 알지 못하지만 먼 훗날 나이가 들었을 때 빛을 발휘할 수 있지 않을까 생각합니다."
+			],
+			[
+				27,
+				"지",
+				"EC",
+				"내가 하는 배려가 남에게는 어떤 영향을 미칠지는 알지 못하지만 먼 훗날 나이가 들었을 때 빛을 발휘할 수 있지 않을까 생각합니다."
+			],
+			[
+				28,
+				"을까",
+				"EF",
+				"내가 하는 배려가 남에게는 어떤 영향을 미칠지는 알지 못하지만 먼 훗날 나이가 들었을 때 빛을 발휘할 수 있지 않을까 생각합니다."
+			],
+			[
+				29,
+				"ㅂ니다",
+				"EF",
+				"내가 하는 배려가 남에게는 어떤 영향을 미칠지는 알지 못하지만 먼 훗날 나이가 들었을 때 빛을 발휘할 수 있지 않을까 생각합니다."
+			]
+		],
+		"X_Lst": [
+			[
+				0,
+				"분",
+				"XSN",
+				"길을 가다가 폐지를 줍고 계시는 할머니와 할아버지를 볼 때마다 같이 줍고 리어카도 밀어 드렸으며, 버스나 지하철에 앉아있다가도 노인분이 계시면 자리를 양보해드리는 등 사소한 것부터 시작하여 배려가 몸에 밸 수 있게 하였습니다."
+			]
+		],
+		"IC_Lst": []
+	},
+	"NDW": {
+		"morph_NDW": 80,
+		"NL_NDW": 24,
+		"NNG_NDW": 18,
+		"NNP_NDW": 1,
+		"NNB_NDW": 4,
+		"NP_NDW": 1,
+		"NR_NDW": 0,
+		"VL_NDW": 27,
+		"VV_NDW": 16,
+		"VA_NDW": 4,
+		"ML_NDW": 1,
+		"MM_NDW": 0,
+		"IC_NDW": 0,
+		"J_NDW": 21,
+		"E_NDW": 30,
+		"X_NDW": 1,
+		"CL_NDW": 52,
+		"FL_NDW": 52
+	}
+}

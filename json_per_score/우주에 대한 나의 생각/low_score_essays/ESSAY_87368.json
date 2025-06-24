@@ -1,0 +1,3566 @@
+﻿{
+	"morpheme": {
+		"sentences": [
+			{
+				"text": {
+					"content": "인류가 알아낸 우주는 73%가 물질이 아닌 암흑 에너지이고, 27%가 물질이라고 합니다.",
+					"length": 49,
+					"beginOffset": 0
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "인류가",
+							"length": 3,
+							"beginOffset": 0
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "인류",
+									"length": 2,
+									"beginOffset": 0
+								},
+								"tag": "NNG",
+								"probability": 0.9800252,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 2,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.98832136,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "인류",
+						"tagged": "인류/NNG+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "알아낸",
+							"beginOffset": 4,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "알아내",
+									"beginOffset": 4,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.99023396,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 6,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999555,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "알아내",
+						"tagged": "알아내/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "우주는",
+							"beginOffset": 8,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "우주",
+									"beginOffset": 8,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98653346,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 10,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99893117,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "우주",
+						"tagged": "우주/NNG+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "73%가",
+							"beginOffset": 12,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "73",
+									"beginOffset": 12,
+									"length": 2
+								},
+								"tag": "SN",
+								"probability": 0.9987119,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "%",
+									"beginOffset": 14,
+									"length": 1
+								},
+								"tag": "SW",
+								"probability": 0.99896973,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 15,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9133911,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "73",
+						"tagged": "73/SN+%/SW+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "물질이",
+							"beginOffset": 17,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "물질",
+									"beginOffset": 17,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9837397,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 19,
+									"length": 1
+								},
+								"tag": "JKC",
+								"probability": 0.98899883,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "물질",
+						"tagged": "물질/NNG+이/JKC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "아닌",
+							"beginOffset": 21,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "아니",
+									"beginOffset": 21,
+									"length": 2
+								},
+								"tag": "VCN",
+								"probability": 0.99995136,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 22,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999909,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "아니",
+						"tagged": "아니/VCN+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "암흑",
+							"beginOffset": 24,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "암흑",
+									"beginOffset": 24,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9833619,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "암흑",
+						"tagged": "암흑/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "에너지이고",
+							"beginOffset": 27,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "에너지",
+									"beginOffset": 27,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.98475814,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 30,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.9998564,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 31,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9937022,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "에너지",
+						"tagged": "에너지/NNG+이/VCP+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": ",",
+							"beginOffset": 32,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 32,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.9980035,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": ",",
+						"tagged": ",/SP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "27%가",
+							"beginOffset": 34,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "27",
+									"beginOffset": 34,
+									"length": 2
+								},
+								"tag": "SN",
+								"probability": 0.9983228,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "%",
+									"beginOffset": 36,
+									"length": 1
+								},
+								"tag": "SW",
+								"probability": 0.99844164,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 37,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9652746,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "27",
+						"tagged": "27/SN+%/SW+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "물질이라고",
+							"beginOffset": 39,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "물질",
+									"beginOffset": 39,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9842138,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 41,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.9998862,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "라고",
+									"beginOffset": 42,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.98750836,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "물질",
+						"tagged": "물질/NNG+이/VCP+라고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "합니다.",
+							"beginOffset": 45,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 45,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.95199174,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㅂ니다",
+									"beginOffset": 45,
+									"length": 3
+								},
+								"tag": "EF",
+								"probability": 0.99080426,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 48,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9991656,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VV+ㅂ니다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "인류가 알아낸 우주는 73%가 물질이 아닌 암흑 에너지이고 , 27%가 물질이라고 합니다."
+			},
+			{
+				"text": {
+					"content": "그러나 물질 중에 인류가 정확하게 알고 있는 물질은 4%밖에 되지 않고 나머지 23%는 아무도 모르는 암흑 물질이라고 합니다.",
+					"beginOffset": 50,
+					"length": 70
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "그러나",
+							"beginOffset": 50,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그러나",
+									"beginOffset": 50,
+									"length": 3
+								},
+								"tag": "MAJ",
+								"probability": 0.99853677,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그러나",
+						"tagged": "그러나/MAJ",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "물질",
+							"beginOffset": 54,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "물질",
+									"beginOffset": 54,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9820042,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "물질",
+						"tagged": "물질/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "중에",
+							"beginOffset": 57,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "중",
+									"beginOffset": 57,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.95024467,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 58,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99376965,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "중",
+						"tagged": "중/NNB+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "인류가",
+							"beginOffset": 60,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "인류",
+									"beginOffset": 60,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.981556,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 62,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9914979,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "인류",
+						"tagged": "인류/NNG+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "정확하게",
+							"beginOffset": 64,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "정확하",
+									"beginOffset": 64,
+									"length": 3
+								},
+								"tag": "VA",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "게",
+									"beginOffset": 67,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9950401,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "정확하",
+						"tagged": "정확하/VA+게/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "알고",
+							"beginOffset": 69,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "알",
+									"beginOffset": 69,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9899759,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 70,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.98995304,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "알",
+						"tagged": "알/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있는",
+							"beginOffset": 72,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 72,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.91169727,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 73,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99987286,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VX+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "물질은",
+							"beginOffset": 75,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "물질",
+									"beginOffset": 75,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9831298,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 77,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.999522,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "물질",
+						"tagged": "물질/NNG+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "4%밖에",
+							"beginOffset": 79,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "4",
+									"beginOffset": 79,
+									"length": 1
+								},
+								"tag": "SN",
+								"probability": 0.9984234,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "%",
+									"beginOffset": 80,
+									"length": 1
+								},
+								"tag": "SW",
+								"probability": 0.99830246,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "밖에",
+									"beginOffset": 81,
+									"length": 2
+								},
+								"tag": "JX",
+								"probability": 0.99876183,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "4",
+						"tagged": "4/SN+%/SW+밖에/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "되지",
+							"beginOffset": 84,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "되",
+									"beginOffset": 84,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9874231,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "지",
+									"beginOffset": 85,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9941114,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "되",
+						"tagged": "되/VV+지/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "않고",
+							"beginOffset": 87,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "않",
+									"beginOffset": 87,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.95066226,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 88,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99481,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "않",
+						"tagged": "않/VX+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "나머지",
+							"beginOffset": 90,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "나머지",
+									"beginOffset": 90,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9835972,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "나머지",
+						"tagged": "나머지/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "23%는",
+							"beginOffset": 94,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "23",
+									"beginOffset": 94,
+									"length": 2
+								},
+								"tag": "SN",
+								"probability": 0.9987514,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "%",
+									"beginOffset": 96,
+									"length": 1
+								},
+								"tag": "SW",
+								"probability": 0.9988583,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 97,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9993769,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "23",
+						"tagged": "23/SN+%/SW+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "아무도",
+							"beginOffset": 99,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "아무",
+									"beginOffset": 99,
+									"length": 2
+								},
+								"tag": "NP",
+								"probability": 0.98874885,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 101,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99904376,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "아무",
+						"tagged": "아무/NP+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "모르는",
+							"beginOffset": 103,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "모르",
+									"beginOffset": 103,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9883041,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 105,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999586,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "모르",
+						"tagged": "모르/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "암흑",
+							"beginOffset": 107,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "암흑",
+									"beginOffset": 107,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9854185,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "암흑",
+						"tagged": "암흑/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "물질이라고",
+							"beginOffset": 110,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "물질",
+									"beginOffset": 110,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9836343,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 112,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.9999475,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "라고",
+									"beginOffset": 113,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9890025,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "물질",
+						"tagged": "물질/NNG+이/VCP+라고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "합니다.",
+							"beginOffset": 116,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 116,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.93605053,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㅂ니다",
+									"beginOffset": 116,
+									"length": 3
+								},
+								"tag": "EF",
+								"probability": 0.9920927,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 119,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.999756,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VV+ㅂ니다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "그러나 물질 중에 인류가 정확하게 알고 있는 물질은 4%밖에 되지 않고 나머지 23%는 아무도 모르는 암흑 물질이라고 합니다."
+			},
+			{
+				"text": {
+					"content": "물론 암흑 에너지 또한 정체를 모르고 있습니다.",
+					"beginOffset": 121,
+					"length": 26
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "물론",
+							"beginOffset": 121,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "물론",
+									"beginOffset": 121,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9881471,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "물론",
+						"tagged": "물론/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "암흑",
+							"beginOffset": 124,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "암흑",
+									"beginOffset": 124,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.96784425,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "암흑",
+						"tagged": "암흑/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "에너지",
+							"beginOffset": 127,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "에너지",
+									"beginOffset": 127,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.97813076,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "에너지",
+						"tagged": "에너지/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "또한",
+							"beginOffset": 131,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "또한",
+									"beginOffset": 131,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9908611,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "또한",
+						"tagged": "또한/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "정체를",
+							"beginOffset": 134,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "정체",
+									"beginOffset": 134,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98510325,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 136,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99992126,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "정체",
+						"tagged": "정체/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "모르고",
+							"beginOffset": 138,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "모르",
+									"beginOffset": 138,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.99137896,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 140,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.994838,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "모르",
+						"tagged": "모르/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있습니다.",
+							"beginOffset": 142,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 142,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.9686076,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "습니다",
+									"beginOffset": 143,
+									"length": 3
+								},
+								"tag": "EF",
+								"probability": 0.98616946,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 146,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99977684,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VX+습니다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "물론 암흑 에너지 또한 정체를 모르고 있습니다."
+			},
+			{
+				"text": {
+					"content": "밤하늘에서 관측 가능한 천체는 우주의 1%도 되지 않습니다.",
+					"beginOffset": 148,
+					"length": 33
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "밤하늘에서",
+							"beginOffset": 148,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "밤하늘",
+									"beginOffset": 148,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.98381,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에서",
+									"beginOffset": 151,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.99331605,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "밤하늘",
+						"tagged": "밤하늘/NNG+에서/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "관측",
+							"beginOffset": 154,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "관측",
+									"beginOffset": 154,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98130244,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "관측",
+						"tagged": "관측/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "가능한",
+							"beginOffset": 157,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "가능하",
+									"beginOffset": 157,
+									"length": 3
+								},
+								"tag": "VA",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 159,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99998856,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "가능하",
+						"tagged": "가능하/VA+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "천체는",
+							"beginOffset": 161,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "천체",
+									"beginOffset": 161,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9795726,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 163,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99466014,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "천체",
+						"tagged": "천체/NNG+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "우주의",
+							"beginOffset": 165,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "우주",
+									"beginOffset": 165,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98590255,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 167,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9998084,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "우주",
+						"tagged": "우주/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "1%도",
+							"beginOffset": 169,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "1",
+									"beginOffset": 169,
+									"length": 1
+								},
+								"tag": "SN",
+								"probability": 0.998711,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "%",
+									"beginOffset": 170,
+									"length": 1
+								},
+								"tag": "SW",
+								"probability": 0.9993064,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 171,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9988485,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "1",
+						"tagged": "1/SN+%/SW+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "되지",
+							"beginOffset": 173,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "되",
+									"beginOffset": 173,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.97280073,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "지",
+									"beginOffset": 174,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99374723,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "되",
+						"tagged": "되/VV+지/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "않습니다.",
+							"beginOffset": 176,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "않",
+									"beginOffset": 176,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.9382701,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "습니다",
+									"beginOffset": 177,
+									"length": 3
+								},
+								"tag": "EF",
+								"probability": 0.9908756,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 180,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.999756,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "않",
+						"tagged": "않/VX+습니다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "밤하늘에서 관측 가능한 천체는 우주의 1%도 되지 않습니다."
+			},
+			{
+				"text": {
+					"content": "그만큼 우리는 우주에 대해서도 아는 것이 매우 부족한 상황이고 더구나 우주 밖은 더욱 어려운 주제가 될 수밖에 없습니다.",
+					"beginOffset": 182,
+					"length": 67
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "그만큼",
+							"beginOffset": 182,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그만큼",
+									"beginOffset": 182,
+									"length": 3
+								},
+								"tag": "MAG",
+								"probability": 0.9886311,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그만큼",
+						"tagged": "그만큼/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "우리는",
+							"beginOffset": 186,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "우리",
+									"beginOffset": 186,
+									"length": 2
+								},
+								"tag": "NP",
+								"probability": 0.98759997,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 188,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.997214,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "우리",
+						"tagged": "우리/NP+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "우주에",
+							"beginOffset": 190,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "우주",
+									"beginOffset": 190,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98430055,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 192,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9916214,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "우주",
+						"tagged": "우주/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "대해서도",
+							"beginOffset": 194,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "대하",
+									"beginOffset": 194,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9914324,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아서",
+									"beginOffset": 195,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99508333,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 197,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9994391,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "대하",
+						"tagged": "대하/VV+아서/EC+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "아는",
+							"beginOffset": 199,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "알",
+									"beginOffset": 199,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.99015224,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 200,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99998933,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "알",
+						"tagged": "알/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "것이",
+							"beginOffset": 202,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "것",
+									"beginOffset": 202,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9797227,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 203,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9863558,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "것",
+						"tagged": "것/NNB+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "매우",
+							"beginOffset": 205,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "매우",
+									"beginOffset": 205,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9913959,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "매우",
+						"tagged": "매우/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "부족한",
+							"beginOffset": 208,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "부족하",
+									"beginOffset": 208,
+									"length": 3
+								},
+								"tag": "VA",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 210,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99998695,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "부족하",
+						"tagged": "부족하/VA+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "상황이고",
+							"beginOffset": 212,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "상황",
+									"beginOffset": 212,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98294103,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 214,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.99990445,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 215,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.98546505,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "상황",
+						"tagged": "상황/NNG+이/VCP+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "더구나",
+							"beginOffset": 217,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "더구나",
+									"beginOffset": 217,
+									"length": 3
+								},
+								"tag": "MAG",
+								"probability": 0.9894677,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "더구나",
+						"tagged": "더구나/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "우주",
+							"beginOffset": 221,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "우주",
+									"beginOffset": 221,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9848677,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "우주",
+						"tagged": "우주/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "밖은",
+							"beginOffset": 224,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "밖",
+									"beginOffset": 224,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.98502374,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 225,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99758744,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "밖",
+						"tagged": "밖/NNG+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "더욱",
+							"beginOffset": 227,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "더욱",
+									"beginOffset": 227,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9834213,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "더욱",
+						"tagged": "더욱/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "어려운",
+							"beginOffset": 230,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "어렵",
+									"beginOffset": 230,
+									"length": 2
+								},
+								"tag": "VA",
+								"probability": 0.9876176,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 232,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99997956,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "어렵",
+						"tagged": "어렵/VA+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "주제가",
+							"beginOffset": 234,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "주제",
+									"beginOffset": 234,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98531485,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 236,
+									"length": 1
+								},
+								"tag": "JKC",
+								"probability": 0.89530087,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "주제",
+						"tagged": "주제/NNG+가/JKC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "될",
+							"beginOffset": 238,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "되",
+									"beginOffset": 238,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.97750753,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ",
+									"beginOffset": 238,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9998694,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "되",
+						"tagged": "되/VV+ㄹ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "수밖에",
+							"beginOffset": 240,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "수",
+									"beginOffset": 240,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9796956,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "밖에",
+									"beginOffset": 241,
+									"length": 2
+								},
+								"tag": "JX",
+								"probability": 0.9980191,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "수",
+						"tagged": "수/NNB+밖에/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "없습니다.",
+							"beginOffset": 244,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "없",
+									"beginOffset": 244,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9890698,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "습니다",
+									"beginOffset": 245,
+									"length": 3
+								},
+								"tag": "EF",
+								"probability": 0.9894431,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 248,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99966145,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "없",
+						"tagged": "없/VA+습니다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "그만큼 우리는 우주에 대해서도 아는 것이 매우 부족한 상황이고 더구나 우주 밖은 더욱 어려운 주제가 될 수밖에 없습니다."
+			}
+		],
+		"language": "ko_KR"
+	},
+	"ttr": {
+		"lemma_Cnt": 109,
+		"lemma_TTR": 0.528,
+		"CL_TTR": 0.6557377049180327,
+		"NL_TTR": 0.6206896551724138,
+		"NN_TTR": 0.5925925925925926,
+		"NNG_TTR": 0.5416666666666666,
+		"NNP_TTR": 0,
+		"NNB_TTR": 1.0,
+		"NP_TTR": 1.0,
+		"NR_TTR": 0,
+		"VL_TTR": 0.6,
+		"VV_TTR": 0.5454545454545454,
+		"VA_TTR": 1.0,
+		"ML_TTR": 1.0,
+		"MM_TTR": 0,
+		"MA_TTR": 1.0,
+		"MAJ_TTR": 1.0,
+		"IC_TTR": 0,
+		"FL_TTR": 0.3958333333333333,
+		"J_TTR": 0.43478260869565216,
+		"E_TTR": 0.4,
+		"X_TTR": 0,
+		"lemma_RTTR": 5.903219460599445,
+		"CL_RTTR": 5.1214751973158394,
+		"NL_RTTR": 3.342516087186934,
+		"NN_RTTR": 3.079201435678004,
+		"NNG_RTTR": 2.65361388801511,
+		"NNP_RTTR": 0,
+		"NNB_RTTR": 1.7320508075688774,
+		"NP_RTTR": 1.414213562373095,
+		"NR_RTTR": 0,
+		"VL_RTTR": 3.0,
+		"VV_RTTR": 1.8090680674665818,
+		"VA_RTTR": 2.23606797749979,
+		"ML_RTTR": 2.6457513110645903,
+		"MM_RTTR": 0,
+		"MA_RTTR": 2.6457513110645903,
+		"MAJ_RTTR": 1.0,
+		"IC_RTTR": 0,
+		"FL_RTTR": 2.7424137786507226,
+		"J_RTTR": 2.0851441405707476,
+		"E_RTTR": 2.0,
+		"X_RTTR": 0,
+		"lemma_CTTR": 4.174206511422261,
+		"CL_CTTR": 3.621429841700741,
+		"NL_CTTR": 2.363515791475006,
+		"NN_CTTR": 2.1773242158072694,
+		"NNG_CTTR": 1.8763883748662837,
+		"NNP_CTTR": 0,
+		"NNB_CTTR": 1.2247448713915892,
+		"NP_CTTR": 1.0,
+		"NR_CTTR": 0,
+		"VL_CTTR": 2.1213203435596424,
+		"VV_CTTR": 1.2792042981336627,
+		"VA_CTTR": 1.5811388300841895,
+		"ML_CTTR": 1.8708286933869707,
+		"MM_CTTR": 0,
+		"MA_CTTR": 1.8708286933869707,
+		"MAJ_CTTR": 0.7071067811865475,
+		"IC_CTTR": 0,
+		"FL_CTTR": 1.9391793797033494,
+		"J_CTTR": 1.4744195615489712,
+		"E_CTTR": 1.414213562373095,
+		"X_CTTR": 0,
+		"lemma_MSTTR": 0.73,
+		"CL_MSTTR": 0.64,
+		"NL_MSTTR": 0.6206896551724138,
+		"NN_MSTTR": 0.5925925925925926,
+		"NNG_MSTTR": 0.5416666666666666,
+		"NNP_MSTTR": 0,
+		"NNB_MSTTR": 1.0,
+		"NP_MSTTR": 1.0,
+		"NR_MSTTR": 0,
+		"VL_MSTTR": 0.6,
+		"VV_MSTTR": 0.5454545454545454,
+		"VA_MSTTR": 1.0,
+		"ML_MSTTR": 1.0,
+		"MM_MSTTR": 0,
+		"MA_MSTTR": 1.0,
+		"MAJ_MSTTR": 1.0,
+		"IC_MSTTR": 0,
+		"FL_MSTTR": 0.3958333333333333,
+		"J_MSTTR": 0.43478260869565216,
+		"E_MSTTR": 0.4,
+		"X_MSTTR": 0,
+		"lemma_MATTR": 0.7471052631578943,
+		"CL_MATTR": 0.6866666666666666,
+		"NL_MATTR": 0.6206896551724138,
+		"NN_MATTR": 0.5925925925925926,
+		"NNG_MATTR": 0.5416666666666666,
+		"NNP_MATTR": 0,
+		"NNB_MATTR": 1.0,
+		"NP_MATTR": 1.0,
+		"NR_MATTR": 0,
+		"VL_MATTR": 0.6,
+		"VV_MATTR": 0.5454545454545454,
+		"VA_MATTR": 1.0,
+		"ML_MATTR": 1.0,
+		"MM_MATTR": 0,
+		"MA_MATTR": 1.0,
+		"MAJ_MATTR": 1.0,
+		"IC_MATTR": 0,
+		"FL_MATTR": 0.3958333333333333,
+		"J_MATTR": 0.43478260869565216,
+		"E_MATTR": 0.4,
+		"X_MATTR": 0,
+		"lemma_MTLD": 52.98149015932521,
+		"CL_MTLD": 53.691693290734825,
+		"NL_MTLD": 23.771634615384613,
+		"NN_MTLD": 21.780927835051546,
+		"NNG_MTLD": 18.797687861271676,
+		"NNP_MTLD": 0.0,
+		"NNB_MTLD": 0.0,
+		"NP_MTLD": 0.0,
+		"NR_MTLD": 0.0,
+		"VL_MTLD": 18.078249818445897,
+		"VV_MTLD": 11.0,
+		"VA_MTLD": 0.0,
+		"ML_MTLD": 0.0,
+		"MM_MTLD": 0.0,
+		"MA_MTLD": 0.0,
+		"MAJ_MTLD": 0.0,
+		"IC_MTLD": 0.0,
+		"FL_MTLD": 16.029271038558964,
+		"J_MTLD": 11.0,
+		"E_MTLD": 10.855263157894736,
+		"X_MTLD": 0.0,
+		"lemma_VOCDD": 46.73171627884108,
+		"CL_VOCDD": 40.8281211010519,
+		"NL_VOCDD": 0,
+		"NN_VOCDD": 0,
+		"NNG_VOCDD": 0,
+		"NNP_VOCDD": 0,
+		"NNB_VOCDD": 0,
+		"NP_VOCDD": 0,
+		"NR_VOCDD": 0,
+		"VL_VOCDD": 0,
+		"VV_VOCDD": 0,
+		"VA_VOCDD": 0,
+		"ML_VOCDD": 0,
+		"MM_VOCDD": 0,
+		"MA_VOCDD": 0,
+		"MAJ_VOCDD": 0,
+		"IC_VOCDD": 0,
+		"FL_VOCDD": 0,
+		"J_VOCDD": 0,
+		"E_VOCDD": 0,
+		"X_VOCDD": 0,
+		"lemma_HDD": 0.7502419369100726,
+		"CL_HDD": 0.7274745858523919,
+		"NL_HDD": 0.0,
+		"NN_HDD": 0.0,
+		"NNG_HDD": 0.0,
+		"NNP_HDD": 0.0,
+		"NNB_HDD": 0.0,
+		"NP_HDD": 0.0,
+		"NR_HDD": 0.0,
+		"VL_HDD": 0.0,
+		"VV_HDD": 0.0,
+		"VA_HDD": 0.0,
+		"ML_HDD": 0.0,
+		"MM_HDD": 0.0,
+		"MA_HDD": 0.0,
+		"MAJ_HDD": 0.0,
+		"IC_HDD": 0.0,
+		"FL_HDD": 0.4322521835241538,
+		"J_HDD": 0.0,
+		"E_HDD": 0.0,
+		"X_HDD": 0.0
+	},
+	"similarity": {
+		"avgSentSimilarity": 0.26297783851623535,
+		"topicConsistency": 0.4774
+	},
+	"adjacency": {
+		"adjacent_sentence_overlap_all_lemmas": 70,
+		"adjacent_sentence_overlap_all_lemmas_normed": 4,
+		"binary_adjacent_sentence_overlap_all_lemmas": 4,
+		"adjacent_two_sentence_overlap_all_lemmas": 28,
+		"adjacent_two_sentence_overlap_all_lemmas_normed": 3,
+		"binary_adjacent_two_sentence_overlap_all_lemmas": 3,
+		"adjacent_sentence_overlap_content_lemmas": 33,
+		"adjacent_sentence_overlap_content_lemmas_normed": 4,
+		"binary_adjacent_sentence_overlap_content_lemmas": 3,
+		"adjacent_two_sentence_overlap_content_lemmas": 18,
+		"adjacent_two_sentence_overlap_content_lemmas_normed": 3,
+		"binary_adjacent_two_sentence_overlap_content_lemmas": 2,
+		"adjacent_sentence_overlap_function_lemmas": 29,
+		"adjacent_sentence_overlap_function_lemmas_normed": 4,
+		"binary_adjacent_sentence_overlap_function_lemmas": 4,
+		"adjacent_two_sentence_overlap_function_lemmas": 7,
+		"adjacent_two_sentence_overlap_function_lemmas_normed": 3,
+		"binary_adjacent_two_sentence_overlap_function_lemmas": 3,
+		"adjacent_sentence_overlap_noun_lemmas": 20,
+		"adjacent_sentence_overlap_noun_lemmas_normed": 4,
+		"binary_adjacent_sentence_overlap_noun_lemmas": 3,
+		"adjacent_two_sentence_overlap_noun_lemmas": 12,
+		"adjacent_two_sentence_overlap_noun_lemmas_normed": 3,
+		"binary_adjacent_two_sentence_overlap_noun_lemmas": 1,
+		"adjacent_sentence_overlap_verb_lemmas": 15,
+		"adjacent_sentence_overlap_verb_lemmas_normed": 4,
+		"binary_adjacent_sentence_overlap_verb_lemmas": 3,
+		"adjacent_two_sentence_overlap_verb_lemmas": 6,
+		"adjacent_two_sentence_overlap_verb_lemmas_normed": 3,
+		"binary_adjacent_two_sentence_overlap_verb_lemmas": 1,
+		"adjacent_sentence_overlap_adjective_lemmas": 3,
+		"adjacent_sentence_overlap_adjective_lemmas_normed": 1,
+		"binary_adjacent_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_sentence_overlap_adverb_lemmas_normed": 0,
+		"binary_adjacent_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adverb_lemmas": 0
+	},
+	"basic_count": {
+		"para_Cnt": 1,
+		"sentence_Cnt": 5,
+		"word_Cnt": 62,
+		"morph_Cnt": 125,
+		"char_Cnt": 185,
+		"CL_Cnt": 61,
+		"NL_Cnt": 29,
+		"NN_Cnt": 27,
+		"NNG_Cnt": 24,
+		"NNP_Cnt": 0,
+		"NNB_Cnt": 3,
+		"NP_Cnt": 2,
+		"NP_People_Cnt": 2,
+		"NP_Things_Cnt": 0,
+		"NR_Cnt": 0,
+		"VL_Cnt": 25,
+		"VV_Cnt": 11,
+		"VA_Cnt": 5,
+		"VX_Cnt": 4,
+		"VCP_Cnt": 4,
+		"VCN_Cnt": 1,
+		"ML_Cnt": 7,
+		"MA_Cnt": 0,
+		"MM_Cnt": 0,
+		"FL_Cnt": 48,
+		"J_Cnt": 23,
+		"E_Cnt": 25,
+		"X_Cnt": 0,
+		"IC_Cnt": 0
+	},
+	"basic_density": {
+		"CL_Den": 0.488,
+		"FL_Den": 0.384,
+		"NL_Den": 0.216,
+		"NNGL_Den": 0.192,
+		"NNPL_Den": 0.0,
+		"NNBL_Den": 0.024,
+		"NPL_Den": 0.016,
+		"NML_Den": 0.0,
+		"VL_Den": 0.2,
+		"VVL_Den": 0.088,
+		"VAL_Den": 0.04,
+		"ML_Den": 0.056,
+		"MML_Den": 0.0,
+		"MAL_Den": 0.0,
+		"JL_Den": 0.184,
+		"EL_Den": 0.2,
+		"XL_Den": 0.0,
+		"ITL_Den": 0.0,
+		"NCL_Den": 0.4426229508196721,
+		"NNCL_Den": 0.39344262295081966,
+		"NNGCL_Den": 0.0,
+		"NNBCL_Den": 0.04918032786885246,
+		"NPCL_Den": 0.03278688524590164,
+		"NMCL_Den": 0.0,
+		"VCL_Den": 0.4098360655737705,
+		"VVCL_Den": 0.18032786885245902,
+		"VACL_Den": 0.08196721311475409,
+		"MCL_Den": 0.11475409836065574,
+		"MMCL_Den": 0.0,
+		"MACL_Den": 0.0,
+		"INCL_Den": 0.0,
+		"JFL_Den": 0.4791666666666667,
+		"EFL_Den": 0.5208333333333334,
+		"XFL_Den": 0.0
+	},
+	"basic_level": {
+		"morph_LenAvg": 1.568,
+		"morph_LenStd": 0.7080790916274817,
+		"word_LenAvg": 2.8548387096774195,
+		"word_LenStd": 0.858482798849759
+	},
+	"basic_list": {
+		"NL_Lst": [
+			[
+				0,
+				"인류",
+				"NNG",
+				"인류가 알아낸 우주는 73%가 물질이 아닌 암흑 에너지이고, 27%가 물질이라고 합니다."
+			],
+			[
+				1,
+				"우주",
+				"NNG",
+				"인류가 알아낸 우주는 73%가 물질이 아닌 암흑 에너지이고, 27%가 물질이라고 합니다."
+			],
+			[
+				2,
+				"물질",
+				"NNG",
+				"인류가 알아낸 우주는 73%가 물질이 아닌 암흑 에너지이고, 27%가 물질이라고 합니다."
+			],
+			[
+				3,
+				"암흑",
+				"NNG",
+				"인류가 알아낸 우주는 73%가 물질이 아닌 암흑 에너지이고, 27%가 물질이라고 합니다."
+			],
+			[
+				4,
+				"에너지",
+				"NNG",
+				"인류가 알아낸 우주는 73%가 물질이 아닌 암흑 에너지이고, 27%가 물질이라고 합니다."
+			],
+			[
+				5,
+				"물질",
+				"NNG",
+				"인류가 알아낸 우주는 73%가 물질이 아닌 암흑 에너지이고, 27%가 물질이라고 합니다."
+			],
+			[
+				6,
+				"물질",
+				"NNG",
+				"그러나 물질 중에 인류가 정확하게 알고 있는 물질은 4%밖에 되지 않고 나머지 23%는 아무도 모르는 암흑 물질이라고 합니다."
+			],
+			[
+				7,
+				"중",
+				"NNB",
+				"그러나 물질 중에 인류가 정확하게 알고 있는 물질은 4%밖에 되지 않고 나머지 23%는 아무도 모르는 암흑 물질이라고 합니다."
+			],
+			[
+				8,
+				"인류",
+				"NNG",
+				"그러나 물질 중에 인류가 정확하게 알고 있는 물질은 4%밖에 되지 않고 나머지 23%는 아무도 모르는 암흑 물질이라고 합니다."
+			],
+			[
+				9,
+				"물질",
+				"NNG",
+				"그러나 물질 중에 인류가 정확하게 알고 있는 물질은 4%밖에 되지 않고 나머지 23%는 아무도 모르는 암흑 물질이라고 합니다."
+			],
+			[
+				10,
+				"나머지",
+				"NNG",
+				"그러나 물질 중에 인류가 정확하게 알고 있는 물질은 4%밖에 되지 않고 나머지 23%는 아무도 모르는 암흑 물질이라고 합니다."
+			],
+			[
+				11,
+				"아무",
+				"NP",
+				"그러나 물질 중에 인류가 정확하게 알고 있는 물질은 4%밖에 되지 않고 나머지 23%는 아무도 모르는 암흑 물질이라고 합니다."
+			],
+			[
+				12,
+				"암흑",
+				"NNG",
+				"그러나 물질 중에 인류가 정확하게 알고 있는 물질은 4%밖에 되지 않고 나머지 23%는 아무도 모르는 암흑 물질이라고 합니다."
+			],
+			[
+				13,
+				"물질",
+				"NNG",
+				"그러나 물질 중에 인류가 정확하게 알고 있는 물질은 4%밖에 되지 않고 나머지 23%는 아무도 모르는 암흑 물질이라고 합니다."
+			],
+			[
+				14,
+				"암흑",
+				"NNG",
+				"물론 암흑 에너지 또한 정체를 모르고 있습니다."
+			],
+			[
+				15,
+				"에너지",
+				"NNG",
+				"물론 암흑 에너지 또한 정체를 모르고 있습니다."
+			],
+			[
+				16,
+				"정체",
+				"NNG",
+				"물론 암흑 에너지 또한 정체를 모르고 있습니다."
+			],
+			[
+				17,
+				"밤하늘",
+				"NNG",
+				"밤하늘에서 관측 가능한 천체는 우주의 1%도 되지 않습니다."
+			],
+			[
+				18,
+				"관측",
+				"NNG",
+				"밤하늘에서 관측 가능한 천체는 우주의 1%도 되지 않습니다."
+			],
+			[
+				19,
+				"천체",
+				"NNG",
+				"밤하늘에서 관측 가능한 천체는 우주의 1%도 되지 않습니다."
+			],
+			[
+				20,
+				"우주",
+				"NNG",
+				"밤하늘에서 관측 가능한 천체는 우주의 1%도 되지 않습니다."
+			],
+			[
+				21,
+				"우리",
+				"NP",
+				"그만큼 우리는 우주에 대해서도 아는 것이 매우 부족한 상황이고 더구나 우주 밖은 더욱 어려운 주제가 될 수밖에 없습니다."
+			],
+			[
+				22,
+				"우주",
+				"NNG",
+				"그만큼 우리는 우주에 대해서도 아는 것이 매우 부족한 상황이고 더구나 우주 밖은 더욱 어려운 주제가 될 수밖에 없습니다."
+			],
+			[
+				23,
+				"것",
+				"NNB",
+				"그만큼 우리는 우주에 대해서도 아는 것이 매우 부족한 상황이고 더구나 우주 밖은 더욱 어려운 주제가 될 수밖에 없습니다."
+			],
+			[
+				24,
+				"상황",
+				"NNG",
+				"그만큼 우리는 우주에 대해서도 아는 것이 매우 부족한 상황이고 더구나 우주 밖은 더욱 어려운 주제가 될 수밖에 없습니다."
+			],
+			[
+				25,
+				"우주",
+				"NNG",
+				"그만큼 우리는 우주에 대해서도 아는 것이 매우 부족한 상황이고 더구나 우주 밖은 더욱 어려운 주제가 될 수밖에 없습니다."
+			],
+			[
+				26,
+				"밖",
+				"NNG",
+				"그만큼 우리는 우주에 대해서도 아는 것이 매우 부족한 상황이고 더구나 우주 밖은 더욱 어려운 주제가 될 수밖에 없습니다."
+			],
+			[
+				27,
+				"주제",
+				"NNG",
+				"그만큼 우리는 우주에 대해서도 아는 것이 매우 부족한 상황이고 더구나 우주 밖은 더욱 어려운 주제가 될 수밖에 없습니다."
+			],
+			[
+				28,
+				"수",
+				"NNB",
+				"그만큼 우리는 우주에 대해서도 아는 것이 매우 부족한 상황이고 더구나 우주 밖은 더욱 어려운 주제가 될 수밖에 없습니다."
+			]
+		],
+		"NN_Lst": [
+			[
+				0,
+				"인류",
+				"NNG",
+				"인류가 알아낸 우주는 73%가 물질이 아닌 암흑 에너지이고, 27%가 물질이라고 합니다."
+			],
+			[
+				1,
+				"우주",
+				"NNG",
+				"인류가 알아낸 우주는 73%가 물질이 아닌 암흑 에너지이고, 27%가 물질이라고 합니다."
+			],
+			[
+				2,
+				"물질",
+				"NNG",
+				"인류가 알아낸 우주는 73%가 물질이 아닌 암흑 에너지이고, 27%가 물질이라고 합니다."
+			],
+			[
+				3,
+				"암흑",
+				"NNG",
+				"인류가 알아낸 우주는 73%가 물질이 아닌 암흑 에너지이고, 27%가 물질이라고 합니다."
+			],
+			[
+				4,
+				"에너지",
+				"NNG",
+				"인류가 알아낸 우주는 73%가 물질이 아닌 암흑 에너지이고, 27%가 물질이라고 합니다."
+			],
+			[
+				5,
+				"물질",
+				"NNG",
+				"인류가 알아낸 우주는 73%가 물질이 아닌 암흑 에너지이고, 27%가 물질이라고 합니다."
+			],
+			[
+				6,
+				"물질",
+				"NNG",
+				"그러나 물질 중에 인류가 정확하게 알고 있는 물질은 4%밖에 되지 않고 나머지 23%는 아무도 모르는 암흑 물질이라고 합니다."
+			],
+			[
+				7,
+				"중",
+				"NNB",
+				"그러나 물질 중에 인류가 정확하게 알고 있는 물질은 4%밖에 되지 않고 나머지 23%는 아무도 모르는 암흑 물질이라고 합니다."
+			],
+			[
+				8,
+				"인류",
+				"NNG",
+				"그러나 물질 중에 인류가 정확하게 알고 있는 물질은 4%밖에 되지 않고 나머지 23%는 아무도 모르는 암흑 물질이라고 합니다."
+			],
+			[
+				9,
+				"물질",
+				"NNG",
+				"그러나 물질 중에 인류가 정확하게 알고 있는 물질은 4%밖에 되지 않고 나머지 23%는 아무도 모르는 암흑 물질이라고 합니다."
+			],
+			[
+				10,
+				"나머지",
+				"NNG",
+				"그러나 물질 중에 인류가 정확하게 알고 있는 물질은 4%밖에 되지 않고 나머지 23%는 아무도 모르는 암흑 물질이라고 합니다."
+			],
+			[
+				11,
+				"암흑",
+				"NNG",
+				"그러나 물질 중에 인류가 정확하게 알고 있는 물질은 4%밖에 되지 않고 나머지 23%는 아무도 모르는 암흑 물질이라고 합니다."
+			],
+			[
+				12,
+				"물질",
+				"NNG",
+				"그러나 물질 중에 인류가 정확하게 알고 있는 물질은 4%밖에 되지 않고 나머지 23%는 아무도 모르는 암흑 물질이라고 합니다."
+			],
+			[
+				13,
+				"암흑",
+				"NNG",
+				"물론 암흑 에너지 또한 정체를 모르고 있습니다."
+			],
+			[
+				14,
+				"에너지",
+				"NNG",
+				"물론 암흑 에너지 또한 정체를 모르고 있습니다."
+			],
+			[
+				15,
+				"정체",
+				"NNG",
+				"물론 암흑 에너지 또한 정체를 모르고 있습니다."
+			],
+			[
+				16,
+				"밤하늘",
+				"NNG",
+				"밤하늘에서 관측 가능한 천체는 우주의 1%도 되지 않습니다."
+			],
+			[
+				17,
+				"관측",
+				"NNG",
+				"밤하늘에서 관측 가능한 천체는 우주의 1%도 되지 않습니다."
+			],
+			[
+				18,
+				"천체",
+				"NNG",
+				"밤하늘에서 관측 가능한 천체는 우주의 1%도 되지 않습니다."
+			],
+			[
+				19,
+				"우주",
+				"NNG",
+				"밤하늘에서 관측 가능한 천체는 우주의 1%도 되지 않습니다."
+			],
+			[
+				20,
+				"우주",
+				"NNG",
+				"그만큼 우리는 우주에 대해서도 아는 것이 매우 부족한 상황이고 더구나 우주 밖은 더욱 어려운 주제가 될 수밖에 없습니다."
+			],
+			[
+				21,
+				"것",
+				"NNB",
+				"그만큼 우리는 우주에 대해서도 아는 것이 매우 부족한 상황이고 더구나 우주 밖은 더욱 어려운 주제가 될 수밖에 없습니다."
+			],
+			[
+				22,
+				"상황",
+				"NNG",
+				"그만큼 우리는 우주에 대해서도 아는 것이 매우 부족한 상황이고 더구나 우주 밖은 더욱 어려운 주제가 될 수밖에 없습니다."
+			],
+			[
+				23,
+				"우주",
+				"NNG",
+				"그만큼 우리는 우주에 대해서도 아는 것이 매우 부족한 상황이고 더구나 우주 밖은 더욱 어려운 주제가 될 수밖에 없습니다."
+			],
+			[
+				24,
+				"밖",
+				"NNG",
+				"그만큼 우리는 우주에 대해서도 아는 것이 매우 부족한 상황이고 더구나 우주 밖은 더욱 어려운 주제가 될 수밖에 없습니다."
+			],
+			[
+				25,
+				"주제",
+				"NNG",
+				"그만큼 우리는 우주에 대해서도 아는 것이 매우 부족한 상황이고 더구나 우주 밖은 더욱 어려운 주제가 될 수밖에 없습니다."
+			],
+			[
+				26,
+				"수",
+				"NNB",
+				"그만큼 우리는 우주에 대해서도 아는 것이 매우 부족한 상황이고 더구나 우주 밖은 더욱 어려운 주제가 될 수밖에 없습니다."
+			]
+		],
+		"NNG_Lst": [
+			[
+				0,
+				"인류",
+				"NNG",
+				"인류가 알아낸 우주는 73%가 물질이 아닌 암흑 에너지이고, 27%가 물질이라고 합니다."
+			],
+			[
+				1,
+				"우주",
+				"NNG",
+				"인류가 알아낸 우주는 73%가 물질이 아닌 암흑 에너지이고, 27%가 물질이라고 합니다."
+			],
+			[
+				2,
+				"물질",
+				"NNG",
+				"인류가 알아낸 우주는 73%가 물질이 아닌 암흑 에너지이고, 27%가 물질이라고 합니다."
+			],
+			[
+				3,
+				"암흑",
+				"NNG",
+				"인류가 알아낸 우주는 73%가 물질이 아닌 암흑 에너지이고, 27%가 물질이라고 합니다."
+			],
+			[
+				4,
+				"에너지",
+				"NNG",
+				"인류가 알아낸 우주는 73%가 물질이 아닌 암흑 에너지이고, 27%가 물질이라고 합니다."
+			],
+			[
+				5,
+				"물질",
+				"NNG",
+				"인류가 알아낸 우주는 73%가 물질이 아닌 암흑 에너지이고, 27%가 물질이라고 합니다."
+			],
+			[
+				6,
+				"물질",
+				"NNG",
+				"그러나 물질 중에 인류가 정확하게 알고 있는 물질은 4%밖에 되지 않고 나머지 23%는 아무도 모르는 암흑 물질이라고 합니다."
+			],
+			[
+				7,
+				"인류",
+				"NNG",
+				"그러나 물질 중에 인류가 정확하게 알고 있는 물질은 4%밖에 되지 않고 나머지 23%는 아무도 모르는 암흑 물질이라고 합니다."
+			],
+			[
+				8,
+				"물질",
+				"NNG",
+				"그러나 물질 중에 인류가 정확하게 알고 있는 물질은 4%밖에 되지 않고 나머지 23%는 아무도 모르는 암흑 물질이라고 합니다."
+			],
+			[
+				9,
+				"나머지",
+				"NNG",
+				"그러나 물질 중에 인류가 정확하게 알고 있는 물질은 4%밖에 되지 않고 나머지 23%는 아무도 모르는 암흑 물질이라고 합니다."
+			],
+			[
+				10,
+				"암흑",
+				"NNG",
+				"그러나 물질 중에 인류가 정확하게 알고 있는 물질은 4%밖에 되지 않고 나머지 23%는 아무도 모르는 암흑 물질이라고 합니다."
+			],
+			[
+				11,
+				"물질",
+				"NNG",
+				"그러나 물질 중에 인류가 정확하게 알고 있는 물질은 4%밖에 되지 않고 나머지 23%는 아무도 모르는 암흑 물질이라고 합니다."
+			],
+			[
+				12,
+				"암흑",
+				"NNG",
+				"물론 암흑 에너지 또한 정체를 모르고 있습니다."
+			],
+			[
+				13,
+				"에너지",
+				"NNG",
+				"물론 암흑 에너지 또한 정체를 모르고 있습니다."
+			],
+			[
+				14,
+				"정체",
+				"NNG",
+				"물론 암흑 에너지 또한 정체를 모르고 있습니다."
+			],
+			[
+				15,
+				"밤하늘",
+				"NNG",
+				"밤하늘에서 관측 가능한 천체는 우주의 1%도 되지 않습니다."
+			],
+			[
+				16,
+				"관측",
+				"NNG",
+				"밤하늘에서 관측 가능한 천체는 우주의 1%도 되지 않습니다."
+			],
+			[
+				17,
+				"천체",
+				"NNG",
+				"밤하늘에서 관측 가능한 천체는 우주의 1%도 되지 않습니다."
+			],
+			[
+				18,
+				"우주",
+				"NNG",
+				"밤하늘에서 관측 가능한 천체는 우주의 1%도 되지 않습니다."
+			],
+			[
+				19,
+				"우주",
+				"NNG",
+				"그만큼 우리는 우주에 대해서도 아는 것이 매우 부족한 상황이고 더구나 우주 밖은 더욱 어려운 주제가 될 수밖에 없습니다."
+			],
+			[
+				20,
+				"상황",
+				"NNG",
+				"그만큼 우리는 우주에 대해서도 아는 것이 매우 부족한 상황이고 더구나 우주 밖은 더욱 어려운 주제가 될 수밖에 없습니다."
+			],
+			[
+				21,
+				"우주",
+				"NNG",
+				"그만큼 우리는 우주에 대해서도 아는 것이 매우 부족한 상황이고 더구나 우주 밖은 더욱 어려운 주제가 될 수밖에 없습니다."
+			],
+			[
+				22,
+				"밖",
+				"NNG",
+				"그만큼 우리는 우주에 대해서도 아는 것이 매우 부족한 상황이고 더구나 우주 밖은 더욱 어려운 주제가 될 수밖에 없습니다."
+			],
+			[
+				23,
+				"주제",
+				"NNG",
+				"그만큼 우리는 우주에 대해서도 아는 것이 매우 부족한 상황이고 더구나 우주 밖은 더욱 어려운 주제가 될 수밖에 없습니다."
+			]
+		],
+		"NNP_Lst": [],
+		"NNB_Lst": [
+			[
+				0,
+				"중",
+				"NNB",
+				"그러나 물질 중에 인류가 정확하게 알고 있는 물질은 4%밖에 되지 않고 나머지 23%는 아무도 모르는 암흑 물질이라고 합니다."
+			],
+			[
+				1,
+				"것",
+				"NNB",
+				"그만큼 우리는 우주에 대해서도 아는 것이 매우 부족한 상황이고 더구나 우주 밖은 더욱 어려운 주제가 될 수밖에 없습니다."
+			],
+			[
+				2,
+				"수",
+				"NNB",
+				"그만큼 우리는 우주에 대해서도 아는 것이 매우 부족한 상황이고 더구나 우주 밖은 더욱 어려운 주제가 될 수밖에 없습니다."
+			]
+		],
+		"NP_Lst": [
+			[
+				0,
+				"아무",
+				"NP",
+				"그러나 물질 중에 인류가 정확하게 알고 있는 물질은 4%밖에 되지 않고 나머지 23%는 아무도 모르는 암흑 물질이라고 합니다."
+			],
+			[
+				1,
+				"우리",
+				"NP",
+				"그만큼 우리는 우주에 대해서도 아는 것이 매우 부족한 상황이고 더구나 우주 밖은 더욱 어려운 주제가 될 수밖에 없습니다."
+			]
+		],
+		"NP_People_Lst": [
+			[
+				0,
+				"아무",
+				"NP",
+				"그러나 물질 중에 인류가 정확하게 알고 있는 물질은 4%밖에 되지 않고 나머지 23%는 아무도 모르는 암흑 물질이라고 합니다."
+			],
+			[
+				1,
+				"우리",
+				"NP",
+				"그만큼 우리는 우주에 대해서도 아는 것이 매우 부족한 상황이고 더구나 우주 밖은 더욱 어려운 주제가 될 수밖에 없습니다."
+			]
+		],
+		"NP_Things_Lst": [],
+		"NR_Lst": [],
+		"VL_Lst": [
+			[
+				0,
+				"알아내",
+				"VV",
+				"인류가 알아낸 우주는 73%가 물질이 아닌 암흑 에너지이고, 27%가 물질이라고 합니다."
+			],
+			[
+				1,
+				"아니",
+				"VCN",
+				"인류가 알아낸 우주는 73%가 물질이 아닌 암흑 에너지이고, 27%가 물질이라고 합니다."
+			],
+			[
+				2,
+				"이",
+				"VCP",
+				"인류가 알아낸 우주는 73%가 물질이 아닌 암흑 에너지이고, 27%가 물질이라고 합니다."
+			],
+			[
+				3,
+				"이",
+				"VCP",
+				"인류가 알아낸 우주는 73%가 물질이 아닌 암흑 에너지이고, 27%가 물질이라고 합니다."
+			],
+			[
+				4,
+				"하",
+				"VV",
+				"인류가 알아낸 우주는 73%가 물질이 아닌 암흑 에너지이고, 27%가 물질이라고 합니다."
+			],
+			[
+				5,
+				"정확하",
+				"VA",
+				"그러나 물질 중에 인류가 정확하게 알고 있는 물질은 4%밖에 되지 않고 나머지 23%는 아무도 모르는 암흑 물질이라고 합니다."
+			],
+			[
+				6,
+				"알",
+				"VV",
+				"그러나 물질 중에 인류가 정확하게 알고 있는 물질은 4%밖에 되지 않고 나머지 23%는 아무도 모르는 암흑 물질이라고 합니다."
+			],
+			[
+				7,
+				"있",
+				"VX",
+				"그러나 물질 중에 인류가 정확하게 알고 있는 물질은 4%밖에 되지 않고 나머지 23%는 아무도 모르는 암흑 물질이라고 합니다."
+			],
+			[
+				8,
+				"되",
+				"VV",
+				"그러나 물질 중에 인류가 정확하게 알고 있는 물질은 4%밖에 되지 않고 나머지 23%는 아무도 모르는 암흑 물질이라고 합니다."
+			],
+			[
+				9,
+				"않",
+				"VX",
+				"그러나 물질 중에 인류가 정확하게 알고 있는 물질은 4%밖에 되지 않고 나머지 23%는 아무도 모르는 암흑 물질이라고 합니다."
+			],
+			[
+				10,
+				"모르",
+				"VV",
+				"그러나 물질 중에 인류가 정확하게 알고 있는 물질은 4%밖에 되지 않고 나머지 23%는 아무도 모르는 암흑 물질이라고 합니다."
+			],
+			[
+				11,
+				"이",
+				"VCP",
+				"그러나 물질 중에 인류가 정확하게 알고 있는 물질은 4%밖에 되지 않고 나머지 23%는 아무도 모르는 암흑 물질이라고 합니다."
+			],
+			[
+				12,
+				"하",
+				"VV",
+				"그러나 물질 중에 인류가 정확하게 알고 있는 물질은 4%밖에 되지 않고 나머지 23%는 아무도 모르는 암흑 물질이라고 합니다."
+			],
+			[
+				13,
+				"모르",
+				"VV",
+				"물론 암흑 에너지 또한 정체를 모르고 있습니다."
+			],
+			[
+				14,
+				"있",
+				"VX",
+				"물론 암흑 에너지 또한 정체를 모르고 있습니다."
+			],
+			[
+				15,
+				"가능하",
+				"VA",
+				"밤하늘에서 관측 가능한 천체는 우주의 1%도 되지 않습니다."
+			],
+			[
+				16,
+				"되",
+				"VV",
+				"밤하늘에서 관측 가능한 천체는 우주의 1%도 되지 않습니다."
+			],
+			[
+				17,
+				"않",
+				"VX",
+				"밤하늘에서 관측 가능한 천체는 우주의 1%도 되지 않습니다."
+			],
+			[
+				18,
+				"대하",
+				"VV",
+				"그만큼 우리는 우주에 대해서도 아는 것이 매우 부족한 상황이고 더구나 우주 밖은 더욱 어려운 주제가 될 수밖에 없습니다."
+			],
+			[
+				19,
+				"알",
+				"VV",
+				"그만큼 우리는 우주에 대해서도 아는 것이 매우 부족한 상황이고 더구나 우주 밖은 더욱 어려운 주제가 될 수밖에 없습니다."
+			],
+			[
+				20,
+				"부족하",
+				"VA",
+				"그만큼 우리는 우주에 대해서도 아는 것이 매우 부족한 상황이고 더구나 우주 밖은 더욱 어려운 주제가 될 수밖에 없습니다."
+			],
+			[
+				21,
+				"이",
+				"VCP",
+				"그만큼 우리는 우주에 대해서도 아는 것이 매우 부족한 상황이고 더구나 우주 밖은 더욱 어려운 주제가 될 수밖에 없습니다."
+			],
+			[
+				22,
+				"어렵",
+				"VA",
+				"그만큼 우리는 우주에 대해서도 아는 것이 매우 부족한 상황이고 더구나 우주 밖은 더욱 어려운 주제가 될 수밖에 없습니다."
+			],
+			[
+				23,
+				"되",
+				"VV",
+				"그만큼 우리는 우주에 대해서도 아는 것이 매우 부족한 상황이고 더구나 우주 밖은 더욱 어려운 주제가 될 수밖에 없습니다."
+			],
+			[
+				24,
+				"없",
+				"VA",
+				"그만큼 우리는 우주에 대해서도 아는 것이 매우 부족한 상황이고 더구나 우주 밖은 더욱 어려운 주제가 될 수밖에 없습니다."
+			]
+		],
+		"VV_Lst": [
+			[
+				0,
+				"알아내",
+				"VV",
+				"인류가 알아낸 우주는 73%가 물질이 아닌 암흑 에너지이고, 27%가 물질이라고 합니다."
+			],
+			[
+				1,
+				"하",
+				"VV",
+				"인류가 알아낸 우주는 73%가 물질이 아닌 암흑 에너지이고, 27%가 물질이라고 합니다."
+			],
+			[
+				2,
+				"알",
+				"VV",
+				"그러나 물질 중에 인류가 정확하게 알고 있는 물질은 4%밖에 되지 않고 나머지 23%는 아무도 모르는 암흑 물질이라고 합니다."
+			],
+			[
+				3,
+				"되",
+				"VV",
+				"그러나 물질 중에 인류가 정확하게 알고 있는 물질은 4%밖에 되지 않고 나머지 23%는 아무도 모르는 암흑 물질이라고 합니다."
+			],
+			[
+				4,
+				"모르",
+				"VV",
+				"그러나 물질 중에 인류가 정확하게 알고 있는 물질은 4%밖에 되지 않고 나머지 23%는 아무도 모르는 암흑 물질이라고 합니다."
+			],
+			[
+				5,
+				"하",
+				"VV",
+				"그러나 물질 중에 인류가 정확하게 알고 있는 물질은 4%밖에 되지 않고 나머지 23%는 아무도 모르는 암흑 물질이라고 합니다."
+			],
+			[
+				6,
+				"모르",
+				"VV",
+				"물론 암흑 에너지 또한 정체를 모르고 있습니다."
+			],
+			[
+				7,
+				"되",
+				"VV",
+				"밤하늘에서 관측 가능한 천체는 우주의 1%도 되지 않습니다."
+			],
+			[
+				8,
+				"대하",
+				"VV",
+				"그만큼 우리는 우주에 대해서도 아는 것이 매우 부족한 상황이고 더구나 우주 밖은 더욱 어려운 주제가 될 수밖에 없습니다."
+			],
+			[
+				9,
+				"알",
+				"VV",
+				"그만큼 우리는 우주에 대해서도 아는 것이 매우 부족한 상황이고 더구나 우주 밖은 더욱 어려운 주제가 될 수밖에 없습니다."
+			],
+			[
+				10,
+				"되",
+				"VV",
+				"그만큼 우리는 우주에 대해서도 아는 것이 매우 부족한 상황이고 더구나 우주 밖은 더욱 어려운 주제가 될 수밖에 없습니다."
+			]
+		],
+		"VA_Lst": [
+			[
+				0,
+				"정확하",
+				"VA",
+				"그러나 물질 중에 인류가 정확하게 알고 있는 물질은 4%밖에 되지 않고 나머지 23%는 아무도 모르는 암흑 물질이라고 합니다."
+			],
+			[
+				1,
+				"가능하",
+				"VA",
+				"밤하늘에서 관측 가능한 천체는 우주의 1%도 되지 않습니다."
+			],
+			[
+				2,
+				"부족하",
+				"VA",
+				"그만큼 우리는 우주에 대해서도 아는 것이 매우 부족한 상황이고 더구나 우주 밖은 더욱 어려운 주제가 될 수밖에 없습니다."
+			],
+			[
+				3,
+				"어렵",
+				"VA",
+				"그만큼 우리는 우주에 대해서도 아는 것이 매우 부족한 상황이고 더구나 우주 밖은 더욱 어려운 주제가 될 수밖에 없습니다."
+			],
+			[
+				4,
+				"없",
+				"VA",
+				"그만큼 우리는 우주에 대해서도 아는 것이 매우 부족한 상황이고 더구나 우주 밖은 더욱 어려운 주제가 될 수밖에 없습니다."
+			]
+		],
+		"VX_Lst": [
+			[
+				0,
+				"있",
+				"VX",
+				"그러나 물질 중에 인류가 정확하게 알고 있는 물질은 4%밖에 되지 않고 나머지 23%는 아무도 모르는 암흑 물질이라고 합니다."
+			],
+			[
+				1,
+				"않",
+				"VX",
+				"그러나 물질 중에 인류가 정확하게 알고 있는 물질은 4%밖에 되지 않고 나머지 23%는 아무도 모르는 암흑 물질이라고 합니다."
+			],
+			[
+				2,
+				"있",
+				"VX",
+				"물론 암흑 에너지 또한 정체를 모르고 있습니다."
+			],
+			[
+				3,
+				"않",
+				"VX",
+				"밤하늘에서 관측 가능한 천체는 우주의 1%도 되지 않습니다."
+			]
+		],
+		"VCP_Lst": [
+			[
+				0,
+				"이",
+				"VCP",
+				"인류가 알아낸 우주는 73%가 물질이 아닌 암흑 에너지이고, 27%가 물질이라고 합니다."
+			],
+			[
+				1,
+				"이",
+				"VCP",
+				"인류가 알아낸 우주는 73%가 물질이 아닌 암흑 에너지이고, 27%가 물질이라고 합니다."
+			],
+			[
+				2,
+				"이",
+				"VCP",
+				"그러나 물질 중에 인류가 정확하게 알고 있는 물질은 4%밖에 되지 않고 나머지 23%는 아무도 모르는 암흑 물질이라고 합니다."
+			],
+			[
+				3,
+				"이",
+				"VCP",
+				"그만큼 우리는 우주에 대해서도 아는 것이 매우 부족한 상황이고 더구나 우주 밖은 더욱 어려운 주제가 될 수밖에 없습니다."
+			]
+		],
+		"VCN_Lst": [
+			[
+				0,
+				"아니",
+				"VCN",
+				"인류가 알아낸 우주는 73%가 물질이 아닌 암흑 에너지이고, 27%가 물질이라고 합니다."
+			]
+		],
+		"ML_Lst": [
+			[
+				0,
+				"그러나",
+				"MAJ",
+				"그러나 물질 중에 인류가 정확하게 알고 있는 물질은 4%밖에 되지 않고 나머지 23%는 아무도 모르는 암흑 물질이라고 합니다."
+			],
+			[
+				1,
+				"물론",
+				"MAG",
+				"물론 암흑 에너지 또한 정체를 모르고 있습니다."
+			],
+			[
+				2,
+				"또한",
+				"MAG",
+				"물론 암흑 에너지 또한 정체를 모르고 있습니다."
+			],
+			[
+				3,
+				"그만큼",
+				"MAG",
+				"그만큼 우리는 우주에 대해서도 아는 것이 매우 부족한 상황이고 더구나 우주 밖은 더욱 어려운 주제가 될 수밖에 없습니다."
+			],
+			[
+				4,
+				"매우",
+				"MAG",
+				"그만큼 우리는 우주에 대해서도 아는 것이 매우 부족한 상황이고 더구나 우주 밖은 더욱 어려운 주제가 될 수밖에 없습니다."
+			],
+			[
+				5,
+				"더구나",
+				"MAG",
+				"그만큼 우리는 우주에 대해서도 아는 것이 매우 부족한 상황이고 더구나 우주 밖은 더욱 어려운 주제가 될 수밖에 없습니다."
+			],
+			[
+				6,
+				"더욱",
+				"MAG",
+				"그만큼 우리는 우주에 대해서도 아는 것이 매우 부족한 상황이고 더구나 우주 밖은 더욱 어려운 주제가 될 수밖에 없습니다."
+			]
+		],
+		"MA_Lst": [],
+		"MM_Lst": [],
+		"J_Lst": [
+			[
+				0,
+				"가",
+				"JKS",
+				"인류가 알아낸 우주는 73%가 물질이 아닌 암흑 에너지이고, 27%가 물질이라고 합니다."
+			],
+			[
+				1,
+				"는",
+				"JX",
+				"인류가 알아낸 우주는 73%가 물질이 아닌 암흑 에너지이고, 27%가 물질이라고 합니다."
+			],
+			[
+				2,
+				"가",
+				"JKS",
+				"인류가 알아낸 우주는 73%가 물질이 아닌 암흑 에너지이고, 27%가 물질이라고 합니다."
+			],
+			[
+				3,
+				"이",
+				"JKC",
+				"인류가 알아낸 우주는 73%가 물질이 아닌 암흑 에너지이고, 27%가 물질이라고 합니다."
+			],
+			[
+				4,
+				"가",
+				"JKS",
+				"인류가 알아낸 우주는 73%가 물질이 아닌 암흑 에너지이고, 27%가 물질이라고 합니다."
+			],
+			[
+				5,
+				"에",
+				"JKB",
+				"그러나 물질 중에 인류가 정확하게 알고 있는 물질은 4%밖에 되지 않고 나머지 23%는 아무도 모르는 암흑 물질이라고 합니다."
+			],
+			[
+				6,
+				"가",
+				"JKS",
+				"그러나 물질 중에 인류가 정확하게 알고 있는 물질은 4%밖에 되지 않고 나머지 23%는 아무도 모르는 암흑 물질이라고 합니다."
+			],
+			[
+				7,
+				"은",
+				"JX",
+				"그러나 물질 중에 인류가 정확하게 알고 있는 물질은 4%밖에 되지 않고 나머지 23%는 아무도 모르는 암흑 물질이라고 합니다."
+			],
+			[
+				8,
+				"밖에",
+				"JX",
+				"그러나 물질 중에 인류가 정확하게 알고 있는 물질은 4%밖에 되지 않고 나머지 23%는 아무도 모르는 암흑 물질이라고 합니다."
+			],
+			[
+				9,
+				"는",
+				"JX",
+				"그러나 물질 중에 인류가 정확하게 알고 있는 물질은 4%밖에 되지 않고 나머지 23%는 아무도 모르는 암흑 물질이라고 합니다."
+			],
+			[
+				10,
+				"도",
+				"JX",
+				"그러나 물질 중에 인류가 정확하게 알고 있는 물질은 4%밖에 되지 않고 나머지 23%는 아무도 모르는 암흑 물질이라고 합니다."
+			],
+			[
+				11,
+				"를",
+				"JKO",
+				"물론 암흑 에너지 또한 정체를 모르고 있습니다."
+			],
+			[
+				12,
+				"에서",
+				"JKB",
+				"밤하늘에서 관측 가능한 천체는 우주의 1%도 되지 않습니다."
+			],
+			[
+				13,
+				"는",
+				"JX",
+				"밤하늘에서 관측 가능한 천체는 우주의 1%도 되지 않습니다."
+			],
+			[
+				14,
+				"의",
+				"JKG",
+				"밤하늘에서 관측 가능한 천체는 우주의 1%도 되지 않습니다."
+			],
+			[
+				15,
+				"도",
+				"JX",
+				"밤하늘에서 관측 가능한 천체는 우주의 1%도 되지 않습니다."
+			],
+			[
+				16,
+				"는",
+				"JX",
+				"그만큼 우리는 우주에 대해서도 아는 것이 매우 부족한 상황이고 더구나 우주 밖은 더욱 어려운 주제가 될 수밖에 없습니다."
+			],
+			[
+				17,
+				"에",
+				"JKB",
+				"그만큼 우리는 우주에 대해서도 아는 것이 매우 부족한 상황이고 더구나 우주 밖은 더욱 어려운 주제가 될 수밖에 없습니다."
+			],
+			[
+				18,
+				"도",
+				"JX",
+				"그만큼 우리는 우주에 대해서도 아는 것이 매우 부족한 상황이고 더구나 우주 밖은 더욱 어려운 주제가 될 수밖에 없습니다."
+			],
+			[
+				19,
+				"이",
+				"JKS",
+				"그만큼 우리는 우주에 대해서도 아는 것이 매우 부족한 상황이고 더구나 우주 밖은 더욱 어려운 주제가 될 수밖에 없습니다."
+			],
+			[
+				20,
+				"은",
+				"JX",
+				"그만큼 우리는 우주에 대해서도 아는 것이 매우 부족한 상황이고 더구나 우주 밖은 더욱 어려운 주제가 될 수밖에 없습니다."
+			],
+			[
+				21,
+				"가",
+				"JKC",
+				"그만큼 우리는 우주에 대해서도 아는 것이 매우 부족한 상황이고 더구나 우주 밖은 더욱 어려운 주제가 될 수밖에 없습니다."
+			],
+			[
+				22,
+				"밖에",
+				"JX",
+				"그만큼 우리는 우주에 대해서도 아는 것이 매우 부족한 상황이고 더구나 우주 밖은 더욱 어려운 주제가 될 수밖에 없습니다."
+			]
+		],
+		"E_Lst": [
+			[
+				0,
+				"ㄴ",
+				"ETM",
+				"인류가 알아낸 우주는 73%가 물질이 아닌 암흑 에너지이고, 27%가 물질이라고 합니다."
+			],
+			[
+				1,
+				"ㄴ",
+				"ETM",
+				"인류가 알아낸 우주는 73%가 물질이 아닌 암흑 에너지이고, 27%가 물질이라고 합니다."
+			],
+			[
+				2,
+				"고",
+				"EC",
+				"인류가 알아낸 우주는 73%가 물질이 아닌 암흑 에너지이고, 27%가 물질이라고 합니다."
+			],
+			[
+				3,
+				"라고",
+				"EC",
+				"인류가 알아낸 우주는 73%가 물질이 아닌 암흑 에너지이고, 27%가 물질이라고 합니다."
+			],
+			[
+				4,
+				"ㅂ니다",
+				"EF",
+				"인류가 알아낸 우주는 73%가 물질이 아닌 암흑 에너지이고, 27%가 물질이라고 합니다."
+			],
+			[
+				5,
+				"게",
+				"EC",
+				"그러나 물질 중에 인류가 정확하게 알고 있는 물질은 4%밖에 되지 않고 나머지 23%는 아무도 모르는 암흑 물질이라고 합니다."
+			],
+			[
+				6,
+				"고",
+				"EC",
+				"그러나 물질 중에 인류가 정확하게 알고 있는 물질은 4%밖에 되지 않고 나머지 23%는 아무도 모르는 암흑 물질이라고 합니다."
+			],
+			[
+				7,
+				"는",
+				"ETM",
+				"그러나 물질 중에 인류가 정확하게 알고 있는 물질은 4%밖에 되지 않고 나머지 23%는 아무도 모르는 암흑 물질이라고 합니다."
+			],
+			[
+				8,
+				"지",
+				"EC",
+				"그러나 물질 중에 인류가 정확하게 알고 있는 물질은 4%밖에 되지 않고 나머지 23%는 아무도 모르는 암흑 물질이라고 합니다."
+			],
+			[
+				9,
+				"고",
+				"EC",
+				"그러나 물질 중에 인류가 정확하게 알고 있는 물질은 4%밖에 되지 않고 나머지 23%는 아무도 모르는 암흑 물질이라고 합니다."
+			],
+			[
+				10,
+				"는",
+				"ETM",
+				"그러나 물질 중에 인류가 정확하게 알고 있는 물질은 4%밖에 되지 않고 나머지 23%는 아무도 모르는 암흑 물질이라고 합니다."
+			],
+			[
+				11,
+				"라고",
+				"EC",
+				"그러나 물질 중에 인류가 정확하게 알고 있는 물질은 4%밖에 되지 않고 나머지 23%는 아무도 모르는 암흑 물질이라고 합니다."
+			],
+			[
+				12,
+				"ㅂ니다",
+				"EF",
+				"그러나 물질 중에 인류가 정확하게 알고 있는 물질은 4%밖에 되지 않고 나머지 23%는 아무도 모르는 암흑 물질이라고 합니다."
+			],
+			[
+				13,
+				"고",
+				"EC",
+				"물론 암흑 에너지 또한 정체를 모르고 있습니다."
+			],
+			[
+				14,
+				"습니다",
+				"EF",
+				"물론 암흑 에너지 또한 정체를 모르고 있습니다."
+			],
+			[
+				15,
+				"ㄴ",
+				"ETM",
+				"밤하늘에서 관측 가능한 천체는 우주의 1%도 되지 않습니다."
+			],
+			[
+				16,
+				"지",
+				"EC",
+				"밤하늘에서 관측 가능한 천체는 우주의 1%도 되지 않습니다."
+			],
+			[
+				17,
+				"습니다",
+				"EF",
+				"밤하늘에서 관측 가능한 천체는 우주의 1%도 되지 않습니다."
+			],
+			[
+				18,
+				"아서",
+				"EC",
+				"그만큼 우리는 우주에 대해서도 아는 것이 매우 부족한 상황이고 더구나 우주 밖은 더욱 어려운 주제가 될 수밖에 없습니다."
+			],
+			[
+				19,
+				"는",
+				"ETM",
+				"그만큼 우리는 우주에 대해서도 아는 것이 매우 부족한 상황이고 더구나 우주 밖은 더욱 어려운 주제가 될 수밖에 없습니다."
+			],
+			[
+				20,
+				"ㄴ",
+				"ETM",
+				"그만큼 우리는 우주에 대해서도 아는 것이 매우 부족한 상황이고 더구나 우주 밖은 더욱 어려운 주제가 될 수밖에 없습니다."
+			],
+			[
+				21,
+				"고",
+				"EC",
+				"그만큼 우리는 우주에 대해서도 아는 것이 매우 부족한 상황이고 더구나 우주 밖은 더욱 어려운 주제가 될 수밖에 없습니다."
+			],
+			[
+				22,
+				"ㄴ",
+				"ETM",
+				"그만큼 우리는 우주에 대해서도 아는 것이 매우 부족한 상황이고 더구나 우주 밖은 더욱 어려운 주제가 될 수밖에 없습니다."
+			],
+			[
+				23,
+				"ㄹ",
+				"ETM",
+				"그만큼 우리는 우주에 대해서도 아는 것이 매우 부족한 상황이고 더구나 우주 밖은 더욱 어려운 주제가 될 수밖에 없습니다."
+			],
+			[
+				24,
+				"습니다",
+				"EF",
+				"그만큼 우리는 우주에 대해서도 아는 것이 매우 부족한 상황이고 더구나 우주 밖은 더욱 어려운 주제가 될 수밖에 없습니다."
+			]
+		],
+		"X_Lst": [],
+		"IC_Lst": []
+	},
+	"NDW": {
+		"morph_NDW": 70,
+		"NL_NDW": 29,
+		"NNG_NDW": 24,
+		"NNP_NDW": 0,
+		"NNB_NDW": 3,
+		"NP_NDW": 2,
+		"NR_NDW": 0,
+		"VL_NDW": 25,
+		"VV_NDW": 11,
+		"VA_NDW": 5,
+		"ML_NDW": 7,
+		"MM_NDW": 0,
+		"IC_NDW": 0,
+		"J_NDW": 23,
+		"E_NDW": 25,
+		"X_NDW": 0,
+		"CL_NDW": 61,
+		"FL_NDW": 48
+	}
+}

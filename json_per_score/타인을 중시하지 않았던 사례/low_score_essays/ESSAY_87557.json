@@ -1,0 +1,3183 @@
+﻿{
+	"morpheme": {
+		"sentences": [
+			{
+				"text": {
+					"content": "저자 이태우는 저자는 내향적 직장인이다.",
+					"length": 22,
+					"beginOffset": 0
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "저자",
+							"length": 2,
+							"beginOffset": 0
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "저자",
+									"length": 2,
+									"beginOffset": 0
+								},
+								"tag": "NNG",
+								"probability": 0.97419405,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "저자",
+						"tagged": "저자/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이태우는",
+							"beginOffset": 3,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이태우",
+									"beginOffset": 3,
+									"length": 3
+								},
+								"tag": "NNP",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 6,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9996443,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이태우",
+						"tagged": "이태우/NNP+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "저자는",
+							"beginOffset": 8,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "저자",
+									"beginOffset": 8,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98299783,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 10,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99930567,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "저자",
+						"tagged": "저자/NNG+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "내향적",
+							"beginOffset": 12,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "내향",
+									"beginOffset": 12,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.55751127,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "적",
+									"beginOffset": 14,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.9859452,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "내향",
+						"tagged": "내향/NNG+적/XSN",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "직장인이다.",
+							"beginOffset": 16,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "직장인",
+									"beginOffset": 16,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9769782,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 19,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.9998346,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 20,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.98907983,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 21,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9987678,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "직장인",
+						"tagged": "직장인/NNG+이/VCP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "저자 이태우는 저자는 내향적 직장인이다."
+			},
+			{
+				"text": {
+					"content": "외향적 사회 속에서 많은 시행착오를 경험하였다.",
+					"beginOffset": 23,
+					"length": 26
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "외향적",
+							"beginOffset": 23,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "외향",
+									"beginOffset": 23,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.8734938,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "적",
+									"beginOffset": 25,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.98647976,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "외향",
+						"tagged": "외향/NNG+적/XSN",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사회",
+							"beginOffset": 27,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사회",
+									"beginOffset": 27,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9876736,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사회",
+						"tagged": "사회/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "속에서",
+							"beginOffset": 30,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "속",
+									"beginOffset": 30,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.97998405,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에서",
+									"beginOffset": 31,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.99626726,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "속",
+						"tagged": "속/NNG+에서/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "많은",
+							"beginOffset": 34,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "많",
+									"beginOffset": 34,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9838986,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 35,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99991363,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "많",
+						"tagged": "많/VA+은/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "시행착오를",
+							"beginOffset": 37,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "시행착오",
+									"beginOffset": 37,
+									"length": 4
+								},
+								"tag": "NNG",
+								"probability": 0.9821741,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 41,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999236,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "시행착오",
+						"tagged": "시행착오/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "경험하였다.",
+							"beginOffset": 43,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "경험하",
+									"beginOffset": 43,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 46,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9999095,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 47,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.98740435,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 48,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99973434,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "경험하",
+						"tagged": "경험하/VV+았/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "외향적 사회 속에서 많은 시행착오를 경험하였다."
+			},
+			{
+				"text": {
+					"content": "좌절도 하고 절망도 하였다.",
+					"beginOffset": 50,
+					"length": 15
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "좌절도",
+							"beginOffset": 50,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "좌절",
+									"beginOffset": 50,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9751997,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 52,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.999472,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "좌절",
+						"tagged": "좌절/NNG+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "하고",
+							"beginOffset": 54,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 54,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9629597,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 55,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99524564,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "절망도",
+							"beginOffset": 57,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "절망",
+									"beginOffset": 57,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9827404,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 59,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9992078,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "절망",
+						"tagged": "절망/NNG+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "하였다.",
+							"beginOffset": 61,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 61,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.7874962,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 62,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99994266,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 63,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9911378,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 64,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9994819,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VV+았/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "좌절도 하고 절망도 하였다."
+			},
+			{
+				"text": {
+					"content": "하지만 그는 포기하지 않고 자신의 성향 그대로 나답게 살아가는 삶에 대해 치열하게 고민하였다.",
+					"beginOffset": 66,
+					"length": 52
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "하지만",
+							"beginOffset": 66,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하지만",
+									"beginOffset": 66,
+									"length": 3
+								},
+								"tag": "MAJ",
+								"probability": 0.9982684,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하지만",
+						"tagged": "하지만/MAJ",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "그는",
+							"beginOffset": 70,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그",
+									"beginOffset": 70,
+									"length": 1
+								},
+								"tag": "NP",
+								"probability": 0.98738384,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 71,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99946225,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그",
+						"tagged": "그/NP+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "포기하지",
+							"beginOffset": 73,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "포기하",
+									"beginOffset": 73,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "지",
+									"beginOffset": 76,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9954359,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "포기하",
+						"tagged": "포기하/VV+지/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "않고",
+							"beginOffset": 78,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "않",
+									"beginOffset": 78,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.94936836,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 79,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9958607,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "않",
+						"tagged": "않/VX+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "자신의",
+							"beginOffset": 81,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "자신",
+									"beginOffset": 81,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.981149,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 83,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99966264,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "자신",
+						"tagged": "자신/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "성향",
+							"beginOffset": 85,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "성향",
+									"beginOffset": 85,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9835994,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "성향",
+						"tagged": "성향/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "그대로",
+							"beginOffset": 88,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그대로",
+									"beginOffset": 88,
+									"length": 3
+								},
+								"tag": "MAG",
+								"probability": 0.9909826,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그대로",
+						"tagged": "그대로/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "나",
+							"beginOffset": 92,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "나",
+									"beginOffset": 92,
+									"length": 1
+								},
+								"tag": "NP",
+								"probability": 0.9117587,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "나",
+						"tagged": "나/NP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "답게",
+							"beginOffset": 93,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "답",
+									"beginOffset": 93,
+									"length": 1
+								},
+								"tag": "XSA",
+								"probability": 0.9890723,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "게",
+									"beginOffset": 94,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9961091,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "답",
+						"tagged": "답/XSA+게/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "살아가는",
+							"beginOffset": 96,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "살아가",
+									"beginOffset": 96,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.9867951,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 99,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99973804,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "살아가",
+						"tagged": "살아가/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "삶에",
+							"beginOffset": 101,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "삶",
+									"beginOffset": 101,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9817099,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 102,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9969335,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "삶",
+						"tagged": "삶/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "대해",
+							"beginOffset": 104,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "대하",
+									"beginOffset": 104,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9902725,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 105,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9957052,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "대하",
+						"tagged": "대하/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "치열하게",
+							"beginOffset": 107,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "치열하",
+									"beginOffset": 107,
+									"length": 3
+								},
+								"tag": "VA",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "게",
+									"beginOffset": 110,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9955055,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "치열하",
+						"tagged": "치열하/VA+게/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "고민하였다.",
+							"beginOffset": 112,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "고민하",
+									"beginOffset": 112,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 115,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99989533,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 116,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9883801,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 117,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99962914,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "고민하",
+						"tagged": "고민하/VV+았/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "하지만 그는 포기하지 않고 자신의 성향 그대로 나 답게 살아가는 삶에 대해 치열하게 고민하였다."
+			},
+			{
+				"text": {
+					"content": "저자는 사람에 대한 공부를 게을리하지 않았다.",
+					"beginOffset": 119,
+					"length": 25
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "저자는",
+							"beginOffset": 119,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "저자",
+									"beginOffset": 119,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.979742,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 121,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9978482,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "저자",
+						"tagged": "저자/NNG+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사람에",
+							"beginOffset": 123,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사람",
+									"beginOffset": 123,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9846977,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 125,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99686587,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사람",
+						"tagged": "사람/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "대한",
+							"beginOffset": 127,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "대하",
+									"beginOffset": 127,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9914154,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 128,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999603,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "대하",
+						"tagged": "대하/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "공부를",
+							"beginOffset": 130,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "공부",
+									"beginOffset": 130,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97845745,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 132,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99988276,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "공부",
+						"tagged": "공부/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "게을리하지",
+							"beginOffset": 134,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "게을리하",
+									"beginOffset": 134,
+									"length": 4
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "지",
+									"beginOffset": 138,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99220514,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "게을리하",
+						"tagged": "게을리하/VV+지/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "않았다.",
+							"beginOffset": 140,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "않",
+									"beginOffset": 140,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.87160546,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 141,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9999688,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 142,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9918455,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 143,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9998036,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "않",
+						"tagged": "않/VX+았/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "저자는 사람에 대한 공부를 게을리하지 않았다."
+			},
+			{
+				"text": {
+					"content": "기업에서 10년 이상 사람과 관련된 인적자원개발(HRD) 업무를 담당하였고, 사람의 변화와 관련된 여러 가지 자격증을 취득하였다.",
+					"beginOffset": 145,
+					"length": 72
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "기업에서",
+							"beginOffset": 145,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "기업",
+									"beginOffset": 145,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9843615,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에서",
+									"beginOffset": 147,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9961085,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "기업",
+						"tagged": "기업/NNG+에서/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "10년",
+							"beginOffset": 150,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "10",
+									"beginOffset": 150,
+									"length": 2
+								},
+								"tag": "SN",
+								"probability": 0.99193084,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "년",
+									"beginOffset": 152,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9813536,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "10",
+						"tagged": "10/SN+년/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이상",
+							"beginOffset": 154,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이상",
+									"beginOffset": 154,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97090304,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이상",
+						"tagged": "이상/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사람과",
+							"beginOffset": 157,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사람",
+									"beginOffset": 157,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9872546,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "과",
+									"beginOffset": 159,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.94025815,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사람",
+						"tagged": "사람/NNG+과/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "관련된",
+							"beginOffset": 161,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "관련되",
+									"beginOffset": 161,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 163,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99994844,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "관련되",
+						"tagged": "관련되/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "인적자원개발(HRD)",
+							"beginOffset": 165,
+							"length": 11
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "인적",
+									"beginOffset": 165,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "자원",
+									"beginOffset": 167,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "개발",
+									"beginOffset": 169,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "(",
+									"beginOffset": 171,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9999062,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "HRD",
+									"beginOffset": 172,
+									"length": 3
+								},
+								"tag": "SL",
+								"probability": 0.5626274,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": ")",
+									"beginOffset": 175,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.99969053,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "인적",
+						"tagged": "인적/NNG+자원/NNG+개발/NNG+(/SS+HRD/SL+)/SS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "업무를",
+							"beginOffset": 177,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "업무",
+									"beginOffset": 177,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9861813,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 179,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9998549,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "업무",
+						"tagged": "업무/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "담당하였고",
+							"beginOffset": 181,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "담당하",
+									"beginOffset": 181,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 184,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9999667,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 185,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99010175,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "담당하",
+						"tagged": "담당하/VV+았/EP+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": ",",
+							"beginOffset": 186,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 186,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.9992186,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": ",",
+						"tagged": ",/SP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사람의",
+							"beginOffset": 188,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사람",
+									"beginOffset": 188,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9854317,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 190,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99980634,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사람",
+						"tagged": "사람/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "변화와",
+							"beginOffset": 192,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "변화",
+									"beginOffset": 192,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9822924,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "와",
+									"beginOffset": 194,
+									"length": 1
+								},
+								"tag": "JC",
+								"probability": 0.9378053,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "변화",
+						"tagged": "변화/NNG+와/JC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "관련된",
+							"beginOffset": 196,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "관련되",
+									"beginOffset": 196,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 198,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99983346,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "관련되",
+						"tagged": "관련되/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "여러",
+							"beginOffset": 200,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "여러",
+									"beginOffset": 200,
+									"length": 2
+								},
+								"tag": "MMN",
+								"probability": 0.9994095,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "여러",
+						"tagged": "여러/MMN",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "가지",
+							"beginOffset": 203,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "가지",
+									"beginOffset": 203,
+									"length": 2
+								},
+								"tag": "NNB",
+								"probability": 0.97470355,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "가지",
+						"tagged": "가지/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "자격증을",
+							"beginOffset": 206,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "자격증",
+									"beginOffset": 206,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.98070174,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 209,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999823,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "자격증",
+						"tagged": "자격증/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "취득하였다.",
+							"beginOffset": 211,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "취득하",
+									"beginOffset": 211,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 214,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99990374,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 215,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.99075073,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 216,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99919087,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "취득하",
+						"tagged": "취득하/VV+았/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "기업에서 10년 이상 사람과 관련된 인적자원개발(HRD) 업무를 담당하였고 , 사람의 변화와 관련된 여러 가지 자격증을 취득하였다."
+			}
+		],
+		"language": "ko_KR"
+	},
+	"ttr": {
+		"lemma_Cnt": 98,
+		"lemma_TTR": 0.6330275229357798,
+		"CL_TTR": 0.8431372549019608,
+		"NL_TTR": 0.8709677419354839,
+		"NN_TTR": 0.8620689655172413,
+		"NNG_TTR": 0.8461538461538461,
+		"NNP_TTR": 1.0,
+		"NNB_TTR": 1.0,
+		"NP_TTR": 1.0,
+		"NR_TTR": 0,
+		"VL_TTR": 0.7777777777777778,
+		"VV_TTR": 0.7692307692307693,
+		"VA_TTR": 1.0,
+		"ML_TTR": 1.0,
+		"MM_TTR": 0,
+		"MA_TTR": 1.0,
+		"MAJ_TTR": 1.0,
+		"IC_TTR": 0,
+		"FL_TTR": 0.41304347826086957,
+		"J_TTR": 0.5,
+		"E_TTR": 0.36,
+		"X_TTR": 0.6666666666666666,
+		"lemma_RTTR": 6.609001368025944,
+		"CL_RTTR": 6.021204361320442,
+		"NL_RTTR": 4.849343154722923,
+		"NN_RTTR": 4.642383454426297,
+		"NNG_RTTR": 4.314554973040049,
+		"NNP_RTTR": 1.0,
+		"NNB_RTTR": 1.414213562373095,
+		"NP_RTTR": 1.414213562373095,
+		"NR_RTTR": 0,
+		"VL_RTTR": 3.299831645537222,
+		"VV_RTTR": 2.773500981126146,
+		"VA_RTTR": 1.414213562373095,
+		"ML_RTTR": 1.414213562373095,
+		"MM_RTTR": 0,
+		"MA_RTTR": 1.414213562373095,
+		"MAJ_RTTR": 1.0,
+		"IC_RTTR": 0,
+		"FL_RTTR": 2.8013971669430457,
+		"J_RTTR": 2.121320343559643,
+		"E_RTTR": 1.8,
+		"X_RTTR": 1.1547005383792517,
+		"lemma_CTTR": 4.673269684202315,
+		"CL_CTTR": 4.2576344347997,
+		"NL_CTTR": 3.4290034290051437,
+		"NN_CTTR": 3.2826608214930637,
+		"NNG_CTTR": 3.05085107923876,
+		"NNP_CTTR": 0.7071067811865475,
+		"NNB_CTTR": 1.0,
+		"NP_CTTR": 1.0,
+		"NR_CTTR": 0,
+		"VL_CTTR": 2.3333333333333335,
+		"VV_CTTR": 1.9611613513818404,
+		"VA_CTTR": 1.0,
+		"ML_CTTR": 1.0,
+		"MM_CTTR": 0,
+		"MA_CTTR": 1.0,
+		"MAJ_CTTR": 0.7071067811865475,
+		"IC_CTTR": 0,
+		"FL_CTTR": 1.9808869335422103,
+		"J_CTTR": 1.5,
+		"E_CTTR": 1.2727922061357855,
+		"X_CTTR": 0.8164965809277261,
+		"lemma_MSTTR": 0.76,
+		"CL_MSTTR": 0.84,
+		"NL_MSTTR": 0.8709677419354839,
+		"NN_MSTTR": 0.8620689655172413,
+		"NNG_MSTTR": 0.8461538461538461,
+		"NNP_MSTTR": 1.0,
+		"NNB_MSTTR": 1.0,
+		"NP_MSTTR": 1.0,
+		"NR_MSTTR": 0,
+		"VL_MSTTR": 0.7777777777777778,
+		"VV_MSTTR": 0.7692307692307693,
+		"VA_MSTTR": 1.0,
+		"ML_MSTTR": 1.0,
+		"MM_MSTTR": 0,
+		"MA_MSTTR": 1.0,
+		"MAJ_MSTTR": 1.0,
+		"IC_MSTTR": 0,
+		"FL_MSTTR": 0.41304347826086957,
+		"J_MSTTR": 0.5,
+		"E_MSTTR": 0.36,
+		"X_MSTTR": 0.6666666666666666,
+		"lemma_MATTR": 0.7559999999999999,
+		"CL_MATTR": 0.85,
+		"NL_MATTR": 0.8709677419354839,
+		"NN_MATTR": 0.8620689655172413,
+		"NNG_MATTR": 0.8461538461538461,
+		"NNP_MATTR": 1.0,
+		"NNB_MATTR": 1.0,
+		"NP_MATTR": 1.0,
+		"NR_MATTR": 0,
+		"VL_MATTR": 0.7777777777777778,
+		"VV_MATTR": 0.7692307692307693,
+		"VA_MATTR": 1.0,
+		"ML_MATTR": 1.0,
+		"MM_MATTR": 0,
+		"MA_MATTR": 1.0,
+		"MAJ_MATTR": 1.0,
+		"IC_MATTR": 0,
+		"FL_MATTR": 0.41304347826086957,
+		"J_MATTR": 0.5,
+		"E_MATTR": 0.36,
+		"X_MATTR": 0.6666666666666666,
+		"lemma_MTLD": 54.40054744525548,
+		"CL_MTLD": 91.03500000000001,
+		"NL_MTLD": 67.27000000000001,
+		"NN_MTLD": 58.86999999999998,
+		"NNG_MTLD": 47.32000000000001,
+		"NNP_MTLD": 0.0,
+		"NNB_MTLD": 0.0,
+		"NP_MTLD": 0.0,
+		"NR_MTLD": 0.0,
+		"VL_MTLD": 22.680000000000003,
+		"VV_MTLD": 15.773333333333339,
+		"VA_MTLD": 0.0,
+		"ML_MTLD": 0.0,
+		"MM_MTLD": 0.0,
+		"MA_MTLD": 0.0,
+		"MAJ_MTLD": 0.0,
+		"IC_MTLD": 0.0,
+		"FL_MTLD": 12.86021505376344,
+		"J_MTLD": 10.330917874396135,
+		"E_MTLD": 9.210526315789474,
+		"X_MTLD": 2.52,
+		"lemma_VOCDD": 64.7279535003453,
+		"CL_VOCDD": 117.69969403732375,
+		"NL_VOCDD": 0,
+		"NN_VOCDD": 0,
+		"NNG_VOCDD": 0,
+		"NNP_VOCDD": 0,
+		"NNB_VOCDD": 0,
+		"NP_VOCDD": 0,
+		"NR_VOCDD": 0,
+		"VL_VOCDD": 0,
+		"VV_VOCDD": 0,
+		"VA_VOCDD": 0,
+		"ML_VOCDD": 0,
+		"MM_VOCDD": 0,
+		"MA_VOCDD": 0,
+		"MAJ_VOCDD": 0,
+		"IC_VOCDD": 0,
+		"FL_VOCDD": 0,
+		"J_VOCDD": 0,
+		"E_VOCDD": 0,
+		"X_VOCDD": 0,
+		"lemma_HDD": 0.7946967348339844,
+		"CL_HDD": 0.8654661864745903,
+		"NL_HDD": 0.0,
+		"NN_HDD": 0.0,
+		"NNG_HDD": 0.0,
+		"NNP_HDD": 0.0,
+		"NNB_HDD": 0.0,
+		"NP_HDD": 0.0,
+		"NR_HDD": 0.0,
+		"VL_HDD": 0.0,
+		"VV_HDD": 0.0,
+		"VA_HDD": 0.0,
+		"ML_HDD": 0.0,
+		"MM_HDD": 0.0,
+		"MA_HDD": 0.0,
+		"MAJ_HDD": 0.0,
+		"IC_HDD": 0.0,
+		"FL_HDD": 0.43897358679967385,
+		"J_HDD": 0.0,
+		"E_HDD": 0.0,
+		"X_HDD": 0.0
+	},
+	"similarity": {
+		"avgSentSimilarity": 0.11399953812360764,
+		"topicConsistency": 0.4358
+	},
+	"adjacency": {
+		"adjacent_sentence_overlap_all_lemmas": 68,
+		"adjacent_sentence_overlap_all_lemmas_normed": 5,
+		"binary_adjacent_sentence_overlap_all_lemmas": 5,
+		"adjacent_two_sentence_overlap_all_lemmas": 47,
+		"adjacent_two_sentence_overlap_all_lemmas_normed": 4,
+		"binary_adjacent_two_sentence_overlap_all_lemmas": 4,
+		"adjacent_sentence_overlap_content_lemmas": 35,
+		"adjacent_sentence_overlap_content_lemmas_normed": 5,
+		"binary_adjacent_sentence_overlap_content_lemmas": 2,
+		"adjacent_two_sentence_overlap_content_lemmas": 28,
+		"adjacent_two_sentence_overlap_content_lemmas_normed": 4,
+		"binary_adjacent_two_sentence_overlap_content_lemmas": 0,
+		"adjacent_sentence_overlap_function_lemmas": 27,
+		"adjacent_sentence_overlap_function_lemmas_normed": 5,
+		"binary_adjacent_sentence_overlap_function_lemmas": 5,
+		"adjacent_two_sentence_overlap_function_lemmas": 15,
+		"adjacent_two_sentence_overlap_function_lemmas_normed": 4,
+		"binary_adjacent_two_sentence_overlap_function_lemmas": 4,
+		"adjacent_sentence_overlap_noun_lemmas": 23,
+		"adjacent_sentence_overlap_noun_lemmas_normed": 5,
+		"binary_adjacent_sentence_overlap_noun_lemmas": 2,
+		"adjacent_two_sentence_overlap_noun_lemmas": 18,
+		"adjacent_two_sentence_overlap_noun_lemmas_normed": 4,
+		"binary_adjacent_two_sentence_overlap_noun_lemmas": 0,
+		"adjacent_sentence_overlap_verb_lemmas": 13,
+		"adjacent_sentence_overlap_verb_lemmas_normed": 4,
+		"binary_adjacent_sentence_overlap_verb_lemmas": 1,
+		"adjacent_two_sentence_overlap_verb_lemmas": 10,
+		"adjacent_two_sentence_overlap_verb_lemmas_normed": 3,
+		"binary_adjacent_two_sentence_overlap_verb_lemmas": 0,
+		"adjacent_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_sentence_overlap_adjective_lemmas_normed": 0,
+		"binary_adjacent_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_sentence_overlap_adverb_lemmas_normed": 0,
+		"binary_adjacent_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adverb_lemmas": 0
+	},
+	"basic_count": {
+		"para_Cnt": 1,
+		"sentence_Cnt": 6,
+		"word_Cnt": 49,
+		"morph_Cnt": 109,
+		"char_Cnt": 175,
+		"CL_Cnt": 51,
+		"NL_Cnt": 31,
+		"NN_Cnt": 29,
+		"NNG_Cnt": 26,
+		"NNP_Cnt": 1,
+		"NNB_Cnt": 2,
+		"NP_Cnt": 2,
+		"NP_People_Cnt": 2,
+		"NP_Things_Cnt": 0,
+		"NR_Cnt": 0,
+		"VL_Cnt": 18,
+		"VV_Cnt": 13,
+		"VA_Cnt": 2,
+		"VX_Cnt": 2,
+		"VCP_Cnt": 1,
+		"VCN_Cnt": 0,
+		"ML_Cnt": 2,
+		"MA_Cnt": 0,
+		"MM_Cnt": 0,
+		"FL_Cnt": 46,
+		"J_Cnt": 18,
+		"E_Cnt": 25,
+		"X_Cnt": 3,
+		"IC_Cnt": 0
+	},
+	"basic_density": {
+		"CL_Den": 0.46788990825688076,
+		"FL_Den": 0.42201834862385323,
+		"NL_Den": 0.26605504587155965,
+		"NNGL_Den": 0.23853211009174313,
+		"NNPL_Den": 0.009174311926605505,
+		"NNBL_Den": 0.01834862385321101,
+		"NPL_Den": 0.01834862385321101,
+		"NML_Den": 0.0,
+		"VL_Den": 0.1651376146788991,
+		"VVL_Den": 0.11926605504587157,
+		"VAL_Den": 0.01834862385321101,
+		"ML_Den": 0.01834862385321101,
+		"MML_Den": 0.0,
+		"MAL_Den": 0.0,
+		"JL_Den": 0.1651376146788991,
+		"EL_Den": 0.22935779816513763,
+		"XL_Den": 0.027522935779816515,
+		"ITL_Den": 0.0,
+		"NCL_Den": 0.5686274509803921,
+		"NNCL_Den": 0.5098039215686274,
+		"NNGCL_Den": 0.0196078431372549,
+		"NNBCL_Den": 0.0392156862745098,
+		"NPCL_Den": 0.0392156862745098,
+		"NMCL_Den": 0.0,
+		"VCL_Den": 0.35294117647058826,
+		"VVCL_Den": 0.2549019607843137,
+		"VACL_Den": 0.0392156862745098,
+		"MCL_Den": 0.0392156862745098,
+		"MMCL_Den": 0.0,
+		"MACL_Den": 0.0,
+		"INCL_Den": 0.0,
+		"JFL_Den": 0.391304347826087,
+		"EFL_Den": 0.5434782608695652,
+		"XFL_Den": 0.06521739130434782
+	},
+	"basic_level": {
+		"morph_LenAvg": 1.5871559633027523,
+		"morph_LenStd": 0.792290943390242,
+		"word_LenAvg": 3.2653061224489797,
+		"word_LenStd": 1.274162553370446
+	},
+	"basic_list": {
+		"NL_Lst": [
+			[
+				0,
+				"저자",
+				"NNG",
+				"저자 이태우는 저자는 내향적 직장인이다."
+			],
+			[
+				1,
+				"이태우",
+				"NNP",
+				"저자 이태우는 저자는 내향적 직장인이다."
+			],
+			[
+				2,
+				"저자",
+				"NNG",
+				"저자 이태우는 저자는 내향적 직장인이다."
+			],
+			[
+				3,
+				"내향",
+				"NNG",
+				"저자 이태우는 저자는 내향적 직장인이다."
+			],
+			[
+				4,
+				"직장인",
+				"NNG",
+				"저자 이태우는 저자는 내향적 직장인이다."
+			],
+			[
+				5,
+				"외향",
+				"NNG",
+				"외향적 사회 속에서 많은 시행착오를 경험하였다."
+			],
+			[
+				6,
+				"사회",
+				"NNG",
+				"외향적 사회 속에서 많은 시행착오를 경험하였다."
+			],
+			[
+				7,
+				"속",
+				"NNG",
+				"외향적 사회 속에서 많은 시행착오를 경험하였다."
+			],
+			[
+				8,
+				"시행착오",
+				"NNG",
+				"외향적 사회 속에서 많은 시행착오를 경험하였다."
+			],
+			[
+				9,
+				"좌절",
+				"NNG",
+				"좌절도 하고 절망도 하였다."
+			],
+			[
+				10,
+				"절망",
+				"NNG",
+				"좌절도 하고 절망도 하였다."
+			],
+			[
+				11,
+				"그",
+				"NP",
+				"하지만 그는 포기하지 않고 자신의 성향 그대로 나답게 살아가는 삶에 대해 치열하게 고민하였다."
+			],
+			[
+				12,
+				"자신",
+				"NNG",
+				"하지만 그는 포기하지 않고 자신의 성향 그대로 나답게 살아가는 삶에 대해 치열하게 고민하였다."
+			],
+			[
+				13,
+				"성향",
+				"NNG",
+				"하지만 그는 포기하지 않고 자신의 성향 그대로 나답게 살아가는 삶에 대해 치열하게 고민하였다."
+			],
+			[
+				14,
+				"나",
+				"NP",
+				"하지만 그는 포기하지 않고 자신의 성향 그대로 나답게 살아가는 삶에 대해 치열하게 고민하였다."
+			],
+			[
+				15,
+				"삶",
+				"NNG",
+				"하지만 그는 포기하지 않고 자신의 성향 그대로 나답게 살아가는 삶에 대해 치열하게 고민하였다."
+			],
+			[
+				16,
+				"저자",
+				"NNG",
+				"저자는 사람에 대한 공부를 게을리하지 않았다."
+			],
+			[
+				17,
+				"사람",
+				"NNG",
+				"저자는 사람에 대한 공부를 게을리하지 않았다."
+			],
+			[
+				18,
+				"공부",
+				"NNG",
+				"저자는 사람에 대한 공부를 게을리하지 않았다."
+			],
+			[
+				19,
+				"기업",
+				"NNG",
+				"기업에서 10년 이상 사람과 관련된 인적자원개발(HRD) 업무를 담당하였고, 사람의 변화와 관련된 여러 가지 자격증을 취득하였다."
+			],
+			[
+				20,
+				"년",
+				"NNB",
+				"기업에서 10년 이상 사람과 관련된 인적자원개발(HRD) 업무를 담당하였고, 사람의 변화와 관련된 여러 가지 자격증을 취득하였다."
+			],
+			[
+				21,
+				"이상",
+				"NNG",
+				"기업에서 10년 이상 사람과 관련된 인적자원개발(HRD) 업무를 담당하였고, 사람의 변화와 관련된 여러 가지 자격증을 취득하였다."
+			],
+			[
+				22,
+				"사람",
+				"NNG",
+				"기업에서 10년 이상 사람과 관련된 인적자원개발(HRD) 업무를 담당하였고, 사람의 변화와 관련된 여러 가지 자격증을 취득하였다."
+			],
+			[
+				23,
+				"인적",
+				"NNG",
+				"기업에서 10년 이상 사람과 관련된 인적자원개발(HRD) 업무를 담당하였고, 사람의 변화와 관련된 여러 가지 자격증을 취득하였다."
+			],
+			[
+				24,
+				"자원",
+				"NNG",
+				"기업에서 10년 이상 사람과 관련된 인적자원개발(HRD) 업무를 담당하였고, 사람의 변화와 관련된 여러 가지 자격증을 취득하였다."
+			],
+			[
+				25,
+				"개발",
+				"NNG",
+				"기업에서 10년 이상 사람과 관련된 인적자원개발(HRD) 업무를 담당하였고, 사람의 변화와 관련된 여러 가지 자격증을 취득하였다."
+			],
+			[
+				26,
+				"업무",
+				"NNG",
+				"기업에서 10년 이상 사람과 관련된 인적자원개발(HRD) 업무를 담당하였고, 사람의 변화와 관련된 여러 가지 자격증을 취득하였다."
+			],
+			[
+				27,
+				"사람",
+				"NNG",
+				"기업에서 10년 이상 사람과 관련된 인적자원개발(HRD) 업무를 담당하였고, 사람의 변화와 관련된 여러 가지 자격증을 취득하였다."
+			],
+			[
+				28,
+				"변화",
+				"NNG",
+				"기업에서 10년 이상 사람과 관련된 인적자원개발(HRD) 업무를 담당하였고, 사람의 변화와 관련된 여러 가지 자격증을 취득하였다."
+			],
+			[
+				29,
+				"가지",
+				"NNB",
+				"기업에서 10년 이상 사람과 관련된 인적자원개발(HRD) 업무를 담당하였고, 사람의 변화와 관련된 여러 가지 자격증을 취득하였다."
+			],
+			[
+				30,
+				"자격증",
+				"NNG",
+				"기업에서 10년 이상 사람과 관련된 인적자원개발(HRD) 업무를 담당하였고, 사람의 변화와 관련된 여러 가지 자격증을 취득하였다."
+			]
+		],
+		"NN_Lst": [
+			[
+				0,
+				"저자",
+				"NNG",
+				"저자 이태우는 저자는 내향적 직장인이다."
+			],
+			[
+				1,
+				"이태우",
+				"NNP",
+				"저자 이태우는 저자는 내향적 직장인이다."
+			],
+			[
+				2,
+				"저자",
+				"NNG",
+				"저자 이태우는 저자는 내향적 직장인이다."
+			],
+			[
+				3,
+				"내향",
+				"NNG",
+				"저자 이태우는 저자는 내향적 직장인이다."
+			],
+			[
+				4,
+				"직장인",
+				"NNG",
+				"저자 이태우는 저자는 내향적 직장인이다."
+			],
+			[
+				5,
+				"외향",
+				"NNG",
+				"외향적 사회 속에서 많은 시행착오를 경험하였다."
+			],
+			[
+				6,
+				"사회",
+				"NNG",
+				"외향적 사회 속에서 많은 시행착오를 경험하였다."
+			],
+			[
+				7,
+				"속",
+				"NNG",
+				"외향적 사회 속에서 많은 시행착오를 경험하였다."
+			],
+			[
+				8,
+				"시행착오",
+				"NNG",
+				"외향적 사회 속에서 많은 시행착오를 경험하였다."
+			],
+			[
+				9,
+				"좌절",
+				"NNG",
+				"좌절도 하고 절망도 하였다."
+			],
+			[
+				10,
+				"절망",
+				"NNG",
+				"좌절도 하고 절망도 하였다."
+			],
+			[
+				11,
+				"자신",
+				"NNG",
+				"하지만 그는 포기하지 않고 자신의 성향 그대로 나답게 살아가는 삶에 대해 치열하게 고민하였다."
+			],
+			[
+				12,
+				"성향",
+				"NNG",
+				"하지만 그는 포기하지 않고 자신의 성향 그대로 나답게 살아가는 삶에 대해 치열하게 고민하였다."
+			],
+			[
+				13,
+				"삶",
+				"NNG",
+				"하지만 그는 포기하지 않고 자신의 성향 그대로 나답게 살아가는 삶에 대해 치열하게 고민하였다."
+			],
+			[
+				14,
+				"저자",
+				"NNG",
+				"저자는 사람에 대한 공부를 게을리하지 않았다."
+			],
+			[
+				15,
+				"사람",
+				"NNG",
+				"저자는 사람에 대한 공부를 게을리하지 않았다."
+			],
+			[
+				16,
+				"공부",
+				"NNG",
+				"저자는 사람에 대한 공부를 게을리하지 않았다."
+			],
+			[
+				17,
+				"기업",
+				"NNG",
+				"기업에서 10년 이상 사람과 관련된 인적자원개발(HRD) 업무를 담당하였고, 사람의 변화와 관련된 여러 가지 자격증을 취득하였다."
+			],
+			[
+				18,
+				"년",
+				"NNB",
+				"기업에서 10년 이상 사람과 관련된 인적자원개발(HRD) 업무를 담당하였고, 사람의 변화와 관련된 여러 가지 자격증을 취득하였다."
+			],
+			[
+				19,
+				"이상",
+				"NNG",
+				"기업에서 10년 이상 사람과 관련된 인적자원개발(HRD) 업무를 담당하였고, 사람의 변화와 관련된 여러 가지 자격증을 취득하였다."
+			],
+			[
+				20,
+				"사람",
+				"NNG",
+				"기업에서 10년 이상 사람과 관련된 인적자원개발(HRD) 업무를 담당하였고, 사람의 변화와 관련된 여러 가지 자격증을 취득하였다."
+			],
+			[
+				21,
+				"인적",
+				"NNG",
+				"기업에서 10년 이상 사람과 관련된 인적자원개발(HRD) 업무를 담당하였고, 사람의 변화와 관련된 여러 가지 자격증을 취득하였다."
+			],
+			[
+				22,
+				"자원",
+				"NNG",
+				"기업에서 10년 이상 사람과 관련된 인적자원개발(HRD) 업무를 담당하였고, 사람의 변화와 관련된 여러 가지 자격증을 취득하였다."
+			],
+			[
+				23,
+				"개발",
+				"NNG",
+				"기업에서 10년 이상 사람과 관련된 인적자원개발(HRD) 업무를 담당하였고, 사람의 변화와 관련된 여러 가지 자격증을 취득하였다."
+			],
+			[
+				24,
+				"업무",
+				"NNG",
+				"기업에서 10년 이상 사람과 관련된 인적자원개발(HRD) 업무를 담당하였고, 사람의 변화와 관련된 여러 가지 자격증을 취득하였다."
+			],
+			[
+				25,
+				"사람",
+				"NNG",
+				"기업에서 10년 이상 사람과 관련된 인적자원개발(HRD) 업무를 담당하였고, 사람의 변화와 관련된 여러 가지 자격증을 취득하였다."
+			],
+			[
+				26,
+				"변화",
+				"NNG",
+				"기업에서 10년 이상 사람과 관련된 인적자원개발(HRD) 업무를 담당하였고, 사람의 변화와 관련된 여러 가지 자격증을 취득하였다."
+			],
+			[
+				27,
+				"가지",
+				"NNB",
+				"기업에서 10년 이상 사람과 관련된 인적자원개발(HRD) 업무를 담당하였고, 사람의 변화와 관련된 여러 가지 자격증을 취득하였다."
+			],
+			[
+				28,
+				"자격증",
+				"NNG",
+				"기업에서 10년 이상 사람과 관련된 인적자원개발(HRD) 업무를 담당하였고, 사람의 변화와 관련된 여러 가지 자격증을 취득하였다."
+			]
+		],
+		"NNG_Lst": [
+			[
+				0,
+				"저자",
+				"NNG",
+				"저자 이태우는 저자는 내향적 직장인이다."
+			],
+			[
+				1,
+				"저자",
+				"NNG",
+				"저자 이태우는 저자는 내향적 직장인이다."
+			],
+			[
+				2,
+				"내향",
+				"NNG",
+				"저자 이태우는 저자는 내향적 직장인이다."
+			],
+			[
+				3,
+				"직장인",
+				"NNG",
+				"저자 이태우는 저자는 내향적 직장인이다."
+			],
+			[
+				4,
+				"외향",
+				"NNG",
+				"외향적 사회 속에서 많은 시행착오를 경험하였다."
+			],
+			[
+				5,
+				"사회",
+				"NNG",
+				"외향적 사회 속에서 많은 시행착오를 경험하였다."
+			],
+			[
+				6,
+				"속",
+				"NNG",
+				"외향적 사회 속에서 많은 시행착오를 경험하였다."
+			],
+			[
+				7,
+				"시행착오",
+				"NNG",
+				"외향적 사회 속에서 많은 시행착오를 경험하였다."
+			],
+			[
+				8,
+				"좌절",
+				"NNG",
+				"좌절도 하고 절망도 하였다."
+			],
+			[
+				9,
+				"절망",
+				"NNG",
+				"좌절도 하고 절망도 하였다."
+			],
+			[
+				10,
+				"자신",
+				"NNG",
+				"하지만 그는 포기하지 않고 자신의 성향 그대로 나답게 살아가는 삶에 대해 치열하게 고민하였다."
+			],
+			[
+				11,
+				"성향",
+				"NNG",
+				"하지만 그는 포기하지 않고 자신의 성향 그대로 나답게 살아가는 삶에 대해 치열하게 고민하였다."
+			],
+			[
+				12,
+				"삶",
+				"NNG",
+				"하지만 그는 포기하지 않고 자신의 성향 그대로 나답게 살아가는 삶에 대해 치열하게 고민하였다."
+			],
+			[
+				13,
+				"저자",
+				"NNG",
+				"저자는 사람에 대한 공부를 게을리하지 않았다."
+			],
+			[
+				14,
+				"사람",
+				"NNG",
+				"저자는 사람에 대한 공부를 게을리하지 않았다."
+			],
+			[
+				15,
+				"공부",
+				"NNG",
+				"저자는 사람에 대한 공부를 게을리하지 않았다."
+			],
+			[
+				16,
+				"기업",
+				"NNG",
+				"기업에서 10년 이상 사람과 관련된 인적자원개발(HRD) 업무를 담당하였고, 사람의 변화와 관련된 여러 가지 자격증을 취득하였다."
+			],
+			[
+				17,
+				"이상",
+				"NNG",
+				"기업에서 10년 이상 사람과 관련된 인적자원개발(HRD) 업무를 담당하였고, 사람의 변화와 관련된 여러 가지 자격증을 취득하였다."
+			],
+			[
+				18,
+				"사람",
+				"NNG",
+				"기업에서 10년 이상 사람과 관련된 인적자원개발(HRD) 업무를 담당하였고, 사람의 변화와 관련된 여러 가지 자격증을 취득하였다."
+			],
+			[
+				19,
+				"인적",
+				"NNG",
+				"기업에서 10년 이상 사람과 관련된 인적자원개발(HRD) 업무를 담당하였고, 사람의 변화와 관련된 여러 가지 자격증을 취득하였다."
+			],
+			[
+				20,
+				"자원",
+				"NNG",
+				"기업에서 10년 이상 사람과 관련된 인적자원개발(HRD) 업무를 담당하였고, 사람의 변화와 관련된 여러 가지 자격증을 취득하였다."
+			],
+			[
+				21,
+				"개발",
+				"NNG",
+				"기업에서 10년 이상 사람과 관련된 인적자원개발(HRD) 업무를 담당하였고, 사람의 변화와 관련된 여러 가지 자격증을 취득하였다."
+			],
+			[
+				22,
+				"업무",
+				"NNG",
+				"기업에서 10년 이상 사람과 관련된 인적자원개발(HRD) 업무를 담당하였고, 사람의 변화와 관련된 여러 가지 자격증을 취득하였다."
+			],
+			[
+				23,
+				"사람",
+				"NNG",
+				"기업에서 10년 이상 사람과 관련된 인적자원개발(HRD) 업무를 담당하였고, 사람의 변화와 관련된 여러 가지 자격증을 취득하였다."
+			],
+			[
+				24,
+				"변화",
+				"NNG",
+				"기업에서 10년 이상 사람과 관련된 인적자원개발(HRD) 업무를 담당하였고, 사람의 변화와 관련된 여러 가지 자격증을 취득하였다."
+			],
+			[
+				25,
+				"자격증",
+				"NNG",
+				"기업에서 10년 이상 사람과 관련된 인적자원개발(HRD) 업무를 담당하였고, 사람의 변화와 관련된 여러 가지 자격증을 취득하였다."
+			]
+		],
+		"NNP_Lst": [
+			[
+				0,
+				"이태우",
+				"NNP",
+				"저자 이태우는 저자는 내향적 직장인이다."
+			]
+		],
+		"NNB_Lst": [
+			[
+				0,
+				"년",
+				"NNB",
+				"기업에서 10년 이상 사람과 관련된 인적자원개발(HRD) 업무를 담당하였고, 사람의 변화와 관련된 여러 가지 자격증을 취득하였다."
+			],
+			[
+				1,
+				"가지",
+				"NNB",
+				"기업에서 10년 이상 사람과 관련된 인적자원개발(HRD) 업무를 담당하였고, 사람의 변화와 관련된 여러 가지 자격증을 취득하였다."
+			]
+		],
+		"NP_Lst": [
+			[
+				0,
+				"그",
+				"NP",
+				"하지만 그는 포기하지 않고 자신의 성향 그대로 나답게 살아가는 삶에 대해 치열하게 고민하였다."
+			],
+			[
+				1,
+				"나",
+				"NP",
+				"하지만 그는 포기하지 않고 자신의 성향 그대로 나답게 살아가는 삶에 대해 치열하게 고민하였다."
+			]
+		],
+		"NP_People_Lst": [
+			[
+				0,
+				"그",
+				"NP",
+				"하지만 그는 포기하지 않고 자신의 성향 그대로 나답게 살아가는 삶에 대해 치열하게 고민하였다."
+			],
+			[
+				1,
+				"나",
+				"NP",
+				"하지만 그는 포기하지 않고 자신의 성향 그대로 나답게 살아가는 삶에 대해 치열하게 고민하였다."
+			]
+		],
+		"NP_Things_Lst": [],
+		"NR_Lst": [],
+		"VL_Lst": [
+			[
+				0,
+				"이",
+				"VCP",
+				"저자 이태우는 저자는 내향적 직장인이다."
+			],
+			[
+				1,
+				"많",
+				"VA",
+				"외향적 사회 속에서 많은 시행착오를 경험하였다."
+			],
+			[
+				2,
+				"경험하",
+				"VV",
+				"외향적 사회 속에서 많은 시행착오를 경험하였다."
+			],
+			[
+				3,
+				"하",
+				"VV",
+				"좌절도 하고 절망도 하였다."
+			],
+			[
+				4,
+				"하",
+				"VV",
+				"좌절도 하고 절망도 하였다."
+			],
+			[
+				5,
+				"포기하",
+				"VV",
+				"하지만 그는 포기하지 않고 자신의 성향 그대로 나답게 살아가는 삶에 대해 치열하게 고민하였다."
+			],
+			[
+				6,
+				"않",
+				"VX",
+				"하지만 그는 포기하지 않고 자신의 성향 그대로 나답게 살아가는 삶에 대해 치열하게 고민하였다."
+			],
+			[
+				7,
+				"살아가",
+				"VV",
+				"하지만 그는 포기하지 않고 자신의 성향 그대로 나답게 살아가는 삶에 대해 치열하게 고민하였다."
+			],
+			[
+				8,
+				"대하",
+				"VV",
+				"하지만 그는 포기하지 않고 자신의 성향 그대로 나답게 살아가는 삶에 대해 치열하게 고민하였다."
+			],
+			[
+				9,
+				"치열하",
+				"VA",
+				"하지만 그는 포기하지 않고 자신의 성향 그대로 나답게 살아가는 삶에 대해 치열하게 고민하였다."
+			],
+			[
+				10,
+				"고민하",
+				"VV",
+				"하지만 그는 포기하지 않고 자신의 성향 그대로 나답게 살아가는 삶에 대해 치열하게 고민하였다."
+			],
+			[
+				11,
+				"대하",
+				"VV",
+				"저자는 사람에 대한 공부를 게을리하지 않았다."
+			],
+			[
+				12,
+				"게을리하",
+				"VV",
+				"저자는 사람에 대한 공부를 게을리하지 않았다."
+			],
+			[
+				13,
+				"않",
+				"VX",
+				"저자는 사람에 대한 공부를 게을리하지 않았다."
+			],
+			[
+				14,
+				"관련되",
+				"VV",
+				"기업에서 10년 이상 사람과 관련된 인적자원개발(HRD) 업무를 담당하였고, 사람의 변화와 관련된 여러 가지 자격증을 취득하였다."
+			],
+			[
+				15,
+				"담당하",
+				"VV",
+				"기업에서 10년 이상 사람과 관련된 인적자원개발(HRD) 업무를 담당하였고, 사람의 변화와 관련된 여러 가지 자격증을 취득하였다."
+			],
+			[
+				16,
+				"관련되",
+				"VV",
+				"기업에서 10년 이상 사람과 관련된 인적자원개발(HRD) 업무를 담당하였고, 사람의 변화와 관련된 여러 가지 자격증을 취득하였다."
+			],
+			[
+				17,
+				"취득하",
+				"VV",
+				"기업에서 10년 이상 사람과 관련된 인적자원개발(HRD) 업무를 담당하였고, 사람의 변화와 관련된 여러 가지 자격증을 취득하였다."
+			]
+		],
+		"VV_Lst": [
+			[
+				0,
+				"경험하",
+				"VV",
+				"외향적 사회 속에서 많은 시행착오를 경험하였다."
+			],
+			[
+				1,
+				"하",
+				"VV",
+				"좌절도 하고 절망도 하였다."
+			],
+			[
+				2,
+				"하",
+				"VV",
+				"좌절도 하고 절망도 하였다."
+			],
+			[
+				3,
+				"포기하",
+				"VV",
+				"하지만 그는 포기하지 않고 자신의 성향 그대로 나답게 살아가는 삶에 대해 치열하게 고민하였다."
+			],
+			[
+				4,
+				"살아가",
+				"VV",
+				"하지만 그는 포기하지 않고 자신의 성향 그대로 나답게 살아가는 삶에 대해 치열하게 고민하였다."
+			],
+			[
+				5,
+				"대하",
+				"VV",
+				"하지만 그는 포기하지 않고 자신의 성향 그대로 나답게 살아가는 삶에 대해 치열하게 고민하였다."
+			],
+			[
+				6,
+				"고민하",
+				"VV",
+				"하지만 그는 포기하지 않고 자신의 성향 그대로 나답게 살아가는 삶에 대해 치열하게 고민하였다."
+			],
+			[
+				7,
+				"대하",
+				"VV",
+				"저자는 사람에 대한 공부를 게을리하지 않았다."
+			],
+			[
+				8,
+				"게을리하",
+				"VV",
+				"저자는 사람에 대한 공부를 게을리하지 않았다."
+			],
+			[
+				9,
+				"관련되",
+				"VV",
+				"기업에서 10년 이상 사람과 관련된 인적자원개발(HRD) 업무를 담당하였고, 사람의 변화와 관련된 여러 가지 자격증을 취득하였다."
+			],
+			[
+				10,
+				"담당하",
+				"VV",
+				"기업에서 10년 이상 사람과 관련된 인적자원개발(HRD) 업무를 담당하였고, 사람의 변화와 관련된 여러 가지 자격증을 취득하였다."
+			],
+			[
+				11,
+				"관련되",
+				"VV",
+				"기업에서 10년 이상 사람과 관련된 인적자원개발(HRD) 업무를 담당하였고, 사람의 변화와 관련된 여러 가지 자격증을 취득하였다."
+			],
+			[
+				12,
+				"취득하",
+				"VV",
+				"기업에서 10년 이상 사람과 관련된 인적자원개발(HRD) 업무를 담당하였고, 사람의 변화와 관련된 여러 가지 자격증을 취득하였다."
+			]
+		],
+		"VA_Lst": [
+			[
+				0,
+				"많",
+				"VA",
+				"외향적 사회 속에서 많은 시행착오를 경험하였다."
+			],
+			[
+				1,
+				"치열하",
+				"VA",
+				"하지만 그는 포기하지 않고 자신의 성향 그대로 나답게 살아가는 삶에 대해 치열하게 고민하였다."
+			]
+		],
+		"VX_Lst": [
+			[
+				0,
+				"않",
+				"VX",
+				"하지만 그는 포기하지 않고 자신의 성향 그대로 나답게 살아가는 삶에 대해 치열하게 고민하였다."
+			],
+			[
+				1,
+				"않",
+				"VX",
+				"저자는 사람에 대한 공부를 게을리하지 않았다."
+			]
+		],
+		"VCP_Lst": [
+			[
+				0,
+				"이",
+				"VCP",
+				"저자 이태우는 저자는 내향적 직장인이다."
+			]
+		],
+		"VCN_Lst": [],
+		"ML_Lst": [
+			[
+				0,
+				"하지만",
+				"MAJ",
+				"하지만 그는 포기하지 않고 자신의 성향 그대로 나답게 살아가는 삶에 대해 치열하게 고민하였다."
+			],
+			[
+				1,
+				"그대로",
+				"MAG",
+				"하지만 그는 포기하지 않고 자신의 성향 그대로 나답게 살아가는 삶에 대해 치열하게 고민하였다."
+			]
+		],
+		"MA_Lst": [],
+		"MM_Lst": [],
+		"J_Lst": [
+			[
+				0,
+				"는",
+				"JX",
+				"저자 이태우는 저자는 내향적 직장인이다."
+			],
+			[
+				1,
+				"는",
+				"JX",
+				"저자 이태우는 저자는 내향적 직장인이다."
+			],
+			[
+				2,
+				"에서",
+				"JKB",
+				"외향적 사회 속에서 많은 시행착오를 경험하였다."
+			],
+			[
+				3,
+				"를",
+				"JKO",
+				"외향적 사회 속에서 많은 시행착오를 경험하였다."
+			],
+			[
+				4,
+				"도",
+				"JX",
+				"좌절도 하고 절망도 하였다."
+			],
+			[
+				5,
+				"도",
+				"JX",
+				"좌절도 하고 절망도 하였다."
+			],
+			[
+				6,
+				"는",
+				"JX",
+				"하지만 그는 포기하지 않고 자신의 성향 그대로 나답게 살아가는 삶에 대해 치열하게 고민하였다."
+			],
+			[
+				7,
+				"의",
+				"JKG",
+				"하지만 그는 포기하지 않고 자신의 성향 그대로 나답게 살아가는 삶에 대해 치열하게 고민하였다."
+			],
+			[
+				8,
+				"에",
+				"JKB",
+				"하지만 그는 포기하지 않고 자신의 성향 그대로 나답게 살아가는 삶에 대해 치열하게 고민하였다."
+			],
+			[
+				9,
+				"는",
+				"JX",
+				"저자는 사람에 대한 공부를 게을리하지 않았다."
+			],
+			[
+				10,
+				"에",
+				"JKB",
+				"저자는 사람에 대한 공부를 게을리하지 않았다."
+			],
+			[
+				11,
+				"를",
+				"JKO",
+				"저자는 사람에 대한 공부를 게을리하지 않았다."
+			],
+			[
+				12,
+				"에서",
+				"JKB",
+				"기업에서 10년 이상 사람과 관련된 인적자원개발(HRD) 업무를 담당하였고, 사람의 변화와 관련된 여러 가지 자격증을 취득하였다."
+			],
+			[
+				13,
+				"과",
+				"JKB",
+				"기업에서 10년 이상 사람과 관련된 인적자원개발(HRD) 업무를 담당하였고, 사람의 변화와 관련된 여러 가지 자격증을 취득하였다."
+			],
+			[
+				14,
+				"를",
+				"JKO",
+				"기업에서 10년 이상 사람과 관련된 인적자원개발(HRD) 업무를 담당하였고, 사람의 변화와 관련된 여러 가지 자격증을 취득하였다."
+			],
+			[
+				15,
+				"의",
+				"JKG",
+				"기업에서 10년 이상 사람과 관련된 인적자원개발(HRD) 업무를 담당하였고, 사람의 변화와 관련된 여러 가지 자격증을 취득하였다."
+			],
+			[
+				16,
+				"와",
+				"JC",
+				"기업에서 10년 이상 사람과 관련된 인적자원개발(HRD) 업무를 담당하였고, 사람의 변화와 관련된 여러 가지 자격증을 취득하였다."
+			],
+			[
+				17,
+				"을",
+				"JKO",
+				"기업에서 10년 이상 사람과 관련된 인적자원개발(HRD) 업무를 담당하였고, 사람의 변화와 관련된 여러 가지 자격증을 취득하였다."
+			]
+		],
+		"E_Lst": [
+			[
+				0,
+				"다",
+				"EF",
+				"저자 이태우는 저자는 내향적 직장인이다."
+			],
+			[
+				1,
+				"은",
+				"ETM",
+				"외향적 사회 속에서 많은 시행착오를 경험하였다."
+			],
+			[
+				2,
+				"았",
+				"EP",
+				"외향적 사회 속에서 많은 시행착오를 경험하였다."
+			],
+			[
+				3,
+				"다",
+				"EF",
+				"외향적 사회 속에서 많은 시행착오를 경험하였다."
+			],
+			[
+				4,
+				"고",
+				"EC",
+				"좌절도 하고 절망도 하였다."
+			],
+			[
+				5,
+				"았",
+				"EP",
+				"좌절도 하고 절망도 하였다."
+			],
+			[
+				6,
+				"다",
+				"EF",
+				"좌절도 하고 절망도 하였다."
+			],
+			[
+				7,
+				"지",
+				"EC",
+				"하지만 그는 포기하지 않고 자신의 성향 그대로 나답게 살아가는 삶에 대해 치열하게 고민하였다."
+			],
+			[
+				8,
+				"고",
+				"EC",
+				"하지만 그는 포기하지 않고 자신의 성향 그대로 나답게 살아가는 삶에 대해 치열하게 고민하였다."
+			],
+			[
+				9,
+				"게",
+				"EC",
+				"하지만 그는 포기하지 않고 자신의 성향 그대로 나답게 살아가는 삶에 대해 치열하게 고민하였다."
+			],
+			[
+				10,
+				"는",
+				"ETM",
+				"하지만 그는 포기하지 않고 자신의 성향 그대로 나답게 살아가는 삶에 대해 치열하게 고민하였다."
+			],
+			[
+				11,
+				"아",
+				"EC",
+				"하지만 그는 포기하지 않고 자신의 성향 그대로 나답게 살아가는 삶에 대해 치열하게 고민하였다."
+			],
+			[
+				12,
+				"게",
+				"EC",
+				"하지만 그는 포기하지 않고 자신의 성향 그대로 나답게 살아가는 삶에 대해 치열하게 고민하였다."
+			],
+			[
+				13,
+				"았",
+				"EP",
+				"하지만 그는 포기하지 않고 자신의 성향 그대로 나답게 살아가는 삶에 대해 치열하게 고민하였다."
+			],
+			[
+				14,
+				"다",
+				"EF",
+				"하지만 그는 포기하지 않고 자신의 성향 그대로 나답게 살아가는 삶에 대해 치열하게 고민하였다."
+			],
+			[
+				15,
+				"ㄴ",
+				"ETM",
+				"저자는 사람에 대한 공부를 게을리하지 않았다."
+			],
+			[
+				16,
+				"지",
+				"EC",
+				"저자는 사람에 대한 공부를 게을리하지 않았다."
+			],
+			[
+				17,
+				"았",
+				"EP",
+				"저자는 사람에 대한 공부를 게을리하지 않았다."
+			],
+			[
+				18,
+				"다",
+				"EF",
+				"저자는 사람에 대한 공부를 게을리하지 않았다."
+			],
+			[
+				19,
+				"ㄴ",
+				"ETM",
+				"기업에서 10년 이상 사람과 관련된 인적자원개발(HRD) 업무를 담당하였고, 사람의 변화와 관련된 여러 가지 자격증을 취득하였다."
+			],
+			[
+				20,
+				"았",
+				"EP",
+				"기업에서 10년 이상 사람과 관련된 인적자원개발(HRD) 업무를 담당하였고, 사람의 변화와 관련된 여러 가지 자격증을 취득하였다."
+			],
+			[
+				21,
+				"고",
+				"EC",
+				"기업에서 10년 이상 사람과 관련된 인적자원개발(HRD) 업무를 담당하였고, 사람의 변화와 관련된 여러 가지 자격증을 취득하였다."
+			],
+			[
+				22,
+				"ㄴ",
+				"ETM",
+				"기업에서 10년 이상 사람과 관련된 인적자원개발(HRD) 업무를 담당하였고, 사람의 변화와 관련된 여러 가지 자격증을 취득하였다."
+			],
+			[
+				23,
+				"았",
+				"EP",
+				"기업에서 10년 이상 사람과 관련된 인적자원개발(HRD) 업무를 담당하였고, 사람의 변화와 관련된 여러 가지 자격증을 취득하였다."
+			],
+			[
+				24,
+				"다",
+				"EF",
+				"기업에서 10년 이상 사람과 관련된 인적자원개발(HRD) 업무를 담당하였고, 사람의 변화와 관련된 여러 가지 자격증을 취득하였다."
+			]
+		],
+		"X_Lst": [
+			[
+				0,
+				"적",
+				"XSN",
+				"저자 이태우는 저자는 내향적 직장인이다."
+			],
+			[
+				1,
+				"적",
+				"XSN",
+				"외향적 사회 속에서 많은 시행착오를 경험하였다."
+			],
+			[
+				2,
+				"답",
+				"XSA",
+				"하지만 그는 포기하지 않고 자신의 성향 그대로 나답게 살아가는 삶에 대해 치열하게 고민하였다."
+			]
+		],
+		"IC_Lst": []
+	},
+	"NDW": {
+		"morph_NDW": 70,
+		"NL_NDW": 31,
+		"NNG_NDW": 26,
+		"NNP_NDW": 1,
+		"NNB_NDW": 2,
+		"NP_NDW": 2,
+		"NR_NDW": 0,
+		"VL_NDW": 18,
+		"VV_NDW": 13,
+		"VA_NDW": 2,
+		"ML_NDW": 2,
+		"MM_NDW": 0,
+		"IC_NDW": 0,
+		"J_NDW": 18,
+		"E_NDW": 25,
+		"X_NDW": 3,
+		"CL_NDW": 51,
+		"FL_NDW": 46
+	}
+}

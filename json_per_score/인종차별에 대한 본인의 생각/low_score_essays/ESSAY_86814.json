@@ -1,0 +1,3558 @@
+﻿{
+	"morpheme": {
+		"sentences": [
+			{
+				"text": {
+					"content": "촘촘히 깔린 맥락 덕분에 토니와 마리아가 부르는 사랑 노래 '섬웨어(Somewhere)'는 두 인물 간 사랑을 넘어 조금 더 폭넓게 읽힌다.",
+					"length": 78,
+					"beginOffset": 0
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "촘촘히",
+							"length": 3,
+							"beginOffset": 0
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "촘촘히",
+									"length": 3,
+									"beginOffset": 0
+								},
+								"tag": "MAG",
+								"probability": 0.98928654,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "촘촘히",
+						"tagged": "촘촘히/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "깔린",
+							"beginOffset": 4,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "깔리",
+									"beginOffset": 4,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.99012417,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 5,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999828,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "깔리",
+						"tagged": "깔리/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "맥락",
+							"beginOffset": 7,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "맥락",
+									"beginOffset": 7,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9763031,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "맥락",
+						"tagged": "맥락/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "덕분에",
+							"beginOffset": 10,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "덕분",
+									"beginOffset": 10,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9803211,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 12,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9943484,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "덕분",
+						"tagged": "덕분/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "토니와",
+							"beginOffset": 14,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "토니",
+									"beginOffset": 14,
+									"length": 2
+								},
+								"tag": "NNP",
+								"probability": 0.9570832,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "와",
+									"beginOffset": 16,
+									"length": 1
+								},
+								"tag": "JC",
+								"probability": 0.8716519,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "토니",
+						"tagged": "토니/NNP+와/JC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "마리아가",
+							"beginOffset": 18,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "마리아",
+									"beginOffset": 18,
+									"length": 3
+								},
+								"tag": "NNP",
+								"probability": 0.9719131,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 21,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9956735,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "마리아",
+						"tagged": "마리아/NNP+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "부르는",
+							"beginOffset": 23,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "부르",
+									"beginOffset": 23,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.98965186,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 25,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99999654,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "부르",
+						"tagged": "부르/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사랑",
+							"beginOffset": 27,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사랑",
+									"beginOffset": 27,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9553579,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사랑",
+						"tagged": "사랑/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "노래",
+							"beginOffset": 30,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "노래",
+									"beginOffset": 30,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98001623,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "노래",
+						"tagged": "노래/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "'섬웨어(Somewhere)'는",
+							"beginOffset": 33,
+							"length": 17
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "'",
+									"beginOffset": 33,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9998045,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "섬웨어",
+									"beginOffset": 34,
+									"length": 3
+								},
+								"tag": "NNP",
+								"probability": 0.60137147,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "(",
+									"beginOffset": 37,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.999863,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "Somewhere",
+									"beginOffset": 38,
+									"length": 9
+								},
+								"tag": "NNG",
+								"probability": 0.4861288,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": ")",
+									"beginOffset": 47,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9997527,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "'",
+									"beginOffset": 48,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9999513,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 49,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9992652,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "'",
+						"tagged": "'/SS+섬웨어/NNP+(/SS+Somewhere/NNG+)/SS+'/SS+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "두",
+							"beginOffset": 51,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "두",
+									"beginOffset": 51,
+									"length": 1
+								},
+								"tag": "MMN",
+								"probability": 0.99710155,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "두",
+						"tagged": "두/MMN",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "인물",
+							"beginOffset": 53,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "인물",
+									"beginOffset": 53,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9811527,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "인물",
+						"tagged": "인물/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "간",
+							"beginOffset": 56,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 56,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9286079,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 56,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9998667,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "가",
+						"tagged": "가/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사랑을",
+							"beginOffset": 58,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사랑",
+									"beginOffset": 58,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9843661,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 60,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999572,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사랑",
+						"tagged": "사랑/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "넘어",
+							"beginOffset": 62,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "넘",
+									"beginOffset": 62,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9901146,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어",
+									"beginOffset": 63,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9880002,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "넘",
+						"tagged": "넘/VV+어/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "조금",
+							"beginOffset": 65,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "조금",
+									"beginOffset": 65,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.99242336,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "조금",
+						"tagged": "조금/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "더",
+							"beginOffset": 68,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "더",
+									"beginOffset": 68,
+									"length": 1
+								},
+								"tag": "MAG",
+								"probability": 0.99262035,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "더",
+						"tagged": "더/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "폭넓게",
+							"beginOffset": 70,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "폭넓",
+									"beginOffset": 70,
+									"length": 2
+								},
+								"tag": "VA",
+								"probability": 0.987255,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "게",
+									"beginOffset": 72,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99511963,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "폭넓",
+						"tagged": "폭넓/VA+게/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "읽힌다.",
+							"beginOffset": 74,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "읽히",
+									"beginOffset": 74,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.989527,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ다",
+									"beginOffset": 75,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.9900691,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 77,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99960023,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "읽히",
+						"tagged": "읽히/VV+ㄴ다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "촘촘히 깔린 맥락 덕분에 토니와 마리아가 부르는 사랑 노래 '섬웨어(Somewhere)'는 두 인물 간 사랑을 넘어 조금 더 폭넓게 읽힌다."
+			},
+			{
+				"text": {
+					"content": "\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다.",
+					"beginOffset": 79,
+					"length": 154
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "\"우리를",
+							"beginOffset": 79,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "\"",
+									"beginOffset": 79,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.99934644,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "우리",
+									"beginOffset": 80,
+									"length": 2
+								},
+								"tag": "NP",
+								"probability": 0.9706493,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 82,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999636,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "\"",
+						"tagged": "\"/SS+우리/NP+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "위한",
+							"beginOffset": 84,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "위하",
+									"beginOffset": 84,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.99266744,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 85,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999412,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "위하",
+						"tagged": "위하/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "시간이",
+							"beginOffset": 87,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "시간",
+									"beginOffset": 87,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9713715,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 89,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.98368245,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "시간",
+						"tagged": "시간/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있을",
+							"beginOffset": 91,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 91,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9225219,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 92,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999569,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VA+을/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "거야.",
+							"beginOffset": 94,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "거",
+									"beginOffset": 94,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.97820556,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 95,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.9999384,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "야",
+									"beginOffset": 95,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9871052,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 96,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99830365,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "거",
+						"tagged": "거/NNB+이/VCP+야/EF+./SF",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "우리가",
+							"beginOffset": 98,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "우리",
+									"beginOffset": 98,
+									"length": 2
+								},
+								"tag": "NP",
+								"probability": 0.98183656,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 100,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9067779,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "우리",
+						"tagged": "우리/NP+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "함께",
+							"beginOffset": 102,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "함께",
+									"beginOffset": 102,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9898496,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "함께",
+						"tagged": "함께/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "지내면서",
+							"beginOffset": 105,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "지내",
+									"beginOffset": 105,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.98700666,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "면서",
+									"beginOffset": 107,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9895397,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "지내",
+						"tagged": "지내/VV+면서/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "서로를",
+							"beginOffset": 110,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "서로",
+									"beginOffset": 110,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98126113,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 112,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999456,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "서로",
+						"tagged": "서로/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이해하고",
+							"beginOffset": 114,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이해하",
+									"beginOffset": 114,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 117,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99342,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이해하",
+						"tagged": "이해하/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "서로를",
+							"beginOffset": 119,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "서로",
+									"beginOffset": 119,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98565656,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 121,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999297,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "서로",
+						"tagged": "서로/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "아껴",
+							"beginOffset": 123,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "아끼",
+									"beginOffset": 123,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.99103427,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어",
+									"beginOffset": 124,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9951145,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "아끼",
+						"tagged": "아끼/VV+어/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "줄",
+							"beginOffset": 125,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "주",
+									"beginOffset": 125,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.951215,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ",
+									"beginOffset": 125,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999123,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "주",
+						"tagged": "주/VX+ㄹ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "수",
+							"beginOffset": 127,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "수",
+									"beginOffset": 127,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.97528505,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "수",
+						"tagged": "수/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있는",
+							"beginOffset": 129,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 129,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9702301,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 130,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999115,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VA+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "시간이",
+							"beginOffset": 132,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "시간",
+									"beginOffset": 132,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.95401096,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 134,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9937069,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "시간",
+						"tagged": "시간/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": ".",
+							"beginOffset": 135,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 135,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9981503,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": ".",
+						"tagged": "./SF",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "언젠가",
+							"beginOffset": 137,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "언젠가",
+									"beginOffset": 137,
+									"length": 3
+								},
+								"tag": "MAG",
+								"probability": 0.9880185,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "언젠가",
+						"tagged": "언젠가/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": ",",
+							"beginOffset": 140,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 140,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.99898124,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": ",",
+						"tagged": ",/SP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "어딘가에서",
+							"beginOffset": 142,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "어디",
+									"beginOffset": 142,
+									"length": 2
+								},
+								"tag": "NP",
+								"probability": 0.9856517,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 143,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.99992836,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ가",
+									"beginOffset": 143,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.9940745,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에서",
+									"beginOffset": 145,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9780446,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "어디",
+						"tagged": "어디/NP+이/VCP+ㄴ가/EF+에서/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "\"라는",
+							"beginOffset": 147,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "\"",
+									"beginOffset": 147,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9996327,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 148,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.9994823,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "라는",
+									"beginOffset": 148,
+									"length": 2
+								},
+								"tag": "ETM",
+								"probability": 0.9998907,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "\"",
+						"tagged": "\"/SS+이/VCP+라는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "가사에서",
+							"beginOffset": 151,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "가사",
+									"beginOffset": 151,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9804067,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에서",
+									"beginOffset": 153,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9955089,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "가사",
+						"tagged": "가사/NNG+에서/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "둘의",
+							"beginOffset": 156,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "둘",
+									"beginOffset": 156,
+									"length": 1
+								},
+								"tag": "NR",
+								"probability": 0.9908032,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 157,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.999812,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "둘",
+						"tagged": "둘/NR+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사랑이",
+							"beginOffset": 159,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사랑",
+									"beginOffset": 159,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9832501,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 161,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.98516864,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사랑",
+						"tagged": "사랑/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "축복받는",
+							"beginOffset": 163,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "축복",
+									"beginOffset": 163,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9823496,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "받",
+									"beginOffset": 165,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.94753295,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 166,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9998848,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "축복",
+						"tagged": "축복/NNG+받/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "것을",
+							"beginOffset": 168,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "것",
+									"beginOffset": 168,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9807561,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 169,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99995065,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "것",
+						"tagged": "것/NNB+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "넘어",
+							"beginOffset": 171,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "넘",
+									"beginOffset": 171,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.98969716,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어",
+									"beginOffset": 172,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.990568,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "넘",
+						"tagged": "넘/VV+어/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "인종",
+							"beginOffset": 174,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "인종",
+									"beginOffset": 174,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9822306,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "인종",
+						"tagged": "인종/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "차별이",
+							"beginOffset": 177,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "차별",
+									"beginOffset": 177,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9845565,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 179,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9939448,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "차별",
+						"tagged": "차별/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "종식되는",
+							"beginOffset": 181,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "종식되",
+									"beginOffset": 181,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 184,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9997294,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "종식되",
+						"tagged": "종식되/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "시공간이",
+							"beginOffset": 186,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "시",
+									"beginOffset": 186,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.8454203,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "공간",
+									"beginOffset": 187,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98280793,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 189,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9519381,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "시",
+						"tagged": "시/NNG+공간/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "막연하지",
+							"beginOffset": 191,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "막연하",
+									"beginOffset": 191,
+									"length": 3
+								},
+								"tag": "VA",
+								"probability": 0.98801345,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "지",
+									"beginOffset": 194,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9930896,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "막연하",
+						"tagged": "막연하/VA+지/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "않은",
+							"beginOffset": 196,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "않",
+									"beginOffset": 196,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.95365864,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 197,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99995255,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "않",
+						"tagged": "않/VX+은/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "좀",
+							"beginOffset": 199,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "좀",
+									"beginOffset": 199,
+									"length": 1
+								},
+								"tag": "MAG",
+								"probability": 0.9926676,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "좀",
+						"tagged": "좀/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "더",
+							"beginOffset": 201,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "더",
+									"beginOffset": 201,
+									"length": 1
+								},
+								"tag": "MAG",
+								"probability": 0.99408567,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "더",
+						"tagged": "더/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "가까운",
+							"beginOffset": 203,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "가깝",
+									"beginOffset": 203,
+									"length": 2
+								},
+								"tag": "VA",
+								"probability": 0.9864044,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 205,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999789,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "가깝",
+						"tagged": "가깝/VA+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "미래에",
+							"beginOffset": 207,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "미래",
+									"beginOffset": 207,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9838533,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 209,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.97866684,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "미래",
+						"tagged": "미래/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "다가왔으면",
+							"beginOffset": 211,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "다가오",
+									"beginOffset": 211,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.99025,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 213,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9999041,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으면",
+									"beginOffset": 214,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99020773,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "다가오",
+						"tagged": "다가오/VV+았/EP+으면/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "하는",
+							"beginOffset": 217,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 217,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.7866031,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 218,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99985605,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "감독의",
+							"beginOffset": 220,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "감독",
+									"beginOffset": 220,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9846614,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 222,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9994154,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "감독",
+						"tagged": "감독/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "바람이",
+							"beginOffset": 224,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "바람",
+									"beginOffset": 224,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98100513,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 226,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9806916,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "바람",
+						"tagged": "바람/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "느껴",
+							"beginOffset": 228,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "느끼",
+									"beginOffset": 228,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9911938,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어",
+									"beginOffset": 229,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9953785,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "느끼",
+						"tagged": "느끼/VV+어/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "진다.",
+							"beginOffset": 230,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "지",
+									"beginOffset": 230,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.967174,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ다",
+									"beginOffset": 230,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.99120444,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 232,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9989834,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "지",
+						"tagged": "지/VX+ㄴ다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴 줄 수 있는 시간이 . 언젠가 , 어딘가에서 \"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴 진다."
+			}
+		],
+		"language": "ko_KR"
+	},
+	"ttr": {
+		"lemma_Cnt": 113,
+		"lemma_TTR": 0.6532258064516129,
+		"CL_TTR": 0.84375,
+		"NL_TTR": 0.8387096774193549,
+		"NN_TTR": 0.8518518518518519,
+		"NNG_TTR": 0.8095238095238095,
+		"NNP_TTR": 1.0,
+		"NNB_TTR": 1.0,
+		"NP_TTR": 0.6666666666666666,
+		"NR_TTR": 1.0,
+		"VL_TTR": 0.8461538461538461,
+		"VV_TTR": 0.9333333333333333,
+		"VA_TTR": 0.8,
+		"ML_TTR": 0.8571428571428571,
+		"MM_TTR": 0,
+		"MA_TTR": 0.8571428571428571,
+		"MAJ_TTR": 0,
+		"IC_TTR": 0,
+		"FL_TTR": 0.4791666666666667,
+		"J_TTR": 0.42857142857142855,
+		"E_TTR": 0.5925925925925926,
+		"X_TTR": 0,
+		"lemma_RTTR": 7.274014732084384,
+		"CL_RTTR": 6.75,
+		"NL_RTTR": 4.669737852696148,
+		"NN_RTTR": 4.426352063787131,
+		"NNG_RTTR": 3.709704134011871,
+		"NNP_RTTR": 1.7320508075688774,
+		"NNB_RTTR": 1.7320508075688774,
+		"NP_RTTR": 1.1547005383792517,
+		"NR_RTTR": 1.0,
+		"VL_RTTR": 4.314554973040049,
+		"VV_RTTR": 3.6147844564602556,
+		"VA_RTTR": 1.7888543819998317,
+		"ML_RTTR": 2.2677868380553634,
+		"MM_RTTR": 0,
+		"MA_RTTR": 2.2677868380553634,
+		"MAJ_RTTR": 0,
+		"IC_RTTR": 0,
+		"FL_RTTR": 3.3197640478403483,
+		"J_RTTR": 1.9639610121239315,
+		"E_RTTR": 3.079201435678004,
+		"X_RTTR": 0,
+		"lemma_CTTR": 5.143505143507715,
+		"CL_CTTR": 4.772970773009195,
+		"NL_CTTR": 3.302003302004953,
+		"NN_CTTR": 3.12990356022295,
+		"NNG_CTTR": 2.6231569493555624,
+		"NNP_CTTR": 1.2247448713915892,
+		"NNB_CTTR": 1.2247448713915892,
+		"NP_CTTR": 0.8164965809277261,
+		"NR_CTTR": 0.7071067811865475,
+		"VL_CTTR": 3.05085107923876,
+		"VV_CTTR": 2.556038601690775,
+		"VA_CTTR": 1.2649110640673518,
+		"ML_CTTR": 1.6035674514745464,
+		"MM_CTTR": 0,
+		"MA_CTTR": 1.6035674514745464,
+		"MAJ_CTTR": 0,
+		"IC_CTTR": 0,
+		"FL_CTTR": 2.3474276701672125,
+		"J_CTTR": 1.3887301496588271,
+		"E_CTTR": 2.1773242158072694,
+		"X_CTTR": 0,
+		"lemma_MSTTR": 0.79,
+		"CL_MSTTR": 0.82,
+		"NL_MSTTR": 0.8387096774193549,
+		"NN_MSTTR": 0.8518518518518519,
+		"NNG_MSTTR": 0.8095238095238095,
+		"NNP_MSTTR": 1.0,
+		"NNB_MSTTR": 1.0,
+		"NP_MSTTR": 0.6666666666666666,
+		"NR_MSTTR": 1.0,
+		"VL_MSTTR": 0.8461538461538461,
+		"VV_MSTTR": 0.9333333333333333,
+		"VA_MSTTR": 0.8,
+		"ML_MSTTR": 0.8571428571428571,
+		"MM_MSTTR": 0,
+		"MA_MSTTR": 0.8571428571428571,
+		"MAJ_MSTTR": 0,
+		"IC_MSTTR": 0,
+		"FL_MSTTR": 0.4791666666666667,
+		"J_MSTTR": 0.42857142857142855,
+		"E_MSTTR": 0.5925925925925926,
+		"X_MSTTR": 0,
+		"lemma_MATTR": 0.7725333333333332,
+		"CL_MATTR": 0.8186666666666668,
+		"NL_MATTR": 0.8387096774193549,
+		"NN_MATTR": 0.8518518518518519,
+		"NNG_MATTR": 0.8095238095238095,
+		"NNP_MATTR": 1.0,
+		"NNB_MATTR": 1.0,
+		"NP_MATTR": 0.6666666666666666,
+		"NR_MATTR": 1.0,
+		"VL_MATTR": 0.8461538461538461,
+		"VV_MATTR": 0.9333333333333333,
+		"VA_MATTR": 0.8,
+		"ML_MATTR": 0.8571428571428571,
+		"MM_MATTR": 0,
+		"MA_MATTR": 0.8571428571428571,
+		"MAJ_MATTR": 0,
+		"IC_MATTR": 0,
+		"FL_MATTR": 0.4791666666666667,
+		"J_MATTR": 0.42857142857142855,
+		"E_MATTR": 0.5925925925925926,
+		"X_MATTR": 0,
+		"lemma_MTLD": 78.75393719395761,
+		"CL_MTLD": 114.68800000000002,
+		"NL_MTLD": 53.81600000000002,
+		"NN_MTLD": 51.03,
+		"NNG_MTLD": 25.935000000000002,
+		"NNP_MTLD": 0.0,
+		"NNB_MTLD": 0.0,
+		"NP_MTLD": 2.52,
+		"NR_MTLD": 0.0,
+		"VL_MTLD": 47.32000000000001,
+		"VV_MTLD": 63.00000000000002,
+		"VA_MTLD": 7.000000000000002,
+		"ML_MTLD": 13.719999999999997,
+		"MM_MTLD": 0.0,
+		"MA_MTLD": 13.719999999999997,
+		"MAJ_MTLD": 0.0,
+		"IC_MTLD": 0.0,
+		"FL_MTLD": 16.624912735613844,
+		"J_MTLD": 10.5,
+		"E_MTLD": 14.80120481927711,
+		"X_MTLD": 0.0,
+		"lemma_VOCDD": 79.37240649955514,
+		"CL_VOCDD": 152.6677811685638,
+		"NL_VOCDD": 0,
+		"NN_VOCDD": 0,
+		"NNG_VOCDD": 0,
+		"NNP_VOCDD": 0,
+		"NNB_VOCDD": 0,
+		"NP_VOCDD": 0,
+		"NR_VOCDD": 0,
+		"VL_VOCDD": 0,
+		"VV_VOCDD": 0,
+		"VA_VOCDD": 0,
+		"ML_VOCDD": 0,
+		"MM_VOCDD": 0,
+		"MA_VOCDD": 0,
+		"MAJ_VOCDD": 0,
+		"IC_VOCDD": 0,
+		"FL_VOCDD": 0,
+		"J_VOCDD": 0,
+		"E_VOCDD": 0,
+		"X_VOCDD": 0,
+		"lemma_HDD": 0.8219507935587921,
+		"CL_HDD": 0.8910970302099332,
+		"NL_HDD": 0.0,
+		"NN_HDD": 0.0,
+		"NNG_HDD": 0.0,
+		"NNP_HDD": 0.0,
+		"NNB_HDD": 0.0,
+		"NP_HDD": 0.0,
+		"NR_HDD": 0.0,
+		"VL_HDD": 0.0,
+		"VV_HDD": 0.0,
+		"VA_HDD": 0.0,
+		"ML_HDD": 0.0,
+		"MM_HDD": 0.0,
+		"MA_HDD": 0.0,
+		"MAJ_HDD": 0.0,
+		"IC_HDD": 0.0,
+		"FL_HDD": 0.5102629434199577,
+		"J_HDD": 0.0,
+		"E_HDD": 0.0,
+		"X_HDD": 0.0
+	},
+	"similarity": {
+		"avgSentSimilarity": 0.25293880701065063,
+		"topicConsistency": 0.507
+	},
+	"adjacency": {
+		"adjacent_sentence_overlap_all_lemmas": 71,
+		"adjacent_sentence_overlap_all_lemmas_normed": 1,
+		"binary_adjacent_sentence_overlap_all_lemmas": 1,
+		"adjacent_two_sentence_overlap_all_lemmas": 0,
+		"adjacent_two_sentence_overlap_all_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_all_lemmas": 0,
+		"adjacent_sentence_overlap_content_lemmas": 32,
+		"adjacent_sentence_overlap_content_lemmas_normed": 1,
+		"binary_adjacent_sentence_overlap_content_lemmas": 1,
+		"adjacent_two_sentence_overlap_content_lemmas": 0,
+		"adjacent_two_sentence_overlap_content_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_content_lemmas": 0,
+		"adjacent_sentence_overlap_function_lemmas": 34,
+		"adjacent_sentence_overlap_function_lemmas_normed": 1,
+		"binary_adjacent_sentence_overlap_function_lemmas": 1,
+		"adjacent_two_sentence_overlap_function_lemmas": 0,
+		"adjacent_two_sentence_overlap_function_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_function_lemmas": 0,
+		"adjacent_sentence_overlap_noun_lemmas": 14,
+		"adjacent_sentence_overlap_noun_lemmas_normed": 1,
+		"binary_adjacent_sentence_overlap_noun_lemmas": 1,
+		"adjacent_two_sentence_overlap_noun_lemmas": 0,
+		"adjacent_two_sentence_overlap_noun_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_noun_lemmas": 0,
+		"adjacent_sentence_overlap_verb_lemmas": 14,
+		"adjacent_sentence_overlap_verb_lemmas_normed": 1,
+		"binary_adjacent_sentence_overlap_verb_lemmas": 1,
+		"adjacent_two_sentence_overlap_verb_lemmas": 0,
+		"adjacent_two_sentence_overlap_verb_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_verb_lemmas": 0,
+		"adjacent_sentence_overlap_adjective_lemmas": 4,
+		"adjacent_sentence_overlap_adjective_lemmas_normed": 1,
+		"binary_adjacent_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_sentence_overlap_adverb_lemmas": 4,
+		"adjacent_sentence_overlap_adverb_lemmas_normed": 1,
+		"binary_adjacent_sentence_overlap_adverb_lemmas": 1,
+		"adjacent_two_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adverb_lemmas": 0
+	},
+	"basic_count": {
+		"para_Cnt": 1,
+		"sentence_Cnt": 2,
+		"word_Cnt": 57,
+		"morph_Cnt": 124,
+		"char_Cnt": 161,
+		"CL_Cnt": 64,
+		"NL_Cnt": 31,
+		"NN_Cnt": 27,
+		"NNG_Cnt": 21,
+		"NNP_Cnt": 3,
+		"NNB_Cnt": 3,
+		"NP_Cnt": 3,
+		"NP_People_Cnt": 2,
+		"NP_Things_Cnt": 1,
+		"NR_Cnt": 1,
+		"VL_Cnt": 26,
+		"VV_Cnt": 15,
+		"VA_Cnt": 5,
+		"VX_Cnt": 3,
+		"VCP_Cnt": 3,
+		"VCN_Cnt": 0,
+		"ML_Cnt": 7,
+		"MA_Cnt": 0,
+		"MM_Cnt": 0,
+		"FL_Cnt": 48,
+		"J_Cnt": 21,
+		"E_Cnt": 27,
+		"X_Cnt": 0,
+		"IC_Cnt": 0
+	},
+	"basic_density": {
+		"CL_Den": 0.5161290322580645,
+		"FL_Den": 0.3870967741935484,
+		"NL_Den": 0.21774193548387097,
+		"NNGL_Den": 0.1693548387096774,
+		"NNPL_Den": 0.024193548387096774,
+		"NNBL_Den": 0.024193548387096774,
+		"NPL_Den": 0.024193548387096774,
+		"NML_Den": 0.008064516129032258,
+		"VL_Den": 0.20967741935483872,
+		"VVL_Den": 0.12096774193548387,
+		"VAL_Den": 0.04032258064516129,
+		"ML_Den": 0.056451612903225805,
+		"MML_Den": 0.0,
+		"MAL_Den": 0.0,
+		"JL_Den": 0.1693548387096774,
+		"EL_Den": 0.21774193548387097,
+		"XL_Den": 0.0,
+		"ITL_Den": 0.0,
+		"NCL_Den": 0.421875,
+		"NNCL_Den": 0.328125,
+		"NNGCL_Den": 0.046875,
+		"NNBCL_Den": 0.046875,
+		"NPCL_Den": 0.046875,
+		"NMCL_Den": 0.015625,
+		"VCL_Den": 0.40625,
+		"VVCL_Den": 0.234375,
+		"VACL_Den": 0.078125,
+		"MCL_Den": 0.109375,
+		"MMCL_Den": 0.0,
+		"MACL_Den": 0.0,
+		"INCL_Den": 0.0,
+		"JFL_Den": 0.4375,
+		"EFL_Den": 0.5625,
+		"XFL_Den": 0.0
+	},
+	"basic_level": {
+		"morph_LenAvg": 1.532258064516129,
+		"morph_LenStd": 0.9108263163545508,
+		"word_LenAvg": 2.912280701754386,
+		"word_LenStd": 1.7298281199920698
+	},
+	"basic_list": {
+		"NL_Lst": [
+			[
+				0,
+				"맥락",
+				"NNG",
+				"촘촘히 깔린 맥락 덕분에 토니와 마리아가 부르는 사랑 노래 '섬웨어(Somewhere)'는 두 인물 간 사랑을 넘어 조금 더 폭넓게 읽힌다."
+			],
+			[
+				1,
+				"덕분",
+				"NNG",
+				"촘촘히 깔린 맥락 덕분에 토니와 마리아가 부르는 사랑 노래 '섬웨어(Somewhere)'는 두 인물 간 사랑을 넘어 조금 더 폭넓게 읽힌다."
+			],
+			[
+				2,
+				"토니",
+				"NNP",
+				"촘촘히 깔린 맥락 덕분에 토니와 마리아가 부르는 사랑 노래 '섬웨어(Somewhere)'는 두 인물 간 사랑을 넘어 조금 더 폭넓게 읽힌다."
+			],
+			[
+				3,
+				"마리아",
+				"NNP",
+				"촘촘히 깔린 맥락 덕분에 토니와 마리아가 부르는 사랑 노래 '섬웨어(Somewhere)'는 두 인물 간 사랑을 넘어 조금 더 폭넓게 읽힌다."
+			],
+			[
+				4,
+				"사랑",
+				"NNG",
+				"촘촘히 깔린 맥락 덕분에 토니와 마리아가 부르는 사랑 노래 '섬웨어(Somewhere)'는 두 인물 간 사랑을 넘어 조금 더 폭넓게 읽힌다."
+			],
+			[
+				5,
+				"노래",
+				"NNG",
+				"촘촘히 깔린 맥락 덕분에 토니와 마리아가 부르는 사랑 노래 '섬웨어(Somewhere)'는 두 인물 간 사랑을 넘어 조금 더 폭넓게 읽힌다."
+			],
+			[
+				6,
+				"섬웨어",
+				"NNP",
+				"촘촘히 깔린 맥락 덕분에 토니와 마리아가 부르는 사랑 노래 '섬웨어(Somewhere)'는 두 인물 간 사랑을 넘어 조금 더 폭넓게 읽힌다."
+			],
+			[
+				7,
+				"Somewhere",
+				"NNG",
+				"촘촘히 깔린 맥락 덕분에 토니와 마리아가 부르는 사랑 노래 '섬웨어(Somewhere)'는 두 인물 간 사랑을 넘어 조금 더 폭넓게 읽힌다."
+			],
+			[
+				8,
+				"인물",
+				"NNG",
+				"촘촘히 깔린 맥락 덕분에 토니와 마리아가 부르는 사랑 노래 '섬웨어(Somewhere)'는 두 인물 간 사랑을 넘어 조금 더 폭넓게 읽힌다."
+			],
+			[
+				9,
+				"사랑",
+				"NNG",
+				"촘촘히 깔린 맥락 덕분에 토니와 마리아가 부르는 사랑 노래 '섬웨어(Somewhere)'는 두 인물 간 사랑을 넘어 조금 더 폭넓게 읽힌다."
+			],
+			[
+				10,
+				"우리",
+				"NP",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				11,
+				"시간",
+				"NNG",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				12,
+				"거",
+				"NNB",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				13,
+				"우리",
+				"NP",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				14,
+				"서로",
+				"NNG",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				15,
+				"서로",
+				"NNG",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				16,
+				"수",
+				"NNB",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				17,
+				"시간",
+				"NNG",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				18,
+				"어디",
+				"NP",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				19,
+				"가사",
+				"NNG",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				20,
+				"둘",
+				"NR",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				21,
+				"사랑",
+				"NNG",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				22,
+				"축복",
+				"NNG",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				23,
+				"것",
+				"NNB",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				24,
+				"인종",
+				"NNG",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				25,
+				"차별",
+				"NNG",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				26,
+				"시",
+				"NNG",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				27,
+				"공간",
+				"NNG",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				28,
+				"미래",
+				"NNG",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				29,
+				"감독",
+				"NNG",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				30,
+				"바람",
+				"NNG",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			]
+		],
+		"NN_Lst": [
+			[
+				0,
+				"맥락",
+				"NNG",
+				"촘촘히 깔린 맥락 덕분에 토니와 마리아가 부르는 사랑 노래 '섬웨어(Somewhere)'는 두 인물 간 사랑을 넘어 조금 더 폭넓게 읽힌다."
+			],
+			[
+				1,
+				"덕분",
+				"NNG",
+				"촘촘히 깔린 맥락 덕분에 토니와 마리아가 부르는 사랑 노래 '섬웨어(Somewhere)'는 두 인물 간 사랑을 넘어 조금 더 폭넓게 읽힌다."
+			],
+			[
+				2,
+				"토니",
+				"NNP",
+				"촘촘히 깔린 맥락 덕분에 토니와 마리아가 부르는 사랑 노래 '섬웨어(Somewhere)'는 두 인물 간 사랑을 넘어 조금 더 폭넓게 읽힌다."
+			],
+			[
+				3,
+				"마리아",
+				"NNP",
+				"촘촘히 깔린 맥락 덕분에 토니와 마리아가 부르는 사랑 노래 '섬웨어(Somewhere)'는 두 인물 간 사랑을 넘어 조금 더 폭넓게 읽힌다."
+			],
+			[
+				4,
+				"사랑",
+				"NNG",
+				"촘촘히 깔린 맥락 덕분에 토니와 마리아가 부르는 사랑 노래 '섬웨어(Somewhere)'는 두 인물 간 사랑을 넘어 조금 더 폭넓게 읽힌다."
+			],
+			[
+				5,
+				"노래",
+				"NNG",
+				"촘촘히 깔린 맥락 덕분에 토니와 마리아가 부르는 사랑 노래 '섬웨어(Somewhere)'는 두 인물 간 사랑을 넘어 조금 더 폭넓게 읽힌다."
+			],
+			[
+				6,
+				"섬웨어",
+				"NNP",
+				"촘촘히 깔린 맥락 덕분에 토니와 마리아가 부르는 사랑 노래 '섬웨어(Somewhere)'는 두 인물 간 사랑을 넘어 조금 더 폭넓게 읽힌다."
+			],
+			[
+				7,
+				"Somewhere",
+				"NNG",
+				"촘촘히 깔린 맥락 덕분에 토니와 마리아가 부르는 사랑 노래 '섬웨어(Somewhere)'는 두 인물 간 사랑을 넘어 조금 더 폭넓게 읽힌다."
+			],
+			[
+				8,
+				"인물",
+				"NNG",
+				"촘촘히 깔린 맥락 덕분에 토니와 마리아가 부르는 사랑 노래 '섬웨어(Somewhere)'는 두 인물 간 사랑을 넘어 조금 더 폭넓게 읽힌다."
+			],
+			[
+				9,
+				"사랑",
+				"NNG",
+				"촘촘히 깔린 맥락 덕분에 토니와 마리아가 부르는 사랑 노래 '섬웨어(Somewhere)'는 두 인물 간 사랑을 넘어 조금 더 폭넓게 읽힌다."
+			],
+			[
+				10,
+				"시간",
+				"NNG",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				11,
+				"거",
+				"NNB",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				12,
+				"서로",
+				"NNG",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				13,
+				"서로",
+				"NNG",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				14,
+				"수",
+				"NNB",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				15,
+				"시간",
+				"NNG",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				16,
+				"가사",
+				"NNG",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				17,
+				"사랑",
+				"NNG",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				18,
+				"축복",
+				"NNG",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				19,
+				"것",
+				"NNB",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				20,
+				"인종",
+				"NNG",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				21,
+				"차별",
+				"NNG",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				22,
+				"시",
+				"NNG",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				23,
+				"공간",
+				"NNG",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				24,
+				"미래",
+				"NNG",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				25,
+				"감독",
+				"NNG",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				26,
+				"바람",
+				"NNG",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			]
+		],
+		"NNG_Lst": [
+			[
+				0,
+				"맥락",
+				"NNG",
+				"촘촘히 깔린 맥락 덕분에 토니와 마리아가 부르는 사랑 노래 '섬웨어(Somewhere)'는 두 인물 간 사랑을 넘어 조금 더 폭넓게 읽힌다."
+			],
+			[
+				1,
+				"덕분",
+				"NNG",
+				"촘촘히 깔린 맥락 덕분에 토니와 마리아가 부르는 사랑 노래 '섬웨어(Somewhere)'는 두 인물 간 사랑을 넘어 조금 더 폭넓게 읽힌다."
+			],
+			[
+				2,
+				"사랑",
+				"NNG",
+				"촘촘히 깔린 맥락 덕분에 토니와 마리아가 부르는 사랑 노래 '섬웨어(Somewhere)'는 두 인물 간 사랑을 넘어 조금 더 폭넓게 읽힌다."
+			],
+			[
+				3,
+				"노래",
+				"NNG",
+				"촘촘히 깔린 맥락 덕분에 토니와 마리아가 부르는 사랑 노래 '섬웨어(Somewhere)'는 두 인물 간 사랑을 넘어 조금 더 폭넓게 읽힌다."
+			],
+			[
+				4,
+				"Somewhere",
+				"NNG",
+				"촘촘히 깔린 맥락 덕분에 토니와 마리아가 부르는 사랑 노래 '섬웨어(Somewhere)'는 두 인물 간 사랑을 넘어 조금 더 폭넓게 읽힌다."
+			],
+			[
+				5,
+				"인물",
+				"NNG",
+				"촘촘히 깔린 맥락 덕분에 토니와 마리아가 부르는 사랑 노래 '섬웨어(Somewhere)'는 두 인물 간 사랑을 넘어 조금 더 폭넓게 읽힌다."
+			],
+			[
+				6,
+				"사랑",
+				"NNG",
+				"촘촘히 깔린 맥락 덕분에 토니와 마리아가 부르는 사랑 노래 '섬웨어(Somewhere)'는 두 인물 간 사랑을 넘어 조금 더 폭넓게 읽힌다."
+			],
+			[
+				7,
+				"시간",
+				"NNG",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				8,
+				"서로",
+				"NNG",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				9,
+				"서로",
+				"NNG",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				10,
+				"시간",
+				"NNG",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				11,
+				"가사",
+				"NNG",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				12,
+				"사랑",
+				"NNG",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				13,
+				"축복",
+				"NNG",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				14,
+				"인종",
+				"NNG",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				15,
+				"차별",
+				"NNG",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				16,
+				"시",
+				"NNG",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				17,
+				"공간",
+				"NNG",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				18,
+				"미래",
+				"NNG",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				19,
+				"감독",
+				"NNG",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				20,
+				"바람",
+				"NNG",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			]
+		],
+		"NNP_Lst": [
+			[
+				0,
+				"토니",
+				"NNP",
+				"촘촘히 깔린 맥락 덕분에 토니와 마리아가 부르는 사랑 노래 '섬웨어(Somewhere)'는 두 인물 간 사랑을 넘어 조금 더 폭넓게 읽힌다."
+			],
+			[
+				1,
+				"마리아",
+				"NNP",
+				"촘촘히 깔린 맥락 덕분에 토니와 마리아가 부르는 사랑 노래 '섬웨어(Somewhere)'는 두 인물 간 사랑을 넘어 조금 더 폭넓게 읽힌다."
+			],
+			[
+				2,
+				"섬웨어",
+				"NNP",
+				"촘촘히 깔린 맥락 덕분에 토니와 마리아가 부르는 사랑 노래 '섬웨어(Somewhere)'는 두 인물 간 사랑을 넘어 조금 더 폭넓게 읽힌다."
+			]
+		],
+		"NNB_Lst": [
+			[
+				0,
+				"거",
+				"NNB",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				1,
+				"수",
+				"NNB",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				2,
+				"것",
+				"NNB",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			]
+		],
+		"NP_Lst": [
+			[
+				0,
+				"우리",
+				"NP",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				1,
+				"우리",
+				"NP",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				2,
+				"어디",
+				"NP",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			]
+		],
+		"NP_People_Lst": [
+			[
+				0,
+				"우리",
+				"NP",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				1,
+				"우리",
+				"NP",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			]
+		],
+		"NP_Things_Lst": [
+			[
+				0,
+				"어디",
+				"NP",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			]
+		],
+		"NR_Lst": [
+			[
+				0,
+				"둘",
+				"NR",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			]
+		],
+		"VL_Lst": [
+			[
+				0,
+				"깔리",
+				"VV",
+				"촘촘히 깔린 맥락 덕분에 토니와 마리아가 부르는 사랑 노래 '섬웨어(Somewhere)'는 두 인물 간 사랑을 넘어 조금 더 폭넓게 읽힌다."
+			],
+			[
+				1,
+				"부르",
+				"VV",
+				"촘촘히 깔린 맥락 덕분에 토니와 마리아가 부르는 사랑 노래 '섬웨어(Somewhere)'는 두 인물 간 사랑을 넘어 조금 더 폭넓게 읽힌다."
+			],
+			[
+				2,
+				"가",
+				"VV",
+				"촘촘히 깔린 맥락 덕분에 토니와 마리아가 부르는 사랑 노래 '섬웨어(Somewhere)'는 두 인물 간 사랑을 넘어 조금 더 폭넓게 읽힌다."
+			],
+			[
+				3,
+				"넘",
+				"VV",
+				"촘촘히 깔린 맥락 덕분에 토니와 마리아가 부르는 사랑 노래 '섬웨어(Somewhere)'는 두 인물 간 사랑을 넘어 조금 더 폭넓게 읽힌다."
+			],
+			[
+				4,
+				"폭넓",
+				"VA",
+				"촘촘히 깔린 맥락 덕분에 토니와 마리아가 부르는 사랑 노래 '섬웨어(Somewhere)'는 두 인물 간 사랑을 넘어 조금 더 폭넓게 읽힌다."
+			],
+			[
+				5,
+				"읽히",
+				"VV",
+				"촘촘히 깔린 맥락 덕분에 토니와 마리아가 부르는 사랑 노래 '섬웨어(Somewhere)'는 두 인물 간 사랑을 넘어 조금 더 폭넓게 읽힌다."
+			],
+			[
+				6,
+				"위하",
+				"VV",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				7,
+				"있",
+				"VA",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				8,
+				"이",
+				"VCP",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				9,
+				"지내",
+				"VV",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				10,
+				"이해하",
+				"VV",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				11,
+				"아끼",
+				"VV",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				12,
+				"주",
+				"VX",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				13,
+				"있",
+				"VA",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				14,
+				"이",
+				"VCP",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				15,
+				"이",
+				"VCP",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				16,
+				"받",
+				"VV",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				17,
+				"넘",
+				"VV",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				18,
+				"종식되",
+				"VV",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				19,
+				"막연하",
+				"VA",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				20,
+				"않",
+				"VX",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				21,
+				"가깝",
+				"VA",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				22,
+				"다가오",
+				"VV",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				23,
+				"하",
+				"VV",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				24,
+				"느끼",
+				"VV",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				25,
+				"지",
+				"VX",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			]
+		],
+		"VV_Lst": [
+			[
+				0,
+				"깔리",
+				"VV",
+				"촘촘히 깔린 맥락 덕분에 토니와 마리아가 부르는 사랑 노래 '섬웨어(Somewhere)'는 두 인물 간 사랑을 넘어 조금 더 폭넓게 읽힌다."
+			],
+			[
+				1,
+				"부르",
+				"VV",
+				"촘촘히 깔린 맥락 덕분에 토니와 마리아가 부르는 사랑 노래 '섬웨어(Somewhere)'는 두 인물 간 사랑을 넘어 조금 더 폭넓게 읽힌다."
+			],
+			[
+				2,
+				"가",
+				"VV",
+				"촘촘히 깔린 맥락 덕분에 토니와 마리아가 부르는 사랑 노래 '섬웨어(Somewhere)'는 두 인물 간 사랑을 넘어 조금 더 폭넓게 읽힌다."
+			],
+			[
+				3,
+				"넘",
+				"VV",
+				"촘촘히 깔린 맥락 덕분에 토니와 마리아가 부르는 사랑 노래 '섬웨어(Somewhere)'는 두 인물 간 사랑을 넘어 조금 더 폭넓게 읽힌다."
+			],
+			[
+				4,
+				"읽히",
+				"VV",
+				"촘촘히 깔린 맥락 덕분에 토니와 마리아가 부르는 사랑 노래 '섬웨어(Somewhere)'는 두 인물 간 사랑을 넘어 조금 더 폭넓게 읽힌다."
+			],
+			[
+				5,
+				"위하",
+				"VV",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				6,
+				"지내",
+				"VV",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				7,
+				"이해하",
+				"VV",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				8,
+				"아끼",
+				"VV",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				9,
+				"받",
+				"VV",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				10,
+				"넘",
+				"VV",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				11,
+				"종식되",
+				"VV",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				12,
+				"다가오",
+				"VV",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				13,
+				"하",
+				"VV",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				14,
+				"느끼",
+				"VV",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			]
+		],
+		"VA_Lst": [
+			[
+				0,
+				"폭넓",
+				"VA",
+				"촘촘히 깔린 맥락 덕분에 토니와 마리아가 부르는 사랑 노래 '섬웨어(Somewhere)'는 두 인물 간 사랑을 넘어 조금 더 폭넓게 읽힌다."
+			],
+			[
+				1,
+				"있",
+				"VA",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				2,
+				"있",
+				"VA",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				3,
+				"막연하",
+				"VA",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				4,
+				"가깝",
+				"VA",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			]
+		],
+		"VX_Lst": [
+			[
+				0,
+				"주",
+				"VX",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				1,
+				"않",
+				"VX",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				2,
+				"지",
+				"VX",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			]
+		],
+		"VCP_Lst": [
+			[
+				0,
+				"이",
+				"VCP",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				1,
+				"이",
+				"VCP",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				2,
+				"이",
+				"VCP",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			]
+		],
+		"VCN_Lst": [],
+		"ML_Lst": [
+			[
+				0,
+				"촘촘히",
+				"MAG",
+				"촘촘히 깔린 맥락 덕분에 토니와 마리아가 부르는 사랑 노래 '섬웨어(Somewhere)'는 두 인물 간 사랑을 넘어 조금 더 폭넓게 읽힌다."
+			],
+			[
+				1,
+				"조금",
+				"MAG",
+				"촘촘히 깔린 맥락 덕분에 토니와 마리아가 부르는 사랑 노래 '섬웨어(Somewhere)'는 두 인물 간 사랑을 넘어 조금 더 폭넓게 읽힌다."
+			],
+			[
+				2,
+				"더",
+				"MAG",
+				"촘촘히 깔린 맥락 덕분에 토니와 마리아가 부르는 사랑 노래 '섬웨어(Somewhere)'는 두 인물 간 사랑을 넘어 조금 더 폭넓게 읽힌다."
+			],
+			[
+				3,
+				"함께",
+				"MAG",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				4,
+				"언젠가",
+				"MAG",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				5,
+				"좀",
+				"MAG",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				6,
+				"더",
+				"MAG",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			]
+		],
+		"MA_Lst": [],
+		"MM_Lst": [],
+		"J_Lst": [
+			[
+				0,
+				"에",
+				"JKB",
+				"촘촘히 깔린 맥락 덕분에 토니와 마리아가 부르는 사랑 노래 '섬웨어(Somewhere)'는 두 인물 간 사랑을 넘어 조금 더 폭넓게 읽힌다."
+			],
+			[
+				1,
+				"와",
+				"JC",
+				"촘촘히 깔린 맥락 덕분에 토니와 마리아가 부르는 사랑 노래 '섬웨어(Somewhere)'는 두 인물 간 사랑을 넘어 조금 더 폭넓게 읽힌다."
+			],
+			[
+				2,
+				"가",
+				"JKS",
+				"촘촘히 깔린 맥락 덕분에 토니와 마리아가 부르는 사랑 노래 '섬웨어(Somewhere)'는 두 인물 간 사랑을 넘어 조금 더 폭넓게 읽힌다."
+			],
+			[
+				3,
+				"는",
+				"JX",
+				"촘촘히 깔린 맥락 덕분에 토니와 마리아가 부르는 사랑 노래 '섬웨어(Somewhere)'는 두 인물 간 사랑을 넘어 조금 더 폭넓게 읽힌다."
+			],
+			[
+				4,
+				"을",
+				"JKO",
+				"촘촘히 깔린 맥락 덕분에 토니와 마리아가 부르는 사랑 노래 '섬웨어(Somewhere)'는 두 인물 간 사랑을 넘어 조금 더 폭넓게 읽힌다."
+			],
+			[
+				5,
+				"를",
+				"JKO",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				6,
+				"이",
+				"JKS",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				7,
+				"가",
+				"JKS",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				8,
+				"를",
+				"JKO",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				9,
+				"를",
+				"JKO",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				10,
+				"이",
+				"JKS",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				11,
+				"에서",
+				"JKB",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				12,
+				"에서",
+				"JKB",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				13,
+				"의",
+				"JKG",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				14,
+				"이",
+				"JKS",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				15,
+				"을",
+				"JKO",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				16,
+				"이",
+				"JKS",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				17,
+				"이",
+				"JKS",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				18,
+				"에",
+				"JKB",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				19,
+				"의",
+				"JKG",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				20,
+				"이",
+				"JKS",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			]
+		],
+		"E_Lst": [
+			[
+				0,
+				"ㄴ",
+				"ETM",
+				"촘촘히 깔린 맥락 덕분에 토니와 마리아가 부르는 사랑 노래 '섬웨어(Somewhere)'는 두 인물 간 사랑을 넘어 조금 더 폭넓게 읽힌다."
+			],
+			[
+				1,
+				"는",
+				"ETM",
+				"촘촘히 깔린 맥락 덕분에 토니와 마리아가 부르는 사랑 노래 '섬웨어(Somewhere)'는 두 인물 간 사랑을 넘어 조금 더 폭넓게 읽힌다."
+			],
+			[
+				2,
+				"ㄴ",
+				"ETM",
+				"촘촘히 깔린 맥락 덕분에 토니와 마리아가 부르는 사랑 노래 '섬웨어(Somewhere)'는 두 인물 간 사랑을 넘어 조금 더 폭넓게 읽힌다."
+			],
+			[
+				3,
+				"어",
+				"EC",
+				"촘촘히 깔린 맥락 덕분에 토니와 마리아가 부르는 사랑 노래 '섬웨어(Somewhere)'는 두 인물 간 사랑을 넘어 조금 더 폭넓게 읽힌다."
+			],
+			[
+				4,
+				"게",
+				"EC",
+				"촘촘히 깔린 맥락 덕분에 토니와 마리아가 부르는 사랑 노래 '섬웨어(Somewhere)'는 두 인물 간 사랑을 넘어 조금 더 폭넓게 읽힌다."
+			],
+			[
+				5,
+				"ㄴ다",
+				"EF",
+				"촘촘히 깔린 맥락 덕분에 토니와 마리아가 부르는 사랑 노래 '섬웨어(Somewhere)'는 두 인물 간 사랑을 넘어 조금 더 폭넓게 읽힌다."
+			],
+			[
+				6,
+				"ㄴ",
+				"ETM",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				7,
+				"을",
+				"ETM",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				8,
+				"야",
+				"EF",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				9,
+				"면서",
+				"EC",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				10,
+				"고",
+				"EC",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				11,
+				"어",
+				"EC",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				12,
+				"ㄹ",
+				"ETM",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				13,
+				"는",
+				"ETM",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				14,
+				"ㄴ가",
+				"EF",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				15,
+				"라는",
+				"ETM",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				16,
+				"는",
+				"ETM",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				17,
+				"어",
+				"EC",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				18,
+				"는",
+				"ETM",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				19,
+				"지",
+				"EC",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				20,
+				"은",
+				"ETM",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				21,
+				"ㄴ",
+				"ETM",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				22,
+				"았",
+				"EP",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				23,
+				"으면",
+				"EC",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				24,
+				"는",
+				"ETM",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				25,
+				"어",
+				"EC",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			],
+			[
+				26,
+				"ㄴ다",
+				"EF",
+				"\"우리를 위한 시간이 있을 거야. 우리가 함께 지내면서 서로를 이해하고 서로를 아껴줄 수 있는 시간이. 언젠가, 어딘가에서\"라는 가사에서 둘의 사랑이 축복받는 것을 넘어 인종 차별이 종식되는 시공간이 막연하지 않은 좀 더 가까운 미래에 다가왔으면 하는 감독의 바람이 느껴진다."
+			]
+		],
+		"X_Lst": [],
+		"IC_Lst": []
+	},
+	"NDW": {
+		"morph_NDW": 86,
+		"NL_NDW": 31,
+		"NNG_NDW": 21,
+		"NNP_NDW": 3,
+		"NNB_NDW": 3,
+		"NP_NDW": 3,
+		"NR_NDW": 1,
+		"VL_NDW": 26,
+		"VV_NDW": 15,
+		"VA_NDW": 5,
+		"ML_NDW": 7,
+		"MM_NDW": 0,
+		"IC_NDW": 0,
+		"J_NDW": 21,
+		"E_NDW": 27,
+		"X_NDW": 0,
+		"CL_NDW": 64,
+		"FL_NDW": 48
+	}
+}

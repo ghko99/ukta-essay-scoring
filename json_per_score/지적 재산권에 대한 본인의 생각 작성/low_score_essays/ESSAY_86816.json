@@ -1,0 +1,3099 @@
+﻿{
+	"morpheme": {
+		"sentences": [
+			{
+				"text": {
+					"content": "또 웹툰·웹소설 분야의 2차 저작권 양도 요구, 음악저작권 분야의 경쟁사업자 진입차단 등 지식재산권 관련 불공정거래 감시를 강화한다.",
+					"length": 74,
+					"beginOffset": 0
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "또",
+							"length": 1,
+							"beginOffset": 0
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "또",
+									"length": 1,
+									"beginOffset": 0
+								},
+								"tag": "MAG",
+								"probability": 0.97739613,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "또",
+						"tagged": "또/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "웹툰·웹소설",
+							"beginOffset": 2,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "웹툰",
+									"beginOffset": 2,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.96068203,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "·",
+									"beginOffset": 4,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.99780947,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "웹",
+									"beginOffset": 5,
+									"length": 1
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "소설",
+									"beginOffset": 6,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							}
+						],
+						"lemma": "웹툰",
+						"tagged": "웹툰/NNG+·/SP+웹/NNG+소설/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "분야의",
+							"beginOffset": 9,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "분야",
+									"beginOffset": 9,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97648966,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 11,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99910045,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "분야",
+						"tagged": "분야/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "2차",
+							"beginOffset": 13,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "2",
+									"beginOffset": 13,
+									"length": 1
+								},
+								"tag": "SN",
+								"probability": 0.9980953,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "차",
+									"beginOffset": 14,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9759044,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "2",
+						"tagged": "2/SN+차/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "저작권",
+							"beginOffset": 16,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "저작",
+									"beginOffset": 16,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9813805,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "권",
+									"beginOffset": 18,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.9909305,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "저작",
+						"tagged": "저작/NNG+권/XSN",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "양도",
+							"beginOffset": 20,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "양도",
+									"beginOffset": 20,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9639115,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "양도",
+						"tagged": "양도/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "요구,",
+							"beginOffset": 23,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "요구",
+									"beginOffset": 23,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98448956,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 25,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.9989997,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "요구",
+						"tagged": "요구/NNG+,/SP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "음악저작권",
+							"beginOffset": 27,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "음악",
+									"beginOffset": 27,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "저작권",
+									"beginOffset": 29,
+									"length": 3
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							}
+						],
+						"lemma": "음악",
+						"tagged": "음악/NNG+저작권/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "분야의",
+							"beginOffset": 33,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "분야",
+									"beginOffset": 33,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98620725,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 35,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99939585,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "분야",
+						"tagged": "분야/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "경쟁사업자",
+							"beginOffset": 37,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "경쟁",
+									"beginOffset": 37,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9842377,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "사업자",
+									"beginOffset": 39,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.984921,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "경쟁",
+						"tagged": "경쟁/NNG+사업자/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "진입차단",
+							"beginOffset": 43,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "진입",
+									"beginOffset": 43,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9838169,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "차단",
+									"beginOffset": 45,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98454773,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "진입",
+						"tagged": "진입/NNG+차단/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "등",
+							"beginOffset": 48,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "등",
+									"beginOffset": 48,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9781189,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "등",
+						"tagged": "등/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "지식재산권",
+							"beginOffset": 50,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "지식",
+									"beginOffset": 50,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "재산권",
+									"beginOffset": 52,
+									"length": 3
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							}
+						],
+						"lemma": "지식",
+						"tagged": "지식/NNG+재산권/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "관련",
+							"beginOffset": 56,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "관련",
+									"beginOffset": 56,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98555404,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "관련",
+						"tagged": "관련/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "불공정거래",
+							"beginOffset": 59,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "불공정",
+									"beginOffset": 59,
+									"length": 3
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "거래",
+									"beginOffset": 62,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							}
+						],
+						"lemma": "불공정",
+						"tagged": "불공정/NNG+거래/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "감시를",
+							"beginOffset": 65,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "감시",
+									"beginOffset": 65,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9863698,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 67,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.999986,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "감시",
+						"tagged": "감시/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "강화한다.",
+							"beginOffset": 69,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "강화하",
+									"beginOffset": 69,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ다",
+									"beginOffset": 71,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.9888236,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 73,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.999797,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "강화하",
+						"tagged": "강화하/VV+ㄴ다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "또 웹툰·웹소설 분야의 2차 저작권 양도 요구, 음악저작권 분야의 경쟁사업자 진입차단 등 지식재산권 관련 불공정거래 감시를 강화한다."
+			},
+			{
+				"text": {
+					"content": "메타버스, NFT 등을 활용한 신유형 디지털콘텐츠 거래에서의 소비자정보제공·청약철회제도 등 소비자보호장치 작동여부를 점검한다.",
+					"beginOffset": 75,
+					"length": 70
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "메타버스,",
+							"beginOffset": 75,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "메타버스",
+									"beginOffset": 75,
+									"length": 4
+								},
+								"tag": "NNP",
+								"probability": 0.75453395,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 79,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.9971236,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "메타버스",
+						"tagged": "메타버스/NNP+,/SP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "NFT",
+							"beginOffset": 81,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "NFT",
+									"beginOffset": 81,
+									"length": 3
+								},
+								"tag": "NNP",
+								"probability": 0.5071539,
+								"outOfVocab": "OUT_OF_VOCAB"
+							}
+						],
+						"lemma": "NFT",
+						"tagged": "NFT/NNP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "등을",
+							"beginOffset": 85,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "등",
+									"beginOffset": 85,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9730895,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 86,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999529,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "등",
+						"tagged": "등/NNB+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "활용한",
+							"beginOffset": 88,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "활용하",
+									"beginOffset": 88,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 90,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999269,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "활용하",
+						"tagged": "활용하/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "신유형",
+							"beginOffset": 92,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "신",
+									"beginOffset": 92,
+									"length": 1
+								},
+								"tag": "XPN",
+								"probability": 0.99334764,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "유형",
+									"beginOffset": 93,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.981278,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "신",
+						"tagged": "신/XPN+유형/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "디지털콘텐츠",
+							"beginOffset": 96,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "디지털",
+									"beginOffset": 96,
+									"length": 3
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "콘텐츠",
+									"beginOffset": 99,
+									"length": 3
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							}
+						],
+						"lemma": "디지털",
+						"tagged": "디지털/NNG+콘텐츠/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "거래에서의",
+							"beginOffset": 103,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "거래",
+									"beginOffset": 103,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9845654,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에서",
+									"beginOffset": 105,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9931501,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 107,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99943036,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "거래",
+						"tagged": "거래/NNG+에서/JKB+의/JKG",
+						"modified": "거래에서의"
+					},
+					{
+						"text": {
+							"content": "소비자정보제공·청약철회제도",
+							"beginOffset": 109,
+							"length": 14
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "소비자",
+									"beginOffset": 109,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.98094326,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "정보",
+									"beginOffset": 112,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98472166,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "제공",
+									"beginOffset": 114,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9846481,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "·",
+									"beginOffset": 116,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.9947571,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "청약",
+									"beginOffset": 117,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "철회",
+									"beginOffset": 119,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "제도",
+									"beginOffset": 121,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							}
+						],
+						"lemma": "소비자",
+						"tagged": "소비자/NNG+정보/NNG+제공/NNG+·/SP+청약/NNG+철회/NNG+제도/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "등",
+							"beginOffset": 124,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "등",
+									"beginOffset": 124,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.97724265,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "등",
+						"tagged": "등/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "소비자보호장치",
+							"beginOffset": 126,
+							"length": 7
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "소비자",
+									"beginOffset": 126,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9810909,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "보호",
+									"beginOffset": 129,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9796305,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "장치",
+									"beginOffset": 131,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98468465,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "소비자",
+						"tagged": "소비자/NNG+보호/NNG+장치/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "작동여부를",
+							"beginOffset": 134,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "작동",
+									"beginOffset": 134,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98363316,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "여부",
+									"beginOffset": 136,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9820934,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 138,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99999106,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "작동",
+						"tagged": "작동/NNG+여부/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "점검한다.",
+							"beginOffset": 140,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "점검하",
+									"beginOffset": 140,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ다",
+									"beginOffset": 142,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.99191374,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 144,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.999879,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "점검하",
+						"tagged": "점검하/VV+ㄴ다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "메타버스, NFT 등을 활용한 신유형 디지털콘텐츠 거래에서의 소비자정보제공·청약철회제도 등 소비자보호장치 작동여부를 점검한다."
+			},
+			{
+				"text": {
+					"content": "OTT·음원서비스 등 디지털 구독서비스의 까다로운 이용해지 절차, 과도한 취소 수수료 등의 실태를 파악해 개선방안을 마련한다.",
+					"beginOffset": 146,
+					"length": 70
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "OTT·음원서비스",
+							"beginOffset": 146,
+							"length": 9
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "OTT",
+									"beginOffset": 146,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9089099,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "·",
+									"beginOffset": 149,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.9973903,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "음원",
+									"beginOffset": 150,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98150814,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "서비스",
+									"beginOffset": 152,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.98446995,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "OTT",
+						"tagged": "OTT/NNG+·/SP+음원/NNG+서비스/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "등",
+							"beginOffset": 156,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "등",
+									"beginOffset": 156,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9758505,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "등",
+						"tagged": "등/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "디지털",
+							"beginOffset": 158,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "디지털",
+									"beginOffset": 158,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.98167276,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "디지털",
+						"tagged": "디지털/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "구독서비스의",
+							"beginOffset": 162,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "구독",
+									"beginOffset": 162,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9850814,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "서비스",
+									"beginOffset": 164,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9838698,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 167,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99975336,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "구독",
+						"tagged": "구독/NNG+서비스/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "까다로운",
+							"beginOffset": 169,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "까다롭",
+									"beginOffset": 169,
+									"length": 3
+								},
+								"tag": "VA",
+								"probability": 0.986289,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 172,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99998933,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "까다롭",
+						"tagged": "까다롭/VA+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이용해지",
+							"beginOffset": 174,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이용",
+									"beginOffset": 174,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98177135,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "해지",
+									"beginOffset": 176,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98221755,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이용",
+						"tagged": "이용/NNG+해지/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "절차,",
+							"beginOffset": 179,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "절차",
+									"beginOffset": 179,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9848112,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 181,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.9991128,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "절차",
+						"tagged": "절차/NNG+,/SP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "과도한",
+							"beginOffset": 183,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "과도하",
+									"beginOffset": 183,
+									"length": 3
+								},
+								"tag": "VA",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 185,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999791,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "과도하",
+						"tagged": "과도하/VA+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "취소",
+							"beginOffset": 187,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "취소",
+									"beginOffset": 187,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9770304,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "취소",
+						"tagged": "취소/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "수수료",
+							"beginOffset": 190,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "수수료",
+									"beginOffset": 190,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9827378,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "수수료",
+						"tagged": "수수료/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "등의",
+							"beginOffset": 194,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "등",
+									"beginOffset": 194,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9675038,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 195,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99980885,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "등",
+						"tagged": "등/NNB+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "실태를",
+							"beginOffset": 197,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "실태",
+									"beginOffset": 197,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98462164,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 199,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9998022,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "실태",
+						"tagged": "실태/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "파악해",
+							"beginOffset": 201,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "파악하",
+									"beginOffset": 201,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 203,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9953168,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "파악하",
+						"tagged": "파악하/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "개선방안을",
+							"beginOffset": 205,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "개선",
+									"beginOffset": 205,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.979028,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "방안",
+									"beginOffset": 207,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98618567,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 209,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999888,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "개선",
+						"tagged": "개선/NNG+방안/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "마련한다.",
+							"beginOffset": 211,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "마련하",
+									"beginOffset": 211,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ다",
+									"beginOffset": 213,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.9917134,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 215,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9998653,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "마련하",
+						"tagged": "마련하/VV+ㄴ다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "OTT·음원서비스 등 디지털 구독서비스의 까다로운 이용해지 절차, 과도한 취소 수수료 등의 실태를 파악해 개선방안을 마련한다."
+			}
+		],
+		"language": "ko_KR"
+	},
+	"ttr": {
+		"lemma_Cnt": 85,
+		"lemma_TTR": 0.7263157894736842,
+		"CL_TTR": 0.8615384615384616,
+		"NL_TTR": 0.8421052631578947,
+		"NN_TTR": 0.8421052631578947,
+		"NNG_TTR": 0.8979591836734694,
+		"NNP_TTR": 1.0,
+		"NNB_TTR": 0.3333333333333333,
+		"NP_TTR": 0,
+		"NR_TTR": 0,
+		"VL_TTR": 1.0,
+		"VV_TTR": 1.0,
+		"VA_TTR": 1.0,
+		"ML_TTR": 1.0,
+		"MM_TTR": 0,
+		"MA_TTR": 1.0,
+		"MAJ_TTR": 0,
+		"IC_TTR": 0,
+		"FL_TTR": 0.45,
+		"J_TTR": 0.36363636363636365,
+		"E_TTR": 0.42857142857142855,
+		"X_TTR": 1.0,
+		"lemma_RTTR": 7.079250629387563,
+		"CL_RTTR": 6.945945136995674,
+		"NL_RTTR": 6.35775531391221,
+		"NN_RTTR": 6.35775531391221,
+		"NNG_RTTR": 6.285714285714286,
+		"NNP_RTTR": 1.414213562373095,
+		"NNB_RTTR": 0.8164965809277261,
+		"NP_RTTR": 0,
+		"NR_RTTR": 0,
+		"VL_RTTR": 2.6457513110645903,
+		"VV_RTTR": 2.23606797749979,
+		"VA_RTTR": 1.414213562373095,
+		"ML_RTTR": 1.0,
+		"MM_RTTR": 0,
+		"MA_RTTR": 1.0,
+		"MAJ_RTTR": 0,
+		"IC_RTTR": 0,
+		"FL_RTTR": 2.0124611797498106,
+		"J_RTTR": 1.2060453783110545,
+		"E_RTTR": 1.1338934190276817,
+		"X_RTTR": 1.414213562373095,
+		"lemma_CTTR": 5.005786125759081,
+		"CL_CTTR": 4.911524908119364,
+		"NL_CTTR": 4.495611895592131,
+		"NN_CTTR": 4.495611895592131,
+		"NNG_CTTR": 4.444671196029727,
+		"NNP_CTTR": 1.0,
+		"NNB_CTTR": 0.5773502691896258,
+		"NP_CTTR": 0,
+		"NR_CTTR": 0,
+		"VL_CTTR": 1.8708286933869707,
+		"VV_CTTR": 1.5811388300841895,
+		"VA_CTTR": 1.0,
+		"ML_CTTR": 0.7071067811865475,
+		"MM_CTTR": 0,
+		"MA_CTTR": 0.7071067811865475,
+		"MAJ_CTTR": 0,
+		"IC_CTTR": 0,
+		"FL_CTTR": 1.4230249470757705,
+		"J_CTTR": 0.8528028654224417,
+		"E_CTTR": 0.8017837257372732,
+		"X_CTTR": 1.0,
+		"lemma_MSTTR": 0.88,
+		"CL_MSTTR": 0.86,
+		"NL_MSTTR": 0.84,
+		"NN_MSTTR": 0.84,
+		"NNG_MSTTR": 0.8979591836734694,
+		"NNP_MSTTR": 1.0,
+		"NNB_MSTTR": 0.3333333333333333,
+		"NP_MSTTR": 0,
+		"NR_MSTTR": 0,
+		"VL_MSTTR": 1.0,
+		"VV_MSTTR": 1.0,
+		"VA_MSTTR": 1.0,
+		"ML_MSTTR": 1.0,
+		"MM_MSTTR": 0,
+		"MA_MSTTR": 1.0,
+		"MAJ_MSTTR": 0,
+		"IC_MSTTR": 0,
+		"FL_MSTTR": 0.45,
+		"J_MSTTR": 0.36363636363636365,
+		"E_MSTTR": 0.42857142857142855,
+		"X_MSTTR": 1.0,
+		"lemma_MATTR": 0.8152173913043481,
+		"CL_MATTR": 0.84875,
+		"NL_MATTR": 0.84,
+		"NN_MATTR": 0.84,
+		"NNG_MATTR": 0.8979591836734694,
+		"NNP_MATTR": 1.0,
+		"NNB_MATTR": 0.3333333333333333,
+		"NP_MATTR": 0,
+		"NR_MATTR": 0,
+		"VL_MATTR": 1.0,
+		"VV_MATTR": 1.0,
+		"VA_MATTR": 1.0,
+		"ML_MATTR": 1.0,
+		"MM_MATTR": 0,
+		"MA_MATTR": 1.0,
+		"MAJ_MATTR": 0,
+		"IC_MATTR": 0,
+		"FL_MATTR": 0.45,
+		"J_MATTR": 0.36363636363636365,
+		"E_MATTR": 0.42857142857142855,
+		"X_MATTR": 1.0,
+		"lemma_MTLD": 87.20102276001154,
+		"CL_MTLD": 131.44444444444449,
+		"NL_MTLD": 101.07999999999997,
+		"NN_MTLD": 101.07999999999997,
+		"NNG_MTLD": 134.45600000000002,
+		"NNP_MTLD": 0.0,
+		"NNB_MTLD": 2.52,
+		"NP_MTLD": 0.0,
+		"NR_MTLD": 0.0,
+		"VL_MTLD": 0.0,
+		"VV_MTLD": 0.0,
+		"VA_MTLD": 0.0,
+		"ML_MTLD": 0.0,
+		"MM_MTLD": 0.0,
+		"MA_MTLD": 0.0,
+		"MAJ_MTLD": 0.0,
+		"IC_MTLD": 0.0,
+		"FL_MTLD": 11.116352201257865,
+		"J_MTLD": 11.0,
+		"E_MTLD": 3.4300000000000006,
+		"X_MTLD": 0.0,
+		"lemma_VOCDD": 93.42477868400522,
+		"CL_VOCDD": 166.56380902612986,
+		"NL_VOCDD": 125.22497665626749,
+		"NN_VOCDD": 125.22497665626749,
+		"NNG_VOCDD": 0,
+		"NNP_VOCDD": 0,
+		"NNB_VOCDD": 0,
+		"NP_VOCDD": 0,
+		"NR_VOCDD": 0,
+		"VL_VOCDD": 0,
+		"VV_VOCDD": 0,
+		"VA_VOCDD": 0,
+		"ML_VOCDD": 0,
+		"MM_VOCDD": 0,
+		"MA_VOCDD": 0,
+		"MAJ_VOCDD": 0,
+		"IC_VOCDD": 0,
+		"FL_VOCDD": 0,
+		"J_VOCDD": 0,
+		"E_VOCDD": 0,
+		"X_VOCDD": 0,
+		"lemma_HDD": 0.8416554650928599,
+		"CL_HDD": 0.897510605874235,
+		"NL_HDD": 0.8718500916862395,
+		"NN_HDD": 0.8718500916862395,
+		"NNG_HDD": 0.9128401360544225,
+		"NNP_HDD": 0.0,
+		"NNB_HDD": 0.0,
+		"NP_HDD": 0.0,
+		"NR_HDD": 0.0,
+		"VL_HDD": 0.0,
+		"VV_HDD": 0.0,
+		"VA_HDD": 0.0,
+		"ML_HDD": 0.0,
+		"MM_HDD": 0.0,
+		"MA_HDD": 0.0,
+		"MAJ_HDD": 0.0,
+		"IC_HDD": 0.0,
+		"FL_HDD": 0.0,
+		"J_HDD": 0.0,
+		"E_HDD": 0.0,
+		"X_HDD": 0.0
+	},
+	"similarity": {
+		"avgSentSimilarity": 0.2999962270259857,
+		"topicConsistency": 0.5299
+	},
+	"adjacency": {
+		"adjacent_sentence_overlap_all_lemmas": 54,
+		"adjacent_sentence_overlap_all_lemmas_normed": 2,
+		"binary_adjacent_sentence_overlap_all_lemmas": 2,
+		"adjacent_two_sentence_overlap_all_lemmas": 26,
+		"adjacent_two_sentence_overlap_all_lemmas_normed": 1,
+		"binary_adjacent_two_sentence_overlap_all_lemmas": 1,
+		"adjacent_sentence_overlap_content_lemmas": 37,
+		"adjacent_sentence_overlap_content_lemmas_normed": 2,
+		"binary_adjacent_sentence_overlap_content_lemmas": 2,
+		"adjacent_two_sentence_overlap_content_lemmas": 18,
+		"adjacent_two_sentence_overlap_content_lemmas_normed": 1,
+		"binary_adjacent_two_sentence_overlap_content_lemmas": 1,
+		"adjacent_sentence_overlap_function_lemmas": 11,
+		"adjacent_sentence_overlap_function_lemmas_normed": 2,
+		"binary_adjacent_sentence_overlap_function_lemmas": 2,
+		"adjacent_two_sentence_overlap_function_lemmas": 5,
+		"adjacent_two_sentence_overlap_function_lemmas_normed": 1,
+		"binary_adjacent_two_sentence_overlap_function_lemmas": 1,
+		"adjacent_sentence_overlap_noun_lemmas": 33,
+		"adjacent_sentence_overlap_noun_lemmas_normed": 2,
+		"binary_adjacent_sentence_overlap_noun_lemmas": 2,
+		"adjacent_two_sentence_overlap_noun_lemmas": 16,
+		"adjacent_two_sentence_overlap_noun_lemmas_normed": 1,
+		"binary_adjacent_two_sentence_overlap_noun_lemmas": 1,
+		"adjacent_sentence_overlap_verb_lemmas": 4,
+		"adjacent_sentence_overlap_verb_lemmas_normed": 2,
+		"binary_adjacent_sentence_overlap_verb_lemmas": 0,
+		"adjacent_two_sentence_overlap_verb_lemmas": 2,
+		"adjacent_two_sentence_overlap_verb_lemmas_normed": 1,
+		"binary_adjacent_two_sentence_overlap_verb_lemmas": 0,
+		"adjacent_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_sentence_overlap_adjective_lemmas_normed": 0,
+		"binary_adjacent_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_sentence_overlap_adverb_lemmas_normed": 0,
+		"binary_adjacent_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adverb_lemmas": 0
+	},
+	"basic_count": {
+		"para_Cnt": 1,
+		"sentence_Cnt": 3,
+		"word_Cnt": 44,
+		"morph_Cnt": 95,
+		"char_Cnt": 165,
+		"CL_Cnt": 65,
+		"NL_Cnt": 57,
+		"NN_Cnt": 57,
+		"NNG_Cnt": 49,
+		"NNP_Cnt": 2,
+		"NNB_Cnt": 6,
+		"NP_Cnt": 0,
+		"NP_People_Cnt": 0,
+		"NP_Things_Cnt": 0,
+		"NR_Cnt": 0,
+		"VL_Cnt": 7,
+		"VV_Cnt": 5,
+		"VA_Cnt": 2,
+		"VX_Cnt": 0,
+		"VCP_Cnt": 0,
+		"VCN_Cnt": 0,
+		"ML_Cnt": 1,
+		"MA_Cnt": 0,
+		"MM_Cnt": 0,
+		"FL_Cnt": 20,
+		"J_Cnt": 11,
+		"E_Cnt": 7,
+		"X_Cnt": 2,
+		"IC_Cnt": 0
+	},
+	"basic_density": {
+		"CL_Den": 0.6842105263157895,
+		"FL_Den": 0.21052631578947367,
+		"NL_Den": 0.6,
+		"NNGL_Den": 0.5157894736842106,
+		"NNPL_Den": 0.021052631578947368,
+		"NNBL_Den": 0.06315789473684211,
+		"NPL_Den": 0.0,
+		"NML_Den": 0.0,
+		"VL_Den": 0.07368421052631578,
+		"VVL_Den": 0.05263157894736842,
+		"VAL_Den": 0.021052631578947368,
+		"ML_Den": 0.010526315789473684,
+		"MML_Den": 0.0,
+		"MAL_Den": 0.0,
+		"JL_Den": 0.11578947368421053,
+		"EL_Den": 0.07368421052631578,
+		"XL_Den": 0.021052631578947368,
+		"ITL_Den": 0.0,
+		"NCL_Den": 0.8769230769230769,
+		"NNCL_Den": 0.7538461538461538,
+		"NNGCL_Den": 0.03076923076923077,
+		"NNBCL_Den": 0.09230769230769231,
+		"NPCL_Den": 0.0,
+		"NMCL_Den": 0.0,
+		"VCL_Den": 0.1076923076923077,
+		"VVCL_Den": 0.07692307692307693,
+		"VACL_Den": 0.03076923076923077,
+		"MCL_Den": 0.015384615384615385,
+		"MMCL_Den": 0.0,
+		"MACL_Den": 0.0,
+		"INCL_Den": 0.0,
+		"JFL_Den": 0.55,
+		"EFL_Den": 0.35,
+		"XFL_Den": 0.1
+	},
+	"basic_level": {
+		"morph_LenAvg": 1.8842105263157896,
+		"morph_LenStd": 0.7795161508030993,
+		"word_LenAvg": 3.7954545454545454,
+		"word_LenStd": 2.292076722642447
+	},
+	"basic_list": {
+		"NL_Lst": [
+			[
+				0,
+				"웹툰",
+				"NNG",
+				"또 웹툰·웹소설 분야의 2차 저작권 양도 요구, 음악저작권 분야의 경쟁사업자 진입차단 등 지식재산권 관련 불공정거래 감시를 강화한다."
+			],
+			[
+				1,
+				"웹",
+				"NNG",
+				"또 웹툰·웹소설 분야의 2차 저작권 양도 요구, 음악저작권 분야의 경쟁사업자 진입차단 등 지식재산권 관련 불공정거래 감시를 강화한다."
+			],
+			[
+				2,
+				"소설",
+				"NNG",
+				"또 웹툰·웹소설 분야의 2차 저작권 양도 요구, 음악저작권 분야의 경쟁사업자 진입차단 등 지식재산권 관련 불공정거래 감시를 강화한다."
+			],
+			[
+				3,
+				"분야",
+				"NNG",
+				"또 웹툰·웹소설 분야의 2차 저작권 양도 요구, 음악저작권 분야의 경쟁사업자 진입차단 등 지식재산권 관련 불공정거래 감시를 강화한다."
+			],
+			[
+				4,
+				"차",
+				"NNB",
+				"또 웹툰·웹소설 분야의 2차 저작권 양도 요구, 음악저작권 분야의 경쟁사업자 진입차단 등 지식재산권 관련 불공정거래 감시를 강화한다."
+			],
+			[
+				5,
+				"저작",
+				"NNG",
+				"또 웹툰·웹소설 분야의 2차 저작권 양도 요구, 음악저작권 분야의 경쟁사업자 진입차단 등 지식재산권 관련 불공정거래 감시를 강화한다."
+			],
+			[
+				6,
+				"양도",
+				"NNG",
+				"또 웹툰·웹소설 분야의 2차 저작권 양도 요구, 음악저작권 분야의 경쟁사업자 진입차단 등 지식재산권 관련 불공정거래 감시를 강화한다."
+			],
+			[
+				7,
+				"요구",
+				"NNG",
+				"또 웹툰·웹소설 분야의 2차 저작권 양도 요구, 음악저작권 분야의 경쟁사업자 진입차단 등 지식재산권 관련 불공정거래 감시를 강화한다."
+			],
+			[
+				8,
+				"음악",
+				"NNG",
+				"또 웹툰·웹소설 분야의 2차 저작권 양도 요구, 음악저작권 분야의 경쟁사업자 진입차단 등 지식재산권 관련 불공정거래 감시를 강화한다."
+			],
+			[
+				9,
+				"저작권",
+				"NNG",
+				"또 웹툰·웹소설 분야의 2차 저작권 양도 요구, 음악저작권 분야의 경쟁사업자 진입차단 등 지식재산권 관련 불공정거래 감시를 강화한다."
+			],
+			[
+				10,
+				"분야",
+				"NNG",
+				"또 웹툰·웹소설 분야의 2차 저작권 양도 요구, 음악저작권 분야의 경쟁사업자 진입차단 등 지식재산권 관련 불공정거래 감시를 강화한다."
+			],
+			[
+				11,
+				"경쟁",
+				"NNG",
+				"또 웹툰·웹소설 분야의 2차 저작권 양도 요구, 음악저작권 분야의 경쟁사업자 진입차단 등 지식재산권 관련 불공정거래 감시를 강화한다."
+			],
+			[
+				12,
+				"사업자",
+				"NNG",
+				"또 웹툰·웹소설 분야의 2차 저작권 양도 요구, 음악저작권 분야의 경쟁사업자 진입차단 등 지식재산권 관련 불공정거래 감시를 강화한다."
+			],
+			[
+				13,
+				"진입",
+				"NNG",
+				"또 웹툰·웹소설 분야의 2차 저작권 양도 요구, 음악저작권 분야의 경쟁사업자 진입차단 등 지식재산권 관련 불공정거래 감시를 강화한다."
+			],
+			[
+				14,
+				"차단",
+				"NNG",
+				"또 웹툰·웹소설 분야의 2차 저작권 양도 요구, 음악저작권 분야의 경쟁사업자 진입차단 등 지식재산권 관련 불공정거래 감시를 강화한다."
+			],
+			[
+				15,
+				"등",
+				"NNB",
+				"또 웹툰·웹소설 분야의 2차 저작권 양도 요구, 음악저작권 분야의 경쟁사업자 진입차단 등 지식재산권 관련 불공정거래 감시를 강화한다."
+			],
+			[
+				16,
+				"지식",
+				"NNG",
+				"또 웹툰·웹소설 분야의 2차 저작권 양도 요구, 음악저작권 분야의 경쟁사업자 진입차단 등 지식재산권 관련 불공정거래 감시를 강화한다."
+			],
+			[
+				17,
+				"재산권",
+				"NNG",
+				"또 웹툰·웹소설 분야의 2차 저작권 양도 요구, 음악저작권 분야의 경쟁사업자 진입차단 등 지식재산권 관련 불공정거래 감시를 강화한다."
+			],
+			[
+				18,
+				"관련",
+				"NNG",
+				"또 웹툰·웹소설 분야의 2차 저작권 양도 요구, 음악저작권 분야의 경쟁사업자 진입차단 등 지식재산권 관련 불공정거래 감시를 강화한다."
+			],
+			[
+				19,
+				"불공정",
+				"NNG",
+				"또 웹툰·웹소설 분야의 2차 저작권 양도 요구, 음악저작권 분야의 경쟁사업자 진입차단 등 지식재산권 관련 불공정거래 감시를 강화한다."
+			],
+			[
+				20,
+				"거래",
+				"NNG",
+				"또 웹툰·웹소설 분야의 2차 저작권 양도 요구, 음악저작권 분야의 경쟁사업자 진입차단 등 지식재산권 관련 불공정거래 감시를 강화한다."
+			],
+			[
+				21,
+				"감시",
+				"NNG",
+				"또 웹툰·웹소설 분야의 2차 저작권 양도 요구, 음악저작권 분야의 경쟁사업자 진입차단 등 지식재산권 관련 불공정거래 감시를 강화한다."
+			],
+			[
+				22,
+				"메타버스",
+				"NNP",
+				"메타버스, NFT 등을 활용한 신유형 디지털콘텐츠 거래에서의 소비자정보제공·청약철회제도 등 소비자보호장치 작동여부를 점검한다."
+			],
+			[
+				23,
+				"NFT",
+				"NNP",
+				"메타버스, NFT 등을 활용한 신유형 디지털콘텐츠 거래에서의 소비자정보제공·청약철회제도 등 소비자보호장치 작동여부를 점검한다."
+			],
+			[
+				24,
+				"등",
+				"NNB",
+				"메타버스, NFT 등을 활용한 신유형 디지털콘텐츠 거래에서의 소비자정보제공·청약철회제도 등 소비자보호장치 작동여부를 점검한다."
+			],
+			[
+				25,
+				"유형",
+				"NNG",
+				"메타버스, NFT 등을 활용한 신유형 디지털콘텐츠 거래에서의 소비자정보제공·청약철회제도 등 소비자보호장치 작동여부를 점검한다."
+			],
+			[
+				26,
+				"디지털",
+				"NNG",
+				"메타버스, NFT 등을 활용한 신유형 디지털콘텐츠 거래에서의 소비자정보제공·청약철회제도 등 소비자보호장치 작동여부를 점검한다."
+			],
+			[
+				27,
+				"콘텐츠",
+				"NNG",
+				"메타버스, NFT 등을 활용한 신유형 디지털콘텐츠 거래에서의 소비자정보제공·청약철회제도 등 소비자보호장치 작동여부를 점검한다."
+			],
+			[
+				28,
+				"거래",
+				"NNG",
+				"메타버스, NFT 등을 활용한 신유형 디지털콘텐츠 거래에서의 소비자정보제공·청약철회제도 등 소비자보호장치 작동여부를 점검한다."
+			],
+			[
+				29,
+				"소비자",
+				"NNG",
+				"메타버스, NFT 등을 활용한 신유형 디지털콘텐츠 거래에서의 소비자정보제공·청약철회제도 등 소비자보호장치 작동여부를 점검한다."
+			],
+			[
+				30,
+				"정보",
+				"NNG",
+				"메타버스, NFT 등을 활용한 신유형 디지털콘텐츠 거래에서의 소비자정보제공·청약철회제도 등 소비자보호장치 작동여부를 점검한다."
+			],
+			[
+				31,
+				"제공",
+				"NNG",
+				"메타버스, NFT 등을 활용한 신유형 디지털콘텐츠 거래에서의 소비자정보제공·청약철회제도 등 소비자보호장치 작동여부를 점검한다."
+			],
+			[
+				32,
+				"청약",
+				"NNG",
+				"메타버스, NFT 등을 활용한 신유형 디지털콘텐츠 거래에서의 소비자정보제공·청약철회제도 등 소비자보호장치 작동여부를 점검한다."
+			],
+			[
+				33,
+				"철회",
+				"NNG",
+				"메타버스, NFT 등을 활용한 신유형 디지털콘텐츠 거래에서의 소비자정보제공·청약철회제도 등 소비자보호장치 작동여부를 점검한다."
+			],
+			[
+				34,
+				"제도",
+				"NNG",
+				"메타버스, NFT 등을 활용한 신유형 디지털콘텐츠 거래에서의 소비자정보제공·청약철회제도 등 소비자보호장치 작동여부를 점검한다."
+			],
+			[
+				35,
+				"등",
+				"NNB",
+				"메타버스, NFT 등을 활용한 신유형 디지털콘텐츠 거래에서의 소비자정보제공·청약철회제도 등 소비자보호장치 작동여부를 점검한다."
+			],
+			[
+				36,
+				"소비자",
+				"NNG",
+				"메타버스, NFT 등을 활용한 신유형 디지털콘텐츠 거래에서의 소비자정보제공·청약철회제도 등 소비자보호장치 작동여부를 점검한다."
+			],
+			[
+				37,
+				"보호",
+				"NNG",
+				"메타버스, NFT 등을 활용한 신유형 디지털콘텐츠 거래에서의 소비자정보제공·청약철회제도 등 소비자보호장치 작동여부를 점검한다."
+			],
+			[
+				38,
+				"장치",
+				"NNG",
+				"메타버스, NFT 등을 활용한 신유형 디지털콘텐츠 거래에서의 소비자정보제공·청약철회제도 등 소비자보호장치 작동여부를 점검한다."
+			],
+			[
+				39,
+				"작동",
+				"NNG",
+				"메타버스, NFT 등을 활용한 신유형 디지털콘텐츠 거래에서의 소비자정보제공·청약철회제도 등 소비자보호장치 작동여부를 점검한다."
+			],
+			[
+				40,
+				"여부",
+				"NNG",
+				"메타버스, NFT 등을 활용한 신유형 디지털콘텐츠 거래에서의 소비자정보제공·청약철회제도 등 소비자보호장치 작동여부를 점검한다."
+			],
+			[
+				41,
+				"OTT",
+				"NNG",
+				"OTT·음원서비스 등 디지털 구독서비스의 까다로운 이용해지 절차, 과도한 취소 수수료 등의 실태를 파악해 개선방안을 마련한다."
+			],
+			[
+				42,
+				"음원",
+				"NNG",
+				"OTT·음원서비스 등 디지털 구독서비스의 까다로운 이용해지 절차, 과도한 취소 수수료 등의 실태를 파악해 개선방안을 마련한다."
+			],
+			[
+				43,
+				"서비스",
+				"NNG",
+				"OTT·음원서비스 등 디지털 구독서비스의 까다로운 이용해지 절차, 과도한 취소 수수료 등의 실태를 파악해 개선방안을 마련한다."
+			],
+			[
+				44,
+				"등",
+				"NNB",
+				"OTT·음원서비스 등 디지털 구독서비스의 까다로운 이용해지 절차, 과도한 취소 수수료 등의 실태를 파악해 개선방안을 마련한다."
+			],
+			[
+				45,
+				"디지털",
+				"NNG",
+				"OTT·음원서비스 등 디지털 구독서비스의 까다로운 이용해지 절차, 과도한 취소 수수료 등의 실태를 파악해 개선방안을 마련한다."
+			],
+			[
+				46,
+				"구독",
+				"NNG",
+				"OTT·음원서비스 등 디지털 구독서비스의 까다로운 이용해지 절차, 과도한 취소 수수료 등의 실태를 파악해 개선방안을 마련한다."
+			],
+			[
+				47,
+				"서비스",
+				"NNG",
+				"OTT·음원서비스 등 디지털 구독서비스의 까다로운 이용해지 절차, 과도한 취소 수수료 등의 실태를 파악해 개선방안을 마련한다."
+			],
+			[
+				48,
+				"이용",
+				"NNG",
+				"OTT·음원서비스 등 디지털 구독서비스의 까다로운 이용해지 절차, 과도한 취소 수수료 등의 실태를 파악해 개선방안을 마련한다."
+			],
+			[
+				49,
+				"해지",
+				"NNG",
+				"OTT·음원서비스 등 디지털 구독서비스의 까다로운 이용해지 절차, 과도한 취소 수수료 등의 실태를 파악해 개선방안을 마련한다."
+			],
+			[
+				50,
+				"절차",
+				"NNG",
+				"OTT·음원서비스 등 디지털 구독서비스의 까다로운 이용해지 절차, 과도한 취소 수수료 등의 실태를 파악해 개선방안을 마련한다."
+			],
+			[
+				51,
+				"취소",
+				"NNG",
+				"OTT·음원서비스 등 디지털 구독서비스의 까다로운 이용해지 절차, 과도한 취소 수수료 등의 실태를 파악해 개선방안을 마련한다."
+			],
+			[
+				52,
+				"수수료",
+				"NNG",
+				"OTT·음원서비스 등 디지털 구독서비스의 까다로운 이용해지 절차, 과도한 취소 수수료 등의 실태를 파악해 개선방안을 마련한다."
+			],
+			[
+				53,
+				"등",
+				"NNB",
+				"OTT·음원서비스 등 디지털 구독서비스의 까다로운 이용해지 절차, 과도한 취소 수수료 등의 실태를 파악해 개선방안을 마련한다."
+			],
+			[
+				54,
+				"실태",
+				"NNG",
+				"OTT·음원서비스 등 디지털 구독서비스의 까다로운 이용해지 절차, 과도한 취소 수수료 등의 실태를 파악해 개선방안을 마련한다."
+			],
+			[
+				55,
+				"개선",
+				"NNG",
+				"OTT·음원서비스 등 디지털 구독서비스의 까다로운 이용해지 절차, 과도한 취소 수수료 등의 실태를 파악해 개선방안을 마련한다."
+			],
+			[
+				56,
+				"방안",
+				"NNG",
+				"OTT·음원서비스 등 디지털 구독서비스의 까다로운 이용해지 절차, 과도한 취소 수수료 등의 실태를 파악해 개선방안을 마련한다."
+			]
+		],
+		"NN_Lst": [
+			[
+				0,
+				"웹툰",
+				"NNG",
+				"또 웹툰·웹소설 분야의 2차 저작권 양도 요구, 음악저작권 분야의 경쟁사업자 진입차단 등 지식재산권 관련 불공정거래 감시를 강화한다."
+			],
+			[
+				1,
+				"웹",
+				"NNG",
+				"또 웹툰·웹소설 분야의 2차 저작권 양도 요구, 음악저작권 분야의 경쟁사업자 진입차단 등 지식재산권 관련 불공정거래 감시를 강화한다."
+			],
+			[
+				2,
+				"소설",
+				"NNG",
+				"또 웹툰·웹소설 분야의 2차 저작권 양도 요구, 음악저작권 분야의 경쟁사업자 진입차단 등 지식재산권 관련 불공정거래 감시를 강화한다."
+			],
+			[
+				3,
+				"분야",
+				"NNG",
+				"또 웹툰·웹소설 분야의 2차 저작권 양도 요구, 음악저작권 분야의 경쟁사업자 진입차단 등 지식재산권 관련 불공정거래 감시를 강화한다."
+			],
+			[
+				4,
+				"차",
+				"NNB",
+				"또 웹툰·웹소설 분야의 2차 저작권 양도 요구, 음악저작권 분야의 경쟁사업자 진입차단 등 지식재산권 관련 불공정거래 감시를 강화한다."
+			],
+			[
+				5,
+				"저작",
+				"NNG",
+				"또 웹툰·웹소설 분야의 2차 저작권 양도 요구, 음악저작권 분야의 경쟁사업자 진입차단 등 지식재산권 관련 불공정거래 감시를 강화한다."
+			],
+			[
+				6,
+				"양도",
+				"NNG",
+				"또 웹툰·웹소설 분야의 2차 저작권 양도 요구, 음악저작권 분야의 경쟁사업자 진입차단 등 지식재산권 관련 불공정거래 감시를 강화한다."
+			],
+			[
+				7,
+				"요구",
+				"NNG",
+				"또 웹툰·웹소설 분야의 2차 저작권 양도 요구, 음악저작권 분야의 경쟁사업자 진입차단 등 지식재산권 관련 불공정거래 감시를 강화한다."
+			],
+			[
+				8,
+				"음악",
+				"NNG",
+				"또 웹툰·웹소설 분야의 2차 저작권 양도 요구, 음악저작권 분야의 경쟁사업자 진입차단 등 지식재산권 관련 불공정거래 감시를 강화한다."
+			],
+			[
+				9,
+				"저작권",
+				"NNG",
+				"또 웹툰·웹소설 분야의 2차 저작권 양도 요구, 음악저작권 분야의 경쟁사업자 진입차단 등 지식재산권 관련 불공정거래 감시를 강화한다."
+			],
+			[
+				10,
+				"분야",
+				"NNG",
+				"또 웹툰·웹소설 분야의 2차 저작권 양도 요구, 음악저작권 분야의 경쟁사업자 진입차단 등 지식재산권 관련 불공정거래 감시를 강화한다."
+			],
+			[
+				11,
+				"경쟁",
+				"NNG",
+				"또 웹툰·웹소설 분야의 2차 저작권 양도 요구, 음악저작권 분야의 경쟁사업자 진입차단 등 지식재산권 관련 불공정거래 감시를 강화한다."
+			],
+			[
+				12,
+				"사업자",
+				"NNG",
+				"또 웹툰·웹소설 분야의 2차 저작권 양도 요구, 음악저작권 분야의 경쟁사업자 진입차단 등 지식재산권 관련 불공정거래 감시를 강화한다."
+			],
+			[
+				13,
+				"진입",
+				"NNG",
+				"또 웹툰·웹소설 분야의 2차 저작권 양도 요구, 음악저작권 분야의 경쟁사업자 진입차단 등 지식재산권 관련 불공정거래 감시를 강화한다."
+			],
+			[
+				14,
+				"차단",
+				"NNG",
+				"또 웹툰·웹소설 분야의 2차 저작권 양도 요구, 음악저작권 분야의 경쟁사업자 진입차단 등 지식재산권 관련 불공정거래 감시를 강화한다."
+			],
+			[
+				15,
+				"등",
+				"NNB",
+				"또 웹툰·웹소설 분야의 2차 저작권 양도 요구, 음악저작권 분야의 경쟁사업자 진입차단 등 지식재산권 관련 불공정거래 감시를 강화한다."
+			],
+			[
+				16,
+				"지식",
+				"NNG",
+				"또 웹툰·웹소설 분야의 2차 저작권 양도 요구, 음악저작권 분야의 경쟁사업자 진입차단 등 지식재산권 관련 불공정거래 감시를 강화한다."
+			],
+			[
+				17,
+				"재산권",
+				"NNG",
+				"또 웹툰·웹소설 분야의 2차 저작권 양도 요구, 음악저작권 분야의 경쟁사업자 진입차단 등 지식재산권 관련 불공정거래 감시를 강화한다."
+			],
+			[
+				18,
+				"관련",
+				"NNG",
+				"또 웹툰·웹소설 분야의 2차 저작권 양도 요구, 음악저작권 분야의 경쟁사업자 진입차단 등 지식재산권 관련 불공정거래 감시를 강화한다."
+			],
+			[
+				19,
+				"불공정",
+				"NNG",
+				"또 웹툰·웹소설 분야의 2차 저작권 양도 요구, 음악저작권 분야의 경쟁사업자 진입차단 등 지식재산권 관련 불공정거래 감시를 강화한다."
+			],
+			[
+				20,
+				"거래",
+				"NNG",
+				"또 웹툰·웹소설 분야의 2차 저작권 양도 요구, 음악저작권 분야의 경쟁사업자 진입차단 등 지식재산권 관련 불공정거래 감시를 강화한다."
+			],
+			[
+				21,
+				"감시",
+				"NNG",
+				"또 웹툰·웹소설 분야의 2차 저작권 양도 요구, 음악저작권 분야의 경쟁사업자 진입차단 등 지식재산권 관련 불공정거래 감시를 강화한다."
+			],
+			[
+				22,
+				"메타버스",
+				"NNP",
+				"메타버스, NFT 등을 활용한 신유형 디지털콘텐츠 거래에서의 소비자정보제공·청약철회제도 등 소비자보호장치 작동여부를 점검한다."
+			],
+			[
+				23,
+				"NFT",
+				"NNP",
+				"메타버스, NFT 등을 활용한 신유형 디지털콘텐츠 거래에서의 소비자정보제공·청약철회제도 등 소비자보호장치 작동여부를 점검한다."
+			],
+			[
+				24,
+				"등",
+				"NNB",
+				"메타버스, NFT 등을 활용한 신유형 디지털콘텐츠 거래에서의 소비자정보제공·청약철회제도 등 소비자보호장치 작동여부를 점검한다."
+			],
+			[
+				25,
+				"유형",
+				"NNG",
+				"메타버스, NFT 등을 활용한 신유형 디지털콘텐츠 거래에서의 소비자정보제공·청약철회제도 등 소비자보호장치 작동여부를 점검한다."
+			],
+			[
+				26,
+				"디지털",
+				"NNG",
+				"메타버스, NFT 등을 활용한 신유형 디지털콘텐츠 거래에서의 소비자정보제공·청약철회제도 등 소비자보호장치 작동여부를 점검한다."
+			],
+			[
+				27,
+				"콘텐츠",
+				"NNG",
+				"메타버스, NFT 등을 활용한 신유형 디지털콘텐츠 거래에서의 소비자정보제공·청약철회제도 등 소비자보호장치 작동여부를 점검한다."
+			],
+			[
+				28,
+				"거래",
+				"NNG",
+				"메타버스, NFT 등을 활용한 신유형 디지털콘텐츠 거래에서의 소비자정보제공·청약철회제도 등 소비자보호장치 작동여부를 점검한다."
+			],
+			[
+				29,
+				"소비자",
+				"NNG",
+				"메타버스, NFT 등을 활용한 신유형 디지털콘텐츠 거래에서의 소비자정보제공·청약철회제도 등 소비자보호장치 작동여부를 점검한다."
+			],
+			[
+				30,
+				"정보",
+				"NNG",
+				"메타버스, NFT 등을 활용한 신유형 디지털콘텐츠 거래에서의 소비자정보제공·청약철회제도 등 소비자보호장치 작동여부를 점검한다."
+			],
+			[
+				31,
+				"제공",
+				"NNG",
+				"메타버스, NFT 등을 활용한 신유형 디지털콘텐츠 거래에서의 소비자정보제공·청약철회제도 등 소비자보호장치 작동여부를 점검한다."
+			],
+			[
+				32,
+				"청약",
+				"NNG",
+				"메타버스, NFT 등을 활용한 신유형 디지털콘텐츠 거래에서의 소비자정보제공·청약철회제도 등 소비자보호장치 작동여부를 점검한다."
+			],
+			[
+				33,
+				"철회",
+				"NNG",
+				"메타버스, NFT 등을 활용한 신유형 디지털콘텐츠 거래에서의 소비자정보제공·청약철회제도 등 소비자보호장치 작동여부를 점검한다."
+			],
+			[
+				34,
+				"제도",
+				"NNG",
+				"메타버스, NFT 등을 활용한 신유형 디지털콘텐츠 거래에서의 소비자정보제공·청약철회제도 등 소비자보호장치 작동여부를 점검한다."
+			],
+			[
+				35,
+				"등",
+				"NNB",
+				"메타버스, NFT 등을 활용한 신유형 디지털콘텐츠 거래에서의 소비자정보제공·청약철회제도 등 소비자보호장치 작동여부를 점검한다."
+			],
+			[
+				36,
+				"소비자",
+				"NNG",
+				"메타버스, NFT 등을 활용한 신유형 디지털콘텐츠 거래에서의 소비자정보제공·청약철회제도 등 소비자보호장치 작동여부를 점검한다."
+			],
+			[
+				37,
+				"보호",
+				"NNG",
+				"메타버스, NFT 등을 활용한 신유형 디지털콘텐츠 거래에서의 소비자정보제공·청약철회제도 등 소비자보호장치 작동여부를 점검한다."
+			],
+			[
+				38,
+				"장치",
+				"NNG",
+				"메타버스, NFT 등을 활용한 신유형 디지털콘텐츠 거래에서의 소비자정보제공·청약철회제도 등 소비자보호장치 작동여부를 점검한다."
+			],
+			[
+				39,
+				"작동",
+				"NNG",
+				"메타버스, NFT 등을 활용한 신유형 디지털콘텐츠 거래에서의 소비자정보제공·청약철회제도 등 소비자보호장치 작동여부를 점검한다."
+			],
+			[
+				40,
+				"여부",
+				"NNG",
+				"메타버스, NFT 등을 활용한 신유형 디지털콘텐츠 거래에서의 소비자정보제공·청약철회제도 등 소비자보호장치 작동여부를 점검한다."
+			],
+			[
+				41,
+				"OTT",
+				"NNG",
+				"OTT·음원서비스 등 디지털 구독서비스의 까다로운 이용해지 절차, 과도한 취소 수수료 등의 실태를 파악해 개선방안을 마련한다."
+			],
+			[
+				42,
+				"음원",
+				"NNG",
+				"OTT·음원서비스 등 디지털 구독서비스의 까다로운 이용해지 절차, 과도한 취소 수수료 등의 실태를 파악해 개선방안을 마련한다."
+			],
+			[
+				43,
+				"서비스",
+				"NNG",
+				"OTT·음원서비스 등 디지털 구독서비스의 까다로운 이용해지 절차, 과도한 취소 수수료 등의 실태를 파악해 개선방안을 마련한다."
+			],
+			[
+				44,
+				"등",
+				"NNB",
+				"OTT·음원서비스 등 디지털 구독서비스의 까다로운 이용해지 절차, 과도한 취소 수수료 등의 실태를 파악해 개선방안을 마련한다."
+			],
+			[
+				45,
+				"디지털",
+				"NNG",
+				"OTT·음원서비스 등 디지털 구독서비스의 까다로운 이용해지 절차, 과도한 취소 수수료 등의 실태를 파악해 개선방안을 마련한다."
+			],
+			[
+				46,
+				"구독",
+				"NNG",
+				"OTT·음원서비스 등 디지털 구독서비스의 까다로운 이용해지 절차, 과도한 취소 수수료 등의 실태를 파악해 개선방안을 마련한다."
+			],
+			[
+				47,
+				"서비스",
+				"NNG",
+				"OTT·음원서비스 등 디지털 구독서비스의 까다로운 이용해지 절차, 과도한 취소 수수료 등의 실태를 파악해 개선방안을 마련한다."
+			],
+			[
+				48,
+				"이용",
+				"NNG",
+				"OTT·음원서비스 등 디지털 구독서비스의 까다로운 이용해지 절차, 과도한 취소 수수료 등의 실태를 파악해 개선방안을 마련한다."
+			],
+			[
+				49,
+				"해지",
+				"NNG",
+				"OTT·음원서비스 등 디지털 구독서비스의 까다로운 이용해지 절차, 과도한 취소 수수료 등의 실태를 파악해 개선방안을 마련한다."
+			],
+			[
+				50,
+				"절차",
+				"NNG",
+				"OTT·음원서비스 등 디지털 구독서비스의 까다로운 이용해지 절차, 과도한 취소 수수료 등의 실태를 파악해 개선방안을 마련한다."
+			],
+			[
+				51,
+				"취소",
+				"NNG",
+				"OTT·음원서비스 등 디지털 구독서비스의 까다로운 이용해지 절차, 과도한 취소 수수료 등의 실태를 파악해 개선방안을 마련한다."
+			],
+			[
+				52,
+				"수수료",
+				"NNG",
+				"OTT·음원서비스 등 디지털 구독서비스의 까다로운 이용해지 절차, 과도한 취소 수수료 등의 실태를 파악해 개선방안을 마련한다."
+			],
+			[
+				53,
+				"등",
+				"NNB",
+				"OTT·음원서비스 등 디지털 구독서비스의 까다로운 이용해지 절차, 과도한 취소 수수료 등의 실태를 파악해 개선방안을 마련한다."
+			],
+			[
+				54,
+				"실태",
+				"NNG",
+				"OTT·음원서비스 등 디지털 구독서비스의 까다로운 이용해지 절차, 과도한 취소 수수료 등의 실태를 파악해 개선방안을 마련한다."
+			],
+			[
+				55,
+				"개선",
+				"NNG",
+				"OTT·음원서비스 등 디지털 구독서비스의 까다로운 이용해지 절차, 과도한 취소 수수료 등의 실태를 파악해 개선방안을 마련한다."
+			],
+			[
+				56,
+				"방안",
+				"NNG",
+				"OTT·음원서비스 등 디지털 구독서비스의 까다로운 이용해지 절차, 과도한 취소 수수료 등의 실태를 파악해 개선방안을 마련한다."
+			]
+		],
+		"NNG_Lst": [
+			[
+				0,
+				"웹툰",
+				"NNG",
+				"또 웹툰·웹소설 분야의 2차 저작권 양도 요구, 음악저작권 분야의 경쟁사업자 진입차단 등 지식재산권 관련 불공정거래 감시를 강화한다."
+			],
+			[
+				1,
+				"웹",
+				"NNG",
+				"또 웹툰·웹소설 분야의 2차 저작권 양도 요구, 음악저작권 분야의 경쟁사업자 진입차단 등 지식재산권 관련 불공정거래 감시를 강화한다."
+			],
+			[
+				2,
+				"소설",
+				"NNG",
+				"또 웹툰·웹소설 분야의 2차 저작권 양도 요구, 음악저작권 분야의 경쟁사업자 진입차단 등 지식재산권 관련 불공정거래 감시를 강화한다."
+			],
+			[
+				3,
+				"분야",
+				"NNG",
+				"또 웹툰·웹소설 분야의 2차 저작권 양도 요구, 음악저작권 분야의 경쟁사업자 진입차단 등 지식재산권 관련 불공정거래 감시를 강화한다."
+			],
+			[
+				4,
+				"저작",
+				"NNG",
+				"또 웹툰·웹소설 분야의 2차 저작권 양도 요구, 음악저작권 분야의 경쟁사업자 진입차단 등 지식재산권 관련 불공정거래 감시를 강화한다."
+			],
+			[
+				5,
+				"양도",
+				"NNG",
+				"또 웹툰·웹소설 분야의 2차 저작권 양도 요구, 음악저작권 분야의 경쟁사업자 진입차단 등 지식재산권 관련 불공정거래 감시를 강화한다."
+			],
+			[
+				6,
+				"요구",
+				"NNG",
+				"또 웹툰·웹소설 분야의 2차 저작권 양도 요구, 음악저작권 분야의 경쟁사업자 진입차단 등 지식재산권 관련 불공정거래 감시를 강화한다."
+			],
+			[
+				7,
+				"음악",
+				"NNG",
+				"또 웹툰·웹소설 분야의 2차 저작권 양도 요구, 음악저작권 분야의 경쟁사업자 진입차단 등 지식재산권 관련 불공정거래 감시를 강화한다."
+			],
+			[
+				8,
+				"저작권",
+				"NNG",
+				"또 웹툰·웹소설 분야의 2차 저작권 양도 요구, 음악저작권 분야의 경쟁사업자 진입차단 등 지식재산권 관련 불공정거래 감시를 강화한다."
+			],
+			[
+				9,
+				"분야",
+				"NNG",
+				"또 웹툰·웹소설 분야의 2차 저작권 양도 요구, 음악저작권 분야의 경쟁사업자 진입차단 등 지식재산권 관련 불공정거래 감시를 강화한다."
+			],
+			[
+				10,
+				"경쟁",
+				"NNG",
+				"또 웹툰·웹소설 분야의 2차 저작권 양도 요구, 음악저작권 분야의 경쟁사업자 진입차단 등 지식재산권 관련 불공정거래 감시를 강화한다."
+			],
+			[
+				11,
+				"사업자",
+				"NNG",
+				"또 웹툰·웹소설 분야의 2차 저작권 양도 요구, 음악저작권 분야의 경쟁사업자 진입차단 등 지식재산권 관련 불공정거래 감시를 강화한다."
+			],
+			[
+				12,
+				"진입",
+				"NNG",
+				"또 웹툰·웹소설 분야의 2차 저작권 양도 요구, 음악저작권 분야의 경쟁사업자 진입차단 등 지식재산권 관련 불공정거래 감시를 강화한다."
+			],
+			[
+				13,
+				"차단",
+				"NNG",
+				"또 웹툰·웹소설 분야의 2차 저작권 양도 요구, 음악저작권 분야의 경쟁사업자 진입차단 등 지식재산권 관련 불공정거래 감시를 강화한다."
+			],
+			[
+				14,
+				"지식",
+				"NNG",
+				"또 웹툰·웹소설 분야의 2차 저작권 양도 요구, 음악저작권 분야의 경쟁사업자 진입차단 등 지식재산권 관련 불공정거래 감시를 강화한다."
+			],
+			[
+				15,
+				"재산권",
+				"NNG",
+				"또 웹툰·웹소설 분야의 2차 저작권 양도 요구, 음악저작권 분야의 경쟁사업자 진입차단 등 지식재산권 관련 불공정거래 감시를 강화한다."
+			],
+			[
+				16,
+				"관련",
+				"NNG",
+				"또 웹툰·웹소설 분야의 2차 저작권 양도 요구, 음악저작권 분야의 경쟁사업자 진입차단 등 지식재산권 관련 불공정거래 감시를 강화한다."
+			],
+			[
+				17,
+				"불공정",
+				"NNG",
+				"또 웹툰·웹소설 분야의 2차 저작권 양도 요구, 음악저작권 분야의 경쟁사업자 진입차단 등 지식재산권 관련 불공정거래 감시를 강화한다."
+			],
+			[
+				18,
+				"거래",
+				"NNG",
+				"또 웹툰·웹소설 분야의 2차 저작권 양도 요구, 음악저작권 분야의 경쟁사업자 진입차단 등 지식재산권 관련 불공정거래 감시를 강화한다."
+			],
+			[
+				19,
+				"감시",
+				"NNG",
+				"또 웹툰·웹소설 분야의 2차 저작권 양도 요구, 음악저작권 분야의 경쟁사업자 진입차단 등 지식재산권 관련 불공정거래 감시를 강화한다."
+			],
+			[
+				20,
+				"유형",
+				"NNG",
+				"메타버스, NFT 등을 활용한 신유형 디지털콘텐츠 거래에서의 소비자정보제공·청약철회제도 등 소비자보호장치 작동여부를 점검한다."
+			],
+			[
+				21,
+				"디지털",
+				"NNG",
+				"메타버스, NFT 등을 활용한 신유형 디지털콘텐츠 거래에서의 소비자정보제공·청약철회제도 등 소비자보호장치 작동여부를 점검한다."
+			],
+			[
+				22,
+				"콘텐츠",
+				"NNG",
+				"메타버스, NFT 등을 활용한 신유형 디지털콘텐츠 거래에서의 소비자정보제공·청약철회제도 등 소비자보호장치 작동여부를 점검한다."
+			],
+			[
+				23,
+				"거래",
+				"NNG",
+				"메타버스, NFT 등을 활용한 신유형 디지털콘텐츠 거래에서의 소비자정보제공·청약철회제도 등 소비자보호장치 작동여부를 점검한다."
+			],
+			[
+				24,
+				"소비자",
+				"NNG",
+				"메타버스, NFT 등을 활용한 신유형 디지털콘텐츠 거래에서의 소비자정보제공·청약철회제도 등 소비자보호장치 작동여부를 점검한다."
+			],
+			[
+				25,
+				"정보",
+				"NNG",
+				"메타버스, NFT 등을 활용한 신유형 디지털콘텐츠 거래에서의 소비자정보제공·청약철회제도 등 소비자보호장치 작동여부를 점검한다."
+			],
+			[
+				26,
+				"제공",
+				"NNG",
+				"메타버스, NFT 등을 활용한 신유형 디지털콘텐츠 거래에서의 소비자정보제공·청약철회제도 등 소비자보호장치 작동여부를 점검한다."
+			],
+			[
+				27,
+				"청약",
+				"NNG",
+				"메타버스, NFT 등을 활용한 신유형 디지털콘텐츠 거래에서의 소비자정보제공·청약철회제도 등 소비자보호장치 작동여부를 점검한다."
+			],
+			[
+				28,
+				"철회",
+				"NNG",
+				"메타버스, NFT 등을 활용한 신유형 디지털콘텐츠 거래에서의 소비자정보제공·청약철회제도 등 소비자보호장치 작동여부를 점검한다."
+			],
+			[
+				29,
+				"제도",
+				"NNG",
+				"메타버스, NFT 등을 활용한 신유형 디지털콘텐츠 거래에서의 소비자정보제공·청약철회제도 등 소비자보호장치 작동여부를 점검한다."
+			],
+			[
+				30,
+				"소비자",
+				"NNG",
+				"메타버스, NFT 등을 활용한 신유형 디지털콘텐츠 거래에서의 소비자정보제공·청약철회제도 등 소비자보호장치 작동여부를 점검한다."
+			],
+			[
+				31,
+				"보호",
+				"NNG",
+				"메타버스, NFT 등을 활용한 신유형 디지털콘텐츠 거래에서의 소비자정보제공·청약철회제도 등 소비자보호장치 작동여부를 점검한다."
+			],
+			[
+				32,
+				"장치",
+				"NNG",
+				"메타버스, NFT 등을 활용한 신유형 디지털콘텐츠 거래에서의 소비자정보제공·청약철회제도 등 소비자보호장치 작동여부를 점검한다."
+			],
+			[
+				33,
+				"작동",
+				"NNG",
+				"메타버스, NFT 등을 활용한 신유형 디지털콘텐츠 거래에서의 소비자정보제공·청약철회제도 등 소비자보호장치 작동여부를 점검한다."
+			],
+			[
+				34,
+				"여부",
+				"NNG",
+				"메타버스, NFT 등을 활용한 신유형 디지털콘텐츠 거래에서의 소비자정보제공·청약철회제도 등 소비자보호장치 작동여부를 점검한다."
+			],
+			[
+				35,
+				"OTT",
+				"NNG",
+				"OTT·음원서비스 등 디지털 구독서비스의 까다로운 이용해지 절차, 과도한 취소 수수료 등의 실태를 파악해 개선방안을 마련한다."
+			],
+			[
+				36,
+				"음원",
+				"NNG",
+				"OTT·음원서비스 등 디지털 구독서비스의 까다로운 이용해지 절차, 과도한 취소 수수료 등의 실태를 파악해 개선방안을 마련한다."
+			],
+			[
+				37,
+				"서비스",
+				"NNG",
+				"OTT·음원서비스 등 디지털 구독서비스의 까다로운 이용해지 절차, 과도한 취소 수수료 등의 실태를 파악해 개선방안을 마련한다."
+			],
+			[
+				38,
+				"디지털",
+				"NNG",
+				"OTT·음원서비스 등 디지털 구독서비스의 까다로운 이용해지 절차, 과도한 취소 수수료 등의 실태를 파악해 개선방안을 마련한다."
+			],
+			[
+				39,
+				"구독",
+				"NNG",
+				"OTT·음원서비스 등 디지털 구독서비스의 까다로운 이용해지 절차, 과도한 취소 수수료 등의 실태를 파악해 개선방안을 마련한다."
+			],
+			[
+				40,
+				"서비스",
+				"NNG",
+				"OTT·음원서비스 등 디지털 구독서비스의 까다로운 이용해지 절차, 과도한 취소 수수료 등의 실태를 파악해 개선방안을 마련한다."
+			],
+			[
+				41,
+				"이용",
+				"NNG",
+				"OTT·음원서비스 등 디지털 구독서비스의 까다로운 이용해지 절차, 과도한 취소 수수료 등의 실태를 파악해 개선방안을 마련한다."
+			],
+			[
+				42,
+				"해지",
+				"NNG",
+				"OTT·음원서비스 등 디지털 구독서비스의 까다로운 이용해지 절차, 과도한 취소 수수료 등의 실태를 파악해 개선방안을 마련한다."
+			],
+			[
+				43,
+				"절차",
+				"NNG",
+				"OTT·음원서비스 등 디지털 구독서비스의 까다로운 이용해지 절차, 과도한 취소 수수료 등의 실태를 파악해 개선방안을 마련한다."
+			],
+			[
+				44,
+				"취소",
+				"NNG",
+				"OTT·음원서비스 등 디지털 구독서비스의 까다로운 이용해지 절차, 과도한 취소 수수료 등의 실태를 파악해 개선방안을 마련한다."
+			],
+			[
+				45,
+				"수수료",
+				"NNG",
+				"OTT·음원서비스 등 디지털 구독서비스의 까다로운 이용해지 절차, 과도한 취소 수수료 등의 실태를 파악해 개선방안을 마련한다."
+			],
+			[
+				46,
+				"실태",
+				"NNG",
+				"OTT·음원서비스 등 디지털 구독서비스의 까다로운 이용해지 절차, 과도한 취소 수수료 등의 실태를 파악해 개선방안을 마련한다."
+			],
+			[
+				47,
+				"개선",
+				"NNG",
+				"OTT·음원서비스 등 디지털 구독서비스의 까다로운 이용해지 절차, 과도한 취소 수수료 등의 실태를 파악해 개선방안을 마련한다."
+			],
+			[
+				48,
+				"방안",
+				"NNG",
+				"OTT·음원서비스 등 디지털 구독서비스의 까다로운 이용해지 절차, 과도한 취소 수수료 등의 실태를 파악해 개선방안을 마련한다."
+			]
+		],
+		"NNP_Lst": [
+			[
+				0,
+				"메타버스",
+				"NNP",
+				"메타버스, NFT 등을 활용한 신유형 디지털콘텐츠 거래에서의 소비자정보제공·청약철회제도 등 소비자보호장치 작동여부를 점검한다."
+			],
+			[
+				1,
+				"NFT",
+				"NNP",
+				"메타버스, NFT 등을 활용한 신유형 디지털콘텐츠 거래에서의 소비자정보제공·청약철회제도 등 소비자보호장치 작동여부를 점검한다."
+			]
+		],
+		"NNB_Lst": [
+			[
+				0,
+				"차",
+				"NNB",
+				"또 웹툰·웹소설 분야의 2차 저작권 양도 요구, 음악저작권 분야의 경쟁사업자 진입차단 등 지식재산권 관련 불공정거래 감시를 강화한다."
+			],
+			[
+				1,
+				"등",
+				"NNB",
+				"또 웹툰·웹소설 분야의 2차 저작권 양도 요구, 음악저작권 분야의 경쟁사업자 진입차단 등 지식재산권 관련 불공정거래 감시를 강화한다."
+			],
+			[
+				2,
+				"등",
+				"NNB",
+				"메타버스, NFT 등을 활용한 신유형 디지털콘텐츠 거래에서의 소비자정보제공·청약철회제도 등 소비자보호장치 작동여부를 점검한다."
+			],
+			[
+				3,
+				"등",
+				"NNB",
+				"메타버스, NFT 등을 활용한 신유형 디지털콘텐츠 거래에서의 소비자정보제공·청약철회제도 등 소비자보호장치 작동여부를 점검한다."
+			],
+			[
+				4,
+				"등",
+				"NNB",
+				"OTT·음원서비스 등 디지털 구독서비스의 까다로운 이용해지 절차, 과도한 취소 수수료 등의 실태를 파악해 개선방안을 마련한다."
+			],
+			[
+				5,
+				"등",
+				"NNB",
+				"OTT·음원서비스 등 디지털 구독서비스의 까다로운 이용해지 절차, 과도한 취소 수수료 등의 실태를 파악해 개선방안을 마련한다."
+			]
+		],
+		"NP_Lst": [],
+		"NP_People_Lst": [],
+		"NP_Things_Lst": [],
+		"NR_Lst": [],
+		"VL_Lst": [
+			[
+				0,
+				"강화하",
+				"VV",
+				"또 웹툰·웹소설 분야의 2차 저작권 양도 요구, 음악저작권 분야의 경쟁사업자 진입차단 등 지식재산권 관련 불공정거래 감시를 강화한다."
+			],
+			[
+				1,
+				"활용하",
+				"VV",
+				"메타버스, NFT 등을 활용한 신유형 디지털콘텐츠 거래에서의 소비자정보제공·청약철회제도 등 소비자보호장치 작동여부를 점검한다."
+			],
+			[
+				2,
+				"점검하",
+				"VV",
+				"메타버스, NFT 등을 활용한 신유형 디지털콘텐츠 거래에서의 소비자정보제공·청약철회제도 등 소비자보호장치 작동여부를 점검한다."
+			],
+			[
+				3,
+				"까다롭",
+				"VA",
+				"OTT·음원서비스 등 디지털 구독서비스의 까다로운 이용해지 절차, 과도한 취소 수수료 등의 실태를 파악해 개선방안을 마련한다."
+			],
+			[
+				4,
+				"과도하",
+				"VA",
+				"OTT·음원서비스 등 디지털 구독서비스의 까다로운 이용해지 절차, 과도한 취소 수수료 등의 실태를 파악해 개선방안을 마련한다."
+			],
+			[
+				5,
+				"파악하",
+				"VV",
+				"OTT·음원서비스 등 디지털 구독서비스의 까다로운 이용해지 절차, 과도한 취소 수수료 등의 실태를 파악해 개선방안을 마련한다."
+			],
+			[
+				6,
+				"마련하",
+				"VV",
+				"OTT·음원서비스 등 디지털 구독서비스의 까다로운 이용해지 절차, 과도한 취소 수수료 등의 실태를 파악해 개선방안을 마련한다."
+			]
+		],
+		"VV_Lst": [
+			[
+				0,
+				"강화하",
+				"VV",
+				"또 웹툰·웹소설 분야의 2차 저작권 양도 요구, 음악저작권 분야의 경쟁사업자 진입차단 등 지식재산권 관련 불공정거래 감시를 강화한다."
+			],
+			[
+				1,
+				"활용하",
+				"VV",
+				"메타버스, NFT 등을 활용한 신유형 디지털콘텐츠 거래에서의 소비자정보제공·청약철회제도 등 소비자보호장치 작동여부를 점검한다."
+			],
+			[
+				2,
+				"점검하",
+				"VV",
+				"메타버스, NFT 등을 활용한 신유형 디지털콘텐츠 거래에서의 소비자정보제공·청약철회제도 등 소비자보호장치 작동여부를 점검한다."
+			],
+			[
+				3,
+				"파악하",
+				"VV",
+				"OTT·음원서비스 등 디지털 구독서비스의 까다로운 이용해지 절차, 과도한 취소 수수료 등의 실태를 파악해 개선방안을 마련한다."
+			],
+			[
+				4,
+				"마련하",
+				"VV",
+				"OTT·음원서비스 등 디지털 구독서비스의 까다로운 이용해지 절차, 과도한 취소 수수료 등의 실태를 파악해 개선방안을 마련한다."
+			]
+		],
+		"VA_Lst": [
+			[
+				0,
+				"까다롭",
+				"VA",
+				"OTT·음원서비스 등 디지털 구독서비스의 까다로운 이용해지 절차, 과도한 취소 수수료 등의 실태를 파악해 개선방안을 마련한다."
+			],
+			[
+				1,
+				"과도하",
+				"VA",
+				"OTT·음원서비스 등 디지털 구독서비스의 까다로운 이용해지 절차, 과도한 취소 수수료 등의 실태를 파악해 개선방안을 마련한다."
+			]
+		],
+		"VX_Lst": [],
+		"VCP_Lst": [],
+		"VCN_Lst": [],
+		"ML_Lst": [
+			[
+				0,
+				"또",
+				"MAG",
+				"또 웹툰·웹소설 분야의 2차 저작권 양도 요구, 음악저작권 분야의 경쟁사업자 진입차단 등 지식재산권 관련 불공정거래 감시를 강화한다."
+			]
+		],
+		"MA_Lst": [],
+		"MM_Lst": [],
+		"J_Lst": [
+			[
+				0,
+				"의",
+				"JKG",
+				"또 웹툰·웹소설 분야의 2차 저작권 양도 요구, 음악저작권 분야의 경쟁사업자 진입차단 등 지식재산권 관련 불공정거래 감시를 강화한다."
+			],
+			[
+				1,
+				"의",
+				"JKG",
+				"또 웹툰·웹소설 분야의 2차 저작권 양도 요구, 음악저작권 분야의 경쟁사업자 진입차단 등 지식재산권 관련 불공정거래 감시를 강화한다."
+			],
+			[
+				2,
+				"를",
+				"JKO",
+				"또 웹툰·웹소설 분야의 2차 저작권 양도 요구, 음악저작권 분야의 경쟁사업자 진입차단 등 지식재산권 관련 불공정거래 감시를 강화한다."
+			],
+			[
+				3,
+				"을",
+				"JKO",
+				"메타버스, NFT 등을 활용한 신유형 디지털콘텐츠 거래에서의 소비자정보제공·청약철회제도 등 소비자보호장치 작동여부를 점검한다."
+			],
+			[
+				4,
+				"에서",
+				"JKB",
+				"메타버스, NFT 등을 활용한 신유형 디지털콘텐츠 거래에서의 소비자정보제공·청약철회제도 등 소비자보호장치 작동여부를 점검한다."
+			],
+			[
+				5,
+				"의",
+				"JKG",
+				"메타버스, NFT 등을 활용한 신유형 디지털콘텐츠 거래에서의 소비자정보제공·청약철회제도 등 소비자보호장치 작동여부를 점검한다."
+			],
+			[
+				6,
+				"를",
+				"JKO",
+				"메타버스, NFT 등을 활용한 신유형 디지털콘텐츠 거래에서의 소비자정보제공·청약철회제도 등 소비자보호장치 작동여부를 점검한다."
+			],
+			[
+				7,
+				"의",
+				"JKG",
+				"OTT·음원서비스 등 디지털 구독서비스의 까다로운 이용해지 절차, 과도한 취소 수수료 등의 실태를 파악해 개선방안을 마련한다."
+			],
+			[
+				8,
+				"의",
+				"JKG",
+				"OTT·음원서비스 등 디지털 구독서비스의 까다로운 이용해지 절차, 과도한 취소 수수료 등의 실태를 파악해 개선방안을 마련한다."
+			],
+			[
+				9,
+				"를",
+				"JKO",
+				"OTT·음원서비스 등 디지털 구독서비스의 까다로운 이용해지 절차, 과도한 취소 수수료 등의 실태를 파악해 개선방안을 마련한다."
+			],
+			[
+				10,
+				"을",
+				"JKO",
+				"OTT·음원서비스 등 디지털 구독서비스의 까다로운 이용해지 절차, 과도한 취소 수수료 등의 실태를 파악해 개선방안을 마련한다."
+			]
+		],
+		"E_Lst": [
+			[
+				0,
+				"ㄴ다",
+				"EF",
+				"또 웹툰·웹소설 분야의 2차 저작권 양도 요구, 음악저작권 분야의 경쟁사업자 진입차단 등 지식재산권 관련 불공정거래 감시를 강화한다."
+			],
+			[
+				1,
+				"ㄴ",
+				"ETM",
+				"메타버스, NFT 등을 활용한 신유형 디지털콘텐츠 거래에서의 소비자정보제공·청약철회제도 등 소비자보호장치 작동여부를 점검한다."
+			],
+			[
+				2,
+				"ㄴ다",
+				"EF",
+				"메타버스, NFT 등을 활용한 신유형 디지털콘텐츠 거래에서의 소비자정보제공·청약철회제도 등 소비자보호장치 작동여부를 점검한다."
+			],
+			[
+				3,
+				"ㄴ",
+				"ETM",
+				"OTT·음원서비스 등 디지털 구독서비스의 까다로운 이용해지 절차, 과도한 취소 수수료 등의 실태를 파악해 개선방안을 마련한다."
+			],
+			[
+				4,
+				"ㄴ",
+				"ETM",
+				"OTT·음원서비스 등 디지털 구독서비스의 까다로운 이용해지 절차, 과도한 취소 수수료 등의 실태를 파악해 개선방안을 마련한다."
+			],
+			[
+				5,
+				"아",
+				"EC",
+				"OTT·음원서비스 등 디지털 구독서비스의 까다로운 이용해지 절차, 과도한 취소 수수료 등의 실태를 파악해 개선방안을 마련한다."
+			],
+			[
+				6,
+				"ㄴ다",
+				"EF",
+				"OTT·음원서비스 등 디지털 구독서비스의 까다로운 이용해지 절차, 과도한 취소 수수료 등의 실태를 파악해 개선방안을 마련한다."
+			]
+		],
+		"X_Lst": [
+			[
+				0,
+				"권",
+				"XSN",
+				"또 웹툰·웹소설 분야의 2차 저작권 양도 요구, 음악저작권 분야의 경쟁사업자 진입차단 등 지식재산권 관련 불공정거래 감시를 강화한다."
+			],
+			[
+				1,
+				"신",
+				"XPN",
+				"메타버스, NFT 등을 활용한 신유형 디지털콘텐츠 거래에서의 소비자정보제공·청약철회제도 등 소비자보호장치 작동여부를 점검한다."
+			]
+		],
+		"IC_Lst": []
+	},
+	"NDW": {
+		"morph_NDW": 69,
+		"NL_NDW": 57,
+		"NNG_NDW": 49,
+		"NNP_NDW": 2,
+		"NNB_NDW": 6,
+		"NP_NDW": 0,
+		"NR_NDW": 0,
+		"VL_NDW": 7,
+		"VV_NDW": 5,
+		"VA_NDW": 2,
+		"ML_NDW": 1,
+		"MM_NDW": 0,
+		"IC_NDW": 0,
+		"J_NDW": 11,
+		"E_NDW": 7,
+		"X_NDW": 2,
+		"CL_NDW": 65,
+		"FL_NDW": 20
+	}
+}

@@ -1,0 +1,9566 @@
+﻿{
+	"morpheme": {
+		"sentences": [
+			{
+				"text": {
+					"content": "나의 꿈은 화이트 해커이다.",
+					"length": 15,
+					"beginOffset": 0
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "나의",
+							"length": 2,
+							"beginOffset": 0
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "나",
+									"length": 1,
+									"beginOffset": 0
+								},
+								"tag": "NP",
+								"probability": 0.9766601,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 1,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9995407,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "나",
+						"tagged": "나/NP+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "꿈은",
+							"beginOffset": 3,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "꿈",
+									"beginOffset": 3,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9829968,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 4,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9993362,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "꿈",
+						"tagged": "꿈/NNG+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "화이트",
+							"beginOffset": 6,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "화이트",
+									"beginOffset": 6,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9619653,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "화이트",
+						"tagged": "화이트/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "해커이다.",
+							"beginOffset": 10,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "해커",
+									"beginOffset": 10,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.96658796,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 12,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.9995383,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 13,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9913516,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 14,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99973035,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "해커",
+						"tagged": "해커/NNG+이/VCP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "나의 꿈은 화이트 해커이다."
+			},
+			{
+				"text": {
+					"content": "항상 컴퓨터와 친구인 나는 부모님께서 꿈에 대해서 생각해보라고 하셨을때 고민하다 화이트해커가 되고 싶다고 말씀드렸다.",
+					"beginOffset": 16,
+					"length": 65
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "항상",
+							"beginOffset": 16,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "항상",
+									"beginOffset": 16,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9944683,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "항상",
+						"tagged": "항상/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "컴퓨터와",
+							"beginOffset": 19,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "컴퓨터",
+									"beginOffset": 19,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.981457,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "와",
+									"beginOffset": 22,
+									"length": 1
+								},
+								"tag": "JC",
+								"probability": 0.94156986,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "컴퓨터",
+						"tagged": "컴퓨터/NNG+와/JC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "친구인",
+							"beginOffset": 24,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "친구",
+									"beginOffset": 24,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9839647,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 26,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.9996419,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 26,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99904406,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "친구",
+						"tagged": "친구/NNG+이/VCP+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "나는",
+							"beginOffset": 28,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "나",
+									"beginOffset": 28,
+									"length": 1
+								},
+								"tag": "NP",
+								"probability": 0.96912414,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 29,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99906933,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "나",
+						"tagged": "나/NP+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "부모님께서",
+							"beginOffset": 31,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "부모",
+									"beginOffset": 31,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97975653,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "님",
+									"beginOffset": 33,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.9904742,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "께서",
+									"beginOffset": 34,
+									"length": 2
+								},
+								"tag": "JKS",
+								"probability": 0.99379224,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "부모",
+						"tagged": "부모/NNG+님/XSN+께서/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "꿈에",
+							"beginOffset": 37,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "꿈",
+									"beginOffset": 37,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.97349185,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 38,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99538666,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "꿈",
+						"tagged": "꿈/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "대해서",
+							"beginOffset": 40,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "대하",
+									"beginOffset": 40,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.98939914,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아서",
+									"beginOffset": 41,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99373305,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "대하",
+						"tagged": "대하/VV+아서/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "생각해",
+							"beginOffset": 44,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "생각하",
+									"beginOffset": 44,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.0,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 46,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9941662,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "생각하",
+						"tagged": "생각하/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "보라고",
+							"beginOffset": 47,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "보",
+									"beginOffset": 47,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.9616708,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "라고",
+									"beginOffset": 48,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9932723,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "보",
+						"tagged": "보/VX+라고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "하셨을",
+							"beginOffset": 51,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 51,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.8562503,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "시",
+									"beginOffset": 52,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9996238,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 52,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99985284,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 53,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.999865,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VV+시/EP+었/EP+을/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "때",
+							"beginOffset": 54,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "때",
+									"beginOffset": 54,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9812765,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "때",
+						"tagged": "때/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "고민하다",
+							"beginOffset": 56,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "고민하",
+									"beginOffset": 56,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 59,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.49981335,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "고민하",
+						"tagged": "고민하/VV+다/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "화이트해커가",
+							"beginOffset": 61,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "화이트",
+									"beginOffset": 61,
+									"length": 3
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "해커",
+									"beginOffset": 64,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 66,
+									"length": 1
+								},
+								"tag": "JKC",
+								"probability": 0.9779551,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "화이트",
+						"tagged": "화이트/NNG+해커/NNG+가/JKC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "되고",
+							"beginOffset": 68,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "되",
+									"beginOffset": 68,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.98463345,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 69,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9916196,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "되",
+						"tagged": "되/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "싶다고",
+							"beginOffset": 71,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "싶",
+									"beginOffset": 71,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.96476007,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다고",
+									"beginOffset": 72,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9946112,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "싶",
+						"tagged": "싶/VX+다고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "말씀드렸다.",
+							"beginOffset": 75,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "말씀",
+									"beginOffset": 75,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9841955,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "드리",
+									"beginOffset": 77,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9563861,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 78,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9999529,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 79,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.99084455,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 80,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9990705,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "말씀",
+						"tagged": "말씀/NNG+드리/VV+었/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "항상 컴퓨터와 친구인 나는 부모님께서 꿈에 대해서 생각해 보라고 하셨을 때 고민하다 화이트해커가 되고 싶다고 말씀드렸다."
+			},
+			{
+				"text": {
+					"content": "요즘같은 정보화시대에 컴퓨터 없는 집이 없고 휴대폰 없는 사람이 없을 만큼 많은데 화이트해커에 대해서는 잘모르고 있었다.",
+					"beginOffset": 82,
+					"length": 67
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "요즘같은",
+							"beginOffset": 82,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "요즘",
+									"beginOffset": 82,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9856561,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "같",
+									"beginOffset": 84,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.98599565,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 85,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999801,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "요즘",
+						"tagged": "요즘/NNG+같/VA+은/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "정보화시대에",
+							"beginOffset": 87,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "정보화",
+									"beginOffset": 87,
+									"length": 3
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "시대",
+									"beginOffset": 90,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 92,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9926221,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "정보화",
+						"tagged": "정보화/NNG+시대/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "컴퓨터",
+							"beginOffset": 94,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "컴퓨터",
+									"beginOffset": 94,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9859236,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "컴퓨터",
+						"tagged": "컴퓨터/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "없는",
+							"beginOffset": 98,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "없",
+									"beginOffset": 98,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9886498,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 99,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999759,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "없",
+						"tagged": "없/VA+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "집이",
+							"beginOffset": 101,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "집",
+									"beginOffset": 101,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9807409,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 102,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.97805506,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "집",
+						"tagged": "집/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "없고",
+							"beginOffset": 104,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "없",
+									"beginOffset": 104,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9888859,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 105,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.98901016,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "없",
+						"tagged": "없/VA+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "휴대폰",
+							"beginOffset": 107,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "휴대폰",
+									"beginOffset": 107,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9788669,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "휴대폰",
+						"tagged": "휴대폰/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "없는",
+							"beginOffset": 111,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "없",
+									"beginOffset": 111,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.98566866,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 112,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999863,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "없",
+						"tagged": "없/VA+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사람이",
+							"beginOffset": 114,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사람",
+									"beginOffset": 114,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9859881,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 116,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9670707,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사람",
+						"tagged": "사람/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "없을",
+							"beginOffset": 118,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "없",
+									"beginOffset": 118,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9874129,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 119,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999379,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "없",
+						"tagged": "없/VA+을/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "만큼",
+							"beginOffset": 121,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "만큼",
+									"beginOffset": 121,
+									"length": 2
+								},
+								"tag": "NNB",
+								"probability": 0.97432005,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "만큼",
+						"tagged": "만큼/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "많은데",
+							"beginOffset": 124,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "많",
+									"beginOffset": 124,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9871358,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은데",
+									"beginOffset": 125,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9911379,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "많",
+						"tagged": "많/VA+은데/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "화이트해커에",
+							"beginOffset": 128,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "화이트",
+									"beginOffset": 128,
+									"length": 3
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "해커",
+									"beginOffset": 131,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 133,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.981873,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "화이트",
+						"tagged": "화이트/NNG+해커/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "대해서는",
+							"beginOffset": 135,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "대하",
+									"beginOffset": 135,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9901339,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아서",
+									"beginOffset": 136,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.992609,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 138,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99897534,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "대하",
+						"tagged": "대하/VV+아서/EC+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "잘",
+							"beginOffset": 140,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "잘",
+									"beginOffset": 140,
+									"length": 1
+								},
+								"tag": "MAG",
+								"probability": 0.9904876,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "잘",
+						"tagged": "잘/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "모르고",
+							"beginOffset": 141,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "모르",
+									"beginOffset": 141,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.98935336,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 143,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99204475,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "모르",
+						"tagged": "모르/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있었다.",
+							"beginOffset": 145,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 145,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.95651513,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 146,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99984217,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 147,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9890161,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 148,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99942636,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VX+었/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "요즘같은 정보화시대에 컴퓨터 없는 집이 없고 휴대폰 없는 사람이 없을 만큼 많은데 화이트해커에 대해서는 잘 모르고 있었다."
+			},
+			{
+				"text": {
+					"content": "해커가 나쁜일인 줄만 알고 있었던 것이다.",
+					"beginOffset": 150,
+					"length": 23
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "해커가",
+							"beginOffset": 150,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "해커",
+									"beginOffset": 150,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.5814135,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 152,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9757164,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "해커",
+						"tagged": "해커/NNG+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "나쁜",
+							"beginOffset": 154,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "나쁘",
+									"beginOffset": 154,
+									"length": 2
+								},
+								"tag": "VA",
+								"probability": 0.9879375,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 155,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999564,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "나쁘",
+						"tagged": "나쁘/VA+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "일인",
+							"beginOffset": 156,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "일",
+									"beginOffset": 156,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.64527506,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 157,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.99993455,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 157,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9998278,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "일",
+						"tagged": "일/NNG+이/VCP+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "줄만",
+							"beginOffset": 159,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "줄",
+									"beginOffset": 159,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.96768326,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "만",
+									"beginOffset": 160,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9989657,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "줄",
+						"tagged": "줄/NNB+만/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "알고",
+							"beginOffset": 162,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "알",
+									"beginOffset": 162,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9904636,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 163,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9921573,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "알",
+						"tagged": "알/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있었던",
+							"beginOffset": 165,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 165,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.948957,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 166,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9999062,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "던",
+									"beginOffset": 167,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99991244,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VX+었/EP+던/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "것이다.",
+							"beginOffset": 169,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "것",
+									"beginOffset": 169,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.97975576,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 170,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.99970293,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 171,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9919496,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 172,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9994513,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "것",
+						"tagged": "것/NNB+이/VCP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "해커가 나쁜 일인 줄만 알고 있었던 것이다."
+			},
+			{
+				"text": {
+					"content": "블랙해커와 화이트해커 해커의 종류에 대해서 몰랐다.",
+					"beginOffset": 174,
+					"length": 28
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "블랙해커와",
+							"beginOffset": 174,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "블랙",
+									"beginOffset": 174,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "해커",
+									"beginOffset": 176,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "와",
+									"beginOffset": 178,
+									"length": 1
+								},
+								"tag": "JC",
+								"probability": 0.8285251,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "블랙",
+						"tagged": "블랙/NNG+해커/NNG+와/JC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "화이트해커",
+							"beginOffset": 180,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "화이트",
+									"beginOffset": 180,
+									"length": 3
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "해커",
+									"beginOffset": 183,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							}
+						],
+						"lemma": "화이트",
+						"tagged": "화이트/NNG+해커/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "해커의",
+							"beginOffset": 186,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "해커",
+									"beginOffset": 186,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9207693,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 188,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99928033,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "해커",
+						"tagged": "해커/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "종류에",
+							"beginOffset": 190,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "종류",
+									"beginOffset": 190,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98326486,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 192,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99773216,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "종류",
+						"tagged": "종류/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "대해서",
+							"beginOffset": 194,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "대하",
+									"beginOffset": 194,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.99110097,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아서",
+									"beginOffset": 195,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9945095,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "대하",
+						"tagged": "대하/VV+아서/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "몰랐다.",
+							"beginOffset": 198,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "모르",
+									"beginOffset": 198,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.99043614,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 199,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99963,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 200,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9914672,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 201,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99953806,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "모르",
+						"tagged": "모르/VV+았/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "블랙해커와 화이트해커 해커의 종류에 대해서 몰랐다."
+			},
+			{
+				"text": {
+					"content": "늘 블랙해커가 나쁘다고만 무심히 생각했지 막을수 있는 해커가 있다는 사실을 몰랐던거 같아.",
+					"beginOffset": 203,
+					"length": 50
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "늘",
+							"beginOffset": 203,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "늘",
+									"beginOffset": 203,
+									"length": 1
+								},
+								"tag": "MAG",
+								"probability": 0.98911744,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "늘",
+						"tagged": "늘/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "블랙해커가",
+							"beginOffset": 205,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "블랙",
+									"beginOffset": 205,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "해커",
+									"beginOffset": 207,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 209,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9869647,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "블랙",
+						"tagged": "블랙/NNG+해커/NNG+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "나쁘다고만",
+							"beginOffset": 211,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "나쁘",
+									"beginOffset": 211,
+									"length": 2
+								},
+								"tag": "VA",
+								"probability": 0.9876523,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다고",
+									"beginOffset": 213,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9908872,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "만",
+									"beginOffset": 215,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9992523,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "나쁘",
+						"tagged": "나쁘/VA+다고/EC+만/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "무심히",
+							"beginOffset": 217,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "무심히",
+									"beginOffset": 217,
+									"length": 3
+								},
+								"tag": "MAG",
+								"probability": 0.98737293,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "무심히",
+						"tagged": "무심히/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "생각했지",
+							"beginOffset": 221,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "생각하",
+									"beginOffset": 221,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.0,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 223,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99992526,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "지",
+									"beginOffset": 224,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9633843,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "생각하",
+						"tagged": "생각하/VV+았/EP+지/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "막을",
+							"beginOffset": 226,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "막",
+									"beginOffset": 226,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9873637,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 227,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99994254,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "막",
+						"tagged": "막/VV+을/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "수",
+							"beginOffset": 228,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "수",
+									"beginOffset": 228,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.98042387,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "수",
+						"tagged": "수/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있는",
+							"beginOffset": 230,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 230,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.97550505,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 231,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999729,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VA+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "해커가",
+							"beginOffset": 233,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "해커",
+									"beginOffset": 233,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9333226,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 235,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.98218405,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "해커",
+						"tagged": "해커/NNG+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있다는",
+							"beginOffset": 237,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 237,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.95398843,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다는",
+									"beginOffset": 238,
+									"length": 2
+								},
+								"tag": "ETM",
+								"probability": 0.99995583,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VA+다는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사실을",
+							"beginOffset": 241,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사실",
+									"beginOffset": 241,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98560435,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 243,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99980617,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사실",
+						"tagged": "사실/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "몰랐던",
+							"beginOffset": 245,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "모르",
+									"beginOffset": 245,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.98924863,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 246,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.999909,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "던",
+									"beginOffset": 247,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.999982,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "모르",
+						"tagged": "모르/VV+았/EP+던/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "거",
+							"beginOffset": 248,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "거",
+									"beginOffset": 248,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.98364466,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "거",
+						"tagged": "거/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "같아.",
+							"beginOffset": 250,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "같",
+									"beginOffset": 250,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.98518264,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 251,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.98310155,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 252,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9996117,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "같",
+						"tagged": "같/VA+아/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "늘 블랙해커가 나쁘다고만 무심히 생각했지 막을 수 있는 해커가 있다는 사실을 몰랐던 거 같아."
+			},
+			{
+				"text": {
+					"content": "화이트 해커는 보안 시스템의 취약점을 발견해 관리자에게 제보함으로써 블랙해커의 공격을 예방하기도 안다.",
+					"beginOffset": 254,
+					"length": 57
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "화이트",
+							"beginOffset": 254,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "화이트",
+									"beginOffset": 254,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9616791,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "화이트",
+						"tagged": "화이트/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "해커는",
+							"beginOffset": 258,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "해커",
+									"beginOffset": 258,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.763426,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 260,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99951965,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "해커",
+						"tagged": "해커/NNG+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "보안",
+							"beginOffset": 262,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "보안",
+									"beginOffset": 262,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9807576,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "보안",
+						"tagged": "보안/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "시스템의",
+							"beginOffset": 265,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "시스템",
+									"beginOffset": 265,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9840451,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 268,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9996275,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "시스템",
+						"tagged": "시스템/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "취약점을",
+							"beginOffset": 270,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "취약점",
+									"beginOffset": 270,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.98081684,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 273,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999842,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "취약점",
+						"tagged": "취약점/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "발견해",
+							"beginOffset": 275,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "발견하",
+									"beginOffset": 275,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 277,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99538445,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "발견하",
+						"tagged": "발견하/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "관리자에게",
+							"beginOffset": 279,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "관리자",
+									"beginOffset": 279,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.98263377,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에게",
+									"beginOffset": 282,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.99673337,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "관리자",
+						"tagged": "관리자/NNG+에게/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "제보함으로써",
+							"beginOffset": 285,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "제보하",
+									"beginOffset": 285,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㅁ",
+									"beginOffset": 287,
+									"length": 1
+								},
+								"tag": "ETN",
+								"probability": 0.99992394,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으로써",
+									"beginOffset": 288,
+									"length": 3
+								},
+								"tag": "JKB",
+								"probability": 0.99407005,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "제보하",
+						"tagged": "제보하/VV+ㅁ/ETN+으로써/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "블랙해커의",
+							"beginOffset": 292,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "블랙",
+									"beginOffset": 292,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "해커",
+									"beginOffset": 294,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 296,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99961895,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "블랙",
+						"tagged": "블랙/NNG+해커/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "공격을",
+							"beginOffset": 298,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "공격",
+									"beginOffset": 298,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9829605,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 300,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99999124,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "공격",
+						"tagged": "공격/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "예방하기도",
+							"beginOffset": 302,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "예방하",
+									"beginOffset": 302,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "기",
+									"beginOffset": 305,
+									"length": 1
+								},
+								"tag": "ETN",
+								"probability": 0.99981165,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 306,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9996283,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "예방하",
+						"tagged": "예방하/VV+기/ETN+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "안다.",
+							"beginOffset": 308,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "알",
+									"beginOffset": 308,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9880186,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ다",
+									"beginOffset": 308,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.98728544,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 310,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9997396,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "알",
+						"tagged": "알/VV+ㄴ다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "화이트 해커는 보안 시스템의 취약점을 발견해 관리자에게 제보함으로써 블랙해커의 공격을 예방하기도 안다."
+			},
+			{
+				"text": {
+					"content": "최근에 화이트 해커는 민,관에서 서버의 취약점을 찾아 보안 기술을 만드는 보안 전문자들을 말하기도한다.",
+					"beginOffset": 312,
+					"length": 57
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "최근에",
+							"beginOffset": 312,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "최근",
+									"beginOffset": 312,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98233795,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 314,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99540627,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "최근",
+						"tagged": "최근/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "화이트",
+							"beginOffset": 316,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "화이트",
+									"beginOffset": 316,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9582828,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "화이트",
+						"tagged": "화이트/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "해커는",
+							"beginOffset": 320,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "해커",
+									"beginOffset": 320,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.7833727,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 322,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9983216,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "해커",
+						"tagged": "해커/NNG+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "민,관에서",
+							"beginOffset": 324,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "민",
+									"beginOffset": 324,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9673182,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 325,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.99960595,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "관",
+									"beginOffset": 326,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.95680684,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에서",
+									"beginOffset": 327,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.99174887,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "민",
+						"tagged": "민/NNG+,/SP+관/NNG+에서/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "서버의",
+							"beginOffset": 330,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "서버",
+									"beginOffset": 330,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9735103,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 332,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9998169,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "서버",
+						"tagged": "서버/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "취약점을",
+							"beginOffset": 334,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "취약점",
+									"beginOffset": 334,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.98164403,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 337,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999118,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "취약점",
+						"tagged": "취약점/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "찾아",
+							"beginOffset": 339,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "찾",
+									"beginOffset": 339,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.99011886,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 340,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9908237,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "찾",
+						"tagged": "찾/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "보안",
+							"beginOffset": 342,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "보안",
+									"beginOffset": 342,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98215836,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "보안",
+						"tagged": "보안/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "기술을",
+							"beginOffset": 345,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "기술",
+									"beginOffset": 345,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9829636,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 347,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999923,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "기술",
+						"tagged": "기술/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "만드는",
+							"beginOffset": 349,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "만들",
+									"beginOffset": 349,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9885544,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 351,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99992985,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "만들",
+						"tagged": "만들/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "보안",
+							"beginOffset": 353,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "보안",
+									"beginOffset": 353,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98089355,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "보안",
+						"tagged": "보안/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "전문자들을",
+							"beginOffset": 356,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "전문자",
+									"beginOffset": 356,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.96083635,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "들",
+									"beginOffset": 359,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.9885005,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 360,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999608,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "전문자",
+						"tagged": "전문자/NNG+들/XSN+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "말하기도",
+							"beginOffset": 362,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "말하",
+									"beginOffset": 362,
+									"length": 2
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "기",
+									"beginOffset": 364,
+									"length": 1
+								},
+								"tag": "ETN",
+								"probability": 0.99990463,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 365,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9983519,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "말하",
+						"tagged": "말하/VV+기/ETN+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "한다.",
+							"beginOffset": 366,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 366,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.59153277,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ다",
+									"beginOffset": 366,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.99160844,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 368,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9996855,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VX+ㄴ다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "최근에 화이트 해커는 민,관에서 서버의 취약점을 찾아 보안 기술을 만드는 보안 전문자들을 말하기도 한다."
+			},
+			{
+				"text": {
+					"content": "또 이들 가운데 설계를 분석해 시스템에 존재하는 취약점을 찾아내 공격시나리오를 짤 수 있는 최고 수준의 인력을 앨리트 해커라고 부른다고 한다.",
+					"beginOffset": 370,
+					"length": 79
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "또",
+							"beginOffset": 370,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "또",
+									"beginOffset": 370,
+									"length": 1
+								},
+								"tag": "MAG",
+								"probability": 0.99032104,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "또",
+						"tagged": "또/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이들",
+							"beginOffset": 372,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 372,
+									"length": 1
+								},
+								"tag": "NP",
+								"probability": 0.9840011,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "들",
+									"beginOffset": 373,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.991921,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이",
+						"tagged": "이/NP+들/XSN",
+						"modified": "이들"
+					},
+					{
+						"text": {
+							"content": "가운데",
+							"beginOffset": 375,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "가운데",
+									"beginOffset": 375,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9835826,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "가운데",
+						"tagged": "가운데/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "설계를",
+							"beginOffset": 379,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "설계",
+									"beginOffset": 379,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9733471,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 381,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99996877,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "설계",
+						"tagged": "설계/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "분석해",
+							"beginOffset": 383,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "분석하",
+									"beginOffset": 383,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 385,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99493575,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "분석하",
+						"tagged": "분석하/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "시스템에",
+							"beginOffset": 387,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "시스템",
+									"beginOffset": 387,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.98354244,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 390,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9965286,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "시스템",
+						"tagged": "시스템/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "존재하는",
+							"beginOffset": 392,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "존재하",
+									"beginOffset": 392,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 395,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999088,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "존재하",
+						"tagged": "존재하/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "취약점을",
+							"beginOffset": 397,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "취약점",
+									"beginOffset": 397,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.98006487,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 400,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99991596,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "취약점",
+						"tagged": "취약점/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "찾아내",
+							"beginOffset": 402,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "찾아내",
+									"beginOffset": 402,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.9898776,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어",
+									"beginOffset": 404,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9940354,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "찾아내",
+						"tagged": "찾아내/VV+어/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "공격시나리오를",
+							"beginOffset": 406,
+							"length": 7
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "공격",
+									"beginOffset": 406,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9758764,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "시나리오",
+									"beginOffset": 408,
+									"length": 4
+								},
+								"tag": "NNG",
+								"probability": 0.9861557,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 412,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99999034,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "공격",
+						"tagged": "공격/NNG+시나리오/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "짤",
+							"beginOffset": 414,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "짜",
+									"beginOffset": 414,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.98051286,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ",
+									"beginOffset": 414,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99995124,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "짜",
+						"tagged": "짜/VV+ㄹ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "수",
+							"beginOffset": 416,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "수",
+									"beginOffset": 416,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.97457033,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "수",
+						"tagged": "수/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있는",
+							"beginOffset": 418,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 418,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9683263,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 419,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99997,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VA+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "최고",
+							"beginOffset": 421,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "최고",
+									"beginOffset": 421,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9829766,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "최고",
+						"tagged": "최고/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "수준의",
+							"beginOffset": 424,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "수준",
+									"beginOffset": 424,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9851195,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 426,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9987641,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "수준",
+						"tagged": "수준/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "인력을",
+							"beginOffset": 428,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "인력",
+									"beginOffset": 428,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98169255,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 430,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999461,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "인력",
+						"tagged": "인력/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "앨리트",
+							"beginOffset": 432,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "앨리트",
+									"beginOffset": 432,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.42760167,
+								"outOfVocab": "OUT_OF_VOCAB"
+							}
+						],
+						"lemma": "앨리트",
+						"tagged": "앨리트/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "해커라고",
+							"beginOffset": 436,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "해커",
+									"beginOffset": 436,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.8475315,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 438,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.9998813,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "라고",
+									"beginOffset": 438,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.98093593,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "해커",
+						"tagged": "해커/NNG+이/VCP+라고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "부른다고",
+							"beginOffset": 441,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "부르",
+									"beginOffset": 441,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9877319,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ다고",
+									"beginOffset": 442,
+									"length": 3
+								},
+								"tag": "EC",
+								"probability": 0.99113744,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "부르",
+						"tagged": "부르/VV+ㄴ다고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "한다.",
+							"beginOffset": 446,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 446,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.52646506,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ다",
+									"beginOffset": 446,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.9917967,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 448,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9997596,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VV+ㄴ다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "또 이들 가운데 설계를 분석해 시스템에 존재하는 취약점을 찾아내 공격시나리오를 짤 수 있는 최고 수준의 인력을 앨리트 해커라고 부른다고 한다."
+			},
+			{
+				"text": {
+					"content": "한국은 중국,미국,북한에비에 현저히 화이트 해커가 작다고하니 취업도 잘될거 같다.",
+					"beginOffset": 450,
+					"length": 45
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "한국은",
+							"beginOffset": 450,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "한국",
+									"beginOffset": 450,
+									"length": 2
+								},
+								"tag": "NNP",
+								"probability": 0.96981955,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 452,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9992087,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "한국",
+						"tagged": "한국/NNP+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "중국,미국,북한에비에",
+							"beginOffset": 454,
+							"length": 11
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "중국",
+									"beginOffset": 454,
+									"length": 2
+								},
+								"tag": "NNP",
+								"probability": 0.972029,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 456,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.9984796,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "미국",
+									"beginOffset": 457,
+									"length": 2
+								},
+								"tag": "NNP",
+								"probability": 0.9706427,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 459,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.9988149,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "북한",
+									"beginOffset": 460,
+									"length": 2
+								},
+								"tag": "NNP",
+								"probability": 0.9192514,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에비",
+									"beginOffset": 462,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.60380566,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 464,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9902783,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "중국",
+						"tagged": "중국/NNP+,/SP+미국/NNP+,/SP+북한/NNP+에비/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "현저히",
+							"beginOffset": 466,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "현저히",
+									"beginOffset": 466,
+									"length": 3
+								},
+								"tag": "MAG",
+								"probability": 0.992514,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "현저히",
+						"tagged": "현저히/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "화이트",
+							"beginOffset": 470,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "화이트",
+									"beginOffset": 470,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9731523,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "화이트",
+						"tagged": "화이트/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "해커가",
+							"beginOffset": 474,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "해커",
+									"beginOffset": 474,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.96703345,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 476,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.96335864,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "해커",
+						"tagged": "해커/NNG+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "작다고",
+							"beginOffset": 478,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "작",
+									"beginOffset": 478,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9865362,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다고",
+									"beginOffset": 479,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9928207,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "작",
+						"tagged": "작/VA+다고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "하니",
+							"beginOffset": 481,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 481,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.77893144,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "니",
+									"beginOffset": 482,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99413544,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VV+니/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "취업도",
+							"beginOffset": 484,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "취업",
+									"beginOffset": 484,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9811278,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 486,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9992115,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "취업",
+						"tagged": "취업/NNG+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "잘될",
+							"beginOffset": 488,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "잘되",
+									"beginOffset": 488,
+									"length": 2
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄹ",
+									"beginOffset": 489,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9997852,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "잘되",
+						"tagged": "잘되/VV+ㄹ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "거",
+							"beginOffset": 490,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "거",
+									"beginOffset": 490,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9785291,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "거",
+						"tagged": "거/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "같다.",
+							"beginOffset": 492,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "같",
+									"beginOffset": 492,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9884223,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 493,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9908841,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 494,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99957526,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "같",
+						"tagged": "같/VA+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "한국은 중국,미국,북한에비에 현저히 화이트 해커가 작다고 하니 취업도 잘될 거 같다."
+			},
+			{
+				"text": {
+					"content": "우선 화이트 해커가 되려니 프로그래밍,서버,네트워크,데이터베이스 그리고 보안기법에 대한 교육과정을 통해 준비해야 한다고 한다.",
+					"beginOffset": 496,
+					"length": 70
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "우선",
+							"beginOffset": 496,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "우선",
+									"beginOffset": 496,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.99166983,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "우선",
+						"tagged": "우선/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "화이트",
+							"beginOffset": 499,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "화이트",
+									"beginOffset": 499,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.90751344,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "화이트",
+						"tagged": "화이트/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "해커가",
+							"beginOffset": 503,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "해커",
+									"beginOffset": 503,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.8897005,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 505,
+									"length": 1
+								},
+								"tag": "JKC",
+								"probability": 0.82466066,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "해커",
+						"tagged": "해커/NNG+가/JKC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "되려니",
+							"beginOffset": 507,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "되",
+									"beginOffset": 507,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9792995,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "려니",
+									"beginOffset": 508,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9572534,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "되",
+						"tagged": "되/VV+려니/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "프로그래밍,서버,네트워크,데이터베이스",
+							"beginOffset": 511,
+							"length": 20
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "프로그래밍",
+									"beginOffset": 511,
+									"length": 5
+								},
+								"tag": "NNG",
+								"probability": 0.9776293,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 516,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.99907833,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "서버",
+									"beginOffset": 517,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97793967,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 519,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.9988231,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "네트워크",
+									"beginOffset": 520,
+									"length": 4
+								},
+								"tag": "NNG",
+								"probability": 0.98033273,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 524,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.99943537,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "데이터베이스",
+									"beginOffset": 525,
+									"length": 6
+								},
+								"tag": "NNG",
+								"probability": 0.9764368,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "프로그래밍",
+						"tagged": "프로그래밍/NNG+,/SP+서버/NNG+,/SP+네트워크/NNG+,/SP+데이터베이스/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "그리고",
+							"beginOffset": 532,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그리고",
+									"beginOffset": 532,
+									"length": 3
+								},
+								"tag": "MAJ",
+								"probability": 0.9984155,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그리고",
+						"tagged": "그리고/MAJ",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "보안기법에",
+							"beginOffset": 536,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "보안",
+									"beginOffset": 536,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97531456,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "기법",
+									"beginOffset": 538,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.983396,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 540,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9932533,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "보안",
+						"tagged": "보안/NNG+기법/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "대한",
+							"beginOffset": 542,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "대하",
+									"beginOffset": 542,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.98455065,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 543,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999128,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "대하",
+						"tagged": "대하/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "교육과정을",
+							"beginOffset": 545,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "교육",
+									"beginOffset": 545,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "과정",
+									"beginOffset": 547,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 549,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.999957,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "교육",
+						"tagged": "교육/NNG+과정/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "통해",
+							"beginOffset": 551,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "통하",
+									"beginOffset": 551,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.98900044,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 552,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99459,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "통하",
+						"tagged": "통하/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "준비해야",
+							"beginOffset": 554,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "준비하",
+									"beginOffset": 554,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "아야",
+									"beginOffset": 556,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9926409,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "준비하",
+						"tagged": "준비하/VV+아야/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "한다고",
+							"beginOffset": 559,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 559,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.604192,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ다고",
+									"beginOffset": 559,
+									"length": 3
+								},
+								"tag": "EC",
+								"probability": 0.9918495,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VX+ㄴ다고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "한다.",
+							"beginOffset": 563,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 563,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.5506765,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ다",
+									"beginOffset": 563,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.99194753,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 565,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9998193,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VV+ㄴ다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "우선 화이트 해커가 되려니 프로그래밍,서버,네트워크,데이터베이스 그리고 보안기법에 대한 교육과정을 통해 준비해야 한다고 한다."
+			},
+			{
+				"text": {
+					"content": "인터넷으로 조회하다 보니 유명한 학원들이 줄줄이 나온다.",
+					"beginOffset": 567,
+					"length": 31
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "인터넷으로",
+							"beginOffset": 567,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "인터넷",
+									"beginOffset": 567,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.98302776,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으로",
+									"beginOffset": 570,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.99632037,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "인터넷",
+						"tagged": "인터넷/NNG+으로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "조회하다",
+							"beginOffset": 573,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "조회하",
+									"beginOffset": 573,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 576,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9757567,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "조회하",
+						"tagged": "조회하/VV+다/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "보니",
+							"beginOffset": 578,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "보",
+									"beginOffset": 578,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.9566138,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "니",
+									"beginOffset": 579,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99464494,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "보",
+						"tagged": "보/VX+니/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "유명한",
+							"beginOffset": 581,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "유명하",
+									"beginOffset": 581,
+									"length": 3
+								},
+								"tag": "VA",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 583,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99997467,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "유명하",
+						"tagged": "유명하/VA+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "학원들이",
+							"beginOffset": 585,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "학원",
+									"beginOffset": 585,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9819432,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "들",
+									"beginOffset": 587,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.9894837,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 588,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9959626,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "학원",
+						"tagged": "학원/NNG+들/XSN+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "줄줄이",
+							"beginOffset": 590,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "줄줄이",
+									"beginOffset": 590,
+									"length": 3
+								},
+								"tag": "MAG",
+								"probability": 0.9942554,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "줄줄이",
+						"tagged": "줄줄이/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "나온다.",
+							"beginOffset": 594,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "나오",
+									"beginOffset": 594,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.988977,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ다",
+									"beginOffset": 595,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.9921265,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 597,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99970454,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "나오",
+						"tagged": "나오/VV+ㄴ다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "인터넷으로 조회하다 보니 유명한 학원들이 줄줄이 나온다."
+			},
+			{
+				"text": {
+					"content": "누군가 주변에서 코칭해준다면 확실하게 설계를 해볼텐데 학원으로 가서 학원 스케줄에 맞추어 설계하는 수 밖에 없을 듯 하다.",
+					"beginOffset": 599,
+					"length": 68
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "누군가",
+							"beginOffset": 599,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "누구",
+									"beginOffset": 599,
+									"length": 2
+								},
+								"tag": "NP",
+								"probability": 0.9862352,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 600,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.99993896,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ가",
+									"beginOffset": 600,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.97944355,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "누구",
+						"tagged": "누구/NP+이/VCP+ㄴ가/EF",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "주변에서",
+							"beginOffset": 603,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "주변",
+									"beginOffset": 603,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9802337,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에서",
+									"beginOffset": 605,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.99472874,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "주변",
+						"tagged": "주변/NNG+에서/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "코칭해",
+							"beginOffset": 608,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "코칭",
+									"beginOffset": 608,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9846591,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 610,
+									"length": 1
+								},
+								"tag": "XSV",
+								"probability": 0.9825791,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 610,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99185604,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "코칭",
+						"tagged": "코칭/NNG+하/XSV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "준다면",
+							"beginOffset": 611,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "주",
+									"beginOffset": 611,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.9770552,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ다면",
+									"beginOffset": 611,
+									"length": 3
+								},
+								"tag": "EC",
+								"probability": 0.9946196,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "주",
+						"tagged": "주/VX+ㄴ다면/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "확실하게",
+							"beginOffset": 615,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "확실하",
+									"beginOffset": 615,
+									"length": 3
+								},
+								"tag": "VA",
+								"probability": 0.9861739,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "게",
+									"beginOffset": 618,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9927447,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "확실하",
+						"tagged": "확실하/VA+게/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "설계를",
+							"beginOffset": 620,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "설계",
+									"beginOffset": 620,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98243195,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 622,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999843,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "설계",
+						"tagged": "설계/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "해볼",
+							"beginOffset": 624,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "해보",
+									"beginOffset": 624,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.0,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ",
+									"beginOffset": 625,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999814,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "해보",
+						"tagged": "해보/VV+ㄹ/ETM",
+						"modified": "해볼"
+					},
+					{
+						"text": {
+							"content": "텐데",
+							"beginOffset": 626,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "터",
+									"beginOffset": 626,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9775089,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 626,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.99981385,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ데",
+									"beginOffset": 626,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.98950243,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "터",
+						"tagged": "터/NNB+이/VCP+ㄴ데/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "학원으로",
+							"beginOffset": 629,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "학원",
+									"beginOffset": 629,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97771716,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으로",
+									"beginOffset": 631,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9950777,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "학원",
+						"tagged": "학원/NNG+으로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "가서",
+							"beginOffset": 634,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 634,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9860752,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아서",
+									"beginOffset": 634,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99462235,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "가",
+						"tagged": "가/VV+아서/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "학원",
+							"beginOffset": 637,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "학원",
+									"beginOffset": 637,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98014325,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "학원",
+						"tagged": "학원/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "스케줄에",
+							"beginOffset": 640,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "스케줄",
+									"beginOffset": 640,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.98498046,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 643,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9914014,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "스케줄",
+						"tagged": "스케줄/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "맞추어",
+							"beginOffset": 645,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "맞추",
+									"beginOffset": 645,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9892897,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어",
+									"beginOffset": 647,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.98939735,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "맞추",
+						"tagged": "맞추/VV+어/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "설계하는",
+							"beginOffset": 649,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "설계하",
+									"beginOffset": 649,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 652,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99994475,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "설계하",
+						"tagged": "설계하/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "수",
+							"beginOffset": 654,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "수",
+									"beginOffset": 654,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.91142976,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "수",
+						"tagged": "수/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "밖에",
+							"beginOffset": 656,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "밖",
+									"beginOffset": 656,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9846784,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 657,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99624854,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "밖",
+						"tagged": "밖/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "없을",
+							"beginOffset": 659,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "없",
+									"beginOffset": 659,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.98936284,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 660,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999526,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "없",
+						"tagged": "없/VA+을/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "듯",
+							"beginOffset": 662,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "듯",
+									"beginOffset": 662,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9776181,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "듯",
+						"tagged": "듯/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "하다.",
+							"beginOffset": 664,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 664,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.58253706,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 665,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9902673,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 666,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9998077,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VA+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "누군가 주변에서 코칭해 준다면 확실하게 설계를 해볼 텐데 학원으로 가서 학원 스케줄에 맞추어 설계하는 수 밖에 없을 듯 하다."
+			}
+		],
+		"language": "ko_KR"
+	},
+	"ttr": {
+		"lemma_Cnt": 330,
+		"lemma_TTR": 0.45272206303724927,
+		"CL_TTR": 0.6075268817204301,
+		"NL_TTR": 0.6153846153846154,
+		"NN_TTR": 0.61,
+		"NNG_TTR": 0.5813953488372093,
+		"NNP_TTR": 1.0,
+		"NNB_TTR": 0.7,
+		"NP_TTR": 0.75,
+		"NR_TTR": 0,
+		"VL_TTR": 0.5616438356164384,
+		"VV_TTR": 0.725,
+		"VA_TTR": 0.5,
+		"ML_TTR": 1.0,
+		"MM_TTR": 0,
+		"MA_TTR": 1.0,
+		"MAJ_TTR": 1.0,
+		"IC_TTR": 0,
+		"FL_TTR": 0.3194444444444444,
+		"J_TTR": 0.2807017543859649,
+		"E_TTR": 0.36585365853658536,
+		"X_TTR": 0.6,
+		"lemma_RTTR": 8.45754609564059,
+		"CL_RTTR": 8.285561998706461,
+		"NL_RTTR": 6.275716324421889,
+		"NN_RTTR": 6.1,
+		"NNG_RTTR": 5.391638660171921,
+		"NNP_RTTR": 2.0,
+		"NNB_RTTR": 2.2135943621178655,
+		"NP_RTTR": 1.5,
+		"NR_RTTR": 0,
+		"VL_RTTR": 4.798687035041354,
+		"VV_RTTR": 4.58530260724415,
+		"VA_RTTR": 2.121320343559643,
+		"ML_RTTR": 3.0,
+		"MM_RTTR": 0,
+		"MA_RTTR": 3.0,
+		"MAJ_RTTR": 1.0,
+		"IC_RTTR": 0,
+		"FL_RTTR": 3.8333333333333335,
+		"J_RTTR": 2.11925177130407,
+		"E_RTTR": 3.312945782245396,
+		"X_RTTR": 1.3416407864998738,
+		"lemma_CTTR": 5.98038819642527,
+		"CL_CTTR": 5.858777075226903,
+		"NL_CTTR": 4.437601569801833,
+		"NN_CTTR": 4.313351365237939,
+		"NNG_CTTR": 3.8124642583151167,
+		"NNP_CTTR": 1.414213562373095,
+		"NNB_CTTR": 1.5652475842498528,
+		"NP_CTTR": 1.0606601717798212,
+		"NR_CTTR": 0,
+		"VL_CTTR": 3.3931841432697087,
+		"VV_CTTR": 3.2422985673746947,
+		"VA_CTTR": 1.5,
+		"ML_CTTR": 2.121320343559643,
+		"MM_CTTR": 0,
+		"MA_CTTR": 2.121320343559643,
+		"MAJ_CTTR": 0.7071067811865475,
+		"IC_CTTR": 0,
+		"FL_CTTR": 2.7105759945484325,
+		"J_CTTR": 1.4985372985307104,
+		"E_CTTR": 2.342606428329091,
+		"X_CTTR": 0.9486832980505138,
+		"lemma_MSTTR": 0.7633333333333333,
+		"CL_MSTTR": 0.7533333333333333,
+		"NL_MSTTR": 0.69,
+		"NN_MSTTR": 0.69,
+		"NNG_MSTTR": 0.56,
+		"NNP_MSTTR": 1.0,
+		"NNB_MSTTR": 0.7,
+		"NP_MSTTR": 0.75,
+		"NR_MSTTR": 0,
+		"VL_MSTTR": 0.58,
+		"VV_MSTTR": 0.725,
+		"VA_MSTTR": 0.5,
+		"ML_MSTTR": 1.0,
+		"MM_MSTTR": 0,
+		"MA_MSTTR": 1.0,
+		"MAJ_MSTTR": 1.0,
+		"IC_MSTTR": 0,
+		"FL_MSTTR": 0.46,
+		"J_MSTTR": 0.3,
+		"E_MSTTR": 0.4,
+		"X_MSTTR": 0.6,
+		"lemma_MATTR": 0.7706666666666679,
+		"CL_MATTR": 0.7677372262773721,
+		"NL_MATTR": 0.6643636363636365,
+		"NN_MATTR": 0.6525490196078434,
+		"NNG_MATTR": 0.5929729729729728,
+		"NNP_MATTR": 1.0,
+		"NNB_MATTR": 0.7,
+		"NP_MATTR": 0.75,
+		"NR_MATTR": 0,
+		"VL_MATTR": 0.6325000000000001,
+		"VV_MATTR": 0.725,
+		"VA_MATTR": 0.5,
+		"ML_MATTR": 1.0,
+		"MM_MATTR": 0,
+		"MA_MATTR": 1.0,
+		"MAJ_MATTR": 1.0,
+		"IC_MATTR": 0,
+		"FL_MATTR": 0.4962105263157894,
+		"J_MATTR": 0.31,
+		"E_MATTR": 0.467878787878788,
+		"X_MATTR": 0.6,
+		"lemma_MTLD": 64.17776609007325,
+		"CL_MTLD": 58.736495730527906,
+		"NL_MTLD": 27.968876512297285,
+		"NN_MTLD": 26.987806540976194,
+		"NNG_MTLD": 20.94111101219621,
+		"NNP_MTLD": 0.0,
+		"NNB_MTLD": 9.333333333333334,
+		"NP_MTLD": 4.48,
+		"NR_MTLD": 0.0,
+		"VL_MTLD": 28.8476497569145,
+		"VV_MTLD": 36.298595713229865,
+		"VA_MTLD": 9.452991452991453,
+		"ML_MTLD": 0.0,
+		"MM_MTLD": 0.0,
+		"MA_MTLD": 0.0,
+		"MAJ_MTLD": 0.0,
+		"IC_MTLD": 0.0,
+		"FL_MTLD": 22.114835105197912,
+		"J_MTLD": 11.4,
+		"E_MTLD": 17.52490974729242,
+		"X_MTLD": 3.5,
+		"lemma_VOCDD": 75.84627037494582,
+		"CL_VOCDD": 75.30233352321025,
+		"NL_VOCDD": 43.56808528314821,
+		"NN_VOCDD": 40.864884026281075,
+		"NNG_VOCDD": 30.47035065376701,
+		"NNP_VOCDD": 0,
+		"NNB_VOCDD": 0,
+		"NP_VOCDD": 0,
+		"NR_VOCDD": 0,
+		"VL_VOCDD": 26.328724155735557,
+		"VV_VOCDD": 0,
+		"VA_VOCDD": 0,
+		"ML_VOCDD": 0,
+		"MM_VOCDD": 0,
+		"MA_VOCDD": 0,
+		"MAJ_VOCDD": 0,
+		"IC_VOCDD": 0,
+		"FL_VOCDD": 19.290284085827988,
+		"J_VOCDD": 4.044044999206841,
+		"E_VOCDD": 12.329752973320716,
+		"X_VOCDD": 0,
+		"lemma_HDD": 0.8170294427375427,
+		"CL_HDD": 0.813898513202412,
+		"NL_HDD": 0.7380616621917645,
+		"NN_HDD": 0.7266789983731423,
+		"NNG_HDD": 0.6797544287832481,
+		"NNP_HDD": 0.0,
+		"NNB_HDD": 0.0,
+		"NP_HDD": 0.0,
+		"NR_HDD": 0.0,
+		"VL_HDD": 0.6571648749659673,
+		"VV_HDD": 0.0,
+		"VA_HDD": 0.0,
+		"ML_HDD": 0.0,
+		"MM_HDD": 0.0,
+		"MA_HDD": 0.0,
+		"MAJ_HDD": 0.0,
+		"IC_HDD": 0.0,
+		"FL_HDD": 0.6032153438794021,
+		"J_HDD": 0.3531237178148922,
+		"E_HDD": 0.5270110183612294,
+		"X_HDD": 0.0
+	},
+	"similarity": {
+		"avgSentSimilarity": 0.23718060553073883,
+		"topicConsistency": 0.5464
+	},
+	"adjacency": {
+		"adjacent_sentence_overlap_all_lemmas": 248,
+		"adjacent_sentence_overlap_all_lemmas_normed": 12,
+		"binary_adjacent_sentence_overlap_all_lemmas": 12,
+		"adjacent_two_sentence_overlap_all_lemmas": 192,
+		"adjacent_two_sentence_overlap_all_lemmas_normed": 11,
+		"binary_adjacent_two_sentence_overlap_all_lemmas": 11,
+		"adjacent_sentence_overlap_content_lemmas": 135,
+		"adjacent_sentence_overlap_content_lemmas_normed": 12,
+		"binary_adjacent_sentence_overlap_content_lemmas": 11,
+		"adjacent_two_sentence_overlap_content_lemmas": 111,
+		"adjacent_two_sentence_overlap_content_lemmas_normed": 11,
+		"binary_adjacent_two_sentence_overlap_content_lemmas": 9,
+		"adjacent_sentence_overlap_function_lemmas": 96,
+		"adjacent_sentence_overlap_function_lemmas_normed": 12,
+		"binary_adjacent_sentence_overlap_function_lemmas": 12,
+		"adjacent_two_sentence_overlap_function_lemmas": 70,
+		"adjacent_two_sentence_overlap_function_lemmas_normed": 11,
+		"binary_adjacent_two_sentence_overlap_function_lemmas": 11,
+		"adjacent_sentence_overlap_noun_lemmas": 89,
+		"adjacent_sentence_overlap_noun_lemmas_normed": 12,
+		"binary_adjacent_sentence_overlap_noun_lemmas": 11,
+		"adjacent_two_sentence_overlap_noun_lemmas": 75,
+		"adjacent_two_sentence_overlap_noun_lemmas_normed": 11,
+		"binary_adjacent_two_sentence_overlap_noun_lemmas": 9,
+		"adjacent_sentence_overlap_verb_lemmas": 45,
+		"adjacent_sentence_overlap_verb_lemmas_normed": 12,
+		"binary_adjacent_sentence_overlap_verb_lemmas": 7,
+		"adjacent_two_sentence_overlap_verb_lemmas": 34,
+		"adjacent_two_sentence_overlap_verb_lemmas_normed": 10,
+		"binary_adjacent_two_sentence_overlap_verb_lemmas": 5,
+		"adjacent_sentence_overlap_adjective_lemmas": 6,
+		"adjacent_sentence_overlap_adjective_lemmas_normed": 3,
+		"binary_adjacent_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_sentence_overlap_adverb_lemmas": 4,
+		"adjacent_sentence_overlap_adverb_lemmas_normed": 4,
+		"binary_adjacent_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas": 2,
+		"adjacent_two_sentence_overlap_adverb_lemmas_normed": 2,
+		"binary_adjacent_two_sentence_overlap_adverb_lemmas": 0
+	},
+	"basic_count": {
+		"para_Cnt": 1,
+		"sentence_Cnt": 13,
+		"word_Cnt": 149,
+		"morph_Cnt": 349,
+		"char_Cnt": 548,
+		"CL_Cnt": 186,
+		"NL_Cnt": 104,
+		"NN_Cnt": 100,
+		"NNG_Cnt": 86,
+		"NNP_Cnt": 4,
+		"NNB_Cnt": 10,
+		"NP_Cnt": 4,
+		"NP_People_Cnt": 3,
+		"NP_Things_Cnt": 1,
+		"NR_Cnt": 0,
+		"VL_Cnt": 73,
+		"VV_Cnt": 40,
+		"VA_Cnt": 18,
+		"VX_Cnt": 8,
+		"VCP_Cnt": 7,
+		"VCN_Cnt": 0,
+		"ML_Cnt": 9,
+		"MA_Cnt": 0,
+		"MM_Cnt": 0,
+		"FL_Cnt": 144,
+		"J_Cnt": 57,
+		"E_Cnt": 82,
+		"X_Cnt": 5,
+		"IC_Cnt": 0
+	},
+	"basic_density": {
+		"CL_Den": 0.5329512893982808,
+		"FL_Den": 0.41260744985673353,
+		"NL_Den": 0.28653295128939826,
+		"NNGL_Den": 0.24641833810888253,
+		"NNPL_Den": 0.011461318051575931,
+		"NNBL_Den": 0.02865329512893983,
+		"NPL_Den": 0.011461318051575931,
+		"NML_Den": 0.0,
+		"VL_Den": 0.20916905444126074,
+		"VVL_Den": 0.11461318051575932,
+		"VAL_Den": 0.05157593123209169,
+		"ML_Den": 0.025787965616045846,
+		"MML_Den": 0.0,
+		"MAL_Den": 0.0,
+		"JL_Den": 0.16332378223495703,
+		"EL_Den": 0.2349570200573066,
+		"XL_Den": 0.014326647564469915,
+		"ITL_Den": 0.0,
+		"NCL_Den": 0.5376344086021505,
+		"NNCL_Den": 0.46236559139784944,
+		"NNGCL_Den": 0.021505376344086023,
+		"NNBCL_Den": 0.053763440860215055,
+		"NPCL_Den": 0.021505376344086023,
+		"NMCL_Den": 0.0,
+		"VCL_Den": 0.3924731182795699,
+		"VVCL_Den": 0.21505376344086022,
+		"VACL_Den": 0.0967741935483871,
+		"MCL_Den": 0.04838709677419355,
+		"MMCL_Den": 0.0,
+		"MACL_Den": 0.0,
+		"INCL_Den": 0.0,
+		"JFL_Den": 0.3958333333333333,
+		"EFL_Den": 0.5694444444444444,
+		"XFL_Den": 0.034722222222222224
+	},
+	"basic_level": {
+		"morph_LenAvg": 1.5959885386819483,
+		"morph_LenStd": 0.79040518417423,
+		"word_LenAvg": 3.3557046979865772,
+		"word_LenStd": 1.7108960935714548
+	},
+	"basic_list": {
+		"NL_Lst": [
+			[
+				0,
+				"나",
+				"NP",
+				"나의 꿈은 화이트 해커이다."
+			],
+			[
+				1,
+				"꿈",
+				"NNG",
+				"나의 꿈은 화이트 해커이다."
+			],
+			[
+				2,
+				"화이트",
+				"NNG",
+				"나의 꿈은 화이트 해커이다."
+			],
+			[
+				3,
+				"해커",
+				"NNG",
+				"나의 꿈은 화이트 해커이다."
+			],
+			[
+				4,
+				"컴퓨터",
+				"NNG",
+				"항상 컴퓨터와 친구인 나는 부모님께서 꿈에 대해서 생각해보라고 하셨을때 고민하다 화이트해커가 되고 싶다고 말씀드렸다."
+			],
+			[
+				5,
+				"친구",
+				"NNG",
+				"항상 컴퓨터와 친구인 나는 부모님께서 꿈에 대해서 생각해보라고 하셨을때 고민하다 화이트해커가 되고 싶다고 말씀드렸다."
+			],
+			[
+				6,
+				"나",
+				"NP",
+				"항상 컴퓨터와 친구인 나는 부모님께서 꿈에 대해서 생각해보라고 하셨을때 고민하다 화이트해커가 되고 싶다고 말씀드렸다."
+			],
+			[
+				7,
+				"부모",
+				"NNG",
+				"항상 컴퓨터와 친구인 나는 부모님께서 꿈에 대해서 생각해보라고 하셨을때 고민하다 화이트해커가 되고 싶다고 말씀드렸다."
+			],
+			[
+				8,
+				"꿈",
+				"NNG",
+				"항상 컴퓨터와 친구인 나는 부모님께서 꿈에 대해서 생각해보라고 하셨을때 고민하다 화이트해커가 되고 싶다고 말씀드렸다."
+			],
+			[
+				9,
+				"때",
+				"NNG",
+				"항상 컴퓨터와 친구인 나는 부모님께서 꿈에 대해서 생각해보라고 하셨을때 고민하다 화이트해커가 되고 싶다고 말씀드렸다."
+			],
+			[
+				10,
+				"화이트",
+				"NNG",
+				"항상 컴퓨터와 친구인 나는 부모님께서 꿈에 대해서 생각해보라고 하셨을때 고민하다 화이트해커가 되고 싶다고 말씀드렸다."
+			],
+			[
+				11,
+				"해커",
+				"NNG",
+				"항상 컴퓨터와 친구인 나는 부모님께서 꿈에 대해서 생각해보라고 하셨을때 고민하다 화이트해커가 되고 싶다고 말씀드렸다."
+			],
+			[
+				12,
+				"말씀",
+				"NNG",
+				"항상 컴퓨터와 친구인 나는 부모님께서 꿈에 대해서 생각해보라고 하셨을때 고민하다 화이트해커가 되고 싶다고 말씀드렸다."
+			],
+			[
+				13,
+				"요즘",
+				"NNG",
+				"요즘같은 정보화시대에 컴퓨터 없는 집이 없고 휴대폰 없는 사람이 없을 만큼 많은데 화이트해커에 대해서는 잘모르고 있었다."
+			],
+			[
+				14,
+				"정보화",
+				"NNG",
+				"요즘같은 정보화시대에 컴퓨터 없는 집이 없고 휴대폰 없는 사람이 없을 만큼 많은데 화이트해커에 대해서는 잘모르고 있었다."
+			],
+			[
+				15,
+				"시대",
+				"NNG",
+				"요즘같은 정보화시대에 컴퓨터 없는 집이 없고 휴대폰 없는 사람이 없을 만큼 많은데 화이트해커에 대해서는 잘모르고 있었다."
+			],
+			[
+				16,
+				"컴퓨터",
+				"NNG",
+				"요즘같은 정보화시대에 컴퓨터 없는 집이 없고 휴대폰 없는 사람이 없을 만큼 많은데 화이트해커에 대해서는 잘모르고 있었다."
+			],
+			[
+				17,
+				"집",
+				"NNG",
+				"요즘같은 정보화시대에 컴퓨터 없는 집이 없고 휴대폰 없는 사람이 없을 만큼 많은데 화이트해커에 대해서는 잘모르고 있었다."
+			],
+			[
+				18,
+				"휴대폰",
+				"NNG",
+				"요즘같은 정보화시대에 컴퓨터 없는 집이 없고 휴대폰 없는 사람이 없을 만큼 많은데 화이트해커에 대해서는 잘모르고 있었다."
+			],
+			[
+				19,
+				"사람",
+				"NNG",
+				"요즘같은 정보화시대에 컴퓨터 없는 집이 없고 휴대폰 없는 사람이 없을 만큼 많은데 화이트해커에 대해서는 잘모르고 있었다."
+			],
+			[
+				20,
+				"만큼",
+				"NNB",
+				"요즘같은 정보화시대에 컴퓨터 없는 집이 없고 휴대폰 없는 사람이 없을 만큼 많은데 화이트해커에 대해서는 잘모르고 있었다."
+			],
+			[
+				21,
+				"화이트",
+				"NNG",
+				"요즘같은 정보화시대에 컴퓨터 없는 집이 없고 휴대폰 없는 사람이 없을 만큼 많은데 화이트해커에 대해서는 잘모르고 있었다."
+			],
+			[
+				22,
+				"해커",
+				"NNG",
+				"요즘같은 정보화시대에 컴퓨터 없는 집이 없고 휴대폰 없는 사람이 없을 만큼 많은데 화이트해커에 대해서는 잘모르고 있었다."
+			],
+			[
+				23,
+				"해커",
+				"NNG",
+				"해커가 나쁜일인 줄만 알고 있었던 것이다."
+			],
+			[
+				24,
+				"일",
+				"NNG",
+				"해커가 나쁜일인 줄만 알고 있었던 것이다."
+			],
+			[
+				25,
+				"줄",
+				"NNB",
+				"해커가 나쁜일인 줄만 알고 있었던 것이다."
+			],
+			[
+				26,
+				"것",
+				"NNB",
+				"해커가 나쁜일인 줄만 알고 있었던 것이다."
+			],
+			[
+				27,
+				"블랙",
+				"NNG",
+				"블랙해커와 화이트해커 해커의 종류에 대해서 몰랐다."
+			],
+			[
+				28,
+				"해커",
+				"NNG",
+				"블랙해커와 화이트해커 해커의 종류에 대해서 몰랐다."
+			],
+			[
+				29,
+				"화이트",
+				"NNG",
+				"블랙해커와 화이트해커 해커의 종류에 대해서 몰랐다."
+			],
+			[
+				30,
+				"해커",
+				"NNG",
+				"블랙해커와 화이트해커 해커의 종류에 대해서 몰랐다."
+			],
+			[
+				31,
+				"해커",
+				"NNG",
+				"블랙해커와 화이트해커 해커의 종류에 대해서 몰랐다."
+			],
+			[
+				32,
+				"종류",
+				"NNG",
+				"블랙해커와 화이트해커 해커의 종류에 대해서 몰랐다."
+			],
+			[
+				33,
+				"블랙",
+				"NNG",
+				"늘 블랙해커가 나쁘다고만 무심히 생각했지 막을수 있는 해커가 있다는 사실을 몰랐던거 같아."
+			],
+			[
+				34,
+				"해커",
+				"NNG",
+				"늘 블랙해커가 나쁘다고만 무심히 생각했지 막을수 있는 해커가 있다는 사실을 몰랐던거 같아."
+			],
+			[
+				35,
+				"수",
+				"NNB",
+				"늘 블랙해커가 나쁘다고만 무심히 생각했지 막을수 있는 해커가 있다는 사실을 몰랐던거 같아."
+			],
+			[
+				36,
+				"해커",
+				"NNG",
+				"늘 블랙해커가 나쁘다고만 무심히 생각했지 막을수 있는 해커가 있다는 사실을 몰랐던거 같아."
+			],
+			[
+				37,
+				"사실",
+				"NNG",
+				"늘 블랙해커가 나쁘다고만 무심히 생각했지 막을수 있는 해커가 있다는 사실을 몰랐던거 같아."
+			],
+			[
+				38,
+				"거",
+				"NNB",
+				"늘 블랙해커가 나쁘다고만 무심히 생각했지 막을수 있는 해커가 있다는 사실을 몰랐던거 같아."
+			],
+			[
+				39,
+				"화이트",
+				"NNG",
+				"화이트 해커는 보안 시스템의 취약점을 발견해 관리자에게 제보함으로써 블랙해커의 공격을 예방하기도 안다."
+			],
+			[
+				40,
+				"해커",
+				"NNG",
+				"화이트 해커는 보안 시스템의 취약점을 발견해 관리자에게 제보함으로써 블랙해커의 공격을 예방하기도 안다."
+			],
+			[
+				41,
+				"보안",
+				"NNG",
+				"화이트 해커는 보안 시스템의 취약점을 발견해 관리자에게 제보함으로써 블랙해커의 공격을 예방하기도 안다."
+			],
+			[
+				42,
+				"시스템",
+				"NNG",
+				"화이트 해커는 보안 시스템의 취약점을 발견해 관리자에게 제보함으로써 블랙해커의 공격을 예방하기도 안다."
+			],
+			[
+				43,
+				"취약점",
+				"NNG",
+				"화이트 해커는 보안 시스템의 취약점을 발견해 관리자에게 제보함으로써 블랙해커의 공격을 예방하기도 안다."
+			],
+			[
+				44,
+				"관리자",
+				"NNG",
+				"화이트 해커는 보안 시스템의 취약점을 발견해 관리자에게 제보함으로써 블랙해커의 공격을 예방하기도 안다."
+			],
+			[
+				45,
+				"블랙",
+				"NNG",
+				"화이트 해커는 보안 시스템의 취약점을 발견해 관리자에게 제보함으로써 블랙해커의 공격을 예방하기도 안다."
+			],
+			[
+				46,
+				"해커",
+				"NNG",
+				"화이트 해커는 보안 시스템의 취약점을 발견해 관리자에게 제보함으로써 블랙해커의 공격을 예방하기도 안다."
+			],
+			[
+				47,
+				"공격",
+				"NNG",
+				"화이트 해커는 보안 시스템의 취약점을 발견해 관리자에게 제보함으로써 블랙해커의 공격을 예방하기도 안다."
+			],
+			[
+				48,
+				"최근",
+				"NNG",
+				"최근에 화이트 해커는 민,관에서 서버의 취약점을 찾아 보안 기술을 만드는 보안 전문자들을 말하기도한다."
+			],
+			[
+				49,
+				"화이트",
+				"NNG",
+				"최근에 화이트 해커는 민,관에서 서버의 취약점을 찾아 보안 기술을 만드는 보안 전문자들을 말하기도한다."
+			],
+			[
+				50,
+				"해커",
+				"NNG",
+				"최근에 화이트 해커는 민,관에서 서버의 취약점을 찾아 보안 기술을 만드는 보안 전문자들을 말하기도한다."
+			],
+			[
+				51,
+				"민",
+				"NNG",
+				"최근에 화이트 해커는 민,관에서 서버의 취약점을 찾아 보안 기술을 만드는 보안 전문자들을 말하기도한다."
+			],
+			[
+				52,
+				"관",
+				"NNG",
+				"최근에 화이트 해커는 민,관에서 서버의 취약점을 찾아 보안 기술을 만드는 보안 전문자들을 말하기도한다."
+			],
+			[
+				53,
+				"서버",
+				"NNG",
+				"최근에 화이트 해커는 민,관에서 서버의 취약점을 찾아 보안 기술을 만드는 보안 전문자들을 말하기도한다."
+			],
+			[
+				54,
+				"취약점",
+				"NNG",
+				"최근에 화이트 해커는 민,관에서 서버의 취약점을 찾아 보안 기술을 만드는 보안 전문자들을 말하기도한다."
+			],
+			[
+				55,
+				"보안",
+				"NNG",
+				"최근에 화이트 해커는 민,관에서 서버의 취약점을 찾아 보안 기술을 만드는 보안 전문자들을 말하기도한다."
+			],
+			[
+				56,
+				"기술",
+				"NNG",
+				"최근에 화이트 해커는 민,관에서 서버의 취약점을 찾아 보안 기술을 만드는 보안 전문자들을 말하기도한다."
+			],
+			[
+				57,
+				"보안",
+				"NNG",
+				"최근에 화이트 해커는 민,관에서 서버의 취약점을 찾아 보안 기술을 만드는 보안 전문자들을 말하기도한다."
+			],
+			[
+				58,
+				"전문자",
+				"NNG",
+				"최근에 화이트 해커는 민,관에서 서버의 취약점을 찾아 보안 기술을 만드는 보안 전문자들을 말하기도한다."
+			],
+			[
+				59,
+				"이",
+				"NP",
+				"또 이들 가운데 설계를 분석해 시스템에 존재하는 취약점을 찾아내 공격시나리오를 짤 수 있는 최고 수준의 인력을 앨리트 해커라고 부른다고 한다."
+			],
+			[
+				60,
+				"가운데",
+				"NNG",
+				"또 이들 가운데 설계를 분석해 시스템에 존재하는 취약점을 찾아내 공격시나리오를 짤 수 있는 최고 수준의 인력을 앨리트 해커라고 부른다고 한다."
+			],
+			[
+				61,
+				"설계",
+				"NNG",
+				"또 이들 가운데 설계를 분석해 시스템에 존재하는 취약점을 찾아내 공격시나리오를 짤 수 있는 최고 수준의 인력을 앨리트 해커라고 부른다고 한다."
+			],
+			[
+				62,
+				"시스템",
+				"NNG",
+				"또 이들 가운데 설계를 분석해 시스템에 존재하는 취약점을 찾아내 공격시나리오를 짤 수 있는 최고 수준의 인력을 앨리트 해커라고 부른다고 한다."
+			],
+			[
+				63,
+				"취약점",
+				"NNG",
+				"또 이들 가운데 설계를 분석해 시스템에 존재하는 취약점을 찾아내 공격시나리오를 짤 수 있는 최고 수준의 인력을 앨리트 해커라고 부른다고 한다."
+			],
+			[
+				64,
+				"공격",
+				"NNG",
+				"또 이들 가운데 설계를 분석해 시스템에 존재하는 취약점을 찾아내 공격시나리오를 짤 수 있는 최고 수준의 인력을 앨리트 해커라고 부른다고 한다."
+			],
+			[
+				65,
+				"시나리오",
+				"NNG",
+				"또 이들 가운데 설계를 분석해 시스템에 존재하는 취약점을 찾아내 공격시나리오를 짤 수 있는 최고 수준의 인력을 앨리트 해커라고 부른다고 한다."
+			],
+			[
+				66,
+				"수",
+				"NNB",
+				"또 이들 가운데 설계를 분석해 시스템에 존재하는 취약점을 찾아내 공격시나리오를 짤 수 있는 최고 수준의 인력을 앨리트 해커라고 부른다고 한다."
+			],
+			[
+				67,
+				"최고",
+				"NNG",
+				"또 이들 가운데 설계를 분석해 시스템에 존재하는 취약점을 찾아내 공격시나리오를 짤 수 있는 최고 수준의 인력을 앨리트 해커라고 부른다고 한다."
+			],
+			[
+				68,
+				"수준",
+				"NNG",
+				"또 이들 가운데 설계를 분석해 시스템에 존재하는 취약점을 찾아내 공격시나리오를 짤 수 있는 최고 수준의 인력을 앨리트 해커라고 부른다고 한다."
+			],
+			[
+				69,
+				"인력",
+				"NNG",
+				"또 이들 가운데 설계를 분석해 시스템에 존재하는 취약점을 찾아내 공격시나리오를 짤 수 있는 최고 수준의 인력을 앨리트 해커라고 부른다고 한다."
+			],
+			[
+				70,
+				"앨리트",
+				"NNG",
+				"또 이들 가운데 설계를 분석해 시스템에 존재하는 취약점을 찾아내 공격시나리오를 짤 수 있는 최고 수준의 인력을 앨리트 해커라고 부른다고 한다."
+			],
+			[
+				71,
+				"해커",
+				"NNG",
+				"또 이들 가운데 설계를 분석해 시스템에 존재하는 취약점을 찾아내 공격시나리오를 짤 수 있는 최고 수준의 인력을 앨리트 해커라고 부른다고 한다."
+			],
+			[
+				72,
+				"한국",
+				"NNP",
+				"한국은 중국,미국,북한에비에 현저히 화이트 해커가 작다고하니 취업도 잘될거 같다."
+			],
+			[
+				73,
+				"중국",
+				"NNP",
+				"한국은 중국,미국,북한에비에 현저히 화이트 해커가 작다고하니 취업도 잘될거 같다."
+			],
+			[
+				74,
+				"미국",
+				"NNP",
+				"한국은 중국,미국,북한에비에 현저히 화이트 해커가 작다고하니 취업도 잘될거 같다."
+			],
+			[
+				75,
+				"북한",
+				"NNP",
+				"한국은 중국,미국,북한에비에 현저히 화이트 해커가 작다고하니 취업도 잘될거 같다."
+			],
+			[
+				76,
+				"에비",
+				"NNG",
+				"한국은 중국,미국,북한에비에 현저히 화이트 해커가 작다고하니 취업도 잘될거 같다."
+			],
+			[
+				77,
+				"화이트",
+				"NNG",
+				"한국은 중국,미국,북한에비에 현저히 화이트 해커가 작다고하니 취업도 잘될거 같다."
+			],
+			[
+				78,
+				"해커",
+				"NNG",
+				"한국은 중국,미국,북한에비에 현저히 화이트 해커가 작다고하니 취업도 잘될거 같다."
+			],
+			[
+				79,
+				"취업",
+				"NNG",
+				"한국은 중국,미국,북한에비에 현저히 화이트 해커가 작다고하니 취업도 잘될거 같다."
+			],
+			[
+				80,
+				"거",
+				"NNB",
+				"한국은 중국,미국,북한에비에 현저히 화이트 해커가 작다고하니 취업도 잘될거 같다."
+			],
+			[
+				81,
+				"화이트",
+				"NNG",
+				"우선 화이트 해커가 되려니 프로그래밍,서버,네트워크,데이터베이스 그리고 보안기법에 대한 교육과정을 통해 준비해야 한다고 한다."
+			],
+			[
+				82,
+				"해커",
+				"NNG",
+				"우선 화이트 해커가 되려니 프로그래밍,서버,네트워크,데이터베이스 그리고 보안기법에 대한 교육과정을 통해 준비해야 한다고 한다."
+			],
+			[
+				83,
+				"프로그래밍",
+				"NNG",
+				"우선 화이트 해커가 되려니 프로그래밍,서버,네트워크,데이터베이스 그리고 보안기법에 대한 교육과정을 통해 준비해야 한다고 한다."
+			],
+			[
+				84,
+				"서버",
+				"NNG",
+				"우선 화이트 해커가 되려니 프로그래밍,서버,네트워크,데이터베이스 그리고 보안기법에 대한 교육과정을 통해 준비해야 한다고 한다."
+			],
+			[
+				85,
+				"네트워크",
+				"NNG",
+				"우선 화이트 해커가 되려니 프로그래밍,서버,네트워크,데이터베이스 그리고 보안기법에 대한 교육과정을 통해 준비해야 한다고 한다."
+			],
+			[
+				86,
+				"데이터베이스",
+				"NNG",
+				"우선 화이트 해커가 되려니 프로그래밍,서버,네트워크,데이터베이스 그리고 보안기법에 대한 교육과정을 통해 준비해야 한다고 한다."
+			],
+			[
+				87,
+				"보안",
+				"NNG",
+				"우선 화이트 해커가 되려니 프로그래밍,서버,네트워크,데이터베이스 그리고 보안기법에 대한 교육과정을 통해 준비해야 한다고 한다."
+			],
+			[
+				88,
+				"기법",
+				"NNG",
+				"우선 화이트 해커가 되려니 프로그래밍,서버,네트워크,데이터베이스 그리고 보안기법에 대한 교육과정을 통해 준비해야 한다고 한다."
+			],
+			[
+				89,
+				"교육",
+				"NNG",
+				"우선 화이트 해커가 되려니 프로그래밍,서버,네트워크,데이터베이스 그리고 보안기법에 대한 교육과정을 통해 준비해야 한다고 한다."
+			],
+			[
+				90,
+				"과정",
+				"NNG",
+				"우선 화이트 해커가 되려니 프로그래밍,서버,네트워크,데이터베이스 그리고 보안기법에 대한 교육과정을 통해 준비해야 한다고 한다."
+			],
+			[
+				91,
+				"인터넷",
+				"NNG",
+				"인터넷으로 조회하다 보니 유명한 학원들이 줄줄이 나온다."
+			],
+			[
+				92,
+				"학원",
+				"NNG",
+				"인터넷으로 조회하다 보니 유명한 학원들이 줄줄이 나온다."
+			],
+			[
+				93,
+				"누구",
+				"NP",
+				"누군가 주변에서 코칭해준다면 확실하게 설계를 해볼텐데 학원으로 가서 학원 스케줄에 맞추어 설계하는 수 밖에 없을 듯 하다."
+			],
+			[
+				94,
+				"주변",
+				"NNG",
+				"누군가 주변에서 코칭해준다면 확실하게 설계를 해볼텐데 학원으로 가서 학원 스케줄에 맞추어 설계하는 수 밖에 없을 듯 하다."
+			],
+			[
+				95,
+				"코칭",
+				"NNG",
+				"누군가 주변에서 코칭해준다면 확실하게 설계를 해볼텐데 학원으로 가서 학원 스케줄에 맞추어 설계하는 수 밖에 없을 듯 하다."
+			],
+			[
+				96,
+				"설계",
+				"NNG",
+				"누군가 주변에서 코칭해준다면 확실하게 설계를 해볼텐데 학원으로 가서 학원 스케줄에 맞추어 설계하는 수 밖에 없을 듯 하다."
+			],
+			[
+				97,
+				"터",
+				"NNB",
+				"누군가 주변에서 코칭해준다면 확실하게 설계를 해볼텐데 학원으로 가서 학원 스케줄에 맞추어 설계하는 수 밖에 없을 듯 하다."
+			],
+			[
+				98,
+				"학원",
+				"NNG",
+				"누군가 주변에서 코칭해준다면 확실하게 설계를 해볼텐데 학원으로 가서 학원 스케줄에 맞추어 설계하는 수 밖에 없을 듯 하다."
+			],
+			[
+				99,
+				"학원",
+				"NNG",
+				"누군가 주변에서 코칭해준다면 확실하게 설계를 해볼텐데 학원으로 가서 학원 스케줄에 맞추어 설계하는 수 밖에 없을 듯 하다."
+			],
+			[
+				100,
+				"스케줄",
+				"NNG",
+				"누군가 주변에서 코칭해준다면 확실하게 설계를 해볼텐데 학원으로 가서 학원 스케줄에 맞추어 설계하는 수 밖에 없을 듯 하다."
+			],
+			[
+				101,
+				"수",
+				"NNB",
+				"누군가 주변에서 코칭해준다면 확실하게 설계를 해볼텐데 학원으로 가서 학원 스케줄에 맞추어 설계하는 수 밖에 없을 듯 하다."
+			],
+			[
+				102,
+				"밖",
+				"NNG",
+				"누군가 주변에서 코칭해준다면 확실하게 설계를 해볼텐데 학원으로 가서 학원 스케줄에 맞추어 설계하는 수 밖에 없을 듯 하다."
+			],
+			[
+				103,
+				"듯",
+				"NNB",
+				"누군가 주변에서 코칭해준다면 확실하게 설계를 해볼텐데 학원으로 가서 학원 스케줄에 맞추어 설계하는 수 밖에 없을 듯 하다."
+			]
+		],
+		"NN_Lst": [
+			[
+				0,
+				"꿈",
+				"NNG",
+				"나의 꿈은 화이트 해커이다."
+			],
+			[
+				1,
+				"화이트",
+				"NNG",
+				"나의 꿈은 화이트 해커이다."
+			],
+			[
+				2,
+				"해커",
+				"NNG",
+				"나의 꿈은 화이트 해커이다."
+			],
+			[
+				3,
+				"컴퓨터",
+				"NNG",
+				"항상 컴퓨터와 친구인 나는 부모님께서 꿈에 대해서 생각해보라고 하셨을때 고민하다 화이트해커가 되고 싶다고 말씀드렸다."
+			],
+			[
+				4,
+				"친구",
+				"NNG",
+				"항상 컴퓨터와 친구인 나는 부모님께서 꿈에 대해서 생각해보라고 하셨을때 고민하다 화이트해커가 되고 싶다고 말씀드렸다."
+			],
+			[
+				5,
+				"부모",
+				"NNG",
+				"항상 컴퓨터와 친구인 나는 부모님께서 꿈에 대해서 생각해보라고 하셨을때 고민하다 화이트해커가 되고 싶다고 말씀드렸다."
+			],
+			[
+				6,
+				"꿈",
+				"NNG",
+				"항상 컴퓨터와 친구인 나는 부모님께서 꿈에 대해서 생각해보라고 하셨을때 고민하다 화이트해커가 되고 싶다고 말씀드렸다."
+			],
+			[
+				7,
+				"때",
+				"NNG",
+				"항상 컴퓨터와 친구인 나는 부모님께서 꿈에 대해서 생각해보라고 하셨을때 고민하다 화이트해커가 되고 싶다고 말씀드렸다."
+			],
+			[
+				8,
+				"화이트",
+				"NNG",
+				"항상 컴퓨터와 친구인 나는 부모님께서 꿈에 대해서 생각해보라고 하셨을때 고민하다 화이트해커가 되고 싶다고 말씀드렸다."
+			],
+			[
+				9,
+				"해커",
+				"NNG",
+				"항상 컴퓨터와 친구인 나는 부모님께서 꿈에 대해서 생각해보라고 하셨을때 고민하다 화이트해커가 되고 싶다고 말씀드렸다."
+			],
+			[
+				10,
+				"말씀",
+				"NNG",
+				"항상 컴퓨터와 친구인 나는 부모님께서 꿈에 대해서 생각해보라고 하셨을때 고민하다 화이트해커가 되고 싶다고 말씀드렸다."
+			],
+			[
+				11,
+				"요즘",
+				"NNG",
+				"요즘같은 정보화시대에 컴퓨터 없는 집이 없고 휴대폰 없는 사람이 없을 만큼 많은데 화이트해커에 대해서는 잘모르고 있었다."
+			],
+			[
+				12,
+				"정보화",
+				"NNG",
+				"요즘같은 정보화시대에 컴퓨터 없는 집이 없고 휴대폰 없는 사람이 없을 만큼 많은데 화이트해커에 대해서는 잘모르고 있었다."
+			],
+			[
+				13,
+				"시대",
+				"NNG",
+				"요즘같은 정보화시대에 컴퓨터 없는 집이 없고 휴대폰 없는 사람이 없을 만큼 많은데 화이트해커에 대해서는 잘모르고 있었다."
+			],
+			[
+				14,
+				"컴퓨터",
+				"NNG",
+				"요즘같은 정보화시대에 컴퓨터 없는 집이 없고 휴대폰 없는 사람이 없을 만큼 많은데 화이트해커에 대해서는 잘모르고 있었다."
+			],
+			[
+				15,
+				"집",
+				"NNG",
+				"요즘같은 정보화시대에 컴퓨터 없는 집이 없고 휴대폰 없는 사람이 없을 만큼 많은데 화이트해커에 대해서는 잘모르고 있었다."
+			],
+			[
+				16,
+				"휴대폰",
+				"NNG",
+				"요즘같은 정보화시대에 컴퓨터 없는 집이 없고 휴대폰 없는 사람이 없을 만큼 많은데 화이트해커에 대해서는 잘모르고 있었다."
+			],
+			[
+				17,
+				"사람",
+				"NNG",
+				"요즘같은 정보화시대에 컴퓨터 없는 집이 없고 휴대폰 없는 사람이 없을 만큼 많은데 화이트해커에 대해서는 잘모르고 있었다."
+			],
+			[
+				18,
+				"만큼",
+				"NNB",
+				"요즘같은 정보화시대에 컴퓨터 없는 집이 없고 휴대폰 없는 사람이 없을 만큼 많은데 화이트해커에 대해서는 잘모르고 있었다."
+			],
+			[
+				19,
+				"화이트",
+				"NNG",
+				"요즘같은 정보화시대에 컴퓨터 없는 집이 없고 휴대폰 없는 사람이 없을 만큼 많은데 화이트해커에 대해서는 잘모르고 있었다."
+			],
+			[
+				20,
+				"해커",
+				"NNG",
+				"요즘같은 정보화시대에 컴퓨터 없는 집이 없고 휴대폰 없는 사람이 없을 만큼 많은데 화이트해커에 대해서는 잘모르고 있었다."
+			],
+			[
+				21,
+				"해커",
+				"NNG",
+				"해커가 나쁜일인 줄만 알고 있었던 것이다."
+			],
+			[
+				22,
+				"일",
+				"NNG",
+				"해커가 나쁜일인 줄만 알고 있었던 것이다."
+			],
+			[
+				23,
+				"줄",
+				"NNB",
+				"해커가 나쁜일인 줄만 알고 있었던 것이다."
+			],
+			[
+				24,
+				"것",
+				"NNB",
+				"해커가 나쁜일인 줄만 알고 있었던 것이다."
+			],
+			[
+				25,
+				"블랙",
+				"NNG",
+				"블랙해커와 화이트해커 해커의 종류에 대해서 몰랐다."
+			],
+			[
+				26,
+				"해커",
+				"NNG",
+				"블랙해커와 화이트해커 해커의 종류에 대해서 몰랐다."
+			],
+			[
+				27,
+				"화이트",
+				"NNG",
+				"블랙해커와 화이트해커 해커의 종류에 대해서 몰랐다."
+			],
+			[
+				28,
+				"해커",
+				"NNG",
+				"블랙해커와 화이트해커 해커의 종류에 대해서 몰랐다."
+			],
+			[
+				29,
+				"해커",
+				"NNG",
+				"블랙해커와 화이트해커 해커의 종류에 대해서 몰랐다."
+			],
+			[
+				30,
+				"종류",
+				"NNG",
+				"블랙해커와 화이트해커 해커의 종류에 대해서 몰랐다."
+			],
+			[
+				31,
+				"블랙",
+				"NNG",
+				"늘 블랙해커가 나쁘다고만 무심히 생각했지 막을수 있는 해커가 있다는 사실을 몰랐던거 같아."
+			],
+			[
+				32,
+				"해커",
+				"NNG",
+				"늘 블랙해커가 나쁘다고만 무심히 생각했지 막을수 있는 해커가 있다는 사실을 몰랐던거 같아."
+			],
+			[
+				33,
+				"수",
+				"NNB",
+				"늘 블랙해커가 나쁘다고만 무심히 생각했지 막을수 있는 해커가 있다는 사실을 몰랐던거 같아."
+			],
+			[
+				34,
+				"해커",
+				"NNG",
+				"늘 블랙해커가 나쁘다고만 무심히 생각했지 막을수 있는 해커가 있다는 사실을 몰랐던거 같아."
+			],
+			[
+				35,
+				"사실",
+				"NNG",
+				"늘 블랙해커가 나쁘다고만 무심히 생각했지 막을수 있는 해커가 있다는 사실을 몰랐던거 같아."
+			],
+			[
+				36,
+				"거",
+				"NNB",
+				"늘 블랙해커가 나쁘다고만 무심히 생각했지 막을수 있는 해커가 있다는 사실을 몰랐던거 같아."
+			],
+			[
+				37,
+				"화이트",
+				"NNG",
+				"화이트 해커는 보안 시스템의 취약점을 발견해 관리자에게 제보함으로써 블랙해커의 공격을 예방하기도 안다."
+			],
+			[
+				38,
+				"해커",
+				"NNG",
+				"화이트 해커는 보안 시스템의 취약점을 발견해 관리자에게 제보함으로써 블랙해커의 공격을 예방하기도 안다."
+			],
+			[
+				39,
+				"보안",
+				"NNG",
+				"화이트 해커는 보안 시스템의 취약점을 발견해 관리자에게 제보함으로써 블랙해커의 공격을 예방하기도 안다."
+			],
+			[
+				40,
+				"시스템",
+				"NNG",
+				"화이트 해커는 보안 시스템의 취약점을 발견해 관리자에게 제보함으로써 블랙해커의 공격을 예방하기도 안다."
+			],
+			[
+				41,
+				"취약점",
+				"NNG",
+				"화이트 해커는 보안 시스템의 취약점을 발견해 관리자에게 제보함으로써 블랙해커의 공격을 예방하기도 안다."
+			],
+			[
+				42,
+				"관리자",
+				"NNG",
+				"화이트 해커는 보안 시스템의 취약점을 발견해 관리자에게 제보함으로써 블랙해커의 공격을 예방하기도 안다."
+			],
+			[
+				43,
+				"블랙",
+				"NNG",
+				"화이트 해커는 보안 시스템의 취약점을 발견해 관리자에게 제보함으로써 블랙해커의 공격을 예방하기도 안다."
+			],
+			[
+				44,
+				"해커",
+				"NNG",
+				"화이트 해커는 보안 시스템의 취약점을 발견해 관리자에게 제보함으로써 블랙해커의 공격을 예방하기도 안다."
+			],
+			[
+				45,
+				"공격",
+				"NNG",
+				"화이트 해커는 보안 시스템의 취약점을 발견해 관리자에게 제보함으로써 블랙해커의 공격을 예방하기도 안다."
+			],
+			[
+				46,
+				"최근",
+				"NNG",
+				"최근에 화이트 해커는 민,관에서 서버의 취약점을 찾아 보안 기술을 만드는 보안 전문자들을 말하기도한다."
+			],
+			[
+				47,
+				"화이트",
+				"NNG",
+				"최근에 화이트 해커는 민,관에서 서버의 취약점을 찾아 보안 기술을 만드는 보안 전문자들을 말하기도한다."
+			],
+			[
+				48,
+				"해커",
+				"NNG",
+				"최근에 화이트 해커는 민,관에서 서버의 취약점을 찾아 보안 기술을 만드는 보안 전문자들을 말하기도한다."
+			],
+			[
+				49,
+				"민",
+				"NNG",
+				"최근에 화이트 해커는 민,관에서 서버의 취약점을 찾아 보안 기술을 만드는 보안 전문자들을 말하기도한다."
+			],
+			[
+				50,
+				"관",
+				"NNG",
+				"최근에 화이트 해커는 민,관에서 서버의 취약점을 찾아 보안 기술을 만드는 보안 전문자들을 말하기도한다."
+			],
+			[
+				51,
+				"서버",
+				"NNG",
+				"최근에 화이트 해커는 민,관에서 서버의 취약점을 찾아 보안 기술을 만드는 보안 전문자들을 말하기도한다."
+			],
+			[
+				52,
+				"취약점",
+				"NNG",
+				"최근에 화이트 해커는 민,관에서 서버의 취약점을 찾아 보안 기술을 만드는 보안 전문자들을 말하기도한다."
+			],
+			[
+				53,
+				"보안",
+				"NNG",
+				"최근에 화이트 해커는 민,관에서 서버의 취약점을 찾아 보안 기술을 만드는 보안 전문자들을 말하기도한다."
+			],
+			[
+				54,
+				"기술",
+				"NNG",
+				"최근에 화이트 해커는 민,관에서 서버의 취약점을 찾아 보안 기술을 만드는 보안 전문자들을 말하기도한다."
+			],
+			[
+				55,
+				"보안",
+				"NNG",
+				"최근에 화이트 해커는 민,관에서 서버의 취약점을 찾아 보안 기술을 만드는 보안 전문자들을 말하기도한다."
+			],
+			[
+				56,
+				"전문자",
+				"NNG",
+				"최근에 화이트 해커는 민,관에서 서버의 취약점을 찾아 보안 기술을 만드는 보안 전문자들을 말하기도한다."
+			],
+			[
+				57,
+				"가운데",
+				"NNG",
+				"또 이들 가운데 설계를 분석해 시스템에 존재하는 취약점을 찾아내 공격시나리오를 짤 수 있는 최고 수준의 인력을 앨리트 해커라고 부른다고 한다."
+			],
+			[
+				58,
+				"설계",
+				"NNG",
+				"또 이들 가운데 설계를 분석해 시스템에 존재하는 취약점을 찾아내 공격시나리오를 짤 수 있는 최고 수준의 인력을 앨리트 해커라고 부른다고 한다."
+			],
+			[
+				59,
+				"시스템",
+				"NNG",
+				"또 이들 가운데 설계를 분석해 시스템에 존재하는 취약점을 찾아내 공격시나리오를 짤 수 있는 최고 수준의 인력을 앨리트 해커라고 부른다고 한다."
+			],
+			[
+				60,
+				"취약점",
+				"NNG",
+				"또 이들 가운데 설계를 분석해 시스템에 존재하는 취약점을 찾아내 공격시나리오를 짤 수 있는 최고 수준의 인력을 앨리트 해커라고 부른다고 한다."
+			],
+			[
+				61,
+				"공격",
+				"NNG",
+				"또 이들 가운데 설계를 분석해 시스템에 존재하는 취약점을 찾아내 공격시나리오를 짤 수 있는 최고 수준의 인력을 앨리트 해커라고 부른다고 한다."
+			],
+			[
+				62,
+				"시나리오",
+				"NNG",
+				"또 이들 가운데 설계를 분석해 시스템에 존재하는 취약점을 찾아내 공격시나리오를 짤 수 있는 최고 수준의 인력을 앨리트 해커라고 부른다고 한다."
+			],
+			[
+				63,
+				"수",
+				"NNB",
+				"또 이들 가운데 설계를 분석해 시스템에 존재하는 취약점을 찾아내 공격시나리오를 짤 수 있는 최고 수준의 인력을 앨리트 해커라고 부른다고 한다."
+			],
+			[
+				64,
+				"최고",
+				"NNG",
+				"또 이들 가운데 설계를 분석해 시스템에 존재하는 취약점을 찾아내 공격시나리오를 짤 수 있는 최고 수준의 인력을 앨리트 해커라고 부른다고 한다."
+			],
+			[
+				65,
+				"수준",
+				"NNG",
+				"또 이들 가운데 설계를 분석해 시스템에 존재하는 취약점을 찾아내 공격시나리오를 짤 수 있는 최고 수준의 인력을 앨리트 해커라고 부른다고 한다."
+			],
+			[
+				66,
+				"인력",
+				"NNG",
+				"또 이들 가운데 설계를 분석해 시스템에 존재하는 취약점을 찾아내 공격시나리오를 짤 수 있는 최고 수준의 인력을 앨리트 해커라고 부른다고 한다."
+			],
+			[
+				67,
+				"앨리트",
+				"NNG",
+				"또 이들 가운데 설계를 분석해 시스템에 존재하는 취약점을 찾아내 공격시나리오를 짤 수 있는 최고 수준의 인력을 앨리트 해커라고 부른다고 한다."
+			],
+			[
+				68,
+				"해커",
+				"NNG",
+				"또 이들 가운데 설계를 분석해 시스템에 존재하는 취약점을 찾아내 공격시나리오를 짤 수 있는 최고 수준의 인력을 앨리트 해커라고 부른다고 한다."
+			],
+			[
+				69,
+				"한국",
+				"NNP",
+				"한국은 중국,미국,북한에비에 현저히 화이트 해커가 작다고하니 취업도 잘될거 같다."
+			],
+			[
+				70,
+				"중국",
+				"NNP",
+				"한국은 중국,미국,북한에비에 현저히 화이트 해커가 작다고하니 취업도 잘될거 같다."
+			],
+			[
+				71,
+				"미국",
+				"NNP",
+				"한국은 중국,미국,북한에비에 현저히 화이트 해커가 작다고하니 취업도 잘될거 같다."
+			],
+			[
+				72,
+				"북한",
+				"NNP",
+				"한국은 중국,미국,북한에비에 현저히 화이트 해커가 작다고하니 취업도 잘될거 같다."
+			],
+			[
+				73,
+				"에비",
+				"NNG",
+				"한국은 중국,미국,북한에비에 현저히 화이트 해커가 작다고하니 취업도 잘될거 같다."
+			],
+			[
+				74,
+				"화이트",
+				"NNG",
+				"한국은 중국,미국,북한에비에 현저히 화이트 해커가 작다고하니 취업도 잘될거 같다."
+			],
+			[
+				75,
+				"해커",
+				"NNG",
+				"한국은 중국,미국,북한에비에 현저히 화이트 해커가 작다고하니 취업도 잘될거 같다."
+			],
+			[
+				76,
+				"취업",
+				"NNG",
+				"한국은 중국,미국,북한에비에 현저히 화이트 해커가 작다고하니 취업도 잘될거 같다."
+			],
+			[
+				77,
+				"거",
+				"NNB",
+				"한국은 중국,미국,북한에비에 현저히 화이트 해커가 작다고하니 취업도 잘될거 같다."
+			],
+			[
+				78,
+				"화이트",
+				"NNG",
+				"우선 화이트 해커가 되려니 프로그래밍,서버,네트워크,데이터베이스 그리고 보안기법에 대한 교육과정을 통해 준비해야 한다고 한다."
+			],
+			[
+				79,
+				"해커",
+				"NNG",
+				"우선 화이트 해커가 되려니 프로그래밍,서버,네트워크,데이터베이스 그리고 보안기법에 대한 교육과정을 통해 준비해야 한다고 한다."
+			],
+			[
+				80,
+				"프로그래밍",
+				"NNG",
+				"우선 화이트 해커가 되려니 프로그래밍,서버,네트워크,데이터베이스 그리고 보안기법에 대한 교육과정을 통해 준비해야 한다고 한다."
+			],
+			[
+				81,
+				"서버",
+				"NNG",
+				"우선 화이트 해커가 되려니 프로그래밍,서버,네트워크,데이터베이스 그리고 보안기법에 대한 교육과정을 통해 준비해야 한다고 한다."
+			],
+			[
+				82,
+				"네트워크",
+				"NNG",
+				"우선 화이트 해커가 되려니 프로그래밍,서버,네트워크,데이터베이스 그리고 보안기법에 대한 교육과정을 통해 준비해야 한다고 한다."
+			],
+			[
+				83,
+				"데이터베이스",
+				"NNG",
+				"우선 화이트 해커가 되려니 프로그래밍,서버,네트워크,데이터베이스 그리고 보안기법에 대한 교육과정을 통해 준비해야 한다고 한다."
+			],
+			[
+				84,
+				"보안",
+				"NNG",
+				"우선 화이트 해커가 되려니 프로그래밍,서버,네트워크,데이터베이스 그리고 보안기법에 대한 교육과정을 통해 준비해야 한다고 한다."
+			],
+			[
+				85,
+				"기법",
+				"NNG",
+				"우선 화이트 해커가 되려니 프로그래밍,서버,네트워크,데이터베이스 그리고 보안기법에 대한 교육과정을 통해 준비해야 한다고 한다."
+			],
+			[
+				86,
+				"교육",
+				"NNG",
+				"우선 화이트 해커가 되려니 프로그래밍,서버,네트워크,데이터베이스 그리고 보안기법에 대한 교육과정을 통해 준비해야 한다고 한다."
+			],
+			[
+				87,
+				"과정",
+				"NNG",
+				"우선 화이트 해커가 되려니 프로그래밍,서버,네트워크,데이터베이스 그리고 보안기법에 대한 교육과정을 통해 준비해야 한다고 한다."
+			],
+			[
+				88,
+				"인터넷",
+				"NNG",
+				"인터넷으로 조회하다 보니 유명한 학원들이 줄줄이 나온다."
+			],
+			[
+				89,
+				"학원",
+				"NNG",
+				"인터넷으로 조회하다 보니 유명한 학원들이 줄줄이 나온다."
+			],
+			[
+				90,
+				"주변",
+				"NNG",
+				"누군가 주변에서 코칭해준다면 확실하게 설계를 해볼텐데 학원으로 가서 학원 스케줄에 맞추어 설계하는 수 밖에 없을 듯 하다."
+			],
+			[
+				91,
+				"코칭",
+				"NNG",
+				"누군가 주변에서 코칭해준다면 확실하게 설계를 해볼텐데 학원으로 가서 학원 스케줄에 맞추어 설계하는 수 밖에 없을 듯 하다."
+			],
+			[
+				92,
+				"설계",
+				"NNG",
+				"누군가 주변에서 코칭해준다면 확실하게 설계를 해볼텐데 학원으로 가서 학원 스케줄에 맞추어 설계하는 수 밖에 없을 듯 하다."
+			],
+			[
+				93,
+				"터",
+				"NNB",
+				"누군가 주변에서 코칭해준다면 확실하게 설계를 해볼텐데 학원으로 가서 학원 스케줄에 맞추어 설계하는 수 밖에 없을 듯 하다."
+			],
+			[
+				94,
+				"학원",
+				"NNG",
+				"누군가 주변에서 코칭해준다면 확실하게 설계를 해볼텐데 학원으로 가서 학원 스케줄에 맞추어 설계하는 수 밖에 없을 듯 하다."
+			],
+			[
+				95,
+				"학원",
+				"NNG",
+				"누군가 주변에서 코칭해준다면 확실하게 설계를 해볼텐데 학원으로 가서 학원 스케줄에 맞추어 설계하는 수 밖에 없을 듯 하다."
+			],
+			[
+				96,
+				"스케줄",
+				"NNG",
+				"누군가 주변에서 코칭해준다면 확실하게 설계를 해볼텐데 학원으로 가서 학원 스케줄에 맞추어 설계하는 수 밖에 없을 듯 하다."
+			],
+			[
+				97,
+				"수",
+				"NNB",
+				"누군가 주변에서 코칭해준다면 확실하게 설계를 해볼텐데 학원으로 가서 학원 스케줄에 맞추어 설계하는 수 밖에 없을 듯 하다."
+			],
+			[
+				98,
+				"밖",
+				"NNG",
+				"누군가 주변에서 코칭해준다면 확실하게 설계를 해볼텐데 학원으로 가서 학원 스케줄에 맞추어 설계하는 수 밖에 없을 듯 하다."
+			],
+			[
+				99,
+				"듯",
+				"NNB",
+				"누군가 주변에서 코칭해준다면 확실하게 설계를 해볼텐데 학원으로 가서 학원 스케줄에 맞추어 설계하는 수 밖에 없을 듯 하다."
+			]
+		],
+		"NNG_Lst": [
+			[
+				0,
+				"꿈",
+				"NNG",
+				"나의 꿈은 화이트 해커이다."
+			],
+			[
+				1,
+				"화이트",
+				"NNG",
+				"나의 꿈은 화이트 해커이다."
+			],
+			[
+				2,
+				"해커",
+				"NNG",
+				"나의 꿈은 화이트 해커이다."
+			],
+			[
+				3,
+				"컴퓨터",
+				"NNG",
+				"항상 컴퓨터와 친구인 나는 부모님께서 꿈에 대해서 생각해보라고 하셨을때 고민하다 화이트해커가 되고 싶다고 말씀드렸다."
+			],
+			[
+				4,
+				"친구",
+				"NNG",
+				"항상 컴퓨터와 친구인 나는 부모님께서 꿈에 대해서 생각해보라고 하셨을때 고민하다 화이트해커가 되고 싶다고 말씀드렸다."
+			],
+			[
+				5,
+				"부모",
+				"NNG",
+				"항상 컴퓨터와 친구인 나는 부모님께서 꿈에 대해서 생각해보라고 하셨을때 고민하다 화이트해커가 되고 싶다고 말씀드렸다."
+			],
+			[
+				6,
+				"꿈",
+				"NNG",
+				"항상 컴퓨터와 친구인 나는 부모님께서 꿈에 대해서 생각해보라고 하셨을때 고민하다 화이트해커가 되고 싶다고 말씀드렸다."
+			],
+			[
+				7,
+				"때",
+				"NNG",
+				"항상 컴퓨터와 친구인 나는 부모님께서 꿈에 대해서 생각해보라고 하셨을때 고민하다 화이트해커가 되고 싶다고 말씀드렸다."
+			],
+			[
+				8,
+				"화이트",
+				"NNG",
+				"항상 컴퓨터와 친구인 나는 부모님께서 꿈에 대해서 생각해보라고 하셨을때 고민하다 화이트해커가 되고 싶다고 말씀드렸다."
+			],
+			[
+				9,
+				"해커",
+				"NNG",
+				"항상 컴퓨터와 친구인 나는 부모님께서 꿈에 대해서 생각해보라고 하셨을때 고민하다 화이트해커가 되고 싶다고 말씀드렸다."
+			],
+			[
+				10,
+				"말씀",
+				"NNG",
+				"항상 컴퓨터와 친구인 나는 부모님께서 꿈에 대해서 생각해보라고 하셨을때 고민하다 화이트해커가 되고 싶다고 말씀드렸다."
+			],
+			[
+				11,
+				"요즘",
+				"NNG",
+				"요즘같은 정보화시대에 컴퓨터 없는 집이 없고 휴대폰 없는 사람이 없을 만큼 많은데 화이트해커에 대해서는 잘모르고 있었다."
+			],
+			[
+				12,
+				"정보화",
+				"NNG",
+				"요즘같은 정보화시대에 컴퓨터 없는 집이 없고 휴대폰 없는 사람이 없을 만큼 많은데 화이트해커에 대해서는 잘모르고 있었다."
+			],
+			[
+				13,
+				"시대",
+				"NNG",
+				"요즘같은 정보화시대에 컴퓨터 없는 집이 없고 휴대폰 없는 사람이 없을 만큼 많은데 화이트해커에 대해서는 잘모르고 있었다."
+			],
+			[
+				14,
+				"컴퓨터",
+				"NNG",
+				"요즘같은 정보화시대에 컴퓨터 없는 집이 없고 휴대폰 없는 사람이 없을 만큼 많은데 화이트해커에 대해서는 잘모르고 있었다."
+			],
+			[
+				15,
+				"집",
+				"NNG",
+				"요즘같은 정보화시대에 컴퓨터 없는 집이 없고 휴대폰 없는 사람이 없을 만큼 많은데 화이트해커에 대해서는 잘모르고 있었다."
+			],
+			[
+				16,
+				"휴대폰",
+				"NNG",
+				"요즘같은 정보화시대에 컴퓨터 없는 집이 없고 휴대폰 없는 사람이 없을 만큼 많은데 화이트해커에 대해서는 잘모르고 있었다."
+			],
+			[
+				17,
+				"사람",
+				"NNG",
+				"요즘같은 정보화시대에 컴퓨터 없는 집이 없고 휴대폰 없는 사람이 없을 만큼 많은데 화이트해커에 대해서는 잘모르고 있었다."
+			],
+			[
+				18,
+				"화이트",
+				"NNG",
+				"요즘같은 정보화시대에 컴퓨터 없는 집이 없고 휴대폰 없는 사람이 없을 만큼 많은데 화이트해커에 대해서는 잘모르고 있었다."
+			],
+			[
+				19,
+				"해커",
+				"NNG",
+				"요즘같은 정보화시대에 컴퓨터 없는 집이 없고 휴대폰 없는 사람이 없을 만큼 많은데 화이트해커에 대해서는 잘모르고 있었다."
+			],
+			[
+				20,
+				"해커",
+				"NNG",
+				"해커가 나쁜일인 줄만 알고 있었던 것이다."
+			],
+			[
+				21,
+				"일",
+				"NNG",
+				"해커가 나쁜일인 줄만 알고 있었던 것이다."
+			],
+			[
+				22,
+				"블랙",
+				"NNG",
+				"블랙해커와 화이트해커 해커의 종류에 대해서 몰랐다."
+			],
+			[
+				23,
+				"해커",
+				"NNG",
+				"블랙해커와 화이트해커 해커의 종류에 대해서 몰랐다."
+			],
+			[
+				24,
+				"화이트",
+				"NNG",
+				"블랙해커와 화이트해커 해커의 종류에 대해서 몰랐다."
+			],
+			[
+				25,
+				"해커",
+				"NNG",
+				"블랙해커와 화이트해커 해커의 종류에 대해서 몰랐다."
+			],
+			[
+				26,
+				"해커",
+				"NNG",
+				"블랙해커와 화이트해커 해커의 종류에 대해서 몰랐다."
+			],
+			[
+				27,
+				"종류",
+				"NNG",
+				"블랙해커와 화이트해커 해커의 종류에 대해서 몰랐다."
+			],
+			[
+				28,
+				"블랙",
+				"NNG",
+				"늘 블랙해커가 나쁘다고만 무심히 생각했지 막을수 있는 해커가 있다는 사실을 몰랐던거 같아."
+			],
+			[
+				29,
+				"해커",
+				"NNG",
+				"늘 블랙해커가 나쁘다고만 무심히 생각했지 막을수 있는 해커가 있다는 사실을 몰랐던거 같아."
+			],
+			[
+				30,
+				"해커",
+				"NNG",
+				"늘 블랙해커가 나쁘다고만 무심히 생각했지 막을수 있는 해커가 있다는 사실을 몰랐던거 같아."
+			],
+			[
+				31,
+				"사실",
+				"NNG",
+				"늘 블랙해커가 나쁘다고만 무심히 생각했지 막을수 있는 해커가 있다는 사실을 몰랐던거 같아."
+			],
+			[
+				32,
+				"화이트",
+				"NNG",
+				"화이트 해커는 보안 시스템의 취약점을 발견해 관리자에게 제보함으로써 블랙해커의 공격을 예방하기도 안다."
+			],
+			[
+				33,
+				"해커",
+				"NNG",
+				"화이트 해커는 보안 시스템의 취약점을 발견해 관리자에게 제보함으로써 블랙해커의 공격을 예방하기도 안다."
+			],
+			[
+				34,
+				"보안",
+				"NNG",
+				"화이트 해커는 보안 시스템의 취약점을 발견해 관리자에게 제보함으로써 블랙해커의 공격을 예방하기도 안다."
+			],
+			[
+				35,
+				"시스템",
+				"NNG",
+				"화이트 해커는 보안 시스템의 취약점을 발견해 관리자에게 제보함으로써 블랙해커의 공격을 예방하기도 안다."
+			],
+			[
+				36,
+				"취약점",
+				"NNG",
+				"화이트 해커는 보안 시스템의 취약점을 발견해 관리자에게 제보함으로써 블랙해커의 공격을 예방하기도 안다."
+			],
+			[
+				37,
+				"관리자",
+				"NNG",
+				"화이트 해커는 보안 시스템의 취약점을 발견해 관리자에게 제보함으로써 블랙해커의 공격을 예방하기도 안다."
+			],
+			[
+				38,
+				"블랙",
+				"NNG",
+				"화이트 해커는 보안 시스템의 취약점을 발견해 관리자에게 제보함으로써 블랙해커의 공격을 예방하기도 안다."
+			],
+			[
+				39,
+				"해커",
+				"NNG",
+				"화이트 해커는 보안 시스템의 취약점을 발견해 관리자에게 제보함으로써 블랙해커의 공격을 예방하기도 안다."
+			],
+			[
+				40,
+				"공격",
+				"NNG",
+				"화이트 해커는 보안 시스템의 취약점을 발견해 관리자에게 제보함으로써 블랙해커의 공격을 예방하기도 안다."
+			],
+			[
+				41,
+				"최근",
+				"NNG",
+				"최근에 화이트 해커는 민,관에서 서버의 취약점을 찾아 보안 기술을 만드는 보안 전문자들을 말하기도한다."
+			],
+			[
+				42,
+				"화이트",
+				"NNG",
+				"최근에 화이트 해커는 민,관에서 서버의 취약점을 찾아 보안 기술을 만드는 보안 전문자들을 말하기도한다."
+			],
+			[
+				43,
+				"해커",
+				"NNG",
+				"최근에 화이트 해커는 민,관에서 서버의 취약점을 찾아 보안 기술을 만드는 보안 전문자들을 말하기도한다."
+			],
+			[
+				44,
+				"민",
+				"NNG",
+				"최근에 화이트 해커는 민,관에서 서버의 취약점을 찾아 보안 기술을 만드는 보안 전문자들을 말하기도한다."
+			],
+			[
+				45,
+				"관",
+				"NNG",
+				"최근에 화이트 해커는 민,관에서 서버의 취약점을 찾아 보안 기술을 만드는 보안 전문자들을 말하기도한다."
+			],
+			[
+				46,
+				"서버",
+				"NNG",
+				"최근에 화이트 해커는 민,관에서 서버의 취약점을 찾아 보안 기술을 만드는 보안 전문자들을 말하기도한다."
+			],
+			[
+				47,
+				"취약점",
+				"NNG",
+				"최근에 화이트 해커는 민,관에서 서버의 취약점을 찾아 보안 기술을 만드는 보안 전문자들을 말하기도한다."
+			],
+			[
+				48,
+				"보안",
+				"NNG",
+				"최근에 화이트 해커는 민,관에서 서버의 취약점을 찾아 보안 기술을 만드는 보안 전문자들을 말하기도한다."
+			],
+			[
+				49,
+				"기술",
+				"NNG",
+				"최근에 화이트 해커는 민,관에서 서버의 취약점을 찾아 보안 기술을 만드는 보안 전문자들을 말하기도한다."
+			],
+			[
+				50,
+				"보안",
+				"NNG",
+				"최근에 화이트 해커는 민,관에서 서버의 취약점을 찾아 보안 기술을 만드는 보안 전문자들을 말하기도한다."
+			],
+			[
+				51,
+				"전문자",
+				"NNG",
+				"최근에 화이트 해커는 민,관에서 서버의 취약점을 찾아 보안 기술을 만드는 보안 전문자들을 말하기도한다."
+			],
+			[
+				52,
+				"가운데",
+				"NNG",
+				"또 이들 가운데 설계를 분석해 시스템에 존재하는 취약점을 찾아내 공격시나리오를 짤 수 있는 최고 수준의 인력을 앨리트 해커라고 부른다고 한다."
+			],
+			[
+				53,
+				"설계",
+				"NNG",
+				"또 이들 가운데 설계를 분석해 시스템에 존재하는 취약점을 찾아내 공격시나리오를 짤 수 있는 최고 수준의 인력을 앨리트 해커라고 부른다고 한다."
+			],
+			[
+				54,
+				"시스템",
+				"NNG",
+				"또 이들 가운데 설계를 분석해 시스템에 존재하는 취약점을 찾아내 공격시나리오를 짤 수 있는 최고 수준의 인력을 앨리트 해커라고 부른다고 한다."
+			],
+			[
+				55,
+				"취약점",
+				"NNG",
+				"또 이들 가운데 설계를 분석해 시스템에 존재하는 취약점을 찾아내 공격시나리오를 짤 수 있는 최고 수준의 인력을 앨리트 해커라고 부른다고 한다."
+			],
+			[
+				56,
+				"공격",
+				"NNG",
+				"또 이들 가운데 설계를 분석해 시스템에 존재하는 취약점을 찾아내 공격시나리오를 짤 수 있는 최고 수준의 인력을 앨리트 해커라고 부른다고 한다."
+			],
+			[
+				57,
+				"시나리오",
+				"NNG",
+				"또 이들 가운데 설계를 분석해 시스템에 존재하는 취약점을 찾아내 공격시나리오를 짤 수 있는 최고 수준의 인력을 앨리트 해커라고 부른다고 한다."
+			],
+			[
+				58,
+				"최고",
+				"NNG",
+				"또 이들 가운데 설계를 분석해 시스템에 존재하는 취약점을 찾아내 공격시나리오를 짤 수 있는 최고 수준의 인력을 앨리트 해커라고 부른다고 한다."
+			],
+			[
+				59,
+				"수준",
+				"NNG",
+				"또 이들 가운데 설계를 분석해 시스템에 존재하는 취약점을 찾아내 공격시나리오를 짤 수 있는 최고 수준의 인력을 앨리트 해커라고 부른다고 한다."
+			],
+			[
+				60,
+				"인력",
+				"NNG",
+				"또 이들 가운데 설계를 분석해 시스템에 존재하는 취약점을 찾아내 공격시나리오를 짤 수 있는 최고 수준의 인력을 앨리트 해커라고 부른다고 한다."
+			],
+			[
+				61,
+				"앨리트",
+				"NNG",
+				"또 이들 가운데 설계를 분석해 시스템에 존재하는 취약점을 찾아내 공격시나리오를 짤 수 있는 최고 수준의 인력을 앨리트 해커라고 부른다고 한다."
+			],
+			[
+				62,
+				"해커",
+				"NNG",
+				"또 이들 가운데 설계를 분석해 시스템에 존재하는 취약점을 찾아내 공격시나리오를 짤 수 있는 최고 수준의 인력을 앨리트 해커라고 부른다고 한다."
+			],
+			[
+				63,
+				"에비",
+				"NNG",
+				"한국은 중국,미국,북한에비에 현저히 화이트 해커가 작다고하니 취업도 잘될거 같다."
+			],
+			[
+				64,
+				"화이트",
+				"NNG",
+				"한국은 중국,미국,북한에비에 현저히 화이트 해커가 작다고하니 취업도 잘될거 같다."
+			],
+			[
+				65,
+				"해커",
+				"NNG",
+				"한국은 중국,미국,북한에비에 현저히 화이트 해커가 작다고하니 취업도 잘될거 같다."
+			],
+			[
+				66,
+				"취업",
+				"NNG",
+				"한국은 중국,미국,북한에비에 현저히 화이트 해커가 작다고하니 취업도 잘될거 같다."
+			],
+			[
+				67,
+				"화이트",
+				"NNG",
+				"우선 화이트 해커가 되려니 프로그래밍,서버,네트워크,데이터베이스 그리고 보안기법에 대한 교육과정을 통해 준비해야 한다고 한다."
+			],
+			[
+				68,
+				"해커",
+				"NNG",
+				"우선 화이트 해커가 되려니 프로그래밍,서버,네트워크,데이터베이스 그리고 보안기법에 대한 교육과정을 통해 준비해야 한다고 한다."
+			],
+			[
+				69,
+				"프로그래밍",
+				"NNG",
+				"우선 화이트 해커가 되려니 프로그래밍,서버,네트워크,데이터베이스 그리고 보안기법에 대한 교육과정을 통해 준비해야 한다고 한다."
+			],
+			[
+				70,
+				"서버",
+				"NNG",
+				"우선 화이트 해커가 되려니 프로그래밍,서버,네트워크,데이터베이스 그리고 보안기법에 대한 교육과정을 통해 준비해야 한다고 한다."
+			],
+			[
+				71,
+				"네트워크",
+				"NNG",
+				"우선 화이트 해커가 되려니 프로그래밍,서버,네트워크,데이터베이스 그리고 보안기법에 대한 교육과정을 통해 준비해야 한다고 한다."
+			],
+			[
+				72,
+				"데이터베이스",
+				"NNG",
+				"우선 화이트 해커가 되려니 프로그래밍,서버,네트워크,데이터베이스 그리고 보안기법에 대한 교육과정을 통해 준비해야 한다고 한다."
+			],
+			[
+				73,
+				"보안",
+				"NNG",
+				"우선 화이트 해커가 되려니 프로그래밍,서버,네트워크,데이터베이스 그리고 보안기법에 대한 교육과정을 통해 준비해야 한다고 한다."
+			],
+			[
+				74,
+				"기법",
+				"NNG",
+				"우선 화이트 해커가 되려니 프로그래밍,서버,네트워크,데이터베이스 그리고 보안기법에 대한 교육과정을 통해 준비해야 한다고 한다."
+			],
+			[
+				75,
+				"교육",
+				"NNG",
+				"우선 화이트 해커가 되려니 프로그래밍,서버,네트워크,데이터베이스 그리고 보안기법에 대한 교육과정을 통해 준비해야 한다고 한다."
+			],
+			[
+				76,
+				"과정",
+				"NNG",
+				"우선 화이트 해커가 되려니 프로그래밍,서버,네트워크,데이터베이스 그리고 보안기법에 대한 교육과정을 통해 준비해야 한다고 한다."
+			],
+			[
+				77,
+				"인터넷",
+				"NNG",
+				"인터넷으로 조회하다 보니 유명한 학원들이 줄줄이 나온다."
+			],
+			[
+				78,
+				"학원",
+				"NNG",
+				"인터넷으로 조회하다 보니 유명한 학원들이 줄줄이 나온다."
+			],
+			[
+				79,
+				"주변",
+				"NNG",
+				"누군가 주변에서 코칭해준다면 확실하게 설계를 해볼텐데 학원으로 가서 학원 스케줄에 맞추어 설계하는 수 밖에 없을 듯 하다."
+			],
+			[
+				80,
+				"코칭",
+				"NNG",
+				"누군가 주변에서 코칭해준다면 확실하게 설계를 해볼텐데 학원으로 가서 학원 스케줄에 맞추어 설계하는 수 밖에 없을 듯 하다."
+			],
+			[
+				81,
+				"설계",
+				"NNG",
+				"누군가 주변에서 코칭해준다면 확실하게 설계를 해볼텐데 학원으로 가서 학원 스케줄에 맞추어 설계하는 수 밖에 없을 듯 하다."
+			],
+			[
+				82,
+				"학원",
+				"NNG",
+				"누군가 주변에서 코칭해준다면 확실하게 설계를 해볼텐데 학원으로 가서 학원 스케줄에 맞추어 설계하는 수 밖에 없을 듯 하다."
+			],
+			[
+				83,
+				"학원",
+				"NNG",
+				"누군가 주변에서 코칭해준다면 확실하게 설계를 해볼텐데 학원으로 가서 학원 스케줄에 맞추어 설계하는 수 밖에 없을 듯 하다."
+			],
+			[
+				84,
+				"스케줄",
+				"NNG",
+				"누군가 주변에서 코칭해준다면 확실하게 설계를 해볼텐데 학원으로 가서 학원 스케줄에 맞추어 설계하는 수 밖에 없을 듯 하다."
+			],
+			[
+				85,
+				"밖",
+				"NNG",
+				"누군가 주변에서 코칭해준다면 확실하게 설계를 해볼텐데 학원으로 가서 학원 스케줄에 맞추어 설계하는 수 밖에 없을 듯 하다."
+			]
+		],
+		"NNP_Lst": [
+			[
+				0,
+				"한국",
+				"NNP",
+				"한국은 중국,미국,북한에비에 현저히 화이트 해커가 작다고하니 취업도 잘될거 같다."
+			],
+			[
+				1,
+				"중국",
+				"NNP",
+				"한국은 중국,미국,북한에비에 현저히 화이트 해커가 작다고하니 취업도 잘될거 같다."
+			],
+			[
+				2,
+				"미국",
+				"NNP",
+				"한국은 중국,미국,북한에비에 현저히 화이트 해커가 작다고하니 취업도 잘될거 같다."
+			],
+			[
+				3,
+				"북한",
+				"NNP",
+				"한국은 중국,미국,북한에비에 현저히 화이트 해커가 작다고하니 취업도 잘될거 같다."
+			]
+		],
+		"NNB_Lst": [
+			[
+				0,
+				"만큼",
+				"NNB",
+				"요즘같은 정보화시대에 컴퓨터 없는 집이 없고 휴대폰 없는 사람이 없을 만큼 많은데 화이트해커에 대해서는 잘모르고 있었다."
+			],
+			[
+				1,
+				"줄",
+				"NNB",
+				"해커가 나쁜일인 줄만 알고 있었던 것이다."
+			],
+			[
+				2,
+				"것",
+				"NNB",
+				"해커가 나쁜일인 줄만 알고 있었던 것이다."
+			],
+			[
+				3,
+				"수",
+				"NNB",
+				"늘 블랙해커가 나쁘다고만 무심히 생각했지 막을수 있는 해커가 있다는 사실을 몰랐던거 같아."
+			],
+			[
+				4,
+				"거",
+				"NNB",
+				"늘 블랙해커가 나쁘다고만 무심히 생각했지 막을수 있는 해커가 있다는 사실을 몰랐던거 같아."
+			],
+			[
+				5,
+				"수",
+				"NNB",
+				"또 이들 가운데 설계를 분석해 시스템에 존재하는 취약점을 찾아내 공격시나리오를 짤 수 있는 최고 수준의 인력을 앨리트 해커라고 부른다고 한다."
+			],
+			[
+				6,
+				"거",
+				"NNB",
+				"한국은 중국,미국,북한에비에 현저히 화이트 해커가 작다고하니 취업도 잘될거 같다."
+			],
+			[
+				7,
+				"터",
+				"NNB",
+				"누군가 주변에서 코칭해준다면 확실하게 설계를 해볼텐데 학원으로 가서 학원 스케줄에 맞추어 설계하는 수 밖에 없을 듯 하다."
+			],
+			[
+				8,
+				"수",
+				"NNB",
+				"누군가 주변에서 코칭해준다면 확실하게 설계를 해볼텐데 학원으로 가서 학원 스케줄에 맞추어 설계하는 수 밖에 없을 듯 하다."
+			],
+			[
+				9,
+				"듯",
+				"NNB",
+				"누군가 주변에서 코칭해준다면 확실하게 설계를 해볼텐데 학원으로 가서 학원 스케줄에 맞추어 설계하는 수 밖에 없을 듯 하다."
+			]
+		],
+		"NP_Lst": [
+			[
+				0,
+				"나",
+				"NP",
+				"나의 꿈은 화이트 해커이다."
+			],
+			[
+				1,
+				"나",
+				"NP",
+				"항상 컴퓨터와 친구인 나는 부모님께서 꿈에 대해서 생각해보라고 하셨을때 고민하다 화이트해커가 되고 싶다고 말씀드렸다."
+			],
+			[
+				2,
+				"이",
+				"NP",
+				"또 이들 가운데 설계를 분석해 시스템에 존재하는 취약점을 찾아내 공격시나리오를 짤 수 있는 최고 수준의 인력을 앨리트 해커라고 부른다고 한다."
+			],
+			[
+				3,
+				"누구",
+				"NP",
+				"누군가 주변에서 코칭해준다면 확실하게 설계를 해볼텐데 학원으로 가서 학원 스케줄에 맞추어 설계하는 수 밖에 없을 듯 하다."
+			]
+		],
+		"NP_People_Lst": [
+			[
+				0,
+				"나",
+				"NP",
+				"나의 꿈은 화이트 해커이다."
+			],
+			[
+				1,
+				"나",
+				"NP",
+				"항상 컴퓨터와 친구인 나는 부모님께서 꿈에 대해서 생각해보라고 하셨을때 고민하다 화이트해커가 되고 싶다고 말씀드렸다."
+			],
+			[
+				2,
+				"누구",
+				"NP",
+				"누군가 주변에서 코칭해준다면 확실하게 설계를 해볼텐데 학원으로 가서 학원 스케줄에 맞추어 설계하는 수 밖에 없을 듯 하다."
+			]
+		],
+		"NP_Things_Lst": [
+			[
+				0,
+				"이",
+				"NP",
+				"또 이들 가운데 설계를 분석해 시스템에 존재하는 취약점을 찾아내 공격시나리오를 짤 수 있는 최고 수준의 인력을 앨리트 해커라고 부른다고 한다."
+			]
+		],
+		"NR_Lst": [],
+		"VL_Lst": [
+			[
+				0,
+				"이",
+				"VCP",
+				"나의 꿈은 화이트 해커이다."
+			],
+			[
+				1,
+				"이",
+				"VCP",
+				"항상 컴퓨터와 친구인 나는 부모님께서 꿈에 대해서 생각해보라고 하셨을때 고민하다 화이트해커가 되고 싶다고 말씀드렸다."
+			],
+			[
+				2,
+				"대하",
+				"VV",
+				"항상 컴퓨터와 친구인 나는 부모님께서 꿈에 대해서 생각해보라고 하셨을때 고민하다 화이트해커가 되고 싶다고 말씀드렸다."
+			],
+			[
+				3,
+				"생각하",
+				"VV",
+				"항상 컴퓨터와 친구인 나는 부모님께서 꿈에 대해서 생각해보라고 하셨을때 고민하다 화이트해커가 되고 싶다고 말씀드렸다."
+			],
+			[
+				4,
+				"보",
+				"VX",
+				"항상 컴퓨터와 친구인 나는 부모님께서 꿈에 대해서 생각해보라고 하셨을때 고민하다 화이트해커가 되고 싶다고 말씀드렸다."
+			],
+			[
+				5,
+				"하",
+				"VV",
+				"항상 컴퓨터와 친구인 나는 부모님께서 꿈에 대해서 생각해보라고 하셨을때 고민하다 화이트해커가 되고 싶다고 말씀드렸다."
+			],
+			[
+				6,
+				"고민하",
+				"VV",
+				"항상 컴퓨터와 친구인 나는 부모님께서 꿈에 대해서 생각해보라고 하셨을때 고민하다 화이트해커가 되고 싶다고 말씀드렸다."
+			],
+			[
+				7,
+				"되",
+				"VV",
+				"항상 컴퓨터와 친구인 나는 부모님께서 꿈에 대해서 생각해보라고 하셨을때 고민하다 화이트해커가 되고 싶다고 말씀드렸다."
+			],
+			[
+				8,
+				"싶",
+				"VX",
+				"항상 컴퓨터와 친구인 나는 부모님께서 꿈에 대해서 생각해보라고 하셨을때 고민하다 화이트해커가 되고 싶다고 말씀드렸다."
+			],
+			[
+				9,
+				"드리",
+				"VV",
+				"항상 컴퓨터와 친구인 나는 부모님께서 꿈에 대해서 생각해보라고 하셨을때 고민하다 화이트해커가 되고 싶다고 말씀드렸다."
+			],
+			[
+				10,
+				"같",
+				"VA",
+				"요즘같은 정보화시대에 컴퓨터 없는 집이 없고 휴대폰 없는 사람이 없을 만큼 많은데 화이트해커에 대해서는 잘모르고 있었다."
+			],
+			[
+				11,
+				"없",
+				"VA",
+				"요즘같은 정보화시대에 컴퓨터 없는 집이 없고 휴대폰 없는 사람이 없을 만큼 많은데 화이트해커에 대해서는 잘모르고 있었다."
+			],
+			[
+				12,
+				"없",
+				"VA",
+				"요즘같은 정보화시대에 컴퓨터 없는 집이 없고 휴대폰 없는 사람이 없을 만큼 많은데 화이트해커에 대해서는 잘모르고 있었다."
+			],
+			[
+				13,
+				"없",
+				"VA",
+				"요즘같은 정보화시대에 컴퓨터 없는 집이 없고 휴대폰 없는 사람이 없을 만큼 많은데 화이트해커에 대해서는 잘모르고 있었다."
+			],
+			[
+				14,
+				"없",
+				"VA",
+				"요즘같은 정보화시대에 컴퓨터 없는 집이 없고 휴대폰 없는 사람이 없을 만큼 많은데 화이트해커에 대해서는 잘모르고 있었다."
+			],
+			[
+				15,
+				"많",
+				"VA",
+				"요즘같은 정보화시대에 컴퓨터 없는 집이 없고 휴대폰 없는 사람이 없을 만큼 많은데 화이트해커에 대해서는 잘모르고 있었다."
+			],
+			[
+				16,
+				"대하",
+				"VV",
+				"요즘같은 정보화시대에 컴퓨터 없는 집이 없고 휴대폰 없는 사람이 없을 만큼 많은데 화이트해커에 대해서는 잘모르고 있었다."
+			],
+			[
+				17,
+				"모르",
+				"VV",
+				"요즘같은 정보화시대에 컴퓨터 없는 집이 없고 휴대폰 없는 사람이 없을 만큼 많은데 화이트해커에 대해서는 잘모르고 있었다."
+			],
+			[
+				18,
+				"있",
+				"VX",
+				"요즘같은 정보화시대에 컴퓨터 없는 집이 없고 휴대폰 없는 사람이 없을 만큼 많은데 화이트해커에 대해서는 잘모르고 있었다."
+			],
+			[
+				19,
+				"나쁘",
+				"VA",
+				"해커가 나쁜일인 줄만 알고 있었던 것이다."
+			],
+			[
+				20,
+				"이",
+				"VCP",
+				"해커가 나쁜일인 줄만 알고 있었던 것이다."
+			],
+			[
+				21,
+				"알",
+				"VV",
+				"해커가 나쁜일인 줄만 알고 있었던 것이다."
+			],
+			[
+				22,
+				"있",
+				"VX",
+				"해커가 나쁜일인 줄만 알고 있었던 것이다."
+			],
+			[
+				23,
+				"이",
+				"VCP",
+				"해커가 나쁜일인 줄만 알고 있었던 것이다."
+			],
+			[
+				24,
+				"대하",
+				"VV",
+				"블랙해커와 화이트해커 해커의 종류에 대해서 몰랐다."
+			],
+			[
+				25,
+				"모르",
+				"VV",
+				"블랙해커와 화이트해커 해커의 종류에 대해서 몰랐다."
+			],
+			[
+				26,
+				"나쁘",
+				"VA",
+				"늘 블랙해커가 나쁘다고만 무심히 생각했지 막을수 있는 해커가 있다는 사실을 몰랐던거 같아."
+			],
+			[
+				27,
+				"생각하",
+				"VV",
+				"늘 블랙해커가 나쁘다고만 무심히 생각했지 막을수 있는 해커가 있다는 사실을 몰랐던거 같아."
+			],
+			[
+				28,
+				"막",
+				"VV",
+				"늘 블랙해커가 나쁘다고만 무심히 생각했지 막을수 있는 해커가 있다는 사실을 몰랐던거 같아."
+			],
+			[
+				29,
+				"있",
+				"VA",
+				"늘 블랙해커가 나쁘다고만 무심히 생각했지 막을수 있는 해커가 있다는 사실을 몰랐던거 같아."
+			],
+			[
+				30,
+				"있",
+				"VA",
+				"늘 블랙해커가 나쁘다고만 무심히 생각했지 막을수 있는 해커가 있다는 사실을 몰랐던거 같아."
+			],
+			[
+				31,
+				"모르",
+				"VV",
+				"늘 블랙해커가 나쁘다고만 무심히 생각했지 막을수 있는 해커가 있다는 사실을 몰랐던거 같아."
+			],
+			[
+				32,
+				"같",
+				"VA",
+				"늘 블랙해커가 나쁘다고만 무심히 생각했지 막을수 있는 해커가 있다는 사실을 몰랐던거 같아."
+			],
+			[
+				33,
+				"발견하",
+				"VV",
+				"화이트 해커는 보안 시스템의 취약점을 발견해 관리자에게 제보함으로써 블랙해커의 공격을 예방하기도 안다."
+			],
+			[
+				34,
+				"제보하",
+				"VV",
+				"화이트 해커는 보안 시스템의 취약점을 발견해 관리자에게 제보함으로써 블랙해커의 공격을 예방하기도 안다."
+			],
+			[
+				35,
+				"예방하",
+				"VV",
+				"화이트 해커는 보안 시스템의 취약점을 발견해 관리자에게 제보함으로써 블랙해커의 공격을 예방하기도 안다."
+			],
+			[
+				36,
+				"알",
+				"VV",
+				"화이트 해커는 보안 시스템의 취약점을 발견해 관리자에게 제보함으로써 블랙해커의 공격을 예방하기도 안다."
+			],
+			[
+				37,
+				"찾",
+				"VV",
+				"최근에 화이트 해커는 민,관에서 서버의 취약점을 찾아 보안 기술을 만드는 보안 전문자들을 말하기도한다."
+			],
+			[
+				38,
+				"만들",
+				"VV",
+				"최근에 화이트 해커는 민,관에서 서버의 취약점을 찾아 보안 기술을 만드는 보안 전문자들을 말하기도한다."
+			],
+			[
+				39,
+				"말하",
+				"VV",
+				"최근에 화이트 해커는 민,관에서 서버의 취약점을 찾아 보안 기술을 만드는 보안 전문자들을 말하기도한다."
+			],
+			[
+				40,
+				"하",
+				"VX",
+				"최근에 화이트 해커는 민,관에서 서버의 취약점을 찾아 보안 기술을 만드는 보안 전문자들을 말하기도한다."
+			],
+			[
+				41,
+				"분석하",
+				"VV",
+				"또 이들 가운데 설계를 분석해 시스템에 존재하는 취약점을 찾아내 공격시나리오를 짤 수 있는 최고 수준의 인력을 앨리트 해커라고 부른다고 한다."
+			],
+			[
+				42,
+				"존재하",
+				"VV",
+				"또 이들 가운데 설계를 분석해 시스템에 존재하는 취약점을 찾아내 공격시나리오를 짤 수 있는 최고 수준의 인력을 앨리트 해커라고 부른다고 한다."
+			],
+			[
+				43,
+				"찾아내",
+				"VV",
+				"또 이들 가운데 설계를 분석해 시스템에 존재하는 취약점을 찾아내 공격시나리오를 짤 수 있는 최고 수준의 인력을 앨리트 해커라고 부른다고 한다."
+			],
+			[
+				44,
+				"짜",
+				"VV",
+				"또 이들 가운데 설계를 분석해 시스템에 존재하는 취약점을 찾아내 공격시나리오를 짤 수 있는 최고 수준의 인력을 앨리트 해커라고 부른다고 한다."
+			],
+			[
+				45,
+				"있",
+				"VA",
+				"또 이들 가운데 설계를 분석해 시스템에 존재하는 취약점을 찾아내 공격시나리오를 짤 수 있는 최고 수준의 인력을 앨리트 해커라고 부른다고 한다."
+			],
+			[
+				46,
+				"이",
+				"VCP",
+				"또 이들 가운데 설계를 분석해 시스템에 존재하는 취약점을 찾아내 공격시나리오를 짤 수 있는 최고 수준의 인력을 앨리트 해커라고 부른다고 한다."
+			],
+			[
+				47,
+				"부르",
+				"VV",
+				"또 이들 가운데 설계를 분석해 시스템에 존재하는 취약점을 찾아내 공격시나리오를 짤 수 있는 최고 수준의 인력을 앨리트 해커라고 부른다고 한다."
+			],
+			[
+				48,
+				"하",
+				"VV",
+				"또 이들 가운데 설계를 분석해 시스템에 존재하는 취약점을 찾아내 공격시나리오를 짤 수 있는 최고 수준의 인력을 앨리트 해커라고 부른다고 한다."
+			],
+			[
+				49,
+				"작",
+				"VA",
+				"한국은 중국,미국,북한에비에 현저히 화이트 해커가 작다고하니 취업도 잘될거 같다."
+			],
+			[
+				50,
+				"하",
+				"VV",
+				"한국은 중국,미국,북한에비에 현저히 화이트 해커가 작다고하니 취업도 잘될거 같다."
+			],
+			[
+				51,
+				"잘되",
+				"VV",
+				"한국은 중국,미국,북한에비에 현저히 화이트 해커가 작다고하니 취업도 잘될거 같다."
+			],
+			[
+				52,
+				"같",
+				"VA",
+				"한국은 중국,미국,북한에비에 현저히 화이트 해커가 작다고하니 취업도 잘될거 같다."
+			],
+			[
+				53,
+				"되",
+				"VV",
+				"우선 화이트 해커가 되려니 프로그래밍,서버,네트워크,데이터베이스 그리고 보안기법에 대한 교육과정을 통해 준비해야 한다고 한다."
+			],
+			[
+				54,
+				"대하",
+				"VV",
+				"우선 화이트 해커가 되려니 프로그래밍,서버,네트워크,데이터베이스 그리고 보안기법에 대한 교육과정을 통해 준비해야 한다고 한다."
+			],
+			[
+				55,
+				"통하",
+				"VV",
+				"우선 화이트 해커가 되려니 프로그래밍,서버,네트워크,데이터베이스 그리고 보안기법에 대한 교육과정을 통해 준비해야 한다고 한다."
+			],
+			[
+				56,
+				"준비하",
+				"VV",
+				"우선 화이트 해커가 되려니 프로그래밍,서버,네트워크,데이터베이스 그리고 보안기법에 대한 교육과정을 통해 준비해야 한다고 한다."
+			],
+			[
+				57,
+				"하",
+				"VX",
+				"우선 화이트 해커가 되려니 프로그래밍,서버,네트워크,데이터베이스 그리고 보안기법에 대한 교육과정을 통해 준비해야 한다고 한다."
+			],
+			[
+				58,
+				"하",
+				"VV",
+				"우선 화이트 해커가 되려니 프로그래밍,서버,네트워크,데이터베이스 그리고 보안기법에 대한 교육과정을 통해 준비해야 한다고 한다."
+			],
+			[
+				59,
+				"조회하",
+				"VV",
+				"인터넷으로 조회하다 보니 유명한 학원들이 줄줄이 나온다."
+			],
+			[
+				60,
+				"보",
+				"VX",
+				"인터넷으로 조회하다 보니 유명한 학원들이 줄줄이 나온다."
+			],
+			[
+				61,
+				"유명하",
+				"VA",
+				"인터넷으로 조회하다 보니 유명한 학원들이 줄줄이 나온다."
+			],
+			[
+				62,
+				"나오",
+				"VV",
+				"인터넷으로 조회하다 보니 유명한 학원들이 줄줄이 나온다."
+			],
+			[
+				63,
+				"이",
+				"VCP",
+				"누군가 주변에서 코칭해준다면 확실하게 설계를 해볼텐데 학원으로 가서 학원 스케줄에 맞추어 설계하는 수 밖에 없을 듯 하다."
+			],
+			[
+				64,
+				"주",
+				"VX",
+				"누군가 주변에서 코칭해준다면 확실하게 설계를 해볼텐데 학원으로 가서 학원 스케줄에 맞추어 설계하는 수 밖에 없을 듯 하다."
+			],
+			[
+				65,
+				"확실하",
+				"VA",
+				"누군가 주변에서 코칭해준다면 확실하게 설계를 해볼텐데 학원으로 가서 학원 스케줄에 맞추어 설계하는 수 밖에 없을 듯 하다."
+			],
+			[
+				66,
+				"해보",
+				"VV",
+				"누군가 주변에서 코칭해준다면 확실하게 설계를 해볼텐데 학원으로 가서 학원 스케줄에 맞추어 설계하는 수 밖에 없을 듯 하다."
+			],
+			[
+				67,
+				"이",
+				"VCP",
+				"누군가 주변에서 코칭해준다면 확실하게 설계를 해볼텐데 학원으로 가서 학원 스케줄에 맞추어 설계하는 수 밖에 없을 듯 하다."
+			],
+			[
+				68,
+				"가",
+				"VV",
+				"누군가 주변에서 코칭해준다면 확실하게 설계를 해볼텐데 학원으로 가서 학원 스케줄에 맞추어 설계하는 수 밖에 없을 듯 하다."
+			],
+			[
+				69,
+				"맞추",
+				"VV",
+				"누군가 주변에서 코칭해준다면 확실하게 설계를 해볼텐데 학원으로 가서 학원 스케줄에 맞추어 설계하는 수 밖에 없을 듯 하다."
+			],
+			[
+				70,
+				"설계하",
+				"VV",
+				"누군가 주변에서 코칭해준다면 확실하게 설계를 해볼텐데 학원으로 가서 학원 스케줄에 맞추어 설계하는 수 밖에 없을 듯 하다."
+			],
+			[
+				71,
+				"없",
+				"VA",
+				"누군가 주변에서 코칭해준다면 확실하게 설계를 해볼텐데 학원으로 가서 학원 스케줄에 맞추어 설계하는 수 밖에 없을 듯 하다."
+			],
+			[
+				72,
+				"하",
+				"VA",
+				"누군가 주변에서 코칭해준다면 확실하게 설계를 해볼텐데 학원으로 가서 학원 스케줄에 맞추어 설계하는 수 밖에 없을 듯 하다."
+			]
+		],
+		"VV_Lst": [
+			[
+				0,
+				"대하",
+				"VV",
+				"항상 컴퓨터와 친구인 나는 부모님께서 꿈에 대해서 생각해보라고 하셨을때 고민하다 화이트해커가 되고 싶다고 말씀드렸다."
+			],
+			[
+				1,
+				"생각하",
+				"VV",
+				"항상 컴퓨터와 친구인 나는 부모님께서 꿈에 대해서 생각해보라고 하셨을때 고민하다 화이트해커가 되고 싶다고 말씀드렸다."
+			],
+			[
+				2,
+				"하",
+				"VV",
+				"항상 컴퓨터와 친구인 나는 부모님께서 꿈에 대해서 생각해보라고 하셨을때 고민하다 화이트해커가 되고 싶다고 말씀드렸다."
+			],
+			[
+				3,
+				"고민하",
+				"VV",
+				"항상 컴퓨터와 친구인 나는 부모님께서 꿈에 대해서 생각해보라고 하셨을때 고민하다 화이트해커가 되고 싶다고 말씀드렸다."
+			],
+			[
+				4,
+				"되",
+				"VV",
+				"항상 컴퓨터와 친구인 나는 부모님께서 꿈에 대해서 생각해보라고 하셨을때 고민하다 화이트해커가 되고 싶다고 말씀드렸다."
+			],
+			[
+				5,
+				"드리",
+				"VV",
+				"항상 컴퓨터와 친구인 나는 부모님께서 꿈에 대해서 생각해보라고 하셨을때 고민하다 화이트해커가 되고 싶다고 말씀드렸다."
+			],
+			[
+				6,
+				"대하",
+				"VV",
+				"요즘같은 정보화시대에 컴퓨터 없는 집이 없고 휴대폰 없는 사람이 없을 만큼 많은데 화이트해커에 대해서는 잘모르고 있었다."
+			],
+			[
+				7,
+				"모르",
+				"VV",
+				"요즘같은 정보화시대에 컴퓨터 없는 집이 없고 휴대폰 없는 사람이 없을 만큼 많은데 화이트해커에 대해서는 잘모르고 있었다."
+			],
+			[
+				8,
+				"알",
+				"VV",
+				"해커가 나쁜일인 줄만 알고 있었던 것이다."
+			],
+			[
+				9,
+				"대하",
+				"VV",
+				"블랙해커와 화이트해커 해커의 종류에 대해서 몰랐다."
+			],
+			[
+				10,
+				"모르",
+				"VV",
+				"블랙해커와 화이트해커 해커의 종류에 대해서 몰랐다."
+			],
+			[
+				11,
+				"생각하",
+				"VV",
+				"늘 블랙해커가 나쁘다고만 무심히 생각했지 막을수 있는 해커가 있다는 사실을 몰랐던거 같아."
+			],
+			[
+				12,
+				"막",
+				"VV",
+				"늘 블랙해커가 나쁘다고만 무심히 생각했지 막을수 있는 해커가 있다는 사실을 몰랐던거 같아."
+			],
+			[
+				13,
+				"모르",
+				"VV",
+				"늘 블랙해커가 나쁘다고만 무심히 생각했지 막을수 있는 해커가 있다는 사실을 몰랐던거 같아."
+			],
+			[
+				14,
+				"발견하",
+				"VV",
+				"화이트 해커는 보안 시스템의 취약점을 발견해 관리자에게 제보함으로써 블랙해커의 공격을 예방하기도 안다."
+			],
+			[
+				15,
+				"제보하",
+				"VV",
+				"화이트 해커는 보안 시스템의 취약점을 발견해 관리자에게 제보함으로써 블랙해커의 공격을 예방하기도 안다."
+			],
+			[
+				16,
+				"예방하",
+				"VV",
+				"화이트 해커는 보안 시스템의 취약점을 발견해 관리자에게 제보함으로써 블랙해커의 공격을 예방하기도 안다."
+			],
+			[
+				17,
+				"알",
+				"VV",
+				"화이트 해커는 보안 시스템의 취약점을 발견해 관리자에게 제보함으로써 블랙해커의 공격을 예방하기도 안다."
+			],
+			[
+				18,
+				"찾",
+				"VV",
+				"최근에 화이트 해커는 민,관에서 서버의 취약점을 찾아 보안 기술을 만드는 보안 전문자들을 말하기도한다."
+			],
+			[
+				19,
+				"만들",
+				"VV",
+				"최근에 화이트 해커는 민,관에서 서버의 취약점을 찾아 보안 기술을 만드는 보안 전문자들을 말하기도한다."
+			],
+			[
+				20,
+				"말하",
+				"VV",
+				"최근에 화이트 해커는 민,관에서 서버의 취약점을 찾아 보안 기술을 만드는 보안 전문자들을 말하기도한다."
+			],
+			[
+				21,
+				"분석하",
+				"VV",
+				"또 이들 가운데 설계를 분석해 시스템에 존재하는 취약점을 찾아내 공격시나리오를 짤 수 있는 최고 수준의 인력을 앨리트 해커라고 부른다고 한다."
+			],
+			[
+				22,
+				"존재하",
+				"VV",
+				"또 이들 가운데 설계를 분석해 시스템에 존재하는 취약점을 찾아내 공격시나리오를 짤 수 있는 최고 수준의 인력을 앨리트 해커라고 부른다고 한다."
+			],
+			[
+				23,
+				"찾아내",
+				"VV",
+				"또 이들 가운데 설계를 분석해 시스템에 존재하는 취약점을 찾아내 공격시나리오를 짤 수 있는 최고 수준의 인력을 앨리트 해커라고 부른다고 한다."
+			],
+			[
+				24,
+				"짜",
+				"VV",
+				"또 이들 가운데 설계를 분석해 시스템에 존재하는 취약점을 찾아내 공격시나리오를 짤 수 있는 최고 수준의 인력을 앨리트 해커라고 부른다고 한다."
+			],
+			[
+				25,
+				"부르",
+				"VV",
+				"또 이들 가운데 설계를 분석해 시스템에 존재하는 취약점을 찾아내 공격시나리오를 짤 수 있는 최고 수준의 인력을 앨리트 해커라고 부른다고 한다."
+			],
+			[
+				26,
+				"하",
+				"VV",
+				"또 이들 가운데 설계를 분석해 시스템에 존재하는 취약점을 찾아내 공격시나리오를 짤 수 있는 최고 수준의 인력을 앨리트 해커라고 부른다고 한다."
+			],
+			[
+				27,
+				"하",
+				"VV",
+				"한국은 중국,미국,북한에비에 현저히 화이트 해커가 작다고하니 취업도 잘될거 같다."
+			],
+			[
+				28,
+				"잘되",
+				"VV",
+				"한국은 중국,미국,북한에비에 현저히 화이트 해커가 작다고하니 취업도 잘될거 같다."
+			],
+			[
+				29,
+				"되",
+				"VV",
+				"우선 화이트 해커가 되려니 프로그래밍,서버,네트워크,데이터베이스 그리고 보안기법에 대한 교육과정을 통해 준비해야 한다고 한다."
+			],
+			[
+				30,
+				"대하",
+				"VV",
+				"우선 화이트 해커가 되려니 프로그래밍,서버,네트워크,데이터베이스 그리고 보안기법에 대한 교육과정을 통해 준비해야 한다고 한다."
+			],
+			[
+				31,
+				"통하",
+				"VV",
+				"우선 화이트 해커가 되려니 프로그래밍,서버,네트워크,데이터베이스 그리고 보안기법에 대한 교육과정을 통해 준비해야 한다고 한다."
+			],
+			[
+				32,
+				"준비하",
+				"VV",
+				"우선 화이트 해커가 되려니 프로그래밍,서버,네트워크,데이터베이스 그리고 보안기법에 대한 교육과정을 통해 준비해야 한다고 한다."
+			],
+			[
+				33,
+				"하",
+				"VV",
+				"우선 화이트 해커가 되려니 프로그래밍,서버,네트워크,데이터베이스 그리고 보안기법에 대한 교육과정을 통해 준비해야 한다고 한다."
+			],
+			[
+				34,
+				"조회하",
+				"VV",
+				"인터넷으로 조회하다 보니 유명한 학원들이 줄줄이 나온다."
+			],
+			[
+				35,
+				"나오",
+				"VV",
+				"인터넷으로 조회하다 보니 유명한 학원들이 줄줄이 나온다."
+			],
+			[
+				36,
+				"해보",
+				"VV",
+				"누군가 주변에서 코칭해준다면 확실하게 설계를 해볼텐데 학원으로 가서 학원 스케줄에 맞추어 설계하는 수 밖에 없을 듯 하다."
+			],
+			[
+				37,
+				"가",
+				"VV",
+				"누군가 주변에서 코칭해준다면 확실하게 설계를 해볼텐데 학원으로 가서 학원 스케줄에 맞추어 설계하는 수 밖에 없을 듯 하다."
+			],
+			[
+				38,
+				"맞추",
+				"VV",
+				"누군가 주변에서 코칭해준다면 확실하게 설계를 해볼텐데 학원으로 가서 학원 스케줄에 맞추어 설계하는 수 밖에 없을 듯 하다."
+			],
+			[
+				39,
+				"설계하",
+				"VV",
+				"누군가 주변에서 코칭해준다면 확실하게 설계를 해볼텐데 학원으로 가서 학원 스케줄에 맞추어 설계하는 수 밖에 없을 듯 하다."
+			]
+		],
+		"VA_Lst": [
+			[
+				0,
+				"같",
+				"VA",
+				"요즘같은 정보화시대에 컴퓨터 없는 집이 없고 휴대폰 없는 사람이 없을 만큼 많은데 화이트해커에 대해서는 잘모르고 있었다."
+			],
+			[
+				1,
+				"없",
+				"VA",
+				"요즘같은 정보화시대에 컴퓨터 없는 집이 없고 휴대폰 없는 사람이 없을 만큼 많은데 화이트해커에 대해서는 잘모르고 있었다."
+			],
+			[
+				2,
+				"없",
+				"VA",
+				"요즘같은 정보화시대에 컴퓨터 없는 집이 없고 휴대폰 없는 사람이 없을 만큼 많은데 화이트해커에 대해서는 잘모르고 있었다."
+			],
+			[
+				3,
+				"없",
+				"VA",
+				"요즘같은 정보화시대에 컴퓨터 없는 집이 없고 휴대폰 없는 사람이 없을 만큼 많은데 화이트해커에 대해서는 잘모르고 있었다."
+			],
+			[
+				4,
+				"없",
+				"VA",
+				"요즘같은 정보화시대에 컴퓨터 없는 집이 없고 휴대폰 없는 사람이 없을 만큼 많은데 화이트해커에 대해서는 잘모르고 있었다."
+			],
+			[
+				5,
+				"많",
+				"VA",
+				"요즘같은 정보화시대에 컴퓨터 없는 집이 없고 휴대폰 없는 사람이 없을 만큼 많은데 화이트해커에 대해서는 잘모르고 있었다."
+			],
+			[
+				6,
+				"나쁘",
+				"VA",
+				"해커가 나쁜일인 줄만 알고 있었던 것이다."
+			],
+			[
+				7,
+				"나쁘",
+				"VA",
+				"늘 블랙해커가 나쁘다고만 무심히 생각했지 막을수 있는 해커가 있다는 사실을 몰랐던거 같아."
+			],
+			[
+				8,
+				"있",
+				"VA",
+				"늘 블랙해커가 나쁘다고만 무심히 생각했지 막을수 있는 해커가 있다는 사실을 몰랐던거 같아."
+			],
+			[
+				9,
+				"있",
+				"VA",
+				"늘 블랙해커가 나쁘다고만 무심히 생각했지 막을수 있는 해커가 있다는 사실을 몰랐던거 같아."
+			],
+			[
+				10,
+				"같",
+				"VA",
+				"늘 블랙해커가 나쁘다고만 무심히 생각했지 막을수 있는 해커가 있다는 사실을 몰랐던거 같아."
+			],
+			[
+				11,
+				"있",
+				"VA",
+				"또 이들 가운데 설계를 분석해 시스템에 존재하는 취약점을 찾아내 공격시나리오를 짤 수 있는 최고 수준의 인력을 앨리트 해커라고 부른다고 한다."
+			],
+			[
+				12,
+				"작",
+				"VA",
+				"한국은 중국,미국,북한에비에 현저히 화이트 해커가 작다고하니 취업도 잘될거 같다."
+			],
+			[
+				13,
+				"같",
+				"VA",
+				"한국은 중국,미국,북한에비에 현저히 화이트 해커가 작다고하니 취업도 잘될거 같다."
+			],
+			[
+				14,
+				"유명하",
+				"VA",
+				"인터넷으로 조회하다 보니 유명한 학원들이 줄줄이 나온다."
+			],
+			[
+				15,
+				"확실하",
+				"VA",
+				"누군가 주변에서 코칭해준다면 확실하게 설계를 해볼텐데 학원으로 가서 학원 스케줄에 맞추어 설계하는 수 밖에 없을 듯 하다."
+			],
+			[
+				16,
+				"없",
+				"VA",
+				"누군가 주변에서 코칭해준다면 확실하게 설계를 해볼텐데 학원으로 가서 학원 스케줄에 맞추어 설계하는 수 밖에 없을 듯 하다."
+			],
+			[
+				17,
+				"하",
+				"VA",
+				"누군가 주변에서 코칭해준다면 확실하게 설계를 해볼텐데 학원으로 가서 학원 스케줄에 맞추어 설계하는 수 밖에 없을 듯 하다."
+			]
+		],
+		"VX_Lst": [
+			[
+				0,
+				"보",
+				"VX",
+				"항상 컴퓨터와 친구인 나는 부모님께서 꿈에 대해서 생각해보라고 하셨을때 고민하다 화이트해커가 되고 싶다고 말씀드렸다."
+			],
+			[
+				1,
+				"싶",
+				"VX",
+				"항상 컴퓨터와 친구인 나는 부모님께서 꿈에 대해서 생각해보라고 하셨을때 고민하다 화이트해커가 되고 싶다고 말씀드렸다."
+			],
+			[
+				2,
+				"있",
+				"VX",
+				"요즘같은 정보화시대에 컴퓨터 없는 집이 없고 휴대폰 없는 사람이 없을 만큼 많은데 화이트해커에 대해서는 잘모르고 있었다."
+			],
+			[
+				3,
+				"있",
+				"VX",
+				"해커가 나쁜일인 줄만 알고 있었던 것이다."
+			],
+			[
+				4,
+				"하",
+				"VX",
+				"최근에 화이트 해커는 민,관에서 서버의 취약점을 찾아 보안 기술을 만드는 보안 전문자들을 말하기도한다."
+			],
+			[
+				5,
+				"하",
+				"VX",
+				"우선 화이트 해커가 되려니 프로그래밍,서버,네트워크,데이터베이스 그리고 보안기법에 대한 교육과정을 통해 준비해야 한다고 한다."
+			],
+			[
+				6,
+				"보",
+				"VX",
+				"인터넷으로 조회하다 보니 유명한 학원들이 줄줄이 나온다."
+			],
+			[
+				7,
+				"주",
+				"VX",
+				"누군가 주변에서 코칭해준다면 확실하게 설계를 해볼텐데 학원으로 가서 학원 스케줄에 맞추어 설계하는 수 밖에 없을 듯 하다."
+			]
+		],
+		"VCP_Lst": [
+			[
+				0,
+				"이",
+				"VCP",
+				"나의 꿈은 화이트 해커이다."
+			],
+			[
+				1,
+				"이",
+				"VCP",
+				"항상 컴퓨터와 친구인 나는 부모님께서 꿈에 대해서 생각해보라고 하셨을때 고민하다 화이트해커가 되고 싶다고 말씀드렸다."
+			],
+			[
+				2,
+				"이",
+				"VCP",
+				"해커가 나쁜일인 줄만 알고 있었던 것이다."
+			],
+			[
+				3,
+				"이",
+				"VCP",
+				"해커가 나쁜일인 줄만 알고 있었던 것이다."
+			],
+			[
+				4,
+				"이",
+				"VCP",
+				"또 이들 가운데 설계를 분석해 시스템에 존재하는 취약점을 찾아내 공격시나리오를 짤 수 있는 최고 수준의 인력을 앨리트 해커라고 부른다고 한다."
+			],
+			[
+				5,
+				"이",
+				"VCP",
+				"누군가 주변에서 코칭해준다면 확실하게 설계를 해볼텐데 학원으로 가서 학원 스케줄에 맞추어 설계하는 수 밖에 없을 듯 하다."
+			],
+			[
+				6,
+				"이",
+				"VCP",
+				"누군가 주변에서 코칭해준다면 확실하게 설계를 해볼텐데 학원으로 가서 학원 스케줄에 맞추어 설계하는 수 밖에 없을 듯 하다."
+			]
+		],
+		"VCN_Lst": [],
+		"ML_Lst": [
+			[
+				0,
+				"항상",
+				"MAG",
+				"항상 컴퓨터와 친구인 나는 부모님께서 꿈에 대해서 생각해보라고 하셨을때 고민하다 화이트해커가 되고 싶다고 말씀드렸다."
+			],
+			[
+				1,
+				"잘",
+				"MAG",
+				"요즘같은 정보화시대에 컴퓨터 없는 집이 없고 휴대폰 없는 사람이 없을 만큼 많은데 화이트해커에 대해서는 잘모르고 있었다."
+			],
+			[
+				2,
+				"늘",
+				"MAG",
+				"늘 블랙해커가 나쁘다고만 무심히 생각했지 막을수 있는 해커가 있다는 사실을 몰랐던거 같아."
+			],
+			[
+				3,
+				"무심히",
+				"MAG",
+				"늘 블랙해커가 나쁘다고만 무심히 생각했지 막을수 있는 해커가 있다는 사실을 몰랐던거 같아."
+			],
+			[
+				4,
+				"또",
+				"MAG",
+				"또 이들 가운데 설계를 분석해 시스템에 존재하는 취약점을 찾아내 공격시나리오를 짤 수 있는 최고 수준의 인력을 앨리트 해커라고 부른다고 한다."
+			],
+			[
+				5,
+				"현저히",
+				"MAG",
+				"한국은 중국,미국,북한에비에 현저히 화이트 해커가 작다고하니 취업도 잘될거 같다."
+			],
+			[
+				6,
+				"우선",
+				"MAG",
+				"우선 화이트 해커가 되려니 프로그래밍,서버,네트워크,데이터베이스 그리고 보안기법에 대한 교육과정을 통해 준비해야 한다고 한다."
+			],
+			[
+				7,
+				"그리고",
+				"MAJ",
+				"우선 화이트 해커가 되려니 프로그래밍,서버,네트워크,데이터베이스 그리고 보안기법에 대한 교육과정을 통해 준비해야 한다고 한다."
+			],
+			[
+				8,
+				"줄줄이",
+				"MAG",
+				"인터넷으로 조회하다 보니 유명한 학원들이 줄줄이 나온다."
+			]
+		],
+		"MA_Lst": [],
+		"MM_Lst": [],
+		"J_Lst": [
+			[
+				0,
+				"의",
+				"JKG",
+				"나의 꿈은 화이트 해커이다."
+			],
+			[
+				1,
+				"은",
+				"JX",
+				"나의 꿈은 화이트 해커이다."
+			],
+			[
+				2,
+				"와",
+				"JC",
+				"항상 컴퓨터와 친구인 나는 부모님께서 꿈에 대해서 생각해보라고 하셨을때 고민하다 화이트해커가 되고 싶다고 말씀드렸다."
+			],
+			[
+				3,
+				"는",
+				"JX",
+				"항상 컴퓨터와 친구인 나는 부모님께서 꿈에 대해서 생각해보라고 하셨을때 고민하다 화이트해커가 되고 싶다고 말씀드렸다."
+			],
+			[
+				4,
+				"께서",
+				"JKS",
+				"항상 컴퓨터와 친구인 나는 부모님께서 꿈에 대해서 생각해보라고 하셨을때 고민하다 화이트해커가 되고 싶다고 말씀드렸다."
+			],
+			[
+				5,
+				"에",
+				"JKB",
+				"항상 컴퓨터와 친구인 나는 부모님께서 꿈에 대해서 생각해보라고 하셨을때 고민하다 화이트해커가 되고 싶다고 말씀드렸다."
+			],
+			[
+				6,
+				"가",
+				"JKC",
+				"항상 컴퓨터와 친구인 나는 부모님께서 꿈에 대해서 생각해보라고 하셨을때 고민하다 화이트해커가 되고 싶다고 말씀드렸다."
+			],
+			[
+				7,
+				"에",
+				"JKB",
+				"요즘같은 정보화시대에 컴퓨터 없는 집이 없고 휴대폰 없는 사람이 없을 만큼 많은데 화이트해커에 대해서는 잘모르고 있었다."
+			],
+			[
+				8,
+				"이",
+				"JKS",
+				"요즘같은 정보화시대에 컴퓨터 없는 집이 없고 휴대폰 없는 사람이 없을 만큼 많은데 화이트해커에 대해서는 잘모르고 있었다."
+			],
+			[
+				9,
+				"이",
+				"JKS",
+				"요즘같은 정보화시대에 컴퓨터 없는 집이 없고 휴대폰 없는 사람이 없을 만큼 많은데 화이트해커에 대해서는 잘모르고 있었다."
+			],
+			[
+				10,
+				"에",
+				"JKB",
+				"요즘같은 정보화시대에 컴퓨터 없는 집이 없고 휴대폰 없는 사람이 없을 만큼 많은데 화이트해커에 대해서는 잘모르고 있었다."
+			],
+			[
+				11,
+				"는",
+				"JX",
+				"요즘같은 정보화시대에 컴퓨터 없는 집이 없고 휴대폰 없는 사람이 없을 만큼 많은데 화이트해커에 대해서는 잘모르고 있었다."
+			],
+			[
+				12,
+				"가",
+				"JKS",
+				"해커가 나쁜일인 줄만 알고 있었던 것이다."
+			],
+			[
+				13,
+				"만",
+				"JX",
+				"해커가 나쁜일인 줄만 알고 있었던 것이다."
+			],
+			[
+				14,
+				"와",
+				"JC",
+				"블랙해커와 화이트해커 해커의 종류에 대해서 몰랐다."
+			],
+			[
+				15,
+				"의",
+				"JKG",
+				"블랙해커와 화이트해커 해커의 종류에 대해서 몰랐다."
+			],
+			[
+				16,
+				"에",
+				"JKB",
+				"블랙해커와 화이트해커 해커의 종류에 대해서 몰랐다."
+			],
+			[
+				17,
+				"가",
+				"JKS",
+				"늘 블랙해커가 나쁘다고만 무심히 생각했지 막을수 있는 해커가 있다는 사실을 몰랐던거 같아."
+			],
+			[
+				18,
+				"만",
+				"JX",
+				"늘 블랙해커가 나쁘다고만 무심히 생각했지 막을수 있는 해커가 있다는 사실을 몰랐던거 같아."
+			],
+			[
+				19,
+				"가",
+				"JKS",
+				"늘 블랙해커가 나쁘다고만 무심히 생각했지 막을수 있는 해커가 있다는 사실을 몰랐던거 같아."
+			],
+			[
+				20,
+				"을",
+				"JKO",
+				"늘 블랙해커가 나쁘다고만 무심히 생각했지 막을수 있는 해커가 있다는 사실을 몰랐던거 같아."
+			],
+			[
+				21,
+				"는",
+				"JX",
+				"화이트 해커는 보안 시스템의 취약점을 발견해 관리자에게 제보함으로써 블랙해커의 공격을 예방하기도 안다."
+			],
+			[
+				22,
+				"의",
+				"JKG",
+				"화이트 해커는 보안 시스템의 취약점을 발견해 관리자에게 제보함으로써 블랙해커의 공격을 예방하기도 안다."
+			],
+			[
+				23,
+				"을",
+				"JKO",
+				"화이트 해커는 보안 시스템의 취약점을 발견해 관리자에게 제보함으로써 블랙해커의 공격을 예방하기도 안다."
+			],
+			[
+				24,
+				"에게",
+				"JKB",
+				"화이트 해커는 보안 시스템의 취약점을 발견해 관리자에게 제보함으로써 블랙해커의 공격을 예방하기도 안다."
+			],
+			[
+				25,
+				"으로써",
+				"JKB",
+				"화이트 해커는 보안 시스템의 취약점을 발견해 관리자에게 제보함으로써 블랙해커의 공격을 예방하기도 안다."
+			],
+			[
+				26,
+				"의",
+				"JKG",
+				"화이트 해커는 보안 시스템의 취약점을 발견해 관리자에게 제보함으로써 블랙해커의 공격을 예방하기도 안다."
+			],
+			[
+				27,
+				"을",
+				"JKO",
+				"화이트 해커는 보안 시스템의 취약점을 발견해 관리자에게 제보함으로써 블랙해커의 공격을 예방하기도 안다."
+			],
+			[
+				28,
+				"도",
+				"JX",
+				"화이트 해커는 보안 시스템의 취약점을 발견해 관리자에게 제보함으로써 블랙해커의 공격을 예방하기도 안다."
+			],
+			[
+				29,
+				"에",
+				"JKB",
+				"최근에 화이트 해커는 민,관에서 서버의 취약점을 찾아 보안 기술을 만드는 보안 전문자들을 말하기도한다."
+			],
+			[
+				30,
+				"는",
+				"JX",
+				"최근에 화이트 해커는 민,관에서 서버의 취약점을 찾아 보안 기술을 만드는 보안 전문자들을 말하기도한다."
+			],
+			[
+				31,
+				"에서",
+				"JKB",
+				"최근에 화이트 해커는 민,관에서 서버의 취약점을 찾아 보안 기술을 만드는 보안 전문자들을 말하기도한다."
+			],
+			[
+				32,
+				"의",
+				"JKG",
+				"최근에 화이트 해커는 민,관에서 서버의 취약점을 찾아 보안 기술을 만드는 보안 전문자들을 말하기도한다."
+			],
+			[
+				33,
+				"을",
+				"JKO",
+				"최근에 화이트 해커는 민,관에서 서버의 취약점을 찾아 보안 기술을 만드는 보안 전문자들을 말하기도한다."
+			],
+			[
+				34,
+				"을",
+				"JKO",
+				"최근에 화이트 해커는 민,관에서 서버의 취약점을 찾아 보안 기술을 만드는 보안 전문자들을 말하기도한다."
+			],
+			[
+				35,
+				"을",
+				"JKO",
+				"최근에 화이트 해커는 민,관에서 서버의 취약점을 찾아 보안 기술을 만드는 보안 전문자들을 말하기도한다."
+			],
+			[
+				36,
+				"도",
+				"JX",
+				"최근에 화이트 해커는 민,관에서 서버의 취약점을 찾아 보안 기술을 만드는 보안 전문자들을 말하기도한다."
+			],
+			[
+				37,
+				"를",
+				"JKO",
+				"또 이들 가운데 설계를 분석해 시스템에 존재하는 취약점을 찾아내 공격시나리오를 짤 수 있는 최고 수준의 인력을 앨리트 해커라고 부른다고 한다."
+			],
+			[
+				38,
+				"에",
+				"JKB",
+				"또 이들 가운데 설계를 분석해 시스템에 존재하는 취약점을 찾아내 공격시나리오를 짤 수 있는 최고 수준의 인력을 앨리트 해커라고 부른다고 한다."
+			],
+			[
+				39,
+				"을",
+				"JKO",
+				"또 이들 가운데 설계를 분석해 시스템에 존재하는 취약점을 찾아내 공격시나리오를 짤 수 있는 최고 수준의 인력을 앨리트 해커라고 부른다고 한다."
+			],
+			[
+				40,
+				"를",
+				"JKO",
+				"또 이들 가운데 설계를 분석해 시스템에 존재하는 취약점을 찾아내 공격시나리오를 짤 수 있는 최고 수준의 인력을 앨리트 해커라고 부른다고 한다."
+			],
+			[
+				41,
+				"의",
+				"JKG",
+				"또 이들 가운데 설계를 분석해 시스템에 존재하는 취약점을 찾아내 공격시나리오를 짤 수 있는 최고 수준의 인력을 앨리트 해커라고 부른다고 한다."
+			],
+			[
+				42,
+				"을",
+				"JKO",
+				"또 이들 가운데 설계를 분석해 시스템에 존재하는 취약점을 찾아내 공격시나리오를 짤 수 있는 최고 수준의 인력을 앨리트 해커라고 부른다고 한다."
+			],
+			[
+				43,
+				"은",
+				"JX",
+				"한국은 중국,미국,북한에비에 현저히 화이트 해커가 작다고하니 취업도 잘될거 같다."
+			],
+			[
+				44,
+				"에",
+				"JKB",
+				"한국은 중국,미국,북한에비에 현저히 화이트 해커가 작다고하니 취업도 잘될거 같다."
+			],
+			[
+				45,
+				"가",
+				"JKS",
+				"한국은 중국,미국,북한에비에 현저히 화이트 해커가 작다고하니 취업도 잘될거 같다."
+			],
+			[
+				46,
+				"도",
+				"JX",
+				"한국은 중국,미국,북한에비에 현저히 화이트 해커가 작다고하니 취업도 잘될거 같다."
+			],
+			[
+				47,
+				"가",
+				"JKC",
+				"우선 화이트 해커가 되려니 프로그래밍,서버,네트워크,데이터베이스 그리고 보안기법에 대한 교육과정을 통해 준비해야 한다고 한다."
+			],
+			[
+				48,
+				"에",
+				"JKB",
+				"우선 화이트 해커가 되려니 프로그래밍,서버,네트워크,데이터베이스 그리고 보안기법에 대한 교육과정을 통해 준비해야 한다고 한다."
+			],
+			[
+				49,
+				"을",
+				"JKO",
+				"우선 화이트 해커가 되려니 프로그래밍,서버,네트워크,데이터베이스 그리고 보안기법에 대한 교육과정을 통해 준비해야 한다고 한다."
+			],
+			[
+				50,
+				"으로",
+				"JKB",
+				"인터넷으로 조회하다 보니 유명한 학원들이 줄줄이 나온다."
+			],
+			[
+				51,
+				"이",
+				"JKS",
+				"인터넷으로 조회하다 보니 유명한 학원들이 줄줄이 나온다."
+			],
+			[
+				52,
+				"에서",
+				"JKB",
+				"누군가 주변에서 코칭해준다면 확실하게 설계를 해볼텐데 학원으로 가서 학원 스케줄에 맞추어 설계하는 수 밖에 없을 듯 하다."
+			],
+			[
+				53,
+				"를",
+				"JKO",
+				"누군가 주변에서 코칭해준다면 확실하게 설계를 해볼텐데 학원으로 가서 학원 스케줄에 맞추어 설계하는 수 밖에 없을 듯 하다."
+			],
+			[
+				54,
+				"으로",
+				"JKB",
+				"누군가 주변에서 코칭해준다면 확실하게 설계를 해볼텐데 학원으로 가서 학원 스케줄에 맞추어 설계하는 수 밖에 없을 듯 하다."
+			],
+			[
+				55,
+				"에",
+				"JKB",
+				"누군가 주변에서 코칭해준다면 확실하게 설계를 해볼텐데 학원으로 가서 학원 스케줄에 맞추어 설계하는 수 밖에 없을 듯 하다."
+			],
+			[
+				56,
+				"에",
+				"JKB",
+				"누군가 주변에서 코칭해준다면 확실하게 설계를 해볼텐데 학원으로 가서 학원 스케줄에 맞추어 설계하는 수 밖에 없을 듯 하다."
+			]
+		],
+		"E_Lst": [
+			[
+				0,
+				"다",
+				"EF",
+				"나의 꿈은 화이트 해커이다."
+			],
+			[
+				1,
+				"ㄴ",
+				"ETM",
+				"항상 컴퓨터와 친구인 나는 부모님께서 꿈에 대해서 생각해보라고 하셨을때 고민하다 화이트해커가 되고 싶다고 말씀드렸다."
+			],
+			[
+				2,
+				"아서",
+				"EC",
+				"항상 컴퓨터와 친구인 나는 부모님께서 꿈에 대해서 생각해보라고 하셨을때 고민하다 화이트해커가 되고 싶다고 말씀드렸다."
+			],
+			[
+				3,
+				"아",
+				"EC",
+				"항상 컴퓨터와 친구인 나는 부모님께서 꿈에 대해서 생각해보라고 하셨을때 고민하다 화이트해커가 되고 싶다고 말씀드렸다."
+			],
+			[
+				4,
+				"라고",
+				"EC",
+				"항상 컴퓨터와 친구인 나는 부모님께서 꿈에 대해서 생각해보라고 하셨을때 고민하다 화이트해커가 되고 싶다고 말씀드렸다."
+			],
+			[
+				5,
+				"시",
+				"EP",
+				"항상 컴퓨터와 친구인 나는 부모님께서 꿈에 대해서 생각해보라고 하셨을때 고민하다 화이트해커가 되고 싶다고 말씀드렸다."
+			],
+			[
+				6,
+				"었",
+				"EP",
+				"항상 컴퓨터와 친구인 나는 부모님께서 꿈에 대해서 생각해보라고 하셨을때 고민하다 화이트해커가 되고 싶다고 말씀드렸다."
+			],
+			[
+				7,
+				"을",
+				"ETM",
+				"항상 컴퓨터와 친구인 나는 부모님께서 꿈에 대해서 생각해보라고 하셨을때 고민하다 화이트해커가 되고 싶다고 말씀드렸다."
+			],
+			[
+				8,
+				"다",
+				"EC",
+				"항상 컴퓨터와 친구인 나는 부모님께서 꿈에 대해서 생각해보라고 하셨을때 고민하다 화이트해커가 되고 싶다고 말씀드렸다."
+			],
+			[
+				9,
+				"고",
+				"EC",
+				"항상 컴퓨터와 친구인 나는 부모님께서 꿈에 대해서 생각해보라고 하셨을때 고민하다 화이트해커가 되고 싶다고 말씀드렸다."
+			],
+			[
+				10,
+				"다고",
+				"EC",
+				"항상 컴퓨터와 친구인 나는 부모님께서 꿈에 대해서 생각해보라고 하셨을때 고민하다 화이트해커가 되고 싶다고 말씀드렸다."
+			],
+			[
+				11,
+				"었",
+				"EP",
+				"항상 컴퓨터와 친구인 나는 부모님께서 꿈에 대해서 생각해보라고 하셨을때 고민하다 화이트해커가 되고 싶다고 말씀드렸다."
+			],
+			[
+				12,
+				"다",
+				"EF",
+				"항상 컴퓨터와 친구인 나는 부모님께서 꿈에 대해서 생각해보라고 하셨을때 고민하다 화이트해커가 되고 싶다고 말씀드렸다."
+			],
+			[
+				13,
+				"은",
+				"ETM",
+				"요즘같은 정보화시대에 컴퓨터 없는 집이 없고 휴대폰 없는 사람이 없을 만큼 많은데 화이트해커에 대해서는 잘모르고 있었다."
+			],
+			[
+				14,
+				"는",
+				"ETM",
+				"요즘같은 정보화시대에 컴퓨터 없는 집이 없고 휴대폰 없는 사람이 없을 만큼 많은데 화이트해커에 대해서는 잘모르고 있었다."
+			],
+			[
+				15,
+				"고",
+				"EC",
+				"요즘같은 정보화시대에 컴퓨터 없는 집이 없고 휴대폰 없는 사람이 없을 만큼 많은데 화이트해커에 대해서는 잘모르고 있었다."
+			],
+			[
+				16,
+				"는",
+				"ETM",
+				"요즘같은 정보화시대에 컴퓨터 없는 집이 없고 휴대폰 없는 사람이 없을 만큼 많은데 화이트해커에 대해서는 잘모르고 있었다."
+			],
+			[
+				17,
+				"을",
+				"ETM",
+				"요즘같은 정보화시대에 컴퓨터 없는 집이 없고 휴대폰 없는 사람이 없을 만큼 많은데 화이트해커에 대해서는 잘모르고 있었다."
+			],
+			[
+				18,
+				"은데",
+				"EC",
+				"요즘같은 정보화시대에 컴퓨터 없는 집이 없고 휴대폰 없는 사람이 없을 만큼 많은데 화이트해커에 대해서는 잘모르고 있었다."
+			],
+			[
+				19,
+				"아서",
+				"EC",
+				"요즘같은 정보화시대에 컴퓨터 없는 집이 없고 휴대폰 없는 사람이 없을 만큼 많은데 화이트해커에 대해서는 잘모르고 있었다."
+			],
+			[
+				20,
+				"고",
+				"EC",
+				"요즘같은 정보화시대에 컴퓨터 없는 집이 없고 휴대폰 없는 사람이 없을 만큼 많은데 화이트해커에 대해서는 잘모르고 있었다."
+			],
+			[
+				21,
+				"었",
+				"EP",
+				"요즘같은 정보화시대에 컴퓨터 없는 집이 없고 휴대폰 없는 사람이 없을 만큼 많은데 화이트해커에 대해서는 잘모르고 있었다."
+			],
+			[
+				22,
+				"다",
+				"EF",
+				"요즘같은 정보화시대에 컴퓨터 없는 집이 없고 휴대폰 없는 사람이 없을 만큼 많은데 화이트해커에 대해서는 잘모르고 있었다."
+			],
+			[
+				23,
+				"ㄴ",
+				"ETM",
+				"해커가 나쁜일인 줄만 알고 있었던 것이다."
+			],
+			[
+				24,
+				"ㄴ",
+				"ETM",
+				"해커가 나쁜일인 줄만 알고 있었던 것이다."
+			],
+			[
+				25,
+				"고",
+				"EC",
+				"해커가 나쁜일인 줄만 알고 있었던 것이다."
+			],
+			[
+				26,
+				"었",
+				"EP",
+				"해커가 나쁜일인 줄만 알고 있었던 것이다."
+			],
+			[
+				27,
+				"던",
+				"ETM",
+				"해커가 나쁜일인 줄만 알고 있었던 것이다."
+			],
+			[
+				28,
+				"다",
+				"EF",
+				"해커가 나쁜일인 줄만 알고 있었던 것이다."
+			],
+			[
+				29,
+				"아서",
+				"EC",
+				"블랙해커와 화이트해커 해커의 종류에 대해서 몰랐다."
+			],
+			[
+				30,
+				"았",
+				"EP",
+				"블랙해커와 화이트해커 해커의 종류에 대해서 몰랐다."
+			],
+			[
+				31,
+				"다",
+				"EF",
+				"블랙해커와 화이트해커 해커의 종류에 대해서 몰랐다."
+			],
+			[
+				32,
+				"다고",
+				"EC",
+				"늘 블랙해커가 나쁘다고만 무심히 생각했지 막을수 있는 해커가 있다는 사실을 몰랐던거 같아."
+			],
+			[
+				33,
+				"았",
+				"EP",
+				"늘 블랙해커가 나쁘다고만 무심히 생각했지 막을수 있는 해커가 있다는 사실을 몰랐던거 같아."
+			],
+			[
+				34,
+				"지",
+				"EC",
+				"늘 블랙해커가 나쁘다고만 무심히 생각했지 막을수 있는 해커가 있다는 사실을 몰랐던거 같아."
+			],
+			[
+				35,
+				"을",
+				"ETM",
+				"늘 블랙해커가 나쁘다고만 무심히 생각했지 막을수 있는 해커가 있다는 사실을 몰랐던거 같아."
+			],
+			[
+				36,
+				"는",
+				"ETM",
+				"늘 블랙해커가 나쁘다고만 무심히 생각했지 막을수 있는 해커가 있다는 사실을 몰랐던거 같아."
+			],
+			[
+				37,
+				"다는",
+				"ETM",
+				"늘 블랙해커가 나쁘다고만 무심히 생각했지 막을수 있는 해커가 있다는 사실을 몰랐던거 같아."
+			],
+			[
+				38,
+				"았",
+				"EP",
+				"늘 블랙해커가 나쁘다고만 무심히 생각했지 막을수 있는 해커가 있다는 사실을 몰랐던거 같아."
+			],
+			[
+				39,
+				"던",
+				"ETM",
+				"늘 블랙해커가 나쁘다고만 무심히 생각했지 막을수 있는 해커가 있다는 사실을 몰랐던거 같아."
+			],
+			[
+				40,
+				"아",
+				"EF",
+				"늘 블랙해커가 나쁘다고만 무심히 생각했지 막을수 있는 해커가 있다는 사실을 몰랐던거 같아."
+			],
+			[
+				41,
+				"아",
+				"EC",
+				"화이트 해커는 보안 시스템의 취약점을 발견해 관리자에게 제보함으로써 블랙해커의 공격을 예방하기도 안다."
+			],
+			[
+				42,
+				"ㅁ",
+				"ETN",
+				"화이트 해커는 보안 시스템의 취약점을 발견해 관리자에게 제보함으로써 블랙해커의 공격을 예방하기도 안다."
+			],
+			[
+				43,
+				"기",
+				"ETN",
+				"화이트 해커는 보안 시스템의 취약점을 발견해 관리자에게 제보함으로써 블랙해커의 공격을 예방하기도 안다."
+			],
+			[
+				44,
+				"ㄴ다",
+				"EF",
+				"화이트 해커는 보안 시스템의 취약점을 발견해 관리자에게 제보함으로써 블랙해커의 공격을 예방하기도 안다."
+			],
+			[
+				45,
+				"아",
+				"EC",
+				"최근에 화이트 해커는 민,관에서 서버의 취약점을 찾아 보안 기술을 만드는 보안 전문자들을 말하기도한다."
+			],
+			[
+				46,
+				"는",
+				"ETM",
+				"최근에 화이트 해커는 민,관에서 서버의 취약점을 찾아 보안 기술을 만드는 보안 전문자들을 말하기도한다."
+			],
+			[
+				47,
+				"기",
+				"ETN",
+				"최근에 화이트 해커는 민,관에서 서버의 취약점을 찾아 보안 기술을 만드는 보안 전문자들을 말하기도한다."
+			],
+			[
+				48,
+				"ㄴ다",
+				"EF",
+				"최근에 화이트 해커는 민,관에서 서버의 취약점을 찾아 보안 기술을 만드는 보안 전문자들을 말하기도한다."
+			],
+			[
+				49,
+				"아",
+				"EC",
+				"또 이들 가운데 설계를 분석해 시스템에 존재하는 취약점을 찾아내 공격시나리오를 짤 수 있는 최고 수준의 인력을 앨리트 해커라고 부른다고 한다."
+			],
+			[
+				50,
+				"는",
+				"ETM",
+				"또 이들 가운데 설계를 분석해 시스템에 존재하는 취약점을 찾아내 공격시나리오를 짤 수 있는 최고 수준의 인력을 앨리트 해커라고 부른다고 한다."
+			],
+			[
+				51,
+				"어",
+				"EC",
+				"또 이들 가운데 설계를 분석해 시스템에 존재하는 취약점을 찾아내 공격시나리오를 짤 수 있는 최고 수준의 인력을 앨리트 해커라고 부른다고 한다."
+			],
+			[
+				52,
+				"ㄹ",
+				"ETM",
+				"또 이들 가운데 설계를 분석해 시스템에 존재하는 취약점을 찾아내 공격시나리오를 짤 수 있는 최고 수준의 인력을 앨리트 해커라고 부른다고 한다."
+			],
+			[
+				53,
+				"는",
+				"ETM",
+				"또 이들 가운데 설계를 분석해 시스템에 존재하는 취약점을 찾아내 공격시나리오를 짤 수 있는 최고 수준의 인력을 앨리트 해커라고 부른다고 한다."
+			],
+			[
+				54,
+				"라고",
+				"EC",
+				"또 이들 가운데 설계를 분석해 시스템에 존재하는 취약점을 찾아내 공격시나리오를 짤 수 있는 최고 수준의 인력을 앨리트 해커라고 부른다고 한다."
+			],
+			[
+				55,
+				"ㄴ다고",
+				"EC",
+				"또 이들 가운데 설계를 분석해 시스템에 존재하는 취약점을 찾아내 공격시나리오를 짤 수 있는 최고 수준의 인력을 앨리트 해커라고 부른다고 한다."
+			],
+			[
+				56,
+				"ㄴ다",
+				"EF",
+				"또 이들 가운데 설계를 분석해 시스템에 존재하는 취약점을 찾아내 공격시나리오를 짤 수 있는 최고 수준의 인력을 앨리트 해커라고 부른다고 한다."
+			],
+			[
+				57,
+				"다고",
+				"EC",
+				"한국은 중국,미국,북한에비에 현저히 화이트 해커가 작다고하니 취업도 잘될거 같다."
+			],
+			[
+				58,
+				"니",
+				"EC",
+				"한국은 중국,미국,북한에비에 현저히 화이트 해커가 작다고하니 취업도 잘될거 같다."
+			],
+			[
+				59,
+				"ㄹ",
+				"ETM",
+				"한국은 중국,미국,북한에비에 현저히 화이트 해커가 작다고하니 취업도 잘될거 같다."
+			],
+			[
+				60,
+				"다",
+				"EF",
+				"한국은 중국,미국,북한에비에 현저히 화이트 해커가 작다고하니 취업도 잘될거 같다."
+			],
+			[
+				61,
+				"려니",
+				"EC",
+				"우선 화이트 해커가 되려니 프로그래밍,서버,네트워크,데이터베이스 그리고 보안기법에 대한 교육과정을 통해 준비해야 한다고 한다."
+			],
+			[
+				62,
+				"ㄴ",
+				"ETM",
+				"우선 화이트 해커가 되려니 프로그래밍,서버,네트워크,데이터베이스 그리고 보안기법에 대한 교육과정을 통해 준비해야 한다고 한다."
+			],
+			[
+				63,
+				"아",
+				"EC",
+				"우선 화이트 해커가 되려니 프로그래밍,서버,네트워크,데이터베이스 그리고 보안기법에 대한 교육과정을 통해 준비해야 한다고 한다."
+			],
+			[
+				64,
+				"아야",
+				"EC",
+				"우선 화이트 해커가 되려니 프로그래밍,서버,네트워크,데이터베이스 그리고 보안기법에 대한 교육과정을 통해 준비해야 한다고 한다."
+			],
+			[
+				65,
+				"ㄴ다고",
+				"EC",
+				"우선 화이트 해커가 되려니 프로그래밍,서버,네트워크,데이터베이스 그리고 보안기법에 대한 교육과정을 통해 준비해야 한다고 한다."
+			],
+			[
+				66,
+				"ㄴ다",
+				"EF",
+				"우선 화이트 해커가 되려니 프로그래밍,서버,네트워크,데이터베이스 그리고 보안기법에 대한 교육과정을 통해 준비해야 한다고 한다."
+			],
+			[
+				67,
+				"다",
+				"EC",
+				"인터넷으로 조회하다 보니 유명한 학원들이 줄줄이 나온다."
+			],
+			[
+				68,
+				"니",
+				"EC",
+				"인터넷으로 조회하다 보니 유명한 학원들이 줄줄이 나온다."
+			],
+			[
+				69,
+				"ㄴ",
+				"ETM",
+				"인터넷으로 조회하다 보니 유명한 학원들이 줄줄이 나온다."
+			],
+			[
+				70,
+				"ㄴ다",
+				"EF",
+				"인터넷으로 조회하다 보니 유명한 학원들이 줄줄이 나온다."
+			],
+			[
+				71,
+				"ㄴ가",
+				"EF",
+				"누군가 주변에서 코칭해준다면 확실하게 설계를 해볼텐데 학원으로 가서 학원 스케줄에 맞추어 설계하는 수 밖에 없을 듯 하다."
+			],
+			[
+				72,
+				"아",
+				"EC",
+				"누군가 주변에서 코칭해준다면 확실하게 설계를 해볼텐데 학원으로 가서 학원 스케줄에 맞추어 설계하는 수 밖에 없을 듯 하다."
+			],
+			[
+				73,
+				"ㄴ다면",
+				"EC",
+				"누군가 주변에서 코칭해준다면 확실하게 설계를 해볼텐데 학원으로 가서 학원 스케줄에 맞추어 설계하는 수 밖에 없을 듯 하다."
+			],
+			[
+				74,
+				"게",
+				"EC",
+				"누군가 주변에서 코칭해준다면 확실하게 설계를 해볼텐데 학원으로 가서 학원 스케줄에 맞추어 설계하는 수 밖에 없을 듯 하다."
+			],
+			[
+				75,
+				"ㄹ",
+				"ETM",
+				"누군가 주변에서 코칭해준다면 확실하게 설계를 해볼텐데 학원으로 가서 학원 스케줄에 맞추어 설계하는 수 밖에 없을 듯 하다."
+			],
+			[
+				76,
+				"ㄴ데",
+				"EC",
+				"누군가 주변에서 코칭해준다면 확실하게 설계를 해볼텐데 학원으로 가서 학원 스케줄에 맞추어 설계하는 수 밖에 없을 듯 하다."
+			],
+			[
+				77,
+				"아서",
+				"EC",
+				"누군가 주변에서 코칭해준다면 확실하게 설계를 해볼텐데 학원으로 가서 학원 스케줄에 맞추어 설계하는 수 밖에 없을 듯 하다."
+			],
+			[
+				78,
+				"어",
+				"EC",
+				"누군가 주변에서 코칭해준다면 확실하게 설계를 해볼텐데 학원으로 가서 학원 스케줄에 맞추어 설계하는 수 밖에 없을 듯 하다."
+			],
+			[
+				79,
+				"는",
+				"ETM",
+				"누군가 주변에서 코칭해준다면 확실하게 설계를 해볼텐데 학원으로 가서 학원 스케줄에 맞추어 설계하는 수 밖에 없을 듯 하다."
+			],
+			[
+				80,
+				"을",
+				"ETM",
+				"누군가 주변에서 코칭해준다면 확실하게 설계를 해볼텐데 학원으로 가서 학원 스케줄에 맞추어 설계하는 수 밖에 없을 듯 하다."
+			],
+			[
+				81,
+				"다",
+				"EF",
+				"누군가 주변에서 코칭해준다면 확실하게 설계를 해볼텐데 학원으로 가서 학원 스케줄에 맞추어 설계하는 수 밖에 없을 듯 하다."
+			]
+		],
+		"X_Lst": [
+			[
+				0,
+				"님",
+				"XSN",
+				"항상 컴퓨터와 친구인 나는 부모님께서 꿈에 대해서 생각해보라고 하셨을때 고민하다 화이트해커가 되고 싶다고 말씀드렸다."
+			],
+			[
+				1,
+				"들",
+				"XSN",
+				"최근에 화이트 해커는 민,관에서 서버의 취약점을 찾아 보안 기술을 만드는 보안 전문자들을 말하기도한다."
+			],
+			[
+				2,
+				"들",
+				"XSN",
+				"또 이들 가운데 설계를 분석해 시스템에 존재하는 취약점을 찾아내 공격시나리오를 짤 수 있는 최고 수준의 인력을 앨리트 해커라고 부른다고 한다."
+			],
+			[
+				3,
+				"들",
+				"XSN",
+				"인터넷으로 조회하다 보니 유명한 학원들이 줄줄이 나온다."
+			],
+			[
+				4,
+				"하",
+				"XSV",
+				"누군가 주변에서 코칭해준다면 확실하게 설계를 해볼텐데 학원으로 가서 학원 스케줄에 맞추어 설계하는 수 밖에 없을 듯 하다."
+			]
+		],
+		"IC_Lst": []
+	},
+	"NDW": {
+		"morph_NDW": 171,
+		"NL_NDW": 104,
+		"NNG_NDW": 86,
+		"NNP_NDW": 4,
+		"NNB_NDW": 10,
+		"NP_NDW": 4,
+		"NR_NDW": 0,
+		"VL_NDW": 73,
+		"VV_NDW": 40,
+		"VA_NDW": 18,
+		"ML_NDW": 9,
+		"MM_NDW": 0,
+		"IC_NDW": 0,
+		"J_NDW": 57,
+		"E_NDW": 82,
+		"X_NDW": 5,
+		"CL_NDW": 186,
+		"FL_NDW": 144
+	}
+}

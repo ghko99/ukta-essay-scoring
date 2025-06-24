@@ -1,0 +1,5567 @@
+﻿{
+	"morpheme": {
+		"sentences": [
+			{
+				"text": {
+					"content": "주인공 Trysdale이 사랑하는 여자에게 스페인어를 잘한다고 거짓말을했다.",
+					"length": 42,
+					"beginOffset": 0
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "주인공",
+							"length": 3,
+							"beginOffset": 0
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "주인공",
+									"length": 3,
+									"beginOffset": 0
+								},
+								"tag": "NNG",
+								"probability": 0.98493284,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "주인공",
+						"tagged": "주인공/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "Trysdale이",
+							"beginOffset": 4,
+							"length": 9
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "Trysdale",
+									"beginOffset": 4,
+									"length": 8
+								},
+								"tag": "NNP",
+								"probability": 0.9086739,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 12,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.70023245,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "Trysdale",
+						"tagged": "Trysdale/NNP+이/XSN",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사랑하는",
+							"beginOffset": 14,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사랑하",
+									"beginOffset": 14,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 17,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999925,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사랑하",
+						"tagged": "사랑하/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "여자에게",
+							"beginOffset": 19,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "여자",
+									"beginOffset": 19,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9843753,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에게",
+									"beginOffset": 21,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9929834,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "여자",
+						"tagged": "여자/NNG+에게/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "스페인어를",
+							"beginOffset": 24,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "스페인어",
+									"beginOffset": 24,
+									"length": 4
+								},
+								"tag": "NNP",
+								"probability": 0.953369,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 28,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9998977,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "스페인어",
+						"tagged": "스페인어/NNP+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "잘한다고",
+							"beginOffset": 30,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "잘하",
+									"beginOffset": 30,
+									"length": 2
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ다고",
+									"beginOffset": 31,
+									"length": 3
+								},
+								"tag": "EC",
+								"probability": 0.9944778,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "잘하",
+						"tagged": "잘하/VV+ㄴ다고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "거짓말을했다.",
+							"beginOffset": 35,
+							"length": 7
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "거짓말",
+									"beginOffset": 35,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.90272146,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을하",
+									"beginOffset": 38,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.8122769,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 39,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9998575,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 40,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9908767,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 41,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9997616,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "거짓말",
+						"tagged": "거짓말/NNG+을하/VV+았/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "주인공 Trysdale이 사랑하는 여자에게 스페인어를 잘한다고 거짓말을했다."
+			},
+			{
+				"text": {
+					"content": "그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다.",
+					"beginOffset": 43,
+					"length": 99
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "그리고",
+							"beginOffset": 43,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그리고",
+									"beginOffset": 43,
+									"length": 3
+								},
+								"tag": "MAJ",
+								"probability": 0.99847156,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그리고",
+						"tagged": "그리고/MAJ",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "스페인어를",
+							"beginOffset": 47,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "스페인어",
+									"beginOffset": 47,
+									"length": 4
+								},
+								"tag": "NNP",
+								"probability": 0.9441373,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 51,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999681,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "스페인어",
+						"tagged": "스페인어/NNP+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "잘하는",
+							"beginOffset": 53,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "잘하",
+									"beginOffset": 53,
+									"length": 2
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 55,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999744,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "잘하",
+						"tagged": "잘하/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "줄안",
+							"beginOffset": 56,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "줄안",
+									"beginOffset": 56,
+									"length": 2
+								},
+								"tag": "NNP",
+								"probability": 0.35994717,
+								"outOfVocab": "OUT_OF_VOCAB"
+							}
+						],
+						"lemma": "줄안",
+						"tagged": "줄안/NNP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "여자는",
+							"beginOffset": 59,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "여자",
+									"beginOffset": 59,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9866547,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 61,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9989402,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "여자",
+						"tagged": "여자/NNG+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "남자의",
+							"beginOffset": 63,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "남자",
+									"beginOffset": 63,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9835182,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 65,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9997641,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "남자",
+						"tagged": "남자/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "프러포즈에",
+							"beginOffset": 67,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "프러포즈",
+									"beginOffset": 67,
+									"length": 4
+								},
+								"tag": "NNG",
+								"probability": 0.8363112,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 71,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9908741,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "프러포즈",
+						"tagged": "프러포즈/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "스페인어로",
+							"beginOffset": 73,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "스페인어",
+									"beginOffset": 73,
+									"length": 4
+								},
+								"tag": "NNP",
+								"probability": 0.9616573,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "로",
+									"beginOffset": 77,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99277043,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "스페인어",
+						"tagged": "스페인어/NNP+로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "적힌",
+							"beginOffset": 79,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "적히",
+									"beginOffset": 79,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9903503,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 80,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999863,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "적히",
+						"tagged": "적히/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "선인장으로",
+							"beginOffset": 82,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "선인장",
+									"beginOffset": 82,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9818374,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으로",
+									"beginOffset": 85,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9975123,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "선인장",
+						"tagged": "선인장/NNG+으로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "대답을",
+							"beginOffset": 88,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "대답",
+									"beginOffset": 88,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9825827,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 90,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999279,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "대답",
+						"tagged": "대답/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "대신했지만",
+							"beginOffset": 92,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "대신하",
+									"beginOffset": 92,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 94,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9999366,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "지만",
+									"beginOffset": 95,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9944967,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "대신하",
+						"tagged": "대신하/VV+았/EP+지만/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "스페인어를",
+							"beginOffset": 98,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "스페인어",
+									"beginOffset": 98,
+									"length": 4
+								},
+								"tag": "NNP",
+								"probability": 0.96953964,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 102,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9998893,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "스페인어",
+						"tagged": "스페인어/NNP+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "제대로",
+							"beginOffset": 104,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "제대로",
+									"beginOffset": 104,
+									"length": 3
+								},
+								"tag": "MAG",
+								"probability": 0.978495,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "제대로",
+						"tagged": "제대로/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "알지",
+							"beginOffset": 107,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "알",
+									"beginOffset": 107,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9874108,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "지",
+									"beginOffset": 108,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9885511,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "알",
+						"tagged": "알/VV+지/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "못한",
+							"beginOffset": 109,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "못하",
+									"beginOffset": 109,
+									"length": 2
+								},
+								"tag": "VX",
+								"probability": 0.9745794,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 110,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999359,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "못하",
+						"tagged": "못하/VX+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "남자는",
+							"beginOffset": 112,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "남자",
+									"beginOffset": 112,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98531353,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 114,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9991051,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "남자",
+						"tagged": "남자/NNG+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "자신의",
+							"beginOffset": 116,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "자신",
+									"beginOffset": 116,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9785035,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 118,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99832946,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "자신",
+						"tagged": "자신/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "프로포즈가",
+							"beginOffset": 120,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "프로포즈",
+									"beginOffset": 120,
+									"length": 4
+								},
+								"tag": "NNG",
+								"probability": 0.98163784,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 124,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.6670089,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "프로포즈",
+						"tagged": "프로포즈/NNG+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "제대로",
+							"beginOffset": 126,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "제대로",
+									"beginOffset": 126,
+									"length": 3
+								},
+								"tag": "MAG",
+								"probability": 0.98916143,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "제대로",
+						"tagged": "제대로/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "안",
+							"beginOffset": 130,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "안",
+									"beginOffset": 130,
+									"length": 1
+								},
+								"tag": "MAG",
+								"probability": 0.9903267,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "안",
+						"tagged": "안/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "된",
+							"beginOffset": 131,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "되",
+									"beginOffset": 131,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.73189235,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 131,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999845,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "되",
+						"tagged": "되/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "줄",
+							"beginOffset": 132,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "줄",
+									"beginOffset": 132,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.96075624,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "줄",
+						"tagged": "줄/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "알고",
+							"beginOffset": 133,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "알",
+									"beginOffset": 133,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.98403275,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 134,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9879691,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "알",
+						"tagged": "알/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "힘들어",
+							"beginOffset": 136,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "힘들",
+									"beginOffset": 136,
+									"length": 2
+								},
+								"tag": "VA",
+								"probability": 0.9886125,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어",
+									"beginOffset": 138,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9911613,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "힘들",
+						"tagged": "힘들/VA+어/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "한다.",
+							"beginOffset": 139,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 139,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.9086645,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ다",
+									"beginOffset": 139,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.99214673,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 141,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9997608,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VX+ㄴ다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "그리고 스페인어를 잘하는 줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로 알지 못한 남자는 자신의 프로포즈가 제대로 안 된 줄 알고 힘들어 한다."
+			},
+			{
+				"text": {
+					"content": "남자의 자만심과 허영심이 가져온것이다.",
+					"beginOffset": 143,
+					"length": 21
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "남자의",
+							"beginOffset": 143,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "남자",
+									"beginOffset": 143,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9853422,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 145,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99983025,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "남자",
+						"tagged": "남자/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "자만심과",
+							"beginOffset": 147,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "자만심",
+									"beginOffset": 147,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9805918,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "과",
+									"beginOffset": 150,
+									"length": 1
+								},
+								"tag": "JC",
+								"probability": 0.9429183,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "자만심",
+						"tagged": "자만심/NNG+과/JC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "허영심이",
+							"beginOffset": 152,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "허영심",
+									"beginOffset": 152,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9837237,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 155,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9700665,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "허영심",
+						"tagged": "허영심/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "가져온",
+							"beginOffset": 157,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "가져오",
+									"beginOffset": 157,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.9882815,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 159,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9998796,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "가져오",
+						"tagged": "가져오/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "것이다.",
+							"beginOffset": 160,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "것",
+									"beginOffset": 160,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9744767,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 161,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.9999336,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 162,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9921878,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 163,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9994061,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "것",
+						"tagged": "것/NNB+이/VCP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "남자의 자만심과 허영심이 가져온 것이다."
+			},
+			{
+				"text": {
+					"content": "남자는 후회를 하지만 이미 여자는 다른사람이랑 결혼한다.",
+					"beginOffset": 165,
+					"length": 31
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "남자는",
+							"beginOffset": 165,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "남자",
+									"beginOffset": 165,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98629504,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 167,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9988377,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "남자",
+						"tagged": "남자/NNG+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "후회를",
+							"beginOffset": 169,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "후회",
+									"beginOffset": 169,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9826421,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 171,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99982184,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "후회",
+						"tagged": "후회/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "하지만",
+							"beginOffset": 173,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 173,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9811365,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "지만",
+									"beginOffset": 174,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9937568,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VV+지만/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이미",
+							"beginOffset": 177,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이미",
+									"beginOffset": 177,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.99121976,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이미",
+						"tagged": "이미/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "여자는",
+							"beginOffset": 180,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "여자",
+									"beginOffset": 180,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98482424,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 182,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99866253,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "여자",
+						"tagged": "여자/NNG+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "다른",
+							"beginOffset": 184,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "다른",
+									"beginOffset": 184,
+									"length": 2
+								},
+								"tag": "MMD",
+								"probability": 0.99880797,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "다른",
+						"tagged": "다른/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사람이랑",
+							"beginOffset": 186,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사람",
+									"beginOffset": 186,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9747844,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이랑",
+									"beginOffset": 188,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9242584,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사람",
+						"tagged": "사람/NNG+이랑/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "결혼한다.",
+							"beginOffset": 191,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "결혼하",
+									"beginOffset": 191,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ다",
+									"beginOffset": 193,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.9911028,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 195,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.999555,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "결혼하",
+						"tagged": "결혼하/VV+ㄴ다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "남자는 후회를 하지만 이미 여자는 다른 사람이랑 결혼한다."
+			},
+			{
+				"text": {
+					"content": "이 남자와 여자의 이야기를 보 고 거짓말을 하면 안된다고 느꼈다.",
+					"beginOffset": 197,
+					"length": 36
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "이",
+							"beginOffset": 197,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 197,
+									"length": 1
+								},
+								"tag": "MMD",
+								"probability": 0.99951756,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이",
+						"tagged": "이/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "남자와",
+							"beginOffset": 199,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "남자",
+									"beginOffset": 199,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98300344,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "와",
+									"beginOffset": 201,
+									"length": 1
+								},
+								"tag": "JC",
+								"probability": 0.8194391,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "남자",
+						"tagged": "남자/NNG+와/JC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "여자의",
+							"beginOffset": 203,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "여자",
+									"beginOffset": 203,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98637927,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 205,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9995742,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "여자",
+						"tagged": "여자/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이야기를",
+							"beginOffset": 207,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이야기",
+									"beginOffset": 207,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9858209,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 210,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99993855,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이야기",
+						"tagged": "이야기/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "보",
+							"beginOffset": 212,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "보",
+									"beginOffset": 212,
+									"length": 1
+								},
+								"tag": "NA",
+								"probability": 0.6368716,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "보",
+						"tagged": "보/NA",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "고",
+							"beginOffset": 214,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 214,
+									"length": 1
+								},
+								"tag": "MMD",
+								"probability": 0.9574707,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "고",
+						"tagged": "고/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "거짓말을",
+							"beginOffset": 216,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "거짓말",
+									"beginOffset": 216,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9847273,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 219,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9998707,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "거짓말",
+						"tagged": "거짓말/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "하면",
+							"beginOffset": 221,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 221,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9731601,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "면",
+									"beginOffset": 222,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99506325,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VV+면/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "안",
+							"beginOffset": 224,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "안",
+									"beginOffset": 224,
+									"length": 1
+								},
+								"tag": "MAG",
+								"probability": 0.99420696,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "안",
+						"tagged": "안/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "된다고",
+							"beginOffset": 225,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "되",
+									"beginOffset": 225,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.8208597,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ다고",
+									"beginOffset": 225,
+									"length": 3
+								},
+								"tag": "EC",
+								"probability": 0.99347144,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "되",
+						"tagged": "되/VV+ㄴ다고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "느꼈다.",
+							"beginOffset": 229,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "느끼",
+									"beginOffset": 229,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.98485,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 230,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99985,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 231,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.99097335,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 232,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9993996,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "느끼",
+						"tagged": "느끼/VV+었/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "이 남자와 여자의 이야기를 보 고 거짓말을 하면 안 된다고 느꼈다."
+			},
+			{
+				"text": {
+					"content": "선인장의 스페인어는 ventomarme로 영어로 말하면 come and see me로 와서 나를 데려가줘요이다.",
+					"beginOffset": 234,
+					"length": 62
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "선인장의",
+							"beginOffset": 234,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "선인장",
+									"beginOffset": 234,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.96603775,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 237,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9995802,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "선인장",
+						"tagged": "선인장/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "스페인어는",
+							"beginOffset": 239,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "스페인어",
+									"beginOffset": 239,
+									"length": 4
+								},
+								"tag": "NNP",
+								"probability": 0.9259086,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 243,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99943715,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "스페인어",
+						"tagged": "스페인어/NNP+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "ventomarme로",
+							"beginOffset": 245,
+							"length": 11
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "ventomarme",
+									"beginOffset": 245,
+									"length": 10
+								},
+								"tag": "NNG",
+								"probability": 0.7620821,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "로",
+									"beginOffset": 255,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.997584,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "ventomarme",
+						"tagged": "ventomarme/NNG+로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "영어로",
+							"beginOffset": 257,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "영어",
+									"beginOffset": 257,
+									"length": 2
+								},
+								"tag": "NNP",
+								"probability": 0.9734033,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "로",
+									"beginOffset": 259,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.997883,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "영어",
+						"tagged": "영어/NNP+로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "말하면",
+							"beginOffset": 261,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "말하",
+									"beginOffset": 261,
+									"length": 2
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "면",
+									"beginOffset": 263,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9955925,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "말하",
+						"tagged": "말하/VV+면/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "come",
+							"beginOffset": 265,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "come",
+									"beginOffset": 265,
+									"length": 4
+								},
+								"tag": "SL",
+								"probability": 0.8686487,
+								"outOfVocab": "OUT_OF_VOCAB"
+							}
+						],
+						"lemma": "come",
+						"tagged": "come/SL",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "and",
+							"beginOffset": 270,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "and",
+									"beginOffset": 270,
+									"length": 3
+								},
+								"tag": "SL",
+								"probability": 0.9792614,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "and",
+						"tagged": "and/SL",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "see",
+							"beginOffset": 274,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "see",
+									"beginOffset": 274,
+									"length": 3
+								},
+								"tag": "SL",
+								"probability": 0.93209404,
+								"outOfVocab": "OUT_OF_VOCAB"
+							}
+						],
+						"lemma": "see",
+						"tagged": "see/SL",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "me로",
+							"beginOffset": 278,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "me",
+									"beginOffset": 278,
+									"length": 2
+								},
+								"tag": "SL",
+								"probability": 0.45160186,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "로",
+									"beginOffset": 280,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9975591,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "me",
+						"tagged": "me/SL+로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "와서",
+							"beginOffset": 282,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "오",
+									"beginOffset": 282,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.97654843,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아서",
+									"beginOffset": 282,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99502045,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "오",
+						"tagged": "오/VV+아서/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "나를",
+							"beginOffset": 285,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "나",
+									"beginOffset": 285,
+									"length": 1
+								},
+								"tag": "NP",
+								"probability": 0.9798571,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 286,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999599,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "나",
+						"tagged": "나/NP+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "데려가",
+							"beginOffset": 288,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "데려가",
+									"beginOffset": 288,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.99078983,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 290,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99472004,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "데려가",
+						"tagged": "데려가/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "줘요이다.",
+							"beginOffset": 291,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "주",
+									"beginOffset": 291,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.9694891,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어요",
+									"beginOffset": 291,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.95004624,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 293,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.99869937,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 294,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9850217,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 295,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9994791,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "주",
+						"tagged": "주/VX+어요/EF+이/VCP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "선인장의 스페인어는 ventomarme로 영어로 말하면 come and see me로 와서 나를 데려가 줘요이다."
+			},
+			{
+				"text": {
+					"content": "남자의 허영심과 자만심으로 가득찬 마음이 남자의 거짓된 모습을 게속 유지해준것이다.",
+					"beginOffset": 297,
+					"length": 46
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "남자의",
+							"beginOffset": 297,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "남자",
+									"beginOffset": 297,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9861319,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 299,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9996988,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "남자",
+						"tagged": "남자/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "허영심과",
+							"beginOffset": 301,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "허영심",
+									"beginOffset": 301,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.98285484,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "과",
+									"beginOffset": 304,
+									"length": 1
+								},
+								"tag": "JC",
+								"probability": 0.91189253,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "허영심",
+						"tagged": "허영심/NNG+과/JC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "자만심으로",
+							"beginOffset": 306,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "자만심",
+									"beginOffset": 306,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.982306,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으로",
+									"beginOffset": 309,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.99609596,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "자만심",
+						"tagged": "자만심/NNG+으로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "가득찬",
+							"beginOffset": 312,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "가득",
+									"beginOffset": 312,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "찬",
+									"beginOffset": 314,
+									"length": 1
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							}
+						],
+						"lemma": "가득",
+						"tagged": "가득/NNG+찬/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "마음이",
+							"beginOffset": 316,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "마음",
+									"beginOffset": 316,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98123187,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 318,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.95389795,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "마음",
+						"tagged": "마음/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "남자의",
+							"beginOffset": 320,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "남자",
+									"beginOffset": 320,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9827369,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 322,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9992233,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "남자",
+						"tagged": "남자/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "거짓된",
+							"beginOffset": 324,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "거짓되",
+									"beginOffset": 324,
+									"length": 3
+								},
+								"tag": "VA",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 326,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999436,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "거짓되",
+						"tagged": "거짓되/VA+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "모습을",
+							"beginOffset": 328,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "모습",
+									"beginOffset": 328,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9842636,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 330,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9998745,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "모습",
+						"tagged": "모습/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "게속",
+							"beginOffset": 332,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "게속",
+									"beginOffset": 332,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9143494,
+								"outOfVocab": "OUT_OF_VOCAB"
+							}
+						],
+						"lemma": "게속",
+						"tagged": "게속/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "유지해",
+							"beginOffset": 335,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "유지하",
+									"beginOffset": 335,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 337,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9952757,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "유지하",
+						"tagged": "유지하/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "준",
+							"beginOffset": 338,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "주",
+									"beginOffset": 338,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.98134357,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 338,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99996525,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "주",
+						"tagged": "주/VX+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "것이다.",
+							"beginOffset": 339,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "것",
+									"beginOffset": 339,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.98177,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 340,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.99980754,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 341,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9920358,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 342,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9992633,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "것",
+						"tagged": "것/NNB+이/VCP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "남자의 허영심과 자만심으로 가득찬 마음이 남자의 거짓된 모습을 게속 유지해 준 것이다."
+			},
+			{
+				"text": {
+					"content": "친구에게 스페인어의 뜻을 듣고 후회하는 모습을 보며 안타까웠지만 남자의 어리석은 마음이 불러일으켰다고 생각한다 슬픈 소설인것 같다.",
+					"beginOffset": 344,
+					"length": 73
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "친구에게",
+							"beginOffset": 344,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "친구",
+									"beginOffset": 344,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9837248,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에게",
+									"beginOffset": 346,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9957988,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "친구",
+						"tagged": "친구/NNG+에게/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "스페인어의",
+							"beginOffset": 349,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "스페인어",
+									"beginOffset": 349,
+									"length": 4
+								},
+								"tag": "NNP",
+								"probability": 0.9339582,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 353,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99957645,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "스페인어",
+						"tagged": "스페인어/NNP+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "뜻을",
+							"beginOffset": 355,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "뜻",
+									"beginOffset": 355,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.98130006,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 356,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999352,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "뜻",
+						"tagged": "뜻/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "듣고",
+							"beginOffset": 358,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "듣",
+									"beginOffset": 358,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9896821,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 359,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99197793,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "듣",
+						"tagged": "듣/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "후회하는",
+							"beginOffset": 361,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "후회하",
+									"beginOffset": 361,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 364,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99996215,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "후회하",
+						"tagged": "후회하/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "모습을",
+							"beginOffset": 366,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "모습",
+									"beginOffset": 366,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9851335,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 368,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999719,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "모습",
+						"tagged": "모습/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "보며",
+							"beginOffset": 370,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "보",
+									"beginOffset": 370,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9767397,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "며",
+									"beginOffset": 371,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9908716,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "보",
+						"tagged": "보/VV+며/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "안타까웠지만",
+							"beginOffset": 373,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "안타깝",
+									"beginOffset": 373,
+									"length": 3
+								},
+								"tag": "VA",
+								"probability": 0.98895884,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 376,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9999206,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "지만",
+									"beginOffset": 377,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99368256,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "안타깝",
+						"tagged": "안타깝/VA+었/EP+지만/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "남자의",
+							"beginOffset": 380,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "남자",
+									"beginOffset": 380,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9816857,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 382,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99968946,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "남자",
+						"tagged": "남자/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "어리석은",
+							"beginOffset": 384,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "어리석",
+									"beginOffset": 384,
+									"length": 3
+								},
+								"tag": "VA",
+								"probability": 0.98899573,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 387,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.999975,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "어리석",
+						"tagged": "어리석/VA+은/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "마음이",
+							"beginOffset": 389,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "마음",
+									"beginOffset": 389,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9706694,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 391,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9796187,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "마음",
+						"tagged": "마음/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "불러일으켰다고",
+							"beginOffset": 393,
+							"length": 7
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "불러일으키",
+									"beginOffset": 393,
+									"length": 5
+								},
+								"tag": "VV",
+								"probability": 0.9899799,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 397,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9999416,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다고",
+									"beginOffset": 398,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9929706,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "불러일으키",
+						"tagged": "불러일으키/VV+었/EP+다고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "생각한다",
+							"beginOffset": 401,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "생각하",
+									"beginOffset": 401,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.0,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ다",
+									"beginOffset": 403,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.91787386,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "생각하",
+						"tagged": "생각하/VV+ㄴ다/EF",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "슬픈",
+							"beginOffset": 406,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "슬프",
+									"beginOffset": 406,
+									"length": 2
+								},
+								"tag": "VA",
+								"probability": 0.9816425,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 407,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999766,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "슬프",
+						"tagged": "슬프/VA+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "소설인",
+							"beginOffset": 409,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "소설",
+									"beginOffset": 409,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97441167,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 411,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.99996096,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 411,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9996143,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "소설",
+						"tagged": "소설/NNG+이/VCP+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "것",
+							"beginOffset": 412,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "것",
+									"beginOffset": 412,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9809611,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "것",
+						"tagged": "것/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "같다.",
+							"beginOffset": 414,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "같",
+									"beginOffset": 414,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.98632556,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 415,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9899046,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 416,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9983697,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "같",
+						"tagged": "같/VA+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "친구에게 스페인어의 뜻을 듣고 후회하는 모습을 보며 안타까웠지만 남자의 어리석은 마음이 불러일으켰다고 생각한다 슬픈 소설인 것 같다."
+			}
+		],
+		"language": "ko_KR"
+	},
+	"ttr": {
+		"lemma_Cnt": 187,
+		"lemma_TTR": 0.49246231155778897,
+		"CL_TTR": 0.6494845360824743,
+		"NL_TTR": 0.5576923076923077,
+		"NN_TTR": 0.5490196078431373,
+		"NNG_TTR": 0.5789473684210527,
+		"NNP_TTR": 0.4444444444444444,
+		"NNB_TTR": 0.5,
+		"NP_TTR": 1.0,
+		"NR_TTR": 0,
+		"VL_TTR": 0.7631578947368421,
+		"VV_TTR": 0.8333333333333334,
+		"VA_TTR": 1.0,
+		"ML_TTR": 0.7142857142857143,
+		"MM_TTR": 0,
+		"MA_TTR": 0.7142857142857143,
+		"MAJ_TTR": 1.0,
+		"IC_TTR": 0,
+		"FL_TTR": 0.3488372093023256,
+		"J_TTR": 0.30952380952380953,
+		"E_TTR": 0.4186046511627907,
+		"X_TTR": 1.0,
+		"lemma_RTTR": 6.947035809081692,
+		"CL_RTTR": 6.3966808403418005,
+		"NL_RTTR": 4.021576422632911,
+		"NN_RTTR": 3.9207842352784272,
+		"NNG_RTTR": 3.568871264876776,
+		"NNP_RTTR": 1.3333333333333333,
+		"NNB_RTTR": 1.0,
+		"NP_RTTR": 1.0,
+		"NR_RTTR": 0,
+		"VL_RTTR": 4.704421212792114,
+		"VV_RTTR": 4.08248290463863,
+		"VA_RTTR": 2.4494897427831783,
+		"ML_RTTR": 1.889822365046136,
+		"MM_RTTR": 0,
+		"MA_RTTR": 1.889822365046136,
+		"MAJ_RTTR": 1.0,
+		"IC_RTTR": 0,
+		"FL_RTTR": 3.2349831961031525,
+		"J_RTTR": 2.0059435495071947,
+		"E_RTTR": 2.744974265986884,
+		"X_RTTR": 1.0,
+		"lemma_CTTR": 4.912296129747438,
+		"CL_CTTR": 4.52313639929175,
+		"NL_CTTR": 2.8436839595036685,
+		"NN_CTTR": 2.7724131203346882,
+		"NNG_CTTR": 2.523573072576179,
+		"NNP_CTTR": 0.9428090415820635,
+		"NNB_CTTR": 0.7071067811865475,
+		"NP_CTTR": 0.7071067811865475,
+		"NR_CTTR": 0,
+		"VL_CTTR": 3.3265281411231453,
+		"VV_CTTR": 2.886751345948129,
+		"VA_CTTR": 1.7320508075688774,
+		"ML_CTTR": 1.3363062095621219,
+		"MM_CTTR": 0,
+		"MA_CTTR": 1.3363062095621219,
+		"MAJ_CTTR": 0.7071067811865475,
+		"IC_CTTR": 0,
+		"FL_CTTR": 2.28747855498907,
+		"J_CTTR": 1.4184162865339505,
+		"E_CTTR": 1.9409899176618914,
+		"X_CTTR": 0.7071067811865475,
+		"lemma_MSTTR": 0.7533333333333333,
+		"CL_MSTTR": 0.72,
+		"NL_MSTTR": 0.56,
+		"NN_MSTTR": 0.56,
+		"NNG_MSTTR": 0.5789473684210527,
+		"NNP_MSTTR": 0.4444444444444444,
+		"NNB_MSTTR": 0.5,
+		"NP_MSTTR": 1.0,
+		"NR_MSTTR": 0,
+		"VL_MSTTR": 0.7631578947368421,
+		"VV_MSTTR": 0.8333333333333334,
+		"VA_MSTTR": 1.0,
+		"ML_MSTTR": 0.7142857142857143,
+		"MM_MSTTR": 0,
+		"MA_MSTTR": 0.7142857142857143,
+		"MAJ_MSTTR": 1.0,
+		"IC_MSTTR": 0,
+		"FL_MSTTR": 0.48,
+		"J_MSTTR": 0.30952380952380953,
+		"E_MSTTR": 0.4186046511627907,
+		"X_MSTTR": 1.0,
+		"lemma_MATTR": 0.7610666666666663,
+		"CL_MATTR": 0.7320833333333331,
+		"NL_MATTR": 0.5533333333333333,
+		"NN_MATTR": 0.55,
+		"NNG_MATTR": 0.5789473684210527,
+		"NNP_MATTR": 0.4444444444444444,
+		"NNB_MATTR": 0.5,
+		"NP_MATTR": 1.0,
+		"NR_MATTR": 0,
+		"VL_MATTR": 0.7631578947368421,
+		"VV_MATTR": 0.8333333333333334,
+		"VA_MATTR": 1.0,
+		"ML_MATTR": 0.7142857142857143,
+		"MM_MATTR": 0,
+		"MA_MATTR": 0.7142857142857143,
+		"MAJ_MATTR": 1.0,
+		"IC_MATTR": 0,
+		"FL_MATTR": 0.48972972972972983,
+		"J_MATTR": 0.30952380952380953,
+		"E_MATTR": 0.4186046511627907,
+		"X_MATTR": 1.0,
+		"lemma_MTLD": 62.45872274143302,
+		"CL_MTLD": 55.402009620784796,
+		"NL_MTLD": 18.193880001921507,
+		"NN_MTLD": 17.198093220338983,
+		"NNG_MTLD": 16.836283587509076,
+		"NNP_MTLD": 4.5360000000000005,
+		"NNB_MTLD": 2.24,
+		"NP_MTLD": 0.0,
+		"NR_MTLD": 0.0,
+		"VL_MTLD": 41.46222222222222,
+		"VV_MTLD": 32.16000000000001,
+		"VA_MTLD": 0.0,
+		"ML_MTLD": 6.860000000000001,
+		"MM_MTLD": 0.0,
+		"MA_MTLD": 6.860000000000001,
+		"MAJ_MTLD": 0.0,
+		"IC_MTLD": 0.0,
+		"FL_MTLD": 20.254284561545074,
+		"J_MTLD": 10.28898128898129,
+		"E_MTLD": 11.576923076923078,
+		"X_MTLD": 0.0,
+		"lemma_VOCDD": 57.67852807504752,
+		"CL_VOCDD": 61.39506668796605,
+		"NL_VOCDD": 18.68324983212187,
+		"NN_VOCDD": 17.48306788519044,
+		"NNG_VOCDD": 0,
+		"NNP_VOCDD": 0,
+		"NNB_VOCDD": 0,
+		"NP_VOCDD": 0,
+		"NR_VOCDD": 0,
+		"VL_VOCDD": 0,
+		"VV_VOCDD": 0,
+		"VA_VOCDD": 0,
+		"ML_VOCDD": 0,
+		"MM_VOCDD": 0,
+		"MA_VOCDD": 0,
+		"MAJ_VOCDD": 0,
+		"IC_VOCDD": 0,
+		"FL_VOCDD": 11.51898330713002,
+		"J_VOCDD": 0,
+		"E_VOCDD": 0,
+		"X_VOCDD": 0,
+		"lemma_HDD": 0.7789393432380964,
+		"CL_HDD": 0.7873027414556717,
+		"NL_HDD": 0.5984837619670369,
+		"NN_HDD": 0.586894646513891,
+		"NNG_HDD": 0.0,
+		"NNP_HDD": 0.0,
+		"NNB_HDD": 0.0,
+		"NP_HDD": 0.0,
+		"NR_HDD": 0.0,
+		"VL_HDD": 0.0,
+		"VV_HDD": 0.0,
+		"VA_HDD": 0.0,
+		"ML_HDD": 0.0,
+		"MM_HDD": 0.0,
+		"MA_HDD": 0.0,
+		"MAJ_HDD": 0.0,
+		"IC_HDD": 0.0,
+		"FL_HDD": 0.5170472068566446,
+		"J_HDD": 0.30952380952380953,
+		"E_HDD": 0.4246954595791804,
+		"X_HDD": 0.0
+	},
+	"similarity": {
+		"avgSentSimilarity": 0.19725623726844788,
+		"topicConsistency": 0.5094
+	},
+	"adjacency": {
+		"adjacent_sentence_overlap_all_lemmas": 134,
+		"adjacent_sentence_overlap_all_lemmas_normed": 7,
+		"binary_adjacent_sentence_overlap_all_lemmas": 7,
+		"adjacent_two_sentence_overlap_all_lemmas": 75,
+		"adjacent_two_sentence_overlap_all_lemmas_normed": 6,
+		"binary_adjacent_two_sentence_overlap_all_lemmas": 6,
+		"adjacent_sentence_overlap_content_lemmas": 70,
+		"adjacent_sentence_overlap_content_lemmas_normed": 7,
+		"binary_adjacent_sentence_overlap_content_lemmas": 6,
+		"adjacent_two_sentence_overlap_content_lemmas": 43,
+		"adjacent_two_sentence_overlap_content_lemmas_normed": 6,
+		"binary_adjacent_two_sentence_overlap_content_lemmas": 3,
+		"adjacent_sentence_overlap_function_lemmas": 55,
+		"adjacent_sentence_overlap_function_lemmas_normed": 7,
+		"binary_adjacent_sentence_overlap_function_lemmas": 6,
+		"adjacent_two_sentence_overlap_function_lemmas": 26,
+		"adjacent_two_sentence_overlap_function_lemmas_normed": 6,
+		"binary_adjacent_two_sentence_overlap_function_lemmas": 5,
+		"adjacent_sentence_overlap_noun_lemmas": 41,
+		"adjacent_sentence_overlap_noun_lemmas_normed": 7,
+		"binary_adjacent_sentence_overlap_noun_lemmas": 5,
+		"adjacent_two_sentence_overlap_noun_lemmas": 27,
+		"adjacent_two_sentence_overlap_noun_lemmas_normed": 6,
+		"binary_adjacent_two_sentence_overlap_noun_lemmas": 3,
+		"adjacent_sentence_overlap_verb_lemmas": 28,
+		"adjacent_sentence_overlap_verb_lemmas_normed": 7,
+		"binary_adjacent_sentence_overlap_verb_lemmas": 4,
+		"adjacent_two_sentence_overlap_verb_lemmas": 16,
+		"adjacent_two_sentence_overlap_verb_lemmas_normed": 6,
+		"binary_adjacent_two_sentence_overlap_verb_lemmas": 1,
+		"adjacent_sentence_overlap_adjective_lemmas": 4,
+		"adjacent_sentence_overlap_adjective_lemmas_normed": 1,
+		"binary_adjacent_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_sentence_overlap_adverb_lemmas": 1,
+		"adjacent_sentence_overlap_adverb_lemmas_normed": 1,
+		"binary_adjacent_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adverb_lemmas": 0
+	},
+	"basic_count": {
+		"para_Cnt": 1,
+		"sentence_Cnt": 8,
+		"word_Cnt": 85,
+		"morph_Cnt": 199,
+		"char_Cnt": 327,
+		"CL_Cnt": 97,
+		"NL_Cnt": 52,
+		"NN_Cnt": 51,
+		"NNG_Cnt": 38,
+		"NNP_Cnt": 9,
+		"NNB_Cnt": 4,
+		"NP_Cnt": 1,
+		"NP_People_Cnt": 1,
+		"NP_Things_Cnt": 0,
+		"NR_Cnt": 0,
+		"VL_Cnt": 38,
+		"VV_Cnt": 24,
+		"VA_Cnt": 6,
+		"VX_Cnt": 4,
+		"VCP_Cnt": 4,
+		"VCN_Cnt": 0,
+		"ML_Cnt": 7,
+		"MA_Cnt": 0,
+		"MM_Cnt": 0,
+		"FL_Cnt": 86,
+		"J_Cnt": 42,
+		"E_Cnt": 43,
+		"X_Cnt": 1,
+		"IC_Cnt": 0
+	},
+	"basic_density": {
+		"CL_Den": 0.48743718592964824,
+		"FL_Den": 0.4321608040201005,
+		"NL_Den": 0.2562814070351759,
+		"NNGL_Den": 0.19095477386934673,
+		"NNPL_Den": 0.04522613065326633,
+		"NNBL_Den": 0.020100502512562814,
+		"NPL_Den": 0.005025125628140704,
+		"NML_Den": 0.0,
+		"VL_Den": 0.19095477386934673,
+		"VVL_Den": 0.12060301507537688,
+		"VAL_Den": 0.03015075376884422,
+		"ML_Den": 0.035175879396984924,
+		"MML_Den": 0.0,
+		"MAL_Den": 0.0,
+		"JL_Den": 0.21105527638190955,
+		"EL_Den": 0.21608040201005024,
+		"XL_Den": 0.005025125628140704,
+		"ITL_Den": 0.0,
+		"NCL_Den": 0.5257731958762887,
+		"NNCL_Den": 0.3917525773195876,
+		"NNGCL_Den": 0.09278350515463918,
+		"NNBCL_Den": 0.041237113402061855,
+		"NPCL_Den": 0.010309278350515464,
+		"NMCL_Den": 0.0,
+		"VCL_Den": 0.3917525773195876,
+		"VVCL_Den": 0.24742268041237114,
+		"VACL_Den": 0.061855670103092786,
+		"MCL_Den": 0.07216494845360824,
+		"MMCL_Den": 0.0,
+		"MACL_Den": 0.0,
+		"INCL_Den": 0.0,
+		"JFL_Den": 0.4883720930232558,
+		"EFL_Den": 0.5,
+		"XFL_Den": 0.011627906976744186
+	},
+	"basic_level": {
+		"morph_LenAvg": 1.778894472361809,
+		"morph_LenStd": 1.165395864728905,
+		"word_LenAvg": 3.823529411764706,
+		"word_LenStd": 1.6745603151678194
+	},
+	"basic_list": {
+		"NL_Lst": [
+			[
+				0,
+				"주인공",
+				"NNG",
+				"주인공 Trysdale이 사랑하는 여자에게 스페인어를 잘한다고 거짓말을했다."
+			],
+			[
+				1,
+				"Trysdale",
+				"NNP",
+				"주인공 Trysdale이 사랑하는 여자에게 스페인어를 잘한다고 거짓말을했다."
+			],
+			[
+				2,
+				"여자",
+				"NNG",
+				"주인공 Trysdale이 사랑하는 여자에게 스페인어를 잘한다고 거짓말을했다."
+			],
+			[
+				3,
+				"스페인어",
+				"NNP",
+				"주인공 Trysdale이 사랑하는 여자에게 스페인어를 잘한다고 거짓말을했다."
+			],
+			[
+				4,
+				"거짓말",
+				"NNG",
+				"주인공 Trysdale이 사랑하는 여자에게 스페인어를 잘한다고 거짓말을했다."
+			],
+			[
+				5,
+				"스페인어",
+				"NNP",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				6,
+				"줄안",
+				"NNP",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				7,
+				"여자",
+				"NNG",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				8,
+				"남자",
+				"NNG",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				9,
+				"프러포즈",
+				"NNG",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				10,
+				"스페인어",
+				"NNP",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				11,
+				"선인장",
+				"NNG",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				12,
+				"대답",
+				"NNG",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				13,
+				"스페인어",
+				"NNP",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				14,
+				"남자",
+				"NNG",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				15,
+				"자신",
+				"NNG",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				16,
+				"프로포즈",
+				"NNG",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				17,
+				"줄",
+				"NNB",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				18,
+				"남자",
+				"NNG",
+				"남자의 자만심과 허영심이 가져온것이다."
+			],
+			[
+				19,
+				"자만심",
+				"NNG",
+				"남자의 자만심과 허영심이 가져온것이다."
+			],
+			[
+				20,
+				"허영심",
+				"NNG",
+				"남자의 자만심과 허영심이 가져온것이다."
+			],
+			[
+				21,
+				"것",
+				"NNB",
+				"남자의 자만심과 허영심이 가져온것이다."
+			],
+			[
+				22,
+				"남자",
+				"NNG",
+				"남자는 후회를 하지만 이미 여자는 다른사람이랑 결혼한다."
+			],
+			[
+				23,
+				"후회",
+				"NNG",
+				"남자는 후회를 하지만 이미 여자는 다른사람이랑 결혼한다."
+			],
+			[
+				24,
+				"여자",
+				"NNG",
+				"남자는 후회를 하지만 이미 여자는 다른사람이랑 결혼한다."
+			],
+			[
+				25,
+				"사람",
+				"NNG",
+				"남자는 후회를 하지만 이미 여자는 다른사람이랑 결혼한다."
+			],
+			[
+				26,
+				"남자",
+				"NNG",
+				"이 남자와 여자의 이야기를 보 고 거짓말을 하면 안된다고 느꼈다."
+			],
+			[
+				27,
+				"여자",
+				"NNG",
+				"이 남자와 여자의 이야기를 보 고 거짓말을 하면 안된다고 느꼈다."
+			],
+			[
+				28,
+				"이야기",
+				"NNG",
+				"이 남자와 여자의 이야기를 보 고 거짓말을 하면 안된다고 느꼈다."
+			],
+			[
+				29,
+				"거짓말",
+				"NNG",
+				"이 남자와 여자의 이야기를 보 고 거짓말을 하면 안된다고 느꼈다."
+			],
+			[
+				30,
+				"선인장",
+				"NNG",
+				"선인장의 스페인어는 ventomarme로 영어로 말하면 come and see me로 와서 나를 데려가줘요이다."
+			],
+			[
+				31,
+				"스페인어",
+				"NNP",
+				"선인장의 스페인어는 ventomarme로 영어로 말하면 come and see me로 와서 나를 데려가줘요이다."
+			],
+			[
+				32,
+				"ventomarme",
+				"NNG",
+				"선인장의 스페인어는 ventomarme로 영어로 말하면 come and see me로 와서 나를 데려가줘요이다."
+			],
+			[
+				33,
+				"영어",
+				"NNP",
+				"선인장의 스페인어는 ventomarme로 영어로 말하면 come and see me로 와서 나를 데려가줘요이다."
+			],
+			[
+				34,
+				"나",
+				"NP",
+				"선인장의 스페인어는 ventomarme로 영어로 말하면 come and see me로 와서 나를 데려가줘요이다."
+			],
+			[
+				35,
+				"남자",
+				"NNG",
+				"남자의 허영심과 자만심으로 가득찬 마음이 남자의 거짓된 모습을 게속 유지해준것이다."
+			],
+			[
+				36,
+				"허영심",
+				"NNG",
+				"남자의 허영심과 자만심으로 가득찬 마음이 남자의 거짓된 모습을 게속 유지해준것이다."
+			],
+			[
+				37,
+				"자만심",
+				"NNG",
+				"남자의 허영심과 자만심으로 가득찬 마음이 남자의 거짓된 모습을 게속 유지해준것이다."
+			],
+			[
+				38,
+				"가득",
+				"NNG",
+				"남자의 허영심과 자만심으로 가득찬 마음이 남자의 거짓된 모습을 게속 유지해준것이다."
+			],
+			[
+				39,
+				"찬",
+				"NNG",
+				"남자의 허영심과 자만심으로 가득찬 마음이 남자의 거짓된 모습을 게속 유지해준것이다."
+			],
+			[
+				40,
+				"마음",
+				"NNG",
+				"남자의 허영심과 자만심으로 가득찬 마음이 남자의 거짓된 모습을 게속 유지해준것이다."
+			],
+			[
+				41,
+				"남자",
+				"NNG",
+				"남자의 허영심과 자만심으로 가득찬 마음이 남자의 거짓된 모습을 게속 유지해준것이다."
+			],
+			[
+				42,
+				"모습",
+				"NNG",
+				"남자의 허영심과 자만심으로 가득찬 마음이 남자의 거짓된 모습을 게속 유지해준것이다."
+			],
+			[
+				43,
+				"것",
+				"NNB",
+				"남자의 허영심과 자만심으로 가득찬 마음이 남자의 거짓된 모습을 게속 유지해준것이다."
+			],
+			[
+				44,
+				"친구",
+				"NNG",
+				"친구에게 스페인어의 뜻을 듣고 후회하는 모습을 보며 안타까웠지만 남자의 어리석은 마음이 불러일으켰다고 생각한다 슬픈 소설인것 같다."
+			],
+			[
+				45,
+				"스페인어",
+				"NNP",
+				"친구에게 스페인어의 뜻을 듣고 후회하는 모습을 보며 안타까웠지만 남자의 어리석은 마음이 불러일으켰다고 생각한다 슬픈 소설인것 같다."
+			],
+			[
+				46,
+				"뜻",
+				"NNG",
+				"친구에게 스페인어의 뜻을 듣고 후회하는 모습을 보며 안타까웠지만 남자의 어리석은 마음이 불러일으켰다고 생각한다 슬픈 소설인것 같다."
+			],
+			[
+				47,
+				"모습",
+				"NNG",
+				"친구에게 스페인어의 뜻을 듣고 후회하는 모습을 보며 안타까웠지만 남자의 어리석은 마음이 불러일으켰다고 생각한다 슬픈 소설인것 같다."
+			],
+			[
+				48,
+				"남자",
+				"NNG",
+				"친구에게 스페인어의 뜻을 듣고 후회하는 모습을 보며 안타까웠지만 남자의 어리석은 마음이 불러일으켰다고 생각한다 슬픈 소설인것 같다."
+			],
+			[
+				49,
+				"마음",
+				"NNG",
+				"친구에게 스페인어의 뜻을 듣고 후회하는 모습을 보며 안타까웠지만 남자의 어리석은 마음이 불러일으켰다고 생각한다 슬픈 소설인것 같다."
+			],
+			[
+				50,
+				"소설",
+				"NNG",
+				"친구에게 스페인어의 뜻을 듣고 후회하는 모습을 보며 안타까웠지만 남자의 어리석은 마음이 불러일으켰다고 생각한다 슬픈 소설인것 같다."
+			],
+			[
+				51,
+				"것",
+				"NNB",
+				"친구에게 스페인어의 뜻을 듣고 후회하는 모습을 보며 안타까웠지만 남자의 어리석은 마음이 불러일으켰다고 생각한다 슬픈 소설인것 같다."
+			]
+		],
+		"NN_Lst": [
+			[
+				0,
+				"주인공",
+				"NNG",
+				"주인공 Trysdale이 사랑하는 여자에게 스페인어를 잘한다고 거짓말을했다."
+			],
+			[
+				1,
+				"Trysdale",
+				"NNP",
+				"주인공 Trysdale이 사랑하는 여자에게 스페인어를 잘한다고 거짓말을했다."
+			],
+			[
+				2,
+				"여자",
+				"NNG",
+				"주인공 Trysdale이 사랑하는 여자에게 스페인어를 잘한다고 거짓말을했다."
+			],
+			[
+				3,
+				"스페인어",
+				"NNP",
+				"주인공 Trysdale이 사랑하는 여자에게 스페인어를 잘한다고 거짓말을했다."
+			],
+			[
+				4,
+				"거짓말",
+				"NNG",
+				"주인공 Trysdale이 사랑하는 여자에게 스페인어를 잘한다고 거짓말을했다."
+			],
+			[
+				5,
+				"스페인어",
+				"NNP",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				6,
+				"줄안",
+				"NNP",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				7,
+				"여자",
+				"NNG",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				8,
+				"남자",
+				"NNG",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				9,
+				"프러포즈",
+				"NNG",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				10,
+				"스페인어",
+				"NNP",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				11,
+				"선인장",
+				"NNG",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				12,
+				"대답",
+				"NNG",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				13,
+				"스페인어",
+				"NNP",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				14,
+				"남자",
+				"NNG",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				15,
+				"자신",
+				"NNG",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				16,
+				"프로포즈",
+				"NNG",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				17,
+				"줄",
+				"NNB",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				18,
+				"남자",
+				"NNG",
+				"남자의 자만심과 허영심이 가져온것이다."
+			],
+			[
+				19,
+				"자만심",
+				"NNG",
+				"남자의 자만심과 허영심이 가져온것이다."
+			],
+			[
+				20,
+				"허영심",
+				"NNG",
+				"남자의 자만심과 허영심이 가져온것이다."
+			],
+			[
+				21,
+				"것",
+				"NNB",
+				"남자의 자만심과 허영심이 가져온것이다."
+			],
+			[
+				22,
+				"남자",
+				"NNG",
+				"남자는 후회를 하지만 이미 여자는 다른사람이랑 결혼한다."
+			],
+			[
+				23,
+				"후회",
+				"NNG",
+				"남자는 후회를 하지만 이미 여자는 다른사람이랑 결혼한다."
+			],
+			[
+				24,
+				"여자",
+				"NNG",
+				"남자는 후회를 하지만 이미 여자는 다른사람이랑 결혼한다."
+			],
+			[
+				25,
+				"사람",
+				"NNG",
+				"남자는 후회를 하지만 이미 여자는 다른사람이랑 결혼한다."
+			],
+			[
+				26,
+				"남자",
+				"NNG",
+				"이 남자와 여자의 이야기를 보 고 거짓말을 하면 안된다고 느꼈다."
+			],
+			[
+				27,
+				"여자",
+				"NNG",
+				"이 남자와 여자의 이야기를 보 고 거짓말을 하면 안된다고 느꼈다."
+			],
+			[
+				28,
+				"이야기",
+				"NNG",
+				"이 남자와 여자의 이야기를 보 고 거짓말을 하면 안된다고 느꼈다."
+			],
+			[
+				29,
+				"거짓말",
+				"NNG",
+				"이 남자와 여자의 이야기를 보 고 거짓말을 하면 안된다고 느꼈다."
+			],
+			[
+				30,
+				"선인장",
+				"NNG",
+				"선인장의 스페인어는 ventomarme로 영어로 말하면 come and see me로 와서 나를 데려가줘요이다."
+			],
+			[
+				31,
+				"스페인어",
+				"NNP",
+				"선인장의 스페인어는 ventomarme로 영어로 말하면 come and see me로 와서 나를 데려가줘요이다."
+			],
+			[
+				32,
+				"ventomarme",
+				"NNG",
+				"선인장의 스페인어는 ventomarme로 영어로 말하면 come and see me로 와서 나를 데려가줘요이다."
+			],
+			[
+				33,
+				"영어",
+				"NNP",
+				"선인장의 스페인어는 ventomarme로 영어로 말하면 come and see me로 와서 나를 데려가줘요이다."
+			],
+			[
+				34,
+				"남자",
+				"NNG",
+				"남자의 허영심과 자만심으로 가득찬 마음이 남자의 거짓된 모습을 게속 유지해준것이다."
+			],
+			[
+				35,
+				"허영심",
+				"NNG",
+				"남자의 허영심과 자만심으로 가득찬 마음이 남자의 거짓된 모습을 게속 유지해준것이다."
+			],
+			[
+				36,
+				"자만심",
+				"NNG",
+				"남자의 허영심과 자만심으로 가득찬 마음이 남자의 거짓된 모습을 게속 유지해준것이다."
+			],
+			[
+				37,
+				"가득",
+				"NNG",
+				"남자의 허영심과 자만심으로 가득찬 마음이 남자의 거짓된 모습을 게속 유지해준것이다."
+			],
+			[
+				38,
+				"찬",
+				"NNG",
+				"남자의 허영심과 자만심으로 가득찬 마음이 남자의 거짓된 모습을 게속 유지해준것이다."
+			],
+			[
+				39,
+				"마음",
+				"NNG",
+				"남자의 허영심과 자만심으로 가득찬 마음이 남자의 거짓된 모습을 게속 유지해준것이다."
+			],
+			[
+				40,
+				"남자",
+				"NNG",
+				"남자의 허영심과 자만심으로 가득찬 마음이 남자의 거짓된 모습을 게속 유지해준것이다."
+			],
+			[
+				41,
+				"모습",
+				"NNG",
+				"남자의 허영심과 자만심으로 가득찬 마음이 남자의 거짓된 모습을 게속 유지해준것이다."
+			],
+			[
+				42,
+				"것",
+				"NNB",
+				"남자의 허영심과 자만심으로 가득찬 마음이 남자의 거짓된 모습을 게속 유지해준것이다."
+			],
+			[
+				43,
+				"친구",
+				"NNG",
+				"친구에게 스페인어의 뜻을 듣고 후회하는 모습을 보며 안타까웠지만 남자의 어리석은 마음이 불러일으켰다고 생각한다 슬픈 소설인것 같다."
+			],
+			[
+				44,
+				"스페인어",
+				"NNP",
+				"친구에게 스페인어의 뜻을 듣고 후회하는 모습을 보며 안타까웠지만 남자의 어리석은 마음이 불러일으켰다고 생각한다 슬픈 소설인것 같다."
+			],
+			[
+				45,
+				"뜻",
+				"NNG",
+				"친구에게 스페인어의 뜻을 듣고 후회하는 모습을 보며 안타까웠지만 남자의 어리석은 마음이 불러일으켰다고 생각한다 슬픈 소설인것 같다."
+			],
+			[
+				46,
+				"모습",
+				"NNG",
+				"친구에게 스페인어의 뜻을 듣고 후회하는 모습을 보며 안타까웠지만 남자의 어리석은 마음이 불러일으켰다고 생각한다 슬픈 소설인것 같다."
+			],
+			[
+				47,
+				"남자",
+				"NNG",
+				"친구에게 스페인어의 뜻을 듣고 후회하는 모습을 보며 안타까웠지만 남자의 어리석은 마음이 불러일으켰다고 생각한다 슬픈 소설인것 같다."
+			],
+			[
+				48,
+				"마음",
+				"NNG",
+				"친구에게 스페인어의 뜻을 듣고 후회하는 모습을 보며 안타까웠지만 남자의 어리석은 마음이 불러일으켰다고 생각한다 슬픈 소설인것 같다."
+			],
+			[
+				49,
+				"소설",
+				"NNG",
+				"친구에게 스페인어의 뜻을 듣고 후회하는 모습을 보며 안타까웠지만 남자의 어리석은 마음이 불러일으켰다고 생각한다 슬픈 소설인것 같다."
+			],
+			[
+				50,
+				"것",
+				"NNB",
+				"친구에게 스페인어의 뜻을 듣고 후회하는 모습을 보며 안타까웠지만 남자의 어리석은 마음이 불러일으켰다고 생각한다 슬픈 소설인것 같다."
+			]
+		],
+		"NNG_Lst": [
+			[
+				0,
+				"주인공",
+				"NNG",
+				"주인공 Trysdale이 사랑하는 여자에게 스페인어를 잘한다고 거짓말을했다."
+			],
+			[
+				1,
+				"여자",
+				"NNG",
+				"주인공 Trysdale이 사랑하는 여자에게 스페인어를 잘한다고 거짓말을했다."
+			],
+			[
+				2,
+				"거짓말",
+				"NNG",
+				"주인공 Trysdale이 사랑하는 여자에게 스페인어를 잘한다고 거짓말을했다."
+			],
+			[
+				3,
+				"여자",
+				"NNG",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				4,
+				"남자",
+				"NNG",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				5,
+				"프러포즈",
+				"NNG",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				6,
+				"선인장",
+				"NNG",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				7,
+				"대답",
+				"NNG",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				8,
+				"남자",
+				"NNG",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				9,
+				"자신",
+				"NNG",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				10,
+				"프로포즈",
+				"NNG",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				11,
+				"남자",
+				"NNG",
+				"남자의 자만심과 허영심이 가져온것이다."
+			],
+			[
+				12,
+				"자만심",
+				"NNG",
+				"남자의 자만심과 허영심이 가져온것이다."
+			],
+			[
+				13,
+				"허영심",
+				"NNG",
+				"남자의 자만심과 허영심이 가져온것이다."
+			],
+			[
+				14,
+				"남자",
+				"NNG",
+				"남자는 후회를 하지만 이미 여자는 다른사람이랑 결혼한다."
+			],
+			[
+				15,
+				"후회",
+				"NNG",
+				"남자는 후회를 하지만 이미 여자는 다른사람이랑 결혼한다."
+			],
+			[
+				16,
+				"여자",
+				"NNG",
+				"남자는 후회를 하지만 이미 여자는 다른사람이랑 결혼한다."
+			],
+			[
+				17,
+				"사람",
+				"NNG",
+				"남자는 후회를 하지만 이미 여자는 다른사람이랑 결혼한다."
+			],
+			[
+				18,
+				"남자",
+				"NNG",
+				"이 남자와 여자의 이야기를 보 고 거짓말을 하면 안된다고 느꼈다."
+			],
+			[
+				19,
+				"여자",
+				"NNG",
+				"이 남자와 여자의 이야기를 보 고 거짓말을 하면 안된다고 느꼈다."
+			],
+			[
+				20,
+				"이야기",
+				"NNG",
+				"이 남자와 여자의 이야기를 보 고 거짓말을 하면 안된다고 느꼈다."
+			],
+			[
+				21,
+				"거짓말",
+				"NNG",
+				"이 남자와 여자의 이야기를 보 고 거짓말을 하면 안된다고 느꼈다."
+			],
+			[
+				22,
+				"선인장",
+				"NNG",
+				"선인장의 스페인어는 ventomarme로 영어로 말하면 come and see me로 와서 나를 데려가줘요이다."
+			],
+			[
+				23,
+				"ventomarme",
+				"NNG",
+				"선인장의 스페인어는 ventomarme로 영어로 말하면 come and see me로 와서 나를 데려가줘요이다."
+			],
+			[
+				24,
+				"남자",
+				"NNG",
+				"남자의 허영심과 자만심으로 가득찬 마음이 남자의 거짓된 모습을 게속 유지해준것이다."
+			],
+			[
+				25,
+				"허영심",
+				"NNG",
+				"남자의 허영심과 자만심으로 가득찬 마음이 남자의 거짓된 모습을 게속 유지해준것이다."
+			],
+			[
+				26,
+				"자만심",
+				"NNG",
+				"남자의 허영심과 자만심으로 가득찬 마음이 남자의 거짓된 모습을 게속 유지해준것이다."
+			],
+			[
+				27,
+				"가득",
+				"NNG",
+				"남자의 허영심과 자만심으로 가득찬 마음이 남자의 거짓된 모습을 게속 유지해준것이다."
+			],
+			[
+				28,
+				"찬",
+				"NNG",
+				"남자의 허영심과 자만심으로 가득찬 마음이 남자의 거짓된 모습을 게속 유지해준것이다."
+			],
+			[
+				29,
+				"마음",
+				"NNG",
+				"남자의 허영심과 자만심으로 가득찬 마음이 남자의 거짓된 모습을 게속 유지해준것이다."
+			],
+			[
+				30,
+				"남자",
+				"NNG",
+				"남자의 허영심과 자만심으로 가득찬 마음이 남자의 거짓된 모습을 게속 유지해준것이다."
+			],
+			[
+				31,
+				"모습",
+				"NNG",
+				"남자의 허영심과 자만심으로 가득찬 마음이 남자의 거짓된 모습을 게속 유지해준것이다."
+			],
+			[
+				32,
+				"친구",
+				"NNG",
+				"친구에게 스페인어의 뜻을 듣고 후회하는 모습을 보며 안타까웠지만 남자의 어리석은 마음이 불러일으켰다고 생각한다 슬픈 소설인것 같다."
+			],
+			[
+				33,
+				"뜻",
+				"NNG",
+				"친구에게 스페인어의 뜻을 듣고 후회하는 모습을 보며 안타까웠지만 남자의 어리석은 마음이 불러일으켰다고 생각한다 슬픈 소설인것 같다."
+			],
+			[
+				34,
+				"모습",
+				"NNG",
+				"친구에게 스페인어의 뜻을 듣고 후회하는 모습을 보며 안타까웠지만 남자의 어리석은 마음이 불러일으켰다고 생각한다 슬픈 소설인것 같다."
+			],
+			[
+				35,
+				"남자",
+				"NNG",
+				"친구에게 스페인어의 뜻을 듣고 후회하는 모습을 보며 안타까웠지만 남자의 어리석은 마음이 불러일으켰다고 생각한다 슬픈 소설인것 같다."
+			],
+			[
+				36,
+				"마음",
+				"NNG",
+				"친구에게 스페인어의 뜻을 듣고 후회하는 모습을 보며 안타까웠지만 남자의 어리석은 마음이 불러일으켰다고 생각한다 슬픈 소설인것 같다."
+			],
+			[
+				37,
+				"소설",
+				"NNG",
+				"친구에게 스페인어의 뜻을 듣고 후회하는 모습을 보며 안타까웠지만 남자의 어리석은 마음이 불러일으켰다고 생각한다 슬픈 소설인것 같다."
+			]
+		],
+		"NNP_Lst": [
+			[
+				0,
+				"Trysdale",
+				"NNP",
+				"주인공 Trysdale이 사랑하는 여자에게 스페인어를 잘한다고 거짓말을했다."
+			],
+			[
+				1,
+				"스페인어",
+				"NNP",
+				"주인공 Trysdale이 사랑하는 여자에게 스페인어를 잘한다고 거짓말을했다."
+			],
+			[
+				2,
+				"스페인어",
+				"NNP",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				3,
+				"줄안",
+				"NNP",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				4,
+				"스페인어",
+				"NNP",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				5,
+				"스페인어",
+				"NNP",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				6,
+				"스페인어",
+				"NNP",
+				"선인장의 스페인어는 ventomarme로 영어로 말하면 come and see me로 와서 나를 데려가줘요이다."
+			],
+			[
+				7,
+				"영어",
+				"NNP",
+				"선인장의 스페인어는 ventomarme로 영어로 말하면 come and see me로 와서 나를 데려가줘요이다."
+			],
+			[
+				8,
+				"스페인어",
+				"NNP",
+				"친구에게 스페인어의 뜻을 듣고 후회하는 모습을 보며 안타까웠지만 남자의 어리석은 마음이 불러일으켰다고 생각한다 슬픈 소설인것 같다."
+			]
+		],
+		"NNB_Lst": [
+			[
+				0,
+				"줄",
+				"NNB",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				1,
+				"것",
+				"NNB",
+				"남자의 자만심과 허영심이 가져온것이다."
+			],
+			[
+				2,
+				"것",
+				"NNB",
+				"남자의 허영심과 자만심으로 가득찬 마음이 남자의 거짓된 모습을 게속 유지해준것이다."
+			],
+			[
+				3,
+				"것",
+				"NNB",
+				"친구에게 스페인어의 뜻을 듣고 후회하는 모습을 보며 안타까웠지만 남자의 어리석은 마음이 불러일으켰다고 생각한다 슬픈 소설인것 같다."
+			]
+		],
+		"NP_Lst": [
+			[
+				0,
+				"나",
+				"NP",
+				"선인장의 스페인어는 ventomarme로 영어로 말하면 come and see me로 와서 나를 데려가줘요이다."
+			]
+		],
+		"NP_People_Lst": [
+			[
+				0,
+				"나",
+				"NP",
+				"선인장의 스페인어는 ventomarme로 영어로 말하면 come and see me로 와서 나를 데려가줘요이다."
+			]
+		],
+		"NP_Things_Lst": [],
+		"NR_Lst": [],
+		"VL_Lst": [
+			[
+				0,
+				"사랑하",
+				"VV",
+				"주인공 Trysdale이 사랑하는 여자에게 스페인어를 잘한다고 거짓말을했다."
+			],
+			[
+				1,
+				"잘하",
+				"VV",
+				"주인공 Trysdale이 사랑하는 여자에게 스페인어를 잘한다고 거짓말을했다."
+			],
+			[
+				2,
+				"을하",
+				"VV",
+				"주인공 Trysdale이 사랑하는 여자에게 스페인어를 잘한다고 거짓말을했다."
+			],
+			[
+				3,
+				"잘하",
+				"VV",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				4,
+				"적히",
+				"VV",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				5,
+				"대신하",
+				"VV",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				6,
+				"알",
+				"VV",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				7,
+				"못하",
+				"VX",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				8,
+				"되",
+				"VV",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				9,
+				"알",
+				"VV",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				10,
+				"힘들",
+				"VA",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				11,
+				"하",
+				"VX",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				12,
+				"가져오",
+				"VV",
+				"남자의 자만심과 허영심이 가져온것이다."
+			],
+			[
+				13,
+				"이",
+				"VCP",
+				"남자의 자만심과 허영심이 가져온것이다."
+			],
+			[
+				14,
+				"하",
+				"VV",
+				"남자는 후회를 하지만 이미 여자는 다른사람이랑 결혼한다."
+			],
+			[
+				15,
+				"결혼하",
+				"VV",
+				"남자는 후회를 하지만 이미 여자는 다른사람이랑 결혼한다."
+			],
+			[
+				16,
+				"하",
+				"VV",
+				"이 남자와 여자의 이야기를 보 고 거짓말을 하면 안된다고 느꼈다."
+			],
+			[
+				17,
+				"되",
+				"VV",
+				"이 남자와 여자의 이야기를 보 고 거짓말을 하면 안된다고 느꼈다."
+			],
+			[
+				18,
+				"느끼",
+				"VV",
+				"이 남자와 여자의 이야기를 보 고 거짓말을 하면 안된다고 느꼈다."
+			],
+			[
+				19,
+				"말하",
+				"VV",
+				"선인장의 스페인어는 ventomarme로 영어로 말하면 come and see me로 와서 나를 데려가줘요이다."
+			],
+			[
+				20,
+				"오",
+				"VV",
+				"선인장의 스페인어는 ventomarme로 영어로 말하면 come and see me로 와서 나를 데려가줘요이다."
+			],
+			[
+				21,
+				"데려가",
+				"VV",
+				"선인장의 스페인어는 ventomarme로 영어로 말하면 come and see me로 와서 나를 데려가줘요이다."
+			],
+			[
+				22,
+				"주",
+				"VX",
+				"선인장의 스페인어는 ventomarme로 영어로 말하면 come and see me로 와서 나를 데려가줘요이다."
+			],
+			[
+				23,
+				"이",
+				"VCP",
+				"선인장의 스페인어는 ventomarme로 영어로 말하면 come and see me로 와서 나를 데려가줘요이다."
+			],
+			[
+				24,
+				"거짓되",
+				"VA",
+				"남자의 허영심과 자만심으로 가득찬 마음이 남자의 거짓된 모습을 게속 유지해준것이다."
+			],
+			[
+				25,
+				"유지하",
+				"VV",
+				"남자의 허영심과 자만심으로 가득찬 마음이 남자의 거짓된 모습을 게속 유지해준것이다."
+			],
+			[
+				26,
+				"주",
+				"VX",
+				"남자의 허영심과 자만심으로 가득찬 마음이 남자의 거짓된 모습을 게속 유지해준것이다."
+			],
+			[
+				27,
+				"이",
+				"VCP",
+				"남자의 허영심과 자만심으로 가득찬 마음이 남자의 거짓된 모습을 게속 유지해준것이다."
+			],
+			[
+				28,
+				"듣",
+				"VV",
+				"친구에게 스페인어의 뜻을 듣고 후회하는 모습을 보며 안타까웠지만 남자의 어리석은 마음이 불러일으켰다고 생각한다 슬픈 소설인것 같다."
+			],
+			[
+				29,
+				"후회하",
+				"VV",
+				"친구에게 스페인어의 뜻을 듣고 후회하는 모습을 보며 안타까웠지만 남자의 어리석은 마음이 불러일으켰다고 생각한다 슬픈 소설인것 같다."
+			],
+			[
+				30,
+				"보",
+				"VV",
+				"친구에게 스페인어의 뜻을 듣고 후회하는 모습을 보며 안타까웠지만 남자의 어리석은 마음이 불러일으켰다고 생각한다 슬픈 소설인것 같다."
+			],
+			[
+				31,
+				"안타깝",
+				"VA",
+				"친구에게 스페인어의 뜻을 듣고 후회하는 모습을 보며 안타까웠지만 남자의 어리석은 마음이 불러일으켰다고 생각한다 슬픈 소설인것 같다."
+			],
+			[
+				32,
+				"어리석",
+				"VA",
+				"친구에게 스페인어의 뜻을 듣고 후회하는 모습을 보며 안타까웠지만 남자의 어리석은 마음이 불러일으켰다고 생각한다 슬픈 소설인것 같다."
+			],
+			[
+				33,
+				"불러일으키",
+				"VV",
+				"친구에게 스페인어의 뜻을 듣고 후회하는 모습을 보며 안타까웠지만 남자의 어리석은 마음이 불러일으켰다고 생각한다 슬픈 소설인것 같다."
+			],
+			[
+				34,
+				"생각하",
+				"VV",
+				"친구에게 스페인어의 뜻을 듣고 후회하는 모습을 보며 안타까웠지만 남자의 어리석은 마음이 불러일으켰다고 생각한다 슬픈 소설인것 같다."
+			],
+			[
+				35,
+				"슬프",
+				"VA",
+				"친구에게 스페인어의 뜻을 듣고 후회하는 모습을 보며 안타까웠지만 남자의 어리석은 마음이 불러일으켰다고 생각한다 슬픈 소설인것 같다."
+			],
+			[
+				36,
+				"이",
+				"VCP",
+				"친구에게 스페인어의 뜻을 듣고 후회하는 모습을 보며 안타까웠지만 남자의 어리석은 마음이 불러일으켰다고 생각한다 슬픈 소설인것 같다."
+			],
+			[
+				37,
+				"같",
+				"VA",
+				"친구에게 스페인어의 뜻을 듣고 후회하는 모습을 보며 안타까웠지만 남자의 어리석은 마음이 불러일으켰다고 생각한다 슬픈 소설인것 같다."
+			]
+		],
+		"VV_Lst": [
+			[
+				0,
+				"사랑하",
+				"VV",
+				"주인공 Trysdale이 사랑하는 여자에게 스페인어를 잘한다고 거짓말을했다."
+			],
+			[
+				1,
+				"잘하",
+				"VV",
+				"주인공 Trysdale이 사랑하는 여자에게 스페인어를 잘한다고 거짓말을했다."
+			],
+			[
+				2,
+				"을하",
+				"VV",
+				"주인공 Trysdale이 사랑하는 여자에게 스페인어를 잘한다고 거짓말을했다."
+			],
+			[
+				3,
+				"잘하",
+				"VV",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				4,
+				"적히",
+				"VV",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				5,
+				"대신하",
+				"VV",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				6,
+				"알",
+				"VV",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				7,
+				"되",
+				"VV",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				8,
+				"알",
+				"VV",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				9,
+				"가져오",
+				"VV",
+				"남자의 자만심과 허영심이 가져온것이다."
+			],
+			[
+				10,
+				"하",
+				"VV",
+				"남자는 후회를 하지만 이미 여자는 다른사람이랑 결혼한다."
+			],
+			[
+				11,
+				"결혼하",
+				"VV",
+				"남자는 후회를 하지만 이미 여자는 다른사람이랑 결혼한다."
+			],
+			[
+				12,
+				"하",
+				"VV",
+				"이 남자와 여자의 이야기를 보 고 거짓말을 하면 안된다고 느꼈다."
+			],
+			[
+				13,
+				"되",
+				"VV",
+				"이 남자와 여자의 이야기를 보 고 거짓말을 하면 안된다고 느꼈다."
+			],
+			[
+				14,
+				"느끼",
+				"VV",
+				"이 남자와 여자의 이야기를 보 고 거짓말을 하면 안된다고 느꼈다."
+			],
+			[
+				15,
+				"말하",
+				"VV",
+				"선인장의 스페인어는 ventomarme로 영어로 말하면 come and see me로 와서 나를 데려가줘요이다."
+			],
+			[
+				16,
+				"오",
+				"VV",
+				"선인장의 스페인어는 ventomarme로 영어로 말하면 come and see me로 와서 나를 데려가줘요이다."
+			],
+			[
+				17,
+				"데려가",
+				"VV",
+				"선인장의 스페인어는 ventomarme로 영어로 말하면 come and see me로 와서 나를 데려가줘요이다."
+			],
+			[
+				18,
+				"유지하",
+				"VV",
+				"남자의 허영심과 자만심으로 가득찬 마음이 남자의 거짓된 모습을 게속 유지해준것이다."
+			],
+			[
+				19,
+				"듣",
+				"VV",
+				"친구에게 스페인어의 뜻을 듣고 후회하는 모습을 보며 안타까웠지만 남자의 어리석은 마음이 불러일으켰다고 생각한다 슬픈 소설인것 같다."
+			],
+			[
+				20,
+				"후회하",
+				"VV",
+				"친구에게 스페인어의 뜻을 듣고 후회하는 모습을 보며 안타까웠지만 남자의 어리석은 마음이 불러일으켰다고 생각한다 슬픈 소설인것 같다."
+			],
+			[
+				21,
+				"보",
+				"VV",
+				"친구에게 스페인어의 뜻을 듣고 후회하는 모습을 보며 안타까웠지만 남자의 어리석은 마음이 불러일으켰다고 생각한다 슬픈 소설인것 같다."
+			],
+			[
+				22,
+				"불러일으키",
+				"VV",
+				"친구에게 스페인어의 뜻을 듣고 후회하는 모습을 보며 안타까웠지만 남자의 어리석은 마음이 불러일으켰다고 생각한다 슬픈 소설인것 같다."
+			],
+			[
+				23,
+				"생각하",
+				"VV",
+				"친구에게 스페인어의 뜻을 듣고 후회하는 모습을 보며 안타까웠지만 남자의 어리석은 마음이 불러일으켰다고 생각한다 슬픈 소설인것 같다."
+			]
+		],
+		"VA_Lst": [
+			[
+				0,
+				"힘들",
+				"VA",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				1,
+				"거짓되",
+				"VA",
+				"남자의 허영심과 자만심으로 가득찬 마음이 남자의 거짓된 모습을 게속 유지해준것이다."
+			],
+			[
+				2,
+				"안타깝",
+				"VA",
+				"친구에게 스페인어의 뜻을 듣고 후회하는 모습을 보며 안타까웠지만 남자의 어리석은 마음이 불러일으켰다고 생각한다 슬픈 소설인것 같다."
+			],
+			[
+				3,
+				"어리석",
+				"VA",
+				"친구에게 스페인어의 뜻을 듣고 후회하는 모습을 보며 안타까웠지만 남자의 어리석은 마음이 불러일으켰다고 생각한다 슬픈 소설인것 같다."
+			],
+			[
+				4,
+				"슬프",
+				"VA",
+				"친구에게 스페인어의 뜻을 듣고 후회하는 모습을 보며 안타까웠지만 남자의 어리석은 마음이 불러일으켰다고 생각한다 슬픈 소설인것 같다."
+			],
+			[
+				5,
+				"같",
+				"VA",
+				"친구에게 스페인어의 뜻을 듣고 후회하는 모습을 보며 안타까웠지만 남자의 어리석은 마음이 불러일으켰다고 생각한다 슬픈 소설인것 같다."
+			]
+		],
+		"VX_Lst": [
+			[
+				0,
+				"못하",
+				"VX",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				1,
+				"하",
+				"VX",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				2,
+				"주",
+				"VX",
+				"선인장의 스페인어는 ventomarme로 영어로 말하면 come and see me로 와서 나를 데려가줘요이다."
+			],
+			[
+				3,
+				"주",
+				"VX",
+				"남자의 허영심과 자만심으로 가득찬 마음이 남자의 거짓된 모습을 게속 유지해준것이다."
+			]
+		],
+		"VCP_Lst": [
+			[
+				0,
+				"이",
+				"VCP",
+				"남자의 자만심과 허영심이 가져온것이다."
+			],
+			[
+				1,
+				"이",
+				"VCP",
+				"선인장의 스페인어는 ventomarme로 영어로 말하면 come and see me로 와서 나를 데려가줘요이다."
+			],
+			[
+				2,
+				"이",
+				"VCP",
+				"남자의 허영심과 자만심으로 가득찬 마음이 남자의 거짓된 모습을 게속 유지해준것이다."
+			],
+			[
+				3,
+				"이",
+				"VCP",
+				"친구에게 스페인어의 뜻을 듣고 후회하는 모습을 보며 안타까웠지만 남자의 어리석은 마음이 불러일으켰다고 생각한다 슬픈 소설인것 같다."
+			]
+		],
+		"VCN_Lst": [],
+		"ML_Lst": [
+			[
+				0,
+				"그리고",
+				"MAJ",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				1,
+				"제대로",
+				"MAG",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				2,
+				"제대로",
+				"MAG",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				3,
+				"안",
+				"MAG",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				4,
+				"이미",
+				"MAG",
+				"남자는 후회를 하지만 이미 여자는 다른사람이랑 결혼한다."
+			],
+			[
+				5,
+				"안",
+				"MAG",
+				"이 남자와 여자의 이야기를 보 고 거짓말을 하면 안된다고 느꼈다."
+			],
+			[
+				6,
+				"게속",
+				"MAG",
+				"남자의 허영심과 자만심으로 가득찬 마음이 남자의 거짓된 모습을 게속 유지해준것이다."
+			]
+		],
+		"MA_Lst": [],
+		"MM_Lst": [],
+		"J_Lst": [
+			[
+				0,
+				"에게",
+				"JKB",
+				"주인공 Trysdale이 사랑하는 여자에게 스페인어를 잘한다고 거짓말을했다."
+			],
+			[
+				1,
+				"를",
+				"JKO",
+				"주인공 Trysdale이 사랑하는 여자에게 스페인어를 잘한다고 거짓말을했다."
+			],
+			[
+				2,
+				"를",
+				"JKO",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				3,
+				"는",
+				"JX",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				4,
+				"의",
+				"JKG",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				5,
+				"에",
+				"JKB",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				6,
+				"로",
+				"JKB",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				7,
+				"으로",
+				"JKB",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				8,
+				"을",
+				"JKO",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				9,
+				"를",
+				"JKO",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				10,
+				"는",
+				"JX",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				11,
+				"의",
+				"JKG",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				12,
+				"가",
+				"JKS",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				13,
+				"의",
+				"JKG",
+				"남자의 자만심과 허영심이 가져온것이다."
+			],
+			[
+				14,
+				"과",
+				"JC",
+				"남자의 자만심과 허영심이 가져온것이다."
+			],
+			[
+				15,
+				"이",
+				"JKS",
+				"남자의 자만심과 허영심이 가져온것이다."
+			],
+			[
+				16,
+				"는",
+				"JX",
+				"남자는 후회를 하지만 이미 여자는 다른사람이랑 결혼한다."
+			],
+			[
+				17,
+				"를",
+				"JKO",
+				"남자는 후회를 하지만 이미 여자는 다른사람이랑 결혼한다."
+			],
+			[
+				18,
+				"는",
+				"JX",
+				"남자는 후회를 하지만 이미 여자는 다른사람이랑 결혼한다."
+			],
+			[
+				19,
+				"이랑",
+				"JKB",
+				"남자는 후회를 하지만 이미 여자는 다른사람이랑 결혼한다."
+			],
+			[
+				20,
+				"와",
+				"JC",
+				"이 남자와 여자의 이야기를 보 고 거짓말을 하면 안된다고 느꼈다."
+			],
+			[
+				21,
+				"의",
+				"JKG",
+				"이 남자와 여자의 이야기를 보 고 거짓말을 하면 안된다고 느꼈다."
+			],
+			[
+				22,
+				"를",
+				"JKO",
+				"이 남자와 여자의 이야기를 보 고 거짓말을 하면 안된다고 느꼈다."
+			],
+			[
+				23,
+				"을",
+				"JKO",
+				"이 남자와 여자의 이야기를 보 고 거짓말을 하면 안된다고 느꼈다."
+			],
+			[
+				24,
+				"의",
+				"JKG",
+				"선인장의 스페인어는 ventomarme로 영어로 말하면 come and see me로 와서 나를 데려가줘요이다."
+			],
+			[
+				25,
+				"는",
+				"JX",
+				"선인장의 스페인어는 ventomarme로 영어로 말하면 come and see me로 와서 나를 데려가줘요이다."
+			],
+			[
+				26,
+				"로",
+				"JKB",
+				"선인장의 스페인어는 ventomarme로 영어로 말하면 come and see me로 와서 나를 데려가줘요이다."
+			],
+			[
+				27,
+				"로",
+				"JKB",
+				"선인장의 스페인어는 ventomarme로 영어로 말하면 come and see me로 와서 나를 데려가줘요이다."
+			],
+			[
+				28,
+				"로",
+				"JKB",
+				"선인장의 스페인어는 ventomarme로 영어로 말하면 come and see me로 와서 나를 데려가줘요이다."
+			],
+			[
+				29,
+				"를",
+				"JKO",
+				"선인장의 스페인어는 ventomarme로 영어로 말하면 come and see me로 와서 나를 데려가줘요이다."
+			],
+			[
+				30,
+				"의",
+				"JKG",
+				"남자의 허영심과 자만심으로 가득찬 마음이 남자의 거짓된 모습을 게속 유지해준것이다."
+			],
+			[
+				31,
+				"과",
+				"JC",
+				"남자의 허영심과 자만심으로 가득찬 마음이 남자의 거짓된 모습을 게속 유지해준것이다."
+			],
+			[
+				32,
+				"으로",
+				"JKB",
+				"남자의 허영심과 자만심으로 가득찬 마음이 남자의 거짓된 모습을 게속 유지해준것이다."
+			],
+			[
+				33,
+				"이",
+				"JKS",
+				"남자의 허영심과 자만심으로 가득찬 마음이 남자의 거짓된 모습을 게속 유지해준것이다."
+			],
+			[
+				34,
+				"의",
+				"JKG",
+				"남자의 허영심과 자만심으로 가득찬 마음이 남자의 거짓된 모습을 게속 유지해준것이다."
+			],
+			[
+				35,
+				"을",
+				"JKO",
+				"남자의 허영심과 자만심으로 가득찬 마음이 남자의 거짓된 모습을 게속 유지해준것이다."
+			],
+			[
+				36,
+				"에게",
+				"JKB",
+				"친구에게 스페인어의 뜻을 듣고 후회하는 모습을 보며 안타까웠지만 남자의 어리석은 마음이 불러일으켰다고 생각한다 슬픈 소설인것 같다."
+			],
+			[
+				37,
+				"의",
+				"JKG",
+				"친구에게 스페인어의 뜻을 듣고 후회하는 모습을 보며 안타까웠지만 남자의 어리석은 마음이 불러일으켰다고 생각한다 슬픈 소설인것 같다."
+			],
+			[
+				38,
+				"을",
+				"JKO",
+				"친구에게 스페인어의 뜻을 듣고 후회하는 모습을 보며 안타까웠지만 남자의 어리석은 마음이 불러일으켰다고 생각한다 슬픈 소설인것 같다."
+			],
+			[
+				39,
+				"을",
+				"JKO",
+				"친구에게 스페인어의 뜻을 듣고 후회하는 모습을 보며 안타까웠지만 남자의 어리석은 마음이 불러일으켰다고 생각한다 슬픈 소설인것 같다."
+			],
+			[
+				40,
+				"의",
+				"JKG",
+				"친구에게 스페인어의 뜻을 듣고 후회하는 모습을 보며 안타까웠지만 남자의 어리석은 마음이 불러일으켰다고 생각한다 슬픈 소설인것 같다."
+			],
+			[
+				41,
+				"이",
+				"JKS",
+				"친구에게 스페인어의 뜻을 듣고 후회하는 모습을 보며 안타까웠지만 남자의 어리석은 마음이 불러일으켰다고 생각한다 슬픈 소설인것 같다."
+			]
+		],
+		"E_Lst": [
+			[
+				0,
+				"는",
+				"ETM",
+				"주인공 Trysdale이 사랑하는 여자에게 스페인어를 잘한다고 거짓말을했다."
+			],
+			[
+				1,
+				"ㄴ다고",
+				"EC",
+				"주인공 Trysdale이 사랑하는 여자에게 스페인어를 잘한다고 거짓말을했다."
+			],
+			[
+				2,
+				"았",
+				"EP",
+				"주인공 Trysdale이 사랑하는 여자에게 스페인어를 잘한다고 거짓말을했다."
+			],
+			[
+				3,
+				"다",
+				"EF",
+				"주인공 Trysdale이 사랑하는 여자에게 스페인어를 잘한다고 거짓말을했다."
+			],
+			[
+				4,
+				"는",
+				"ETM",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				5,
+				"ㄴ",
+				"ETM",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				6,
+				"았",
+				"EP",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				7,
+				"지만",
+				"EC",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				8,
+				"지",
+				"EC",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				9,
+				"ㄴ",
+				"ETM",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				10,
+				"ㄴ",
+				"ETM",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				11,
+				"고",
+				"EC",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				12,
+				"어",
+				"EC",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				13,
+				"ㄴ다",
+				"EF",
+				"그리고 스페인어를 잘하는줄안 여자는 남자의 프러포즈에 스페인어로 적힌 선인장으로 대답을 대신했지만 스페인어를 제대로알지못한 남자는 자신의 프로포즈가 제대로 안된줄알고 힘들어한다."
+			],
+			[
+				14,
+				"ㄴ",
+				"ETM",
+				"남자의 자만심과 허영심이 가져온것이다."
+			],
+			[
+				15,
+				"다",
+				"EF",
+				"남자의 자만심과 허영심이 가져온것이다."
+			],
+			[
+				16,
+				"지만",
+				"EC",
+				"남자는 후회를 하지만 이미 여자는 다른사람이랑 결혼한다."
+			],
+			[
+				17,
+				"ㄴ다",
+				"EF",
+				"남자는 후회를 하지만 이미 여자는 다른사람이랑 결혼한다."
+			],
+			[
+				18,
+				"면",
+				"EC",
+				"이 남자와 여자의 이야기를 보 고 거짓말을 하면 안된다고 느꼈다."
+			],
+			[
+				19,
+				"ㄴ다고",
+				"EC",
+				"이 남자와 여자의 이야기를 보 고 거짓말을 하면 안된다고 느꼈다."
+			],
+			[
+				20,
+				"었",
+				"EP",
+				"이 남자와 여자의 이야기를 보 고 거짓말을 하면 안된다고 느꼈다."
+			],
+			[
+				21,
+				"다",
+				"EF",
+				"이 남자와 여자의 이야기를 보 고 거짓말을 하면 안된다고 느꼈다."
+			],
+			[
+				22,
+				"면",
+				"EC",
+				"선인장의 스페인어는 ventomarme로 영어로 말하면 come and see me로 와서 나를 데려가줘요이다."
+			],
+			[
+				23,
+				"아서",
+				"EC",
+				"선인장의 스페인어는 ventomarme로 영어로 말하면 come and see me로 와서 나를 데려가줘요이다."
+			],
+			[
+				24,
+				"아",
+				"EC",
+				"선인장의 스페인어는 ventomarme로 영어로 말하면 come and see me로 와서 나를 데려가줘요이다."
+			],
+			[
+				25,
+				"어요",
+				"EF",
+				"선인장의 스페인어는 ventomarme로 영어로 말하면 come and see me로 와서 나를 데려가줘요이다."
+			],
+			[
+				26,
+				"다",
+				"EF",
+				"선인장의 스페인어는 ventomarme로 영어로 말하면 come and see me로 와서 나를 데려가줘요이다."
+			],
+			[
+				27,
+				"ㄴ",
+				"ETM",
+				"남자의 허영심과 자만심으로 가득찬 마음이 남자의 거짓된 모습을 게속 유지해준것이다."
+			],
+			[
+				28,
+				"아",
+				"EC",
+				"남자의 허영심과 자만심으로 가득찬 마음이 남자의 거짓된 모습을 게속 유지해준것이다."
+			],
+			[
+				29,
+				"ㄴ",
+				"ETM",
+				"남자의 허영심과 자만심으로 가득찬 마음이 남자의 거짓된 모습을 게속 유지해준것이다."
+			],
+			[
+				30,
+				"다",
+				"EF",
+				"남자의 허영심과 자만심으로 가득찬 마음이 남자의 거짓된 모습을 게속 유지해준것이다."
+			],
+			[
+				31,
+				"고",
+				"EC",
+				"친구에게 스페인어의 뜻을 듣고 후회하는 모습을 보며 안타까웠지만 남자의 어리석은 마음이 불러일으켰다고 생각한다 슬픈 소설인것 같다."
+			],
+			[
+				32,
+				"는",
+				"ETM",
+				"친구에게 스페인어의 뜻을 듣고 후회하는 모습을 보며 안타까웠지만 남자의 어리석은 마음이 불러일으켰다고 생각한다 슬픈 소설인것 같다."
+			],
+			[
+				33,
+				"며",
+				"EC",
+				"친구에게 스페인어의 뜻을 듣고 후회하는 모습을 보며 안타까웠지만 남자의 어리석은 마음이 불러일으켰다고 생각한다 슬픈 소설인것 같다."
+			],
+			[
+				34,
+				"었",
+				"EP",
+				"친구에게 스페인어의 뜻을 듣고 후회하는 모습을 보며 안타까웠지만 남자의 어리석은 마음이 불러일으켰다고 생각한다 슬픈 소설인것 같다."
+			],
+			[
+				35,
+				"지만",
+				"EC",
+				"친구에게 스페인어의 뜻을 듣고 후회하는 모습을 보며 안타까웠지만 남자의 어리석은 마음이 불러일으켰다고 생각한다 슬픈 소설인것 같다."
+			],
+			[
+				36,
+				"은",
+				"ETM",
+				"친구에게 스페인어의 뜻을 듣고 후회하는 모습을 보며 안타까웠지만 남자의 어리석은 마음이 불러일으켰다고 생각한다 슬픈 소설인것 같다."
+			],
+			[
+				37,
+				"었",
+				"EP",
+				"친구에게 스페인어의 뜻을 듣고 후회하는 모습을 보며 안타까웠지만 남자의 어리석은 마음이 불러일으켰다고 생각한다 슬픈 소설인것 같다."
+			],
+			[
+				38,
+				"다고",
+				"EC",
+				"친구에게 스페인어의 뜻을 듣고 후회하는 모습을 보며 안타까웠지만 남자의 어리석은 마음이 불러일으켰다고 생각한다 슬픈 소설인것 같다."
+			],
+			[
+				39,
+				"ㄴ다",
+				"EF",
+				"친구에게 스페인어의 뜻을 듣고 후회하는 모습을 보며 안타까웠지만 남자의 어리석은 마음이 불러일으켰다고 생각한다 슬픈 소설인것 같다."
+			],
+			[
+				40,
+				"ㄴ",
+				"ETM",
+				"친구에게 스페인어의 뜻을 듣고 후회하는 모습을 보며 안타까웠지만 남자의 어리석은 마음이 불러일으켰다고 생각한다 슬픈 소설인것 같다."
+			],
+			[
+				41,
+				"ㄴ",
+				"ETM",
+				"친구에게 스페인어의 뜻을 듣고 후회하는 모습을 보며 안타까웠지만 남자의 어리석은 마음이 불러일으켰다고 생각한다 슬픈 소설인것 같다."
+			],
+			[
+				42,
+				"다",
+				"EF",
+				"친구에게 스페인어의 뜻을 듣고 후회하는 모습을 보며 안타까웠지만 남자의 어리석은 마음이 불러일으켰다고 생각한다 슬픈 소설인것 같다."
+			]
+		],
+		"X_Lst": [
+			[
+				0,
+				"이",
+				"XSN",
+				"주인공 Trysdale이 사랑하는 여자에게 스페인어를 잘한다고 거짓말을했다."
+			]
+		],
+		"IC_Lst": []
+	},
+	"NDW": {
+		"morph_NDW": 105,
+		"NL_NDW": 52,
+		"NNG_NDW": 38,
+		"NNP_NDW": 9,
+		"NNB_NDW": 4,
+		"NP_NDW": 1,
+		"NR_NDW": 0,
+		"VL_NDW": 38,
+		"VV_NDW": 24,
+		"VA_NDW": 6,
+		"ML_NDW": 7,
+		"MM_NDW": 0,
+		"IC_NDW": 0,
+		"J_NDW": 42,
+		"E_NDW": 43,
+		"X_NDW": 1,
+		"CL_NDW": 97,
+		"FL_NDW": 86
+	}
+}

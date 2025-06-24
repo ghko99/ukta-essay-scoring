@@ -1,0 +1,3462 @@
+﻿{
+	"morpheme": {
+		"sentences": [
+			{
+				"text": {
+					"content": "에세이라는 말에 너무 가볍게 생각한 걸까.",
+					"length": 23,
+					"beginOffset": 0
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "에세이라는",
+							"length": 5,
+							"beginOffset": 0
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "에세이",
+									"length": 3,
+									"beginOffset": 0
+								},
+								"tag": "NNG",
+								"probability": 0.9831208,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 3,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.99996597,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "라는",
+									"beginOffset": 3,
+									"length": 2
+								},
+								"tag": "ETM",
+								"probability": 0.99995613,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "에세이",
+						"tagged": "에세이/NNG+이/VCP+라는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "말에",
+							"beginOffset": 6,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "말",
+									"beginOffset": 6,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.96016216,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 7,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.98017603,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "말",
+						"tagged": "말/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "너무",
+							"beginOffset": 9,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "너무",
+									"beginOffset": 9,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9869907,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "너무",
+						"tagged": "너무/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "가볍게",
+							"beginOffset": 12,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "가볍",
+									"beginOffset": 12,
+									"length": 2
+								},
+								"tag": "VA",
+								"probability": 0.9845943,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "게",
+									"beginOffset": 14,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9936003,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "가볍",
+						"tagged": "가볍/VA+게/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "생각한",
+							"beginOffset": 16,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "생각하",
+									"beginOffset": 16,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.0,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 18,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999865,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "생각하",
+						"tagged": "생각하/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "걸까.",
+							"beginOffset": 20,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "거",
+									"beginOffset": 20,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.96958494,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 20,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.9995717,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ까",
+									"beginOffset": 20,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.99026906,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 22,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9997704,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "거",
+						"tagged": "거/NNB+이/VCP+ㄹ까/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "에세이라는 말에 너무 가볍게 생각한 걸까."
+			},
+			{
+				"text": {
+					"content": "물리학에 관한 전문적인 내용도 내용이지만 과학, 특히 저자의 전문 분야인 이론 물리학에 문외한 독자를 고려한 친절한 내용은 아니다.",
+					"beginOffset": 24,
+					"length": 73
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "물리학에",
+							"beginOffset": 24,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "물리학",
+									"beginOffset": 24,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.98228335,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 27,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.98883706,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "물리학",
+						"tagged": "물리학/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "관한",
+							"beginOffset": 29,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "관하",
+									"beginOffset": 29,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9881741,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 30,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999682,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "관하",
+						"tagged": "관하/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "전문적인",
+							"beginOffset": 32,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "전문",
+									"beginOffset": 32,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9820644,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "적",
+									"beginOffset": 34,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.99228835,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 35,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.99991614,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 35,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999798,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "전문",
+						"tagged": "전문/NNG+적/XSN+이/VCP+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "내용도",
+							"beginOffset": 37,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "내용",
+									"beginOffset": 37,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98552334,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 39,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99956,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "내용",
+						"tagged": "내용/NNG+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "내용이지만",
+							"beginOffset": 41,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "내용",
+									"beginOffset": 41,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98468834,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 43,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.9999545,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "지만",
+									"beginOffset": 44,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99251664,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "내용",
+						"tagged": "내용/NNG+이/VCP+지만/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "과학,",
+							"beginOffset": 47,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "과학",
+									"beginOffset": 47,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97554076,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 49,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.9991083,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "과학",
+						"tagged": "과학/NNG+,/SP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "특히",
+							"beginOffset": 51,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "특히",
+									"beginOffset": 51,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.98601955,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "특히",
+						"tagged": "특히/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "저자의",
+							"beginOffset": 54,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "저자",
+									"beginOffset": 54,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.983497,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 56,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9997766,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "저자",
+						"tagged": "저자/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "전문",
+							"beginOffset": 58,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "전문",
+									"beginOffset": 58,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97989404,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "전문",
+						"tagged": "전문/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "분야인",
+							"beginOffset": 61,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "분야",
+									"beginOffset": 61,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9817886,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 63,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.99992466,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 63,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9998919,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "분야",
+						"tagged": "분야/NNG+이/VCP+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이론",
+							"beginOffset": 65,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이론",
+									"beginOffset": 65,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9789607,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이론",
+						"tagged": "이론/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "물리학에",
+							"beginOffset": 68,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "물리학",
+									"beginOffset": 68,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9827954,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 71,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.94075847,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "물리학",
+						"tagged": "물리학/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "문외한",
+							"beginOffset": 73,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "문외",
+									"beginOffset": 73,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.53140444,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 75,
+									"length": 1
+								},
+								"tag": "XSA",
+								"probability": 0.9303619,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 75,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999531,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "문외",
+						"tagged": "문외/NNG+하/XSA+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "독자를",
+							"beginOffset": 77,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "독자",
+									"beginOffset": 77,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98509365,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 79,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999251,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "독자",
+						"tagged": "독자/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "고려한",
+							"beginOffset": 81,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "고려하",
+									"beginOffset": 81,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 83,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999536,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "고려하",
+						"tagged": "고려하/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "친절한",
+							"beginOffset": 85,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "친절하",
+									"beginOffset": 85,
+									"length": 3
+								},
+								"tag": "VA",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 87,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99997956,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "친절하",
+						"tagged": "친절하/VA+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "내용은",
+							"beginOffset": 89,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "내용",
+									"beginOffset": 89,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98470366,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 91,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99883175,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "내용",
+						"tagged": "내용/NNG+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "아니다.",
+							"beginOffset": 93,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "아니",
+									"beginOffset": 93,
+									"length": 2
+								},
+								"tag": "VCN",
+								"probability": 0.9997477,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 95,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.99326664,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 96,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99973154,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "아니",
+						"tagged": "아니/VCN+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "물리학에 관한 전문적인 내용도 내용이지만 과학, 특히 저자의 전문 분야인 이론 물리학에 문외한 독자를 고려한 친절한 내용은 아니다."
+			},
+			{
+				"text": {
+					"content": "게다가 다소 정치적 신념이나 견해가 많다.",
+					"beginOffset": 98,
+					"length": 23
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "게다가",
+							"beginOffset": 98,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "게다가",
+									"beginOffset": 98,
+									"length": 3
+								},
+								"tag": "MAG",
+								"probability": 0.9799664,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "게다가",
+						"tagged": "게다가/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "다소",
+							"beginOffset": 102,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "다소",
+									"beginOffset": 102,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9851431,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "다소",
+						"tagged": "다소/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "정치적",
+							"beginOffset": 105,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "정치",
+									"beginOffset": 105,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98522806,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "적",
+									"beginOffset": 107,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.9840088,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "정치",
+						"tagged": "정치/NNG+적/XSN",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "신념이나",
+							"beginOffset": 109,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "신념",
+									"beginOffset": 109,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98504925,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이나",
+									"beginOffset": 111,
+									"length": 2
+								},
+								"tag": "JC",
+								"probability": 0.95163924,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "신념",
+						"tagged": "신념/NNG+이나/JC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "견해가",
+							"beginOffset": 114,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "견해",
+									"beginOffset": 114,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98265815,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 116,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.99344593,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "견해",
+						"tagged": "견해/NNG+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "많다.",
+							"beginOffset": 118,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "많",
+									"beginOffset": 118,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9872092,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 119,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.99284554,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 120,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99917793,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "많",
+						"tagged": "많/VA+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "게다가 다소 정치적 신념이나 견해가 많다."
+			},
+			{
+				"text": {
+					"content": "내용 자체도 무거운데 번역(뜬금없는 하마 한 마리라니) 역시 전문적이고 딱딱해 자주 책장을 덮어야 했다.",
+					"beginOffset": 122,
+					"length": 58
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "내용",
+							"beginOffset": 122,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "내용",
+									"beginOffset": 122,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98535514,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "내용",
+						"tagged": "내용/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "자체도",
+							"beginOffset": 125,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "자체",
+									"beginOffset": 125,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9804861,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 127,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9988877,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "자체",
+						"tagged": "자체/NNG+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "무거운데",
+							"beginOffset": 129,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "무겁",
+									"beginOffset": 129,
+									"length": 2
+								},
+								"tag": "VA",
+								"probability": 0.983719,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ데",
+									"beginOffset": 131,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9888574,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "무겁",
+						"tagged": "무겁/VA+ㄴ데/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "번역(뜬금없는",
+							"beginOffset": 134,
+							"length": 7
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "번역",
+									"beginOffset": 134,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97367907,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "(",
+									"beginOffset": 136,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.99992234,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "뜬금없",
+									"beginOffset": 137,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.5967192,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 140,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99998003,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "번역",
+						"tagged": "번역/NNG+(/SS+뜬금없/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "하마",
+							"beginOffset": 142,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하마",
+									"beginOffset": 142,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9819217,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하마",
+						"tagged": "하마/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "한",
+							"beginOffset": 145,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "한",
+									"beginOffset": 145,
+									"length": 1
+								},
+								"tag": "MMN",
+								"probability": 0.9994435,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "한",
+						"tagged": "한/MMN",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "마리라니",
+							"beginOffset": 147,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "마리",
+									"beginOffset": 147,
+									"length": 2
+								},
+								"tag": "NNB",
+								"probability": 0.9657659,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 149,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.99974734,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "라니",
+									"beginOffset": 149,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.8856291,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "마리",
+						"tagged": "마리/NNB+이/VCP+라니/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": ")",
+							"beginOffset": 151,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": ")",
+									"beginOffset": 151,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.99996835,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": ")",
+						"tagged": ")/SS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "역시",
+							"beginOffset": 153,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "역시",
+									"beginOffset": 153,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.99285346,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "역시",
+						"tagged": "역시/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "전문적이고",
+							"beginOffset": 156,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "전문",
+									"beginOffset": 156,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98287404,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "적",
+									"beginOffset": 158,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.9909595,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 159,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.99973375,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 160,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9880899,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "전문",
+						"tagged": "전문/NNG+적/XSN+이/VCP+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "딱딱해",
+							"beginOffset": 162,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "딱딱하",
+									"beginOffset": 162,
+									"length": 3
+								},
+								"tag": "VA",
+								"probability": 0.98124915,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 164,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99171084,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "딱딱하",
+						"tagged": "딱딱하/VA+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "자주",
+							"beginOffset": 166,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "자주",
+									"beginOffset": 166,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9884987,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "자주",
+						"tagged": "자주/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "책장을",
+							"beginOffset": 169,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "책장",
+									"beginOffset": 169,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.984342,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 171,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999727,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "책장",
+						"tagged": "책장/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "덮어야",
+							"beginOffset": 173,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "덮",
+									"beginOffset": 173,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9893328,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어야",
+									"beginOffset": 174,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9938977,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "덮",
+						"tagged": "덮/VV+어야/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "했다.",
+							"beginOffset": 177,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 177,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.46377417,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 177,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9998562,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 178,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9896671,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 179,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9996959,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VV+았/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "내용 자체도 무거운데 번역(뜬금없는 하마 한 마리라니 ) 역시 전문적이고 딱딱해 자주 책장을 덮어야 했다."
+			},
+			{
+				"text": {
+					"content": "과학적 지식이 없는 내게는 우주는 과연 먼 이야기일 뿐일지도 모르겠다.",
+					"beginOffset": 181,
+					"length": 39
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "과학적",
+							"beginOffset": 181,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "과학",
+									"beginOffset": 181,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9803499,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "적",
+									"beginOffset": 183,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.9903409,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "과학",
+						"tagged": "과학/NNG+적/XSN",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "지식이",
+							"beginOffset": 185,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "지식",
+									"beginOffset": 185,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9802754,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 187,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9814471,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "지식",
+						"tagged": "지식/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "없는",
+							"beginOffset": 189,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "없",
+									"beginOffset": 189,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.98941815,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 190,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999222,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "없",
+						"tagged": "없/VA+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "내게는",
+							"beginOffset": 192,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "나",
+									"beginOffset": 192,
+									"length": 1
+								},
+								"tag": "NP",
+								"probability": 0.97638005,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에게",
+									"beginOffset": 192,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.99672604,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 194,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9992868,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "나",
+						"tagged": "나/NP+에게/JKB+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "우주는",
+							"beginOffset": 196,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "우주",
+									"beginOffset": 196,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9815349,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 198,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9985404,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "우주",
+						"tagged": "우주/NNG+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "과연",
+							"beginOffset": 200,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "과연",
+									"beginOffset": 200,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9921086,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "과연",
+						"tagged": "과연/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "먼",
+							"beginOffset": 203,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "멀",
+									"beginOffset": 203,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9873573,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 203,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99999136,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "멀",
+						"tagged": "멀/VA+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이야기일",
+							"beginOffset": 205,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이야기",
+									"beginOffset": 205,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.98604554,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 208,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.99988973,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ",
+									"beginOffset": 208,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9998837,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이야기",
+						"tagged": "이야기/NNG+이/VCP+ㄹ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "뿐일지도",
+							"beginOffset": 210,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "뿐",
+									"beginOffset": 210,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.97898304,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 211,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.9998783,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ지",
+									"beginOffset": 211,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.7661292,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 213,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99944055,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "뿐",
+						"tagged": "뿐/NNB+이/VCP+ㄹ지/EF+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "모르겠다.",
+							"beginOffset": 215,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "모르",
+									"beginOffset": 215,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9890536,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "겠",
+									"beginOffset": 217,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99824184,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 218,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9916162,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 219,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9997066,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "모르",
+						"tagged": "모르/VV+겠/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "과학적 지식이 없는 내게는 우주는 과연 먼 이야기일 뿐일지도 모르겠다."
+			}
+		],
+		"language": "ko_KR"
+	},
+	"ttr": {
+		"lemma_Cnt": 112,
+		"lemma_TTR": 0.6583333333333333,
+		"CL_TTR": 0.7619047619047619,
+		"NL_TTR": 0.78125,
+		"NN_TTR": 0.7741935483870968,
+		"NNG_TTR": 0.75,
+		"NNP_TTR": 0,
+		"NNB_TTR": 1.0,
+		"NP_TTR": 1.0,
+		"NR_TTR": 0,
+		"VL_TTR": 0.6666666666666666,
+		"VV_TTR": 1.0,
+		"VA_TTR": 1.0,
+		"ML_TTR": 1.0,
+		"MM_TTR": 0,
+		"MA_TTR": 1.0,
+		"MAJ_TTR": 0,
+		"IC_TTR": 0,
+		"FL_TTR": 0.5833333333333334,
+		"J_TTR": 0.6875,
+		"E_TTR": 0.5925925925925926,
+		"X_TTR": 0.4,
+		"lemma_RTTR": 7.211680340484687,
+		"CL_RTTR": 6.047431568147635,
+		"NL_RTTR": 4.419417382415921,
+		"NN_RTTR": 4.310527248642598,
+		"NNG_RTTR": 3.9686269665968856,
+		"NNP_RTTR": 0,
+		"NNB_RTTR": 1.7320508075688774,
+		"NP_RTTR": 1.0,
+		"NR_RTTR": 0,
+		"VL_RTTR": 3.2659863237109046,
+		"VV_RTTR": 2.6457513110645903,
+		"VA_RTTR": 2.6457513110645903,
+		"ML_RTTR": 2.6457513110645903,
+		"MM_RTTR": 0,
+		"MA_RTTR": 2.6457513110645903,
+		"MAJ_RTTR": 0,
+		"IC_RTTR": 0,
+		"FL_RTTR": 4.041451884327381,
+		"J_RTTR": 2.75,
+		"E_RTTR": 3.079201435678004,
+		"X_RTTR": 0.8944271909999159,
+		"lemma_CTTR": 5.0994280725064325,
+		"CL_CTTR": 4.27617987059879,
+		"NL_CTTR": 3.125,
+		"NN_CTTR": 3.048003048004572,
+		"NNG_CTTR": 2.806243040080456,
+		"NNP_CTTR": 0,
+		"NNB_CTTR": 1.2247448713915892,
+		"NP_CTTR": 0.7071067811865475,
+		"NR_CTTR": 0,
+		"VL_CTTR": 2.3094010767585034,
+		"VV_CTTR": 1.8708286933869707,
+		"VA_CTTR": 1.8708286933869707,
+		"ML_CTTR": 1.8708286933869707,
+		"MM_CTTR": 0,
+		"MA_CTTR": 1.8708286933869707,
+		"MAJ_CTTR": 0,
+		"IC_CTTR": 0,
+		"FL_CTTR": 2.8577380332470415,
+		"J_CTTR": 1.9445436482630056,
+		"E_CTTR": 2.1773242158072694,
+		"X_CTTR": 0.6324555320336759,
+		"lemma_MSTTR": 0.76,
+		"CL_MSTTR": 0.76,
+		"NL_MSTTR": 0.78125,
+		"NN_MSTTR": 0.7741935483870968,
+		"NNG_MSTTR": 0.75,
+		"NNP_MSTTR": 0,
+		"NNB_MSTTR": 1.0,
+		"NP_MSTTR": 1.0,
+		"NR_MSTTR": 0,
+		"VL_MSTTR": 0.6666666666666666,
+		"VV_MSTTR": 1.0,
+		"VA_MSTTR": 1.0,
+		"ML_MSTTR": 1.0,
+		"MM_MSTTR": 0,
+		"MA_MSTTR": 1.0,
+		"MAJ_MSTTR": 0,
+		"IC_MSTTR": 0,
+		"FL_MSTTR": 0.5833333333333334,
+		"J_MSTTR": 0.6875,
+		"E_MSTTR": 0.5925925925925926,
+		"X_MSTTR": 0.4,
+		"lemma_MATTR": 0.7997183098591556,
+		"CL_MATTR": 0.7757142857142858,
+		"NL_MATTR": 0.78125,
+		"NN_MATTR": 0.7741935483870968,
+		"NNG_MATTR": 0.75,
+		"NNP_MATTR": 0,
+		"NNB_MATTR": 1.0,
+		"NP_MATTR": 1.0,
+		"NR_MATTR": 0,
+		"VL_MATTR": 0.6666666666666666,
+		"VV_MATTR": 1.0,
+		"VA_MATTR": 1.0,
+		"ML_MATTR": 1.0,
+		"MM_MATTR": 0,
+		"MA_MATTR": 1.0,
+		"MAJ_MATTR": 0,
+		"IC_MATTR": 0,
+		"FL_MATTR": 0.5833333333333334,
+		"J_MATTR": 0.6875,
+		"E_MATTR": 0.5925925925925926,
+		"X_MATTR": 0.4,
+		"lemma_MTLD": 65.74030999326102,
+		"CL_MTLD": 60.54907614213198,
+		"NL_MTLD": 40.96000000000001,
+		"NN_MTLD": 38.440000000000005,
+		"NNG_MTLD": 31.360000000000003,
+		"NNP_MTLD": 0.0,
+		"NNB_MTLD": 0.0,
+		"NP_MTLD": 0.0,
+		"NR_MTLD": 0.0,
+		"VL_MTLD": 12.737081800665617,
+		"VV_MTLD": 0.0,
+		"VA_MTLD": 0.0,
+		"ML_MTLD": 0.0,
+		"MM_MTLD": 0.0,
+		"MA_MTLD": 0.0,
+		"MAJ_MTLD": 0.0,
+		"IC_MTLD": 0.0,
+		"FL_MTLD": 15.945945945945947,
+		"J_MTLD": 12.182925373134331,
+		"E_MTLD": 11.596153846153847,
+		"X_MTLD": 2.3333333333333335,
+		"lemma_VOCDD": 62.61391870146358,
+		"CL_VOCDD": 65.3938357916029,
+		"NL_VOCDD": 0,
+		"NN_VOCDD": 0,
+		"NNG_VOCDD": 0,
+		"NNP_VOCDD": 0,
+		"NNB_VOCDD": 0,
+		"NP_VOCDD": 0,
+		"NR_VOCDD": 0,
+		"VL_VOCDD": 0,
+		"VV_VOCDD": 0,
+		"VA_VOCDD": 0,
+		"ML_VOCDD": 0,
+		"MM_VOCDD": 0,
+		"MA_VOCDD": 0,
+		"MAJ_VOCDD": 0,
+		"IC_VOCDD": 0,
+		"FL_VOCDD": 0,
+		"J_VOCDD": 0,
+		"E_VOCDD": 0,
+		"X_VOCDD": 0,
+		"lemma_HDD": 0.7900350221292839,
+		"CL_HDD": 0.7954300216849365,
+		"NL_HDD": 0.0,
+		"NN_HDD": 0.0,
+		"NNG_HDD": 0.0,
+		"NNP_HDD": 0.0,
+		"NNB_HDD": 0.0,
+		"NP_HDD": 0.0,
+		"NR_HDD": 0.0,
+		"VL_HDD": 0.0,
+		"VV_HDD": 0.0,
+		"VA_HDD": 0.0,
+		"ML_HDD": 0.0,
+		"MM_HDD": 0.0,
+		"MA_HDD": 0.0,
+		"MAJ_HDD": 0.0,
+		"IC_HDD": 0.0,
+		"FL_HDD": 0.6011299061715343,
+		"J_HDD": 0.0,
+		"E_HDD": 0.0,
+		"X_HDD": 0.0
+	},
+	"similarity": {
+		"avgSentSimilarity": 0.30232691764831543,
+		"topicConsistency": 0.5038
+	},
+	"adjacency": {
+		"adjacent_sentence_overlap_all_lemmas": 75,
+		"adjacent_sentence_overlap_all_lemmas_normed": 4,
+		"binary_adjacent_sentence_overlap_all_lemmas": 4,
+		"adjacent_two_sentence_overlap_all_lemmas": 32,
+		"adjacent_two_sentence_overlap_all_lemmas_normed": 3,
+		"binary_adjacent_two_sentence_overlap_all_lemmas": 3,
+		"adjacent_sentence_overlap_content_lemmas": 47,
+		"adjacent_sentence_overlap_content_lemmas_normed": 4,
+		"binary_adjacent_sentence_overlap_content_lemmas": 2,
+		"adjacent_two_sentence_overlap_content_lemmas": 23,
+		"adjacent_two_sentence_overlap_content_lemmas_normed": 3,
+		"binary_adjacent_two_sentence_overlap_content_lemmas": 0,
+		"adjacent_sentence_overlap_function_lemmas": 21,
+		"adjacent_sentence_overlap_function_lemmas_normed": 4,
+		"binary_adjacent_sentence_overlap_function_lemmas": 4,
+		"adjacent_two_sentence_overlap_function_lemmas": 4,
+		"adjacent_two_sentence_overlap_function_lemmas_normed": 3,
+		"binary_adjacent_two_sentence_overlap_function_lemmas": 2,
+		"adjacent_sentence_overlap_noun_lemmas": 30,
+		"adjacent_sentence_overlap_noun_lemmas_normed": 4,
+		"binary_adjacent_sentence_overlap_noun_lemmas": 3,
+		"adjacent_two_sentence_overlap_noun_lemmas": 15,
+		"adjacent_two_sentence_overlap_noun_lemmas_normed": 3,
+		"binary_adjacent_two_sentence_overlap_noun_lemmas": 2,
+		"adjacent_sentence_overlap_verb_lemmas": 14,
+		"adjacent_sentence_overlap_verb_lemmas_normed": 4,
+		"binary_adjacent_sentence_overlap_verb_lemmas": 2,
+		"adjacent_two_sentence_overlap_verb_lemmas": 5,
+		"adjacent_two_sentence_overlap_verb_lemmas_normed": 3,
+		"binary_adjacent_two_sentence_overlap_verb_lemmas": 0,
+		"adjacent_sentence_overlap_adjective_lemmas": 6,
+		"adjacent_sentence_overlap_adjective_lemmas_normed": 4,
+		"binary_adjacent_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas": 5,
+		"adjacent_two_sentence_overlap_adjective_lemmas_normed": 3,
+		"binary_adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_sentence_overlap_adverb_lemmas": 6,
+		"adjacent_sentence_overlap_adverb_lemmas_normed": 4,
+		"binary_adjacent_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas": 5,
+		"adjacent_two_sentence_overlap_adverb_lemmas_normed": 3,
+		"binary_adjacent_two_sentence_overlap_adverb_lemmas": 0
+	},
+	"basic_count": {
+		"para_Cnt": 1,
+		"sentence_Cnt": 5,
+		"word_Cnt": 54,
+		"morph_Cnt": 120,
+		"char_Cnt": 175,
+		"CL_Cnt": 63,
+		"NL_Cnt": 32,
+		"NN_Cnt": 31,
+		"NNG_Cnt": 28,
+		"NNP_Cnt": 0,
+		"NNB_Cnt": 3,
+		"NP_Cnt": 1,
+		"NP_People_Cnt": 1,
+		"NP_Things_Cnt": 0,
+		"NR_Cnt": 0,
+		"VL_Cnt": 24,
+		"VV_Cnt": 7,
+		"VA_Cnt": 7,
+		"VX_Cnt": 0,
+		"VCP_Cnt": 9,
+		"VCN_Cnt": 1,
+		"ML_Cnt": 7,
+		"MA_Cnt": 0,
+		"MM_Cnt": 0,
+		"FL_Cnt": 48,
+		"J_Cnt": 16,
+		"E_Cnt": 27,
+		"X_Cnt": 5,
+		"IC_Cnt": 0
+	},
+	"basic_density": {
+		"CL_Den": 0.525,
+		"FL_Den": 0.4,
+		"NL_Den": 0.25833333333333336,
+		"NNGL_Den": 0.23333333333333334,
+		"NNPL_Den": 0.0,
+		"NNBL_Den": 0.025,
+		"NPL_Den": 0.008333333333333333,
+		"NML_Den": 0.0,
+		"VL_Den": 0.2,
+		"VVL_Den": 0.058333333333333334,
+		"VAL_Den": 0.058333333333333334,
+		"ML_Den": 0.058333333333333334,
+		"MML_Den": 0.0,
+		"MAL_Den": 0.0,
+		"JL_Den": 0.13333333333333333,
+		"EL_Den": 0.225,
+		"XL_Den": 0.041666666666666664,
+		"ITL_Den": 0.0,
+		"NCL_Den": 0.49206349206349204,
+		"NNCL_Den": 0.4444444444444444,
+		"NNGCL_Den": 0.0,
+		"NNBCL_Den": 0.047619047619047616,
+		"NPCL_Den": 0.015873015873015872,
+		"NMCL_Den": 0.0,
+		"VCL_Den": 0.38095238095238093,
+		"VVCL_Den": 0.1111111111111111,
+		"VACL_Den": 0.1111111111111111,
+		"MCL_Den": 0.1111111111111111,
+		"MMCL_Den": 0.0,
+		"MACL_Den": 0.0,
+		"INCL_Den": 0.0,
+		"JFL_Den": 0.3333333333333333,
+		"EFL_Den": 0.5625,
+		"XFL_Den": 0.10416666666666667
+	},
+	"basic_level": {
+		"morph_LenAvg": 1.5333333333333334,
+		"morph_LenStd": 0.6446359868604574,
+		"word_LenAvg": 2.9444444444444446,
+		"word_LenStd": 1.0076865081787252
+	},
+	"basic_list": {
+		"NL_Lst": [
+			[
+				0,
+				"에세이",
+				"NNG",
+				"에세이라는 말에 너무 가볍게 생각한 걸까."
+			],
+			[
+				1,
+				"말",
+				"NNG",
+				"에세이라는 말에 너무 가볍게 생각한 걸까."
+			],
+			[
+				2,
+				"거",
+				"NNB",
+				"에세이라는 말에 너무 가볍게 생각한 걸까."
+			],
+			[
+				3,
+				"물리학",
+				"NNG",
+				"물리학에 관한 전문적인 내용도 내용이지만 과학, 특히 저자의 전문 분야인 이론 물리학에 문외한 독자를 고려한 친절한 내용은 아니다."
+			],
+			[
+				4,
+				"전문",
+				"NNG",
+				"물리학에 관한 전문적인 내용도 내용이지만 과학, 특히 저자의 전문 분야인 이론 물리학에 문외한 독자를 고려한 친절한 내용은 아니다."
+			],
+			[
+				5,
+				"내용",
+				"NNG",
+				"물리학에 관한 전문적인 내용도 내용이지만 과학, 특히 저자의 전문 분야인 이론 물리학에 문외한 독자를 고려한 친절한 내용은 아니다."
+			],
+			[
+				6,
+				"내용",
+				"NNG",
+				"물리학에 관한 전문적인 내용도 내용이지만 과학, 특히 저자의 전문 분야인 이론 물리학에 문외한 독자를 고려한 친절한 내용은 아니다."
+			],
+			[
+				7,
+				"과학",
+				"NNG",
+				"물리학에 관한 전문적인 내용도 내용이지만 과학, 특히 저자의 전문 분야인 이론 물리학에 문외한 독자를 고려한 친절한 내용은 아니다."
+			],
+			[
+				8,
+				"저자",
+				"NNG",
+				"물리학에 관한 전문적인 내용도 내용이지만 과학, 특히 저자의 전문 분야인 이론 물리학에 문외한 독자를 고려한 친절한 내용은 아니다."
+			],
+			[
+				9,
+				"전문",
+				"NNG",
+				"물리학에 관한 전문적인 내용도 내용이지만 과학, 특히 저자의 전문 분야인 이론 물리학에 문외한 독자를 고려한 친절한 내용은 아니다."
+			],
+			[
+				10,
+				"분야",
+				"NNG",
+				"물리학에 관한 전문적인 내용도 내용이지만 과학, 특히 저자의 전문 분야인 이론 물리학에 문외한 독자를 고려한 친절한 내용은 아니다."
+			],
+			[
+				11,
+				"이론",
+				"NNG",
+				"물리학에 관한 전문적인 내용도 내용이지만 과학, 특히 저자의 전문 분야인 이론 물리학에 문외한 독자를 고려한 친절한 내용은 아니다."
+			],
+			[
+				12,
+				"물리학",
+				"NNG",
+				"물리학에 관한 전문적인 내용도 내용이지만 과학, 특히 저자의 전문 분야인 이론 물리학에 문외한 독자를 고려한 친절한 내용은 아니다."
+			],
+			[
+				13,
+				"문외",
+				"NNG",
+				"물리학에 관한 전문적인 내용도 내용이지만 과학, 특히 저자의 전문 분야인 이론 물리학에 문외한 독자를 고려한 친절한 내용은 아니다."
+			],
+			[
+				14,
+				"독자",
+				"NNG",
+				"물리학에 관한 전문적인 내용도 내용이지만 과학, 특히 저자의 전문 분야인 이론 물리학에 문외한 독자를 고려한 친절한 내용은 아니다."
+			],
+			[
+				15,
+				"내용",
+				"NNG",
+				"물리학에 관한 전문적인 내용도 내용이지만 과학, 특히 저자의 전문 분야인 이론 물리학에 문외한 독자를 고려한 친절한 내용은 아니다."
+			],
+			[
+				16,
+				"정치",
+				"NNG",
+				"게다가 다소 정치적 신념이나 견해가 많다."
+			],
+			[
+				17,
+				"신념",
+				"NNG",
+				"게다가 다소 정치적 신념이나 견해가 많다."
+			],
+			[
+				18,
+				"견해",
+				"NNG",
+				"게다가 다소 정치적 신념이나 견해가 많다."
+			],
+			[
+				19,
+				"내용",
+				"NNG",
+				"내용 자체도 무거운데 번역(뜬금없는 하마 한 마리라니) 역시 전문적이고 딱딱해 자주 책장을 덮어야 했다."
+			],
+			[
+				20,
+				"자체",
+				"NNG",
+				"내용 자체도 무거운데 번역(뜬금없는 하마 한 마리라니) 역시 전문적이고 딱딱해 자주 책장을 덮어야 했다."
+			],
+			[
+				21,
+				"번역",
+				"NNG",
+				"내용 자체도 무거운데 번역(뜬금없는 하마 한 마리라니) 역시 전문적이고 딱딱해 자주 책장을 덮어야 했다."
+			],
+			[
+				22,
+				"하마",
+				"NNG",
+				"내용 자체도 무거운데 번역(뜬금없는 하마 한 마리라니) 역시 전문적이고 딱딱해 자주 책장을 덮어야 했다."
+			],
+			[
+				23,
+				"마리",
+				"NNB",
+				"내용 자체도 무거운데 번역(뜬금없는 하마 한 마리라니) 역시 전문적이고 딱딱해 자주 책장을 덮어야 했다."
+			],
+			[
+				24,
+				"전문",
+				"NNG",
+				"내용 자체도 무거운데 번역(뜬금없는 하마 한 마리라니) 역시 전문적이고 딱딱해 자주 책장을 덮어야 했다."
+			],
+			[
+				25,
+				"책장",
+				"NNG",
+				"내용 자체도 무거운데 번역(뜬금없는 하마 한 마리라니) 역시 전문적이고 딱딱해 자주 책장을 덮어야 했다."
+			],
+			[
+				26,
+				"과학",
+				"NNG",
+				"과학적 지식이 없는 내게는 우주는 과연 먼 이야기일 뿐일지도 모르겠다."
+			],
+			[
+				27,
+				"지식",
+				"NNG",
+				"과학적 지식이 없는 내게는 우주는 과연 먼 이야기일 뿐일지도 모르겠다."
+			],
+			[
+				28,
+				"나",
+				"NP",
+				"과학적 지식이 없는 내게는 우주는 과연 먼 이야기일 뿐일지도 모르겠다."
+			],
+			[
+				29,
+				"우주",
+				"NNG",
+				"과학적 지식이 없는 내게는 우주는 과연 먼 이야기일 뿐일지도 모르겠다."
+			],
+			[
+				30,
+				"이야기",
+				"NNG",
+				"과학적 지식이 없는 내게는 우주는 과연 먼 이야기일 뿐일지도 모르겠다."
+			],
+			[
+				31,
+				"뿐",
+				"NNB",
+				"과학적 지식이 없는 내게는 우주는 과연 먼 이야기일 뿐일지도 모르겠다."
+			]
+		],
+		"NN_Lst": [
+			[
+				0,
+				"에세이",
+				"NNG",
+				"에세이라는 말에 너무 가볍게 생각한 걸까."
+			],
+			[
+				1,
+				"말",
+				"NNG",
+				"에세이라는 말에 너무 가볍게 생각한 걸까."
+			],
+			[
+				2,
+				"거",
+				"NNB",
+				"에세이라는 말에 너무 가볍게 생각한 걸까."
+			],
+			[
+				3,
+				"물리학",
+				"NNG",
+				"물리학에 관한 전문적인 내용도 내용이지만 과학, 특히 저자의 전문 분야인 이론 물리학에 문외한 독자를 고려한 친절한 내용은 아니다."
+			],
+			[
+				4,
+				"전문",
+				"NNG",
+				"물리학에 관한 전문적인 내용도 내용이지만 과학, 특히 저자의 전문 분야인 이론 물리학에 문외한 독자를 고려한 친절한 내용은 아니다."
+			],
+			[
+				5,
+				"내용",
+				"NNG",
+				"물리학에 관한 전문적인 내용도 내용이지만 과학, 특히 저자의 전문 분야인 이론 물리학에 문외한 독자를 고려한 친절한 내용은 아니다."
+			],
+			[
+				6,
+				"내용",
+				"NNG",
+				"물리학에 관한 전문적인 내용도 내용이지만 과학, 특히 저자의 전문 분야인 이론 물리학에 문외한 독자를 고려한 친절한 내용은 아니다."
+			],
+			[
+				7,
+				"과학",
+				"NNG",
+				"물리학에 관한 전문적인 내용도 내용이지만 과학, 특히 저자의 전문 분야인 이론 물리학에 문외한 독자를 고려한 친절한 내용은 아니다."
+			],
+			[
+				8,
+				"저자",
+				"NNG",
+				"물리학에 관한 전문적인 내용도 내용이지만 과학, 특히 저자의 전문 분야인 이론 물리학에 문외한 독자를 고려한 친절한 내용은 아니다."
+			],
+			[
+				9,
+				"전문",
+				"NNG",
+				"물리학에 관한 전문적인 내용도 내용이지만 과학, 특히 저자의 전문 분야인 이론 물리학에 문외한 독자를 고려한 친절한 내용은 아니다."
+			],
+			[
+				10,
+				"분야",
+				"NNG",
+				"물리학에 관한 전문적인 내용도 내용이지만 과학, 특히 저자의 전문 분야인 이론 물리학에 문외한 독자를 고려한 친절한 내용은 아니다."
+			],
+			[
+				11,
+				"이론",
+				"NNG",
+				"물리학에 관한 전문적인 내용도 내용이지만 과학, 특히 저자의 전문 분야인 이론 물리학에 문외한 독자를 고려한 친절한 내용은 아니다."
+			],
+			[
+				12,
+				"물리학",
+				"NNG",
+				"물리학에 관한 전문적인 내용도 내용이지만 과학, 특히 저자의 전문 분야인 이론 물리학에 문외한 독자를 고려한 친절한 내용은 아니다."
+			],
+			[
+				13,
+				"문외",
+				"NNG",
+				"물리학에 관한 전문적인 내용도 내용이지만 과학, 특히 저자의 전문 분야인 이론 물리학에 문외한 독자를 고려한 친절한 내용은 아니다."
+			],
+			[
+				14,
+				"독자",
+				"NNG",
+				"물리학에 관한 전문적인 내용도 내용이지만 과학, 특히 저자의 전문 분야인 이론 물리학에 문외한 독자를 고려한 친절한 내용은 아니다."
+			],
+			[
+				15,
+				"내용",
+				"NNG",
+				"물리학에 관한 전문적인 내용도 내용이지만 과학, 특히 저자의 전문 분야인 이론 물리학에 문외한 독자를 고려한 친절한 내용은 아니다."
+			],
+			[
+				16,
+				"정치",
+				"NNG",
+				"게다가 다소 정치적 신념이나 견해가 많다."
+			],
+			[
+				17,
+				"신념",
+				"NNG",
+				"게다가 다소 정치적 신념이나 견해가 많다."
+			],
+			[
+				18,
+				"견해",
+				"NNG",
+				"게다가 다소 정치적 신념이나 견해가 많다."
+			],
+			[
+				19,
+				"내용",
+				"NNG",
+				"내용 자체도 무거운데 번역(뜬금없는 하마 한 마리라니) 역시 전문적이고 딱딱해 자주 책장을 덮어야 했다."
+			],
+			[
+				20,
+				"자체",
+				"NNG",
+				"내용 자체도 무거운데 번역(뜬금없는 하마 한 마리라니) 역시 전문적이고 딱딱해 자주 책장을 덮어야 했다."
+			],
+			[
+				21,
+				"번역",
+				"NNG",
+				"내용 자체도 무거운데 번역(뜬금없는 하마 한 마리라니) 역시 전문적이고 딱딱해 자주 책장을 덮어야 했다."
+			],
+			[
+				22,
+				"하마",
+				"NNG",
+				"내용 자체도 무거운데 번역(뜬금없는 하마 한 마리라니) 역시 전문적이고 딱딱해 자주 책장을 덮어야 했다."
+			],
+			[
+				23,
+				"마리",
+				"NNB",
+				"내용 자체도 무거운데 번역(뜬금없는 하마 한 마리라니) 역시 전문적이고 딱딱해 자주 책장을 덮어야 했다."
+			],
+			[
+				24,
+				"전문",
+				"NNG",
+				"내용 자체도 무거운데 번역(뜬금없는 하마 한 마리라니) 역시 전문적이고 딱딱해 자주 책장을 덮어야 했다."
+			],
+			[
+				25,
+				"책장",
+				"NNG",
+				"내용 자체도 무거운데 번역(뜬금없는 하마 한 마리라니) 역시 전문적이고 딱딱해 자주 책장을 덮어야 했다."
+			],
+			[
+				26,
+				"과학",
+				"NNG",
+				"과학적 지식이 없는 내게는 우주는 과연 먼 이야기일 뿐일지도 모르겠다."
+			],
+			[
+				27,
+				"지식",
+				"NNG",
+				"과학적 지식이 없는 내게는 우주는 과연 먼 이야기일 뿐일지도 모르겠다."
+			],
+			[
+				28,
+				"우주",
+				"NNG",
+				"과학적 지식이 없는 내게는 우주는 과연 먼 이야기일 뿐일지도 모르겠다."
+			],
+			[
+				29,
+				"이야기",
+				"NNG",
+				"과학적 지식이 없는 내게는 우주는 과연 먼 이야기일 뿐일지도 모르겠다."
+			],
+			[
+				30,
+				"뿐",
+				"NNB",
+				"과학적 지식이 없는 내게는 우주는 과연 먼 이야기일 뿐일지도 모르겠다."
+			]
+		],
+		"NNG_Lst": [
+			[
+				0,
+				"에세이",
+				"NNG",
+				"에세이라는 말에 너무 가볍게 생각한 걸까."
+			],
+			[
+				1,
+				"말",
+				"NNG",
+				"에세이라는 말에 너무 가볍게 생각한 걸까."
+			],
+			[
+				2,
+				"물리학",
+				"NNG",
+				"물리학에 관한 전문적인 내용도 내용이지만 과학, 특히 저자의 전문 분야인 이론 물리학에 문외한 독자를 고려한 친절한 내용은 아니다."
+			],
+			[
+				3,
+				"전문",
+				"NNG",
+				"물리학에 관한 전문적인 내용도 내용이지만 과학, 특히 저자의 전문 분야인 이론 물리학에 문외한 독자를 고려한 친절한 내용은 아니다."
+			],
+			[
+				4,
+				"내용",
+				"NNG",
+				"물리학에 관한 전문적인 내용도 내용이지만 과학, 특히 저자의 전문 분야인 이론 물리학에 문외한 독자를 고려한 친절한 내용은 아니다."
+			],
+			[
+				5,
+				"내용",
+				"NNG",
+				"물리학에 관한 전문적인 내용도 내용이지만 과학, 특히 저자의 전문 분야인 이론 물리학에 문외한 독자를 고려한 친절한 내용은 아니다."
+			],
+			[
+				6,
+				"과학",
+				"NNG",
+				"물리학에 관한 전문적인 내용도 내용이지만 과학, 특히 저자의 전문 분야인 이론 물리학에 문외한 독자를 고려한 친절한 내용은 아니다."
+			],
+			[
+				7,
+				"저자",
+				"NNG",
+				"물리학에 관한 전문적인 내용도 내용이지만 과학, 특히 저자의 전문 분야인 이론 물리학에 문외한 독자를 고려한 친절한 내용은 아니다."
+			],
+			[
+				8,
+				"전문",
+				"NNG",
+				"물리학에 관한 전문적인 내용도 내용이지만 과학, 특히 저자의 전문 분야인 이론 물리학에 문외한 독자를 고려한 친절한 내용은 아니다."
+			],
+			[
+				9,
+				"분야",
+				"NNG",
+				"물리학에 관한 전문적인 내용도 내용이지만 과학, 특히 저자의 전문 분야인 이론 물리학에 문외한 독자를 고려한 친절한 내용은 아니다."
+			],
+			[
+				10,
+				"이론",
+				"NNG",
+				"물리학에 관한 전문적인 내용도 내용이지만 과학, 특히 저자의 전문 분야인 이론 물리학에 문외한 독자를 고려한 친절한 내용은 아니다."
+			],
+			[
+				11,
+				"물리학",
+				"NNG",
+				"물리학에 관한 전문적인 내용도 내용이지만 과학, 특히 저자의 전문 분야인 이론 물리학에 문외한 독자를 고려한 친절한 내용은 아니다."
+			],
+			[
+				12,
+				"문외",
+				"NNG",
+				"물리학에 관한 전문적인 내용도 내용이지만 과학, 특히 저자의 전문 분야인 이론 물리학에 문외한 독자를 고려한 친절한 내용은 아니다."
+			],
+			[
+				13,
+				"독자",
+				"NNG",
+				"물리학에 관한 전문적인 내용도 내용이지만 과학, 특히 저자의 전문 분야인 이론 물리학에 문외한 독자를 고려한 친절한 내용은 아니다."
+			],
+			[
+				14,
+				"내용",
+				"NNG",
+				"물리학에 관한 전문적인 내용도 내용이지만 과학, 특히 저자의 전문 분야인 이론 물리학에 문외한 독자를 고려한 친절한 내용은 아니다."
+			],
+			[
+				15,
+				"정치",
+				"NNG",
+				"게다가 다소 정치적 신념이나 견해가 많다."
+			],
+			[
+				16,
+				"신념",
+				"NNG",
+				"게다가 다소 정치적 신념이나 견해가 많다."
+			],
+			[
+				17,
+				"견해",
+				"NNG",
+				"게다가 다소 정치적 신념이나 견해가 많다."
+			],
+			[
+				18,
+				"내용",
+				"NNG",
+				"내용 자체도 무거운데 번역(뜬금없는 하마 한 마리라니) 역시 전문적이고 딱딱해 자주 책장을 덮어야 했다."
+			],
+			[
+				19,
+				"자체",
+				"NNG",
+				"내용 자체도 무거운데 번역(뜬금없는 하마 한 마리라니) 역시 전문적이고 딱딱해 자주 책장을 덮어야 했다."
+			],
+			[
+				20,
+				"번역",
+				"NNG",
+				"내용 자체도 무거운데 번역(뜬금없는 하마 한 마리라니) 역시 전문적이고 딱딱해 자주 책장을 덮어야 했다."
+			],
+			[
+				21,
+				"하마",
+				"NNG",
+				"내용 자체도 무거운데 번역(뜬금없는 하마 한 마리라니) 역시 전문적이고 딱딱해 자주 책장을 덮어야 했다."
+			],
+			[
+				22,
+				"전문",
+				"NNG",
+				"내용 자체도 무거운데 번역(뜬금없는 하마 한 마리라니) 역시 전문적이고 딱딱해 자주 책장을 덮어야 했다."
+			],
+			[
+				23,
+				"책장",
+				"NNG",
+				"내용 자체도 무거운데 번역(뜬금없는 하마 한 마리라니) 역시 전문적이고 딱딱해 자주 책장을 덮어야 했다."
+			],
+			[
+				24,
+				"과학",
+				"NNG",
+				"과학적 지식이 없는 내게는 우주는 과연 먼 이야기일 뿐일지도 모르겠다."
+			],
+			[
+				25,
+				"지식",
+				"NNG",
+				"과학적 지식이 없는 내게는 우주는 과연 먼 이야기일 뿐일지도 모르겠다."
+			],
+			[
+				26,
+				"우주",
+				"NNG",
+				"과학적 지식이 없는 내게는 우주는 과연 먼 이야기일 뿐일지도 모르겠다."
+			],
+			[
+				27,
+				"이야기",
+				"NNG",
+				"과학적 지식이 없는 내게는 우주는 과연 먼 이야기일 뿐일지도 모르겠다."
+			]
+		],
+		"NNP_Lst": [],
+		"NNB_Lst": [
+			[
+				0,
+				"거",
+				"NNB",
+				"에세이라는 말에 너무 가볍게 생각한 걸까."
+			],
+			[
+				1,
+				"마리",
+				"NNB",
+				"내용 자체도 무거운데 번역(뜬금없는 하마 한 마리라니) 역시 전문적이고 딱딱해 자주 책장을 덮어야 했다."
+			],
+			[
+				2,
+				"뿐",
+				"NNB",
+				"과학적 지식이 없는 내게는 우주는 과연 먼 이야기일 뿐일지도 모르겠다."
+			]
+		],
+		"NP_Lst": [
+			[
+				0,
+				"나",
+				"NP",
+				"과학적 지식이 없는 내게는 우주는 과연 먼 이야기일 뿐일지도 모르겠다."
+			]
+		],
+		"NP_People_Lst": [
+			[
+				0,
+				"나",
+				"NP",
+				"과학적 지식이 없는 내게는 우주는 과연 먼 이야기일 뿐일지도 모르겠다."
+			]
+		],
+		"NP_Things_Lst": [],
+		"NR_Lst": [],
+		"VL_Lst": [
+			[
+				0,
+				"이",
+				"VCP",
+				"에세이라는 말에 너무 가볍게 생각한 걸까."
+			],
+			[
+				1,
+				"가볍",
+				"VA",
+				"에세이라는 말에 너무 가볍게 생각한 걸까."
+			],
+			[
+				2,
+				"생각하",
+				"VV",
+				"에세이라는 말에 너무 가볍게 생각한 걸까."
+			],
+			[
+				3,
+				"이",
+				"VCP",
+				"에세이라는 말에 너무 가볍게 생각한 걸까."
+			],
+			[
+				4,
+				"관하",
+				"VV",
+				"물리학에 관한 전문적인 내용도 내용이지만 과학, 특히 저자의 전문 분야인 이론 물리학에 문외한 독자를 고려한 친절한 내용은 아니다."
+			],
+			[
+				5,
+				"이",
+				"VCP",
+				"물리학에 관한 전문적인 내용도 내용이지만 과학, 특히 저자의 전문 분야인 이론 물리학에 문외한 독자를 고려한 친절한 내용은 아니다."
+			],
+			[
+				6,
+				"이",
+				"VCP",
+				"물리학에 관한 전문적인 내용도 내용이지만 과학, 특히 저자의 전문 분야인 이론 물리학에 문외한 독자를 고려한 친절한 내용은 아니다."
+			],
+			[
+				7,
+				"이",
+				"VCP",
+				"물리학에 관한 전문적인 내용도 내용이지만 과학, 특히 저자의 전문 분야인 이론 물리학에 문외한 독자를 고려한 친절한 내용은 아니다."
+			],
+			[
+				8,
+				"고려하",
+				"VV",
+				"물리학에 관한 전문적인 내용도 내용이지만 과학, 특히 저자의 전문 분야인 이론 물리학에 문외한 독자를 고려한 친절한 내용은 아니다."
+			],
+			[
+				9,
+				"친절하",
+				"VA",
+				"물리학에 관한 전문적인 내용도 내용이지만 과학, 특히 저자의 전문 분야인 이론 물리학에 문외한 독자를 고려한 친절한 내용은 아니다."
+			],
+			[
+				10,
+				"아니",
+				"VCN",
+				"물리학에 관한 전문적인 내용도 내용이지만 과학, 특히 저자의 전문 분야인 이론 물리학에 문외한 독자를 고려한 친절한 내용은 아니다."
+			],
+			[
+				11,
+				"많",
+				"VA",
+				"게다가 다소 정치적 신념이나 견해가 많다."
+			],
+			[
+				12,
+				"무겁",
+				"VA",
+				"내용 자체도 무거운데 번역(뜬금없는 하마 한 마리라니) 역시 전문적이고 딱딱해 자주 책장을 덮어야 했다."
+			],
+			[
+				13,
+				"뜬금없",
+				"VV",
+				"내용 자체도 무거운데 번역(뜬금없는 하마 한 마리라니) 역시 전문적이고 딱딱해 자주 책장을 덮어야 했다."
+			],
+			[
+				14,
+				"이",
+				"VCP",
+				"내용 자체도 무거운데 번역(뜬금없는 하마 한 마리라니) 역시 전문적이고 딱딱해 자주 책장을 덮어야 했다."
+			],
+			[
+				15,
+				"이",
+				"VCP",
+				"내용 자체도 무거운데 번역(뜬금없는 하마 한 마리라니) 역시 전문적이고 딱딱해 자주 책장을 덮어야 했다."
+			],
+			[
+				16,
+				"딱딱하",
+				"VA",
+				"내용 자체도 무거운데 번역(뜬금없는 하마 한 마리라니) 역시 전문적이고 딱딱해 자주 책장을 덮어야 했다."
+			],
+			[
+				17,
+				"덮",
+				"VV",
+				"내용 자체도 무거운데 번역(뜬금없는 하마 한 마리라니) 역시 전문적이고 딱딱해 자주 책장을 덮어야 했다."
+			],
+			[
+				18,
+				"하",
+				"VV",
+				"내용 자체도 무거운데 번역(뜬금없는 하마 한 마리라니) 역시 전문적이고 딱딱해 자주 책장을 덮어야 했다."
+			],
+			[
+				19,
+				"없",
+				"VA",
+				"과학적 지식이 없는 내게는 우주는 과연 먼 이야기일 뿐일지도 모르겠다."
+			],
+			[
+				20,
+				"멀",
+				"VA",
+				"과학적 지식이 없는 내게는 우주는 과연 먼 이야기일 뿐일지도 모르겠다."
+			],
+			[
+				21,
+				"이",
+				"VCP",
+				"과학적 지식이 없는 내게는 우주는 과연 먼 이야기일 뿐일지도 모르겠다."
+			],
+			[
+				22,
+				"이",
+				"VCP",
+				"과학적 지식이 없는 내게는 우주는 과연 먼 이야기일 뿐일지도 모르겠다."
+			],
+			[
+				23,
+				"모르",
+				"VV",
+				"과학적 지식이 없는 내게는 우주는 과연 먼 이야기일 뿐일지도 모르겠다."
+			]
+		],
+		"VV_Lst": [
+			[
+				0,
+				"생각하",
+				"VV",
+				"에세이라는 말에 너무 가볍게 생각한 걸까."
+			],
+			[
+				1,
+				"관하",
+				"VV",
+				"물리학에 관한 전문적인 내용도 내용이지만 과학, 특히 저자의 전문 분야인 이론 물리학에 문외한 독자를 고려한 친절한 내용은 아니다."
+			],
+			[
+				2,
+				"고려하",
+				"VV",
+				"물리학에 관한 전문적인 내용도 내용이지만 과학, 특히 저자의 전문 분야인 이론 물리학에 문외한 독자를 고려한 친절한 내용은 아니다."
+			],
+			[
+				3,
+				"뜬금없",
+				"VV",
+				"내용 자체도 무거운데 번역(뜬금없는 하마 한 마리라니) 역시 전문적이고 딱딱해 자주 책장을 덮어야 했다."
+			],
+			[
+				4,
+				"덮",
+				"VV",
+				"내용 자체도 무거운데 번역(뜬금없는 하마 한 마리라니) 역시 전문적이고 딱딱해 자주 책장을 덮어야 했다."
+			],
+			[
+				5,
+				"하",
+				"VV",
+				"내용 자체도 무거운데 번역(뜬금없는 하마 한 마리라니) 역시 전문적이고 딱딱해 자주 책장을 덮어야 했다."
+			],
+			[
+				6,
+				"모르",
+				"VV",
+				"과학적 지식이 없는 내게는 우주는 과연 먼 이야기일 뿐일지도 모르겠다."
+			]
+		],
+		"VA_Lst": [
+			[
+				0,
+				"가볍",
+				"VA",
+				"에세이라는 말에 너무 가볍게 생각한 걸까."
+			],
+			[
+				1,
+				"친절하",
+				"VA",
+				"물리학에 관한 전문적인 내용도 내용이지만 과학, 특히 저자의 전문 분야인 이론 물리학에 문외한 독자를 고려한 친절한 내용은 아니다."
+			],
+			[
+				2,
+				"많",
+				"VA",
+				"게다가 다소 정치적 신념이나 견해가 많다."
+			],
+			[
+				3,
+				"무겁",
+				"VA",
+				"내용 자체도 무거운데 번역(뜬금없는 하마 한 마리라니) 역시 전문적이고 딱딱해 자주 책장을 덮어야 했다."
+			],
+			[
+				4,
+				"딱딱하",
+				"VA",
+				"내용 자체도 무거운데 번역(뜬금없는 하마 한 마리라니) 역시 전문적이고 딱딱해 자주 책장을 덮어야 했다."
+			],
+			[
+				5,
+				"없",
+				"VA",
+				"과학적 지식이 없는 내게는 우주는 과연 먼 이야기일 뿐일지도 모르겠다."
+			],
+			[
+				6,
+				"멀",
+				"VA",
+				"과학적 지식이 없는 내게는 우주는 과연 먼 이야기일 뿐일지도 모르겠다."
+			]
+		],
+		"VX_Lst": [],
+		"VCP_Lst": [
+			[
+				0,
+				"이",
+				"VCP",
+				"에세이라는 말에 너무 가볍게 생각한 걸까."
+			],
+			[
+				1,
+				"이",
+				"VCP",
+				"에세이라는 말에 너무 가볍게 생각한 걸까."
+			],
+			[
+				2,
+				"이",
+				"VCP",
+				"물리학에 관한 전문적인 내용도 내용이지만 과학, 특히 저자의 전문 분야인 이론 물리학에 문외한 독자를 고려한 친절한 내용은 아니다."
+			],
+			[
+				3,
+				"이",
+				"VCP",
+				"물리학에 관한 전문적인 내용도 내용이지만 과학, 특히 저자의 전문 분야인 이론 물리학에 문외한 독자를 고려한 친절한 내용은 아니다."
+			],
+			[
+				4,
+				"이",
+				"VCP",
+				"물리학에 관한 전문적인 내용도 내용이지만 과학, 특히 저자의 전문 분야인 이론 물리학에 문외한 독자를 고려한 친절한 내용은 아니다."
+			],
+			[
+				5,
+				"이",
+				"VCP",
+				"내용 자체도 무거운데 번역(뜬금없는 하마 한 마리라니) 역시 전문적이고 딱딱해 자주 책장을 덮어야 했다."
+			],
+			[
+				6,
+				"이",
+				"VCP",
+				"내용 자체도 무거운데 번역(뜬금없는 하마 한 마리라니) 역시 전문적이고 딱딱해 자주 책장을 덮어야 했다."
+			],
+			[
+				7,
+				"이",
+				"VCP",
+				"과학적 지식이 없는 내게는 우주는 과연 먼 이야기일 뿐일지도 모르겠다."
+			],
+			[
+				8,
+				"이",
+				"VCP",
+				"과학적 지식이 없는 내게는 우주는 과연 먼 이야기일 뿐일지도 모르겠다."
+			]
+		],
+		"VCN_Lst": [
+			[
+				0,
+				"아니",
+				"VCN",
+				"물리학에 관한 전문적인 내용도 내용이지만 과학, 특히 저자의 전문 분야인 이론 물리학에 문외한 독자를 고려한 친절한 내용은 아니다."
+			]
+		],
+		"ML_Lst": [
+			[
+				0,
+				"너무",
+				"MAG",
+				"에세이라는 말에 너무 가볍게 생각한 걸까."
+			],
+			[
+				1,
+				"특히",
+				"MAG",
+				"물리학에 관한 전문적인 내용도 내용이지만 과학, 특히 저자의 전문 분야인 이론 물리학에 문외한 독자를 고려한 친절한 내용은 아니다."
+			],
+			[
+				2,
+				"게다가",
+				"MAG",
+				"게다가 다소 정치적 신념이나 견해가 많다."
+			],
+			[
+				3,
+				"다소",
+				"MAG",
+				"게다가 다소 정치적 신념이나 견해가 많다."
+			],
+			[
+				4,
+				"역시",
+				"MAG",
+				"내용 자체도 무거운데 번역(뜬금없는 하마 한 마리라니) 역시 전문적이고 딱딱해 자주 책장을 덮어야 했다."
+			],
+			[
+				5,
+				"자주",
+				"MAG",
+				"내용 자체도 무거운데 번역(뜬금없는 하마 한 마리라니) 역시 전문적이고 딱딱해 자주 책장을 덮어야 했다."
+			],
+			[
+				6,
+				"과연",
+				"MAG",
+				"과학적 지식이 없는 내게는 우주는 과연 먼 이야기일 뿐일지도 모르겠다."
+			]
+		],
+		"MA_Lst": [],
+		"MM_Lst": [],
+		"J_Lst": [
+			[
+				0,
+				"에",
+				"JKB",
+				"에세이라는 말에 너무 가볍게 생각한 걸까."
+			],
+			[
+				1,
+				"에",
+				"JKB",
+				"물리학에 관한 전문적인 내용도 내용이지만 과학, 특히 저자의 전문 분야인 이론 물리학에 문외한 독자를 고려한 친절한 내용은 아니다."
+			],
+			[
+				2,
+				"도",
+				"JX",
+				"물리학에 관한 전문적인 내용도 내용이지만 과학, 특히 저자의 전문 분야인 이론 물리학에 문외한 독자를 고려한 친절한 내용은 아니다."
+			],
+			[
+				3,
+				"의",
+				"JKG",
+				"물리학에 관한 전문적인 내용도 내용이지만 과학, 특히 저자의 전문 분야인 이론 물리학에 문외한 독자를 고려한 친절한 내용은 아니다."
+			],
+			[
+				4,
+				"에",
+				"JKB",
+				"물리학에 관한 전문적인 내용도 내용이지만 과학, 특히 저자의 전문 분야인 이론 물리학에 문외한 독자를 고려한 친절한 내용은 아니다."
+			],
+			[
+				5,
+				"를",
+				"JKO",
+				"물리학에 관한 전문적인 내용도 내용이지만 과학, 특히 저자의 전문 분야인 이론 물리학에 문외한 독자를 고려한 친절한 내용은 아니다."
+			],
+			[
+				6,
+				"은",
+				"JX",
+				"물리학에 관한 전문적인 내용도 내용이지만 과학, 특히 저자의 전문 분야인 이론 물리학에 문외한 독자를 고려한 친절한 내용은 아니다."
+			],
+			[
+				7,
+				"이나",
+				"JC",
+				"게다가 다소 정치적 신념이나 견해가 많다."
+			],
+			[
+				8,
+				"가",
+				"JKS",
+				"게다가 다소 정치적 신념이나 견해가 많다."
+			],
+			[
+				9,
+				"도",
+				"JX",
+				"내용 자체도 무거운데 번역(뜬금없는 하마 한 마리라니) 역시 전문적이고 딱딱해 자주 책장을 덮어야 했다."
+			],
+			[
+				10,
+				"을",
+				"JKO",
+				"내용 자체도 무거운데 번역(뜬금없는 하마 한 마리라니) 역시 전문적이고 딱딱해 자주 책장을 덮어야 했다."
+			],
+			[
+				11,
+				"이",
+				"JKS",
+				"과학적 지식이 없는 내게는 우주는 과연 먼 이야기일 뿐일지도 모르겠다."
+			],
+			[
+				12,
+				"에게",
+				"JKB",
+				"과학적 지식이 없는 내게는 우주는 과연 먼 이야기일 뿐일지도 모르겠다."
+			],
+			[
+				13,
+				"는",
+				"JX",
+				"과학적 지식이 없는 내게는 우주는 과연 먼 이야기일 뿐일지도 모르겠다."
+			],
+			[
+				14,
+				"는",
+				"JX",
+				"과학적 지식이 없는 내게는 우주는 과연 먼 이야기일 뿐일지도 모르겠다."
+			],
+			[
+				15,
+				"도",
+				"JX",
+				"과학적 지식이 없는 내게는 우주는 과연 먼 이야기일 뿐일지도 모르겠다."
+			]
+		],
+		"E_Lst": [
+			[
+				0,
+				"라는",
+				"ETM",
+				"에세이라는 말에 너무 가볍게 생각한 걸까."
+			],
+			[
+				1,
+				"게",
+				"EC",
+				"에세이라는 말에 너무 가볍게 생각한 걸까."
+			],
+			[
+				2,
+				"ㄴ",
+				"ETM",
+				"에세이라는 말에 너무 가볍게 생각한 걸까."
+			],
+			[
+				3,
+				"ㄹ까",
+				"EF",
+				"에세이라는 말에 너무 가볍게 생각한 걸까."
+			],
+			[
+				4,
+				"ㄴ",
+				"ETM",
+				"물리학에 관한 전문적인 내용도 내용이지만 과학, 특히 저자의 전문 분야인 이론 물리학에 문외한 독자를 고려한 친절한 내용은 아니다."
+			],
+			[
+				5,
+				"ㄴ",
+				"ETM",
+				"물리학에 관한 전문적인 내용도 내용이지만 과학, 특히 저자의 전문 분야인 이론 물리학에 문외한 독자를 고려한 친절한 내용은 아니다."
+			],
+			[
+				6,
+				"지만",
+				"EC",
+				"물리학에 관한 전문적인 내용도 내용이지만 과학, 특히 저자의 전문 분야인 이론 물리학에 문외한 독자를 고려한 친절한 내용은 아니다."
+			],
+			[
+				7,
+				"ㄴ",
+				"ETM",
+				"물리학에 관한 전문적인 내용도 내용이지만 과학, 특히 저자의 전문 분야인 이론 물리학에 문외한 독자를 고려한 친절한 내용은 아니다."
+			],
+			[
+				8,
+				"ㄴ",
+				"ETM",
+				"물리학에 관한 전문적인 내용도 내용이지만 과학, 특히 저자의 전문 분야인 이론 물리학에 문외한 독자를 고려한 친절한 내용은 아니다."
+			],
+			[
+				9,
+				"ㄴ",
+				"ETM",
+				"물리학에 관한 전문적인 내용도 내용이지만 과학, 특히 저자의 전문 분야인 이론 물리학에 문외한 독자를 고려한 친절한 내용은 아니다."
+			],
+			[
+				10,
+				"ㄴ",
+				"ETM",
+				"물리학에 관한 전문적인 내용도 내용이지만 과학, 특히 저자의 전문 분야인 이론 물리학에 문외한 독자를 고려한 친절한 내용은 아니다."
+			],
+			[
+				11,
+				"다",
+				"EF",
+				"물리학에 관한 전문적인 내용도 내용이지만 과학, 특히 저자의 전문 분야인 이론 물리학에 문외한 독자를 고려한 친절한 내용은 아니다."
+			],
+			[
+				12,
+				"다",
+				"EF",
+				"게다가 다소 정치적 신념이나 견해가 많다."
+			],
+			[
+				13,
+				"ㄴ데",
+				"EC",
+				"내용 자체도 무거운데 번역(뜬금없는 하마 한 마리라니) 역시 전문적이고 딱딱해 자주 책장을 덮어야 했다."
+			],
+			[
+				14,
+				"는",
+				"ETM",
+				"내용 자체도 무거운데 번역(뜬금없는 하마 한 마리라니) 역시 전문적이고 딱딱해 자주 책장을 덮어야 했다."
+			],
+			[
+				15,
+				"라니",
+				"EC",
+				"내용 자체도 무거운데 번역(뜬금없는 하마 한 마리라니) 역시 전문적이고 딱딱해 자주 책장을 덮어야 했다."
+			],
+			[
+				16,
+				"고",
+				"EC",
+				"내용 자체도 무거운데 번역(뜬금없는 하마 한 마리라니) 역시 전문적이고 딱딱해 자주 책장을 덮어야 했다."
+			],
+			[
+				17,
+				"아",
+				"EC",
+				"내용 자체도 무거운데 번역(뜬금없는 하마 한 마리라니) 역시 전문적이고 딱딱해 자주 책장을 덮어야 했다."
+			],
+			[
+				18,
+				"어야",
+				"EC",
+				"내용 자체도 무거운데 번역(뜬금없는 하마 한 마리라니) 역시 전문적이고 딱딱해 자주 책장을 덮어야 했다."
+			],
+			[
+				19,
+				"았",
+				"EP",
+				"내용 자체도 무거운데 번역(뜬금없는 하마 한 마리라니) 역시 전문적이고 딱딱해 자주 책장을 덮어야 했다."
+			],
+			[
+				20,
+				"다",
+				"EF",
+				"내용 자체도 무거운데 번역(뜬금없는 하마 한 마리라니) 역시 전문적이고 딱딱해 자주 책장을 덮어야 했다."
+			],
+			[
+				21,
+				"는",
+				"ETM",
+				"과학적 지식이 없는 내게는 우주는 과연 먼 이야기일 뿐일지도 모르겠다."
+			],
+			[
+				22,
+				"ㄴ",
+				"ETM",
+				"과학적 지식이 없는 내게는 우주는 과연 먼 이야기일 뿐일지도 모르겠다."
+			],
+			[
+				23,
+				"ㄹ",
+				"ETM",
+				"과학적 지식이 없는 내게는 우주는 과연 먼 이야기일 뿐일지도 모르겠다."
+			],
+			[
+				24,
+				"ㄹ지",
+				"EF",
+				"과학적 지식이 없는 내게는 우주는 과연 먼 이야기일 뿐일지도 모르겠다."
+			],
+			[
+				25,
+				"겠",
+				"EP",
+				"과학적 지식이 없는 내게는 우주는 과연 먼 이야기일 뿐일지도 모르겠다."
+			],
+			[
+				26,
+				"다",
+				"EF",
+				"과학적 지식이 없는 내게는 우주는 과연 먼 이야기일 뿐일지도 모르겠다."
+			]
+		],
+		"X_Lst": [
+			[
+				0,
+				"적",
+				"XSN",
+				"물리학에 관한 전문적인 내용도 내용이지만 과학, 특히 저자의 전문 분야인 이론 물리학에 문외한 독자를 고려한 친절한 내용은 아니다."
+			],
+			[
+				1,
+				"하",
+				"XSA",
+				"물리학에 관한 전문적인 내용도 내용이지만 과학, 특히 저자의 전문 분야인 이론 물리학에 문외한 독자를 고려한 친절한 내용은 아니다."
+			],
+			[
+				2,
+				"적",
+				"XSN",
+				"게다가 다소 정치적 신념이나 견해가 많다."
+			],
+			[
+				3,
+				"적",
+				"XSN",
+				"내용 자체도 무거운데 번역(뜬금없는 하마 한 마리라니) 역시 전문적이고 딱딱해 자주 책장을 덮어야 했다."
+			],
+			[
+				4,
+				"적",
+				"XSN",
+				"과학적 지식이 없는 내게는 우주는 과연 먼 이야기일 뿐일지도 모르겠다."
+			]
+		],
+		"IC_Lst": []
+	},
+	"NDW": {
+		"morph_NDW": 82,
+		"NL_NDW": 32,
+		"NNG_NDW": 28,
+		"NNP_NDW": 0,
+		"NNB_NDW": 3,
+		"NP_NDW": 1,
+		"NR_NDW": 0,
+		"VL_NDW": 24,
+		"VV_NDW": 7,
+		"VA_NDW": 7,
+		"ML_NDW": 7,
+		"MM_NDW": 0,
+		"IC_NDW": 0,
+		"J_NDW": 16,
+		"E_NDW": 27,
+		"X_NDW": 5,
+		"CL_NDW": 63,
+		"FL_NDW": 48
+	}
+}

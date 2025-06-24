@@ -1,0 +1,3078 @@
+﻿{
+	"morpheme": {
+		"sentences": [
+			{
+				"text": {
+					"content": "요즘 인터넷에서는 연예인들이나 유명 운동선수등 '학투' 나 '갑질폭로'로 많은 기사들이 쏟아져 나오고 있습니다.",
+					"length": 62,
+					"beginOffset": 0
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "요즘",
+							"length": 2,
+							"beginOffset": 0
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "요즘",
+									"length": 2,
+									"beginOffset": 0
+								},
+								"tag": "NNG",
+								"probability": 0.98430467,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "요즘",
+						"tagged": "요즘/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "인터넷에서는",
+							"beginOffset": 3,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "인터넷",
+									"beginOffset": 3,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.98295283,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에서",
+									"beginOffset": 6,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.99715203,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 8,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9980996,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "인터넷",
+						"tagged": "인터넷/NNG+에서/JKB+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "연예인들이나",
+							"beginOffset": 10,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "연예인",
+									"beginOffset": 10,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.984957,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "들",
+									"beginOffset": 13,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.9897647,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이나",
+									"beginOffset": 14,
+									"length": 2
+								},
+								"tag": "JC",
+								"probability": 0.97734976,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "연예인",
+						"tagged": "연예인/NNG+들/XSN+이나/JC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "유명",
+							"beginOffset": 17,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "유명",
+									"beginOffset": 17,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.983106,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "유명",
+						"tagged": "유명/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "운동선수등",
+							"beginOffset": 20,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "운동선수",
+									"beginOffset": 20,
+									"length": 4
+								},
+								"tag": "NNG",
+								"probability": 0.9724447,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "등",
+									"beginOffset": 24,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9554831,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "운동선수",
+						"tagged": "운동선수/NNG+등/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "'학투' 나",
+							"beginOffset": 26,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "'",
+									"beginOffset": 26,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.99996996,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "학투",
+									"beginOffset": 27,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.79230624,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "'",
+									"beginOffset": 29,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.999929,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "나",
+									"beginOffset": 30,
+									"length": 1
+								},
+								"tag": "JC",
+								"probability": 0.9022927,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "'",
+						"tagged": "'/SS+학투/NNG+'/SS+나/JC",
+						"modified": "'학투'나"
+					},
+					{
+						"text": {
+							"content": "'갑질폭로'로",
+							"beginOffset": 33,
+							"length": 7
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "'",
+									"beginOffset": 33,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9999822,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "갑",
+									"beginOffset": 34,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.98320764,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "질",
+									"beginOffset": 35,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.97635585,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "폭로",
+									"beginOffset": 36,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98285586,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "'",
+									"beginOffset": 38,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.99993914,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "로",
+									"beginOffset": 39,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99608034,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "'",
+						"tagged": "'/SS+갑/NNG+질/XSN+폭로/NNG+'/SS+로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "많은",
+							"beginOffset": 41,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "많",
+									"beginOffset": 41,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.98690856,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 42,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.999974,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "많",
+						"tagged": "많/VA+은/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "기사들이",
+							"beginOffset": 44,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "기사",
+									"beginOffset": 44,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9843997,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "들",
+									"beginOffset": 46,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.9889086,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 47,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.99513173,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "기사",
+						"tagged": "기사/NNG+들/XSN+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "쏟아져",
+							"beginOffset": 49,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "쏟아지",
+									"beginOffset": 49,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.98831445,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어",
+									"beginOffset": 51,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.98986775,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "쏟아지",
+						"tagged": "쏟아지/VV+어/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "나오고",
+							"beginOffset": 53,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "나오",
+									"beginOffset": 53,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9898374,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 55,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99545115,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "나오",
+						"tagged": "나오/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있습니다.",
+							"beginOffset": 57,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 57,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.9251544,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "습니다",
+									"beginOffset": 58,
+									"length": 3
+								},
+								"tag": "EF",
+								"probability": 0.995099,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 61,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99970186,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VX+습니다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "요즘 인터넷에서는 연예인들이나 유명 운동선수등 '학투'나 '갑질폭로'로 많은 기사들이 쏟아져 나오고 있습니다."
+			},
+			{
+				"text": {
+					"content": "사람은 뿌린대로 거두게 되어있습니다.",
+					"beginOffset": 63,
+					"length": 20
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "사람은",
+							"beginOffset": 63,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사람",
+									"beginOffset": 63,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9820689,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 65,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99860364,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사람",
+						"tagged": "사람/NNG+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "뿌린",
+							"beginOffset": 67,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "뿌리",
+									"beginOffset": 67,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9794736,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 68,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999539,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "뿌리",
+						"tagged": "뿌리/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "대로",
+							"beginOffset": 69,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "대로",
+									"beginOffset": 69,
+									"length": 2
+								},
+								"tag": "NNB",
+								"probability": 0.95515966,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "대로",
+						"tagged": "대로/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "거두게",
+							"beginOffset": 72,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "거두",
+									"beginOffset": 72,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.98215365,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "게",
+									"beginOffset": 74,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9949241,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "거두",
+						"tagged": "거두/VV+게/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "되어",
+							"beginOffset": 76,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "되",
+									"beginOffset": 76,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9643814,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어",
+									"beginOffset": 77,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9929653,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "되",
+						"tagged": "되/VV+어/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있습니다.",
+							"beginOffset": 78,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 78,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.9375083,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "습니다",
+									"beginOffset": 79,
+									"length": 3
+								},
+								"tag": "EF",
+								"probability": 0.9852267,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 82,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99945223,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VX+습니다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "사람은 뿌린 대로 거두게 되어 있습니다."
+			},
+			{
+				"text": {
+					"content": "그리고 친할수록 더 조심해야 한다고 생각합니다.",
+					"beginOffset": 84,
+					"length": 26
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "그리고",
+							"beginOffset": 84,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그리고",
+									"beginOffset": 84,
+									"length": 3
+								},
+								"tag": "MAJ",
+								"probability": 0.9982354,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그리고",
+						"tagged": "그리고/MAJ",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "친할수록",
+							"beginOffset": 88,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "친하",
+									"beginOffset": 88,
+									"length": 2
+								},
+								"tag": "VA",
+								"probability": 0.98531544,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ수록",
+									"beginOffset": 89,
+									"length": 3
+								},
+								"tag": "EC",
+								"probability": 0.9851615,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "친하",
+						"tagged": "친하/VA+ㄹ수록/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "더",
+							"beginOffset": 93,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "더",
+									"beginOffset": 93,
+									"length": 1
+								},
+								"tag": "MAG",
+								"probability": 0.99417865,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "더",
+						"tagged": "더/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "조심해야",
+							"beginOffset": 95,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "조심하",
+									"beginOffset": 95,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "아야",
+									"beginOffset": 97,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9946842,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "조심하",
+						"tagged": "조심하/VV+아야/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "한다고",
+							"beginOffset": 100,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 100,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.9535659,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ다고",
+									"beginOffset": 100,
+									"length": 3
+								},
+								"tag": "EC",
+								"probability": 0.9767188,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VX+ㄴ다고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "생각합니다.",
+							"beginOffset": 104,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "생각하",
+									"beginOffset": 104,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.0,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㅂ니다",
+									"beginOffset": 106,
+									"length": 3
+								},
+								"tag": "EF",
+								"probability": 0.9833301,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 109,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9996386,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "생각하",
+						"tagged": "생각하/VV+ㅂ니다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "그리고 친할수록 더 조심해야 한다고 생각합니다."
+			},
+			{
+				"text": {
+					"content": "학교에서도 보면 너무 친한친구일 수록 말을 더 막하거나 욕을 하는 것을 종종 볼수 있습니다.",
+					"beginOffset": 111,
+					"length": 51
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "학교에서도",
+							"beginOffset": 111,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "학교",
+									"beginOffset": 111,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98033375,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에서",
+									"beginOffset": 113,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9939592,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 115,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99898887,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "학교",
+						"tagged": "학교/NNG+에서/JKB+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "보면",
+							"beginOffset": 117,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "보",
+									"beginOffset": 117,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9766281,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "면",
+									"beginOffset": 118,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99589014,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "보",
+						"tagged": "보/VV+면/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "너무",
+							"beginOffset": 120,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "너무",
+									"beginOffset": 120,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9831508,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "너무",
+						"tagged": "너무/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "친한",
+							"beginOffset": 123,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "친하",
+									"beginOffset": 123,
+									"length": 2
+								},
+								"tag": "VA",
+								"probability": 0.9812305,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 124,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99998933,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "친하",
+						"tagged": "친하/VA+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "친구일",
+							"beginOffset": 125,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "친구",
+									"beginOffset": 125,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98230165,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 127,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.9998459,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ",
+									"beginOffset": 127,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99975437,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "친구",
+						"tagged": "친구/NNG+이/VCP+ㄹ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "수록",
+							"beginOffset": 129,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "수록",
+									"beginOffset": 129,
+									"length": 2
+								},
+								"tag": "NA",
+								"probability": 0.672836,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "수록",
+						"tagged": "수록/NA",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "말을",
+							"beginOffset": 132,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "말",
+									"beginOffset": 132,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9132321,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 133,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99985796,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "말",
+						"tagged": "말/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "더",
+							"beginOffset": 135,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "더",
+									"beginOffset": 135,
+									"length": 1
+								},
+								"tag": "MAG",
+								"probability": 0.98996687,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "더",
+						"tagged": "더/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "막",
+							"beginOffset": 137,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "막",
+									"beginOffset": 137,
+									"length": 1
+								},
+								"tag": "MAG",
+								"probability": 0.99351424,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "막",
+						"tagged": "막/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "하거나",
+							"beginOffset": 138,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 138,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.6097558,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "거나",
+									"beginOffset": 139,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.98900676,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VV+거나/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "욕을",
+							"beginOffset": 142,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "욕",
+									"beginOffset": 142,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9819202,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 143,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999601,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "욕",
+						"tagged": "욕/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "하는",
+							"beginOffset": 145,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 145,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9737729,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 146,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99989235,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "것을",
+							"beginOffset": 148,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "것",
+									"beginOffset": 148,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.98243225,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 149,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99960446,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "것",
+						"tagged": "것/NNB+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "종종",
+							"beginOffset": 151,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "종종",
+									"beginOffset": 151,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9911309,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "종종",
+						"tagged": "종종/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "볼",
+							"beginOffset": 154,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "보",
+									"beginOffset": 154,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.5777956,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ",
+									"beginOffset": 154,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99991816,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "보",
+						"tagged": "보/VV+ㄹ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "수",
+							"beginOffset": 155,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "수",
+									"beginOffset": 155,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.98134667,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "수",
+						"tagged": "수/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있습니다.",
+							"beginOffset": 157,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 157,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.939929,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "습니다",
+									"beginOffset": 158,
+									"length": 3
+								},
+								"tag": "EF",
+								"probability": 0.99267626,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 161,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99954754,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VA+습니다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "학교에서도 보면 너무 친한 친구일 수록 말을 더 막 하거나 욕을 하는 것을 종종 볼 수 있습니다."
+			},
+			{
+				"text": {
+					"content": "남들을 존경하고 무시하지 않으며 말한마디 한마디를 생각하고 내뱉아야 한다고 생각합니다.",
+					"beginOffset": 163,
+					"length": 48
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "남들을",
+							"beginOffset": 163,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "남",
+									"beginOffset": 163,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.97274846,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "들",
+									"beginOffset": 164,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.9925854,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 165,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9997913,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "남",
+						"tagged": "남/NNG+들/XSN+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "존경하고",
+							"beginOffset": 167,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "존경하",
+									"beginOffset": 167,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 170,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99559796,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "존경하",
+						"tagged": "존경하/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "무시하지",
+							"beginOffset": 172,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "무시하",
+									"beginOffset": 172,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "지",
+									"beginOffset": 175,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99466836,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "무시하",
+						"tagged": "무시하/VV+지/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "않으며",
+							"beginOffset": 177,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "않",
+									"beginOffset": 177,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.8572457,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으며",
+									"beginOffset": 178,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99528897,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "않",
+						"tagged": "않/VX+으며/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "말한마디",
+							"beginOffset": 181,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "말한마디",
+									"beginOffset": 181,
+									"length": 4
+								},
+								"tag": "NNG",
+								"probability": 0.48247457,
+								"outOfVocab": "OUT_OF_VOCAB"
+							}
+						],
+						"lemma": "말한마디",
+						"tagged": "말한마디/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "한마디를",
+							"beginOffset": 186,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "한마디",
+									"beginOffset": 186,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9733005,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 189,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999738,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "한마디",
+						"tagged": "한마디/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "생각하고",
+							"beginOffset": 191,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "생각하",
+									"beginOffset": 191,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.0,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 194,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99196196,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "생각하",
+						"tagged": "생각하/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "내뱉아야",
+							"beginOffset": 196,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "내뱉",
+									"beginOffset": 196,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9886834,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아야",
+									"beginOffset": 198,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99529064,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "내뱉",
+						"tagged": "내뱉/VV+아야/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "한다고",
+							"beginOffset": 201,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 201,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.8985371,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ다고",
+									"beginOffset": 201,
+									"length": 3
+								},
+								"tag": "EC",
+								"probability": 0.9863586,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VX+ㄴ다고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "생각합니다.",
+							"beginOffset": 205,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "생각하",
+									"beginOffset": 205,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.0,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㅂ니다",
+									"beginOffset": 207,
+									"length": 3
+								},
+								"tag": "EF",
+								"probability": 0.98977166,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 210,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9994041,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "생각하",
+						"tagged": "생각하/VV+ㅂ니다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "남들을 존경하고 무시하지 않으며 말한마디 한마디를 생각하고 내뱉아야 한다고 생각합니다."
+			}
+		],
+		"language": "ko_KR"
+	},
+	"ttr": {
+		"lemma_Cnt": 98,
+		"lemma_TTR": 0.6635514018691588,
+		"CL_TTR": 0.8113207547169812,
+		"NL_TTR": 1.0,
+		"NN_TTR": 1.0,
+		"NNG_TTR": 1.0,
+		"NNP_TTR": 0,
+		"NNB_TTR": 1.0,
+		"NP_TTR": 0,
+		"NR_TTR": 0,
+		"VL_TTR": 0.6538461538461539,
+		"VV_TTR": 0.75,
+		"VA_TTR": 0.75,
+		"ML_TTR": 0.8333333333333334,
+		"MM_TTR": 0,
+		"MA_TTR": 0.8333333333333334,
+		"MAJ_TTR": 1.0,
+		"IC_TTR": 0,
+		"FL_TTR": 0.5909090909090909,
+		"J_TTR": 0.7142857142857143,
+		"E_TTR": 0.6153846153846154,
+		"X_TTR": 0.5,
+		"lemma_RTTR": 6.863829072224211,
+		"CL_RTTR": 5.906504249793628,
+		"NL_RTTR": 4.58257569495584,
+		"NN_RTTR": 4.58257569495584,
+		"NNG_RTTR": 4.123105625617661,
+		"NNP_RTTR": 0,
+		"NNB_RTTR": 2.0,
+		"NP_RTTR": 0,
+		"NR_RTTR": 0,
+		"VL_RTTR": 3.333974297349129,
+		"VV_RTTR": 3.0,
+		"VA_RTTR": 1.5,
+		"ML_RTTR": 2.041241452319315,
+		"MM_RTTR": 0,
+		"MA_RTTR": 2.041241452319315,
+		"MAJ_RTTR": 1.0,
+		"IC_RTTR": 0,
+		"FL_RTTR": 3.9196474795109273,
+		"J_RTTR": 2.6726124191242437,
+		"E_RTTR": 3.1378581622109447,
+		"X_RTTR": 1.0,
+		"lemma_CTTR": 4.8534600818751095,
+		"CL_CTTR": 4.176529208136236,
+		"NL_CTTR": 3.24037034920393,
+		"NN_CTTR": 3.24037034920393,
+		"NNG_CTTR": 2.91547594742265,
+		"NNP_CTTR": 0,
+		"NNB_CTTR": 1.414213562373095,
+		"NP_CTTR": 0,
+		"NR_CTTR": 0,
+		"VL_CTTR": 2.3574758339572237,
+		"VV_CTTR": 2.1213203435596424,
+		"VA_CTTR": 1.0606601717798212,
+		"ML_CTTR": 1.4433756729740645,
+		"MM_CTTR": 0,
+		"MA_CTTR": 1.4433756729740645,
+		"MAJ_CTTR": 0.7071067811865475,
+		"IC_CTTR": 0,
+		"FL_CTTR": 2.7716093126229358,
+		"J_CTTR": 1.889822365046136,
+		"E_CTTR": 2.2188007849009166,
+		"X_CTTR": 0.7071067811865475,
+		"lemma_MSTTR": 0.81,
+		"CL_MSTTR": 0.84,
+		"NL_MSTTR": 1.0,
+		"NN_MSTTR": 1.0,
+		"NNG_MSTTR": 1.0,
+		"NNP_MSTTR": 0,
+		"NNB_MSTTR": 1.0,
+		"NP_MSTTR": 0,
+		"NR_MSTTR": 0,
+		"VL_MSTTR": 0.6538461538461539,
+		"VV_MSTTR": 0.75,
+		"VA_MSTTR": 0.75,
+		"ML_MSTTR": 0.8333333333333334,
+		"MM_MSTTR": 0,
+		"MA_MSTTR": 0.8333333333333334,
+		"MAJ_MSTTR": 1.0,
+		"IC_MSTTR": 0,
+		"FL_MSTTR": 0.5909090909090909,
+		"J_MSTTR": 0.7142857142857143,
+		"E_MSTTR": 0.6153846153846154,
+		"X_MSTTR": 0.5,
+		"lemma_MATTR": 0.8027586206896554,
+		"CL_MATTR": 0.825,
+		"NL_MATTR": 1.0,
+		"NN_MATTR": 1.0,
+		"NNG_MATTR": 1.0,
+		"NNP_MATTR": 0,
+		"NNB_MATTR": 1.0,
+		"NP_MATTR": 0,
+		"NR_MATTR": 0,
+		"VL_MATTR": 0.6538461538461539,
+		"VV_MATTR": 0.75,
+		"VA_MATTR": 0.75,
+		"ML_MATTR": 0.8333333333333334,
+		"MM_MATTR": 0,
+		"MA_MATTR": 0.8333333333333334,
+		"MAJ_MATTR": 1.0,
+		"IC_MATTR": 0,
+		"FL_MATTR": 0.5909090909090909,
+		"J_MATTR": 0.7142857142857143,
+		"E_MATTR": 0.6153846153846154,
+		"X_MATTR": 0.5,
+		"lemma_MTLD": 67.74982658868413,
+		"CL_MTLD": 78.65200000000003,
+		"NL_MTLD": 0.0,
+		"NN_MTLD": 0.0,
+		"NNG_MTLD": 0.0,
+		"NNP_MTLD": 0.0,
+		"NNB_MTLD": 0.0,
+		"NP_MTLD": 0.0,
+		"NR_MTLD": 0.0,
+		"VL_MTLD": 18.62645673196132,
+		"VV_MTLD": 16.96,
+		"VA_MTLD": 4.48,
+		"ML_MTLD": 10.080000000000004,
+		"MM_MTLD": 0.0,
+		"MA_MTLD": 10.080000000000004,
+		"MAJ_MTLD": 0.0,
+		"IC_MTLD": 0.0,
+		"FL_MTLD": 29.787461773700308,
+		"J_MTLD": 14.0,
+		"E_MTLD": 20.24778761061947,
+		"X_MTLD": 2.24,
+		"lemma_VOCDD": 85.41199585845067,
+		"CL_VOCDD": 90.84044408099254,
+		"NL_VOCDD": 0,
+		"NN_VOCDD": 0,
+		"NNG_VOCDD": 0,
+		"NNP_VOCDD": 0,
+		"NNB_VOCDD": 0,
+		"NP_VOCDD": 0,
+		"NR_VOCDD": 0,
+		"VL_VOCDD": 0,
+		"VV_VOCDD": 0,
+		"VA_VOCDD": 0,
+		"ML_VOCDD": 0,
+		"MM_VOCDD": 0,
+		"MA_VOCDD": 0,
+		"MAJ_VOCDD": 0,
+		"IC_VOCDD": 0,
+		"FL_VOCDD": 0,
+		"J_VOCDD": 0,
+		"E_VOCDD": 0,
+		"X_VOCDD": 0,
+		"lemma_HDD": 0.8308074440586475,
+		"CL_HDD": 0.8377571928626311,
+		"NL_HDD": 0.0,
+		"NN_HDD": 0.0,
+		"NNG_HDD": 0.0,
+		"NNP_HDD": 0.0,
+		"NNB_HDD": 0.0,
+		"NP_HDD": 0.0,
+		"NR_HDD": 0.0,
+		"VL_HDD": 0.0,
+		"VV_HDD": 0.0,
+		"VA_HDD": 0.0,
+		"ML_HDD": 0.0,
+		"MM_HDD": 0.0,
+		"MA_HDD": 0.0,
+		"MAJ_HDD": 0.0,
+		"IC_HDD": 0.0,
+		"FL_HDD": 0.6047518373099767,
+		"J_HDD": 0.0,
+		"E_HDD": 0.0,
+		"X_HDD": 0.0
+	},
+	"similarity": {
+		"avgSentSimilarity": 0.1560768485069275,
+		"topicConsistency": 0.5062
+	},
+	"adjacency": {
+		"adjacent_sentence_overlap_all_lemmas": 52,
+		"adjacent_sentence_overlap_all_lemmas_normed": 4,
+		"binary_adjacent_sentence_overlap_all_lemmas": 4,
+		"adjacent_two_sentence_overlap_all_lemmas": 29,
+		"adjacent_two_sentence_overlap_all_lemmas_normed": 3,
+		"binary_adjacent_two_sentence_overlap_all_lemmas": 3,
+		"adjacent_sentence_overlap_content_lemmas": 27,
+		"adjacent_sentence_overlap_content_lemmas_normed": 4,
+		"binary_adjacent_sentence_overlap_content_lemmas": 3,
+		"adjacent_two_sentence_overlap_content_lemmas": 12,
+		"adjacent_two_sentence_overlap_content_lemmas_normed": 3,
+		"binary_adjacent_two_sentence_overlap_content_lemmas": 1,
+		"adjacent_sentence_overlap_function_lemmas": 21,
+		"adjacent_sentence_overlap_function_lemmas_normed": 4,
+		"binary_adjacent_sentence_overlap_function_lemmas": 2,
+		"adjacent_two_sentence_overlap_function_lemmas": 14,
+		"adjacent_two_sentence_overlap_function_lemmas_normed": 3,
+		"binary_adjacent_two_sentence_overlap_function_lemmas": 0,
+		"adjacent_sentence_overlap_noun_lemmas": 5,
+		"adjacent_sentence_overlap_noun_lemmas_normed": 2,
+		"binary_adjacent_sentence_overlap_noun_lemmas": 0,
+		"adjacent_two_sentence_overlap_noun_lemmas": 0,
+		"adjacent_two_sentence_overlap_noun_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_noun_lemmas": 0,
+		"adjacent_sentence_overlap_verb_lemmas": 18,
+		"adjacent_sentence_overlap_verb_lemmas_normed": 4,
+		"binary_adjacent_sentence_overlap_verb_lemmas": 3,
+		"adjacent_two_sentence_overlap_verb_lemmas": 12,
+		"adjacent_two_sentence_overlap_verb_lemmas_normed": 3,
+		"binary_adjacent_two_sentence_overlap_verb_lemmas": 1,
+		"adjacent_sentence_overlap_adjective_lemmas": 2,
+		"adjacent_sentence_overlap_adjective_lemmas_normed": 1,
+		"binary_adjacent_sentence_overlap_adjective_lemmas": 1,
+		"adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_sentence_overlap_adverb_lemmas": 4,
+		"adjacent_sentence_overlap_adverb_lemmas_normed": 1,
+		"binary_adjacent_sentence_overlap_adverb_lemmas": 1,
+		"adjacent_two_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adverb_lemmas": 0
+	},
+	"basic_count": {
+		"para_Cnt": 1,
+		"sentence_Cnt": 5,
+		"word_Cnt": 47,
+		"morph_Cnt": 107,
+		"char_Cnt": 172,
+		"CL_Cnt": 53,
+		"NL_Cnt": 21,
+		"NN_Cnt": 21,
+		"NNG_Cnt": 17,
+		"NNP_Cnt": 0,
+		"NNB_Cnt": 4,
+		"NP_Cnt": 0,
+		"NP_People_Cnt": 0,
+		"NP_Things_Cnt": 0,
+		"NR_Cnt": 0,
+		"VL_Cnt": 26,
+		"VV_Cnt": 16,
+		"VA_Cnt": 4,
+		"VX_Cnt": 5,
+		"VCP_Cnt": 1,
+		"VCN_Cnt": 0,
+		"ML_Cnt": 6,
+		"MA_Cnt": 0,
+		"MM_Cnt": 0,
+		"FL_Cnt": 44,
+		"J_Cnt": 14,
+		"E_Cnt": 26,
+		"X_Cnt": 4,
+		"IC_Cnt": 0
+	},
+	"basic_density": {
+		"CL_Den": 0.4953271028037383,
+		"FL_Den": 0.411214953271028,
+		"NL_Den": 0.19626168224299065,
+		"NNGL_Den": 0.1588785046728972,
+		"NNPL_Den": 0.0,
+		"NNBL_Den": 0.037383177570093455,
+		"NPL_Den": 0.0,
+		"NML_Den": 0.0,
+		"VL_Den": 0.24299065420560748,
+		"VVL_Den": 0.14953271028037382,
+		"VAL_Den": 0.037383177570093455,
+		"ML_Den": 0.056074766355140186,
+		"MML_Den": 0.0,
+		"MAL_Den": 0.0,
+		"JL_Den": 0.1308411214953271,
+		"EL_Den": 0.24299065420560748,
+		"XL_Den": 0.037383177570093455,
+		"ITL_Den": 0.0,
+		"NCL_Den": 0.39622641509433965,
+		"NNCL_Den": 0.32075471698113206,
+		"NNGCL_Den": 0.0,
+		"NNBCL_Den": 0.07547169811320754,
+		"NPCL_Den": 0.0,
+		"NMCL_Den": 0.0,
+		"VCL_Den": 0.49056603773584906,
+		"VVCL_Den": 0.3018867924528302,
+		"VACL_Den": 0.07547169811320754,
+		"MCL_Den": 0.11320754716981132,
+		"MMCL_Den": 0.0,
+		"MACL_Den": 0.0,
+		"INCL_Den": 0.0,
+		"JFL_Den": 0.3181818181818182,
+		"EFL_Den": 0.5909090909090909,
+		"XFL_Den": 0.09090909090909091
+	},
+	"basic_level": {
+		"morph_LenAvg": 1.644859813084112,
+		"morph_LenStd": 0.8344491321700828,
+		"word_LenAvg": 3.3191489361702127,
+		"word_LenStd": 1.3385667625553892
+	},
+	"basic_list": {
+		"NL_Lst": [
+			[
+				0,
+				"요즘",
+				"NNG",
+				"요즘 인터넷에서는 연예인들이나 유명 운동선수등 '학투' 나 '갑질폭로'로 많은 기사들이 쏟아져 나오고 있습니다."
+			],
+			[
+				1,
+				"인터넷",
+				"NNG",
+				"요즘 인터넷에서는 연예인들이나 유명 운동선수등 '학투' 나 '갑질폭로'로 많은 기사들이 쏟아져 나오고 있습니다."
+			],
+			[
+				2,
+				"연예인",
+				"NNG",
+				"요즘 인터넷에서는 연예인들이나 유명 운동선수등 '학투' 나 '갑질폭로'로 많은 기사들이 쏟아져 나오고 있습니다."
+			],
+			[
+				3,
+				"유명",
+				"NNG",
+				"요즘 인터넷에서는 연예인들이나 유명 운동선수등 '학투' 나 '갑질폭로'로 많은 기사들이 쏟아져 나오고 있습니다."
+			],
+			[
+				4,
+				"운동선수",
+				"NNG",
+				"요즘 인터넷에서는 연예인들이나 유명 운동선수등 '학투' 나 '갑질폭로'로 많은 기사들이 쏟아져 나오고 있습니다."
+			],
+			[
+				5,
+				"등",
+				"NNB",
+				"요즘 인터넷에서는 연예인들이나 유명 운동선수등 '학투' 나 '갑질폭로'로 많은 기사들이 쏟아져 나오고 있습니다."
+			],
+			[
+				6,
+				"학투",
+				"NNG",
+				"요즘 인터넷에서는 연예인들이나 유명 운동선수등 '학투' 나 '갑질폭로'로 많은 기사들이 쏟아져 나오고 있습니다."
+			],
+			[
+				7,
+				"갑",
+				"NNG",
+				"요즘 인터넷에서는 연예인들이나 유명 운동선수등 '학투' 나 '갑질폭로'로 많은 기사들이 쏟아져 나오고 있습니다."
+			],
+			[
+				8,
+				"폭로",
+				"NNG",
+				"요즘 인터넷에서는 연예인들이나 유명 운동선수등 '학투' 나 '갑질폭로'로 많은 기사들이 쏟아져 나오고 있습니다."
+			],
+			[
+				9,
+				"기사",
+				"NNG",
+				"요즘 인터넷에서는 연예인들이나 유명 운동선수등 '학투' 나 '갑질폭로'로 많은 기사들이 쏟아져 나오고 있습니다."
+			],
+			[
+				10,
+				"사람",
+				"NNG",
+				"사람은 뿌린대로 거두게 되어있습니다."
+			],
+			[
+				11,
+				"대로",
+				"NNB",
+				"사람은 뿌린대로 거두게 되어있습니다."
+			],
+			[
+				12,
+				"학교",
+				"NNG",
+				"학교에서도 보면 너무 친한친구일 수록 말을 더 막하거나 욕을 하는 것을 종종 볼수 있습니다."
+			],
+			[
+				13,
+				"친구",
+				"NNG",
+				"학교에서도 보면 너무 친한친구일 수록 말을 더 막하거나 욕을 하는 것을 종종 볼수 있습니다."
+			],
+			[
+				14,
+				"말",
+				"NNG",
+				"학교에서도 보면 너무 친한친구일 수록 말을 더 막하거나 욕을 하는 것을 종종 볼수 있습니다."
+			],
+			[
+				15,
+				"욕",
+				"NNG",
+				"학교에서도 보면 너무 친한친구일 수록 말을 더 막하거나 욕을 하는 것을 종종 볼수 있습니다."
+			],
+			[
+				16,
+				"것",
+				"NNB",
+				"학교에서도 보면 너무 친한친구일 수록 말을 더 막하거나 욕을 하는 것을 종종 볼수 있습니다."
+			],
+			[
+				17,
+				"수",
+				"NNB",
+				"학교에서도 보면 너무 친한친구일 수록 말을 더 막하거나 욕을 하는 것을 종종 볼수 있습니다."
+			],
+			[
+				18,
+				"남",
+				"NNG",
+				"남들을 존경하고 무시하지 않으며 말한마디 한마디를 생각하고 내뱉아야 한다고 생각합니다."
+			],
+			[
+				19,
+				"말한마디",
+				"NNG",
+				"남들을 존경하고 무시하지 않으며 말한마디 한마디를 생각하고 내뱉아야 한다고 생각합니다."
+			],
+			[
+				20,
+				"한마디",
+				"NNG",
+				"남들을 존경하고 무시하지 않으며 말한마디 한마디를 생각하고 내뱉아야 한다고 생각합니다."
+			]
+		],
+		"NN_Lst": [
+			[
+				0,
+				"요즘",
+				"NNG",
+				"요즘 인터넷에서는 연예인들이나 유명 운동선수등 '학투' 나 '갑질폭로'로 많은 기사들이 쏟아져 나오고 있습니다."
+			],
+			[
+				1,
+				"인터넷",
+				"NNG",
+				"요즘 인터넷에서는 연예인들이나 유명 운동선수등 '학투' 나 '갑질폭로'로 많은 기사들이 쏟아져 나오고 있습니다."
+			],
+			[
+				2,
+				"연예인",
+				"NNG",
+				"요즘 인터넷에서는 연예인들이나 유명 운동선수등 '학투' 나 '갑질폭로'로 많은 기사들이 쏟아져 나오고 있습니다."
+			],
+			[
+				3,
+				"유명",
+				"NNG",
+				"요즘 인터넷에서는 연예인들이나 유명 운동선수등 '학투' 나 '갑질폭로'로 많은 기사들이 쏟아져 나오고 있습니다."
+			],
+			[
+				4,
+				"운동선수",
+				"NNG",
+				"요즘 인터넷에서는 연예인들이나 유명 운동선수등 '학투' 나 '갑질폭로'로 많은 기사들이 쏟아져 나오고 있습니다."
+			],
+			[
+				5,
+				"등",
+				"NNB",
+				"요즘 인터넷에서는 연예인들이나 유명 운동선수등 '학투' 나 '갑질폭로'로 많은 기사들이 쏟아져 나오고 있습니다."
+			],
+			[
+				6,
+				"학투",
+				"NNG",
+				"요즘 인터넷에서는 연예인들이나 유명 운동선수등 '학투' 나 '갑질폭로'로 많은 기사들이 쏟아져 나오고 있습니다."
+			],
+			[
+				7,
+				"갑",
+				"NNG",
+				"요즘 인터넷에서는 연예인들이나 유명 운동선수등 '학투' 나 '갑질폭로'로 많은 기사들이 쏟아져 나오고 있습니다."
+			],
+			[
+				8,
+				"폭로",
+				"NNG",
+				"요즘 인터넷에서는 연예인들이나 유명 운동선수등 '학투' 나 '갑질폭로'로 많은 기사들이 쏟아져 나오고 있습니다."
+			],
+			[
+				9,
+				"기사",
+				"NNG",
+				"요즘 인터넷에서는 연예인들이나 유명 운동선수등 '학투' 나 '갑질폭로'로 많은 기사들이 쏟아져 나오고 있습니다."
+			],
+			[
+				10,
+				"사람",
+				"NNG",
+				"사람은 뿌린대로 거두게 되어있습니다."
+			],
+			[
+				11,
+				"대로",
+				"NNB",
+				"사람은 뿌린대로 거두게 되어있습니다."
+			],
+			[
+				12,
+				"학교",
+				"NNG",
+				"학교에서도 보면 너무 친한친구일 수록 말을 더 막하거나 욕을 하는 것을 종종 볼수 있습니다."
+			],
+			[
+				13,
+				"친구",
+				"NNG",
+				"학교에서도 보면 너무 친한친구일 수록 말을 더 막하거나 욕을 하는 것을 종종 볼수 있습니다."
+			],
+			[
+				14,
+				"말",
+				"NNG",
+				"학교에서도 보면 너무 친한친구일 수록 말을 더 막하거나 욕을 하는 것을 종종 볼수 있습니다."
+			],
+			[
+				15,
+				"욕",
+				"NNG",
+				"학교에서도 보면 너무 친한친구일 수록 말을 더 막하거나 욕을 하는 것을 종종 볼수 있습니다."
+			],
+			[
+				16,
+				"것",
+				"NNB",
+				"학교에서도 보면 너무 친한친구일 수록 말을 더 막하거나 욕을 하는 것을 종종 볼수 있습니다."
+			],
+			[
+				17,
+				"수",
+				"NNB",
+				"학교에서도 보면 너무 친한친구일 수록 말을 더 막하거나 욕을 하는 것을 종종 볼수 있습니다."
+			],
+			[
+				18,
+				"남",
+				"NNG",
+				"남들을 존경하고 무시하지 않으며 말한마디 한마디를 생각하고 내뱉아야 한다고 생각합니다."
+			],
+			[
+				19,
+				"말한마디",
+				"NNG",
+				"남들을 존경하고 무시하지 않으며 말한마디 한마디를 생각하고 내뱉아야 한다고 생각합니다."
+			],
+			[
+				20,
+				"한마디",
+				"NNG",
+				"남들을 존경하고 무시하지 않으며 말한마디 한마디를 생각하고 내뱉아야 한다고 생각합니다."
+			]
+		],
+		"NNG_Lst": [
+			[
+				0,
+				"요즘",
+				"NNG",
+				"요즘 인터넷에서는 연예인들이나 유명 운동선수등 '학투' 나 '갑질폭로'로 많은 기사들이 쏟아져 나오고 있습니다."
+			],
+			[
+				1,
+				"인터넷",
+				"NNG",
+				"요즘 인터넷에서는 연예인들이나 유명 운동선수등 '학투' 나 '갑질폭로'로 많은 기사들이 쏟아져 나오고 있습니다."
+			],
+			[
+				2,
+				"연예인",
+				"NNG",
+				"요즘 인터넷에서는 연예인들이나 유명 운동선수등 '학투' 나 '갑질폭로'로 많은 기사들이 쏟아져 나오고 있습니다."
+			],
+			[
+				3,
+				"유명",
+				"NNG",
+				"요즘 인터넷에서는 연예인들이나 유명 운동선수등 '학투' 나 '갑질폭로'로 많은 기사들이 쏟아져 나오고 있습니다."
+			],
+			[
+				4,
+				"운동선수",
+				"NNG",
+				"요즘 인터넷에서는 연예인들이나 유명 운동선수등 '학투' 나 '갑질폭로'로 많은 기사들이 쏟아져 나오고 있습니다."
+			],
+			[
+				5,
+				"학투",
+				"NNG",
+				"요즘 인터넷에서는 연예인들이나 유명 운동선수등 '학투' 나 '갑질폭로'로 많은 기사들이 쏟아져 나오고 있습니다."
+			],
+			[
+				6,
+				"갑",
+				"NNG",
+				"요즘 인터넷에서는 연예인들이나 유명 운동선수등 '학투' 나 '갑질폭로'로 많은 기사들이 쏟아져 나오고 있습니다."
+			],
+			[
+				7,
+				"폭로",
+				"NNG",
+				"요즘 인터넷에서는 연예인들이나 유명 운동선수등 '학투' 나 '갑질폭로'로 많은 기사들이 쏟아져 나오고 있습니다."
+			],
+			[
+				8,
+				"기사",
+				"NNG",
+				"요즘 인터넷에서는 연예인들이나 유명 운동선수등 '학투' 나 '갑질폭로'로 많은 기사들이 쏟아져 나오고 있습니다."
+			],
+			[
+				9,
+				"사람",
+				"NNG",
+				"사람은 뿌린대로 거두게 되어있습니다."
+			],
+			[
+				10,
+				"학교",
+				"NNG",
+				"학교에서도 보면 너무 친한친구일 수록 말을 더 막하거나 욕을 하는 것을 종종 볼수 있습니다."
+			],
+			[
+				11,
+				"친구",
+				"NNG",
+				"학교에서도 보면 너무 친한친구일 수록 말을 더 막하거나 욕을 하는 것을 종종 볼수 있습니다."
+			],
+			[
+				12,
+				"말",
+				"NNG",
+				"학교에서도 보면 너무 친한친구일 수록 말을 더 막하거나 욕을 하는 것을 종종 볼수 있습니다."
+			],
+			[
+				13,
+				"욕",
+				"NNG",
+				"학교에서도 보면 너무 친한친구일 수록 말을 더 막하거나 욕을 하는 것을 종종 볼수 있습니다."
+			],
+			[
+				14,
+				"남",
+				"NNG",
+				"남들을 존경하고 무시하지 않으며 말한마디 한마디를 생각하고 내뱉아야 한다고 생각합니다."
+			],
+			[
+				15,
+				"말한마디",
+				"NNG",
+				"남들을 존경하고 무시하지 않으며 말한마디 한마디를 생각하고 내뱉아야 한다고 생각합니다."
+			],
+			[
+				16,
+				"한마디",
+				"NNG",
+				"남들을 존경하고 무시하지 않으며 말한마디 한마디를 생각하고 내뱉아야 한다고 생각합니다."
+			]
+		],
+		"NNP_Lst": [],
+		"NNB_Lst": [
+			[
+				0,
+				"등",
+				"NNB",
+				"요즘 인터넷에서는 연예인들이나 유명 운동선수등 '학투' 나 '갑질폭로'로 많은 기사들이 쏟아져 나오고 있습니다."
+			],
+			[
+				1,
+				"대로",
+				"NNB",
+				"사람은 뿌린대로 거두게 되어있습니다."
+			],
+			[
+				2,
+				"것",
+				"NNB",
+				"학교에서도 보면 너무 친한친구일 수록 말을 더 막하거나 욕을 하는 것을 종종 볼수 있습니다."
+			],
+			[
+				3,
+				"수",
+				"NNB",
+				"학교에서도 보면 너무 친한친구일 수록 말을 더 막하거나 욕을 하는 것을 종종 볼수 있습니다."
+			]
+		],
+		"NP_Lst": [],
+		"NP_People_Lst": [],
+		"NP_Things_Lst": [],
+		"NR_Lst": [],
+		"VL_Lst": [
+			[
+				0,
+				"많",
+				"VA",
+				"요즘 인터넷에서는 연예인들이나 유명 운동선수등 '학투' 나 '갑질폭로'로 많은 기사들이 쏟아져 나오고 있습니다."
+			],
+			[
+				1,
+				"쏟아지",
+				"VV",
+				"요즘 인터넷에서는 연예인들이나 유명 운동선수등 '학투' 나 '갑질폭로'로 많은 기사들이 쏟아져 나오고 있습니다."
+			],
+			[
+				2,
+				"나오",
+				"VV",
+				"요즘 인터넷에서는 연예인들이나 유명 운동선수등 '학투' 나 '갑질폭로'로 많은 기사들이 쏟아져 나오고 있습니다."
+			],
+			[
+				3,
+				"있",
+				"VX",
+				"요즘 인터넷에서는 연예인들이나 유명 운동선수등 '학투' 나 '갑질폭로'로 많은 기사들이 쏟아져 나오고 있습니다."
+			],
+			[
+				4,
+				"뿌리",
+				"VV",
+				"사람은 뿌린대로 거두게 되어있습니다."
+			],
+			[
+				5,
+				"거두",
+				"VV",
+				"사람은 뿌린대로 거두게 되어있습니다."
+			],
+			[
+				6,
+				"되",
+				"VV",
+				"사람은 뿌린대로 거두게 되어있습니다."
+			],
+			[
+				7,
+				"있",
+				"VX",
+				"사람은 뿌린대로 거두게 되어있습니다."
+			],
+			[
+				8,
+				"친하",
+				"VA",
+				"그리고 친할수록 더 조심해야 한다고 생각합니다."
+			],
+			[
+				9,
+				"조심하",
+				"VV",
+				"그리고 친할수록 더 조심해야 한다고 생각합니다."
+			],
+			[
+				10,
+				"하",
+				"VX",
+				"그리고 친할수록 더 조심해야 한다고 생각합니다."
+			],
+			[
+				11,
+				"생각하",
+				"VV",
+				"그리고 친할수록 더 조심해야 한다고 생각합니다."
+			],
+			[
+				12,
+				"보",
+				"VV",
+				"학교에서도 보면 너무 친한친구일 수록 말을 더 막하거나 욕을 하는 것을 종종 볼수 있습니다."
+			],
+			[
+				13,
+				"친하",
+				"VA",
+				"학교에서도 보면 너무 친한친구일 수록 말을 더 막하거나 욕을 하는 것을 종종 볼수 있습니다."
+			],
+			[
+				14,
+				"이",
+				"VCP",
+				"학교에서도 보면 너무 친한친구일 수록 말을 더 막하거나 욕을 하는 것을 종종 볼수 있습니다."
+			],
+			[
+				15,
+				"하",
+				"VV",
+				"학교에서도 보면 너무 친한친구일 수록 말을 더 막하거나 욕을 하는 것을 종종 볼수 있습니다."
+			],
+			[
+				16,
+				"하",
+				"VV",
+				"학교에서도 보면 너무 친한친구일 수록 말을 더 막하거나 욕을 하는 것을 종종 볼수 있습니다."
+			],
+			[
+				17,
+				"보",
+				"VV",
+				"학교에서도 보면 너무 친한친구일 수록 말을 더 막하거나 욕을 하는 것을 종종 볼수 있습니다."
+			],
+			[
+				18,
+				"있",
+				"VA",
+				"학교에서도 보면 너무 친한친구일 수록 말을 더 막하거나 욕을 하는 것을 종종 볼수 있습니다."
+			],
+			[
+				19,
+				"존경하",
+				"VV",
+				"남들을 존경하고 무시하지 않으며 말한마디 한마디를 생각하고 내뱉아야 한다고 생각합니다."
+			],
+			[
+				20,
+				"무시하",
+				"VV",
+				"남들을 존경하고 무시하지 않으며 말한마디 한마디를 생각하고 내뱉아야 한다고 생각합니다."
+			],
+			[
+				21,
+				"않",
+				"VX",
+				"남들을 존경하고 무시하지 않으며 말한마디 한마디를 생각하고 내뱉아야 한다고 생각합니다."
+			],
+			[
+				22,
+				"생각하",
+				"VV",
+				"남들을 존경하고 무시하지 않으며 말한마디 한마디를 생각하고 내뱉아야 한다고 생각합니다."
+			],
+			[
+				23,
+				"내뱉",
+				"VV",
+				"남들을 존경하고 무시하지 않으며 말한마디 한마디를 생각하고 내뱉아야 한다고 생각합니다."
+			],
+			[
+				24,
+				"하",
+				"VX",
+				"남들을 존경하고 무시하지 않으며 말한마디 한마디를 생각하고 내뱉아야 한다고 생각합니다."
+			],
+			[
+				25,
+				"생각하",
+				"VV",
+				"남들을 존경하고 무시하지 않으며 말한마디 한마디를 생각하고 내뱉아야 한다고 생각합니다."
+			]
+		],
+		"VV_Lst": [
+			[
+				0,
+				"쏟아지",
+				"VV",
+				"요즘 인터넷에서는 연예인들이나 유명 운동선수등 '학투' 나 '갑질폭로'로 많은 기사들이 쏟아져 나오고 있습니다."
+			],
+			[
+				1,
+				"나오",
+				"VV",
+				"요즘 인터넷에서는 연예인들이나 유명 운동선수등 '학투' 나 '갑질폭로'로 많은 기사들이 쏟아져 나오고 있습니다."
+			],
+			[
+				2,
+				"뿌리",
+				"VV",
+				"사람은 뿌린대로 거두게 되어있습니다."
+			],
+			[
+				3,
+				"거두",
+				"VV",
+				"사람은 뿌린대로 거두게 되어있습니다."
+			],
+			[
+				4,
+				"되",
+				"VV",
+				"사람은 뿌린대로 거두게 되어있습니다."
+			],
+			[
+				5,
+				"조심하",
+				"VV",
+				"그리고 친할수록 더 조심해야 한다고 생각합니다."
+			],
+			[
+				6,
+				"생각하",
+				"VV",
+				"그리고 친할수록 더 조심해야 한다고 생각합니다."
+			],
+			[
+				7,
+				"보",
+				"VV",
+				"학교에서도 보면 너무 친한친구일 수록 말을 더 막하거나 욕을 하는 것을 종종 볼수 있습니다."
+			],
+			[
+				8,
+				"하",
+				"VV",
+				"학교에서도 보면 너무 친한친구일 수록 말을 더 막하거나 욕을 하는 것을 종종 볼수 있습니다."
+			],
+			[
+				9,
+				"하",
+				"VV",
+				"학교에서도 보면 너무 친한친구일 수록 말을 더 막하거나 욕을 하는 것을 종종 볼수 있습니다."
+			],
+			[
+				10,
+				"보",
+				"VV",
+				"학교에서도 보면 너무 친한친구일 수록 말을 더 막하거나 욕을 하는 것을 종종 볼수 있습니다."
+			],
+			[
+				11,
+				"존경하",
+				"VV",
+				"남들을 존경하고 무시하지 않으며 말한마디 한마디를 생각하고 내뱉아야 한다고 생각합니다."
+			],
+			[
+				12,
+				"무시하",
+				"VV",
+				"남들을 존경하고 무시하지 않으며 말한마디 한마디를 생각하고 내뱉아야 한다고 생각합니다."
+			],
+			[
+				13,
+				"생각하",
+				"VV",
+				"남들을 존경하고 무시하지 않으며 말한마디 한마디를 생각하고 내뱉아야 한다고 생각합니다."
+			],
+			[
+				14,
+				"내뱉",
+				"VV",
+				"남들을 존경하고 무시하지 않으며 말한마디 한마디를 생각하고 내뱉아야 한다고 생각합니다."
+			],
+			[
+				15,
+				"생각하",
+				"VV",
+				"남들을 존경하고 무시하지 않으며 말한마디 한마디를 생각하고 내뱉아야 한다고 생각합니다."
+			]
+		],
+		"VA_Lst": [
+			[
+				0,
+				"많",
+				"VA",
+				"요즘 인터넷에서는 연예인들이나 유명 운동선수등 '학투' 나 '갑질폭로'로 많은 기사들이 쏟아져 나오고 있습니다."
+			],
+			[
+				1,
+				"친하",
+				"VA",
+				"그리고 친할수록 더 조심해야 한다고 생각합니다."
+			],
+			[
+				2,
+				"친하",
+				"VA",
+				"학교에서도 보면 너무 친한친구일 수록 말을 더 막하거나 욕을 하는 것을 종종 볼수 있습니다."
+			],
+			[
+				3,
+				"있",
+				"VA",
+				"학교에서도 보면 너무 친한친구일 수록 말을 더 막하거나 욕을 하는 것을 종종 볼수 있습니다."
+			]
+		],
+		"VX_Lst": [
+			[
+				0,
+				"있",
+				"VX",
+				"요즘 인터넷에서는 연예인들이나 유명 운동선수등 '학투' 나 '갑질폭로'로 많은 기사들이 쏟아져 나오고 있습니다."
+			],
+			[
+				1,
+				"있",
+				"VX",
+				"사람은 뿌린대로 거두게 되어있습니다."
+			],
+			[
+				2,
+				"하",
+				"VX",
+				"그리고 친할수록 더 조심해야 한다고 생각합니다."
+			],
+			[
+				3,
+				"않",
+				"VX",
+				"남들을 존경하고 무시하지 않으며 말한마디 한마디를 생각하고 내뱉아야 한다고 생각합니다."
+			],
+			[
+				4,
+				"하",
+				"VX",
+				"남들을 존경하고 무시하지 않으며 말한마디 한마디를 생각하고 내뱉아야 한다고 생각합니다."
+			]
+		],
+		"VCP_Lst": [
+			[
+				0,
+				"이",
+				"VCP",
+				"학교에서도 보면 너무 친한친구일 수록 말을 더 막하거나 욕을 하는 것을 종종 볼수 있습니다."
+			]
+		],
+		"VCN_Lst": [],
+		"ML_Lst": [
+			[
+				0,
+				"그리고",
+				"MAJ",
+				"그리고 친할수록 더 조심해야 한다고 생각합니다."
+			],
+			[
+				1,
+				"더",
+				"MAG",
+				"그리고 친할수록 더 조심해야 한다고 생각합니다."
+			],
+			[
+				2,
+				"너무",
+				"MAG",
+				"학교에서도 보면 너무 친한친구일 수록 말을 더 막하거나 욕을 하는 것을 종종 볼수 있습니다."
+			],
+			[
+				3,
+				"더",
+				"MAG",
+				"학교에서도 보면 너무 친한친구일 수록 말을 더 막하거나 욕을 하는 것을 종종 볼수 있습니다."
+			],
+			[
+				4,
+				"막",
+				"MAG",
+				"학교에서도 보면 너무 친한친구일 수록 말을 더 막하거나 욕을 하는 것을 종종 볼수 있습니다."
+			],
+			[
+				5,
+				"종종",
+				"MAG",
+				"학교에서도 보면 너무 친한친구일 수록 말을 더 막하거나 욕을 하는 것을 종종 볼수 있습니다."
+			]
+		],
+		"MA_Lst": [],
+		"MM_Lst": [],
+		"J_Lst": [
+			[
+				0,
+				"에서",
+				"JKB",
+				"요즘 인터넷에서는 연예인들이나 유명 운동선수등 '학투' 나 '갑질폭로'로 많은 기사들이 쏟아져 나오고 있습니다."
+			],
+			[
+				1,
+				"는",
+				"JX",
+				"요즘 인터넷에서는 연예인들이나 유명 운동선수등 '학투' 나 '갑질폭로'로 많은 기사들이 쏟아져 나오고 있습니다."
+			],
+			[
+				2,
+				"이나",
+				"JC",
+				"요즘 인터넷에서는 연예인들이나 유명 운동선수등 '학투' 나 '갑질폭로'로 많은 기사들이 쏟아져 나오고 있습니다."
+			],
+			[
+				3,
+				"나",
+				"JC",
+				"요즘 인터넷에서는 연예인들이나 유명 운동선수등 '학투' 나 '갑질폭로'로 많은 기사들이 쏟아져 나오고 있습니다."
+			],
+			[
+				4,
+				"로",
+				"JKB",
+				"요즘 인터넷에서는 연예인들이나 유명 운동선수등 '학투' 나 '갑질폭로'로 많은 기사들이 쏟아져 나오고 있습니다."
+			],
+			[
+				5,
+				"이",
+				"JKS",
+				"요즘 인터넷에서는 연예인들이나 유명 운동선수등 '학투' 나 '갑질폭로'로 많은 기사들이 쏟아져 나오고 있습니다."
+			],
+			[
+				6,
+				"은",
+				"JX",
+				"사람은 뿌린대로 거두게 되어있습니다."
+			],
+			[
+				7,
+				"에서",
+				"JKB",
+				"학교에서도 보면 너무 친한친구일 수록 말을 더 막하거나 욕을 하는 것을 종종 볼수 있습니다."
+			],
+			[
+				8,
+				"도",
+				"JX",
+				"학교에서도 보면 너무 친한친구일 수록 말을 더 막하거나 욕을 하는 것을 종종 볼수 있습니다."
+			],
+			[
+				9,
+				"을",
+				"JKO",
+				"학교에서도 보면 너무 친한친구일 수록 말을 더 막하거나 욕을 하는 것을 종종 볼수 있습니다."
+			],
+			[
+				10,
+				"을",
+				"JKO",
+				"학교에서도 보면 너무 친한친구일 수록 말을 더 막하거나 욕을 하는 것을 종종 볼수 있습니다."
+			],
+			[
+				11,
+				"을",
+				"JKO",
+				"학교에서도 보면 너무 친한친구일 수록 말을 더 막하거나 욕을 하는 것을 종종 볼수 있습니다."
+			],
+			[
+				12,
+				"을",
+				"JKO",
+				"남들을 존경하고 무시하지 않으며 말한마디 한마디를 생각하고 내뱉아야 한다고 생각합니다."
+			],
+			[
+				13,
+				"를",
+				"JKO",
+				"남들을 존경하고 무시하지 않으며 말한마디 한마디를 생각하고 내뱉아야 한다고 생각합니다."
+			]
+		],
+		"E_Lst": [
+			[
+				0,
+				"은",
+				"ETM",
+				"요즘 인터넷에서는 연예인들이나 유명 운동선수등 '학투' 나 '갑질폭로'로 많은 기사들이 쏟아져 나오고 있습니다."
+			],
+			[
+				1,
+				"어",
+				"EC",
+				"요즘 인터넷에서는 연예인들이나 유명 운동선수등 '학투' 나 '갑질폭로'로 많은 기사들이 쏟아져 나오고 있습니다."
+			],
+			[
+				2,
+				"고",
+				"EC",
+				"요즘 인터넷에서는 연예인들이나 유명 운동선수등 '학투' 나 '갑질폭로'로 많은 기사들이 쏟아져 나오고 있습니다."
+			],
+			[
+				3,
+				"습니다",
+				"EF",
+				"요즘 인터넷에서는 연예인들이나 유명 운동선수등 '학투' 나 '갑질폭로'로 많은 기사들이 쏟아져 나오고 있습니다."
+			],
+			[
+				4,
+				"ㄴ",
+				"ETM",
+				"사람은 뿌린대로 거두게 되어있습니다."
+			],
+			[
+				5,
+				"게",
+				"EC",
+				"사람은 뿌린대로 거두게 되어있습니다."
+			],
+			[
+				6,
+				"어",
+				"EC",
+				"사람은 뿌린대로 거두게 되어있습니다."
+			],
+			[
+				7,
+				"습니다",
+				"EF",
+				"사람은 뿌린대로 거두게 되어있습니다."
+			],
+			[
+				8,
+				"ㄹ수록",
+				"EC",
+				"그리고 친할수록 더 조심해야 한다고 생각합니다."
+			],
+			[
+				9,
+				"아야",
+				"EC",
+				"그리고 친할수록 더 조심해야 한다고 생각합니다."
+			],
+			[
+				10,
+				"ㄴ다고",
+				"EC",
+				"그리고 친할수록 더 조심해야 한다고 생각합니다."
+			],
+			[
+				11,
+				"ㅂ니다",
+				"EF",
+				"그리고 친할수록 더 조심해야 한다고 생각합니다."
+			],
+			[
+				12,
+				"면",
+				"EC",
+				"학교에서도 보면 너무 친한친구일 수록 말을 더 막하거나 욕을 하는 것을 종종 볼수 있습니다."
+			],
+			[
+				13,
+				"ㄴ",
+				"ETM",
+				"학교에서도 보면 너무 친한친구일 수록 말을 더 막하거나 욕을 하는 것을 종종 볼수 있습니다."
+			],
+			[
+				14,
+				"ㄹ",
+				"ETM",
+				"학교에서도 보면 너무 친한친구일 수록 말을 더 막하거나 욕을 하는 것을 종종 볼수 있습니다."
+			],
+			[
+				15,
+				"거나",
+				"EC",
+				"학교에서도 보면 너무 친한친구일 수록 말을 더 막하거나 욕을 하는 것을 종종 볼수 있습니다."
+			],
+			[
+				16,
+				"는",
+				"ETM",
+				"학교에서도 보면 너무 친한친구일 수록 말을 더 막하거나 욕을 하는 것을 종종 볼수 있습니다."
+			],
+			[
+				17,
+				"ㄹ",
+				"ETM",
+				"학교에서도 보면 너무 친한친구일 수록 말을 더 막하거나 욕을 하는 것을 종종 볼수 있습니다."
+			],
+			[
+				18,
+				"습니다",
+				"EF",
+				"학교에서도 보면 너무 친한친구일 수록 말을 더 막하거나 욕을 하는 것을 종종 볼수 있습니다."
+			],
+			[
+				19,
+				"고",
+				"EC",
+				"남들을 존경하고 무시하지 않으며 말한마디 한마디를 생각하고 내뱉아야 한다고 생각합니다."
+			],
+			[
+				20,
+				"지",
+				"EC",
+				"남들을 존경하고 무시하지 않으며 말한마디 한마디를 생각하고 내뱉아야 한다고 생각합니다."
+			],
+			[
+				21,
+				"으며",
+				"EC",
+				"남들을 존경하고 무시하지 않으며 말한마디 한마디를 생각하고 내뱉아야 한다고 생각합니다."
+			],
+			[
+				22,
+				"고",
+				"EC",
+				"남들을 존경하고 무시하지 않으며 말한마디 한마디를 생각하고 내뱉아야 한다고 생각합니다."
+			],
+			[
+				23,
+				"아야",
+				"EC",
+				"남들을 존경하고 무시하지 않으며 말한마디 한마디를 생각하고 내뱉아야 한다고 생각합니다."
+			],
+			[
+				24,
+				"ㄴ다고",
+				"EC",
+				"남들을 존경하고 무시하지 않으며 말한마디 한마디를 생각하고 내뱉아야 한다고 생각합니다."
+			],
+			[
+				25,
+				"ㅂ니다",
+				"EF",
+				"남들을 존경하고 무시하지 않으며 말한마디 한마디를 생각하고 내뱉아야 한다고 생각합니다."
+			]
+		],
+		"X_Lst": [
+			[
+				0,
+				"들",
+				"XSN",
+				"요즘 인터넷에서는 연예인들이나 유명 운동선수등 '학투' 나 '갑질폭로'로 많은 기사들이 쏟아져 나오고 있습니다."
+			],
+			[
+				1,
+				"질",
+				"XSN",
+				"요즘 인터넷에서는 연예인들이나 유명 운동선수등 '학투' 나 '갑질폭로'로 많은 기사들이 쏟아져 나오고 있습니다."
+			],
+			[
+				2,
+				"들",
+				"XSN",
+				"요즘 인터넷에서는 연예인들이나 유명 운동선수등 '학투' 나 '갑질폭로'로 많은 기사들이 쏟아져 나오고 있습니다."
+			],
+			[
+				3,
+				"들",
+				"XSN",
+				"남들을 존경하고 무시하지 않으며 말한마디 한마디를 생각하고 내뱉아야 한다고 생각합니다."
+			]
+		],
+		"IC_Lst": []
+	},
+	"NDW": {
+		"morph_NDW": 76,
+		"NL_NDW": 21,
+		"NNG_NDW": 17,
+		"NNP_NDW": 0,
+		"NNB_NDW": 4,
+		"NP_NDW": 0,
+		"NR_NDW": 0,
+		"VL_NDW": 26,
+		"VV_NDW": 16,
+		"VA_NDW": 4,
+		"ML_NDW": 6,
+		"MM_NDW": 0,
+		"IC_NDW": 0,
+		"J_NDW": 14,
+		"E_NDW": 26,
+		"X_NDW": 4,
+		"CL_NDW": 53,
+		"FL_NDW": 44
+	}
+}

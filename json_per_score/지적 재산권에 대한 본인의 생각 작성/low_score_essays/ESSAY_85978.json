@@ -1,0 +1,4051 @@
+﻿{
+	"morpheme": {
+		"sentences": [
+			{
+				"text": {
+					"content": "백신 지식재산권(지적재산권, 특허권) 문제는 국제 여론과 정치적 득실을 따져본 바이든 대통령의 의해 겨우 한발을 떼었을 뿐이다.",
+					"length": 71,
+					"beginOffset": 0
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "백신",
+							"length": 2,
+							"beginOffset": 0
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "백신",
+									"length": 2,
+									"beginOffset": 0
+								},
+								"tag": "NNG",
+								"probability": 0.9809023,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "백신",
+						"tagged": "백신/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "지식재산권(지적재산권,",
+							"beginOffset": 3,
+							"length": 12
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "지식",
+									"beginOffset": 3,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "재산권",
+									"beginOffset": 5,
+									"length": 3
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "(",
+									"beginOffset": 8,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.99973446,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "지적",
+									"beginOffset": 9,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "재산권",
+									"beginOffset": 11,
+									"length": 3
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 14,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.9996508,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "지식",
+						"tagged": "지식/NNG+재산권/NNG+(/SS+지적/NNG+재산권/NNG+,/SP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "특허권)",
+							"beginOffset": 16,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "특허",
+									"beginOffset": 16,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97772413,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "권",
+									"beginOffset": 18,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.98920065,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ")",
+									"beginOffset": 19,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.99982274,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "특허",
+						"tagged": "특허/NNG+권/XSN+)/SS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "문제는",
+							"beginOffset": 21,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "문제",
+									"beginOffset": 21,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98541063,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 23,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99924654,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "문제",
+						"tagged": "문제/NNG+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "국제",
+							"beginOffset": 25,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "국제",
+									"beginOffset": 25,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98232466,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "국제",
+						"tagged": "국제/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "여론과",
+							"beginOffset": 28,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "여론",
+									"beginOffset": 28,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98485804,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "과",
+									"beginOffset": 30,
+									"length": 1
+								},
+								"tag": "JC",
+								"probability": 0.6609089,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "여론",
+						"tagged": "여론/NNG+과/JC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "정치적",
+							"beginOffset": 32,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "정치",
+									"beginOffset": 32,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9847632,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "적",
+									"beginOffset": 34,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.9886828,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "정치",
+						"tagged": "정치/NNG+적/XSN",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "득실을",
+							"beginOffset": 36,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "득실",
+									"beginOffset": 36,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98462725,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 38,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.999903,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "득실",
+						"tagged": "득실/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "따져",
+							"beginOffset": 40,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "따지",
+									"beginOffset": 40,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9877828,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어",
+									"beginOffset": 41,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9955078,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "따지",
+						"tagged": "따지/VV+어/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "본",
+							"beginOffset": 42,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "보",
+									"beginOffset": 42,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.9739291,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 42,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99993175,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "보",
+						"tagged": "보/VX+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "바이든",
+							"beginOffset": 44,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "바이든",
+									"beginOffset": 44,
+									"length": 3
+								},
+								"tag": "NNP",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							}
+						],
+						"lemma": "바이든",
+						"tagged": "바이든/NNP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "대통령의",
+							"beginOffset": 48,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "대통령",
+									"beginOffset": 48,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9840068,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 51,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9998728,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "대통령",
+						"tagged": "대통령/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "의해",
+							"beginOffset": 53,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "의하",
+									"beginOffset": 53,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9863654,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 54,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9937831,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "의하",
+						"tagged": "의하/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "겨우",
+							"beginOffset": 56,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "겨우",
+									"beginOffset": 56,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.98364645,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "겨우",
+						"tagged": "겨우/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "한",
+							"beginOffset": 59,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "한",
+									"beginOffset": 59,
+									"length": 1
+								},
+								"tag": "MMN",
+								"probability": 0.999729,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "한",
+						"tagged": "한/MMN",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "발을",
+							"beginOffset": 60,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "발",
+									"beginOffset": 60,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.80027425,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 61,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999482,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "발",
+						"tagged": "발/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "떼었을",
+							"beginOffset": 63,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "떼",
+									"beginOffset": 63,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.98993427,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 64,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99990183,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 65,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999637,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "떼",
+						"tagged": "떼/VV+었/EP+을/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "뿐이다.",
+							"beginOffset": 67,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "뿐",
+									"beginOffset": 67,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9769174,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 68,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.99920267,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 69,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.98948276,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 70,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99933475,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "뿐",
+						"tagged": "뿐/NNB+이/VCP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "백신 지식재산권(지적재산권, 특허권) 문제는 국제 여론과 정치적 득실을 따져 본 바이든 대통령의 의해 겨우 한 발을 떼었을 뿐이다."
+			},
+			{
+				"text": {
+					"content": "그러면서도 생산시설만 갖추는데 6개월이 걸린다는 이유를 백신 지식재산권 반대를 위한 논리로 사용한다.",
+					"beginOffset": 72,
+					"length": 56
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "그러면서도",
+							"beginOffset": 72,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그러",
+									"beginOffset": 72,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.98859906,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "면서",
+									"beginOffset": 74,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99275655,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 76,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99959105,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그러",
+						"tagged": "그러/VV+면서/EC+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "생산시설만",
+							"beginOffset": 78,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "생산",
+									"beginOffset": 78,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "시설",
+									"beginOffset": 80,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "만",
+									"beginOffset": 82,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99859256,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "생산",
+						"tagged": "생산/NNG+시설/NNG+만/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "갖추는데",
+							"beginOffset": 84,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "갖추",
+									"beginOffset": 84,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.98881984,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는데",
+									"beginOffset": 86,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99504524,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "갖추",
+						"tagged": "갖추/VV+는데/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "6개월이",
+							"beginOffset": 89,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "6",
+									"beginOffset": 89,
+									"length": 1
+								},
+								"tag": "SN",
+								"probability": 0.99518716,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "개월",
+									"beginOffset": 90,
+									"length": 2
+								},
+								"tag": "NNB",
+								"probability": 0.9823315,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 92,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.98145413,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "6",
+						"tagged": "6/SN+개월/NNB+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "걸린다는",
+							"beginOffset": 94,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "걸리",
+									"beginOffset": 94,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.98952186,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ다는",
+									"beginOffset": 95,
+									"length": 3
+								},
+								"tag": "ETM",
+								"probability": 0.9998142,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "걸리",
+						"tagged": "걸리/VV+ㄴ다는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이유를",
+							"beginOffset": 99,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이유",
+									"beginOffset": 99,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98601604,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 101,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9998897,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이유",
+						"tagged": "이유/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "백신",
+							"beginOffset": 103,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "백신",
+									"beginOffset": 103,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9834681,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "백신",
+						"tagged": "백신/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "지식재산권",
+							"beginOffset": 106,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "지식",
+									"beginOffset": 106,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "재산권",
+									"beginOffset": 108,
+									"length": 3
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							}
+						],
+						"lemma": "지식",
+						"tagged": "지식/NNG+재산권/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "반대를",
+							"beginOffset": 112,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "반대",
+									"beginOffset": 112,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9862358,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 114,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.999936,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "반대",
+						"tagged": "반대/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "위한",
+							"beginOffset": 116,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "위하",
+									"beginOffset": 116,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.98754364,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 117,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999795,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "위하",
+						"tagged": "위하/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "논리로",
+							"beginOffset": 119,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "논리",
+									"beginOffset": 119,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9802757,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "로",
+									"beginOffset": 121,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9954886,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "논리",
+						"tagged": "논리/NNG+로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사용한다.",
+							"beginOffset": 123,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사용하",
+									"beginOffset": 123,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ다",
+									"beginOffset": 125,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.99199104,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 127,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9999144,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사용하",
+						"tagged": "사용하/VV+ㄴ다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "그러면서도 생산시설만 갖추는데 6개월이 걸린다는 이유를 백신 지식재산권 반대를 위한 논리로 사용한다."
+			},
+			{
+				"text": {
+					"content": "지금까지 세계의 정치인들과 제약회사들은 무엇을 했는가?",
+					"beginOffset": 129,
+					"length": 30
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "지금까지",
+							"beginOffset": 129,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "지금",
+									"beginOffset": 129,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98161227,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "까지",
+									"beginOffset": 131,
+									"length": 2
+								},
+								"tag": "JX",
+								"probability": 0.99844515,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "지금",
+						"tagged": "지금/NNG+까지/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "세계의",
+							"beginOffset": 134,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "세계",
+									"beginOffset": 134,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9839424,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 136,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9995292,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "세계",
+						"tagged": "세계/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "정치인들과",
+							"beginOffset": 138,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "정치인",
+									"beginOffset": 138,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9833024,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "들",
+									"beginOffset": 141,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.99115056,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "과",
+									"beginOffset": 142,
+									"length": 1
+								},
+								"tag": "JC",
+								"probability": 0.9275744,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "정치인",
+						"tagged": "정치인/NNG+들/XSN+과/JC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "제약회사들은",
+							"beginOffset": 144,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "제약",
+									"beginOffset": 144,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9793486,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "회사",
+									"beginOffset": 146,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9838013,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "들",
+									"beginOffset": 148,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.9877464,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 149,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9992635,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "제약",
+						"tagged": "제약/NNG+회사/NNG+들/XSN+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "무엇을",
+							"beginOffset": 151,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "무엇",
+									"beginOffset": 151,
+									"length": 2
+								},
+								"tag": "NP",
+								"probability": 0.9814306,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 153,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999204,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "무엇",
+						"tagged": "무엇/NP+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "했는가?",
+							"beginOffset": 155,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 155,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9721048,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 155,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9998277,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는가",
+									"beginOffset": 156,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.9899769,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "?",
+									"beginOffset": 158,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9997542,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VV+았/EP+는가/EF+?/SF",
+						"modified": ""
+					}
+				],
+				"refined": "지금까지 세계의 정치인들과 제약회사들은 무엇을 했는가?"
+			},
+			{
+				"text": {
+					"content": "사람이 초단위로 죽어나가지만 아직도 입시름은 끝나지 않았고 어느만큼의 입씨름을 해야 결론에 다다를지도 모른다.",
+					"beginOffset": 160,
+					"length": 61
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "사람이",
+							"beginOffset": 160,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사람",
+									"beginOffset": 160,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9853183,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 162,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.89888775,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사람",
+						"tagged": "사람/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "초단위로",
+							"beginOffset": 164,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "초",
+									"beginOffset": 164,
+									"length": 1
+								},
+								"tag": "XPN",
+								"probability": 0.99081165,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "단위",
+									"beginOffset": 165,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9853578,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "로",
+									"beginOffset": 167,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9976212,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "초",
+						"tagged": "초/XPN+단위/NNG+로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "죽어",
+							"beginOffset": 169,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "죽",
+									"beginOffset": 169,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9911604,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어",
+									"beginOffset": 170,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9898805,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "죽",
+						"tagged": "죽/VV+어/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "나가지만",
+							"beginOffset": 171,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "나가",
+									"beginOffset": 171,
+									"length": 2
+								},
+								"tag": "VX",
+								"probability": 0.94807017,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "지만",
+									"beginOffset": 173,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9844857,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "나가",
+						"tagged": "나가/VX+지만/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "아직도",
+							"beginOffset": 176,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "아직",
+									"beginOffset": 176,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.98715127,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 178,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.998549,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "아직",
+						"tagged": "아직/MAG+도/JX",
+						"modified": "아직도"
+					},
+					{
+						"text": {
+							"content": "입시름은",
+							"beginOffset": 180,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "입시름",
+									"beginOffset": 180,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9113928,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 183,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9962993,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "입시름",
+						"tagged": "입시름/NNG+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "끝나지",
+							"beginOffset": 185,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "끝나",
+									"beginOffset": 185,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9892993,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "지",
+									"beginOffset": 187,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99273235,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "끝나",
+						"tagged": "끝나/VV+지/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "않았고",
+							"beginOffset": 189,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "않",
+									"beginOffset": 189,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.9652564,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 190,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9999593,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 191,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.993177,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "않",
+						"tagged": "않/VX+았/EP+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "어느",
+							"beginOffset": 193,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "어느",
+									"beginOffset": 193,
+									"length": 2
+								},
+								"tag": "MMD",
+								"probability": 0.9997902,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "어느",
+						"tagged": "어느/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "만큼의",
+							"beginOffset": 195,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "만큼",
+									"beginOffset": 195,
+									"length": 2
+								},
+								"tag": "NNB",
+								"probability": 0.9662599,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 197,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9987612,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "만큼",
+						"tagged": "만큼/NNB+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "입씨름을",
+							"beginOffset": 199,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "입씨름",
+									"beginOffset": 199,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9832543,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 202,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9998994,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "입씨름",
+						"tagged": "입씨름/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "해야",
+							"beginOffset": 204,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 204,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9703634,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아야",
+									"beginOffset": 204,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9911825,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VV+아야/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "결론에",
+							"beginOffset": 207,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "결론",
+									"beginOffset": 207,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9842722,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 209,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9755422,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "결론",
+						"tagged": "결론/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "다다를지도",
+							"beginOffset": 211,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "다다르",
+									"beginOffset": 211,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.99171144,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ지",
+									"beginOffset": 213,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.8588525,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 215,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99918264,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "다다르",
+						"tagged": "다다르/VV+ㄹ지/EF+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "모른다.",
+							"beginOffset": 217,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "모르",
+									"beginOffset": 217,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9868057,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ다",
+									"beginOffset": 218,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.9899154,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 220,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9998124,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "모르",
+						"tagged": "모르/VV+ㄴ다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "사람이 초단위로 죽어 나가지만 아직도 입시름은 끝나지 않았고 어느 만큼의 입씨름을 해야 결론에 다다를지도 모른다."
+			},
+			{
+				"text": {
+					"content": "그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다.",
+					"beginOffset": 222,
+					"length": 63
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "그래서",
+							"beginOffset": 222,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그래서",
+									"beginOffset": 222,
+									"length": 3
+								},
+								"tag": "MAJ",
+								"probability": 0.9978846,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그래서",
+						"tagged": "그래서/MAJ",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "어서",
+							"beginOffset": 226,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "어서",
+									"beginOffset": 226,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9846676,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "어서",
+						"tagged": "어서/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "빨리",
+							"beginOffset": 229,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "빨리",
+									"beginOffset": 229,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9775847,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "빨리",
+						"tagged": "빨리/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "백신에",
+							"beginOffset": 232,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "백신",
+									"beginOffset": 232,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9760573,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 234,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9788713,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "백신",
+						"tagged": "백신/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "대한",
+							"beginOffset": 236,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "대하",
+									"beginOffset": 236,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9892049,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 237,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999508,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "대하",
+						"tagged": "대하/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "지적재산권이",
+							"beginOffset": 239,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "지적",
+									"beginOffset": 239,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "재산권",
+									"beginOffset": 241,
+									"length": 3
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 244,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9675838,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "지적",
+						"tagged": "지적/NNG+재산권/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "완화되어",
+							"beginOffset": 246,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "완화되",
+									"beginOffset": 246,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "어",
+									"beginOffset": 249,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.97344714,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "완화되",
+						"tagged": "완화되/VV+어/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "전",
+							"beginOffset": 251,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "전",
+									"beginOffset": 251,
+									"length": 1
+								},
+								"tag": "MMN",
+								"probability": 0.9963808,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "전",
+						"tagged": "전/MMN",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "세계적으로",
+							"beginOffset": 253,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "세계",
+									"beginOffset": 253,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9788816,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "적",
+									"beginOffset": 255,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.9884117,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으로",
+									"beginOffset": 256,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9974637,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "세계",
+						"tagged": "세계/NNG+적/XSN+으로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "유행하는",
+							"beginOffset": 259,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "유행하",
+									"beginOffset": 259,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 262,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99977535,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "유행하",
+						"tagged": "유행하/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "코로나가",
+							"beginOffset": 264,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "코로나",
+									"beginOffset": 264,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9121986,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 267,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.91931564,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "코로나",
+						"tagged": "코로나/NNG+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "빨리",
+							"beginOffset": 269,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "빨리",
+									"beginOffset": 269,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9867849,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "빨리",
+						"tagged": "빨리/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "종식되었으면",
+							"beginOffset": 272,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "종식되",
+									"beginOffset": 272,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 275,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9999623,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으면",
+									"beginOffset": 276,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99324495,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "종식되",
+						"tagged": "종식되/VV+었/EP+으면/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "좋겠습니다.",
+							"beginOffset": 279,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "좋",
+									"beginOffset": 279,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9851326,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "겠",
+									"beginOffset": 280,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9998579,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "습니다",
+									"beginOffset": 281,
+									"length": 3
+								},
+								"tag": "EF",
+								"probability": 0.9837271,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 284,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99959475,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "좋",
+						"tagged": "좋/VA+겠/EP+습니다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			}
+		],
+		"language": "ko_KR"
+	},
+	"ttr": {
+		"lemma_Cnt": 135,
+		"lemma_TTR": 0.7291666666666666,
+		"CL_TTR": 0.8571428571428571,
+		"NL_TTR": 0.8048780487804879,
+		"NN_TTR": 0.8,
+		"NNG_TTR": 0.7777777777777778,
+		"NNP_TTR": 1.0,
+		"NNB_TTR": 1.0,
+		"NP_TTR": 1.0,
+		"NR_TTR": 0,
+		"VL_TTR": 0.9565217391304348,
+		"VV_TTR": 0.9444444444444444,
+		"VA_TTR": 1.0,
+		"ML_TTR": 0.8333333333333334,
+		"MM_TTR": 0,
+		"MA_TTR": 0.8333333333333334,
+		"MAJ_TTR": 1.0,
+		"IC_TTR": 0,
+		"FL_TTR": 0.5967741935483871,
+		"J_TTR": 0.5,
+		"E_TTR": 0.75,
+		"X_TTR": 0.6666666666666666,
+		"lemma_RTTR": 8.75,
+		"CL_RTTR": 7.171371656006362,
+		"NL_RTTR": 5.153734142324001,
+		"NN_RTTR": 5.059644256269407,
+		"NNG_RTTR": 4.666666666666667,
+		"NNP_RTTR": 1.0,
+		"NNB_RTTR": 1.7320508075688774,
+		"NP_RTTR": 1.0,
+		"NR_RTTR": 0,
+		"VL_RTTR": 4.587317109255645,
+		"VV_RTTR": 4.00693842672377,
+		"VA_RTTR": 1.0,
+		"ML_RTTR": 2.041241452319315,
+		"MM_RTTR": 0,
+		"MA_RTTR": 2.041241452319315,
+		"MAJ_RTTR": 1.0,
+		"IC_RTTR": 0,
+		"FL_RTTR": 4.699004699007048,
+		"J_RTTR": 2.6457513110645903,
+		"E_RTTR": 3.9686269665968856,
+		"X_RTTR": 1.6329931618554523,
+		"lemma_CTTR": 6.187184335382291,
+		"CL_CTTR": 5.0709255283711,
+		"NL_CTTR": 3.6442403604699356,
+		"NN_CTTR": 3.5777087639996634,
+		"NNG_CTTR": 3.299831645537222,
+		"NNP_CTTR": 0.7071067811865475,
+		"NNB_CTTR": 1.2247448713915892,
+		"NP_CTTR": 0.7071067811865475,
+		"NR_CTTR": 0,
+		"VL_CTTR": 3.243723035407737,
+		"VV_CTTR": 2.8333333333333335,
+		"VA_CTTR": 0.7071067811865475,
+		"ML_CTTR": 1.4433756729740645,
+		"MM_CTTR": 0,
+		"MA_CTTR": 1.4433756729740645,
+		"MAJ_CTTR": 0.7071067811865475,
+		"IC_CTTR": 0,
+		"FL_CTTR": 3.322698087495336,
+		"J_CTTR": 1.8708286933869707,
+		"E_CTTR": 2.806243040080456,
+		"X_CTTR": 1.1547005383792517,
+		"lemma_MSTTR": 0.91,
+		"CL_MSTTR": 0.92,
+		"NL_MSTTR": 0.8048780487804879,
+		"NN_MSTTR": 0.8,
+		"NNG_MSTTR": 0.7777777777777778,
+		"NNP_MSTTR": 1.0,
+		"NNB_MSTTR": 1.0,
+		"NP_MSTTR": 1.0,
+		"NR_MSTTR": 0,
+		"VL_MSTTR": 0.9565217391304348,
+		"VV_MSTTR": 0.9444444444444444,
+		"VA_MSTTR": 1.0,
+		"ML_MSTTR": 0.8333333333333334,
+		"MM_MSTTR": 0,
+		"MA_MSTTR": 0.8333333333333334,
+		"MAJ_MSTTR": 1.0,
+		"IC_MSTTR": 0,
+		"FL_MSTTR": 0.64,
+		"J_MSTTR": 0.5,
+		"E_MSTTR": 0.75,
+		"X_MSTTR": 0.6666666666666666,
+		"lemma_MATTR": 0.8993684210526312,
+		"CL_MATTR": 0.9457142857142857,
+		"NL_MATTR": 0.8048780487804879,
+		"NN_MATTR": 0.8,
+		"NNG_MATTR": 0.7777777777777778,
+		"NNP_MATTR": 1.0,
+		"NNB_MATTR": 1.0,
+		"NP_MATTR": 1.0,
+		"NR_MATTR": 0,
+		"VL_MATTR": 0.9565217391304348,
+		"VV_MATTR": 0.9444444444444444,
+		"VA_MATTR": 1.0,
+		"ML_MATTR": 0.8333333333333334,
+		"MM_MATTR": 0,
+		"MA_MATTR": 0.8333333333333334,
+		"MAJ_MATTR": 1.0,
+		"IC_MATTR": 0,
+		"FL_MATTR": 0.6338461538461537,
+		"J_MATTR": 0.5,
+		"E_MATTR": 0.75,
+		"X_MATTR": 0.6666666666666666,
+		"lemma_MTLD": 148.87384615384616,
+		"CL_MTLD": 137.19999999999996,
+		"NL_MTLD": 58.83500000000002,
+		"NN_MTLD": 56.000000000000014,
+		"NNG_MTLD": 45.36000000000001,
+		"NNP_MTLD": 0.0,
+		"NNB_MTLD": 0.0,
+		"NP_MTLD": 0.0,
+		"NR_MTLD": 0.0,
+		"VL_MTLD": 148.12000000000012,
+		"VV_MTLD": 90.71999999999997,
+		"VA_MTLD": 0.0,
+		"ML_MTLD": 10.080000000000004,
+		"MM_MTLD": 0.0,
+		"MA_MTLD": 10.080000000000004,
+		"MAJ_MTLD": 0.0,
+		"IC_MTLD": 0.0,
+		"FL_MTLD": 44.63813813813814,
+		"J_MTLD": 14.0,
+		"E_MTLD": 31.360000000000003,
+		"X_MTLD": 5.04,
+		"lemma_VOCDD": 163.1324563434528,
+		"CL_VOCDD": 177.30509749020817,
+		"NL_VOCDD": 0,
+		"NN_VOCDD": 0,
+		"NNG_VOCDD": 0,
+		"NNP_VOCDD": 0,
+		"NNB_VOCDD": 0,
+		"NP_VOCDD": 0,
+		"NR_VOCDD": 0,
+		"VL_VOCDD": 0,
+		"VV_VOCDD": 0,
+		"VA_VOCDD": 0,
+		"ML_VOCDD": 0,
+		"MM_VOCDD": 0,
+		"MA_VOCDD": 0,
+		"MAJ_VOCDD": 0,
+		"IC_VOCDD": 0,
+		"FL_VOCDD": 33.50175337214363,
+		"J_VOCDD": 0,
+		"E_VOCDD": 0,
+		"X_VOCDD": 0,
+		"lemma_HDD": 0.896471550708139,
+		"CL_HDD": 0.9032193798999146,
+		"NL_HDD": 0.0,
+		"NN_HDD": 0.0,
+		"NNG_HDD": 0.0,
+		"NNP_HDD": 0.0,
+		"NNB_HDD": 0.0,
+		"NP_HDD": 0.0,
+		"NR_HDD": 0.0,
+		"VL_HDD": 0.0,
+		"VV_HDD": 0.0,
+		"VA_HDD": 0.0,
+		"ML_HDD": 0.0,
+		"MM_HDD": 0.0,
+		"MA_HDD": 0.0,
+		"MAJ_HDD": 0.0,
+		"IC_HDD": 0.0,
+		"FL_HDD": 0.6973819510486934,
+		"J_HDD": 0.0,
+		"E_HDD": 0.0,
+		"X_HDD": 0.0
+	},
+	"similarity": {
+		"avgSentSimilarity": 0.2259957492351532,
+		"topicConsistency": 0.5086
+	},
+	"adjacency": {
+		"adjacent_sentence_overlap_all_lemmas": 76,
+		"adjacent_sentence_overlap_all_lemmas_normed": 4,
+		"binary_adjacent_sentence_overlap_all_lemmas": 3,
+		"adjacent_two_sentence_overlap_all_lemmas": 41,
+		"adjacent_two_sentence_overlap_all_lemmas_normed": 3,
+		"binary_adjacent_two_sentence_overlap_all_lemmas": 2,
+		"adjacent_sentence_overlap_content_lemmas": 42,
+		"adjacent_sentence_overlap_content_lemmas_normed": 4,
+		"binary_adjacent_sentence_overlap_content_lemmas": 2,
+		"adjacent_two_sentence_overlap_content_lemmas": 25,
+		"adjacent_two_sentence_overlap_content_lemmas_normed": 3,
+		"binary_adjacent_two_sentence_overlap_content_lemmas": 1,
+		"adjacent_sentence_overlap_function_lemmas": 30,
+		"adjacent_sentence_overlap_function_lemmas_normed": 4,
+		"binary_adjacent_sentence_overlap_function_lemmas": 3,
+		"adjacent_two_sentence_overlap_function_lemmas": 13,
+		"adjacent_two_sentence_overlap_function_lemmas_normed": 3,
+		"binary_adjacent_two_sentence_overlap_function_lemmas": 1,
+		"adjacent_sentence_overlap_noun_lemmas": 24,
+		"adjacent_sentence_overlap_noun_lemmas_normed": 4,
+		"binary_adjacent_sentence_overlap_noun_lemmas": 1,
+		"adjacent_two_sentence_overlap_noun_lemmas": 15,
+		"adjacent_two_sentence_overlap_noun_lemmas_normed": 3,
+		"binary_adjacent_two_sentence_overlap_noun_lemmas": 0,
+		"adjacent_sentence_overlap_verb_lemmas": 15,
+		"adjacent_sentence_overlap_verb_lemmas_normed": 4,
+		"binary_adjacent_sentence_overlap_verb_lemmas": 2,
+		"adjacent_two_sentence_overlap_verb_lemmas": 10,
+		"adjacent_two_sentence_overlap_verb_lemmas_normed": 3,
+		"binary_adjacent_two_sentence_overlap_verb_lemmas": 0,
+		"adjacent_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_sentence_overlap_adjective_lemmas_normed": 0,
+		"binary_adjacent_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_sentence_overlap_adverb_lemmas": 3,
+		"adjacent_sentence_overlap_adverb_lemmas_normed": 1,
+		"binary_adjacent_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adverb_lemmas": 0
+	},
+	"basic_count": {
+		"para_Cnt": 1,
+		"sentence_Cnt": 5,
+		"word_Cnt": 61,
+		"morph_Cnt": 144,
+		"char_Cnt": 232,
+		"CL_Cnt": 70,
+		"NL_Cnt": 41,
+		"NN_Cnt": 40,
+		"NNG_Cnt": 36,
+		"NNP_Cnt": 1,
+		"NNB_Cnt": 3,
+		"NP_Cnt": 1,
+		"NP_People_Cnt": 0,
+		"NP_Things_Cnt": 1,
+		"NR_Cnt": 0,
+		"VL_Cnt": 23,
+		"VV_Cnt": 18,
+		"VA_Cnt": 1,
+		"VX_Cnt": 3,
+		"VCP_Cnt": 1,
+		"VCN_Cnt": 0,
+		"ML_Cnt": 6,
+		"MA_Cnt": 0,
+		"MM_Cnt": 0,
+		"FL_Cnt": 62,
+		"J_Cnt": 28,
+		"E_Cnt": 28,
+		"X_Cnt": 6,
+		"IC_Cnt": 0
+	},
+	"basic_density": {
+		"CL_Den": 0.4861111111111111,
+		"FL_Den": 0.4305555555555556,
+		"NL_Den": 0.2777777777777778,
+		"NNGL_Den": 0.25,
+		"NNPL_Den": 0.006944444444444444,
+		"NNBL_Den": 0.020833333333333332,
+		"NPL_Den": 0.006944444444444444,
+		"NML_Den": 0.0,
+		"VL_Den": 0.1597222222222222,
+		"VVL_Den": 0.125,
+		"VAL_Den": 0.006944444444444444,
+		"ML_Den": 0.041666666666666664,
+		"MML_Den": 0.0,
+		"MAL_Den": 0.0,
+		"JL_Den": 0.19444444444444445,
+		"EL_Den": 0.19444444444444445,
+		"XL_Den": 0.041666666666666664,
+		"ITL_Den": 0.0,
+		"NCL_Den": 0.5714285714285714,
+		"NNCL_Den": 0.5142857142857142,
+		"NNGCL_Den": 0.014285714285714285,
+		"NNBCL_Den": 0.04285714285714286,
+		"NPCL_Den": 0.014285714285714285,
+		"NMCL_Den": 0.0,
+		"VCL_Den": 0.32857142857142857,
+		"VVCL_Den": 0.2571428571428571,
+		"VACL_Den": 0.014285714285714285,
+		"MCL_Den": 0.08571428571428572,
+		"MMCL_Den": 0.0,
+		"MACL_Den": 0.0,
+		"INCL_Den": 0.0,
+		"JFL_Den": 0.45161290322580644,
+		"EFL_Den": 0.45161290322580644,
+		"XFL_Den": 0.0967741935483871
+	},
+	"basic_level": {
+		"morph_LenAvg": 1.6388888888888888,
+		"morph_LenStd": 0.6933324430193711,
+		"word_LenAvg": 3.557377049180328,
+		"word_LenStd": 1.4317774138293797
+	},
+	"basic_list": {
+		"NL_Lst": [
+			[
+				0,
+				"백신",
+				"NNG",
+				"백신 지식재산권(지적재산권, 특허권) 문제는 국제 여론과 정치적 득실을 따져본 바이든 대통령의 의해 겨우 한발을 떼었을 뿐이다."
+			],
+			[
+				1,
+				"지식",
+				"NNG",
+				"백신 지식재산권(지적재산권, 특허권) 문제는 국제 여론과 정치적 득실을 따져본 바이든 대통령의 의해 겨우 한발을 떼었을 뿐이다."
+			],
+			[
+				2,
+				"재산권",
+				"NNG",
+				"백신 지식재산권(지적재산권, 특허권) 문제는 국제 여론과 정치적 득실을 따져본 바이든 대통령의 의해 겨우 한발을 떼었을 뿐이다."
+			],
+			[
+				3,
+				"지적",
+				"NNG",
+				"백신 지식재산권(지적재산권, 특허권) 문제는 국제 여론과 정치적 득실을 따져본 바이든 대통령의 의해 겨우 한발을 떼었을 뿐이다."
+			],
+			[
+				4,
+				"재산권",
+				"NNG",
+				"백신 지식재산권(지적재산권, 특허권) 문제는 국제 여론과 정치적 득실을 따져본 바이든 대통령의 의해 겨우 한발을 떼었을 뿐이다."
+			],
+			[
+				5,
+				"특허",
+				"NNG",
+				"백신 지식재산권(지적재산권, 특허권) 문제는 국제 여론과 정치적 득실을 따져본 바이든 대통령의 의해 겨우 한발을 떼었을 뿐이다."
+			],
+			[
+				6,
+				"문제",
+				"NNG",
+				"백신 지식재산권(지적재산권, 특허권) 문제는 국제 여론과 정치적 득실을 따져본 바이든 대통령의 의해 겨우 한발을 떼었을 뿐이다."
+			],
+			[
+				7,
+				"국제",
+				"NNG",
+				"백신 지식재산권(지적재산권, 특허권) 문제는 국제 여론과 정치적 득실을 따져본 바이든 대통령의 의해 겨우 한발을 떼었을 뿐이다."
+			],
+			[
+				8,
+				"여론",
+				"NNG",
+				"백신 지식재산권(지적재산권, 특허권) 문제는 국제 여론과 정치적 득실을 따져본 바이든 대통령의 의해 겨우 한발을 떼었을 뿐이다."
+			],
+			[
+				9,
+				"정치",
+				"NNG",
+				"백신 지식재산권(지적재산권, 특허권) 문제는 국제 여론과 정치적 득실을 따져본 바이든 대통령의 의해 겨우 한발을 떼었을 뿐이다."
+			],
+			[
+				10,
+				"득실",
+				"NNG",
+				"백신 지식재산권(지적재산권, 특허권) 문제는 국제 여론과 정치적 득실을 따져본 바이든 대통령의 의해 겨우 한발을 떼었을 뿐이다."
+			],
+			[
+				11,
+				"바이든",
+				"NNP",
+				"백신 지식재산권(지적재산권, 특허권) 문제는 국제 여론과 정치적 득실을 따져본 바이든 대통령의 의해 겨우 한발을 떼었을 뿐이다."
+			],
+			[
+				12,
+				"대통령",
+				"NNG",
+				"백신 지식재산권(지적재산권, 특허권) 문제는 국제 여론과 정치적 득실을 따져본 바이든 대통령의 의해 겨우 한발을 떼었을 뿐이다."
+			],
+			[
+				13,
+				"발",
+				"NNG",
+				"백신 지식재산권(지적재산권, 특허권) 문제는 국제 여론과 정치적 득실을 따져본 바이든 대통령의 의해 겨우 한발을 떼었을 뿐이다."
+			],
+			[
+				14,
+				"뿐",
+				"NNB",
+				"백신 지식재산권(지적재산권, 특허권) 문제는 국제 여론과 정치적 득실을 따져본 바이든 대통령의 의해 겨우 한발을 떼었을 뿐이다."
+			],
+			[
+				15,
+				"생산",
+				"NNG",
+				"그러면서도 생산시설만 갖추는데 6개월이 걸린다는 이유를 백신 지식재산권 반대를 위한 논리로 사용한다."
+			],
+			[
+				16,
+				"시설",
+				"NNG",
+				"그러면서도 생산시설만 갖추는데 6개월이 걸린다는 이유를 백신 지식재산권 반대를 위한 논리로 사용한다."
+			],
+			[
+				17,
+				"개월",
+				"NNB",
+				"그러면서도 생산시설만 갖추는데 6개월이 걸린다는 이유를 백신 지식재산권 반대를 위한 논리로 사용한다."
+			],
+			[
+				18,
+				"이유",
+				"NNG",
+				"그러면서도 생산시설만 갖추는데 6개월이 걸린다는 이유를 백신 지식재산권 반대를 위한 논리로 사용한다."
+			],
+			[
+				19,
+				"백신",
+				"NNG",
+				"그러면서도 생산시설만 갖추는데 6개월이 걸린다는 이유를 백신 지식재산권 반대를 위한 논리로 사용한다."
+			],
+			[
+				20,
+				"지식",
+				"NNG",
+				"그러면서도 생산시설만 갖추는데 6개월이 걸린다는 이유를 백신 지식재산권 반대를 위한 논리로 사용한다."
+			],
+			[
+				21,
+				"재산권",
+				"NNG",
+				"그러면서도 생산시설만 갖추는데 6개월이 걸린다는 이유를 백신 지식재산권 반대를 위한 논리로 사용한다."
+			],
+			[
+				22,
+				"반대",
+				"NNG",
+				"그러면서도 생산시설만 갖추는데 6개월이 걸린다는 이유를 백신 지식재산권 반대를 위한 논리로 사용한다."
+			],
+			[
+				23,
+				"논리",
+				"NNG",
+				"그러면서도 생산시설만 갖추는데 6개월이 걸린다는 이유를 백신 지식재산권 반대를 위한 논리로 사용한다."
+			],
+			[
+				24,
+				"지금",
+				"NNG",
+				"지금까지 세계의 정치인들과 제약회사들은 무엇을 했는가?"
+			],
+			[
+				25,
+				"세계",
+				"NNG",
+				"지금까지 세계의 정치인들과 제약회사들은 무엇을 했는가?"
+			],
+			[
+				26,
+				"정치인",
+				"NNG",
+				"지금까지 세계의 정치인들과 제약회사들은 무엇을 했는가?"
+			],
+			[
+				27,
+				"제약",
+				"NNG",
+				"지금까지 세계의 정치인들과 제약회사들은 무엇을 했는가?"
+			],
+			[
+				28,
+				"회사",
+				"NNG",
+				"지금까지 세계의 정치인들과 제약회사들은 무엇을 했는가?"
+			],
+			[
+				29,
+				"무엇",
+				"NP",
+				"지금까지 세계의 정치인들과 제약회사들은 무엇을 했는가?"
+			],
+			[
+				30,
+				"사람",
+				"NNG",
+				"사람이 초단위로 죽어나가지만 아직도 입시름은 끝나지 않았고 어느만큼의 입씨름을 해야 결론에 다다를지도 모른다."
+			],
+			[
+				31,
+				"단위",
+				"NNG",
+				"사람이 초단위로 죽어나가지만 아직도 입시름은 끝나지 않았고 어느만큼의 입씨름을 해야 결론에 다다를지도 모른다."
+			],
+			[
+				32,
+				"입시름",
+				"NNG",
+				"사람이 초단위로 죽어나가지만 아직도 입시름은 끝나지 않았고 어느만큼의 입씨름을 해야 결론에 다다를지도 모른다."
+			],
+			[
+				33,
+				"만큼",
+				"NNB",
+				"사람이 초단위로 죽어나가지만 아직도 입시름은 끝나지 않았고 어느만큼의 입씨름을 해야 결론에 다다를지도 모른다."
+			],
+			[
+				34,
+				"입씨름",
+				"NNG",
+				"사람이 초단위로 죽어나가지만 아직도 입시름은 끝나지 않았고 어느만큼의 입씨름을 해야 결론에 다다를지도 모른다."
+			],
+			[
+				35,
+				"결론",
+				"NNG",
+				"사람이 초단위로 죽어나가지만 아직도 입시름은 끝나지 않았고 어느만큼의 입씨름을 해야 결론에 다다를지도 모른다."
+			],
+			[
+				36,
+				"백신",
+				"NNG",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			],
+			[
+				37,
+				"지적",
+				"NNG",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			],
+			[
+				38,
+				"재산권",
+				"NNG",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			],
+			[
+				39,
+				"세계",
+				"NNG",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			],
+			[
+				40,
+				"코로나",
+				"NNG",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			]
+		],
+		"NN_Lst": [
+			[
+				0,
+				"백신",
+				"NNG",
+				"백신 지식재산권(지적재산권, 특허권) 문제는 국제 여론과 정치적 득실을 따져본 바이든 대통령의 의해 겨우 한발을 떼었을 뿐이다."
+			],
+			[
+				1,
+				"지식",
+				"NNG",
+				"백신 지식재산권(지적재산권, 특허권) 문제는 국제 여론과 정치적 득실을 따져본 바이든 대통령의 의해 겨우 한발을 떼었을 뿐이다."
+			],
+			[
+				2,
+				"재산권",
+				"NNG",
+				"백신 지식재산권(지적재산권, 특허권) 문제는 국제 여론과 정치적 득실을 따져본 바이든 대통령의 의해 겨우 한발을 떼었을 뿐이다."
+			],
+			[
+				3,
+				"지적",
+				"NNG",
+				"백신 지식재산권(지적재산권, 특허권) 문제는 국제 여론과 정치적 득실을 따져본 바이든 대통령의 의해 겨우 한발을 떼었을 뿐이다."
+			],
+			[
+				4,
+				"재산권",
+				"NNG",
+				"백신 지식재산권(지적재산권, 특허권) 문제는 국제 여론과 정치적 득실을 따져본 바이든 대통령의 의해 겨우 한발을 떼었을 뿐이다."
+			],
+			[
+				5,
+				"특허",
+				"NNG",
+				"백신 지식재산권(지적재산권, 특허권) 문제는 국제 여론과 정치적 득실을 따져본 바이든 대통령의 의해 겨우 한발을 떼었을 뿐이다."
+			],
+			[
+				6,
+				"문제",
+				"NNG",
+				"백신 지식재산권(지적재산권, 특허권) 문제는 국제 여론과 정치적 득실을 따져본 바이든 대통령의 의해 겨우 한발을 떼었을 뿐이다."
+			],
+			[
+				7,
+				"국제",
+				"NNG",
+				"백신 지식재산권(지적재산권, 특허권) 문제는 국제 여론과 정치적 득실을 따져본 바이든 대통령의 의해 겨우 한발을 떼었을 뿐이다."
+			],
+			[
+				8,
+				"여론",
+				"NNG",
+				"백신 지식재산권(지적재산권, 특허권) 문제는 국제 여론과 정치적 득실을 따져본 바이든 대통령의 의해 겨우 한발을 떼었을 뿐이다."
+			],
+			[
+				9,
+				"정치",
+				"NNG",
+				"백신 지식재산권(지적재산권, 특허권) 문제는 국제 여론과 정치적 득실을 따져본 바이든 대통령의 의해 겨우 한발을 떼었을 뿐이다."
+			],
+			[
+				10,
+				"득실",
+				"NNG",
+				"백신 지식재산권(지적재산권, 특허권) 문제는 국제 여론과 정치적 득실을 따져본 바이든 대통령의 의해 겨우 한발을 떼었을 뿐이다."
+			],
+			[
+				11,
+				"바이든",
+				"NNP",
+				"백신 지식재산권(지적재산권, 특허권) 문제는 국제 여론과 정치적 득실을 따져본 바이든 대통령의 의해 겨우 한발을 떼었을 뿐이다."
+			],
+			[
+				12,
+				"대통령",
+				"NNG",
+				"백신 지식재산권(지적재산권, 특허권) 문제는 국제 여론과 정치적 득실을 따져본 바이든 대통령의 의해 겨우 한발을 떼었을 뿐이다."
+			],
+			[
+				13,
+				"발",
+				"NNG",
+				"백신 지식재산권(지적재산권, 특허권) 문제는 국제 여론과 정치적 득실을 따져본 바이든 대통령의 의해 겨우 한발을 떼었을 뿐이다."
+			],
+			[
+				14,
+				"뿐",
+				"NNB",
+				"백신 지식재산권(지적재산권, 특허권) 문제는 국제 여론과 정치적 득실을 따져본 바이든 대통령의 의해 겨우 한발을 떼었을 뿐이다."
+			],
+			[
+				15,
+				"생산",
+				"NNG",
+				"그러면서도 생산시설만 갖추는데 6개월이 걸린다는 이유를 백신 지식재산권 반대를 위한 논리로 사용한다."
+			],
+			[
+				16,
+				"시설",
+				"NNG",
+				"그러면서도 생산시설만 갖추는데 6개월이 걸린다는 이유를 백신 지식재산권 반대를 위한 논리로 사용한다."
+			],
+			[
+				17,
+				"개월",
+				"NNB",
+				"그러면서도 생산시설만 갖추는데 6개월이 걸린다는 이유를 백신 지식재산권 반대를 위한 논리로 사용한다."
+			],
+			[
+				18,
+				"이유",
+				"NNG",
+				"그러면서도 생산시설만 갖추는데 6개월이 걸린다는 이유를 백신 지식재산권 반대를 위한 논리로 사용한다."
+			],
+			[
+				19,
+				"백신",
+				"NNG",
+				"그러면서도 생산시설만 갖추는데 6개월이 걸린다는 이유를 백신 지식재산권 반대를 위한 논리로 사용한다."
+			],
+			[
+				20,
+				"지식",
+				"NNG",
+				"그러면서도 생산시설만 갖추는데 6개월이 걸린다는 이유를 백신 지식재산권 반대를 위한 논리로 사용한다."
+			],
+			[
+				21,
+				"재산권",
+				"NNG",
+				"그러면서도 생산시설만 갖추는데 6개월이 걸린다는 이유를 백신 지식재산권 반대를 위한 논리로 사용한다."
+			],
+			[
+				22,
+				"반대",
+				"NNG",
+				"그러면서도 생산시설만 갖추는데 6개월이 걸린다는 이유를 백신 지식재산권 반대를 위한 논리로 사용한다."
+			],
+			[
+				23,
+				"논리",
+				"NNG",
+				"그러면서도 생산시설만 갖추는데 6개월이 걸린다는 이유를 백신 지식재산권 반대를 위한 논리로 사용한다."
+			],
+			[
+				24,
+				"지금",
+				"NNG",
+				"지금까지 세계의 정치인들과 제약회사들은 무엇을 했는가?"
+			],
+			[
+				25,
+				"세계",
+				"NNG",
+				"지금까지 세계의 정치인들과 제약회사들은 무엇을 했는가?"
+			],
+			[
+				26,
+				"정치인",
+				"NNG",
+				"지금까지 세계의 정치인들과 제약회사들은 무엇을 했는가?"
+			],
+			[
+				27,
+				"제약",
+				"NNG",
+				"지금까지 세계의 정치인들과 제약회사들은 무엇을 했는가?"
+			],
+			[
+				28,
+				"회사",
+				"NNG",
+				"지금까지 세계의 정치인들과 제약회사들은 무엇을 했는가?"
+			],
+			[
+				29,
+				"사람",
+				"NNG",
+				"사람이 초단위로 죽어나가지만 아직도 입시름은 끝나지 않았고 어느만큼의 입씨름을 해야 결론에 다다를지도 모른다."
+			],
+			[
+				30,
+				"단위",
+				"NNG",
+				"사람이 초단위로 죽어나가지만 아직도 입시름은 끝나지 않았고 어느만큼의 입씨름을 해야 결론에 다다를지도 모른다."
+			],
+			[
+				31,
+				"입시름",
+				"NNG",
+				"사람이 초단위로 죽어나가지만 아직도 입시름은 끝나지 않았고 어느만큼의 입씨름을 해야 결론에 다다를지도 모른다."
+			],
+			[
+				32,
+				"만큼",
+				"NNB",
+				"사람이 초단위로 죽어나가지만 아직도 입시름은 끝나지 않았고 어느만큼의 입씨름을 해야 결론에 다다를지도 모른다."
+			],
+			[
+				33,
+				"입씨름",
+				"NNG",
+				"사람이 초단위로 죽어나가지만 아직도 입시름은 끝나지 않았고 어느만큼의 입씨름을 해야 결론에 다다를지도 모른다."
+			],
+			[
+				34,
+				"결론",
+				"NNG",
+				"사람이 초단위로 죽어나가지만 아직도 입시름은 끝나지 않았고 어느만큼의 입씨름을 해야 결론에 다다를지도 모른다."
+			],
+			[
+				35,
+				"백신",
+				"NNG",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			],
+			[
+				36,
+				"지적",
+				"NNG",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			],
+			[
+				37,
+				"재산권",
+				"NNG",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			],
+			[
+				38,
+				"세계",
+				"NNG",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			],
+			[
+				39,
+				"코로나",
+				"NNG",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			]
+		],
+		"NNG_Lst": [
+			[
+				0,
+				"백신",
+				"NNG",
+				"백신 지식재산권(지적재산권, 특허권) 문제는 국제 여론과 정치적 득실을 따져본 바이든 대통령의 의해 겨우 한발을 떼었을 뿐이다."
+			],
+			[
+				1,
+				"지식",
+				"NNG",
+				"백신 지식재산권(지적재산권, 특허권) 문제는 국제 여론과 정치적 득실을 따져본 바이든 대통령의 의해 겨우 한발을 떼었을 뿐이다."
+			],
+			[
+				2,
+				"재산권",
+				"NNG",
+				"백신 지식재산권(지적재산권, 특허권) 문제는 국제 여론과 정치적 득실을 따져본 바이든 대통령의 의해 겨우 한발을 떼었을 뿐이다."
+			],
+			[
+				3,
+				"지적",
+				"NNG",
+				"백신 지식재산권(지적재산권, 특허권) 문제는 국제 여론과 정치적 득실을 따져본 바이든 대통령의 의해 겨우 한발을 떼었을 뿐이다."
+			],
+			[
+				4,
+				"재산권",
+				"NNG",
+				"백신 지식재산권(지적재산권, 특허권) 문제는 국제 여론과 정치적 득실을 따져본 바이든 대통령의 의해 겨우 한발을 떼었을 뿐이다."
+			],
+			[
+				5,
+				"특허",
+				"NNG",
+				"백신 지식재산권(지적재산권, 특허권) 문제는 국제 여론과 정치적 득실을 따져본 바이든 대통령의 의해 겨우 한발을 떼었을 뿐이다."
+			],
+			[
+				6,
+				"문제",
+				"NNG",
+				"백신 지식재산권(지적재산권, 특허권) 문제는 국제 여론과 정치적 득실을 따져본 바이든 대통령의 의해 겨우 한발을 떼었을 뿐이다."
+			],
+			[
+				7,
+				"국제",
+				"NNG",
+				"백신 지식재산권(지적재산권, 특허권) 문제는 국제 여론과 정치적 득실을 따져본 바이든 대통령의 의해 겨우 한발을 떼었을 뿐이다."
+			],
+			[
+				8,
+				"여론",
+				"NNG",
+				"백신 지식재산권(지적재산권, 특허권) 문제는 국제 여론과 정치적 득실을 따져본 바이든 대통령의 의해 겨우 한발을 떼었을 뿐이다."
+			],
+			[
+				9,
+				"정치",
+				"NNG",
+				"백신 지식재산권(지적재산권, 특허권) 문제는 국제 여론과 정치적 득실을 따져본 바이든 대통령의 의해 겨우 한발을 떼었을 뿐이다."
+			],
+			[
+				10,
+				"득실",
+				"NNG",
+				"백신 지식재산권(지적재산권, 특허권) 문제는 국제 여론과 정치적 득실을 따져본 바이든 대통령의 의해 겨우 한발을 떼었을 뿐이다."
+			],
+			[
+				11,
+				"대통령",
+				"NNG",
+				"백신 지식재산권(지적재산권, 특허권) 문제는 국제 여론과 정치적 득실을 따져본 바이든 대통령의 의해 겨우 한발을 떼었을 뿐이다."
+			],
+			[
+				12,
+				"발",
+				"NNG",
+				"백신 지식재산권(지적재산권, 특허권) 문제는 국제 여론과 정치적 득실을 따져본 바이든 대통령의 의해 겨우 한발을 떼었을 뿐이다."
+			],
+			[
+				13,
+				"생산",
+				"NNG",
+				"그러면서도 생산시설만 갖추는데 6개월이 걸린다는 이유를 백신 지식재산권 반대를 위한 논리로 사용한다."
+			],
+			[
+				14,
+				"시설",
+				"NNG",
+				"그러면서도 생산시설만 갖추는데 6개월이 걸린다는 이유를 백신 지식재산권 반대를 위한 논리로 사용한다."
+			],
+			[
+				15,
+				"이유",
+				"NNG",
+				"그러면서도 생산시설만 갖추는데 6개월이 걸린다는 이유를 백신 지식재산권 반대를 위한 논리로 사용한다."
+			],
+			[
+				16,
+				"백신",
+				"NNG",
+				"그러면서도 생산시설만 갖추는데 6개월이 걸린다는 이유를 백신 지식재산권 반대를 위한 논리로 사용한다."
+			],
+			[
+				17,
+				"지식",
+				"NNG",
+				"그러면서도 생산시설만 갖추는데 6개월이 걸린다는 이유를 백신 지식재산권 반대를 위한 논리로 사용한다."
+			],
+			[
+				18,
+				"재산권",
+				"NNG",
+				"그러면서도 생산시설만 갖추는데 6개월이 걸린다는 이유를 백신 지식재산권 반대를 위한 논리로 사용한다."
+			],
+			[
+				19,
+				"반대",
+				"NNG",
+				"그러면서도 생산시설만 갖추는데 6개월이 걸린다는 이유를 백신 지식재산권 반대를 위한 논리로 사용한다."
+			],
+			[
+				20,
+				"논리",
+				"NNG",
+				"그러면서도 생산시설만 갖추는데 6개월이 걸린다는 이유를 백신 지식재산권 반대를 위한 논리로 사용한다."
+			],
+			[
+				21,
+				"지금",
+				"NNG",
+				"지금까지 세계의 정치인들과 제약회사들은 무엇을 했는가?"
+			],
+			[
+				22,
+				"세계",
+				"NNG",
+				"지금까지 세계의 정치인들과 제약회사들은 무엇을 했는가?"
+			],
+			[
+				23,
+				"정치인",
+				"NNG",
+				"지금까지 세계의 정치인들과 제약회사들은 무엇을 했는가?"
+			],
+			[
+				24,
+				"제약",
+				"NNG",
+				"지금까지 세계의 정치인들과 제약회사들은 무엇을 했는가?"
+			],
+			[
+				25,
+				"회사",
+				"NNG",
+				"지금까지 세계의 정치인들과 제약회사들은 무엇을 했는가?"
+			],
+			[
+				26,
+				"사람",
+				"NNG",
+				"사람이 초단위로 죽어나가지만 아직도 입시름은 끝나지 않았고 어느만큼의 입씨름을 해야 결론에 다다를지도 모른다."
+			],
+			[
+				27,
+				"단위",
+				"NNG",
+				"사람이 초단위로 죽어나가지만 아직도 입시름은 끝나지 않았고 어느만큼의 입씨름을 해야 결론에 다다를지도 모른다."
+			],
+			[
+				28,
+				"입시름",
+				"NNG",
+				"사람이 초단위로 죽어나가지만 아직도 입시름은 끝나지 않았고 어느만큼의 입씨름을 해야 결론에 다다를지도 모른다."
+			],
+			[
+				29,
+				"입씨름",
+				"NNG",
+				"사람이 초단위로 죽어나가지만 아직도 입시름은 끝나지 않았고 어느만큼의 입씨름을 해야 결론에 다다를지도 모른다."
+			],
+			[
+				30,
+				"결론",
+				"NNG",
+				"사람이 초단위로 죽어나가지만 아직도 입시름은 끝나지 않았고 어느만큼의 입씨름을 해야 결론에 다다를지도 모른다."
+			],
+			[
+				31,
+				"백신",
+				"NNG",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			],
+			[
+				32,
+				"지적",
+				"NNG",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			],
+			[
+				33,
+				"재산권",
+				"NNG",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			],
+			[
+				34,
+				"세계",
+				"NNG",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			],
+			[
+				35,
+				"코로나",
+				"NNG",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			]
+		],
+		"NNP_Lst": [
+			[
+				0,
+				"바이든",
+				"NNP",
+				"백신 지식재산권(지적재산권, 특허권) 문제는 국제 여론과 정치적 득실을 따져본 바이든 대통령의 의해 겨우 한발을 떼었을 뿐이다."
+			]
+		],
+		"NNB_Lst": [
+			[
+				0,
+				"뿐",
+				"NNB",
+				"백신 지식재산권(지적재산권, 특허권) 문제는 국제 여론과 정치적 득실을 따져본 바이든 대통령의 의해 겨우 한발을 떼었을 뿐이다."
+			],
+			[
+				1,
+				"개월",
+				"NNB",
+				"그러면서도 생산시설만 갖추는데 6개월이 걸린다는 이유를 백신 지식재산권 반대를 위한 논리로 사용한다."
+			],
+			[
+				2,
+				"만큼",
+				"NNB",
+				"사람이 초단위로 죽어나가지만 아직도 입시름은 끝나지 않았고 어느만큼의 입씨름을 해야 결론에 다다를지도 모른다."
+			]
+		],
+		"NP_Lst": [
+			[
+				0,
+				"무엇",
+				"NP",
+				"지금까지 세계의 정치인들과 제약회사들은 무엇을 했는가?"
+			]
+		],
+		"NP_People_Lst": [],
+		"NP_Things_Lst": [
+			[
+				0,
+				"무엇",
+				"NP",
+				"지금까지 세계의 정치인들과 제약회사들은 무엇을 했는가?"
+			]
+		],
+		"NR_Lst": [],
+		"VL_Lst": [
+			[
+				0,
+				"따지",
+				"VV",
+				"백신 지식재산권(지적재산권, 특허권) 문제는 국제 여론과 정치적 득실을 따져본 바이든 대통령의 의해 겨우 한발을 떼었을 뿐이다."
+			],
+			[
+				1,
+				"보",
+				"VX",
+				"백신 지식재산권(지적재산권, 특허권) 문제는 국제 여론과 정치적 득실을 따져본 바이든 대통령의 의해 겨우 한발을 떼었을 뿐이다."
+			],
+			[
+				2,
+				"의하",
+				"VV",
+				"백신 지식재산권(지적재산권, 특허권) 문제는 국제 여론과 정치적 득실을 따져본 바이든 대통령의 의해 겨우 한발을 떼었을 뿐이다."
+			],
+			[
+				3,
+				"떼",
+				"VV",
+				"백신 지식재산권(지적재산권, 특허권) 문제는 국제 여론과 정치적 득실을 따져본 바이든 대통령의 의해 겨우 한발을 떼었을 뿐이다."
+			],
+			[
+				4,
+				"이",
+				"VCP",
+				"백신 지식재산권(지적재산권, 특허권) 문제는 국제 여론과 정치적 득실을 따져본 바이든 대통령의 의해 겨우 한발을 떼었을 뿐이다."
+			],
+			[
+				5,
+				"그러",
+				"VV",
+				"그러면서도 생산시설만 갖추는데 6개월이 걸린다는 이유를 백신 지식재산권 반대를 위한 논리로 사용한다."
+			],
+			[
+				6,
+				"갖추",
+				"VV",
+				"그러면서도 생산시설만 갖추는데 6개월이 걸린다는 이유를 백신 지식재산권 반대를 위한 논리로 사용한다."
+			],
+			[
+				7,
+				"걸리",
+				"VV",
+				"그러면서도 생산시설만 갖추는데 6개월이 걸린다는 이유를 백신 지식재산권 반대를 위한 논리로 사용한다."
+			],
+			[
+				8,
+				"위하",
+				"VV",
+				"그러면서도 생산시설만 갖추는데 6개월이 걸린다는 이유를 백신 지식재산권 반대를 위한 논리로 사용한다."
+			],
+			[
+				9,
+				"사용하",
+				"VV",
+				"그러면서도 생산시설만 갖추는데 6개월이 걸린다는 이유를 백신 지식재산권 반대를 위한 논리로 사용한다."
+			],
+			[
+				10,
+				"하",
+				"VV",
+				"지금까지 세계의 정치인들과 제약회사들은 무엇을 했는가?"
+			],
+			[
+				11,
+				"죽",
+				"VV",
+				"사람이 초단위로 죽어나가지만 아직도 입시름은 끝나지 않았고 어느만큼의 입씨름을 해야 결론에 다다를지도 모른다."
+			],
+			[
+				12,
+				"나가",
+				"VX",
+				"사람이 초단위로 죽어나가지만 아직도 입시름은 끝나지 않았고 어느만큼의 입씨름을 해야 결론에 다다를지도 모른다."
+			],
+			[
+				13,
+				"끝나",
+				"VV",
+				"사람이 초단위로 죽어나가지만 아직도 입시름은 끝나지 않았고 어느만큼의 입씨름을 해야 결론에 다다를지도 모른다."
+			],
+			[
+				14,
+				"않",
+				"VX",
+				"사람이 초단위로 죽어나가지만 아직도 입시름은 끝나지 않았고 어느만큼의 입씨름을 해야 결론에 다다를지도 모른다."
+			],
+			[
+				15,
+				"하",
+				"VV",
+				"사람이 초단위로 죽어나가지만 아직도 입시름은 끝나지 않았고 어느만큼의 입씨름을 해야 결론에 다다를지도 모른다."
+			],
+			[
+				16,
+				"다다르",
+				"VV",
+				"사람이 초단위로 죽어나가지만 아직도 입시름은 끝나지 않았고 어느만큼의 입씨름을 해야 결론에 다다를지도 모른다."
+			],
+			[
+				17,
+				"모르",
+				"VV",
+				"사람이 초단위로 죽어나가지만 아직도 입시름은 끝나지 않았고 어느만큼의 입씨름을 해야 결론에 다다를지도 모른다."
+			],
+			[
+				18,
+				"대하",
+				"VV",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			],
+			[
+				19,
+				"완화되",
+				"VV",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			],
+			[
+				20,
+				"유행하",
+				"VV",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			],
+			[
+				21,
+				"종식되",
+				"VV",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			],
+			[
+				22,
+				"좋",
+				"VA",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			]
+		],
+		"VV_Lst": [
+			[
+				0,
+				"따지",
+				"VV",
+				"백신 지식재산권(지적재산권, 특허권) 문제는 국제 여론과 정치적 득실을 따져본 바이든 대통령의 의해 겨우 한발을 떼었을 뿐이다."
+			],
+			[
+				1,
+				"의하",
+				"VV",
+				"백신 지식재산권(지적재산권, 특허권) 문제는 국제 여론과 정치적 득실을 따져본 바이든 대통령의 의해 겨우 한발을 떼었을 뿐이다."
+			],
+			[
+				2,
+				"떼",
+				"VV",
+				"백신 지식재산권(지적재산권, 특허권) 문제는 국제 여론과 정치적 득실을 따져본 바이든 대통령의 의해 겨우 한발을 떼었을 뿐이다."
+			],
+			[
+				3,
+				"그러",
+				"VV",
+				"그러면서도 생산시설만 갖추는데 6개월이 걸린다는 이유를 백신 지식재산권 반대를 위한 논리로 사용한다."
+			],
+			[
+				4,
+				"갖추",
+				"VV",
+				"그러면서도 생산시설만 갖추는데 6개월이 걸린다는 이유를 백신 지식재산권 반대를 위한 논리로 사용한다."
+			],
+			[
+				5,
+				"걸리",
+				"VV",
+				"그러면서도 생산시설만 갖추는데 6개월이 걸린다는 이유를 백신 지식재산권 반대를 위한 논리로 사용한다."
+			],
+			[
+				6,
+				"위하",
+				"VV",
+				"그러면서도 생산시설만 갖추는데 6개월이 걸린다는 이유를 백신 지식재산권 반대를 위한 논리로 사용한다."
+			],
+			[
+				7,
+				"사용하",
+				"VV",
+				"그러면서도 생산시설만 갖추는데 6개월이 걸린다는 이유를 백신 지식재산권 반대를 위한 논리로 사용한다."
+			],
+			[
+				8,
+				"하",
+				"VV",
+				"지금까지 세계의 정치인들과 제약회사들은 무엇을 했는가?"
+			],
+			[
+				9,
+				"죽",
+				"VV",
+				"사람이 초단위로 죽어나가지만 아직도 입시름은 끝나지 않았고 어느만큼의 입씨름을 해야 결론에 다다를지도 모른다."
+			],
+			[
+				10,
+				"끝나",
+				"VV",
+				"사람이 초단위로 죽어나가지만 아직도 입시름은 끝나지 않았고 어느만큼의 입씨름을 해야 결론에 다다를지도 모른다."
+			],
+			[
+				11,
+				"하",
+				"VV",
+				"사람이 초단위로 죽어나가지만 아직도 입시름은 끝나지 않았고 어느만큼의 입씨름을 해야 결론에 다다를지도 모른다."
+			],
+			[
+				12,
+				"다다르",
+				"VV",
+				"사람이 초단위로 죽어나가지만 아직도 입시름은 끝나지 않았고 어느만큼의 입씨름을 해야 결론에 다다를지도 모른다."
+			],
+			[
+				13,
+				"모르",
+				"VV",
+				"사람이 초단위로 죽어나가지만 아직도 입시름은 끝나지 않았고 어느만큼의 입씨름을 해야 결론에 다다를지도 모른다."
+			],
+			[
+				14,
+				"대하",
+				"VV",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			],
+			[
+				15,
+				"완화되",
+				"VV",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			],
+			[
+				16,
+				"유행하",
+				"VV",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			],
+			[
+				17,
+				"종식되",
+				"VV",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			]
+		],
+		"VA_Lst": [
+			[
+				0,
+				"좋",
+				"VA",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			]
+		],
+		"VX_Lst": [
+			[
+				0,
+				"보",
+				"VX",
+				"백신 지식재산권(지적재산권, 특허권) 문제는 국제 여론과 정치적 득실을 따져본 바이든 대통령의 의해 겨우 한발을 떼었을 뿐이다."
+			],
+			[
+				1,
+				"나가",
+				"VX",
+				"사람이 초단위로 죽어나가지만 아직도 입시름은 끝나지 않았고 어느만큼의 입씨름을 해야 결론에 다다를지도 모른다."
+			],
+			[
+				2,
+				"않",
+				"VX",
+				"사람이 초단위로 죽어나가지만 아직도 입시름은 끝나지 않았고 어느만큼의 입씨름을 해야 결론에 다다를지도 모른다."
+			]
+		],
+		"VCP_Lst": [
+			[
+				0,
+				"이",
+				"VCP",
+				"백신 지식재산권(지적재산권, 특허권) 문제는 국제 여론과 정치적 득실을 따져본 바이든 대통령의 의해 겨우 한발을 떼었을 뿐이다."
+			]
+		],
+		"VCN_Lst": [],
+		"ML_Lst": [
+			[
+				0,
+				"겨우",
+				"MAG",
+				"백신 지식재산권(지적재산권, 특허권) 문제는 국제 여론과 정치적 득실을 따져본 바이든 대통령의 의해 겨우 한발을 떼었을 뿐이다."
+			],
+			[
+				1,
+				"아직",
+				"MAG",
+				"사람이 초단위로 죽어나가지만 아직도 입시름은 끝나지 않았고 어느만큼의 입씨름을 해야 결론에 다다를지도 모른다."
+			],
+			[
+				2,
+				"그래서",
+				"MAJ",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			],
+			[
+				3,
+				"어서",
+				"MAG",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			],
+			[
+				4,
+				"빨리",
+				"MAG",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			],
+			[
+				5,
+				"빨리",
+				"MAG",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			]
+		],
+		"MA_Lst": [],
+		"MM_Lst": [],
+		"J_Lst": [
+			[
+				0,
+				"는",
+				"JX",
+				"백신 지식재산권(지적재산권, 특허권) 문제는 국제 여론과 정치적 득실을 따져본 바이든 대통령의 의해 겨우 한발을 떼었을 뿐이다."
+			],
+			[
+				1,
+				"과",
+				"JC",
+				"백신 지식재산권(지적재산권, 특허권) 문제는 국제 여론과 정치적 득실을 따져본 바이든 대통령의 의해 겨우 한발을 떼었을 뿐이다."
+			],
+			[
+				2,
+				"을",
+				"JKO",
+				"백신 지식재산권(지적재산권, 특허권) 문제는 국제 여론과 정치적 득실을 따져본 바이든 대통령의 의해 겨우 한발을 떼었을 뿐이다."
+			],
+			[
+				3,
+				"의",
+				"JKG",
+				"백신 지식재산권(지적재산권, 특허권) 문제는 국제 여론과 정치적 득실을 따져본 바이든 대통령의 의해 겨우 한발을 떼었을 뿐이다."
+			],
+			[
+				4,
+				"을",
+				"JKO",
+				"백신 지식재산권(지적재산권, 특허권) 문제는 국제 여론과 정치적 득실을 따져본 바이든 대통령의 의해 겨우 한발을 떼었을 뿐이다."
+			],
+			[
+				5,
+				"도",
+				"JX",
+				"그러면서도 생산시설만 갖추는데 6개월이 걸린다는 이유를 백신 지식재산권 반대를 위한 논리로 사용한다."
+			],
+			[
+				6,
+				"만",
+				"JX",
+				"그러면서도 생산시설만 갖추는데 6개월이 걸린다는 이유를 백신 지식재산권 반대를 위한 논리로 사용한다."
+			],
+			[
+				7,
+				"이",
+				"JKS",
+				"그러면서도 생산시설만 갖추는데 6개월이 걸린다는 이유를 백신 지식재산권 반대를 위한 논리로 사용한다."
+			],
+			[
+				8,
+				"를",
+				"JKO",
+				"그러면서도 생산시설만 갖추는데 6개월이 걸린다는 이유를 백신 지식재산권 반대를 위한 논리로 사용한다."
+			],
+			[
+				9,
+				"를",
+				"JKO",
+				"그러면서도 생산시설만 갖추는데 6개월이 걸린다는 이유를 백신 지식재산권 반대를 위한 논리로 사용한다."
+			],
+			[
+				10,
+				"로",
+				"JKB",
+				"그러면서도 생산시설만 갖추는데 6개월이 걸린다는 이유를 백신 지식재산권 반대를 위한 논리로 사용한다."
+			],
+			[
+				11,
+				"까지",
+				"JX",
+				"지금까지 세계의 정치인들과 제약회사들은 무엇을 했는가?"
+			],
+			[
+				12,
+				"의",
+				"JKG",
+				"지금까지 세계의 정치인들과 제약회사들은 무엇을 했는가?"
+			],
+			[
+				13,
+				"과",
+				"JC",
+				"지금까지 세계의 정치인들과 제약회사들은 무엇을 했는가?"
+			],
+			[
+				14,
+				"은",
+				"JX",
+				"지금까지 세계의 정치인들과 제약회사들은 무엇을 했는가?"
+			],
+			[
+				15,
+				"을",
+				"JKO",
+				"지금까지 세계의 정치인들과 제약회사들은 무엇을 했는가?"
+			],
+			[
+				16,
+				"이",
+				"JKS",
+				"사람이 초단위로 죽어나가지만 아직도 입시름은 끝나지 않았고 어느만큼의 입씨름을 해야 결론에 다다를지도 모른다."
+			],
+			[
+				17,
+				"로",
+				"JKB",
+				"사람이 초단위로 죽어나가지만 아직도 입시름은 끝나지 않았고 어느만큼의 입씨름을 해야 결론에 다다를지도 모른다."
+			],
+			[
+				18,
+				"도",
+				"JX",
+				"사람이 초단위로 죽어나가지만 아직도 입시름은 끝나지 않았고 어느만큼의 입씨름을 해야 결론에 다다를지도 모른다."
+			],
+			[
+				19,
+				"은",
+				"JX",
+				"사람이 초단위로 죽어나가지만 아직도 입시름은 끝나지 않았고 어느만큼의 입씨름을 해야 결론에 다다를지도 모른다."
+			],
+			[
+				20,
+				"의",
+				"JKG",
+				"사람이 초단위로 죽어나가지만 아직도 입시름은 끝나지 않았고 어느만큼의 입씨름을 해야 결론에 다다를지도 모른다."
+			],
+			[
+				21,
+				"을",
+				"JKO",
+				"사람이 초단위로 죽어나가지만 아직도 입시름은 끝나지 않았고 어느만큼의 입씨름을 해야 결론에 다다를지도 모른다."
+			],
+			[
+				22,
+				"에",
+				"JKB",
+				"사람이 초단위로 죽어나가지만 아직도 입시름은 끝나지 않았고 어느만큼의 입씨름을 해야 결론에 다다를지도 모른다."
+			],
+			[
+				23,
+				"도",
+				"JX",
+				"사람이 초단위로 죽어나가지만 아직도 입시름은 끝나지 않았고 어느만큼의 입씨름을 해야 결론에 다다를지도 모른다."
+			],
+			[
+				24,
+				"에",
+				"JKB",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			],
+			[
+				25,
+				"이",
+				"JKS",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			],
+			[
+				26,
+				"으로",
+				"JKB",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			],
+			[
+				27,
+				"가",
+				"JKS",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			]
+		],
+		"E_Lst": [
+			[
+				0,
+				"어",
+				"EC",
+				"백신 지식재산권(지적재산권, 특허권) 문제는 국제 여론과 정치적 득실을 따져본 바이든 대통령의 의해 겨우 한발을 떼었을 뿐이다."
+			],
+			[
+				1,
+				"ㄴ",
+				"ETM",
+				"백신 지식재산권(지적재산권, 특허권) 문제는 국제 여론과 정치적 득실을 따져본 바이든 대통령의 의해 겨우 한발을 떼었을 뿐이다."
+			],
+			[
+				2,
+				"아",
+				"EC",
+				"백신 지식재산권(지적재산권, 특허권) 문제는 국제 여론과 정치적 득실을 따져본 바이든 대통령의 의해 겨우 한발을 떼었을 뿐이다."
+			],
+			[
+				3,
+				"었",
+				"EP",
+				"백신 지식재산권(지적재산권, 특허권) 문제는 국제 여론과 정치적 득실을 따져본 바이든 대통령의 의해 겨우 한발을 떼었을 뿐이다."
+			],
+			[
+				4,
+				"을",
+				"ETM",
+				"백신 지식재산권(지적재산권, 특허권) 문제는 국제 여론과 정치적 득실을 따져본 바이든 대통령의 의해 겨우 한발을 떼었을 뿐이다."
+			],
+			[
+				5,
+				"다",
+				"EF",
+				"백신 지식재산권(지적재산권, 특허권) 문제는 국제 여론과 정치적 득실을 따져본 바이든 대통령의 의해 겨우 한발을 떼었을 뿐이다."
+			],
+			[
+				6,
+				"면서",
+				"EC",
+				"그러면서도 생산시설만 갖추는데 6개월이 걸린다는 이유를 백신 지식재산권 반대를 위한 논리로 사용한다."
+			],
+			[
+				7,
+				"는데",
+				"EC",
+				"그러면서도 생산시설만 갖추는데 6개월이 걸린다는 이유를 백신 지식재산권 반대를 위한 논리로 사용한다."
+			],
+			[
+				8,
+				"ㄴ다는",
+				"ETM",
+				"그러면서도 생산시설만 갖추는데 6개월이 걸린다는 이유를 백신 지식재산권 반대를 위한 논리로 사용한다."
+			],
+			[
+				9,
+				"ㄴ",
+				"ETM",
+				"그러면서도 생산시설만 갖추는데 6개월이 걸린다는 이유를 백신 지식재산권 반대를 위한 논리로 사용한다."
+			],
+			[
+				10,
+				"ㄴ다",
+				"EF",
+				"그러면서도 생산시설만 갖추는데 6개월이 걸린다는 이유를 백신 지식재산권 반대를 위한 논리로 사용한다."
+			],
+			[
+				11,
+				"았",
+				"EP",
+				"지금까지 세계의 정치인들과 제약회사들은 무엇을 했는가?"
+			],
+			[
+				12,
+				"는가",
+				"EF",
+				"지금까지 세계의 정치인들과 제약회사들은 무엇을 했는가?"
+			],
+			[
+				13,
+				"어",
+				"EC",
+				"사람이 초단위로 죽어나가지만 아직도 입시름은 끝나지 않았고 어느만큼의 입씨름을 해야 결론에 다다를지도 모른다."
+			],
+			[
+				14,
+				"지만",
+				"EC",
+				"사람이 초단위로 죽어나가지만 아직도 입시름은 끝나지 않았고 어느만큼의 입씨름을 해야 결론에 다다를지도 모른다."
+			],
+			[
+				15,
+				"지",
+				"EC",
+				"사람이 초단위로 죽어나가지만 아직도 입시름은 끝나지 않았고 어느만큼의 입씨름을 해야 결론에 다다를지도 모른다."
+			],
+			[
+				16,
+				"았",
+				"EP",
+				"사람이 초단위로 죽어나가지만 아직도 입시름은 끝나지 않았고 어느만큼의 입씨름을 해야 결론에 다다를지도 모른다."
+			],
+			[
+				17,
+				"고",
+				"EC",
+				"사람이 초단위로 죽어나가지만 아직도 입시름은 끝나지 않았고 어느만큼의 입씨름을 해야 결론에 다다를지도 모른다."
+			],
+			[
+				18,
+				"아야",
+				"EC",
+				"사람이 초단위로 죽어나가지만 아직도 입시름은 끝나지 않았고 어느만큼의 입씨름을 해야 결론에 다다를지도 모른다."
+			],
+			[
+				19,
+				"ㄹ지",
+				"EF",
+				"사람이 초단위로 죽어나가지만 아직도 입시름은 끝나지 않았고 어느만큼의 입씨름을 해야 결론에 다다를지도 모른다."
+			],
+			[
+				20,
+				"ㄴ다",
+				"EF",
+				"사람이 초단위로 죽어나가지만 아직도 입시름은 끝나지 않았고 어느만큼의 입씨름을 해야 결론에 다다를지도 모른다."
+			],
+			[
+				21,
+				"ㄴ",
+				"ETM",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			],
+			[
+				22,
+				"어",
+				"EC",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			],
+			[
+				23,
+				"는",
+				"ETM",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			],
+			[
+				24,
+				"었",
+				"EP",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			],
+			[
+				25,
+				"으면",
+				"EC",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			],
+			[
+				26,
+				"겠",
+				"EP",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			],
+			[
+				27,
+				"습니다",
+				"EF",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			]
+		],
+		"X_Lst": [
+			[
+				0,
+				"권",
+				"XSN",
+				"백신 지식재산권(지적재산권, 특허권) 문제는 국제 여론과 정치적 득실을 따져본 바이든 대통령의 의해 겨우 한발을 떼었을 뿐이다."
+			],
+			[
+				1,
+				"적",
+				"XSN",
+				"백신 지식재산권(지적재산권, 특허권) 문제는 국제 여론과 정치적 득실을 따져본 바이든 대통령의 의해 겨우 한발을 떼었을 뿐이다."
+			],
+			[
+				2,
+				"들",
+				"XSN",
+				"지금까지 세계의 정치인들과 제약회사들은 무엇을 했는가?"
+			],
+			[
+				3,
+				"들",
+				"XSN",
+				"지금까지 세계의 정치인들과 제약회사들은 무엇을 했는가?"
+			],
+			[
+				4,
+				"초",
+				"XPN",
+				"사람이 초단위로 죽어나가지만 아직도 입시름은 끝나지 않았고 어느만큼의 입씨름을 해야 결론에 다다를지도 모른다."
+			],
+			[
+				5,
+				"적",
+				"XSN",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			]
+		],
+		"IC_Lst": []
+	},
+	"NDW": {
+		"morph_NDW": 108,
+		"NL_NDW": 41,
+		"NNG_NDW": 36,
+		"NNP_NDW": 1,
+		"NNB_NDW": 3,
+		"NP_NDW": 1,
+		"NR_NDW": 0,
+		"VL_NDW": 23,
+		"VV_NDW": 18,
+		"VA_NDW": 1,
+		"ML_NDW": 6,
+		"MM_NDW": 0,
+		"IC_NDW": 0,
+		"J_NDW": 28,
+		"E_NDW": 28,
+		"X_NDW": 6,
+		"CL_NDW": 70,
+		"FL_NDW": 62
+	}
+}

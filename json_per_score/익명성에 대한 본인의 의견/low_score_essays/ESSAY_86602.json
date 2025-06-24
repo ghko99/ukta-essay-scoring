@@ -1,0 +1,4670 @@
+﻿{
+	"morpheme": {
+		"sentences": [
+			{
+				"text": {
+					"content": "배우 김동희(22) 측이 올 초 불거진 학교폭력(학폭) 의혹과 관련해 무혐의 처분을 받았다. .",
+					"length": 53,
+					"beginOffset": 0
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "배우",
+							"length": 2,
+							"beginOffset": 0
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "배우",
+									"length": 2,
+									"beginOffset": 0
+								},
+								"tag": "NNG",
+								"probability": 0.9798066,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "배우",
+						"tagged": "배우/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "김동희(22)",
+							"beginOffset": 3,
+							"length": 7
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "김동희",
+									"beginOffset": 3,
+									"length": 3
+								},
+								"tag": "NNP",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "(",
+									"beginOffset": 6,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9999785,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "22",
+									"beginOffset": 7,
+									"length": 2
+								},
+								"tag": "SN",
+								"probability": 0.99659646,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ")",
+									"beginOffset": 9,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.99993813,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "김동희",
+						"tagged": "김동희/NNP+(/SS+22/SN+)/SS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "측이",
+							"beginOffset": 11,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "측",
+									"beginOffset": 11,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9697081,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 12,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.99504066,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "측",
+						"tagged": "측/NNB+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "올",
+							"beginOffset": 14,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "올",
+									"beginOffset": 14,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.98133355,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "올",
+						"tagged": "올/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "초",
+							"beginOffset": 16,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "초",
+									"beginOffset": 16,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.72435135,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "초",
+						"tagged": "초/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "불거진",
+							"beginOffset": 18,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "불거지",
+									"beginOffset": 18,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.9896467,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 20,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9997777,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "불거지",
+						"tagged": "불거지/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "학교폭력(학폭)",
+							"beginOffset": 22,
+							"length": 8
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "학교",
+									"beginOffset": 22,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "폭력",
+									"beginOffset": 24,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "(",
+									"beginOffset": 26,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.99994946,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "학폭",
+									"beginOffset": 27,
+									"length": 2
+								},
+								"tag": "SL",
+								"probability": 0.44210905,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": ")",
+									"beginOffset": 29,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9999838,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "학교",
+						"tagged": "학교/NNG+폭력/NNG+(/SS+학폭/SL+)/SS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "의혹과",
+							"beginOffset": 31,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "의혹",
+									"beginOffset": 31,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9805994,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "과",
+									"beginOffset": 33,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9376782,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "의혹",
+						"tagged": "의혹/NNG+과/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "관련해",
+							"beginOffset": 35,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "관련하",
+									"beginOffset": 35,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 37,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9934932,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "관련하",
+						"tagged": "관련하/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "무혐의",
+							"beginOffset": 39,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "무",
+									"beginOffset": 39,
+									"length": 1
+								},
+								"tag": "XPN",
+								"probability": 0.9921882,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "혐의",
+									"beginOffset": 40,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98516494,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "무",
+						"tagged": "무/XPN+혐의/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "처분을",
+							"beginOffset": 43,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "처분",
+									"beginOffset": 43,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98375,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 45,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99992114,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "처분",
+						"tagged": "처분/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "받았다.",
+							"beginOffset": 47,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "받",
+									"beginOffset": 47,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9801899,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 48,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9998957,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 49,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9888254,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 50,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9997911,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "받",
+						"tagged": "받/VV+았/EP+다/EF+./SF",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": ".",
+							"beginOffset": 52,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 52,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9928399,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": ".",
+						"tagged": "./SF",
+						"modified": ""
+					}
+				],
+				"refined": "배우 김동희(22) 측이 올 초 불거진 학교폭력(학폭) 의혹과 관련해 무혐의 처분을 받았다. ."
+			},
+			{
+				"text": {
+					"content": "김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다.",
+					"beginOffset": 54,
+					"length": 106
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "김동희의",
+							"beginOffset": 54,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "김동희",
+									"beginOffset": 54,
+									"length": 3
+								},
+								"tag": "NNP",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 57,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99984527,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "김동희",
+						"tagged": "김동희/NNP+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "법률대리인",
+							"beginOffset": 59,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "법률",
+									"beginOffset": 59,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "대리인",
+									"beginOffset": 61,
+									"length": 3
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							}
+						],
+						"lemma": "법률",
+						"tagged": "법률/NNG+대리인/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "법무법인",
+							"beginOffset": 65,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "법무",
+									"beginOffset": 65,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "법인",
+									"beginOffset": 67,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							}
+						],
+						"lemma": "법무",
+						"tagged": "법무/NNG+법인/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "두우",
+							"beginOffset": 70,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "두우",
+									"beginOffset": 70,
+									"length": 2
+								},
+								"tag": "NNP",
+								"probability": 0.94840944,
+								"outOfVocab": "OUT_OF_VOCAB"
+							}
+						],
+						"lemma": "두우",
+						"tagged": "두우/NNP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "측은",
+							"beginOffset": 73,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "측",
+									"beginOffset": 73,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.97539574,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 74,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9991061,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "측",
+						"tagged": "측/NNB+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "28일",
+							"beginOffset": 76,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "28",
+									"beginOffset": 76,
+									"length": 2
+								},
+								"tag": "SN",
+								"probability": 0.9987813,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "일",
+									"beginOffset": 78,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9776415,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "28",
+						"tagged": "28/SN+일/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "공식",
+							"beginOffset": 80,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "공식",
+									"beginOffset": 80,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9843547,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "공식",
+						"tagged": "공식/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "보도자료를",
+							"beginOffset": 83,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "보도",
+									"beginOffset": 83,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "자료",
+									"beginOffset": 85,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 87,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999706,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "보도",
+						"tagged": "보도/NNG+자료/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "통해",
+							"beginOffset": 89,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "통하",
+									"beginOffset": 89,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9870385,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 90,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9929144,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "통하",
+						"tagged": "통하/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "\"김동희는",
+							"beginOffset": 92,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "\"",
+									"beginOffset": 92,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.999807,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "김동희",
+									"beginOffset": 93,
+									"length": 3
+								},
+								"tag": "NNP",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 96,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99973273,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "\"",
+						"tagged": "\"/SS+김동희/NNP+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "지난",
+							"beginOffset": 98,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "지나",
+									"beginOffset": 98,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.98860055,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 99,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999802,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "지나",
+						"tagged": "지나/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "2월",
+							"beginOffset": 101,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "2",
+									"beginOffset": 101,
+									"length": 1
+								},
+								"tag": "SN",
+								"probability": 0.99837154,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "월",
+									"beginOffset": 102,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.97062993,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "2",
+						"tagged": "2/SN+월/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "온라인상에",
+							"beginOffset": 104,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "온",
+									"beginOffset": 104,
+									"length": 1
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "라인",
+									"beginOffset": 105,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "상",
+									"beginOffset": 107,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.95501226,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 108,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99711597,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "온",
+						"tagged": "온/NNG+라인/NNG+상/XSN+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "게시된",
+							"beginOffset": 110,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "게시되",
+									"beginOffset": 110,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 112,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9998716,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "게시되",
+						"tagged": "게시되/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "의혹에",
+							"beginOffset": 114,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "의혹",
+									"beginOffset": 114,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9835473,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 116,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9968928,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "의혹",
+						"tagged": "의혹/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "대해",
+							"beginOffset": 118,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "대하",
+									"beginOffset": 118,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.99103844,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 119,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.994641,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "대하",
+						"tagged": "대하/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사법기관을",
+							"beginOffset": 121,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사법",
+									"beginOffset": 121,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "기관",
+									"beginOffset": 123,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 125,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999008,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사법",
+						"tagged": "사법/NNG+기관/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "통해",
+							"beginOffset": 127,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "통하",
+									"beginOffset": 127,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9910281,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 128,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.996263,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "통하",
+						"tagged": "통하/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사실",
+							"beginOffset": 130,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사실",
+									"beginOffset": 130,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9857199,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사실",
+						"tagged": "사실/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "여부를",
+							"beginOffset": 133,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "여부",
+									"beginOffset": 133,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9870934,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 135,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99992126,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "여부",
+						"tagged": "여부/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "파악하려고",
+							"beginOffset": 137,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "파악하",
+									"beginOffset": 137,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "려고",
+									"beginOffset": 140,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99385786,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "파악하",
+						"tagged": "파악하/VV+려고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "긴",
+							"beginOffset": 143,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "길",
+									"beginOffset": 143,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.98766446,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 143,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999198,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "길",
+						"tagged": "길/VA+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "시간",
+							"beginOffset": 145,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "시간",
+									"beginOffset": 145,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9752232,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "시간",
+						"tagged": "시간/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "노력하였다\"고",
+							"beginOffset": 148,
+							"length": 7
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "노력하",
+									"beginOffset": 148,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 151,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99992263,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 152,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.99320537,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "\"",
+									"beginOffset": 153,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9996662,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 154,
+									"length": 1
+								},
+								"tag": "JKQ",
+								"probability": 0.9999141,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "노력하",
+						"tagged": "노력하/VV+았/EP+다/EF+\"/SS+고/JKQ",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "밝혔다.",
+							"beginOffset": 156,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "밝히",
+									"beginOffset": 156,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9912569,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 157,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99984473,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 158,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9911984,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 159,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99974984,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "밝히",
+						"tagged": "밝히/VV+었/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			},
+			{
+				"text": {
+					"content": "이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다.",
+					"beginOffset": 161,
+					"length": 155
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "이어",
+							"beginOffset": 161,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이어",
+									"beginOffset": 161,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9702215,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이어",
+						"tagged": "이어/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "\"",
+							"beginOffset": 164,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "\"",
+									"beginOffset": 164,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9998319,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "\"",
+						"tagged": "\"/SS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이",
+							"beginOffset": 165,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 165,
+									"length": 1
+								},
+								"tag": "MMD",
+								"probability": 0.99981415,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이",
+						"tagged": "이/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "과정에서",
+							"beginOffset": 167,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "과정",
+									"beginOffset": 167,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9810682,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에서",
+									"beginOffset": 169,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9974728,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "과정",
+						"tagged": "과정/NNG+에서/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "김동희",
+							"beginOffset": 172,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "김동희",
+									"beginOffset": 172,
+									"length": 3
+								},
+								"tag": "NNP",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							}
+						],
+						"lemma": "김동희",
+						"tagged": "김동희/NNP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "본인의",
+							"beginOffset": 176,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "본인",
+									"beginOffset": 176,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9770891,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 178,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99968183,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "본인",
+						"tagged": "본인/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "고소인",
+							"beginOffset": 180,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "고소",
+									"beginOffset": 180,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9809697,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 182,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.99985397,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 182,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.999775,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "고소",
+						"tagged": "고소/NNG+이/VCP+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "진술,",
+							"beginOffset": 184,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "진술",
+									"beginOffset": 184,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9806927,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 186,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.9993992,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "진술",
+						"tagged": "진술/NNG+,/SP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "선생님들과",
+							"beginOffset": 188,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "선생",
+									"beginOffset": 188,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98255277,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "님",
+									"beginOffset": 190,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.987318,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "들",
+									"beginOffset": 191,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.9918379,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "과",
+									"beginOffset": 192,
+									"length": 1
+								},
+								"tag": "JC",
+								"probability": 0.6061601,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "선생",
+						"tagged": "선생/NNG+님/XSN+들/XSN+과/JC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "동창",
+							"beginOffset": 194,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "동창",
+									"beginOffset": 194,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97146565,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "동창",
+						"tagged": "동창/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "친구들의",
+							"beginOffset": 197,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "친구",
+									"beginOffset": 197,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98368406,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "들",
+									"beginOffset": 199,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.98777264,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 200,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99927545,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "친구",
+						"tagged": "친구/NNG+들/XSN+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "진술서,",
+							"beginOffset": 202,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "진술서",
+									"beginOffset": 202,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9841769,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 205,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.998509,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "진술서",
+						"tagged": "진술서/NNG+,/SP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "초등",
+							"beginOffset": 207,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "초등",
+									"beginOffset": 207,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9801678,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "초등",
+						"tagged": "초등/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "중등학교",
+							"beginOffset": 210,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "중등학교",
+									"beginOffset": 210,
+									"length": 4
+								},
+								"tag": "NNG",
+								"probability": 0.9784984,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "중등학교",
+						"tagged": "중등학교/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "생활기록부사본",
+							"beginOffset": 215,
+							"length": 7
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "생활",
+									"beginOffset": 215,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97680664,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "기록부",
+									"beginOffset": 217,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9806642,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "사본",
+									"beginOffset": 220,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9811786,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "생활",
+						"tagged": "생활/NNG+기록부/NNG+사본/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "등을",
+							"beginOffset": 223,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "등",
+									"beginOffset": 223,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.96386194,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 224,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99997765,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "등",
+						"tagged": "등/NNB+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "제출했으나",
+							"beginOffset": 226,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "제출하",
+									"beginOffset": 226,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 228,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9999441,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으나",
+									"beginOffset": 229,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.992837,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "제출하",
+						"tagged": "제출하/VV+았/EP+으나/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": ",",
+							"beginOffset": 231,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 231,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.9992947,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": ",",
+						"tagged": ",/SP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "오랜",
+							"beginOffset": 233,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "오랜",
+									"beginOffset": 233,
+									"length": 2
+								},
+								"tag": "MMA",
+								"probability": 0.99915904,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "오랜",
+						"tagged": "오랜/MMA",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "시간이",
+							"beginOffset": 236,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "시간",
+									"beginOffset": 236,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9757008,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 238,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9936662,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "시간",
+						"tagged": "시간/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "지난",
+							"beginOffset": 240,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "지나",
+									"beginOffset": 240,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9898126,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 241,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999757,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "지나",
+						"tagged": "지나/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "초등학교",
+							"beginOffset": 243,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "초등학교",
+									"beginOffset": 243,
+									"length": 4
+								},
+								"tag": "NNG",
+								"probability": 0.9782235,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "초등학교",
+						"tagged": "초등학교/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "때",
+							"beginOffset": 248,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "때",
+									"beginOffset": 248,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.98420125,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "때",
+						"tagged": "때/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "일이고",
+							"beginOffset": 250,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "일",
+									"beginOffset": 250,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.8440667,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 251,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.99947613,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 252,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.98572373,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "일",
+						"tagged": "일/NNG+이/VCP+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": ",",
+							"beginOffset": 253,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 253,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.99902266,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": ",",
+						"tagged": ",/SP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "서로의",
+							"beginOffset": 255,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "서로",
+									"beginOffset": 255,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.987181,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 257,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9989091,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "서로",
+						"tagged": "서로/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "입장",
+							"beginOffset": 259,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "입장",
+									"beginOffset": 259,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98567164,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "입장",
+						"tagged": "입장/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "차이와",
+							"beginOffset": 262,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "차이",
+									"beginOffset": 262,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98611486,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "와",
+									"beginOffset": 264,
+									"length": 1
+								},
+								"tag": "JC",
+								"probability": 0.644604,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "차이",
+						"tagged": "차이/NNG+와/JC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "주장을",
+							"beginOffset": 266,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "주장",
+									"beginOffset": 266,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98042065,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 268,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99993086,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "주장",
+						"tagged": "주장/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "뒷받침",
+							"beginOffset": 270,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "뒷받침",
+									"beginOffset": 270,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.98467004,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "뒷받침",
+						"tagged": "뒷받침/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "할",
+							"beginOffset": 274,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 274,
+									"length": 1
+								},
+								"tag": "XSV",
+								"probability": 0.73102933,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ",
+									"beginOffset": 274,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999928,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/XSV+ㄹ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "명백한",
+							"beginOffset": 276,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "명백하",
+									"beginOffset": 276,
+									"length": 3
+								},
+								"tag": "VA",
+								"probability": 0.9892013,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 278,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99998826,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "명백하",
+						"tagged": "명백하/VA+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "증거가",
+							"beginOffset": 280,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "증거",
+									"beginOffset": 280,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9822196,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 282,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9644683,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "증거",
+						"tagged": "증거/NNG+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "없는",
+							"beginOffset": 284,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "없",
+									"beginOffset": 284,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.98907053,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 285,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99995357,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "없",
+						"tagged": "없/VA+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "상황이기에",
+							"beginOffset": 287,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "상황",
+									"beginOffset": 287,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9810758,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 289,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.9997992,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "기에",
+									"beginOffset": 290,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99400175,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "상황",
+						"tagged": "상황/NNG+이/VCP+기에/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "무혐의라는",
+							"beginOffset": 293,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "무",
+									"beginOffset": 293,
+									"length": 1
+								},
+								"tag": "XPN",
+								"probability": 0.99391365,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "혐의",
+									"beginOffset": 294,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9845892,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 296,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.999876,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "라는",
+									"beginOffset": 296,
+									"length": 2
+								},
+								"tag": "ETM",
+								"probability": 0.9999336,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "무",
+						"tagged": "무/XPN+혐의/NNG+이/VCP+라는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "수사",
+							"beginOffset": 299,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "수사",
+									"beginOffset": 299,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9833821,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "수사",
+						"tagged": "수사/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "결과가",
+							"beginOffset": 302,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "결과",
+									"beginOffset": 302,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9858087,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 304,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.98986197,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "결과",
+						"tagged": "결과/NNG+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "나왔다\"고",
+							"beginOffset": 306,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "나오",
+									"beginOffset": 306,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9892894,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 307,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99990517,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 308,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.99273896,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "\"",
+									"beginOffset": 309,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9997142,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 310,
+									"length": 1
+								},
+								"tag": "JKQ",
+								"probability": 0.99943095,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "나오",
+						"tagged": "나오/VV+았/EP+다/EF+\"/SS+고/JKQ",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "알렸다.",
+							"beginOffset": 312,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "알리",
+									"beginOffset": 312,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9918485,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 313,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99984705,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 314,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9918743,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 315,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9995634,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "알리",
+						"tagged": "알리/VV+었/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "이어 \" 이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나 , 오랜 시간이 지난 초등학교 때 일이고 , 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			}
+		],
+		"language": "ko_KR"
+	},
+	"ttr": {
+		"lemma_Cnt": 145,
+		"lemma_TTR": 0.6424242424242425,
+		"CL_TTR": 0.8433734939759037,
+		"NL_TTR": 0.8666666666666667,
+		"NN_TTR": 0.8666666666666667,
+		"NNG_TTR": 0.9387755102040817,
+		"NNP_TTR": 0.4,
+		"NNB_TTR": 0.8333333333333334,
+		"NP_TTR": 0,
+		"NR_TTR": 0,
+		"VL_TTR": 0.7727272727272727,
+		"VV_TTR": 0.8666666666666667,
+		"VA_TTR": 1.0,
+		"ML_TTR": 1.0,
+		"MM_TTR": 0,
+		"MA_TTR": 1.0,
+		"MAJ_TTR": 0,
+		"IC_TTR": 0,
+		"FL_TTR": 0.46551724137931033,
+		"J_TTR": 0.5,
+		"E_TTR": 0.41379310344827586,
+		"X_TTR": 0.7142857142857143,
+		"lemma_RTTR": 8.252088808112143,
+		"CL_RTTR": 7.683498199278324,
+		"NL_RTTR": 6.713171133426189,
+		"NN_RTTR": 6.713171133426189,
+		"NNG_RTTR": 6.571428571428571,
+		"NNP_RTTR": 0.8944271909999159,
+		"NNB_RTTR": 2.041241452319315,
+		"NP_RTTR": 0,
+		"NR_RTTR": 0,
+		"VL_RTTR": 3.624412178045377,
+		"VV_RTTR": 3.3565855667130946,
+		"VA_RTTR": 1.7320508075688774,
+		"ML_RTTR": 1.0,
+		"MM_RTTR": 0,
+		"MA_RTTR": 1.0,
+		"MAJ_RTTR": 0,
+		"IC_RTTR": 0,
+		"FL_RTTR": 3.545273687212509,
+		"J_RTTR": 2.345207879911715,
+		"E_RTTR": 2.2283440581246223,
+		"X_RTTR": 1.889822365046136,
+		"lemma_CTTR": 5.835107955169711,
+		"CL_CTTR": 5.433053679944329,
+		"NL_CTTR": 4.74692883171144,
+		"NN_CTTR": 4.74692883171144,
+		"NNG_CTTR": 4.6467017049401695,
+		"NNP_CTTR": 0.6324555320336759,
+		"NNB_CTTR": 1.4433756729740645,
+		"NP_CTTR": 0,
+		"NR_CTTR": 0,
+		"VL_CTTR": 2.5628464289109907,
+		"VV_CTTR": 2.37346441585572,
+		"VA_CTTR": 1.2247448713915892,
+		"ML_CTTR": 0.7071067811865475,
+		"MM_CTTR": 0,
+		"MA_CTTR": 0.7071067811865475,
+		"MAJ_CTTR": 0,
+		"IC_CTTR": 0,
+		"FL_CTTR": 2.5068870653902002,
+		"J_CTTR": 1.6583123951777,
+		"E_CTTR": 1.5756771943166705,
+		"X_CTTR": 1.3363062095621219,
+		"lemma_MSTTR": 0.8466666666666667,
+		"CL_MSTTR": 0.88,
+		"NL_MSTTR": 0.86,
+		"NN_MSTTR": 0.86,
+		"NNG_MSTTR": 0.9387755102040817,
+		"NNP_MSTTR": 0.4,
+		"NNB_MSTTR": 0.8333333333333334,
+		"NP_MSTTR": 0,
+		"NR_MSTTR": 0,
+		"VL_MSTTR": 0.7727272727272727,
+		"VV_MSTTR": 0.8666666666666667,
+		"VA_MSTTR": 1.0,
+		"ML_MSTTR": 1.0,
+		"MM_MSTTR": 0,
+		"MA_MSTTR": 1.0,
+		"MAJ_MSTTR": 0,
+		"IC_MSTTR": 0,
+		"FL_MSTTR": 0.5,
+		"J_MSTTR": 0.5,
+		"E_MSTTR": 0.41379310344827586,
+		"X_MSTTR": 0.7142857142857143,
+		"lemma_MATTR": 0.8298275862068965,
+		"CL_MATTR": 0.9123529411764707,
+		"NL_MATTR": 0.8945454545454546,
+		"NN_MATTR": 0.8945454545454546,
+		"NNG_MATTR": 0.9387755102040817,
+		"NNP_MATTR": 0.4,
+		"NNB_MATTR": 0.8333333333333334,
+		"NP_MATTR": 0,
+		"NR_MATTR": 0,
+		"VL_MATTR": 0.7727272727272727,
+		"VV_MATTR": 0.8666666666666667,
+		"VA_MATTR": 1.0,
+		"ML_MATTR": 1.0,
+		"MM_MATTR": 0,
+		"MA_MATTR": 1.0,
+		"MAJ_MATTR": 0,
+		"IC_MATTR": 0,
+		"FL_MATTR": 0.5311111111111111,
+		"J_MATTR": 0.5,
+		"E_MATTR": 0.41379310344827586,
+		"X_MATTR": 0.7142857142857143,
+		"lemma_MTLD": 91.9600076607006,
+		"CL_MTLD": 148.37846153846158,
+		"NL_MTLD": 126.00000000000004,
+		"NN_MTLD": 126.00000000000004,
+		"NNG_MTLD": 224.0933333333335,
+		"NNP_MTLD": 2.3333333333333335,
+		"NNB_MTLD": 10.080000000000004,
+		"NP_MTLD": 0.0,
+		"NR_MTLD": 0.0,
+		"VL_MTLD": 22.029064220183486,
+		"VV_MTLD": 31.50000000000001,
+		"VA_MTLD": 0.0,
+		"ML_MTLD": 0.0,
+		"MM_MTLD": 0.0,
+		"MA_MTLD": 0.0,
+		"MAJ_MTLD": 0.0,
+		"IC_MTLD": 0.0,
+		"FL_MTLD": 24.73143115942029,
+		"J_MTLD": 10.521739130434781,
+		"E_MTLD": 11.391774137330081,
+		"X_MTLD": 6.860000000000001,
+		"lemma_VOCDD": 104.50667120088887,
+		"CL_VOCDD": 184.1889482601499,
+		"NL_VOCDD": 168.47877345178526,
+		"NN_VOCDD": 168.47877345178526,
+		"NNG_VOCDD": 0,
+		"NNP_VOCDD": 0,
+		"NNB_VOCDD": 0,
+		"NP_VOCDD": 0,
+		"NR_VOCDD": 0,
+		"VL_VOCDD": 0,
+		"VV_VOCDD": 0,
+		"VA_VOCDD": 0,
+		"ML_VOCDD": 0,
+		"MM_VOCDD": 0,
+		"MA_VOCDD": 0,
+		"MAJ_VOCDD": 0,
+		"IC_VOCDD": 0,
+		"FL_VOCDD": 13.909502773584123,
+		"J_VOCDD": 0,
+		"E_VOCDD": 0,
+		"X_VOCDD": 0,
+		"lemma_HDD": 0.8536098923665183,
+		"CL_HDD": 0.906440577123309,
+		"NL_HDD": 0.8990838434484796,
+		"NN_HDD": 0.8990838434484796,
+		"NNG_HDD": 0.9477040816326537,
+		"NNP_HDD": 0.0,
+		"NNB_HDD": 0.0,
+		"NP_HDD": 0.0,
+		"NR_HDD": 0.0,
+		"VL_HDD": 0.0,
+		"VV_HDD": 0.0,
+		"VA_HDD": 0.0,
+		"ML_HDD": 0.0,
+		"MM_HDD": 0.0,
+		"MA_HDD": 0.0,
+		"MAJ_HDD": 0.0,
+		"IC_HDD": 0.0,
+		"FL_HDD": 0.5480511294468765,
+		"J_HDD": 0.0,
+		"E_HDD": 0.0,
+		"X_HDD": 0.0
+	},
+	"similarity": {
+		"avgSentSimilarity": 0.2436191886663437,
+		"topicConsistency": 0.613
+	},
+	"adjacency": {
+		"adjacent_sentence_overlap_all_lemmas": 112,
+		"adjacent_sentence_overlap_all_lemmas_normed": 2,
+		"binary_adjacent_sentence_overlap_all_lemmas": 2,
+		"adjacent_two_sentence_overlap_all_lemmas": 53,
+		"adjacent_two_sentence_overlap_all_lemmas_normed": 1,
+		"binary_adjacent_two_sentence_overlap_all_lemmas": 1,
+		"adjacent_sentence_overlap_content_lemmas": 64,
+		"adjacent_sentence_overlap_content_lemmas_normed": 2,
+		"binary_adjacent_sentence_overlap_content_lemmas": 2,
+		"adjacent_two_sentence_overlap_content_lemmas": 33,
+		"adjacent_two_sentence_overlap_content_lemmas_normed": 1,
+		"binary_adjacent_two_sentence_overlap_content_lemmas": 1,
+		"adjacent_sentence_overlap_function_lemmas": 37,
+		"adjacent_sentence_overlap_function_lemmas_normed": 2,
+		"binary_adjacent_sentence_overlap_function_lemmas": 2,
+		"adjacent_two_sentence_overlap_function_lemmas": 17,
+		"adjacent_two_sentence_overlap_function_lemmas_normed": 1,
+		"binary_adjacent_two_sentence_overlap_function_lemmas": 1,
+		"adjacent_sentence_overlap_noun_lemmas": 55,
+		"adjacent_sentence_overlap_noun_lemmas_normed": 2,
+		"binary_adjacent_sentence_overlap_noun_lemmas": 2,
+		"adjacent_two_sentence_overlap_noun_lemmas": 29,
+		"adjacent_two_sentence_overlap_noun_lemmas_normed": 1,
+		"binary_adjacent_two_sentence_overlap_noun_lemmas": 1,
+		"adjacent_sentence_overlap_verb_lemmas": 14,
+		"adjacent_sentence_overlap_verb_lemmas_normed": 2,
+		"binary_adjacent_sentence_overlap_verb_lemmas": 1,
+		"adjacent_two_sentence_overlap_verb_lemmas": 4,
+		"adjacent_two_sentence_overlap_verb_lemmas_normed": 1,
+		"binary_adjacent_two_sentence_overlap_verb_lemmas": 0,
+		"adjacent_sentence_overlap_adjective_lemmas": 2,
+		"adjacent_sentence_overlap_adjective_lemmas_normed": 1,
+		"binary_adjacent_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_sentence_overlap_adverb_lemmas_normed": 0,
+		"binary_adjacent_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adverb_lemmas": 0
+	},
+	"basic_count": {
+		"para_Cnt": 1,
+		"sentence_Cnt": 3,
+		"word_Cnt": 75,
+		"morph_Cnt": 165,
+		"char_Cnt": 229,
+		"CL_Cnt": 83,
+		"NL_Cnt": 60,
+		"NN_Cnt": 60,
+		"NNG_Cnt": 49,
+		"NNP_Cnt": 5,
+		"NNB_Cnt": 6,
+		"NP_Cnt": 0,
+		"NP_People_Cnt": 0,
+		"NP_Things_Cnt": 0,
+		"NR_Cnt": 0,
+		"VL_Cnt": 22,
+		"VV_Cnt": 15,
+		"VA_Cnt": 3,
+		"VX_Cnt": 0,
+		"VCP_Cnt": 4,
+		"VCN_Cnt": 0,
+		"ML_Cnt": 1,
+		"MA_Cnt": 0,
+		"MM_Cnt": 0,
+		"FL_Cnt": 58,
+		"J_Cnt": 22,
+		"E_Cnt": 29,
+		"X_Cnt": 7,
+		"IC_Cnt": 0
+	},
+	"basic_density": {
+		"CL_Den": 0.503030303030303,
+		"FL_Den": 0.3515151515151515,
+		"NL_Den": 0.36363636363636365,
+		"NNGL_Den": 0.296969696969697,
+		"NNPL_Den": 0.030303030303030304,
+		"NNBL_Den": 0.03636363636363636,
+		"NPL_Den": 0.0,
+		"NML_Den": 0.0,
+		"VL_Den": 0.13333333333333333,
+		"VVL_Den": 0.09090909090909091,
+		"VAL_Den": 0.01818181818181818,
+		"ML_Den": 0.006060606060606061,
+		"MML_Den": 0.0,
+		"MAL_Den": 0.0,
+		"JL_Den": 0.13333333333333333,
+		"EL_Den": 0.17575757575757575,
+		"XL_Den": 0.04242424242424243,
+		"ITL_Den": 0.0,
+		"NCL_Den": 0.7228915662650602,
+		"NNCL_Den": 0.5903614457831325,
+		"NNGCL_Den": 0.060240963855421686,
+		"NNBCL_Den": 0.07228915662650602,
+		"NPCL_Den": 0.0,
+		"NMCL_Den": 0.0,
+		"VCL_Den": 0.26506024096385544,
+		"VVCL_Den": 0.18072289156626506,
+		"VACL_Den": 0.03614457831325301,
+		"MCL_Den": 0.012048192771084338,
+		"MMCL_Den": 0.0,
+		"MACL_Den": 0.0,
+		"INCL_Den": 0.0,
+		"JFL_Den": 0.3793103448275862,
+		"EFL_Den": 0.5,
+		"XFL_Den": 0.1206896551724138
+	},
+	"basic_level": {
+		"morph_LenAvg": 1.5696969696969696,
+		"morph_LenStd": 0.7068859787550698,
+		"word_LenAvg": 3.013333333333333,
+		"word_LenStd": 1.351476558764113
+	},
+	"basic_list": {
+		"NL_Lst": [
+			[
+				0,
+				"배우",
+				"NNG",
+				"배우 김동희(22) 측이 올 초 불거진 학교폭력(학폭) 의혹과 관련해 무혐의 처분을 받았다. ."
+			],
+			[
+				1,
+				"김동희",
+				"NNP",
+				"배우 김동희(22) 측이 올 초 불거진 학교폭력(학폭) 의혹과 관련해 무혐의 처분을 받았다. ."
+			],
+			[
+				2,
+				"측",
+				"NNB",
+				"배우 김동희(22) 측이 올 초 불거진 학교폭력(학폭) 의혹과 관련해 무혐의 처분을 받았다. ."
+			],
+			[
+				3,
+				"올",
+				"NNG",
+				"배우 김동희(22) 측이 올 초 불거진 학교폭력(학폭) 의혹과 관련해 무혐의 처분을 받았다. ."
+			],
+			[
+				4,
+				"초",
+				"NNB",
+				"배우 김동희(22) 측이 올 초 불거진 학교폭력(학폭) 의혹과 관련해 무혐의 처분을 받았다. ."
+			],
+			[
+				5,
+				"학교",
+				"NNG",
+				"배우 김동희(22) 측이 올 초 불거진 학교폭력(학폭) 의혹과 관련해 무혐의 처분을 받았다. ."
+			],
+			[
+				6,
+				"폭력",
+				"NNG",
+				"배우 김동희(22) 측이 올 초 불거진 학교폭력(학폭) 의혹과 관련해 무혐의 처분을 받았다. ."
+			],
+			[
+				7,
+				"의혹",
+				"NNG",
+				"배우 김동희(22) 측이 올 초 불거진 학교폭력(학폭) 의혹과 관련해 무혐의 처분을 받았다. ."
+			],
+			[
+				8,
+				"혐의",
+				"NNG",
+				"배우 김동희(22) 측이 올 초 불거진 학교폭력(학폭) 의혹과 관련해 무혐의 처분을 받았다. ."
+			],
+			[
+				9,
+				"처분",
+				"NNG",
+				"배우 김동희(22) 측이 올 초 불거진 학교폭력(학폭) 의혹과 관련해 무혐의 처분을 받았다. ."
+			],
+			[
+				10,
+				"김동희",
+				"NNP",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				11,
+				"법률",
+				"NNG",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				12,
+				"대리인",
+				"NNG",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				13,
+				"법무",
+				"NNG",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				14,
+				"법인",
+				"NNG",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				15,
+				"두우",
+				"NNP",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				16,
+				"측",
+				"NNB",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				17,
+				"일",
+				"NNB",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				18,
+				"공식",
+				"NNG",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				19,
+				"보도",
+				"NNG",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				20,
+				"자료",
+				"NNG",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				21,
+				"김동희",
+				"NNP",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				22,
+				"월",
+				"NNB",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				23,
+				"온",
+				"NNG",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				24,
+				"라인",
+				"NNG",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				25,
+				"의혹",
+				"NNG",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				26,
+				"사법",
+				"NNG",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				27,
+				"기관",
+				"NNG",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				28,
+				"사실",
+				"NNG",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				29,
+				"여부",
+				"NNG",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				30,
+				"시간",
+				"NNG",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				31,
+				"과정",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				32,
+				"김동희",
+				"NNP",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				33,
+				"본인",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				34,
+				"고소",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				35,
+				"진술",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				36,
+				"선생",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				37,
+				"동창",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				38,
+				"친구",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				39,
+				"진술서",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				40,
+				"초등",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				41,
+				"중등학교",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				42,
+				"생활",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				43,
+				"기록부",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				44,
+				"사본",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				45,
+				"등",
+				"NNB",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				46,
+				"시간",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				47,
+				"초등학교",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				48,
+				"때",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				49,
+				"일",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				50,
+				"서로",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				51,
+				"입장",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				52,
+				"차이",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				53,
+				"주장",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				54,
+				"뒷받침",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				55,
+				"증거",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				56,
+				"상황",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				57,
+				"혐의",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				58,
+				"수사",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				59,
+				"결과",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			]
+		],
+		"NN_Lst": [
+			[
+				0,
+				"배우",
+				"NNG",
+				"배우 김동희(22) 측이 올 초 불거진 학교폭력(학폭) 의혹과 관련해 무혐의 처분을 받았다. ."
+			],
+			[
+				1,
+				"김동희",
+				"NNP",
+				"배우 김동희(22) 측이 올 초 불거진 학교폭력(학폭) 의혹과 관련해 무혐의 처분을 받았다. ."
+			],
+			[
+				2,
+				"측",
+				"NNB",
+				"배우 김동희(22) 측이 올 초 불거진 학교폭력(학폭) 의혹과 관련해 무혐의 처분을 받았다. ."
+			],
+			[
+				3,
+				"올",
+				"NNG",
+				"배우 김동희(22) 측이 올 초 불거진 학교폭력(학폭) 의혹과 관련해 무혐의 처분을 받았다. ."
+			],
+			[
+				4,
+				"초",
+				"NNB",
+				"배우 김동희(22) 측이 올 초 불거진 학교폭력(학폭) 의혹과 관련해 무혐의 처분을 받았다. ."
+			],
+			[
+				5,
+				"학교",
+				"NNG",
+				"배우 김동희(22) 측이 올 초 불거진 학교폭력(학폭) 의혹과 관련해 무혐의 처분을 받았다. ."
+			],
+			[
+				6,
+				"폭력",
+				"NNG",
+				"배우 김동희(22) 측이 올 초 불거진 학교폭력(학폭) 의혹과 관련해 무혐의 처분을 받았다. ."
+			],
+			[
+				7,
+				"의혹",
+				"NNG",
+				"배우 김동희(22) 측이 올 초 불거진 학교폭력(학폭) 의혹과 관련해 무혐의 처분을 받았다. ."
+			],
+			[
+				8,
+				"혐의",
+				"NNG",
+				"배우 김동희(22) 측이 올 초 불거진 학교폭력(학폭) 의혹과 관련해 무혐의 처분을 받았다. ."
+			],
+			[
+				9,
+				"처분",
+				"NNG",
+				"배우 김동희(22) 측이 올 초 불거진 학교폭력(학폭) 의혹과 관련해 무혐의 처분을 받았다. ."
+			],
+			[
+				10,
+				"김동희",
+				"NNP",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				11,
+				"법률",
+				"NNG",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				12,
+				"대리인",
+				"NNG",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				13,
+				"법무",
+				"NNG",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				14,
+				"법인",
+				"NNG",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				15,
+				"두우",
+				"NNP",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				16,
+				"측",
+				"NNB",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				17,
+				"일",
+				"NNB",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				18,
+				"공식",
+				"NNG",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				19,
+				"보도",
+				"NNG",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				20,
+				"자료",
+				"NNG",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				21,
+				"김동희",
+				"NNP",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				22,
+				"월",
+				"NNB",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				23,
+				"온",
+				"NNG",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				24,
+				"라인",
+				"NNG",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				25,
+				"의혹",
+				"NNG",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				26,
+				"사법",
+				"NNG",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				27,
+				"기관",
+				"NNG",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				28,
+				"사실",
+				"NNG",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				29,
+				"여부",
+				"NNG",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				30,
+				"시간",
+				"NNG",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				31,
+				"과정",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				32,
+				"김동희",
+				"NNP",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				33,
+				"본인",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				34,
+				"고소",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				35,
+				"진술",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				36,
+				"선생",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				37,
+				"동창",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				38,
+				"친구",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				39,
+				"진술서",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				40,
+				"초등",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				41,
+				"중등학교",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				42,
+				"생활",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				43,
+				"기록부",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				44,
+				"사본",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				45,
+				"등",
+				"NNB",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				46,
+				"시간",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				47,
+				"초등학교",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				48,
+				"때",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				49,
+				"일",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				50,
+				"서로",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				51,
+				"입장",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				52,
+				"차이",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				53,
+				"주장",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				54,
+				"뒷받침",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				55,
+				"증거",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				56,
+				"상황",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				57,
+				"혐의",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				58,
+				"수사",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				59,
+				"결과",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			]
+		],
+		"NNG_Lst": [
+			[
+				0,
+				"배우",
+				"NNG",
+				"배우 김동희(22) 측이 올 초 불거진 학교폭력(학폭) 의혹과 관련해 무혐의 처분을 받았다. ."
+			],
+			[
+				1,
+				"올",
+				"NNG",
+				"배우 김동희(22) 측이 올 초 불거진 학교폭력(학폭) 의혹과 관련해 무혐의 처분을 받았다. ."
+			],
+			[
+				2,
+				"학교",
+				"NNG",
+				"배우 김동희(22) 측이 올 초 불거진 학교폭력(학폭) 의혹과 관련해 무혐의 처분을 받았다. ."
+			],
+			[
+				3,
+				"폭력",
+				"NNG",
+				"배우 김동희(22) 측이 올 초 불거진 학교폭력(학폭) 의혹과 관련해 무혐의 처분을 받았다. ."
+			],
+			[
+				4,
+				"의혹",
+				"NNG",
+				"배우 김동희(22) 측이 올 초 불거진 학교폭력(학폭) 의혹과 관련해 무혐의 처분을 받았다. ."
+			],
+			[
+				5,
+				"혐의",
+				"NNG",
+				"배우 김동희(22) 측이 올 초 불거진 학교폭력(학폭) 의혹과 관련해 무혐의 처분을 받았다. ."
+			],
+			[
+				6,
+				"처분",
+				"NNG",
+				"배우 김동희(22) 측이 올 초 불거진 학교폭력(학폭) 의혹과 관련해 무혐의 처분을 받았다. ."
+			],
+			[
+				7,
+				"법률",
+				"NNG",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				8,
+				"대리인",
+				"NNG",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				9,
+				"법무",
+				"NNG",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				10,
+				"법인",
+				"NNG",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				11,
+				"공식",
+				"NNG",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				12,
+				"보도",
+				"NNG",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				13,
+				"자료",
+				"NNG",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				14,
+				"온",
+				"NNG",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				15,
+				"라인",
+				"NNG",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				16,
+				"의혹",
+				"NNG",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				17,
+				"사법",
+				"NNG",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				18,
+				"기관",
+				"NNG",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				19,
+				"사실",
+				"NNG",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				20,
+				"여부",
+				"NNG",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				21,
+				"시간",
+				"NNG",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				22,
+				"과정",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				23,
+				"본인",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				24,
+				"고소",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				25,
+				"진술",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				26,
+				"선생",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				27,
+				"동창",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				28,
+				"친구",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				29,
+				"진술서",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				30,
+				"초등",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				31,
+				"중등학교",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				32,
+				"생활",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				33,
+				"기록부",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				34,
+				"사본",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				35,
+				"시간",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				36,
+				"초등학교",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				37,
+				"때",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				38,
+				"일",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				39,
+				"서로",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				40,
+				"입장",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				41,
+				"차이",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				42,
+				"주장",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				43,
+				"뒷받침",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				44,
+				"증거",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				45,
+				"상황",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				46,
+				"혐의",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				47,
+				"수사",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				48,
+				"결과",
+				"NNG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			]
+		],
+		"NNP_Lst": [
+			[
+				0,
+				"김동희",
+				"NNP",
+				"배우 김동희(22) 측이 올 초 불거진 학교폭력(학폭) 의혹과 관련해 무혐의 처분을 받았다. ."
+			],
+			[
+				1,
+				"김동희",
+				"NNP",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				2,
+				"두우",
+				"NNP",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				3,
+				"김동희",
+				"NNP",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				4,
+				"김동희",
+				"NNP",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			]
+		],
+		"NNB_Lst": [
+			[
+				0,
+				"측",
+				"NNB",
+				"배우 김동희(22) 측이 올 초 불거진 학교폭력(학폭) 의혹과 관련해 무혐의 처분을 받았다. ."
+			],
+			[
+				1,
+				"초",
+				"NNB",
+				"배우 김동희(22) 측이 올 초 불거진 학교폭력(학폭) 의혹과 관련해 무혐의 처분을 받았다. ."
+			],
+			[
+				2,
+				"측",
+				"NNB",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				3,
+				"일",
+				"NNB",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				4,
+				"월",
+				"NNB",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				5,
+				"등",
+				"NNB",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			]
+		],
+		"NP_Lst": [],
+		"NP_People_Lst": [],
+		"NP_Things_Lst": [],
+		"NR_Lst": [],
+		"VL_Lst": [
+			[
+				0,
+				"불거지",
+				"VV",
+				"배우 김동희(22) 측이 올 초 불거진 학교폭력(학폭) 의혹과 관련해 무혐의 처분을 받았다. ."
+			],
+			[
+				1,
+				"관련하",
+				"VV",
+				"배우 김동희(22) 측이 올 초 불거진 학교폭력(학폭) 의혹과 관련해 무혐의 처분을 받았다. ."
+			],
+			[
+				2,
+				"받",
+				"VV",
+				"배우 김동희(22) 측이 올 초 불거진 학교폭력(학폭) 의혹과 관련해 무혐의 처분을 받았다. ."
+			],
+			[
+				3,
+				"통하",
+				"VV",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				4,
+				"지나",
+				"VV",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				5,
+				"게시되",
+				"VV",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				6,
+				"대하",
+				"VV",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				7,
+				"통하",
+				"VV",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				8,
+				"파악하",
+				"VV",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				9,
+				"길",
+				"VA",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				10,
+				"노력하",
+				"VV",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				11,
+				"밝히",
+				"VV",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				12,
+				"이",
+				"VCP",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				13,
+				"제출하",
+				"VV",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				14,
+				"지나",
+				"VV",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				15,
+				"이",
+				"VCP",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				16,
+				"명백하",
+				"VA",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				17,
+				"없",
+				"VA",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				18,
+				"이",
+				"VCP",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				19,
+				"이",
+				"VCP",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				20,
+				"나오",
+				"VV",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				21,
+				"알리",
+				"VV",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			]
+		],
+		"VV_Lst": [
+			[
+				0,
+				"불거지",
+				"VV",
+				"배우 김동희(22) 측이 올 초 불거진 학교폭력(학폭) 의혹과 관련해 무혐의 처분을 받았다. ."
+			],
+			[
+				1,
+				"관련하",
+				"VV",
+				"배우 김동희(22) 측이 올 초 불거진 학교폭력(학폭) 의혹과 관련해 무혐의 처분을 받았다. ."
+			],
+			[
+				2,
+				"받",
+				"VV",
+				"배우 김동희(22) 측이 올 초 불거진 학교폭력(학폭) 의혹과 관련해 무혐의 처분을 받았다. ."
+			],
+			[
+				3,
+				"통하",
+				"VV",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				4,
+				"지나",
+				"VV",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				5,
+				"게시되",
+				"VV",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				6,
+				"대하",
+				"VV",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				7,
+				"통하",
+				"VV",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				8,
+				"파악하",
+				"VV",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				9,
+				"노력하",
+				"VV",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				10,
+				"밝히",
+				"VV",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				11,
+				"제출하",
+				"VV",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				12,
+				"지나",
+				"VV",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				13,
+				"나오",
+				"VV",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				14,
+				"알리",
+				"VV",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			]
+		],
+		"VA_Lst": [
+			[
+				0,
+				"길",
+				"VA",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				1,
+				"명백하",
+				"VA",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				2,
+				"없",
+				"VA",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			]
+		],
+		"VX_Lst": [],
+		"VCP_Lst": [
+			[
+				0,
+				"이",
+				"VCP",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				1,
+				"이",
+				"VCP",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				2,
+				"이",
+				"VCP",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				3,
+				"이",
+				"VCP",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			]
+		],
+		"VCN_Lst": [],
+		"ML_Lst": [
+			[
+				0,
+				"이어",
+				"MAG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			]
+		],
+		"MA_Lst": [],
+		"MM_Lst": [],
+		"J_Lst": [
+			[
+				0,
+				"이",
+				"JKS",
+				"배우 김동희(22) 측이 올 초 불거진 학교폭력(학폭) 의혹과 관련해 무혐의 처분을 받았다. ."
+			],
+			[
+				1,
+				"과",
+				"JKB",
+				"배우 김동희(22) 측이 올 초 불거진 학교폭력(학폭) 의혹과 관련해 무혐의 처분을 받았다. ."
+			],
+			[
+				2,
+				"을",
+				"JKO",
+				"배우 김동희(22) 측이 올 초 불거진 학교폭력(학폭) 의혹과 관련해 무혐의 처분을 받았다. ."
+			],
+			[
+				3,
+				"의",
+				"JKG",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				4,
+				"은",
+				"JX",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				5,
+				"를",
+				"JKO",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				6,
+				"는",
+				"JX",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				7,
+				"에",
+				"JKB",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				8,
+				"에",
+				"JKB",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				9,
+				"을",
+				"JKO",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				10,
+				"를",
+				"JKO",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				11,
+				"에서",
+				"JKB",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				12,
+				"의",
+				"JKG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				13,
+				"과",
+				"JC",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				14,
+				"의",
+				"JKG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				15,
+				"을",
+				"JKO",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				16,
+				"이",
+				"JKS",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				17,
+				"의",
+				"JKG",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				18,
+				"와",
+				"JC",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				19,
+				"을",
+				"JKO",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				20,
+				"가",
+				"JKS",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				21,
+				"가",
+				"JKS",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			]
+		],
+		"E_Lst": [
+			[
+				0,
+				"ㄴ",
+				"ETM",
+				"배우 김동희(22) 측이 올 초 불거진 학교폭력(학폭) 의혹과 관련해 무혐의 처분을 받았다. ."
+			],
+			[
+				1,
+				"아",
+				"EC",
+				"배우 김동희(22) 측이 올 초 불거진 학교폭력(학폭) 의혹과 관련해 무혐의 처분을 받았다. ."
+			],
+			[
+				2,
+				"았",
+				"EP",
+				"배우 김동희(22) 측이 올 초 불거진 학교폭력(학폭) 의혹과 관련해 무혐의 처분을 받았다. ."
+			],
+			[
+				3,
+				"다",
+				"EF",
+				"배우 김동희(22) 측이 올 초 불거진 학교폭력(학폭) 의혹과 관련해 무혐의 처분을 받았다. ."
+			],
+			[
+				4,
+				"아",
+				"EC",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				5,
+				"ㄴ",
+				"ETM",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				6,
+				"ㄴ",
+				"ETM",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				7,
+				"아",
+				"EC",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				8,
+				"아",
+				"EC",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				9,
+				"려고",
+				"EC",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				10,
+				"ㄴ",
+				"ETM",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				11,
+				"았",
+				"EP",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				12,
+				"다",
+				"EF",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				13,
+				"었",
+				"EP",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				14,
+				"다",
+				"EF",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				15,
+				"ㄴ",
+				"ETM",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				16,
+				"았",
+				"EP",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				17,
+				"으나",
+				"EC",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				18,
+				"ㄴ",
+				"ETM",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				19,
+				"고",
+				"EC",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				20,
+				"ㄹ",
+				"ETM",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				21,
+				"ㄴ",
+				"ETM",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				22,
+				"는",
+				"ETM",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				23,
+				"기에",
+				"EC",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				24,
+				"라는",
+				"ETM",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				25,
+				"았",
+				"EP",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				26,
+				"다",
+				"EF",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				27,
+				"었",
+				"EP",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				28,
+				"다",
+				"EF",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			]
+		],
+		"X_Lst": [
+			[
+				0,
+				"무",
+				"XPN",
+				"배우 김동희(22) 측이 올 초 불거진 학교폭력(학폭) 의혹과 관련해 무혐의 처분을 받았다. ."
+			],
+			[
+				1,
+				"상",
+				"XSN",
+				"김동희의 법률대리인 법무법인 두우 측은 28일 공식 보도자료를 통해 \"김동희는 지난 2월 온라인상에 게시된 의혹에 대해 사법기관을 통해 사실 여부를 파악하려고 긴 시간 노력하였다\"고 밝혔다."
+			],
+			[
+				2,
+				"님",
+				"XSN",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				3,
+				"들",
+				"XSN",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				4,
+				"들",
+				"XSN",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				5,
+				"하",
+				"XSV",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			],
+			[
+				6,
+				"무",
+				"XPN",
+				"이어 \"이 과정에서 김동희 본인의 고소인 진술, 선생님들과 동창 친구들의 진술서, 초등 중등학교 생활기록부사본 등을 제출했으나, 오랜 시간이 지난 초등학교 때 일이고, 서로의 입장 차이와 주장을 뒷받침 할 명백한 증거가 없는 상황이기에 무혐의라는 수사 결과가 나왔다\"고 알렸다."
+			]
+		],
+		"IC_Lst": []
+	},
+	"NDW": {
+		"morph_NDW": 112,
+		"NL_NDW": 60,
+		"NNG_NDW": 49,
+		"NNP_NDW": 5,
+		"NNB_NDW": 6,
+		"NP_NDW": 0,
+		"NR_NDW": 0,
+		"VL_NDW": 22,
+		"VV_NDW": 15,
+		"VA_NDW": 3,
+		"ML_NDW": 1,
+		"MM_NDW": 0,
+		"IC_NDW": 0,
+		"J_NDW": 22,
+		"E_NDW": 29,
+		"X_NDW": 7,
+		"CL_NDW": 83,
+		"FL_NDW": 58
+	}
+}

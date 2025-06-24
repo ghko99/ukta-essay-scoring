@@ -1,0 +1,9265 @@
+﻿{
+	"morpheme": {
+		"sentences": [
+			{
+				"text": {
+					"content": "우리는 '*르시', '한남충' 등 여러 성별 혐오 표현에 노출되어 있다.",
+					"length": 40,
+					"beginOffset": 0
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "우리는",
+							"length": 3,
+							"beginOffset": 0
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "우리",
+									"length": 2,
+									"beginOffset": 0
+								},
+								"tag": "NP",
+								"probability": 0.9881036,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 2,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9995203,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "우리",
+						"tagged": "우리/NP+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "'*르시',",
+							"beginOffset": 4,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "'",
+									"beginOffset": 4,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9999545,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "*",
+									"beginOffset": 5,
+									"length": 1
+								},
+								"tag": "SW",
+								"probability": 0.89826304,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "르시",
+									"beginOffset": 6,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.38938257,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "'",
+									"beginOffset": 8,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.99980605,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 9,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.99767053,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "'",
+						"tagged": "'/SS+*/SW+르시/NNG+'/SS+,/SP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "'한남충'",
+							"beginOffset": 11,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "'",
+									"beginOffset": 11,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9999038,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "한남충",
+									"beginOffset": 12,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.48563907,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "'",
+									"beginOffset": 15,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.99988556,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "'",
+						"tagged": "'/SS+한남충/NNG+'/SS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "등",
+							"beginOffset": 17,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "등",
+									"beginOffset": 17,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9748428,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "등",
+						"tagged": "등/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "여러",
+							"beginOffset": 19,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "여러",
+									"beginOffset": 19,
+									"length": 2
+								},
+								"tag": "MMN",
+								"probability": 0.9993202,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "여러",
+						"tagged": "여러/MMN",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "성별",
+							"beginOffset": 22,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "성별",
+									"beginOffset": 22,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98085624,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "성별",
+						"tagged": "성별/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "혐오",
+							"beginOffset": 25,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "혐오",
+									"beginOffset": 25,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9837301,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "혐오",
+						"tagged": "혐오/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "표현에",
+							"beginOffset": 28,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "표현",
+									"beginOffset": 28,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9860324,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 30,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9959477,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "표현",
+						"tagged": "표현/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "노출되어",
+							"beginOffset": 32,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "노출되",
+									"beginOffset": 32,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "어",
+									"beginOffset": 35,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9942108,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "노출되",
+						"tagged": "노출되/VV+어/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있다.",
+							"beginOffset": 37,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 37,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.9650903,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 38,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9926931,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 39,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9997485,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VX+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "우리는 '*르시', '한남충' 등 여러 성별 혐오 표현에 노출되어 있다."
+			},
+			{
+				"text": {
+					"content": "이는 우리 사회의 발전을 저해하고, 더 나아가 인간에 대한 불신을 심어줄 수 있다.",
+					"beginOffset": 41,
+					"length": 46
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "이는",
+							"beginOffset": 41,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 41,
+									"length": 1
+								},
+								"tag": "NP",
+								"probability": 0.94843394,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 42,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9991712,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이",
+						"tagged": "이/NP+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "우리",
+							"beginOffset": 44,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "우리",
+									"beginOffset": 44,
+									"length": 2
+								},
+								"tag": "NP",
+								"probability": 0.98520094,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "우리",
+						"tagged": "우리/NP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사회의",
+							"beginOffset": 47,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사회",
+									"beginOffset": 47,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98507184,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 49,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9996286,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사회",
+						"tagged": "사회/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "발전을",
+							"beginOffset": 51,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "발전",
+									"beginOffset": 51,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9800746,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 53,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99997556,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "발전",
+						"tagged": "발전/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "저해하고",
+							"beginOffset": 55,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "저해하",
+									"beginOffset": 55,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 58,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9942139,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "저해하",
+						"tagged": "저해하/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": ",",
+							"beginOffset": 59,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 59,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.9958483,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": ",",
+						"tagged": ",/SP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "더",
+							"beginOffset": 61,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "더",
+									"beginOffset": 61,
+									"length": 1
+								},
+								"tag": "MAG",
+								"probability": 0.992515,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "더",
+						"tagged": "더/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "나아가",
+							"beginOffset": 63,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "나아가",
+									"beginOffset": 63,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.9898867,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 65,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.995291,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "나아가",
+						"tagged": "나아가/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "인간에",
+							"beginOffset": 67,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "인간",
+									"beginOffset": 67,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98570377,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 69,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99525285,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "인간",
+						"tagged": "인간/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "대한",
+							"beginOffset": 71,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "대하",
+									"beginOffset": 71,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9866905,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 72,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99997395,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "대하",
+						"tagged": "대하/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "불신을",
+							"beginOffset": 74,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "불신",
+									"beginOffset": 74,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9825184,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 76,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99996674,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "불신",
+						"tagged": "불신/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "심어",
+							"beginOffset": 78,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "심",
+									"beginOffset": 78,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9887158,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어",
+									"beginOffset": 79,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.994721,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "심",
+						"tagged": "심/VV+어/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "줄",
+							"beginOffset": 80,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "주",
+									"beginOffset": 80,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.97560495,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ",
+									"beginOffset": 80,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99990535,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "주",
+						"tagged": "주/VX+ㄹ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "수",
+							"beginOffset": 82,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "수",
+									"beginOffset": 82,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.984108,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "수",
+						"tagged": "수/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있다.",
+							"beginOffset": 84,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 84,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.4912607,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 85,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.99394506,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 86,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9991348,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VX+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "이는 우리 사회의 발전을 저해하고 , 더 나아가 인간에 대한 불신을 심어 줄 수 있다."
+			},
+			{
+				"text": {
+					"content": "이를 해결할 방법은 없는 걸까?",
+					"beginOffset": 88,
+					"length": 17
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "이를",
+							"beginOffset": 88,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 88,
+									"length": 1
+								},
+								"tag": "NP",
+								"probability": 0.92452145,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 89,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99963504,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이",
+						"tagged": "이/NP+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "해결할",
+							"beginOffset": 91,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "해결하",
+									"beginOffset": 91,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄹ",
+									"beginOffset": 93,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99998444,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "해결하",
+						"tagged": "해결하/VV+ㄹ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "방법은",
+							"beginOffset": 95,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "방법",
+									"beginOffset": 95,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98410064,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 97,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99886495,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "방법",
+						"tagged": "방법/NNG+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "없는",
+							"beginOffset": 99,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "없",
+									"beginOffset": 99,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9876681,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 100,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999803,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "없",
+						"tagged": "없/VA+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "걸까?",
+							"beginOffset": 102,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "거",
+									"beginOffset": 102,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9640231,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 102,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.99969167,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ까",
+									"beginOffset": 102,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.9815373,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "?",
+									"beginOffset": 104,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9995294,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "거",
+						"tagged": "거/NNB+이/VCP+ㄹ까/EF+?/SF",
+						"modified": ""
+					}
+				],
+				"refined": "이를 해결할 방법은 없는 걸까?"
+			},
+			{
+				"text": {
+					"content": "아니다.",
+					"beginOffset": 106,
+					"length": 4
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "아니다.",
+							"beginOffset": 106,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "아니",
+									"beginOffset": 106,
+									"length": 2
+								},
+								"tag": "VCN",
+								"probability": 0.9996839,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 108,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9931677,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 109,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9995767,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "아니",
+						"tagged": "아니/VCN+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "아니다."
+			},
+			{
+				"text": {
+					"content": "찾아보면 있다.",
+					"beginOffset": 111,
+					"length": 8
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "찾아보면",
+							"beginOffset": 111,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "찾아보",
+									"beginOffset": 111,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.99025047,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "면",
+									"beginOffset": 114,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9959149,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "찾아보",
+						"tagged": "찾아보/VV+면/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있다.",
+							"beginOffset": 116,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 116,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.70233935,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 117,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.99426615,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 118,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99915904,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VX+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "찾아보면 있다."
+			},
+			{
+				"text": {
+					"content": "우리 함께 그 방법을 알아보자.",
+					"beginOffset": 120,
+					"length": 17
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "우리",
+							"beginOffset": 120,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "우리",
+									"beginOffset": 120,
+									"length": 2
+								},
+								"tag": "NP",
+								"probability": 0.9832149,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "우리",
+						"tagged": "우리/NP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "함께",
+							"beginOffset": 123,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "함께",
+									"beginOffset": 123,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.99400675,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "함께",
+						"tagged": "함께/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "그",
+							"beginOffset": 126,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그",
+									"beginOffset": 126,
+									"length": 1
+								},
+								"tag": "MMD",
+								"probability": 0.9998516,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그",
+						"tagged": "그/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "방법을",
+							"beginOffset": 128,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "방법",
+									"beginOffset": 128,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9863511,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 130,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999289,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "방법",
+						"tagged": "방법/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "알아보자.",
+							"beginOffset": 132,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "알아보",
+									"beginOffset": 132,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.9896316,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "자",
+									"beginOffset": 135,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.98394716,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 136,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99987197,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "알아보",
+						"tagged": "알아보/VV+자/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "우리 함께 그 방법을 알아보자."
+			},
+			{
+				"text": {
+					"content": "1. 서로에 대한 이해와 배려",
+					"beginOffset": 138,
+					"length": 16
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "1.",
+							"beginOffset": 138,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "1",
+									"beginOffset": 138,
+									"length": 1
+								},
+								"tag": "SN",
+								"probability": 0.9988029,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 139,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9954902,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "1",
+						"tagged": "1/SN+./SF",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "서로에",
+							"beginOffset": 141,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "서로",
+									"beginOffset": 141,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9809171,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 143,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9941783,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "서로",
+						"tagged": "서로/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "대한",
+							"beginOffset": 145,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "대하",
+									"beginOffset": 145,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.99069405,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 146,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99998826,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "대하",
+						"tagged": "대하/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이해와",
+							"beginOffset": 148,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이해",
+									"beginOffset": 148,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9804818,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "와",
+									"beginOffset": 150,
+									"length": 1
+								},
+								"tag": "JC",
+								"probability": 0.98243123,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이해",
+						"tagged": "이해/NNG+와/JC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "배려",
+							"beginOffset": 152,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "배려",
+									"beginOffset": 152,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98105407,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "배려",
+						"tagged": "배려/NNG",
+						"modified": ""
+					}
+				],
+				"refined": "1. 서로에 대한 이해와 배려"
+			},
+			{
+				"text": {
+					"content": "남자와 여자는 많은 차이가 있다.",
+					"beginOffset": 155,
+					"length": 18
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "남자와",
+							"beginOffset": 155,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "남자",
+									"beginOffset": 155,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98688656,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "와",
+									"beginOffset": 157,
+									"length": 1
+								},
+								"tag": "JC",
+								"probability": 0.93065995,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "남자",
+						"tagged": "남자/NNG+와/JC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "여자는",
+							"beginOffset": 159,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "여자",
+									"beginOffset": 159,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9848292,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 161,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.998343,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "여자",
+						"tagged": "여자/NNG+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "많은",
+							"beginOffset": 163,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "많",
+									"beginOffset": 163,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.98223233,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 164,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.999943,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "많",
+						"tagged": "많/VA+은/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "차이가",
+							"beginOffset": 166,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "차이",
+									"beginOffset": 166,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9856742,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 168,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9909542,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "차이",
+						"tagged": "차이/NNG+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있다.",
+							"beginOffset": 170,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 170,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9571122,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 171,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.99299276,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 172,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9972979,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VA+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "남자와 여자는 많은 차이가 있다."
+			},
+			{
+				"text": {
+					"content": "예를 들어 '근력', '체격' 등의 신체적 차이와 '취미', '지적 흥미' 같은 사회, 정신적 차이가 있다.",
+					"beginOffset": 174,
+					"length": 60
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "예를",
+							"beginOffset": 174,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "예",
+									"beginOffset": 174,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9823479,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 175,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99988335,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "예",
+						"tagged": "예/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "들어",
+							"beginOffset": 177,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "들",
+									"beginOffset": 177,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.98038155,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어",
+									"beginOffset": 178,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9788603,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "들",
+						"tagged": "들/VV+어/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "'근력',",
+							"beginOffset": 180,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "'",
+									"beginOffset": 180,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9999739,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "근력",
+									"beginOffset": 181,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9209971,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "'",
+									"beginOffset": 183,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9999832,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 184,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.99926215,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "'",
+						"tagged": "'/SS+근력/NNG+'/SS+,/SP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "'체격'",
+							"beginOffset": 186,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "'",
+									"beginOffset": 186,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9999812,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "체격",
+									"beginOffset": 187,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9508667,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "'",
+									"beginOffset": 189,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.99993116,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "'",
+						"tagged": "'/SS+체격/NNG+'/SS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "등의",
+							"beginOffset": 191,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "등",
+									"beginOffset": 191,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.96963435,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 192,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9993589,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "등",
+						"tagged": "등/NNB+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "신체적",
+							"beginOffset": 194,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "신체",
+									"beginOffset": 194,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9839947,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "적",
+									"beginOffset": 196,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.99077356,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "신체",
+						"tagged": "신체/NNG+적/XSN",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "차이와",
+							"beginOffset": 198,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "차이",
+									"beginOffset": 198,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9858772,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "와",
+									"beginOffset": 200,
+									"length": 1
+								},
+								"tag": "JC",
+								"probability": 0.9723632,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "차이",
+						"tagged": "차이/NNG+와/JC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "'취미',",
+							"beginOffset": 202,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "'",
+									"beginOffset": 202,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9999709,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "취미",
+									"beginOffset": 203,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.96224254,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "'",
+									"beginOffset": 205,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.99996716,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 206,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.9994308,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "'",
+						"tagged": "'/SS+취미/NNG+'/SS+,/SP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "'지적",
+							"beginOffset": 208,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "'",
+									"beginOffset": 208,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9999042,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "지",
+									"beginOffset": 209,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9582733,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "적",
+									"beginOffset": 210,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.989885,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "'",
+						"tagged": "'/SS+지/NNG+적/XSN",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "흥미'",
+							"beginOffset": 212,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "흥미",
+									"beginOffset": 212,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9819994,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "'",
+									"beginOffset": 214,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.99967897,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "흥미",
+						"tagged": "흥미/NNG+'/SS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "같은",
+							"beginOffset": 216,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "같",
+									"beginOffset": 216,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.987686,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 217,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999712,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "같",
+						"tagged": "같/VA+은/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사회,",
+							"beginOffset": 219,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사회",
+									"beginOffset": 219,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.986323,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 221,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.9993837,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사회",
+						"tagged": "사회/NNG+,/SP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "정신적",
+							"beginOffset": 223,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "정신",
+									"beginOffset": 223,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98182887,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "적",
+									"beginOffset": 225,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.98966944,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "정신",
+						"tagged": "정신/NNG+적/XSN",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "차이가",
+							"beginOffset": 227,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "차이",
+									"beginOffset": 227,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98460996,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 229,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9834517,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "차이",
+						"tagged": "차이/NNG+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있다.",
+							"beginOffset": 231,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 231,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9476345,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 232,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9908065,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 233,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9977645,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VA+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "예를 들어 '근력', '체격' 등의 신체적 차이와 '취미', '지적 흥미' 같은 사회, 정신적 차이가 있다."
+			},
+			{
+				"text": {
+					"content": "우리는 서로를 너무나 모른다.",
+					"beginOffset": 235,
+					"length": 16
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "우리는",
+							"beginOffset": 235,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "우리",
+									"beginOffset": 235,
+									"length": 2
+								},
+								"tag": "NP",
+								"probability": 0.98625463,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 237,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9993386,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "우리",
+						"tagged": "우리/NP+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "서로를",
+							"beginOffset": 239,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "서로",
+									"beginOffset": 239,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98379874,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 241,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99994385,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "서로",
+						"tagged": "서로/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "너무나",
+							"beginOffset": 243,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "너무나",
+									"beginOffset": 243,
+									"length": 3
+								},
+								"tag": "MAG",
+								"probability": 0.99191535,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "너무나",
+						"tagged": "너무나/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "모른다.",
+							"beginOffset": 247,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "모르",
+									"beginOffset": 247,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.98837674,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ다",
+									"beginOffset": 248,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.9892963,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 250,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9998547,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "모르",
+						"tagged": "모르/VV+ㄴ다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "우리는 서로를 너무나 모른다."
+			},
+			{
+				"text": {
+					"content": "이로 인해 갈등이 생기고, 혐오가 생긴다.",
+					"beginOffset": 252,
+					"length": 23
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "이로",
+							"beginOffset": 252,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 252,
+									"length": 1
+								},
+								"tag": "NP",
+								"probability": 0.9730068,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "로",
+									"beginOffset": 253,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99371105,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이",
+						"tagged": "이/NP+로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "인해",
+							"beginOffset": 255,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "인하",
+									"beginOffset": 255,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9861207,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 256,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.995608,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "인하",
+						"tagged": "인하/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "갈등이",
+							"beginOffset": 258,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "갈등",
+									"beginOffset": 258,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9847628,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 260,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9941385,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "갈등",
+						"tagged": "갈등/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "생기고",
+							"beginOffset": 262,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "생기",
+									"beginOffset": 262,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9896305,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 264,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9862426,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "생기",
+						"tagged": "생기/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": ",",
+							"beginOffset": 265,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 265,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.99930876,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": ",",
+						"tagged": ",/SP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "혐오가",
+							"beginOffset": 267,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "혐오",
+									"beginOffset": 267,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9805076,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 269,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9831601,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "혐오",
+						"tagged": "혐오/NNG+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "생긴다.",
+							"beginOffset": 271,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "생기",
+									"beginOffset": 271,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9906513,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ다",
+									"beginOffset": 272,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.9901282,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 274,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99982977,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "생기",
+						"tagged": "생기/VV+ㄴ다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "이로 인해 갈등이 생기고 , 혐오가 생긴다."
+			},
+			{
+				"text": {
+					"content": "이를 극복하려면 우리는 서로를 이해하고 배려하여야 한다.",
+					"beginOffset": 276,
+					"length": 31
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "이를",
+							"beginOffset": 276,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 276,
+									"length": 1
+								},
+								"tag": "NP",
+								"probability": 0.86627656,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 277,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999226,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이",
+						"tagged": "이/NP+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "극복하려면",
+							"beginOffset": 279,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "극복하",
+									"beginOffset": 279,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "려면",
+									"beginOffset": 282,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99489915,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "극복하",
+						"tagged": "극복하/VV+려면/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "우리는",
+							"beginOffset": 285,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "우리",
+									"beginOffset": 285,
+									"length": 2
+								},
+								"tag": "NP",
+								"probability": 0.9879552,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 287,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99922657,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "우리",
+						"tagged": "우리/NP+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "서로를",
+							"beginOffset": 289,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "서로",
+									"beginOffset": 289,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9839783,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 291,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999252,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "서로",
+						"tagged": "서로/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이해하고",
+							"beginOffset": 293,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이해하",
+									"beginOffset": 293,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 296,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9943148,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이해하",
+						"tagged": "이해하/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "배려하여야",
+							"beginOffset": 298,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "배려하",
+									"beginOffset": 298,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "아야",
+									"beginOffset": 301,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9922458,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "배려하",
+						"tagged": "배려하/VV+아야/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "한다.",
+							"beginOffset": 304,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 304,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.9314719,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ다",
+									"beginOffset": 304,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.99399203,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 306,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99969506,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VX+ㄴ다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "이를 극복하려면 우리는 서로를 이해하고 배려하여야 한다."
+			},
+			{
+				"text": {
+					"content": "2. 비판적 정보 수용",
+					"beginOffset": 308,
+					"length": 12
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "2.",
+							"beginOffset": 308,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "2",
+									"beginOffset": 308,
+									"length": 1
+								},
+								"tag": "SN",
+								"probability": 0.9985673,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 309,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99149126,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "2",
+						"tagged": "2/SN+./SF",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "비판적",
+							"beginOffset": 311,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "비판",
+									"beginOffset": 311,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98047835,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "적",
+									"beginOffset": 313,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.9859201,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "비판",
+						"tagged": "비판/NNG+적/XSN",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "정보",
+							"beginOffset": 315,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "정보",
+									"beginOffset": 315,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.96704906,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "정보",
+						"tagged": "정보/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "수용",
+							"beginOffset": 318,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "수용",
+									"beginOffset": 318,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9796894,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "수용",
+						"tagged": "수용/NNG",
+						"modified": ""
+					}
+				],
+				"refined": "2. 비판적 정보 수용"
+			},
+			{
+				"text": {
+					"content": "우리는 정보의 바다에서 살고 있다.",
+					"beginOffset": 321,
+					"length": 19
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "우리는",
+							"beginOffset": 321,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "우리",
+									"beginOffset": 321,
+									"length": 2
+								},
+								"tag": "NP",
+								"probability": 0.9840007,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 323,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99933726,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "우리",
+						"tagged": "우리/NP+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "정보의",
+							"beginOffset": 325,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "정보",
+									"beginOffset": 325,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.981602,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 327,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9991137,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "정보",
+						"tagged": "정보/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "바다에서",
+							"beginOffset": 329,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "바다",
+									"beginOffset": 329,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9793347,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에서",
+									"beginOffset": 331,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9937652,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "바다",
+						"tagged": "바다/NNG+에서/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "살고",
+							"beginOffset": 334,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "살",
+									"beginOffset": 334,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.98825216,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 335,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99586976,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "살",
+						"tagged": "살/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있다.",
+							"beginOffset": 337,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 337,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.97261727,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 338,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.99336743,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 339,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99840397,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VX+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "우리는 정보의 바다에서 살고 있다."
+			},
+			{
+				"text": {
+					"content": "그것이 좋은 정보든, 나쁜 정보든 받아들여서 혼란스러운 사회가 된다.",
+					"beginOffset": 341,
+					"length": 38
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "그것이",
+							"beginOffset": 341,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그것",
+									"beginOffset": 341,
+									"length": 2
+								},
+								"tag": "NP",
+								"probability": 0.9873824,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 343,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9826518,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그것",
+						"tagged": "그것/NP+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "좋은",
+							"beginOffset": 345,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "좋",
+									"beginOffset": 345,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.98443556,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 346,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99996525,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "좋",
+						"tagged": "좋/VA+은/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "정보든",
+							"beginOffset": 348,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "정보",
+									"beginOffset": 348,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9829913,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 350,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.999956,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "든",
+									"beginOffset": 350,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99199486,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "정보",
+						"tagged": "정보/NNG+이/VCP+든/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": ",",
+							"beginOffset": 351,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 351,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.99936444,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": ",",
+						"tagged": ",/SP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "나쁜",
+							"beginOffset": 353,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "나쁘",
+									"beginOffset": 353,
+									"length": 2
+								},
+								"tag": "VA",
+								"probability": 0.9886699,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 354,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99998486,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "나쁘",
+						"tagged": "나쁘/VA+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "정보든",
+							"beginOffset": 356,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "정보",
+									"beginOffset": 356,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.95593435,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 358,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.99985844,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "든",
+									"beginOffset": 358,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9909127,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "정보",
+						"tagged": "정보/NNG+이/VCP+든/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "받아들여서",
+							"beginOffset": 360,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "받아들이",
+									"beginOffset": 360,
+									"length": 4
+								},
+								"tag": "VV",
+								"probability": 0.98455614,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어서",
+									"beginOffset": 363,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9962725,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "받아들이",
+						"tagged": "받아들이/VV+어서/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "혼란스러운",
+							"beginOffset": 366,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "혼란스럽",
+									"beginOffset": 366,
+									"length": 4
+								},
+								"tag": "VA",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 370,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999193,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "혼란스럽",
+						"tagged": "혼란스럽/VA+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사회가",
+							"beginOffset": 372,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사회",
+									"beginOffset": 372,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98639256,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 374,
+									"length": 1
+								},
+								"tag": "JKC",
+								"probability": 0.9465585,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사회",
+						"tagged": "사회/NNG+가/JKC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "된다.",
+							"beginOffset": 376,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "되",
+									"beginOffset": 376,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9851767,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ다",
+									"beginOffset": 376,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.99120253,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 378,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9998177,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "되",
+						"tagged": "되/VV+ㄴ다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "그것이 좋은 정보든 , 나쁜 정보든 받아들여서 혼란스러운 사회가 된다."
+			},
+			{
+				"text": {
+					"content": "우리는 SNS나 \"일베저장소\", \"워마드\"와 같이 극단적 커뮤니티에서 다루는 옳지 않은 혐오 조장 글에 대하여 정보를 수용하지 않고 비판하는 자세가 필요하다.",
+					"beginOffset": 380,
+					"length": 88
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "우리는",
+							"beginOffset": 380,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "우리",
+									"beginOffset": 380,
+									"length": 2
+								},
+								"tag": "NP",
+								"probability": 0.9870328,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 382,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99934137,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "우리",
+						"tagged": "우리/NP+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "SNS나",
+							"beginOffset": 384,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "SNS",
+									"beginOffset": 384,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.8968333,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "나",
+									"beginOffset": 387,
+									"length": 1
+								},
+								"tag": "JC",
+								"probability": 0.86421967,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "SNS",
+						"tagged": "SNS/NNG+나/JC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "\"일베저장소\",",
+							"beginOffset": 389,
+							"length": 8
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "\"",
+									"beginOffset": 389,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9999356,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "일베",
+									"beginOffset": 390,
+									"length": 2
+								},
+								"tag": "NNP",
+								"probability": 0.83631605,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "저장소",
+									"beginOffset": 392,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.8742125,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "\"",
+									"beginOffset": 395,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.99992746,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 396,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.9992272,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "\"",
+						"tagged": "\"/SS+일베/NNP+저장소/NNG+\"/SS+,/SP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "\"워마드\"와",
+							"beginOffset": 398,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "\"",
+									"beginOffset": 398,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.99989986,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "워마드",
+									"beginOffset": 399,
+									"length": 3
+								},
+								"tag": "NNP",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "\"",
+									"beginOffset": 402,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.99985874,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "와",
+									"beginOffset": 403,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.95731735,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "\"",
+						"tagged": "\"/SS+워마드/NNP+\"/SS+와/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "같이",
+							"beginOffset": 405,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "같이",
+									"beginOffset": 405,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9918509,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "같이",
+						"tagged": "같이/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "극단적",
+							"beginOffset": 408,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "극단",
+									"beginOffset": 408,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98451376,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "적",
+									"beginOffset": 410,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.9881093,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "극단",
+						"tagged": "극단/NNG+적/XSN",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "커뮤니티에서",
+							"beginOffset": 412,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "커뮤니티",
+									"beginOffset": 412,
+									"length": 4
+								},
+								"tag": "NNG",
+								"probability": 0.9748184,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에서",
+									"beginOffset": 416,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.99577004,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "커뮤니티",
+						"tagged": "커뮤니티/NNG+에서/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "다루는",
+							"beginOffset": 419,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "다루",
+									"beginOffset": 419,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9898379,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 421,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999583,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "다루",
+						"tagged": "다루/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "옳지",
+							"beginOffset": 423,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "옳",
+									"beginOffset": 423,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9880851,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "지",
+									"beginOffset": 424,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99374366,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "옳",
+						"tagged": "옳/VA+지/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "않은",
+							"beginOffset": 426,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "않",
+									"beginOffset": 426,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.94766724,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 427,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999336,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "않",
+						"tagged": "않/VX+은/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "혐오",
+							"beginOffset": 429,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "혐오",
+									"beginOffset": 429,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97914666,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "혐오",
+						"tagged": "혐오/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "조장",
+							"beginOffset": 432,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "조장",
+									"beginOffset": 432,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98452276,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "조장",
+						"tagged": "조장/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "글에",
+							"beginOffset": 435,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "글",
+									"beginOffset": 435,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.98358285,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 436,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.997843,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "글",
+						"tagged": "글/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "대하여",
+							"beginOffset": 438,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "대하",
+									"beginOffset": 438,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9921373,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 440,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99531674,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "대하",
+						"tagged": "대하/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "정보를",
+							"beginOffset": 442,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "정보",
+									"beginOffset": 442,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98194516,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 444,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999695,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "정보",
+						"tagged": "정보/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "수용하지",
+							"beginOffset": 446,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "수용하",
+									"beginOffset": 446,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "지",
+									"beginOffset": 449,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99345994,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "수용하",
+						"tagged": "수용하/VV+지/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "않고",
+							"beginOffset": 451,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "않",
+									"beginOffset": 451,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.9288591,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 452,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9945349,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "않",
+						"tagged": "않/VX+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "비판하는",
+							"beginOffset": 454,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "비판하",
+									"beginOffset": 454,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 457,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99986213,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "비판하",
+						"tagged": "비판하/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "자세가",
+							"beginOffset": 459,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "자세",
+									"beginOffset": 459,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9852746,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 461,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.97907454,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "자세",
+						"tagged": "자세/NNG+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "필요하다.",
+							"beginOffset": 463,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "필요하",
+									"beginOffset": 463,
+									"length": 3
+								},
+								"tag": "VA",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 466,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9941906,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 467,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99976647,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "필요하",
+						"tagged": "필요하/VA+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "우리는 SNS나 \"일베저장소\", \"워마드\"와 같이 극단적 커뮤니티에서 다루는 옳지 않은 혐오 조장 글에 대하여 정보를 수용하지 않고 비판하는 자세가 필요하다."
+			},
+			{
+				"text": {
+					"content": "3. 혐오에 대한 비판",
+					"beginOffset": 469,
+					"length": 12
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "3.",
+							"beginOffset": 469,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "3",
+									"beginOffset": 469,
+									"length": 1
+								},
+								"tag": "SN",
+								"probability": 0.99822414,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 470,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99848926,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "3",
+						"tagged": "3/SN+./SF",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "혐오에",
+							"beginOffset": 472,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "혐오",
+									"beginOffset": 472,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9757875,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 474,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9953496,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "혐오",
+						"tagged": "혐오/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "대한",
+							"beginOffset": 476,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "대하",
+									"beginOffset": 476,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.989258,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 477,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999871,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "대하",
+						"tagged": "대하/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "비판",
+							"beginOffset": 479,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "비판",
+									"beginOffset": 479,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9598867,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "비판",
+						"tagged": "비판/NNG",
+						"modified": ""
+					}
+				],
+				"refined": "3. 혐오에 대한 비판"
+			},
+			{
+				"text": {
+					"content": "우리는 일상생활에서 혐오를 목격하였을 때 우리는 이를 저지하여야 한다.",
+					"beginOffset": 482,
+					"length": 39
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "우리는",
+							"beginOffset": 482,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "우리",
+									"beginOffset": 482,
+									"length": 2
+								},
+								"tag": "NP",
+								"probability": 0.9857484,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 484,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99879605,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "우리",
+						"tagged": "우리/NP+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "일상생활에서",
+							"beginOffset": 486,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "일상생활",
+									"beginOffset": 486,
+									"length": 4
+								},
+								"tag": "NNG",
+								"probability": 0.9832646,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에서",
+									"beginOffset": 490,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.99573016,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "일상생활",
+						"tagged": "일상생활/NNG+에서/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "혐오를",
+							"beginOffset": 493,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "혐오",
+									"beginOffset": 493,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9804021,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 495,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999634,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "혐오",
+						"tagged": "혐오/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "목격하였을",
+							"beginOffset": 497,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "목격하",
+									"beginOffset": 497,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 500,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9999071,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 501,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999379,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "목격하",
+						"tagged": "목격하/VV+았/EP+을/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "때",
+							"beginOffset": 503,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "때",
+									"beginOffset": 503,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9810805,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "때",
+						"tagged": "때/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "우리는",
+							"beginOffset": 505,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "우리",
+									"beginOffset": 505,
+									"length": 2
+								},
+								"tag": "NP",
+								"probability": 0.98623115,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 507,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99912345,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "우리",
+						"tagged": "우리/NP+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이를",
+							"beginOffset": 509,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 509,
+									"length": 1
+								},
+								"tag": "NP",
+								"probability": 0.9752501,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 510,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9998857,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이",
+						"tagged": "이/NP+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "저지하여야",
+							"beginOffset": 512,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "저지하",
+									"beginOffset": 512,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "아야",
+									"beginOffset": 515,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.994371,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "저지하",
+						"tagged": "저지하/VV+아야/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "한다.",
+							"beginOffset": 518,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 518,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.9607783,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ다",
+									"beginOffset": 518,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.9899672,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 520,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99974895,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VX+ㄴ다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "우리는 일상생활에서 혐오를 목격하였을 때 우리는 이를 저지하여야 한다."
+			},
+			{
+				"text": {
+					"content": "젊은 남성이 할머니를 여자라는 이유로 폭행하거나.",
+					"beginOffset": 522,
+					"length": 27
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "젊은",
+							"beginOffset": 522,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "젊",
+									"beginOffset": 522,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.98271555,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 523,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.999983,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "젊",
+						"tagged": "젊/VA+은/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "남성이",
+							"beginOffset": 525,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "남성",
+									"beginOffset": 525,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9822633,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 527,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9869348,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "남성",
+						"tagged": "남성/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "할머니를",
+							"beginOffset": 529,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "할머니",
+									"beginOffset": 529,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.97206676,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 532,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9994273,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "할머니",
+						"tagged": "할머니/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "여자라는",
+							"beginOffset": 534,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "여자",
+									"beginOffset": 534,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9852526,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 536,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.99970096,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "라는",
+									"beginOffset": 536,
+									"length": 2
+								},
+								"tag": "ETM",
+								"probability": 0.9999084,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "여자",
+						"tagged": "여자/NNG+이/VCP+라는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이유로",
+							"beginOffset": 539,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이유",
+									"beginOffset": 539,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9861399,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "로",
+									"beginOffset": 541,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99646187,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이유",
+						"tagged": "이유/NNG+로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "폭행하거나",
+							"beginOffset": 543,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "폭행하",
+									"beginOffset": 543,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "거나",
+									"beginOffset": 546,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.562863,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "폭행하",
+						"tagged": "폭행하/VV+거나/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": ".",
+							"beginOffset": 548,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 548,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99827033,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": ".",
+						"tagged": "./SF",
+						"modified": ""
+					}
+				],
+				"refined": "젊은 남성이 할머니를 여자라는 이유로 폭행하거나 ."
+			},
+			{
+				"text": {
+					"content": "어른 여성이 남자 어린이를 남자라는 이유로 폭행할 때 우리는 이를 경찰에 신고하거나 싸움을 말려야 한다.",
+					"beginOffset": 550,
+					"length": 58
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "어른",
+							"beginOffset": 550,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "어른",
+									"beginOffset": 550,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9828289,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "어른",
+						"tagged": "어른/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "여성이",
+							"beginOffset": 553,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "여성",
+									"beginOffset": 553,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98337084,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 555,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.98962516,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "여성",
+						"tagged": "여성/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "남자",
+							"beginOffset": 557,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "남자",
+									"beginOffset": 557,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9833274,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "남자",
+						"tagged": "남자/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "어린이를",
+							"beginOffset": 560,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "어린이",
+									"beginOffset": 560,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.97384447,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 563,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9997868,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "어린이",
+						"tagged": "어린이/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "남자라는",
+							"beginOffset": 565,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "남자",
+									"beginOffset": 565,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98540485,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 567,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.9995967,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "라는",
+									"beginOffset": 567,
+									"length": 2
+								},
+								"tag": "ETM",
+								"probability": 0.9999442,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "남자",
+						"tagged": "남자/NNG+이/VCP+라는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이유로",
+							"beginOffset": 570,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이유",
+									"beginOffset": 570,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9856906,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "로",
+									"beginOffset": 572,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9966619,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이유",
+						"tagged": "이유/NNG+로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "폭행할",
+							"beginOffset": 574,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "폭행하",
+									"beginOffset": 574,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄹ",
+									"beginOffset": 576,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999897,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "폭행하",
+						"tagged": "폭행하/VV+ㄹ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "때",
+							"beginOffset": 578,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "때",
+									"beginOffset": 578,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9838127,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "때",
+						"tagged": "때/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "우리는",
+							"beginOffset": 580,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "우리",
+									"beginOffset": 580,
+									"length": 2
+								},
+								"tag": "NP",
+								"probability": 0.98628724,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 582,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9993677,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "우리",
+						"tagged": "우리/NP+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이를",
+							"beginOffset": 584,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 584,
+									"length": 1
+								},
+								"tag": "NP",
+								"probability": 0.9757836,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 585,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99919975,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이",
+						"tagged": "이/NP+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "경찰에",
+							"beginOffset": 587,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "경찰",
+									"beginOffset": 587,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98586416,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 589,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9957325,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "경찰",
+						"tagged": "경찰/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "신고하거나",
+							"beginOffset": 591,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "신고하",
+									"beginOffset": 591,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "거나",
+									"beginOffset": 594,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.992147,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "신고하",
+						"tagged": "신고하/VV+거나/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "싸움을",
+							"beginOffset": 597,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "싸움",
+									"beginOffset": 597,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9838905,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 599,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99966425,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "싸움",
+						"tagged": "싸움/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "말려야",
+							"beginOffset": 601,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "말리",
+									"beginOffset": 601,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.99040383,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어야",
+									"beginOffset": 602,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99512196,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "말리",
+						"tagged": "말리/VV+어야/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "한다.",
+							"beginOffset": 605,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 605,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.7816007,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ다",
+									"beginOffset": 605,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.9920587,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 607,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9995456,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VX+ㄴ다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "어른 여성이 남자 어린이를 남자라는 이유로 폭행할 때 우리는 이를 경찰에 신고하거나 싸움을 말려야 한다."
+			},
+			{
+				"text": {
+					"content": "이렇게 많은 해결법을 알아보았다.",
+					"beginOffset": 609,
+					"length": 18
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "이렇게",
+							"beginOffset": 609,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이렇",
+									"beginOffset": 609,
+									"length": 2
+								},
+								"tag": "VA",
+								"probability": 0.98392767,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "게",
+									"beginOffset": 611,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9954926,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이렇",
+						"tagged": "이렇/VA+게/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "많은",
+							"beginOffset": 613,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "많",
+									"beginOffset": 613,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.98631436,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 614,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.999789,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "많",
+						"tagged": "많/VA+은/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "해결법을",
+							"beginOffset": 616,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "해결법",
+									"beginOffset": 616,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.5417374,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 619,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99980843,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "해결법",
+						"tagged": "해결법/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "알아보았다.",
+							"beginOffset": 621,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "알아보",
+									"beginOffset": 621,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.99126637,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 624,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99995565,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 625,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9926509,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 626,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99985904,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "알아보",
+						"tagged": "알아보/VV+았/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "이렇게 많은 해결법을 알아보았다."
+			},
+			{
+				"text": {
+					"content": "우리는 이를 실천하고 책임지는 태도가 필요하다.",
+					"beginOffset": 628,
+					"length": 26
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "우리는",
+							"beginOffset": 628,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "우리",
+									"beginOffset": 628,
+									"length": 2
+								},
+								"tag": "NP",
+								"probability": 0.9845897,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 630,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9996032,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "우리",
+						"tagged": "우리/NP+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이를",
+							"beginOffset": 632,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 632,
+									"length": 1
+								},
+								"tag": "NP",
+								"probability": 0.9247958,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 633,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9998812,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이",
+						"tagged": "이/NP+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "실천하고",
+							"beginOffset": 635,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "실천하",
+									"beginOffset": 635,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 638,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9943201,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "실천하",
+						"tagged": "실천하/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "책임지는",
+							"beginOffset": 640,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "책임지",
+									"beginOffset": 640,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.98895156,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 643,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999538,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "책임지",
+						"tagged": "책임지/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "태도가",
+							"beginOffset": 645,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "태도",
+									"beginOffset": 645,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98767847,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 647,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.98283786,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "태도",
+						"tagged": "태도/NNG+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "필요하다.",
+							"beginOffset": 649,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "필요하",
+									"beginOffset": 649,
+									"length": 3
+								},
+								"tag": "VA",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 652,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.992953,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 653,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9998466,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "필요하",
+						"tagged": "필요하/VA+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "우리는 이를 실천하고 책임지는 태도가 필요하다."
+			}
+		],
+		"language": "ko_KR"
+	},
+	"ttr": {
+		"lemma_Cnt": 294,
+		"lemma_TTR": 0.42151162790697677,
+		"CL_TTR": 0.6358024691358025,
+		"NL_TTR": 0.5957446808510638,
+		"NN_TTR": 0.7066666666666667,
+		"NNG_TTR": 0.6956521739130435,
+		"NNP_TTR": 1.0,
+		"NNB_TTR": 0.75,
+		"NP_TTR": 0.15789473684210525,
+		"NR_TTR": 0,
+		"VL_TTR": 0.6875,
+		"VV_TTR": 0.8235294117647058,
+		"VA_TTR": 0.7857142857142857,
+		"ML_TTR": 1.0,
+		"MM_TTR": 0,
+		"MA_TTR": 1.0,
+		"MAJ_TTR": 0,
+		"IC_TTR": 0,
+		"FL_TTR": 0.25384615384615383,
+		"J_TTR": 0.2033898305084746,
+		"E_TTR": 0.3484848484848485,
+		"X_TTR": 0.2,
+		"lemma_RTTR": 7.817876057249285,
+		"CL_RTTR": 8.092444273579378,
+		"NL_RTTR": 5.775958979049243,
+		"NN_RTTR": 6.119912853410033,
+		"NNG_RTTR": 5.778520948116921,
+		"NNP_RTTR": 1.414213562373095,
+		"NNB_RTTR": 1.5,
+		"NP_RTTR": 0.6882472016116852,
+		"NR_RTTR": 0,
+		"VL_RTTR": 5.5,
+		"VV_RTTR": 4.801960383990247,
+		"VA_RTTR": 2.9398736610366685,
+		"ML_RTTR": 2.0,
+		"MM_RTTR": 0,
+		"MA_RTTR": 2.0,
+		"MAJ_RTTR": 0,
+		"IC_RTTR": 0,
+		"FL_RTTR": 2.8942914637131967,
+		"J_RTTR": 1.5622669317698865,
+		"E_RTTR": 2.831104292524653,
+		"X_RTTR": 0.4472135954999579,
+		"lemma_CTTR": 5.528073174556919,
+		"CL_CTTR": 5.722222222222222,
+		"NL_CTTR": 4.084219761941048,
+		"NN_CTTR": 4.327431878916948,
+		"NNG_CTTR": 4.086031347641994,
+		"NNP_CTTR": 1.0,
+		"NNB_CTTR": 1.0606601717798212,
+		"NP_CTTR": 0.48666426339228763,
+		"NR_CTTR": 0,
+		"VL_CTTR": 3.8890872965260113,
+		"VV_CTTR": 3.395498750508662,
+		"VA_CTTR": 2.0788046015507495,
+		"ML_CTTR": 1.414213562373095,
+		"MM_CTTR": 0,
+		"MA_CTTR": 1.414213562373095,
+		"MAJ_CTTR": 0,
+		"IC_CTTR": 0,
+		"FL_CTTR": 2.0465731207219395,
+		"J_CTTR": 1.104689541477988,
+		"E_CTTR": 2.0018930434905253,
+		"X_CTTR": 0.31622776601683794,
+		"lemma_MSTTR": 0.7466666666666666,
+		"CL_MSTTR": 0.7533333333333333,
+		"NL_MSTTR": 0.66,
+		"NN_MSTTR": 0.76,
+		"NNG_MSTTR": 0.72,
+		"NNP_MSTTR": 1.0,
+		"NNB_MSTTR": 0.75,
+		"NP_MSTTR": 0.15789473684210525,
+		"NR_MSTTR": 0,
+		"VL_MSTTR": 0.74,
+		"VV_MSTTR": 0.8235294117647058,
+		"VA_MSTTR": 0.7857142857142857,
+		"ML_MSTTR": 1.0,
+		"MM_MSTTR": 0,
+		"MA_MSTTR": 1.0,
+		"MAJ_MSTTR": 0,
+		"IC_MSTTR": 0,
+		"FL_MSTTR": 0.44,
+		"J_MSTTR": 0.24,
+		"E_MSTTR": 0.38,
+		"X_MSTTR": 0.2,
+		"lemma_MATTR": 0.7246779661016947,
+		"CL_MATTR": 0.7667256637168138,
+		"NL_MATTR": 0.6582222222222224,
+		"NN_MATTR": 0.7338461538461538,
+		"NNG_MATTR": 0.704,
+		"NNP_MATTR": 1.0,
+		"NNB_MATTR": 0.75,
+		"NP_MATTR": 0.15789473684210525,
+		"NR_MATTR": 0,
+		"VL_MATTR": 0.7186666666666663,
+		"VV_MATTR": 0.8235294117647058,
+		"VA_MATTR": 0.7857142857142857,
+		"ML_MATTR": 1.0,
+		"MM_MATTR": 0,
+		"MA_MATTR": 1.0,
+		"MAJ_MATTR": 0,
+		"IC_MATTR": 0,
+		"FL_MATTR": 0.4619753086419756,
+		"J_MATTR": 0.23800000000000004,
+		"E_MATTR": 0.41647058823529415,
+		"X_MATTR": 0.2,
+		"lemma_MTLD": 47.766824167528725,
+		"CL_MTLD": 61.66630873657154,
+		"NL_MTLD": 28.388471177944865,
+		"NN_MTLD": 50.890556211747025,
+		"NNG_MTLD": 43.25373134328359,
+		"NNP_MTLD": 0.0,
+		"NNB_MTLD": 4.48,
+		"NP_MTLD": 5.324565037282518,
+		"NR_MTLD": 0.0,
+		"VL_MTLD": 53.67741935483871,
+		"VV_MTLD": 53.94666666666666,
+		"VA_MTLD": 18.293333333333333,
+		"ML_MTLD": 0.0,
+		"MM_MTLD": 0.0,
+		"MA_MTLD": 0.0,
+		"MAJ_MTLD": 0.0,
+		"IC_MTLD": 0.0,
+		"FL_MTLD": 17.391640866873068,
+		"J_MTLD": 9.665384615384616,
+		"E_MTLD": 13.234464751958225,
+		"X_MTLD": 1.75,
+		"lemma_VOCDD": 57.991628007871746,
+		"CL_VOCDD": 75.68917802773863,
+		"NL_VOCDD": 38.443242749570395,
+		"NN_VOCDD": 65.95686622202574,
+		"NNG_VOCDD": 55.58431101409875,
+		"NNP_VOCDD": 0,
+		"NNB_VOCDD": 0,
+		"NP_VOCDD": 0,
+		"NR_VOCDD": 0,
+		"VL_VOCDD": 47.80269954846918,
+		"VV_VOCDD": 0,
+		"VA_VOCDD": 0,
+		"ML_VOCDD": 0,
+		"MM_VOCDD": 0,
+		"MA_VOCDD": 0,
+		"MAJ_VOCDD": 0,
+		"IC_VOCDD": 0,
+		"FL_VOCDD": 11.635425788698972,
+		"J_VOCDD": 2.1023071079799176,
+		"E_VOCDD": 8.036791368919722,
+		"X_VOCDD": 0,
+		"lemma_HDD": 0.7789509966136055,
+		"CL_HDD": 0.8143478606461328,
+		"NL_HDD": 0.7185155649109107,
+		"NN_HDD": 0.7968494599171808,
+		"NNG_HDD": 0.7746662525549418,
+		"NNP_HDD": 0.0,
+		"NNB_HDD": 0.0,
+		"NP_HDD": 0.0,
+		"NR_HDD": 0.0,
+		"VL_HDD": 0.7517160887127007,
+		"VV_HDD": 0.0,
+		"VA_HDD": 0.0,
+		"ML_HDD": 0.0,
+		"MM_HDD": 0.0,
+		"MA_HDD": 0.0,
+		"MAJ_HDD": 0.0,
+		"IC_HDD": 0.0,
+		"FL_HDD": 0.5185791550173764,
+		"J_HDD": 0.27020792628759865,
+		"E_HDD": 0.4562437095425879,
+		"X_HDD": 0.0
+	},
+	"similarity": {
+		"avgSentSimilarity": 0.06993567198514938,
+		"topicConsistency": 0.4955
+	},
+	"adjacency": {
+		"adjacent_sentence_overlap_all_lemmas": 201,
+		"adjacent_sentence_overlap_all_lemmas_normed": 21,
+		"binary_adjacent_sentence_overlap_all_lemmas": 20,
+		"adjacent_two_sentence_overlap_all_lemmas": 140,
+		"adjacent_two_sentence_overlap_all_lemmas_normed": 20,
+		"binary_adjacent_two_sentence_overlap_all_lemmas": 19,
+		"adjacent_sentence_overlap_content_lemmas": 103,
+		"adjacent_sentence_overlap_content_lemmas_normed": 19,
+		"binary_adjacent_sentence_overlap_content_lemmas": 8,
+		"adjacent_two_sentence_overlap_content_lemmas": 79,
+		"adjacent_two_sentence_overlap_content_lemmas_normed": 17,
+		"binary_adjacent_two_sentence_overlap_content_lemmas": 3,
+		"adjacent_sentence_overlap_function_lemmas": 67,
+		"adjacent_sentence_overlap_function_lemmas_normed": 18,
+		"binary_adjacent_sentence_overlap_function_lemmas": 14,
+		"adjacent_two_sentence_overlap_function_lemmas": 37,
+		"adjacent_two_sentence_overlap_function_lemmas_normed": 15,
+		"binary_adjacent_two_sentence_overlap_function_lemmas": 11,
+		"adjacent_sentence_overlap_noun_lemmas": 73,
+		"adjacent_sentence_overlap_noun_lemmas_normed": 18,
+		"binary_adjacent_sentence_overlap_noun_lemmas": 11,
+		"adjacent_two_sentence_overlap_noun_lemmas": 61,
+		"adjacent_two_sentence_overlap_noun_lemmas_normed": 16,
+		"binary_adjacent_two_sentence_overlap_noun_lemmas": 4,
+		"adjacent_sentence_overlap_verb_lemmas": 38,
+		"adjacent_sentence_overlap_verb_lemmas_normed": 16,
+		"binary_adjacent_sentence_overlap_verb_lemmas": 4,
+		"adjacent_two_sentence_overlap_verb_lemmas": 22,
+		"adjacent_two_sentence_overlap_verb_lemmas_normed": 11,
+		"binary_adjacent_two_sentence_overlap_verb_lemmas": 0,
+		"adjacent_sentence_overlap_adjective_lemmas": 5,
+		"adjacent_sentence_overlap_adjective_lemmas_normed": 3,
+		"binary_adjacent_sentence_overlap_adjective_lemmas": 1,
+		"adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_sentence_overlap_adverb_lemmas_normed": 0,
+		"binary_adjacent_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adverb_lemmas": 0
+	},
+	"basic_count": {
+		"para_Cnt": 1,
+		"sentence_Cnt": 22,
+		"word_Cnt": 160,
+		"morph_Cnt": 344,
+		"char_Cnt": 530,
+		"CL_Cnt": 162,
+		"NL_Cnt": 94,
+		"NN_Cnt": 75,
+		"NNG_Cnt": 69,
+		"NNP_Cnt": 2,
+		"NNB_Cnt": 4,
+		"NP_Cnt": 19,
+		"NP_People_Cnt": 11,
+		"NP_Things_Cnt": 8,
+		"NR_Cnt": 0,
+		"VL_Cnt": 64,
+		"VV_Cnt": 34,
+		"VA_Cnt": 14,
+		"VX_Cnt": 10,
+		"VCP_Cnt": 5,
+		"VCN_Cnt": 1,
+		"ML_Cnt": 4,
+		"MA_Cnt": 0,
+		"MM_Cnt": 0,
+		"FL_Cnt": 130,
+		"J_Cnt": 59,
+		"E_Cnt": 66,
+		"X_Cnt": 5,
+		"IC_Cnt": 0
+	},
+	"basic_density": {
+		"CL_Den": 0.47093023255813954,
+		"FL_Den": 0.37790697674418605,
+		"NL_Den": 0.2180232558139535,
+		"NNGL_Den": 0.2005813953488372,
+		"NNPL_Den": 0.005813953488372093,
+		"NNBL_Den": 0.011627906976744186,
+		"NPL_Den": 0.055232558139534885,
+		"NML_Den": 0.0,
+		"VL_Den": 0.18604651162790697,
+		"VVL_Den": 0.09883720930232558,
+		"VAL_Den": 0.040697674418604654,
+		"ML_Den": 0.011627906976744186,
+		"MML_Den": 0.0,
+		"MAL_Den": 0.0,
+		"JL_Den": 0.17151162790697674,
+		"EL_Den": 0.19186046511627908,
+		"XL_Den": 0.014534883720930232,
+		"ITL_Den": 0.0,
+		"NCL_Den": 0.46296296296296297,
+		"NNCL_Den": 0.42592592592592593,
+		"NNGCL_Den": 0.012345679012345678,
+		"NNBCL_Den": 0.024691358024691357,
+		"NPCL_Den": 0.11728395061728394,
+		"NMCL_Den": 0.0,
+		"VCL_Den": 0.3950617283950617,
+		"VVCL_Den": 0.20987654320987653,
+		"VACL_Den": 0.08641975308641975,
+		"MCL_Den": 0.024691358024691357,
+		"MMCL_Den": 0.0,
+		"MACL_Den": 0.0,
+		"INCL_Den": 0.0,
+		"JFL_Den": 0.45384615384615384,
+		"EFL_Den": 0.5076923076923077,
+		"XFL_Den": 0.038461538461538464
+	},
+	"basic_level": {
+		"morph_LenAvg": 1.505813953488372,
+		"morph_LenStd": 0.6988120569710349,
+		"word_LenAvg": 2.8,
+		"word_LenStd": 1.0173494974687898
+	},
+	"basic_list": {
+		"NL_Lst": [
+			[
+				0,
+				"우리",
+				"NP",
+				"우리는 '*르시', '한남충' 등 여러 성별 혐오 표현에 노출되어 있다."
+			],
+			[
+				1,
+				"르시",
+				"NNG",
+				"우리는 '*르시', '한남충' 등 여러 성별 혐오 표현에 노출되어 있다."
+			],
+			[
+				2,
+				"한남충",
+				"NNG",
+				"우리는 '*르시', '한남충' 등 여러 성별 혐오 표현에 노출되어 있다."
+			],
+			[
+				3,
+				"등",
+				"NNB",
+				"우리는 '*르시', '한남충' 등 여러 성별 혐오 표현에 노출되어 있다."
+			],
+			[
+				4,
+				"성별",
+				"NNG",
+				"우리는 '*르시', '한남충' 등 여러 성별 혐오 표현에 노출되어 있다."
+			],
+			[
+				5,
+				"혐오",
+				"NNG",
+				"우리는 '*르시', '한남충' 등 여러 성별 혐오 표현에 노출되어 있다."
+			],
+			[
+				6,
+				"표현",
+				"NNG",
+				"우리는 '*르시', '한남충' 등 여러 성별 혐오 표현에 노출되어 있다."
+			],
+			[
+				7,
+				"이",
+				"NP",
+				"이는 우리 사회의 발전을 저해하고, 더 나아가 인간에 대한 불신을 심어줄 수 있다."
+			],
+			[
+				8,
+				"우리",
+				"NP",
+				"이는 우리 사회의 발전을 저해하고, 더 나아가 인간에 대한 불신을 심어줄 수 있다."
+			],
+			[
+				9,
+				"사회",
+				"NNG",
+				"이는 우리 사회의 발전을 저해하고, 더 나아가 인간에 대한 불신을 심어줄 수 있다."
+			],
+			[
+				10,
+				"발전",
+				"NNG",
+				"이는 우리 사회의 발전을 저해하고, 더 나아가 인간에 대한 불신을 심어줄 수 있다."
+			],
+			[
+				11,
+				"인간",
+				"NNG",
+				"이는 우리 사회의 발전을 저해하고, 더 나아가 인간에 대한 불신을 심어줄 수 있다."
+			],
+			[
+				12,
+				"불신",
+				"NNG",
+				"이는 우리 사회의 발전을 저해하고, 더 나아가 인간에 대한 불신을 심어줄 수 있다."
+			],
+			[
+				13,
+				"수",
+				"NNB",
+				"이는 우리 사회의 발전을 저해하고, 더 나아가 인간에 대한 불신을 심어줄 수 있다."
+			],
+			[
+				14,
+				"이",
+				"NP",
+				"이를 해결할 방법은 없는 걸까?"
+			],
+			[
+				15,
+				"방법",
+				"NNG",
+				"이를 해결할 방법은 없는 걸까?"
+			],
+			[
+				16,
+				"거",
+				"NNB",
+				"이를 해결할 방법은 없는 걸까?"
+			],
+			[
+				17,
+				"우리",
+				"NP",
+				"우리 함께 그 방법을 알아보자."
+			],
+			[
+				18,
+				"방법",
+				"NNG",
+				"우리 함께 그 방법을 알아보자."
+			],
+			[
+				19,
+				"서로",
+				"NNG",
+				"1. 서로에 대한 이해와 배려"
+			],
+			[
+				20,
+				"이해",
+				"NNG",
+				"1. 서로에 대한 이해와 배려"
+			],
+			[
+				21,
+				"배려",
+				"NNG",
+				"1. 서로에 대한 이해와 배려"
+			],
+			[
+				22,
+				"남자",
+				"NNG",
+				"남자와 여자는 많은 차이가 있다."
+			],
+			[
+				23,
+				"여자",
+				"NNG",
+				"남자와 여자는 많은 차이가 있다."
+			],
+			[
+				24,
+				"차이",
+				"NNG",
+				"남자와 여자는 많은 차이가 있다."
+			],
+			[
+				25,
+				"예",
+				"NNG",
+				"예를 들어 '근력', '체격' 등의 신체적 차이와 '취미', '지적 흥미' 같은 사회, 정신적 차이가 있다."
+			],
+			[
+				26,
+				"근력",
+				"NNG",
+				"예를 들어 '근력', '체격' 등의 신체적 차이와 '취미', '지적 흥미' 같은 사회, 정신적 차이가 있다."
+			],
+			[
+				27,
+				"체격",
+				"NNG",
+				"예를 들어 '근력', '체격' 등의 신체적 차이와 '취미', '지적 흥미' 같은 사회, 정신적 차이가 있다."
+			],
+			[
+				28,
+				"등",
+				"NNB",
+				"예를 들어 '근력', '체격' 등의 신체적 차이와 '취미', '지적 흥미' 같은 사회, 정신적 차이가 있다."
+			],
+			[
+				29,
+				"신체",
+				"NNG",
+				"예를 들어 '근력', '체격' 등의 신체적 차이와 '취미', '지적 흥미' 같은 사회, 정신적 차이가 있다."
+			],
+			[
+				30,
+				"차이",
+				"NNG",
+				"예를 들어 '근력', '체격' 등의 신체적 차이와 '취미', '지적 흥미' 같은 사회, 정신적 차이가 있다."
+			],
+			[
+				31,
+				"취미",
+				"NNG",
+				"예를 들어 '근력', '체격' 등의 신체적 차이와 '취미', '지적 흥미' 같은 사회, 정신적 차이가 있다."
+			],
+			[
+				32,
+				"지",
+				"NNG",
+				"예를 들어 '근력', '체격' 등의 신체적 차이와 '취미', '지적 흥미' 같은 사회, 정신적 차이가 있다."
+			],
+			[
+				33,
+				"흥미",
+				"NNG",
+				"예를 들어 '근력', '체격' 등의 신체적 차이와 '취미', '지적 흥미' 같은 사회, 정신적 차이가 있다."
+			],
+			[
+				34,
+				"사회",
+				"NNG",
+				"예를 들어 '근력', '체격' 등의 신체적 차이와 '취미', '지적 흥미' 같은 사회, 정신적 차이가 있다."
+			],
+			[
+				35,
+				"정신",
+				"NNG",
+				"예를 들어 '근력', '체격' 등의 신체적 차이와 '취미', '지적 흥미' 같은 사회, 정신적 차이가 있다."
+			],
+			[
+				36,
+				"차이",
+				"NNG",
+				"예를 들어 '근력', '체격' 등의 신체적 차이와 '취미', '지적 흥미' 같은 사회, 정신적 차이가 있다."
+			],
+			[
+				37,
+				"우리",
+				"NP",
+				"우리는 서로를 너무나 모른다."
+			],
+			[
+				38,
+				"서로",
+				"NNG",
+				"우리는 서로를 너무나 모른다."
+			],
+			[
+				39,
+				"이",
+				"NP",
+				"이로 인해 갈등이 생기고, 혐오가 생긴다."
+			],
+			[
+				40,
+				"갈등",
+				"NNG",
+				"이로 인해 갈등이 생기고, 혐오가 생긴다."
+			],
+			[
+				41,
+				"혐오",
+				"NNG",
+				"이로 인해 갈등이 생기고, 혐오가 생긴다."
+			],
+			[
+				42,
+				"이",
+				"NP",
+				"이를 극복하려면 우리는 서로를 이해하고 배려하여야 한다."
+			],
+			[
+				43,
+				"우리",
+				"NP",
+				"이를 극복하려면 우리는 서로를 이해하고 배려하여야 한다."
+			],
+			[
+				44,
+				"서로",
+				"NNG",
+				"이를 극복하려면 우리는 서로를 이해하고 배려하여야 한다."
+			],
+			[
+				45,
+				"비판",
+				"NNG",
+				"2. 비판적 정보 수용"
+			],
+			[
+				46,
+				"정보",
+				"NNG",
+				"2. 비판적 정보 수용"
+			],
+			[
+				47,
+				"수용",
+				"NNG",
+				"2. 비판적 정보 수용"
+			],
+			[
+				48,
+				"우리",
+				"NP",
+				"우리는 정보의 바다에서 살고 있다."
+			],
+			[
+				49,
+				"정보",
+				"NNG",
+				"우리는 정보의 바다에서 살고 있다."
+			],
+			[
+				50,
+				"바다",
+				"NNG",
+				"우리는 정보의 바다에서 살고 있다."
+			],
+			[
+				51,
+				"그것",
+				"NP",
+				"그것이 좋은 정보든, 나쁜 정보든 받아들여서 혼란스러운 사회가 된다."
+			],
+			[
+				52,
+				"정보",
+				"NNG",
+				"그것이 좋은 정보든, 나쁜 정보든 받아들여서 혼란스러운 사회가 된다."
+			],
+			[
+				53,
+				"정보",
+				"NNG",
+				"그것이 좋은 정보든, 나쁜 정보든 받아들여서 혼란스러운 사회가 된다."
+			],
+			[
+				54,
+				"사회",
+				"NNG",
+				"그것이 좋은 정보든, 나쁜 정보든 받아들여서 혼란스러운 사회가 된다."
+			],
+			[
+				55,
+				"우리",
+				"NP",
+				"우리는 SNS나 \"일베저장소\", \"워마드\"와 같이 극단적 커뮤니티에서 다루는 옳지 않은 혐오 조장 글에 대하여 정보를 수용하지 않고 비판하는 자세가 필요하다."
+			],
+			[
+				56,
+				"SNS",
+				"NNG",
+				"우리는 SNS나 \"일베저장소\", \"워마드\"와 같이 극단적 커뮤니티에서 다루는 옳지 않은 혐오 조장 글에 대하여 정보를 수용하지 않고 비판하는 자세가 필요하다."
+			],
+			[
+				57,
+				"일베",
+				"NNP",
+				"우리는 SNS나 \"일베저장소\", \"워마드\"와 같이 극단적 커뮤니티에서 다루는 옳지 않은 혐오 조장 글에 대하여 정보를 수용하지 않고 비판하는 자세가 필요하다."
+			],
+			[
+				58,
+				"저장소",
+				"NNG",
+				"우리는 SNS나 \"일베저장소\", \"워마드\"와 같이 극단적 커뮤니티에서 다루는 옳지 않은 혐오 조장 글에 대하여 정보를 수용하지 않고 비판하는 자세가 필요하다."
+			],
+			[
+				59,
+				"워마드",
+				"NNP",
+				"우리는 SNS나 \"일베저장소\", \"워마드\"와 같이 극단적 커뮤니티에서 다루는 옳지 않은 혐오 조장 글에 대하여 정보를 수용하지 않고 비판하는 자세가 필요하다."
+			],
+			[
+				60,
+				"극단",
+				"NNG",
+				"우리는 SNS나 \"일베저장소\", \"워마드\"와 같이 극단적 커뮤니티에서 다루는 옳지 않은 혐오 조장 글에 대하여 정보를 수용하지 않고 비판하는 자세가 필요하다."
+			],
+			[
+				61,
+				"커뮤니티",
+				"NNG",
+				"우리는 SNS나 \"일베저장소\", \"워마드\"와 같이 극단적 커뮤니티에서 다루는 옳지 않은 혐오 조장 글에 대하여 정보를 수용하지 않고 비판하는 자세가 필요하다."
+			],
+			[
+				62,
+				"혐오",
+				"NNG",
+				"우리는 SNS나 \"일베저장소\", \"워마드\"와 같이 극단적 커뮤니티에서 다루는 옳지 않은 혐오 조장 글에 대하여 정보를 수용하지 않고 비판하는 자세가 필요하다."
+			],
+			[
+				63,
+				"조장",
+				"NNG",
+				"우리는 SNS나 \"일베저장소\", \"워마드\"와 같이 극단적 커뮤니티에서 다루는 옳지 않은 혐오 조장 글에 대하여 정보를 수용하지 않고 비판하는 자세가 필요하다."
+			],
+			[
+				64,
+				"글",
+				"NNG",
+				"우리는 SNS나 \"일베저장소\", \"워마드\"와 같이 극단적 커뮤니티에서 다루는 옳지 않은 혐오 조장 글에 대하여 정보를 수용하지 않고 비판하는 자세가 필요하다."
+			],
+			[
+				65,
+				"정보",
+				"NNG",
+				"우리는 SNS나 \"일베저장소\", \"워마드\"와 같이 극단적 커뮤니티에서 다루는 옳지 않은 혐오 조장 글에 대하여 정보를 수용하지 않고 비판하는 자세가 필요하다."
+			],
+			[
+				66,
+				"자세",
+				"NNG",
+				"우리는 SNS나 \"일베저장소\", \"워마드\"와 같이 극단적 커뮤니티에서 다루는 옳지 않은 혐오 조장 글에 대하여 정보를 수용하지 않고 비판하는 자세가 필요하다."
+			],
+			[
+				67,
+				"혐오",
+				"NNG",
+				"3. 혐오에 대한 비판"
+			],
+			[
+				68,
+				"비판",
+				"NNG",
+				"3. 혐오에 대한 비판"
+			],
+			[
+				69,
+				"우리",
+				"NP",
+				"우리는 일상생활에서 혐오를 목격하였을 때 우리는 이를 저지하여야 한다."
+			],
+			[
+				70,
+				"일상생활",
+				"NNG",
+				"우리는 일상생활에서 혐오를 목격하였을 때 우리는 이를 저지하여야 한다."
+			],
+			[
+				71,
+				"혐오",
+				"NNG",
+				"우리는 일상생활에서 혐오를 목격하였을 때 우리는 이를 저지하여야 한다."
+			],
+			[
+				72,
+				"때",
+				"NNG",
+				"우리는 일상생활에서 혐오를 목격하였을 때 우리는 이를 저지하여야 한다."
+			],
+			[
+				73,
+				"우리",
+				"NP",
+				"우리는 일상생활에서 혐오를 목격하였을 때 우리는 이를 저지하여야 한다."
+			],
+			[
+				74,
+				"이",
+				"NP",
+				"우리는 일상생활에서 혐오를 목격하였을 때 우리는 이를 저지하여야 한다."
+			],
+			[
+				75,
+				"남성",
+				"NNG",
+				"젊은 남성이 할머니를 여자라는 이유로 폭행하거나."
+			],
+			[
+				76,
+				"할머니",
+				"NNG",
+				"젊은 남성이 할머니를 여자라는 이유로 폭행하거나."
+			],
+			[
+				77,
+				"여자",
+				"NNG",
+				"젊은 남성이 할머니를 여자라는 이유로 폭행하거나."
+			],
+			[
+				78,
+				"이유",
+				"NNG",
+				"젊은 남성이 할머니를 여자라는 이유로 폭행하거나."
+			],
+			[
+				79,
+				"어른",
+				"NNG",
+				"어른 여성이 남자 어린이를 남자라는 이유로 폭행할 때 우리는 이를 경찰에 신고하거나 싸움을 말려야 한다."
+			],
+			[
+				80,
+				"여성",
+				"NNG",
+				"어른 여성이 남자 어린이를 남자라는 이유로 폭행할 때 우리는 이를 경찰에 신고하거나 싸움을 말려야 한다."
+			],
+			[
+				81,
+				"남자",
+				"NNG",
+				"어른 여성이 남자 어린이를 남자라는 이유로 폭행할 때 우리는 이를 경찰에 신고하거나 싸움을 말려야 한다."
+			],
+			[
+				82,
+				"어린이",
+				"NNG",
+				"어른 여성이 남자 어린이를 남자라는 이유로 폭행할 때 우리는 이를 경찰에 신고하거나 싸움을 말려야 한다."
+			],
+			[
+				83,
+				"남자",
+				"NNG",
+				"어른 여성이 남자 어린이를 남자라는 이유로 폭행할 때 우리는 이를 경찰에 신고하거나 싸움을 말려야 한다."
+			],
+			[
+				84,
+				"이유",
+				"NNG",
+				"어른 여성이 남자 어린이를 남자라는 이유로 폭행할 때 우리는 이를 경찰에 신고하거나 싸움을 말려야 한다."
+			],
+			[
+				85,
+				"때",
+				"NNG",
+				"어른 여성이 남자 어린이를 남자라는 이유로 폭행할 때 우리는 이를 경찰에 신고하거나 싸움을 말려야 한다."
+			],
+			[
+				86,
+				"우리",
+				"NP",
+				"어른 여성이 남자 어린이를 남자라는 이유로 폭행할 때 우리는 이를 경찰에 신고하거나 싸움을 말려야 한다."
+			],
+			[
+				87,
+				"이",
+				"NP",
+				"어른 여성이 남자 어린이를 남자라는 이유로 폭행할 때 우리는 이를 경찰에 신고하거나 싸움을 말려야 한다."
+			],
+			[
+				88,
+				"경찰",
+				"NNG",
+				"어른 여성이 남자 어린이를 남자라는 이유로 폭행할 때 우리는 이를 경찰에 신고하거나 싸움을 말려야 한다."
+			],
+			[
+				89,
+				"싸움",
+				"NNG",
+				"어른 여성이 남자 어린이를 남자라는 이유로 폭행할 때 우리는 이를 경찰에 신고하거나 싸움을 말려야 한다."
+			],
+			[
+				90,
+				"해결법",
+				"NNG",
+				"이렇게 많은 해결법을 알아보았다."
+			],
+			[
+				91,
+				"우리",
+				"NP",
+				"우리는 이를 실천하고 책임지는 태도가 필요하다."
+			],
+			[
+				92,
+				"이",
+				"NP",
+				"우리는 이를 실천하고 책임지는 태도가 필요하다."
+			],
+			[
+				93,
+				"태도",
+				"NNG",
+				"우리는 이를 실천하고 책임지는 태도가 필요하다."
+			]
+		],
+		"NN_Lst": [
+			[
+				0,
+				"르시",
+				"NNG",
+				"우리는 '*르시', '한남충' 등 여러 성별 혐오 표현에 노출되어 있다."
+			],
+			[
+				1,
+				"한남충",
+				"NNG",
+				"우리는 '*르시', '한남충' 등 여러 성별 혐오 표현에 노출되어 있다."
+			],
+			[
+				2,
+				"등",
+				"NNB",
+				"우리는 '*르시', '한남충' 등 여러 성별 혐오 표현에 노출되어 있다."
+			],
+			[
+				3,
+				"성별",
+				"NNG",
+				"우리는 '*르시', '한남충' 등 여러 성별 혐오 표현에 노출되어 있다."
+			],
+			[
+				4,
+				"혐오",
+				"NNG",
+				"우리는 '*르시', '한남충' 등 여러 성별 혐오 표현에 노출되어 있다."
+			],
+			[
+				5,
+				"표현",
+				"NNG",
+				"우리는 '*르시', '한남충' 등 여러 성별 혐오 표현에 노출되어 있다."
+			],
+			[
+				6,
+				"사회",
+				"NNG",
+				"이는 우리 사회의 발전을 저해하고, 더 나아가 인간에 대한 불신을 심어줄 수 있다."
+			],
+			[
+				7,
+				"발전",
+				"NNG",
+				"이는 우리 사회의 발전을 저해하고, 더 나아가 인간에 대한 불신을 심어줄 수 있다."
+			],
+			[
+				8,
+				"인간",
+				"NNG",
+				"이는 우리 사회의 발전을 저해하고, 더 나아가 인간에 대한 불신을 심어줄 수 있다."
+			],
+			[
+				9,
+				"불신",
+				"NNG",
+				"이는 우리 사회의 발전을 저해하고, 더 나아가 인간에 대한 불신을 심어줄 수 있다."
+			],
+			[
+				10,
+				"수",
+				"NNB",
+				"이는 우리 사회의 발전을 저해하고, 더 나아가 인간에 대한 불신을 심어줄 수 있다."
+			],
+			[
+				11,
+				"방법",
+				"NNG",
+				"이를 해결할 방법은 없는 걸까?"
+			],
+			[
+				12,
+				"거",
+				"NNB",
+				"이를 해결할 방법은 없는 걸까?"
+			],
+			[
+				13,
+				"방법",
+				"NNG",
+				"우리 함께 그 방법을 알아보자."
+			],
+			[
+				14,
+				"서로",
+				"NNG",
+				"1. 서로에 대한 이해와 배려"
+			],
+			[
+				15,
+				"이해",
+				"NNG",
+				"1. 서로에 대한 이해와 배려"
+			],
+			[
+				16,
+				"배려",
+				"NNG",
+				"1. 서로에 대한 이해와 배려"
+			],
+			[
+				17,
+				"남자",
+				"NNG",
+				"남자와 여자는 많은 차이가 있다."
+			],
+			[
+				18,
+				"여자",
+				"NNG",
+				"남자와 여자는 많은 차이가 있다."
+			],
+			[
+				19,
+				"차이",
+				"NNG",
+				"남자와 여자는 많은 차이가 있다."
+			],
+			[
+				20,
+				"예",
+				"NNG",
+				"예를 들어 '근력', '체격' 등의 신체적 차이와 '취미', '지적 흥미' 같은 사회, 정신적 차이가 있다."
+			],
+			[
+				21,
+				"근력",
+				"NNG",
+				"예를 들어 '근력', '체격' 등의 신체적 차이와 '취미', '지적 흥미' 같은 사회, 정신적 차이가 있다."
+			],
+			[
+				22,
+				"체격",
+				"NNG",
+				"예를 들어 '근력', '체격' 등의 신체적 차이와 '취미', '지적 흥미' 같은 사회, 정신적 차이가 있다."
+			],
+			[
+				23,
+				"등",
+				"NNB",
+				"예를 들어 '근력', '체격' 등의 신체적 차이와 '취미', '지적 흥미' 같은 사회, 정신적 차이가 있다."
+			],
+			[
+				24,
+				"신체",
+				"NNG",
+				"예를 들어 '근력', '체격' 등의 신체적 차이와 '취미', '지적 흥미' 같은 사회, 정신적 차이가 있다."
+			],
+			[
+				25,
+				"차이",
+				"NNG",
+				"예를 들어 '근력', '체격' 등의 신체적 차이와 '취미', '지적 흥미' 같은 사회, 정신적 차이가 있다."
+			],
+			[
+				26,
+				"취미",
+				"NNG",
+				"예를 들어 '근력', '체격' 등의 신체적 차이와 '취미', '지적 흥미' 같은 사회, 정신적 차이가 있다."
+			],
+			[
+				27,
+				"지",
+				"NNG",
+				"예를 들어 '근력', '체격' 등의 신체적 차이와 '취미', '지적 흥미' 같은 사회, 정신적 차이가 있다."
+			],
+			[
+				28,
+				"흥미",
+				"NNG",
+				"예를 들어 '근력', '체격' 등의 신체적 차이와 '취미', '지적 흥미' 같은 사회, 정신적 차이가 있다."
+			],
+			[
+				29,
+				"사회",
+				"NNG",
+				"예를 들어 '근력', '체격' 등의 신체적 차이와 '취미', '지적 흥미' 같은 사회, 정신적 차이가 있다."
+			],
+			[
+				30,
+				"정신",
+				"NNG",
+				"예를 들어 '근력', '체격' 등의 신체적 차이와 '취미', '지적 흥미' 같은 사회, 정신적 차이가 있다."
+			],
+			[
+				31,
+				"차이",
+				"NNG",
+				"예를 들어 '근력', '체격' 등의 신체적 차이와 '취미', '지적 흥미' 같은 사회, 정신적 차이가 있다."
+			],
+			[
+				32,
+				"서로",
+				"NNG",
+				"우리는 서로를 너무나 모른다."
+			],
+			[
+				33,
+				"갈등",
+				"NNG",
+				"이로 인해 갈등이 생기고, 혐오가 생긴다."
+			],
+			[
+				34,
+				"혐오",
+				"NNG",
+				"이로 인해 갈등이 생기고, 혐오가 생긴다."
+			],
+			[
+				35,
+				"서로",
+				"NNG",
+				"이를 극복하려면 우리는 서로를 이해하고 배려하여야 한다."
+			],
+			[
+				36,
+				"비판",
+				"NNG",
+				"2. 비판적 정보 수용"
+			],
+			[
+				37,
+				"정보",
+				"NNG",
+				"2. 비판적 정보 수용"
+			],
+			[
+				38,
+				"수용",
+				"NNG",
+				"2. 비판적 정보 수용"
+			],
+			[
+				39,
+				"정보",
+				"NNG",
+				"우리는 정보의 바다에서 살고 있다."
+			],
+			[
+				40,
+				"바다",
+				"NNG",
+				"우리는 정보의 바다에서 살고 있다."
+			],
+			[
+				41,
+				"정보",
+				"NNG",
+				"그것이 좋은 정보든, 나쁜 정보든 받아들여서 혼란스러운 사회가 된다."
+			],
+			[
+				42,
+				"정보",
+				"NNG",
+				"그것이 좋은 정보든, 나쁜 정보든 받아들여서 혼란스러운 사회가 된다."
+			],
+			[
+				43,
+				"사회",
+				"NNG",
+				"그것이 좋은 정보든, 나쁜 정보든 받아들여서 혼란스러운 사회가 된다."
+			],
+			[
+				44,
+				"SNS",
+				"NNG",
+				"우리는 SNS나 \"일베저장소\", \"워마드\"와 같이 극단적 커뮤니티에서 다루는 옳지 않은 혐오 조장 글에 대하여 정보를 수용하지 않고 비판하는 자세가 필요하다."
+			],
+			[
+				45,
+				"일베",
+				"NNP",
+				"우리는 SNS나 \"일베저장소\", \"워마드\"와 같이 극단적 커뮤니티에서 다루는 옳지 않은 혐오 조장 글에 대하여 정보를 수용하지 않고 비판하는 자세가 필요하다."
+			],
+			[
+				46,
+				"저장소",
+				"NNG",
+				"우리는 SNS나 \"일베저장소\", \"워마드\"와 같이 극단적 커뮤니티에서 다루는 옳지 않은 혐오 조장 글에 대하여 정보를 수용하지 않고 비판하는 자세가 필요하다."
+			],
+			[
+				47,
+				"워마드",
+				"NNP",
+				"우리는 SNS나 \"일베저장소\", \"워마드\"와 같이 극단적 커뮤니티에서 다루는 옳지 않은 혐오 조장 글에 대하여 정보를 수용하지 않고 비판하는 자세가 필요하다."
+			],
+			[
+				48,
+				"극단",
+				"NNG",
+				"우리는 SNS나 \"일베저장소\", \"워마드\"와 같이 극단적 커뮤니티에서 다루는 옳지 않은 혐오 조장 글에 대하여 정보를 수용하지 않고 비판하는 자세가 필요하다."
+			],
+			[
+				49,
+				"커뮤니티",
+				"NNG",
+				"우리는 SNS나 \"일베저장소\", \"워마드\"와 같이 극단적 커뮤니티에서 다루는 옳지 않은 혐오 조장 글에 대하여 정보를 수용하지 않고 비판하는 자세가 필요하다."
+			],
+			[
+				50,
+				"혐오",
+				"NNG",
+				"우리는 SNS나 \"일베저장소\", \"워마드\"와 같이 극단적 커뮤니티에서 다루는 옳지 않은 혐오 조장 글에 대하여 정보를 수용하지 않고 비판하는 자세가 필요하다."
+			],
+			[
+				51,
+				"조장",
+				"NNG",
+				"우리는 SNS나 \"일베저장소\", \"워마드\"와 같이 극단적 커뮤니티에서 다루는 옳지 않은 혐오 조장 글에 대하여 정보를 수용하지 않고 비판하는 자세가 필요하다."
+			],
+			[
+				52,
+				"글",
+				"NNG",
+				"우리는 SNS나 \"일베저장소\", \"워마드\"와 같이 극단적 커뮤니티에서 다루는 옳지 않은 혐오 조장 글에 대하여 정보를 수용하지 않고 비판하는 자세가 필요하다."
+			],
+			[
+				53,
+				"정보",
+				"NNG",
+				"우리는 SNS나 \"일베저장소\", \"워마드\"와 같이 극단적 커뮤니티에서 다루는 옳지 않은 혐오 조장 글에 대하여 정보를 수용하지 않고 비판하는 자세가 필요하다."
+			],
+			[
+				54,
+				"자세",
+				"NNG",
+				"우리는 SNS나 \"일베저장소\", \"워마드\"와 같이 극단적 커뮤니티에서 다루는 옳지 않은 혐오 조장 글에 대하여 정보를 수용하지 않고 비판하는 자세가 필요하다."
+			],
+			[
+				55,
+				"혐오",
+				"NNG",
+				"3. 혐오에 대한 비판"
+			],
+			[
+				56,
+				"비판",
+				"NNG",
+				"3. 혐오에 대한 비판"
+			],
+			[
+				57,
+				"일상생활",
+				"NNG",
+				"우리는 일상생활에서 혐오를 목격하였을 때 우리는 이를 저지하여야 한다."
+			],
+			[
+				58,
+				"혐오",
+				"NNG",
+				"우리는 일상생활에서 혐오를 목격하였을 때 우리는 이를 저지하여야 한다."
+			],
+			[
+				59,
+				"때",
+				"NNG",
+				"우리는 일상생활에서 혐오를 목격하였을 때 우리는 이를 저지하여야 한다."
+			],
+			[
+				60,
+				"남성",
+				"NNG",
+				"젊은 남성이 할머니를 여자라는 이유로 폭행하거나."
+			],
+			[
+				61,
+				"할머니",
+				"NNG",
+				"젊은 남성이 할머니를 여자라는 이유로 폭행하거나."
+			],
+			[
+				62,
+				"여자",
+				"NNG",
+				"젊은 남성이 할머니를 여자라는 이유로 폭행하거나."
+			],
+			[
+				63,
+				"이유",
+				"NNG",
+				"젊은 남성이 할머니를 여자라는 이유로 폭행하거나."
+			],
+			[
+				64,
+				"어른",
+				"NNG",
+				"어른 여성이 남자 어린이를 남자라는 이유로 폭행할 때 우리는 이를 경찰에 신고하거나 싸움을 말려야 한다."
+			],
+			[
+				65,
+				"여성",
+				"NNG",
+				"어른 여성이 남자 어린이를 남자라는 이유로 폭행할 때 우리는 이를 경찰에 신고하거나 싸움을 말려야 한다."
+			],
+			[
+				66,
+				"남자",
+				"NNG",
+				"어른 여성이 남자 어린이를 남자라는 이유로 폭행할 때 우리는 이를 경찰에 신고하거나 싸움을 말려야 한다."
+			],
+			[
+				67,
+				"어린이",
+				"NNG",
+				"어른 여성이 남자 어린이를 남자라는 이유로 폭행할 때 우리는 이를 경찰에 신고하거나 싸움을 말려야 한다."
+			],
+			[
+				68,
+				"남자",
+				"NNG",
+				"어른 여성이 남자 어린이를 남자라는 이유로 폭행할 때 우리는 이를 경찰에 신고하거나 싸움을 말려야 한다."
+			],
+			[
+				69,
+				"이유",
+				"NNG",
+				"어른 여성이 남자 어린이를 남자라는 이유로 폭행할 때 우리는 이를 경찰에 신고하거나 싸움을 말려야 한다."
+			],
+			[
+				70,
+				"때",
+				"NNG",
+				"어른 여성이 남자 어린이를 남자라는 이유로 폭행할 때 우리는 이를 경찰에 신고하거나 싸움을 말려야 한다."
+			],
+			[
+				71,
+				"경찰",
+				"NNG",
+				"어른 여성이 남자 어린이를 남자라는 이유로 폭행할 때 우리는 이를 경찰에 신고하거나 싸움을 말려야 한다."
+			],
+			[
+				72,
+				"싸움",
+				"NNG",
+				"어른 여성이 남자 어린이를 남자라는 이유로 폭행할 때 우리는 이를 경찰에 신고하거나 싸움을 말려야 한다."
+			],
+			[
+				73,
+				"해결법",
+				"NNG",
+				"이렇게 많은 해결법을 알아보았다."
+			],
+			[
+				74,
+				"태도",
+				"NNG",
+				"우리는 이를 실천하고 책임지는 태도가 필요하다."
+			]
+		],
+		"NNG_Lst": [
+			[
+				0,
+				"르시",
+				"NNG",
+				"우리는 '*르시', '한남충' 등 여러 성별 혐오 표현에 노출되어 있다."
+			],
+			[
+				1,
+				"한남충",
+				"NNG",
+				"우리는 '*르시', '한남충' 등 여러 성별 혐오 표현에 노출되어 있다."
+			],
+			[
+				2,
+				"성별",
+				"NNG",
+				"우리는 '*르시', '한남충' 등 여러 성별 혐오 표현에 노출되어 있다."
+			],
+			[
+				3,
+				"혐오",
+				"NNG",
+				"우리는 '*르시', '한남충' 등 여러 성별 혐오 표현에 노출되어 있다."
+			],
+			[
+				4,
+				"표현",
+				"NNG",
+				"우리는 '*르시', '한남충' 등 여러 성별 혐오 표현에 노출되어 있다."
+			],
+			[
+				5,
+				"사회",
+				"NNG",
+				"이는 우리 사회의 발전을 저해하고, 더 나아가 인간에 대한 불신을 심어줄 수 있다."
+			],
+			[
+				6,
+				"발전",
+				"NNG",
+				"이는 우리 사회의 발전을 저해하고, 더 나아가 인간에 대한 불신을 심어줄 수 있다."
+			],
+			[
+				7,
+				"인간",
+				"NNG",
+				"이는 우리 사회의 발전을 저해하고, 더 나아가 인간에 대한 불신을 심어줄 수 있다."
+			],
+			[
+				8,
+				"불신",
+				"NNG",
+				"이는 우리 사회의 발전을 저해하고, 더 나아가 인간에 대한 불신을 심어줄 수 있다."
+			],
+			[
+				9,
+				"방법",
+				"NNG",
+				"이를 해결할 방법은 없는 걸까?"
+			],
+			[
+				10,
+				"방법",
+				"NNG",
+				"우리 함께 그 방법을 알아보자."
+			],
+			[
+				11,
+				"서로",
+				"NNG",
+				"1. 서로에 대한 이해와 배려"
+			],
+			[
+				12,
+				"이해",
+				"NNG",
+				"1. 서로에 대한 이해와 배려"
+			],
+			[
+				13,
+				"배려",
+				"NNG",
+				"1. 서로에 대한 이해와 배려"
+			],
+			[
+				14,
+				"남자",
+				"NNG",
+				"남자와 여자는 많은 차이가 있다."
+			],
+			[
+				15,
+				"여자",
+				"NNG",
+				"남자와 여자는 많은 차이가 있다."
+			],
+			[
+				16,
+				"차이",
+				"NNG",
+				"남자와 여자는 많은 차이가 있다."
+			],
+			[
+				17,
+				"예",
+				"NNG",
+				"예를 들어 '근력', '체격' 등의 신체적 차이와 '취미', '지적 흥미' 같은 사회, 정신적 차이가 있다."
+			],
+			[
+				18,
+				"근력",
+				"NNG",
+				"예를 들어 '근력', '체격' 등의 신체적 차이와 '취미', '지적 흥미' 같은 사회, 정신적 차이가 있다."
+			],
+			[
+				19,
+				"체격",
+				"NNG",
+				"예를 들어 '근력', '체격' 등의 신체적 차이와 '취미', '지적 흥미' 같은 사회, 정신적 차이가 있다."
+			],
+			[
+				20,
+				"신체",
+				"NNG",
+				"예를 들어 '근력', '체격' 등의 신체적 차이와 '취미', '지적 흥미' 같은 사회, 정신적 차이가 있다."
+			],
+			[
+				21,
+				"차이",
+				"NNG",
+				"예를 들어 '근력', '체격' 등의 신체적 차이와 '취미', '지적 흥미' 같은 사회, 정신적 차이가 있다."
+			],
+			[
+				22,
+				"취미",
+				"NNG",
+				"예를 들어 '근력', '체격' 등의 신체적 차이와 '취미', '지적 흥미' 같은 사회, 정신적 차이가 있다."
+			],
+			[
+				23,
+				"지",
+				"NNG",
+				"예를 들어 '근력', '체격' 등의 신체적 차이와 '취미', '지적 흥미' 같은 사회, 정신적 차이가 있다."
+			],
+			[
+				24,
+				"흥미",
+				"NNG",
+				"예를 들어 '근력', '체격' 등의 신체적 차이와 '취미', '지적 흥미' 같은 사회, 정신적 차이가 있다."
+			],
+			[
+				25,
+				"사회",
+				"NNG",
+				"예를 들어 '근력', '체격' 등의 신체적 차이와 '취미', '지적 흥미' 같은 사회, 정신적 차이가 있다."
+			],
+			[
+				26,
+				"정신",
+				"NNG",
+				"예를 들어 '근력', '체격' 등의 신체적 차이와 '취미', '지적 흥미' 같은 사회, 정신적 차이가 있다."
+			],
+			[
+				27,
+				"차이",
+				"NNG",
+				"예를 들어 '근력', '체격' 등의 신체적 차이와 '취미', '지적 흥미' 같은 사회, 정신적 차이가 있다."
+			],
+			[
+				28,
+				"서로",
+				"NNG",
+				"우리는 서로를 너무나 모른다."
+			],
+			[
+				29,
+				"갈등",
+				"NNG",
+				"이로 인해 갈등이 생기고, 혐오가 생긴다."
+			],
+			[
+				30,
+				"혐오",
+				"NNG",
+				"이로 인해 갈등이 생기고, 혐오가 생긴다."
+			],
+			[
+				31,
+				"서로",
+				"NNG",
+				"이를 극복하려면 우리는 서로를 이해하고 배려하여야 한다."
+			],
+			[
+				32,
+				"비판",
+				"NNG",
+				"2. 비판적 정보 수용"
+			],
+			[
+				33,
+				"정보",
+				"NNG",
+				"2. 비판적 정보 수용"
+			],
+			[
+				34,
+				"수용",
+				"NNG",
+				"2. 비판적 정보 수용"
+			],
+			[
+				35,
+				"정보",
+				"NNG",
+				"우리는 정보의 바다에서 살고 있다."
+			],
+			[
+				36,
+				"바다",
+				"NNG",
+				"우리는 정보의 바다에서 살고 있다."
+			],
+			[
+				37,
+				"정보",
+				"NNG",
+				"그것이 좋은 정보든, 나쁜 정보든 받아들여서 혼란스러운 사회가 된다."
+			],
+			[
+				38,
+				"정보",
+				"NNG",
+				"그것이 좋은 정보든, 나쁜 정보든 받아들여서 혼란스러운 사회가 된다."
+			],
+			[
+				39,
+				"사회",
+				"NNG",
+				"그것이 좋은 정보든, 나쁜 정보든 받아들여서 혼란스러운 사회가 된다."
+			],
+			[
+				40,
+				"SNS",
+				"NNG",
+				"우리는 SNS나 \"일베저장소\", \"워마드\"와 같이 극단적 커뮤니티에서 다루는 옳지 않은 혐오 조장 글에 대하여 정보를 수용하지 않고 비판하는 자세가 필요하다."
+			],
+			[
+				41,
+				"저장소",
+				"NNG",
+				"우리는 SNS나 \"일베저장소\", \"워마드\"와 같이 극단적 커뮤니티에서 다루는 옳지 않은 혐오 조장 글에 대하여 정보를 수용하지 않고 비판하는 자세가 필요하다."
+			],
+			[
+				42,
+				"극단",
+				"NNG",
+				"우리는 SNS나 \"일베저장소\", \"워마드\"와 같이 극단적 커뮤니티에서 다루는 옳지 않은 혐오 조장 글에 대하여 정보를 수용하지 않고 비판하는 자세가 필요하다."
+			],
+			[
+				43,
+				"커뮤니티",
+				"NNG",
+				"우리는 SNS나 \"일베저장소\", \"워마드\"와 같이 극단적 커뮤니티에서 다루는 옳지 않은 혐오 조장 글에 대하여 정보를 수용하지 않고 비판하는 자세가 필요하다."
+			],
+			[
+				44,
+				"혐오",
+				"NNG",
+				"우리는 SNS나 \"일베저장소\", \"워마드\"와 같이 극단적 커뮤니티에서 다루는 옳지 않은 혐오 조장 글에 대하여 정보를 수용하지 않고 비판하는 자세가 필요하다."
+			],
+			[
+				45,
+				"조장",
+				"NNG",
+				"우리는 SNS나 \"일베저장소\", \"워마드\"와 같이 극단적 커뮤니티에서 다루는 옳지 않은 혐오 조장 글에 대하여 정보를 수용하지 않고 비판하는 자세가 필요하다."
+			],
+			[
+				46,
+				"글",
+				"NNG",
+				"우리는 SNS나 \"일베저장소\", \"워마드\"와 같이 극단적 커뮤니티에서 다루는 옳지 않은 혐오 조장 글에 대하여 정보를 수용하지 않고 비판하는 자세가 필요하다."
+			],
+			[
+				47,
+				"정보",
+				"NNG",
+				"우리는 SNS나 \"일베저장소\", \"워마드\"와 같이 극단적 커뮤니티에서 다루는 옳지 않은 혐오 조장 글에 대하여 정보를 수용하지 않고 비판하는 자세가 필요하다."
+			],
+			[
+				48,
+				"자세",
+				"NNG",
+				"우리는 SNS나 \"일베저장소\", \"워마드\"와 같이 극단적 커뮤니티에서 다루는 옳지 않은 혐오 조장 글에 대하여 정보를 수용하지 않고 비판하는 자세가 필요하다."
+			],
+			[
+				49,
+				"혐오",
+				"NNG",
+				"3. 혐오에 대한 비판"
+			],
+			[
+				50,
+				"비판",
+				"NNG",
+				"3. 혐오에 대한 비판"
+			],
+			[
+				51,
+				"일상생활",
+				"NNG",
+				"우리는 일상생활에서 혐오를 목격하였을 때 우리는 이를 저지하여야 한다."
+			],
+			[
+				52,
+				"혐오",
+				"NNG",
+				"우리는 일상생활에서 혐오를 목격하였을 때 우리는 이를 저지하여야 한다."
+			],
+			[
+				53,
+				"때",
+				"NNG",
+				"우리는 일상생활에서 혐오를 목격하였을 때 우리는 이를 저지하여야 한다."
+			],
+			[
+				54,
+				"남성",
+				"NNG",
+				"젊은 남성이 할머니를 여자라는 이유로 폭행하거나."
+			],
+			[
+				55,
+				"할머니",
+				"NNG",
+				"젊은 남성이 할머니를 여자라는 이유로 폭행하거나."
+			],
+			[
+				56,
+				"여자",
+				"NNG",
+				"젊은 남성이 할머니를 여자라는 이유로 폭행하거나."
+			],
+			[
+				57,
+				"이유",
+				"NNG",
+				"젊은 남성이 할머니를 여자라는 이유로 폭행하거나."
+			],
+			[
+				58,
+				"어른",
+				"NNG",
+				"어른 여성이 남자 어린이를 남자라는 이유로 폭행할 때 우리는 이를 경찰에 신고하거나 싸움을 말려야 한다."
+			],
+			[
+				59,
+				"여성",
+				"NNG",
+				"어른 여성이 남자 어린이를 남자라는 이유로 폭행할 때 우리는 이를 경찰에 신고하거나 싸움을 말려야 한다."
+			],
+			[
+				60,
+				"남자",
+				"NNG",
+				"어른 여성이 남자 어린이를 남자라는 이유로 폭행할 때 우리는 이를 경찰에 신고하거나 싸움을 말려야 한다."
+			],
+			[
+				61,
+				"어린이",
+				"NNG",
+				"어른 여성이 남자 어린이를 남자라는 이유로 폭행할 때 우리는 이를 경찰에 신고하거나 싸움을 말려야 한다."
+			],
+			[
+				62,
+				"남자",
+				"NNG",
+				"어른 여성이 남자 어린이를 남자라는 이유로 폭행할 때 우리는 이를 경찰에 신고하거나 싸움을 말려야 한다."
+			],
+			[
+				63,
+				"이유",
+				"NNG",
+				"어른 여성이 남자 어린이를 남자라는 이유로 폭행할 때 우리는 이를 경찰에 신고하거나 싸움을 말려야 한다."
+			],
+			[
+				64,
+				"때",
+				"NNG",
+				"어른 여성이 남자 어린이를 남자라는 이유로 폭행할 때 우리는 이를 경찰에 신고하거나 싸움을 말려야 한다."
+			],
+			[
+				65,
+				"경찰",
+				"NNG",
+				"어른 여성이 남자 어린이를 남자라는 이유로 폭행할 때 우리는 이를 경찰에 신고하거나 싸움을 말려야 한다."
+			],
+			[
+				66,
+				"싸움",
+				"NNG",
+				"어른 여성이 남자 어린이를 남자라는 이유로 폭행할 때 우리는 이를 경찰에 신고하거나 싸움을 말려야 한다."
+			],
+			[
+				67,
+				"해결법",
+				"NNG",
+				"이렇게 많은 해결법을 알아보았다."
+			],
+			[
+				68,
+				"태도",
+				"NNG",
+				"우리는 이를 실천하고 책임지는 태도가 필요하다."
+			]
+		],
+		"NNP_Lst": [
+			[
+				0,
+				"일베",
+				"NNP",
+				"우리는 SNS나 \"일베저장소\", \"워마드\"와 같이 극단적 커뮤니티에서 다루는 옳지 않은 혐오 조장 글에 대하여 정보를 수용하지 않고 비판하는 자세가 필요하다."
+			],
+			[
+				1,
+				"워마드",
+				"NNP",
+				"우리는 SNS나 \"일베저장소\", \"워마드\"와 같이 극단적 커뮤니티에서 다루는 옳지 않은 혐오 조장 글에 대하여 정보를 수용하지 않고 비판하는 자세가 필요하다."
+			]
+		],
+		"NNB_Lst": [
+			[
+				0,
+				"등",
+				"NNB",
+				"우리는 '*르시', '한남충' 등 여러 성별 혐오 표현에 노출되어 있다."
+			],
+			[
+				1,
+				"수",
+				"NNB",
+				"이는 우리 사회의 발전을 저해하고, 더 나아가 인간에 대한 불신을 심어줄 수 있다."
+			],
+			[
+				2,
+				"거",
+				"NNB",
+				"이를 해결할 방법은 없는 걸까?"
+			],
+			[
+				3,
+				"등",
+				"NNB",
+				"예를 들어 '근력', '체격' 등의 신체적 차이와 '취미', '지적 흥미' 같은 사회, 정신적 차이가 있다."
+			]
+		],
+		"NP_Lst": [
+			[
+				0,
+				"우리",
+				"NP",
+				"우리는 '*르시', '한남충' 등 여러 성별 혐오 표현에 노출되어 있다."
+			],
+			[
+				1,
+				"이",
+				"NP",
+				"이는 우리 사회의 발전을 저해하고, 더 나아가 인간에 대한 불신을 심어줄 수 있다."
+			],
+			[
+				2,
+				"우리",
+				"NP",
+				"이는 우리 사회의 발전을 저해하고, 더 나아가 인간에 대한 불신을 심어줄 수 있다."
+			],
+			[
+				3,
+				"이",
+				"NP",
+				"이를 해결할 방법은 없는 걸까?"
+			],
+			[
+				4,
+				"우리",
+				"NP",
+				"우리 함께 그 방법을 알아보자."
+			],
+			[
+				5,
+				"우리",
+				"NP",
+				"우리는 서로를 너무나 모른다."
+			],
+			[
+				6,
+				"이",
+				"NP",
+				"이로 인해 갈등이 생기고, 혐오가 생긴다."
+			],
+			[
+				7,
+				"이",
+				"NP",
+				"이를 극복하려면 우리는 서로를 이해하고 배려하여야 한다."
+			],
+			[
+				8,
+				"우리",
+				"NP",
+				"이를 극복하려면 우리는 서로를 이해하고 배려하여야 한다."
+			],
+			[
+				9,
+				"우리",
+				"NP",
+				"우리는 정보의 바다에서 살고 있다."
+			],
+			[
+				10,
+				"그것",
+				"NP",
+				"그것이 좋은 정보든, 나쁜 정보든 받아들여서 혼란스러운 사회가 된다."
+			],
+			[
+				11,
+				"우리",
+				"NP",
+				"우리는 SNS나 \"일베저장소\", \"워마드\"와 같이 극단적 커뮤니티에서 다루는 옳지 않은 혐오 조장 글에 대하여 정보를 수용하지 않고 비판하는 자세가 필요하다."
+			],
+			[
+				12,
+				"우리",
+				"NP",
+				"우리는 일상생활에서 혐오를 목격하였을 때 우리는 이를 저지하여야 한다."
+			],
+			[
+				13,
+				"우리",
+				"NP",
+				"우리는 일상생활에서 혐오를 목격하였을 때 우리는 이를 저지하여야 한다."
+			],
+			[
+				14,
+				"이",
+				"NP",
+				"우리는 일상생활에서 혐오를 목격하였을 때 우리는 이를 저지하여야 한다."
+			],
+			[
+				15,
+				"우리",
+				"NP",
+				"어른 여성이 남자 어린이를 남자라는 이유로 폭행할 때 우리는 이를 경찰에 신고하거나 싸움을 말려야 한다."
+			],
+			[
+				16,
+				"이",
+				"NP",
+				"어른 여성이 남자 어린이를 남자라는 이유로 폭행할 때 우리는 이를 경찰에 신고하거나 싸움을 말려야 한다."
+			],
+			[
+				17,
+				"우리",
+				"NP",
+				"우리는 이를 실천하고 책임지는 태도가 필요하다."
+			],
+			[
+				18,
+				"이",
+				"NP",
+				"우리는 이를 실천하고 책임지는 태도가 필요하다."
+			]
+		],
+		"NP_People_Lst": [
+			[
+				0,
+				"우리",
+				"NP",
+				"우리는 '*르시', '한남충' 등 여러 성별 혐오 표현에 노출되어 있다."
+			],
+			[
+				1,
+				"우리",
+				"NP",
+				"이는 우리 사회의 발전을 저해하고, 더 나아가 인간에 대한 불신을 심어줄 수 있다."
+			],
+			[
+				2,
+				"우리",
+				"NP",
+				"우리 함께 그 방법을 알아보자."
+			],
+			[
+				3,
+				"우리",
+				"NP",
+				"우리는 서로를 너무나 모른다."
+			],
+			[
+				4,
+				"우리",
+				"NP",
+				"이를 극복하려면 우리는 서로를 이해하고 배려하여야 한다."
+			],
+			[
+				5,
+				"우리",
+				"NP",
+				"우리는 정보의 바다에서 살고 있다."
+			],
+			[
+				6,
+				"우리",
+				"NP",
+				"우리는 SNS나 \"일베저장소\", \"워마드\"와 같이 극단적 커뮤니티에서 다루는 옳지 않은 혐오 조장 글에 대하여 정보를 수용하지 않고 비판하는 자세가 필요하다."
+			],
+			[
+				7,
+				"우리",
+				"NP",
+				"우리는 일상생활에서 혐오를 목격하였을 때 우리는 이를 저지하여야 한다."
+			],
+			[
+				8,
+				"우리",
+				"NP",
+				"우리는 일상생활에서 혐오를 목격하였을 때 우리는 이를 저지하여야 한다."
+			],
+			[
+				9,
+				"우리",
+				"NP",
+				"어른 여성이 남자 어린이를 남자라는 이유로 폭행할 때 우리는 이를 경찰에 신고하거나 싸움을 말려야 한다."
+			],
+			[
+				10,
+				"우리",
+				"NP",
+				"우리는 이를 실천하고 책임지는 태도가 필요하다."
+			]
+		],
+		"NP_Things_Lst": [
+			[
+				0,
+				"이",
+				"NP",
+				"이는 우리 사회의 발전을 저해하고, 더 나아가 인간에 대한 불신을 심어줄 수 있다."
+			],
+			[
+				1,
+				"이",
+				"NP",
+				"이를 해결할 방법은 없는 걸까?"
+			],
+			[
+				2,
+				"이",
+				"NP",
+				"이로 인해 갈등이 생기고, 혐오가 생긴다."
+			],
+			[
+				3,
+				"이",
+				"NP",
+				"이를 극복하려면 우리는 서로를 이해하고 배려하여야 한다."
+			],
+			[
+				4,
+				"그것",
+				"NP",
+				"그것이 좋은 정보든, 나쁜 정보든 받아들여서 혼란스러운 사회가 된다."
+			],
+			[
+				5,
+				"이",
+				"NP",
+				"우리는 일상생활에서 혐오를 목격하였을 때 우리는 이를 저지하여야 한다."
+			],
+			[
+				6,
+				"이",
+				"NP",
+				"어른 여성이 남자 어린이를 남자라는 이유로 폭행할 때 우리는 이를 경찰에 신고하거나 싸움을 말려야 한다."
+			],
+			[
+				7,
+				"이",
+				"NP",
+				"우리는 이를 실천하고 책임지는 태도가 필요하다."
+			]
+		],
+		"NR_Lst": [],
+		"VL_Lst": [
+			[
+				0,
+				"노출되",
+				"VV",
+				"우리는 '*르시', '한남충' 등 여러 성별 혐오 표현에 노출되어 있다."
+			],
+			[
+				1,
+				"있",
+				"VX",
+				"우리는 '*르시', '한남충' 등 여러 성별 혐오 표현에 노출되어 있다."
+			],
+			[
+				2,
+				"저해하",
+				"VV",
+				"이는 우리 사회의 발전을 저해하고, 더 나아가 인간에 대한 불신을 심어줄 수 있다."
+			],
+			[
+				3,
+				"나아가",
+				"VV",
+				"이는 우리 사회의 발전을 저해하고, 더 나아가 인간에 대한 불신을 심어줄 수 있다."
+			],
+			[
+				4,
+				"대하",
+				"VV",
+				"이는 우리 사회의 발전을 저해하고, 더 나아가 인간에 대한 불신을 심어줄 수 있다."
+			],
+			[
+				5,
+				"심",
+				"VV",
+				"이는 우리 사회의 발전을 저해하고, 더 나아가 인간에 대한 불신을 심어줄 수 있다."
+			],
+			[
+				6,
+				"주",
+				"VX",
+				"이는 우리 사회의 발전을 저해하고, 더 나아가 인간에 대한 불신을 심어줄 수 있다."
+			],
+			[
+				7,
+				"있",
+				"VX",
+				"이는 우리 사회의 발전을 저해하고, 더 나아가 인간에 대한 불신을 심어줄 수 있다."
+			],
+			[
+				8,
+				"해결하",
+				"VV",
+				"이를 해결할 방법은 없는 걸까?"
+			],
+			[
+				9,
+				"없",
+				"VA",
+				"이를 해결할 방법은 없는 걸까?"
+			],
+			[
+				10,
+				"이",
+				"VCP",
+				"이를 해결할 방법은 없는 걸까?"
+			],
+			[
+				11,
+				"아니",
+				"VCN",
+				"아니다."
+			],
+			[
+				12,
+				"찾아보",
+				"VV",
+				"찾아보면 있다."
+			],
+			[
+				13,
+				"있",
+				"VX",
+				"찾아보면 있다."
+			],
+			[
+				14,
+				"알아보",
+				"VV",
+				"우리 함께 그 방법을 알아보자."
+			],
+			[
+				15,
+				"대하",
+				"VV",
+				"1. 서로에 대한 이해와 배려"
+			],
+			[
+				16,
+				"많",
+				"VA",
+				"남자와 여자는 많은 차이가 있다."
+			],
+			[
+				17,
+				"있",
+				"VA",
+				"남자와 여자는 많은 차이가 있다."
+			],
+			[
+				18,
+				"들",
+				"VV",
+				"예를 들어 '근력', '체격' 등의 신체적 차이와 '취미', '지적 흥미' 같은 사회, 정신적 차이가 있다."
+			],
+			[
+				19,
+				"같",
+				"VA",
+				"예를 들어 '근력', '체격' 등의 신체적 차이와 '취미', '지적 흥미' 같은 사회, 정신적 차이가 있다."
+			],
+			[
+				20,
+				"있",
+				"VA",
+				"예를 들어 '근력', '체격' 등의 신체적 차이와 '취미', '지적 흥미' 같은 사회, 정신적 차이가 있다."
+			],
+			[
+				21,
+				"모르",
+				"VV",
+				"우리는 서로를 너무나 모른다."
+			],
+			[
+				22,
+				"인하",
+				"VV",
+				"이로 인해 갈등이 생기고, 혐오가 생긴다."
+			],
+			[
+				23,
+				"생기",
+				"VV",
+				"이로 인해 갈등이 생기고, 혐오가 생긴다."
+			],
+			[
+				24,
+				"생기",
+				"VV",
+				"이로 인해 갈등이 생기고, 혐오가 생긴다."
+			],
+			[
+				25,
+				"극복하",
+				"VV",
+				"이를 극복하려면 우리는 서로를 이해하고 배려하여야 한다."
+			],
+			[
+				26,
+				"이해하",
+				"VV",
+				"이를 극복하려면 우리는 서로를 이해하고 배려하여야 한다."
+			],
+			[
+				27,
+				"배려하",
+				"VV",
+				"이를 극복하려면 우리는 서로를 이해하고 배려하여야 한다."
+			],
+			[
+				28,
+				"하",
+				"VX",
+				"이를 극복하려면 우리는 서로를 이해하고 배려하여야 한다."
+			],
+			[
+				29,
+				"살",
+				"VV",
+				"우리는 정보의 바다에서 살고 있다."
+			],
+			[
+				30,
+				"있",
+				"VX",
+				"우리는 정보의 바다에서 살고 있다."
+			],
+			[
+				31,
+				"좋",
+				"VA",
+				"그것이 좋은 정보든, 나쁜 정보든 받아들여서 혼란스러운 사회가 된다."
+			],
+			[
+				32,
+				"이",
+				"VCP",
+				"그것이 좋은 정보든, 나쁜 정보든 받아들여서 혼란스러운 사회가 된다."
+			],
+			[
+				33,
+				"나쁘",
+				"VA",
+				"그것이 좋은 정보든, 나쁜 정보든 받아들여서 혼란스러운 사회가 된다."
+			],
+			[
+				34,
+				"이",
+				"VCP",
+				"그것이 좋은 정보든, 나쁜 정보든 받아들여서 혼란스러운 사회가 된다."
+			],
+			[
+				35,
+				"받아들이",
+				"VV",
+				"그것이 좋은 정보든, 나쁜 정보든 받아들여서 혼란스러운 사회가 된다."
+			],
+			[
+				36,
+				"혼란스럽",
+				"VA",
+				"그것이 좋은 정보든, 나쁜 정보든 받아들여서 혼란스러운 사회가 된다."
+			],
+			[
+				37,
+				"되",
+				"VV",
+				"그것이 좋은 정보든, 나쁜 정보든 받아들여서 혼란스러운 사회가 된다."
+			],
+			[
+				38,
+				"다루",
+				"VV",
+				"우리는 SNS나 \"일베저장소\", \"워마드\"와 같이 극단적 커뮤니티에서 다루는 옳지 않은 혐오 조장 글에 대하여 정보를 수용하지 않고 비판하는 자세가 필요하다."
+			],
+			[
+				39,
+				"옳",
+				"VA",
+				"우리는 SNS나 \"일베저장소\", \"워마드\"와 같이 극단적 커뮤니티에서 다루는 옳지 않은 혐오 조장 글에 대하여 정보를 수용하지 않고 비판하는 자세가 필요하다."
+			],
+			[
+				40,
+				"않",
+				"VX",
+				"우리는 SNS나 \"일베저장소\", \"워마드\"와 같이 극단적 커뮤니티에서 다루는 옳지 않은 혐오 조장 글에 대하여 정보를 수용하지 않고 비판하는 자세가 필요하다."
+			],
+			[
+				41,
+				"대하",
+				"VV",
+				"우리는 SNS나 \"일베저장소\", \"워마드\"와 같이 극단적 커뮤니티에서 다루는 옳지 않은 혐오 조장 글에 대하여 정보를 수용하지 않고 비판하는 자세가 필요하다."
+			],
+			[
+				42,
+				"수용하",
+				"VV",
+				"우리는 SNS나 \"일베저장소\", \"워마드\"와 같이 극단적 커뮤니티에서 다루는 옳지 않은 혐오 조장 글에 대하여 정보를 수용하지 않고 비판하는 자세가 필요하다."
+			],
+			[
+				43,
+				"않",
+				"VX",
+				"우리는 SNS나 \"일베저장소\", \"워마드\"와 같이 극단적 커뮤니티에서 다루는 옳지 않은 혐오 조장 글에 대하여 정보를 수용하지 않고 비판하는 자세가 필요하다."
+			],
+			[
+				44,
+				"비판하",
+				"VV",
+				"우리는 SNS나 \"일베저장소\", \"워마드\"와 같이 극단적 커뮤니티에서 다루는 옳지 않은 혐오 조장 글에 대하여 정보를 수용하지 않고 비판하는 자세가 필요하다."
+			],
+			[
+				45,
+				"필요하",
+				"VA",
+				"우리는 SNS나 \"일베저장소\", \"워마드\"와 같이 극단적 커뮤니티에서 다루는 옳지 않은 혐오 조장 글에 대하여 정보를 수용하지 않고 비판하는 자세가 필요하다."
+			],
+			[
+				46,
+				"대하",
+				"VV",
+				"3. 혐오에 대한 비판"
+			],
+			[
+				47,
+				"목격하",
+				"VV",
+				"우리는 일상생활에서 혐오를 목격하였을 때 우리는 이를 저지하여야 한다."
+			],
+			[
+				48,
+				"저지하",
+				"VV",
+				"우리는 일상생활에서 혐오를 목격하였을 때 우리는 이를 저지하여야 한다."
+			],
+			[
+				49,
+				"하",
+				"VX",
+				"우리는 일상생활에서 혐오를 목격하였을 때 우리는 이를 저지하여야 한다."
+			],
+			[
+				50,
+				"젊",
+				"VA",
+				"젊은 남성이 할머니를 여자라는 이유로 폭행하거나."
+			],
+			[
+				51,
+				"이",
+				"VCP",
+				"젊은 남성이 할머니를 여자라는 이유로 폭행하거나."
+			],
+			[
+				52,
+				"폭행하",
+				"VV",
+				"젊은 남성이 할머니를 여자라는 이유로 폭행하거나."
+			],
+			[
+				53,
+				"이",
+				"VCP",
+				"어른 여성이 남자 어린이를 남자라는 이유로 폭행할 때 우리는 이를 경찰에 신고하거나 싸움을 말려야 한다."
+			],
+			[
+				54,
+				"폭행하",
+				"VV",
+				"어른 여성이 남자 어린이를 남자라는 이유로 폭행할 때 우리는 이를 경찰에 신고하거나 싸움을 말려야 한다."
+			],
+			[
+				55,
+				"신고하",
+				"VV",
+				"어른 여성이 남자 어린이를 남자라는 이유로 폭행할 때 우리는 이를 경찰에 신고하거나 싸움을 말려야 한다."
+			],
+			[
+				56,
+				"말리",
+				"VV",
+				"어른 여성이 남자 어린이를 남자라는 이유로 폭행할 때 우리는 이를 경찰에 신고하거나 싸움을 말려야 한다."
+			],
+			[
+				57,
+				"하",
+				"VX",
+				"어른 여성이 남자 어린이를 남자라는 이유로 폭행할 때 우리는 이를 경찰에 신고하거나 싸움을 말려야 한다."
+			],
+			[
+				58,
+				"이렇",
+				"VA",
+				"이렇게 많은 해결법을 알아보았다."
+			],
+			[
+				59,
+				"많",
+				"VA",
+				"이렇게 많은 해결법을 알아보았다."
+			],
+			[
+				60,
+				"알아보",
+				"VV",
+				"이렇게 많은 해결법을 알아보았다."
+			],
+			[
+				61,
+				"실천하",
+				"VV",
+				"우리는 이를 실천하고 책임지는 태도가 필요하다."
+			],
+			[
+				62,
+				"책임지",
+				"VV",
+				"우리는 이를 실천하고 책임지는 태도가 필요하다."
+			],
+			[
+				63,
+				"필요하",
+				"VA",
+				"우리는 이를 실천하고 책임지는 태도가 필요하다."
+			]
+		],
+		"VV_Lst": [
+			[
+				0,
+				"노출되",
+				"VV",
+				"우리는 '*르시', '한남충' 등 여러 성별 혐오 표현에 노출되어 있다."
+			],
+			[
+				1,
+				"저해하",
+				"VV",
+				"이는 우리 사회의 발전을 저해하고, 더 나아가 인간에 대한 불신을 심어줄 수 있다."
+			],
+			[
+				2,
+				"나아가",
+				"VV",
+				"이는 우리 사회의 발전을 저해하고, 더 나아가 인간에 대한 불신을 심어줄 수 있다."
+			],
+			[
+				3,
+				"대하",
+				"VV",
+				"이는 우리 사회의 발전을 저해하고, 더 나아가 인간에 대한 불신을 심어줄 수 있다."
+			],
+			[
+				4,
+				"심",
+				"VV",
+				"이는 우리 사회의 발전을 저해하고, 더 나아가 인간에 대한 불신을 심어줄 수 있다."
+			],
+			[
+				5,
+				"해결하",
+				"VV",
+				"이를 해결할 방법은 없는 걸까?"
+			],
+			[
+				6,
+				"찾아보",
+				"VV",
+				"찾아보면 있다."
+			],
+			[
+				7,
+				"알아보",
+				"VV",
+				"우리 함께 그 방법을 알아보자."
+			],
+			[
+				8,
+				"대하",
+				"VV",
+				"1. 서로에 대한 이해와 배려"
+			],
+			[
+				9,
+				"들",
+				"VV",
+				"예를 들어 '근력', '체격' 등의 신체적 차이와 '취미', '지적 흥미' 같은 사회, 정신적 차이가 있다."
+			],
+			[
+				10,
+				"모르",
+				"VV",
+				"우리는 서로를 너무나 모른다."
+			],
+			[
+				11,
+				"인하",
+				"VV",
+				"이로 인해 갈등이 생기고, 혐오가 생긴다."
+			],
+			[
+				12,
+				"생기",
+				"VV",
+				"이로 인해 갈등이 생기고, 혐오가 생긴다."
+			],
+			[
+				13,
+				"생기",
+				"VV",
+				"이로 인해 갈등이 생기고, 혐오가 생긴다."
+			],
+			[
+				14,
+				"극복하",
+				"VV",
+				"이를 극복하려면 우리는 서로를 이해하고 배려하여야 한다."
+			],
+			[
+				15,
+				"이해하",
+				"VV",
+				"이를 극복하려면 우리는 서로를 이해하고 배려하여야 한다."
+			],
+			[
+				16,
+				"배려하",
+				"VV",
+				"이를 극복하려면 우리는 서로를 이해하고 배려하여야 한다."
+			],
+			[
+				17,
+				"살",
+				"VV",
+				"우리는 정보의 바다에서 살고 있다."
+			],
+			[
+				18,
+				"받아들이",
+				"VV",
+				"그것이 좋은 정보든, 나쁜 정보든 받아들여서 혼란스러운 사회가 된다."
+			],
+			[
+				19,
+				"되",
+				"VV",
+				"그것이 좋은 정보든, 나쁜 정보든 받아들여서 혼란스러운 사회가 된다."
+			],
+			[
+				20,
+				"다루",
+				"VV",
+				"우리는 SNS나 \"일베저장소\", \"워마드\"와 같이 극단적 커뮤니티에서 다루는 옳지 않은 혐오 조장 글에 대하여 정보를 수용하지 않고 비판하는 자세가 필요하다."
+			],
+			[
+				21,
+				"대하",
+				"VV",
+				"우리는 SNS나 \"일베저장소\", \"워마드\"와 같이 극단적 커뮤니티에서 다루는 옳지 않은 혐오 조장 글에 대하여 정보를 수용하지 않고 비판하는 자세가 필요하다."
+			],
+			[
+				22,
+				"수용하",
+				"VV",
+				"우리는 SNS나 \"일베저장소\", \"워마드\"와 같이 극단적 커뮤니티에서 다루는 옳지 않은 혐오 조장 글에 대하여 정보를 수용하지 않고 비판하는 자세가 필요하다."
+			],
+			[
+				23,
+				"비판하",
+				"VV",
+				"우리는 SNS나 \"일베저장소\", \"워마드\"와 같이 극단적 커뮤니티에서 다루는 옳지 않은 혐오 조장 글에 대하여 정보를 수용하지 않고 비판하는 자세가 필요하다."
+			],
+			[
+				24,
+				"대하",
+				"VV",
+				"3. 혐오에 대한 비판"
+			],
+			[
+				25,
+				"목격하",
+				"VV",
+				"우리는 일상생활에서 혐오를 목격하였을 때 우리는 이를 저지하여야 한다."
+			],
+			[
+				26,
+				"저지하",
+				"VV",
+				"우리는 일상생활에서 혐오를 목격하였을 때 우리는 이를 저지하여야 한다."
+			],
+			[
+				27,
+				"폭행하",
+				"VV",
+				"젊은 남성이 할머니를 여자라는 이유로 폭행하거나."
+			],
+			[
+				28,
+				"폭행하",
+				"VV",
+				"어른 여성이 남자 어린이를 남자라는 이유로 폭행할 때 우리는 이를 경찰에 신고하거나 싸움을 말려야 한다."
+			],
+			[
+				29,
+				"신고하",
+				"VV",
+				"어른 여성이 남자 어린이를 남자라는 이유로 폭행할 때 우리는 이를 경찰에 신고하거나 싸움을 말려야 한다."
+			],
+			[
+				30,
+				"말리",
+				"VV",
+				"어른 여성이 남자 어린이를 남자라는 이유로 폭행할 때 우리는 이를 경찰에 신고하거나 싸움을 말려야 한다."
+			],
+			[
+				31,
+				"알아보",
+				"VV",
+				"이렇게 많은 해결법을 알아보았다."
+			],
+			[
+				32,
+				"실천하",
+				"VV",
+				"우리는 이를 실천하고 책임지는 태도가 필요하다."
+			],
+			[
+				33,
+				"책임지",
+				"VV",
+				"우리는 이를 실천하고 책임지는 태도가 필요하다."
+			]
+		],
+		"VA_Lst": [
+			[
+				0,
+				"없",
+				"VA",
+				"이를 해결할 방법은 없는 걸까?"
+			],
+			[
+				1,
+				"많",
+				"VA",
+				"남자와 여자는 많은 차이가 있다."
+			],
+			[
+				2,
+				"있",
+				"VA",
+				"남자와 여자는 많은 차이가 있다."
+			],
+			[
+				3,
+				"같",
+				"VA",
+				"예를 들어 '근력', '체격' 등의 신체적 차이와 '취미', '지적 흥미' 같은 사회, 정신적 차이가 있다."
+			],
+			[
+				4,
+				"있",
+				"VA",
+				"예를 들어 '근력', '체격' 등의 신체적 차이와 '취미', '지적 흥미' 같은 사회, 정신적 차이가 있다."
+			],
+			[
+				5,
+				"좋",
+				"VA",
+				"그것이 좋은 정보든, 나쁜 정보든 받아들여서 혼란스러운 사회가 된다."
+			],
+			[
+				6,
+				"나쁘",
+				"VA",
+				"그것이 좋은 정보든, 나쁜 정보든 받아들여서 혼란스러운 사회가 된다."
+			],
+			[
+				7,
+				"혼란스럽",
+				"VA",
+				"그것이 좋은 정보든, 나쁜 정보든 받아들여서 혼란스러운 사회가 된다."
+			],
+			[
+				8,
+				"옳",
+				"VA",
+				"우리는 SNS나 \"일베저장소\", \"워마드\"와 같이 극단적 커뮤니티에서 다루는 옳지 않은 혐오 조장 글에 대하여 정보를 수용하지 않고 비판하는 자세가 필요하다."
+			],
+			[
+				9,
+				"필요하",
+				"VA",
+				"우리는 SNS나 \"일베저장소\", \"워마드\"와 같이 극단적 커뮤니티에서 다루는 옳지 않은 혐오 조장 글에 대하여 정보를 수용하지 않고 비판하는 자세가 필요하다."
+			],
+			[
+				10,
+				"젊",
+				"VA",
+				"젊은 남성이 할머니를 여자라는 이유로 폭행하거나."
+			],
+			[
+				11,
+				"이렇",
+				"VA",
+				"이렇게 많은 해결법을 알아보았다."
+			],
+			[
+				12,
+				"많",
+				"VA",
+				"이렇게 많은 해결법을 알아보았다."
+			],
+			[
+				13,
+				"필요하",
+				"VA",
+				"우리는 이를 실천하고 책임지는 태도가 필요하다."
+			]
+		],
+		"VX_Lst": [
+			[
+				0,
+				"있",
+				"VX",
+				"우리는 '*르시', '한남충' 등 여러 성별 혐오 표현에 노출되어 있다."
+			],
+			[
+				1,
+				"주",
+				"VX",
+				"이는 우리 사회의 발전을 저해하고, 더 나아가 인간에 대한 불신을 심어줄 수 있다."
+			],
+			[
+				2,
+				"있",
+				"VX",
+				"이는 우리 사회의 발전을 저해하고, 더 나아가 인간에 대한 불신을 심어줄 수 있다."
+			],
+			[
+				3,
+				"있",
+				"VX",
+				"찾아보면 있다."
+			],
+			[
+				4,
+				"하",
+				"VX",
+				"이를 극복하려면 우리는 서로를 이해하고 배려하여야 한다."
+			],
+			[
+				5,
+				"있",
+				"VX",
+				"우리는 정보의 바다에서 살고 있다."
+			],
+			[
+				6,
+				"않",
+				"VX",
+				"우리는 SNS나 \"일베저장소\", \"워마드\"와 같이 극단적 커뮤니티에서 다루는 옳지 않은 혐오 조장 글에 대하여 정보를 수용하지 않고 비판하는 자세가 필요하다."
+			],
+			[
+				7,
+				"않",
+				"VX",
+				"우리는 SNS나 \"일베저장소\", \"워마드\"와 같이 극단적 커뮤니티에서 다루는 옳지 않은 혐오 조장 글에 대하여 정보를 수용하지 않고 비판하는 자세가 필요하다."
+			],
+			[
+				8,
+				"하",
+				"VX",
+				"우리는 일상생활에서 혐오를 목격하였을 때 우리는 이를 저지하여야 한다."
+			],
+			[
+				9,
+				"하",
+				"VX",
+				"어른 여성이 남자 어린이를 남자라는 이유로 폭행할 때 우리는 이를 경찰에 신고하거나 싸움을 말려야 한다."
+			]
+		],
+		"VCP_Lst": [
+			[
+				0,
+				"이",
+				"VCP",
+				"이를 해결할 방법은 없는 걸까?"
+			],
+			[
+				1,
+				"이",
+				"VCP",
+				"그것이 좋은 정보든, 나쁜 정보든 받아들여서 혼란스러운 사회가 된다."
+			],
+			[
+				2,
+				"이",
+				"VCP",
+				"그것이 좋은 정보든, 나쁜 정보든 받아들여서 혼란스러운 사회가 된다."
+			],
+			[
+				3,
+				"이",
+				"VCP",
+				"젊은 남성이 할머니를 여자라는 이유로 폭행하거나."
+			],
+			[
+				4,
+				"이",
+				"VCP",
+				"어른 여성이 남자 어린이를 남자라는 이유로 폭행할 때 우리는 이를 경찰에 신고하거나 싸움을 말려야 한다."
+			]
+		],
+		"VCN_Lst": [
+			[
+				0,
+				"아니",
+				"VCN",
+				"아니다."
+			]
+		],
+		"ML_Lst": [
+			[
+				0,
+				"더",
+				"MAG",
+				"이는 우리 사회의 발전을 저해하고, 더 나아가 인간에 대한 불신을 심어줄 수 있다."
+			],
+			[
+				1,
+				"함께",
+				"MAG",
+				"우리 함께 그 방법을 알아보자."
+			],
+			[
+				2,
+				"너무나",
+				"MAG",
+				"우리는 서로를 너무나 모른다."
+			],
+			[
+				3,
+				"같이",
+				"MAG",
+				"우리는 SNS나 \"일베저장소\", \"워마드\"와 같이 극단적 커뮤니티에서 다루는 옳지 않은 혐오 조장 글에 대하여 정보를 수용하지 않고 비판하는 자세가 필요하다."
+			]
+		],
+		"MA_Lst": [],
+		"MM_Lst": [],
+		"J_Lst": [
+			[
+				0,
+				"는",
+				"JX",
+				"우리는 '*르시', '한남충' 등 여러 성별 혐오 표현에 노출되어 있다."
+			],
+			[
+				1,
+				"에",
+				"JKB",
+				"우리는 '*르시', '한남충' 등 여러 성별 혐오 표현에 노출되어 있다."
+			],
+			[
+				2,
+				"는",
+				"JX",
+				"이는 우리 사회의 발전을 저해하고, 더 나아가 인간에 대한 불신을 심어줄 수 있다."
+			],
+			[
+				3,
+				"의",
+				"JKG",
+				"이는 우리 사회의 발전을 저해하고, 더 나아가 인간에 대한 불신을 심어줄 수 있다."
+			],
+			[
+				4,
+				"을",
+				"JKO",
+				"이는 우리 사회의 발전을 저해하고, 더 나아가 인간에 대한 불신을 심어줄 수 있다."
+			],
+			[
+				5,
+				"에",
+				"JKB",
+				"이는 우리 사회의 발전을 저해하고, 더 나아가 인간에 대한 불신을 심어줄 수 있다."
+			],
+			[
+				6,
+				"을",
+				"JKO",
+				"이는 우리 사회의 발전을 저해하고, 더 나아가 인간에 대한 불신을 심어줄 수 있다."
+			],
+			[
+				7,
+				"를",
+				"JKO",
+				"이를 해결할 방법은 없는 걸까?"
+			],
+			[
+				8,
+				"은",
+				"JX",
+				"이를 해결할 방법은 없는 걸까?"
+			],
+			[
+				9,
+				"을",
+				"JKO",
+				"우리 함께 그 방법을 알아보자."
+			],
+			[
+				10,
+				"에",
+				"JKB",
+				"1. 서로에 대한 이해와 배려"
+			],
+			[
+				11,
+				"와",
+				"JC",
+				"1. 서로에 대한 이해와 배려"
+			],
+			[
+				12,
+				"와",
+				"JC",
+				"남자와 여자는 많은 차이가 있다."
+			],
+			[
+				13,
+				"는",
+				"JX",
+				"남자와 여자는 많은 차이가 있다."
+			],
+			[
+				14,
+				"가",
+				"JKS",
+				"남자와 여자는 많은 차이가 있다."
+			],
+			[
+				15,
+				"를",
+				"JKO",
+				"예를 들어 '근력', '체격' 등의 신체적 차이와 '취미', '지적 흥미' 같은 사회, 정신적 차이가 있다."
+			],
+			[
+				16,
+				"의",
+				"JKG",
+				"예를 들어 '근력', '체격' 등의 신체적 차이와 '취미', '지적 흥미' 같은 사회, 정신적 차이가 있다."
+			],
+			[
+				17,
+				"와",
+				"JC",
+				"예를 들어 '근력', '체격' 등의 신체적 차이와 '취미', '지적 흥미' 같은 사회, 정신적 차이가 있다."
+			],
+			[
+				18,
+				"가",
+				"JKS",
+				"예를 들어 '근력', '체격' 등의 신체적 차이와 '취미', '지적 흥미' 같은 사회, 정신적 차이가 있다."
+			],
+			[
+				19,
+				"는",
+				"JX",
+				"우리는 서로를 너무나 모른다."
+			],
+			[
+				20,
+				"를",
+				"JKO",
+				"우리는 서로를 너무나 모른다."
+			],
+			[
+				21,
+				"로",
+				"JKB",
+				"이로 인해 갈등이 생기고, 혐오가 생긴다."
+			],
+			[
+				22,
+				"이",
+				"JKS",
+				"이로 인해 갈등이 생기고, 혐오가 생긴다."
+			],
+			[
+				23,
+				"가",
+				"JKS",
+				"이로 인해 갈등이 생기고, 혐오가 생긴다."
+			],
+			[
+				24,
+				"를",
+				"JKO",
+				"이를 극복하려면 우리는 서로를 이해하고 배려하여야 한다."
+			],
+			[
+				25,
+				"는",
+				"JX",
+				"이를 극복하려면 우리는 서로를 이해하고 배려하여야 한다."
+			],
+			[
+				26,
+				"를",
+				"JKO",
+				"이를 극복하려면 우리는 서로를 이해하고 배려하여야 한다."
+			],
+			[
+				27,
+				"는",
+				"JX",
+				"우리는 정보의 바다에서 살고 있다."
+			],
+			[
+				28,
+				"의",
+				"JKG",
+				"우리는 정보의 바다에서 살고 있다."
+			],
+			[
+				29,
+				"에서",
+				"JKB",
+				"우리는 정보의 바다에서 살고 있다."
+			],
+			[
+				30,
+				"이",
+				"JKS",
+				"그것이 좋은 정보든, 나쁜 정보든 받아들여서 혼란스러운 사회가 된다."
+			],
+			[
+				31,
+				"가",
+				"JKC",
+				"그것이 좋은 정보든, 나쁜 정보든 받아들여서 혼란스러운 사회가 된다."
+			],
+			[
+				32,
+				"는",
+				"JX",
+				"우리는 SNS나 \"일베저장소\", \"워마드\"와 같이 극단적 커뮤니티에서 다루는 옳지 않은 혐오 조장 글에 대하여 정보를 수용하지 않고 비판하는 자세가 필요하다."
+			],
+			[
+				33,
+				"나",
+				"JC",
+				"우리는 SNS나 \"일베저장소\", \"워마드\"와 같이 극단적 커뮤니티에서 다루는 옳지 않은 혐오 조장 글에 대하여 정보를 수용하지 않고 비판하는 자세가 필요하다."
+			],
+			[
+				34,
+				"와",
+				"JKB",
+				"우리는 SNS나 \"일베저장소\", \"워마드\"와 같이 극단적 커뮤니티에서 다루는 옳지 않은 혐오 조장 글에 대하여 정보를 수용하지 않고 비판하는 자세가 필요하다."
+			],
+			[
+				35,
+				"에서",
+				"JKB",
+				"우리는 SNS나 \"일베저장소\", \"워마드\"와 같이 극단적 커뮤니티에서 다루는 옳지 않은 혐오 조장 글에 대하여 정보를 수용하지 않고 비판하는 자세가 필요하다."
+			],
+			[
+				36,
+				"에",
+				"JKB",
+				"우리는 SNS나 \"일베저장소\", \"워마드\"와 같이 극단적 커뮤니티에서 다루는 옳지 않은 혐오 조장 글에 대하여 정보를 수용하지 않고 비판하는 자세가 필요하다."
+			],
+			[
+				37,
+				"를",
+				"JKO",
+				"우리는 SNS나 \"일베저장소\", \"워마드\"와 같이 극단적 커뮤니티에서 다루는 옳지 않은 혐오 조장 글에 대하여 정보를 수용하지 않고 비판하는 자세가 필요하다."
+			],
+			[
+				38,
+				"가",
+				"JKS",
+				"우리는 SNS나 \"일베저장소\", \"워마드\"와 같이 극단적 커뮤니티에서 다루는 옳지 않은 혐오 조장 글에 대하여 정보를 수용하지 않고 비판하는 자세가 필요하다."
+			],
+			[
+				39,
+				"에",
+				"JKB",
+				"3. 혐오에 대한 비판"
+			],
+			[
+				40,
+				"는",
+				"JX",
+				"우리는 일상생활에서 혐오를 목격하였을 때 우리는 이를 저지하여야 한다."
+			],
+			[
+				41,
+				"에서",
+				"JKB",
+				"우리는 일상생활에서 혐오를 목격하였을 때 우리는 이를 저지하여야 한다."
+			],
+			[
+				42,
+				"를",
+				"JKO",
+				"우리는 일상생활에서 혐오를 목격하였을 때 우리는 이를 저지하여야 한다."
+			],
+			[
+				43,
+				"는",
+				"JX",
+				"우리는 일상생활에서 혐오를 목격하였을 때 우리는 이를 저지하여야 한다."
+			],
+			[
+				44,
+				"를",
+				"JKO",
+				"우리는 일상생활에서 혐오를 목격하였을 때 우리는 이를 저지하여야 한다."
+			],
+			[
+				45,
+				"이",
+				"JKS",
+				"젊은 남성이 할머니를 여자라는 이유로 폭행하거나."
+			],
+			[
+				46,
+				"를",
+				"JKO",
+				"젊은 남성이 할머니를 여자라는 이유로 폭행하거나."
+			],
+			[
+				47,
+				"로",
+				"JKB",
+				"젊은 남성이 할머니를 여자라는 이유로 폭행하거나."
+			],
+			[
+				48,
+				"이",
+				"JKS",
+				"어른 여성이 남자 어린이를 남자라는 이유로 폭행할 때 우리는 이를 경찰에 신고하거나 싸움을 말려야 한다."
+			],
+			[
+				49,
+				"를",
+				"JKO",
+				"어른 여성이 남자 어린이를 남자라는 이유로 폭행할 때 우리는 이를 경찰에 신고하거나 싸움을 말려야 한다."
+			],
+			[
+				50,
+				"로",
+				"JKB",
+				"어른 여성이 남자 어린이를 남자라는 이유로 폭행할 때 우리는 이를 경찰에 신고하거나 싸움을 말려야 한다."
+			],
+			[
+				51,
+				"는",
+				"JX",
+				"어른 여성이 남자 어린이를 남자라는 이유로 폭행할 때 우리는 이를 경찰에 신고하거나 싸움을 말려야 한다."
+			],
+			[
+				52,
+				"를",
+				"JKO",
+				"어른 여성이 남자 어린이를 남자라는 이유로 폭행할 때 우리는 이를 경찰에 신고하거나 싸움을 말려야 한다."
+			],
+			[
+				53,
+				"에",
+				"JKB",
+				"어른 여성이 남자 어린이를 남자라는 이유로 폭행할 때 우리는 이를 경찰에 신고하거나 싸움을 말려야 한다."
+			],
+			[
+				54,
+				"을",
+				"JKO",
+				"어른 여성이 남자 어린이를 남자라는 이유로 폭행할 때 우리는 이를 경찰에 신고하거나 싸움을 말려야 한다."
+			],
+			[
+				55,
+				"을",
+				"JKO",
+				"이렇게 많은 해결법을 알아보았다."
+			],
+			[
+				56,
+				"는",
+				"JX",
+				"우리는 이를 실천하고 책임지는 태도가 필요하다."
+			],
+			[
+				57,
+				"를",
+				"JKO",
+				"우리는 이를 실천하고 책임지는 태도가 필요하다."
+			],
+			[
+				58,
+				"가",
+				"JKS",
+				"우리는 이를 실천하고 책임지는 태도가 필요하다."
+			]
+		],
+		"E_Lst": [
+			[
+				0,
+				"어",
+				"EC",
+				"우리는 '*르시', '한남충' 등 여러 성별 혐오 표현에 노출되어 있다."
+			],
+			[
+				1,
+				"다",
+				"EF",
+				"우리는 '*르시', '한남충' 등 여러 성별 혐오 표현에 노출되어 있다."
+			],
+			[
+				2,
+				"고",
+				"EC",
+				"이는 우리 사회의 발전을 저해하고, 더 나아가 인간에 대한 불신을 심어줄 수 있다."
+			],
+			[
+				3,
+				"아",
+				"EC",
+				"이는 우리 사회의 발전을 저해하고, 더 나아가 인간에 대한 불신을 심어줄 수 있다."
+			],
+			[
+				4,
+				"ㄴ",
+				"ETM",
+				"이는 우리 사회의 발전을 저해하고, 더 나아가 인간에 대한 불신을 심어줄 수 있다."
+			],
+			[
+				5,
+				"어",
+				"EC",
+				"이는 우리 사회의 발전을 저해하고, 더 나아가 인간에 대한 불신을 심어줄 수 있다."
+			],
+			[
+				6,
+				"ㄹ",
+				"ETM",
+				"이는 우리 사회의 발전을 저해하고, 더 나아가 인간에 대한 불신을 심어줄 수 있다."
+			],
+			[
+				7,
+				"다",
+				"EF",
+				"이는 우리 사회의 발전을 저해하고, 더 나아가 인간에 대한 불신을 심어줄 수 있다."
+			],
+			[
+				8,
+				"ㄹ",
+				"ETM",
+				"이를 해결할 방법은 없는 걸까?"
+			],
+			[
+				9,
+				"는",
+				"ETM",
+				"이를 해결할 방법은 없는 걸까?"
+			],
+			[
+				10,
+				"ㄹ까",
+				"EF",
+				"이를 해결할 방법은 없는 걸까?"
+			],
+			[
+				11,
+				"다",
+				"EF",
+				"아니다."
+			],
+			[
+				12,
+				"면",
+				"EC",
+				"찾아보면 있다."
+			],
+			[
+				13,
+				"다",
+				"EF",
+				"찾아보면 있다."
+			],
+			[
+				14,
+				"자",
+				"EF",
+				"우리 함께 그 방법을 알아보자."
+			],
+			[
+				15,
+				"ㄴ",
+				"ETM",
+				"1. 서로에 대한 이해와 배려"
+			],
+			[
+				16,
+				"은",
+				"ETM",
+				"남자와 여자는 많은 차이가 있다."
+			],
+			[
+				17,
+				"다",
+				"EF",
+				"남자와 여자는 많은 차이가 있다."
+			],
+			[
+				18,
+				"어",
+				"EC",
+				"예를 들어 '근력', '체격' 등의 신체적 차이와 '취미', '지적 흥미' 같은 사회, 정신적 차이가 있다."
+			],
+			[
+				19,
+				"은",
+				"ETM",
+				"예를 들어 '근력', '체격' 등의 신체적 차이와 '취미', '지적 흥미' 같은 사회, 정신적 차이가 있다."
+			],
+			[
+				20,
+				"다",
+				"EF",
+				"예를 들어 '근력', '체격' 등의 신체적 차이와 '취미', '지적 흥미' 같은 사회, 정신적 차이가 있다."
+			],
+			[
+				21,
+				"ㄴ다",
+				"EF",
+				"우리는 서로를 너무나 모른다."
+			],
+			[
+				22,
+				"아",
+				"EC",
+				"이로 인해 갈등이 생기고, 혐오가 생긴다."
+			],
+			[
+				23,
+				"고",
+				"EC",
+				"이로 인해 갈등이 생기고, 혐오가 생긴다."
+			],
+			[
+				24,
+				"ㄴ다",
+				"EF",
+				"이로 인해 갈등이 생기고, 혐오가 생긴다."
+			],
+			[
+				25,
+				"려면",
+				"EC",
+				"이를 극복하려면 우리는 서로를 이해하고 배려하여야 한다."
+			],
+			[
+				26,
+				"고",
+				"EC",
+				"이를 극복하려면 우리는 서로를 이해하고 배려하여야 한다."
+			],
+			[
+				27,
+				"아야",
+				"EC",
+				"이를 극복하려면 우리는 서로를 이해하고 배려하여야 한다."
+			],
+			[
+				28,
+				"ㄴ다",
+				"EF",
+				"이를 극복하려면 우리는 서로를 이해하고 배려하여야 한다."
+			],
+			[
+				29,
+				"고",
+				"EC",
+				"우리는 정보의 바다에서 살고 있다."
+			],
+			[
+				30,
+				"다",
+				"EF",
+				"우리는 정보의 바다에서 살고 있다."
+			],
+			[
+				31,
+				"은",
+				"ETM",
+				"그것이 좋은 정보든, 나쁜 정보든 받아들여서 혼란스러운 사회가 된다."
+			],
+			[
+				32,
+				"든",
+				"EC",
+				"그것이 좋은 정보든, 나쁜 정보든 받아들여서 혼란스러운 사회가 된다."
+			],
+			[
+				33,
+				"ㄴ",
+				"ETM",
+				"그것이 좋은 정보든, 나쁜 정보든 받아들여서 혼란스러운 사회가 된다."
+			],
+			[
+				34,
+				"든",
+				"EC",
+				"그것이 좋은 정보든, 나쁜 정보든 받아들여서 혼란스러운 사회가 된다."
+			],
+			[
+				35,
+				"어서",
+				"EC",
+				"그것이 좋은 정보든, 나쁜 정보든 받아들여서 혼란스러운 사회가 된다."
+			],
+			[
+				36,
+				"ㄴ",
+				"ETM",
+				"그것이 좋은 정보든, 나쁜 정보든 받아들여서 혼란스러운 사회가 된다."
+			],
+			[
+				37,
+				"ㄴ다",
+				"EF",
+				"그것이 좋은 정보든, 나쁜 정보든 받아들여서 혼란스러운 사회가 된다."
+			],
+			[
+				38,
+				"는",
+				"ETM",
+				"우리는 SNS나 \"일베저장소\", \"워마드\"와 같이 극단적 커뮤니티에서 다루는 옳지 않은 혐오 조장 글에 대하여 정보를 수용하지 않고 비판하는 자세가 필요하다."
+			],
+			[
+				39,
+				"지",
+				"EC",
+				"우리는 SNS나 \"일베저장소\", \"워마드\"와 같이 극단적 커뮤니티에서 다루는 옳지 않은 혐오 조장 글에 대하여 정보를 수용하지 않고 비판하는 자세가 필요하다."
+			],
+			[
+				40,
+				"은",
+				"ETM",
+				"우리는 SNS나 \"일베저장소\", \"워마드\"와 같이 극단적 커뮤니티에서 다루는 옳지 않은 혐오 조장 글에 대하여 정보를 수용하지 않고 비판하는 자세가 필요하다."
+			],
+			[
+				41,
+				"아",
+				"EC",
+				"우리는 SNS나 \"일베저장소\", \"워마드\"와 같이 극단적 커뮤니티에서 다루는 옳지 않은 혐오 조장 글에 대하여 정보를 수용하지 않고 비판하는 자세가 필요하다."
+			],
+			[
+				42,
+				"지",
+				"EC",
+				"우리는 SNS나 \"일베저장소\", \"워마드\"와 같이 극단적 커뮤니티에서 다루는 옳지 않은 혐오 조장 글에 대하여 정보를 수용하지 않고 비판하는 자세가 필요하다."
+			],
+			[
+				43,
+				"고",
+				"EC",
+				"우리는 SNS나 \"일베저장소\", \"워마드\"와 같이 극단적 커뮤니티에서 다루는 옳지 않은 혐오 조장 글에 대하여 정보를 수용하지 않고 비판하는 자세가 필요하다."
+			],
+			[
+				44,
+				"는",
+				"ETM",
+				"우리는 SNS나 \"일베저장소\", \"워마드\"와 같이 극단적 커뮤니티에서 다루는 옳지 않은 혐오 조장 글에 대하여 정보를 수용하지 않고 비판하는 자세가 필요하다."
+			],
+			[
+				45,
+				"다",
+				"EF",
+				"우리는 SNS나 \"일베저장소\", \"워마드\"와 같이 극단적 커뮤니티에서 다루는 옳지 않은 혐오 조장 글에 대하여 정보를 수용하지 않고 비판하는 자세가 필요하다."
+			],
+			[
+				46,
+				"ㄴ",
+				"ETM",
+				"3. 혐오에 대한 비판"
+			],
+			[
+				47,
+				"았",
+				"EP",
+				"우리는 일상생활에서 혐오를 목격하였을 때 우리는 이를 저지하여야 한다."
+			],
+			[
+				48,
+				"을",
+				"ETM",
+				"우리는 일상생활에서 혐오를 목격하였을 때 우리는 이를 저지하여야 한다."
+			],
+			[
+				49,
+				"아야",
+				"EC",
+				"우리는 일상생활에서 혐오를 목격하였을 때 우리는 이를 저지하여야 한다."
+			],
+			[
+				50,
+				"ㄴ다",
+				"EF",
+				"우리는 일상생활에서 혐오를 목격하였을 때 우리는 이를 저지하여야 한다."
+			],
+			[
+				51,
+				"은",
+				"ETM",
+				"젊은 남성이 할머니를 여자라는 이유로 폭행하거나."
+			],
+			[
+				52,
+				"라는",
+				"ETM",
+				"젊은 남성이 할머니를 여자라는 이유로 폭행하거나."
+			],
+			[
+				53,
+				"거나",
+				"EC",
+				"젊은 남성이 할머니를 여자라는 이유로 폭행하거나."
+			],
+			[
+				54,
+				"라는",
+				"ETM",
+				"어른 여성이 남자 어린이를 남자라는 이유로 폭행할 때 우리는 이를 경찰에 신고하거나 싸움을 말려야 한다."
+			],
+			[
+				55,
+				"ㄹ",
+				"ETM",
+				"어른 여성이 남자 어린이를 남자라는 이유로 폭행할 때 우리는 이를 경찰에 신고하거나 싸움을 말려야 한다."
+			],
+			[
+				56,
+				"거나",
+				"EC",
+				"어른 여성이 남자 어린이를 남자라는 이유로 폭행할 때 우리는 이를 경찰에 신고하거나 싸움을 말려야 한다."
+			],
+			[
+				57,
+				"어야",
+				"EC",
+				"어른 여성이 남자 어린이를 남자라는 이유로 폭행할 때 우리는 이를 경찰에 신고하거나 싸움을 말려야 한다."
+			],
+			[
+				58,
+				"ㄴ다",
+				"EF",
+				"어른 여성이 남자 어린이를 남자라는 이유로 폭행할 때 우리는 이를 경찰에 신고하거나 싸움을 말려야 한다."
+			],
+			[
+				59,
+				"게",
+				"EC",
+				"이렇게 많은 해결법을 알아보았다."
+			],
+			[
+				60,
+				"은",
+				"ETM",
+				"이렇게 많은 해결법을 알아보았다."
+			],
+			[
+				61,
+				"았",
+				"EP",
+				"이렇게 많은 해결법을 알아보았다."
+			],
+			[
+				62,
+				"다",
+				"EF",
+				"이렇게 많은 해결법을 알아보았다."
+			],
+			[
+				63,
+				"고",
+				"EC",
+				"우리는 이를 실천하고 책임지는 태도가 필요하다."
+			],
+			[
+				64,
+				"는",
+				"ETM",
+				"우리는 이를 실천하고 책임지는 태도가 필요하다."
+			],
+			[
+				65,
+				"다",
+				"EF",
+				"우리는 이를 실천하고 책임지는 태도가 필요하다."
+			]
+		],
+		"X_Lst": [
+			[
+				0,
+				"적",
+				"XSN",
+				"예를 들어 '근력', '체격' 등의 신체적 차이와 '취미', '지적 흥미' 같은 사회, 정신적 차이가 있다."
+			],
+			[
+				1,
+				"적",
+				"XSN",
+				"예를 들어 '근력', '체격' 등의 신체적 차이와 '취미', '지적 흥미' 같은 사회, 정신적 차이가 있다."
+			],
+			[
+				2,
+				"적",
+				"XSN",
+				"예를 들어 '근력', '체격' 등의 신체적 차이와 '취미', '지적 흥미' 같은 사회, 정신적 차이가 있다."
+			],
+			[
+				3,
+				"적",
+				"XSN",
+				"2. 비판적 정보 수용"
+			],
+			[
+				4,
+				"적",
+				"XSN",
+				"우리는 SNS나 \"일베저장소\", \"워마드\"와 같이 극단적 커뮤니티에서 다루는 옳지 않은 혐오 조장 글에 대하여 정보를 수용하지 않고 비판하는 자세가 필요하다."
+			]
+		],
+		"IC_Lst": []
+	},
+	"NDW": {
+		"morph_NDW": 154,
+		"NL_NDW": 94,
+		"NNG_NDW": 69,
+		"NNP_NDW": 2,
+		"NNB_NDW": 4,
+		"NP_NDW": 19,
+		"NR_NDW": 0,
+		"VL_NDW": 64,
+		"VV_NDW": 34,
+		"VA_NDW": 14,
+		"ML_NDW": 4,
+		"MM_NDW": 0,
+		"IC_NDW": 0,
+		"J_NDW": 59,
+		"E_NDW": 66,
+		"X_NDW": 5,
+		"CL_NDW": 162,
+		"FL_NDW": 130
+	}
+}

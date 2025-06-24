@@ -1,0 +1,3120 @@
+﻿{
+	"morpheme": {
+		"sentences": [
+			{
+				"text": {
+					"content": "세계적인 기업인 스타벅스는 왜 한국에서만 장애인 차별 기업이 될까.",
+					"length": 37,
+					"beginOffset": 0
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "세계적인",
+							"length": 4,
+							"beginOffset": 0
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "세계",
+									"length": 2,
+									"beginOffset": 0
+								},
+								"tag": "NNG",
+								"probability": 0.98024744,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "적",
+									"beginOffset": 2,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.99119866,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 3,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.99969894,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 3,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999853,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "세계",
+						"tagged": "세계/NNG+적/XSN+이/VCP+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "기업인",
+							"beginOffset": 5,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "기업인",
+									"beginOffset": 5,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.97309864,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "기업인",
+						"tagged": "기업인/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "스타벅스는",
+							"beginOffset": 9,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "스타벅스",
+									"beginOffset": 9,
+									"length": 4
+								},
+								"tag": "NNP",
+								"probability": 0.9019703,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 13,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99718964,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "스타벅스",
+						"tagged": "스타벅스/NNP+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "왜",
+							"beginOffset": 15,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "왜",
+									"beginOffset": 15,
+									"length": 1
+								},
+								"tag": "MAG",
+								"probability": 0.98831624,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "왜",
+						"tagged": "왜/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "한국에서만",
+							"beginOffset": 17,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "한국",
+									"beginOffset": 17,
+									"length": 2
+								},
+								"tag": "NNP",
+								"probability": 0.9667463,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에서",
+									"beginOffset": 19,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.99525136,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "만",
+									"beginOffset": 21,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9959366,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "한국",
+						"tagged": "한국/NNP+에서/JKB+만/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "장애인",
+							"beginOffset": 23,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "장애인",
+									"beginOffset": 23,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.98279995,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "장애인",
+						"tagged": "장애인/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "차별",
+							"beginOffset": 27,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "차별",
+									"beginOffset": 27,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9847098,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "차별",
+						"tagged": "차별/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "기업이",
+							"beginOffset": 30,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "기업",
+									"beginOffset": 30,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9848114,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 32,
+									"length": 1
+								},
+								"tag": "JKC",
+								"probability": 0.7252655,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "기업",
+						"tagged": "기업/NNG+이/JKC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "될까.",
+							"beginOffset": 34,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "되",
+									"beginOffset": 34,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9710608,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ까",
+									"beginOffset": 34,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.9849652,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 36,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9997484,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "되",
+						"tagged": "되/VV+ㄹ까/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "세계적인 기업인 스타벅스는 왜 한국에서만 장애인 차별 기업이 될까."
+			},
+			{
+				"text": {
+					"content": "최근 통신기기를 파는 기업이 경사로 설치를 하라는 인권위 권고를 불수용했다는 기사를 봤다",
+					"beginOffset": 38,
+					"length": 49
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "최근",
+							"beginOffset": 38,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "최근",
+									"beginOffset": 38,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9828848,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "최근",
+						"tagged": "최근/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "통신기기를",
+							"beginOffset": 41,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "통신",
+									"beginOffset": 41,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "기기",
+									"beginOffset": 43,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 45,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99991894,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "통신",
+						"tagged": "통신/NNG+기기/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "파는",
+							"beginOffset": 47,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "팔",
+									"beginOffset": 47,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.988425,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 48,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99992406,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "팔",
+						"tagged": "팔/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "기업이",
+							"beginOffset": 50,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "기업",
+									"beginOffset": 50,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9740839,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 52,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.98977363,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "기업",
+						"tagged": "기업/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "경사로",
+							"beginOffset": 54,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "경사로",
+									"beginOffset": 54,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.86391145,
+								"outOfVocab": "OUT_OF_VOCAB"
+							}
+						],
+						"lemma": "경사로",
+						"tagged": "경사로/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "설치를",
+							"beginOffset": 58,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "설치",
+									"beginOffset": 58,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97899055,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 60,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999462,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "설치",
+						"tagged": "설치/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "하라는",
+							"beginOffset": 62,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 62,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.95463413,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "라는",
+									"beginOffset": 63,
+									"length": 2
+								},
+								"tag": "ETM",
+								"probability": 0.99999076,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VV+라는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "인권위",
+							"beginOffset": 66,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "인권위",
+									"beginOffset": 66,
+									"length": 3
+								},
+								"tag": "NNP",
+								"probability": 0.61666745,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "인권위",
+						"tagged": "인권위/NNP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "권고를",
+							"beginOffset": 70,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "권고",
+									"beginOffset": 70,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.96098423,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 72,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999693,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "권고",
+						"tagged": "권고/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "불수용했다는",
+							"beginOffset": 74,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "불",
+									"beginOffset": 74,
+									"length": 1
+								},
+								"tag": "XPN",
+								"probability": 0.8222604,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "수용",
+									"beginOffset": 75,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98494697,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 77,
+									"length": 1
+								},
+								"tag": "XSV",
+								"probability": 0.9533951,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 77,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9998331,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다는",
+									"beginOffset": 78,
+									"length": 2
+								},
+								"tag": "ETM",
+								"probability": 0.99998486,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "불",
+						"tagged": "불/XPN+수용/NNG+하/XSV+았/EP+다는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "기사를",
+							"beginOffset": 81,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "기사",
+									"beginOffset": 81,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98503065,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 83,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9998709,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "기사",
+						"tagged": "기사/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "봤다",
+							"beginOffset": 85,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "보",
+									"beginOffset": 85,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.95939666,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 85,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9998611,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 86,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.57058525,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "보",
+						"tagged": "보/VV+았/EP+다/EF",
+						"modified": ""
+					}
+				],
+				"refined": "최근 통신기기를 파는 기업이 경사로 설치를 하라는 인권위 권고를 불수용했다는 기사를 봤다"
+			},
+			{
+				"text": {
+					"content": ". 세계적인 기업조차 한국에서는 장애인을 차별해도 문제없다고 판단한 것이다\"라고 지적했다.",
+					"beginOffset": 88,
+					"length": 50
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": ".",
+							"beginOffset": 88,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 88,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9899947,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": ".",
+						"tagged": "./SF",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "세계적인",
+							"beginOffset": 90,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "세계",
+									"beginOffset": 90,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97949183,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "적",
+									"beginOffset": 92,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.9904678,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 93,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.99967945,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 93,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99998826,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "세계",
+						"tagged": "세계/NNG+적/XSN+이/VCP+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "기업조차",
+							"beginOffset": 95,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "기업",
+									"beginOffset": 95,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9844582,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "조차",
+									"beginOffset": 97,
+									"length": 2
+								},
+								"tag": "JX",
+								"probability": 0.9932766,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "기업",
+						"tagged": "기업/NNG+조차/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "한국에서는",
+							"beginOffset": 100,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "한국",
+									"beginOffset": 100,
+									"length": 2
+								},
+								"tag": "NNP",
+								"probability": 0.97289133,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에서",
+									"beginOffset": 102,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9970906,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 104,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99899596,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "한국",
+						"tagged": "한국/NNP+에서/JKB+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "장애인을",
+							"beginOffset": 106,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "장애인",
+									"beginOffset": 106,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9840822,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 109,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999454,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "장애인",
+						"tagged": "장애인/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "차별해도",
+							"beginOffset": 111,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "차별하",
+									"beginOffset": 111,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "아도",
+									"beginOffset": 113,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9954479,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "차별하",
+						"tagged": "차별하/VV+아도/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "문제없다고",
+							"beginOffset": 116,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "문제",
+									"beginOffset": 116,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9849089,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "없",
+									"beginOffset": 118,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9860142,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다고",
+									"beginOffset": 119,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99569607,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "문제",
+						"tagged": "문제/NNG+없/VA+다고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "판단한",
+							"beginOffset": 122,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "판단하",
+									"beginOffset": 122,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 124,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99998504,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "판단하",
+						"tagged": "판단하/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "것이다\"라고",
+							"beginOffset": 126,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "것",
+									"beginOffset": 126,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.981551,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 127,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.9999372,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 128,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9906436,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "\"",
+									"beginOffset": 129,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9998052,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "라고",
+									"beginOffset": 130,
+									"length": 2
+								},
+								"tag": "JKQ",
+								"probability": 0.9994962,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "것",
+						"tagged": "것/NNB+이/VCP+다/EF+\"/SS+라고/JKQ",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "지적했다.",
+							"beginOffset": 133,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "지적하",
+									"beginOffset": 133,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 135,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99986166,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 136,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.99204165,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 137,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9997204,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "지적하",
+						"tagged": "지적하/VV+았/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": ". 세계적인 기업조차 한국에서는 장애인을 차별해도 문제없다고 판단한 것이다\"라고 지적했다."
+			},
+			{
+				"text": {
+					"content": "얼마 전 애플제품을 판매하는 프리스비 대구지점에 인권위가 휠체어 경사로를 설치하라고 권고했지만 불수용한 것에 대한 지적이다.",
+					"beginOffset": 139,
+					"length": 69
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "얼마",
+							"beginOffset": 139,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "얼마",
+									"beginOffset": 139,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.970935,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "얼마",
+						"tagged": "얼마/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "전",
+							"beginOffset": 142,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "전",
+									"beginOffset": 142,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9601081,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "전",
+						"tagged": "전/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "애플제품을",
+							"beginOffset": 144,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "애플",
+									"beginOffset": 144,
+									"length": 2
+								},
+								"tag": "NNP",
+								"probability": 0.62704206,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "제품",
+									"beginOffset": 146,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.95683205,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 148,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999809,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "애플",
+						"tagged": "애플/NNP+제품/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "판매하는",
+							"beginOffset": 150,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "판매하",
+									"beginOffset": 150,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 153,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99978507,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "판매하",
+						"tagged": "판매하/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "프리스비",
+							"beginOffset": 155,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "프리스비",
+									"beginOffset": 155,
+									"length": 4
+								},
+								"tag": "NNP",
+								"probability": 0.79792434,
+								"outOfVocab": "OUT_OF_VOCAB"
+							}
+						],
+						"lemma": "프리스비",
+						"tagged": "프리스비/NNP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "대구지점에",
+							"beginOffset": 160,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "대구",
+									"beginOffset": 160,
+									"length": 2
+								},
+								"tag": "NNP",
+								"probability": 0.9542771,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "지점",
+									"beginOffset": 162,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.96818835,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 164,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9924551,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "대구",
+						"tagged": "대구/NNP+지점/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "인권위가",
+							"beginOffset": 166,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "인권위",
+									"beginOffset": 166,
+									"length": 3
+								},
+								"tag": "NNP",
+								"probability": 0.9434687,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 169,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.99167305,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "인권위",
+						"tagged": "인권위/NNP+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "휠체어",
+							"beginOffset": 171,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "휠체어",
+									"beginOffset": 171,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.95717645,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "휠체어",
+						"tagged": "휠체어/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "경사로를",
+							"beginOffset": 175,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "경사로",
+									"beginOffset": 175,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.8292688,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 178,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999871,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "경사로",
+						"tagged": "경사로/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "설치하라고",
+							"beginOffset": 180,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "설치하",
+									"beginOffset": 180,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "라고",
+									"beginOffset": 183,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9862155,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "설치하",
+						"tagged": "설치하/VV+라고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "권고했지만",
+							"beginOffset": 186,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "권고하",
+									"beginOffset": 186,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 188,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9998764,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "지만",
+									"beginOffset": 189,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.98813206,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "권고하",
+						"tagged": "권고하/VV+았/EP+지만/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "불수용한",
+							"beginOffset": 192,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "불",
+									"beginOffset": 192,
+									"length": 1
+								},
+								"tag": "XPN",
+								"probability": 0.97565615,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "수용",
+									"beginOffset": 193,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98389703,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 195,
+									"length": 1
+								},
+								"tag": "XSV",
+								"probability": 0.8333343,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 195,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9998812,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "불",
+						"tagged": "불/XPN+수용/NNG+하/XSV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "것에",
+							"beginOffset": 197,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "것",
+									"beginOffset": 197,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.97616446,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 198,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99736595,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "것",
+						"tagged": "것/NNB+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "대한",
+							"beginOffset": 200,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "대하",
+									"beginOffset": 200,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9910827,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 201,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999853,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "대하",
+						"tagged": "대하/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "지적이다.",
+							"beginOffset": 203,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "지적",
+									"beginOffset": 203,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97846186,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 205,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.999801,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 206,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9933276,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 207,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9997805,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "지적",
+						"tagged": "지적/NNG+이/VCP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "얼마 전 애플제품을 판매하는 프리스비 대구지점에 인권위가 휠체어 경사로를 설치하라고 권고했지만 불수용한 것에 대한 지적이다."
+			}
+		],
+		"language": "ko_KR"
+	},
+	"ttr": {
+		"lemma_Cnt": 100,
+		"lemma_TTR": 0.6,
+		"CL_TTR": 0.7735849056603774,
+		"NL_TTR": 0.75,
+		"NN_TTR": 0.75,
+		"NNG_TTR": 0.7692307692307693,
+		"NNP_TTR": 0.75,
+		"NNB_TTR": 0.5,
+		"NP_TTR": 0,
+		"NR_TTR": 0,
+		"VL_TTR": 0.8125,
+		"VV_TTR": 1.0,
+		"VA_TTR": 1.0,
+		"ML_TTR": 1.0,
+		"MM_TTR": 0,
+		"MA_TTR": 1.0,
+		"MAJ_TTR": 0,
+		"IC_TTR": 0,
+		"FL_TTR": 0.4782608695652174,
+		"J_TTR": 0.5,
+		"E_TTR": 0.5,
+		"X_TTR": 0.5,
+		"lemma_RTTR": 6.148170459575759,
+		"CL_RTTR": 5.63178312189625,
+		"NL_RTTR": 4.5,
+		"NN_RTTR": 4.5,
+		"NNG_RTTR": 3.922322702763681,
+		"NNP_RTTR": 2.1213203435596424,
+		"NNB_RTTR": 0.7071067811865475,
+		"NP_RTTR": 0,
+		"NR_RTTR": 0,
+		"VL_RTTR": 3.25,
+		"VV_RTTR": 3.3166247903554,
+		"VA_RTTR": 1.0,
+		"ML_RTTR": 1.0,
+		"MM_RTTR": 0,
+		"MA_RTTR": 1.0,
+		"MAJ_RTTR": 0,
+		"IC_RTTR": 0,
+		"FL_RTTR": 3.243723035407737,
+		"J_RTTR": 2.121320343559643,
+		"E_RTTR": 2.345207879911715,
+		"X_RTTR": 1.2247448713915892,
+		"lemma_CTTR": 4.347413023856832,
+		"CL_CTTR": 3.982272035664783,
+		"NL_CTTR": 3.1819805153394642,
+		"NN_CTTR": 3.1819805153394642,
+		"NNG_CTTR": 2.773500981126146,
+		"NNP_CTTR": 1.5,
+		"NNB_CTTR": 0.5,
+		"NP_CTTR": 0,
+		"NR_CTTR": 0,
+		"VL_CTTR": 2.2980970388562794,
+		"VV_CTTR": 2.345207879911715,
+		"VA_CTTR": 0.7071067811865475,
+		"ML_CTTR": 0.7071067811865475,
+		"MM_CTTR": 0,
+		"MA_CTTR": 0.7071067811865475,
+		"MAJ_CTTR": 0,
+		"IC_CTTR": 0,
+		"FL_CTTR": 2.2936585546278225,
+		"J_CTTR": 1.5,
+		"E_CTTR": 1.6583123951777,
+		"X_CTTR": 0.8660254037844387,
+		"lemma_MSTTR": 0.77,
+		"CL_MSTTR": 0.78,
+		"NL_MSTTR": 0.75,
+		"NN_MSTTR": 0.75,
+		"NNG_MSTTR": 0.7692307692307693,
+		"NNP_MSTTR": 0.75,
+		"NNB_MSTTR": 0.5,
+		"NP_MSTTR": 0,
+		"NR_MSTTR": 0,
+		"VL_MSTTR": 0.8125,
+		"VV_MSTTR": 1.0,
+		"VA_MSTTR": 1.0,
+		"ML_MSTTR": 1.0,
+		"MM_MSTTR": 0,
+		"MA_MSTTR": 1.0,
+		"MAJ_MSTTR": 0,
+		"IC_MSTTR": 0,
+		"FL_MSTTR": 0.4782608695652174,
+		"J_MSTTR": 0.5,
+		"E_MSTTR": 0.5,
+		"X_MSTTR": 0.5,
+		"lemma_MATTR": 0.7825000000000003,
+		"CL_MATTR": 0.8,
+		"NL_MATTR": 0.75,
+		"NN_MATTR": 0.75,
+		"NNG_MATTR": 0.7692307692307693,
+		"NNP_MATTR": 0.75,
+		"NNB_MATTR": 0.5,
+		"NP_MATTR": 0,
+		"NR_MATTR": 0,
+		"VL_MATTR": 0.8125,
+		"VV_MATTR": 1.0,
+		"VA_MATTR": 1.0,
+		"ML_MATTR": 1.0,
+		"MM_MATTR": 0,
+		"MA_MATTR": 1.0,
+		"MAJ_MATTR": 0,
+		"IC_MATTR": 0,
+		"FL_MATTR": 0.4782608695652174,
+		"J_MATTR": 0.5,
+		"E_MATTR": 0.5,
+		"X_MATTR": 0.5,
+		"lemma_MTLD": 62.65033215425762,
+		"CL_MTLD": 65.54333333333335,
+		"NL_MTLD": 40.32,
+		"NN_MTLD": 40.32,
+		"NNG_MTLD": 31.546666666666678,
+		"NNP_MTLD": 8.96,
+		"NNB_MTLD": 1.12,
+		"NP_MTLD": 0.0,
+		"NR_MTLD": 0.0,
+		"VL_MTLD": 23.893333333333334,
+		"VV_MTLD": 0.0,
+		"VA_MTLD": 0.0,
+		"ML_MTLD": 0.0,
+		"MM_MTLD": 0.0,
+		"MA_MTLD": 0.0,
+		"MAJ_MTLD": 0.0,
+		"IC_MTLD": 0.0,
+		"FL_MTLD": 20.521551724137932,
+		"J_MTLD": 8.602045225406885,
+		"E_MTLD": 10.833059885151764,
+		"X_MTLD": 3.3600000000000003,
+		"lemma_VOCDD": 56.95549688758848,
+		"CL_VOCDD": 73.5666710711718,
+		"NL_VOCDD": 0,
+		"NN_VOCDD": 0,
+		"NNG_VOCDD": 0,
+		"NNP_VOCDD": 0,
+		"NNB_VOCDD": 0,
+		"NP_VOCDD": 0,
+		"NR_VOCDD": 0,
+		"VL_VOCDD": 0,
+		"VV_VOCDD": 0,
+		"VA_VOCDD": 0,
+		"ML_VOCDD": 0,
+		"MM_VOCDD": 0,
+		"MA_VOCDD": 0,
+		"MAJ_VOCDD": 0,
+		"IC_VOCDD": 0,
+		"FL_VOCDD": 0,
+		"J_VOCDD": 0,
+		"E_VOCDD": 0,
+		"X_VOCDD": 0,
+		"lemma_HDD": 0.7771448020345673,
+		"CL_HDD": 0.8112126127664416,
+		"NL_HDD": 0.0,
+		"NN_HDD": 0.0,
+		"NNG_HDD": 0.0,
+		"NNP_HDD": 0.0,
+		"NNB_HDD": 0.0,
+		"NP_HDD": 0.0,
+		"NR_HDD": 0.0,
+		"VL_HDD": 0.0,
+		"VV_HDD": 0.0,
+		"VA_HDD": 0.0,
+		"ML_HDD": 0.0,
+		"MM_HDD": 0.0,
+		"MA_HDD": 0.0,
+		"MAJ_HDD": 0.0,
+		"IC_HDD": 0.0,
+		"FL_HDD": 0.5021389687719313,
+		"J_HDD": 0.0,
+		"E_HDD": 0.0,
+		"X_HDD": 0.0
+	},
+	"similarity": {
+		"avgSentSimilarity": 0.3208390176296234,
+		"topicConsistency": 0.4648
+	},
+	"adjacency": {
+		"adjacent_sentence_overlap_all_lemmas": 61,
+		"adjacent_sentence_overlap_all_lemmas_normed": 3,
+		"binary_adjacent_sentence_overlap_all_lemmas": 3,
+		"adjacent_two_sentence_overlap_all_lemmas": 35,
+		"adjacent_two_sentence_overlap_all_lemmas_normed": 2,
+		"binary_adjacent_two_sentence_overlap_all_lemmas": 2,
+		"adjacent_sentence_overlap_content_lemmas": 39,
+		"adjacent_sentence_overlap_content_lemmas_normed": 3,
+		"binary_adjacent_sentence_overlap_content_lemmas": 3,
+		"adjacent_two_sentence_overlap_content_lemmas": 24,
+		"adjacent_two_sentence_overlap_content_lemmas_normed": 2,
+		"binary_adjacent_two_sentence_overlap_content_lemmas": 2,
+		"adjacent_sentence_overlap_function_lemmas": 21,
+		"adjacent_sentence_overlap_function_lemmas_normed": 3,
+		"binary_adjacent_sentence_overlap_function_lemmas": 3,
+		"adjacent_two_sentence_overlap_function_lemmas": 11,
+		"adjacent_two_sentence_overlap_function_lemmas_normed": 2,
+		"binary_adjacent_two_sentence_overlap_function_lemmas": 2,
+		"adjacent_sentence_overlap_noun_lemmas": 28,
+		"adjacent_sentence_overlap_noun_lemmas_normed": 3,
+		"binary_adjacent_sentence_overlap_noun_lemmas": 3,
+		"adjacent_two_sentence_overlap_noun_lemmas": 17,
+		"adjacent_two_sentence_overlap_noun_lemmas_normed": 2,
+		"binary_adjacent_two_sentence_overlap_noun_lemmas": 2,
+		"adjacent_sentence_overlap_verb_lemmas": 11,
+		"adjacent_sentence_overlap_verb_lemmas_normed": 3,
+		"binary_adjacent_sentence_overlap_verb_lemmas": 2,
+		"adjacent_two_sentence_overlap_verb_lemmas": 7,
+		"adjacent_two_sentence_overlap_verb_lemmas_normed": 2,
+		"binary_adjacent_two_sentence_overlap_verb_lemmas": 1,
+		"adjacent_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_sentence_overlap_adjective_lemmas_normed": 0,
+		"binary_adjacent_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_sentence_overlap_adverb_lemmas_normed": 0,
+		"binary_adjacent_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adverb_lemmas": 0
+	},
+	"basic_count": {
+		"para_Cnt": 1,
+		"sentence_Cnt": 4,
+		"word_Cnt": 46,
+		"morph_Cnt": 105,
+		"char_Cnt": 170,
+		"CL_Cnt": 53,
+		"NL_Cnt": 36,
+		"NN_Cnt": 36,
+		"NNG_Cnt": 26,
+		"NNP_Cnt": 8,
+		"NNB_Cnt": 2,
+		"NP_Cnt": 0,
+		"NP_People_Cnt": 0,
+		"NP_Things_Cnt": 0,
+		"NR_Cnt": 0,
+		"VL_Cnt": 16,
+		"VV_Cnt": 11,
+		"VA_Cnt": 1,
+		"VX_Cnt": 0,
+		"VCP_Cnt": 4,
+		"VCN_Cnt": 0,
+		"ML_Cnt": 1,
+		"MA_Cnt": 0,
+		"MM_Cnt": 0,
+		"FL_Cnt": 46,
+		"J_Cnt": 18,
+		"E_Cnt": 22,
+		"X_Cnt": 6,
+		"IC_Cnt": 0
+	},
+	"basic_density": {
+		"CL_Den": 0.5047619047619047,
+		"FL_Den": 0.4380952380952381,
+		"NL_Den": 0.34285714285714286,
+		"NNGL_Den": 0.24761904761904763,
+		"NNPL_Den": 0.0761904761904762,
+		"NNBL_Den": 0.01904761904761905,
+		"NPL_Den": 0.0,
+		"NML_Den": 0.0,
+		"VL_Den": 0.1523809523809524,
+		"VVL_Den": 0.10476190476190476,
+		"VAL_Den": 0.009523809523809525,
+		"ML_Den": 0.009523809523809525,
+		"MML_Den": 0.0,
+		"MAL_Den": 0.0,
+		"JL_Den": 0.17142857142857143,
+		"EL_Den": 0.20952380952380953,
+		"XL_Den": 0.05714285714285714,
+		"ITL_Den": 0.0,
+		"NCL_Den": 0.6792452830188679,
+		"NNCL_Den": 0.49056603773584906,
+		"NNGCL_Den": 0.1509433962264151,
+		"NNBCL_Den": 0.03773584905660377,
+		"NPCL_Den": 0.0,
+		"NMCL_Den": 0.0,
+		"VCL_Den": 0.3018867924528302,
+		"VVCL_Den": 0.20754716981132076,
+		"VACL_Den": 0.018867924528301886,
+		"MCL_Den": 0.018867924528301886,
+		"MMCL_Den": 0.0,
+		"MACL_Den": 0.0,
+		"INCL_Den": 0.0,
+		"JFL_Den": 0.391304347826087,
+		"EFL_Den": 0.4782608695652174,
+		"XFL_Den": 0.13043478260869565
+	},
+	"basic_level": {
+		"morph_LenAvg": 1.6571428571428573,
+		"morph_LenStd": 0.7786260356559881,
+		"word_LenAvg": 3.4347826086956523,
+		"word_LenStd": 1.296352305728311
+	},
+	"basic_list": {
+		"NL_Lst": [
+			[
+				0,
+				"세계",
+				"NNG",
+				"세계적인 기업인 스타벅스는 왜 한국에서만 장애인 차별 기업이 될까."
+			],
+			[
+				1,
+				"기업인",
+				"NNG",
+				"세계적인 기업인 스타벅스는 왜 한국에서만 장애인 차별 기업이 될까."
+			],
+			[
+				2,
+				"스타벅스",
+				"NNP",
+				"세계적인 기업인 스타벅스는 왜 한국에서만 장애인 차별 기업이 될까."
+			],
+			[
+				3,
+				"한국",
+				"NNP",
+				"세계적인 기업인 스타벅스는 왜 한국에서만 장애인 차별 기업이 될까."
+			],
+			[
+				4,
+				"장애인",
+				"NNG",
+				"세계적인 기업인 스타벅스는 왜 한국에서만 장애인 차별 기업이 될까."
+			],
+			[
+				5,
+				"차별",
+				"NNG",
+				"세계적인 기업인 스타벅스는 왜 한국에서만 장애인 차별 기업이 될까."
+			],
+			[
+				6,
+				"기업",
+				"NNG",
+				"세계적인 기업인 스타벅스는 왜 한국에서만 장애인 차별 기업이 될까."
+			],
+			[
+				7,
+				"최근",
+				"NNG",
+				"최근 통신기기를 파는 기업이 경사로 설치를 하라는 인권위 권고를 불수용했다는 기사를 봤다"
+			],
+			[
+				8,
+				"통신",
+				"NNG",
+				"최근 통신기기를 파는 기업이 경사로 설치를 하라는 인권위 권고를 불수용했다는 기사를 봤다"
+			],
+			[
+				9,
+				"기기",
+				"NNG",
+				"최근 통신기기를 파는 기업이 경사로 설치를 하라는 인권위 권고를 불수용했다는 기사를 봤다"
+			],
+			[
+				10,
+				"기업",
+				"NNG",
+				"최근 통신기기를 파는 기업이 경사로 설치를 하라는 인권위 권고를 불수용했다는 기사를 봤다"
+			],
+			[
+				11,
+				"경사로",
+				"NNG",
+				"최근 통신기기를 파는 기업이 경사로 설치를 하라는 인권위 권고를 불수용했다는 기사를 봤다"
+			],
+			[
+				12,
+				"설치",
+				"NNG",
+				"최근 통신기기를 파는 기업이 경사로 설치를 하라는 인권위 권고를 불수용했다는 기사를 봤다"
+			],
+			[
+				13,
+				"인권위",
+				"NNP",
+				"최근 통신기기를 파는 기업이 경사로 설치를 하라는 인권위 권고를 불수용했다는 기사를 봤다"
+			],
+			[
+				14,
+				"권고",
+				"NNG",
+				"최근 통신기기를 파는 기업이 경사로 설치를 하라는 인권위 권고를 불수용했다는 기사를 봤다"
+			],
+			[
+				15,
+				"수용",
+				"NNG",
+				"최근 통신기기를 파는 기업이 경사로 설치를 하라는 인권위 권고를 불수용했다는 기사를 봤다"
+			],
+			[
+				16,
+				"기사",
+				"NNG",
+				"최근 통신기기를 파는 기업이 경사로 설치를 하라는 인권위 권고를 불수용했다는 기사를 봤다"
+			],
+			[
+				17,
+				"세계",
+				"NNG",
+				". 세계적인 기업조차 한국에서는 장애인을 차별해도 문제없다고 판단한 것이다\"라고 지적했다."
+			],
+			[
+				18,
+				"기업",
+				"NNG",
+				". 세계적인 기업조차 한국에서는 장애인을 차별해도 문제없다고 판단한 것이다\"라고 지적했다."
+			],
+			[
+				19,
+				"한국",
+				"NNP",
+				". 세계적인 기업조차 한국에서는 장애인을 차별해도 문제없다고 판단한 것이다\"라고 지적했다."
+			],
+			[
+				20,
+				"장애인",
+				"NNG",
+				". 세계적인 기업조차 한국에서는 장애인을 차별해도 문제없다고 판단한 것이다\"라고 지적했다."
+			],
+			[
+				21,
+				"문제",
+				"NNG",
+				". 세계적인 기업조차 한국에서는 장애인을 차별해도 문제없다고 판단한 것이다\"라고 지적했다."
+			],
+			[
+				22,
+				"것",
+				"NNB",
+				". 세계적인 기업조차 한국에서는 장애인을 차별해도 문제없다고 판단한 것이다\"라고 지적했다."
+			],
+			[
+				23,
+				"얼마",
+				"NNG",
+				"얼마 전 애플제품을 판매하는 프리스비 대구지점에 인권위가 휠체어 경사로를 설치하라고 권고했지만 불수용한 것에 대한 지적이다."
+			],
+			[
+				24,
+				"전",
+				"NNG",
+				"얼마 전 애플제품을 판매하는 프리스비 대구지점에 인권위가 휠체어 경사로를 설치하라고 권고했지만 불수용한 것에 대한 지적이다."
+			],
+			[
+				25,
+				"애플",
+				"NNP",
+				"얼마 전 애플제품을 판매하는 프리스비 대구지점에 인권위가 휠체어 경사로를 설치하라고 권고했지만 불수용한 것에 대한 지적이다."
+			],
+			[
+				26,
+				"제품",
+				"NNG",
+				"얼마 전 애플제품을 판매하는 프리스비 대구지점에 인권위가 휠체어 경사로를 설치하라고 권고했지만 불수용한 것에 대한 지적이다."
+			],
+			[
+				27,
+				"프리스비",
+				"NNP",
+				"얼마 전 애플제품을 판매하는 프리스비 대구지점에 인권위가 휠체어 경사로를 설치하라고 권고했지만 불수용한 것에 대한 지적이다."
+			],
+			[
+				28,
+				"대구",
+				"NNP",
+				"얼마 전 애플제품을 판매하는 프리스비 대구지점에 인권위가 휠체어 경사로를 설치하라고 권고했지만 불수용한 것에 대한 지적이다."
+			],
+			[
+				29,
+				"지점",
+				"NNG",
+				"얼마 전 애플제품을 판매하는 프리스비 대구지점에 인권위가 휠체어 경사로를 설치하라고 권고했지만 불수용한 것에 대한 지적이다."
+			],
+			[
+				30,
+				"인권위",
+				"NNP",
+				"얼마 전 애플제품을 판매하는 프리스비 대구지점에 인권위가 휠체어 경사로를 설치하라고 권고했지만 불수용한 것에 대한 지적이다."
+			],
+			[
+				31,
+				"휠체어",
+				"NNG",
+				"얼마 전 애플제품을 판매하는 프리스비 대구지점에 인권위가 휠체어 경사로를 설치하라고 권고했지만 불수용한 것에 대한 지적이다."
+			],
+			[
+				32,
+				"경사로",
+				"NNG",
+				"얼마 전 애플제품을 판매하는 프리스비 대구지점에 인권위가 휠체어 경사로를 설치하라고 권고했지만 불수용한 것에 대한 지적이다."
+			],
+			[
+				33,
+				"수용",
+				"NNG",
+				"얼마 전 애플제품을 판매하는 프리스비 대구지점에 인권위가 휠체어 경사로를 설치하라고 권고했지만 불수용한 것에 대한 지적이다."
+			],
+			[
+				34,
+				"것",
+				"NNB",
+				"얼마 전 애플제품을 판매하는 프리스비 대구지점에 인권위가 휠체어 경사로를 설치하라고 권고했지만 불수용한 것에 대한 지적이다."
+			],
+			[
+				35,
+				"지적",
+				"NNG",
+				"얼마 전 애플제품을 판매하는 프리스비 대구지점에 인권위가 휠체어 경사로를 설치하라고 권고했지만 불수용한 것에 대한 지적이다."
+			]
+		],
+		"NN_Lst": [
+			[
+				0,
+				"세계",
+				"NNG",
+				"세계적인 기업인 스타벅스는 왜 한국에서만 장애인 차별 기업이 될까."
+			],
+			[
+				1,
+				"기업인",
+				"NNG",
+				"세계적인 기업인 스타벅스는 왜 한국에서만 장애인 차별 기업이 될까."
+			],
+			[
+				2,
+				"스타벅스",
+				"NNP",
+				"세계적인 기업인 스타벅스는 왜 한국에서만 장애인 차별 기업이 될까."
+			],
+			[
+				3,
+				"한국",
+				"NNP",
+				"세계적인 기업인 스타벅스는 왜 한국에서만 장애인 차별 기업이 될까."
+			],
+			[
+				4,
+				"장애인",
+				"NNG",
+				"세계적인 기업인 스타벅스는 왜 한국에서만 장애인 차별 기업이 될까."
+			],
+			[
+				5,
+				"차별",
+				"NNG",
+				"세계적인 기업인 스타벅스는 왜 한국에서만 장애인 차별 기업이 될까."
+			],
+			[
+				6,
+				"기업",
+				"NNG",
+				"세계적인 기업인 스타벅스는 왜 한국에서만 장애인 차별 기업이 될까."
+			],
+			[
+				7,
+				"최근",
+				"NNG",
+				"최근 통신기기를 파는 기업이 경사로 설치를 하라는 인권위 권고를 불수용했다는 기사를 봤다"
+			],
+			[
+				8,
+				"통신",
+				"NNG",
+				"최근 통신기기를 파는 기업이 경사로 설치를 하라는 인권위 권고를 불수용했다는 기사를 봤다"
+			],
+			[
+				9,
+				"기기",
+				"NNG",
+				"최근 통신기기를 파는 기업이 경사로 설치를 하라는 인권위 권고를 불수용했다는 기사를 봤다"
+			],
+			[
+				10,
+				"기업",
+				"NNG",
+				"최근 통신기기를 파는 기업이 경사로 설치를 하라는 인권위 권고를 불수용했다는 기사를 봤다"
+			],
+			[
+				11,
+				"경사로",
+				"NNG",
+				"최근 통신기기를 파는 기업이 경사로 설치를 하라는 인권위 권고를 불수용했다는 기사를 봤다"
+			],
+			[
+				12,
+				"설치",
+				"NNG",
+				"최근 통신기기를 파는 기업이 경사로 설치를 하라는 인권위 권고를 불수용했다는 기사를 봤다"
+			],
+			[
+				13,
+				"인권위",
+				"NNP",
+				"최근 통신기기를 파는 기업이 경사로 설치를 하라는 인권위 권고를 불수용했다는 기사를 봤다"
+			],
+			[
+				14,
+				"권고",
+				"NNG",
+				"최근 통신기기를 파는 기업이 경사로 설치를 하라는 인권위 권고를 불수용했다는 기사를 봤다"
+			],
+			[
+				15,
+				"수용",
+				"NNG",
+				"최근 통신기기를 파는 기업이 경사로 설치를 하라는 인권위 권고를 불수용했다는 기사를 봤다"
+			],
+			[
+				16,
+				"기사",
+				"NNG",
+				"최근 통신기기를 파는 기업이 경사로 설치를 하라는 인권위 권고를 불수용했다는 기사를 봤다"
+			],
+			[
+				17,
+				"세계",
+				"NNG",
+				". 세계적인 기업조차 한국에서는 장애인을 차별해도 문제없다고 판단한 것이다\"라고 지적했다."
+			],
+			[
+				18,
+				"기업",
+				"NNG",
+				". 세계적인 기업조차 한국에서는 장애인을 차별해도 문제없다고 판단한 것이다\"라고 지적했다."
+			],
+			[
+				19,
+				"한국",
+				"NNP",
+				". 세계적인 기업조차 한국에서는 장애인을 차별해도 문제없다고 판단한 것이다\"라고 지적했다."
+			],
+			[
+				20,
+				"장애인",
+				"NNG",
+				". 세계적인 기업조차 한국에서는 장애인을 차별해도 문제없다고 판단한 것이다\"라고 지적했다."
+			],
+			[
+				21,
+				"문제",
+				"NNG",
+				". 세계적인 기업조차 한국에서는 장애인을 차별해도 문제없다고 판단한 것이다\"라고 지적했다."
+			],
+			[
+				22,
+				"것",
+				"NNB",
+				". 세계적인 기업조차 한국에서는 장애인을 차별해도 문제없다고 판단한 것이다\"라고 지적했다."
+			],
+			[
+				23,
+				"얼마",
+				"NNG",
+				"얼마 전 애플제품을 판매하는 프리스비 대구지점에 인권위가 휠체어 경사로를 설치하라고 권고했지만 불수용한 것에 대한 지적이다."
+			],
+			[
+				24,
+				"전",
+				"NNG",
+				"얼마 전 애플제품을 판매하는 프리스비 대구지점에 인권위가 휠체어 경사로를 설치하라고 권고했지만 불수용한 것에 대한 지적이다."
+			],
+			[
+				25,
+				"애플",
+				"NNP",
+				"얼마 전 애플제품을 판매하는 프리스비 대구지점에 인권위가 휠체어 경사로를 설치하라고 권고했지만 불수용한 것에 대한 지적이다."
+			],
+			[
+				26,
+				"제품",
+				"NNG",
+				"얼마 전 애플제품을 판매하는 프리스비 대구지점에 인권위가 휠체어 경사로를 설치하라고 권고했지만 불수용한 것에 대한 지적이다."
+			],
+			[
+				27,
+				"프리스비",
+				"NNP",
+				"얼마 전 애플제품을 판매하는 프리스비 대구지점에 인권위가 휠체어 경사로를 설치하라고 권고했지만 불수용한 것에 대한 지적이다."
+			],
+			[
+				28,
+				"대구",
+				"NNP",
+				"얼마 전 애플제품을 판매하는 프리스비 대구지점에 인권위가 휠체어 경사로를 설치하라고 권고했지만 불수용한 것에 대한 지적이다."
+			],
+			[
+				29,
+				"지점",
+				"NNG",
+				"얼마 전 애플제품을 판매하는 프리스비 대구지점에 인권위가 휠체어 경사로를 설치하라고 권고했지만 불수용한 것에 대한 지적이다."
+			],
+			[
+				30,
+				"인권위",
+				"NNP",
+				"얼마 전 애플제품을 판매하는 프리스비 대구지점에 인권위가 휠체어 경사로를 설치하라고 권고했지만 불수용한 것에 대한 지적이다."
+			],
+			[
+				31,
+				"휠체어",
+				"NNG",
+				"얼마 전 애플제품을 판매하는 프리스비 대구지점에 인권위가 휠체어 경사로를 설치하라고 권고했지만 불수용한 것에 대한 지적이다."
+			],
+			[
+				32,
+				"경사로",
+				"NNG",
+				"얼마 전 애플제품을 판매하는 프리스비 대구지점에 인권위가 휠체어 경사로를 설치하라고 권고했지만 불수용한 것에 대한 지적이다."
+			],
+			[
+				33,
+				"수용",
+				"NNG",
+				"얼마 전 애플제품을 판매하는 프리스비 대구지점에 인권위가 휠체어 경사로를 설치하라고 권고했지만 불수용한 것에 대한 지적이다."
+			],
+			[
+				34,
+				"것",
+				"NNB",
+				"얼마 전 애플제품을 판매하는 프리스비 대구지점에 인권위가 휠체어 경사로를 설치하라고 권고했지만 불수용한 것에 대한 지적이다."
+			],
+			[
+				35,
+				"지적",
+				"NNG",
+				"얼마 전 애플제품을 판매하는 프리스비 대구지점에 인권위가 휠체어 경사로를 설치하라고 권고했지만 불수용한 것에 대한 지적이다."
+			]
+		],
+		"NNG_Lst": [
+			[
+				0,
+				"세계",
+				"NNG",
+				"세계적인 기업인 스타벅스는 왜 한국에서만 장애인 차별 기업이 될까."
+			],
+			[
+				1,
+				"기업인",
+				"NNG",
+				"세계적인 기업인 스타벅스는 왜 한국에서만 장애인 차별 기업이 될까."
+			],
+			[
+				2,
+				"장애인",
+				"NNG",
+				"세계적인 기업인 스타벅스는 왜 한국에서만 장애인 차별 기업이 될까."
+			],
+			[
+				3,
+				"차별",
+				"NNG",
+				"세계적인 기업인 스타벅스는 왜 한국에서만 장애인 차별 기업이 될까."
+			],
+			[
+				4,
+				"기업",
+				"NNG",
+				"세계적인 기업인 스타벅스는 왜 한국에서만 장애인 차별 기업이 될까."
+			],
+			[
+				5,
+				"최근",
+				"NNG",
+				"최근 통신기기를 파는 기업이 경사로 설치를 하라는 인권위 권고를 불수용했다는 기사를 봤다"
+			],
+			[
+				6,
+				"통신",
+				"NNG",
+				"최근 통신기기를 파는 기업이 경사로 설치를 하라는 인권위 권고를 불수용했다는 기사를 봤다"
+			],
+			[
+				7,
+				"기기",
+				"NNG",
+				"최근 통신기기를 파는 기업이 경사로 설치를 하라는 인권위 권고를 불수용했다는 기사를 봤다"
+			],
+			[
+				8,
+				"기업",
+				"NNG",
+				"최근 통신기기를 파는 기업이 경사로 설치를 하라는 인권위 권고를 불수용했다는 기사를 봤다"
+			],
+			[
+				9,
+				"경사로",
+				"NNG",
+				"최근 통신기기를 파는 기업이 경사로 설치를 하라는 인권위 권고를 불수용했다는 기사를 봤다"
+			],
+			[
+				10,
+				"설치",
+				"NNG",
+				"최근 통신기기를 파는 기업이 경사로 설치를 하라는 인권위 권고를 불수용했다는 기사를 봤다"
+			],
+			[
+				11,
+				"권고",
+				"NNG",
+				"최근 통신기기를 파는 기업이 경사로 설치를 하라는 인권위 권고를 불수용했다는 기사를 봤다"
+			],
+			[
+				12,
+				"수용",
+				"NNG",
+				"최근 통신기기를 파는 기업이 경사로 설치를 하라는 인권위 권고를 불수용했다는 기사를 봤다"
+			],
+			[
+				13,
+				"기사",
+				"NNG",
+				"최근 통신기기를 파는 기업이 경사로 설치를 하라는 인권위 권고를 불수용했다는 기사를 봤다"
+			],
+			[
+				14,
+				"세계",
+				"NNG",
+				". 세계적인 기업조차 한국에서는 장애인을 차별해도 문제없다고 판단한 것이다\"라고 지적했다."
+			],
+			[
+				15,
+				"기업",
+				"NNG",
+				". 세계적인 기업조차 한국에서는 장애인을 차별해도 문제없다고 판단한 것이다\"라고 지적했다."
+			],
+			[
+				16,
+				"장애인",
+				"NNG",
+				". 세계적인 기업조차 한국에서는 장애인을 차별해도 문제없다고 판단한 것이다\"라고 지적했다."
+			],
+			[
+				17,
+				"문제",
+				"NNG",
+				". 세계적인 기업조차 한국에서는 장애인을 차별해도 문제없다고 판단한 것이다\"라고 지적했다."
+			],
+			[
+				18,
+				"얼마",
+				"NNG",
+				"얼마 전 애플제품을 판매하는 프리스비 대구지점에 인권위가 휠체어 경사로를 설치하라고 권고했지만 불수용한 것에 대한 지적이다."
+			],
+			[
+				19,
+				"전",
+				"NNG",
+				"얼마 전 애플제품을 판매하는 프리스비 대구지점에 인권위가 휠체어 경사로를 설치하라고 권고했지만 불수용한 것에 대한 지적이다."
+			],
+			[
+				20,
+				"제품",
+				"NNG",
+				"얼마 전 애플제품을 판매하는 프리스비 대구지점에 인권위가 휠체어 경사로를 설치하라고 권고했지만 불수용한 것에 대한 지적이다."
+			],
+			[
+				21,
+				"지점",
+				"NNG",
+				"얼마 전 애플제품을 판매하는 프리스비 대구지점에 인권위가 휠체어 경사로를 설치하라고 권고했지만 불수용한 것에 대한 지적이다."
+			],
+			[
+				22,
+				"휠체어",
+				"NNG",
+				"얼마 전 애플제품을 판매하는 프리스비 대구지점에 인권위가 휠체어 경사로를 설치하라고 권고했지만 불수용한 것에 대한 지적이다."
+			],
+			[
+				23,
+				"경사로",
+				"NNG",
+				"얼마 전 애플제품을 판매하는 프리스비 대구지점에 인권위가 휠체어 경사로를 설치하라고 권고했지만 불수용한 것에 대한 지적이다."
+			],
+			[
+				24,
+				"수용",
+				"NNG",
+				"얼마 전 애플제품을 판매하는 프리스비 대구지점에 인권위가 휠체어 경사로를 설치하라고 권고했지만 불수용한 것에 대한 지적이다."
+			],
+			[
+				25,
+				"지적",
+				"NNG",
+				"얼마 전 애플제품을 판매하는 프리스비 대구지점에 인권위가 휠체어 경사로를 설치하라고 권고했지만 불수용한 것에 대한 지적이다."
+			]
+		],
+		"NNP_Lst": [
+			[
+				0,
+				"스타벅스",
+				"NNP",
+				"세계적인 기업인 스타벅스는 왜 한국에서만 장애인 차별 기업이 될까."
+			],
+			[
+				1,
+				"한국",
+				"NNP",
+				"세계적인 기업인 스타벅스는 왜 한국에서만 장애인 차별 기업이 될까."
+			],
+			[
+				2,
+				"인권위",
+				"NNP",
+				"최근 통신기기를 파는 기업이 경사로 설치를 하라는 인권위 권고를 불수용했다는 기사를 봤다"
+			],
+			[
+				3,
+				"한국",
+				"NNP",
+				". 세계적인 기업조차 한국에서는 장애인을 차별해도 문제없다고 판단한 것이다\"라고 지적했다."
+			],
+			[
+				4,
+				"애플",
+				"NNP",
+				"얼마 전 애플제품을 판매하는 프리스비 대구지점에 인권위가 휠체어 경사로를 설치하라고 권고했지만 불수용한 것에 대한 지적이다."
+			],
+			[
+				5,
+				"프리스비",
+				"NNP",
+				"얼마 전 애플제품을 판매하는 프리스비 대구지점에 인권위가 휠체어 경사로를 설치하라고 권고했지만 불수용한 것에 대한 지적이다."
+			],
+			[
+				6,
+				"대구",
+				"NNP",
+				"얼마 전 애플제품을 판매하는 프리스비 대구지점에 인권위가 휠체어 경사로를 설치하라고 권고했지만 불수용한 것에 대한 지적이다."
+			],
+			[
+				7,
+				"인권위",
+				"NNP",
+				"얼마 전 애플제품을 판매하는 프리스비 대구지점에 인권위가 휠체어 경사로를 설치하라고 권고했지만 불수용한 것에 대한 지적이다."
+			]
+		],
+		"NNB_Lst": [
+			[
+				0,
+				"것",
+				"NNB",
+				". 세계적인 기업조차 한국에서는 장애인을 차별해도 문제없다고 판단한 것이다\"라고 지적했다."
+			],
+			[
+				1,
+				"것",
+				"NNB",
+				"얼마 전 애플제품을 판매하는 프리스비 대구지점에 인권위가 휠체어 경사로를 설치하라고 권고했지만 불수용한 것에 대한 지적이다."
+			]
+		],
+		"NP_Lst": [],
+		"NP_People_Lst": [],
+		"NP_Things_Lst": [],
+		"NR_Lst": [],
+		"VL_Lst": [
+			[
+				0,
+				"이",
+				"VCP",
+				"세계적인 기업인 스타벅스는 왜 한국에서만 장애인 차별 기업이 될까."
+			],
+			[
+				1,
+				"되",
+				"VV",
+				"세계적인 기업인 스타벅스는 왜 한국에서만 장애인 차별 기업이 될까."
+			],
+			[
+				2,
+				"팔",
+				"VV",
+				"최근 통신기기를 파는 기업이 경사로 설치를 하라는 인권위 권고를 불수용했다는 기사를 봤다"
+			],
+			[
+				3,
+				"하",
+				"VV",
+				"최근 통신기기를 파는 기업이 경사로 설치를 하라는 인권위 권고를 불수용했다는 기사를 봤다"
+			],
+			[
+				4,
+				"보",
+				"VV",
+				"최근 통신기기를 파는 기업이 경사로 설치를 하라는 인권위 권고를 불수용했다는 기사를 봤다"
+			],
+			[
+				5,
+				"이",
+				"VCP",
+				". 세계적인 기업조차 한국에서는 장애인을 차별해도 문제없다고 판단한 것이다\"라고 지적했다."
+			],
+			[
+				6,
+				"차별하",
+				"VV",
+				". 세계적인 기업조차 한국에서는 장애인을 차별해도 문제없다고 판단한 것이다\"라고 지적했다."
+			],
+			[
+				7,
+				"없",
+				"VA",
+				". 세계적인 기업조차 한국에서는 장애인을 차별해도 문제없다고 판단한 것이다\"라고 지적했다."
+			],
+			[
+				8,
+				"판단하",
+				"VV",
+				". 세계적인 기업조차 한국에서는 장애인을 차별해도 문제없다고 판단한 것이다\"라고 지적했다."
+			],
+			[
+				9,
+				"이",
+				"VCP",
+				". 세계적인 기업조차 한국에서는 장애인을 차별해도 문제없다고 판단한 것이다\"라고 지적했다."
+			],
+			[
+				10,
+				"지적하",
+				"VV",
+				". 세계적인 기업조차 한국에서는 장애인을 차별해도 문제없다고 판단한 것이다\"라고 지적했다."
+			],
+			[
+				11,
+				"판매하",
+				"VV",
+				"얼마 전 애플제품을 판매하는 프리스비 대구지점에 인권위가 휠체어 경사로를 설치하라고 권고했지만 불수용한 것에 대한 지적이다."
+			],
+			[
+				12,
+				"설치하",
+				"VV",
+				"얼마 전 애플제품을 판매하는 프리스비 대구지점에 인권위가 휠체어 경사로를 설치하라고 권고했지만 불수용한 것에 대한 지적이다."
+			],
+			[
+				13,
+				"권고하",
+				"VV",
+				"얼마 전 애플제품을 판매하는 프리스비 대구지점에 인권위가 휠체어 경사로를 설치하라고 권고했지만 불수용한 것에 대한 지적이다."
+			],
+			[
+				14,
+				"대하",
+				"VV",
+				"얼마 전 애플제품을 판매하는 프리스비 대구지점에 인권위가 휠체어 경사로를 설치하라고 권고했지만 불수용한 것에 대한 지적이다."
+			],
+			[
+				15,
+				"이",
+				"VCP",
+				"얼마 전 애플제품을 판매하는 프리스비 대구지점에 인권위가 휠체어 경사로를 설치하라고 권고했지만 불수용한 것에 대한 지적이다."
+			]
+		],
+		"VV_Lst": [
+			[
+				0,
+				"되",
+				"VV",
+				"세계적인 기업인 스타벅스는 왜 한국에서만 장애인 차별 기업이 될까."
+			],
+			[
+				1,
+				"팔",
+				"VV",
+				"최근 통신기기를 파는 기업이 경사로 설치를 하라는 인권위 권고를 불수용했다는 기사를 봤다"
+			],
+			[
+				2,
+				"하",
+				"VV",
+				"최근 통신기기를 파는 기업이 경사로 설치를 하라는 인권위 권고를 불수용했다는 기사를 봤다"
+			],
+			[
+				3,
+				"보",
+				"VV",
+				"최근 통신기기를 파는 기업이 경사로 설치를 하라는 인권위 권고를 불수용했다는 기사를 봤다"
+			],
+			[
+				4,
+				"차별하",
+				"VV",
+				". 세계적인 기업조차 한국에서는 장애인을 차별해도 문제없다고 판단한 것이다\"라고 지적했다."
+			],
+			[
+				5,
+				"판단하",
+				"VV",
+				". 세계적인 기업조차 한국에서는 장애인을 차별해도 문제없다고 판단한 것이다\"라고 지적했다."
+			],
+			[
+				6,
+				"지적하",
+				"VV",
+				". 세계적인 기업조차 한국에서는 장애인을 차별해도 문제없다고 판단한 것이다\"라고 지적했다."
+			],
+			[
+				7,
+				"판매하",
+				"VV",
+				"얼마 전 애플제품을 판매하는 프리스비 대구지점에 인권위가 휠체어 경사로를 설치하라고 권고했지만 불수용한 것에 대한 지적이다."
+			],
+			[
+				8,
+				"설치하",
+				"VV",
+				"얼마 전 애플제품을 판매하는 프리스비 대구지점에 인권위가 휠체어 경사로를 설치하라고 권고했지만 불수용한 것에 대한 지적이다."
+			],
+			[
+				9,
+				"권고하",
+				"VV",
+				"얼마 전 애플제품을 판매하는 프리스비 대구지점에 인권위가 휠체어 경사로를 설치하라고 권고했지만 불수용한 것에 대한 지적이다."
+			],
+			[
+				10,
+				"대하",
+				"VV",
+				"얼마 전 애플제품을 판매하는 프리스비 대구지점에 인권위가 휠체어 경사로를 설치하라고 권고했지만 불수용한 것에 대한 지적이다."
+			]
+		],
+		"VA_Lst": [
+			[
+				0,
+				"없",
+				"VA",
+				". 세계적인 기업조차 한국에서는 장애인을 차별해도 문제없다고 판단한 것이다\"라고 지적했다."
+			]
+		],
+		"VX_Lst": [],
+		"VCP_Lst": [
+			[
+				0,
+				"이",
+				"VCP",
+				"세계적인 기업인 스타벅스는 왜 한국에서만 장애인 차별 기업이 될까."
+			],
+			[
+				1,
+				"이",
+				"VCP",
+				". 세계적인 기업조차 한국에서는 장애인을 차별해도 문제없다고 판단한 것이다\"라고 지적했다."
+			],
+			[
+				2,
+				"이",
+				"VCP",
+				". 세계적인 기업조차 한국에서는 장애인을 차별해도 문제없다고 판단한 것이다\"라고 지적했다."
+			],
+			[
+				3,
+				"이",
+				"VCP",
+				"얼마 전 애플제품을 판매하는 프리스비 대구지점에 인권위가 휠체어 경사로를 설치하라고 권고했지만 불수용한 것에 대한 지적이다."
+			]
+		],
+		"VCN_Lst": [],
+		"ML_Lst": [
+			[
+				0,
+				"왜",
+				"MAG",
+				"세계적인 기업인 스타벅스는 왜 한국에서만 장애인 차별 기업이 될까."
+			]
+		],
+		"MA_Lst": [],
+		"MM_Lst": [],
+		"J_Lst": [
+			[
+				0,
+				"는",
+				"JX",
+				"세계적인 기업인 스타벅스는 왜 한국에서만 장애인 차별 기업이 될까."
+			],
+			[
+				1,
+				"에서",
+				"JKB",
+				"세계적인 기업인 스타벅스는 왜 한국에서만 장애인 차별 기업이 될까."
+			],
+			[
+				2,
+				"만",
+				"JX",
+				"세계적인 기업인 스타벅스는 왜 한국에서만 장애인 차별 기업이 될까."
+			],
+			[
+				3,
+				"이",
+				"JKC",
+				"세계적인 기업인 스타벅스는 왜 한국에서만 장애인 차별 기업이 될까."
+			],
+			[
+				4,
+				"를",
+				"JKO",
+				"최근 통신기기를 파는 기업이 경사로 설치를 하라는 인권위 권고를 불수용했다는 기사를 봤다"
+			],
+			[
+				5,
+				"이",
+				"JKS",
+				"최근 통신기기를 파는 기업이 경사로 설치를 하라는 인권위 권고를 불수용했다는 기사를 봤다"
+			],
+			[
+				6,
+				"를",
+				"JKO",
+				"최근 통신기기를 파는 기업이 경사로 설치를 하라는 인권위 권고를 불수용했다는 기사를 봤다"
+			],
+			[
+				7,
+				"를",
+				"JKO",
+				"최근 통신기기를 파는 기업이 경사로 설치를 하라는 인권위 권고를 불수용했다는 기사를 봤다"
+			],
+			[
+				8,
+				"를",
+				"JKO",
+				"최근 통신기기를 파는 기업이 경사로 설치를 하라는 인권위 권고를 불수용했다는 기사를 봤다"
+			],
+			[
+				9,
+				"조차",
+				"JX",
+				". 세계적인 기업조차 한국에서는 장애인을 차별해도 문제없다고 판단한 것이다\"라고 지적했다."
+			],
+			[
+				10,
+				"에서",
+				"JKB",
+				". 세계적인 기업조차 한국에서는 장애인을 차별해도 문제없다고 판단한 것이다\"라고 지적했다."
+			],
+			[
+				11,
+				"는",
+				"JX",
+				". 세계적인 기업조차 한국에서는 장애인을 차별해도 문제없다고 판단한 것이다\"라고 지적했다."
+			],
+			[
+				12,
+				"을",
+				"JKO",
+				". 세계적인 기업조차 한국에서는 장애인을 차별해도 문제없다고 판단한 것이다\"라고 지적했다."
+			],
+			[
+				13,
+				"을",
+				"JKO",
+				"얼마 전 애플제품을 판매하는 프리스비 대구지점에 인권위가 휠체어 경사로를 설치하라고 권고했지만 불수용한 것에 대한 지적이다."
+			],
+			[
+				14,
+				"에",
+				"JKB",
+				"얼마 전 애플제품을 판매하는 프리스비 대구지점에 인권위가 휠체어 경사로를 설치하라고 권고했지만 불수용한 것에 대한 지적이다."
+			],
+			[
+				15,
+				"가",
+				"JKS",
+				"얼마 전 애플제품을 판매하는 프리스비 대구지점에 인권위가 휠체어 경사로를 설치하라고 권고했지만 불수용한 것에 대한 지적이다."
+			],
+			[
+				16,
+				"를",
+				"JKO",
+				"얼마 전 애플제품을 판매하는 프리스비 대구지점에 인권위가 휠체어 경사로를 설치하라고 권고했지만 불수용한 것에 대한 지적이다."
+			],
+			[
+				17,
+				"에",
+				"JKB",
+				"얼마 전 애플제품을 판매하는 프리스비 대구지점에 인권위가 휠체어 경사로를 설치하라고 권고했지만 불수용한 것에 대한 지적이다."
+			]
+		],
+		"E_Lst": [
+			[
+				0,
+				"ㄴ",
+				"ETM",
+				"세계적인 기업인 스타벅스는 왜 한국에서만 장애인 차별 기업이 될까."
+			],
+			[
+				1,
+				"ㄹ까",
+				"EF",
+				"세계적인 기업인 스타벅스는 왜 한국에서만 장애인 차별 기업이 될까."
+			],
+			[
+				2,
+				"는",
+				"ETM",
+				"최근 통신기기를 파는 기업이 경사로 설치를 하라는 인권위 권고를 불수용했다는 기사를 봤다"
+			],
+			[
+				3,
+				"라는",
+				"ETM",
+				"최근 통신기기를 파는 기업이 경사로 설치를 하라는 인권위 권고를 불수용했다는 기사를 봤다"
+			],
+			[
+				4,
+				"았",
+				"EP",
+				"최근 통신기기를 파는 기업이 경사로 설치를 하라는 인권위 권고를 불수용했다는 기사를 봤다"
+			],
+			[
+				5,
+				"다는",
+				"ETM",
+				"최근 통신기기를 파는 기업이 경사로 설치를 하라는 인권위 권고를 불수용했다는 기사를 봤다"
+			],
+			[
+				6,
+				"았",
+				"EP",
+				"최근 통신기기를 파는 기업이 경사로 설치를 하라는 인권위 권고를 불수용했다는 기사를 봤다"
+			],
+			[
+				7,
+				"다",
+				"EF",
+				"최근 통신기기를 파는 기업이 경사로 설치를 하라는 인권위 권고를 불수용했다는 기사를 봤다"
+			],
+			[
+				8,
+				"ㄴ",
+				"ETM",
+				". 세계적인 기업조차 한국에서는 장애인을 차별해도 문제없다고 판단한 것이다\"라고 지적했다."
+			],
+			[
+				9,
+				"아도",
+				"EC",
+				". 세계적인 기업조차 한국에서는 장애인을 차별해도 문제없다고 판단한 것이다\"라고 지적했다."
+			],
+			[
+				10,
+				"다고",
+				"EC",
+				". 세계적인 기업조차 한국에서는 장애인을 차별해도 문제없다고 판단한 것이다\"라고 지적했다."
+			],
+			[
+				11,
+				"ㄴ",
+				"ETM",
+				". 세계적인 기업조차 한국에서는 장애인을 차별해도 문제없다고 판단한 것이다\"라고 지적했다."
+			],
+			[
+				12,
+				"다",
+				"EF",
+				". 세계적인 기업조차 한국에서는 장애인을 차별해도 문제없다고 판단한 것이다\"라고 지적했다."
+			],
+			[
+				13,
+				"았",
+				"EP",
+				". 세계적인 기업조차 한국에서는 장애인을 차별해도 문제없다고 판단한 것이다\"라고 지적했다."
+			],
+			[
+				14,
+				"다",
+				"EF",
+				". 세계적인 기업조차 한국에서는 장애인을 차별해도 문제없다고 판단한 것이다\"라고 지적했다."
+			],
+			[
+				15,
+				"는",
+				"ETM",
+				"얼마 전 애플제품을 판매하는 프리스비 대구지점에 인권위가 휠체어 경사로를 설치하라고 권고했지만 불수용한 것에 대한 지적이다."
+			],
+			[
+				16,
+				"라고",
+				"EC",
+				"얼마 전 애플제품을 판매하는 프리스비 대구지점에 인권위가 휠체어 경사로를 설치하라고 권고했지만 불수용한 것에 대한 지적이다."
+			],
+			[
+				17,
+				"았",
+				"EP",
+				"얼마 전 애플제품을 판매하는 프리스비 대구지점에 인권위가 휠체어 경사로를 설치하라고 권고했지만 불수용한 것에 대한 지적이다."
+			],
+			[
+				18,
+				"지만",
+				"EC",
+				"얼마 전 애플제품을 판매하는 프리스비 대구지점에 인권위가 휠체어 경사로를 설치하라고 권고했지만 불수용한 것에 대한 지적이다."
+			],
+			[
+				19,
+				"ㄴ",
+				"ETM",
+				"얼마 전 애플제품을 판매하는 프리스비 대구지점에 인권위가 휠체어 경사로를 설치하라고 권고했지만 불수용한 것에 대한 지적이다."
+			],
+			[
+				20,
+				"ㄴ",
+				"ETM",
+				"얼마 전 애플제품을 판매하는 프리스비 대구지점에 인권위가 휠체어 경사로를 설치하라고 권고했지만 불수용한 것에 대한 지적이다."
+			],
+			[
+				21,
+				"다",
+				"EF",
+				"얼마 전 애플제품을 판매하는 프리스비 대구지점에 인권위가 휠체어 경사로를 설치하라고 권고했지만 불수용한 것에 대한 지적이다."
+			]
+		],
+		"X_Lst": [
+			[
+				0,
+				"적",
+				"XSN",
+				"세계적인 기업인 스타벅스는 왜 한국에서만 장애인 차별 기업이 될까."
+			],
+			[
+				1,
+				"불",
+				"XPN",
+				"최근 통신기기를 파는 기업이 경사로 설치를 하라는 인권위 권고를 불수용했다는 기사를 봤다"
+			],
+			[
+				2,
+				"하",
+				"XSV",
+				"최근 통신기기를 파는 기업이 경사로 설치를 하라는 인권위 권고를 불수용했다는 기사를 봤다"
+			],
+			[
+				3,
+				"적",
+				"XSN",
+				". 세계적인 기업조차 한국에서는 장애인을 차별해도 문제없다고 판단한 것이다\"라고 지적했다."
+			],
+			[
+				4,
+				"불",
+				"XPN",
+				"얼마 전 애플제품을 판매하는 프리스비 대구지점에 인권위가 휠체어 경사로를 설치하라고 권고했지만 불수용한 것에 대한 지적이다."
+			],
+			[
+				5,
+				"하",
+				"XSV",
+				"얼마 전 애플제품을 판매하는 프리스비 대구지점에 인권위가 휠체어 경사로를 설치하라고 권고했지만 불수용한 것에 대한 지적이다."
+			]
+		],
+		"IC_Lst": []
+	},
+	"NDW": {
+		"morph_NDW": 68,
+		"NL_NDW": 36,
+		"NNG_NDW": 26,
+		"NNP_NDW": 8,
+		"NNB_NDW": 2,
+		"NP_NDW": 0,
+		"NR_NDW": 0,
+		"VL_NDW": 16,
+		"VV_NDW": 11,
+		"VA_NDW": 1,
+		"ML_NDW": 1,
+		"MM_NDW": 0,
+		"IC_NDW": 0,
+		"J_NDW": 18,
+		"E_NDW": 22,
+		"X_NDW": 6,
+		"CL_NDW": 53,
+		"FL_NDW": 46
+	}
+}

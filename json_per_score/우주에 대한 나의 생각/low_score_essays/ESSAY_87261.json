@@ -1,0 +1,4608 @@
+﻿{
+	"morpheme": {
+		"sentences": [
+			{
+				"text": {
+					"content": "금성은 태양계의 두 번째, 지구와는 가장 가까운 행성이다.",
+					"length": 32,
+					"beginOffset": 0
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "금성은",
+							"length": 3,
+							"beginOffset": 0
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "금성",
+									"length": 2,
+									"beginOffset": 0
+								},
+								"tag": "NNP",
+								"probability": 0.76056826,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 2,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9981215,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "금성",
+						"tagged": "금성/NNP+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "태양계의",
+							"beginOffset": 4,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "태양",
+									"beginOffset": 4,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97946,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "계",
+									"beginOffset": 6,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.98204803,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 7,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9962824,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "태양",
+						"tagged": "태양/NNG+계/XSN+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "두",
+							"beginOffset": 9,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "두",
+									"beginOffset": 9,
+									"length": 1
+								},
+								"tag": "MMN",
+								"probability": 0.9984891,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "두",
+						"tagged": "두/MMN",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "번째,",
+							"beginOffset": 11,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "번",
+									"beginOffset": 11,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9752244,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "째",
+									"beginOffset": 12,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.9915152,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 13,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.9992562,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "번",
+						"tagged": "번/NNB+째/XSN+,/SP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "지구와는",
+							"beginOffset": 15,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "지구",
+									"beginOffset": 15,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97656417,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "와",
+									"beginOffset": 17,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9832223,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 18,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9992949,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "지구",
+						"tagged": "지구/NNG+와/JKB+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "가장",
+							"beginOffset": 20,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "가장",
+									"beginOffset": 20,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9930738,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "가장",
+						"tagged": "가장/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "가까운",
+							"beginOffset": 23,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "가깝",
+									"beginOffset": 23,
+									"length": 2
+								},
+								"tag": "VA",
+								"probability": 0.98802334,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 25,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99995404,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "가깝",
+						"tagged": "가깝/VA+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "행성이다.",
+							"beginOffset": 27,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "행성",
+									"beginOffset": 27,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9804313,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 29,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.999799,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 30,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9942651,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 31,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9997334,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "행성",
+						"tagged": "행성/NNG+이/VCP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "금성은 태양계의 두 번째, 지구와는 가장 가까운 행성이다."
+			},
+			{
+				"text": {
+					"content": "그 크기와 질량이 지구와 비슷하며 비슷한 시기에 때문에 '쌍둥이 행성'으로 불리기도 하지만, 사실 지구의 환경과는 매우 다르다.",
+					"beginOffset": 33,
+					"length": 71
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "그",
+							"beginOffset": 33,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그",
+									"beginOffset": 33,
+									"length": 1
+								},
+								"tag": "MMD",
+								"probability": 0.99954605,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그",
+						"tagged": "그/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "크기와",
+							"beginOffset": 35,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "크기",
+									"beginOffset": 35,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9764937,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "와",
+									"beginOffset": 37,
+									"length": 1
+								},
+								"tag": "JC",
+								"probability": 0.950004,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "크기",
+						"tagged": "크기/NNG+와/JC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "질량이",
+							"beginOffset": 39,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "질량",
+									"beginOffset": 39,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97946453,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 41,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9890558,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "질량",
+						"tagged": "질량/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "지구와",
+							"beginOffset": 43,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "지구",
+									"beginOffset": 43,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9851481,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "와",
+									"beginOffset": 45,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.92566276,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "지구",
+						"tagged": "지구/NNG+와/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "비슷하며",
+							"beginOffset": 47,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "비슷하",
+									"beginOffset": 47,
+									"length": 3
+								},
+								"tag": "VA",
+								"probability": 0.989475,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "며",
+									"beginOffset": 50,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.992249,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "비슷하",
+						"tagged": "비슷하/VA+며/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "비슷한",
+							"beginOffset": 52,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "비슷하",
+									"beginOffset": 52,
+									"length": 3
+								},
+								"tag": "VA",
+								"probability": 0.9892351,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 54,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999771,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "비슷하",
+						"tagged": "비슷하/VA+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "시기에",
+							"beginOffset": 56,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "시기",
+									"beginOffset": 56,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98317355,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 58,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9933952,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "시기",
+						"tagged": "시기/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "때문에",
+							"beginOffset": 60,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "때문",
+									"beginOffset": 60,
+									"length": 2
+								},
+								"tag": "NNB",
+								"probability": 0.96683824,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 62,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9968144,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "때문",
+						"tagged": "때문/NNB+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "'쌍둥이",
+							"beginOffset": 64,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "'",
+									"beginOffset": 64,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.99991924,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "쌍둥이",
+									"beginOffset": 65,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.97973543,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "'",
+						"tagged": "'/SS+쌍둥이/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "행성'으로",
+							"beginOffset": 69,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "행성",
+									"beginOffset": 69,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9785196,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "'",
+									"beginOffset": 71,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.999897,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으로",
+									"beginOffset": 72,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.99301183,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "행성",
+						"tagged": "행성/NNG+'/SS+으로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "불리기도",
+							"beginOffset": 75,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "불리",
+									"beginOffset": 75,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9890544,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "기",
+									"beginOffset": 77,
+									"length": 1
+								},
+								"tag": "ETN",
+								"probability": 0.99874043,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 78,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99924356,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "불리",
+						"tagged": "불리/VV+기/ETN+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "하지만",
+							"beginOffset": 80,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 80,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.8365515,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "지만",
+									"beginOffset": 81,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9934672,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VX+지만/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": ",",
+							"beginOffset": 83,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 83,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.9994631,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": ",",
+						"tagged": ",/SP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사실",
+							"beginOffset": 85,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사실",
+									"beginOffset": 85,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9890285,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사실",
+						"tagged": "사실/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "지구의",
+							"beginOffset": 88,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "지구",
+									"beginOffset": 88,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9882799,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 90,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9996942,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "지구",
+						"tagged": "지구/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "환경과는",
+							"beginOffset": 92,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "환경",
+									"beginOffset": 92,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9835647,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "과",
+									"beginOffset": 94,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.96194136,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 95,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9992788,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "환경",
+						"tagged": "환경/NNG+과/JKB+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "매우",
+							"beginOffset": 97,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "매우",
+									"beginOffset": 97,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.985207,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "매우",
+						"tagged": "매우/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "다르다.",
+							"beginOffset": 100,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "다르",
+									"beginOffset": 100,
+									"length": 2
+								},
+								"tag": "VA",
+								"probability": 0.98913485,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 102,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.99435264,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 103,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99977356,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "다르",
+						"tagged": "다르/VA+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "그 크기와 질량이 지구와 비슷하며 비슷한 시기에 때문에 '쌍둥이 행성'으로 불리기도 하지만 , 사실 지구의 환경과는 매우 다르다."
+			},
+			{
+				"text": {
+					"content": "금성의 대기는 온실기체인 이산화탄소가 두껍게 덮고 있어 표면 온도는 최대 500도에, 기압은 지구의 90배에 달하는 것으로 알려진다.",
+					"beginOffset": 105,
+					"length": 74
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "금성의",
+							"beginOffset": 105,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "금성",
+									"beginOffset": 105,
+									"length": 2
+								},
+								"tag": "NNP",
+								"probability": 0.85613954,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 107,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9996703,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "금성",
+						"tagged": "금성/NNP+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "대기는",
+							"beginOffset": 109,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "대기",
+									"beginOffset": 109,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9823755,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 111,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9994541,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "대기",
+						"tagged": "대기/NNG+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "온실기체인",
+							"beginOffset": 113,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "온실",
+									"beginOffset": 113,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98230445,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "기체",
+									"beginOffset": 115,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9813653,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 117,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.99995255,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 117,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999601,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "온실",
+						"tagged": "온실/NNG+기체/NNG+이/VCP+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이산화탄소가",
+							"beginOffset": 119,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이산화",
+									"beginOffset": 119,
+									"length": 3
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "탄소",
+									"beginOffset": 122,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 124,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.98733133,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이산화",
+						"tagged": "이산화/NNG+탄소/NNG+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "두껍게",
+							"beginOffset": 126,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "두껍",
+									"beginOffset": 126,
+									"length": 2
+								},
+								"tag": "VA",
+								"probability": 0.98630244,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "게",
+									"beginOffset": 128,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9926586,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "두껍",
+						"tagged": "두껍/VA+게/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "덮고",
+							"beginOffset": 130,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "덮",
+									"beginOffset": 130,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.98847675,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 131,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9924829,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "덮",
+						"tagged": "덮/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있어",
+							"beginOffset": 133,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 133,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.97161764,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어",
+									"beginOffset": 134,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.977247,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VX+어/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "표면",
+							"beginOffset": 136,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "표면",
+									"beginOffset": 136,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97939384,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "표면",
+						"tagged": "표면/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "온도는",
+							"beginOffset": 139,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "온도",
+									"beginOffset": 139,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98496073,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 141,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9994293,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "온도",
+						"tagged": "온도/NNG+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "최대",
+							"beginOffset": 143,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "최대",
+									"beginOffset": 143,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9775916,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "최대",
+						"tagged": "최대/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "500도에",
+							"beginOffset": 146,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "500",
+									"beginOffset": 146,
+									"length": 3
+								},
+								"tag": "SN",
+								"probability": 0.9968004,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 149,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9597991,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 150,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.98767805,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "500",
+						"tagged": "500/SN+도/NNB+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": ",",
+							"beginOffset": 151,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 151,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.9992954,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": ",",
+						"tagged": ",/SP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "기압은",
+							"beginOffset": 153,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "기압",
+									"beginOffset": 153,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97741044,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 155,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9996183,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "기압",
+						"tagged": "기압/NNG+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "지구의",
+							"beginOffset": 157,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "지구",
+									"beginOffset": 157,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.988224,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 159,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9995247,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "지구",
+						"tagged": "지구/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "90배에",
+							"beginOffset": 161,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "90",
+									"beginOffset": 161,
+									"length": 2
+								},
+								"tag": "SN",
+								"probability": 0.9973744,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "배",
+									"beginOffset": 163,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9575041,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 164,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9901668,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "90",
+						"tagged": "90/SN+배/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "달하는",
+							"beginOffset": 166,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "달하",
+									"beginOffset": 166,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9895077,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 168,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999729,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "달하",
+						"tagged": "달하/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "것으로",
+							"beginOffset": 170,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "것",
+									"beginOffset": 170,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9807241,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으로",
+									"beginOffset": 171,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9953298,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "것",
+						"tagged": "것/NNB+으로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "알려진다.",
+							"beginOffset": 174,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "알려지",
+									"beginOffset": 174,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.98803157,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ다",
+									"beginOffset": 176,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.9906373,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 178,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9985501,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "알려지",
+						"tagged": "알려지/VV+ㄴ다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "금성의 대기는 온실기체인 이산화탄소가 두껍게 덮고 있어 표면 온도는 최대 500도에 , 기압은 지구의 90배에 달하는 것으로 알려진다."
+			},
+			{
+				"text": {
+					"content": "태양과의 거리가 가장 가까운 수성이 단위 면적당 4배나 많은 태양 에너지를 받지만, 금성의 표면 온도가 훨씬 더 높을 정도다.",
+					"beginOffset": 180,
+					"length": 70
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "태양과의",
+							"beginOffset": 180,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "태양",
+									"beginOffset": 180,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9828784,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "과",
+									"beginOffset": 182,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.98105586,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 183,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9991061,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "태양",
+						"tagged": "태양/NNG+과/JKB+의/JKG",
+						"modified": "태양과의"
+					},
+					{
+						"text": {
+							"content": "거리가",
+							"beginOffset": 185,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "거리",
+									"beginOffset": 185,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.95721745,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 187,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.98126006,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "거리",
+						"tagged": "거리/NNG+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "가장",
+							"beginOffset": 189,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "가장",
+									"beginOffset": 189,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.99253464,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "가장",
+						"tagged": "가장/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "가까운",
+							"beginOffset": 192,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "가깝",
+									"beginOffset": 192,
+									"length": 2
+								},
+								"tag": "VA",
+								"probability": 0.9882811,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 194,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99990815,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "가깝",
+						"tagged": "가깝/VA+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "수성이",
+							"beginOffset": 196,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "수성",
+									"beginOffset": 196,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9755144,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 198,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.92783105,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "수성",
+						"tagged": "수성/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "단위",
+							"beginOffset": 200,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "단위",
+									"beginOffset": 200,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9829052,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "단위",
+						"tagged": "단위/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "면적당",
+							"beginOffset": 203,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "면적",
+									"beginOffset": 203,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9799126,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "당",
+									"beginOffset": 205,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.89839077,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "면적",
+						"tagged": "면적/NNG+당/XSN",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "4배나",
+							"beginOffset": 207,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "4",
+									"beginOffset": 207,
+									"length": 1
+								},
+								"tag": "SN",
+								"probability": 0.997552,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "배",
+									"beginOffset": 208,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9334109,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "나",
+									"beginOffset": 209,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.87421566,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "4",
+						"tagged": "4/SN+배/NNG+나/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "많은",
+							"beginOffset": 211,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "많",
+									"beginOffset": 211,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9854557,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 212,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.999955,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "많",
+						"tagged": "많/VA+은/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "태양",
+							"beginOffset": 214,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "태양",
+									"beginOffset": 214,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9811205,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "태양",
+						"tagged": "태양/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "에너지를",
+							"beginOffset": 217,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "에너지",
+									"beginOffset": 217,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.98386884,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 220,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999163,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "에너지",
+						"tagged": "에너지/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "받지만",
+							"beginOffset": 222,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "받",
+									"beginOffset": 222,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9789972,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "지만",
+									"beginOffset": 223,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99281305,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "받",
+						"tagged": "받/VV+지만/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": ",",
+							"beginOffset": 225,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 225,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.99903333,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": ",",
+						"tagged": ",/SP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "금성의",
+							"beginOffset": 227,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "금성",
+									"beginOffset": 227,
+									"length": 2
+								},
+								"tag": "NNP",
+								"probability": 0.7109053,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 229,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9997159,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "금성",
+						"tagged": "금성/NNP+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "표면",
+							"beginOffset": 231,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "표면",
+									"beginOffset": 231,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.978941,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "표면",
+						"tagged": "표면/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "온도가",
+							"beginOffset": 234,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "온도",
+									"beginOffset": 234,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9854391,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 236,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9916471,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "온도",
+						"tagged": "온도/NNG+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "훨씬",
+							"beginOffset": 238,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "훨씬",
+									"beginOffset": 238,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.99255806,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "훨씬",
+						"tagged": "훨씬/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "더",
+							"beginOffset": 241,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "더",
+									"beginOffset": 241,
+									"length": 1
+								},
+								"tag": "MAG",
+								"probability": 0.99426943,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "더",
+						"tagged": "더/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "높을",
+							"beginOffset": 243,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "높",
+									"beginOffset": 243,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.98627025,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 244,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999178,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "높",
+						"tagged": "높/VA+을/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "정도다.",
+							"beginOffset": 246,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "정도",
+									"beginOffset": 246,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98439854,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 248,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.998061,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 248,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9935795,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 249,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9991245,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "정도",
+						"tagged": "정도/NNG+이/VCP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "태양과의 거리가 가장 가까운 수성이 단위 면적당 4배나 많은 태양 에너지를 받지만 , 금성의 표면 온도가 훨씬 더 높을 정도다."
+			},
+			{
+				"text": {
+					"content": "이렇게 고온·고압의 극한 환경 때문에 생명체는 살 수 없을 뿐만 아니라, '태양계의 불지옥'이라고도 불린다.",
+					"beginOffset": 251,
+					"length": 60
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "이렇게",
+							"beginOffset": 251,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이렇",
+									"beginOffset": 251,
+									"length": 2
+								},
+								"tag": "VA",
+								"probability": 0.98412615,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "게",
+									"beginOffset": 253,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99510574,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이렇",
+						"tagged": "이렇/VA+게/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "고온·고압의",
+							"beginOffset": 255,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "고온",
+									"beginOffset": 255,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9787387,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "·",
+									"beginOffset": 257,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.9992797,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고압",
+									"beginOffset": 258,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98100334,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 260,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99785507,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "고온",
+						"tagged": "고온/NNG+·/SP+고압/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "극한",
+							"beginOffset": 262,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "극한",
+									"beginOffset": 262,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98133487,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "극한",
+						"tagged": "극한/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "환경",
+							"beginOffset": 265,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "환경",
+									"beginOffset": 265,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9831757,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "환경",
+						"tagged": "환경/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "때문에",
+							"beginOffset": 268,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "때문",
+									"beginOffset": 268,
+									"length": 2
+								},
+								"tag": "NNB",
+								"probability": 0.9762418,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 270,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99638927,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "때문",
+						"tagged": "때문/NNB+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "생명체는",
+							"beginOffset": 272,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "생명체",
+									"beginOffset": 272,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9828877,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 275,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9988003,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "생명체",
+						"tagged": "생명체/NNG+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "살",
+							"beginOffset": 277,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "살",
+									"beginOffset": 277,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.99106514,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ",
+									"beginOffset": 277,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999648,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "살",
+						"tagged": "살/VV+ㄹ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "수",
+							"beginOffset": 279,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "수",
+									"beginOffset": 279,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.97710454,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "수",
+						"tagged": "수/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "없을",
+							"beginOffset": 281,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "없",
+									"beginOffset": 281,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9880492,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 282,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9998923,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "없",
+						"tagged": "없/VA+을/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "뿐만",
+							"beginOffset": 284,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "뿐",
+									"beginOffset": 284,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9723482,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "만",
+									"beginOffset": 285,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99762213,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "뿐",
+						"tagged": "뿐/NNB+만/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "아니라",
+							"beginOffset": 287,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "아니",
+									"beginOffset": 287,
+									"length": 2
+								},
+								"tag": "VCN",
+								"probability": 0.9999944,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "라",
+									"beginOffset": 289,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9884708,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "아니",
+						"tagged": "아니/VCN+라/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": ",",
+							"beginOffset": 290,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 290,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.9988268,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": ",",
+						"tagged": ",/SP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "'태양계의",
+							"beginOffset": 292,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "'",
+									"beginOffset": 292,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9999689,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "태양",
+									"beginOffset": 293,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9831862,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "계",
+									"beginOffset": 295,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.9900416,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 296,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9993748,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "'",
+						"tagged": "'/SS+태양/NNG+계/XSN+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "불지옥'이라고도",
+							"beginOffset": 298,
+							"length": 8
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "불",
+									"beginOffset": 298,
+									"length": 1
+								},
+								"tag": "XPN",
+								"probability": 0.9945659,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "지옥",
+									"beginOffset": 299,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9859238,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "'",
+									"beginOffset": 301,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9999694,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이라고",
+									"beginOffset": 302,
+									"length": 3
+								},
+								"tag": "JKQ",
+								"probability": 0.97984225,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 305,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9982833,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "불",
+						"tagged": "불/XPN+지옥/NNG+'/SS+이라고/JKQ+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "불린다.",
+							"beginOffset": 307,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "불리",
+									"beginOffset": 307,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.99015105,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ다",
+									"beginOffset": 308,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.9919884,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 310,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9997749,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "불리",
+						"tagged": "불리/VV+ㄴ다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "이렇게 고온·고압의 극한 환경 때문에 생명체는 살 수 없을 뿐만 아니라 , '태양계의 불지옥'이라고도 불린다."
+			}
+		],
+		"language": "ko_KR"
+	},
+	"ttr": {
+		"lemma_Cnt": 147,
+		"lemma_TTR": 0.5818181818181818,
+		"CL_TTR": 0.7468354430379747,
+		"NL_TTR": 0.72,
+		"NN_TTR": 0.72,
+		"NNG_TTR": 0.725,
+		"NNP_TTR": 0.3333333333333333,
+		"NNB_TTR": 0.8571428571428571,
+		"NP_TTR": 0,
+		"NR_TTR": 0,
+		"VL_TTR": 0.782608695652174,
+		"VV_TTR": 0.8571428571428571,
+		"VA_TTR": 0.8,
+		"ML_TTR": 0.8333333333333334,
+		"MM_TTR": 0,
+		"MA_TTR": 0.8333333333333334,
+		"MAJ_TTR": 0,
+		"IC_TTR": 0,
+		"FL_TTR": 0.4461538461538462,
+		"J_TTR": 0.35135135135135137,
+		"E_TTR": 0.6086956521739131,
+		"X_TTR": 0.8,
+		"lemma_RTTR": 7.47358986395062,
+		"CL_RTTR": 6.638018615463541,
+		"NL_RTTR": 5.091168824543142,
+		"NN_RTTR": 5.091168824543142,
+		"NNG_RTTR": 4.58530260724415,
+		"NNP_RTTR": 0.5773502691896258,
+		"NNB_RTTR": 2.2677868380553634,
+		"NP_RTTR": 0,
+		"NR_RTTR": 0,
+		"VL_RTTR": 3.753259453027346,
+		"VV_RTTR": 2.2677868380553634,
+		"VA_RTTR": 2.5298221281347035,
+		"ML_RTTR": 2.041241452319315,
+		"MM_RTTR": 0,
+		"MA_RTTR": 2.041241452319315,
+		"MAJ_RTTR": 0,
+		"IC_RTTR": 0,
+		"FL_RTTR": 3.5970073030870453,
+		"J_RTTR": 2.137186834969645,
+		"E_RTTR": 2.919201796799047,
+		"X_RTTR": 1.7888543819998317,
+		"lemma_CTTR": 5.284626072606531,
+		"CL_CTTR": 4.693787976636807,
+		"NL_CTTR": 3.6,
+		"NN_CTTR": 3.6,
+		"NNG_CTTR": 3.2422985673746947,
+		"NNP_CTTR": 0.4082482904638631,
+		"NNB_CTTR": 1.6035674514745464,
+		"NP_CTTR": 0,
+		"NR_CTTR": 0,
+		"VL_CTTR": 2.6539552107881486,
+		"VV_CTTR": 1.6035674514745464,
+		"VA_CTTR": 1.7888543819998317,
+		"ML_CTTR": 1.4433756729740645,
+		"MM_CTTR": 0,
+		"MA_CTTR": 1.4433756729740645,
+		"MAJ_CTTR": 0,
+		"IC_CTTR": 0,
+		"FL_CTTR": 2.5434682559903847,
+		"J_CTTR": 1.5112193036696506,
+		"E_CTTR": 2.06418738616856,
+		"X_CTTR": 1.2649110640673518,
+		"lemma_MSTTR": 0.8466666666666667,
+		"CL_MSTTR": 0.8,
+		"NL_MSTTR": 0.72,
+		"NN_MSTTR": 0.72,
+		"NNG_MSTTR": 0.725,
+		"NNP_MSTTR": 0.3333333333333333,
+		"NNB_MSTTR": 0.8571428571428571,
+		"NP_MSTTR": 0,
+		"NR_MSTTR": 0,
+		"VL_MSTTR": 0.782608695652174,
+		"VV_MSTTR": 0.8571428571428571,
+		"VA_MSTTR": 0.8,
+		"ML_MSTTR": 0.8333333333333334,
+		"MM_MSTTR": 0,
+		"MA_MSTTR": 0.8333333333333334,
+		"MAJ_MSTTR": 0,
+		"IC_MSTTR": 0,
+		"FL_MSTTR": 0.48,
+		"J_MSTTR": 0.35135135135135137,
+		"E_MSTTR": 0.6086956521739131,
+		"X_MSTTR": 0.8,
+		"lemma_MATTR": 0.8420689655172415,
+		"CL_MATTR": 0.8579999999999998,
+		"NL_MATTR": 0.72,
+		"NN_MATTR": 0.72,
+		"NNG_MATTR": 0.725,
+		"NNP_MATTR": 0.3333333333333333,
+		"NNB_MATTR": 0.8571428571428571,
+		"NP_MATTR": 0,
+		"NR_MATTR": 0,
+		"VL_MATTR": 0.782608695652174,
+		"VV_MATTR": 0.8571428571428571,
+		"VA_MATTR": 0.8,
+		"ML_MATTR": 0.8333333333333334,
+		"MM_MATTR": 0,
+		"MA_MATTR": 0.8333333333333334,
+		"MAJ_MATTR": 0,
+		"IC_MATTR": 0,
+		"FL_MATTR": 0.4924999999999998,
+		"J_MATTR": 0.35135135135135137,
+		"E_MATTR": 0.6086956521739131,
+		"X_MATTR": 0.8,
+		"lemma_MTLD": 82.8544282881692,
+		"CL_MTLD": 87.374,
+		"NL_MTLD": 50.0,
+		"NN_MTLD": 50.0,
+		"NNG_MTLD": 32.03030303030303,
+		"NNP_MTLD": 1.26,
+		"NNB_MTLD": 13.719999999999997,
+		"NP_MTLD": 0.0,
+		"NR_MTLD": 0.0,
+		"VL_MTLD": 29.624000000000006,
+		"VV_MTLD": 13.719999999999997,
+		"VA_MTLD": 14.000000000000004,
+		"ML_MTLD": 10.080000000000004,
+		"MM_MTLD": 0.0,
+		"MA_MTLD": 10.080000000000004,
+		"MAJ_MTLD": 0.0,
+		"IC_MTLD": 0.0,
+		"FL_MTLD": 24.388942974061123,
+		"J_MTLD": 12.333333333333334,
+		"E_MTLD": 14.630941039483437,
+		"X_MTLD": 7.000000000000002,
+		"lemma_VOCDD": 83.84296134171123,
+		"CL_VOCDD": 96.09494342050267,
+		"NL_VOCDD": 0,
+		"NN_VOCDD": 0,
+		"NNG_VOCDD": 0,
+		"NNP_VOCDD": 0,
+		"NNB_VOCDD": 0,
+		"NP_VOCDD": 0,
+		"NR_VOCDD": 0,
+		"VL_VOCDD": 0,
+		"VV_VOCDD": 0,
+		"VA_VOCDD": 0,
+		"ML_VOCDD": 0,
+		"MM_VOCDD": 0,
+		"MA_VOCDD": 0,
+		"MAJ_VOCDD": 0,
+		"IC_VOCDD": 0,
+		"FL_VOCDD": 14.792892112027161,
+		"J_VOCDD": 0,
+		"E_VOCDD": 0,
+		"X_VOCDD": 0,
+		"lemma_HDD": 0.827663699091934,
+		"CL_HDD": 0.8447140245941038,
+		"NL_HDD": 0.750937907077725,
+		"NN_HDD": 0.750937907077725,
+		"NNG_HDD": 0.0,
+		"NNP_HDD": 0.0,
+		"NNB_HDD": 0.0,
+		"NP_HDD": 0.0,
+		"NR_HDD": 0.0,
+		"VL_HDD": 0.0,
+		"VV_HDD": 0.0,
+		"VA_HDD": 0.0,
+		"ML_HDD": 0.0,
+		"MM_HDD": 0.0,
+		"MA_HDD": 0.0,
+		"MAJ_HDD": 0.0,
+		"IC_HDD": 0.0,
+		"FL_HDD": 0.559011501804455,
+		"J_HDD": 0.0,
+		"E_HDD": 0.0,
+		"X_HDD": 0.0
+	},
+	"similarity": {
+		"avgSentSimilarity": 0.21429699659347534,
+		"topicConsistency": 0.6433
+	},
+	"adjacency": {
+		"adjacent_sentence_overlap_all_lemmas": 119,
+		"adjacent_sentence_overlap_all_lemmas_normed": 4,
+		"binary_adjacent_sentence_overlap_all_lemmas": 4,
+		"adjacent_two_sentence_overlap_all_lemmas": 81,
+		"adjacent_two_sentence_overlap_all_lemmas_normed": 3,
+		"binary_adjacent_two_sentence_overlap_all_lemmas": 3,
+		"adjacent_sentence_overlap_content_lemmas": 60,
+		"adjacent_sentence_overlap_content_lemmas_normed": 4,
+		"binary_adjacent_sentence_overlap_content_lemmas": 4,
+		"adjacent_two_sentence_overlap_content_lemmas": 40,
+		"adjacent_two_sentence_overlap_content_lemmas_normed": 3,
+		"binary_adjacent_two_sentence_overlap_content_lemmas": 2,
+		"adjacent_sentence_overlap_function_lemmas": 48,
+		"adjacent_sentence_overlap_function_lemmas_normed": 4,
+		"binary_adjacent_sentence_overlap_function_lemmas": 4,
+		"adjacent_two_sentence_overlap_function_lemmas": 34,
+		"adjacent_two_sentence_overlap_function_lemmas_normed": 3,
+		"binary_adjacent_two_sentence_overlap_function_lemmas": 3,
+		"adjacent_sentence_overlap_noun_lemmas": 43,
+		"adjacent_sentence_overlap_noun_lemmas_normed": 4,
+		"binary_adjacent_sentence_overlap_noun_lemmas": 4,
+		"adjacent_two_sentence_overlap_noun_lemmas": 31,
+		"adjacent_two_sentence_overlap_noun_lemmas_normed": 3,
+		"binary_adjacent_two_sentence_overlap_noun_lemmas": 2,
+		"adjacent_sentence_overlap_verb_lemmas": 17,
+		"adjacent_sentence_overlap_verb_lemmas_normed": 4,
+		"binary_adjacent_sentence_overlap_verb_lemmas": 2,
+		"adjacent_two_sentence_overlap_verb_lemmas": 9,
+		"adjacent_two_sentence_overlap_verb_lemmas_normed": 3,
+		"binary_adjacent_two_sentence_overlap_verb_lemmas": 1,
+		"adjacent_sentence_overlap_adjective_lemmas": 9,
+		"adjacent_sentence_overlap_adjective_lemmas_normed": 4,
+		"binary_adjacent_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas": 6,
+		"adjacent_two_sentence_overlap_adjective_lemmas_normed": 3,
+		"binary_adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_sentence_overlap_adverb_lemmas": 2,
+		"adjacent_sentence_overlap_adverb_lemmas_normed": 1,
+		"binary_adjacent_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adverb_lemmas": 0
+	},
+	"basic_count": {
+		"para_Cnt": 1,
+		"sentence_Cnt": 5,
+		"word_Cnt": 75,
+		"morph_Cnt": 165,
+		"char_Cnt": 232,
+		"CL_Cnt": 79,
+		"NL_Cnt": 50,
+		"NN_Cnt": 50,
+		"NNG_Cnt": 40,
+		"NNP_Cnt": 3,
+		"NNB_Cnt": 7,
+		"NP_Cnt": 0,
+		"NP_People_Cnt": 0,
+		"NP_Things_Cnt": 0,
+		"NR_Cnt": 0,
+		"VL_Cnt": 23,
+		"VV_Cnt": 7,
+		"VA_Cnt": 10,
+		"VX_Cnt": 2,
+		"VCP_Cnt": 3,
+		"VCN_Cnt": 1,
+		"ML_Cnt": 6,
+		"MA_Cnt": 0,
+		"MM_Cnt": 0,
+		"FL_Cnt": 65,
+		"J_Cnt": 37,
+		"E_Cnt": 23,
+		"X_Cnt": 5,
+		"IC_Cnt": 0
+	},
+	"basic_density": {
+		"CL_Den": 0.47878787878787876,
+		"FL_Den": 0.3939393939393939,
+		"NL_Den": 0.30303030303030304,
+		"NNGL_Den": 0.24242424242424243,
+		"NNPL_Den": 0.01818181818181818,
+		"NNBL_Den": 0.04242424242424243,
+		"NPL_Den": 0.0,
+		"NML_Den": 0.0,
+		"VL_Den": 0.1393939393939394,
+		"VVL_Den": 0.04242424242424243,
+		"VAL_Den": 0.06060606060606061,
+		"ML_Den": 0.03636363636363636,
+		"MML_Den": 0.0,
+		"MAL_Den": 0.0,
+		"JL_Den": 0.22424242424242424,
+		"EL_Den": 0.1393939393939394,
+		"XL_Den": 0.030303030303030304,
+		"ITL_Den": 0.0,
+		"NCL_Den": 0.6329113924050633,
+		"NNCL_Den": 0.5063291139240507,
+		"NNGCL_Den": 0.0379746835443038,
+		"NNBCL_Den": 0.08860759493670886,
+		"NPCL_Den": 0.0,
+		"NMCL_Den": 0.0,
+		"VCL_Den": 0.2911392405063291,
+		"VVCL_Den": 0.08860759493670886,
+		"VACL_Den": 0.12658227848101267,
+		"MCL_Den": 0.0759493670886076,
+		"MMCL_Den": 0.0,
+		"MACL_Den": 0.0,
+		"INCL_Den": 0.0,
+		"JFL_Den": 0.5692307692307692,
+		"EFL_Den": 0.35384615384615387,
+		"XFL_Den": 0.07692307692307693
+	},
+	"basic_level": {
+		"morph_LenAvg": 1.4727272727272727,
+		"morph_LenStd": 0.598621004841975,
+		"word_LenAvg": 2.973333333333333,
+		"word_LenStd": 1.1192060678097762
+	},
+	"basic_list": {
+		"NL_Lst": [
+			[
+				0,
+				"금성",
+				"NNP",
+				"금성은 태양계의 두 번째, 지구와는 가장 가까운 행성이다."
+			],
+			[
+				1,
+				"태양",
+				"NNG",
+				"금성은 태양계의 두 번째, 지구와는 가장 가까운 행성이다."
+			],
+			[
+				2,
+				"번",
+				"NNB",
+				"금성은 태양계의 두 번째, 지구와는 가장 가까운 행성이다."
+			],
+			[
+				3,
+				"지구",
+				"NNG",
+				"금성은 태양계의 두 번째, 지구와는 가장 가까운 행성이다."
+			],
+			[
+				4,
+				"행성",
+				"NNG",
+				"금성은 태양계의 두 번째, 지구와는 가장 가까운 행성이다."
+			],
+			[
+				5,
+				"크기",
+				"NNG",
+				"그 크기와 질량이 지구와 비슷하며 비슷한 시기에 때문에 '쌍둥이 행성'으로 불리기도 하지만, 사실 지구의 환경과는 매우 다르다."
+			],
+			[
+				6,
+				"질량",
+				"NNG",
+				"그 크기와 질량이 지구와 비슷하며 비슷한 시기에 때문에 '쌍둥이 행성'으로 불리기도 하지만, 사실 지구의 환경과는 매우 다르다."
+			],
+			[
+				7,
+				"지구",
+				"NNG",
+				"그 크기와 질량이 지구와 비슷하며 비슷한 시기에 때문에 '쌍둥이 행성'으로 불리기도 하지만, 사실 지구의 환경과는 매우 다르다."
+			],
+			[
+				8,
+				"시기",
+				"NNG",
+				"그 크기와 질량이 지구와 비슷하며 비슷한 시기에 때문에 '쌍둥이 행성'으로 불리기도 하지만, 사실 지구의 환경과는 매우 다르다."
+			],
+			[
+				9,
+				"때문",
+				"NNB",
+				"그 크기와 질량이 지구와 비슷하며 비슷한 시기에 때문에 '쌍둥이 행성'으로 불리기도 하지만, 사실 지구의 환경과는 매우 다르다."
+			],
+			[
+				10,
+				"쌍둥이",
+				"NNG",
+				"그 크기와 질량이 지구와 비슷하며 비슷한 시기에 때문에 '쌍둥이 행성'으로 불리기도 하지만, 사실 지구의 환경과는 매우 다르다."
+			],
+			[
+				11,
+				"행성",
+				"NNG",
+				"그 크기와 질량이 지구와 비슷하며 비슷한 시기에 때문에 '쌍둥이 행성'으로 불리기도 하지만, 사실 지구의 환경과는 매우 다르다."
+			],
+			[
+				12,
+				"지구",
+				"NNG",
+				"그 크기와 질량이 지구와 비슷하며 비슷한 시기에 때문에 '쌍둥이 행성'으로 불리기도 하지만, 사실 지구의 환경과는 매우 다르다."
+			],
+			[
+				13,
+				"환경",
+				"NNG",
+				"그 크기와 질량이 지구와 비슷하며 비슷한 시기에 때문에 '쌍둥이 행성'으로 불리기도 하지만, 사실 지구의 환경과는 매우 다르다."
+			],
+			[
+				14,
+				"금성",
+				"NNP",
+				"금성의 대기는 온실기체인 이산화탄소가 두껍게 덮고 있어 표면 온도는 최대 500도에, 기압은 지구의 90배에 달하는 것으로 알려진다."
+			],
+			[
+				15,
+				"대기",
+				"NNG",
+				"금성의 대기는 온실기체인 이산화탄소가 두껍게 덮고 있어 표면 온도는 최대 500도에, 기압은 지구의 90배에 달하는 것으로 알려진다."
+			],
+			[
+				16,
+				"온실",
+				"NNG",
+				"금성의 대기는 온실기체인 이산화탄소가 두껍게 덮고 있어 표면 온도는 최대 500도에, 기압은 지구의 90배에 달하는 것으로 알려진다."
+			],
+			[
+				17,
+				"기체",
+				"NNG",
+				"금성의 대기는 온실기체인 이산화탄소가 두껍게 덮고 있어 표면 온도는 최대 500도에, 기압은 지구의 90배에 달하는 것으로 알려진다."
+			],
+			[
+				18,
+				"이산화",
+				"NNG",
+				"금성의 대기는 온실기체인 이산화탄소가 두껍게 덮고 있어 표면 온도는 최대 500도에, 기압은 지구의 90배에 달하는 것으로 알려진다."
+			],
+			[
+				19,
+				"탄소",
+				"NNG",
+				"금성의 대기는 온실기체인 이산화탄소가 두껍게 덮고 있어 표면 온도는 최대 500도에, 기압은 지구의 90배에 달하는 것으로 알려진다."
+			],
+			[
+				20,
+				"표면",
+				"NNG",
+				"금성의 대기는 온실기체인 이산화탄소가 두껍게 덮고 있어 표면 온도는 최대 500도에, 기압은 지구의 90배에 달하는 것으로 알려진다."
+			],
+			[
+				21,
+				"온도",
+				"NNG",
+				"금성의 대기는 온실기체인 이산화탄소가 두껍게 덮고 있어 표면 온도는 최대 500도에, 기압은 지구의 90배에 달하는 것으로 알려진다."
+			],
+			[
+				22,
+				"최대",
+				"NNG",
+				"금성의 대기는 온실기체인 이산화탄소가 두껍게 덮고 있어 표면 온도는 최대 500도에, 기압은 지구의 90배에 달하는 것으로 알려진다."
+			],
+			[
+				23,
+				"도",
+				"NNB",
+				"금성의 대기는 온실기체인 이산화탄소가 두껍게 덮고 있어 표면 온도는 최대 500도에, 기압은 지구의 90배에 달하는 것으로 알려진다."
+			],
+			[
+				24,
+				"기압",
+				"NNG",
+				"금성의 대기는 온실기체인 이산화탄소가 두껍게 덮고 있어 표면 온도는 최대 500도에, 기압은 지구의 90배에 달하는 것으로 알려진다."
+			],
+			[
+				25,
+				"지구",
+				"NNG",
+				"금성의 대기는 온실기체인 이산화탄소가 두껍게 덮고 있어 표면 온도는 최대 500도에, 기압은 지구의 90배에 달하는 것으로 알려진다."
+			],
+			[
+				26,
+				"배",
+				"NNG",
+				"금성의 대기는 온실기체인 이산화탄소가 두껍게 덮고 있어 표면 온도는 최대 500도에, 기압은 지구의 90배에 달하는 것으로 알려진다."
+			],
+			[
+				27,
+				"것",
+				"NNB",
+				"금성의 대기는 온실기체인 이산화탄소가 두껍게 덮고 있어 표면 온도는 최대 500도에, 기압은 지구의 90배에 달하는 것으로 알려진다."
+			],
+			[
+				28,
+				"태양",
+				"NNG",
+				"태양과의 거리가 가장 가까운 수성이 단위 면적당 4배나 많은 태양 에너지를 받지만, 금성의 표면 온도가 훨씬 더 높을 정도다."
+			],
+			[
+				29,
+				"거리",
+				"NNG",
+				"태양과의 거리가 가장 가까운 수성이 단위 면적당 4배나 많은 태양 에너지를 받지만, 금성의 표면 온도가 훨씬 더 높을 정도다."
+			],
+			[
+				30,
+				"수성",
+				"NNG",
+				"태양과의 거리가 가장 가까운 수성이 단위 면적당 4배나 많은 태양 에너지를 받지만, 금성의 표면 온도가 훨씬 더 높을 정도다."
+			],
+			[
+				31,
+				"단위",
+				"NNG",
+				"태양과의 거리가 가장 가까운 수성이 단위 면적당 4배나 많은 태양 에너지를 받지만, 금성의 표면 온도가 훨씬 더 높을 정도다."
+			],
+			[
+				32,
+				"면적",
+				"NNG",
+				"태양과의 거리가 가장 가까운 수성이 단위 면적당 4배나 많은 태양 에너지를 받지만, 금성의 표면 온도가 훨씬 더 높을 정도다."
+			],
+			[
+				33,
+				"배",
+				"NNG",
+				"태양과의 거리가 가장 가까운 수성이 단위 면적당 4배나 많은 태양 에너지를 받지만, 금성의 표면 온도가 훨씬 더 높을 정도다."
+			],
+			[
+				34,
+				"태양",
+				"NNG",
+				"태양과의 거리가 가장 가까운 수성이 단위 면적당 4배나 많은 태양 에너지를 받지만, 금성의 표면 온도가 훨씬 더 높을 정도다."
+			],
+			[
+				35,
+				"에너지",
+				"NNG",
+				"태양과의 거리가 가장 가까운 수성이 단위 면적당 4배나 많은 태양 에너지를 받지만, 금성의 표면 온도가 훨씬 더 높을 정도다."
+			],
+			[
+				36,
+				"금성",
+				"NNP",
+				"태양과의 거리가 가장 가까운 수성이 단위 면적당 4배나 많은 태양 에너지를 받지만, 금성의 표면 온도가 훨씬 더 높을 정도다."
+			],
+			[
+				37,
+				"표면",
+				"NNG",
+				"태양과의 거리가 가장 가까운 수성이 단위 면적당 4배나 많은 태양 에너지를 받지만, 금성의 표면 온도가 훨씬 더 높을 정도다."
+			],
+			[
+				38,
+				"온도",
+				"NNG",
+				"태양과의 거리가 가장 가까운 수성이 단위 면적당 4배나 많은 태양 에너지를 받지만, 금성의 표면 온도가 훨씬 더 높을 정도다."
+			],
+			[
+				39,
+				"정도",
+				"NNG",
+				"태양과의 거리가 가장 가까운 수성이 단위 면적당 4배나 많은 태양 에너지를 받지만, 금성의 표면 온도가 훨씬 더 높을 정도다."
+			],
+			[
+				40,
+				"고온",
+				"NNG",
+				"이렇게 고온·고압의 극한 환경 때문에 생명체는 살 수 없을 뿐만 아니라, '태양계의 불지옥'이라고도 불린다."
+			],
+			[
+				41,
+				"고압",
+				"NNG",
+				"이렇게 고온·고압의 극한 환경 때문에 생명체는 살 수 없을 뿐만 아니라, '태양계의 불지옥'이라고도 불린다."
+			],
+			[
+				42,
+				"극한",
+				"NNG",
+				"이렇게 고온·고압의 극한 환경 때문에 생명체는 살 수 없을 뿐만 아니라, '태양계의 불지옥'이라고도 불린다."
+			],
+			[
+				43,
+				"환경",
+				"NNG",
+				"이렇게 고온·고압의 극한 환경 때문에 생명체는 살 수 없을 뿐만 아니라, '태양계의 불지옥'이라고도 불린다."
+			],
+			[
+				44,
+				"때문",
+				"NNB",
+				"이렇게 고온·고압의 극한 환경 때문에 생명체는 살 수 없을 뿐만 아니라, '태양계의 불지옥'이라고도 불린다."
+			],
+			[
+				45,
+				"생명체",
+				"NNG",
+				"이렇게 고온·고압의 극한 환경 때문에 생명체는 살 수 없을 뿐만 아니라, '태양계의 불지옥'이라고도 불린다."
+			],
+			[
+				46,
+				"수",
+				"NNB",
+				"이렇게 고온·고압의 극한 환경 때문에 생명체는 살 수 없을 뿐만 아니라, '태양계의 불지옥'이라고도 불린다."
+			],
+			[
+				47,
+				"뿐",
+				"NNB",
+				"이렇게 고온·고압의 극한 환경 때문에 생명체는 살 수 없을 뿐만 아니라, '태양계의 불지옥'이라고도 불린다."
+			],
+			[
+				48,
+				"태양",
+				"NNG",
+				"이렇게 고온·고압의 극한 환경 때문에 생명체는 살 수 없을 뿐만 아니라, '태양계의 불지옥'이라고도 불린다."
+			],
+			[
+				49,
+				"지옥",
+				"NNG",
+				"이렇게 고온·고압의 극한 환경 때문에 생명체는 살 수 없을 뿐만 아니라, '태양계의 불지옥'이라고도 불린다."
+			]
+		],
+		"NN_Lst": [
+			[
+				0,
+				"금성",
+				"NNP",
+				"금성은 태양계의 두 번째, 지구와는 가장 가까운 행성이다."
+			],
+			[
+				1,
+				"태양",
+				"NNG",
+				"금성은 태양계의 두 번째, 지구와는 가장 가까운 행성이다."
+			],
+			[
+				2,
+				"번",
+				"NNB",
+				"금성은 태양계의 두 번째, 지구와는 가장 가까운 행성이다."
+			],
+			[
+				3,
+				"지구",
+				"NNG",
+				"금성은 태양계의 두 번째, 지구와는 가장 가까운 행성이다."
+			],
+			[
+				4,
+				"행성",
+				"NNG",
+				"금성은 태양계의 두 번째, 지구와는 가장 가까운 행성이다."
+			],
+			[
+				5,
+				"크기",
+				"NNG",
+				"그 크기와 질량이 지구와 비슷하며 비슷한 시기에 때문에 '쌍둥이 행성'으로 불리기도 하지만, 사실 지구의 환경과는 매우 다르다."
+			],
+			[
+				6,
+				"질량",
+				"NNG",
+				"그 크기와 질량이 지구와 비슷하며 비슷한 시기에 때문에 '쌍둥이 행성'으로 불리기도 하지만, 사실 지구의 환경과는 매우 다르다."
+			],
+			[
+				7,
+				"지구",
+				"NNG",
+				"그 크기와 질량이 지구와 비슷하며 비슷한 시기에 때문에 '쌍둥이 행성'으로 불리기도 하지만, 사실 지구의 환경과는 매우 다르다."
+			],
+			[
+				8,
+				"시기",
+				"NNG",
+				"그 크기와 질량이 지구와 비슷하며 비슷한 시기에 때문에 '쌍둥이 행성'으로 불리기도 하지만, 사실 지구의 환경과는 매우 다르다."
+			],
+			[
+				9,
+				"때문",
+				"NNB",
+				"그 크기와 질량이 지구와 비슷하며 비슷한 시기에 때문에 '쌍둥이 행성'으로 불리기도 하지만, 사실 지구의 환경과는 매우 다르다."
+			],
+			[
+				10,
+				"쌍둥이",
+				"NNG",
+				"그 크기와 질량이 지구와 비슷하며 비슷한 시기에 때문에 '쌍둥이 행성'으로 불리기도 하지만, 사실 지구의 환경과는 매우 다르다."
+			],
+			[
+				11,
+				"행성",
+				"NNG",
+				"그 크기와 질량이 지구와 비슷하며 비슷한 시기에 때문에 '쌍둥이 행성'으로 불리기도 하지만, 사실 지구의 환경과는 매우 다르다."
+			],
+			[
+				12,
+				"지구",
+				"NNG",
+				"그 크기와 질량이 지구와 비슷하며 비슷한 시기에 때문에 '쌍둥이 행성'으로 불리기도 하지만, 사실 지구의 환경과는 매우 다르다."
+			],
+			[
+				13,
+				"환경",
+				"NNG",
+				"그 크기와 질량이 지구와 비슷하며 비슷한 시기에 때문에 '쌍둥이 행성'으로 불리기도 하지만, 사실 지구의 환경과는 매우 다르다."
+			],
+			[
+				14,
+				"금성",
+				"NNP",
+				"금성의 대기는 온실기체인 이산화탄소가 두껍게 덮고 있어 표면 온도는 최대 500도에, 기압은 지구의 90배에 달하는 것으로 알려진다."
+			],
+			[
+				15,
+				"대기",
+				"NNG",
+				"금성의 대기는 온실기체인 이산화탄소가 두껍게 덮고 있어 표면 온도는 최대 500도에, 기압은 지구의 90배에 달하는 것으로 알려진다."
+			],
+			[
+				16,
+				"온실",
+				"NNG",
+				"금성의 대기는 온실기체인 이산화탄소가 두껍게 덮고 있어 표면 온도는 최대 500도에, 기압은 지구의 90배에 달하는 것으로 알려진다."
+			],
+			[
+				17,
+				"기체",
+				"NNG",
+				"금성의 대기는 온실기체인 이산화탄소가 두껍게 덮고 있어 표면 온도는 최대 500도에, 기압은 지구의 90배에 달하는 것으로 알려진다."
+			],
+			[
+				18,
+				"이산화",
+				"NNG",
+				"금성의 대기는 온실기체인 이산화탄소가 두껍게 덮고 있어 표면 온도는 최대 500도에, 기압은 지구의 90배에 달하는 것으로 알려진다."
+			],
+			[
+				19,
+				"탄소",
+				"NNG",
+				"금성의 대기는 온실기체인 이산화탄소가 두껍게 덮고 있어 표면 온도는 최대 500도에, 기압은 지구의 90배에 달하는 것으로 알려진다."
+			],
+			[
+				20,
+				"표면",
+				"NNG",
+				"금성의 대기는 온실기체인 이산화탄소가 두껍게 덮고 있어 표면 온도는 최대 500도에, 기압은 지구의 90배에 달하는 것으로 알려진다."
+			],
+			[
+				21,
+				"온도",
+				"NNG",
+				"금성의 대기는 온실기체인 이산화탄소가 두껍게 덮고 있어 표면 온도는 최대 500도에, 기압은 지구의 90배에 달하는 것으로 알려진다."
+			],
+			[
+				22,
+				"최대",
+				"NNG",
+				"금성의 대기는 온실기체인 이산화탄소가 두껍게 덮고 있어 표면 온도는 최대 500도에, 기압은 지구의 90배에 달하는 것으로 알려진다."
+			],
+			[
+				23,
+				"도",
+				"NNB",
+				"금성의 대기는 온실기체인 이산화탄소가 두껍게 덮고 있어 표면 온도는 최대 500도에, 기압은 지구의 90배에 달하는 것으로 알려진다."
+			],
+			[
+				24,
+				"기압",
+				"NNG",
+				"금성의 대기는 온실기체인 이산화탄소가 두껍게 덮고 있어 표면 온도는 최대 500도에, 기압은 지구의 90배에 달하는 것으로 알려진다."
+			],
+			[
+				25,
+				"지구",
+				"NNG",
+				"금성의 대기는 온실기체인 이산화탄소가 두껍게 덮고 있어 표면 온도는 최대 500도에, 기압은 지구의 90배에 달하는 것으로 알려진다."
+			],
+			[
+				26,
+				"배",
+				"NNG",
+				"금성의 대기는 온실기체인 이산화탄소가 두껍게 덮고 있어 표면 온도는 최대 500도에, 기압은 지구의 90배에 달하는 것으로 알려진다."
+			],
+			[
+				27,
+				"것",
+				"NNB",
+				"금성의 대기는 온실기체인 이산화탄소가 두껍게 덮고 있어 표면 온도는 최대 500도에, 기압은 지구의 90배에 달하는 것으로 알려진다."
+			],
+			[
+				28,
+				"태양",
+				"NNG",
+				"태양과의 거리가 가장 가까운 수성이 단위 면적당 4배나 많은 태양 에너지를 받지만, 금성의 표면 온도가 훨씬 더 높을 정도다."
+			],
+			[
+				29,
+				"거리",
+				"NNG",
+				"태양과의 거리가 가장 가까운 수성이 단위 면적당 4배나 많은 태양 에너지를 받지만, 금성의 표면 온도가 훨씬 더 높을 정도다."
+			],
+			[
+				30,
+				"수성",
+				"NNG",
+				"태양과의 거리가 가장 가까운 수성이 단위 면적당 4배나 많은 태양 에너지를 받지만, 금성의 표면 온도가 훨씬 더 높을 정도다."
+			],
+			[
+				31,
+				"단위",
+				"NNG",
+				"태양과의 거리가 가장 가까운 수성이 단위 면적당 4배나 많은 태양 에너지를 받지만, 금성의 표면 온도가 훨씬 더 높을 정도다."
+			],
+			[
+				32,
+				"면적",
+				"NNG",
+				"태양과의 거리가 가장 가까운 수성이 단위 면적당 4배나 많은 태양 에너지를 받지만, 금성의 표면 온도가 훨씬 더 높을 정도다."
+			],
+			[
+				33,
+				"배",
+				"NNG",
+				"태양과의 거리가 가장 가까운 수성이 단위 면적당 4배나 많은 태양 에너지를 받지만, 금성의 표면 온도가 훨씬 더 높을 정도다."
+			],
+			[
+				34,
+				"태양",
+				"NNG",
+				"태양과의 거리가 가장 가까운 수성이 단위 면적당 4배나 많은 태양 에너지를 받지만, 금성의 표면 온도가 훨씬 더 높을 정도다."
+			],
+			[
+				35,
+				"에너지",
+				"NNG",
+				"태양과의 거리가 가장 가까운 수성이 단위 면적당 4배나 많은 태양 에너지를 받지만, 금성의 표면 온도가 훨씬 더 높을 정도다."
+			],
+			[
+				36,
+				"금성",
+				"NNP",
+				"태양과의 거리가 가장 가까운 수성이 단위 면적당 4배나 많은 태양 에너지를 받지만, 금성의 표면 온도가 훨씬 더 높을 정도다."
+			],
+			[
+				37,
+				"표면",
+				"NNG",
+				"태양과의 거리가 가장 가까운 수성이 단위 면적당 4배나 많은 태양 에너지를 받지만, 금성의 표면 온도가 훨씬 더 높을 정도다."
+			],
+			[
+				38,
+				"온도",
+				"NNG",
+				"태양과의 거리가 가장 가까운 수성이 단위 면적당 4배나 많은 태양 에너지를 받지만, 금성의 표면 온도가 훨씬 더 높을 정도다."
+			],
+			[
+				39,
+				"정도",
+				"NNG",
+				"태양과의 거리가 가장 가까운 수성이 단위 면적당 4배나 많은 태양 에너지를 받지만, 금성의 표면 온도가 훨씬 더 높을 정도다."
+			],
+			[
+				40,
+				"고온",
+				"NNG",
+				"이렇게 고온·고압의 극한 환경 때문에 생명체는 살 수 없을 뿐만 아니라, '태양계의 불지옥'이라고도 불린다."
+			],
+			[
+				41,
+				"고압",
+				"NNG",
+				"이렇게 고온·고압의 극한 환경 때문에 생명체는 살 수 없을 뿐만 아니라, '태양계의 불지옥'이라고도 불린다."
+			],
+			[
+				42,
+				"극한",
+				"NNG",
+				"이렇게 고온·고압의 극한 환경 때문에 생명체는 살 수 없을 뿐만 아니라, '태양계의 불지옥'이라고도 불린다."
+			],
+			[
+				43,
+				"환경",
+				"NNG",
+				"이렇게 고온·고압의 극한 환경 때문에 생명체는 살 수 없을 뿐만 아니라, '태양계의 불지옥'이라고도 불린다."
+			],
+			[
+				44,
+				"때문",
+				"NNB",
+				"이렇게 고온·고압의 극한 환경 때문에 생명체는 살 수 없을 뿐만 아니라, '태양계의 불지옥'이라고도 불린다."
+			],
+			[
+				45,
+				"생명체",
+				"NNG",
+				"이렇게 고온·고압의 극한 환경 때문에 생명체는 살 수 없을 뿐만 아니라, '태양계의 불지옥'이라고도 불린다."
+			],
+			[
+				46,
+				"수",
+				"NNB",
+				"이렇게 고온·고압의 극한 환경 때문에 생명체는 살 수 없을 뿐만 아니라, '태양계의 불지옥'이라고도 불린다."
+			],
+			[
+				47,
+				"뿐",
+				"NNB",
+				"이렇게 고온·고압의 극한 환경 때문에 생명체는 살 수 없을 뿐만 아니라, '태양계의 불지옥'이라고도 불린다."
+			],
+			[
+				48,
+				"태양",
+				"NNG",
+				"이렇게 고온·고압의 극한 환경 때문에 생명체는 살 수 없을 뿐만 아니라, '태양계의 불지옥'이라고도 불린다."
+			],
+			[
+				49,
+				"지옥",
+				"NNG",
+				"이렇게 고온·고압의 극한 환경 때문에 생명체는 살 수 없을 뿐만 아니라, '태양계의 불지옥'이라고도 불린다."
+			]
+		],
+		"NNG_Lst": [
+			[
+				0,
+				"태양",
+				"NNG",
+				"금성은 태양계의 두 번째, 지구와는 가장 가까운 행성이다."
+			],
+			[
+				1,
+				"지구",
+				"NNG",
+				"금성은 태양계의 두 번째, 지구와는 가장 가까운 행성이다."
+			],
+			[
+				2,
+				"행성",
+				"NNG",
+				"금성은 태양계의 두 번째, 지구와는 가장 가까운 행성이다."
+			],
+			[
+				3,
+				"크기",
+				"NNG",
+				"그 크기와 질량이 지구와 비슷하며 비슷한 시기에 때문에 '쌍둥이 행성'으로 불리기도 하지만, 사실 지구의 환경과는 매우 다르다."
+			],
+			[
+				4,
+				"질량",
+				"NNG",
+				"그 크기와 질량이 지구와 비슷하며 비슷한 시기에 때문에 '쌍둥이 행성'으로 불리기도 하지만, 사실 지구의 환경과는 매우 다르다."
+			],
+			[
+				5,
+				"지구",
+				"NNG",
+				"그 크기와 질량이 지구와 비슷하며 비슷한 시기에 때문에 '쌍둥이 행성'으로 불리기도 하지만, 사실 지구의 환경과는 매우 다르다."
+			],
+			[
+				6,
+				"시기",
+				"NNG",
+				"그 크기와 질량이 지구와 비슷하며 비슷한 시기에 때문에 '쌍둥이 행성'으로 불리기도 하지만, 사실 지구의 환경과는 매우 다르다."
+			],
+			[
+				7,
+				"쌍둥이",
+				"NNG",
+				"그 크기와 질량이 지구와 비슷하며 비슷한 시기에 때문에 '쌍둥이 행성'으로 불리기도 하지만, 사실 지구의 환경과는 매우 다르다."
+			],
+			[
+				8,
+				"행성",
+				"NNG",
+				"그 크기와 질량이 지구와 비슷하며 비슷한 시기에 때문에 '쌍둥이 행성'으로 불리기도 하지만, 사실 지구의 환경과는 매우 다르다."
+			],
+			[
+				9,
+				"지구",
+				"NNG",
+				"그 크기와 질량이 지구와 비슷하며 비슷한 시기에 때문에 '쌍둥이 행성'으로 불리기도 하지만, 사실 지구의 환경과는 매우 다르다."
+			],
+			[
+				10,
+				"환경",
+				"NNG",
+				"그 크기와 질량이 지구와 비슷하며 비슷한 시기에 때문에 '쌍둥이 행성'으로 불리기도 하지만, 사실 지구의 환경과는 매우 다르다."
+			],
+			[
+				11,
+				"대기",
+				"NNG",
+				"금성의 대기는 온실기체인 이산화탄소가 두껍게 덮고 있어 표면 온도는 최대 500도에, 기압은 지구의 90배에 달하는 것으로 알려진다."
+			],
+			[
+				12,
+				"온실",
+				"NNG",
+				"금성의 대기는 온실기체인 이산화탄소가 두껍게 덮고 있어 표면 온도는 최대 500도에, 기압은 지구의 90배에 달하는 것으로 알려진다."
+			],
+			[
+				13,
+				"기체",
+				"NNG",
+				"금성의 대기는 온실기체인 이산화탄소가 두껍게 덮고 있어 표면 온도는 최대 500도에, 기압은 지구의 90배에 달하는 것으로 알려진다."
+			],
+			[
+				14,
+				"이산화",
+				"NNG",
+				"금성의 대기는 온실기체인 이산화탄소가 두껍게 덮고 있어 표면 온도는 최대 500도에, 기압은 지구의 90배에 달하는 것으로 알려진다."
+			],
+			[
+				15,
+				"탄소",
+				"NNG",
+				"금성의 대기는 온실기체인 이산화탄소가 두껍게 덮고 있어 표면 온도는 최대 500도에, 기압은 지구의 90배에 달하는 것으로 알려진다."
+			],
+			[
+				16,
+				"표면",
+				"NNG",
+				"금성의 대기는 온실기체인 이산화탄소가 두껍게 덮고 있어 표면 온도는 최대 500도에, 기압은 지구의 90배에 달하는 것으로 알려진다."
+			],
+			[
+				17,
+				"온도",
+				"NNG",
+				"금성의 대기는 온실기체인 이산화탄소가 두껍게 덮고 있어 표면 온도는 최대 500도에, 기압은 지구의 90배에 달하는 것으로 알려진다."
+			],
+			[
+				18,
+				"최대",
+				"NNG",
+				"금성의 대기는 온실기체인 이산화탄소가 두껍게 덮고 있어 표면 온도는 최대 500도에, 기압은 지구의 90배에 달하는 것으로 알려진다."
+			],
+			[
+				19,
+				"기압",
+				"NNG",
+				"금성의 대기는 온실기체인 이산화탄소가 두껍게 덮고 있어 표면 온도는 최대 500도에, 기압은 지구의 90배에 달하는 것으로 알려진다."
+			],
+			[
+				20,
+				"지구",
+				"NNG",
+				"금성의 대기는 온실기체인 이산화탄소가 두껍게 덮고 있어 표면 온도는 최대 500도에, 기압은 지구의 90배에 달하는 것으로 알려진다."
+			],
+			[
+				21,
+				"배",
+				"NNG",
+				"금성의 대기는 온실기체인 이산화탄소가 두껍게 덮고 있어 표면 온도는 최대 500도에, 기압은 지구의 90배에 달하는 것으로 알려진다."
+			],
+			[
+				22,
+				"태양",
+				"NNG",
+				"태양과의 거리가 가장 가까운 수성이 단위 면적당 4배나 많은 태양 에너지를 받지만, 금성의 표면 온도가 훨씬 더 높을 정도다."
+			],
+			[
+				23,
+				"거리",
+				"NNG",
+				"태양과의 거리가 가장 가까운 수성이 단위 면적당 4배나 많은 태양 에너지를 받지만, 금성의 표면 온도가 훨씬 더 높을 정도다."
+			],
+			[
+				24,
+				"수성",
+				"NNG",
+				"태양과의 거리가 가장 가까운 수성이 단위 면적당 4배나 많은 태양 에너지를 받지만, 금성의 표면 온도가 훨씬 더 높을 정도다."
+			],
+			[
+				25,
+				"단위",
+				"NNG",
+				"태양과의 거리가 가장 가까운 수성이 단위 면적당 4배나 많은 태양 에너지를 받지만, 금성의 표면 온도가 훨씬 더 높을 정도다."
+			],
+			[
+				26,
+				"면적",
+				"NNG",
+				"태양과의 거리가 가장 가까운 수성이 단위 면적당 4배나 많은 태양 에너지를 받지만, 금성의 표면 온도가 훨씬 더 높을 정도다."
+			],
+			[
+				27,
+				"배",
+				"NNG",
+				"태양과의 거리가 가장 가까운 수성이 단위 면적당 4배나 많은 태양 에너지를 받지만, 금성의 표면 온도가 훨씬 더 높을 정도다."
+			],
+			[
+				28,
+				"태양",
+				"NNG",
+				"태양과의 거리가 가장 가까운 수성이 단위 면적당 4배나 많은 태양 에너지를 받지만, 금성의 표면 온도가 훨씬 더 높을 정도다."
+			],
+			[
+				29,
+				"에너지",
+				"NNG",
+				"태양과의 거리가 가장 가까운 수성이 단위 면적당 4배나 많은 태양 에너지를 받지만, 금성의 표면 온도가 훨씬 더 높을 정도다."
+			],
+			[
+				30,
+				"표면",
+				"NNG",
+				"태양과의 거리가 가장 가까운 수성이 단위 면적당 4배나 많은 태양 에너지를 받지만, 금성의 표면 온도가 훨씬 더 높을 정도다."
+			],
+			[
+				31,
+				"온도",
+				"NNG",
+				"태양과의 거리가 가장 가까운 수성이 단위 면적당 4배나 많은 태양 에너지를 받지만, 금성의 표면 온도가 훨씬 더 높을 정도다."
+			],
+			[
+				32,
+				"정도",
+				"NNG",
+				"태양과의 거리가 가장 가까운 수성이 단위 면적당 4배나 많은 태양 에너지를 받지만, 금성의 표면 온도가 훨씬 더 높을 정도다."
+			],
+			[
+				33,
+				"고온",
+				"NNG",
+				"이렇게 고온·고압의 극한 환경 때문에 생명체는 살 수 없을 뿐만 아니라, '태양계의 불지옥'이라고도 불린다."
+			],
+			[
+				34,
+				"고압",
+				"NNG",
+				"이렇게 고온·고압의 극한 환경 때문에 생명체는 살 수 없을 뿐만 아니라, '태양계의 불지옥'이라고도 불린다."
+			],
+			[
+				35,
+				"극한",
+				"NNG",
+				"이렇게 고온·고압의 극한 환경 때문에 생명체는 살 수 없을 뿐만 아니라, '태양계의 불지옥'이라고도 불린다."
+			],
+			[
+				36,
+				"환경",
+				"NNG",
+				"이렇게 고온·고압의 극한 환경 때문에 생명체는 살 수 없을 뿐만 아니라, '태양계의 불지옥'이라고도 불린다."
+			],
+			[
+				37,
+				"생명체",
+				"NNG",
+				"이렇게 고온·고압의 극한 환경 때문에 생명체는 살 수 없을 뿐만 아니라, '태양계의 불지옥'이라고도 불린다."
+			],
+			[
+				38,
+				"태양",
+				"NNG",
+				"이렇게 고온·고압의 극한 환경 때문에 생명체는 살 수 없을 뿐만 아니라, '태양계의 불지옥'이라고도 불린다."
+			],
+			[
+				39,
+				"지옥",
+				"NNG",
+				"이렇게 고온·고압의 극한 환경 때문에 생명체는 살 수 없을 뿐만 아니라, '태양계의 불지옥'이라고도 불린다."
+			]
+		],
+		"NNP_Lst": [
+			[
+				0,
+				"금성",
+				"NNP",
+				"금성은 태양계의 두 번째, 지구와는 가장 가까운 행성이다."
+			],
+			[
+				1,
+				"금성",
+				"NNP",
+				"금성의 대기는 온실기체인 이산화탄소가 두껍게 덮고 있어 표면 온도는 최대 500도에, 기압은 지구의 90배에 달하는 것으로 알려진다."
+			],
+			[
+				2,
+				"금성",
+				"NNP",
+				"태양과의 거리가 가장 가까운 수성이 단위 면적당 4배나 많은 태양 에너지를 받지만, 금성의 표면 온도가 훨씬 더 높을 정도다."
+			]
+		],
+		"NNB_Lst": [
+			[
+				0,
+				"번",
+				"NNB",
+				"금성은 태양계의 두 번째, 지구와는 가장 가까운 행성이다."
+			],
+			[
+				1,
+				"때문",
+				"NNB",
+				"그 크기와 질량이 지구와 비슷하며 비슷한 시기에 때문에 '쌍둥이 행성'으로 불리기도 하지만, 사실 지구의 환경과는 매우 다르다."
+			],
+			[
+				2,
+				"도",
+				"NNB",
+				"금성의 대기는 온실기체인 이산화탄소가 두껍게 덮고 있어 표면 온도는 최대 500도에, 기압은 지구의 90배에 달하는 것으로 알려진다."
+			],
+			[
+				3,
+				"것",
+				"NNB",
+				"금성의 대기는 온실기체인 이산화탄소가 두껍게 덮고 있어 표면 온도는 최대 500도에, 기압은 지구의 90배에 달하는 것으로 알려진다."
+			],
+			[
+				4,
+				"때문",
+				"NNB",
+				"이렇게 고온·고압의 극한 환경 때문에 생명체는 살 수 없을 뿐만 아니라, '태양계의 불지옥'이라고도 불린다."
+			],
+			[
+				5,
+				"수",
+				"NNB",
+				"이렇게 고온·고압의 극한 환경 때문에 생명체는 살 수 없을 뿐만 아니라, '태양계의 불지옥'이라고도 불린다."
+			],
+			[
+				6,
+				"뿐",
+				"NNB",
+				"이렇게 고온·고압의 극한 환경 때문에 생명체는 살 수 없을 뿐만 아니라, '태양계의 불지옥'이라고도 불린다."
+			]
+		],
+		"NP_Lst": [],
+		"NP_People_Lst": [],
+		"NP_Things_Lst": [],
+		"NR_Lst": [],
+		"VL_Lst": [
+			[
+				0,
+				"가깝",
+				"VA",
+				"금성은 태양계의 두 번째, 지구와는 가장 가까운 행성이다."
+			],
+			[
+				1,
+				"이",
+				"VCP",
+				"금성은 태양계의 두 번째, 지구와는 가장 가까운 행성이다."
+			],
+			[
+				2,
+				"비슷하",
+				"VA",
+				"그 크기와 질량이 지구와 비슷하며 비슷한 시기에 때문에 '쌍둥이 행성'으로 불리기도 하지만, 사실 지구의 환경과는 매우 다르다."
+			],
+			[
+				3,
+				"비슷하",
+				"VA",
+				"그 크기와 질량이 지구와 비슷하며 비슷한 시기에 때문에 '쌍둥이 행성'으로 불리기도 하지만, 사실 지구의 환경과는 매우 다르다."
+			],
+			[
+				4,
+				"불리",
+				"VV",
+				"그 크기와 질량이 지구와 비슷하며 비슷한 시기에 때문에 '쌍둥이 행성'으로 불리기도 하지만, 사실 지구의 환경과는 매우 다르다."
+			],
+			[
+				5,
+				"하",
+				"VX",
+				"그 크기와 질량이 지구와 비슷하며 비슷한 시기에 때문에 '쌍둥이 행성'으로 불리기도 하지만, 사실 지구의 환경과는 매우 다르다."
+			],
+			[
+				6,
+				"다르",
+				"VA",
+				"그 크기와 질량이 지구와 비슷하며 비슷한 시기에 때문에 '쌍둥이 행성'으로 불리기도 하지만, 사실 지구의 환경과는 매우 다르다."
+			],
+			[
+				7,
+				"이",
+				"VCP",
+				"금성의 대기는 온실기체인 이산화탄소가 두껍게 덮고 있어 표면 온도는 최대 500도에, 기압은 지구의 90배에 달하는 것으로 알려진다."
+			],
+			[
+				8,
+				"두껍",
+				"VA",
+				"금성의 대기는 온실기체인 이산화탄소가 두껍게 덮고 있어 표면 온도는 최대 500도에, 기압은 지구의 90배에 달하는 것으로 알려진다."
+			],
+			[
+				9,
+				"덮",
+				"VV",
+				"금성의 대기는 온실기체인 이산화탄소가 두껍게 덮고 있어 표면 온도는 최대 500도에, 기압은 지구의 90배에 달하는 것으로 알려진다."
+			],
+			[
+				10,
+				"있",
+				"VX",
+				"금성의 대기는 온실기체인 이산화탄소가 두껍게 덮고 있어 표면 온도는 최대 500도에, 기압은 지구의 90배에 달하는 것으로 알려진다."
+			],
+			[
+				11,
+				"달하",
+				"VV",
+				"금성의 대기는 온실기체인 이산화탄소가 두껍게 덮고 있어 표면 온도는 최대 500도에, 기압은 지구의 90배에 달하는 것으로 알려진다."
+			],
+			[
+				12,
+				"알려지",
+				"VV",
+				"금성의 대기는 온실기체인 이산화탄소가 두껍게 덮고 있어 표면 온도는 최대 500도에, 기압은 지구의 90배에 달하는 것으로 알려진다."
+			],
+			[
+				13,
+				"가깝",
+				"VA",
+				"태양과의 거리가 가장 가까운 수성이 단위 면적당 4배나 많은 태양 에너지를 받지만, 금성의 표면 온도가 훨씬 더 높을 정도다."
+			],
+			[
+				14,
+				"많",
+				"VA",
+				"태양과의 거리가 가장 가까운 수성이 단위 면적당 4배나 많은 태양 에너지를 받지만, 금성의 표면 온도가 훨씬 더 높을 정도다."
+			],
+			[
+				15,
+				"받",
+				"VV",
+				"태양과의 거리가 가장 가까운 수성이 단위 면적당 4배나 많은 태양 에너지를 받지만, 금성의 표면 온도가 훨씬 더 높을 정도다."
+			],
+			[
+				16,
+				"높",
+				"VA",
+				"태양과의 거리가 가장 가까운 수성이 단위 면적당 4배나 많은 태양 에너지를 받지만, 금성의 표면 온도가 훨씬 더 높을 정도다."
+			],
+			[
+				17,
+				"이",
+				"VCP",
+				"태양과의 거리가 가장 가까운 수성이 단위 면적당 4배나 많은 태양 에너지를 받지만, 금성의 표면 온도가 훨씬 더 높을 정도다."
+			],
+			[
+				18,
+				"이렇",
+				"VA",
+				"이렇게 고온·고압의 극한 환경 때문에 생명체는 살 수 없을 뿐만 아니라, '태양계의 불지옥'이라고도 불린다."
+			],
+			[
+				19,
+				"살",
+				"VV",
+				"이렇게 고온·고압의 극한 환경 때문에 생명체는 살 수 없을 뿐만 아니라, '태양계의 불지옥'이라고도 불린다."
+			],
+			[
+				20,
+				"없",
+				"VA",
+				"이렇게 고온·고압의 극한 환경 때문에 생명체는 살 수 없을 뿐만 아니라, '태양계의 불지옥'이라고도 불린다."
+			],
+			[
+				21,
+				"아니",
+				"VCN",
+				"이렇게 고온·고압의 극한 환경 때문에 생명체는 살 수 없을 뿐만 아니라, '태양계의 불지옥'이라고도 불린다."
+			],
+			[
+				22,
+				"불리",
+				"VV",
+				"이렇게 고온·고압의 극한 환경 때문에 생명체는 살 수 없을 뿐만 아니라, '태양계의 불지옥'이라고도 불린다."
+			]
+		],
+		"VV_Lst": [
+			[
+				0,
+				"불리",
+				"VV",
+				"그 크기와 질량이 지구와 비슷하며 비슷한 시기에 때문에 '쌍둥이 행성'으로 불리기도 하지만, 사실 지구의 환경과는 매우 다르다."
+			],
+			[
+				1,
+				"덮",
+				"VV",
+				"금성의 대기는 온실기체인 이산화탄소가 두껍게 덮고 있어 표면 온도는 최대 500도에, 기압은 지구의 90배에 달하는 것으로 알려진다."
+			],
+			[
+				2,
+				"달하",
+				"VV",
+				"금성의 대기는 온실기체인 이산화탄소가 두껍게 덮고 있어 표면 온도는 최대 500도에, 기압은 지구의 90배에 달하는 것으로 알려진다."
+			],
+			[
+				3,
+				"알려지",
+				"VV",
+				"금성의 대기는 온실기체인 이산화탄소가 두껍게 덮고 있어 표면 온도는 최대 500도에, 기압은 지구의 90배에 달하는 것으로 알려진다."
+			],
+			[
+				4,
+				"받",
+				"VV",
+				"태양과의 거리가 가장 가까운 수성이 단위 면적당 4배나 많은 태양 에너지를 받지만, 금성의 표면 온도가 훨씬 더 높을 정도다."
+			],
+			[
+				5,
+				"살",
+				"VV",
+				"이렇게 고온·고압의 극한 환경 때문에 생명체는 살 수 없을 뿐만 아니라, '태양계의 불지옥'이라고도 불린다."
+			],
+			[
+				6,
+				"불리",
+				"VV",
+				"이렇게 고온·고압의 극한 환경 때문에 생명체는 살 수 없을 뿐만 아니라, '태양계의 불지옥'이라고도 불린다."
+			]
+		],
+		"VA_Lst": [
+			[
+				0,
+				"가깝",
+				"VA",
+				"금성은 태양계의 두 번째, 지구와는 가장 가까운 행성이다."
+			],
+			[
+				1,
+				"비슷하",
+				"VA",
+				"그 크기와 질량이 지구와 비슷하며 비슷한 시기에 때문에 '쌍둥이 행성'으로 불리기도 하지만, 사실 지구의 환경과는 매우 다르다."
+			],
+			[
+				2,
+				"비슷하",
+				"VA",
+				"그 크기와 질량이 지구와 비슷하며 비슷한 시기에 때문에 '쌍둥이 행성'으로 불리기도 하지만, 사실 지구의 환경과는 매우 다르다."
+			],
+			[
+				3,
+				"다르",
+				"VA",
+				"그 크기와 질량이 지구와 비슷하며 비슷한 시기에 때문에 '쌍둥이 행성'으로 불리기도 하지만, 사실 지구의 환경과는 매우 다르다."
+			],
+			[
+				4,
+				"두껍",
+				"VA",
+				"금성의 대기는 온실기체인 이산화탄소가 두껍게 덮고 있어 표면 온도는 최대 500도에, 기압은 지구의 90배에 달하는 것으로 알려진다."
+			],
+			[
+				5,
+				"가깝",
+				"VA",
+				"태양과의 거리가 가장 가까운 수성이 단위 면적당 4배나 많은 태양 에너지를 받지만, 금성의 표면 온도가 훨씬 더 높을 정도다."
+			],
+			[
+				6,
+				"많",
+				"VA",
+				"태양과의 거리가 가장 가까운 수성이 단위 면적당 4배나 많은 태양 에너지를 받지만, 금성의 표면 온도가 훨씬 더 높을 정도다."
+			],
+			[
+				7,
+				"높",
+				"VA",
+				"태양과의 거리가 가장 가까운 수성이 단위 면적당 4배나 많은 태양 에너지를 받지만, 금성의 표면 온도가 훨씬 더 높을 정도다."
+			],
+			[
+				8,
+				"이렇",
+				"VA",
+				"이렇게 고온·고압의 극한 환경 때문에 생명체는 살 수 없을 뿐만 아니라, '태양계의 불지옥'이라고도 불린다."
+			],
+			[
+				9,
+				"없",
+				"VA",
+				"이렇게 고온·고압의 극한 환경 때문에 생명체는 살 수 없을 뿐만 아니라, '태양계의 불지옥'이라고도 불린다."
+			]
+		],
+		"VX_Lst": [
+			[
+				0,
+				"하",
+				"VX",
+				"그 크기와 질량이 지구와 비슷하며 비슷한 시기에 때문에 '쌍둥이 행성'으로 불리기도 하지만, 사실 지구의 환경과는 매우 다르다."
+			],
+			[
+				1,
+				"있",
+				"VX",
+				"금성의 대기는 온실기체인 이산화탄소가 두껍게 덮고 있어 표면 온도는 최대 500도에, 기압은 지구의 90배에 달하는 것으로 알려진다."
+			]
+		],
+		"VCP_Lst": [
+			[
+				0,
+				"이",
+				"VCP",
+				"금성은 태양계의 두 번째, 지구와는 가장 가까운 행성이다."
+			],
+			[
+				1,
+				"이",
+				"VCP",
+				"금성의 대기는 온실기체인 이산화탄소가 두껍게 덮고 있어 표면 온도는 최대 500도에, 기압은 지구의 90배에 달하는 것으로 알려진다."
+			],
+			[
+				2,
+				"이",
+				"VCP",
+				"태양과의 거리가 가장 가까운 수성이 단위 면적당 4배나 많은 태양 에너지를 받지만, 금성의 표면 온도가 훨씬 더 높을 정도다."
+			]
+		],
+		"VCN_Lst": [
+			[
+				0,
+				"아니",
+				"VCN",
+				"이렇게 고온·고압의 극한 환경 때문에 생명체는 살 수 없을 뿐만 아니라, '태양계의 불지옥'이라고도 불린다."
+			]
+		],
+		"ML_Lst": [
+			[
+				0,
+				"가장",
+				"MAG",
+				"금성은 태양계의 두 번째, 지구와는 가장 가까운 행성이다."
+			],
+			[
+				1,
+				"사실",
+				"MAG",
+				"그 크기와 질량이 지구와 비슷하며 비슷한 시기에 때문에 '쌍둥이 행성'으로 불리기도 하지만, 사실 지구의 환경과는 매우 다르다."
+			],
+			[
+				2,
+				"매우",
+				"MAG",
+				"그 크기와 질량이 지구와 비슷하며 비슷한 시기에 때문에 '쌍둥이 행성'으로 불리기도 하지만, 사실 지구의 환경과는 매우 다르다."
+			],
+			[
+				3,
+				"가장",
+				"MAG",
+				"태양과의 거리가 가장 가까운 수성이 단위 면적당 4배나 많은 태양 에너지를 받지만, 금성의 표면 온도가 훨씬 더 높을 정도다."
+			],
+			[
+				4,
+				"훨씬",
+				"MAG",
+				"태양과의 거리가 가장 가까운 수성이 단위 면적당 4배나 많은 태양 에너지를 받지만, 금성의 표면 온도가 훨씬 더 높을 정도다."
+			],
+			[
+				5,
+				"더",
+				"MAG",
+				"태양과의 거리가 가장 가까운 수성이 단위 면적당 4배나 많은 태양 에너지를 받지만, 금성의 표면 온도가 훨씬 더 높을 정도다."
+			]
+		],
+		"MA_Lst": [],
+		"MM_Lst": [],
+		"J_Lst": [
+			[
+				0,
+				"은",
+				"JX",
+				"금성은 태양계의 두 번째, 지구와는 가장 가까운 행성이다."
+			],
+			[
+				1,
+				"의",
+				"JKG",
+				"금성은 태양계의 두 번째, 지구와는 가장 가까운 행성이다."
+			],
+			[
+				2,
+				"와",
+				"JKB",
+				"금성은 태양계의 두 번째, 지구와는 가장 가까운 행성이다."
+			],
+			[
+				3,
+				"는",
+				"JX",
+				"금성은 태양계의 두 번째, 지구와는 가장 가까운 행성이다."
+			],
+			[
+				4,
+				"와",
+				"JC",
+				"그 크기와 질량이 지구와 비슷하며 비슷한 시기에 때문에 '쌍둥이 행성'으로 불리기도 하지만, 사실 지구의 환경과는 매우 다르다."
+			],
+			[
+				5,
+				"이",
+				"JKS",
+				"그 크기와 질량이 지구와 비슷하며 비슷한 시기에 때문에 '쌍둥이 행성'으로 불리기도 하지만, 사실 지구의 환경과는 매우 다르다."
+			],
+			[
+				6,
+				"와",
+				"JKB",
+				"그 크기와 질량이 지구와 비슷하며 비슷한 시기에 때문에 '쌍둥이 행성'으로 불리기도 하지만, 사실 지구의 환경과는 매우 다르다."
+			],
+			[
+				7,
+				"에",
+				"JKB",
+				"그 크기와 질량이 지구와 비슷하며 비슷한 시기에 때문에 '쌍둥이 행성'으로 불리기도 하지만, 사실 지구의 환경과는 매우 다르다."
+			],
+			[
+				8,
+				"에",
+				"JKB",
+				"그 크기와 질량이 지구와 비슷하며 비슷한 시기에 때문에 '쌍둥이 행성'으로 불리기도 하지만, 사실 지구의 환경과는 매우 다르다."
+			],
+			[
+				9,
+				"으로",
+				"JKB",
+				"그 크기와 질량이 지구와 비슷하며 비슷한 시기에 때문에 '쌍둥이 행성'으로 불리기도 하지만, 사실 지구의 환경과는 매우 다르다."
+			],
+			[
+				10,
+				"도",
+				"JX",
+				"그 크기와 질량이 지구와 비슷하며 비슷한 시기에 때문에 '쌍둥이 행성'으로 불리기도 하지만, 사실 지구의 환경과는 매우 다르다."
+			],
+			[
+				11,
+				"의",
+				"JKG",
+				"그 크기와 질량이 지구와 비슷하며 비슷한 시기에 때문에 '쌍둥이 행성'으로 불리기도 하지만, 사실 지구의 환경과는 매우 다르다."
+			],
+			[
+				12,
+				"과",
+				"JKB",
+				"그 크기와 질량이 지구와 비슷하며 비슷한 시기에 때문에 '쌍둥이 행성'으로 불리기도 하지만, 사실 지구의 환경과는 매우 다르다."
+			],
+			[
+				13,
+				"는",
+				"JX",
+				"그 크기와 질량이 지구와 비슷하며 비슷한 시기에 때문에 '쌍둥이 행성'으로 불리기도 하지만, 사실 지구의 환경과는 매우 다르다."
+			],
+			[
+				14,
+				"의",
+				"JKG",
+				"금성의 대기는 온실기체인 이산화탄소가 두껍게 덮고 있어 표면 온도는 최대 500도에, 기압은 지구의 90배에 달하는 것으로 알려진다."
+			],
+			[
+				15,
+				"는",
+				"JX",
+				"금성의 대기는 온실기체인 이산화탄소가 두껍게 덮고 있어 표면 온도는 최대 500도에, 기압은 지구의 90배에 달하는 것으로 알려진다."
+			],
+			[
+				16,
+				"가",
+				"JKS",
+				"금성의 대기는 온실기체인 이산화탄소가 두껍게 덮고 있어 표면 온도는 최대 500도에, 기압은 지구의 90배에 달하는 것으로 알려진다."
+			],
+			[
+				17,
+				"는",
+				"JX",
+				"금성의 대기는 온실기체인 이산화탄소가 두껍게 덮고 있어 표면 온도는 최대 500도에, 기압은 지구의 90배에 달하는 것으로 알려진다."
+			],
+			[
+				18,
+				"에",
+				"JKB",
+				"금성의 대기는 온실기체인 이산화탄소가 두껍게 덮고 있어 표면 온도는 최대 500도에, 기압은 지구의 90배에 달하는 것으로 알려진다."
+			],
+			[
+				19,
+				"은",
+				"JX",
+				"금성의 대기는 온실기체인 이산화탄소가 두껍게 덮고 있어 표면 온도는 최대 500도에, 기압은 지구의 90배에 달하는 것으로 알려진다."
+			],
+			[
+				20,
+				"의",
+				"JKG",
+				"금성의 대기는 온실기체인 이산화탄소가 두껍게 덮고 있어 표면 온도는 최대 500도에, 기압은 지구의 90배에 달하는 것으로 알려진다."
+			],
+			[
+				21,
+				"에",
+				"JKB",
+				"금성의 대기는 온실기체인 이산화탄소가 두껍게 덮고 있어 표면 온도는 최대 500도에, 기압은 지구의 90배에 달하는 것으로 알려진다."
+			],
+			[
+				22,
+				"으로",
+				"JKB",
+				"금성의 대기는 온실기체인 이산화탄소가 두껍게 덮고 있어 표면 온도는 최대 500도에, 기압은 지구의 90배에 달하는 것으로 알려진다."
+			],
+			[
+				23,
+				"과",
+				"JKB",
+				"태양과의 거리가 가장 가까운 수성이 단위 면적당 4배나 많은 태양 에너지를 받지만, 금성의 표면 온도가 훨씬 더 높을 정도다."
+			],
+			[
+				24,
+				"의",
+				"JKG",
+				"태양과의 거리가 가장 가까운 수성이 단위 면적당 4배나 많은 태양 에너지를 받지만, 금성의 표면 온도가 훨씬 더 높을 정도다."
+			],
+			[
+				25,
+				"가",
+				"JKS",
+				"태양과의 거리가 가장 가까운 수성이 단위 면적당 4배나 많은 태양 에너지를 받지만, 금성의 표면 온도가 훨씬 더 높을 정도다."
+			],
+			[
+				26,
+				"이",
+				"JKS",
+				"태양과의 거리가 가장 가까운 수성이 단위 면적당 4배나 많은 태양 에너지를 받지만, 금성의 표면 온도가 훨씬 더 높을 정도다."
+			],
+			[
+				27,
+				"나",
+				"JX",
+				"태양과의 거리가 가장 가까운 수성이 단위 면적당 4배나 많은 태양 에너지를 받지만, 금성의 표면 온도가 훨씬 더 높을 정도다."
+			],
+			[
+				28,
+				"를",
+				"JKO",
+				"태양과의 거리가 가장 가까운 수성이 단위 면적당 4배나 많은 태양 에너지를 받지만, 금성의 표면 온도가 훨씬 더 높을 정도다."
+			],
+			[
+				29,
+				"의",
+				"JKG",
+				"태양과의 거리가 가장 가까운 수성이 단위 면적당 4배나 많은 태양 에너지를 받지만, 금성의 표면 온도가 훨씬 더 높을 정도다."
+			],
+			[
+				30,
+				"가",
+				"JKS",
+				"태양과의 거리가 가장 가까운 수성이 단위 면적당 4배나 많은 태양 에너지를 받지만, 금성의 표면 온도가 훨씬 더 높을 정도다."
+			],
+			[
+				31,
+				"의",
+				"JKG",
+				"이렇게 고온·고압의 극한 환경 때문에 생명체는 살 수 없을 뿐만 아니라, '태양계의 불지옥'이라고도 불린다."
+			],
+			[
+				32,
+				"에",
+				"JKB",
+				"이렇게 고온·고압의 극한 환경 때문에 생명체는 살 수 없을 뿐만 아니라, '태양계의 불지옥'이라고도 불린다."
+			],
+			[
+				33,
+				"는",
+				"JX",
+				"이렇게 고온·고압의 극한 환경 때문에 생명체는 살 수 없을 뿐만 아니라, '태양계의 불지옥'이라고도 불린다."
+			],
+			[
+				34,
+				"만",
+				"JX",
+				"이렇게 고온·고압의 극한 환경 때문에 생명체는 살 수 없을 뿐만 아니라, '태양계의 불지옥'이라고도 불린다."
+			],
+			[
+				35,
+				"의",
+				"JKG",
+				"이렇게 고온·고압의 극한 환경 때문에 생명체는 살 수 없을 뿐만 아니라, '태양계의 불지옥'이라고도 불린다."
+			],
+			[
+				36,
+				"도",
+				"JX",
+				"이렇게 고온·고압의 극한 환경 때문에 생명체는 살 수 없을 뿐만 아니라, '태양계의 불지옥'이라고도 불린다."
+			]
+		],
+		"E_Lst": [
+			[
+				0,
+				"ㄴ",
+				"ETM",
+				"금성은 태양계의 두 번째, 지구와는 가장 가까운 행성이다."
+			],
+			[
+				1,
+				"다",
+				"EF",
+				"금성은 태양계의 두 번째, 지구와는 가장 가까운 행성이다."
+			],
+			[
+				2,
+				"며",
+				"EC",
+				"그 크기와 질량이 지구와 비슷하며 비슷한 시기에 때문에 '쌍둥이 행성'으로 불리기도 하지만, 사실 지구의 환경과는 매우 다르다."
+			],
+			[
+				3,
+				"ㄴ",
+				"ETM",
+				"그 크기와 질량이 지구와 비슷하며 비슷한 시기에 때문에 '쌍둥이 행성'으로 불리기도 하지만, 사실 지구의 환경과는 매우 다르다."
+			],
+			[
+				4,
+				"기",
+				"ETN",
+				"그 크기와 질량이 지구와 비슷하며 비슷한 시기에 때문에 '쌍둥이 행성'으로 불리기도 하지만, 사실 지구의 환경과는 매우 다르다."
+			],
+			[
+				5,
+				"지만",
+				"EC",
+				"그 크기와 질량이 지구와 비슷하며 비슷한 시기에 때문에 '쌍둥이 행성'으로 불리기도 하지만, 사실 지구의 환경과는 매우 다르다."
+			],
+			[
+				6,
+				"다",
+				"EF",
+				"그 크기와 질량이 지구와 비슷하며 비슷한 시기에 때문에 '쌍둥이 행성'으로 불리기도 하지만, 사실 지구의 환경과는 매우 다르다."
+			],
+			[
+				7,
+				"ㄴ",
+				"ETM",
+				"금성의 대기는 온실기체인 이산화탄소가 두껍게 덮고 있어 표면 온도는 최대 500도에, 기압은 지구의 90배에 달하는 것으로 알려진다."
+			],
+			[
+				8,
+				"게",
+				"EC",
+				"금성의 대기는 온실기체인 이산화탄소가 두껍게 덮고 있어 표면 온도는 최대 500도에, 기압은 지구의 90배에 달하는 것으로 알려진다."
+			],
+			[
+				9,
+				"고",
+				"EC",
+				"금성의 대기는 온실기체인 이산화탄소가 두껍게 덮고 있어 표면 온도는 최대 500도에, 기압은 지구의 90배에 달하는 것으로 알려진다."
+			],
+			[
+				10,
+				"어",
+				"EC",
+				"금성의 대기는 온실기체인 이산화탄소가 두껍게 덮고 있어 표면 온도는 최대 500도에, 기압은 지구의 90배에 달하는 것으로 알려진다."
+			],
+			[
+				11,
+				"는",
+				"ETM",
+				"금성의 대기는 온실기체인 이산화탄소가 두껍게 덮고 있어 표면 온도는 최대 500도에, 기압은 지구의 90배에 달하는 것으로 알려진다."
+			],
+			[
+				12,
+				"ㄴ다",
+				"EF",
+				"금성의 대기는 온실기체인 이산화탄소가 두껍게 덮고 있어 표면 온도는 최대 500도에, 기압은 지구의 90배에 달하는 것으로 알려진다."
+			],
+			[
+				13,
+				"ㄴ",
+				"ETM",
+				"태양과의 거리가 가장 가까운 수성이 단위 면적당 4배나 많은 태양 에너지를 받지만, 금성의 표면 온도가 훨씬 더 높을 정도다."
+			],
+			[
+				14,
+				"은",
+				"ETM",
+				"태양과의 거리가 가장 가까운 수성이 단위 면적당 4배나 많은 태양 에너지를 받지만, 금성의 표면 온도가 훨씬 더 높을 정도다."
+			],
+			[
+				15,
+				"지만",
+				"EC",
+				"태양과의 거리가 가장 가까운 수성이 단위 면적당 4배나 많은 태양 에너지를 받지만, 금성의 표면 온도가 훨씬 더 높을 정도다."
+			],
+			[
+				16,
+				"을",
+				"ETM",
+				"태양과의 거리가 가장 가까운 수성이 단위 면적당 4배나 많은 태양 에너지를 받지만, 금성의 표면 온도가 훨씬 더 높을 정도다."
+			],
+			[
+				17,
+				"다",
+				"EF",
+				"태양과의 거리가 가장 가까운 수성이 단위 면적당 4배나 많은 태양 에너지를 받지만, 금성의 표면 온도가 훨씬 더 높을 정도다."
+			],
+			[
+				18,
+				"게",
+				"EC",
+				"이렇게 고온·고압의 극한 환경 때문에 생명체는 살 수 없을 뿐만 아니라, '태양계의 불지옥'이라고도 불린다."
+			],
+			[
+				19,
+				"ㄹ",
+				"ETM",
+				"이렇게 고온·고압의 극한 환경 때문에 생명체는 살 수 없을 뿐만 아니라, '태양계의 불지옥'이라고도 불린다."
+			],
+			[
+				20,
+				"을",
+				"ETM",
+				"이렇게 고온·고압의 극한 환경 때문에 생명체는 살 수 없을 뿐만 아니라, '태양계의 불지옥'이라고도 불린다."
+			],
+			[
+				21,
+				"라",
+				"EC",
+				"이렇게 고온·고압의 극한 환경 때문에 생명체는 살 수 없을 뿐만 아니라, '태양계의 불지옥'이라고도 불린다."
+			],
+			[
+				22,
+				"ㄴ다",
+				"EF",
+				"이렇게 고온·고압의 극한 환경 때문에 생명체는 살 수 없을 뿐만 아니라, '태양계의 불지옥'이라고도 불린다."
+			]
+		],
+		"X_Lst": [
+			[
+				0,
+				"계",
+				"XSN",
+				"금성은 태양계의 두 번째, 지구와는 가장 가까운 행성이다."
+			],
+			[
+				1,
+				"째",
+				"XSN",
+				"금성은 태양계의 두 번째, 지구와는 가장 가까운 행성이다."
+			],
+			[
+				2,
+				"당",
+				"XSN",
+				"태양과의 거리가 가장 가까운 수성이 단위 면적당 4배나 많은 태양 에너지를 받지만, 금성의 표면 온도가 훨씬 더 높을 정도다."
+			],
+			[
+				3,
+				"계",
+				"XSN",
+				"이렇게 고온·고압의 극한 환경 때문에 생명체는 살 수 없을 뿐만 아니라, '태양계의 불지옥'이라고도 불린다."
+			],
+			[
+				4,
+				"불",
+				"XPN",
+				"이렇게 고온·고압의 극한 환경 때문에 생명체는 살 수 없을 뿐만 아니라, '태양계의 불지옥'이라고도 불린다."
+			]
+		],
+		"IC_Lst": []
+	},
+	"NDW": {
+		"morph_NDW": 101,
+		"NL_NDW": 50,
+		"NNG_NDW": 40,
+		"NNP_NDW": 3,
+		"NNB_NDW": 7,
+		"NP_NDW": 0,
+		"NR_NDW": 0,
+		"VL_NDW": 23,
+		"VV_NDW": 7,
+		"VA_NDW": 10,
+		"ML_NDW": 6,
+		"MM_NDW": 0,
+		"IC_NDW": 0,
+		"J_NDW": 37,
+		"E_NDW": 23,
+		"X_NDW": 5,
+		"CL_NDW": 79,
+		"FL_NDW": 65
+	}
+}

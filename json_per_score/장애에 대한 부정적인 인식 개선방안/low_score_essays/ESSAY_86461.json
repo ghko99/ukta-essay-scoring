@@ -1,0 +1,3059 @@
+﻿{
+	"morpheme": {
+		"sentences": [
+			{
+				"text": {
+					"content": "딱딱한 사전의 한계를 넘고자 책의 내용은 촘촘하되 읽기에는 재미있는 책을 쓰고자 노력하였다.",
+					"length": 51,
+					"beginOffset": 0
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "딱딱한",
+							"length": 3,
+							"beginOffset": 0
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "딱딱하",
+									"length": 3,
+									"beginOffset": 0
+								},
+								"tag": "VA",
+								"probability": 0.9848079,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 2,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99997646,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "딱딱하",
+						"tagged": "딱딱하/VA+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사전의",
+							"beginOffset": 4,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사전",
+									"beginOffset": 4,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98318607,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 6,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99895334,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사전",
+						"tagged": "사전/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "한계를",
+							"beginOffset": 8,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "한계",
+									"beginOffset": 8,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.982976,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 10,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999573,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "한계",
+						"tagged": "한계/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "넘고자",
+							"beginOffset": 12,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "넘",
+									"beginOffset": 12,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.99021256,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고자",
+									"beginOffset": 13,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99069035,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "넘",
+						"tagged": "넘/VV+고자/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "책의",
+							"beginOffset": 16,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "책",
+									"beginOffset": 16,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9871539,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 17,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9997157,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "책",
+						"tagged": "책/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "내용은",
+							"beginOffset": 19,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "내용",
+									"beginOffset": 19,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97960746,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 21,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9989071,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "내용",
+						"tagged": "내용/NNG+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "촘촘하되",
+							"beginOffset": 23,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "촘촘하",
+									"beginOffset": 23,
+									"length": 3
+								},
+								"tag": "VA",
+								"probability": 0.9807454,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "되",
+									"beginOffset": 26,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9916828,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "촘촘하",
+						"tagged": "촘촘하/VA+되/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "읽기에는",
+							"beginOffset": 28,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "읽",
+									"beginOffset": 28,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9871762,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "기",
+									"beginOffset": 29,
+									"length": 1
+								},
+								"tag": "ETN",
+								"probability": 0.9998769,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 30,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9965377,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 31,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9990651,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "읽",
+						"tagged": "읽/VV+기/ETN+에/JKB+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "재미있는",
+							"beginOffset": 33,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "재미있",
+									"beginOffset": 33,
+									"length": 3
+								},
+								"tag": "VA",
+								"probability": 0.9777081,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 36,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999234,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "재미있",
+						"tagged": "재미있/VA+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "책을",
+							"beginOffset": 38,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "책",
+									"beginOffset": 38,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9835779,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 39,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999267,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "책",
+						"tagged": "책/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "쓰고자",
+							"beginOffset": 41,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "쓰",
+									"beginOffset": 41,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.98928046,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고자",
+									"beginOffset": 42,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9901465,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "쓰",
+						"tagged": "쓰/VV+고자/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "노력하였다.",
+							"beginOffset": 45,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "노력하",
+									"beginOffset": 45,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 48,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99988574,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 49,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.99058974,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 50,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99973506,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "노력하",
+						"tagged": "노력하/VV+았/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "딱딱한 사전의 한계를 넘고자 책의 내용은 촘촘하되 읽기에는 재미있는 책을 쓰고자 노력하였다."
+			},
+			{
+				"text": {
+					"content": "또한 최대한 많은 용어를 담아 선구적인 '한국사회복지학의 학술용어' 책을 만들고자 하였다.",
+					"beginOffset": 52,
+					"length": 50
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "또한",
+							"beginOffset": 52,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "또한",
+									"beginOffset": 52,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.97807455,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "또한",
+						"tagged": "또한/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "최대한",
+							"beginOffset": 55,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "최대한",
+									"beginOffset": 55,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9750567,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "최대한",
+						"tagged": "최대한/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "많은",
+							"beginOffset": 59,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "많",
+									"beginOffset": 59,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9856926,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 60,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999474,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "많",
+						"tagged": "많/VA+은/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "용어를",
+							"beginOffset": 62,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "용어",
+									"beginOffset": 62,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.980267,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 64,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9998864,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "용어",
+						"tagged": "용어/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "담아",
+							"beginOffset": 66,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "담",
+									"beginOffset": 66,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.98524123,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 67,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9800129,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "담",
+						"tagged": "담/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "선구적인",
+							"beginOffset": 69,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "선구",
+									"beginOffset": 69,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9791881,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "적",
+									"beginOffset": 71,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.98948514,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 72,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.99989855,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 72,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999693,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "선구",
+						"tagged": "선구/NNG+적/XSN+이/VCP+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "'한국사회복지학의",
+							"beginOffset": 74,
+							"length": 9
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "'",
+									"beginOffset": 74,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9999727,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "한국사회복지학",
+									"beginOffset": 75,
+									"length": 7
+								},
+								"tag": "NNG",
+								"probability": 0.5602806,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 82,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99825066,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "'",
+						"tagged": "'/SS+한국사회복지학/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "학술용어'",
+							"beginOffset": 84,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "학술",
+									"beginOffset": 84,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "용어",
+									"beginOffset": 86,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "'",
+									"beginOffset": 88,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9998144,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "학술",
+						"tagged": "학술/NNG+용어/NNG+'/SS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "책을",
+							"beginOffset": 90,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "책",
+									"beginOffset": 90,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.98426247,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 91,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99978936,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "책",
+						"tagged": "책/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "만들고자",
+							"beginOffset": 93,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "만들",
+									"beginOffset": 93,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9866997,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고자",
+									"beginOffset": 95,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9937682,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "만들",
+						"tagged": "만들/VV+고자/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "하였다.",
+							"beginOffset": 98,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 98,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.8993329,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 99,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9998323,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 100,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.99269897,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 101,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99947584,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VX+았/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "또한 최대한 많은 용어를 담아 선구적인 '한국사회복지학의 학술용어' 책을 만들고자 하였다."
+			},
+			{
+				"text": {
+					"content": "나아가 응용학문의 단점인 단층적 지식을 다층화하기 위해 사회복지학의 인접학문에 해당되는 학술용어를 과감히 정리하여 다수를 첨가하였다.",
+					"beginOffset": 103,
+					"length": 74
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "나아가",
+							"beginOffset": 103,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "나아가",
+									"beginOffset": 103,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.98928124,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 105,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9927019,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "나아가",
+						"tagged": "나아가/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "응용학문의",
+							"beginOffset": 107,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "응용",
+									"beginOffset": 107,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "학문",
+									"beginOffset": 109,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 111,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99918175,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "응용",
+						"tagged": "응용/NNG+학문/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "단점인",
+							"beginOffset": 113,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "단점",
+									"beginOffset": 113,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9797687,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 115,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.999965,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 115,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9998966,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "단점",
+						"tagged": "단점/NNG+이/VCP+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "단층적",
+							"beginOffset": 117,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "단층",
+									"beginOffset": 117,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98032916,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "적",
+									"beginOffset": 119,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.9902277,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "단층",
+						"tagged": "단층/NNG+적/XSN",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "지식을",
+							"beginOffset": 121,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "지식",
+									"beginOffset": 121,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9780406,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 123,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999818,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "지식",
+						"tagged": "지식/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "다층화하기",
+							"beginOffset": 125,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "다층화하",
+									"beginOffset": 125,
+									"length": 4
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "기",
+									"beginOffset": 129,
+									"length": 1
+								},
+								"tag": "ETN",
+								"probability": 0.9993258,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "다층화하",
+						"tagged": "다층화하/VV+기/ETN",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "위해",
+							"beginOffset": 131,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "위하",
+									"beginOffset": 131,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.98991436,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 132,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9943463,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "위하",
+						"tagged": "위하/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사회복지학의",
+							"beginOffset": 134,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사회",
+									"beginOffset": 134,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "복지학",
+									"beginOffset": 136,
+									"length": 3
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 139,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9987722,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사회",
+						"tagged": "사회/NNG+복지학/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "인접학문에",
+							"beginOffset": 141,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "인접",
+									"beginOffset": 141,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9654094,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "학문",
+									"beginOffset": 143,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98457175,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 145,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9964143,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "인접",
+						"tagged": "인접/NNG+학문/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "해당되는",
+							"beginOffset": 147,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "해당되",
+									"beginOffset": 147,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 150,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9994691,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "해당되",
+						"tagged": "해당되/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "학술용어를",
+							"beginOffset": 152,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "학술",
+									"beginOffset": 152,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "용어",
+									"beginOffset": 154,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 156,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.999925,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "학술",
+						"tagged": "학술/NNG+용어/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "과감히",
+							"beginOffset": 158,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "과감히",
+									"beginOffset": 158,
+									"length": 3
+								},
+								"tag": "MAG",
+								"probability": 0.9931408,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "과감히",
+						"tagged": "과감히/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "정리하여",
+							"beginOffset": 162,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "정리하",
+									"beginOffset": 162,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 165,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9927651,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "정리하",
+						"tagged": "정리하/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "다수를",
+							"beginOffset": 167,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "다수",
+									"beginOffset": 167,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98091716,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 169,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999777,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "다수",
+						"tagged": "다수/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "첨가하였다.",
+							"beginOffset": 171,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "첨가하",
+									"beginOffset": 171,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 174,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99985266,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 175,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.99117404,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 176,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99984145,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "첨가하",
+						"tagged": "첨가하/VV+았/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "나아가 응용학문의 단점인 단층적 지식을 다층화하기 위해 사회복지학의 인접학문에 해당되는 학술용어를 과감히 정리하여 다수를 첨가하였다."
+			},
+			{
+				"text": {
+					"content": "그리고 바로 이것이 이 책만이 가지고 있는 장점이다.",
+					"beginOffset": 178,
+					"length": 29
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "그리고",
+							"beginOffset": 178,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그리고",
+									"beginOffset": 178,
+									"length": 3
+								},
+								"tag": "MAJ",
+								"probability": 0.9985045,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그리고",
+						"tagged": "그리고/MAJ",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "바로",
+							"beginOffset": 182,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "바로",
+									"beginOffset": 182,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9907852,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "바로",
+						"tagged": "바로/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이것이",
+							"beginOffset": 185,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이것",
+									"beginOffset": 185,
+									"length": 2
+								},
+								"tag": "NP",
+								"probability": 0.9890573,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 187,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9759412,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이것",
+						"tagged": "이것/NP+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이",
+							"beginOffset": 189,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 189,
+									"length": 1
+								},
+								"tag": "MMD",
+								"probability": 0.9998199,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이",
+						"tagged": "이/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "책만이",
+							"beginOffset": 191,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "책",
+									"beginOffset": 191,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.986149,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "만",
+									"beginOffset": 192,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9992296,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 193,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.97945,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "책",
+						"tagged": "책/NNG+만/JX+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "가지고",
+							"beginOffset": 195,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "가지",
+									"beginOffset": 195,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9681641,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 197,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99554366,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "가지",
+						"tagged": "가지/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있는",
+							"beginOffset": 199,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 199,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.94461405,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 200,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99997646,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VX+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "장점이다.",
+							"beginOffset": 202,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "장점",
+									"beginOffset": 202,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9791899,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 204,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.99989295,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 205,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.99225384,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 206,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9992482,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "장점",
+						"tagged": "장점/NNG+이/VCP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "그리고 바로 이것이 이 책만이 가지고 있는 장점이다."
+			}
+		],
+		"language": "ko_KR"
+	},
+	"ttr": {
+		"lemma_Cnt": 100,
+		"lemma_TTR": 0.5849056603773585,
+		"CL_TTR": 0.8301886792452831,
+		"NL_TTR": 0.7407407407407407,
+		"NN_TTR": 0.7307692307692307,
+		"NNG_TTR": 0.7307692307692307,
+		"NNP_TTR": 0,
+		"NNB_TTR": 0,
+		"NP_TTR": 1.0,
+		"NR_TTR": 0,
+		"VL_TTR": 0.9090909090909091,
+		"VV_TTR": 1.0,
+		"VA_TTR": 1.0,
+		"ML_TTR": 1.0,
+		"MM_TTR": 0,
+		"MA_TTR": 1.0,
+		"MAJ_TTR": 1.0,
+		"IC_TTR": 0,
+		"FL_TTR": 0.3695652173913043,
+		"J_TTR": 0.42105263157894735,
+		"E_TTR": 0.4,
+		"X_TTR": 0.5,
+		"lemma_RTTR": 6.021972346615038,
+		"CL_RTTR": 6.043864813742317,
+		"NL_RTTR": 3.849001794597505,
+		"NN_RTTR": 3.7262065676254967,
+		"NNG_RTTR": 3.7262065676254967,
+		"NNP_RTTR": 0,
+		"NNB_RTTR": 0,
+		"NP_RTTR": 1.0,
+		"NR_RTTR": 0,
+		"VL_RTTR": 4.264014327112209,
+		"VV_RTTR": 3.6055512754639896,
+		"VA_RTTR": 2.0,
+		"ML_RTTR": 2.0,
+		"MM_RTTR": 0,
+		"MA_RTTR": 2.0,
+		"MAJ_RTTR": 1.0,
+		"IC_RTTR": 0,
+		"FL_RTTR": 2.5065132546332514,
+		"J_RTTR": 1.835325870964494,
+		"E_RTTR": 2.0,
+		"X_RTTR": 0.7071067811865475,
+		"lemma_CTTR": 4.2581774824093594,
+		"CL_CTTR": 4.273657794371962,
+		"NL_CTTR": 2.721655269759087,
+		"NN_CTTR": 2.6348259320698384,
+		"NNG_CTTR": 2.6348259320698384,
+		"NNP_CTTR": 0,
+		"NNB_CTTR": 0,
+		"NP_CTTR": 0.7071067811865475,
+		"NR_CTTR": 0,
+		"VL_CTTR": 3.015113445777636,
+		"VV_CTTR": 2.5495097567963927,
+		"VA_CTTR": 1.414213562373095,
+		"ML_CTTR": 1.414213562373095,
+		"MM_CTTR": 0,
+		"MA_CTTR": 1.414213562373095,
+		"MAJ_CTTR": 0.7071067811865475,
+		"IC_CTTR": 0,
+		"FL_CTTR": 1.7723725194851356,
+		"J_CTTR": 1.2977713690461004,
+		"E_CTTR": 1.414213562373095,
+		"X_CTTR": 0.5,
+		"lemma_MSTTR": 0.76,
+		"CL_MSTTR": 0.84,
+		"NL_MSTTR": 0.7407407407407407,
+		"NN_MSTTR": 0.7307692307692307,
+		"NNG_MSTTR": 0.7307692307692307,
+		"NNP_MSTTR": 0,
+		"NNB_MSTTR": 0,
+		"NP_MSTTR": 1.0,
+		"NR_MSTTR": 0,
+		"VL_MSTTR": 0.9090909090909091,
+		"VV_MSTTR": 1.0,
+		"VA_MSTTR": 1.0,
+		"ML_MSTTR": 1.0,
+		"MM_MSTTR": 0,
+		"MA_MSTTR": 1.0,
+		"MAJ_MSTTR": 1.0,
+		"IC_MSTTR": 0,
+		"FL_MSTTR": 0.3695652173913043,
+		"J_MSTTR": 0.42105263157894735,
+		"E_MSTTR": 0.4,
+		"X_MSTTR": 0.5,
+		"lemma_MATTR": 0.7456140350877191,
+		"CL_MATTR": 0.835,
+		"NL_MATTR": 0.7407407407407407,
+		"NN_MATTR": 0.7307692307692307,
+		"NNG_MATTR": 0.7307692307692307,
+		"NNP_MATTR": 0,
+		"NNB_MATTR": 0,
+		"NP_MATTR": 1.0,
+		"NR_MATTR": 0,
+		"VL_MATTR": 0.9090909090909091,
+		"VV_MATTR": 1.0,
+		"VA_MATTR": 1.0,
+		"ML_MATTR": 1.0,
+		"MM_MATTR": 0,
+		"MA_MATTR": 1.0,
+		"MAJ_MATTR": 1.0,
+		"IC_MATTR": 0,
+		"FL_MATTR": 0.3695652173913043,
+		"J_MATTR": 0.42105263157894735,
+		"E_MATTR": 0.4,
+		"X_MATTR": 0.5,
+		"lemma_MTLD": 58.087101117273534,
+		"CL_MTLD": 87.39111111111114,
+		"NL_MTLD": 29.16,
+		"NN_MTLD": 26.52,
+		"NNG_MTLD": 26.52,
+		"NNP_MTLD": 0.0,
+		"NNB_MTLD": 0.0,
+		"NP_MTLD": 0.0,
+		"NR_MTLD": 0.0,
+		"VL_MTLD": 67.75999999999999,
+		"VV_MTLD": 0.0,
+		"VA_MTLD": 0.0,
+		"ML_MTLD": 0.0,
+		"MM_MTLD": 0.0,
+		"MA_MTLD": 0.0,
+		"MAJ_MTLD": 0.0,
+		"IC_MTLD": 0.0,
+		"FL_MTLD": 15.028316996604524,
+		"J_MTLD": 8.67391304347826,
+		"E_MTLD": 12.5,
+		"X_MTLD": 1.12,
+		"lemma_VOCDD": 52.09876978213183,
+		"CL_VOCDD": 103.85884810872956,
+		"NL_VOCDD": 0,
+		"NN_VOCDD": 0,
+		"NNG_VOCDD": 0,
+		"NNP_VOCDD": 0,
+		"NNB_VOCDD": 0,
+		"NP_VOCDD": 0,
+		"NR_VOCDD": 0,
+		"VL_VOCDD": 0,
+		"VV_VOCDD": 0,
+		"VA_VOCDD": 0,
+		"ML_VOCDD": 0,
+		"MM_VOCDD": 0,
+		"MA_VOCDD": 0,
+		"MAJ_VOCDD": 0,
+		"IC_VOCDD": 0,
+		"FL_VOCDD": 0,
+		"J_VOCDD": 0,
+		"E_VOCDD": 0,
+		"X_VOCDD": 0,
+		"lemma_HDD": 0.7652199554483995,
+		"CL_HDD": 0.8526338256637923,
+		"NL_HDD": 0.0,
+		"NN_HDD": 0.0,
+		"NNG_HDD": 0.0,
+		"NNP_HDD": 0.0,
+		"NNB_HDD": 0.0,
+		"NP_HDD": 0.0,
+		"NR_HDD": 0.0,
+		"VL_HDD": 0.0,
+		"VV_HDD": 0.0,
+		"VA_HDD": 0.0,
+		"ML_HDD": 0.0,
+		"MM_HDD": 0.0,
+		"MA_HDD": 0.0,
+		"MAJ_HDD": 0.0,
+		"IC_HDD": 0.0,
+		"FL_HDD": 0.39783491421509626,
+		"J_HDD": 0.0,
+		"E_HDD": 0.0,
+		"X_HDD": 0.0
+	},
+	"similarity": {
+		"avgSentSimilarity": 0.24438226222991943,
+		"topicConsistency": 0.4901
+	},
+	"adjacency": {
+		"adjacent_sentence_overlap_all_lemmas": 63,
+		"adjacent_sentence_overlap_all_lemmas_normed": 3,
+		"binary_adjacent_sentence_overlap_all_lemmas": 3,
+		"adjacent_two_sentence_overlap_all_lemmas": 40,
+		"adjacent_two_sentence_overlap_all_lemmas_normed": 2,
+		"binary_adjacent_two_sentence_overlap_all_lemmas": 2,
+		"adjacent_sentence_overlap_content_lemmas": 35,
+		"adjacent_sentence_overlap_content_lemmas_normed": 3,
+		"binary_adjacent_sentence_overlap_content_lemmas": 3,
+		"adjacent_two_sentence_overlap_content_lemmas": 23,
+		"adjacent_two_sentence_overlap_content_lemmas_normed": 2,
+		"binary_adjacent_two_sentence_overlap_content_lemmas": 1,
+		"adjacent_sentence_overlap_function_lemmas": 24,
+		"adjacent_sentence_overlap_function_lemmas_normed": 3,
+		"binary_adjacent_sentence_overlap_function_lemmas": 3,
+		"adjacent_two_sentence_overlap_function_lemmas": 15,
+		"adjacent_two_sentence_overlap_function_lemmas_normed": 2,
+		"binary_adjacent_two_sentence_overlap_function_lemmas": 2,
+		"adjacent_sentence_overlap_noun_lemmas": 22,
+		"adjacent_sentence_overlap_noun_lemmas_normed": 3,
+		"binary_adjacent_sentence_overlap_noun_lemmas": 2,
+		"adjacent_two_sentence_overlap_noun_lemmas": 14,
+		"adjacent_two_sentence_overlap_noun_lemmas_normed": 2,
+		"binary_adjacent_two_sentence_overlap_noun_lemmas": 2,
+		"adjacent_sentence_overlap_verb_lemmas": 12,
+		"adjacent_sentence_overlap_verb_lemmas_normed": 3,
+		"binary_adjacent_sentence_overlap_verb_lemmas": 2,
+		"adjacent_two_sentence_overlap_verb_lemmas": 8,
+		"adjacent_two_sentence_overlap_verb_lemmas_normed": 2,
+		"binary_adjacent_two_sentence_overlap_verb_lemmas": 1,
+		"adjacent_sentence_overlap_adjective_lemmas": 1,
+		"adjacent_sentence_overlap_adjective_lemmas_normed": 1,
+		"binary_adjacent_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_sentence_overlap_adverb_lemmas": 2,
+		"adjacent_sentence_overlap_adverb_lemmas_normed": 2,
+		"binary_adjacent_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas": 1,
+		"adjacent_two_sentence_overlap_adverb_lemmas_normed": 1,
+		"binary_adjacent_two_sentence_overlap_adverb_lemmas": 0
+	},
+	"basic_count": {
+		"para_Cnt": 1,
+		"sentence_Cnt": 4,
+		"word_Cnt": 46,
+		"morph_Cnt": 106,
+		"char_Cnt": 168,
+		"CL_Cnt": 53,
+		"NL_Cnt": 27,
+		"NN_Cnt": 26,
+		"NNG_Cnt": 26,
+		"NNP_Cnt": 0,
+		"NNB_Cnt": 0,
+		"NP_Cnt": 1,
+		"NP_People_Cnt": 0,
+		"NP_Things_Cnt": 1,
+		"NR_Cnt": 0,
+		"VL_Cnt": 22,
+		"VV_Cnt": 13,
+		"VA_Cnt": 4,
+		"VX_Cnt": 2,
+		"VCP_Cnt": 3,
+		"VCN_Cnt": 0,
+		"ML_Cnt": 4,
+		"MA_Cnt": 0,
+		"MM_Cnt": 0,
+		"FL_Cnt": 46,
+		"J_Cnt": 19,
+		"E_Cnt": 25,
+		"X_Cnt": 2,
+		"IC_Cnt": 0
+	},
+	"basic_density": {
+		"CL_Den": 0.5,
+		"FL_Den": 0.4339622641509434,
+		"NL_Den": 0.24528301886792453,
+		"NNGL_Den": 0.24528301886792453,
+		"NNPL_Den": 0.0,
+		"NNBL_Den": 0.0,
+		"NPL_Den": 0.009433962264150943,
+		"NML_Den": 0.0,
+		"VL_Den": 0.20754716981132076,
+		"VVL_Den": 0.12264150943396226,
+		"VAL_Den": 0.03773584905660377,
+		"ML_Den": 0.03773584905660377,
+		"MML_Den": 0.0,
+		"MAL_Den": 0.0,
+		"JL_Den": 0.1792452830188679,
+		"EL_Den": 0.2358490566037736,
+		"XL_Den": 0.018867924528301886,
+		"ITL_Den": 0.0,
+		"NCL_Den": 0.49056603773584906,
+		"NNCL_Den": 0.49056603773584906,
+		"NNGCL_Den": 0.0,
+		"NNBCL_Den": 0.0,
+		"NPCL_Den": 0.018867924528301886,
+		"NMCL_Den": 0.0,
+		"VCL_Den": 0.41509433962264153,
+		"VVCL_Den": 0.24528301886792453,
+		"VACL_Den": 0.07547169811320754,
+		"MCL_Den": 0.07547169811320754,
+		"MMCL_Den": 0.0,
+		"MACL_Den": 0.0,
+		"INCL_Den": 0.0,
+		"JFL_Den": 0.41304347826086957,
+		"EFL_Den": 0.5434782608695652,
+		"XFL_Den": 0.043478260869565216
+	},
+	"basic_level": {
+		"morph_LenAvg": 1.5754716981132075,
+		"morph_LenStd": 0.9001898458841695,
+		"word_LenAvg": 3.391304347826087,
+		"word_LenStd": 1.2593694224313252
+	},
+	"basic_list": {
+		"NL_Lst": [
+			[
+				0,
+				"사전",
+				"NNG",
+				"딱딱한 사전의 한계를 넘고자 책의 내용은 촘촘하되 읽기에는 재미있는 책을 쓰고자 노력하였다."
+			],
+			[
+				1,
+				"한계",
+				"NNG",
+				"딱딱한 사전의 한계를 넘고자 책의 내용은 촘촘하되 읽기에는 재미있는 책을 쓰고자 노력하였다."
+			],
+			[
+				2,
+				"책",
+				"NNG",
+				"딱딱한 사전의 한계를 넘고자 책의 내용은 촘촘하되 읽기에는 재미있는 책을 쓰고자 노력하였다."
+			],
+			[
+				3,
+				"내용",
+				"NNG",
+				"딱딱한 사전의 한계를 넘고자 책의 내용은 촘촘하되 읽기에는 재미있는 책을 쓰고자 노력하였다."
+			],
+			[
+				4,
+				"책",
+				"NNG",
+				"딱딱한 사전의 한계를 넘고자 책의 내용은 촘촘하되 읽기에는 재미있는 책을 쓰고자 노력하였다."
+			],
+			[
+				5,
+				"최대한",
+				"NNG",
+				"또한 최대한 많은 용어를 담아 선구적인 '한국사회복지학의 학술용어' 책을 만들고자 하였다."
+			],
+			[
+				6,
+				"용어",
+				"NNG",
+				"또한 최대한 많은 용어를 담아 선구적인 '한국사회복지학의 학술용어' 책을 만들고자 하였다."
+			],
+			[
+				7,
+				"선구",
+				"NNG",
+				"또한 최대한 많은 용어를 담아 선구적인 '한국사회복지학의 학술용어' 책을 만들고자 하였다."
+			],
+			[
+				8,
+				"한국사회복지학",
+				"NNG",
+				"또한 최대한 많은 용어를 담아 선구적인 '한국사회복지학의 학술용어' 책을 만들고자 하였다."
+			],
+			[
+				9,
+				"학술",
+				"NNG",
+				"또한 최대한 많은 용어를 담아 선구적인 '한국사회복지학의 학술용어' 책을 만들고자 하였다."
+			],
+			[
+				10,
+				"용어",
+				"NNG",
+				"또한 최대한 많은 용어를 담아 선구적인 '한국사회복지학의 학술용어' 책을 만들고자 하였다."
+			],
+			[
+				11,
+				"책",
+				"NNG",
+				"또한 최대한 많은 용어를 담아 선구적인 '한국사회복지학의 학술용어' 책을 만들고자 하였다."
+			],
+			[
+				12,
+				"응용",
+				"NNG",
+				"나아가 응용학문의 단점인 단층적 지식을 다층화하기 위해 사회복지학의 인접학문에 해당되는 학술용어를 과감히 정리하여 다수를 첨가하였다."
+			],
+			[
+				13,
+				"학문",
+				"NNG",
+				"나아가 응용학문의 단점인 단층적 지식을 다층화하기 위해 사회복지학의 인접학문에 해당되는 학술용어를 과감히 정리하여 다수를 첨가하였다."
+			],
+			[
+				14,
+				"단점",
+				"NNG",
+				"나아가 응용학문의 단점인 단층적 지식을 다층화하기 위해 사회복지학의 인접학문에 해당되는 학술용어를 과감히 정리하여 다수를 첨가하였다."
+			],
+			[
+				15,
+				"단층",
+				"NNG",
+				"나아가 응용학문의 단점인 단층적 지식을 다층화하기 위해 사회복지학의 인접학문에 해당되는 학술용어를 과감히 정리하여 다수를 첨가하였다."
+			],
+			[
+				16,
+				"지식",
+				"NNG",
+				"나아가 응용학문의 단점인 단층적 지식을 다층화하기 위해 사회복지학의 인접학문에 해당되는 학술용어를 과감히 정리하여 다수를 첨가하였다."
+			],
+			[
+				17,
+				"사회",
+				"NNG",
+				"나아가 응용학문의 단점인 단층적 지식을 다층화하기 위해 사회복지학의 인접학문에 해당되는 학술용어를 과감히 정리하여 다수를 첨가하였다."
+			],
+			[
+				18,
+				"복지학",
+				"NNG",
+				"나아가 응용학문의 단점인 단층적 지식을 다층화하기 위해 사회복지학의 인접학문에 해당되는 학술용어를 과감히 정리하여 다수를 첨가하였다."
+			],
+			[
+				19,
+				"인접",
+				"NNG",
+				"나아가 응용학문의 단점인 단층적 지식을 다층화하기 위해 사회복지학의 인접학문에 해당되는 학술용어를 과감히 정리하여 다수를 첨가하였다."
+			],
+			[
+				20,
+				"학문",
+				"NNG",
+				"나아가 응용학문의 단점인 단층적 지식을 다층화하기 위해 사회복지학의 인접학문에 해당되는 학술용어를 과감히 정리하여 다수를 첨가하였다."
+			],
+			[
+				21,
+				"학술",
+				"NNG",
+				"나아가 응용학문의 단점인 단층적 지식을 다층화하기 위해 사회복지학의 인접학문에 해당되는 학술용어를 과감히 정리하여 다수를 첨가하였다."
+			],
+			[
+				22,
+				"용어",
+				"NNG",
+				"나아가 응용학문의 단점인 단층적 지식을 다층화하기 위해 사회복지학의 인접학문에 해당되는 학술용어를 과감히 정리하여 다수를 첨가하였다."
+			],
+			[
+				23,
+				"다수",
+				"NNG",
+				"나아가 응용학문의 단점인 단층적 지식을 다층화하기 위해 사회복지학의 인접학문에 해당되는 학술용어를 과감히 정리하여 다수를 첨가하였다."
+			],
+			[
+				24,
+				"이것",
+				"NP",
+				"그리고 바로 이것이 이 책만이 가지고 있는 장점이다."
+			],
+			[
+				25,
+				"책",
+				"NNG",
+				"그리고 바로 이것이 이 책만이 가지고 있는 장점이다."
+			],
+			[
+				26,
+				"장점",
+				"NNG",
+				"그리고 바로 이것이 이 책만이 가지고 있는 장점이다."
+			]
+		],
+		"NN_Lst": [
+			[
+				0,
+				"사전",
+				"NNG",
+				"딱딱한 사전의 한계를 넘고자 책의 내용은 촘촘하되 읽기에는 재미있는 책을 쓰고자 노력하였다."
+			],
+			[
+				1,
+				"한계",
+				"NNG",
+				"딱딱한 사전의 한계를 넘고자 책의 내용은 촘촘하되 읽기에는 재미있는 책을 쓰고자 노력하였다."
+			],
+			[
+				2,
+				"책",
+				"NNG",
+				"딱딱한 사전의 한계를 넘고자 책의 내용은 촘촘하되 읽기에는 재미있는 책을 쓰고자 노력하였다."
+			],
+			[
+				3,
+				"내용",
+				"NNG",
+				"딱딱한 사전의 한계를 넘고자 책의 내용은 촘촘하되 읽기에는 재미있는 책을 쓰고자 노력하였다."
+			],
+			[
+				4,
+				"책",
+				"NNG",
+				"딱딱한 사전의 한계를 넘고자 책의 내용은 촘촘하되 읽기에는 재미있는 책을 쓰고자 노력하였다."
+			],
+			[
+				5,
+				"최대한",
+				"NNG",
+				"또한 최대한 많은 용어를 담아 선구적인 '한국사회복지학의 학술용어' 책을 만들고자 하였다."
+			],
+			[
+				6,
+				"용어",
+				"NNG",
+				"또한 최대한 많은 용어를 담아 선구적인 '한국사회복지학의 학술용어' 책을 만들고자 하였다."
+			],
+			[
+				7,
+				"선구",
+				"NNG",
+				"또한 최대한 많은 용어를 담아 선구적인 '한국사회복지학의 학술용어' 책을 만들고자 하였다."
+			],
+			[
+				8,
+				"한국사회복지학",
+				"NNG",
+				"또한 최대한 많은 용어를 담아 선구적인 '한국사회복지학의 학술용어' 책을 만들고자 하였다."
+			],
+			[
+				9,
+				"학술",
+				"NNG",
+				"또한 최대한 많은 용어를 담아 선구적인 '한국사회복지학의 학술용어' 책을 만들고자 하였다."
+			],
+			[
+				10,
+				"용어",
+				"NNG",
+				"또한 최대한 많은 용어를 담아 선구적인 '한국사회복지학의 학술용어' 책을 만들고자 하였다."
+			],
+			[
+				11,
+				"책",
+				"NNG",
+				"또한 최대한 많은 용어를 담아 선구적인 '한국사회복지학의 학술용어' 책을 만들고자 하였다."
+			],
+			[
+				12,
+				"응용",
+				"NNG",
+				"나아가 응용학문의 단점인 단층적 지식을 다층화하기 위해 사회복지학의 인접학문에 해당되는 학술용어를 과감히 정리하여 다수를 첨가하였다."
+			],
+			[
+				13,
+				"학문",
+				"NNG",
+				"나아가 응용학문의 단점인 단층적 지식을 다층화하기 위해 사회복지학의 인접학문에 해당되는 학술용어를 과감히 정리하여 다수를 첨가하였다."
+			],
+			[
+				14,
+				"단점",
+				"NNG",
+				"나아가 응용학문의 단점인 단층적 지식을 다층화하기 위해 사회복지학의 인접학문에 해당되는 학술용어를 과감히 정리하여 다수를 첨가하였다."
+			],
+			[
+				15,
+				"단층",
+				"NNG",
+				"나아가 응용학문의 단점인 단층적 지식을 다층화하기 위해 사회복지학의 인접학문에 해당되는 학술용어를 과감히 정리하여 다수를 첨가하였다."
+			],
+			[
+				16,
+				"지식",
+				"NNG",
+				"나아가 응용학문의 단점인 단층적 지식을 다층화하기 위해 사회복지학의 인접학문에 해당되는 학술용어를 과감히 정리하여 다수를 첨가하였다."
+			],
+			[
+				17,
+				"사회",
+				"NNG",
+				"나아가 응용학문의 단점인 단층적 지식을 다층화하기 위해 사회복지학의 인접학문에 해당되는 학술용어를 과감히 정리하여 다수를 첨가하였다."
+			],
+			[
+				18,
+				"복지학",
+				"NNG",
+				"나아가 응용학문의 단점인 단층적 지식을 다층화하기 위해 사회복지학의 인접학문에 해당되는 학술용어를 과감히 정리하여 다수를 첨가하였다."
+			],
+			[
+				19,
+				"인접",
+				"NNG",
+				"나아가 응용학문의 단점인 단층적 지식을 다층화하기 위해 사회복지학의 인접학문에 해당되는 학술용어를 과감히 정리하여 다수를 첨가하였다."
+			],
+			[
+				20,
+				"학문",
+				"NNG",
+				"나아가 응용학문의 단점인 단층적 지식을 다층화하기 위해 사회복지학의 인접학문에 해당되는 학술용어를 과감히 정리하여 다수를 첨가하였다."
+			],
+			[
+				21,
+				"학술",
+				"NNG",
+				"나아가 응용학문의 단점인 단층적 지식을 다층화하기 위해 사회복지학의 인접학문에 해당되는 학술용어를 과감히 정리하여 다수를 첨가하였다."
+			],
+			[
+				22,
+				"용어",
+				"NNG",
+				"나아가 응용학문의 단점인 단층적 지식을 다층화하기 위해 사회복지학의 인접학문에 해당되는 학술용어를 과감히 정리하여 다수를 첨가하였다."
+			],
+			[
+				23,
+				"다수",
+				"NNG",
+				"나아가 응용학문의 단점인 단층적 지식을 다층화하기 위해 사회복지학의 인접학문에 해당되는 학술용어를 과감히 정리하여 다수를 첨가하였다."
+			],
+			[
+				24,
+				"책",
+				"NNG",
+				"그리고 바로 이것이 이 책만이 가지고 있는 장점이다."
+			],
+			[
+				25,
+				"장점",
+				"NNG",
+				"그리고 바로 이것이 이 책만이 가지고 있는 장점이다."
+			]
+		],
+		"NNG_Lst": [
+			[
+				0,
+				"사전",
+				"NNG",
+				"딱딱한 사전의 한계를 넘고자 책의 내용은 촘촘하되 읽기에는 재미있는 책을 쓰고자 노력하였다."
+			],
+			[
+				1,
+				"한계",
+				"NNG",
+				"딱딱한 사전의 한계를 넘고자 책의 내용은 촘촘하되 읽기에는 재미있는 책을 쓰고자 노력하였다."
+			],
+			[
+				2,
+				"책",
+				"NNG",
+				"딱딱한 사전의 한계를 넘고자 책의 내용은 촘촘하되 읽기에는 재미있는 책을 쓰고자 노력하였다."
+			],
+			[
+				3,
+				"내용",
+				"NNG",
+				"딱딱한 사전의 한계를 넘고자 책의 내용은 촘촘하되 읽기에는 재미있는 책을 쓰고자 노력하였다."
+			],
+			[
+				4,
+				"책",
+				"NNG",
+				"딱딱한 사전의 한계를 넘고자 책의 내용은 촘촘하되 읽기에는 재미있는 책을 쓰고자 노력하였다."
+			],
+			[
+				5,
+				"최대한",
+				"NNG",
+				"또한 최대한 많은 용어를 담아 선구적인 '한국사회복지학의 학술용어' 책을 만들고자 하였다."
+			],
+			[
+				6,
+				"용어",
+				"NNG",
+				"또한 최대한 많은 용어를 담아 선구적인 '한국사회복지학의 학술용어' 책을 만들고자 하였다."
+			],
+			[
+				7,
+				"선구",
+				"NNG",
+				"또한 최대한 많은 용어를 담아 선구적인 '한국사회복지학의 학술용어' 책을 만들고자 하였다."
+			],
+			[
+				8,
+				"한국사회복지학",
+				"NNG",
+				"또한 최대한 많은 용어를 담아 선구적인 '한국사회복지학의 학술용어' 책을 만들고자 하였다."
+			],
+			[
+				9,
+				"학술",
+				"NNG",
+				"또한 최대한 많은 용어를 담아 선구적인 '한국사회복지학의 학술용어' 책을 만들고자 하였다."
+			],
+			[
+				10,
+				"용어",
+				"NNG",
+				"또한 최대한 많은 용어를 담아 선구적인 '한국사회복지학의 학술용어' 책을 만들고자 하였다."
+			],
+			[
+				11,
+				"책",
+				"NNG",
+				"또한 최대한 많은 용어를 담아 선구적인 '한국사회복지학의 학술용어' 책을 만들고자 하였다."
+			],
+			[
+				12,
+				"응용",
+				"NNG",
+				"나아가 응용학문의 단점인 단층적 지식을 다층화하기 위해 사회복지학의 인접학문에 해당되는 학술용어를 과감히 정리하여 다수를 첨가하였다."
+			],
+			[
+				13,
+				"학문",
+				"NNG",
+				"나아가 응용학문의 단점인 단층적 지식을 다층화하기 위해 사회복지학의 인접학문에 해당되는 학술용어를 과감히 정리하여 다수를 첨가하였다."
+			],
+			[
+				14,
+				"단점",
+				"NNG",
+				"나아가 응용학문의 단점인 단층적 지식을 다층화하기 위해 사회복지학의 인접학문에 해당되는 학술용어를 과감히 정리하여 다수를 첨가하였다."
+			],
+			[
+				15,
+				"단층",
+				"NNG",
+				"나아가 응용학문의 단점인 단층적 지식을 다층화하기 위해 사회복지학의 인접학문에 해당되는 학술용어를 과감히 정리하여 다수를 첨가하였다."
+			],
+			[
+				16,
+				"지식",
+				"NNG",
+				"나아가 응용학문의 단점인 단층적 지식을 다층화하기 위해 사회복지학의 인접학문에 해당되는 학술용어를 과감히 정리하여 다수를 첨가하였다."
+			],
+			[
+				17,
+				"사회",
+				"NNG",
+				"나아가 응용학문의 단점인 단층적 지식을 다층화하기 위해 사회복지학의 인접학문에 해당되는 학술용어를 과감히 정리하여 다수를 첨가하였다."
+			],
+			[
+				18,
+				"복지학",
+				"NNG",
+				"나아가 응용학문의 단점인 단층적 지식을 다층화하기 위해 사회복지학의 인접학문에 해당되는 학술용어를 과감히 정리하여 다수를 첨가하였다."
+			],
+			[
+				19,
+				"인접",
+				"NNG",
+				"나아가 응용학문의 단점인 단층적 지식을 다층화하기 위해 사회복지학의 인접학문에 해당되는 학술용어를 과감히 정리하여 다수를 첨가하였다."
+			],
+			[
+				20,
+				"학문",
+				"NNG",
+				"나아가 응용학문의 단점인 단층적 지식을 다층화하기 위해 사회복지학의 인접학문에 해당되는 학술용어를 과감히 정리하여 다수를 첨가하였다."
+			],
+			[
+				21,
+				"학술",
+				"NNG",
+				"나아가 응용학문의 단점인 단층적 지식을 다층화하기 위해 사회복지학의 인접학문에 해당되는 학술용어를 과감히 정리하여 다수를 첨가하였다."
+			],
+			[
+				22,
+				"용어",
+				"NNG",
+				"나아가 응용학문의 단점인 단층적 지식을 다층화하기 위해 사회복지학의 인접학문에 해당되는 학술용어를 과감히 정리하여 다수를 첨가하였다."
+			],
+			[
+				23,
+				"다수",
+				"NNG",
+				"나아가 응용학문의 단점인 단층적 지식을 다층화하기 위해 사회복지학의 인접학문에 해당되는 학술용어를 과감히 정리하여 다수를 첨가하였다."
+			],
+			[
+				24,
+				"책",
+				"NNG",
+				"그리고 바로 이것이 이 책만이 가지고 있는 장점이다."
+			],
+			[
+				25,
+				"장점",
+				"NNG",
+				"그리고 바로 이것이 이 책만이 가지고 있는 장점이다."
+			]
+		],
+		"NNP_Lst": [],
+		"NNB_Lst": [],
+		"NP_Lst": [
+			[
+				0,
+				"이것",
+				"NP",
+				"그리고 바로 이것이 이 책만이 가지고 있는 장점이다."
+			]
+		],
+		"NP_People_Lst": [],
+		"NP_Things_Lst": [
+			[
+				0,
+				"이것",
+				"NP",
+				"그리고 바로 이것이 이 책만이 가지고 있는 장점이다."
+			]
+		],
+		"NR_Lst": [],
+		"VL_Lst": [
+			[
+				0,
+				"딱딱하",
+				"VA",
+				"딱딱한 사전의 한계를 넘고자 책의 내용은 촘촘하되 읽기에는 재미있는 책을 쓰고자 노력하였다."
+			],
+			[
+				1,
+				"넘",
+				"VV",
+				"딱딱한 사전의 한계를 넘고자 책의 내용은 촘촘하되 읽기에는 재미있는 책을 쓰고자 노력하였다."
+			],
+			[
+				2,
+				"촘촘하",
+				"VA",
+				"딱딱한 사전의 한계를 넘고자 책의 내용은 촘촘하되 읽기에는 재미있는 책을 쓰고자 노력하였다."
+			],
+			[
+				3,
+				"읽",
+				"VV",
+				"딱딱한 사전의 한계를 넘고자 책의 내용은 촘촘하되 읽기에는 재미있는 책을 쓰고자 노력하였다."
+			],
+			[
+				4,
+				"재미있",
+				"VA",
+				"딱딱한 사전의 한계를 넘고자 책의 내용은 촘촘하되 읽기에는 재미있는 책을 쓰고자 노력하였다."
+			],
+			[
+				5,
+				"쓰",
+				"VV",
+				"딱딱한 사전의 한계를 넘고자 책의 내용은 촘촘하되 읽기에는 재미있는 책을 쓰고자 노력하였다."
+			],
+			[
+				6,
+				"노력하",
+				"VV",
+				"딱딱한 사전의 한계를 넘고자 책의 내용은 촘촘하되 읽기에는 재미있는 책을 쓰고자 노력하였다."
+			],
+			[
+				7,
+				"많",
+				"VA",
+				"또한 최대한 많은 용어를 담아 선구적인 '한국사회복지학의 학술용어' 책을 만들고자 하였다."
+			],
+			[
+				8,
+				"담",
+				"VV",
+				"또한 최대한 많은 용어를 담아 선구적인 '한국사회복지학의 학술용어' 책을 만들고자 하였다."
+			],
+			[
+				9,
+				"이",
+				"VCP",
+				"또한 최대한 많은 용어를 담아 선구적인 '한국사회복지학의 학술용어' 책을 만들고자 하였다."
+			],
+			[
+				10,
+				"만들",
+				"VV",
+				"또한 최대한 많은 용어를 담아 선구적인 '한국사회복지학의 학술용어' 책을 만들고자 하였다."
+			],
+			[
+				11,
+				"하",
+				"VX",
+				"또한 최대한 많은 용어를 담아 선구적인 '한국사회복지학의 학술용어' 책을 만들고자 하였다."
+			],
+			[
+				12,
+				"나아가",
+				"VV",
+				"나아가 응용학문의 단점인 단층적 지식을 다층화하기 위해 사회복지학의 인접학문에 해당되는 학술용어를 과감히 정리하여 다수를 첨가하였다."
+			],
+			[
+				13,
+				"이",
+				"VCP",
+				"나아가 응용학문의 단점인 단층적 지식을 다층화하기 위해 사회복지학의 인접학문에 해당되는 학술용어를 과감히 정리하여 다수를 첨가하였다."
+			],
+			[
+				14,
+				"다층화하",
+				"VV",
+				"나아가 응용학문의 단점인 단층적 지식을 다층화하기 위해 사회복지학의 인접학문에 해당되는 학술용어를 과감히 정리하여 다수를 첨가하였다."
+			],
+			[
+				15,
+				"위하",
+				"VV",
+				"나아가 응용학문의 단점인 단층적 지식을 다층화하기 위해 사회복지학의 인접학문에 해당되는 학술용어를 과감히 정리하여 다수를 첨가하였다."
+			],
+			[
+				16,
+				"해당되",
+				"VV",
+				"나아가 응용학문의 단점인 단층적 지식을 다층화하기 위해 사회복지학의 인접학문에 해당되는 학술용어를 과감히 정리하여 다수를 첨가하였다."
+			],
+			[
+				17,
+				"정리하",
+				"VV",
+				"나아가 응용학문의 단점인 단층적 지식을 다층화하기 위해 사회복지학의 인접학문에 해당되는 학술용어를 과감히 정리하여 다수를 첨가하였다."
+			],
+			[
+				18,
+				"첨가하",
+				"VV",
+				"나아가 응용학문의 단점인 단층적 지식을 다층화하기 위해 사회복지학의 인접학문에 해당되는 학술용어를 과감히 정리하여 다수를 첨가하였다."
+			],
+			[
+				19,
+				"가지",
+				"VV",
+				"그리고 바로 이것이 이 책만이 가지고 있는 장점이다."
+			],
+			[
+				20,
+				"있",
+				"VX",
+				"그리고 바로 이것이 이 책만이 가지고 있는 장점이다."
+			],
+			[
+				21,
+				"이",
+				"VCP",
+				"그리고 바로 이것이 이 책만이 가지고 있는 장점이다."
+			]
+		],
+		"VV_Lst": [
+			[
+				0,
+				"넘",
+				"VV",
+				"딱딱한 사전의 한계를 넘고자 책의 내용은 촘촘하되 읽기에는 재미있는 책을 쓰고자 노력하였다."
+			],
+			[
+				1,
+				"읽",
+				"VV",
+				"딱딱한 사전의 한계를 넘고자 책의 내용은 촘촘하되 읽기에는 재미있는 책을 쓰고자 노력하였다."
+			],
+			[
+				2,
+				"쓰",
+				"VV",
+				"딱딱한 사전의 한계를 넘고자 책의 내용은 촘촘하되 읽기에는 재미있는 책을 쓰고자 노력하였다."
+			],
+			[
+				3,
+				"노력하",
+				"VV",
+				"딱딱한 사전의 한계를 넘고자 책의 내용은 촘촘하되 읽기에는 재미있는 책을 쓰고자 노력하였다."
+			],
+			[
+				4,
+				"담",
+				"VV",
+				"또한 최대한 많은 용어를 담아 선구적인 '한국사회복지학의 학술용어' 책을 만들고자 하였다."
+			],
+			[
+				5,
+				"만들",
+				"VV",
+				"또한 최대한 많은 용어를 담아 선구적인 '한국사회복지학의 학술용어' 책을 만들고자 하였다."
+			],
+			[
+				6,
+				"나아가",
+				"VV",
+				"나아가 응용학문의 단점인 단층적 지식을 다층화하기 위해 사회복지학의 인접학문에 해당되는 학술용어를 과감히 정리하여 다수를 첨가하였다."
+			],
+			[
+				7,
+				"다층화하",
+				"VV",
+				"나아가 응용학문의 단점인 단층적 지식을 다층화하기 위해 사회복지학의 인접학문에 해당되는 학술용어를 과감히 정리하여 다수를 첨가하였다."
+			],
+			[
+				8,
+				"위하",
+				"VV",
+				"나아가 응용학문의 단점인 단층적 지식을 다층화하기 위해 사회복지학의 인접학문에 해당되는 학술용어를 과감히 정리하여 다수를 첨가하였다."
+			],
+			[
+				9,
+				"해당되",
+				"VV",
+				"나아가 응용학문의 단점인 단층적 지식을 다층화하기 위해 사회복지학의 인접학문에 해당되는 학술용어를 과감히 정리하여 다수를 첨가하였다."
+			],
+			[
+				10,
+				"정리하",
+				"VV",
+				"나아가 응용학문의 단점인 단층적 지식을 다층화하기 위해 사회복지학의 인접학문에 해당되는 학술용어를 과감히 정리하여 다수를 첨가하였다."
+			],
+			[
+				11,
+				"첨가하",
+				"VV",
+				"나아가 응용학문의 단점인 단층적 지식을 다층화하기 위해 사회복지학의 인접학문에 해당되는 학술용어를 과감히 정리하여 다수를 첨가하였다."
+			],
+			[
+				12,
+				"가지",
+				"VV",
+				"그리고 바로 이것이 이 책만이 가지고 있는 장점이다."
+			]
+		],
+		"VA_Lst": [
+			[
+				0,
+				"딱딱하",
+				"VA",
+				"딱딱한 사전의 한계를 넘고자 책의 내용은 촘촘하되 읽기에는 재미있는 책을 쓰고자 노력하였다."
+			],
+			[
+				1,
+				"촘촘하",
+				"VA",
+				"딱딱한 사전의 한계를 넘고자 책의 내용은 촘촘하되 읽기에는 재미있는 책을 쓰고자 노력하였다."
+			],
+			[
+				2,
+				"재미있",
+				"VA",
+				"딱딱한 사전의 한계를 넘고자 책의 내용은 촘촘하되 읽기에는 재미있는 책을 쓰고자 노력하였다."
+			],
+			[
+				3,
+				"많",
+				"VA",
+				"또한 최대한 많은 용어를 담아 선구적인 '한국사회복지학의 학술용어' 책을 만들고자 하였다."
+			]
+		],
+		"VX_Lst": [
+			[
+				0,
+				"하",
+				"VX",
+				"또한 최대한 많은 용어를 담아 선구적인 '한국사회복지학의 학술용어' 책을 만들고자 하였다."
+			],
+			[
+				1,
+				"있",
+				"VX",
+				"그리고 바로 이것이 이 책만이 가지고 있는 장점이다."
+			]
+		],
+		"VCP_Lst": [
+			[
+				0,
+				"이",
+				"VCP",
+				"또한 최대한 많은 용어를 담아 선구적인 '한국사회복지학의 학술용어' 책을 만들고자 하였다."
+			],
+			[
+				1,
+				"이",
+				"VCP",
+				"나아가 응용학문의 단점인 단층적 지식을 다층화하기 위해 사회복지학의 인접학문에 해당되는 학술용어를 과감히 정리하여 다수를 첨가하였다."
+			],
+			[
+				2,
+				"이",
+				"VCP",
+				"그리고 바로 이것이 이 책만이 가지고 있는 장점이다."
+			]
+		],
+		"VCN_Lst": [],
+		"ML_Lst": [
+			[
+				0,
+				"또한",
+				"MAG",
+				"또한 최대한 많은 용어를 담아 선구적인 '한국사회복지학의 학술용어' 책을 만들고자 하였다."
+			],
+			[
+				1,
+				"과감히",
+				"MAG",
+				"나아가 응용학문의 단점인 단층적 지식을 다층화하기 위해 사회복지학의 인접학문에 해당되는 학술용어를 과감히 정리하여 다수를 첨가하였다."
+			],
+			[
+				2,
+				"그리고",
+				"MAJ",
+				"그리고 바로 이것이 이 책만이 가지고 있는 장점이다."
+			],
+			[
+				3,
+				"바로",
+				"MAG",
+				"그리고 바로 이것이 이 책만이 가지고 있는 장점이다."
+			]
+		],
+		"MA_Lst": [],
+		"MM_Lst": [],
+		"J_Lst": [
+			[
+				0,
+				"의",
+				"JKG",
+				"딱딱한 사전의 한계를 넘고자 책의 내용은 촘촘하되 읽기에는 재미있는 책을 쓰고자 노력하였다."
+			],
+			[
+				1,
+				"를",
+				"JKO",
+				"딱딱한 사전의 한계를 넘고자 책의 내용은 촘촘하되 읽기에는 재미있는 책을 쓰고자 노력하였다."
+			],
+			[
+				2,
+				"의",
+				"JKG",
+				"딱딱한 사전의 한계를 넘고자 책의 내용은 촘촘하되 읽기에는 재미있는 책을 쓰고자 노력하였다."
+			],
+			[
+				3,
+				"은",
+				"JX",
+				"딱딱한 사전의 한계를 넘고자 책의 내용은 촘촘하되 읽기에는 재미있는 책을 쓰고자 노력하였다."
+			],
+			[
+				4,
+				"에",
+				"JKB",
+				"딱딱한 사전의 한계를 넘고자 책의 내용은 촘촘하되 읽기에는 재미있는 책을 쓰고자 노력하였다."
+			],
+			[
+				5,
+				"는",
+				"JX",
+				"딱딱한 사전의 한계를 넘고자 책의 내용은 촘촘하되 읽기에는 재미있는 책을 쓰고자 노력하였다."
+			],
+			[
+				6,
+				"을",
+				"JKO",
+				"딱딱한 사전의 한계를 넘고자 책의 내용은 촘촘하되 읽기에는 재미있는 책을 쓰고자 노력하였다."
+			],
+			[
+				7,
+				"를",
+				"JKO",
+				"또한 최대한 많은 용어를 담아 선구적인 '한국사회복지학의 학술용어' 책을 만들고자 하였다."
+			],
+			[
+				8,
+				"의",
+				"JKG",
+				"또한 최대한 많은 용어를 담아 선구적인 '한국사회복지학의 학술용어' 책을 만들고자 하였다."
+			],
+			[
+				9,
+				"을",
+				"JKO",
+				"또한 최대한 많은 용어를 담아 선구적인 '한국사회복지학의 학술용어' 책을 만들고자 하였다."
+			],
+			[
+				10,
+				"의",
+				"JKG",
+				"나아가 응용학문의 단점인 단층적 지식을 다층화하기 위해 사회복지학의 인접학문에 해당되는 학술용어를 과감히 정리하여 다수를 첨가하였다."
+			],
+			[
+				11,
+				"을",
+				"JKO",
+				"나아가 응용학문의 단점인 단층적 지식을 다층화하기 위해 사회복지학의 인접학문에 해당되는 학술용어를 과감히 정리하여 다수를 첨가하였다."
+			],
+			[
+				12,
+				"의",
+				"JKG",
+				"나아가 응용학문의 단점인 단층적 지식을 다층화하기 위해 사회복지학의 인접학문에 해당되는 학술용어를 과감히 정리하여 다수를 첨가하였다."
+			],
+			[
+				13,
+				"에",
+				"JKB",
+				"나아가 응용학문의 단점인 단층적 지식을 다층화하기 위해 사회복지학의 인접학문에 해당되는 학술용어를 과감히 정리하여 다수를 첨가하였다."
+			],
+			[
+				14,
+				"를",
+				"JKO",
+				"나아가 응용학문의 단점인 단층적 지식을 다층화하기 위해 사회복지학의 인접학문에 해당되는 학술용어를 과감히 정리하여 다수를 첨가하였다."
+			],
+			[
+				15,
+				"를",
+				"JKO",
+				"나아가 응용학문의 단점인 단층적 지식을 다층화하기 위해 사회복지학의 인접학문에 해당되는 학술용어를 과감히 정리하여 다수를 첨가하였다."
+			],
+			[
+				16,
+				"이",
+				"JKS",
+				"그리고 바로 이것이 이 책만이 가지고 있는 장점이다."
+			],
+			[
+				17,
+				"만",
+				"JX",
+				"그리고 바로 이것이 이 책만이 가지고 있는 장점이다."
+			],
+			[
+				18,
+				"이",
+				"JKS",
+				"그리고 바로 이것이 이 책만이 가지고 있는 장점이다."
+			]
+		],
+		"E_Lst": [
+			[
+				0,
+				"ㄴ",
+				"ETM",
+				"딱딱한 사전의 한계를 넘고자 책의 내용은 촘촘하되 읽기에는 재미있는 책을 쓰고자 노력하였다."
+			],
+			[
+				1,
+				"고자",
+				"EC",
+				"딱딱한 사전의 한계를 넘고자 책의 내용은 촘촘하되 읽기에는 재미있는 책을 쓰고자 노력하였다."
+			],
+			[
+				2,
+				"되",
+				"EC",
+				"딱딱한 사전의 한계를 넘고자 책의 내용은 촘촘하되 읽기에는 재미있는 책을 쓰고자 노력하였다."
+			],
+			[
+				3,
+				"기",
+				"ETN",
+				"딱딱한 사전의 한계를 넘고자 책의 내용은 촘촘하되 읽기에는 재미있는 책을 쓰고자 노력하였다."
+			],
+			[
+				4,
+				"는",
+				"ETM",
+				"딱딱한 사전의 한계를 넘고자 책의 내용은 촘촘하되 읽기에는 재미있는 책을 쓰고자 노력하였다."
+			],
+			[
+				5,
+				"고자",
+				"EC",
+				"딱딱한 사전의 한계를 넘고자 책의 내용은 촘촘하되 읽기에는 재미있는 책을 쓰고자 노력하였다."
+			],
+			[
+				6,
+				"았",
+				"EP",
+				"딱딱한 사전의 한계를 넘고자 책의 내용은 촘촘하되 읽기에는 재미있는 책을 쓰고자 노력하였다."
+			],
+			[
+				7,
+				"다",
+				"EF",
+				"딱딱한 사전의 한계를 넘고자 책의 내용은 촘촘하되 읽기에는 재미있는 책을 쓰고자 노력하였다."
+			],
+			[
+				8,
+				"은",
+				"ETM",
+				"또한 최대한 많은 용어를 담아 선구적인 '한국사회복지학의 학술용어' 책을 만들고자 하였다."
+			],
+			[
+				9,
+				"아",
+				"EC",
+				"또한 최대한 많은 용어를 담아 선구적인 '한국사회복지학의 학술용어' 책을 만들고자 하였다."
+			],
+			[
+				10,
+				"ㄴ",
+				"ETM",
+				"또한 최대한 많은 용어를 담아 선구적인 '한국사회복지학의 학술용어' 책을 만들고자 하였다."
+			],
+			[
+				11,
+				"고자",
+				"EC",
+				"또한 최대한 많은 용어를 담아 선구적인 '한국사회복지학의 학술용어' 책을 만들고자 하였다."
+			],
+			[
+				12,
+				"았",
+				"EP",
+				"또한 최대한 많은 용어를 담아 선구적인 '한국사회복지학의 학술용어' 책을 만들고자 하였다."
+			],
+			[
+				13,
+				"다",
+				"EF",
+				"또한 최대한 많은 용어를 담아 선구적인 '한국사회복지학의 학술용어' 책을 만들고자 하였다."
+			],
+			[
+				14,
+				"아",
+				"EC",
+				"나아가 응용학문의 단점인 단층적 지식을 다층화하기 위해 사회복지학의 인접학문에 해당되는 학술용어를 과감히 정리하여 다수를 첨가하였다."
+			],
+			[
+				15,
+				"ㄴ",
+				"ETM",
+				"나아가 응용학문의 단점인 단층적 지식을 다층화하기 위해 사회복지학의 인접학문에 해당되는 학술용어를 과감히 정리하여 다수를 첨가하였다."
+			],
+			[
+				16,
+				"기",
+				"ETN",
+				"나아가 응용학문의 단점인 단층적 지식을 다층화하기 위해 사회복지학의 인접학문에 해당되는 학술용어를 과감히 정리하여 다수를 첨가하였다."
+			],
+			[
+				17,
+				"아",
+				"EC",
+				"나아가 응용학문의 단점인 단층적 지식을 다층화하기 위해 사회복지학의 인접학문에 해당되는 학술용어를 과감히 정리하여 다수를 첨가하였다."
+			],
+			[
+				18,
+				"는",
+				"ETM",
+				"나아가 응용학문의 단점인 단층적 지식을 다층화하기 위해 사회복지학의 인접학문에 해당되는 학술용어를 과감히 정리하여 다수를 첨가하였다."
+			],
+			[
+				19,
+				"아",
+				"EC",
+				"나아가 응용학문의 단점인 단층적 지식을 다층화하기 위해 사회복지학의 인접학문에 해당되는 학술용어를 과감히 정리하여 다수를 첨가하였다."
+			],
+			[
+				20,
+				"았",
+				"EP",
+				"나아가 응용학문의 단점인 단층적 지식을 다층화하기 위해 사회복지학의 인접학문에 해당되는 학술용어를 과감히 정리하여 다수를 첨가하였다."
+			],
+			[
+				21,
+				"다",
+				"EF",
+				"나아가 응용학문의 단점인 단층적 지식을 다층화하기 위해 사회복지학의 인접학문에 해당되는 학술용어를 과감히 정리하여 다수를 첨가하였다."
+			],
+			[
+				22,
+				"고",
+				"EC",
+				"그리고 바로 이것이 이 책만이 가지고 있는 장점이다."
+			],
+			[
+				23,
+				"는",
+				"ETM",
+				"그리고 바로 이것이 이 책만이 가지고 있는 장점이다."
+			],
+			[
+				24,
+				"다",
+				"EF",
+				"그리고 바로 이것이 이 책만이 가지고 있는 장점이다."
+			]
+		],
+		"X_Lst": [
+			[
+				0,
+				"적",
+				"XSN",
+				"또한 최대한 많은 용어를 담아 선구적인 '한국사회복지학의 학술용어' 책을 만들고자 하였다."
+			],
+			[
+				1,
+				"적",
+				"XSN",
+				"나아가 응용학문의 단점인 단층적 지식을 다층화하기 위해 사회복지학의 인접학문에 해당되는 학술용어를 과감히 정리하여 다수를 첨가하였다."
+			]
+		],
+		"IC_Lst": []
+	},
+	"NDW": {
+		"morph_NDW": 66,
+		"NL_NDW": 27,
+		"NNG_NDW": 26,
+		"NNP_NDW": 0,
+		"NNB_NDW": 0,
+		"NP_NDW": 1,
+		"NR_NDW": 0,
+		"VL_NDW": 22,
+		"VV_NDW": 13,
+		"VA_NDW": 4,
+		"ML_NDW": 4,
+		"MM_NDW": 0,
+		"IC_NDW": 0,
+		"J_NDW": 19,
+		"E_NDW": 25,
+		"X_NDW": 2,
+		"CL_NDW": 53,
+		"FL_NDW": 46
+	}
+}

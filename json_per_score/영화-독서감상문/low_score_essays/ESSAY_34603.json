@@ -1,0 +1,5080 @@
+﻿{
+	"morpheme": {
+		"sentences": [
+			{
+				"text": {
+					"content": "제목: 완득이 저자: 김려렴",
+					"length": 15,
+					"beginOffset": 0
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "제목:",
+							"length": 3,
+							"beginOffset": 0
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "제목",
+									"length": 2,
+									"beginOffset": 0
+								},
+								"tag": "NNG",
+								"probability": 0.9659269,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ":",
+									"beginOffset": 2,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.9984156,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "제목",
+						"tagged": "제목/NNG+:/SP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "완득이",
+							"beginOffset": 4,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "완득이",
+									"beginOffset": 4,
+									"length": 3
+								},
+								"tag": "NNP",
+								"probability": 0.4221268,
+								"outOfVocab": "OUT_OF_VOCAB"
+							}
+						],
+						"lemma": "완득이",
+						"tagged": "완득이/NNP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "저자:",
+							"beginOffset": 8,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "저자",
+									"beginOffset": 8,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.94985497,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ":",
+									"beginOffset": 10,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.9990503,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "저자",
+						"tagged": "저자/NNG+:/SP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "김려렴",
+							"beginOffset": 12,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "김려렴",
+									"beginOffset": 12,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.36087307,
+								"outOfVocab": "OUT_OF_VOCAB"
+							}
+						],
+						"lemma": "김려렴",
+						"tagged": "김려렴/NNG",
+						"modified": ""
+					}
+				],
+				"refined": "제목: 완득이 저자: 김려렴"
+			},
+			{
+				"text": {
+					"content": "# 완득이# 김려렴 장편소설# 똥주",
+					"beginOffset": 16,
+					"length": 19
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "#",
+							"beginOffset": 16,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "#",
+									"beginOffset": 16,
+									"length": 1
+								},
+								"tag": "SW",
+								"probability": 0.99692565,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "#",
+						"tagged": "#/SW",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "완득이#",
+							"beginOffset": 18,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "완득이",
+									"beginOffset": 18,
+									"length": 3
+								},
+								"tag": "NNP",
+								"probability": 0.6185709,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "#",
+									"beginOffset": 21,
+									"length": 1
+								},
+								"tag": "SW",
+								"probability": 0.9926782,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "완득이",
+						"tagged": "완득이/NNP+#/SW",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "김려렴",
+							"beginOffset": 23,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "김려렴",
+									"beginOffset": 23,
+									"length": 3
+								},
+								"tag": "NNP",
+								"probability": 0.823685,
+								"outOfVocab": "OUT_OF_VOCAB"
+							}
+						],
+						"lemma": "김려렴",
+						"tagged": "김려렴/NNP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "장편소설#",
+							"beginOffset": 27,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "장편",
+									"beginOffset": 27,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "소설",
+									"beginOffset": 29,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "#",
+									"beginOffset": 31,
+									"length": 1
+								},
+								"tag": "SW",
+								"probability": 0.97804254,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "장편",
+						"tagged": "장편/NNG+소설/NNG+#/SW",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "똥주",
+							"beginOffset": 33,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "똥주",
+									"beginOffset": 33,
+									"length": 2
+								},
+								"tag": "NNP",
+								"probability": 0.85548717,
+								"outOfVocab": "OUT_OF_VOCAB"
+							}
+						],
+						"lemma": "똥주",
+						"tagged": "똥주/NNP",
+						"modified": ""
+					}
+				],
+				"refined": "# 완득이# 김려렴 장편소설# 똥주"
+			},
+			{
+				"text": {
+					"content": "명문장: 자기 집 앞에 차를 댔는데, 못으로 씨불놈이라고 써놓는 게 정상입니까?",
+					"beginOffset": 36,
+					"length": 44
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "명문장:",
+							"beginOffset": 36,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "명문장",
+									"beginOffset": 36,
+									"length": 3
+								},
+								"tag": "NNP",
+								"probability": 0.62237287,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": ":",
+									"beginOffset": 39,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.99895996,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "명문장",
+						"tagged": "명문장/NNP+:/SP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "자기",
+							"beginOffset": 41,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "자기",
+									"beginOffset": 41,
+									"length": 2
+								},
+								"tag": "NP",
+								"probability": 0.9636348,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "자기",
+						"tagged": "자기/NP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "집",
+							"beginOffset": 44,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "집",
+									"beginOffset": 44,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.97794867,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "집",
+						"tagged": "집/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "앞에",
+							"beginOffset": 46,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "앞",
+									"beginOffset": 46,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9831557,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 47,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9933639,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "앞",
+						"tagged": "앞/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "차를",
+							"beginOffset": 49,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "차",
+									"beginOffset": 49,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9383919,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 50,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9996973,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "차",
+						"tagged": "차/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "댔는데",
+							"beginOffset": 52,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "대",
+									"beginOffset": 52,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.92882407,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 52,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9999567,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는데",
+									"beginOffset": 53,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9927704,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "대",
+						"tagged": "대/VV+었/EP+는데/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": ",",
+							"beginOffset": 55,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 55,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.9992109,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": ",",
+						"tagged": ",/SP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "못으로",
+							"beginOffset": 57,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "못",
+									"beginOffset": 57,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.97816044,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으로",
+									"beginOffset": 58,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9954976,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "못",
+						"tagged": "못/NNG+으로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "씨불놈이라고",
+							"beginOffset": 61,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "씨불놈",
+									"beginOffset": 61,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.6122647,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 64,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.99953085,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "라고",
+									"beginOffset": 65,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.98967755,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "씨불놈",
+						"tagged": "씨불놈/NNG+이/VCP+라고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "써",
+							"beginOffset": 68,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "쓰",
+									"beginOffset": 68,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9861913,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어",
+									"beginOffset": 68,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9952249,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "쓰",
+						"tagged": "쓰/VV+어/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "놓는",
+							"beginOffset": 69,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "놓",
+									"beginOffset": 69,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.9548977,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 70,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99989176,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "놓",
+						"tagged": "놓/VX+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "게",
+							"beginOffset": 72,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "거",
+									"beginOffset": 72,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.98102075,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 72,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.98355603,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "거",
+						"tagged": "거/NNB+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "정상입니까?",
+							"beginOffset": 74,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "정상",
+									"beginOffset": 74,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97851,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 76,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.999775,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㅂ니까",
+									"beginOffset": 76,
+									"length": 3
+								},
+								"tag": "EF",
+								"probability": 0.98951906,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "?",
+									"beginOffset": 79,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9996111,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "정상",
+						"tagged": "정상/NNG+이/VCP+ㅂ니까/EF+?/SF",
+						"modified": ""
+					}
+				],
+				"refined": "명문장: 자기 집 앞에 차를 댔는데 , 못으로 씨불놈이라고 써 놓는 게 정상입니까?"
+			},
+			{
+				"text": {
+					"content": "저분이 장애인이 아니었다면, 저 양반이 그런 짓을 할 수 있었겠냐고요.",
+					"beginOffset": 81,
+					"length": 39
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "저분이",
+							"beginOffset": 81,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "저분",
+									"beginOffset": 81,
+									"length": 2
+								},
+								"tag": "NP",
+								"probability": 0.9847873,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 83,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9778414,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "저분",
+						"tagged": "저분/NP+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "장애인이",
+							"beginOffset": 85,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "장애인",
+									"beginOffset": 85,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.98036987,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 88,
+									"length": 1
+								},
+								"tag": "JKC",
+								"probability": 0.97870773,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "장애인",
+						"tagged": "장애인/NNG+이/JKC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "아니었다면",
+							"beginOffset": 90,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "아니",
+									"beginOffset": 90,
+									"length": 2
+								},
+								"tag": "VCN",
+								"probability": 0.99993294,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 92,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99996763,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다면",
+									"beginOffset": 93,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9937054,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "아니",
+						"tagged": "아니/VCN+었/EP+다면/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": ",",
+							"beginOffset": 95,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 95,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.9989728,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": ",",
+						"tagged": ",/SP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "저",
+							"beginOffset": 97,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "저",
+									"beginOffset": 97,
+									"length": 1
+								},
+								"tag": "MMD",
+								"probability": 0.9995442,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "저",
+						"tagged": "저/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "양반이",
+							"beginOffset": 99,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "양반",
+									"beginOffset": 99,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9823637,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 101,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.96167994,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "양반",
+						"tagged": "양반/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "그런",
+							"beginOffset": 103,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그런",
+									"beginOffset": 103,
+									"length": 2
+								},
+								"tag": "MMD",
+								"probability": 0.9990137,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그런",
+						"tagged": "그런/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "짓을",
+							"beginOffset": 106,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "짓",
+									"beginOffset": 106,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9350642,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 107,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99985266,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "짓",
+						"tagged": "짓/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "할",
+							"beginOffset": 109,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 109,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9648893,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ",
+									"beginOffset": 109,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9998964,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VV+ㄹ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "수",
+							"beginOffset": 111,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "수",
+									"beginOffset": 111,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9824555,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "수",
+						"tagged": "수/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있었겠냐고요.",
+							"beginOffset": 113,
+							"length": 7
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 113,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9588969,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 114,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99987066,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "겠",
+									"beginOffset": 115,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.98919505,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "냐고",
+									"beginOffset": 116,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.9797241,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "요",
+									"beginOffset": 118,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9986658,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 119,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99850684,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VA+었/EP+겠/EP+냐고/EF+요/JX+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "저분이 장애인이 아니었다면 , 저 양반이 그런 짓을 할 수 있었겠냐고요."
+			},
+			{
+				"text": {
+					"content": "사회가 이러면 안됩니다.",
+					"beginOffset": 121,
+					"length": 13
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "사회가",
+							"beginOffset": 121,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사회",
+									"beginOffset": 121,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97756565,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 123,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.8009369,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사회",
+						"tagged": "사회/NNG+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이러면",
+							"beginOffset": 125,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이러",
+									"beginOffset": 125,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.98784214,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "면",
+									"beginOffset": 127,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99489677,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이러",
+						"tagged": "이러/VV+면/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "안됩니다.",
+							"beginOffset": 129,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "안되",
+									"beginOffset": 129,
+									"length": 2
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㅂ니다",
+									"beginOffset": 130,
+									"length": 3
+								},
+								"tag": "EF",
+								"probability": 0.99004954,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 133,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9970392,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "안되",
+						"tagged": "안되/VV+ㅂ니다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "사회가 이러면 안됩니다."
+			},
+			{
+				"text": {
+					"content": "완득이라는 책을 읽었을 때 별 감흥이 없었다.",
+					"beginOffset": 135,
+					"length": 25
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "완득이라는",
+							"beginOffset": 135,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "완득",
+									"beginOffset": 135,
+									"length": 2
+								},
+								"tag": "NNP",
+								"probability": 0.647661,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 137,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.9998589,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "라는",
+									"beginOffset": 138,
+									"length": 2
+								},
+								"tag": "ETM",
+								"probability": 0.9999557,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "완득",
+						"tagged": "완득/NNP+이/VCP+라는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "책을",
+							"beginOffset": 141,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "책",
+									"beginOffset": 141,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.98376054,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 142,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99994123,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "책",
+						"tagged": "책/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "읽었을",
+							"beginOffset": 144,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "읽",
+									"beginOffset": 144,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.98977655,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 145,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9999505,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 146,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.999943,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "읽",
+						"tagged": "읽/VV+었/EP+을/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "때",
+							"beginOffset": 148,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "때",
+									"beginOffset": 148,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9851023,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "때",
+						"tagged": "때/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "별",
+							"beginOffset": 150,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "별",
+									"beginOffset": 150,
+									"length": 1
+								},
+								"tag": "MMA",
+								"probability": 0.9994978,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "별",
+						"tagged": "별/MMA",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "감흥이",
+							"beginOffset": 152,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "감흥",
+									"beginOffset": 152,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97080785,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 154,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9539926,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "감흥",
+						"tagged": "감흥/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "없었다.",
+							"beginOffset": 156,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "없",
+									"beginOffset": 156,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.99061006,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 157,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99992824,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 158,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9906107,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 159,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9996477,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "없",
+						"tagged": "없/VA+었/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "완득이라는 책을 읽었을 때 별 감흥이 없었다."
+			},
+			{
+				"text": {
+					"content": "하지만 한페이지 한페이지 넘길수록 다음 내용을 궁금하게 만들었다 초반데 비호감이던 똥주도 점점 지날수록 호감을 가졌다.",
+					"beginOffset": 161,
+					"length": 66
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "하지만",
+							"beginOffset": 161,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하지만",
+									"beginOffset": 161,
+									"length": 3
+								},
+								"tag": "MAJ",
+								"probability": 0.9985767,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하지만",
+						"tagged": "하지만/MAJ",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "한",
+							"beginOffset": 165,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "한",
+									"beginOffset": 165,
+									"length": 1
+								},
+								"tag": "MMN",
+								"probability": 0.9940936,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "한",
+						"tagged": "한/MMN",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "페이지",
+							"beginOffset": 166,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "페이지",
+									"beginOffset": 166,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9811547,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "페이지",
+						"tagged": "페이지/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "한",
+							"beginOffset": 170,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "한",
+									"beginOffset": 170,
+									"length": 1
+								},
+								"tag": "MMN",
+								"probability": 0.9942473,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "한",
+						"tagged": "한/MMN",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "페이지",
+							"beginOffset": 171,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "페이지",
+									"beginOffset": 171,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9831923,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "페이지",
+						"tagged": "페이지/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "넘길수록",
+							"beginOffset": 175,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "넘기",
+									"beginOffset": 175,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9908859,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ수록",
+									"beginOffset": 176,
+									"length": 3
+								},
+								"tag": "EC",
+								"probability": 0.9944284,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "넘기",
+						"tagged": "넘기/VV+ㄹ수록/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "다음",
+							"beginOffset": 180,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "다음",
+									"beginOffset": 180,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9839762,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "다음",
+						"tagged": "다음/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "내용을",
+							"beginOffset": 183,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "내용",
+									"beginOffset": 183,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9826893,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 185,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99986595,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "내용",
+						"tagged": "내용/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "궁금하게",
+							"beginOffset": 187,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "궁금하",
+									"beginOffset": 187,
+									"length": 3
+								},
+								"tag": "VA",
+								"probability": 0.9834367,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "게",
+									"beginOffset": 190,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9952282,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "궁금하",
+						"tagged": "궁금하/VA+게/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "만들었다",
+							"beginOffset": 192,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "만들",
+									"beginOffset": 192,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.98459995,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 194,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99987406,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 195,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.82374185,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "만들",
+						"tagged": "만들/VV+었/EP+다/EF",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "초반데",
+							"beginOffset": 197,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "초반",
+									"beginOffset": 197,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9830307,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "데",
+									"beginOffset": 199,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.7043104,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "초반",
+						"tagged": "초반/NNG+데/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "비호감이던",
+							"beginOffset": 201,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "비",
+									"beginOffset": 201,
+									"length": 1
+								},
+								"tag": "XPN",
+								"probability": 0.96741277,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "호감",
+									"beginOffset": 202,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98797446,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 204,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.9996273,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "던",
+									"beginOffset": 205,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99949086,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "비",
+						"tagged": "비/XPN+호감/NNG+이/VCP+던/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "똥주도",
+							"beginOffset": 207,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "똥주",
+									"beginOffset": 207,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.6087759,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 209,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99938524,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "똥주",
+						"tagged": "똥주/NNG+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "점점",
+							"beginOffset": 211,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "점점",
+									"beginOffset": 211,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.99301994,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "점점",
+						"tagged": "점점/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "지날수록",
+							"beginOffset": 214,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "지나",
+									"beginOffset": 214,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9843421,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ수록",
+									"beginOffset": 215,
+									"length": 3
+								},
+								"tag": "EC",
+								"probability": 0.9959095,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "지나",
+						"tagged": "지나/VV+ㄹ수록/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "호감을",
+							"beginOffset": 219,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "호감",
+									"beginOffset": 219,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9858415,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 221,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9998934,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "호감",
+						"tagged": "호감/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "가졌다.",
+							"beginOffset": 223,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "가지",
+									"beginOffset": 223,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.98739177,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 224,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9999099,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 225,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9926355,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 226,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9998663,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "가지",
+						"tagged": "가지/VV+었/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "하지만 한 페이지 한 페이지 넘길수록 다음 내용을 궁금하게 만들었다 초반데 비호감이던 똥주도 점점 지날수록 호감을 가졌다."
+			},
+			{
+				"text": {
+					"content": "이 만화의 명문장도 똥주의 말을 가져왔다.",
+					"beginOffset": 228,
+					"length": 23
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "이",
+							"beginOffset": 228,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 228,
+									"length": 1
+								},
+								"tag": "MMD",
+								"probability": 0.9993921,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이",
+						"tagged": "이/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "만화의",
+							"beginOffset": 230,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "만화",
+									"beginOffset": 230,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.96987206,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 232,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99946964,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "만화",
+						"tagged": "만화/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "명문장도",
+							"beginOffset": 234,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "명문장",
+									"beginOffset": 234,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.6190373,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 237,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99832004,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "명문장",
+						"tagged": "명문장/NNG+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "똥주의",
+							"beginOffset": 239,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "똥주",
+									"beginOffset": 239,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.41738066,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 241,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9992878,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "똥주",
+						"tagged": "똥주/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "말을",
+							"beginOffset": 243,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "말",
+									"beginOffset": 243,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.96635044,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 244,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99988174,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "말",
+						"tagged": "말/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "가져왔다.",
+							"beginOffset": 246,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "가져오",
+									"beginOffset": 246,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.9873435,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 248,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9999272,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 249,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9912242,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 250,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9997298,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "가져오",
+						"tagged": "가져오/VV+았/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "이 만화의 명문장도 똥주의 말을 가져왔다."
+			},
+			{
+				"text": {
+					"content": "처음엔 주인공이랑 사이가 안좋은 선생인줄 알았지만 사실은 진짜 참선생이였다.",
+					"beginOffset": 252,
+					"length": 42
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "처음엔",
+							"beginOffset": 252,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "처음",
+									"beginOffset": 252,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9792228,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 254,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9927543,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 254,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99933773,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "처음",
+						"tagged": "처음/NNG+에/JKB+ㄴ/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "주인공이랑",
+							"beginOffset": 256,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "주인공",
+									"beginOffset": 256,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.97572875,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이랑",
+									"beginOffset": 259,
+									"length": 2
+								},
+								"tag": "JC",
+								"probability": 0.9156167,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "주인공",
+						"tagged": "주인공/NNG+이랑/JC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사이가",
+							"beginOffset": 262,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사이",
+									"beginOffset": 262,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9789857,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 264,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.98077834,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사이",
+						"tagged": "사이/NNG+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "안",
+							"beginOffset": 266,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "안",
+									"beginOffset": 266,
+									"length": 1
+								},
+								"tag": "MAG",
+								"probability": 0.9924682,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "안",
+						"tagged": "안/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "좋은",
+							"beginOffset": 267,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "좋",
+									"beginOffset": 267,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.98096,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 268,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999118,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "좋",
+						"tagged": "좋/VA+은/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "선생인",
+							"beginOffset": 270,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "선생",
+									"beginOffset": 270,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9849425,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 272,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.9999609,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 272,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99993247,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "선생",
+						"tagged": "선생/NNG+이/VCP+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "줄",
+							"beginOffset": 273,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "줄",
+									"beginOffset": 273,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9805207,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "줄",
+						"tagged": "줄/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "알았지만",
+							"beginOffset": 275,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "알",
+									"beginOffset": 275,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9857197,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 276,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9998575,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "지만",
+									"beginOffset": 277,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.98040134,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "알",
+						"tagged": "알/VV+았/EP+지만/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사실은",
+							"beginOffset": 280,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사실",
+									"beginOffset": 280,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98297256,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 282,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9993208,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사실",
+						"tagged": "사실/NNG+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "진짜",
+							"beginOffset": 284,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "진짜",
+									"beginOffset": 284,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98275703,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "진짜",
+						"tagged": "진짜/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "참선생이였다.",
+							"beginOffset": 287,
+							"length": 7
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "참",
+									"beginOffset": 287,
+									"length": 1
+								},
+								"tag": "NNP",
+								"probability": 0.6523375,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "선생",
+									"beginOffset": 288,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9867322,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 290,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.9995729,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 291,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9996748,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 292,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9927998,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 293,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99953115,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "참",
+						"tagged": "참/NNP+선생/NNG+이/VCP+었/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "처음엔 주인공이랑 사이가 안 좋은 선생인 줄 알았지만 사실은 진짜 참선생이였다."
+			},
+			{
+				"text": {
+					"content": "약자를 위하는 참선생 똥쥬와 그걸 잘 모르는 완득이.",
+					"beginOffset": 295,
+					"length": 29
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "약자를",
+							"beginOffset": 295,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "약자",
+									"beginOffset": 295,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97897464,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 297,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9998589,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "약자",
+						"tagged": "약자/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "위하는",
+							"beginOffset": 299,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "위하",
+									"beginOffset": 299,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.98816925,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 301,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999837,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "위하",
+						"tagged": "위하/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "참선생",
+							"beginOffset": 303,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "참",
+									"beginOffset": 303,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.6019627,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "선생",
+									"beginOffset": 304,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97643644,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "참",
+						"tagged": "참/NNG+선생/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "똥쥬와",
+							"beginOffset": 307,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "똥쥬",
+									"beginOffset": 307,
+									"length": 2
+								},
+								"tag": "NNP",
+								"probability": 0.5256953,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "와",
+									"beginOffset": 309,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.44991684,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "똥쥬",
+						"tagged": "똥쥬/NNP+와/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "그걸",
+							"beginOffset": 311,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그거",
+									"beginOffset": 311,
+									"length": 2
+								},
+								"tag": "NP",
+								"probability": 0.9871663,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ",
+									"beginOffset": 312,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99945104,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그거",
+						"tagged": "그거/NP+ㄹ/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "잘",
+							"beginOffset": 314,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "잘",
+									"beginOffset": 314,
+									"length": 1
+								},
+								"tag": "MAG",
+								"probability": 0.98937154,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "잘",
+						"tagged": "잘/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "모르는",
+							"beginOffset": 316,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "모르",
+									"beginOffset": 316,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.98672926,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 318,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999854,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "모르",
+						"tagged": "모르/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "완득이.",
+							"beginOffset": 320,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "완득이",
+									"beginOffset": 320,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.57190436,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 323,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99244237,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "완득이",
+						"tagged": "완득이/NNG+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "약자를 위하는 참선생 똥쥬와 그걸 잘 모르는 완득이."
+			},
+			{
+				"text": {
+					"content": "이 책을 추천합니다.",
+					"beginOffset": 325,
+					"length": 11
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "이",
+							"beginOffset": 325,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 325,
+									"length": 1
+								},
+								"tag": "MMD",
+								"probability": 0.9993049,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이",
+						"tagged": "이/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "책을",
+							"beginOffset": 327,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "책",
+									"beginOffset": 327,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9829879,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 328,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999387,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "책",
+						"tagged": "책/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "추천합니다.",
+							"beginOffset": 330,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "추천하",
+									"beginOffset": 330,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㅂ니다",
+									"beginOffset": 332,
+									"length": 3
+								},
+								"tag": "EF",
+								"probability": 0.9895032,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 335,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99928933,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "추천하",
+						"tagged": "추천하/VV+ㅂ니다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "이 책을 추천합니다."
+			}
+		],
+		"language": "ko_KR"
+	},
+	"ttr": {
+		"lemma_Cnt": 162,
+		"lemma_TTR": 0.6256983240223464,
+		"CL_TTR": 0.8068181818181818,
+		"NL_TTR": 0.7894736842105263,
+		"NN_TTR": 0.7777777777777778,
+		"NNG_TTR": 0.8571428571428571,
+		"NNP_TTR": 0.875,
+		"NNB_TTR": 1.0,
+		"NP_TTR": 1.0,
+		"NR_TTR": 0,
+		"VL_TTR": 0.8148148148148148,
+		"VV_TTR": 1.0,
+		"VA_TTR": 1.0,
+		"ML_TTR": 1.0,
+		"MM_TTR": 0,
+		"MA_TTR": 1.0,
+		"MAJ_TTR": 1.0,
+		"IC_TTR": 0,
+		"FL_TTR": 0.4925373134328358,
+		"J_TTR": 0.5,
+		"E_TTR": 0.5789473684210527,
+		"X_TTR": 1.0,
+		"lemma_RTTR": 8.371273038821682,
+		"CL_RTTR": 7.56862543062417,
+		"NL_RTTR": 5.960395606792697,
+		"NN_RTTR": 5.715476066494082,
+		"NNG_RTTR": 5.5549205986353085,
+		"NNP_RTTR": 2.4748737341529163,
+		"NNB_RTTR": 2.0,
+		"NP_RTTR": 1.7320508075688774,
+		"NR_RTTR": 0,
+		"VL_RTTR": 4.233901974057256,
+		"VV_RTTR": 3.8729833462074166,
+		"VA_RTTR": 2.0,
+		"ML_RTTR": 2.0,
+		"MM_RTTR": 0,
+		"MA_RTTR": 2.0,
+		"MAJ_RTTR": 1.0,
+		"IC_RTTR": 0,
+		"FL_RTTR": 4.031591663758072,
+		"J_RTTR": 2.6457513110645903,
+		"E_RTTR": 3.568871264876776,
+		"X_RTTR": 1.0,
+		"lemma_CTTR": 5.919383932914927,
+		"CL_CTTR": 5.351826366255304,
+		"NL_CTTR": 4.214636152117623,
+		"NN_CTTR": 4.041451884327381,
+		"NNG_CTTR": 3.927922024247863,
+		"NNP_CTTR": 1.75,
+		"NNB_CTTR": 1.414213562373095,
+		"NP_CTTR": 1.2247448713915892,
+		"NR_CTTR": 0,
+		"VL_CTTR": 2.9938207967349952,
+		"VV_CTTR": 2.7386127875258306,
+		"VA_CTTR": 1.414213562373095,
+		"ML_CTTR": 1.414213562373095,
+		"MM_CTTR": 0,
+		"MA_CTTR": 1.414213562373095,
+		"MAJ_CTTR": 0.7071067811865475,
+		"IC_CTTR": 0,
+		"FL_CTTR": 2.8507658044184883,
+		"J_CTTR": 1.8708286933869707,
+		"E_CTTR": 2.523573072576179,
+		"X_CTTR": 0.7071067811865475,
+		"lemma_MSTTR": 0.7600000000000001,
+		"CL_MSTTR": 0.9,
+		"NL_MSTTR": 0.84,
+		"NN_MSTTR": 0.82,
+		"NNG_MSTTR": 0.8571428571428571,
+		"NNP_MSTTR": 0.875,
+		"NNB_MSTTR": 1.0,
+		"NP_MSTTR": 1.0,
+		"NR_MSTTR": 0,
+		"VL_MSTTR": 0.8148148148148148,
+		"VV_MSTTR": 1.0,
+		"VA_MSTTR": 1.0,
+		"ML_MSTTR": 1.0,
+		"MM_MSTTR": 0,
+		"MA_MSTTR": 1.0,
+		"MAJ_MSTTR": 1.0,
+		"IC_MSTTR": 0,
+		"FL_MSTTR": 0.56,
+		"J_MSTTR": 0.5,
+		"E_MSTTR": 0.5789473684210527,
+		"X_MSTTR": 1.0,
+		"lemma_MATTR": 0.758153846153846,
+		"CL_MATTR": 0.8743589743589744,
+		"NL_MATTR": 0.835,
+		"NN_MATTR": 0.808,
+		"NNG_MATTR": 0.8571428571428571,
+		"NNP_MATTR": 0.875,
+		"NNB_MATTR": 1.0,
+		"NP_MATTR": 1.0,
+		"NR_MATTR": 0,
+		"VL_MATTR": 0.8148148148148148,
+		"VV_MATTR": 1.0,
+		"VA_MATTR": 1.0,
+		"ML_MATTR": 1.0,
+		"MM_MATTR": 0,
+		"MA_MATTR": 1.0,
+		"MAJ_MATTR": 1.0,
+		"IC_MATTR": 0,
+		"FL_MATTR": 0.5466666666666664,
+		"J_MATTR": 0.5,
+		"E_MATTR": 0.5789473684210527,
+		"X_MATTR": 1.0,
+		"lemma_MTLD": 63.1707974137931,
+		"CL_MTLD": 127.54823529411762,
+		"NL_MTLD": 75.81000000000002,
+		"NN_MTLD": 68.04,
+		"NNG_MTLD": 82.31999999999998,
+		"NNP_MTLD": 17.92,
+		"NNB_MTLD": 0.0,
+		"NP_MTLD": 0.0,
+		"NR_MTLD": 0.0,
+		"VL_MTLD": 40.82399999999999,
+		"VV_MTLD": 0.0,
+		"VA_MTLD": 0.0,
+		"ML_MTLD": 0.0,
+		"MM_MTLD": 0.0,
+		"MA_MTLD": 0.0,
+		"MAJ_MTLD": 0.0,
+		"IC_MTLD": 0.0,
+		"FL_MTLD": 18.809685303775463,
+		"J_MTLD": 14.0,
+		"E_MTLD": 16.61705685618729,
+		"X_MTLD": 0.0,
+		"lemma_VOCDD": 84.56080735781295,
+		"CL_VOCDD": 138.88588213827697,
+		"NL_VOCDD": 89.13095041793365,
+		"NN_VOCDD": 77.09244649538381,
+		"NNG_VOCDD": 0,
+		"NNP_VOCDD": 0,
+		"NNB_VOCDD": 0,
+		"NP_VOCDD": 0,
+		"NR_VOCDD": 0,
+		"VL_VOCDD": 0,
+		"VV_VOCDD": 0,
+		"VA_VOCDD": 0,
+		"ML_VOCDD": 0,
+		"MM_VOCDD": 0,
+		"MA_VOCDD": 0,
+		"MAJ_VOCDD": 0,
+		"IC_VOCDD": 0,
+		"FL_VOCDD": 18.694134776819183,
+		"J_VOCDD": 0,
+		"E_VOCDD": 0,
+		"X_VOCDD": 0,
+		"lemma_HDD": 0.8284809456199005,
+		"CL_HDD": 0.882359504124738,
+		"NL_HDD": 0.835355434039645,
+		"NN_HDD": 0.818174487985808,
+		"NNG_HDD": 0.8571428571428578,
+		"NNP_HDD": 0.0,
+		"NNB_HDD": 0.0,
+		"NP_HDD": 0.0,
+		"NR_HDD": 0.0,
+		"VL_HDD": 0.0,
+		"VV_HDD": 0.0,
+		"VA_HDD": 0.0,
+		"ML_HDD": 0.0,
+		"MM_HDD": 0.0,
+		"MA_HDD": 0.0,
+		"MAJ_HDD": 0.0,
+		"IC_HDD": 0.0,
+		"FL_HDD": 0.5977249085200537,
+		"J_HDD": 0.0,
+		"E_HDD": 0.0,
+		"X_HDD": 0.0
+	},
+	"similarity": {
+		"avgSentSimilarity": 0.052725598216056824,
+		"topicConsistency": 0.5826
+	},
+	"adjacency": {
+		"adjacent_sentence_overlap_all_lemmas": 105,
+		"adjacent_sentence_overlap_all_lemmas_normed": 10,
+		"binary_adjacent_sentence_overlap_all_lemmas": 9,
+		"adjacent_two_sentence_overlap_all_lemmas": 72,
+		"adjacent_two_sentence_overlap_all_lemmas_normed": 9,
+		"binary_adjacent_two_sentence_overlap_all_lemmas": 7,
+		"adjacent_sentence_overlap_content_lemmas": 61,
+		"adjacent_sentence_overlap_content_lemmas_normed": 10,
+		"binary_adjacent_sentence_overlap_content_lemmas": 5,
+		"adjacent_two_sentence_overlap_content_lemmas": 50,
+		"adjacent_two_sentence_overlap_content_lemmas_normed": 9,
+		"binary_adjacent_two_sentence_overlap_content_lemmas": 3,
+		"adjacent_sentence_overlap_function_lemmas": 34,
+		"adjacent_sentence_overlap_function_lemmas_normed": 8,
+		"binary_adjacent_sentence_overlap_function_lemmas": 4,
+		"adjacent_two_sentence_overlap_function_lemmas": 15,
+		"adjacent_two_sentence_overlap_function_lemmas_normed": 7,
+		"binary_adjacent_two_sentence_overlap_function_lemmas": 2,
+		"adjacent_sentence_overlap_noun_lemmas": 46,
+		"adjacent_sentence_overlap_noun_lemmas_normed": 10,
+		"binary_adjacent_sentence_overlap_noun_lemmas": 3,
+		"adjacent_two_sentence_overlap_noun_lemmas": 38,
+		"adjacent_two_sentence_overlap_noun_lemmas_normed": 9,
+		"binary_adjacent_two_sentence_overlap_noun_lemmas": 0,
+		"adjacent_sentence_overlap_verb_lemmas": 15,
+		"adjacent_sentence_overlap_verb_lemmas_normed": 8,
+		"binary_adjacent_sentence_overlap_verb_lemmas": 3,
+		"adjacent_two_sentence_overlap_verb_lemmas": 12,
+		"adjacent_two_sentence_overlap_verb_lemmas_normed": 7,
+		"binary_adjacent_two_sentence_overlap_verb_lemmas": 2,
+		"adjacent_sentence_overlap_adjective_lemmas": 1,
+		"adjacent_sentence_overlap_adjective_lemmas_normed": 1,
+		"binary_adjacent_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_sentence_overlap_adverb_lemmas": 1,
+		"adjacent_sentence_overlap_adverb_lemmas_normed": 1,
+		"binary_adjacent_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adverb_lemmas": 0
+	},
+	"basic_count": {
+		"para_Cnt": 1,
+		"sentence_Cnt": 11,
+		"word_Cnt": 81,
+		"morph_Cnt": 179,
+		"char_Cnt": 283,
+		"CL_Cnt": 88,
+		"NL_Cnt": 57,
+		"NN_Cnt": 54,
+		"NNG_Cnt": 42,
+		"NNP_Cnt": 8,
+		"NNB_Cnt": 4,
+		"NP_Cnt": 3,
+		"NP_People_Cnt": 1,
+		"NP_Things_Cnt": 0,
+		"NR_Cnt": 0,
+		"VL_Cnt": 27,
+		"VV_Cnt": 15,
+		"VA_Cnt": 4,
+		"VX_Cnt": 1,
+		"VCP_Cnt": 6,
+		"VCN_Cnt": 1,
+		"ML_Cnt": 4,
+		"MA_Cnt": 0,
+		"MM_Cnt": 0,
+		"FL_Cnt": 67,
+		"J_Cnt": 28,
+		"E_Cnt": 38,
+		"X_Cnt": 1,
+		"IC_Cnt": 0
+	},
+	"basic_density": {
+		"CL_Den": 0.49162011173184356,
+		"FL_Den": 0.3743016759776536,
+		"NL_Den": 0.3016759776536313,
+		"NNGL_Den": 0.2346368715083799,
+		"NNPL_Den": 0.0446927374301676,
+		"NNBL_Den": 0.0223463687150838,
+		"NPL_Den": 0.01675977653631285,
+		"NML_Den": 0.0,
+		"VL_Den": 0.15083798882681565,
+		"VVL_Den": 0.08379888268156424,
+		"VAL_Den": 0.0223463687150838,
+		"ML_Den": 0.0223463687150838,
+		"MML_Den": 0.0,
+		"MAL_Den": 0.0,
+		"JL_Den": 0.1564245810055866,
+		"EL_Den": 0.2122905027932961,
+		"XL_Den": 0.00558659217877095,
+		"ITL_Den": 0.0,
+		"NCL_Den": 0.6136363636363636,
+		"NNCL_Den": 0.4772727272727273,
+		"NNGCL_Den": 0.09090909090909091,
+		"NNBCL_Den": 0.045454545454545456,
+		"NPCL_Den": 0.03409090909090909,
+		"NMCL_Den": 0.0,
+		"VCL_Den": 0.3068181818181818,
+		"VVCL_Den": 0.17045454545454544,
+		"VACL_Den": 0.045454545454545456,
+		"MCL_Den": 0.045454545454545456,
+		"MMCL_Den": 0.0,
+		"MACL_Den": 0.0,
+		"INCL_Den": 0.0,
+		"JFL_Den": 0.417910447761194,
+		"EFL_Den": 0.5671641791044776,
+		"XFL_Den": 0.014925373134328358
+	},
+	"basic_level": {
+		"morph_LenAvg": 1.5083798882681565,
+		"morph_LenStd": 0.6961082164297406,
+		"word_LenAvg": 2.950617283950617,
+		"word_LenStd": 1.2561083794545087
+	},
+	"basic_list": {
+		"NL_Lst": [
+			[
+				0,
+				"제목",
+				"NNG",
+				"제목: 완득이 저자: 김려렴"
+			],
+			[
+				1,
+				"완득이",
+				"NNP",
+				"제목: 완득이 저자: 김려렴"
+			],
+			[
+				2,
+				"저자",
+				"NNG",
+				"제목: 완득이 저자: 김려렴"
+			],
+			[
+				3,
+				"김려렴",
+				"NNG",
+				"제목: 완득이 저자: 김려렴"
+			],
+			[
+				4,
+				"완득이",
+				"NNP",
+				"# 완득이# 김려렴 장편소설# 똥주"
+			],
+			[
+				5,
+				"김려렴",
+				"NNP",
+				"# 완득이# 김려렴 장편소설# 똥주"
+			],
+			[
+				6,
+				"장편",
+				"NNG",
+				"# 완득이# 김려렴 장편소설# 똥주"
+			],
+			[
+				7,
+				"소설",
+				"NNG",
+				"# 완득이# 김려렴 장편소설# 똥주"
+			],
+			[
+				8,
+				"똥주",
+				"NNP",
+				"# 완득이# 김려렴 장편소설# 똥주"
+			],
+			[
+				9,
+				"명문장",
+				"NNP",
+				"명문장: 자기 집 앞에 차를 댔는데, 못으로 씨불놈이라고 써놓는 게 정상입니까?"
+			],
+			[
+				10,
+				"자기",
+				"NP",
+				"명문장: 자기 집 앞에 차를 댔는데, 못으로 씨불놈이라고 써놓는 게 정상입니까?"
+			],
+			[
+				11,
+				"집",
+				"NNG",
+				"명문장: 자기 집 앞에 차를 댔는데, 못으로 씨불놈이라고 써놓는 게 정상입니까?"
+			],
+			[
+				12,
+				"앞",
+				"NNG",
+				"명문장: 자기 집 앞에 차를 댔는데, 못으로 씨불놈이라고 써놓는 게 정상입니까?"
+			],
+			[
+				13,
+				"차",
+				"NNG",
+				"명문장: 자기 집 앞에 차를 댔는데, 못으로 씨불놈이라고 써놓는 게 정상입니까?"
+			],
+			[
+				14,
+				"못",
+				"NNG",
+				"명문장: 자기 집 앞에 차를 댔는데, 못으로 씨불놈이라고 써놓는 게 정상입니까?"
+			],
+			[
+				15,
+				"씨불놈",
+				"NNG",
+				"명문장: 자기 집 앞에 차를 댔는데, 못으로 씨불놈이라고 써놓는 게 정상입니까?"
+			],
+			[
+				16,
+				"거",
+				"NNB",
+				"명문장: 자기 집 앞에 차를 댔는데, 못으로 씨불놈이라고 써놓는 게 정상입니까?"
+			],
+			[
+				17,
+				"정상",
+				"NNG",
+				"명문장: 자기 집 앞에 차를 댔는데, 못으로 씨불놈이라고 써놓는 게 정상입니까?"
+			],
+			[
+				18,
+				"저분",
+				"NP",
+				"저분이 장애인이 아니었다면, 저 양반이 그런 짓을 할 수 있었겠냐고요."
+			],
+			[
+				19,
+				"장애인",
+				"NNG",
+				"저분이 장애인이 아니었다면, 저 양반이 그런 짓을 할 수 있었겠냐고요."
+			],
+			[
+				20,
+				"양반",
+				"NNG",
+				"저분이 장애인이 아니었다면, 저 양반이 그런 짓을 할 수 있었겠냐고요."
+			],
+			[
+				21,
+				"짓",
+				"NNG",
+				"저분이 장애인이 아니었다면, 저 양반이 그런 짓을 할 수 있었겠냐고요."
+			],
+			[
+				22,
+				"수",
+				"NNB",
+				"저분이 장애인이 아니었다면, 저 양반이 그런 짓을 할 수 있었겠냐고요."
+			],
+			[
+				23,
+				"사회",
+				"NNG",
+				"사회가 이러면 안됩니다."
+			],
+			[
+				24,
+				"완득",
+				"NNP",
+				"완득이라는 책을 읽었을 때 별 감흥이 없었다."
+			],
+			[
+				25,
+				"책",
+				"NNG",
+				"완득이라는 책을 읽었을 때 별 감흥이 없었다."
+			],
+			[
+				26,
+				"때",
+				"NNG",
+				"완득이라는 책을 읽었을 때 별 감흥이 없었다."
+			],
+			[
+				27,
+				"감흥",
+				"NNG",
+				"완득이라는 책을 읽었을 때 별 감흥이 없었다."
+			],
+			[
+				28,
+				"페이지",
+				"NNG",
+				"하지만 한페이지 한페이지 넘길수록 다음 내용을 궁금하게 만들었다 초반데 비호감이던 똥주도 점점 지날수록 호감을 가졌다."
+			],
+			[
+				29,
+				"페이지",
+				"NNG",
+				"하지만 한페이지 한페이지 넘길수록 다음 내용을 궁금하게 만들었다 초반데 비호감이던 똥주도 점점 지날수록 호감을 가졌다."
+			],
+			[
+				30,
+				"다음",
+				"NNG",
+				"하지만 한페이지 한페이지 넘길수록 다음 내용을 궁금하게 만들었다 초반데 비호감이던 똥주도 점점 지날수록 호감을 가졌다."
+			],
+			[
+				31,
+				"내용",
+				"NNG",
+				"하지만 한페이지 한페이지 넘길수록 다음 내용을 궁금하게 만들었다 초반데 비호감이던 똥주도 점점 지날수록 호감을 가졌다."
+			],
+			[
+				32,
+				"초반",
+				"NNG",
+				"하지만 한페이지 한페이지 넘길수록 다음 내용을 궁금하게 만들었다 초반데 비호감이던 똥주도 점점 지날수록 호감을 가졌다."
+			],
+			[
+				33,
+				"데",
+				"NNB",
+				"하지만 한페이지 한페이지 넘길수록 다음 내용을 궁금하게 만들었다 초반데 비호감이던 똥주도 점점 지날수록 호감을 가졌다."
+			],
+			[
+				34,
+				"호감",
+				"NNG",
+				"하지만 한페이지 한페이지 넘길수록 다음 내용을 궁금하게 만들었다 초반데 비호감이던 똥주도 점점 지날수록 호감을 가졌다."
+			],
+			[
+				35,
+				"똥주",
+				"NNG",
+				"하지만 한페이지 한페이지 넘길수록 다음 내용을 궁금하게 만들었다 초반데 비호감이던 똥주도 점점 지날수록 호감을 가졌다."
+			],
+			[
+				36,
+				"호감",
+				"NNG",
+				"하지만 한페이지 한페이지 넘길수록 다음 내용을 궁금하게 만들었다 초반데 비호감이던 똥주도 점점 지날수록 호감을 가졌다."
+			],
+			[
+				37,
+				"만화",
+				"NNG",
+				"이 만화의 명문장도 똥주의 말을 가져왔다."
+			],
+			[
+				38,
+				"명문장",
+				"NNG",
+				"이 만화의 명문장도 똥주의 말을 가져왔다."
+			],
+			[
+				39,
+				"똥주",
+				"NNG",
+				"이 만화의 명문장도 똥주의 말을 가져왔다."
+			],
+			[
+				40,
+				"말",
+				"NNG",
+				"이 만화의 명문장도 똥주의 말을 가져왔다."
+			],
+			[
+				41,
+				"처음",
+				"NNG",
+				"처음엔 주인공이랑 사이가 안좋은 선생인줄 알았지만 사실은 진짜 참선생이였다."
+			],
+			[
+				42,
+				"주인공",
+				"NNG",
+				"처음엔 주인공이랑 사이가 안좋은 선생인줄 알았지만 사실은 진짜 참선생이였다."
+			],
+			[
+				43,
+				"사이",
+				"NNG",
+				"처음엔 주인공이랑 사이가 안좋은 선생인줄 알았지만 사실은 진짜 참선생이였다."
+			],
+			[
+				44,
+				"선생",
+				"NNG",
+				"처음엔 주인공이랑 사이가 안좋은 선생인줄 알았지만 사실은 진짜 참선생이였다."
+			],
+			[
+				45,
+				"줄",
+				"NNB",
+				"처음엔 주인공이랑 사이가 안좋은 선생인줄 알았지만 사실은 진짜 참선생이였다."
+			],
+			[
+				46,
+				"사실",
+				"NNG",
+				"처음엔 주인공이랑 사이가 안좋은 선생인줄 알았지만 사실은 진짜 참선생이였다."
+			],
+			[
+				47,
+				"진짜",
+				"NNG",
+				"처음엔 주인공이랑 사이가 안좋은 선생인줄 알았지만 사실은 진짜 참선생이였다."
+			],
+			[
+				48,
+				"참",
+				"NNP",
+				"처음엔 주인공이랑 사이가 안좋은 선생인줄 알았지만 사실은 진짜 참선생이였다."
+			],
+			[
+				49,
+				"선생",
+				"NNG",
+				"처음엔 주인공이랑 사이가 안좋은 선생인줄 알았지만 사실은 진짜 참선생이였다."
+			],
+			[
+				50,
+				"약자",
+				"NNG",
+				"약자를 위하는 참선생 똥쥬와 그걸 잘 모르는 완득이."
+			],
+			[
+				51,
+				"참",
+				"NNG",
+				"약자를 위하는 참선생 똥쥬와 그걸 잘 모르는 완득이."
+			],
+			[
+				52,
+				"선생",
+				"NNG",
+				"약자를 위하는 참선생 똥쥬와 그걸 잘 모르는 완득이."
+			],
+			[
+				53,
+				"똥쥬",
+				"NNP",
+				"약자를 위하는 참선생 똥쥬와 그걸 잘 모르는 완득이."
+			],
+			[
+				54,
+				"그거",
+				"NP",
+				"약자를 위하는 참선생 똥쥬와 그걸 잘 모르는 완득이."
+			],
+			[
+				55,
+				"완득이",
+				"NNG",
+				"약자를 위하는 참선생 똥쥬와 그걸 잘 모르는 완득이."
+			],
+			[
+				56,
+				"책",
+				"NNG",
+				"이 책을 추천합니다."
+			]
+		],
+		"NN_Lst": [
+			[
+				0,
+				"제목",
+				"NNG",
+				"제목: 완득이 저자: 김려렴"
+			],
+			[
+				1,
+				"완득이",
+				"NNP",
+				"제목: 완득이 저자: 김려렴"
+			],
+			[
+				2,
+				"저자",
+				"NNG",
+				"제목: 완득이 저자: 김려렴"
+			],
+			[
+				3,
+				"김려렴",
+				"NNG",
+				"제목: 완득이 저자: 김려렴"
+			],
+			[
+				4,
+				"완득이",
+				"NNP",
+				"# 완득이# 김려렴 장편소설# 똥주"
+			],
+			[
+				5,
+				"김려렴",
+				"NNP",
+				"# 완득이# 김려렴 장편소설# 똥주"
+			],
+			[
+				6,
+				"장편",
+				"NNG",
+				"# 완득이# 김려렴 장편소설# 똥주"
+			],
+			[
+				7,
+				"소설",
+				"NNG",
+				"# 완득이# 김려렴 장편소설# 똥주"
+			],
+			[
+				8,
+				"똥주",
+				"NNP",
+				"# 완득이# 김려렴 장편소설# 똥주"
+			],
+			[
+				9,
+				"명문장",
+				"NNP",
+				"명문장: 자기 집 앞에 차를 댔는데, 못으로 씨불놈이라고 써놓는 게 정상입니까?"
+			],
+			[
+				10,
+				"집",
+				"NNG",
+				"명문장: 자기 집 앞에 차를 댔는데, 못으로 씨불놈이라고 써놓는 게 정상입니까?"
+			],
+			[
+				11,
+				"앞",
+				"NNG",
+				"명문장: 자기 집 앞에 차를 댔는데, 못으로 씨불놈이라고 써놓는 게 정상입니까?"
+			],
+			[
+				12,
+				"차",
+				"NNG",
+				"명문장: 자기 집 앞에 차를 댔는데, 못으로 씨불놈이라고 써놓는 게 정상입니까?"
+			],
+			[
+				13,
+				"못",
+				"NNG",
+				"명문장: 자기 집 앞에 차를 댔는데, 못으로 씨불놈이라고 써놓는 게 정상입니까?"
+			],
+			[
+				14,
+				"씨불놈",
+				"NNG",
+				"명문장: 자기 집 앞에 차를 댔는데, 못으로 씨불놈이라고 써놓는 게 정상입니까?"
+			],
+			[
+				15,
+				"거",
+				"NNB",
+				"명문장: 자기 집 앞에 차를 댔는데, 못으로 씨불놈이라고 써놓는 게 정상입니까?"
+			],
+			[
+				16,
+				"정상",
+				"NNG",
+				"명문장: 자기 집 앞에 차를 댔는데, 못으로 씨불놈이라고 써놓는 게 정상입니까?"
+			],
+			[
+				17,
+				"장애인",
+				"NNG",
+				"저분이 장애인이 아니었다면, 저 양반이 그런 짓을 할 수 있었겠냐고요."
+			],
+			[
+				18,
+				"양반",
+				"NNG",
+				"저분이 장애인이 아니었다면, 저 양반이 그런 짓을 할 수 있었겠냐고요."
+			],
+			[
+				19,
+				"짓",
+				"NNG",
+				"저분이 장애인이 아니었다면, 저 양반이 그런 짓을 할 수 있었겠냐고요."
+			],
+			[
+				20,
+				"수",
+				"NNB",
+				"저분이 장애인이 아니었다면, 저 양반이 그런 짓을 할 수 있었겠냐고요."
+			],
+			[
+				21,
+				"사회",
+				"NNG",
+				"사회가 이러면 안됩니다."
+			],
+			[
+				22,
+				"완득",
+				"NNP",
+				"완득이라는 책을 읽었을 때 별 감흥이 없었다."
+			],
+			[
+				23,
+				"책",
+				"NNG",
+				"완득이라는 책을 읽었을 때 별 감흥이 없었다."
+			],
+			[
+				24,
+				"때",
+				"NNG",
+				"완득이라는 책을 읽었을 때 별 감흥이 없었다."
+			],
+			[
+				25,
+				"감흥",
+				"NNG",
+				"완득이라는 책을 읽었을 때 별 감흥이 없었다."
+			],
+			[
+				26,
+				"페이지",
+				"NNG",
+				"하지만 한페이지 한페이지 넘길수록 다음 내용을 궁금하게 만들었다 초반데 비호감이던 똥주도 점점 지날수록 호감을 가졌다."
+			],
+			[
+				27,
+				"페이지",
+				"NNG",
+				"하지만 한페이지 한페이지 넘길수록 다음 내용을 궁금하게 만들었다 초반데 비호감이던 똥주도 점점 지날수록 호감을 가졌다."
+			],
+			[
+				28,
+				"다음",
+				"NNG",
+				"하지만 한페이지 한페이지 넘길수록 다음 내용을 궁금하게 만들었다 초반데 비호감이던 똥주도 점점 지날수록 호감을 가졌다."
+			],
+			[
+				29,
+				"내용",
+				"NNG",
+				"하지만 한페이지 한페이지 넘길수록 다음 내용을 궁금하게 만들었다 초반데 비호감이던 똥주도 점점 지날수록 호감을 가졌다."
+			],
+			[
+				30,
+				"초반",
+				"NNG",
+				"하지만 한페이지 한페이지 넘길수록 다음 내용을 궁금하게 만들었다 초반데 비호감이던 똥주도 점점 지날수록 호감을 가졌다."
+			],
+			[
+				31,
+				"데",
+				"NNB",
+				"하지만 한페이지 한페이지 넘길수록 다음 내용을 궁금하게 만들었다 초반데 비호감이던 똥주도 점점 지날수록 호감을 가졌다."
+			],
+			[
+				32,
+				"호감",
+				"NNG",
+				"하지만 한페이지 한페이지 넘길수록 다음 내용을 궁금하게 만들었다 초반데 비호감이던 똥주도 점점 지날수록 호감을 가졌다."
+			],
+			[
+				33,
+				"똥주",
+				"NNG",
+				"하지만 한페이지 한페이지 넘길수록 다음 내용을 궁금하게 만들었다 초반데 비호감이던 똥주도 점점 지날수록 호감을 가졌다."
+			],
+			[
+				34,
+				"호감",
+				"NNG",
+				"하지만 한페이지 한페이지 넘길수록 다음 내용을 궁금하게 만들었다 초반데 비호감이던 똥주도 점점 지날수록 호감을 가졌다."
+			],
+			[
+				35,
+				"만화",
+				"NNG",
+				"이 만화의 명문장도 똥주의 말을 가져왔다."
+			],
+			[
+				36,
+				"명문장",
+				"NNG",
+				"이 만화의 명문장도 똥주의 말을 가져왔다."
+			],
+			[
+				37,
+				"똥주",
+				"NNG",
+				"이 만화의 명문장도 똥주의 말을 가져왔다."
+			],
+			[
+				38,
+				"말",
+				"NNG",
+				"이 만화의 명문장도 똥주의 말을 가져왔다."
+			],
+			[
+				39,
+				"처음",
+				"NNG",
+				"처음엔 주인공이랑 사이가 안좋은 선생인줄 알았지만 사실은 진짜 참선생이였다."
+			],
+			[
+				40,
+				"주인공",
+				"NNG",
+				"처음엔 주인공이랑 사이가 안좋은 선생인줄 알았지만 사실은 진짜 참선생이였다."
+			],
+			[
+				41,
+				"사이",
+				"NNG",
+				"처음엔 주인공이랑 사이가 안좋은 선생인줄 알았지만 사실은 진짜 참선생이였다."
+			],
+			[
+				42,
+				"선생",
+				"NNG",
+				"처음엔 주인공이랑 사이가 안좋은 선생인줄 알았지만 사실은 진짜 참선생이였다."
+			],
+			[
+				43,
+				"줄",
+				"NNB",
+				"처음엔 주인공이랑 사이가 안좋은 선생인줄 알았지만 사실은 진짜 참선생이였다."
+			],
+			[
+				44,
+				"사실",
+				"NNG",
+				"처음엔 주인공이랑 사이가 안좋은 선생인줄 알았지만 사실은 진짜 참선생이였다."
+			],
+			[
+				45,
+				"진짜",
+				"NNG",
+				"처음엔 주인공이랑 사이가 안좋은 선생인줄 알았지만 사실은 진짜 참선생이였다."
+			],
+			[
+				46,
+				"참",
+				"NNP",
+				"처음엔 주인공이랑 사이가 안좋은 선생인줄 알았지만 사실은 진짜 참선생이였다."
+			],
+			[
+				47,
+				"선생",
+				"NNG",
+				"처음엔 주인공이랑 사이가 안좋은 선생인줄 알았지만 사실은 진짜 참선생이였다."
+			],
+			[
+				48,
+				"약자",
+				"NNG",
+				"약자를 위하는 참선생 똥쥬와 그걸 잘 모르는 완득이."
+			],
+			[
+				49,
+				"참",
+				"NNG",
+				"약자를 위하는 참선생 똥쥬와 그걸 잘 모르는 완득이."
+			],
+			[
+				50,
+				"선생",
+				"NNG",
+				"약자를 위하는 참선생 똥쥬와 그걸 잘 모르는 완득이."
+			],
+			[
+				51,
+				"똥쥬",
+				"NNP",
+				"약자를 위하는 참선생 똥쥬와 그걸 잘 모르는 완득이."
+			],
+			[
+				52,
+				"완득이",
+				"NNG",
+				"약자를 위하는 참선생 똥쥬와 그걸 잘 모르는 완득이."
+			],
+			[
+				53,
+				"책",
+				"NNG",
+				"이 책을 추천합니다."
+			]
+		],
+		"NNG_Lst": [
+			[
+				0,
+				"제목",
+				"NNG",
+				"제목: 완득이 저자: 김려렴"
+			],
+			[
+				1,
+				"저자",
+				"NNG",
+				"제목: 완득이 저자: 김려렴"
+			],
+			[
+				2,
+				"김려렴",
+				"NNG",
+				"제목: 완득이 저자: 김려렴"
+			],
+			[
+				3,
+				"장편",
+				"NNG",
+				"# 완득이# 김려렴 장편소설# 똥주"
+			],
+			[
+				4,
+				"소설",
+				"NNG",
+				"# 완득이# 김려렴 장편소설# 똥주"
+			],
+			[
+				5,
+				"집",
+				"NNG",
+				"명문장: 자기 집 앞에 차를 댔는데, 못으로 씨불놈이라고 써놓는 게 정상입니까?"
+			],
+			[
+				6,
+				"앞",
+				"NNG",
+				"명문장: 자기 집 앞에 차를 댔는데, 못으로 씨불놈이라고 써놓는 게 정상입니까?"
+			],
+			[
+				7,
+				"차",
+				"NNG",
+				"명문장: 자기 집 앞에 차를 댔는데, 못으로 씨불놈이라고 써놓는 게 정상입니까?"
+			],
+			[
+				8,
+				"못",
+				"NNG",
+				"명문장: 자기 집 앞에 차를 댔는데, 못으로 씨불놈이라고 써놓는 게 정상입니까?"
+			],
+			[
+				9,
+				"씨불놈",
+				"NNG",
+				"명문장: 자기 집 앞에 차를 댔는데, 못으로 씨불놈이라고 써놓는 게 정상입니까?"
+			],
+			[
+				10,
+				"정상",
+				"NNG",
+				"명문장: 자기 집 앞에 차를 댔는데, 못으로 씨불놈이라고 써놓는 게 정상입니까?"
+			],
+			[
+				11,
+				"장애인",
+				"NNG",
+				"저분이 장애인이 아니었다면, 저 양반이 그런 짓을 할 수 있었겠냐고요."
+			],
+			[
+				12,
+				"양반",
+				"NNG",
+				"저분이 장애인이 아니었다면, 저 양반이 그런 짓을 할 수 있었겠냐고요."
+			],
+			[
+				13,
+				"짓",
+				"NNG",
+				"저분이 장애인이 아니었다면, 저 양반이 그런 짓을 할 수 있었겠냐고요."
+			],
+			[
+				14,
+				"사회",
+				"NNG",
+				"사회가 이러면 안됩니다."
+			],
+			[
+				15,
+				"책",
+				"NNG",
+				"완득이라는 책을 읽었을 때 별 감흥이 없었다."
+			],
+			[
+				16,
+				"때",
+				"NNG",
+				"완득이라는 책을 읽었을 때 별 감흥이 없었다."
+			],
+			[
+				17,
+				"감흥",
+				"NNG",
+				"완득이라는 책을 읽었을 때 별 감흥이 없었다."
+			],
+			[
+				18,
+				"페이지",
+				"NNG",
+				"하지만 한페이지 한페이지 넘길수록 다음 내용을 궁금하게 만들었다 초반데 비호감이던 똥주도 점점 지날수록 호감을 가졌다."
+			],
+			[
+				19,
+				"페이지",
+				"NNG",
+				"하지만 한페이지 한페이지 넘길수록 다음 내용을 궁금하게 만들었다 초반데 비호감이던 똥주도 점점 지날수록 호감을 가졌다."
+			],
+			[
+				20,
+				"다음",
+				"NNG",
+				"하지만 한페이지 한페이지 넘길수록 다음 내용을 궁금하게 만들었다 초반데 비호감이던 똥주도 점점 지날수록 호감을 가졌다."
+			],
+			[
+				21,
+				"내용",
+				"NNG",
+				"하지만 한페이지 한페이지 넘길수록 다음 내용을 궁금하게 만들었다 초반데 비호감이던 똥주도 점점 지날수록 호감을 가졌다."
+			],
+			[
+				22,
+				"초반",
+				"NNG",
+				"하지만 한페이지 한페이지 넘길수록 다음 내용을 궁금하게 만들었다 초반데 비호감이던 똥주도 점점 지날수록 호감을 가졌다."
+			],
+			[
+				23,
+				"호감",
+				"NNG",
+				"하지만 한페이지 한페이지 넘길수록 다음 내용을 궁금하게 만들었다 초반데 비호감이던 똥주도 점점 지날수록 호감을 가졌다."
+			],
+			[
+				24,
+				"똥주",
+				"NNG",
+				"하지만 한페이지 한페이지 넘길수록 다음 내용을 궁금하게 만들었다 초반데 비호감이던 똥주도 점점 지날수록 호감을 가졌다."
+			],
+			[
+				25,
+				"호감",
+				"NNG",
+				"하지만 한페이지 한페이지 넘길수록 다음 내용을 궁금하게 만들었다 초반데 비호감이던 똥주도 점점 지날수록 호감을 가졌다."
+			],
+			[
+				26,
+				"만화",
+				"NNG",
+				"이 만화의 명문장도 똥주의 말을 가져왔다."
+			],
+			[
+				27,
+				"명문장",
+				"NNG",
+				"이 만화의 명문장도 똥주의 말을 가져왔다."
+			],
+			[
+				28,
+				"똥주",
+				"NNG",
+				"이 만화의 명문장도 똥주의 말을 가져왔다."
+			],
+			[
+				29,
+				"말",
+				"NNG",
+				"이 만화의 명문장도 똥주의 말을 가져왔다."
+			],
+			[
+				30,
+				"처음",
+				"NNG",
+				"처음엔 주인공이랑 사이가 안좋은 선생인줄 알았지만 사실은 진짜 참선생이였다."
+			],
+			[
+				31,
+				"주인공",
+				"NNG",
+				"처음엔 주인공이랑 사이가 안좋은 선생인줄 알았지만 사실은 진짜 참선생이였다."
+			],
+			[
+				32,
+				"사이",
+				"NNG",
+				"처음엔 주인공이랑 사이가 안좋은 선생인줄 알았지만 사실은 진짜 참선생이였다."
+			],
+			[
+				33,
+				"선생",
+				"NNG",
+				"처음엔 주인공이랑 사이가 안좋은 선생인줄 알았지만 사실은 진짜 참선생이였다."
+			],
+			[
+				34,
+				"사실",
+				"NNG",
+				"처음엔 주인공이랑 사이가 안좋은 선생인줄 알았지만 사실은 진짜 참선생이였다."
+			],
+			[
+				35,
+				"진짜",
+				"NNG",
+				"처음엔 주인공이랑 사이가 안좋은 선생인줄 알았지만 사실은 진짜 참선생이였다."
+			],
+			[
+				36,
+				"선생",
+				"NNG",
+				"처음엔 주인공이랑 사이가 안좋은 선생인줄 알았지만 사실은 진짜 참선생이였다."
+			],
+			[
+				37,
+				"약자",
+				"NNG",
+				"약자를 위하는 참선생 똥쥬와 그걸 잘 모르는 완득이."
+			],
+			[
+				38,
+				"참",
+				"NNG",
+				"약자를 위하는 참선생 똥쥬와 그걸 잘 모르는 완득이."
+			],
+			[
+				39,
+				"선생",
+				"NNG",
+				"약자를 위하는 참선생 똥쥬와 그걸 잘 모르는 완득이."
+			],
+			[
+				40,
+				"완득이",
+				"NNG",
+				"약자를 위하는 참선생 똥쥬와 그걸 잘 모르는 완득이."
+			],
+			[
+				41,
+				"책",
+				"NNG",
+				"이 책을 추천합니다."
+			]
+		],
+		"NNP_Lst": [
+			[
+				0,
+				"완득이",
+				"NNP",
+				"제목: 완득이 저자: 김려렴"
+			],
+			[
+				1,
+				"완득이",
+				"NNP",
+				"# 완득이# 김려렴 장편소설# 똥주"
+			],
+			[
+				2,
+				"김려렴",
+				"NNP",
+				"# 완득이# 김려렴 장편소설# 똥주"
+			],
+			[
+				3,
+				"똥주",
+				"NNP",
+				"# 완득이# 김려렴 장편소설# 똥주"
+			],
+			[
+				4,
+				"명문장",
+				"NNP",
+				"명문장: 자기 집 앞에 차를 댔는데, 못으로 씨불놈이라고 써놓는 게 정상입니까?"
+			],
+			[
+				5,
+				"완득",
+				"NNP",
+				"완득이라는 책을 읽었을 때 별 감흥이 없었다."
+			],
+			[
+				6,
+				"참",
+				"NNP",
+				"처음엔 주인공이랑 사이가 안좋은 선생인줄 알았지만 사실은 진짜 참선생이였다."
+			],
+			[
+				7,
+				"똥쥬",
+				"NNP",
+				"약자를 위하는 참선생 똥쥬와 그걸 잘 모르는 완득이."
+			]
+		],
+		"NNB_Lst": [
+			[
+				0,
+				"거",
+				"NNB",
+				"명문장: 자기 집 앞에 차를 댔는데, 못으로 씨불놈이라고 써놓는 게 정상입니까?"
+			],
+			[
+				1,
+				"수",
+				"NNB",
+				"저분이 장애인이 아니었다면, 저 양반이 그런 짓을 할 수 있었겠냐고요."
+			],
+			[
+				2,
+				"데",
+				"NNB",
+				"하지만 한페이지 한페이지 넘길수록 다음 내용을 궁금하게 만들었다 초반데 비호감이던 똥주도 점점 지날수록 호감을 가졌다."
+			],
+			[
+				3,
+				"줄",
+				"NNB",
+				"처음엔 주인공이랑 사이가 안좋은 선생인줄 알았지만 사실은 진짜 참선생이였다."
+			]
+		],
+		"NP_Lst": [
+			[
+				0,
+				"자기",
+				"NP",
+				"명문장: 자기 집 앞에 차를 댔는데, 못으로 씨불놈이라고 써놓는 게 정상입니까?"
+			],
+			[
+				1,
+				"저분",
+				"NP",
+				"저분이 장애인이 아니었다면, 저 양반이 그런 짓을 할 수 있었겠냐고요."
+			],
+			[
+				2,
+				"그거",
+				"NP",
+				"약자를 위하는 참선생 똥쥬와 그걸 잘 모르는 완득이."
+			]
+		],
+		"NP_People_Lst": [
+			[
+				0,
+				"자기",
+				"NP",
+				"명문장: 자기 집 앞에 차를 댔는데, 못으로 씨불놈이라고 써놓는 게 정상입니까?"
+			]
+		],
+		"NP_Things_Lst": [],
+		"NR_Lst": [],
+		"VL_Lst": [
+			[
+				0,
+				"대",
+				"VV",
+				"명문장: 자기 집 앞에 차를 댔는데, 못으로 씨불놈이라고 써놓는 게 정상입니까?"
+			],
+			[
+				1,
+				"이",
+				"VCP",
+				"명문장: 자기 집 앞에 차를 댔는데, 못으로 씨불놈이라고 써놓는 게 정상입니까?"
+			],
+			[
+				2,
+				"쓰",
+				"VV",
+				"명문장: 자기 집 앞에 차를 댔는데, 못으로 씨불놈이라고 써놓는 게 정상입니까?"
+			],
+			[
+				3,
+				"놓",
+				"VX",
+				"명문장: 자기 집 앞에 차를 댔는데, 못으로 씨불놈이라고 써놓는 게 정상입니까?"
+			],
+			[
+				4,
+				"이",
+				"VCP",
+				"명문장: 자기 집 앞에 차를 댔는데, 못으로 씨불놈이라고 써놓는 게 정상입니까?"
+			],
+			[
+				5,
+				"아니",
+				"VCN",
+				"저분이 장애인이 아니었다면, 저 양반이 그런 짓을 할 수 있었겠냐고요."
+			],
+			[
+				6,
+				"하",
+				"VV",
+				"저분이 장애인이 아니었다면, 저 양반이 그런 짓을 할 수 있었겠냐고요."
+			],
+			[
+				7,
+				"있",
+				"VA",
+				"저분이 장애인이 아니었다면, 저 양반이 그런 짓을 할 수 있었겠냐고요."
+			],
+			[
+				8,
+				"이러",
+				"VV",
+				"사회가 이러면 안됩니다."
+			],
+			[
+				9,
+				"안되",
+				"VV",
+				"사회가 이러면 안됩니다."
+			],
+			[
+				10,
+				"이",
+				"VCP",
+				"완득이라는 책을 읽었을 때 별 감흥이 없었다."
+			],
+			[
+				11,
+				"읽",
+				"VV",
+				"완득이라는 책을 읽었을 때 별 감흥이 없었다."
+			],
+			[
+				12,
+				"없",
+				"VA",
+				"완득이라는 책을 읽었을 때 별 감흥이 없었다."
+			],
+			[
+				13,
+				"넘기",
+				"VV",
+				"하지만 한페이지 한페이지 넘길수록 다음 내용을 궁금하게 만들었다 초반데 비호감이던 똥주도 점점 지날수록 호감을 가졌다."
+			],
+			[
+				14,
+				"궁금하",
+				"VA",
+				"하지만 한페이지 한페이지 넘길수록 다음 내용을 궁금하게 만들었다 초반데 비호감이던 똥주도 점점 지날수록 호감을 가졌다."
+			],
+			[
+				15,
+				"만들",
+				"VV",
+				"하지만 한페이지 한페이지 넘길수록 다음 내용을 궁금하게 만들었다 초반데 비호감이던 똥주도 점점 지날수록 호감을 가졌다."
+			],
+			[
+				16,
+				"이",
+				"VCP",
+				"하지만 한페이지 한페이지 넘길수록 다음 내용을 궁금하게 만들었다 초반데 비호감이던 똥주도 점점 지날수록 호감을 가졌다."
+			],
+			[
+				17,
+				"지나",
+				"VV",
+				"하지만 한페이지 한페이지 넘길수록 다음 내용을 궁금하게 만들었다 초반데 비호감이던 똥주도 점점 지날수록 호감을 가졌다."
+			],
+			[
+				18,
+				"가지",
+				"VV",
+				"하지만 한페이지 한페이지 넘길수록 다음 내용을 궁금하게 만들었다 초반데 비호감이던 똥주도 점점 지날수록 호감을 가졌다."
+			],
+			[
+				19,
+				"가져오",
+				"VV",
+				"이 만화의 명문장도 똥주의 말을 가져왔다."
+			],
+			[
+				20,
+				"좋",
+				"VA",
+				"처음엔 주인공이랑 사이가 안좋은 선생인줄 알았지만 사실은 진짜 참선생이였다."
+			],
+			[
+				21,
+				"이",
+				"VCP",
+				"처음엔 주인공이랑 사이가 안좋은 선생인줄 알았지만 사실은 진짜 참선생이였다."
+			],
+			[
+				22,
+				"알",
+				"VV",
+				"처음엔 주인공이랑 사이가 안좋은 선생인줄 알았지만 사실은 진짜 참선생이였다."
+			],
+			[
+				23,
+				"이",
+				"VCP",
+				"처음엔 주인공이랑 사이가 안좋은 선생인줄 알았지만 사실은 진짜 참선생이였다."
+			],
+			[
+				24,
+				"위하",
+				"VV",
+				"약자를 위하는 참선생 똥쥬와 그걸 잘 모르는 완득이."
+			],
+			[
+				25,
+				"모르",
+				"VV",
+				"약자를 위하는 참선생 똥쥬와 그걸 잘 모르는 완득이."
+			],
+			[
+				26,
+				"추천하",
+				"VV",
+				"이 책을 추천합니다."
+			]
+		],
+		"VV_Lst": [
+			[
+				0,
+				"대",
+				"VV",
+				"명문장: 자기 집 앞에 차를 댔는데, 못으로 씨불놈이라고 써놓는 게 정상입니까?"
+			],
+			[
+				1,
+				"쓰",
+				"VV",
+				"명문장: 자기 집 앞에 차를 댔는데, 못으로 씨불놈이라고 써놓는 게 정상입니까?"
+			],
+			[
+				2,
+				"하",
+				"VV",
+				"저분이 장애인이 아니었다면, 저 양반이 그런 짓을 할 수 있었겠냐고요."
+			],
+			[
+				3,
+				"이러",
+				"VV",
+				"사회가 이러면 안됩니다."
+			],
+			[
+				4,
+				"안되",
+				"VV",
+				"사회가 이러면 안됩니다."
+			],
+			[
+				5,
+				"읽",
+				"VV",
+				"완득이라는 책을 읽었을 때 별 감흥이 없었다."
+			],
+			[
+				6,
+				"넘기",
+				"VV",
+				"하지만 한페이지 한페이지 넘길수록 다음 내용을 궁금하게 만들었다 초반데 비호감이던 똥주도 점점 지날수록 호감을 가졌다."
+			],
+			[
+				7,
+				"만들",
+				"VV",
+				"하지만 한페이지 한페이지 넘길수록 다음 내용을 궁금하게 만들었다 초반데 비호감이던 똥주도 점점 지날수록 호감을 가졌다."
+			],
+			[
+				8,
+				"지나",
+				"VV",
+				"하지만 한페이지 한페이지 넘길수록 다음 내용을 궁금하게 만들었다 초반데 비호감이던 똥주도 점점 지날수록 호감을 가졌다."
+			],
+			[
+				9,
+				"가지",
+				"VV",
+				"하지만 한페이지 한페이지 넘길수록 다음 내용을 궁금하게 만들었다 초반데 비호감이던 똥주도 점점 지날수록 호감을 가졌다."
+			],
+			[
+				10,
+				"가져오",
+				"VV",
+				"이 만화의 명문장도 똥주의 말을 가져왔다."
+			],
+			[
+				11,
+				"알",
+				"VV",
+				"처음엔 주인공이랑 사이가 안좋은 선생인줄 알았지만 사실은 진짜 참선생이였다."
+			],
+			[
+				12,
+				"위하",
+				"VV",
+				"약자를 위하는 참선생 똥쥬와 그걸 잘 모르는 완득이."
+			],
+			[
+				13,
+				"모르",
+				"VV",
+				"약자를 위하는 참선생 똥쥬와 그걸 잘 모르는 완득이."
+			],
+			[
+				14,
+				"추천하",
+				"VV",
+				"이 책을 추천합니다."
+			]
+		],
+		"VA_Lst": [
+			[
+				0,
+				"있",
+				"VA",
+				"저분이 장애인이 아니었다면, 저 양반이 그런 짓을 할 수 있었겠냐고요."
+			],
+			[
+				1,
+				"없",
+				"VA",
+				"완득이라는 책을 읽었을 때 별 감흥이 없었다."
+			],
+			[
+				2,
+				"궁금하",
+				"VA",
+				"하지만 한페이지 한페이지 넘길수록 다음 내용을 궁금하게 만들었다 초반데 비호감이던 똥주도 점점 지날수록 호감을 가졌다."
+			],
+			[
+				3,
+				"좋",
+				"VA",
+				"처음엔 주인공이랑 사이가 안좋은 선생인줄 알았지만 사실은 진짜 참선생이였다."
+			]
+		],
+		"VX_Lst": [
+			[
+				0,
+				"놓",
+				"VX",
+				"명문장: 자기 집 앞에 차를 댔는데, 못으로 씨불놈이라고 써놓는 게 정상입니까?"
+			]
+		],
+		"VCP_Lst": [
+			[
+				0,
+				"이",
+				"VCP",
+				"명문장: 자기 집 앞에 차를 댔는데, 못으로 씨불놈이라고 써놓는 게 정상입니까?"
+			],
+			[
+				1,
+				"이",
+				"VCP",
+				"명문장: 자기 집 앞에 차를 댔는데, 못으로 씨불놈이라고 써놓는 게 정상입니까?"
+			],
+			[
+				2,
+				"이",
+				"VCP",
+				"완득이라는 책을 읽었을 때 별 감흥이 없었다."
+			],
+			[
+				3,
+				"이",
+				"VCP",
+				"하지만 한페이지 한페이지 넘길수록 다음 내용을 궁금하게 만들었다 초반데 비호감이던 똥주도 점점 지날수록 호감을 가졌다."
+			],
+			[
+				4,
+				"이",
+				"VCP",
+				"처음엔 주인공이랑 사이가 안좋은 선생인줄 알았지만 사실은 진짜 참선생이였다."
+			],
+			[
+				5,
+				"이",
+				"VCP",
+				"처음엔 주인공이랑 사이가 안좋은 선생인줄 알았지만 사실은 진짜 참선생이였다."
+			]
+		],
+		"VCN_Lst": [
+			[
+				0,
+				"아니",
+				"VCN",
+				"저분이 장애인이 아니었다면, 저 양반이 그런 짓을 할 수 있었겠냐고요."
+			]
+		],
+		"ML_Lst": [
+			[
+				0,
+				"하지만",
+				"MAJ",
+				"하지만 한페이지 한페이지 넘길수록 다음 내용을 궁금하게 만들었다 초반데 비호감이던 똥주도 점점 지날수록 호감을 가졌다."
+			],
+			[
+				1,
+				"점점",
+				"MAG",
+				"하지만 한페이지 한페이지 넘길수록 다음 내용을 궁금하게 만들었다 초반데 비호감이던 똥주도 점점 지날수록 호감을 가졌다."
+			],
+			[
+				2,
+				"안",
+				"MAG",
+				"처음엔 주인공이랑 사이가 안좋은 선생인줄 알았지만 사실은 진짜 참선생이였다."
+			],
+			[
+				3,
+				"잘",
+				"MAG",
+				"약자를 위하는 참선생 똥쥬와 그걸 잘 모르는 완득이."
+			]
+		],
+		"MA_Lst": [],
+		"MM_Lst": [],
+		"J_Lst": [
+			[
+				0,
+				"에",
+				"JKB",
+				"명문장: 자기 집 앞에 차를 댔는데, 못으로 씨불놈이라고 써놓는 게 정상입니까?"
+			],
+			[
+				1,
+				"를",
+				"JKO",
+				"명문장: 자기 집 앞에 차를 댔는데, 못으로 씨불놈이라고 써놓는 게 정상입니까?"
+			],
+			[
+				2,
+				"으로",
+				"JKB",
+				"명문장: 자기 집 앞에 차를 댔는데, 못으로 씨불놈이라고 써놓는 게 정상입니까?"
+			],
+			[
+				3,
+				"이",
+				"JKS",
+				"명문장: 자기 집 앞에 차를 댔는데, 못으로 씨불놈이라고 써놓는 게 정상입니까?"
+			],
+			[
+				4,
+				"이",
+				"JKS",
+				"저분이 장애인이 아니었다면, 저 양반이 그런 짓을 할 수 있었겠냐고요."
+			],
+			[
+				5,
+				"이",
+				"JKC",
+				"저분이 장애인이 아니었다면, 저 양반이 그런 짓을 할 수 있었겠냐고요."
+			],
+			[
+				6,
+				"이",
+				"JKS",
+				"저분이 장애인이 아니었다면, 저 양반이 그런 짓을 할 수 있었겠냐고요."
+			],
+			[
+				7,
+				"을",
+				"JKO",
+				"저분이 장애인이 아니었다면, 저 양반이 그런 짓을 할 수 있었겠냐고요."
+			],
+			[
+				8,
+				"요",
+				"JX",
+				"저분이 장애인이 아니었다면, 저 양반이 그런 짓을 할 수 있었겠냐고요."
+			],
+			[
+				9,
+				"가",
+				"JKS",
+				"사회가 이러면 안됩니다."
+			],
+			[
+				10,
+				"을",
+				"JKO",
+				"완득이라는 책을 읽었을 때 별 감흥이 없었다."
+			],
+			[
+				11,
+				"이",
+				"JKS",
+				"완득이라는 책을 읽었을 때 별 감흥이 없었다."
+			],
+			[
+				12,
+				"을",
+				"JKO",
+				"하지만 한페이지 한페이지 넘길수록 다음 내용을 궁금하게 만들었다 초반데 비호감이던 똥주도 점점 지날수록 호감을 가졌다."
+			],
+			[
+				13,
+				"도",
+				"JX",
+				"하지만 한페이지 한페이지 넘길수록 다음 내용을 궁금하게 만들었다 초반데 비호감이던 똥주도 점점 지날수록 호감을 가졌다."
+			],
+			[
+				14,
+				"을",
+				"JKO",
+				"하지만 한페이지 한페이지 넘길수록 다음 내용을 궁금하게 만들었다 초반데 비호감이던 똥주도 점점 지날수록 호감을 가졌다."
+			],
+			[
+				15,
+				"의",
+				"JKG",
+				"이 만화의 명문장도 똥주의 말을 가져왔다."
+			],
+			[
+				16,
+				"도",
+				"JX",
+				"이 만화의 명문장도 똥주의 말을 가져왔다."
+			],
+			[
+				17,
+				"의",
+				"JKG",
+				"이 만화의 명문장도 똥주의 말을 가져왔다."
+			],
+			[
+				18,
+				"을",
+				"JKO",
+				"이 만화의 명문장도 똥주의 말을 가져왔다."
+			],
+			[
+				19,
+				"에",
+				"JKB",
+				"처음엔 주인공이랑 사이가 안좋은 선생인줄 알았지만 사실은 진짜 참선생이였다."
+			],
+			[
+				20,
+				"ㄴ",
+				"JX",
+				"처음엔 주인공이랑 사이가 안좋은 선생인줄 알았지만 사실은 진짜 참선생이였다."
+			],
+			[
+				21,
+				"이랑",
+				"JC",
+				"처음엔 주인공이랑 사이가 안좋은 선생인줄 알았지만 사실은 진짜 참선생이였다."
+			],
+			[
+				22,
+				"가",
+				"JKS",
+				"처음엔 주인공이랑 사이가 안좋은 선생인줄 알았지만 사실은 진짜 참선생이였다."
+			],
+			[
+				23,
+				"은",
+				"JX",
+				"처음엔 주인공이랑 사이가 안좋은 선생인줄 알았지만 사실은 진짜 참선생이였다."
+			],
+			[
+				24,
+				"를",
+				"JKO",
+				"약자를 위하는 참선생 똥쥬와 그걸 잘 모르는 완득이."
+			],
+			[
+				25,
+				"와",
+				"JKB",
+				"약자를 위하는 참선생 똥쥬와 그걸 잘 모르는 완득이."
+			],
+			[
+				26,
+				"ㄹ",
+				"JKO",
+				"약자를 위하는 참선생 똥쥬와 그걸 잘 모르는 완득이."
+			],
+			[
+				27,
+				"을",
+				"JKO",
+				"이 책을 추천합니다."
+			]
+		],
+		"E_Lst": [
+			[
+				0,
+				"었",
+				"EP",
+				"명문장: 자기 집 앞에 차를 댔는데, 못으로 씨불놈이라고 써놓는 게 정상입니까?"
+			],
+			[
+				1,
+				"는데",
+				"EC",
+				"명문장: 자기 집 앞에 차를 댔는데, 못으로 씨불놈이라고 써놓는 게 정상입니까?"
+			],
+			[
+				2,
+				"라고",
+				"EC",
+				"명문장: 자기 집 앞에 차를 댔는데, 못으로 씨불놈이라고 써놓는 게 정상입니까?"
+			],
+			[
+				3,
+				"어",
+				"EC",
+				"명문장: 자기 집 앞에 차를 댔는데, 못으로 씨불놈이라고 써놓는 게 정상입니까?"
+			],
+			[
+				4,
+				"는",
+				"ETM",
+				"명문장: 자기 집 앞에 차를 댔는데, 못으로 씨불놈이라고 써놓는 게 정상입니까?"
+			],
+			[
+				5,
+				"ㅂ니까",
+				"EF",
+				"명문장: 자기 집 앞에 차를 댔는데, 못으로 씨불놈이라고 써놓는 게 정상입니까?"
+			],
+			[
+				6,
+				"었",
+				"EP",
+				"저분이 장애인이 아니었다면, 저 양반이 그런 짓을 할 수 있었겠냐고요."
+			],
+			[
+				7,
+				"다면",
+				"EC",
+				"저분이 장애인이 아니었다면, 저 양반이 그런 짓을 할 수 있었겠냐고요."
+			],
+			[
+				8,
+				"ㄹ",
+				"ETM",
+				"저분이 장애인이 아니었다면, 저 양반이 그런 짓을 할 수 있었겠냐고요."
+			],
+			[
+				9,
+				"었",
+				"EP",
+				"저분이 장애인이 아니었다면, 저 양반이 그런 짓을 할 수 있었겠냐고요."
+			],
+			[
+				10,
+				"겠",
+				"EP",
+				"저분이 장애인이 아니었다면, 저 양반이 그런 짓을 할 수 있었겠냐고요."
+			],
+			[
+				11,
+				"냐고",
+				"EF",
+				"저분이 장애인이 아니었다면, 저 양반이 그런 짓을 할 수 있었겠냐고요."
+			],
+			[
+				12,
+				"면",
+				"EC",
+				"사회가 이러면 안됩니다."
+			],
+			[
+				13,
+				"ㅂ니다",
+				"EF",
+				"사회가 이러면 안됩니다."
+			],
+			[
+				14,
+				"라는",
+				"ETM",
+				"완득이라는 책을 읽었을 때 별 감흥이 없었다."
+			],
+			[
+				15,
+				"었",
+				"EP",
+				"완득이라는 책을 읽었을 때 별 감흥이 없었다."
+			],
+			[
+				16,
+				"을",
+				"ETM",
+				"완득이라는 책을 읽었을 때 별 감흥이 없었다."
+			],
+			[
+				17,
+				"었",
+				"EP",
+				"완득이라는 책을 읽었을 때 별 감흥이 없었다."
+			],
+			[
+				18,
+				"다",
+				"EF",
+				"완득이라는 책을 읽었을 때 별 감흥이 없었다."
+			],
+			[
+				19,
+				"ㄹ수록",
+				"EC",
+				"하지만 한페이지 한페이지 넘길수록 다음 내용을 궁금하게 만들었다 초반데 비호감이던 똥주도 점점 지날수록 호감을 가졌다."
+			],
+			[
+				20,
+				"게",
+				"EC",
+				"하지만 한페이지 한페이지 넘길수록 다음 내용을 궁금하게 만들었다 초반데 비호감이던 똥주도 점점 지날수록 호감을 가졌다."
+			],
+			[
+				21,
+				"었",
+				"EP",
+				"하지만 한페이지 한페이지 넘길수록 다음 내용을 궁금하게 만들었다 초반데 비호감이던 똥주도 점점 지날수록 호감을 가졌다."
+			],
+			[
+				22,
+				"다",
+				"EF",
+				"하지만 한페이지 한페이지 넘길수록 다음 내용을 궁금하게 만들었다 초반데 비호감이던 똥주도 점점 지날수록 호감을 가졌다."
+			],
+			[
+				23,
+				"던",
+				"ETM",
+				"하지만 한페이지 한페이지 넘길수록 다음 내용을 궁금하게 만들었다 초반데 비호감이던 똥주도 점점 지날수록 호감을 가졌다."
+			],
+			[
+				24,
+				"ㄹ수록",
+				"EC",
+				"하지만 한페이지 한페이지 넘길수록 다음 내용을 궁금하게 만들었다 초반데 비호감이던 똥주도 점점 지날수록 호감을 가졌다."
+			],
+			[
+				25,
+				"었",
+				"EP",
+				"하지만 한페이지 한페이지 넘길수록 다음 내용을 궁금하게 만들었다 초반데 비호감이던 똥주도 점점 지날수록 호감을 가졌다."
+			],
+			[
+				26,
+				"다",
+				"EF",
+				"하지만 한페이지 한페이지 넘길수록 다음 내용을 궁금하게 만들었다 초반데 비호감이던 똥주도 점점 지날수록 호감을 가졌다."
+			],
+			[
+				27,
+				"았",
+				"EP",
+				"이 만화의 명문장도 똥주의 말을 가져왔다."
+			],
+			[
+				28,
+				"다",
+				"EF",
+				"이 만화의 명문장도 똥주의 말을 가져왔다."
+			],
+			[
+				29,
+				"은",
+				"ETM",
+				"처음엔 주인공이랑 사이가 안좋은 선생인줄 알았지만 사실은 진짜 참선생이였다."
+			],
+			[
+				30,
+				"ㄴ",
+				"ETM",
+				"처음엔 주인공이랑 사이가 안좋은 선생인줄 알았지만 사실은 진짜 참선생이였다."
+			],
+			[
+				31,
+				"았",
+				"EP",
+				"처음엔 주인공이랑 사이가 안좋은 선생인줄 알았지만 사실은 진짜 참선생이였다."
+			],
+			[
+				32,
+				"지만",
+				"EC",
+				"처음엔 주인공이랑 사이가 안좋은 선생인줄 알았지만 사실은 진짜 참선생이였다."
+			],
+			[
+				33,
+				"었",
+				"EP",
+				"처음엔 주인공이랑 사이가 안좋은 선생인줄 알았지만 사실은 진짜 참선생이였다."
+			],
+			[
+				34,
+				"다",
+				"EF",
+				"처음엔 주인공이랑 사이가 안좋은 선생인줄 알았지만 사실은 진짜 참선생이였다."
+			],
+			[
+				35,
+				"는",
+				"ETM",
+				"약자를 위하는 참선생 똥쥬와 그걸 잘 모르는 완득이."
+			],
+			[
+				36,
+				"는",
+				"ETM",
+				"약자를 위하는 참선생 똥쥬와 그걸 잘 모르는 완득이."
+			],
+			[
+				37,
+				"ㅂ니다",
+				"EF",
+				"이 책을 추천합니다."
+			]
+		],
+		"X_Lst": [
+			[
+				0,
+				"비",
+				"XPN",
+				"하지만 한페이지 한페이지 넘길수록 다음 내용을 궁금하게 만들었다 초반데 비호감이던 똥주도 점점 지날수록 호감을 가졌다."
+			]
+		],
+		"IC_Lst": []
+	},
+	"NDW": {
+		"morph_NDW": 124,
+		"NL_NDW": 57,
+		"NNG_NDW": 42,
+		"NNP_NDW": 8,
+		"NNB_NDW": 4,
+		"NP_NDW": 3,
+		"NR_NDW": 0,
+		"VL_NDW": 27,
+		"VV_NDW": 15,
+		"VA_NDW": 4,
+		"ML_NDW": 4,
+		"MM_NDW": 0,
+		"IC_NDW": 0,
+		"J_NDW": 28,
+		"E_NDW": 38,
+		"X_NDW": 1,
+		"CL_NDW": 88,
+		"FL_NDW": 67
+	}
+}

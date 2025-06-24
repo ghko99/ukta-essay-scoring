@@ -1,0 +1,3645 @@
+﻿{
+	"morpheme": {
+		"sentences": [
+			{
+				"text": {
+					"content": "이런 상황에서 그나마 다행스런 것은 오미크론 변이는 (아직까지는)치명률이 낮고 중증으로 발전할 가능성이 적은 것으로 알려지고 있다.",
+					"length": 73,
+					"beginOffset": 0
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "이런",
+							"length": 2,
+							"beginOffset": 0
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이런",
+									"length": 2,
+									"beginOffset": 0
+								},
+								"tag": "MMD",
+								"probability": 0.99962324,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이런",
+						"tagged": "이런/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "상황에서",
+							"beginOffset": 3,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "상황",
+									"beginOffset": 3,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9815367,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에서",
+									"beginOffset": 5,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.995299,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "상황",
+						"tagged": "상황/NNG+에서/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "그나마",
+							"beginOffset": 8,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그나마",
+									"beginOffset": 8,
+									"length": 3
+								},
+								"tag": "MAG",
+								"probability": 0.99381995,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그나마",
+						"tagged": "그나마/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "다행스런",
+							"beginOffset": 12,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "다행스럽",
+									"beginOffset": 12,
+									"length": 4
+								},
+								"tag": "VA",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 15,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999608,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "다행스럽",
+						"tagged": "다행스럽/VA+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "것은",
+							"beginOffset": 17,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "것",
+									"beginOffset": 17,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9826581,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 18,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.999585,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "것",
+						"tagged": "것/NNB+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "오미크론",
+							"beginOffset": 20,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "오미크론",
+									"beginOffset": 20,
+									"length": 4
+								},
+								"tag": "NNG",
+								"probability": 0.32102475,
+								"outOfVocab": "OUT_OF_VOCAB"
+							}
+						],
+						"lemma": "오미크론",
+						"tagged": "오미크론/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "변이는",
+							"beginOffset": 25,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "변이",
+									"beginOffset": 25,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.96152276,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 27,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99911666,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "변이",
+						"tagged": "변이/NNG+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "(",
+							"beginOffset": 29,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "(",
+									"beginOffset": 29,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.99992484,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "(",
+						"tagged": "(/SS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "아직까지는)치명률이",
+							"beginOffset": 30,
+							"length": 10
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "아직",
+									"beginOffset": 30,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.98416,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "까지",
+									"beginOffset": 32,
+									"length": 2
+								},
+								"tag": "JX",
+								"probability": 0.999005,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 34,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.999388,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ")",
+									"beginOffset": 35,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9999616,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "치명",
+									"beginOffset": 36,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9819192,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "률",
+									"beginOffset": 38,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.98700917,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 39,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.99236584,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "아직",
+						"tagged": "아직/MAG+까지/JX+는/JX+)/SS+치명/NNG+률/XSN+이/JKS",
+						"modified": "아직까지는)치명률이"
+					},
+					{
+						"text": {
+							"content": "낮고",
+							"beginOffset": 41,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "낮",
+									"beginOffset": 41,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9860361,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 42,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9932196,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "낮",
+						"tagged": "낮/VA+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "중증으로",
+							"beginOffset": 44,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "중증",
+									"beginOffset": 44,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98273194,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으로",
+									"beginOffset": 46,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.99729085,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "중증",
+						"tagged": "중증/NNG+으로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "발전할",
+							"beginOffset": 49,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "발전하",
+									"beginOffset": 49,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄹ",
+									"beginOffset": 51,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999207,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "발전하",
+						"tagged": "발전하/VV+ㄹ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "가능성이",
+							"beginOffset": 53,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "가능",
+									"beginOffset": 53,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98506975,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "성",
+									"beginOffset": 55,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.9743121,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 56,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9961718,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "가능",
+						"tagged": "가능/NNG+성/XSN+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "적은",
+							"beginOffset": 58,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "적",
+									"beginOffset": 58,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9211201,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 59,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99964976,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "적",
+						"tagged": "적/VA+은/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "것으로",
+							"beginOffset": 61,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "것",
+									"beginOffset": 61,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.97986454,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으로",
+									"beginOffset": 62,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9967179,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "것",
+						"tagged": "것/NNB+으로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "알려지고",
+							"beginOffset": 65,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "알려지",
+									"beginOffset": 65,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.9874847,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 68,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.994793,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "알려지",
+						"tagged": "알려지/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있다.",
+							"beginOffset": 70,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 70,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.96955365,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 71,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9924078,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 72,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.999248,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VX+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "이런 상황에서 그나마 다행스런 것은 오미크론 변이는 ( 아직까지는)치명률이 낮고 중증으로 발전할 가능성이 적은 것으로 알려지고 있다."
+			},
+			{
+				"text": {
+					"content": "또 전파력과 증상에서도 백신 접종자와 미접종자의 차이가 큰 것으로 알려지고 있다.",
+					"beginOffset": 74,
+					"length": 45
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "또",
+							"beginOffset": 74,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "또",
+									"beginOffset": 74,
+									"length": 1
+								},
+								"tag": "MAG",
+								"probability": 0.98990005,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "또",
+						"tagged": "또/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "전파력과",
+							"beginOffset": 76,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "전파력",
+									"beginOffset": 76,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.65398735,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "과",
+									"beginOffset": 79,
+									"length": 1
+								},
+								"tag": "JC",
+								"probability": 0.73885435,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "전파력",
+						"tagged": "전파력/NNG+과/JC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "증상에서도",
+							"beginOffset": 81,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "증상",
+									"beginOffset": 81,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98249835,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에서",
+									"beginOffset": 83,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9974143,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 85,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9985567,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "증상",
+						"tagged": "증상/NNG+에서/JKB+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "백신",
+							"beginOffset": 87,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "백신",
+									"beginOffset": 87,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9799901,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "백신",
+						"tagged": "백신/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "접종자와",
+							"beginOffset": 90,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "접종자",
+									"beginOffset": 90,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.7478875,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "와",
+									"beginOffset": 93,
+									"length": 1
+								},
+								"tag": "JC",
+								"probability": 0.8433554,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "접종자",
+						"tagged": "접종자/NNG+와/JC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "미접종자의",
+							"beginOffset": 95,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "미",
+									"beginOffset": 95,
+									"length": 1
+								},
+								"tag": "XPN",
+								"probability": 0.74684227,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "접종자",
+									"beginOffset": 96,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9405033,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 99,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99956256,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "미",
+						"tagged": "미/XPN+접종자/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "차이가",
+							"beginOffset": 101,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "차이",
+									"beginOffset": 101,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98620856,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 103,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.99498904,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "차이",
+						"tagged": "차이/NNG+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "큰",
+							"beginOffset": 105,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "크",
+									"beginOffset": 105,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.97819674,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 105,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999211,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "크",
+						"tagged": "크/VA+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "것으로",
+							"beginOffset": 107,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "것",
+									"beginOffset": 107,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9776451,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으로",
+									"beginOffset": 108,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.99630034,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "것",
+						"tagged": "것/NNB+으로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "알려지고",
+							"beginOffset": 111,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "알려지",
+									"beginOffset": 111,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.98889697,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 114,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9955207,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "알려지",
+						"tagged": "알려지/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있다.",
+							"beginOffset": 116,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 116,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.9668471,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 117,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.99373746,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 118,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99946743,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VX+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "또 전파력과 증상에서도 백신 접종자와 미접종자의 차이가 큰 것으로 알려지고 있다."
+			},
+			{
+				"text": {
+					"content": "아프리카가 위험 상황으로 접어든 것은 접종률이 낮기 때문이고 백신 접종률이 높은 한국은 아프리카와는 다를 수 있다고 보는 전문가도 있다.",
+					"beginOffset": 120,
+					"length": 76
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "아프리카가",
+							"beginOffset": 120,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "아프리카",
+									"beginOffset": 120,
+									"length": 4
+								},
+								"tag": "NNP",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 124,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9872489,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "아프리카",
+						"tagged": "아프리카/NNP+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "위험",
+							"beginOffset": 126,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "위험",
+									"beginOffset": 126,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98281425,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "위험",
+						"tagged": "위험/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "상황으로",
+							"beginOffset": 129,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "상황",
+									"beginOffset": 129,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98624325,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으로",
+									"beginOffset": 131,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9960188,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "상황",
+						"tagged": "상황/NNG+으로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "접어든",
+							"beginOffset": 134,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "접어들",
+									"beginOffset": 134,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.9900397,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 136,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99998707,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "접어들",
+						"tagged": "접어들/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "것은",
+							"beginOffset": 138,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "것",
+									"beginOffset": 138,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.98404324,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 139,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99947846,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "것",
+						"tagged": "것/NNB+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "접종률이",
+							"beginOffset": 141,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "접종",
+									"beginOffset": 141,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98244494,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "률",
+									"beginOffset": 143,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.9889392,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 144,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.99171203,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "접종",
+						"tagged": "접종/NNG+률/XSN+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "낮기",
+							"beginOffset": 146,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "낮",
+									"beginOffset": 146,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.985168,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "기",
+									"beginOffset": 147,
+									"length": 1
+								},
+								"tag": "ETN",
+								"probability": 0.9997763,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "낮",
+						"tagged": "낮/VA+기/ETN",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "때문이고",
+							"beginOffset": 149,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "때문",
+									"beginOffset": 149,
+									"length": 2
+								},
+								"tag": "NNB",
+								"probability": 0.9806073,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 151,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.99946153,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 152,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99164224,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "때문",
+						"tagged": "때문/NNB+이/VCP+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "백신",
+							"beginOffset": 154,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "백신",
+									"beginOffset": 154,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9796547,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "백신",
+						"tagged": "백신/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "접종률이",
+							"beginOffset": 157,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "접종",
+									"beginOffset": 157,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98289937,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "률",
+									"beginOffset": 159,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.9881645,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 160,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.99121404,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "접종",
+						"tagged": "접종/NNG+률/XSN+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "높은",
+							"beginOffset": 162,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "높",
+									"beginOffset": 162,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9881642,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 163,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99990845,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "높",
+						"tagged": "높/VA+은/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "한국은",
+							"beginOffset": 165,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "한국",
+									"beginOffset": 165,
+									"length": 2
+								},
+								"tag": "NNP",
+								"probability": 0.9664774,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 167,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9992091,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "한국",
+						"tagged": "한국/NNP+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "아프리카와는",
+							"beginOffset": 169,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "아프리카",
+									"beginOffset": 169,
+									"length": 4
+								},
+								"tag": "NNP",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "와",
+									"beginOffset": 173,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9722413,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 174,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9996639,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "아프리카",
+						"tagged": "아프리카/NNP+와/JKB+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "다를",
+							"beginOffset": 176,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "다르",
+									"beginOffset": 176,
+									"length": 2
+								},
+								"tag": "VA",
+								"probability": 0.9882294,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ",
+									"beginOffset": 177,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99985504,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "다르",
+						"tagged": "다르/VA+ㄹ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "수",
+							"beginOffset": 179,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "수",
+									"beginOffset": 179,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9788141,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "수",
+						"tagged": "수/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있다고",
+							"beginOffset": 181,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 181,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.97652006,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다고",
+									"beginOffset": 182,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99460965,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VA+다고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "보는",
+							"beginOffset": 185,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "보",
+									"beginOffset": 185,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.6545506,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 186,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999705,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "보",
+						"tagged": "보/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "전문가도",
+							"beginOffset": 188,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "전문가",
+									"beginOffset": 188,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.98245245,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 191,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9992231,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "전문가",
+						"tagged": "전문가/NNG+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있다.",
+							"beginOffset": 193,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 193,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.87928873,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 194,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9934543,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 195,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9990805,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VA+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "아프리카가 위험 상황으로 접어든 것은 접종률이 낮기 때문이고 백신 접종률이 높은 한국은 아프리카와는 다를 수 있다고 보는 전문가도 있다."
+			},
+			{
+				"text": {
+					"content": "그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다.",
+					"beginOffset": 197,
+					"length": 63
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "그래서",
+							"beginOffset": 197,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그래서",
+									"beginOffset": 197,
+									"length": 3
+								},
+								"tag": "MAJ",
+								"probability": 0.9978846,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그래서",
+						"tagged": "그래서/MAJ",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "어서",
+							"beginOffset": 201,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "어서",
+									"beginOffset": 201,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9846676,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "어서",
+						"tagged": "어서/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "빨리",
+							"beginOffset": 204,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "빨리",
+									"beginOffset": 204,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9775847,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "빨리",
+						"tagged": "빨리/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "백신에",
+							"beginOffset": 207,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "백신",
+									"beginOffset": 207,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97605723,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 209,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9788712,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "백신",
+						"tagged": "백신/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "대한",
+							"beginOffset": 211,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "대하",
+									"beginOffset": 211,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9892049,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 212,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999508,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "대하",
+						"tagged": "대하/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "지적재산권이",
+							"beginOffset": 214,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "지적",
+									"beginOffset": 214,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "재산권",
+									"beginOffset": 216,
+									"length": 3
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 219,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9675838,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "지적",
+						"tagged": "지적/NNG+재산권/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "완화되어",
+							"beginOffset": 221,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "완화되",
+									"beginOffset": 221,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "어",
+									"beginOffset": 224,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.97344714,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "완화되",
+						"tagged": "완화되/VV+어/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "전",
+							"beginOffset": 226,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "전",
+									"beginOffset": 226,
+									"length": 1
+								},
+								"tag": "MMN",
+								"probability": 0.9963808,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "전",
+						"tagged": "전/MMN",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "세계적으로",
+							"beginOffset": 228,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "세계",
+									"beginOffset": 228,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97888166,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "적",
+									"beginOffset": 230,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.9884118,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으로",
+									"beginOffset": 231,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9974637,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "세계",
+						"tagged": "세계/NNG+적/XSN+으로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "유행하는",
+							"beginOffset": 234,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "유행하",
+									"beginOffset": 234,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 237,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99977535,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "유행하",
+						"tagged": "유행하/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "코로나가",
+							"beginOffset": 239,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "코로나",
+									"beginOffset": 239,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9121986,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 242,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9193156,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "코로나",
+						"tagged": "코로나/NNG+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "빨리",
+							"beginOffset": 244,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "빨리",
+									"beginOffset": 244,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9867849,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "빨리",
+						"tagged": "빨리/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "종식되었으면",
+							"beginOffset": 247,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "종식되",
+									"beginOffset": 247,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 250,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9999623,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으면",
+									"beginOffset": 251,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99324495,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "종식되",
+						"tagged": "종식되/VV+었/EP+으면/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "좋겠습니다.",
+							"beginOffset": 254,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "좋",
+									"beginOffset": 254,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9851326,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "겠",
+									"beginOffset": 255,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9998579,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "습니다",
+									"beginOffset": 256,
+									"length": 3
+								},
+								"tag": "EF",
+								"probability": 0.9837271,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 259,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99959475,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "좋",
+						"tagged": "좋/VA+겠/EP+습니다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			}
+		],
+		"language": "ko_KR"
+	},
+	"ttr": {
+		"lemma_Cnt": 122,
+		"lemma_TTR": 0.59375,
+		"CL_TTR": 0.7540983606557377,
+		"NL_TTR": 0.71875,
+		"NN_TTR": 0.71875,
+		"NNG_TTR": 0.782608695652174,
+		"NNP_TTR": 0.6666666666666666,
+		"NNB_TTR": 0.5,
+		"NP_TTR": 0,
+		"NR_TTR": 0,
+		"VL_TTR": 0.7727272727272727,
+		"VV_TTR": 0.8888888888888888,
+		"VA_TTR": 0.8,
+		"ML_TTR": 0.8571428571428571,
+		"MM_TTR": 0,
+		"MA_TTR": 0.8571428571428571,
+		"MAJ_TTR": 1.0,
+		"IC_TTR": 0,
+		"FL_TTR": 0.4576271186440678,
+		"J_TTR": 0.41379310344827586,
+		"E_TTR": 0.5416666666666666,
+		"X_TTR": 0.6666666666666666,
+		"lemma_RTTR": 6.717514421272201,
+		"CL_RTTR": 5.889696476913215,
+		"NL_RTTR": 4.065863991822648,
+		"NN_RTTR": 4.065863991822648,
+		"NNG_RTTR": 3.753259453027346,
+		"NNP_RTTR": 1.1547005383792517,
+		"NNB_RTTR": 1.2247448713915892,
+		"NP_RTTR": 0,
+		"NR_RTTR": 0,
+		"VL_RTTR": 3.624412178045377,
+		"VV_RTTR": 2.6666666666666665,
+		"VA_RTTR": 2.5298221281347035,
+		"ML_RTTR": 2.2677868380553634,
+		"MM_RTTR": 0,
+		"MA_RTTR": 2.2677868380553634,
+		"MAJ_RTTR": 1.0,
+		"IC_RTTR": 0,
+		"FL_RTTR": 3.5151005964822444,
+		"J_RTTR": 2.2283440581246223,
+		"E_RTTR": 2.65361388801511,
+		"X_RTTR": 1.6329931618554523,
+		"lemma_CTTR": 4.75,
+		"CL_CTTR": 4.164644317955852,
+		"NL_CTTR": 2.875,
+		"NN_CTTR": 2.875,
+		"NNG_CTTR": 2.6539552107881486,
+		"NNP_CTTR": 0.8164965809277261,
+		"NNB_CTTR": 0.8660254037844387,
+		"NP_CTTR": 0,
+		"NR_CTTR": 0,
+		"VL_CTTR": 2.5628464289109907,
+		"VV_CTTR": 1.885618083164127,
+		"VA_CTTR": 1.7888543819998317,
+		"ML_CTTR": 1.6035674514745464,
+		"MM_CTTR": 0,
+		"MA_CTTR": 1.6035674514745464,
+		"MAJ_CTTR": 0.7071067811865475,
+		"IC_CTTR": 0,
+		"FL_CTTR": 2.485551468325473,
+		"J_CTTR": 1.5756771943166705,
+		"E_CTTR": 1.8763883748662837,
+		"X_CTTR": 1.1547005383792517,
+		"lemma_MSTTR": 0.75,
+		"CL_MSTTR": 0.74,
+		"NL_MSTTR": 0.71875,
+		"NN_MSTTR": 0.71875,
+		"NNG_MSTTR": 0.782608695652174,
+		"NNP_MSTTR": 0.6666666666666666,
+		"NNB_MSTTR": 0.5,
+		"NP_MSTTR": 0,
+		"NR_MSTTR": 0,
+		"VL_MSTTR": 0.7727272727272727,
+		"VV_MSTTR": 0.8888888888888888,
+		"VA_MSTTR": 0.8,
+		"ML_MSTTR": 0.8571428571428571,
+		"MM_MSTTR": 0,
+		"MA_MSTTR": 0.8571428571428571,
+		"MAJ_MSTTR": 1.0,
+		"IC_MSTTR": 0,
+		"FL_MSTTR": 0.42,
+		"J_MSTTR": 0.41379310344827586,
+		"E_MSTTR": 0.5416666666666666,
+		"X_MSTTR": 0.6666666666666666,
+		"lemma_MATTR": 0.7458227848101266,
+		"CL_MATTR": 0.7533333333333333,
+		"NL_MATTR": 0.71875,
+		"NN_MATTR": 0.71875,
+		"NNG_MATTR": 0.782608695652174,
+		"NNP_MATTR": 0.6666666666666666,
+		"NNB_MATTR": 0.5,
+		"NP_MATTR": 0,
+		"NR_MATTR": 0,
+		"VL_MATTR": 0.7727272727272727,
+		"VV_MATTR": 0.8888888888888888,
+		"VA_MATTR": 0.8,
+		"ML_MATTR": 0.8571428571428571,
+		"MM_MATTR": 0,
+		"MA_MATTR": 0.8571428571428571,
+		"MAJ_MATTR": 1.0,
+		"IC_MATTR": 0,
+		"FL_MATTR": 0.4640000000000001,
+		"J_MATTR": 0.41379310344827586,
+		"E_MATTR": 0.5416666666666666,
+		"X_MATTR": 0.6666666666666666,
+		"lemma_MTLD": 61.768654958316546,
+		"CL_MTLD": 69.45866666666666,
+		"NL_MTLD": 31.928888888888892,
+		"NN_MTLD": 31.928888888888892,
+		"NNG_MTLD": 29.624000000000006,
+		"NNP_MTLD": 2.52,
+		"NNB_MTLD": 3.3600000000000003,
+		"NP_MTLD": 0.0,
+		"NR_MTLD": 0.0,
+		"VL_MTLD": 24.552,
+		"VV_MTLD": 22.679999999999993,
+		"VA_MTLD": 14.000000000000004,
+		"ML_MTLD": 13.719999999999997,
+		"MM_MTLD": 0.0,
+		"MA_MTLD": 13.719999999999997,
+		"MAJ_MTLD": 0.0,
+		"IC_MTLD": 0.0,
+		"FL_MTLD": 23.19319808215257,
+		"J_MTLD": 12.592105263157896,
+		"E_MTLD": 16.5609756097561,
+		"X_MTLD": 5.04,
+		"lemma_VOCDD": 67.40433820829908,
+		"CL_VOCDD": 73.47516063270417,
+		"NL_VOCDD": 0,
+		"NN_VOCDD": 0,
+		"NNG_VOCDD": 0,
+		"NNP_VOCDD": 0,
+		"NNB_VOCDD": 0,
+		"NP_VOCDD": 0,
+		"NR_VOCDD": 0,
+		"VL_VOCDD": 0,
+		"VV_VOCDD": 0,
+		"VA_VOCDD": 0,
+		"ML_VOCDD": 0,
+		"MM_VOCDD": 0,
+		"MA_VOCDD": 0,
+		"MAJ_VOCDD": 0,
+		"IC_VOCDD": 0,
+		"FL_VOCDD": 13.155926328304338,
+		"J_VOCDD": 0,
+		"E_VOCDD": 0,
+		"X_VOCDD": 0,
+		"lemma_HDD": 0.8014805168003194,
+		"CL_HDD": 0.8116906675864626,
+		"NL_HDD": 0.0,
+		"NN_HDD": 0.0,
+		"NNG_HDD": 0.0,
+		"NNP_HDD": 0.0,
+		"NNB_HDD": 0.0,
+		"NP_HDD": 0.0,
+		"NR_HDD": 0.0,
+		"VL_HDD": 0.0,
+		"VV_HDD": 0.0,
+		"VA_HDD": 0.0,
+		"ML_HDD": 0.0,
+		"MM_HDD": 0.0,
+		"MA_HDD": 0.0,
+		"MAJ_HDD": 0.0,
+		"IC_HDD": 0.0,
+		"FL_HDD": 0.5373810569141092,
+		"J_HDD": 0.0,
+		"E_HDD": 0.0,
+		"X_HDD": 0.0
+	},
+	"similarity": {
+		"avgSentSimilarity": 0.2811890244483948,
+		"topicConsistency": 0.6014
+	},
+	"adjacency": {
+		"adjacent_sentence_overlap_all_lemmas": 73,
+		"adjacent_sentence_overlap_all_lemmas_normed": 3,
+		"binary_adjacent_sentence_overlap_all_lemmas": 3,
+		"adjacent_two_sentence_overlap_all_lemmas": 53,
+		"adjacent_two_sentence_overlap_all_lemmas_normed": 2,
+		"binary_adjacent_two_sentence_overlap_all_lemmas": 2,
+		"adjacent_sentence_overlap_content_lemmas": 37,
+		"adjacent_sentence_overlap_content_lemmas_normed": 3,
+		"binary_adjacent_sentence_overlap_content_lemmas": 3,
+		"adjacent_two_sentence_overlap_content_lemmas": 26,
+		"adjacent_two_sentence_overlap_content_lemmas_normed": 2,
+		"binary_adjacent_two_sentence_overlap_content_lemmas": 2,
+		"adjacent_sentence_overlap_function_lemmas": 32,
+		"adjacent_sentence_overlap_function_lemmas_normed": 3,
+		"binary_adjacent_sentence_overlap_function_lemmas": 3,
+		"adjacent_two_sentence_overlap_function_lemmas": 25,
+		"adjacent_two_sentence_overlap_function_lemmas_normed": 2,
+		"binary_adjacent_two_sentence_overlap_function_lemmas": 2,
+		"adjacent_sentence_overlap_noun_lemmas": 22,
+		"adjacent_sentence_overlap_noun_lemmas_normed": 3,
+		"binary_adjacent_sentence_overlap_noun_lemmas": 3,
+		"adjacent_two_sentence_overlap_noun_lemmas": 14,
+		"adjacent_two_sentence_overlap_noun_lemmas_normed": 2,
+		"binary_adjacent_two_sentence_overlap_noun_lemmas": 2,
+		"adjacent_sentence_overlap_verb_lemmas": 15,
+		"adjacent_sentence_overlap_verb_lemmas_normed": 3,
+		"binary_adjacent_sentence_overlap_verb_lemmas": 3,
+		"adjacent_two_sentence_overlap_verb_lemmas": 12,
+		"adjacent_two_sentence_overlap_verb_lemmas_normed": 2,
+		"binary_adjacent_two_sentence_overlap_verb_lemmas": 1,
+		"adjacent_sentence_overlap_adjective_lemmas": 7,
+		"adjacent_sentence_overlap_adjective_lemmas_normed": 3,
+		"binary_adjacent_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas": 6,
+		"adjacent_two_sentence_overlap_adjective_lemmas_normed": 2,
+		"binary_adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_sentence_overlap_adverb_lemmas": 1,
+		"adjacent_sentence_overlap_adverb_lemmas_normed": 1,
+		"binary_adjacent_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adverb_lemmas": 0
+	},
+	"basic_count": {
+		"para_Cnt": 1,
+		"sentence_Cnt": 4,
+		"word_Cnt": 60,
+		"morph_Cnt": 128,
+		"char_Cnt": 207,
+		"CL_Cnt": 61,
+		"NL_Cnt": 32,
+		"NN_Cnt": 32,
+		"NNG_Cnt": 23,
+		"NNP_Cnt": 3,
+		"NNB_Cnt": 6,
+		"NP_Cnt": 0,
+		"NP_People_Cnt": 0,
+		"NP_Things_Cnt": 0,
+		"NR_Cnt": 0,
+		"VL_Cnt": 22,
+		"VV_Cnt": 9,
+		"VA_Cnt": 10,
+		"VX_Cnt": 2,
+		"VCP_Cnt": 1,
+		"VCN_Cnt": 0,
+		"ML_Cnt": 7,
+		"MA_Cnt": 0,
+		"MM_Cnt": 0,
+		"FL_Cnt": 59,
+		"J_Cnt": 29,
+		"E_Cnt": 24,
+		"X_Cnt": 6,
+		"IC_Cnt": 0
+	},
+	"basic_density": {
+		"CL_Den": 0.4765625,
+		"FL_Den": 0.4609375,
+		"NL_Den": 0.25,
+		"NNGL_Den": 0.1796875,
+		"NNPL_Den": 0.0234375,
+		"NNBL_Den": 0.046875,
+		"NPL_Den": 0.0,
+		"NML_Den": 0.0,
+		"VL_Den": 0.171875,
+		"VVL_Den": 0.0703125,
+		"VAL_Den": 0.078125,
+		"ML_Den": 0.0546875,
+		"MML_Den": 0.0,
+		"MAL_Den": 0.0,
+		"JL_Den": 0.2265625,
+		"EL_Den": 0.1875,
+		"XL_Den": 0.046875,
+		"ITL_Den": 0.0,
+		"NCL_Den": 0.5245901639344263,
+		"NNCL_Den": 0.3770491803278688,
+		"NNGCL_Den": 0.04918032786885246,
+		"NNBCL_Den": 0.09836065573770492,
+		"NPCL_Den": 0.0,
+		"NMCL_Den": 0.0,
+		"VCL_Den": 0.36065573770491804,
+		"VVCL_Den": 0.14754098360655737,
+		"VACL_Den": 0.16393442622950818,
+		"MCL_Den": 0.11475409836065574,
+		"MMCL_Den": 0.0,
+		"MACL_Den": 0.0,
+		"INCL_Den": 0.0,
+		"JFL_Den": 0.4915254237288136,
+		"EFL_Den": 0.4067796610169492,
+		"XFL_Den": 0.1016949152542373
+	},
+	"basic_level": {
+		"morph_LenAvg": 1.6171875,
+		"morph_LenStd": 0.8208331680943151,
+		"word_LenAvg": 3.25,
+		"word_LenStd": 1.479019945774904
+	},
+	"basic_list": {
+		"NL_Lst": [
+			[
+				0,
+				"상황",
+				"NNG",
+				"이런 상황에서 그나마 다행스런 것은 오미크론 변이는 (아직까지는)치명률이 낮고 중증으로 발전할 가능성이 적은 것으로 알려지고 있다."
+			],
+			[
+				1,
+				"것",
+				"NNB",
+				"이런 상황에서 그나마 다행스런 것은 오미크론 변이는 (아직까지는)치명률이 낮고 중증으로 발전할 가능성이 적은 것으로 알려지고 있다."
+			],
+			[
+				2,
+				"오미크론",
+				"NNG",
+				"이런 상황에서 그나마 다행스런 것은 오미크론 변이는 (아직까지는)치명률이 낮고 중증으로 발전할 가능성이 적은 것으로 알려지고 있다."
+			],
+			[
+				3,
+				"변이",
+				"NNG",
+				"이런 상황에서 그나마 다행스런 것은 오미크론 변이는 (아직까지는)치명률이 낮고 중증으로 발전할 가능성이 적은 것으로 알려지고 있다."
+			],
+			[
+				4,
+				"치명",
+				"NNG",
+				"이런 상황에서 그나마 다행스런 것은 오미크론 변이는 (아직까지는)치명률이 낮고 중증으로 발전할 가능성이 적은 것으로 알려지고 있다."
+			],
+			[
+				5,
+				"중증",
+				"NNG",
+				"이런 상황에서 그나마 다행스런 것은 오미크론 변이는 (아직까지는)치명률이 낮고 중증으로 발전할 가능성이 적은 것으로 알려지고 있다."
+			],
+			[
+				6,
+				"가능",
+				"NNG",
+				"이런 상황에서 그나마 다행스런 것은 오미크론 변이는 (아직까지는)치명률이 낮고 중증으로 발전할 가능성이 적은 것으로 알려지고 있다."
+			],
+			[
+				7,
+				"것",
+				"NNB",
+				"이런 상황에서 그나마 다행스런 것은 오미크론 변이는 (아직까지는)치명률이 낮고 중증으로 발전할 가능성이 적은 것으로 알려지고 있다."
+			],
+			[
+				8,
+				"전파력",
+				"NNG",
+				"또 전파력과 증상에서도 백신 접종자와 미접종자의 차이가 큰 것으로 알려지고 있다."
+			],
+			[
+				9,
+				"증상",
+				"NNG",
+				"또 전파력과 증상에서도 백신 접종자와 미접종자의 차이가 큰 것으로 알려지고 있다."
+			],
+			[
+				10,
+				"백신",
+				"NNG",
+				"또 전파력과 증상에서도 백신 접종자와 미접종자의 차이가 큰 것으로 알려지고 있다."
+			],
+			[
+				11,
+				"접종자",
+				"NNG",
+				"또 전파력과 증상에서도 백신 접종자와 미접종자의 차이가 큰 것으로 알려지고 있다."
+			],
+			[
+				12,
+				"접종자",
+				"NNG",
+				"또 전파력과 증상에서도 백신 접종자와 미접종자의 차이가 큰 것으로 알려지고 있다."
+			],
+			[
+				13,
+				"차이",
+				"NNG",
+				"또 전파력과 증상에서도 백신 접종자와 미접종자의 차이가 큰 것으로 알려지고 있다."
+			],
+			[
+				14,
+				"것",
+				"NNB",
+				"또 전파력과 증상에서도 백신 접종자와 미접종자의 차이가 큰 것으로 알려지고 있다."
+			],
+			[
+				15,
+				"아프리카",
+				"NNP",
+				"아프리카가 위험 상황으로 접어든 것은 접종률이 낮기 때문이고 백신 접종률이 높은 한국은 아프리카와는 다를 수 있다고 보는 전문가도 있다."
+			],
+			[
+				16,
+				"위험",
+				"NNG",
+				"아프리카가 위험 상황으로 접어든 것은 접종률이 낮기 때문이고 백신 접종률이 높은 한국은 아프리카와는 다를 수 있다고 보는 전문가도 있다."
+			],
+			[
+				17,
+				"상황",
+				"NNG",
+				"아프리카가 위험 상황으로 접어든 것은 접종률이 낮기 때문이고 백신 접종률이 높은 한국은 아프리카와는 다를 수 있다고 보는 전문가도 있다."
+			],
+			[
+				18,
+				"것",
+				"NNB",
+				"아프리카가 위험 상황으로 접어든 것은 접종률이 낮기 때문이고 백신 접종률이 높은 한국은 아프리카와는 다를 수 있다고 보는 전문가도 있다."
+			],
+			[
+				19,
+				"접종",
+				"NNG",
+				"아프리카가 위험 상황으로 접어든 것은 접종률이 낮기 때문이고 백신 접종률이 높은 한국은 아프리카와는 다를 수 있다고 보는 전문가도 있다."
+			],
+			[
+				20,
+				"때문",
+				"NNB",
+				"아프리카가 위험 상황으로 접어든 것은 접종률이 낮기 때문이고 백신 접종률이 높은 한국은 아프리카와는 다를 수 있다고 보는 전문가도 있다."
+			],
+			[
+				21,
+				"백신",
+				"NNG",
+				"아프리카가 위험 상황으로 접어든 것은 접종률이 낮기 때문이고 백신 접종률이 높은 한국은 아프리카와는 다를 수 있다고 보는 전문가도 있다."
+			],
+			[
+				22,
+				"접종",
+				"NNG",
+				"아프리카가 위험 상황으로 접어든 것은 접종률이 낮기 때문이고 백신 접종률이 높은 한국은 아프리카와는 다를 수 있다고 보는 전문가도 있다."
+			],
+			[
+				23,
+				"한국",
+				"NNP",
+				"아프리카가 위험 상황으로 접어든 것은 접종률이 낮기 때문이고 백신 접종률이 높은 한국은 아프리카와는 다를 수 있다고 보는 전문가도 있다."
+			],
+			[
+				24,
+				"아프리카",
+				"NNP",
+				"아프리카가 위험 상황으로 접어든 것은 접종률이 낮기 때문이고 백신 접종률이 높은 한국은 아프리카와는 다를 수 있다고 보는 전문가도 있다."
+			],
+			[
+				25,
+				"수",
+				"NNB",
+				"아프리카가 위험 상황으로 접어든 것은 접종률이 낮기 때문이고 백신 접종률이 높은 한국은 아프리카와는 다를 수 있다고 보는 전문가도 있다."
+			],
+			[
+				26,
+				"전문가",
+				"NNG",
+				"아프리카가 위험 상황으로 접어든 것은 접종률이 낮기 때문이고 백신 접종률이 높은 한국은 아프리카와는 다를 수 있다고 보는 전문가도 있다."
+			],
+			[
+				27,
+				"백신",
+				"NNG",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			],
+			[
+				28,
+				"지적",
+				"NNG",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			],
+			[
+				29,
+				"재산권",
+				"NNG",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			],
+			[
+				30,
+				"세계",
+				"NNG",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			],
+			[
+				31,
+				"코로나",
+				"NNG",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			]
+		],
+		"NN_Lst": [
+			[
+				0,
+				"상황",
+				"NNG",
+				"이런 상황에서 그나마 다행스런 것은 오미크론 변이는 (아직까지는)치명률이 낮고 중증으로 발전할 가능성이 적은 것으로 알려지고 있다."
+			],
+			[
+				1,
+				"것",
+				"NNB",
+				"이런 상황에서 그나마 다행스런 것은 오미크론 변이는 (아직까지는)치명률이 낮고 중증으로 발전할 가능성이 적은 것으로 알려지고 있다."
+			],
+			[
+				2,
+				"오미크론",
+				"NNG",
+				"이런 상황에서 그나마 다행스런 것은 오미크론 변이는 (아직까지는)치명률이 낮고 중증으로 발전할 가능성이 적은 것으로 알려지고 있다."
+			],
+			[
+				3,
+				"변이",
+				"NNG",
+				"이런 상황에서 그나마 다행스런 것은 오미크론 변이는 (아직까지는)치명률이 낮고 중증으로 발전할 가능성이 적은 것으로 알려지고 있다."
+			],
+			[
+				4,
+				"치명",
+				"NNG",
+				"이런 상황에서 그나마 다행스런 것은 오미크론 변이는 (아직까지는)치명률이 낮고 중증으로 발전할 가능성이 적은 것으로 알려지고 있다."
+			],
+			[
+				5,
+				"중증",
+				"NNG",
+				"이런 상황에서 그나마 다행스런 것은 오미크론 변이는 (아직까지는)치명률이 낮고 중증으로 발전할 가능성이 적은 것으로 알려지고 있다."
+			],
+			[
+				6,
+				"가능",
+				"NNG",
+				"이런 상황에서 그나마 다행스런 것은 오미크론 변이는 (아직까지는)치명률이 낮고 중증으로 발전할 가능성이 적은 것으로 알려지고 있다."
+			],
+			[
+				7,
+				"것",
+				"NNB",
+				"이런 상황에서 그나마 다행스런 것은 오미크론 변이는 (아직까지는)치명률이 낮고 중증으로 발전할 가능성이 적은 것으로 알려지고 있다."
+			],
+			[
+				8,
+				"전파력",
+				"NNG",
+				"또 전파력과 증상에서도 백신 접종자와 미접종자의 차이가 큰 것으로 알려지고 있다."
+			],
+			[
+				9,
+				"증상",
+				"NNG",
+				"또 전파력과 증상에서도 백신 접종자와 미접종자의 차이가 큰 것으로 알려지고 있다."
+			],
+			[
+				10,
+				"백신",
+				"NNG",
+				"또 전파력과 증상에서도 백신 접종자와 미접종자의 차이가 큰 것으로 알려지고 있다."
+			],
+			[
+				11,
+				"접종자",
+				"NNG",
+				"또 전파력과 증상에서도 백신 접종자와 미접종자의 차이가 큰 것으로 알려지고 있다."
+			],
+			[
+				12,
+				"접종자",
+				"NNG",
+				"또 전파력과 증상에서도 백신 접종자와 미접종자의 차이가 큰 것으로 알려지고 있다."
+			],
+			[
+				13,
+				"차이",
+				"NNG",
+				"또 전파력과 증상에서도 백신 접종자와 미접종자의 차이가 큰 것으로 알려지고 있다."
+			],
+			[
+				14,
+				"것",
+				"NNB",
+				"또 전파력과 증상에서도 백신 접종자와 미접종자의 차이가 큰 것으로 알려지고 있다."
+			],
+			[
+				15,
+				"아프리카",
+				"NNP",
+				"아프리카가 위험 상황으로 접어든 것은 접종률이 낮기 때문이고 백신 접종률이 높은 한국은 아프리카와는 다를 수 있다고 보는 전문가도 있다."
+			],
+			[
+				16,
+				"위험",
+				"NNG",
+				"아프리카가 위험 상황으로 접어든 것은 접종률이 낮기 때문이고 백신 접종률이 높은 한국은 아프리카와는 다를 수 있다고 보는 전문가도 있다."
+			],
+			[
+				17,
+				"상황",
+				"NNG",
+				"아프리카가 위험 상황으로 접어든 것은 접종률이 낮기 때문이고 백신 접종률이 높은 한국은 아프리카와는 다를 수 있다고 보는 전문가도 있다."
+			],
+			[
+				18,
+				"것",
+				"NNB",
+				"아프리카가 위험 상황으로 접어든 것은 접종률이 낮기 때문이고 백신 접종률이 높은 한국은 아프리카와는 다를 수 있다고 보는 전문가도 있다."
+			],
+			[
+				19,
+				"접종",
+				"NNG",
+				"아프리카가 위험 상황으로 접어든 것은 접종률이 낮기 때문이고 백신 접종률이 높은 한국은 아프리카와는 다를 수 있다고 보는 전문가도 있다."
+			],
+			[
+				20,
+				"때문",
+				"NNB",
+				"아프리카가 위험 상황으로 접어든 것은 접종률이 낮기 때문이고 백신 접종률이 높은 한국은 아프리카와는 다를 수 있다고 보는 전문가도 있다."
+			],
+			[
+				21,
+				"백신",
+				"NNG",
+				"아프리카가 위험 상황으로 접어든 것은 접종률이 낮기 때문이고 백신 접종률이 높은 한국은 아프리카와는 다를 수 있다고 보는 전문가도 있다."
+			],
+			[
+				22,
+				"접종",
+				"NNG",
+				"아프리카가 위험 상황으로 접어든 것은 접종률이 낮기 때문이고 백신 접종률이 높은 한국은 아프리카와는 다를 수 있다고 보는 전문가도 있다."
+			],
+			[
+				23,
+				"한국",
+				"NNP",
+				"아프리카가 위험 상황으로 접어든 것은 접종률이 낮기 때문이고 백신 접종률이 높은 한국은 아프리카와는 다를 수 있다고 보는 전문가도 있다."
+			],
+			[
+				24,
+				"아프리카",
+				"NNP",
+				"아프리카가 위험 상황으로 접어든 것은 접종률이 낮기 때문이고 백신 접종률이 높은 한국은 아프리카와는 다를 수 있다고 보는 전문가도 있다."
+			],
+			[
+				25,
+				"수",
+				"NNB",
+				"아프리카가 위험 상황으로 접어든 것은 접종률이 낮기 때문이고 백신 접종률이 높은 한국은 아프리카와는 다를 수 있다고 보는 전문가도 있다."
+			],
+			[
+				26,
+				"전문가",
+				"NNG",
+				"아프리카가 위험 상황으로 접어든 것은 접종률이 낮기 때문이고 백신 접종률이 높은 한국은 아프리카와는 다를 수 있다고 보는 전문가도 있다."
+			],
+			[
+				27,
+				"백신",
+				"NNG",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			],
+			[
+				28,
+				"지적",
+				"NNG",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			],
+			[
+				29,
+				"재산권",
+				"NNG",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			],
+			[
+				30,
+				"세계",
+				"NNG",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			],
+			[
+				31,
+				"코로나",
+				"NNG",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			]
+		],
+		"NNG_Lst": [
+			[
+				0,
+				"상황",
+				"NNG",
+				"이런 상황에서 그나마 다행스런 것은 오미크론 변이는 (아직까지는)치명률이 낮고 중증으로 발전할 가능성이 적은 것으로 알려지고 있다."
+			],
+			[
+				1,
+				"오미크론",
+				"NNG",
+				"이런 상황에서 그나마 다행스런 것은 오미크론 변이는 (아직까지는)치명률이 낮고 중증으로 발전할 가능성이 적은 것으로 알려지고 있다."
+			],
+			[
+				2,
+				"변이",
+				"NNG",
+				"이런 상황에서 그나마 다행스런 것은 오미크론 변이는 (아직까지는)치명률이 낮고 중증으로 발전할 가능성이 적은 것으로 알려지고 있다."
+			],
+			[
+				3,
+				"치명",
+				"NNG",
+				"이런 상황에서 그나마 다행스런 것은 오미크론 변이는 (아직까지는)치명률이 낮고 중증으로 발전할 가능성이 적은 것으로 알려지고 있다."
+			],
+			[
+				4,
+				"중증",
+				"NNG",
+				"이런 상황에서 그나마 다행스런 것은 오미크론 변이는 (아직까지는)치명률이 낮고 중증으로 발전할 가능성이 적은 것으로 알려지고 있다."
+			],
+			[
+				5,
+				"가능",
+				"NNG",
+				"이런 상황에서 그나마 다행스런 것은 오미크론 변이는 (아직까지는)치명률이 낮고 중증으로 발전할 가능성이 적은 것으로 알려지고 있다."
+			],
+			[
+				6,
+				"전파력",
+				"NNG",
+				"또 전파력과 증상에서도 백신 접종자와 미접종자의 차이가 큰 것으로 알려지고 있다."
+			],
+			[
+				7,
+				"증상",
+				"NNG",
+				"또 전파력과 증상에서도 백신 접종자와 미접종자의 차이가 큰 것으로 알려지고 있다."
+			],
+			[
+				8,
+				"백신",
+				"NNG",
+				"또 전파력과 증상에서도 백신 접종자와 미접종자의 차이가 큰 것으로 알려지고 있다."
+			],
+			[
+				9,
+				"접종자",
+				"NNG",
+				"또 전파력과 증상에서도 백신 접종자와 미접종자의 차이가 큰 것으로 알려지고 있다."
+			],
+			[
+				10,
+				"접종자",
+				"NNG",
+				"또 전파력과 증상에서도 백신 접종자와 미접종자의 차이가 큰 것으로 알려지고 있다."
+			],
+			[
+				11,
+				"차이",
+				"NNG",
+				"또 전파력과 증상에서도 백신 접종자와 미접종자의 차이가 큰 것으로 알려지고 있다."
+			],
+			[
+				12,
+				"위험",
+				"NNG",
+				"아프리카가 위험 상황으로 접어든 것은 접종률이 낮기 때문이고 백신 접종률이 높은 한국은 아프리카와는 다를 수 있다고 보는 전문가도 있다."
+			],
+			[
+				13,
+				"상황",
+				"NNG",
+				"아프리카가 위험 상황으로 접어든 것은 접종률이 낮기 때문이고 백신 접종률이 높은 한국은 아프리카와는 다를 수 있다고 보는 전문가도 있다."
+			],
+			[
+				14,
+				"접종",
+				"NNG",
+				"아프리카가 위험 상황으로 접어든 것은 접종률이 낮기 때문이고 백신 접종률이 높은 한국은 아프리카와는 다를 수 있다고 보는 전문가도 있다."
+			],
+			[
+				15,
+				"백신",
+				"NNG",
+				"아프리카가 위험 상황으로 접어든 것은 접종률이 낮기 때문이고 백신 접종률이 높은 한국은 아프리카와는 다를 수 있다고 보는 전문가도 있다."
+			],
+			[
+				16,
+				"접종",
+				"NNG",
+				"아프리카가 위험 상황으로 접어든 것은 접종률이 낮기 때문이고 백신 접종률이 높은 한국은 아프리카와는 다를 수 있다고 보는 전문가도 있다."
+			],
+			[
+				17,
+				"전문가",
+				"NNG",
+				"아프리카가 위험 상황으로 접어든 것은 접종률이 낮기 때문이고 백신 접종률이 높은 한국은 아프리카와는 다를 수 있다고 보는 전문가도 있다."
+			],
+			[
+				18,
+				"백신",
+				"NNG",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			],
+			[
+				19,
+				"지적",
+				"NNG",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			],
+			[
+				20,
+				"재산권",
+				"NNG",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			],
+			[
+				21,
+				"세계",
+				"NNG",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			],
+			[
+				22,
+				"코로나",
+				"NNG",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			]
+		],
+		"NNP_Lst": [
+			[
+				0,
+				"아프리카",
+				"NNP",
+				"아프리카가 위험 상황으로 접어든 것은 접종률이 낮기 때문이고 백신 접종률이 높은 한국은 아프리카와는 다를 수 있다고 보는 전문가도 있다."
+			],
+			[
+				1,
+				"한국",
+				"NNP",
+				"아프리카가 위험 상황으로 접어든 것은 접종률이 낮기 때문이고 백신 접종률이 높은 한국은 아프리카와는 다를 수 있다고 보는 전문가도 있다."
+			],
+			[
+				2,
+				"아프리카",
+				"NNP",
+				"아프리카가 위험 상황으로 접어든 것은 접종률이 낮기 때문이고 백신 접종률이 높은 한국은 아프리카와는 다를 수 있다고 보는 전문가도 있다."
+			]
+		],
+		"NNB_Lst": [
+			[
+				0,
+				"것",
+				"NNB",
+				"이런 상황에서 그나마 다행스런 것은 오미크론 변이는 (아직까지는)치명률이 낮고 중증으로 발전할 가능성이 적은 것으로 알려지고 있다."
+			],
+			[
+				1,
+				"것",
+				"NNB",
+				"이런 상황에서 그나마 다행스런 것은 오미크론 변이는 (아직까지는)치명률이 낮고 중증으로 발전할 가능성이 적은 것으로 알려지고 있다."
+			],
+			[
+				2,
+				"것",
+				"NNB",
+				"또 전파력과 증상에서도 백신 접종자와 미접종자의 차이가 큰 것으로 알려지고 있다."
+			],
+			[
+				3,
+				"것",
+				"NNB",
+				"아프리카가 위험 상황으로 접어든 것은 접종률이 낮기 때문이고 백신 접종률이 높은 한국은 아프리카와는 다를 수 있다고 보는 전문가도 있다."
+			],
+			[
+				4,
+				"때문",
+				"NNB",
+				"아프리카가 위험 상황으로 접어든 것은 접종률이 낮기 때문이고 백신 접종률이 높은 한국은 아프리카와는 다를 수 있다고 보는 전문가도 있다."
+			],
+			[
+				5,
+				"수",
+				"NNB",
+				"아프리카가 위험 상황으로 접어든 것은 접종률이 낮기 때문이고 백신 접종률이 높은 한국은 아프리카와는 다를 수 있다고 보는 전문가도 있다."
+			]
+		],
+		"NP_Lst": [],
+		"NP_People_Lst": [],
+		"NP_Things_Lst": [],
+		"NR_Lst": [],
+		"VL_Lst": [
+			[
+				0,
+				"다행스럽",
+				"VA",
+				"이런 상황에서 그나마 다행스런 것은 오미크론 변이는 (아직까지는)치명률이 낮고 중증으로 발전할 가능성이 적은 것으로 알려지고 있다."
+			],
+			[
+				1,
+				"낮",
+				"VA",
+				"이런 상황에서 그나마 다행스런 것은 오미크론 변이는 (아직까지는)치명률이 낮고 중증으로 발전할 가능성이 적은 것으로 알려지고 있다."
+			],
+			[
+				2,
+				"발전하",
+				"VV",
+				"이런 상황에서 그나마 다행스런 것은 오미크론 변이는 (아직까지는)치명률이 낮고 중증으로 발전할 가능성이 적은 것으로 알려지고 있다."
+			],
+			[
+				3,
+				"적",
+				"VA",
+				"이런 상황에서 그나마 다행스런 것은 오미크론 변이는 (아직까지는)치명률이 낮고 중증으로 발전할 가능성이 적은 것으로 알려지고 있다."
+			],
+			[
+				4,
+				"알려지",
+				"VV",
+				"이런 상황에서 그나마 다행스런 것은 오미크론 변이는 (아직까지는)치명률이 낮고 중증으로 발전할 가능성이 적은 것으로 알려지고 있다."
+			],
+			[
+				5,
+				"있",
+				"VX",
+				"이런 상황에서 그나마 다행스런 것은 오미크론 변이는 (아직까지는)치명률이 낮고 중증으로 발전할 가능성이 적은 것으로 알려지고 있다."
+			],
+			[
+				6,
+				"크",
+				"VA",
+				"또 전파력과 증상에서도 백신 접종자와 미접종자의 차이가 큰 것으로 알려지고 있다."
+			],
+			[
+				7,
+				"알려지",
+				"VV",
+				"또 전파력과 증상에서도 백신 접종자와 미접종자의 차이가 큰 것으로 알려지고 있다."
+			],
+			[
+				8,
+				"있",
+				"VX",
+				"또 전파력과 증상에서도 백신 접종자와 미접종자의 차이가 큰 것으로 알려지고 있다."
+			],
+			[
+				9,
+				"접어들",
+				"VV",
+				"아프리카가 위험 상황으로 접어든 것은 접종률이 낮기 때문이고 백신 접종률이 높은 한국은 아프리카와는 다를 수 있다고 보는 전문가도 있다."
+			],
+			[
+				10,
+				"낮",
+				"VA",
+				"아프리카가 위험 상황으로 접어든 것은 접종률이 낮기 때문이고 백신 접종률이 높은 한국은 아프리카와는 다를 수 있다고 보는 전문가도 있다."
+			],
+			[
+				11,
+				"이",
+				"VCP",
+				"아프리카가 위험 상황으로 접어든 것은 접종률이 낮기 때문이고 백신 접종률이 높은 한국은 아프리카와는 다를 수 있다고 보는 전문가도 있다."
+			],
+			[
+				12,
+				"높",
+				"VA",
+				"아프리카가 위험 상황으로 접어든 것은 접종률이 낮기 때문이고 백신 접종률이 높은 한국은 아프리카와는 다를 수 있다고 보는 전문가도 있다."
+			],
+			[
+				13,
+				"다르",
+				"VA",
+				"아프리카가 위험 상황으로 접어든 것은 접종률이 낮기 때문이고 백신 접종률이 높은 한국은 아프리카와는 다를 수 있다고 보는 전문가도 있다."
+			],
+			[
+				14,
+				"있",
+				"VA",
+				"아프리카가 위험 상황으로 접어든 것은 접종률이 낮기 때문이고 백신 접종률이 높은 한국은 아프리카와는 다를 수 있다고 보는 전문가도 있다."
+			],
+			[
+				15,
+				"보",
+				"VV",
+				"아프리카가 위험 상황으로 접어든 것은 접종률이 낮기 때문이고 백신 접종률이 높은 한국은 아프리카와는 다를 수 있다고 보는 전문가도 있다."
+			],
+			[
+				16,
+				"있",
+				"VA",
+				"아프리카가 위험 상황으로 접어든 것은 접종률이 낮기 때문이고 백신 접종률이 높은 한국은 아프리카와는 다를 수 있다고 보는 전문가도 있다."
+			],
+			[
+				17,
+				"대하",
+				"VV",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			],
+			[
+				18,
+				"완화되",
+				"VV",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			],
+			[
+				19,
+				"유행하",
+				"VV",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			],
+			[
+				20,
+				"종식되",
+				"VV",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			],
+			[
+				21,
+				"좋",
+				"VA",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			]
+		],
+		"VV_Lst": [
+			[
+				0,
+				"발전하",
+				"VV",
+				"이런 상황에서 그나마 다행스런 것은 오미크론 변이는 (아직까지는)치명률이 낮고 중증으로 발전할 가능성이 적은 것으로 알려지고 있다."
+			],
+			[
+				1,
+				"알려지",
+				"VV",
+				"이런 상황에서 그나마 다행스런 것은 오미크론 변이는 (아직까지는)치명률이 낮고 중증으로 발전할 가능성이 적은 것으로 알려지고 있다."
+			],
+			[
+				2,
+				"알려지",
+				"VV",
+				"또 전파력과 증상에서도 백신 접종자와 미접종자의 차이가 큰 것으로 알려지고 있다."
+			],
+			[
+				3,
+				"접어들",
+				"VV",
+				"아프리카가 위험 상황으로 접어든 것은 접종률이 낮기 때문이고 백신 접종률이 높은 한국은 아프리카와는 다를 수 있다고 보는 전문가도 있다."
+			],
+			[
+				4,
+				"보",
+				"VV",
+				"아프리카가 위험 상황으로 접어든 것은 접종률이 낮기 때문이고 백신 접종률이 높은 한국은 아프리카와는 다를 수 있다고 보는 전문가도 있다."
+			],
+			[
+				5,
+				"대하",
+				"VV",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			],
+			[
+				6,
+				"완화되",
+				"VV",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			],
+			[
+				7,
+				"유행하",
+				"VV",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			],
+			[
+				8,
+				"종식되",
+				"VV",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			]
+		],
+		"VA_Lst": [
+			[
+				0,
+				"다행스럽",
+				"VA",
+				"이런 상황에서 그나마 다행스런 것은 오미크론 변이는 (아직까지는)치명률이 낮고 중증으로 발전할 가능성이 적은 것으로 알려지고 있다."
+			],
+			[
+				1,
+				"낮",
+				"VA",
+				"이런 상황에서 그나마 다행스런 것은 오미크론 변이는 (아직까지는)치명률이 낮고 중증으로 발전할 가능성이 적은 것으로 알려지고 있다."
+			],
+			[
+				2,
+				"적",
+				"VA",
+				"이런 상황에서 그나마 다행스런 것은 오미크론 변이는 (아직까지는)치명률이 낮고 중증으로 발전할 가능성이 적은 것으로 알려지고 있다."
+			],
+			[
+				3,
+				"크",
+				"VA",
+				"또 전파력과 증상에서도 백신 접종자와 미접종자의 차이가 큰 것으로 알려지고 있다."
+			],
+			[
+				4,
+				"낮",
+				"VA",
+				"아프리카가 위험 상황으로 접어든 것은 접종률이 낮기 때문이고 백신 접종률이 높은 한국은 아프리카와는 다를 수 있다고 보는 전문가도 있다."
+			],
+			[
+				5,
+				"높",
+				"VA",
+				"아프리카가 위험 상황으로 접어든 것은 접종률이 낮기 때문이고 백신 접종률이 높은 한국은 아프리카와는 다를 수 있다고 보는 전문가도 있다."
+			],
+			[
+				6,
+				"다르",
+				"VA",
+				"아프리카가 위험 상황으로 접어든 것은 접종률이 낮기 때문이고 백신 접종률이 높은 한국은 아프리카와는 다를 수 있다고 보는 전문가도 있다."
+			],
+			[
+				7,
+				"있",
+				"VA",
+				"아프리카가 위험 상황으로 접어든 것은 접종률이 낮기 때문이고 백신 접종률이 높은 한국은 아프리카와는 다를 수 있다고 보는 전문가도 있다."
+			],
+			[
+				8,
+				"있",
+				"VA",
+				"아프리카가 위험 상황으로 접어든 것은 접종률이 낮기 때문이고 백신 접종률이 높은 한국은 아프리카와는 다를 수 있다고 보는 전문가도 있다."
+			],
+			[
+				9,
+				"좋",
+				"VA",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			]
+		],
+		"VX_Lst": [
+			[
+				0,
+				"있",
+				"VX",
+				"이런 상황에서 그나마 다행스런 것은 오미크론 변이는 (아직까지는)치명률이 낮고 중증으로 발전할 가능성이 적은 것으로 알려지고 있다."
+			],
+			[
+				1,
+				"있",
+				"VX",
+				"또 전파력과 증상에서도 백신 접종자와 미접종자의 차이가 큰 것으로 알려지고 있다."
+			]
+		],
+		"VCP_Lst": [
+			[
+				0,
+				"이",
+				"VCP",
+				"아프리카가 위험 상황으로 접어든 것은 접종률이 낮기 때문이고 백신 접종률이 높은 한국은 아프리카와는 다를 수 있다고 보는 전문가도 있다."
+			]
+		],
+		"VCN_Lst": [],
+		"ML_Lst": [
+			[
+				0,
+				"그나마",
+				"MAG",
+				"이런 상황에서 그나마 다행스런 것은 오미크론 변이는 (아직까지는)치명률이 낮고 중증으로 발전할 가능성이 적은 것으로 알려지고 있다."
+			],
+			[
+				1,
+				"아직",
+				"MAG",
+				"이런 상황에서 그나마 다행스런 것은 오미크론 변이는 (아직까지는)치명률이 낮고 중증으로 발전할 가능성이 적은 것으로 알려지고 있다."
+			],
+			[
+				2,
+				"또",
+				"MAG",
+				"또 전파력과 증상에서도 백신 접종자와 미접종자의 차이가 큰 것으로 알려지고 있다."
+			],
+			[
+				3,
+				"그래서",
+				"MAJ",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			],
+			[
+				4,
+				"어서",
+				"MAG",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			],
+			[
+				5,
+				"빨리",
+				"MAG",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			],
+			[
+				6,
+				"빨리",
+				"MAG",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			]
+		],
+		"MA_Lst": [],
+		"MM_Lst": [],
+		"J_Lst": [
+			[
+				0,
+				"에서",
+				"JKB",
+				"이런 상황에서 그나마 다행스런 것은 오미크론 변이는 (아직까지는)치명률이 낮고 중증으로 발전할 가능성이 적은 것으로 알려지고 있다."
+			],
+			[
+				1,
+				"은",
+				"JX",
+				"이런 상황에서 그나마 다행스런 것은 오미크론 변이는 (아직까지는)치명률이 낮고 중증으로 발전할 가능성이 적은 것으로 알려지고 있다."
+			],
+			[
+				2,
+				"는",
+				"JX",
+				"이런 상황에서 그나마 다행스런 것은 오미크론 변이는 (아직까지는)치명률이 낮고 중증으로 발전할 가능성이 적은 것으로 알려지고 있다."
+			],
+			[
+				3,
+				"까지",
+				"JX",
+				"이런 상황에서 그나마 다행스런 것은 오미크론 변이는 (아직까지는)치명률이 낮고 중증으로 발전할 가능성이 적은 것으로 알려지고 있다."
+			],
+			[
+				4,
+				"는",
+				"JX",
+				"이런 상황에서 그나마 다행스런 것은 오미크론 변이는 (아직까지는)치명률이 낮고 중증으로 발전할 가능성이 적은 것으로 알려지고 있다."
+			],
+			[
+				5,
+				"이",
+				"JKS",
+				"이런 상황에서 그나마 다행스런 것은 오미크론 변이는 (아직까지는)치명률이 낮고 중증으로 발전할 가능성이 적은 것으로 알려지고 있다."
+			],
+			[
+				6,
+				"으로",
+				"JKB",
+				"이런 상황에서 그나마 다행스런 것은 오미크론 변이는 (아직까지는)치명률이 낮고 중증으로 발전할 가능성이 적은 것으로 알려지고 있다."
+			],
+			[
+				7,
+				"이",
+				"JKS",
+				"이런 상황에서 그나마 다행스런 것은 오미크론 변이는 (아직까지는)치명률이 낮고 중증으로 발전할 가능성이 적은 것으로 알려지고 있다."
+			],
+			[
+				8,
+				"으로",
+				"JKB",
+				"이런 상황에서 그나마 다행스런 것은 오미크론 변이는 (아직까지는)치명률이 낮고 중증으로 발전할 가능성이 적은 것으로 알려지고 있다."
+			],
+			[
+				9,
+				"과",
+				"JC",
+				"또 전파력과 증상에서도 백신 접종자와 미접종자의 차이가 큰 것으로 알려지고 있다."
+			],
+			[
+				10,
+				"에서",
+				"JKB",
+				"또 전파력과 증상에서도 백신 접종자와 미접종자의 차이가 큰 것으로 알려지고 있다."
+			],
+			[
+				11,
+				"도",
+				"JX",
+				"또 전파력과 증상에서도 백신 접종자와 미접종자의 차이가 큰 것으로 알려지고 있다."
+			],
+			[
+				12,
+				"와",
+				"JC",
+				"또 전파력과 증상에서도 백신 접종자와 미접종자의 차이가 큰 것으로 알려지고 있다."
+			],
+			[
+				13,
+				"의",
+				"JKG",
+				"또 전파력과 증상에서도 백신 접종자와 미접종자의 차이가 큰 것으로 알려지고 있다."
+			],
+			[
+				14,
+				"가",
+				"JKS",
+				"또 전파력과 증상에서도 백신 접종자와 미접종자의 차이가 큰 것으로 알려지고 있다."
+			],
+			[
+				15,
+				"으로",
+				"JKB",
+				"또 전파력과 증상에서도 백신 접종자와 미접종자의 차이가 큰 것으로 알려지고 있다."
+			],
+			[
+				16,
+				"가",
+				"JKS",
+				"아프리카가 위험 상황으로 접어든 것은 접종률이 낮기 때문이고 백신 접종률이 높은 한국은 아프리카와는 다를 수 있다고 보는 전문가도 있다."
+			],
+			[
+				17,
+				"으로",
+				"JKB",
+				"아프리카가 위험 상황으로 접어든 것은 접종률이 낮기 때문이고 백신 접종률이 높은 한국은 아프리카와는 다를 수 있다고 보는 전문가도 있다."
+			],
+			[
+				18,
+				"은",
+				"JX",
+				"아프리카가 위험 상황으로 접어든 것은 접종률이 낮기 때문이고 백신 접종률이 높은 한국은 아프리카와는 다를 수 있다고 보는 전문가도 있다."
+			],
+			[
+				19,
+				"이",
+				"JKS",
+				"아프리카가 위험 상황으로 접어든 것은 접종률이 낮기 때문이고 백신 접종률이 높은 한국은 아프리카와는 다를 수 있다고 보는 전문가도 있다."
+			],
+			[
+				20,
+				"이",
+				"JKS",
+				"아프리카가 위험 상황으로 접어든 것은 접종률이 낮기 때문이고 백신 접종률이 높은 한국은 아프리카와는 다를 수 있다고 보는 전문가도 있다."
+			],
+			[
+				21,
+				"은",
+				"JX",
+				"아프리카가 위험 상황으로 접어든 것은 접종률이 낮기 때문이고 백신 접종률이 높은 한국은 아프리카와는 다를 수 있다고 보는 전문가도 있다."
+			],
+			[
+				22,
+				"와",
+				"JKB",
+				"아프리카가 위험 상황으로 접어든 것은 접종률이 낮기 때문이고 백신 접종률이 높은 한국은 아프리카와는 다를 수 있다고 보는 전문가도 있다."
+			],
+			[
+				23,
+				"는",
+				"JX",
+				"아프리카가 위험 상황으로 접어든 것은 접종률이 낮기 때문이고 백신 접종률이 높은 한국은 아프리카와는 다를 수 있다고 보는 전문가도 있다."
+			],
+			[
+				24,
+				"도",
+				"JX",
+				"아프리카가 위험 상황으로 접어든 것은 접종률이 낮기 때문이고 백신 접종률이 높은 한국은 아프리카와는 다를 수 있다고 보는 전문가도 있다."
+			],
+			[
+				25,
+				"에",
+				"JKB",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			],
+			[
+				26,
+				"이",
+				"JKS",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			],
+			[
+				27,
+				"으로",
+				"JKB",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			],
+			[
+				28,
+				"가",
+				"JKS",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			]
+		],
+		"E_Lst": [
+			[
+				0,
+				"ㄴ",
+				"ETM",
+				"이런 상황에서 그나마 다행스런 것은 오미크론 변이는 (아직까지는)치명률이 낮고 중증으로 발전할 가능성이 적은 것으로 알려지고 있다."
+			],
+			[
+				1,
+				"고",
+				"EC",
+				"이런 상황에서 그나마 다행스런 것은 오미크론 변이는 (아직까지는)치명률이 낮고 중증으로 발전할 가능성이 적은 것으로 알려지고 있다."
+			],
+			[
+				2,
+				"ㄹ",
+				"ETM",
+				"이런 상황에서 그나마 다행스런 것은 오미크론 변이는 (아직까지는)치명률이 낮고 중증으로 발전할 가능성이 적은 것으로 알려지고 있다."
+			],
+			[
+				3,
+				"은",
+				"ETM",
+				"이런 상황에서 그나마 다행스런 것은 오미크론 변이는 (아직까지는)치명률이 낮고 중증으로 발전할 가능성이 적은 것으로 알려지고 있다."
+			],
+			[
+				4,
+				"고",
+				"EC",
+				"이런 상황에서 그나마 다행스런 것은 오미크론 변이는 (아직까지는)치명률이 낮고 중증으로 발전할 가능성이 적은 것으로 알려지고 있다."
+			],
+			[
+				5,
+				"다",
+				"EF",
+				"이런 상황에서 그나마 다행스런 것은 오미크론 변이는 (아직까지는)치명률이 낮고 중증으로 발전할 가능성이 적은 것으로 알려지고 있다."
+			],
+			[
+				6,
+				"ㄴ",
+				"ETM",
+				"또 전파력과 증상에서도 백신 접종자와 미접종자의 차이가 큰 것으로 알려지고 있다."
+			],
+			[
+				7,
+				"고",
+				"EC",
+				"또 전파력과 증상에서도 백신 접종자와 미접종자의 차이가 큰 것으로 알려지고 있다."
+			],
+			[
+				8,
+				"다",
+				"EF",
+				"또 전파력과 증상에서도 백신 접종자와 미접종자의 차이가 큰 것으로 알려지고 있다."
+			],
+			[
+				9,
+				"ㄴ",
+				"ETM",
+				"아프리카가 위험 상황으로 접어든 것은 접종률이 낮기 때문이고 백신 접종률이 높은 한국은 아프리카와는 다를 수 있다고 보는 전문가도 있다."
+			],
+			[
+				10,
+				"기",
+				"ETN",
+				"아프리카가 위험 상황으로 접어든 것은 접종률이 낮기 때문이고 백신 접종률이 높은 한국은 아프리카와는 다를 수 있다고 보는 전문가도 있다."
+			],
+			[
+				11,
+				"고",
+				"EC",
+				"아프리카가 위험 상황으로 접어든 것은 접종률이 낮기 때문이고 백신 접종률이 높은 한국은 아프리카와는 다를 수 있다고 보는 전문가도 있다."
+			],
+			[
+				12,
+				"은",
+				"ETM",
+				"아프리카가 위험 상황으로 접어든 것은 접종률이 낮기 때문이고 백신 접종률이 높은 한국은 아프리카와는 다를 수 있다고 보는 전문가도 있다."
+			],
+			[
+				13,
+				"ㄹ",
+				"ETM",
+				"아프리카가 위험 상황으로 접어든 것은 접종률이 낮기 때문이고 백신 접종률이 높은 한국은 아프리카와는 다를 수 있다고 보는 전문가도 있다."
+			],
+			[
+				14,
+				"다고",
+				"EC",
+				"아프리카가 위험 상황으로 접어든 것은 접종률이 낮기 때문이고 백신 접종률이 높은 한국은 아프리카와는 다를 수 있다고 보는 전문가도 있다."
+			],
+			[
+				15,
+				"는",
+				"ETM",
+				"아프리카가 위험 상황으로 접어든 것은 접종률이 낮기 때문이고 백신 접종률이 높은 한국은 아프리카와는 다를 수 있다고 보는 전문가도 있다."
+			],
+			[
+				16,
+				"다",
+				"EF",
+				"아프리카가 위험 상황으로 접어든 것은 접종률이 낮기 때문이고 백신 접종률이 높은 한국은 아프리카와는 다를 수 있다고 보는 전문가도 있다."
+			],
+			[
+				17,
+				"ㄴ",
+				"ETM",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			],
+			[
+				18,
+				"어",
+				"EC",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			],
+			[
+				19,
+				"는",
+				"ETM",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			],
+			[
+				20,
+				"었",
+				"EP",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			],
+			[
+				21,
+				"으면",
+				"EC",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			],
+			[
+				22,
+				"겠",
+				"EP",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			],
+			[
+				23,
+				"습니다",
+				"EF",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			]
+		],
+		"X_Lst": [
+			[
+				0,
+				"률",
+				"XSN",
+				"이런 상황에서 그나마 다행스런 것은 오미크론 변이는 (아직까지는)치명률이 낮고 중증으로 발전할 가능성이 적은 것으로 알려지고 있다."
+			],
+			[
+				1,
+				"성",
+				"XSN",
+				"이런 상황에서 그나마 다행스런 것은 오미크론 변이는 (아직까지는)치명률이 낮고 중증으로 발전할 가능성이 적은 것으로 알려지고 있다."
+			],
+			[
+				2,
+				"미",
+				"XPN",
+				"또 전파력과 증상에서도 백신 접종자와 미접종자의 차이가 큰 것으로 알려지고 있다."
+			],
+			[
+				3,
+				"률",
+				"XSN",
+				"아프리카가 위험 상황으로 접어든 것은 접종률이 낮기 때문이고 백신 접종률이 높은 한국은 아프리카와는 다를 수 있다고 보는 전문가도 있다."
+			],
+			[
+				4,
+				"률",
+				"XSN",
+				"아프리카가 위험 상황으로 접어든 것은 접종률이 낮기 때문이고 백신 접종률이 높은 한국은 아프리카와는 다를 수 있다고 보는 전문가도 있다."
+			],
+			[
+				5,
+				"적",
+				"XSN",
+				"그래서 어서 빨리 백신에 대한 지적재산권이 완화되어 전 세계적으로 유행하는 코로나가 빨리 종식되었으면 좋겠습니다."
+			]
+		],
+		"IC_Lst": []
+	},
+	"NDW": {
+		"morph_NDW": 82,
+		"NL_NDW": 32,
+		"NNG_NDW": 23,
+		"NNP_NDW": 3,
+		"NNB_NDW": 6,
+		"NP_NDW": 0,
+		"NR_NDW": 0,
+		"VL_NDW": 22,
+		"VV_NDW": 9,
+		"VA_NDW": 10,
+		"ML_NDW": 7,
+		"MM_NDW": 0,
+		"IC_NDW": 0,
+		"J_NDW": 29,
+		"E_NDW": 24,
+		"X_NDW": 6,
+		"CL_NDW": 61,
+		"FL_NDW": 59
+	}
+}

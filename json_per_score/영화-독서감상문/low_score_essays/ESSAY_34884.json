@@ -1,0 +1,7366 @@
+﻿{
+	"morpheme": {
+		"sentences": [
+			{
+				"text": {
+					"content": "이 책에는 도완득이라는 고등학생과 난쟁이 아빠 완득이의 담임선생님인 동주그리고 베트남 사람인 엄마가 나온다.",
+					"length": 60,
+					"beginOffset": 0
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "이",
+							"length": 1,
+							"beginOffset": 0
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이",
+									"length": 1,
+									"beginOffset": 0
+								},
+								"tag": "MMD",
+								"probability": 0.9996645,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이",
+						"tagged": "이/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "책에는",
+							"beginOffset": 2,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "책",
+									"beginOffset": 2,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9829799,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 3,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.98841655,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 4,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.998646,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "책",
+						"tagged": "책/NNG+에/JKB+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "도완득이라는",
+							"beginOffset": 6,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "도완득",
+									"beginOffset": 6,
+									"length": 3
+								},
+								"tag": "NNP",
+								"probability": 0.7885589,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 9,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.99987066,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "라는",
+									"beginOffset": 10,
+									"length": 2
+								},
+								"tag": "ETM",
+								"probability": 0.9999281,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "도완득",
+						"tagged": "도완득/NNP+이/VCP+라는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "고등학생과",
+							"beginOffset": 13,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "고등학생",
+									"beginOffset": 13,
+									"length": 4
+								},
+								"tag": "NNG",
+								"probability": 0.9781097,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "과",
+									"beginOffset": 17,
+									"length": 1
+								},
+								"tag": "JC",
+								"probability": 0.9738223,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "고등학생",
+						"tagged": "고등학생/NNG+과/JC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "난쟁이",
+							"beginOffset": 19,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "난쟁이",
+									"beginOffset": 19,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9828073,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "난쟁이",
+						"tagged": "난쟁이/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "아빠",
+							"beginOffset": 23,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "아빠",
+									"beginOffset": 23,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97141457,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "아빠",
+						"tagged": "아빠/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "완득이의",
+							"beginOffset": 26,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "완득이",
+									"beginOffset": 26,
+									"length": 3
+								},
+								"tag": "NNP",
+								"probability": 0.83343583,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 29,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.999008,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "완득이",
+						"tagged": "완득이/NNP+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "담임선생님인",
+							"beginOffset": 31,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "담임",
+									"beginOffset": 31,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "선생",
+									"beginOffset": 33,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "님",
+									"beginOffset": 35,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.98810226,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 36,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.99950206,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 36,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999667,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "담임",
+						"tagged": "담임/NNG+선생/NNG+님/XSN+이/VCP+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "동주그리고",
+							"beginOffset": 38,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "동주",
+									"beginOffset": 38,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.79209495,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "그리고",
+									"beginOffset": 40,
+									"length": 3
+								},
+								"tag": "MAJ",
+								"probability": 0.99910617,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "동주",
+						"tagged": "동주/NNG+그리고/MAJ",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "베트남",
+							"beginOffset": 44,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "베트남",
+									"beginOffset": 44,
+									"length": 3
+								},
+								"tag": "NNP",
+								"probability": 0.9704819,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "베트남",
+						"tagged": "베트남/NNP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사람인",
+							"beginOffset": 48,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사람",
+									"beginOffset": 48,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9832291,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 50,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.99962366,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 50,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999742,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사람",
+						"tagged": "사람/NNG+이/VCP+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "엄마가",
+							"beginOffset": 52,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "엄마",
+									"beginOffset": 52,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9791432,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 54,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.91668457,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "엄마",
+						"tagged": "엄마/NNG+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "나온다.",
+							"beginOffset": 56,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "나오",
+									"beginOffset": 56,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.99189425,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ다",
+									"beginOffset": 57,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.990282,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 59,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9998085,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "나오",
+						"tagged": "나오/VV+ㄴ다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "이 책에는 도완득이라는 고등학생과 난쟁이 아빠 완득이의 담임선생님인 동주그리고 베트남 사람인 엄마가 나온다."
+			},
+			{
+				"text": {
+					"content": "고등학생인 완득이가 교회에서 동주를 죽여 달라고 기도를한다.",
+					"beginOffset": 61,
+					"length": 33
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "고등학생인",
+							"beginOffset": 61,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "고등학생",
+									"beginOffset": 61,
+									"length": 4
+								},
+								"tag": "NNG",
+								"probability": 0.9808761,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 65,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.99991953,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 65,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99987525,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "고등학생",
+						"tagged": "고등학생/NNG+이/VCP+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "완득이가",
+							"beginOffset": 67,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "완득이",
+									"beginOffset": 67,
+									"length": 3
+								},
+								"tag": "NNP",
+								"probability": 0.7926272,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 70,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9809587,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "완득이",
+						"tagged": "완득이/NNP+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "교회에서",
+							"beginOffset": 72,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "교회",
+									"beginOffset": 72,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9852909,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에서",
+									"beginOffset": 74,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.99175465,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "교회",
+						"tagged": "교회/NNG+에서/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "동주를",
+							"beginOffset": 77,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "동주",
+									"beginOffset": 77,
+									"length": 2
+								},
+								"tag": "NNP",
+								"probability": 0.4534959,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 79,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9995498,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "동주",
+						"tagged": "동주/NNP+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "죽여",
+							"beginOffset": 81,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "죽이",
+									"beginOffset": 81,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9908939,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어",
+									"beginOffset": 82,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9948348,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "죽이",
+						"tagged": "죽이/VV+어/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "달라고",
+							"beginOffset": 84,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "달",
+									"beginOffset": 84,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.93730986,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "라고",
+									"beginOffset": 85,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.994763,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "달",
+						"tagged": "달/VX+라고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "기도를",
+							"beginOffset": 88,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "기도",
+									"beginOffset": 88,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98077726,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 90,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999021,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "기도",
+						"tagged": "기도/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "한다.",
+							"beginOffset": 91,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 91,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.8850284,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ다",
+									"beginOffset": 91,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.9921693,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 93,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9999025,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VV+ㄴ다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "고등학생인 완득이가 교회에서 동주를 죽여 달라고 기도를 한다."
+			},
+			{
+				"text": {
+					"content": "동주는 완득이 옆집에 살며 완득이를 잘놀린다.",
+					"beginOffset": 95,
+					"length": 25
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "동주는",
+							"beginOffset": 95,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "동주",
+									"beginOffset": 95,
+									"length": 2
+								},
+								"tag": "NNP",
+								"probability": 0.80022454,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 97,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99944425,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "동주",
+						"tagged": "동주/NNP+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "완득이",
+							"beginOffset": 99,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "완득이",
+									"beginOffset": 99,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.5280136,
+								"outOfVocab": "OUT_OF_VOCAB"
+							}
+						],
+						"lemma": "완득이",
+						"tagged": "완득이/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "옆집에",
+							"beginOffset": 103,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "옆집",
+									"beginOffset": 103,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.96673506,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 105,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99571824,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "옆집",
+						"tagged": "옆집/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "살며",
+							"beginOffset": 107,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "살",
+									"beginOffset": 107,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.99061716,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "며",
+									"beginOffset": 108,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9936535,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "살",
+						"tagged": "살/VV+며/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "완득이를",
+							"beginOffset": 110,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "완득이",
+									"beginOffset": 110,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.5295046,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 113,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999403,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "완득이",
+						"tagged": "완득이/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "잘",
+							"beginOffset": 115,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "잘",
+									"beginOffset": 115,
+									"length": 1
+								},
+								"tag": "MAG",
+								"probability": 0.9780901,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "잘",
+						"tagged": "잘/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "놀린다.",
+							"beginOffset": 116,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "놀리",
+									"beginOffset": 116,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9855659,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ다",
+									"beginOffset": 117,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.9900115,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 119,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.999846,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "놀리",
+						"tagged": "놀리/VV+ㄴ다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "동주는 완득이 옆집에 살며 완득이를 잘 놀린다."
+			},
+			{
+				"text": {
+					"content": "완득이는 수급대상자인데 멋대로 이름을 올려놓고 햇반을 비롯한 수급 품을 빼앗가는 엄마를 만나게된다.",
+					"beginOffset": 121,
+					"length": 55
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "완득이는",
+							"beginOffset": 121,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "완득이",
+									"beginOffset": 121,
+									"length": 3
+								},
+								"tag": "NNP",
+								"probability": 0.5855589,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 124,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99964,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "완득이",
+						"tagged": "완득이/NNP+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "수급대상자인데",
+							"beginOffset": 126,
+							"length": 7
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "수급",
+									"beginOffset": 126,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97934806,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "대상자",
+									"beginOffset": 128,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9850928,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 131,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.9997449,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ데",
+									"beginOffset": 131,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9938961,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "수급",
+						"tagged": "수급/NNG+대상자/NNG+이/VCP+ㄴ데/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "멋대로",
+							"beginOffset": 134,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "멋대로",
+									"beginOffset": 134,
+									"length": 3
+								},
+								"tag": "MAG",
+								"probability": 0.99460214,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "멋대로",
+						"tagged": "멋대로/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이름을",
+							"beginOffset": 138,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이름",
+									"beginOffset": 138,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9801628,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 140,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99996465,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이름",
+						"tagged": "이름/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "올려놓고",
+							"beginOffset": 142,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "올려놓",
+									"beginOffset": 142,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.9902789,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 145,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99498254,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "올려놓",
+						"tagged": "올려놓/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "햇반을",
+							"beginOffset": 147,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "햇반",
+									"beginOffset": 147,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.719745,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 149,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99996763,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "햇반",
+						"tagged": "햇반/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "비롯한",
+							"beginOffset": 151,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "비롯하",
+									"beginOffset": 151,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.9903516,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 153,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9998997,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "비롯하",
+						"tagged": "비롯하/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "수급",
+							"beginOffset": 155,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "수급",
+									"beginOffset": 155,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9703809,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "수급",
+						"tagged": "수급/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "품을",
+							"beginOffset": 158,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "품",
+									"beginOffset": 158,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9188972,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 159,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999794,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "품",
+						"tagged": "품/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "빼앗가는",
+							"beginOffset": 161,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "빼앗가",
+									"beginOffset": 161,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.92520034,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 164,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999746,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "빼앗가",
+						"tagged": "빼앗가/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "엄마를",
+							"beginOffset": 166,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "엄마",
+									"beginOffset": 166,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9842468,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 168,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99932677,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "엄마",
+						"tagged": "엄마/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "만나게",
+							"beginOffset": 170,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "만나",
+									"beginOffset": 170,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.98829746,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "게",
+									"beginOffset": 172,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9910937,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "만나",
+						"tagged": "만나/VV+게/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "된다.",
+							"beginOffset": 173,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "되",
+									"beginOffset": 173,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9822747,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ다",
+									"beginOffset": 173,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.9909036,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 175,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9991635,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "되",
+						"tagged": "되/VV+ㄴ다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "완득이는 수급대상자인데 멋대로 이름을 올려놓고 햇반을 비롯한 수급 품을 빼앗가는 엄마를 만나게 된다."
+			},
+			{
+				"text": {
+					"content": "엄마와의 만남에서 애틋함을 배운 완득이는 정윤하라는 모범생과 가까워진다.",
+					"beginOffset": 177,
+					"length": 40
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "엄마와의",
+							"beginOffset": 177,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "엄마",
+									"beginOffset": 177,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9822076,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "와",
+									"beginOffset": 179,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9736299,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 180,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9993554,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "엄마",
+						"tagged": "엄마/NNG+와/JKB+의/JKG",
+						"modified": "엄마와의"
+					},
+					{
+						"text": {
+							"content": "만남에서",
+							"beginOffset": 182,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "만남",
+									"beginOffset": 182,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.980407,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에서",
+									"beginOffset": 184,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9963736,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "만남",
+						"tagged": "만남/NNG+에서/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "애틋함을",
+							"beginOffset": 187,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "애틋하",
+									"beginOffset": 187,
+									"length": 3
+								},
+								"tag": "VA",
+								"probability": 0.9903658,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㅁ",
+									"beginOffset": 189,
+									"length": 1
+								},
+								"tag": "ETN",
+								"probability": 0.9999877,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 190,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99984306,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "애틋하",
+						"tagged": "애틋하/VA+ㅁ/ETN+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "배운",
+							"beginOffset": 192,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "배우",
+									"beginOffset": 192,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.99017894,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 193,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9998336,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "배우",
+						"tagged": "배우/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "완득이는",
+							"beginOffset": 195,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "완득이",
+									"beginOffset": 195,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.74484944,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 198,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9992027,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "완득이",
+						"tagged": "완득이/NNG+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "정윤하라는",
+							"beginOffset": 200,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "정윤하",
+									"beginOffset": 200,
+									"length": 3
+								},
+								"tag": "NNP",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "라는",
+									"beginOffset": 203,
+									"length": 2
+								},
+								"tag": "ETM",
+								"probability": 0.99998856,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "정윤하",
+						"tagged": "정윤하/NNP+라는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "모범생과",
+							"beginOffset": 206,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "모범",
+									"beginOffset": 206,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9816715,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "생",
+									"beginOffset": 208,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.98637724,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "과",
+									"beginOffset": 209,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.7342721,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "모범",
+						"tagged": "모범/NNG+생/XSN+과/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "가까워",
+							"beginOffset": 211,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "가깝",
+									"beginOffset": 211,
+									"length": 2
+								},
+								"tag": "VA",
+								"probability": 0.98477507,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어",
+									"beginOffset": 213,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9950169,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "가깝",
+						"tagged": "가깝/VA+어/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "진다.",
+							"beginOffset": 214,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "지",
+									"beginOffset": 214,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.9693567,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ다",
+									"beginOffset": 214,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.9883695,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 216,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99987537,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "지",
+						"tagged": "지/VX+ㄴ다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "엄마와의 만남에서 애틋함을 배운 완득이는 정윤하라는 모범생과 가까워 진다."
+			},
+			{
+				"text": {
+					"content": "그후 욕심을 배우게 된다.",
+					"beginOffset": 218,
+					"length": 14
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "그",
+							"beginOffset": 218,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그",
+									"beginOffset": 218,
+									"length": 1
+								},
+								"tag": "MMD",
+								"probability": 0.99982244,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그",
+						"tagged": "그/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "후",
+							"beginOffset": 219,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "후",
+									"beginOffset": 219,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.98377633,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "후",
+						"tagged": "후/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "욕심을",
+							"beginOffset": 221,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "욕심",
+									"beginOffset": 221,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.984166,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 223,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9996875,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "욕심",
+						"tagged": "욕심/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "배우게",
+							"beginOffset": 225,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "배우",
+									"beginOffset": 225,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9887886,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "게",
+									"beginOffset": 227,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99350405,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "배우",
+						"tagged": "배우/VV+게/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "된다.",
+							"beginOffset": 229,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "되",
+									"beginOffset": 229,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.98440033,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ다",
+									"beginOffset": 229,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.9892366,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 231,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9998258,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "되",
+						"tagged": "되/VV+ㄴ다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "그 후 욕심을 배우게 된다."
+			},
+			{
+				"text": {
+					"content": "이때 완득이는 인생의 목표가 생겼다.",
+					"beginOffset": 233,
+					"length": 20
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "이때",
+							"beginOffset": 233,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이때",
+									"beginOffset": 233,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.93920714,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이때",
+						"tagged": "이때/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "완득이는",
+							"beginOffset": 236,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "완득이",
+									"beginOffset": 236,
+									"length": 3
+								},
+								"tag": "NNP",
+								"probability": 0.62259847,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 239,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9995763,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "완득이",
+						"tagged": "완득이/NNP+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "인생의",
+							"beginOffset": 241,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "인생",
+									"beginOffset": 241,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98619825,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 243,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9994668,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "인생",
+						"tagged": "인생/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "목표가",
+							"beginOffset": 245,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "목표",
+									"beginOffset": 245,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98264676,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 247,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.99273264,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "목표",
+						"tagged": "목표/NNG+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "생겼다.",
+							"beginOffset": 249,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "생기",
+									"beginOffset": 249,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9896607,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 250,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99986243,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 251,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.99293935,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 252,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99946034,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "생기",
+						"tagged": "생기/VV+었/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "이때 완득이는 인생의 목표가 생겼다."
+			},
+			{
+				"text": {
+					"content": "완득이의 아버지도 동주의 도움을 받아 삼촌과 함께 좋아하던 댄스 교습소를 열어 일상의 활력을 되찾는다.",
+					"beginOffset": 254,
+					"length": 57
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "완득이의",
+							"beginOffset": 254,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "완득이",
+									"beginOffset": 254,
+									"length": 3
+								},
+								"tag": "NNP",
+								"probability": 0.8641729,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 257,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9998447,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "완득이",
+						"tagged": "완득이/NNP+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "아버지도",
+							"beginOffset": 259,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "아버지",
+									"beginOffset": 259,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9841448,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 262,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99944663,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "아버지",
+						"tagged": "아버지/NNG+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "동주의",
+							"beginOffset": 264,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "동주",
+									"beginOffset": 264,
+									"length": 2
+								},
+								"tag": "NNP",
+								"probability": 0.64357877,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 266,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99963075,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "동주",
+						"tagged": "동주/NNP+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "도움을",
+							"beginOffset": 268,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "도움",
+									"beginOffset": 268,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98409796,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 270,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9998558,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "도움",
+						"tagged": "도움/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "받아",
+							"beginOffset": 272,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "받",
+									"beginOffset": 272,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9838093,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 273,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.98132485,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "받",
+						"tagged": "받/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "삼촌과",
+							"beginOffset": 275,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "삼촌",
+									"beginOffset": 275,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9812235,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "과",
+									"beginOffset": 277,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.98079705,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "삼촌",
+						"tagged": "삼촌/NNG+과/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "함께",
+							"beginOffset": 279,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "함께",
+									"beginOffset": 279,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9933726,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "함께",
+						"tagged": "함께/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "좋아하던",
+							"beginOffset": 282,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "좋아하",
+									"beginOffset": 282,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.9843871,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "던",
+									"beginOffset": 285,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9997932,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "좋아하",
+						"tagged": "좋아하/VV+던/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "댄스",
+							"beginOffset": 287,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "댄스",
+									"beginOffset": 287,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9594443,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "댄스",
+						"tagged": "댄스/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "교습소를",
+							"beginOffset": 290,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "교습소",
+									"beginOffset": 290,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.7862887,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 293,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99997926,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "교습소",
+						"tagged": "교습소/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "열어",
+							"beginOffset": 295,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "열",
+									"beginOffset": 295,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9873674,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어",
+									"beginOffset": 296,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99460155,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "열",
+						"tagged": "열/VV+어/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "일상의",
+							"beginOffset": 298,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "일상",
+									"beginOffset": 298,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9794509,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 300,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99983966,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "일상",
+						"tagged": "일상/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "활력을",
+							"beginOffset": 302,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "활력",
+									"beginOffset": 302,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.980042,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 304,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99995804,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "활력",
+						"tagged": "활력/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "되찾는다.",
+							"beginOffset": 306,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "되찾",
+									"beginOffset": 306,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9797503,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는다",
+									"beginOffset": 308,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.9893399,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 310,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99945325,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "되찾",
+						"tagged": "되찾/VV+는다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "완득이의 아버지도 동주의 도움을 받아 삼촌과 함께 좋아하던 댄스 교습소를 열어 일상의 활력을 되찾는다."
+			},
+			{
+				"text": {
+					"content": "동주는 완득이를 잘 놀렸지만 잘 도와주고 격려해주는 좋은 선생님인 것 같다.",
+					"beginOffset": 312,
+					"length": 42
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "동주는",
+							"beginOffset": 312,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "동주",
+									"beginOffset": 312,
+									"length": 2
+								},
+								"tag": "NNP",
+								"probability": 0.8518905,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 314,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9986156,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "동주",
+						"tagged": "동주/NNP+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "완득이를",
+							"beginOffset": 316,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "완득이",
+									"beginOffset": 316,
+									"length": 3
+								},
+								"tag": "NNP",
+								"probability": 0.58428764,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 319,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999288,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "완득이",
+						"tagged": "완득이/NNP+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "잘",
+							"beginOffset": 321,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "잘",
+									"beginOffset": 321,
+									"length": 1
+								},
+								"tag": "MAG",
+								"probability": 0.9883071,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "잘",
+						"tagged": "잘/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "놀렸지만",
+							"beginOffset": 323,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "놀리",
+									"beginOffset": 323,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9894563,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 324,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99993277,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "지만",
+									"beginOffset": 325,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9940976,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "놀리",
+						"tagged": "놀리/VV+었/EP+지만/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "잘",
+							"beginOffset": 328,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "잘",
+									"beginOffset": 328,
+									"length": 1
+								},
+								"tag": "MAG",
+								"probability": 0.9918767,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "잘",
+						"tagged": "잘/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "도와주고",
+							"beginOffset": 330,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "도와주",
+									"beginOffset": 330,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.9903135,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 333,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99305105,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "도와주",
+						"tagged": "도와주/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "격려해",
+							"beginOffset": 335,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "격려하",
+									"beginOffset": 335,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 337,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9934459,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "격려하",
+						"tagged": "격려하/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "주는",
+							"beginOffset": 338,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "주",
+									"beginOffset": 338,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.9808797,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 339,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999425,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "주",
+						"tagged": "주/VX+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "좋은",
+							"beginOffset": 341,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "좋",
+									"beginOffset": 341,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.98501545,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 342,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99988216,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "좋",
+						"tagged": "좋/VA+은/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "선생님인",
+							"beginOffset": 344,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "선생",
+									"beginOffset": 344,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98221695,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "님",
+									"beginOffset": 346,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.990803,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 347,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.9998231,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 347,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99993205,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "선생",
+						"tagged": "선생/NNG+님/XSN+이/VCP+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "것",
+							"beginOffset": 349,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "것",
+									"beginOffset": 349,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.98340046,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "것",
+						"tagged": "것/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "같다.",
+							"beginOffset": 351,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "같",
+									"beginOffset": 351,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9854846,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 352,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9921715,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 353,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9994658,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "같",
+						"tagged": "같/VA+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "동주는 완득이를 잘 놀렸지만 잘 도와주고 격려해 주는 좋은 선생님인 것 같다."
+			},
+			{
+				"text": {
+					"content": "완득이라는 책을 읽으며 완득이라는 아이는 친근하게 다가왔는데 이러한 완득이도 인생의 목표를 가질수 있다는 점에서 많은 힘을 얻었다.",
+					"beginOffset": 355,
+					"length": 73
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "완득이라는",
+							"beginOffset": 355,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "완득",
+									"beginOffset": 355,
+									"length": 2
+								},
+								"tag": "NNP",
+								"probability": 0.5610907,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 357,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.99994737,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "라는",
+									"beginOffset": 358,
+									"length": 2
+								},
+								"tag": "ETM",
+								"probability": 0.99997336,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "완득",
+						"tagged": "완득/NNP+이/VCP+라는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "책을",
+							"beginOffset": 361,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "책",
+									"beginOffset": 361,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9853592,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 362,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99993575,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "책",
+						"tagged": "책/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "읽으며",
+							"beginOffset": 364,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "읽",
+									"beginOffset": 364,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.98975724,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으며",
+									"beginOffset": 365,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99437106,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "읽",
+						"tagged": "읽/VV+으며/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "완득이라는",
+							"beginOffset": 368,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "완득",
+									"beginOffset": 368,
+									"length": 2
+								},
+								"tag": "NNP",
+								"probability": 0.52946365,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 370,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.99981225,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "라는",
+									"beginOffset": 371,
+									"length": 2
+								},
+								"tag": "ETM",
+								"probability": 0.9999606,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "완득",
+						"tagged": "완득/NNP+이/VCP+라는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "아이는",
+							"beginOffset": 374,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "아이",
+									"beginOffset": 374,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9841022,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 376,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9989082,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "아이",
+						"tagged": "아이/NNG+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "친근하게",
+							"beginOffset": 378,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "친근하",
+									"beginOffset": 378,
+									"length": 3
+								},
+								"tag": "VA",
+								"probability": 0.9856822,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "게",
+									"beginOffset": 381,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99425143,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "친근하",
+						"tagged": "친근하/VA+게/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "다가왔는데",
+							"beginOffset": 383,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "다가오",
+									"beginOffset": 383,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.9913566,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 385,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99996525,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는데",
+									"beginOffset": 386,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99078137,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "다가오",
+						"tagged": "다가오/VV+았/EP+는데/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이러한",
+							"beginOffset": 389,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이러하",
+									"beginOffset": 389,
+									"length": 3
+								},
+								"tag": "VA",
+								"probability": 0.988953,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 391,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999871,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이러하",
+						"tagged": "이러하/VA+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "완득이도",
+							"beginOffset": 393,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "완득이",
+									"beginOffset": 393,
+									"length": 3
+								},
+								"tag": "NNP",
+								"probability": 0.40270886,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 396,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9997285,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "완득이",
+						"tagged": "완득이/NNP+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "인생의",
+							"beginOffset": 398,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "인생",
+									"beginOffset": 398,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9839043,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 400,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9997294,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "인생",
+						"tagged": "인생/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "목표를",
+							"beginOffset": 402,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "목표",
+									"beginOffset": 402,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98130256,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 404,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9997425,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "목표",
+						"tagged": "목표/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "가질",
+							"beginOffset": 406,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "가지",
+									"beginOffset": 406,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.989693,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ",
+									"beginOffset": 407,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999775,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "가지",
+						"tagged": "가지/VV+ㄹ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "수",
+							"beginOffset": 408,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "수",
+									"beginOffset": 408,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.98429096,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "수",
+						"tagged": "수/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있다는",
+							"beginOffset": 410,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 410,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.554641,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다는",
+									"beginOffset": 411,
+									"length": 2
+								},
+								"tag": "ETM",
+								"probability": 0.999957,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VA+다는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "점에서",
+							"beginOffset": 414,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "점",
+									"beginOffset": 414,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.8900362,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에서",
+									"beginOffset": 415,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.99670076,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "점",
+						"tagged": "점/NNG+에서/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "많은",
+							"beginOffset": 418,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "많",
+									"beginOffset": 418,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9891367,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 419,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999801,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "많",
+						"tagged": "많/VA+은/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "힘을",
+							"beginOffset": 421,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "힘",
+									"beginOffset": 421,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9852626,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 422,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.999784,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "힘",
+						"tagged": "힘/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "얻었다.",
+							"beginOffset": 424,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "얻",
+									"beginOffset": 424,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.988098,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 425,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9997376,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 426,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9906744,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 427,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9993844,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "얻",
+						"tagged": "얻/VV+었/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "완득이라는 책을 읽으며 완득이라는 아이는 친근하게 다가왔는데 이러한 완득이도 인생의 목표를 가질 수 있다는 점에서 많은 힘을 얻었다."
+			},
+			{
+				"text": {
+					"content": "희망을 잃지 않고 꿋꿋하게 열심히 사는 모습을 완득이 한테 많이 배웠다.",
+					"beginOffset": 429,
+					"length": 40
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "희망을",
+							"beginOffset": 429,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "희망",
+									"beginOffset": 429,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9820749,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 431,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99991935,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "희망",
+						"tagged": "희망/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "잃지",
+							"beginOffset": 433,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "잃",
+									"beginOffset": 433,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9867276,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "지",
+									"beginOffset": 434,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9911173,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "잃",
+						"tagged": "잃/VV+지/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "않고",
+							"beginOffset": 436,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "않",
+									"beginOffset": 436,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.95264125,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 437,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99384826,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "않",
+						"tagged": "않/VX+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "꿋꿋하게",
+							"beginOffset": 439,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "꿋꿋하",
+									"beginOffset": 439,
+									"length": 3
+								},
+								"tag": "VA",
+								"probability": 0.9855006,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "게",
+									"beginOffset": 442,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9932834,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "꿋꿋하",
+						"tagged": "꿋꿋하/VA+게/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "열심히",
+							"beginOffset": 444,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "열심히",
+									"beginOffset": 444,
+									"length": 3
+								},
+								"tag": "MAG",
+								"probability": 0.99333084,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "열심히",
+						"tagged": "열심히/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사는",
+							"beginOffset": 448,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "살",
+									"beginOffset": 448,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9898121,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 449,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99993515,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "살",
+						"tagged": "살/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "모습을",
+							"beginOffset": 451,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "모습",
+									"beginOffset": 451,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98404837,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 453,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9998687,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "모습",
+						"tagged": "모습/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "완득이 한테",
+							"beginOffset": 455,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "완득이",
+									"beginOffset": 455,
+									"length": 3
+								},
+								"tag": "NNP",
+								"probability": 0.6492471,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "한테",
+									"beginOffset": 458,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9942291,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "완득이",
+						"tagged": "완득이/NNP+한테/JKB",
+						"modified": "완득이한테"
+					},
+					{
+						"text": {
+							"content": "많이",
+							"beginOffset": 462,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "많이",
+									"beginOffset": 462,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.99003893,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "많이",
+						"tagged": "많이/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "배웠다.",
+							"beginOffset": 465,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "배우",
+									"beginOffset": 465,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9878926,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 466,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99981207,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 467,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9898769,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 468,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99981564,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "배우",
+						"tagged": "배우/VV+었/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "희망을 잃지 않고 꿋꿋하게 열심히 사는 모습을 완득이한테 많이 배웠다."
+			},
+			{
+				"text": {
+					"content": "내가 책을 읽고 글을 쓰는 모습을 보고 뿌듯하고 조금은 발전했다는 생각이든다.",
+					"beginOffset": 470,
+					"length": 43
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "내가",
+							"beginOffset": 470,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "내",
+									"beginOffset": 470,
+									"length": 1
+								},
+								"tag": "NP",
+								"probability": 0.9877115,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 471,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.99432516,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "내",
+						"tagged": "내/NP+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "책을",
+							"beginOffset": 473,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "책",
+									"beginOffset": 473,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9850498,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 474,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999645,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "책",
+						"tagged": "책/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "읽고",
+							"beginOffset": 476,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "읽",
+									"beginOffset": 476,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.99053556,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 477,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9939895,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "읽",
+						"tagged": "읽/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "글을",
+							"beginOffset": 479,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "글",
+									"beginOffset": 479,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9801988,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 480,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99986947,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "글",
+						"tagged": "글/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "쓰는",
+							"beginOffset": 482,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "쓰",
+									"beginOffset": 482,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.98532957,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 483,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999042,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "쓰",
+						"tagged": "쓰/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "모습을",
+							"beginOffset": 485,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "모습",
+									"beginOffset": 485,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98337007,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 487,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99994344,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "모습",
+						"tagged": "모습/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "보고",
+							"beginOffset": 489,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "보",
+									"beginOffset": 489,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.984665,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 490,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99440396,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "보",
+						"tagged": "보/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "뿌듯하고",
+							"beginOffset": 492,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "뿌듯하",
+									"beginOffset": 492,
+									"length": 3
+								},
+								"tag": "VA",
+								"probability": 0.97378373,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 495,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9947322,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "뿌듯하",
+						"tagged": "뿌듯하/VA+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "조금은",
+							"beginOffset": 497,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "조금",
+									"beginOffset": 497,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97926354,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 499,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9982199,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "조금",
+						"tagged": "조금/NNG+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "발전했다는",
+							"beginOffset": 501,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "발전하",
+									"beginOffset": 501,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 503,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9997675,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다는",
+									"beginOffset": 504,
+									"length": 2
+								},
+								"tag": "ETM",
+								"probability": 0.9999794,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "발전하",
+						"tagged": "발전하/VV+았/EP+다는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "생각이",
+							"beginOffset": 507,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "생각",
+									"beginOffset": 507,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98362845,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 509,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.96739024,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "생각",
+						"tagged": "생각/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "든다.",
+							"beginOffset": 510,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "들",
+									"beginOffset": 510,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.980855,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ다",
+									"beginOffset": 510,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.98726684,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 512,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99954563,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "들",
+						"tagged": "들/VV+ㄴ다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "내가 책을 읽고 글을 쓰는 모습을 보고 뿌듯하고 조금은 발전했다는 생각이 든다."
+			}
+		],
+		"language": "ko_KR"
+	},
+	"ttr": {
+		"lemma_Cnt": 255,
+		"lemma_TTR": 0.4943820224719101,
+		"CL_TTR": 0.7037037037037037,
+		"NL_TTR": 0.6527777777777778,
+		"NN_TTR": 0.647887323943662,
+		"NNG_TTR": 0.7692307692307693,
+		"NNP_TTR": 0.35294117647058826,
+		"NNB_TTR": 1.0,
+		"NP_TTR": 1.0,
+		"NR_TTR": 0,
+		"VL_TTR": 0.7636363636363637,
+		"VV_TTR": 0.8181818181818182,
+		"VA_TTR": 1.0,
+		"ML_TTR": 0.75,
+		"MM_TTR": 0,
+		"MA_TTR": 0.75,
+		"MAJ_TTR": 1.0,
+		"IC_TTR": 0,
+		"FL_TTR": 0.3135593220338983,
+		"J_TTR": 0.24528301886792453,
+		"E_TTR": 0.3870967741935484,
+		"X_TTR": 0.6666666666666666,
+		"lemma_RTTR": 8.07826880997978,
+		"CL_RTTR": 8.17629817532677,
+		"NL_RTTR": 5.539003119294623,
+		"NN_RTTR": 5.459195627691725,
+		"NNG_RTTR": 5.547001962252292,
+		"NNP_RTTR": 1.4552137502179978,
+		"NNB_RTTR": 1.414213562373095,
+		"NP_RTTR": 1.0,
+		"NR_RTTR": 0,
+		"VL_RTTR": 5.663278844691233,
+		"VV_RTTR": 4.700096710803842,
+		"VA_RTTR": 3.162277660168379,
+		"ML_RTTR": 2.1213203435596424,
+		"MM_RTTR": 0,
+		"MA_RTTR": 2.1213203435596424,
+		"MAJ_RTTR": 1.0,
+		"IC_RTTR": 0,
+		"FL_RTTR": 3.4061260862237965,
+		"J_RTTR": 1.7856873313329573,
+		"E_RTTR": 3.048003048004572,
+		"X_RTTR": 1.1547005383792517,
+		"lemma_CTTR": 5.7121986557844835,
+		"CL_CTTR": 5.781515884776754,
+		"NL_CTTR": 3.9166666666666665,
+		"NN_CTTR": 3.86023424816477,
+		"NNG_CTTR": 3.922322702763681,
+		"NNP_CTTR": 1.028991510855053,
+		"NNB_CTTR": 1.0,
+		"NP_CTTR": 0.7071067811865475,
+		"NR_CTTR": 0,
+		"VL_CTTR": 4.004542874831488,
+		"VV_CTTR": 3.3234702564419836,
+		"VA_CTTR": 2.23606797749979,
+		"ML_CTTR": 1.5,
+		"MM_CTTR": 0,
+		"MA_CTTR": 1.5,
+		"MAJ_CTTR": 0.7071067811865475,
+		"IC_CTTR": 0,
+		"FL_CTTR": 2.4084948531452417,
+		"J_CTTR": 1.2626716210644433,
+		"E_CTTR": 2.155263624321299,
+		"X_CTTR": 0.8164965809277261,
+		"lemma_MSTTR": 0.772,
+		"CL_MSTTR": 0.77,
+		"NL_MSTTR": 0.7,
+		"NN_MSTTR": 0.7,
+		"NNG_MSTTR": 0.76,
+		"NNP_MSTTR": 0.35294117647058826,
+		"NNB_MSTTR": 1.0,
+		"NP_MSTTR": 1.0,
+		"NR_MSTTR": 0,
+		"VL_MSTTR": 0.74,
+		"VV_MSTTR": 0.8181818181818182,
+		"VA_MSTTR": 1.0,
+		"ML_MSTTR": 0.75,
+		"MM_MSTTR": 0,
+		"MA_MSTTR": 0.75,
+		"MAJ_MSTTR": 1.0,
+		"IC_MSTTR": 0,
+		"FL_MSTTR": 0.48,
+		"J_MSTTR": 0.22,
+		"E_MSTTR": 0.48,
+		"X_MSTTR": 0.6666666666666666,
+		"lemma_MATTR": 0.7733944954128442,
+		"CL_MATTR": 0.8146511627906978,
+		"NL_MATTR": 0.6895652173913042,
+		"NN_MATTR": 0.6854545454545452,
+		"NNG_MATTR": 0.7799999999999999,
+		"NNP_MATTR": 0.35294117647058826,
+		"NNB_MATTR": 1.0,
+		"NP_MATTR": 1.0,
+		"NR_MATTR": 0,
+		"VL_MATTR": 0.7833333333333333,
+		"VV_MATTR": 0.8181818181818182,
+		"VA_MATTR": 1.0,
+		"ML_MATTR": 0.75,
+		"MM_MATTR": 0,
+		"MA_MATTR": 0.75,
+		"MAJ_MATTR": 1.0,
+		"IC_MATTR": 0,
+		"FL_MATTR": 0.508405797101449,
+		"J_MATTR": 0.235,
+		"E_MATTR": 0.4615384615384616,
+		"X_MATTR": 0.6666666666666666,
+		"lemma_MTLD": 62.97454751131221,
+		"CL_MTLD": 103.63831308077198,
+		"NL_MTLD": 31.49448073890516,
+		"NN_MTLD": 30.877229913907104,
+		"NNG_MTLD": 63.093333333333355,
+		"NNP_MTLD": 6.154172981164755,
+		"NNB_MTLD": 0.0,
+		"NP_MTLD": 0.0,
+		"NR_MTLD": 0.0,
+		"VL_MTLD": 50.25549450549451,
+		"VV_MTLD": 50.820000000000014,
+		"VA_MTLD": 0.0,
+		"ML_MTLD": 8.96,
+		"MM_MTLD": 0.0,
+		"MA_MTLD": 8.96,
+		"MAJ_MTLD": 0.0,
+		"IC_MTLD": 0.0,
+		"FL_MTLD": 17.580925999208546,
+		"J_MTLD": 10.6,
+		"E_MTLD": 15.5,
+		"X_MTLD": 2.52,
+		"lemma_VOCDD": 66.0258567037024,
+		"CL_VOCDD": 92.52520951444247,
+		"NL_VOCDD": 41.22991537060317,
+		"NN_VOCDD": 39.93460421159673,
+		"NNG_VOCDD": 69.58537247651167,
+		"NNP_VOCDD": 0,
+		"NNB_VOCDD": 0,
+		"NP_VOCDD": 0,
+		"NR_VOCDD": 0,
+		"VL_VOCDD": 63.8938653665802,
+		"VV_VOCDD": 0,
+		"VA_VOCDD": 0,
+		"ML_VOCDD": 0,
+		"MM_VOCDD": 0,
+		"MA_VOCDD": 0,
+		"MAJ_VOCDD": 0,
+		"IC_VOCDD": 0,
+		"FL_VOCDD": 13.33364535756096,
+		"J_VOCDD": 2.4307126559896535,
+		"E_VOCDD": 9.096386035115614,
+		"X_VOCDD": 0,
+		"lemma_HDD": 0.7965510730753893,
+		"CL_HDD": 0.8392608843179707,
+		"NL_HDD": 0.7300555234429615,
+		"NN_HDD": 0.7243706192372492,
+		"NNG_HDD": 0.8052036199095026,
+		"NNP_HDD": 0.0,
+		"NNB_HDD": 0.0,
+		"NP_HDD": 0.0,
+		"NR_HDD": 0.0,
+		"VL_HDD": 0.7921406084827681,
+		"VV_HDD": 0.0,
+		"VA_HDD": 0.0,
+		"ML_HDD": 0.0,
+		"MM_HDD": 0.0,
+		"MA_HDD": 0.0,
+		"MAJ_HDD": 0.0,
+		"IC_HDD": 0.0,
+		"FL_HDD": 0.5412578580740773,
+		"J_HDD": 0.28749440949217286,
+		"E_HDD": 0.4755998706669715,
+		"X_HDD": 0.0
+	},
+	"similarity": {
+		"avgSentSimilarity": 0.06850531697273254,
+		"topicConsistency": 0.6151
+	},
+	"adjacency": {
+		"adjacent_sentence_overlap_all_lemmas": 189,
+		"adjacent_sentence_overlap_all_lemmas_normed": 11,
+		"binary_adjacent_sentence_overlap_all_lemmas": 11,
+		"adjacent_two_sentence_overlap_all_lemmas": 145,
+		"adjacent_two_sentence_overlap_all_lemmas_normed": 10,
+		"binary_adjacent_two_sentence_overlap_all_lemmas": 10,
+		"adjacent_sentence_overlap_content_lemmas": 101,
+		"adjacent_sentence_overlap_content_lemmas_normed": 11,
+		"binary_adjacent_sentence_overlap_content_lemmas": 10,
+		"adjacent_two_sentence_overlap_content_lemmas": 81,
+		"adjacent_two_sentence_overlap_content_lemmas_normed": 10,
+		"binary_adjacent_two_sentence_overlap_content_lemmas": 9,
+		"adjacent_sentence_overlap_function_lemmas": 77,
+		"adjacent_sentence_overlap_function_lemmas_normed": 11,
+		"binary_adjacent_sentence_overlap_function_lemmas": 10,
+		"adjacent_two_sentence_overlap_function_lemmas": 54,
+		"adjacent_two_sentence_overlap_function_lemmas_normed": 10,
+		"binary_adjacent_two_sentence_overlap_function_lemmas": 9,
+		"adjacent_sentence_overlap_noun_lemmas": 57,
+		"adjacent_sentence_overlap_noun_lemmas_normed": 11,
+		"binary_adjacent_sentence_overlap_noun_lemmas": 9,
+		"adjacent_two_sentence_overlap_noun_lemmas": 49,
+		"adjacent_two_sentence_overlap_noun_lemmas_normed": 10,
+		"binary_adjacent_two_sentence_overlap_noun_lemmas": 7,
+		"adjacent_sentence_overlap_verb_lemmas": 41,
+		"adjacent_sentence_overlap_verb_lemmas_normed": 11,
+		"binary_adjacent_sentence_overlap_verb_lemmas": 3,
+		"adjacent_two_sentence_overlap_verb_lemmas": 32,
+		"adjacent_two_sentence_overlap_verb_lemmas_normed": 10,
+		"binary_adjacent_two_sentence_overlap_verb_lemmas": 0,
+		"adjacent_sentence_overlap_adjective_lemmas": 6,
+		"adjacent_sentence_overlap_adjective_lemmas_normed": 3,
+		"binary_adjacent_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas": 2,
+		"adjacent_two_sentence_overlap_adjective_lemmas_normed": 2,
+		"binary_adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_sentence_overlap_adverb_lemmas": 3,
+		"adjacent_sentence_overlap_adverb_lemmas_normed": 2,
+		"binary_adjacent_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adverb_lemmas": 0
+	},
+	"basic_count": {
+		"para_Cnt": 1,
+		"sentence_Cnt": 12,
+		"word_Cnt": 119,
+		"morph_Cnt": 267,
+		"char_Cnt": 431,
+		"CL_Cnt": 135,
+		"NL_Cnt": 72,
+		"NN_Cnt": 71,
+		"NNG_Cnt": 52,
+		"NNP_Cnt": 17,
+		"NNB_Cnt": 2,
+		"NP_Cnt": 1,
+		"NP_People_Cnt": 0,
+		"NP_Things_Cnt": 0,
+		"NR_Cnt": 0,
+		"VL_Cnt": 55,
+		"VV_Cnt": 33,
+		"VA_Cnt": 10,
+		"VX_Cnt": 4,
+		"VCP_Cnt": 8,
+		"VCN_Cnt": 0,
+		"ML_Cnt": 8,
+		"MA_Cnt": 0,
+		"MM_Cnt": 0,
+		"FL_Cnt": 118,
+		"J_Cnt": 53,
+		"E_Cnt": 62,
+		"X_Cnt": 3,
+		"IC_Cnt": 0
+	},
+	"basic_density": {
+		"CL_Den": 0.5056179775280899,
+		"FL_Den": 0.4419475655430712,
+		"NL_Den": 0.26591760299625467,
+		"NNGL_Den": 0.1947565543071161,
+		"NNPL_Den": 0.06367041198501873,
+		"NNBL_Den": 0.00749063670411985,
+		"NPL_Den": 0.003745318352059925,
+		"NML_Den": 0.0,
+		"VL_Den": 0.20599250936329588,
+		"VVL_Den": 0.12359550561797752,
+		"VAL_Den": 0.03745318352059925,
+		"ML_Den": 0.0299625468164794,
+		"MML_Den": 0.0,
+		"MAL_Den": 0.0,
+		"JL_Den": 0.19850187265917604,
+		"EL_Den": 0.23220973782771537,
+		"XL_Den": 0.011235955056179775,
+		"ITL_Den": 0.0,
+		"NCL_Den": 0.5259259259259259,
+		"NNCL_Den": 0.3851851851851852,
+		"NNGCL_Den": 0.1259259259259259,
+		"NNBCL_Den": 0.014814814814814815,
+		"NPCL_Den": 0.007407407407407408,
+		"NMCL_Den": 0.0,
+		"VCL_Den": 0.4074074074074074,
+		"VVCL_Den": 0.24444444444444444,
+		"VACL_Den": 0.07407407407407407,
+		"MCL_Den": 0.05925925925925926,
+		"MMCL_Den": 0.0,
+		"MACL_Den": 0.0,
+		"INCL_Den": 0.0,
+		"JFL_Den": 0.4491525423728814,
+		"EFL_Den": 0.5254237288135594,
+		"XFL_Den": 0.025423728813559324
+	},
+	"basic_level": {
+		"morph_LenAvg": 1.5692883895131087,
+		"morph_LenStd": 0.7381223389408249,
+		"word_LenAvg": 3.2184873949579833,
+		"word_LenStd": 1.131368353226061
+	},
+	"basic_list": {
+		"NL_Lst": [
+			[
+				0,
+				"책",
+				"NNG",
+				"이 책에는 도완득이라는 고등학생과 난쟁이 아빠 완득이의 담임선생님인 동주그리고 베트남 사람인 엄마가 나온다."
+			],
+			[
+				1,
+				"도완득",
+				"NNP",
+				"이 책에는 도완득이라는 고등학생과 난쟁이 아빠 완득이의 담임선생님인 동주그리고 베트남 사람인 엄마가 나온다."
+			],
+			[
+				2,
+				"고등학생",
+				"NNG",
+				"이 책에는 도완득이라는 고등학생과 난쟁이 아빠 완득이의 담임선생님인 동주그리고 베트남 사람인 엄마가 나온다."
+			],
+			[
+				3,
+				"난쟁이",
+				"NNG",
+				"이 책에는 도완득이라는 고등학생과 난쟁이 아빠 완득이의 담임선생님인 동주그리고 베트남 사람인 엄마가 나온다."
+			],
+			[
+				4,
+				"아빠",
+				"NNG",
+				"이 책에는 도완득이라는 고등학생과 난쟁이 아빠 완득이의 담임선생님인 동주그리고 베트남 사람인 엄마가 나온다."
+			],
+			[
+				5,
+				"완득이",
+				"NNP",
+				"이 책에는 도완득이라는 고등학생과 난쟁이 아빠 완득이의 담임선생님인 동주그리고 베트남 사람인 엄마가 나온다."
+			],
+			[
+				6,
+				"담임",
+				"NNG",
+				"이 책에는 도완득이라는 고등학생과 난쟁이 아빠 완득이의 담임선생님인 동주그리고 베트남 사람인 엄마가 나온다."
+			],
+			[
+				7,
+				"선생",
+				"NNG",
+				"이 책에는 도완득이라는 고등학생과 난쟁이 아빠 완득이의 담임선생님인 동주그리고 베트남 사람인 엄마가 나온다."
+			],
+			[
+				8,
+				"동주",
+				"NNG",
+				"이 책에는 도완득이라는 고등학생과 난쟁이 아빠 완득이의 담임선생님인 동주그리고 베트남 사람인 엄마가 나온다."
+			],
+			[
+				9,
+				"베트남",
+				"NNP",
+				"이 책에는 도완득이라는 고등학생과 난쟁이 아빠 완득이의 담임선생님인 동주그리고 베트남 사람인 엄마가 나온다."
+			],
+			[
+				10,
+				"사람",
+				"NNG",
+				"이 책에는 도완득이라는 고등학생과 난쟁이 아빠 완득이의 담임선생님인 동주그리고 베트남 사람인 엄마가 나온다."
+			],
+			[
+				11,
+				"엄마",
+				"NNG",
+				"이 책에는 도완득이라는 고등학생과 난쟁이 아빠 완득이의 담임선생님인 동주그리고 베트남 사람인 엄마가 나온다."
+			],
+			[
+				12,
+				"고등학생",
+				"NNG",
+				"고등학생인 완득이가 교회에서 동주를 죽여 달라고 기도를한다."
+			],
+			[
+				13,
+				"완득이",
+				"NNP",
+				"고등학생인 완득이가 교회에서 동주를 죽여 달라고 기도를한다."
+			],
+			[
+				14,
+				"교회",
+				"NNG",
+				"고등학생인 완득이가 교회에서 동주를 죽여 달라고 기도를한다."
+			],
+			[
+				15,
+				"동주",
+				"NNP",
+				"고등학생인 완득이가 교회에서 동주를 죽여 달라고 기도를한다."
+			],
+			[
+				16,
+				"기도",
+				"NNG",
+				"고등학생인 완득이가 교회에서 동주를 죽여 달라고 기도를한다."
+			],
+			[
+				17,
+				"동주",
+				"NNP",
+				"동주는 완득이 옆집에 살며 완득이를 잘놀린다."
+			],
+			[
+				18,
+				"완득이",
+				"NNG",
+				"동주는 완득이 옆집에 살며 완득이를 잘놀린다."
+			],
+			[
+				19,
+				"옆집",
+				"NNG",
+				"동주는 완득이 옆집에 살며 완득이를 잘놀린다."
+			],
+			[
+				20,
+				"완득이",
+				"NNG",
+				"동주는 완득이 옆집에 살며 완득이를 잘놀린다."
+			],
+			[
+				21,
+				"완득이",
+				"NNP",
+				"완득이는 수급대상자인데 멋대로 이름을 올려놓고 햇반을 비롯한 수급 품을 빼앗가는 엄마를 만나게된다."
+			],
+			[
+				22,
+				"수급",
+				"NNG",
+				"완득이는 수급대상자인데 멋대로 이름을 올려놓고 햇반을 비롯한 수급 품을 빼앗가는 엄마를 만나게된다."
+			],
+			[
+				23,
+				"대상자",
+				"NNG",
+				"완득이는 수급대상자인데 멋대로 이름을 올려놓고 햇반을 비롯한 수급 품을 빼앗가는 엄마를 만나게된다."
+			],
+			[
+				24,
+				"이름",
+				"NNG",
+				"완득이는 수급대상자인데 멋대로 이름을 올려놓고 햇반을 비롯한 수급 품을 빼앗가는 엄마를 만나게된다."
+			],
+			[
+				25,
+				"햇반",
+				"NNG",
+				"완득이는 수급대상자인데 멋대로 이름을 올려놓고 햇반을 비롯한 수급 품을 빼앗가는 엄마를 만나게된다."
+			],
+			[
+				26,
+				"수급",
+				"NNG",
+				"완득이는 수급대상자인데 멋대로 이름을 올려놓고 햇반을 비롯한 수급 품을 빼앗가는 엄마를 만나게된다."
+			],
+			[
+				27,
+				"품",
+				"NNG",
+				"완득이는 수급대상자인데 멋대로 이름을 올려놓고 햇반을 비롯한 수급 품을 빼앗가는 엄마를 만나게된다."
+			],
+			[
+				28,
+				"엄마",
+				"NNG",
+				"완득이는 수급대상자인데 멋대로 이름을 올려놓고 햇반을 비롯한 수급 품을 빼앗가는 엄마를 만나게된다."
+			],
+			[
+				29,
+				"엄마",
+				"NNG",
+				"엄마와의 만남에서 애틋함을 배운 완득이는 정윤하라는 모범생과 가까워진다."
+			],
+			[
+				30,
+				"만남",
+				"NNG",
+				"엄마와의 만남에서 애틋함을 배운 완득이는 정윤하라는 모범생과 가까워진다."
+			],
+			[
+				31,
+				"완득이",
+				"NNG",
+				"엄마와의 만남에서 애틋함을 배운 완득이는 정윤하라는 모범생과 가까워진다."
+			],
+			[
+				32,
+				"정윤하",
+				"NNP",
+				"엄마와의 만남에서 애틋함을 배운 완득이는 정윤하라는 모범생과 가까워진다."
+			],
+			[
+				33,
+				"모범",
+				"NNG",
+				"엄마와의 만남에서 애틋함을 배운 완득이는 정윤하라는 모범생과 가까워진다."
+			],
+			[
+				34,
+				"후",
+				"NNG",
+				"그후 욕심을 배우게 된다."
+			],
+			[
+				35,
+				"욕심",
+				"NNG",
+				"그후 욕심을 배우게 된다."
+			],
+			[
+				36,
+				"이때",
+				"NNG",
+				"이때 완득이는 인생의 목표가 생겼다."
+			],
+			[
+				37,
+				"완득이",
+				"NNP",
+				"이때 완득이는 인생의 목표가 생겼다."
+			],
+			[
+				38,
+				"인생",
+				"NNG",
+				"이때 완득이는 인생의 목표가 생겼다."
+			],
+			[
+				39,
+				"목표",
+				"NNG",
+				"이때 완득이는 인생의 목표가 생겼다."
+			],
+			[
+				40,
+				"완득이",
+				"NNP",
+				"완득이의 아버지도 동주의 도움을 받아 삼촌과 함께 좋아하던 댄스 교습소를 열어 일상의 활력을 되찾는다."
+			],
+			[
+				41,
+				"아버지",
+				"NNG",
+				"완득이의 아버지도 동주의 도움을 받아 삼촌과 함께 좋아하던 댄스 교습소를 열어 일상의 활력을 되찾는다."
+			],
+			[
+				42,
+				"동주",
+				"NNP",
+				"완득이의 아버지도 동주의 도움을 받아 삼촌과 함께 좋아하던 댄스 교습소를 열어 일상의 활력을 되찾는다."
+			],
+			[
+				43,
+				"도움",
+				"NNG",
+				"완득이의 아버지도 동주의 도움을 받아 삼촌과 함께 좋아하던 댄스 교습소를 열어 일상의 활력을 되찾는다."
+			],
+			[
+				44,
+				"삼촌",
+				"NNG",
+				"완득이의 아버지도 동주의 도움을 받아 삼촌과 함께 좋아하던 댄스 교습소를 열어 일상의 활력을 되찾는다."
+			],
+			[
+				45,
+				"댄스",
+				"NNG",
+				"완득이의 아버지도 동주의 도움을 받아 삼촌과 함께 좋아하던 댄스 교습소를 열어 일상의 활력을 되찾는다."
+			],
+			[
+				46,
+				"교습소",
+				"NNG",
+				"완득이의 아버지도 동주의 도움을 받아 삼촌과 함께 좋아하던 댄스 교습소를 열어 일상의 활력을 되찾는다."
+			],
+			[
+				47,
+				"일상",
+				"NNG",
+				"완득이의 아버지도 동주의 도움을 받아 삼촌과 함께 좋아하던 댄스 교습소를 열어 일상의 활력을 되찾는다."
+			],
+			[
+				48,
+				"활력",
+				"NNG",
+				"완득이의 아버지도 동주의 도움을 받아 삼촌과 함께 좋아하던 댄스 교습소를 열어 일상의 활력을 되찾는다."
+			],
+			[
+				49,
+				"동주",
+				"NNP",
+				"동주는 완득이를 잘 놀렸지만 잘 도와주고 격려해주는 좋은 선생님인 것 같다."
+			],
+			[
+				50,
+				"완득이",
+				"NNP",
+				"동주는 완득이를 잘 놀렸지만 잘 도와주고 격려해주는 좋은 선생님인 것 같다."
+			],
+			[
+				51,
+				"선생",
+				"NNG",
+				"동주는 완득이를 잘 놀렸지만 잘 도와주고 격려해주는 좋은 선생님인 것 같다."
+			],
+			[
+				52,
+				"것",
+				"NNB",
+				"동주는 완득이를 잘 놀렸지만 잘 도와주고 격려해주는 좋은 선생님인 것 같다."
+			],
+			[
+				53,
+				"완득",
+				"NNP",
+				"완득이라는 책을 읽으며 완득이라는 아이는 친근하게 다가왔는데 이러한 완득이도 인생의 목표를 가질수 있다는 점에서 많은 힘을 얻었다."
+			],
+			[
+				54,
+				"책",
+				"NNG",
+				"완득이라는 책을 읽으며 완득이라는 아이는 친근하게 다가왔는데 이러한 완득이도 인생의 목표를 가질수 있다는 점에서 많은 힘을 얻었다."
+			],
+			[
+				55,
+				"완득",
+				"NNP",
+				"완득이라는 책을 읽으며 완득이라는 아이는 친근하게 다가왔는데 이러한 완득이도 인생의 목표를 가질수 있다는 점에서 많은 힘을 얻었다."
+			],
+			[
+				56,
+				"아이",
+				"NNG",
+				"완득이라는 책을 읽으며 완득이라는 아이는 친근하게 다가왔는데 이러한 완득이도 인생의 목표를 가질수 있다는 점에서 많은 힘을 얻었다."
+			],
+			[
+				57,
+				"완득이",
+				"NNP",
+				"완득이라는 책을 읽으며 완득이라는 아이는 친근하게 다가왔는데 이러한 완득이도 인생의 목표를 가질수 있다는 점에서 많은 힘을 얻었다."
+			],
+			[
+				58,
+				"인생",
+				"NNG",
+				"완득이라는 책을 읽으며 완득이라는 아이는 친근하게 다가왔는데 이러한 완득이도 인생의 목표를 가질수 있다는 점에서 많은 힘을 얻었다."
+			],
+			[
+				59,
+				"목표",
+				"NNG",
+				"완득이라는 책을 읽으며 완득이라는 아이는 친근하게 다가왔는데 이러한 완득이도 인생의 목표를 가질수 있다는 점에서 많은 힘을 얻었다."
+			],
+			[
+				60,
+				"수",
+				"NNB",
+				"완득이라는 책을 읽으며 완득이라는 아이는 친근하게 다가왔는데 이러한 완득이도 인생의 목표를 가질수 있다는 점에서 많은 힘을 얻었다."
+			],
+			[
+				61,
+				"점",
+				"NNG",
+				"완득이라는 책을 읽으며 완득이라는 아이는 친근하게 다가왔는데 이러한 완득이도 인생의 목표를 가질수 있다는 점에서 많은 힘을 얻었다."
+			],
+			[
+				62,
+				"힘",
+				"NNG",
+				"완득이라는 책을 읽으며 완득이라는 아이는 친근하게 다가왔는데 이러한 완득이도 인생의 목표를 가질수 있다는 점에서 많은 힘을 얻었다."
+			],
+			[
+				63,
+				"희망",
+				"NNG",
+				"희망을 잃지 않고 꿋꿋하게 열심히 사는 모습을 완득이 한테 많이 배웠다."
+			],
+			[
+				64,
+				"모습",
+				"NNG",
+				"희망을 잃지 않고 꿋꿋하게 열심히 사는 모습을 완득이 한테 많이 배웠다."
+			],
+			[
+				65,
+				"완득이",
+				"NNP",
+				"희망을 잃지 않고 꿋꿋하게 열심히 사는 모습을 완득이 한테 많이 배웠다."
+			],
+			[
+				66,
+				"내",
+				"NP",
+				"내가 책을 읽고 글을 쓰는 모습을 보고 뿌듯하고 조금은 발전했다는 생각이든다."
+			],
+			[
+				67,
+				"책",
+				"NNG",
+				"내가 책을 읽고 글을 쓰는 모습을 보고 뿌듯하고 조금은 발전했다는 생각이든다."
+			],
+			[
+				68,
+				"글",
+				"NNG",
+				"내가 책을 읽고 글을 쓰는 모습을 보고 뿌듯하고 조금은 발전했다는 생각이든다."
+			],
+			[
+				69,
+				"모습",
+				"NNG",
+				"내가 책을 읽고 글을 쓰는 모습을 보고 뿌듯하고 조금은 발전했다는 생각이든다."
+			],
+			[
+				70,
+				"조금",
+				"NNG",
+				"내가 책을 읽고 글을 쓰는 모습을 보고 뿌듯하고 조금은 발전했다는 생각이든다."
+			],
+			[
+				71,
+				"생각",
+				"NNG",
+				"내가 책을 읽고 글을 쓰는 모습을 보고 뿌듯하고 조금은 발전했다는 생각이든다."
+			]
+		],
+		"NN_Lst": [
+			[
+				0,
+				"책",
+				"NNG",
+				"이 책에는 도완득이라는 고등학생과 난쟁이 아빠 완득이의 담임선생님인 동주그리고 베트남 사람인 엄마가 나온다."
+			],
+			[
+				1,
+				"도완득",
+				"NNP",
+				"이 책에는 도완득이라는 고등학생과 난쟁이 아빠 완득이의 담임선생님인 동주그리고 베트남 사람인 엄마가 나온다."
+			],
+			[
+				2,
+				"고등학생",
+				"NNG",
+				"이 책에는 도완득이라는 고등학생과 난쟁이 아빠 완득이의 담임선생님인 동주그리고 베트남 사람인 엄마가 나온다."
+			],
+			[
+				3,
+				"난쟁이",
+				"NNG",
+				"이 책에는 도완득이라는 고등학생과 난쟁이 아빠 완득이의 담임선생님인 동주그리고 베트남 사람인 엄마가 나온다."
+			],
+			[
+				4,
+				"아빠",
+				"NNG",
+				"이 책에는 도완득이라는 고등학생과 난쟁이 아빠 완득이의 담임선생님인 동주그리고 베트남 사람인 엄마가 나온다."
+			],
+			[
+				5,
+				"완득이",
+				"NNP",
+				"이 책에는 도완득이라는 고등학생과 난쟁이 아빠 완득이의 담임선생님인 동주그리고 베트남 사람인 엄마가 나온다."
+			],
+			[
+				6,
+				"담임",
+				"NNG",
+				"이 책에는 도완득이라는 고등학생과 난쟁이 아빠 완득이의 담임선생님인 동주그리고 베트남 사람인 엄마가 나온다."
+			],
+			[
+				7,
+				"선생",
+				"NNG",
+				"이 책에는 도완득이라는 고등학생과 난쟁이 아빠 완득이의 담임선생님인 동주그리고 베트남 사람인 엄마가 나온다."
+			],
+			[
+				8,
+				"동주",
+				"NNG",
+				"이 책에는 도완득이라는 고등학생과 난쟁이 아빠 완득이의 담임선생님인 동주그리고 베트남 사람인 엄마가 나온다."
+			],
+			[
+				9,
+				"베트남",
+				"NNP",
+				"이 책에는 도완득이라는 고등학생과 난쟁이 아빠 완득이의 담임선생님인 동주그리고 베트남 사람인 엄마가 나온다."
+			],
+			[
+				10,
+				"사람",
+				"NNG",
+				"이 책에는 도완득이라는 고등학생과 난쟁이 아빠 완득이의 담임선생님인 동주그리고 베트남 사람인 엄마가 나온다."
+			],
+			[
+				11,
+				"엄마",
+				"NNG",
+				"이 책에는 도완득이라는 고등학생과 난쟁이 아빠 완득이의 담임선생님인 동주그리고 베트남 사람인 엄마가 나온다."
+			],
+			[
+				12,
+				"고등학생",
+				"NNG",
+				"고등학생인 완득이가 교회에서 동주를 죽여 달라고 기도를한다."
+			],
+			[
+				13,
+				"완득이",
+				"NNP",
+				"고등학생인 완득이가 교회에서 동주를 죽여 달라고 기도를한다."
+			],
+			[
+				14,
+				"교회",
+				"NNG",
+				"고등학생인 완득이가 교회에서 동주를 죽여 달라고 기도를한다."
+			],
+			[
+				15,
+				"동주",
+				"NNP",
+				"고등학생인 완득이가 교회에서 동주를 죽여 달라고 기도를한다."
+			],
+			[
+				16,
+				"기도",
+				"NNG",
+				"고등학생인 완득이가 교회에서 동주를 죽여 달라고 기도를한다."
+			],
+			[
+				17,
+				"동주",
+				"NNP",
+				"동주는 완득이 옆집에 살며 완득이를 잘놀린다."
+			],
+			[
+				18,
+				"완득이",
+				"NNG",
+				"동주는 완득이 옆집에 살며 완득이를 잘놀린다."
+			],
+			[
+				19,
+				"옆집",
+				"NNG",
+				"동주는 완득이 옆집에 살며 완득이를 잘놀린다."
+			],
+			[
+				20,
+				"완득이",
+				"NNG",
+				"동주는 완득이 옆집에 살며 완득이를 잘놀린다."
+			],
+			[
+				21,
+				"완득이",
+				"NNP",
+				"완득이는 수급대상자인데 멋대로 이름을 올려놓고 햇반을 비롯한 수급 품을 빼앗가는 엄마를 만나게된다."
+			],
+			[
+				22,
+				"수급",
+				"NNG",
+				"완득이는 수급대상자인데 멋대로 이름을 올려놓고 햇반을 비롯한 수급 품을 빼앗가는 엄마를 만나게된다."
+			],
+			[
+				23,
+				"대상자",
+				"NNG",
+				"완득이는 수급대상자인데 멋대로 이름을 올려놓고 햇반을 비롯한 수급 품을 빼앗가는 엄마를 만나게된다."
+			],
+			[
+				24,
+				"이름",
+				"NNG",
+				"완득이는 수급대상자인데 멋대로 이름을 올려놓고 햇반을 비롯한 수급 품을 빼앗가는 엄마를 만나게된다."
+			],
+			[
+				25,
+				"햇반",
+				"NNG",
+				"완득이는 수급대상자인데 멋대로 이름을 올려놓고 햇반을 비롯한 수급 품을 빼앗가는 엄마를 만나게된다."
+			],
+			[
+				26,
+				"수급",
+				"NNG",
+				"완득이는 수급대상자인데 멋대로 이름을 올려놓고 햇반을 비롯한 수급 품을 빼앗가는 엄마를 만나게된다."
+			],
+			[
+				27,
+				"품",
+				"NNG",
+				"완득이는 수급대상자인데 멋대로 이름을 올려놓고 햇반을 비롯한 수급 품을 빼앗가는 엄마를 만나게된다."
+			],
+			[
+				28,
+				"엄마",
+				"NNG",
+				"완득이는 수급대상자인데 멋대로 이름을 올려놓고 햇반을 비롯한 수급 품을 빼앗가는 엄마를 만나게된다."
+			],
+			[
+				29,
+				"엄마",
+				"NNG",
+				"엄마와의 만남에서 애틋함을 배운 완득이는 정윤하라는 모범생과 가까워진다."
+			],
+			[
+				30,
+				"만남",
+				"NNG",
+				"엄마와의 만남에서 애틋함을 배운 완득이는 정윤하라는 모범생과 가까워진다."
+			],
+			[
+				31,
+				"완득이",
+				"NNG",
+				"엄마와의 만남에서 애틋함을 배운 완득이는 정윤하라는 모범생과 가까워진다."
+			],
+			[
+				32,
+				"정윤하",
+				"NNP",
+				"엄마와의 만남에서 애틋함을 배운 완득이는 정윤하라는 모범생과 가까워진다."
+			],
+			[
+				33,
+				"모범",
+				"NNG",
+				"엄마와의 만남에서 애틋함을 배운 완득이는 정윤하라는 모범생과 가까워진다."
+			],
+			[
+				34,
+				"후",
+				"NNG",
+				"그후 욕심을 배우게 된다."
+			],
+			[
+				35,
+				"욕심",
+				"NNG",
+				"그후 욕심을 배우게 된다."
+			],
+			[
+				36,
+				"이때",
+				"NNG",
+				"이때 완득이는 인생의 목표가 생겼다."
+			],
+			[
+				37,
+				"완득이",
+				"NNP",
+				"이때 완득이는 인생의 목표가 생겼다."
+			],
+			[
+				38,
+				"인생",
+				"NNG",
+				"이때 완득이는 인생의 목표가 생겼다."
+			],
+			[
+				39,
+				"목표",
+				"NNG",
+				"이때 완득이는 인생의 목표가 생겼다."
+			],
+			[
+				40,
+				"완득이",
+				"NNP",
+				"완득이의 아버지도 동주의 도움을 받아 삼촌과 함께 좋아하던 댄스 교습소를 열어 일상의 활력을 되찾는다."
+			],
+			[
+				41,
+				"아버지",
+				"NNG",
+				"완득이의 아버지도 동주의 도움을 받아 삼촌과 함께 좋아하던 댄스 교습소를 열어 일상의 활력을 되찾는다."
+			],
+			[
+				42,
+				"동주",
+				"NNP",
+				"완득이의 아버지도 동주의 도움을 받아 삼촌과 함께 좋아하던 댄스 교습소를 열어 일상의 활력을 되찾는다."
+			],
+			[
+				43,
+				"도움",
+				"NNG",
+				"완득이의 아버지도 동주의 도움을 받아 삼촌과 함께 좋아하던 댄스 교습소를 열어 일상의 활력을 되찾는다."
+			],
+			[
+				44,
+				"삼촌",
+				"NNG",
+				"완득이의 아버지도 동주의 도움을 받아 삼촌과 함께 좋아하던 댄스 교습소를 열어 일상의 활력을 되찾는다."
+			],
+			[
+				45,
+				"댄스",
+				"NNG",
+				"완득이의 아버지도 동주의 도움을 받아 삼촌과 함께 좋아하던 댄스 교습소를 열어 일상의 활력을 되찾는다."
+			],
+			[
+				46,
+				"교습소",
+				"NNG",
+				"완득이의 아버지도 동주의 도움을 받아 삼촌과 함께 좋아하던 댄스 교습소를 열어 일상의 활력을 되찾는다."
+			],
+			[
+				47,
+				"일상",
+				"NNG",
+				"완득이의 아버지도 동주의 도움을 받아 삼촌과 함께 좋아하던 댄스 교습소를 열어 일상의 활력을 되찾는다."
+			],
+			[
+				48,
+				"활력",
+				"NNG",
+				"완득이의 아버지도 동주의 도움을 받아 삼촌과 함께 좋아하던 댄스 교습소를 열어 일상의 활력을 되찾는다."
+			],
+			[
+				49,
+				"동주",
+				"NNP",
+				"동주는 완득이를 잘 놀렸지만 잘 도와주고 격려해주는 좋은 선생님인 것 같다."
+			],
+			[
+				50,
+				"완득이",
+				"NNP",
+				"동주는 완득이를 잘 놀렸지만 잘 도와주고 격려해주는 좋은 선생님인 것 같다."
+			],
+			[
+				51,
+				"선생",
+				"NNG",
+				"동주는 완득이를 잘 놀렸지만 잘 도와주고 격려해주는 좋은 선생님인 것 같다."
+			],
+			[
+				52,
+				"것",
+				"NNB",
+				"동주는 완득이를 잘 놀렸지만 잘 도와주고 격려해주는 좋은 선생님인 것 같다."
+			],
+			[
+				53,
+				"완득",
+				"NNP",
+				"완득이라는 책을 읽으며 완득이라는 아이는 친근하게 다가왔는데 이러한 완득이도 인생의 목표를 가질수 있다는 점에서 많은 힘을 얻었다."
+			],
+			[
+				54,
+				"책",
+				"NNG",
+				"완득이라는 책을 읽으며 완득이라는 아이는 친근하게 다가왔는데 이러한 완득이도 인생의 목표를 가질수 있다는 점에서 많은 힘을 얻었다."
+			],
+			[
+				55,
+				"완득",
+				"NNP",
+				"완득이라는 책을 읽으며 완득이라는 아이는 친근하게 다가왔는데 이러한 완득이도 인생의 목표를 가질수 있다는 점에서 많은 힘을 얻었다."
+			],
+			[
+				56,
+				"아이",
+				"NNG",
+				"완득이라는 책을 읽으며 완득이라는 아이는 친근하게 다가왔는데 이러한 완득이도 인생의 목표를 가질수 있다는 점에서 많은 힘을 얻었다."
+			],
+			[
+				57,
+				"완득이",
+				"NNP",
+				"완득이라는 책을 읽으며 완득이라는 아이는 친근하게 다가왔는데 이러한 완득이도 인생의 목표를 가질수 있다는 점에서 많은 힘을 얻었다."
+			],
+			[
+				58,
+				"인생",
+				"NNG",
+				"완득이라는 책을 읽으며 완득이라는 아이는 친근하게 다가왔는데 이러한 완득이도 인생의 목표를 가질수 있다는 점에서 많은 힘을 얻었다."
+			],
+			[
+				59,
+				"목표",
+				"NNG",
+				"완득이라는 책을 읽으며 완득이라는 아이는 친근하게 다가왔는데 이러한 완득이도 인생의 목표를 가질수 있다는 점에서 많은 힘을 얻었다."
+			],
+			[
+				60,
+				"수",
+				"NNB",
+				"완득이라는 책을 읽으며 완득이라는 아이는 친근하게 다가왔는데 이러한 완득이도 인생의 목표를 가질수 있다는 점에서 많은 힘을 얻었다."
+			],
+			[
+				61,
+				"점",
+				"NNG",
+				"완득이라는 책을 읽으며 완득이라는 아이는 친근하게 다가왔는데 이러한 완득이도 인생의 목표를 가질수 있다는 점에서 많은 힘을 얻었다."
+			],
+			[
+				62,
+				"힘",
+				"NNG",
+				"완득이라는 책을 읽으며 완득이라는 아이는 친근하게 다가왔는데 이러한 완득이도 인생의 목표를 가질수 있다는 점에서 많은 힘을 얻었다."
+			],
+			[
+				63,
+				"희망",
+				"NNG",
+				"희망을 잃지 않고 꿋꿋하게 열심히 사는 모습을 완득이 한테 많이 배웠다."
+			],
+			[
+				64,
+				"모습",
+				"NNG",
+				"희망을 잃지 않고 꿋꿋하게 열심히 사는 모습을 완득이 한테 많이 배웠다."
+			],
+			[
+				65,
+				"완득이",
+				"NNP",
+				"희망을 잃지 않고 꿋꿋하게 열심히 사는 모습을 완득이 한테 많이 배웠다."
+			],
+			[
+				66,
+				"책",
+				"NNG",
+				"내가 책을 읽고 글을 쓰는 모습을 보고 뿌듯하고 조금은 발전했다는 생각이든다."
+			],
+			[
+				67,
+				"글",
+				"NNG",
+				"내가 책을 읽고 글을 쓰는 모습을 보고 뿌듯하고 조금은 발전했다는 생각이든다."
+			],
+			[
+				68,
+				"모습",
+				"NNG",
+				"내가 책을 읽고 글을 쓰는 모습을 보고 뿌듯하고 조금은 발전했다는 생각이든다."
+			],
+			[
+				69,
+				"조금",
+				"NNG",
+				"내가 책을 읽고 글을 쓰는 모습을 보고 뿌듯하고 조금은 발전했다는 생각이든다."
+			],
+			[
+				70,
+				"생각",
+				"NNG",
+				"내가 책을 읽고 글을 쓰는 모습을 보고 뿌듯하고 조금은 발전했다는 생각이든다."
+			]
+		],
+		"NNG_Lst": [
+			[
+				0,
+				"책",
+				"NNG",
+				"이 책에는 도완득이라는 고등학생과 난쟁이 아빠 완득이의 담임선생님인 동주그리고 베트남 사람인 엄마가 나온다."
+			],
+			[
+				1,
+				"고등학생",
+				"NNG",
+				"이 책에는 도완득이라는 고등학생과 난쟁이 아빠 완득이의 담임선생님인 동주그리고 베트남 사람인 엄마가 나온다."
+			],
+			[
+				2,
+				"난쟁이",
+				"NNG",
+				"이 책에는 도완득이라는 고등학생과 난쟁이 아빠 완득이의 담임선생님인 동주그리고 베트남 사람인 엄마가 나온다."
+			],
+			[
+				3,
+				"아빠",
+				"NNG",
+				"이 책에는 도완득이라는 고등학생과 난쟁이 아빠 완득이의 담임선생님인 동주그리고 베트남 사람인 엄마가 나온다."
+			],
+			[
+				4,
+				"담임",
+				"NNG",
+				"이 책에는 도완득이라는 고등학생과 난쟁이 아빠 완득이의 담임선생님인 동주그리고 베트남 사람인 엄마가 나온다."
+			],
+			[
+				5,
+				"선생",
+				"NNG",
+				"이 책에는 도완득이라는 고등학생과 난쟁이 아빠 완득이의 담임선생님인 동주그리고 베트남 사람인 엄마가 나온다."
+			],
+			[
+				6,
+				"동주",
+				"NNG",
+				"이 책에는 도완득이라는 고등학생과 난쟁이 아빠 완득이의 담임선생님인 동주그리고 베트남 사람인 엄마가 나온다."
+			],
+			[
+				7,
+				"사람",
+				"NNG",
+				"이 책에는 도완득이라는 고등학생과 난쟁이 아빠 완득이의 담임선생님인 동주그리고 베트남 사람인 엄마가 나온다."
+			],
+			[
+				8,
+				"엄마",
+				"NNG",
+				"이 책에는 도완득이라는 고등학생과 난쟁이 아빠 완득이의 담임선생님인 동주그리고 베트남 사람인 엄마가 나온다."
+			],
+			[
+				9,
+				"고등학생",
+				"NNG",
+				"고등학생인 완득이가 교회에서 동주를 죽여 달라고 기도를한다."
+			],
+			[
+				10,
+				"교회",
+				"NNG",
+				"고등학생인 완득이가 교회에서 동주를 죽여 달라고 기도를한다."
+			],
+			[
+				11,
+				"기도",
+				"NNG",
+				"고등학생인 완득이가 교회에서 동주를 죽여 달라고 기도를한다."
+			],
+			[
+				12,
+				"완득이",
+				"NNG",
+				"동주는 완득이 옆집에 살며 완득이를 잘놀린다."
+			],
+			[
+				13,
+				"옆집",
+				"NNG",
+				"동주는 완득이 옆집에 살며 완득이를 잘놀린다."
+			],
+			[
+				14,
+				"완득이",
+				"NNG",
+				"동주는 완득이 옆집에 살며 완득이를 잘놀린다."
+			],
+			[
+				15,
+				"수급",
+				"NNG",
+				"완득이는 수급대상자인데 멋대로 이름을 올려놓고 햇반을 비롯한 수급 품을 빼앗가는 엄마를 만나게된다."
+			],
+			[
+				16,
+				"대상자",
+				"NNG",
+				"완득이는 수급대상자인데 멋대로 이름을 올려놓고 햇반을 비롯한 수급 품을 빼앗가는 엄마를 만나게된다."
+			],
+			[
+				17,
+				"이름",
+				"NNG",
+				"완득이는 수급대상자인데 멋대로 이름을 올려놓고 햇반을 비롯한 수급 품을 빼앗가는 엄마를 만나게된다."
+			],
+			[
+				18,
+				"햇반",
+				"NNG",
+				"완득이는 수급대상자인데 멋대로 이름을 올려놓고 햇반을 비롯한 수급 품을 빼앗가는 엄마를 만나게된다."
+			],
+			[
+				19,
+				"수급",
+				"NNG",
+				"완득이는 수급대상자인데 멋대로 이름을 올려놓고 햇반을 비롯한 수급 품을 빼앗가는 엄마를 만나게된다."
+			],
+			[
+				20,
+				"품",
+				"NNG",
+				"완득이는 수급대상자인데 멋대로 이름을 올려놓고 햇반을 비롯한 수급 품을 빼앗가는 엄마를 만나게된다."
+			],
+			[
+				21,
+				"엄마",
+				"NNG",
+				"완득이는 수급대상자인데 멋대로 이름을 올려놓고 햇반을 비롯한 수급 품을 빼앗가는 엄마를 만나게된다."
+			],
+			[
+				22,
+				"엄마",
+				"NNG",
+				"엄마와의 만남에서 애틋함을 배운 완득이는 정윤하라는 모범생과 가까워진다."
+			],
+			[
+				23,
+				"만남",
+				"NNG",
+				"엄마와의 만남에서 애틋함을 배운 완득이는 정윤하라는 모범생과 가까워진다."
+			],
+			[
+				24,
+				"완득이",
+				"NNG",
+				"엄마와의 만남에서 애틋함을 배운 완득이는 정윤하라는 모범생과 가까워진다."
+			],
+			[
+				25,
+				"모범",
+				"NNG",
+				"엄마와의 만남에서 애틋함을 배운 완득이는 정윤하라는 모범생과 가까워진다."
+			],
+			[
+				26,
+				"후",
+				"NNG",
+				"그후 욕심을 배우게 된다."
+			],
+			[
+				27,
+				"욕심",
+				"NNG",
+				"그후 욕심을 배우게 된다."
+			],
+			[
+				28,
+				"이때",
+				"NNG",
+				"이때 완득이는 인생의 목표가 생겼다."
+			],
+			[
+				29,
+				"인생",
+				"NNG",
+				"이때 완득이는 인생의 목표가 생겼다."
+			],
+			[
+				30,
+				"목표",
+				"NNG",
+				"이때 완득이는 인생의 목표가 생겼다."
+			],
+			[
+				31,
+				"아버지",
+				"NNG",
+				"완득이의 아버지도 동주의 도움을 받아 삼촌과 함께 좋아하던 댄스 교습소를 열어 일상의 활력을 되찾는다."
+			],
+			[
+				32,
+				"도움",
+				"NNG",
+				"완득이의 아버지도 동주의 도움을 받아 삼촌과 함께 좋아하던 댄스 교습소를 열어 일상의 활력을 되찾는다."
+			],
+			[
+				33,
+				"삼촌",
+				"NNG",
+				"완득이의 아버지도 동주의 도움을 받아 삼촌과 함께 좋아하던 댄스 교습소를 열어 일상의 활력을 되찾는다."
+			],
+			[
+				34,
+				"댄스",
+				"NNG",
+				"완득이의 아버지도 동주의 도움을 받아 삼촌과 함께 좋아하던 댄스 교습소를 열어 일상의 활력을 되찾는다."
+			],
+			[
+				35,
+				"교습소",
+				"NNG",
+				"완득이의 아버지도 동주의 도움을 받아 삼촌과 함께 좋아하던 댄스 교습소를 열어 일상의 활력을 되찾는다."
+			],
+			[
+				36,
+				"일상",
+				"NNG",
+				"완득이의 아버지도 동주의 도움을 받아 삼촌과 함께 좋아하던 댄스 교습소를 열어 일상의 활력을 되찾는다."
+			],
+			[
+				37,
+				"활력",
+				"NNG",
+				"완득이의 아버지도 동주의 도움을 받아 삼촌과 함께 좋아하던 댄스 교습소를 열어 일상의 활력을 되찾는다."
+			],
+			[
+				38,
+				"선생",
+				"NNG",
+				"동주는 완득이를 잘 놀렸지만 잘 도와주고 격려해주는 좋은 선생님인 것 같다."
+			],
+			[
+				39,
+				"책",
+				"NNG",
+				"완득이라는 책을 읽으며 완득이라는 아이는 친근하게 다가왔는데 이러한 완득이도 인생의 목표를 가질수 있다는 점에서 많은 힘을 얻었다."
+			],
+			[
+				40,
+				"아이",
+				"NNG",
+				"완득이라는 책을 읽으며 완득이라는 아이는 친근하게 다가왔는데 이러한 완득이도 인생의 목표를 가질수 있다는 점에서 많은 힘을 얻었다."
+			],
+			[
+				41,
+				"인생",
+				"NNG",
+				"완득이라는 책을 읽으며 완득이라는 아이는 친근하게 다가왔는데 이러한 완득이도 인생의 목표를 가질수 있다는 점에서 많은 힘을 얻었다."
+			],
+			[
+				42,
+				"목표",
+				"NNG",
+				"완득이라는 책을 읽으며 완득이라는 아이는 친근하게 다가왔는데 이러한 완득이도 인생의 목표를 가질수 있다는 점에서 많은 힘을 얻었다."
+			],
+			[
+				43,
+				"점",
+				"NNG",
+				"완득이라는 책을 읽으며 완득이라는 아이는 친근하게 다가왔는데 이러한 완득이도 인생의 목표를 가질수 있다는 점에서 많은 힘을 얻었다."
+			],
+			[
+				44,
+				"힘",
+				"NNG",
+				"완득이라는 책을 읽으며 완득이라는 아이는 친근하게 다가왔는데 이러한 완득이도 인생의 목표를 가질수 있다는 점에서 많은 힘을 얻었다."
+			],
+			[
+				45,
+				"희망",
+				"NNG",
+				"희망을 잃지 않고 꿋꿋하게 열심히 사는 모습을 완득이 한테 많이 배웠다."
+			],
+			[
+				46,
+				"모습",
+				"NNG",
+				"희망을 잃지 않고 꿋꿋하게 열심히 사는 모습을 완득이 한테 많이 배웠다."
+			],
+			[
+				47,
+				"책",
+				"NNG",
+				"내가 책을 읽고 글을 쓰는 모습을 보고 뿌듯하고 조금은 발전했다는 생각이든다."
+			],
+			[
+				48,
+				"글",
+				"NNG",
+				"내가 책을 읽고 글을 쓰는 모습을 보고 뿌듯하고 조금은 발전했다는 생각이든다."
+			],
+			[
+				49,
+				"모습",
+				"NNG",
+				"내가 책을 읽고 글을 쓰는 모습을 보고 뿌듯하고 조금은 발전했다는 생각이든다."
+			],
+			[
+				50,
+				"조금",
+				"NNG",
+				"내가 책을 읽고 글을 쓰는 모습을 보고 뿌듯하고 조금은 발전했다는 생각이든다."
+			],
+			[
+				51,
+				"생각",
+				"NNG",
+				"내가 책을 읽고 글을 쓰는 모습을 보고 뿌듯하고 조금은 발전했다는 생각이든다."
+			]
+		],
+		"NNP_Lst": [
+			[
+				0,
+				"도완득",
+				"NNP",
+				"이 책에는 도완득이라는 고등학생과 난쟁이 아빠 완득이의 담임선생님인 동주그리고 베트남 사람인 엄마가 나온다."
+			],
+			[
+				1,
+				"완득이",
+				"NNP",
+				"이 책에는 도완득이라는 고등학생과 난쟁이 아빠 완득이의 담임선생님인 동주그리고 베트남 사람인 엄마가 나온다."
+			],
+			[
+				2,
+				"베트남",
+				"NNP",
+				"이 책에는 도완득이라는 고등학생과 난쟁이 아빠 완득이의 담임선생님인 동주그리고 베트남 사람인 엄마가 나온다."
+			],
+			[
+				3,
+				"완득이",
+				"NNP",
+				"고등학생인 완득이가 교회에서 동주를 죽여 달라고 기도를한다."
+			],
+			[
+				4,
+				"동주",
+				"NNP",
+				"고등학생인 완득이가 교회에서 동주를 죽여 달라고 기도를한다."
+			],
+			[
+				5,
+				"동주",
+				"NNP",
+				"동주는 완득이 옆집에 살며 완득이를 잘놀린다."
+			],
+			[
+				6,
+				"완득이",
+				"NNP",
+				"완득이는 수급대상자인데 멋대로 이름을 올려놓고 햇반을 비롯한 수급 품을 빼앗가는 엄마를 만나게된다."
+			],
+			[
+				7,
+				"정윤하",
+				"NNP",
+				"엄마와의 만남에서 애틋함을 배운 완득이는 정윤하라는 모범생과 가까워진다."
+			],
+			[
+				8,
+				"완득이",
+				"NNP",
+				"이때 완득이는 인생의 목표가 생겼다."
+			],
+			[
+				9,
+				"완득이",
+				"NNP",
+				"완득이의 아버지도 동주의 도움을 받아 삼촌과 함께 좋아하던 댄스 교습소를 열어 일상의 활력을 되찾는다."
+			],
+			[
+				10,
+				"동주",
+				"NNP",
+				"완득이의 아버지도 동주의 도움을 받아 삼촌과 함께 좋아하던 댄스 교습소를 열어 일상의 활력을 되찾는다."
+			],
+			[
+				11,
+				"동주",
+				"NNP",
+				"동주는 완득이를 잘 놀렸지만 잘 도와주고 격려해주는 좋은 선생님인 것 같다."
+			],
+			[
+				12,
+				"완득이",
+				"NNP",
+				"동주는 완득이를 잘 놀렸지만 잘 도와주고 격려해주는 좋은 선생님인 것 같다."
+			],
+			[
+				13,
+				"완득",
+				"NNP",
+				"완득이라는 책을 읽으며 완득이라는 아이는 친근하게 다가왔는데 이러한 완득이도 인생의 목표를 가질수 있다는 점에서 많은 힘을 얻었다."
+			],
+			[
+				14,
+				"완득",
+				"NNP",
+				"완득이라는 책을 읽으며 완득이라는 아이는 친근하게 다가왔는데 이러한 완득이도 인생의 목표를 가질수 있다는 점에서 많은 힘을 얻었다."
+			],
+			[
+				15,
+				"완득이",
+				"NNP",
+				"완득이라는 책을 읽으며 완득이라는 아이는 친근하게 다가왔는데 이러한 완득이도 인생의 목표를 가질수 있다는 점에서 많은 힘을 얻었다."
+			],
+			[
+				16,
+				"완득이",
+				"NNP",
+				"희망을 잃지 않고 꿋꿋하게 열심히 사는 모습을 완득이 한테 많이 배웠다."
+			]
+		],
+		"NNB_Lst": [
+			[
+				0,
+				"것",
+				"NNB",
+				"동주는 완득이를 잘 놀렸지만 잘 도와주고 격려해주는 좋은 선생님인 것 같다."
+			],
+			[
+				1,
+				"수",
+				"NNB",
+				"완득이라는 책을 읽으며 완득이라는 아이는 친근하게 다가왔는데 이러한 완득이도 인생의 목표를 가질수 있다는 점에서 많은 힘을 얻었다."
+			]
+		],
+		"NP_Lst": [
+			[
+				0,
+				"내",
+				"NP",
+				"내가 책을 읽고 글을 쓰는 모습을 보고 뿌듯하고 조금은 발전했다는 생각이든다."
+			]
+		],
+		"NP_People_Lst": [],
+		"NP_Things_Lst": [],
+		"NR_Lst": [],
+		"VL_Lst": [
+			[
+				0,
+				"이",
+				"VCP",
+				"이 책에는 도완득이라는 고등학생과 난쟁이 아빠 완득이의 담임선생님인 동주그리고 베트남 사람인 엄마가 나온다."
+			],
+			[
+				1,
+				"이",
+				"VCP",
+				"이 책에는 도완득이라는 고등학생과 난쟁이 아빠 완득이의 담임선생님인 동주그리고 베트남 사람인 엄마가 나온다."
+			],
+			[
+				2,
+				"이",
+				"VCP",
+				"이 책에는 도완득이라는 고등학생과 난쟁이 아빠 완득이의 담임선생님인 동주그리고 베트남 사람인 엄마가 나온다."
+			],
+			[
+				3,
+				"나오",
+				"VV",
+				"이 책에는 도완득이라는 고등학생과 난쟁이 아빠 완득이의 담임선생님인 동주그리고 베트남 사람인 엄마가 나온다."
+			],
+			[
+				4,
+				"이",
+				"VCP",
+				"고등학생인 완득이가 교회에서 동주를 죽여 달라고 기도를한다."
+			],
+			[
+				5,
+				"죽이",
+				"VV",
+				"고등학생인 완득이가 교회에서 동주를 죽여 달라고 기도를한다."
+			],
+			[
+				6,
+				"달",
+				"VX",
+				"고등학생인 완득이가 교회에서 동주를 죽여 달라고 기도를한다."
+			],
+			[
+				7,
+				"하",
+				"VV",
+				"고등학생인 완득이가 교회에서 동주를 죽여 달라고 기도를한다."
+			],
+			[
+				8,
+				"살",
+				"VV",
+				"동주는 완득이 옆집에 살며 완득이를 잘놀린다."
+			],
+			[
+				9,
+				"놀리",
+				"VV",
+				"동주는 완득이 옆집에 살며 완득이를 잘놀린다."
+			],
+			[
+				10,
+				"이",
+				"VCP",
+				"완득이는 수급대상자인데 멋대로 이름을 올려놓고 햇반을 비롯한 수급 품을 빼앗가는 엄마를 만나게된다."
+			],
+			[
+				11,
+				"올려놓",
+				"VV",
+				"완득이는 수급대상자인데 멋대로 이름을 올려놓고 햇반을 비롯한 수급 품을 빼앗가는 엄마를 만나게된다."
+			],
+			[
+				12,
+				"비롯하",
+				"VV",
+				"완득이는 수급대상자인데 멋대로 이름을 올려놓고 햇반을 비롯한 수급 품을 빼앗가는 엄마를 만나게된다."
+			],
+			[
+				13,
+				"빼앗가",
+				"VV",
+				"완득이는 수급대상자인데 멋대로 이름을 올려놓고 햇반을 비롯한 수급 품을 빼앗가는 엄마를 만나게된다."
+			],
+			[
+				14,
+				"만나",
+				"VV",
+				"완득이는 수급대상자인데 멋대로 이름을 올려놓고 햇반을 비롯한 수급 품을 빼앗가는 엄마를 만나게된다."
+			],
+			[
+				15,
+				"되",
+				"VV",
+				"완득이는 수급대상자인데 멋대로 이름을 올려놓고 햇반을 비롯한 수급 품을 빼앗가는 엄마를 만나게된다."
+			],
+			[
+				16,
+				"애틋하",
+				"VA",
+				"엄마와의 만남에서 애틋함을 배운 완득이는 정윤하라는 모범생과 가까워진다."
+			],
+			[
+				17,
+				"배우",
+				"VV",
+				"엄마와의 만남에서 애틋함을 배운 완득이는 정윤하라는 모범생과 가까워진다."
+			],
+			[
+				18,
+				"가깝",
+				"VA",
+				"엄마와의 만남에서 애틋함을 배운 완득이는 정윤하라는 모범생과 가까워진다."
+			],
+			[
+				19,
+				"지",
+				"VX",
+				"엄마와의 만남에서 애틋함을 배운 완득이는 정윤하라는 모범생과 가까워진다."
+			],
+			[
+				20,
+				"배우",
+				"VV",
+				"그후 욕심을 배우게 된다."
+			],
+			[
+				21,
+				"되",
+				"VV",
+				"그후 욕심을 배우게 된다."
+			],
+			[
+				22,
+				"생기",
+				"VV",
+				"이때 완득이는 인생의 목표가 생겼다."
+			],
+			[
+				23,
+				"받",
+				"VV",
+				"완득이의 아버지도 동주의 도움을 받아 삼촌과 함께 좋아하던 댄스 교습소를 열어 일상의 활력을 되찾는다."
+			],
+			[
+				24,
+				"좋아하",
+				"VV",
+				"완득이의 아버지도 동주의 도움을 받아 삼촌과 함께 좋아하던 댄스 교습소를 열어 일상의 활력을 되찾는다."
+			],
+			[
+				25,
+				"열",
+				"VV",
+				"완득이의 아버지도 동주의 도움을 받아 삼촌과 함께 좋아하던 댄스 교습소를 열어 일상의 활력을 되찾는다."
+			],
+			[
+				26,
+				"되찾",
+				"VV",
+				"완득이의 아버지도 동주의 도움을 받아 삼촌과 함께 좋아하던 댄스 교습소를 열어 일상의 활력을 되찾는다."
+			],
+			[
+				27,
+				"놀리",
+				"VV",
+				"동주는 완득이를 잘 놀렸지만 잘 도와주고 격려해주는 좋은 선생님인 것 같다."
+			],
+			[
+				28,
+				"도와주",
+				"VV",
+				"동주는 완득이를 잘 놀렸지만 잘 도와주고 격려해주는 좋은 선생님인 것 같다."
+			],
+			[
+				29,
+				"격려하",
+				"VV",
+				"동주는 완득이를 잘 놀렸지만 잘 도와주고 격려해주는 좋은 선생님인 것 같다."
+			],
+			[
+				30,
+				"주",
+				"VX",
+				"동주는 완득이를 잘 놀렸지만 잘 도와주고 격려해주는 좋은 선생님인 것 같다."
+			],
+			[
+				31,
+				"좋",
+				"VA",
+				"동주는 완득이를 잘 놀렸지만 잘 도와주고 격려해주는 좋은 선생님인 것 같다."
+			],
+			[
+				32,
+				"이",
+				"VCP",
+				"동주는 완득이를 잘 놀렸지만 잘 도와주고 격려해주는 좋은 선생님인 것 같다."
+			],
+			[
+				33,
+				"같",
+				"VA",
+				"동주는 완득이를 잘 놀렸지만 잘 도와주고 격려해주는 좋은 선생님인 것 같다."
+			],
+			[
+				34,
+				"이",
+				"VCP",
+				"완득이라는 책을 읽으며 완득이라는 아이는 친근하게 다가왔는데 이러한 완득이도 인생의 목표를 가질수 있다는 점에서 많은 힘을 얻었다."
+			],
+			[
+				35,
+				"읽",
+				"VV",
+				"완득이라는 책을 읽으며 완득이라는 아이는 친근하게 다가왔는데 이러한 완득이도 인생의 목표를 가질수 있다는 점에서 많은 힘을 얻었다."
+			],
+			[
+				36,
+				"이",
+				"VCP",
+				"완득이라는 책을 읽으며 완득이라는 아이는 친근하게 다가왔는데 이러한 완득이도 인생의 목표를 가질수 있다는 점에서 많은 힘을 얻었다."
+			],
+			[
+				37,
+				"친근하",
+				"VA",
+				"완득이라는 책을 읽으며 완득이라는 아이는 친근하게 다가왔는데 이러한 완득이도 인생의 목표를 가질수 있다는 점에서 많은 힘을 얻었다."
+			],
+			[
+				38,
+				"다가오",
+				"VV",
+				"완득이라는 책을 읽으며 완득이라는 아이는 친근하게 다가왔는데 이러한 완득이도 인생의 목표를 가질수 있다는 점에서 많은 힘을 얻었다."
+			],
+			[
+				39,
+				"이러하",
+				"VA",
+				"완득이라는 책을 읽으며 완득이라는 아이는 친근하게 다가왔는데 이러한 완득이도 인생의 목표를 가질수 있다는 점에서 많은 힘을 얻었다."
+			],
+			[
+				40,
+				"가지",
+				"VV",
+				"완득이라는 책을 읽으며 완득이라는 아이는 친근하게 다가왔는데 이러한 완득이도 인생의 목표를 가질수 있다는 점에서 많은 힘을 얻었다."
+			],
+			[
+				41,
+				"있",
+				"VA",
+				"완득이라는 책을 읽으며 완득이라는 아이는 친근하게 다가왔는데 이러한 완득이도 인생의 목표를 가질수 있다는 점에서 많은 힘을 얻었다."
+			],
+			[
+				42,
+				"많",
+				"VA",
+				"완득이라는 책을 읽으며 완득이라는 아이는 친근하게 다가왔는데 이러한 완득이도 인생의 목표를 가질수 있다는 점에서 많은 힘을 얻었다."
+			],
+			[
+				43,
+				"얻",
+				"VV",
+				"완득이라는 책을 읽으며 완득이라는 아이는 친근하게 다가왔는데 이러한 완득이도 인생의 목표를 가질수 있다는 점에서 많은 힘을 얻었다."
+			],
+			[
+				44,
+				"잃",
+				"VV",
+				"희망을 잃지 않고 꿋꿋하게 열심히 사는 모습을 완득이 한테 많이 배웠다."
+			],
+			[
+				45,
+				"않",
+				"VX",
+				"희망을 잃지 않고 꿋꿋하게 열심히 사는 모습을 완득이 한테 많이 배웠다."
+			],
+			[
+				46,
+				"꿋꿋하",
+				"VA",
+				"희망을 잃지 않고 꿋꿋하게 열심히 사는 모습을 완득이 한테 많이 배웠다."
+			],
+			[
+				47,
+				"살",
+				"VV",
+				"희망을 잃지 않고 꿋꿋하게 열심히 사는 모습을 완득이 한테 많이 배웠다."
+			],
+			[
+				48,
+				"배우",
+				"VV",
+				"희망을 잃지 않고 꿋꿋하게 열심히 사는 모습을 완득이 한테 많이 배웠다."
+			],
+			[
+				49,
+				"읽",
+				"VV",
+				"내가 책을 읽고 글을 쓰는 모습을 보고 뿌듯하고 조금은 발전했다는 생각이든다."
+			],
+			[
+				50,
+				"쓰",
+				"VV",
+				"내가 책을 읽고 글을 쓰는 모습을 보고 뿌듯하고 조금은 발전했다는 생각이든다."
+			],
+			[
+				51,
+				"보",
+				"VV",
+				"내가 책을 읽고 글을 쓰는 모습을 보고 뿌듯하고 조금은 발전했다는 생각이든다."
+			],
+			[
+				52,
+				"뿌듯하",
+				"VA",
+				"내가 책을 읽고 글을 쓰는 모습을 보고 뿌듯하고 조금은 발전했다는 생각이든다."
+			],
+			[
+				53,
+				"발전하",
+				"VV",
+				"내가 책을 읽고 글을 쓰는 모습을 보고 뿌듯하고 조금은 발전했다는 생각이든다."
+			],
+			[
+				54,
+				"들",
+				"VV",
+				"내가 책을 읽고 글을 쓰는 모습을 보고 뿌듯하고 조금은 발전했다는 생각이든다."
+			]
+		],
+		"VV_Lst": [
+			[
+				0,
+				"나오",
+				"VV",
+				"이 책에는 도완득이라는 고등학생과 난쟁이 아빠 완득이의 담임선생님인 동주그리고 베트남 사람인 엄마가 나온다."
+			],
+			[
+				1,
+				"죽이",
+				"VV",
+				"고등학생인 완득이가 교회에서 동주를 죽여 달라고 기도를한다."
+			],
+			[
+				2,
+				"하",
+				"VV",
+				"고등학생인 완득이가 교회에서 동주를 죽여 달라고 기도를한다."
+			],
+			[
+				3,
+				"살",
+				"VV",
+				"동주는 완득이 옆집에 살며 완득이를 잘놀린다."
+			],
+			[
+				4,
+				"놀리",
+				"VV",
+				"동주는 완득이 옆집에 살며 완득이를 잘놀린다."
+			],
+			[
+				5,
+				"올려놓",
+				"VV",
+				"완득이는 수급대상자인데 멋대로 이름을 올려놓고 햇반을 비롯한 수급 품을 빼앗가는 엄마를 만나게된다."
+			],
+			[
+				6,
+				"비롯하",
+				"VV",
+				"완득이는 수급대상자인데 멋대로 이름을 올려놓고 햇반을 비롯한 수급 품을 빼앗가는 엄마를 만나게된다."
+			],
+			[
+				7,
+				"빼앗가",
+				"VV",
+				"완득이는 수급대상자인데 멋대로 이름을 올려놓고 햇반을 비롯한 수급 품을 빼앗가는 엄마를 만나게된다."
+			],
+			[
+				8,
+				"만나",
+				"VV",
+				"완득이는 수급대상자인데 멋대로 이름을 올려놓고 햇반을 비롯한 수급 품을 빼앗가는 엄마를 만나게된다."
+			],
+			[
+				9,
+				"되",
+				"VV",
+				"완득이는 수급대상자인데 멋대로 이름을 올려놓고 햇반을 비롯한 수급 품을 빼앗가는 엄마를 만나게된다."
+			],
+			[
+				10,
+				"배우",
+				"VV",
+				"엄마와의 만남에서 애틋함을 배운 완득이는 정윤하라는 모범생과 가까워진다."
+			],
+			[
+				11,
+				"배우",
+				"VV",
+				"그후 욕심을 배우게 된다."
+			],
+			[
+				12,
+				"되",
+				"VV",
+				"그후 욕심을 배우게 된다."
+			],
+			[
+				13,
+				"생기",
+				"VV",
+				"이때 완득이는 인생의 목표가 생겼다."
+			],
+			[
+				14,
+				"받",
+				"VV",
+				"완득이의 아버지도 동주의 도움을 받아 삼촌과 함께 좋아하던 댄스 교습소를 열어 일상의 활력을 되찾는다."
+			],
+			[
+				15,
+				"좋아하",
+				"VV",
+				"완득이의 아버지도 동주의 도움을 받아 삼촌과 함께 좋아하던 댄스 교습소를 열어 일상의 활력을 되찾는다."
+			],
+			[
+				16,
+				"열",
+				"VV",
+				"완득이의 아버지도 동주의 도움을 받아 삼촌과 함께 좋아하던 댄스 교습소를 열어 일상의 활력을 되찾는다."
+			],
+			[
+				17,
+				"되찾",
+				"VV",
+				"완득이의 아버지도 동주의 도움을 받아 삼촌과 함께 좋아하던 댄스 교습소를 열어 일상의 활력을 되찾는다."
+			],
+			[
+				18,
+				"놀리",
+				"VV",
+				"동주는 완득이를 잘 놀렸지만 잘 도와주고 격려해주는 좋은 선생님인 것 같다."
+			],
+			[
+				19,
+				"도와주",
+				"VV",
+				"동주는 완득이를 잘 놀렸지만 잘 도와주고 격려해주는 좋은 선생님인 것 같다."
+			],
+			[
+				20,
+				"격려하",
+				"VV",
+				"동주는 완득이를 잘 놀렸지만 잘 도와주고 격려해주는 좋은 선생님인 것 같다."
+			],
+			[
+				21,
+				"읽",
+				"VV",
+				"완득이라는 책을 읽으며 완득이라는 아이는 친근하게 다가왔는데 이러한 완득이도 인생의 목표를 가질수 있다는 점에서 많은 힘을 얻었다."
+			],
+			[
+				22,
+				"다가오",
+				"VV",
+				"완득이라는 책을 읽으며 완득이라는 아이는 친근하게 다가왔는데 이러한 완득이도 인생의 목표를 가질수 있다는 점에서 많은 힘을 얻었다."
+			],
+			[
+				23,
+				"가지",
+				"VV",
+				"완득이라는 책을 읽으며 완득이라는 아이는 친근하게 다가왔는데 이러한 완득이도 인생의 목표를 가질수 있다는 점에서 많은 힘을 얻었다."
+			],
+			[
+				24,
+				"얻",
+				"VV",
+				"완득이라는 책을 읽으며 완득이라는 아이는 친근하게 다가왔는데 이러한 완득이도 인생의 목표를 가질수 있다는 점에서 많은 힘을 얻었다."
+			],
+			[
+				25,
+				"잃",
+				"VV",
+				"희망을 잃지 않고 꿋꿋하게 열심히 사는 모습을 완득이 한테 많이 배웠다."
+			],
+			[
+				26,
+				"살",
+				"VV",
+				"희망을 잃지 않고 꿋꿋하게 열심히 사는 모습을 완득이 한테 많이 배웠다."
+			],
+			[
+				27,
+				"배우",
+				"VV",
+				"희망을 잃지 않고 꿋꿋하게 열심히 사는 모습을 완득이 한테 많이 배웠다."
+			],
+			[
+				28,
+				"읽",
+				"VV",
+				"내가 책을 읽고 글을 쓰는 모습을 보고 뿌듯하고 조금은 발전했다는 생각이든다."
+			],
+			[
+				29,
+				"쓰",
+				"VV",
+				"내가 책을 읽고 글을 쓰는 모습을 보고 뿌듯하고 조금은 발전했다는 생각이든다."
+			],
+			[
+				30,
+				"보",
+				"VV",
+				"내가 책을 읽고 글을 쓰는 모습을 보고 뿌듯하고 조금은 발전했다는 생각이든다."
+			],
+			[
+				31,
+				"발전하",
+				"VV",
+				"내가 책을 읽고 글을 쓰는 모습을 보고 뿌듯하고 조금은 발전했다는 생각이든다."
+			],
+			[
+				32,
+				"들",
+				"VV",
+				"내가 책을 읽고 글을 쓰는 모습을 보고 뿌듯하고 조금은 발전했다는 생각이든다."
+			]
+		],
+		"VA_Lst": [
+			[
+				0,
+				"애틋하",
+				"VA",
+				"엄마와의 만남에서 애틋함을 배운 완득이는 정윤하라는 모범생과 가까워진다."
+			],
+			[
+				1,
+				"가깝",
+				"VA",
+				"엄마와의 만남에서 애틋함을 배운 완득이는 정윤하라는 모범생과 가까워진다."
+			],
+			[
+				2,
+				"좋",
+				"VA",
+				"동주는 완득이를 잘 놀렸지만 잘 도와주고 격려해주는 좋은 선생님인 것 같다."
+			],
+			[
+				3,
+				"같",
+				"VA",
+				"동주는 완득이를 잘 놀렸지만 잘 도와주고 격려해주는 좋은 선생님인 것 같다."
+			],
+			[
+				4,
+				"친근하",
+				"VA",
+				"완득이라는 책을 읽으며 완득이라는 아이는 친근하게 다가왔는데 이러한 완득이도 인생의 목표를 가질수 있다는 점에서 많은 힘을 얻었다."
+			],
+			[
+				5,
+				"이러하",
+				"VA",
+				"완득이라는 책을 읽으며 완득이라는 아이는 친근하게 다가왔는데 이러한 완득이도 인생의 목표를 가질수 있다는 점에서 많은 힘을 얻었다."
+			],
+			[
+				6,
+				"있",
+				"VA",
+				"완득이라는 책을 읽으며 완득이라는 아이는 친근하게 다가왔는데 이러한 완득이도 인생의 목표를 가질수 있다는 점에서 많은 힘을 얻었다."
+			],
+			[
+				7,
+				"많",
+				"VA",
+				"완득이라는 책을 읽으며 완득이라는 아이는 친근하게 다가왔는데 이러한 완득이도 인생의 목표를 가질수 있다는 점에서 많은 힘을 얻었다."
+			],
+			[
+				8,
+				"꿋꿋하",
+				"VA",
+				"희망을 잃지 않고 꿋꿋하게 열심히 사는 모습을 완득이 한테 많이 배웠다."
+			],
+			[
+				9,
+				"뿌듯하",
+				"VA",
+				"내가 책을 읽고 글을 쓰는 모습을 보고 뿌듯하고 조금은 발전했다는 생각이든다."
+			]
+		],
+		"VX_Lst": [
+			[
+				0,
+				"달",
+				"VX",
+				"고등학생인 완득이가 교회에서 동주를 죽여 달라고 기도를한다."
+			],
+			[
+				1,
+				"지",
+				"VX",
+				"엄마와의 만남에서 애틋함을 배운 완득이는 정윤하라는 모범생과 가까워진다."
+			],
+			[
+				2,
+				"주",
+				"VX",
+				"동주는 완득이를 잘 놀렸지만 잘 도와주고 격려해주는 좋은 선생님인 것 같다."
+			],
+			[
+				3,
+				"않",
+				"VX",
+				"희망을 잃지 않고 꿋꿋하게 열심히 사는 모습을 완득이 한테 많이 배웠다."
+			]
+		],
+		"VCP_Lst": [
+			[
+				0,
+				"이",
+				"VCP",
+				"이 책에는 도완득이라는 고등학생과 난쟁이 아빠 완득이의 담임선생님인 동주그리고 베트남 사람인 엄마가 나온다."
+			],
+			[
+				1,
+				"이",
+				"VCP",
+				"이 책에는 도완득이라는 고등학생과 난쟁이 아빠 완득이의 담임선생님인 동주그리고 베트남 사람인 엄마가 나온다."
+			],
+			[
+				2,
+				"이",
+				"VCP",
+				"이 책에는 도완득이라는 고등학생과 난쟁이 아빠 완득이의 담임선생님인 동주그리고 베트남 사람인 엄마가 나온다."
+			],
+			[
+				3,
+				"이",
+				"VCP",
+				"고등학생인 완득이가 교회에서 동주를 죽여 달라고 기도를한다."
+			],
+			[
+				4,
+				"이",
+				"VCP",
+				"완득이는 수급대상자인데 멋대로 이름을 올려놓고 햇반을 비롯한 수급 품을 빼앗가는 엄마를 만나게된다."
+			],
+			[
+				5,
+				"이",
+				"VCP",
+				"동주는 완득이를 잘 놀렸지만 잘 도와주고 격려해주는 좋은 선생님인 것 같다."
+			],
+			[
+				6,
+				"이",
+				"VCP",
+				"완득이라는 책을 읽으며 완득이라는 아이는 친근하게 다가왔는데 이러한 완득이도 인생의 목표를 가질수 있다는 점에서 많은 힘을 얻었다."
+			],
+			[
+				7,
+				"이",
+				"VCP",
+				"완득이라는 책을 읽으며 완득이라는 아이는 친근하게 다가왔는데 이러한 완득이도 인생의 목표를 가질수 있다는 점에서 많은 힘을 얻었다."
+			]
+		],
+		"VCN_Lst": [],
+		"ML_Lst": [
+			[
+				0,
+				"그리고",
+				"MAJ",
+				"이 책에는 도완득이라는 고등학생과 난쟁이 아빠 완득이의 담임선생님인 동주그리고 베트남 사람인 엄마가 나온다."
+			],
+			[
+				1,
+				"잘",
+				"MAG",
+				"동주는 완득이 옆집에 살며 완득이를 잘놀린다."
+			],
+			[
+				2,
+				"멋대로",
+				"MAG",
+				"완득이는 수급대상자인데 멋대로 이름을 올려놓고 햇반을 비롯한 수급 품을 빼앗가는 엄마를 만나게된다."
+			],
+			[
+				3,
+				"함께",
+				"MAG",
+				"완득이의 아버지도 동주의 도움을 받아 삼촌과 함께 좋아하던 댄스 교습소를 열어 일상의 활력을 되찾는다."
+			],
+			[
+				4,
+				"잘",
+				"MAG",
+				"동주는 완득이를 잘 놀렸지만 잘 도와주고 격려해주는 좋은 선생님인 것 같다."
+			],
+			[
+				5,
+				"잘",
+				"MAG",
+				"동주는 완득이를 잘 놀렸지만 잘 도와주고 격려해주는 좋은 선생님인 것 같다."
+			],
+			[
+				6,
+				"열심히",
+				"MAG",
+				"희망을 잃지 않고 꿋꿋하게 열심히 사는 모습을 완득이 한테 많이 배웠다."
+			],
+			[
+				7,
+				"많이",
+				"MAG",
+				"희망을 잃지 않고 꿋꿋하게 열심히 사는 모습을 완득이 한테 많이 배웠다."
+			]
+		],
+		"MA_Lst": [],
+		"MM_Lst": [],
+		"J_Lst": [
+			[
+				0,
+				"에",
+				"JKB",
+				"이 책에는 도완득이라는 고등학생과 난쟁이 아빠 완득이의 담임선생님인 동주그리고 베트남 사람인 엄마가 나온다."
+			],
+			[
+				1,
+				"는",
+				"JX",
+				"이 책에는 도완득이라는 고등학생과 난쟁이 아빠 완득이의 담임선생님인 동주그리고 베트남 사람인 엄마가 나온다."
+			],
+			[
+				2,
+				"과",
+				"JC",
+				"이 책에는 도완득이라는 고등학생과 난쟁이 아빠 완득이의 담임선생님인 동주그리고 베트남 사람인 엄마가 나온다."
+			],
+			[
+				3,
+				"의",
+				"JKG",
+				"이 책에는 도완득이라는 고등학생과 난쟁이 아빠 완득이의 담임선생님인 동주그리고 베트남 사람인 엄마가 나온다."
+			],
+			[
+				4,
+				"가",
+				"JKS",
+				"이 책에는 도완득이라는 고등학생과 난쟁이 아빠 완득이의 담임선생님인 동주그리고 베트남 사람인 엄마가 나온다."
+			],
+			[
+				5,
+				"가",
+				"JKS",
+				"고등학생인 완득이가 교회에서 동주를 죽여 달라고 기도를한다."
+			],
+			[
+				6,
+				"에서",
+				"JKB",
+				"고등학생인 완득이가 교회에서 동주를 죽여 달라고 기도를한다."
+			],
+			[
+				7,
+				"를",
+				"JKO",
+				"고등학생인 완득이가 교회에서 동주를 죽여 달라고 기도를한다."
+			],
+			[
+				8,
+				"를",
+				"JKO",
+				"고등학생인 완득이가 교회에서 동주를 죽여 달라고 기도를한다."
+			],
+			[
+				9,
+				"는",
+				"JX",
+				"동주는 완득이 옆집에 살며 완득이를 잘놀린다."
+			],
+			[
+				10,
+				"에",
+				"JKB",
+				"동주는 완득이 옆집에 살며 완득이를 잘놀린다."
+			],
+			[
+				11,
+				"를",
+				"JKO",
+				"동주는 완득이 옆집에 살며 완득이를 잘놀린다."
+			],
+			[
+				12,
+				"는",
+				"JX",
+				"완득이는 수급대상자인데 멋대로 이름을 올려놓고 햇반을 비롯한 수급 품을 빼앗가는 엄마를 만나게된다."
+			],
+			[
+				13,
+				"을",
+				"JKO",
+				"완득이는 수급대상자인데 멋대로 이름을 올려놓고 햇반을 비롯한 수급 품을 빼앗가는 엄마를 만나게된다."
+			],
+			[
+				14,
+				"을",
+				"JKO",
+				"완득이는 수급대상자인데 멋대로 이름을 올려놓고 햇반을 비롯한 수급 품을 빼앗가는 엄마를 만나게된다."
+			],
+			[
+				15,
+				"을",
+				"JKO",
+				"완득이는 수급대상자인데 멋대로 이름을 올려놓고 햇반을 비롯한 수급 품을 빼앗가는 엄마를 만나게된다."
+			],
+			[
+				16,
+				"를",
+				"JKO",
+				"완득이는 수급대상자인데 멋대로 이름을 올려놓고 햇반을 비롯한 수급 품을 빼앗가는 엄마를 만나게된다."
+			],
+			[
+				17,
+				"와",
+				"JKB",
+				"엄마와의 만남에서 애틋함을 배운 완득이는 정윤하라는 모범생과 가까워진다."
+			],
+			[
+				18,
+				"의",
+				"JKG",
+				"엄마와의 만남에서 애틋함을 배운 완득이는 정윤하라는 모범생과 가까워진다."
+			],
+			[
+				19,
+				"에서",
+				"JKB",
+				"엄마와의 만남에서 애틋함을 배운 완득이는 정윤하라는 모범생과 가까워진다."
+			],
+			[
+				20,
+				"을",
+				"JKO",
+				"엄마와의 만남에서 애틋함을 배운 완득이는 정윤하라는 모범생과 가까워진다."
+			],
+			[
+				21,
+				"는",
+				"JX",
+				"엄마와의 만남에서 애틋함을 배운 완득이는 정윤하라는 모범생과 가까워진다."
+			],
+			[
+				22,
+				"과",
+				"JKB",
+				"엄마와의 만남에서 애틋함을 배운 완득이는 정윤하라는 모범생과 가까워진다."
+			],
+			[
+				23,
+				"을",
+				"JKO",
+				"그후 욕심을 배우게 된다."
+			],
+			[
+				24,
+				"는",
+				"JX",
+				"이때 완득이는 인생의 목표가 생겼다."
+			],
+			[
+				25,
+				"의",
+				"JKG",
+				"이때 완득이는 인생의 목표가 생겼다."
+			],
+			[
+				26,
+				"가",
+				"JKS",
+				"이때 완득이는 인생의 목표가 생겼다."
+			],
+			[
+				27,
+				"의",
+				"JKG",
+				"완득이의 아버지도 동주의 도움을 받아 삼촌과 함께 좋아하던 댄스 교습소를 열어 일상의 활력을 되찾는다."
+			],
+			[
+				28,
+				"도",
+				"JX",
+				"완득이의 아버지도 동주의 도움을 받아 삼촌과 함께 좋아하던 댄스 교습소를 열어 일상의 활력을 되찾는다."
+			],
+			[
+				29,
+				"의",
+				"JKG",
+				"완득이의 아버지도 동주의 도움을 받아 삼촌과 함께 좋아하던 댄스 교습소를 열어 일상의 활력을 되찾는다."
+			],
+			[
+				30,
+				"을",
+				"JKO",
+				"완득이의 아버지도 동주의 도움을 받아 삼촌과 함께 좋아하던 댄스 교습소를 열어 일상의 활력을 되찾는다."
+			],
+			[
+				31,
+				"과",
+				"JKB",
+				"완득이의 아버지도 동주의 도움을 받아 삼촌과 함께 좋아하던 댄스 교습소를 열어 일상의 활력을 되찾는다."
+			],
+			[
+				32,
+				"를",
+				"JKO",
+				"완득이의 아버지도 동주의 도움을 받아 삼촌과 함께 좋아하던 댄스 교습소를 열어 일상의 활력을 되찾는다."
+			],
+			[
+				33,
+				"의",
+				"JKG",
+				"완득이의 아버지도 동주의 도움을 받아 삼촌과 함께 좋아하던 댄스 교습소를 열어 일상의 활력을 되찾는다."
+			],
+			[
+				34,
+				"을",
+				"JKO",
+				"완득이의 아버지도 동주의 도움을 받아 삼촌과 함께 좋아하던 댄스 교습소를 열어 일상의 활력을 되찾는다."
+			],
+			[
+				35,
+				"는",
+				"JX",
+				"동주는 완득이를 잘 놀렸지만 잘 도와주고 격려해주는 좋은 선생님인 것 같다."
+			],
+			[
+				36,
+				"를",
+				"JKO",
+				"동주는 완득이를 잘 놀렸지만 잘 도와주고 격려해주는 좋은 선생님인 것 같다."
+			],
+			[
+				37,
+				"을",
+				"JKO",
+				"완득이라는 책을 읽으며 완득이라는 아이는 친근하게 다가왔는데 이러한 완득이도 인생의 목표를 가질수 있다는 점에서 많은 힘을 얻었다."
+			],
+			[
+				38,
+				"는",
+				"JX",
+				"완득이라는 책을 읽으며 완득이라는 아이는 친근하게 다가왔는데 이러한 완득이도 인생의 목표를 가질수 있다는 점에서 많은 힘을 얻었다."
+			],
+			[
+				39,
+				"도",
+				"JX",
+				"완득이라는 책을 읽으며 완득이라는 아이는 친근하게 다가왔는데 이러한 완득이도 인생의 목표를 가질수 있다는 점에서 많은 힘을 얻었다."
+			],
+			[
+				40,
+				"의",
+				"JKG",
+				"완득이라는 책을 읽으며 완득이라는 아이는 친근하게 다가왔는데 이러한 완득이도 인생의 목표를 가질수 있다는 점에서 많은 힘을 얻었다."
+			],
+			[
+				41,
+				"를",
+				"JKO",
+				"완득이라는 책을 읽으며 완득이라는 아이는 친근하게 다가왔는데 이러한 완득이도 인생의 목표를 가질수 있다는 점에서 많은 힘을 얻었다."
+			],
+			[
+				42,
+				"에서",
+				"JKB",
+				"완득이라는 책을 읽으며 완득이라는 아이는 친근하게 다가왔는데 이러한 완득이도 인생의 목표를 가질수 있다는 점에서 많은 힘을 얻었다."
+			],
+			[
+				43,
+				"을",
+				"JKO",
+				"완득이라는 책을 읽으며 완득이라는 아이는 친근하게 다가왔는데 이러한 완득이도 인생의 목표를 가질수 있다는 점에서 많은 힘을 얻었다."
+			],
+			[
+				44,
+				"을",
+				"JKO",
+				"희망을 잃지 않고 꿋꿋하게 열심히 사는 모습을 완득이 한테 많이 배웠다."
+			],
+			[
+				45,
+				"을",
+				"JKO",
+				"희망을 잃지 않고 꿋꿋하게 열심히 사는 모습을 완득이 한테 많이 배웠다."
+			],
+			[
+				46,
+				"한테",
+				"JKB",
+				"희망을 잃지 않고 꿋꿋하게 열심히 사는 모습을 완득이 한테 많이 배웠다."
+			],
+			[
+				47,
+				"가",
+				"JKS",
+				"내가 책을 읽고 글을 쓰는 모습을 보고 뿌듯하고 조금은 발전했다는 생각이든다."
+			],
+			[
+				48,
+				"을",
+				"JKO",
+				"내가 책을 읽고 글을 쓰는 모습을 보고 뿌듯하고 조금은 발전했다는 생각이든다."
+			],
+			[
+				49,
+				"을",
+				"JKO",
+				"내가 책을 읽고 글을 쓰는 모습을 보고 뿌듯하고 조금은 발전했다는 생각이든다."
+			],
+			[
+				50,
+				"을",
+				"JKO",
+				"내가 책을 읽고 글을 쓰는 모습을 보고 뿌듯하고 조금은 발전했다는 생각이든다."
+			],
+			[
+				51,
+				"은",
+				"JX",
+				"내가 책을 읽고 글을 쓰는 모습을 보고 뿌듯하고 조금은 발전했다는 생각이든다."
+			],
+			[
+				52,
+				"이",
+				"JKS",
+				"내가 책을 읽고 글을 쓰는 모습을 보고 뿌듯하고 조금은 발전했다는 생각이든다."
+			]
+		],
+		"E_Lst": [
+			[
+				0,
+				"라는",
+				"ETM",
+				"이 책에는 도완득이라는 고등학생과 난쟁이 아빠 완득이의 담임선생님인 동주그리고 베트남 사람인 엄마가 나온다."
+			],
+			[
+				1,
+				"ㄴ",
+				"ETM",
+				"이 책에는 도완득이라는 고등학생과 난쟁이 아빠 완득이의 담임선생님인 동주그리고 베트남 사람인 엄마가 나온다."
+			],
+			[
+				2,
+				"ㄴ",
+				"ETM",
+				"이 책에는 도완득이라는 고등학생과 난쟁이 아빠 완득이의 담임선생님인 동주그리고 베트남 사람인 엄마가 나온다."
+			],
+			[
+				3,
+				"ㄴ다",
+				"EF",
+				"이 책에는 도완득이라는 고등학생과 난쟁이 아빠 완득이의 담임선생님인 동주그리고 베트남 사람인 엄마가 나온다."
+			],
+			[
+				4,
+				"ㄴ",
+				"ETM",
+				"고등학생인 완득이가 교회에서 동주를 죽여 달라고 기도를한다."
+			],
+			[
+				5,
+				"어",
+				"EC",
+				"고등학생인 완득이가 교회에서 동주를 죽여 달라고 기도를한다."
+			],
+			[
+				6,
+				"라고",
+				"EC",
+				"고등학생인 완득이가 교회에서 동주를 죽여 달라고 기도를한다."
+			],
+			[
+				7,
+				"ㄴ다",
+				"EF",
+				"고등학생인 완득이가 교회에서 동주를 죽여 달라고 기도를한다."
+			],
+			[
+				8,
+				"며",
+				"EC",
+				"동주는 완득이 옆집에 살며 완득이를 잘놀린다."
+			],
+			[
+				9,
+				"ㄴ다",
+				"EF",
+				"동주는 완득이 옆집에 살며 완득이를 잘놀린다."
+			],
+			[
+				10,
+				"ㄴ데",
+				"EC",
+				"완득이는 수급대상자인데 멋대로 이름을 올려놓고 햇반을 비롯한 수급 품을 빼앗가는 엄마를 만나게된다."
+			],
+			[
+				11,
+				"고",
+				"EC",
+				"완득이는 수급대상자인데 멋대로 이름을 올려놓고 햇반을 비롯한 수급 품을 빼앗가는 엄마를 만나게된다."
+			],
+			[
+				12,
+				"ㄴ",
+				"ETM",
+				"완득이는 수급대상자인데 멋대로 이름을 올려놓고 햇반을 비롯한 수급 품을 빼앗가는 엄마를 만나게된다."
+			],
+			[
+				13,
+				"는",
+				"ETM",
+				"완득이는 수급대상자인데 멋대로 이름을 올려놓고 햇반을 비롯한 수급 품을 빼앗가는 엄마를 만나게된다."
+			],
+			[
+				14,
+				"게",
+				"EC",
+				"완득이는 수급대상자인데 멋대로 이름을 올려놓고 햇반을 비롯한 수급 품을 빼앗가는 엄마를 만나게된다."
+			],
+			[
+				15,
+				"ㄴ다",
+				"EF",
+				"완득이는 수급대상자인데 멋대로 이름을 올려놓고 햇반을 비롯한 수급 품을 빼앗가는 엄마를 만나게된다."
+			],
+			[
+				16,
+				"ㅁ",
+				"ETN",
+				"엄마와의 만남에서 애틋함을 배운 완득이는 정윤하라는 모범생과 가까워진다."
+			],
+			[
+				17,
+				"ㄴ",
+				"ETM",
+				"엄마와의 만남에서 애틋함을 배운 완득이는 정윤하라는 모범생과 가까워진다."
+			],
+			[
+				18,
+				"라는",
+				"ETM",
+				"엄마와의 만남에서 애틋함을 배운 완득이는 정윤하라는 모범생과 가까워진다."
+			],
+			[
+				19,
+				"어",
+				"EC",
+				"엄마와의 만남에서 애틋함을 배운 완득이는 정윤하라는 모범생과 가까워진다."
+			],
+			[
+				20,
+				"ㄴ다",
+				"EF",
+				"엄마와의 만남에서 애틋함을 배운 완득이는 정윤하라는 모범생과 가까워진다."
+			],
+			[
+				21,
+				"게",
+				"EC",
+				"그후 욕심을 배우게 된다."
+			],
+			[
+				22,
+				"ㄴ다",
+				"EF",
+				"그후 욕심을 배우게 된다."
+			],
+			[
+				23,
+				"었",
+				"EP",
+				"이때 완득이는 인생의 목표가 생겼다."
+			],
+			[
+				24,
+				"다",
+				"EF",
+				"이때 완득이는 인생의 목표가 생겼다."
+			],
+			[
+				25,
+				"아",
+				"EC",
+				"완득이의 아버지도 동주의 도움을 받아 삼촌과 함께 좋아하던 댄스 교습소를 열어 일상의 활력을 되찾는다."
+			],
+			[
+				26,
+				"던",
+				"ETM",
+				"완득이의 아버지도 동주의 도움을 받아 삼촌과 함께 좋아하던 댄스 교습소를 열어 일상의 활력을 되찾는다."
+			],
+			[
+				27,
+				"어",
+				"EC",
+				"완득이의 아버지도 동주의 도움을 받아 삼촌과 함께 좋아하던 댄스 교습소를 열어 일상의 활력을 되찾는다."
+			],
+			[
+				28,
+				"는다",
+				"EF",
+				"완득이의 아버지도 동주의 도움을 받아 삼촌과 함께 좋아하던 댄스 교습소를 열어 일상의 활력을 되찾는다."
+			],
+			[
+				29,
+				"었",
+				"EP",
+				"동주는 완득이를 잘 놀렸지만 잘 도와주고 격려해주는 좋은 선생님인 것 같다."
+			],
+			[
+				30,
+				"지만",
+				"EC",
+				"동주는 완득이를 잘 놀렸지만 잘 도와주고 격려해주는 좋은 선생님인 것 같다."
+			],
+			[
+				31,
+				"고",
+				"EC",
+				"동주는 완득이를 잘 놀렸지만 잘 도와주고 격려해주는 좋은 선생님인 것 같다."
+			],
+			[
+				32,
+				"아",
+				"EC",
+				"동주는 완득이를 잘 놀렸지만 잘 도와주고 격려해주는 좋은 선생님인 것 같다."
+			],
+			[
+				33,
+				"는",
+				"ETM",
+				"동주는 완득이를 잘 놀렸지만 잘 도와주고 격려해주는 좋은 선생님인 것 같다."
+			],
+			[
+				34,
+				"은",
+				"ETM",
+				"동주는 완득이를 잘 놀렸지만 잘 도와주고 격려해주는 좋은 선생님인 것 같다."
+			],
+			[
+				35,
+				"ㄴ",
+				"ETM",
+				"동주는 완득이를 잘 놀렸지만 잘 도와주고 격려해주는 좋은 선생님인 것 같다."
+			],
+			[
+				36,
+				"다",
+				"EF",
+				"동주는 완득이를 잘 놀렸지만 잘 도와주고 격려해주는 좋은 선생님인 것 같다."
+			],
+			[
+				37,
+				"라는",
+				"ETM",
+				"완득이라는 책을 읽으며 완득이라는 아이는 친근하게 다가왔는데 이러한 완득이도 인생의 목표를 가질수 있다는 점에서 많은 힘을 얻었다."
+			],
+			[
+				38,
+				"으며",
+				"EC",
+				"완득이라는 책을 읽으며 완득이라는 아이는 친근하게 다가왔는데 이러한 완득이도 인생의 목표를 가질수 있다는 점에서 많은 힘을 얻었다."
+			],
+			[
+				39,
+				"라는",
+				"ETM",
+				"완득이라는 책을 읽으며 완득이라는 아이는 친근하게 다가왔는데 이러한 완득이도 인생의 목표를 가질수 있다는 점에서 많은 힘을 얻었다."
+			],
+			[
+				40,
+				"게",
+				"EC",
+				"완득이라는 책을 읽으며 완득이라는 아이는 친근하게 다가왔는데 이러한 완득이도 인생의 목표를 가질수 있다는 점에서 많은 힘을 얻었다."
+			],
+			[
+				41,
+				"았",
+				"EP",
+				"완득이라는 책을 읽으며 완득이라는 아이는 친근하게 다가왔는데 이러한 완득이도 인생의 목표를 가질수 있다는 점에서 많은 힘을 얻었다."
+			],
+			[
+				42,
+				"는데",
+				"EC",
+				"완득이라는 책을 읽으며 완득이라는 아이는 친근하게 다가왔는데 이러한 완득이도 인생의 목표를 가질수 있다는 점에서 많은 힘을 얻었다."
+			],
+			[
+				43,
+				"ㄴ",
+				"ETM",
+				"완득이라는 책을 읽으며 완득이라는 아이는 친근하게 다가왔는데 이러한 완득이도 인생의 목표를 가질수 있다는 점에서 많은 힘을 얻었다."
+			],
+			[
+				44,
+				"ㄹ",
+				"ETM",
+				"완득이라는 책을 읽으며 완득이라는 아이는 친근하게 다가왔는데 이러한 완득이도 인생의 목표를 가질수 있다는 점에서 많은 힘을 얻었다."
+			],
+			[
+				45,
+				"다는",
+				"ETM",
+				"완득이라는 책을 읽으며 완득이라는 아이는 친근하게 다가왔는데 이러한 완득이도 인생의 목표를 가질수 있다는 점에서 많은 힘을 얻었다."
+			],
+			[
+				46,
+				"은",
+				"ETM",
+				"완득이라는 책을 읽으며 완득이라는 아이는 친근하게 다가왔는데 이러한 완득이도 인생의 목표를 가질수 있다는 점에서 많은 힘을 얻었다."
+			],
+			[
+				47,
+				"었",
+				"EP",
+				"완득이라는 책을 읽으며 완득이라는 아이는 친근하게 다가왔는데 이러한 완득이도 인생의 목표를 가질수 있다는 점에서 많은 힘을 얻었다."
+			],
+			[
+				48,
+				"다",
+				"EF",
+				"완득이라는 책을 읽으며 완득이라는 아이는 친근하게 다가왔는데 이러한 완득이도 인생의 목표를 가질수 있다는 점에서 많은 힘을 얻었다."
+			],
+			[
+				49,
+				"지",
+				"EC",
+				"희망을 잃지 않고 꿋꿋하게 열심히 사는 모습을 완득이 한테 많이 배웠다."
+			],
+			[
+				50,
+				"고",
+				"EC",
+				"희망을 잃지 않고 꿋꿋하게 열심히 사는 모습을 완득이 한테 많이 배웠다."
+			],
+			[
+				51,
+				"게",
+				"EC",
+				"희망을 잃지 않고 꿋꿋하게 열심히 사는 모습을 완득이 한테 많이 배웠다."
+			],
+			[
+				52,
+				"는",
+				"ETM",
+				"희망을 잃지 않고 꿋꿋하게 열심히 사는 모습을 완득이 한테 많이 배웠다."
+			],
+			[
+				53,
+				"었",
+				"EP",
+				"희망을 잃지 않고 꿋꿋하게 열심히 사는 모습을 완득이 한테 많이 배웠다."
+			],
+			[
+				54,
+				"다",
+				"EF",
+				"희망을 잃지 않고 꿋꿋하게 열심히 사는 모습을 완득이 한테 많이 배웠다."
+			],
+			[
+				55,
+				"고",
+				"EC",
+				"내가 책을 읽고 글을 쓰는 모습을 보고 뿌듯하고 조금은 발전했다는 생각이든다."
+			],
+			[
+				56,
+				"는",
+				"ETM",
+				"내가 책을 읽고 글을 쓰는 모습을 보고 뿌듯하고 조금은 발전했다는 생각이든다."
+			],
+			[
+				57,
+				"고",
+				"EC",
+				"내가 책을 읽고 글을 쓰는 모습을 보고 뿌듯하고 조금은 발전했다는 생각이든다."
+			],
+			[
+				58,
+				"고",
+				"EC",
+				"내가 책을 읽고 글을 쓰는 모습을 보고 뿌듯하고 조금은 발전했다는 생각이든다."
+			],
+			[
+				59,
+				"았",
+				"EP",
+				"내가 책을 읽고 글을 쓰는 모습을 보고 뿌듯하고 조금은 발전했다는 생각이든다."
+			],
+			[
+				60,
+				"다는",
+				"ETM",
+				"내가 책을 읽고 글을 쓰는 모습을 보고 뿌듯하고 조금은 발전했다는 생각이든다."
+			],
+			[
+				61,
+				"ㄴ다",
+				"EF",
+				"내가 책을 읽고 글을 쓰는 모습을 보고 뿌듯하고 조금은 발전했다는 생각이든다."
+			]
+		],
+		"X_Lst": [
+			[
+				0,
+				"님",
+				"XSN",
+				"이 책에는 도완득이라는 고등학생과 난쟁이 아빠 완득이의 담임선생님인 동주그리고 베트남 사람인 엄마가 나온다."
+			],
+			[
+				1,
+				"생",
+				"XSN",
+				"엄마와의 만남에서 애틋함을 배운 완득이는 정윤하라는 모범생과 가까워진다."
+			],
+			[
+				2,
+				"님",
+				"XSN",
+				"동주는 완득이를 잘 놀렸지만 잘 도와주고 격려해주는 좋은 선생님인 것 같다."
+			]
+		],
+		"IC_Lst": []
+	},
+	"NDW": {
+		"morph_NDW": 140,
+		"NL_NDW": 72,
+		"NNG_NDW": 52,
+		"NNP_NDW": 17,
+		"NNB_NDW": 2,
+		"NP_NDW": 1,
+		"NR_NDW": 0,
+		"VL_NDW": 55,
+		"VV_NDW": 33,
+		"VA_NDW": 10,
+		"ML_NDW": 8,
+		"MM_NDW": 0,
+		"IC_NDW": 0,
+		"J_NDW": 53,
+		"E_NDW": 62,
+		"X_NDW": 3,
+		"CL_NDW": 135,
+		"FL_NDW": 118
+	}
+}

@@ -1,0 +1,3661 @@
+﻿{
+	"morpheme": {
+		"sentences": [
+			{
+				"text": {
+					"content": "브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다.",
+					"length": 91,
+					"beginOffset": 0
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "브룩스는",
+							"length": 4,
+							"beginOffset": 0
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "브룩스",
+									"length": 3,
+									"beginOffset": 0
+								},
+								"tag": "NNP",
+								"probability": 0.9681303,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 3,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9994117,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "브룩스",
+						"tagged": "브룩스/NNP+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "뉴올리언스",
+							"beginOffset": 5,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "뉴올리언스",
+									"beginOffset": 5,
+									"length": 5
+								},
+								"tag": "NNP",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							}
+						],
+						"lemma": "뉴올리언스",
+						"tagged": "뉴올리언스/NNP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "근교",
+							"beginOffset": 11,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "근교",
+									"beginOffset": 11,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.96027327,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "근교",
+						"tagged": "근교/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "센트럴",
+							"beginOffset": 14,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "센트럴",
+									"beginOffset": 14,
+									"length": 3
+								},
+								"tag": "NNP",
+								"probability": 0.5231034,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "센트럴",
+						"tagged": "센트럴/NNP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "시티에",
+							"beginOffset": 18,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "시티",
+									"beginOffset": 18,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.96728677,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 20,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99697816,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "시티",
+						"tagged": "시티/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있는",
+							"beginOffset": 22,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 22,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.93062276,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 23,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999607,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VA+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "연립주택에서",
+							"beginOffset": 25,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "연립",
+									"beginOffset": 25,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "주택",
+									"beginOffset": 27,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "에서",
+									"beginOffset": 29,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.99159545,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "연립",
+						"tagged": "연립/NNG+주택/NNG+에서/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "딸",
+							"beginOffset": 32,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "딸",
+									"beginOffset": 32,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.98094934,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "딸",
+						"tagged": "딸/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "바네사",
+							"beginOffset": 34,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "바네사",
+									"beginOffset": 34,
+									"length": 3
+								},
+								"tag": "NNP",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							}
+						],
+						"lemma": "바네사",
+						"tagged": "바네사/NNP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "브룩스와",
+							"beginOffset": 38,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "브룩스",
+									"beginOffset": 38,
+									"length": 3
+								},
+								"tag": "NNP",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "와",
+									"beginOffset": 41,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.7384853,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "브룩스",
+						"tagged": "브룩스/NNP+와/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "함께",
+							"beginOffset": 43,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "함께",
+									"beginOffset": 43,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9921773,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "함께",
+						"tagged": "함께/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "살면서",
+							"beginOffset": 46,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "살",
+									"beginOffset": 46,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9888706,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "면서",
+									"beginOffset": 47,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99481726,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "살",
+						"tagged": "살/VV+면서/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "햇볕이",
+							"beginOffset": 50,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "햇볕",
+									"beginOffset": 50,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9756462,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 52,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.97676474,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "햇볕",
+						"tagged": "햇볕/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "화창한",
+							"beginOffset": 54,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "화창하",
+									"beginOffset": 54,
+									"length": 3
+								},
+								"tag": "VA",
+								"probability": 0.988296,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 56,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99997467,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "화창하",
+						"tagged": "화창하/VA+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "날이면",
+							"beginOffset": 58,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "날",
+									"beginOffset": 58,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.977124,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 59,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.99892133,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "면",
+									"beginOffset": 60,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9938048,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "날",
+						"tagged": "날/NNG+이/VCP+면/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "언제나",
+							"beginOffset": 62,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "언제나",
+									"beginOffset": 62,
+									"length": 3
+								},
+								"tag": "MAG",
+								"probability": 0.98635554,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "언제나",
+						"tagged": "언제나/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "현관",
+							"beginOffset": 66,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "현관",
+									"beginOffset": 66,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97664356,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "현관",
+						"tagged": "현관/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "앞",
+							"beginOffset": 69,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "앞",
+									"beginOffset": 69,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.97737116,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "앞",
+						"tagged": "앞/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "포치에",
+							"beginOffset": 71,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "포치",
+									"beginOffset": 71,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.87823397,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 73,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9965283,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "포치",
+						"tagged": "포치/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "앉아서",
+							"beginOffset": 75,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "앉",
+									"beginOffset": 75,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9897885,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아서",
+									"beginOffset": 76,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9943235,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "앉",
+						"tagged": "앉/VV+아서/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "지낸",
+							"beginOffset": 79,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "지내",
+									"beginOffset": 79,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.98673916,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 80,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99999136,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "지내",
+						"tagged": "지내/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "것으로",
+							"beginOffset": 82,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "것",
+									"beginOffset": 82,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.98113066,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으로",
+									"beginOffset": 83,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.998317,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "것",
+						"tagged": "것/NNB+으로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "유명하다.",
+							"beginOffset": 86,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "유명하",
+									"beginOffset": 86,
+									"length": 3
+								},
+								"tag": "VA",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 89,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.99372953,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 90,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9996792,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "유명하",
+						"tagged": "유명하/VA+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			},
+			{
+				"text": {
+					"content": "이웃 사람들도 지역의 명사인 그를 자주 방문하고 , 손을 흔들어 보이거나 음료수와 과자 등을 가져다 주기도 했다.",
+					"beginOffset": 92,
+					"length": 63
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "이웃",
+							"beginOffset": 92,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이웃",
+									"beginOffset": 92,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98152834,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이웃",
+						"tagged": "이웃/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사람들도",
+							"beginOffset": 95,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사람",
+									"beginOffset": 95,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.984312,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "들",
+									"beginOffset": 97,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.99136996,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 98,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99859285,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사람",
+						"tagged": "사람/NNG+들/XSN+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "지역의",
+							"beginOffset": 100,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "지역",
+									"beginOffset": 100,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9833608,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 102,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99880207,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "지역",
+						"tagged": "지역/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "명사인",
+							"beginOffset": 104,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "명사",
+									"beginOffset": 104,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98233205,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 106,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.9999544,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 106,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99981153,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "명사",
+						"tagged": "명사/NNG+이/VCP+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "그를",
+							"beginOffset": 108,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그",
+									"beginOffset": 108,
+									"length": 1
+								},
+								"tag": "NP",
+								"probability": 0.98458964,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 109,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99971503,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그",
+						"tagged": "그/NP+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "자주",
+							"beginOffset": 111,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "자주",
+									"beginOffset": 111,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9897936,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "자주",
+						"tagged": "자주/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "방문하고",
+							"beginOffset": 114,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "방문하",
+									"beginOffset": 114,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 117,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99322957,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "방문하",
+						"tagged": "방문하/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": ",",
+							"beginOffset": 119,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 119,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.999715,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": ",",
+						"tagged": ",/SP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "손을",
+							"beginOffset": 121,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "손",
+									"beginOffset": 121,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.98061204,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 122,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99981296,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "손",
+						"tagged": "손/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "흔들어",
+							"beginOffset": 124,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "흔들",
+									"beginOffset": 124,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.98867774,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어",
+									"beginOffset": 126,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9942647,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "흔들",
+						"tagged": "흔들/VV+어/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "보이거나",
+							"beginOffset": 128,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "보이",
+									"beginOffset": 128,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.97921145,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "거나",
+									"beginOffset": 130,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9932484,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "보이",
+						"tagged": "보이/VV+거나/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "음료수와",
+							"beginOffset": 133,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "음료수",
+									"beginOffset": 133,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.977975,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "와",
+									"beginOffset": 136,
+									"length": 1
+								},
+								"tag": "JC",
+								"probability": 0.98433286,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "음료수",
+						"tagged": "음료수/NNG+와/JC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "과자",
+							"beginOffset": 138,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "과자",
+									"beginOffset": 138,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9813363,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "과자",
+						"tagged": "과자/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "등을",
+							"beginOffset": 141,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "등",
+									"beginOffset": 141,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.80520695,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 142,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999787,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "등",
+						"tagged": "등/NNB+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "가져다 주기도",
+							"beginOffset": 144,
+							"length": 7
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "가져다주",
+									"beginOffset": 144,
+									"length": 4
+								},
+								"tag": "VV",
+								"probability": 0.0,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "기",
+									"beginOffset": 148,
+									"length": 1
+								},
+								"tag": "ETN",
+								"probability": 0.99858063,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 149,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99899805,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "가져다주",
+						"tagged": "가져다주/VV+기/ETN+도/JX",
+						"modified": "가져다주기도"
+					},
+					{
+						"text": {
+							"content": "했다.",
+							"beginOffset": 152,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 152,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.7187094,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 152,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99977976,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 153,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.99198335,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 154,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99942166,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VX+았/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "이웃 사람들도 지역의 명사인 그를 자주 방문하고 , 손을 흔들어 보이거나 음료수와 과자 등을 가져다주기도 했다."
+			},
+			{
+				"text": {
+					"content": "브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다.",
+					"beginOffset": 156,
+					"length": 99
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "브룩스는",
+							"beginOffset": 156,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "브룩스",
+									"beginOffset": 156,
+									"length": 3
+								},
+								"tag": "NNP",
+								"probability": 0.96394885,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 159,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.998146,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "브룩스",
+						"tagged": "브룩스/NNP+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "뉴올리언스",
+							"beginOffset": 161,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "뉴올리언스",
+									"beginOffset": 161,
+									"length": 5
+								},
+								"tag": "NNP",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							}
+						],
+						"lemma": "뉴올리언스",
+						"tagged": "뉴올리언스/NNP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "세인츠",
+							"beginOffset": 167,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "세인츠",
+									"beginOffset": 167,
+									"length": 3
+								},
+								"tag": "NNP",
+								"probability": 0.86299753,
+								"outOfVocab": "OUT_OF_VOCAB"
+							}
+						],
+						"lemma": "세인츠",
+						"tagged": "세인츠/NNP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "풋볼팀의",
+							"beginOffset": 171,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "풋볼",
+									"beginOffset": 171,
+									"length": 2
+								},
+								"tag": "NNP",
+								"probability": 0.5902586,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "팀",
+									"beginOffset": 173,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.984215,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 174,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99927187,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "풋볼",
+						"tagged": "풋볼/NNP+팀/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "열성",
+							"beginOffset": 176,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "열성",
+									"beginOffset": 176,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98104024,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "열성",
+						"tagged": "열성/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "팬으로",
+							"beginOffset": 179,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "팬",
+									"beginOffset": 179,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.98118734,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으로",
+									"beginOffset": 180,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9960178,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "팬",
+						"tagged": "팬/NNG+으로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "경기를",
+							"beginOffset": 183,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "경기",
+									"beginOffset": 183,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97003406,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 185,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999549,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "경기",
+						"tagged": "경기/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "놓지지",
+							"beginOffset": 187,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "놓지",
+									"beginOffset": 187,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.8938575,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "지",
+									"beginOffset": 189,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99425125,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "놓지",
+						"tagged": "놓지/VV+지/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "않고",
+							"beginOffset": 191,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "않",
+									"beginOffset": 191,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.90496176,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 192,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.98997015,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "않",
+						"tagged": "않/VX+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "관람했고",
+							"beginOffset": 194,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "관람하",
+									"beginOffset": 194,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 196,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9999735,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 197,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99050075,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "관람하",
+						"tagged": "관람하/VV+았/EP+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "코로나19의",
+							"beginOffset": 199,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "코로나",
+									"beginOffset": 199,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.6506174,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "19",
+									"beginOffset": 202,
+									"length": 2
+								},
+								"tag": "SN",
+								"probability": 0.96045524,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 204,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9997476,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "코로나",
+						"tagged": "코로나/NNG+19/SN+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "대유행",
+							"beginOffset": 206,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "대",
+									"beginOffset": 206,
+									"length": 1
+								},
+								"tag": "XPN",
+								"probability": 0.9909807,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "유행",
+									"beginOffset": 207,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9775698,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "대",
+						"tagged": "대/XPN+유행/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이전까지는",
+							"beginOffset": 210,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이전",
+									"beginOffset": 210,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9292024,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "까지",
+									"beginOffset": 212,
+									"length": 2
+								},
+								"tag": "JX",
+								"probability": 0.9980839,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 214,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9991336,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이전",
+						"tagged": "이전/NNG+까지/JX+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "일요일이면",
+							"beginOffset": 216,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "일요일",
+									"beginOffset": 216,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9842331,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 219,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.99993044,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "면",
+									"beginOffset": 220,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99395627,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "일요일",
+						"tagged": "일요일/NNG+이/VCP+면/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "교회에도",
+							"beginOffset": 222,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "교회",
+									"beginOffset": 222,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9858516,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 224,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9975037,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 225,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9988799,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "교회",
+						"tagged": "교회/NNG+에/JKB+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "주일마다",
+							"beginOffset": 227,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "주일",
+									"beginOffset": 227,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.95956117,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "마다",
+									"beginOffset": 229,
+									"length": 2
+								},
+								"tag": "JX",
+								"probability": 0.99768114,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "주일",
+						"tagged": "주일/NNG+마다/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "빠지지",
+							"beginOffset": 232,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "빠지",
+									"beginOffset": 232,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9852197,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "지",
+									"beginOffset": 234,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9942492,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "빠지",
+						"tagged": "빠지/VV+지/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "않고",
+							"beginOffset": 236,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "않",
+									"beginOffset": 236,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.9237644,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 237,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99428904,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "않",
+						"tagged": "않/VX+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "나갔다고",
+							"beginOffset": 239,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "나가",
+									"beginOffset": 239,
+									"length": 2
+								},
+								"tag": "VX",
+								"probability": 0.4320252,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 240,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9999595,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다고",
+									"beginOffset": 241,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99024975,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "나가",
+						"tagged": "나가/VX+았/EP+다고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "딸",
+							"beginOffset": 244,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "딸",
+									"beginOffset": 244,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.98111635,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "딸",
+						"tagged": "딸/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "바네사는",
+							"beginOffset": 246,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "바네사",
+									"beginOffset": 246,
+									"length": 3
+								},
+								"tag": "NNP",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 249,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99867046,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "바네사",
+						"tagged": "바네사/NNP+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "말했다.",
+							"beginOffset": 251,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "말하",
+									"beginOffset": 251,
+									"length": 2
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 252,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.999864,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 253,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9923486,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 254,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.999611,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "말하",
+						"tagged": "말하/VV+았/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			}
+		],
+		"language": "ko_KR"
+	},
+	"ttr": {
+		"lemma_Cnt": 117,
+		"lemma_TTR": 0.6967213114754098,
+		"CL_TTR": 0.8769230769230769,
+		"NL_TTR": 0.8780487804878049,
+		"NN_TTR": 0.875,
+		"NNG_TTR": 0.9642857142857143,
+		"NNP_TTR": 0.6,
+		"NNB_TTR": 1.0,
+		"NP_TTR": 1.0,
+		"NR_TTR": 0,
+		"VL_TTR": 0.8571428571428571,
+		"VV_TTR": 1.0,
+		"VA_TTR": 1.0,
+		"ML_TTR": 1.0,
+		"MM_TTR": 0,
+		"MA_TTR": 1.0,
+		"MAJ_TTR": 0,
+		"IC_TTR": 0,
+		"FL_TTR": 0.5,
+		"J_TTR": 0.48,
+		"E_TTR": 0.52,
+		"X_TTR": 1.0,
+		"lemma_RTTR": 7.6955384136140745,
+		"CL_RTTR": 7.0699798715848825,
+		"NL_RTTR": 5.622255427989819,
+		"NN_RTTR": 5.533985905294664,
+		"NNG_RTTR": 5.102520385624567,
+		"NNP_RTTR": 1.8973665961010275,
+		"NNB_RTTR": 1.414213562373095,
+		"NP_RTTR": 1.0,
+		"NR_RTTR": 0,
+		"VL_RTTR": 3.927922024247863,
+		"VV_RTTR": 3.3166247903554,
+		"VA_RTTR": 1.7320508075688774,
+		"ML_RTTR": 1.7320508075688774,
+		"MM_RTTR": 0,
+		"MA_RTTR": 1.7320508075688774,
+		"MAJ_RTTR": 0,
+		"IC_RTTR": 0,
+		"FL_RTTR": 3.6055512754639896,
+		"J_RTTR": 2.4,
+		"E_RTTR": 2.6,
+		"X_RTTR": 1.414213562373095,
+		"lemma_CTTR": 5.441567397148079,
+		"CL_CTTR": 4.999230710050067,
+		"NL_CTTR": 3.975534938694475,
+		"NN_CTTR": 3.9131189606246317,
+		"NNG_CTTR": 3.6080267658177294,
+		"NNP_CTTR": 1.3416407864998738,
+		"NNB_CTTR": 1.0,
+		"NP_CTTR": 0.7071067811865475,
+		"NR_CTTR": 0,
+		"VL_CTTR": 2.7774602993176543,
+		"VV_CTTR": 2.345207879911715,
+		"VA_CTTR": 1.2247448713915892,
+		"ML_CTTR": 1.2247448713915892,
+		"MM_CTTR": 0,
+		"MA_CTTR": 1.2247448713915892,
+		"MAJ_CTTR": 0,
+		"IC_CTTR": 0,
+		"FL_CTTR": 2.5495097567963927,
+		"J_CTTR": 1.697056274847714,
+		"E_CTTR": 1.8384776310850235,
+		"X_CTTR": 1.0,
+		"lemma_MSTTR": 0.86,
+		"CL_MSTTR": 0.92,
+		"NL_MSTTR": 0.8780487804878049,
+		"NN_MSTTR": 0.875,
+		"NNG_MSTTR": 0.9642857142857143,
+		"NNP_MSTTR": 0.6,
+		"NNB_MSTTR": 1.0,
+		"NP_MSTTR": 1.0,
+		"NR_MSTTR": 0,
+		"VL_MSTTR": 0.8571428571428571,
+		"VV_MSTTR": 1.0,
+		"VA_MSTTR": 1.0,
+		"ML_MSTTR": 1.0,
+		"MM_MSTTR": 0,
+		"MA_MSTTR": 1.0,
+		"MAJ_MSTTR": 0,
+		"IC_MSTTR": 0,
+		"FL_MSTTR": 0.52,
+		"J_MSTTR": 0.48,
+		"E_MSTTR": 0.52,
+		"X_MSTTR": 1.0,
+		"lemma_MATTR": 0.8772602739726029,
+		"CL_MATTR": 0.9449999999999997,
+		"NL_MATTR": 0.8780487804878049,
+		"NN_MATTR": 0.875,
+		"NNG_MATTR": 0.9642857142857143,
+		"NNP_MATTR": 0.6,
+		"NNB_MATTR": 1.0,
+		"NP_MATTR": 1.0,
+		"NR_MATTR": 0,
+		"VL_MATTR": 0.8571428571428571,
+		"VV_MATTR": 1.0,
+		"VA_MATTR": 1.0,
+		"ML_MATTR": 1.0,
+		"MM_MATTR": 0,
+		"MA_MATTR": 1.0,
+		"MAJ_MATTR": 0,
+		"IC_MATTR": 0,
+		"FL_MATTR": 0.52,
+		"J_MATTR": 0.48,
+		"E_MATTR": 0.52,
+		"X_MATTR": 1.0,
+		"lemma_MTLD": 108.85344827586206,
+		"CL_MTLD": 147.875,
+		"NL_MTLD": 94.13600000000001,
+		"NN_MTLD": 89.60000000000001,
+		"NNG_MTLD": 219.52000000000015,
+		"NNP_MTLD": 7.0,
+		"NNB_MTLD": 0.0,
+		"NP_MTLD": 0.0,
+		"NR_MTLD": 0.0,
+		"VL_MTLD": 41.15999999999999,
+		"VV_MTLD": 0.0,
+		"VA_MTLD": 0.0,
+		"ML_MTLD": 0.0,
+		"MM_MTLD": 0.0,
+		"MA_MTLD": 0.0,
+		"MAJ_MTLD": 0.0,
+		"IC_MTLD": 0.0,
+		"FL_MTLD": 21.987654320987655,
+		"J_MTLD": 13.184646480659481,
+		"E_MTLD": 13.895440251572328,
+		"X_MTLD": 0.0,
+		"lemma_VOCDD": 112.10780055748391,
+		"CL_VOCDD": 205.22593095176998,
+		"NL_VOCDD": 0,
+		"NN_VOCDD": 0,
+		"NNG_VOCDD": 0,
+		"NNP_VOCDD": 0,
+		"NNB_VOCDD": 0,
+		"NP_VOCDD": 0,
+		"NR_VOCDD": 0,
+		"VL_VOCDD": 0,
+		"VV_VOCDD": 0,
+		"VA_VOCDD": 0,
+		"ML_VOCDD": 0,
+		"MM_VOCDD": 0,
+		"MA_VOCDD": 0,
+		"MAJ_VOCDD": 0,
+		"IC_VOCDD": 0,
+		"FL_VOCDD": 14.814980130678888,
+		"J_VOCDD": 0,
+		"E_VOCDD": 0,
+		"X_VOCDD": 0,
+		"lemma_HDD": 0.8606519297984401,
+		"CL_HDD": 0.9139575702075687,
+		"NL_HDD": 0.0,
+		"NN_HDD": 0.0,
+		"NNG_HDD": 0.0,
+		"NNP_HDD": 0.0,
+		"NNB_HDD": 0.0,
+		"NP_HDD": 0.0,
+		"NR_HDD": 0.0,
+		"VL_HDD": 0.0,
+		"VV_HDD": 0.0,
+		"VA_HDD": 0.0,
+		"ML_HDD": 0.0,
+		"MM_HDD": 0.0,
+		"MA_HDD": 0.0,
+		"MAJ_HDD": 0.0,
+		"IC_HDD": 0.0,
+		"FL_HDD": 0.5585688121402407,
+		"J_HDD": 0.0,
+		"E_HDD": 0.0,
+		"X_HDD": 0.0
+	},
+	"similarity": {
+		"avgSentSimilarity": 0.19344881176948547,
+		"topicConsistency": 0.5776
+	},
+	"adjacency": {
+		"adjacent_sentence_overlap_all_lemmas": 62,
+		"adjacent_sentence_overlap_all_lemmas_normed": 2,
+		"binary_adjacent_sentence_overlap_all_lemmas": 2,
+		"adjacent_two_sentence_overlap_all_lemmas": 31,
+		"adjacent_two_sentence_overlap_all_lemmas_normed": 1,
+		"binary_adjacent_two_sentence_overlap_all_lemmas": 1,
+		"adjacent_sentence_overlap_content_lemmas": 33,
+		"adjacent_sentence_overlap_content_lemmas_normed": 2,
+		"binary_adjacent_sentence_overlap_content_lemmas": 2,
+		"adjacent_two_sentence_overlap_content_lemmas": 16,
+		"adjacent_two_sentence_overlap_content_lemmas_normed": 1,
+		"binary_adjacent_two_sentence_overlap_content_lemmas": 1,
+		"adjacent_sentence_overlap_function_lemmas": 27,
+		"adjacent_sentence_overlap_function_lemmas_normed": 2,
+		"binary_adjacent_sentence_overlap_function_lemmas": 2,
+		"adjacent_two_sentence_overlap_function_lemmas": 14,
+		"adjacent_two_sentence_overlap_function_lemmas_normed": 1,
+		"binary_adjacent_two_sentence_overlap_function_lemmas": 1,
+		"adjacent_sentence_overlap_noun_lemmas": 19,
+		"adjacent_sentence_overlap_noun_lemmas_normed": 2,
+		"binary_adjacent_sentence_overlap_noun_lemmas": 0,
+		"adjacent_two_sentence_overlap_noun_lemmas": 11,
+		"adjacent_two_sentence_overlap_noun_lemmas_normed": 1,
+		"binary_adjacent_two_sentence_overlap_noun_lemmas": 0,
+		"adjacent_sentence_overlap_verb_lemmas": 13,
+		"adjacent_sentence_overlap_verb_lemmas_normed": 2,
+		"binary_adjacent_sentence_overlap_verb_lemmas": 2,
+		"adjacent_two_sentence_overlap_verb_lemmas": 5,
+		"adjacent_two_sentence_overlap_verb_lemmas_normed": 1,
+		"binary_adjacent_two_sentence_overlap_verb_lemmas": 1,
+		"adjacent_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_sentence_overlap_adjective_lemmas_normed": 0,
+		"binary_adjacent_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_sentence_overlap_adverb_lemmas": 1,
+		"adjacent_sentence_overlap_adverb_lemmas_normed": 1,
+		"binary_adjacent_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adverb_lemmas": 0
+	},
+	"basic_count": {
+		"para_Cnt": 1,
+		"sentence_Cnt": 3,
+		"word_Cnt": 62,
+		"morph_Cnt": 122,
+		"char_Cnt": 196,
+		"CL_Cnt": 65,
+		"NL_Cnt": 41,
+		"NN_Cnt": 40,
+		"NNG_Cnt": 28,
+		"NNP_Cnt": 10,
+		"NNB_Cnt": 2,
+		"NP_Cnt": 1,
+		"NP_People_Cnt": 1,
+		"NP_Things_Cnt": 0,
+		"NR_Cnt": 0,
+		"VL_Cnt": 21,
+		"VV_Cnt": 11,
+		"VA_Cnt": 3,
+		"VX_Cnt": 4,
+		"VCP_Cnt": 3,
+		"VCN_Cnt": 0,
+		"ML_Cnt": 3,
+		"MA_Cnt": 0,
+		"MM_Cnt": 0,
+		"FL_Cnt": 52,
+		"J_Cnt": 25,
+		"E_Cnt": 25,
+		"X_Cnt": 2,
+		"IC_Cnt": 0
+	},
+	"basic_density": {
+		"CL_Den": 0.5327868852459017,
+		"FL_Den": 0.4262295081967213,
+		"NL_Den": 0.32786885245901637,
+		"NNGL_Den": 0.22950819672131148,
+		"NNPL_Den": 0.08196721311475409,
+		"NNBL_Den": 0.01639344262295082,
+		"NPL_Den": 0.00819672131147541,
+		"NML_Den": 0.0,
+		"VL_Den": 0.1721311475409836,
+		"VVL_Den": 0.09016393442622951,
+		"VAL_Den": 0.02459016393442623,
+		"ML_Den": 0.02459016393442623,
+		"MML_Den": 0.0,
+		"MAL_Den": 0.0,
+		"JL_Den": 0.20491803278688525,
+		"EL_Den": 0.20491803278688525,
+		"XL_Den": 0.01639344262295082,
+		"ITL_Den": 0.0,
+		"NCL_Den": 0.6153846153846154,
+		"NNCL_Den": 0.4307692307692308,
+		"NNGCL_Den": 0.15384615384615385,
+		"NNBCL_Den": 0.03076923076923077,
+		"NPCL_Den": 0.015384615384615385,
+		"NMCL_Den": 0.0,
+		"VCL_Den": 0.3230769230769231,
+		"VVCL_Den": 0.16923076923076924,
+		"VACL_Den": 0.046153846153846156,
+		"MCL_Den": 0.046153846153846156,
+		"MMCL_Den": 0.0,
+		"MACL_Den": 0.0,
+		"INCL_Den": 0.0,
+		"JFL_Den": 0.4807692307692308,
+		"EFL_Den": 0.4807692307692308,
+		"XFL_Den": 0.038461538461538464
+	},
+	"basic_level": {
+		"morph_LenAvg": 1.6475409836065573,
+		"morph_LenStd": 0.8485487239074337,
+		"word_LenAvg": 3.064516129032258,
+		"word_LenStd": 1.1621860344936659
+	},
+	"basic_list": {
+		"NL_Lst": [
+			[
+				0,
+				"브룩스",
+				"NNP",
+				"브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			],
+			[
+				1,
+				"뉴올리언스",
+				"NNP",
+				"브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			],
+			[
+				2,
+				"근교",
+				"NNG",
+				"브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			],
+			[
+				3,
+				"센트럴",
+				"NNP",
+				"브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			],
+			[
+				4,
+				"시티",
+				"NNG",
+				"브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			],
+			[
+				5,
+				"연립",
+				"NNG",
+				"브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			],
+			[
+				6,
+				"주택",
+				"NNG",
+				"브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			],
+			[
+				7,
+				"딸",
+				"NNG",
+				"브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			],
+			[
+				8,
+				"바네사",
+				"NNP",
+				"브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			],
+			[
+				9,
+				"브룩스",
+				"NNP",
+				"브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			],
+			[
+				10,
+				"햇볕",
+				"NNG",
+				"브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			],
+			[
+				11,
+				"날",
+				"NNG",
+				"브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			],
+			[
+				12,
+				"현관",
+				"NNG",
+				"브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			],
+			[
+				13,
+				"앞",
+				"NNG",
+				"브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			],
+			[
+				14,
+				"포치",
+				"NNG",
+				"브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			],
+			[
+				15,
+				"것",
+				"NNB",
+				"브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			],
+			[
+				16,
+				"이웃",
+				"NNG",
+				"이웃 사람들도 지역의 명사인 그를 자주 방문하고 , 손을 흔들어 보이거나 음료수와 과자 등을 가져다 주기도 했다."
+			],
+			[
+				17,
+				"사람",
+				"NNG",
+				"이웃 사람들도 지역의 명사인 그를 자주 방문하고 , 손을 흔들어 보이거나 음료수와 과자 등을 가져다 주기도 했다."
+			],
+			[
+				18,
+				"지역",
+				"NNG",
+				"이웃 사람들도 지역의 명사인 그를 자주 방문하고 , 손을 흔들어 보이거나 음료수와 과자 등을 가져다 주기도 했다."
+			],
+			[
+				19,
+				"명사",
+				"NNG",
+				"이웃 사람들도 지역의 명사인 그를 자주 방문하고 , 손을 흔들어 보이거나 음료수와 과자 등을 가져다 주기도 했다."
+			],
+			[
+				20,
+				"그",
+				"NP",
+				"이웃 사람들도 지역의 명사인 그를 자주 방문하고 , 손을 흔들어 보이거나 음료수와 과자 등을 가져다 주기도 했다."
+			],
+			[
+				21,
+				"손",
+				"NNG",
+				"이웃 사람들도 지역의 명사인 그를 자주 방문하고 , 손을 흔들어 보이거나 음료수와 과자 등을 가져다 주기도 했다."
+			],
+			[
+				22,
+				"음료수",
+				"NNG",
+				"이웃 사람들도 지역의 명사인 그를 자주 방문하고 , 손을 흔들어 보이거나 음료수와 과자 등을 가져다 주기도 했다."
+			],
+			[
+				23,
+				"과자",
+				"NNG",
+				"이웃 사람들도 지역의 명사인 그를 자주 방문하고 , 손을 흔들어 보이거나 음료수와 과자 등을 가져다 주기도 했다."
+			],
+			[
+				24,
+				"등",
+				"NNB",
+				"이웃 사람들도 지역의 명사인 그를 자주 방문하고 , 손을 흔들어 보이거나 음료수와 과자 등을 가져다 주기도 했다."
+			],
+			[
+				25,
+				"브룩스",
+				"NNP",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			],
+			[
+				26,
+				"뉴올리언스",
+				"NNP",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			],
+			[
+				27,
+				"세인츠",
+				"NNP",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			],
+			[
+				28,
+				"풋볼",
+				"NNP",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			],
+			[
+				29,
+				"팀",
+				"NNG",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			],
+			[
+				30,
+				"열성",
+				"NNG",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			],
+			[
+				31,
+				"팬",
+				"NNG",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			],
+			[
+				32,
+				"경기",
+				"NNG",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			],
+			[
+				33,
+				"코로나",
+				"NNG",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			],
+			[
+				34,
+				"유행",
+				"NNG",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			],
+			[
+				35,
+				"이전",
+				"NNG",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			],
+			[
+				36,
+				"일요일",
+				"NNG",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			],
+			[
+				37,
+				"교회",
+				"NNG",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			],
+			[
+				38,
+				"주일",
+				"NNG",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			],
+			[
+				39,
+				"딸",
+				"NNG",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			],
+			[
+				40,
+				"바네사",
+				"NNP",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			]
+		],
+		"NN_Lst": [
+			[
+				0,
+				"브룩스",
+				"NNP",
+				"브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			],
+			[
+				1,
+				"뉴올리언스",
+				"NNP",
+				"브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			],
+			[
+				2,
+				"근교",
+				"NNG",
+				"브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			],
+			[
+				3,
+				"센트럴",
+				"NNP",
+				"브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			],
+			[
+				4,
+				"시티",
+				"NNG",
+				"브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			],
+			[
+				5,
+				"연립",
+				"NNG",
+				"브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			],
+			[
+				6,
+				"주택",
+				"NNG",
+				"브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			],
+			[
+				7,
+				"딸",
+				"NNG",
+				"브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			],
+			[
+				8,
+				"바네사",
+				"NNP",
+				"브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			],
+			[
+				9,
+				"브룩스",
+				"NNP",
+				"브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			],
+			[
+				10,
+				"햇볕",
+				"NNG",
+				"브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			],
+			[
+				11,
+				"날",
+				"NNG",
+				"브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			],
+			[
+				12,
+				"현관",
+				"NNG",
+				"브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			],
+			[
+				13,
+				"앞",
+				"NNG",
+				"브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			],
+			[
+				14,
+				"포치",
+				"NNG",
+				"브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			],
+			[
+				15,
+				"것",
+				"NNB",
+				"브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			],
+			[
+				16,
+				"이웃",
+				"NNG",
+				"이웃 사람들도 지역의 명사인 그를 자주 방문하고 , 손을 흔들어 보이거나 음료수와 과자 등을 가져다 주기도 했다."
+			],
+			[
+				17,
+				"사람",
+				"NNG",
+				"이웃 사람들도 지역의 명사인 그를 자주 방문하고 , 손을 흔들어 보이거나 음료수와 과자 등을 가져다 주기도 했다."
+			],
+			[
+				18,
+				"지역",
+				"NNG",
+				"이웃 사람들도 지역의 명사인 그를 자주 방문하고 , 손을 흔들어 보이거나 음료수와 과자 등을 가져다 주기도 했다."
+			],
+			[
+				19,
+				"명사",
+				"NNG",
+				"이웃 사람들도 지역의 명사인 그를 자주 방문하고 , 손을 흔들어 보이거나 음료수와 과자 등을 가져다 주기도 했다."
+			],
+			[
+				20,
+				"손",
+				"NNG",
+				"이웃 사람들도 지역의 명사인 그를 자주 방문하고 , 손을 흔들어 보이거나 음료수와 과자 등을 가져다 주기도 했다."
+			],
+			[
+				21,
+				"음료수",
+				"NNG",
+				"이웃 사람들도 지역의 명사인 그를 자주 방문하고 , 손을 흔들어 보이거나 음료수와 과자 등을 가져다 주기도 했다."
+			],
+			[
+				22,
+				"과자",
+				"NNG",
+				"이웃 사람들도 지역의 명사인 그를 자주 방문하고 , 손을 흔들어 보이거나 음료수와 과자 등을 가져다 주기도 했다."
+			],
+			[
+				23,
+				"등",
+				"NNB",
+				"이웃 사람들도 지역의 명사인 그를 자주 방문하고 , 손을 흔들어 보이거나 음료수와 과자 등을 가져다 주기도 했다."
+			],
+			[
+				24,
+				"브룩스",
+				"NNP",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			],
+			[
+				25,
+				"뉴올리언스",
+				"NNP",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			],
+			[
+				26,
+				"세인츠",
+				"NNP",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			],
+			[
+				27,
+				"풋볼",
+				"NNP",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			],
+			[
+				28,
+				"팀",
+				"NNG",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			],
+			[
+				29,
+				"열성",
+				"NNG",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			],
+			[
+				30,
+				"팬",
+				"NNG",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			],
+			[
+				31,
+				"경기",
+				"NNG",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			],
+			[
+				32,
+				"코로나",
+				"NNG",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			],
+			[
+				33,
+				"유행",
+				"NNG",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			],
+			[
+				34,
+				"이전",
+				"NNG",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			],
+			[
+				35,
+				"일요일",
+				"NNG",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			],
+			[
+				36,
+				"교회",
+				"NNG",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			],
+			[
+				37,
+				"주일",
+				"NNG",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			],
+			[
+				38,
+				"딸",
+				"NNG",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			],
+			[
+				39,
+				"바네사",
+				"NNP",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			]
+		],
+		"NNG_Lst": [
+			[
+				0,
+				"근교",
+				"NNG",
+				"브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			],
+			[
+				1,
+				"시티",
+				"NNG",
+				"브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			],
+			[
+				2,
+				"연립",
+				"NNG",
+				"브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			],
+			[
+				3,
+				"주택",
+				"NNG",
+				"브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			],
+			[
+				4,
+				"딸",
+				"NNG",
+				"브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			],
+			[
+				5,
+				"햇볕",
+				"NNG",
+				"브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			],
+			[
+				6,
+				"날",
+				"NNG",
+				"브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			],
+			[
+				7,
+				"현관",
+				"NNG",
+				"브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			],
+			[
+				8,
+				"앞",
+				"NNG",
+				"브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			],
+			[
+				9,
+				"포치",
+				"NNG",
+				"브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			],
+			[
+				10,
+				"이웃",
+				"NNG",
+				"이웃 사람들도 지역의 명사인 그를 자주 방문하고 , 손을 흔들어 보이거나 음료수와 과자 등을 가져다 주기도 했다."
+			],
+			[
+				11,
+				"사람",
+				"NNG",
+				"이웃 사람들도 지역의 명사인 그를 자주 방문하고 , 손을 흔들어 보이거나 음료수와 과자 등을 가져다 주기도 했다."
+			],
+			[
+				12,
+				"지역",
+				"NNG",
+				"이웃 사람들도 지역의 명사인 그를 자주 방문하고 , 손을 흔들어 보이거나 음료수와 과자 등을 가져다 주기도 했다."
+			],
+			[
+				13,
+				"명사",
+				"NNG",
+				"이웃 사람들도 지역의 명사인 그를 자주 방문하고 , 손을 흔들어 보이거나 음료수와 과자 등을 가져다 주기도 했다."
+			],
+			[
+				14,
+				"손",
+				"NNG",
+				"이웃 사람들도 지역의 명사인 그를 자주 방문하고 , 손을 흔들어 보이거나 음료수와 과자 등을 가져다 주기도 했다."
+			],
+			[
+				15,
+				"음료수",
+				"NNG",
+				"이웃 사람들도 지역의 명사인 그를 자주 방문하고 , 손을 흔들어 보이거나 음료수와 과자 등을 가져다 주기도 했다."
+			],
+			[
+				16,
+				"과자",
+				"NNG",
+				"이웃 사람들도 지역의 명사인 그를 자주 방문하고 , 손을 흔들어 보이거나 음료수와 과자 등을 가져다 주기도 했다."
+			],
+			[
+				17,
+				"팀",
+				"NNG",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			],
+			[
+				18,
+				"열성",
+				"NNG",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			],
+			[
+				19,
+				"팬",
+				"NNG",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			],
+			[
+				20,
+				"경기",
+				"NNG",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			],
+			[
+				21,
+				"코로나",
+				"NNG",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			],
+			[
+				22,
+				"유행",
+				"NNG",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			],
+			[
+				23,
+				"이전",
+				"NNG",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			],
+			[
+				24,
+				"일요일",
+				"NNG",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			],
+			[
+				25,
+				"교회",
+				"NNG",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			],
+			[
+				26,
+				"주일",
+				"NNG",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			],
+			[
+				27,
+				"딸",
+				"NNG",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			]
+		],
+		"NNP_Lst": [
+			[
+				0,
+				"브룩스",
+				"NNP",
+				"브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			],
+			[
+				1,
+				"뉴올리언스",
+				"NNP",
+				"브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			],
+			[
+				2,
+				"센트럴",
+				"NNP",
+				"브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			],
+			[
+				3,
+				"바네사",
+				"NNP",
+				"브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			],
+			[
+				4,
+				"브룩스",
+				"NNP",
+				"브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			],
+			[
+				5,
+				"브룩스",
+				"NNP",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			],
+			[
+				6,
+				"뉴올리언스",
+				"NNP",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			],
+			[
+				7,
+				"세인츠",
+				"NNP",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			],
+			[
+				8,
+				"풋볼",
+				"NNP",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			],
+			[
+				9,
+				"바네사",
+				"NNP",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			]
+		],
+		"NNB_Lst": [
+			[
+				0,
+				"것",
+				"NNB",
+				"브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			],
+			[
+				1,
+				"등",
+				"NNB",
+				"이웃 사람들도 지역의 명사인 그를 자주 방문하고 , 손을 흔들어 보이거나 음료수와 과자 등을 가져다 주기도 했다."
+			]
+		],
+		"NP_Lst": [
+			[
+				0,
+				"그",
+				"NP",
+				"이웃 사람들도 지역의 명사인 그를 자주 방문하고 , 손을 흔들어 보이거나 음료수와 과자 등을 가져다 주기도 했다."
+			]
+		],
+		"NP_People_Lst": [
+			[
+				0,
+				"그",
+				"NP",
+				"이웃 사람들도 지역의 명사인 그를 자주 방문하고 , 손을 흔들어 보이거나 음료수와 과자 등을 가져다 주기도 했다."
+			]
+		],
+		"NP_Things_Lst": [],
+		"NR_Lst": [],
+		"VL_Lst": [
+			[
+				0,
+				"있",
+				"VA",
+				"브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			],
+			[
+				1,
+				"살",
+				"VV",
+				"브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			],
+			[
+				2,
+				"화창하",
+				"VA",
+				"브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			],
+			[
+				3,
+				"이",
+				"VCP",
+				"브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			],
+			[
+				4,
+				"앉",
+				"VV",
+				"브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			],
+			[
+				5,
+				"지내",
+				"VV",
+				"브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			],
+			[
+				6,
+				"유명하",
+				"VA",
+				"브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			],
+			[
+				7,
+				"이",
+				"VCP",
+				"이웃 사람들도 지역의 명사인 그를 자주 방문하고 , 손을 흔들어 보이거나 음료수와 과자 등을 가져다 주기도 했다."
+			],
+			[
+				8,
+				"방문하",
+				"VV",
+				"이웃 사람들도 지역의 명사인 그를 자주 방문하고 , 손을 흔들어 보이거나 음료수와 과자 등을 가져다 주기도 했다."
+			],
+			[
+				9,
+				"흔들",
+				"VV",
+				"이웃 사람들도 지역의 명사인 그를 자주 방문하고 , 손을 흔들어 보이거나 음료수와 과자 등을 가져다 주기도 했다."
+			],
+			[
+				10,
+				"보이",
+				"VV",
+				"이웃 사람들도 지역의 명사인 그를 자주 방문하고 , 손을 흔들어 보이거나 음료수와 과자 등을 가져다 주기도 했다."
+			],
+			[
+				11,
+				"가져다주",
+				"VV",
+				"이웃 사람들도 지역의 명사인 그를 자주 방문하고 , 손을 흔들어 보이거나 음료수와 과자 등을 가져다 주기도 했다."
+			],
+			[
+				12,
+				"하",
+				"VX",
+				"이웃 사람들도 지역의 명사인 그를 자주 방문하고 , 손을 흔들어 보이거나 음료수와 과자 등을 가져다 주기도 했다."
+			],
+			[
+				13,
+				"놓지",
+				"VV",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			],
+			[
+				14,
+				"않",
+				"VX",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			],
+			[
+				15,
+				"관람하",
+				"VV",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			],
+			[
+				16,
+				"이",
+				"VCP",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			],
+			[
+				17,
+				"빠지",
+				"VV",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			],
+			[
+				18,
+				"않",
+				"VX",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			],
+			[
+				19,
+				"나가",
+				"VX",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			],
+			[
+				20,
+				"말하",
+				"VV",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			]
+		],
+		"VV_Lst": [
+			[
+				0,
+				"살",
+				"VV",
+				"브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			],
+			[
+				1,
+				"앉",
+				"VV",
+				"브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			],
+			[
+				2,
+				"지내",
+				"VV",
+				"브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			],
+			[
+				3,
+				"방문하",
+				"VV",
+				"이웃 사람들도 지역의 명사인 그를 자주 방문하고 , 손을 흔들어 보이거나 음료수와 과자 등을 가져다 주기도 했다."
+			],
+			[
+				4,
+				"흔들",
+				"VV",
+				"이웃 사람들도 지역의 명사인 그를 자주 방문하고 , 손을 흔들어 보이거나 음료수와 과자 등을 가져다 주기도 했다."
+			],
+			[
+				5,
+				"보이",
+				"VV",
+				"이웃 사람들도 지역의 명사인 그를 자주 방문하고 , 손을 흔들어 보이거나 음료수와 과자 등을 가져다 주기도 했다."
+			],
+			[
+				6,
+				"가져다주",
+				"VV",
+				"이웃 사람들도 지역의 명사인 그를 자주 방문하고 , 손을 흔들어 보이거나 음료수와 과자 등을 가져다 주기도 했다."
+			],
+			[
+				7,
+				"놓지",
+				"VV",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			],
+			[
+				8,
+				"관람하",
+				"VV",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			],
+			[
+				9,
+				"빠지",
+				"VV",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			],
+			[
+				10,
+				"말하",
+				"VV",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			]
+		],
+		"VA_Lst": [
+			[
+				0,
+				"있",
+				"VA",
+				"브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			],
+			[
+				1,
+				"화창하",
+				"VA",
+				"브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			],
+			[
+				2,
+				"유명하",
+				"VA",
+				"브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			]
+		],
+		"VX_Lst": [
+			[
+				0,
+				"하",
+				"VX",
+				"이웃 사람들도 지역의 명사인 그를 자주 방문하고 , 손을 흔들어 보이거나 음료수와 과자 등을 가져다 주기도 했다."
+			],
+			[
+				1,
+				"않",
+				"VX",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			],
+			[
+				2,
+				"않",
+				"VX",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			],
+			[
+				3,
+				"나가",
+				"VX",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			]
+		],
+		"VCP_Lst": [
+			[
+				0,
+				"이",
+				"VCP",
+				"브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			],
+			[
+				1,
+				"이",
+				"VCP",
+				"이웃 사람들도 지역의 명사인 그를 자주 방문하고 , 손을 흔들어 보이거나 음료수와 과자 등을 가져다 주기도 했다."
+			],
+			[
+				2,
+				"이",
+				"VCP",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			]
+		],
+		"VCN_Lst": [],
+		"ML_Lst": [
+			[
+				0,
+				"함께",
+				"MAG",
+				"브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			],
+			[
+				1,
+				"언제나",
+				"MAG",
+				"브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			],
+			[
+				2,
+				"자주",
+				"MAG",
+				"이웃 사람들도 지역의 명사인 그를 자주 방문하고 , 손을 흔들어 보이거나 음료수와 과자 등을 가져다 주기도 했다."
+			]
+		],
+		"MA_Lst": [],
+		"MM_Lst": [],
+		"J_Lst": [
+			[
+				0,
+				"는",
+				"JX",
+				"브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			],
+			[
+				1,
+				"에",
+				"JKB",
+				"브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			],
+			[
+				2,
+				"에서",
+				"JKB",
+				"브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			],
+			[
+				3,
+				"와",
+				"JKB",
+				"브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			],
+			[
+				4,
+				"이",
+				"JKS",
+				"브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			],
+			[
+				5,
+				"에",
+				"JKB",
+				"브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			],
+			[
+				6,
+				"으로",
+				"JKB",
+				"브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			],
+			[
+				7,
+				"도",
+				"JX",
+				"이웃 사람들도 지역의 명사인 그를 자주 방문하고 , 손을 흔들어 보이거나 음료수와 과자 등을 가져다 주기도 했다."
+			],
+			[
+				8,
+				"의",
+				"JKG",
+				"이웃 사람들도 지역의 명사인 그를 자주 방문하고 , 손을 흔들어 보이거나 음료수와 과자 등을 가져다 주기도 했다."
+			],
+			[
+				9,
+				"를",
+				"JKO",
+				"이웃 사람들도 지역의 명사인 그를 자주 방문하고 , 손을 흔들어 보이거나 음료수와 과자 등을 가져다 주기도 했다."
+			],
+			[
+				10,
+				"을",
+				"JKO",
+				"이웃 사람들도 지역의 명사인 그를 자주 방문하고 , 손을 흔들어 보이거나 음료수와 과자 등을 가져다 주기도 했다."
+			],
+			[
+				11,
+				"와",
+				"JC",
+				"이웃 사람들도 지역의 명사인 그를 자주 방문하고 , 손을 흔들어 보이거나 음료수와 과자 등을 가져다 주기도 했다."
+			],
+			[
+				12,
+				"을",
+				"JKO",
+				"이웃 사람들도 지역의 명사인 그를 자주 방문하고 , 손을 흔들어 보이거나 음료수와 과자 등을 가져다 주기도 했다."
+			],
+			[
+				13,
+				"도",
+				"JX",
+				"이웃 사람들도 지역의 명사인 그를 자주 방문하고 , 손을 흔들어 보이거나 음료수와 과자 등을 가져다 주기도 했다."
+			],
+			[
+				14,
+				"는",
+				"JX",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			],
+			[
+				15,
+				"의",
+				"JKG",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			],
+			[
+				16,
+				"으로",
+				"JKB",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			],
+			[
+				17,
+				"를",
+				"JKO",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			],
+			[
+				18,
+				"의",
+				"JKG",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			],
+			[
+				19,
+				"까지",
+				"JX",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			],
+			[
+				20,
+				"는",
+				"JX",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			],
+			[
+				21,
+				"에",
+				"JKB",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			],
+			[
+				22,
+				"도",
+				"JX",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			],
+			[
+				23,
+				"마다",
+				"JX",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			],
+			[
+				24,
+				"는",
+				"JX",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			]
+		],
+		"E_Lst": [
+			[
+				0,
+				"는",
+				"ETM",
+				"브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			],
+			[
+				1,
+				"면서",
+				"EC",
+				"브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			],
+			[
+				2,
+				"ㄴ",
+				"ETM",
+				"브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			],
+			[
+				3,
+				"면",
+				"EC",
+				"브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			],
+			[
+				4,
+				"아서",
+				"EC",
+				"브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			],
+			[
+				5,
+				"ㄴ",
+				"ETM",
+				"브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			],
+			[
+				6,
+				"다",
+				"EF",
+				"브룩스는 뉴올리언스 근교 센트럴 시티에 있는 연립주택에서 딸 바네사 브룩스와 함께 살면서 햇볕이 화창한 날이면 언제나 현관 앞 포치에 앉아서 지낸 것으로 유명하다."
+			],
+			[
+				7,
+				"ㄴ",
+				"ETM",
+				"이웃 사람들도 지역의 명사인 그를 자주 방문하고 , 손을 흔들어 보이거나 음료수와 과자 등을 가져다 주기도 했다."
+			],
+			[
+				8,
+				"고",
+				"EC",
+				"이웃 사람들도 지역의 명사인 그를 자주 방문하고 , 손을 흔들어 보이거나 음료수와 과자 등을 가져다 주기도 했다."
+			],
+			[
+				9,
+				"어",
+				"EC",
+				"이웃 사람들도 지역의 명사인 그를 자주 방문하고 , 손을 흔들어 보이거나 음료수와 과자 등을 가져다 주기도 했다."
+			],
+			[
+				10,
+				"거나",
+				"EC",
+				"이웃 사람들도 지역의 명사인 그를 자주 방문하고 , 손을 흔들어 보이거나 음료수와 과자 등을 가져다 주기도 했다."
+			],
+			[
+				11,
+				"기",
+				"ETN",
+				"이웃 사람들도 지역의 명사인 그를 자주 방문하고 , 손을 흔들어 보이거나 음료수와 과자 등을 가져다 주기도 했다."
+			],
+			[
+				12,
+				"았",
+				"EP",
+				"이웃 사람들도 지역의 명사인 그를 자주 방문하고 , 손을 흔들어 보이거나 음료수와 과자 등을 가져다 주기도 했다."
+			],
+			[
+				13,
+				"다",
+				"EF",
+				"이웃 사람들도 지역의 명사인 그를 자주 방문하고 , 손을 흔들어 보이거나 음료수와 과자 등을 가져다 주기도 했다."
+			],
+			[
+				14,
+				"지",
+				"EC",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			],
+			[
+				15,
+				"고",
+				"EC",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			],
+			[
+				16,
+				"았",
+				"EP",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			],
+			[
+				17,
+				"고",
+				"EC",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			],
+			[
+				18,
+				"면",
+				"EC",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			],
+			[
+				19,
+				"지",
+				"EC",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			],
+			[
+				20,
+				"고",
+				"EC",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			],
+			[
+				21,
+				"았",
+				"EP",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			],
+			[
+				22,
+				"다고",
+				"EC",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			],
+			[
+				23,
+				"았",
+				"EP",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			],
+			[
+				24,
+				"다",
+				"EF",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			]
+		],
+		"X_Lst": [
+			[
+				0,
+				"들",
+				"XSN",
+				"이웃 사람들도 지역의 명사인 그를 자주 방문하고 , 손을 흔들어 보이거나 음료수와 과자 등을 가져다 주기도 했다."
+			],
+			[
+				1,
+				"대",
+				"XPN",
+				"브룩스는 뉴올리언스 세인츠 풋볼팀의 열성 팬으로 경기를 놓지지 않고 관람했고 코로나19의 대유행 이전까지는 일요일이면 교회에도 주일마다 빠지지 않고 나갔다고 딸 바네사는 말했다."
+			]
+		],
+		"IC_Lst": []
+	},
+	"NDW": {
+		"morph_NDW": 88,
+		"NL_NDW": 41,
+		"NNG_NDW": 28,
+		"NNP_NDW": 10,
+		"NNB_NDW": 2,
+		"NP_NDW": 1,
+		"NR_NDW": 0,
+		"VL_NDW": 21,
+		"VV_NDW": 11,
+		"VA_NDW": 3,
+		"ML_NDW": 3,
+		"MM_NDW": 0,
+		"IC_NDW": 0,
+		"J_NDW": 25,
+		"E_NDW": 25,
+		"X_NDW": 2,
+		"CL_NDW": 65,
+		"FL_NDW": 52
+	}
+}

@@ -1,0 +1,3872 @@
+﻿{
+	"morpheme": {
+		"sentences": [
+			{
+				"text": {
+					"content": "'배틀그라운드 모바일'의 비인가 프로그램(핵)을 만들어 판매한 해킹 집단이 1000만달러(약 120억원)의 배상금을 물게 됐다.",
+					"length": 71,
+					"beginOffset": 0
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "'배틀그라운드",
+							"length": 7,
+							"beginOffset": 0
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "'",
+									"length": 1,
+									"beginOffset": 0
+								},
+								"tag": "SS",
+								"probability": 0.99991703,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "배틀그라운드",
+									"beginOffset": 1,
+									"length": 6
+								},
+								"tag": "NNP",
+								"probability": 0.4865703,
+								"outOfVocab": "OUT_OF_VOCAB"
+							}
+						],
+						"lemma": "'",
+						"tagged": "'/SS+배틀그라운드/NNP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "모바일'의",
+							"beginOffset": 8,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "모바일",
+									"beginOffset": 8,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9584805,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "'",
+									"beginOffset": 11,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.99976075,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 12,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9995467,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "모바일",
+						"tagged": "모바일/NNG+'/SS+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "비인가",
+							"beginOffset": 14,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "비",
+									"beginOffset": 14,
+									"length": 1
+								},
+								"tag": "XPN",
+								"probability": 0.98831654,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "인가",
+									"beginOffset": 15,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98242444,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "비",
+						"tagged": "비/XPN+인가/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "프로그램(핵)을",
+							"beginOffset": 18,
+							"length": 8
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "프로그램",
+									"beginOffset": 18,
+									"length": 4
+								},
+								"tag": "NNG",
+								"probability": 0.97724724,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "(",
+									"beginOffset": 22,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.99988407,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "핵",
+									"beginOffset": 23,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9799044,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ")",
+									"beginOffset": 24,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.99997324,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 25,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999767,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "프로그램",
+						"tagged": "프로그램/NNG+(/SS+핵/NNG+)/SS+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "만들어",
+							"beginOffset": 27,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "만들",
+									"beginOffset": 27,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9892799,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어",
+									"beginOffset": 29,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9922135,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "만들",
+						"tagged": "만들/VV+어/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "판매한",
+							"beginOffset": 31,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "판매하",
+									"beginOffset": 31,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 33,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999834,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "판매하",
+						"tagged": "판매하/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "해킹",
+							"beginOffset": 35,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "해킹",
+									"beginOffset": 35,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9819711,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "해킹",
+						"tagged": "해킹/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "집단이",
+							"beginOffset": 38,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "집단",
+									"beginOffset": 38,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9858166,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 40,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.97079486,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "집단",
+						"tagged": "집단/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "1000만달러",
+							"beginOffset": 42,
+							"length": 7
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "1000",
+									"beginOffset": 42,
+									"length": 4
+								},
+								"tag": "SN",
+								"probability": 0.99810565,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "만",
+									"beginOffset": 46,
+									"length": 1
+								},
+								"tag": "NR",
+								"probability": 0.9963978,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "달러",
+									"beginOffset": 47,
+									"length": 2
+								},
+								"tag": "NNB",
+								"probability": 0.96948826,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "1000",
+						"tagged": "1000/SN+만/NR+달러/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "(",
+							"beginOffset": 49,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "(",
+									"beginOffset": 49,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9999738,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "(",
+						"tagged": "(/SS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "약",
+							"beginOffset": 50,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "약",
+									"beginOffset": 50,
+									"length": 1
+								},
+								"tag": "MMA",
+								"probability": 0.9961288,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "약",
+						"tagged": "약/MMA",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "120억원",
+							"beginOffset": 52,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "120",
+									"beginOffset": 52,
+									"length": 3
+								},
+								"tag": "SN",
+								"probability": 0.997154,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "억",
+									"beginOffset": 55,
+									"length": 1
+								},
+								"tag": "NR",
+								"probability": 0.99223256,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "원",
+									"beginOffset": 56,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.97697115,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "120",
+						"tagged": "120/SN+억/NR+원/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": ")의",
+							"beginOffset": 57,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": ")",
+									"beginOffset": 57,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9996712,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 58,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9998025,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": ")",
+						"tagged": ")/SS+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "배상금을",
+							"beginOffset": 60,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "배상금",
+									"beginOffset": 60,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9812976,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 63,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9996932,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "배상금",
+						"tagged": "배상금/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "물게",
+							"beginOffset": 65,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "물",
+									"beginOffset": 65,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.98601323,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "게",
+									"beginOffset": 66,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9953442,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "물",
+						"tagged": "물/VV+게/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "됐다.",
+							"beginOffset": 68,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "되",
+									"beginOffset": 68,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.98100466,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 68,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9995669,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 69,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9912759,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 70,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99986535,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "되",
+						"tagged": "되/VV+었/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "'배틀그라운드 모바일'의 비인가 프로그램(핵)을 만들어 판매한 해킹 집단이 1000만달러 ( 약 120억원 )의 배상금을 물게 됐다."
+			},
+			{
+				"text": {
+					"content": "'배틀그라운드 모바일'을 개발 및 서비스하는 텐센트게임즈와 크래프톤은 최근 해킹 집단을 상대로 미국과 독일에서 제기한 손해배상청구소송에서 승소했다고 밝혔다.",
+					"beginOffset": 72,
+					"length": 87
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "'배틀그라운드",
+							"beginOffset": 72,
+							"length": 7
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "'",
+									"beginOffset": 72,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9999496,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "배틀그라운드",
+									"beginOffset": 73,
+									"length": 6
+								},
+								"tag": "SL",
+								"probability": 0.6675622,
+								"outOfVocab": "OUT_OF_VOCAB"
+							}
+						],
+						"lemma": "'",
+						"tagged": "'/SS+배틀그라운드/SL",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "모바일'을",
+							"beginOffset": 80,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "모바일",
+									"beginOffset": 80,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.970208,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "'",
+									"beginOffset": 83,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9999243,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 84,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999506,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "모바일",
+						"tagged": "모바일/NNG+'/SS+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "개발",
+							"beginOffset": 86,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "개발",
+									"beginOffset": 86,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97996175,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "개발",
+						"tagged": "개발/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "및",
+							"beginOffset": 89,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "및",
+									"beginOffset": 89,
+									"length": 1
+								},
+								"tag": "MAG",
+								"probability": 0.8501289,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "및",
+						"tagged": "및/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "서비스하는",
+							"beginOffset": 91,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "서비스하",
+									"beginOffset": 91,
+									"length": 4
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 95,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999693,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "서비스하",
+						"tagged": "서비스하/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "텐센트게임즈와",
+							"beginOffset": 97,
+							"length": 7
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "텐센트",
+									"beginOffset": 97,
+									"length": 3
+								},
+								"tag": "NNP",
+								"probability": 0.5382295,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "게임즈",
+									"beginOffset": 100,
+									"length": 3
+								},
+								"tag": "NNP",
+								"probability": 0.44315425,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "와",
+									"beginOffset": 103,
+									"length": 1
+								},
+								"tag": "JC",
+								"probability": 0.894674,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "텐센트",
+						"tagged": "텐센트/NNP+게임즈/NNP+와/JC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "크래프톤은",
+							"beginOffset": 105,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "크래프톤",
+									"beginOffset": 105,
+									"length": 4
+								},
+								"tag": "NNP",
+								"probability": 0.73143095,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 109,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9991419,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "크래프톤",
+						"tagged": "크래프톤/NNP+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "최근",
+							"beginOffset": 111,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "최근",
+									"beginOffset": 111,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98305434,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "최근",
+						"tagged": "최근/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "해킹",
+							"beginOffset": 114,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "해킹",
+									"beginOffset": 114,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97318774,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "해킹",
+						"tagged": "해킹/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "집단을",
+							"beginOffset": 117,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "집단",
+									"beginOffset": 117,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98648566,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 119,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999717,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "집단",
+						"tagged": "집단/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "상대로",
+							"beginOffset": 121,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "상대",
+									"beginOffset": 121,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9845113,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "로",
+									"beginOffset": 123,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99752396,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "상대",
+						"tagged": "상대/NNG+로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "미국과",
+							"beginOffset": 125,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "미국",
+									"beginOffset": 125,
+									"length": 2
+								},
+								"tag": "NNP",
+								"probability": 0.9607992,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "과",
+									"beginOffset": 127,
+									"length": 1
+								},
+								"tag": "JC",
+								"probability": 0.89073277,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "미국",
+						"tagged": "미국/NNP+과/JC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "독일에서",
+							"beginOffset": 129,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "독일",
+									"beginOffset": 129,
+									"length": 2
+								},
+								"tag": "NNP",
+								"probability": 0.9638301,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에서",
+									"beginOffset": 131,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9971423,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "독일",
+						"tagged": "독일/NNP+에서/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "제기한",
+							"beginOffset": 134,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "제기하",
+									"beginOffset": 134,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 136,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999468,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "제기하",
+						"tagged": "제기하/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "손해배상청구소송에서",
+							"beginOffset": 138,
+							"length": 10
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "손해",
+									"beginOffset": 138,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "배상",
+									"beginOffset": 140,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "청구",
+									"beginOffset": 142,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "소송",
+									"beginOffset": 144,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "에서",
+									"beginOffset": 146,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9936467,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "손해",
+						"tagged": "손해/NNG+배상/NNG+청구/NNG+소송/NNG+에서/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "승소했다고",
+							"beginOffset": 149,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "승소하",
+									"beginOffset": 149,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 151,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9997666,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다고",
+									"beginOffset": 152,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99336505,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "승소하",
+						"tagged": "승소하/VV+았/EP+다고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "밝혔다.",
+							"beginOffset": 155,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "밝히",
+									"beginOffset": 155,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.990294,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 156,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9991305,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 157,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.988706,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 158,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99905413,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "밝히",
+						"tagged": "밝히/VV+었/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "'배틀그라운드 모바일'을 개발 및 서비스하는 텐센트게임즈와 크래프톤은 최근 해킹 집단을 상대로 미국과 독일에서 제기한 손해배상청구소송에서 승소했다고 밝혔다."
+			},
+			{
+				"text": {
+					"content": "미국 및 독일 연방 법원은 피고측에 약 1000만달러의 손해 배상금을 지불하고 게임 부정 행위와 관련된 불법 활동을 중단하라고 명령했다.",
+					"beginOffset": 160,
+					"length": 76
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "미국",
+							"beginOffset": 160,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "미국",
+									"beginOffset": 160,
+									"length": 2
+								},
+								"tag": "NNP",
+								"probability": 0.96869916,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "미국",
+						"tagged": "미국/NNP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "및",
+							"beginOffset": 163,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "및",
+									"beginOffset": 163,
+									"length": 1
+								},
+								"tag": "MAJ",
+								"probability": 0.75916123,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "및",
+						"tagged": "및/MAJ",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "독일",
+							"beginOffset": 165,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "독일",
+									"beginOffset": 165,
+									"length": 2
+								},
+								"tag": "NNP",
+								"probability": 0.97146404,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "독일",
+						"tagged": "독일/NNP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "연방",
+							"beginOffset": 168,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "연방",
+									"beginOffset": 168,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97895527,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "연방",
+						"tagged": "연방/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "법원은",
+							"beginOffset": 171,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "법원",
+									"beginOffset": 171,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9822762,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 173,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.999382,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "법원",
+						"tagged": "법원/NNG+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "피고측에",
+							"beginOffset": 175,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "피고",
+									"beginOffset": 175,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.982206,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "측",
+									"beginOffset": 177,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.97550565,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 178,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.95654964,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "피고",
+						"tagged": "피고/NNG+측/NNB+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "약",
+							"beginOffset": 180,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "약",
+									"beginOffset": 180,
+									"length": 1
+								},
+								"tag": "MMA",
+								"probability": 0.9982157,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "약",
+						"tagged": "약/MMA",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "1000만달러의",
+							"beginOffset": 182,
+							"length": 8
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "1000",
+									"beginOffset": 182,
+									"length": 4
+								},
+								"tag": "SN",
+								"probability": 0.9963731,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "만",
+									"beginOffset": 186,
+									"length": 1
+								},
+								"tag": "NR",
+								"probability": 0.9935683,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "달러",
+									"beginOffset": 187,
+									"length": 2
+								},
+								"tag": "NNB",
+								"probability": 0.9766414,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 189,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9994759,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "1000",
+						"tagged": "1000/SN+만/NR+달러/NNB+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "손해",
+							"beginOffset": 191,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "손해",
+									"beginOffset": 191,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98205626,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "손해",
+						"tagged": "손해/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "배상금을",
+							"beginOffset": 194,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "배상금",
+									"beginOffset": 194,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9827615,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 197,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99991655,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "배상금",
+						"tagged": "배상금/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "지불하고",
+							"beginOffset": 199,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "지불하",
+									"beginOffset": 199,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 202,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9936063,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "지불하",
+						"tagged": "지불하/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "게임",
+							"beginOffset": 204,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "게임",
+									"beginOffset": 204,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9838687,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "게임",
+						"tagged": "게임/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "부정",
+							"beginOffset": 207,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "부정",
+									"beginOffset": 207,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9848215,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "부정",
+						"tagged": "부정/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "행위와",
+							"beginOffset": 210,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "행위",
+									"beginOffset": 210,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9857214,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "와",
+									"beginOffset": 212,
+									"length": 1
+								},
+								"tag": "JC",
+								"probability": 0.7242076,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "행위",
+						"tagged": "행위/NNG+와/JC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "관련된",
+							"beginOffset": 214,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "관련되",
+									"beginOffset": 214,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 216,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99995244,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "관련되",
+						"tagged": "관련되/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "불법",
+							"beginOffset": 218,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "불법",
+									"beginOffset": 218,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9788035,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "불법",
+						"tagged": "불법/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "활동을",
+							"beginOffset": 221,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "활동",
+									"beginOffset": 221,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9819809,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 223,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99990773,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "활동",
+						"tagged": "활동/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "중단하라고",
+							"beginOffset": 225,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "중단하",
+									"beginOffset": 225,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "라고",
+									"beginOffset": 228,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.992925,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "중단하",
+						"tagged": "중단하/VV+라고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "명령했다.",
+							"beginOffset": 231,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "명령하",
+									"beginOffset": 231,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 233,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9998936,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 234,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9873357,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 235,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9997712,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "명령하",
+						"tagged": "명령하/VV+았/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "미국 및 독일 연방 법원은 피고측에 약 1000만달러의 손해 배상금을 지불하고 게임 부정 행위와 관련된 불법 활동을 중단하라고 명령했다."
+			},
+			{
+				"text": {
+					"content": "또한 게임을 악용할 수 있었던 방법에 대한 세부 정보를 원고측에 제공하라고 밝혔다.",
+					"beginOffset": 237,
+					"length": 46
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "또한",
+							"beginOffset": 237,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "또한",
+									"beginOffset": 237,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9873196,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "또한",
+						"tagged": "또한/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "게임을",
+							"beginOffset": 240,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "게임",
+									"beginOffset": 240,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9846271,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 242,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99993694,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "게임",
+						"tagged": "게임/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "악용할",
+							"beginOffset": 244,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "악용하",
+									"beginOffset": 244,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄹ",
+									"beginOffset": 246,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99998456,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "악용하",
+						"tagged": "악용하/VV+ㄹ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "수",
+							"beginOffset": 248,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "수",
+									"beginOffset": 248,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.98251563,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "수",
+						"tagged": "수/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있었던",
+							"beginOffset": 250,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 250,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9760544,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 251,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99985427,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "던",
+									"beginOffset": 252,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99997747,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VA+었/EP+던/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "방법에",
+							"beginOffset": 254,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "방법",
+									"beginOffset": 254,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9840847,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 256,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9958781,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "방법",
+						"tagged": "방법/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "대한",
+							"beginOffset": 258,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "대하",
+									"beginOffset": 258,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9893617,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 259,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999885,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "대하",
+						"tagged": "대하/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "세부",
+							"beginOffset": 261,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "세부",
+									"beginOffset": 261,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.981373,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "세부",
+						"tagged": "세부/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "정보를",
+							"beginOffset": 264,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "정보",
+									"beginOffset": 264,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98215646,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 266,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99994224,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "정보",
+						"tagged": "정보/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "원고측에",
+							"beginOffset": 268,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "원고",
+									"beginOffset": 268,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97818047,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "측",
+									"beginOffset": 270,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9745935,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 271,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99289626,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "원고",
+						"tagged": "원고/NNG+측/NNB+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "제공하라고",
+							"beginOffset": 273,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "제공하",
+									"beginOffset": 273,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "라고",
+									"beginOffset": 276,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9927459,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "제공하",
+						"tagged": "제공하/VV+라고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "밝혔다.",
+							"beginOffset": 279,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "밝히",
+									"beginOffset": 279,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9885224,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 280,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9998025,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 281,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9910858,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 282,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9986338,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "밝히",
+						"tagged": "밝히/VV+었/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "또한 게임을 악용할 수 있었던 방법에 대한 세부 정보를 원고측에 제공하라고 밝혔다."
+			}
+		],
+		"language": "ko_KR"
+	},
+	"ttr": {
+		"lemma_Cnt": 118,
+		"lemma_TTR": 0.6417910447761194,
+		"CL_TTR": 0.8115942028985508,
+		"NL_TTR": 0.7755102040816326,
+		"NN_TTR": 0.782608695652174,
+		"NNG_TTR": 0.8125,
+		"NNP_TTR": 0.75,
+		"NNB_TTR": 0.6666666666666666,
+		"NP_TTR": 0,
+		"NR_TTR": 0.6666666666666666,
+		"VL_TTR": 0.9411764705882353,
+		"VV_TTR": 0.9375,
+		"VA_TTR": 1.0,
+		"ML_TTR": 0.6666666666666666,
+		"MM_TTR": 0,
+		"MA_TTR": 0.6666666666666666,
+		"MAJ_TTR": 1.0,
+		"IC_TTR": 0,
+		"FL_TTR": 0.48936170212765956,
+		"J_TTR": 0.43478260869565216,
+		"E_TTR": 0.5217391304347826,
+		"X_TTR": 1.0,
+		"lemma_RTTR": 7.4292684599996965,
+		"CL_RTTR": 6.741607772803075,
+		"NL_RTTR": 5.428571428571429,
+		"NN_RTTR": 5.307910421576297,
+		"NNG_RTTR": 4.596194077712559,
+		"NNP_RTTR": 2.1213203435596424,
+		"NNB_RTTR": 1.6329931618554523,
+		"NP_RTTR": 0,
+		"NR_RTTR": 1.1547005383792517,
+		"VL_RTTR": 3.8805700005813275,
+		"VV_RTTR": 3.75,
+		"VA_RTTR": 1.0,
+		"ML_RTTR": 1.1547005383792517,
+		"MM_RTTR": 0,
+		"MA_RTTR": 1.1547005383792517,
+		"MAJ_RTTR": 1.0,
+		"IC_RTTR": 0,
+		"FL_RTTR": 3.354894804451575,
+		"J_RTTR": 2.0851441405707476,
+		"E_RTTR": 2.5021729686848975,
+		"X_RTTR": 1.0,
+		"lemma_CTTR": 5.2532861073211246,
+		"CL_CTTR": 4.767036572248992,
+		"NL_CTTR": 3.838579669298401,
+		"NN_CTTR": 3.753259453027346,
+		"NNG_CTTR": 3.25,
+		"NNP_CTTR": 1.5,
+		"NNB_CTTR": 1.1547005383792517,
+		"NP_CTTR": 0,
+		"NR_CTTR": 0.8164965809277261,
+		"VL_CTTR": 2.743977362280141,
+		"VV_CTTR": 2.651650429449553,
+		"VA_CTTR": 0.7071067811865475,
+		"ML_CTTR": 0.8164965809277261,
+		"MM_CTTR": 0,
+		"MA_CTTR": 0.8164965809277261,
+		"MAJ_CTTR": 0.7071067811865475,
+		"IC_CTTR": 0,
+		"FL_CTTR": 2.3722688663952245,
+		"J_CTTR": 1.4744195615489712,
+		"E_CTTR": 1.7693034738587656,
+		"X_CTTR": 0.7071067811865475,
+		"lemma_MSTTR": 0.8300000000000001,
+		"CL_MSTTR": 0.8,
+		"NL_MSTTR": 0.7755102040816326,
+		"NN_MSTTR": 0.782608695652174,
+		"NNG_MSTTR": 0.8125,
+		"NNP_MSTTR": 0.75,
+		"NNB_MSTTR": 0.6666666666666666,
+		"NP_MSTTR": 0,
+		"NR_MSTTR": 0.6666666666666666,
+		"VL_MSTTR": 0.9411764705882353,
+		"VV_MSTTR": 0.9375,
+		"VA_MSTTR": 1.0,
+		"ML_MSTTR": 0.6666666666666666,
+		"MM_MSTTR": 0,
+		"MA_MSTTR": 0.6666666666666666,
+		"MAJ_MSTTR": 1.0,
+		"IC_MSTTR": 0,
+		"FL_MSTTR": 0.48936170212765956,
+		"J_MSTTR": 0.43478260869565216,
+		"E_MSTTR": 0.5217391304347826,
+		"X_MSTTR": 1.0,
+		"lemma_MATTR": 0.8597647058823534,
+		"CL_MATTR": 0.8510000000000002,
+		"NL_MATTR": 0.7755102040816326,
+		"NN_MATTR": 0.782608695652174,
+		"NNG_MATTR": 0.8125,
+		"NNP_MATTR": 0.75,
+		"NNB_MATTR": 0.6666666666666666,
+		"NP_MATTR": 0,
+		"NR_MATTR": 0.6666666666666666,
+		"VL_MATTR": 0.9411764705882353,
+		"VV_MATTR": 0.9375,
+		"VA_MATTR": 1.0,
+		"ML_MATTR": 0.6666666666666666,
+		"MM_MATTR": 0,
+		"MA_MATTR": 0.6666666666666666,
+		"MAJ_MATTR": 1.0,
+		"IC_MATTR": 0,
+		"FL_MATTR": 0.48936170212765956,
+		"J_MATTR": 0.43478260869565216,
+		"E_MATTR": 0.5217391304347826,
+		"X_MATTR": 1.0,
+		"lemma_MTLD": 84.5739545528541,
+		"CL_MTLD": 102.54461538461543,
+		"NL_MTLD": 61.11636363636364,
+		"NN_MTLD": 59.24800000000001,
+		"NNG_MTLD": 47.78666666666667,
+		"NNP_MTLD": 8.96,
+		"NNB_MTLD": 5.04,
+		"NP_MTLD": 0.0,
+		"NR_MTLD": 2.52,
+		"VL_MTLD": 80.91999999999999,
+		"VV_MTLD": 71.68,
+		"VA_MTLD": 0.0,
+		"ML_MTLD": 2.52,
+		"MM_MTLD": 0.0,
+		"MA_MTLD": 2.52,
+		"MAJ_MTLD": 0.0,
+		"IC_MTLD": 0.0,
+		"FL_MTLD": 20.07101167315175,
+		"J_MTLD": 9.354477611940299,
+		"E_MTLD": 11.301724137931036,
+		"X_MTLD": 0.0,
+		"lemma_VOCDD": 99.97973728359193,
+		"CL_VOCDD": 145.12440050950383,
+		"NL_VOCDD": 0,
+		"NN_VOCDD": 0,
+		"NNG_VOCDD": 0,
+		"NNP_VOCDD": 0,
+		"NNB_VOCDD": 0,
+		"NP_VOCDD": 0,
+		"NR_VOCDD": 0,
+		"VL_VOCDD": 0,
+		"VV_VOCDD": 0,
+		"VA_VOCDD": 0,
+		"ML_VOCDD": 0,
+		"MM_VOCDD": 0,
+		"MA_VOCDD": 0,
+		"MAJ_VOCDD": 0,
+		"IC_VOCDD": 0,
+		"FL_VOCDD": 0,
+		"J_VOCDD": 0,
+		"E_VOCDD": 0,
+		"X_VOCDD": 0,
+		"lemma_HDD": 0.8485495748716988,
+		"CL_HDD": 0.8864023870417727,
+		"NL_HDD": 0.8082482993197284,
+		"NN_HDD": 0.8019323671497579,
+		"NNG_HDD": 0.0,
+		"NNP_HDD": 0.0,
+		"NNB_HDD": 0.0,
+		"NP_HDD": 0.0,
+		"NR_HDD": 0.0,
+		"VL_HDD": 0.0,
+		"VV_HDD": 0.0,
+		"VA_HDD": 0.0,
+		"ML_HDD": 0.0,
+		"MM_HDD": 0.0,
+		"MA_HDD": 0.0,
+		"MAJ_HDD": 0.0,
+		"IC_HDD": 0.0,
+		"FL_HDD": 0.516091268172674,
+		"J_HDD": 0.0,
+		"E_HDD": 0.0,
+		"X_HDD": 0.0
+	},
+	"similarity": {
+		"avgSentSimilarity": 0.20242679119110107,
+		"topicConsistency": 0.4998
+	},
+	"adjacency": {
+		"adjacent_sentence_overlap_all_lemmas": 80,
+		"adjacent_sentence_overlap_all_lemmas_normed": 3,
+		"binary_adjacent_sentence_overlap_all_lemmas": 3,
+		"adjacent_two_sentence_overlap_all_lemmas": 45,
+		"adjacent_two_sentence_overlap_all_lemmas_normed": 2,
+		"binary_adjacent_two_sentence_overlap_all_lemmas": 2,
+		"adjacent_sentence_overlap_content_lemmas": 46,
+		"adjacent_sentence_overlap_content_lemmas_normed": 3,
+		"binary_adjacent_sentence_overlap_content_lemmas": 3,
+		"adjacent_two_sentence_overlap_content_lemmas": 25,
+		"adjacent_two_sentence_overlap_content_lemmas_normed": 2,
+		"binary_adjacent_two_sentence_overlap_content_lemmas": 2,
+		"adjacent_sentence_overlap_function_lemmas": 29,
+		"adjacent_sentence_overlap_function_lemmas_normed": 3,
+		"binary_adjacent_sentence_overlap_function_lemmas": 3,
+		"adjacent_two_sentence_overlap_function_lemmas": 18,
+		"adjacent_two_sentence_overlap_function_lemmas_normed": 2,
+		"binary_adjacent_two_sentence_overlap_function_lemmas": 2,
+		"adjacent_sentence_overlap_noun_lemmas": 34,
+		"adjacent_sentence_overlap_noun_lemmas_normed": 3,
+		"binary_adjacent_sentence_overlap_noun_lemmas": 3,
+		"adjacent_two_sentence_overlap_noun_lemmas": 17,
+		"adjacent_two_sentence_overlap_noun_lemmas_normed": 2,
+		"binary_adjacent_two_sentence_overlap_noun_lemmas": 1,
+		"adjacent_sentence_overlap_verb_lemmas": 12,
+		"adjacent_sentence_overlap_verb_lemmas_normed": 3,
+		"binary_adjacent_sentence_overlap_verb_lemmas": 0,
+		"adjacent_two_sentence_overlap_verb_lemmas": 8,
+		"adjacent_two_sentence_overlap_verb_lemmas_normed": 2,
+		"binary_adjacent_two_sentence_overlap_verb_lemmas": 0,
+		"adjacent_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_sentence_overlap_adjective_lemmas_normed": 0,
+		"binary_adjacent_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_sentence_overlap_adverb_lemmas_normed": 0,
+		"binary_adjacent_sentence_overlap_adverb_lemmas": 1,
+		"adjacent_two_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adverb_lemmas": 0
+	},
+	"basic_count": {
+		"para_Cnt": 1,
+		"sentence_Cnt": 4,
+		"word_Cnt": 61,
+		"morph_Cnt": 134,
+		"char_Cnt": 212,
+		"CL_Cnt": 69,
+		"NL_Cnt": 49,
+		"NN_Cnt": 46,
+		"NNG_Cnt": 32,
+		"NNP_Cnt": 8,
+		"NNB_Cnt": 6,
+		"NP_Cnt": 0,
+		"NP_People_Cnt": 0,
+		"NP_Things_Cnt": 0,
+		"NR_Cnt": 3,
+		"VL_Cnt": 17,
+		"VV_Cnt": 16,
+		"VA_Cnt": 1,
+		"VX_Cnt": 0,
+		"VCP_Cnt": 0,
+		"VCN_Cnt": 0,
+		"ML_Cnt": 3,
+		"MA_Cnt": 0,
+		"MM_Cnt": 0,
+		"FL_Cnt": 47,
+		"J_Cnt": 23,
+		"E_Cnt": 23,
+		"X_Cnt": 1,
+		"IC_Cnt": 0
+	},
+	"basic_density": {
+		"CL_Den": 0.5149253731343284,
+		"FL_Den": 0.35074626865671643,
+		"NL_Den": 0.34328358208955223,
+		"NNGL_Den": 0.23880597014925373,
+		"NNPL_Den": 0.05970149253731343,
+		"NNBL_Den": 0.04477611940298507,
+		"NPL_Den": 0.0,
+		"NML_Den": 0.022388059701492536,
+		"VL_Den": 0.12686567164179105,
+		"VVL_Den": 0.11940298507462686,
+		"VAL_Den": 0.007462686567164179,
+		"ML_Den": 0.022388059701492536,
+		"MML_Den": 0.0,
+		"MAL_Den": 0.0,
+		"JL_Den": 0.17164179104477612,
+		"EL_Den": 0.17164179104477612,
+		"XL_Den": 0.007462686567164179,
+		"ITL_Den": 0.0,
+		"NCL_Den": 0.6666666666666666,
+		"NNCL_Den": 0.463768115942029,
+		"NNGCL_Den": 0.11594202898550725,
+		"NNBCL_Den": 0.08695652173913043,
+		"NPCL_Den": 0.0,
+		"NMCL_Den": 0.043478260869565216,
+		"VCL_Den": 0.2463768115942029,
+		"VVCL_Den": 0.2318840579710145,
+		"VACL_Den": 0.014492753623188406,
+		"MCL_Den": 0.043478260869565216,
+		"MMCL_Den": 0.0,
+		"MACL_Den": 0.0,
+		"INCL_Den": 0.0,
+		"JFL_Den": 0.48936170212765956,
+		"EFL_Den": 0.48936170212765956,
+		"XFL_Den": 0.02127659574468085
+	},
+	"basic_level": {
+		"morph_LenAvg": 1.7388059701492538,
+		"morph_LenStd": 0.9768140756929237,
+		"word_LenAvg": 3.459016393442623,
+		"word_LenStd": 1.8068518994694887
+	},
+	"basic_list": {
+		"NL_Lst": [
+			[
+				0,
+				"배틀그라운드",
+				"NNP",
+				"'배틀그라운드 모바일'의 비인가 프로그램(핵)을 만들어 판매한 해킹 집단이 1000만달러(약 120억원)의 배상금을 물게 됐다."
+			],
+			[
+				1,
+				"모바일",
+				"NNG",
+				"'배틀그라운드 모바일'의 비인가 프로그램(핵)을 만들어 판매한 해킹 집단이 1000만달러(약 120억원)의 배상금을 물게 됐다."
+			],
+			[
+				2,
+				"인가",
+				"NNG",
+				"'배틀그라운드 모바일'의 비인가 프로그램(핵)을 만들어 판매한 해킹 집단이 1000만달러(약 120억원)의 배상금을 물게 됐다."
+			],
+			[
+				3,
+				"프로그램",
+				"NNG",
+				"'배틀그라운드 모바일'의 비인가 프로그램(핵)을 만들어 판매한 해킹 집단이 1000만달러(약 120억원)의 배상금을 물게 됐다."
+			],
+			[
+				4,
+				"핵",
+				"NNG",
+				"'배틀그라운드 모바일'의 비인가 프로그램(핵)을 만들어 판매한 해킹 집단이 1000만달러(약 120억원)의 배상금을 물게 됐다."
+			],
+			[
+				5,
+				"해킹",
+				"NNG",
+				"'배틀그라운드 모바일'의 비인가 프로그램(핵)을 만들어 판매한 해킹 집단이 1000만달러(약 120억원)의 배상금을 물게 됐다."
+			],
+			[
+				6,
+				"집단",
+				"NNG",
+				"'배틀그라운드 모바일'의 비인가 프로그램(핵)을 만들어 판매한 해킹 집단이 1000만달러(약 120억원)의 배상금을 물게 됐다."
+			],
+			[
+				7,
+				"만",
+				"NR",
+				"'배틀그라운드 모바일'의 비인가 프로그램(핵)을 만들어 판매한 해킹 집단이 1000만달러(약 120억원)의 배상금을 물게 됐다."
+			],
+			[
+				8,
+				"달러",
+				"NNB",
+				"'배틀그라운드 모바일'의 비인가 프로그램(핵)을 만들어 판매한 해킹 집단이 1000만달러(약 120억원)의 배상금을 물게 됐다."
+			],
+			[
+				9,
+				"억",
+				"NR",
+				"'배틀그라운드 모바일'의 비인가 프로그램(핵)을 만들어 판매한 해킹 집단이 1000만달러(약 120억원)의 배상금을 물게 됐다."
+			],
+			[
+				10,
+				"원",
+				"NNB",
+				"'배틀그라운드 모바일'의 비인가 프로그램(핵)을 만들어 판매한 해킹 집단이 1000만달러(약 120억원)의 배상금을 물게 됐다."
+			],
+			[
+				11,
+				"배상금",
+				"NNG",
+				"'배틀그라운드 모바일'의 비인가 프로그램(핵)을 만들어 판매한 해킹 집단이 1000만달러(약 120억원)의 배상금을 물게 됐다."
+			],
+			[
+				12,
+				"모바일",
+				"NNG",
+				"'배틀그라운드 모바일'을 개발 및 서비스하는 텐센트게임즈와 크래프톤은 최근 해킹 집단을 상대로 미국과 독일에서 제기한 손해배상청구소송에서 승소했다고 밝혔다."
+			],
+			[
+				13,
+				"개발",
+				"NNG",
+				"'배틀그라운드 모바일'을 개발 및 서비스하는 텐센트게임즈와 크래프톤은 최근 해킹 집단을 상대로 미국과 독일에서 제기한 손해배상청구소송에서 승소했다고 밝혔다."
+			],
+			[
+				14,
+				"텐센트",
+				"NNP",
+				"'배틀그라운드 모바일'을 개발 및 서비스하는 텐센트게임즈와 크래프톤은 최근 해킹 집단을 상대로 미국과 독일에서 제기한 손해배상청구소송에서 승소했다고 밝혔다."
+			],
+			[
+				15,
+				"게임즈",
+				"NNP",
+				"'배틀그라운드 모바일'을 개발 및 서비스하는 텐센트게임즈와 크래프톤은 최근 해킹 집단을 상대로 미국과 독일에서 제기한 손해배상청구소송에서 승소했다고 밝혔다."
+			],
+			[
+				16,
+				"크래프톤",
+				"NNP",
+				"'배틀그라운드 모바일'을 개발 및 서비스하는 텐센트게임즈와 크래프톤은 최근 해킹 집단을 상대로 미국과 독일에서 제기한 손해배상청구소송에서 승소했다고 밝혔다."
+			],
+			[
+				17,
+				"최근",
+				"NNG",
+				"'배틀그라운드 모바일'을 개발 및 서비스하는 텐센트게임즈와 크래프톤은 최근 해킹 집단을 상대로 미국과 독일에서 제기한 손해배상청구소송에서 승소했다고 밝혔다."
+			],
+			[
+				18,
+				"해킹",
+				"NNG",
+				"'배틀그라운드 모바일'을 개발 및 서비스하는 텐센트게임즈와 크래프톤은 최근 해킹 집단을 상대로 미국과 독일에서 제기한 손해배상청구소송에서 승소했다고 밝혔다."
+			],
+			[
+				19,
+				"집단",
+				"NNG",
+				"'배틀그라운드 모바일'을 개발 및 서비스하는 텐센트게임즈와 크래프톤은 최근 해킹 집단을 상대로 미국과 독일에서 제기한 손해배상청구소송에서 승소했다고 밝혔다."
+			],
+			[
+				20,
+				"상대",
+				"NNG",
+				"'배틀그라운드 모바일'을 개발 및 서비스하는 텐센트게임즈와 크래프톤은 최근 해킹 집단을 상대로 미국과 독일에서 제기한 손해배상청구소송에서 승소했다고 밝혔다."
+			],
+			[
+				21,
+				"미국",
+				"NNP",
+				"'배틀그라운드 모바일'을 개발 및 서비스하는 텐센트게임즈와 크래프톤은 최근 해킹 집단을 상대로 미국과 독일에서 제기한 손해배상청구소송에서 승소했다고 밝혔다."
+			],
+			[
+				22,
+				"독일",
+				"NNP",
+				"'배틀그라운드 모바일'을 개발 및 서비스하는 텐센트게임즈와 크래프톤은 최근 해킹 집단을 상대로 미국과 독일에서 제기한 손해배상청구소송에서 승소했다고 밝혔다."
+			],
+			[
+				23,
+				"손해",
+				"NNG",
+				"'배틀그라운드 모바일'을 개발 및 서비스하는 텐센트게임즈와 크래프톤은 최근 해킹 집단을 상대로 미국과 독일에서 제기한 손해배상청구소송에서 승소했다고 밝혔다."
+			],
+			[
+				24,
+				"배상",
+				"NNG",
+				"'배틀그라운드 모바일'을 개발 및 서비스하는 텐센트게임즈와 크래프톤은 최근 해킹 집단을 상대로 미국과 독일에서 제기한 손해배상청구소송에서 승소했다고 밝혔다."
+			],
+			[
+				25,
+				"청구",
+				"NNG",
+				"'배틀그라운드 모바일'을 개발 및 서비스하는 텐센트게임즈와 크래프톤은 최근 해킹 집단을 상대로 미국과 독일에서 제기한 손해배상청구소송에서 승소했다고 밝혔다."
+			],
+			[
+				26,
+				"소송",
+				"NNG",
+				"'배틀그라운드 모바일'을 개발 및 서비스하는 텐센트게임즈와 크래프톤은 최근 해킹 집단을 상대로 미국과 독일에서 제기한 손해배상청구소송에서 승소했다고 밝혔다."
+			],
+			[
+				27,
+				"미국",
+				"NNP",
+				"미국 및 독일 연방 법원은 피고측에 약 1000만달러의 손해 배상금을 지불하고 게임 부정 행위와 관련된 불법 활동을 중단하라고 명령했다."
+			],
+			[
+				28,
+				"독일",
+				"NNP",
+				"미국 및 독일 연방 법원은 피고측에 약 1000만달러의 손해 배상금을 지불하고 게임 부정 행위와 관련된 불법 활동을 중단하라고 명령했다."
+			],
+			[
+				29,
+				"연방",
+				"NNG",
+				"미국 및 독일 연방 법원은 피고측에 약 1000만달러의 손해 배상금을 지불하고 게임 부정 행위와 관련된 불법 활동을 중단하라고 명령했다."
+			],
+			[
+				30,
+				"법원",
+				"NNG",
+				"미국 및 독일 연방 법원은 피고측에 약 1000만달러의 손해 배상금을 지불하고 게임 부정 행위와 관련된 불법 활동을 중단하라고 명령했다."
+			],
+			[
+				31,
+				"피고",
+				"NNG",
+				"미국 및 독일 연방 법원은 피고측에 약 1000만달러의 손해 배상금을 지불하고 게임 부정 행위와 관련된 불법 활동을 중단하라고 명령했다."
+			],
+			[
+				32,
+				"측",
+				"NNB",
+				"미국 및 독일 연방 법원은 피고측에 약 1000만달러의 손해 배상금을 지불하고 게임 부정 행위와 관련된 불법 활동을 중단하라고 명령했다."
+			],
+			[
+				33,
+				"만",
+				"NR",
+				"미국 및 독일 연방 법원은 피고측에 약 1000만달러의 손해 배상금을 지불하고 게임 부정 행위와 관련된 불법 활동을 중단하라고 명령했다."
+			],
+			[
+				34,
+				"달러",
+				"NNB",
+				"미국 및 독일 연방 법원은 피고측에 약 1000만달러의 손해 배상금을 지불하고 게임 부정 행위와 관련된 불법 활동을 중단하라고 명령했다."
+			],
+			[
+				35,
+				"손해",
+				"NNG",
+				"미국 및 독일 연방 법원은 피고측에 약 1000만달러의 손해 배상금을 지불하고 게임 부정 행위와 관련된 불법 활동을 중단하라고 명령했다."
+			],
+			[
+				36,
+				"배상금",
+				"NNG",
+				"미국 및 독일 연방 법원은 피고측에 약 1000만달러의 손해 배상금을 지불하고 게임 부정 행위와 관련된 불법 활동을 중단하라고 명령했다."
+			],
+			[
+				37,
+				"게임",
+				"NNG",
+				"미국 및 독일 연방 법원은 피고측에 약 1000만달러의 손해 배상금을 지불하고 게임 부정 행위와 관련된 불법 활동을 중단하라고 명령했다."
+			],
+			[
+				38,
+				"부정",
+				"NNG",
+				"미국 및 독일 연방 법원은 피고측에 약 1000만달러의 손해 배상금을 지불하고 게임 부정 행위와 관련된 불법 활동을 중단하라고 명령했다."
+			],
+			[
+				39,
+				"행위",
+				"NNG",
+				"미국 및 독일 연방 법원은 피고측에 약 1000만달러의 손해 배상금을 지불하고 게임 부정 행위와 관련된 불법 활동을 중단하라고 명령했다."
+			],
+			[
+				40,
+				"불법",
+				"NNG",
+				"미국 및 독일 연방 법원은 피고측에 약 1000만달러의 손해 배상금을 지불하고 게임 부정 행위와 관련된 불법 활동을 중단하라고 명령했다."
+			],
+			[
+				41,
+				"활동",
+				"NNG",
+				"미국 및 독일 연방 법원은 피고측에 약 1000만달러의 손해 배상금을 지불하고 게임 부정 행위와 관련된 불법 활동을 중단하라고 명령했다."
+			],
+			[
+				42,
+				"게임",
+				"NNG",
+				"또한 게임을 악용할 수 있었던 방법에 대한 세부 정보를 원고측에 제공하라고 밝혔다."
+			],
+			[
+				43,
+				"수",
+				"NNB",
+				"또한 게임을 악용할 수 있었던 방법에 대한 세부 정보를 원고측에 제공하라고 밝혔다."
+			],
+			[
+				44,
+				"방법",
+				"NNG",
+				"또한 게임을 악용할 수 있었던 방법에 대한 세부 정보를 원고측에 제공하라고 밝혔다."
+			],
+			[
+				45,
+				"세부",
+				"NNG",
+				"또한 게임을 악용할 수 있었던 방법에 대한 세부 정보를 원고측에 제공하라고 밝혔다."
+			],
+			[
+				46,
+				"정보",
+				"NNG",
+				"또한 게임을 악용할 수 있었던 방법에 대한 세부 정보를 원고측에 제공하라고 밝혔다."
+			],
+			[
+				47,
+				"원고",
+				"NNG",
+				"또한 게임을 악용할 수 있었던 방법에 대한 세부 정보를 원고측에 제공하라고 밝혔다."
+			],
+			[
+				48,
+				"측",
+				"NNB",
+				"또한 게임을 악용할 수 있었던 방법에 대한 세부 정보를 원고측에 제공하라고 밝혔다."
+			]
+		],
+		"NN_Lst": [
+			[
+				0,
+				"배틀그라운드",
+				"NNP",
+				"'배틀그라운드 모바일'의 비인가 프로그램(핵)을 만들어 판매한 해킹 집단이 1000만달러(약 120억원)의 배상금을 물게 됐다."
+			],
+			[
+				1,
+				"모바일",
+				"NNG",
+				"'배틀그라운드 모바일'의 비인가 프로그램(핵)을 만들어 판매한 해킹 집단이 1000만달러(약 120억원)의 배상금을 물게 됐다."
+			],
+			[
+				2,
+				"인가",
+				"NNG",
+				"'배틀그라운드 모바일'의 비인가 프로그램(핵)을 만들어 판매한 해킹 집단이 1000만달러(약 120억원)의 배상금을 물게 됐다."
+			],
+			[
+				3,
+				"프로그램",
+				"NNG",
+				"'배틀그라운드 모바일'의 비인가 프로그램(핵)을 만들어 판매한 해킹 집단이 1000만달러(약 120억원)의 배상금을 물게 됐다."
+			],
+			[
+				4,
+				"핵",
+				"NNG",
+				"'배틀그라운드 모바일'의 비인가 프로그램(핵)을 만들어 판매한 해킹 집단이 1000만달러(약 120억원)의 배상금을 물게 됐다."
+			],
+			[
+				5,
+				"해킹",
+				"NNG",
+				"'배틀그라운드 모바일'의 비인가 프로그램(핵)을 만들어 판매한 해킹 집단이 1000만달러(약 120억원)의 배상금을 물게 됐다."
+			],
+			[
+				6,
+				"집단",
+				"NNG",
+				"'배틀그라운드 모바일'의 비인가 프로그램(핵)을 만들어 판매한 해킹 집단이 1000만달러(약 120억원)의 배상금을 물게 됐다."
+			],
+			[
+				7,
+				"달러",
+				"NNB",
+				"'배틀그라운드 모바일'의 비인가 프로그램(핵)을 만들어 판매한 해킹 집단이 1000만달러(약 120억원)의 배상금을 물게 됐다."
+			],
+			[
+				8,
+				"원",
+				"NNB",
+				"'배틀그라운드 모바일'의 비인가 프로그램(핵)을 만들어 판매한 해킹 집단이 1000만달러(약 120억원)의 배상금을 물게 됐다."
+			],
+			[
+				9,
+				"배상금",
+				"NNG",
+				"'배틀그라운드 모바일'의 비인가 프로그램(핵)을 만들어 판매한 해킹 집단이 1000만달러(약 120억원)의 배상금을 물게 됐다."
+			],
+			[
+				10,
+				"모바일",
+				"NNG",
+				"'배틀그라운드 모바일'을 개발 및 서비스하는 텐센트게임즈와 크래프톤은 최근 해킹 집단을 상대로 미국과 독일에서 제기한 손해배상청구소송에서 승소했다고 밝혔다."
+			],
+			[
+				11,
+				"개발",
+				"NNG",
+				"'배틀그라운드 모바일'을 개발 및 서비스하는 텐센트게임즈와 크래프톤은 최근 해킹 집단을 상대로 미국과 독일에서 제기한 손해배상청구소송에서 승소했다고 밝혔다."
+			],
+			[
+				12,
+				"텐센트",
+				"NNP",
+				"'배틀그라운드 모바일'을 개발 및 서비스하는 텐센트게임즈와 크래프톤은 최근 해킹 집단을 상대로 미국과 독일에서 제기한 손해배상청구소송에서 승소했다고 밝혔다."
+			],
+			[
+				13,
+				"게임즈",
+				"NNP",
+				"'배틀그라운드 모바일'을 개발 및 서비스하는 텐센트게임즈와 크래프톤은 최근 해킹 집단을 상대로 미국과 독일에서 제기한 손해배상청구소송에서 승소했다고 밝혔다."
+			],
+			[
+				14,
+				"크래프톤",
+				"NNP",
+				"'배틀그라운드 모바일'을 개발 및 서비스하는 텐센트게임즈와 크래프톤은 최근 해킹 집단을 상대로 미국과 독일에서 제기한 손해배상청구소송에서 승소했다고 밝혔다."
+			],
+			[
+				15,
+				"최근",
+				"NNG",
+				"'배틀그라운드 모바일'을 개발 및 서비스하는 텐센트게임즈와 크래프톤은 최근 해킹 집단을 상대로 미국과 독일에서 제기한 손해배상청구소송에서 승소했다고 밝혔다."
+			],
+			[
+				16,
+				"해킹",
+				"NNG",
+				"'배틀그라운드 모바일'을 개발 및 서비스하는 텐센트게임즈와 크래프톤은 최근 해킹 집단을 상대로 미국과 독일에서 제기한 손해배상청구소송에서 승소했다고 밝혔다."
+			],
+			[
+				17,
+				"집단",
+				"NNG",
+				"'배틀그라운드 모바일'을 개발 및 서비스하는 텐센트게임즈와 크래프톤은 최근 해킹 집단을 상대로 미국과 독일에서 제기한 손해배상청구소송에서 승소했다고 밝혔다."
+			],
+			[
+				18,
+				"상대",
+				"NNG",
+				"'배틀그라운드 모바일'을 개발 및 서비스하는 텐센트게임즈와 크래프톤은 최근 해킹 집단을 상대로 미국과 독일에서 제기한 손해배상청구소송에서 승소했다고 밝혔다."
+			],
+			[
+				19,
+				"미국",
+				"NNP",
+				"'배틀그라운드 모바일'을 개발 및 서비스하는 텐센트게임즈와 크래프톤은 최근 해킹 집단을 상대로 미국과 독일에서 제기한 손해배상청구소송에서 승소했다고 밝혔다."
+			],
+			[
+				20,
+				"독일",
+				"NNP",
+				"'배틀그라운드 모바일'을 개발 및 서비스하는 텐센트게임즈와 크래프톤은 최근 해킹 집단을 상대로 미국과 독일에서 제기한 손해배상청구소송에서 승소했다고 밝혔다."
+			],
+			[
+				21,
+				"손해",
+				"NNG",
+				"'배틀그라운드 모바일'을 개발 및 서비스하는 텐센트게임즈와 크래프톤은 최근 해킹 집단을 상대로 미국과 독일에서 제기한 손해배상청구소송에서 승소했다고 밝혔다."
+			],
+			[
+				22,
+				"배상",
+				"NNG",
+				"'배틀그라운드 모바일'을 개발 및 서비스하는 텐센트게임즈와 크래프톤은 최근 해킹 집단을 상대로 미국과 독일에서 제기한 손해배상청구소송에서 승소했다고 밝혔다."
+			],
+			[
+				23,
+				"청구",
+				"NNG",
+				"'배틀그라운드 모바일'을 개발 및 서비스하는 텐센트게임즈와 크래프톤은 최근 해킹 집단을 상대로 미국과 독일에서 제기한 손해배상청구소송에서 승소했다고 밝혔다."
+			],
+			[
+				24,
+				"소송",
+				"NNG",
+				"'배틀그라운드 모바일'을 개발 및 서비스하는 텐센트게임즈와 크래프톤은 최근 해킹 집단을 상대로 미국과 독일에서 제기한 손해배상청구소송에서 승소했다고 밝혔다."
+			],
+			[
+				25,
+				"미국",
+				"NNP",
+				"미국 및 독일 연방 법원은 피고측에 약 1000만달러의 손해 배상금을 지불하고 게임 부정 행위와 관련된 불법 활동을 중단하라고 명령했다."
+			],
+			[
+				26,
+				"독일",
+				"NNP",
+				"미국 및 독일 연방 법원은 피고측에 약 1000만달러의 손해 배상금을 지불하고 게임 부정 행위와 관련된 불법 활동을 중단하라고 명령했다."
+			],
+			[
+				27,
+				"연방",
+				"NNG",
+				"미국 및 독일 연방 법원은 피고측에 약 1000만달러의 손해 배상금을 지불하고 게임 부정 행위와 관련된 불법 활동을 중단하라고 명령했다."
+			],
+			[
+				28,
+				"법원",
+				"NNG",
+				"미국 및 독일 연방 법원은 피고측에 약 1000만달러의 손해 배상금을 지불하고 게임 부정 행위와 관련된 불법 활동을 중단하라고 명령했다."
+			],
+			[
+				29,
+				"피고",
+				"NNG",
+				"미국 및 독일 연방 법원은 피고측에 약 1000만달러의 손해 배상금을 지불하고 게임 부정 행위와 관련된 불법 활동을 중단하라고 명령했다."
+			],
+			[
+				30,
+				"측",
+				"NNB",
+				"미국 및 독일 연방 법원은 피고측에 약 1000만달러의 손해 배상금을 지불하고 게임 부정 행위와 관련된 불법 활동을 중단하라고 명령했다."
+			],
+			[
+				31,
+				"달러",
+				"NNB",
+				"미국 및 독일 연방 법원은 피고측에 약 1000만달러의 손해 배상금을 지불하고 게임 부정 행위와 관련된 불법 활동을 중단하라고 명령했다."
+			],
+			[
+				32,
+				"손해",
+				"NNG",
+				"미국 및 독일 연방 법원은 피고측에 약 1000만달러의 손해 배상금을 지불하고 게임 부정 행위와 관련된 불법 활동을 중단하라고 명령했다."
+			],
+			[
+				33,
+				"배상금",
+				"NNG",
+				"미국 및 독일 연방 법원은 피고측에 약 1000만달러의 손해 배상금을 지불하고 게임 부정 행위와 관련된 불법 활동을 중단하라고 명령했다."
+			],
+			[
+				34,
+				"게임",
+				"NNG",
+				"미국 및 독일 연방 법원은 피고측에 약 1000만달러의 손해 배상금을 지불하고 게임 부정 행위와 관련된 불법 활동을 중단하라고 명령했다."
+			],
+			[
+				35,
+				"부정",
+				"NNG",
+				"미국 및 독일 연방 법원은 피고측에 약 1000만달러의 손해 배상금을 지불하고 게임 부정 행위와 관련된 불법 활동을 중단하라고 명령했다."
+			],
+			[
+				36,
+				"행위",
+				"NNG",
+				"미국 및 독일 연방 법원은 피고측에 약 1000만달러의 손해 배상금을 지불하고 게임 부정 행위와 관련된 불법 활동을 중단하라고 명령했다."
+			],
+			[
+				37,
+				"불법",
+				"NNG",
+				"미국 및 독일 연방 법원은 피고측에 약 1000만달러의 손해 배상금을 지불하고 게임 부정 행위와 관련된 불법 활동을 중단하라고 명령했다."
+			],
+			[
+				38,
+				"활동",
+				"NNG",
+				"미국 및 독일 연방 법원은 피고측에 약 1000만달러의 손해 배상금을 지불하고 게임 부정 행위와 관련된 불법 활동을 중단하라고 명령했다."
+			],
+			[
+				39,
+				"게임",
+				"NNG",
+				"또한 게임을 악용할 수 있었던 방법에 대한 세부 정보를 원고측에 제공하라고 밝혔다."
+			],
+			[
+				40,
+				"수",
+				"NNB",
+				"또한 게임을 악용할 수 있었던 방법에 대한 세부 정보를 원고측에 제공하라고 밝혔다."
+			],
+			[
+				41,
+				"방법",
+				"NNG",
+				"또한 게임을 악용할 수 있었던 방법에 대한 세부 정보를 원고측에 제공하라고 밝혔다."
+			],
+			[
+				42,
+				"세부",
+				"NNG",
+				"또한 게임을 악용할 수 있었던 방법에 대한 세부 정보를 원고측에 제공하라고 밝혔다."
+			],
+			[
+				43,
+				"정보",
+				"NNG",
+				"또한 게임을 악용할 수 있었던 방법에 대한 세부 정보를 원고측에 제공하라고 밝혔다."
+			],
+			[
+				44,
+				"원고",
+				"NNG",
+				"또한 게임을 악용할 수 있었던 방법에 대한 세부 정보를 원고측에 제공하라고 밝혔다."
+			],
+			[
+				45,
+				"측",
+				"NNB",
+				"또한 게임을 악용할 수 있었던 방법에 대한 세부 정보를 원고측에 제공하라고 밝혔다."
+			]
+		],
+		"NNG_Lst": [
+			[
+				0,
+				"모바일",
+				"NNG",
+				"'배틀그라운드 모바일'의 비인가 프로그램(핵)을 만들어 판매한 해킹 집단이 1000만달러(약 120억원)의 배상금을 물게 됐다."
+			],
+			[
+				1,
+				"인가",
+				"NNG",
+				"'배틀그라운드 모바일'의 비인가 프로그램(핵)을 만들어 판매한 해킹 집단이 1000만달러(약 120억원)의 배상금을 물게 됐다."
+			],
+			[
+				2,
+				"프로그램",
+				"NNG",
+				"'배틀그라운드 모바일'의 비인가 프로그램(핵)을 만들어 판매한 해킹 집단이 1000만달러(약 120억원)의 배상금을 물게 됐다."
+			],
+			[
+				3,
+				"핵",
+				"NNG",
+				"'배틀그라운드 모바일'의 비인가 프로그램(핵)을 만들어 판매한 해킹 집단이 1000만달러(약 120억원)의 배상금을 물게 됐다."
+			],
+			[
+				4,
+				"해킹",
+				"NNG",
+				"'배틀그라운드 모바일'의 비인가 프로그램(핵)을 만들어 판매한 해킹 집단이 1000만달러(약 120억원)의 배상금을 물게 됐다."
+			],
+			[
+				5,
+				"집단",
+				"NNG",
+				"'배틀그라운드 모바일'의 비인가 프로그램(핵)을 만들어 판매한 해킹 집단이 1000만달러(약 120억원)의 배상금을 물게 됐다."
+			],
+			[
+				6,
+				"배상금",
+				"NNG",
+				"'배틀그라운드 모바일'의 비인가 프로그램(핵)을 만들어 판매한 해킹 집단이 1000만달러(약 120억원)의 배상금을 물게 됐다."
+			],
+			[
+				7,
+				"모바일",
+				"NNG",
+				"'배틀그라운드 모바일'을 개발 및 서비스하는 텐센트게임즈와 크래프톤은 최근 해킹 집단을 상대로 미국과 독일에서 제기한 손해배상청구소송에서 승소했다고 밝혔다."
+			],
+			[
+				8,
+				"개발",
+				"NNG",
+				"'배틀그라운드 모바일'을 개발 및 서비스하는 텐센트게임즈와 크래프톤은 최근 해킹 집단을 상대로 미국과 독일에서 제기한 손해배상청구소송에서 승소했다고 밝혔다."
+			],
+			[
+				9,
+				"최근",
+				"NNG",
+				"'배틀그라운드 모바일'을 개발 및 서비스하는 텐센트게임즈와 크래프톤은 최근 해킹 집단을 상대로 미국과 독일에서 제기한 손해배상청구소송에서 승소했다고 밝혔다."
+			],
+			[
+				10,
+				"해킹",
+				"NNG",
+				"'배틀그라운드 모바일'을 개발 및 서비스하는 텐센트게임즈와 크래프톤은 최근 해킹 집단을 상대로 미국과 독일에서 제기한 손해배상청구소송에서 승소했다고 밝혔다."
+			],
+			[
+				11,
+				"집단",
+				"NNG",
+				"'배틀그라운드 모바일'을 개발 및 서비스하는 텐센트게임즈와 크래프톤은 최근 해킹 집단을 상대로 미국과 독일에서 제기한 손해배상청구소송에서 승소했다고 밝혔다."
+			],
+			[
+				12,
+				"상대",
+				"NNG",
+				"'배틀그라운드 모바일'을 개발 및 서비스하는 텐센트게임즈와 크래프톤은 최근 해킹 집단을 상대로 미국과 독일에서 제기한 손해배상청구소송에서 승소했다고 밝혔다."
+			],
+			[
+				13,
+				"손해",
+				"NNG",
+				"'배틀그라운드 모바일'을 개발 및 서비스하는 텐센트게임즈와 크래프톤은 최근 해킹 집단을 상대로 미국과 독일에서 제기한 손해배상청구소송에서 승소했다고 밝혔다."
+			],
+			[
+				14,
+				"배상",
+				"NNG",
+				"'배틀그라운드 모바일'을 개발 및 서비스하는 텐센트게임즈와 크래프톤은 최근 해킹 집단을 상대로 미국과 독일에서 제기한 손해배상청구소송에서 승소했다고 밝혔다."
+			],
+			[
+				15,
+				"청구",
+				"NNG",
+				"'배틀그라운드 모바일'을 개발 및 서비스하는 텐센트게임즈와 크래프톤은 최근 해킹 집단을 상대로 미국과 독일에서 제기한 손해배상청구소송에서 승소했다고 밝혔다."
+			],
+			[
+				16,
+				"소송",
+				"NNG",
+				"'배틀그라운드 모바일'을 개발 및 서비스하는 텐센트게임즈와 크래프톤은 최근 해킹 집단을 상대로 미국과 독일에서 제기한 손해배상청구소송에서 승소했다고 밝혔다."
+			],
+			[
+				17,
+				"연방",
+				"NNG",
+				"미국 및 독일 연방 법원은 피고측에 약 1000만달러의 손해 배상금을 지불하고 게임 부정 행위와 관련된 불법 활동을 중단하라고 명령했다."
+			],
+			[
+				18,
+				"법원",
+				"NNG",
+				"미국 및 독일 연방 법원은 피고측에 약 1000만달러의 손해 배상금을 지불하고 게임 부정 행위와 관련된 불법 활동을 중단하라고 명령했다."
+			],
+			[
+				19,
+				"피고",
+				"NNG",
+				"미국 및 독일 연방 법원은 피고측에 약 1000만달러의 손해 배상금을 지불하고 게임 부정 행위와 관련된 불법 활동을 중단하라고 명령했다."
+			],
+			[
+				20,
+				"손해",
+				"NNG",
+				"미국 및 독일 연방 법원은 피고측에 약 1000만달러의 손해 배상금을 지불하고 게임 부정 행위와 관련된 불법 활동을 중단하라고 명령했다."
+			],
+			[
+				21,
+				"배상금",
+				"NNG",
+				"미국 및 독일 연방 법원은 피고측에 약 1000만달러의 손해 배상금을 지불하고 게임 부정 행위와 관련된 불법 활동을 중단하라고 명령했다."
+			],
+			[
+				22,
+				"게임",
+				"NNG",
+				"미국 및 독일 연방 법원은 피고측에 약 1000만달러의 손해 배상금을 지불하고 게임 부정 행위와 관련된 불법 활동을 중단하라고 명령했다."
+			],
+			[
+				23,
+				"부정",
+				"NNG",
+				"미국 및 독일 연방 법원은 피고측에 약 1000만달러의 손해 배상금을 지불하고 게임 부정 행위와 관련된 불법 활동을 중단하라고 명령했다."
+			],
+			[
+				24,
+				"행위",
+				"NNG",
+				"미국 및 독일 연방 법원은 피고측에 약 1000만달러의 손해 배상금을 지불하고 게임 부정 행위와 관련된 불법 활동을 중단하라고 명령했다."
+			],
+			[
+				25,
+				"불법",
+				"NNG",
+				"미국 및 독일 연방 법원은 피고측에 약 1000만달러의 손해 배상금을 지불하고 게임 부정 행위와 관련된 불법 활동을 중단하라고 명령했다."
+			],
+			[
+				26,
+				"활동",
+				"NNG",
+				"미국 및 독일 연방 법원은 피고측에 약 1000만달러의 손해 배상금을 지불하고 게임 부정 행위와 관련된 불법 활동을 중단하라고 명령했다."
+			],
+			[
+				27,
+				"게임",
+				"NNG",
+				"또한 게임을 악용할 수 있었던 방법에 대한 세부 정보를 원고측에 제공하라고 밝혔다."
+			],
+			[
+				28,
+				"방법",
+				"NNG",
+				"또한 게임을 악용할 수 있었던 방법에 대한 세부 정보를 원고측에 제공하라고 밝혔다."
+			],
+			[
+				29,
+				"세부",
+				"NNG",
+				"또한 게임을 악용할 수 있었던 방법에 대한 세부 정보를 원고측에 제공하라고 밝혔다."
+			],
+			[
+				30,
+				"정보",
+				"NNG",
+				"또한 게임을 악용할 수 있었던 방법에 대한 세부 정보를 원고측에 제공하라고 밝혔다."
+			],
+			[
+				31,
+				"원고",
+				"NNG",
+				"또한 게임을 악용할 수 있었던 방법에 대한 세부 정보를 원고측에 제공하라고 밝혔다."
+			]
+		],
+		"NNP_Lst": [
+			[
+				0,
+				"배틀그라운드",
+				"NNP",
+				"'배틀그라운드 모바일'의 비인가 프로그램(핵)을 만들어 판매한 해킹 집단이 1000만달러(약 120억원)의 배상금을 물게 됐다."
+			],
+			[
+				1,
+				"텐센트",
+				"NNP",
+				"'배틀그라운드 모바일'을 개발 및 서비스하는 텐센트게임즈와 크래프톤은 최근 해킹 집단을 상대로 미국과 독일에서 제기한 손해배상청구소송에서 승소했다고 밝혔다."
+			],
+			[
+				2,
+				"게임즈",
+				"NNP",
+				"'배틀그라운드 모바일'을 개발 및 서비스하는 텐센트게임즈와 크래프톤은 최근 해킹 집단을 상대로 미국과 독일에서 제기한 손해배상청구소송에서 승소했다고 밝혔다."
+			],
+			[
+				3,
+				"크래프톤",
+				"NNP",
+				"'배틀그라운드 모바일'을 개발 및 서비스하는 텐센트게임즈와 크래프톤은 최근 해킹 집단을 상대로 미국과 독일에서 제기한 손해배상청구소송에서 승소했다고 밝혔다."
+			],
+			[
+				4,
+				"미국",
+				"NNP",
+				"'배틀그라운드 모바일'을 개발 및 서비스하는 텐센트게임즈와 크래프톤은 최근 해킹 집단을 상대로 미국과 독일에서 제기한 손해배상청구소송에서 승소했다고 밝혔다."
+			],
+			[
+				5,
+				"독일",
+				"NNP",
+				"'배틀그라운드 모바일'을 개발 및 서비스하는 텐센트게임즈와 크래프톤은 최근 해킹 집단을 상대로 미국과 독일에서 제기한 손해배상청구소송에서 승소했다고 밝혔다."
+			],
+			[
+				6,
+				"미국",
+				"NNP",
+				"미국 및 독일 연방 법원은 피고측에 약 1000만달러의 손해 배상금을 지불하고 게임 부정 행위와 관련된 불법 활동을 중단하라고 명령했다."
+			],
+			[
+				7,
+				"독일",
+				"NNP",
+				"미국 및 독일 연방 법원은 피고측에 약 1000만달러의 손해 배상금을 지불하고 게임 부정 행위와 관련된 불법 활동을 중단하라고 명령했다."
+			]
+		],
+		"NNB_Lst": [
+			[
+				0,
+				"달러",
+				"NNB",
+				"'배틀그라운드 모바일'의 비인가 프로그램(핵)을 만들어 판매한 해킹 집단이 1000만달러(약 120억원)의 배상금을 물게 됐다."
+			],
+			[
+				1,
+				"원",
+				"NNB",
+				"'배틀그라운드 모바일'의 비인가 프로그램(핵)을 만들어 판매한 해킹 집단이 1000만달러(약 120억원)의 배상금을 물게 됐다."
+			],
+			[
+				2,
+				"측",
+				"NNB",
+				"미국 및 독일 연방 법원은 피고측에 약 1000만달러의 손해 배상금을 지불하고 게임 부정 행위와 관련된 불법 활동을 중단하라고 명령했다."
+			],
+			[
+				3,
+				"달러",
+				"NNB",
+				"미국 및 독일 연방 법원은 피고측에 약 1000만달러의 손해 배상금을 지불하고 게임 부정 행위와 관련된 불법 활동을 중단하라고 명령했다."
+			],
+			[
+				4,
+				"수",
+				"NNB",
+				"또한 게임을 악용할 수 있었던 방법에 대한 세부 정보를 원고측에 제공하라고 밝혔다."
+			],
+			[
+				5,
+				"측",
+				"NNB",
+				"또한 게임을 악용할 수 있었던 방법에 대한 세부 정보를 원고측에 제공하라고 밝혔다."
+			]
+		],
+		"NP_Lst": [],
+		"NP_People_Lst": [],
+		"NP_Things_Lst": [],
+		"NR_Lst": [
+			[
+				0,
+				"만",
+				"NR",
+				"'배틀그라운드 모바일'의 비인가 프로그램(핵)을 만들어 판매한 해킹 집단이 1000만달러(약 120억원)의 배상금을 물게 됐다."
+			],
+			[
+				1,
+				"억",
+				"NR",
+				"'배틀그라운드 모바일'의 비인가 프로그램(핵)을 만들어 판매한 해킹 집단이 1000만달러(약 120억원)의 배상금을 물게 됐다."
+			],
+			[
+				2,
+				"만",
+				"NR",
+				"미국 및 독일 연방 법원은 피고측에 약 1000만달러의 손해 배상금을 지불하고 게임 부정 행위와 관련된 불법 활동을 중단하라고 명령했다."
+			]
+		],
+		"VL_Lst": [
+			[
+				0,
+				"만들",
+				"VV",
+				"'배틀그라운드 모바일'의 비인가 프로그램(핵)을 만들어 판매한 해킹 집단이 1000만달러(약 120억원)의 배상금을 물게 됐다."
+			],
+			[
+				1,
+				"판매하",
+				"VV",
+				"'배틀그라운드 모바일'의 비인가 프로그램(핵)을 만들어 판매한 해킹 집단이 1000만달러(약 120억원)의 배상금을 물게 됐다."
+			],
+			[
+				2,
+				"물",
+				"VV",
+				"'배틀그라운드 모바일'의 비인가 프로그램(핵)을 만들어 판매한 해킹 집단이 1000만달러(약 120억원)의 배상금을 물게 됐다."
+			],
+			[
+				3,
+				"되",
+				"VV",
+				"'배틀그라운드 모바일'의 비인가 프로그램(핵)을 만들어 판매한 해킹 집단이 1000만달러(약 120억원)의 배상금을 물게 됐다."
+			],
+			[
+				4,
+				"서비스하",
+				"VV",
+				"'배틀그라운드 모바일'을 개발 및 서비스하는 텐센트게임즈와 크래프톤은 최근 해킹 집단을 상대로 미국과 독일에서 제기한 손해배상청구소송에서 승소했다고 밝혔다."
+			],
+			[
+				5,
+				"제기하",
+				"VV",
+				"'배틀그라운드 모바일'을 개발 및 서비스하는 텐센트게임즈와 크래프톤은 최근 해킹 집단을 상대로 미국과 독일에서 제기한 손해배상청구소송에서 승소했다고 밝혔다."
+			],
+			[
+				6,
+				"승소하",
+				"VV",
+				"'배틀그라운드 모바일'을 개발 및 서비스하는 텐센트게임즈와 크래프톤은 최근 해킹 집단을 상대로 미국과 독일에서 제기한 손해배상청구소송에서 승소했다고 밝혔다."
+			],
+			[
+				7,
+				"밝히",
+				"VV",
+				"'배틀그라운드 모바일'을 개발 및 서비스하는 텐센트게임즈와 크래프톤은 최근 해킹 집단을 상대로 미국과 독일에서 제기한 손해배상청구소송에서 승소했다고 밝혔다."
+			],
+			[
+				8,
+				"지불하",
+				"VV",
+				"미국 및 독일 연방 법원은 피고측에 약 1000만달러의 손해 배상금을 지불하고 게임 부정 행위와 관련된 불법 활동을 중단하라고 명령했다."
+			],
+			[
+				9,
+				"관련되",
+				"VV",
+				"미국 및 독일 연방 법원은 피고측에 약 1000만달러의 손해 배상금을 지불하고 게임 부정 행위와 관련된 불법 활동을 중단하라고 명령했다."
+			],
+			[
+				10,
+				"중단하",
+				"VV",
+				"미국 및 독일 연방 법원은 피고측에 약 1000만달러의 손해 배상금을 지불하고 게임 부정 행위와 관련된 불법 활동을 중단하라고 명령했다."
+			],
+			[
+				11,
+				"명령하",
+				"VV",
+				"미국 및 독일 연방 법원은 피고측에 약 1000만달러의 손해 배상금을 지불하고 게임 부정 행위와 관련된 불법 활동을 중단하라고 명령했다."
+			],
+			[
+				12,
+				"악용하",
+				"VV",
+				"또한 게임을 악용할 수 있었던 방법에 대한 세부 정보를 원고측에 제공하라고 밝혔다."
+			],
+			[
+				13,
+				"있",
+				"VA",
+				"또한 게임을 악용할 수 있었던 방법에 대한 세부 정보를 원고측에 제공하라고 밝혔다."
+			],
+			[
+				14,
+				"대하",
+				"VV",
+				"또한 게임을 악용할 수 있었던 방법에 대한 세부 정보를 원고측에 제공하라고 밝혔다."
+			],
+			[
+				15,
+				"제공하",
+				"VV",
+				"또한 게임을 악용할 수 있었던 방법에 대한 세부 정보를 원고측에 제공하라고 밝혔다."
+			],
+			[
+				16,
+				"밝히",
+				"VV",
+				"또한 게임을 악용할 수 있었던 방법에 대한 세부 정보를 원고측에 제공하라고 밝혔다."
+			]
+		],
+		"VV_Lst": [
+			[
+				0,
+				"만들",
+				"VV",
+				"'배틀그라운드 모바일'의 비인가 프로그램(핵)을 만들어 판매한 해킹 집단이 1000만달러(약 120억원)의 배상금을 물게 됐다."
+			],
+			[
+				1,
+				"판매하",
+				"VV",
+				"'배틀그라운드 모바일'의 비인가 프로그램(핵)을 만들어 판매한 해킹 집단이 1000만달러(약 120억원)의 배상금을 물게 됐다."
+			],
+			[
+				2,
+				"물",
+				"VV",
+				"'배틀그라운드 모바일'의 비인가 프로그램(핵)을 만들어 판매한 해킹 집단이 1000만달러(약 120억원)의 배상금을 물게 됐다."
+			],
+			[
+				3,
+				"되",
+				"VV",
+				"'배틀그라운드 모바일'의 비인가 프로그램(핵)을 만들어 판매한 해킹 집단이 1000만달러(약 120억원)의 배상금을 물게 됐다."
+			],
+			[
+				4,
+				"서비스하",
+				"VV",
+				"'배틀그라운드 모바일'을 개발 및 서비스하는 텐센트게임즈와 크래프톤은 최근 해킹 집단을 상대로 미국과 독일에서 제기한 손해배상청구소송에서 승소했다고 밝혔다."
+			],
+			[
+				5,
+				"제기하",
+				"VV",
+				"'배틀그라운드 모바일'을 개발 및 서비스하는 텐센트게임즈와 크래프톤은 최근 해킹 집단을 상대로 미국과 독일에서 제기한 손해배상청구소송에서 승소했다고 밝혔다."
+			],
+			[
+				6,
+				"승소하",
+				"VV",
+				"'배틀그라운드 모바일'을 개발 및 서비스하는 텐센트게임즈와 크래프톤은 최근 해킹 집단을 상대로 미국과 독일에서 제기한 손해배상청구소송에서 승소했다고 밝혔다."
+			],
+			[
+				7,
+				"밝히",
+				"VV",
+				"'배틀그라운드 모바일'을 개발 및 서비스하는 텐센트게임즈와 크래프톤은 최근 해킹 집단을 상대로 미국과 독일에서 제기한 손해배상청구소송에서 승소했다고 밝혔다."
+			],
+			[
+				8,
+				"지불하",
+				"VV",
+				"미국 및 독일 연방 법원은 피고측에 약 1000만달러의 손해 배상금을 지불하고 게임 부정 행위와 관련된 불법 활동을 중단하라고 명령했다."
+			],
+			[
+				9,
+				"관련되",
+				"VV",
+				"미국 및 독일 연방 법원은 피고측에 약 1000만달러의 손해 배상금을 지불하고 게임 부정 행위와 관련된 불법 활동을 중단하라고 명령했다."
+			],
+			[
+				10,
+				"중단하",
+				"VV",
+				"미국 및 독일 연방 법원은 피고측에 약 1000만달러의 손해 배상금을 지불하고 게임 부정 행위와 관련된 불법 활동을 중단하라고 명령했다."
+			],
+			[
+				11,
+				"명령하",
+				"VV",
+				"미국 및 독일 연방 법원은 피고측에 약 1000만달러의 손해 배상금을 지불하고 게임 부정 행위와 관련된 불법 활동을 중단하라고 명령했다."
+			],
+			[
+				12,
+				"악용하",
+				"VV",
+				"또한 게임을 악용할 수 있었던 방법에 대한 세부 정보를 원고측에 제공하라고 밝혔다."
+			],
+			[
+				13,
+				"대하",
+				"VV",
+				"또한 게임을 악용할 수 있었던 방법에 대한 세부 정보를 원고측에 제공하라고 밝혔다."
+			],
+			[
+				14,
+				"제공하",
+				"VV",
+				"또한 게임을 악용할 수 있었던 방법에 대한 세부 정보를 원고측에 제공하라고 밝혔다."
+			],
+			[
+				15,
+				"밝히",
+				"VV",
+				"또한 게임을 악용할 수 있었던 방법에 대한 세부 정보를 원고측에 제공하라고 밝혔다."
+			]
+		],
+		"VA_Lst": [
+			[
+				0,
+				"있",
+				"VA",
+				"또한 게임을 악용할 수 있었던 방법에 대한 세부 정보를 원고측에 제공하라고 밝혔다."
+			]
+		],
+		"VX_Lst": [],
+		"VCP_Lst": [],
+		"VCN_Lst": [],
+		"ML_Lst": [
+			[
+				0,
+				"및",
+				"MAG",
+				"'배틀그라운드 모바일'을 개발 및 서비스하는 텐센트게임즈와 크래프톤은 최근 해킹 집단을 상대로 미국과 독일에서 제기한 손해배상청구소송에서 승소했다고 밝혔다."
+			],
+			[
+				1,
+				"및",
+				"MAJ",
+				"미국 및 독일 연방 법원은 피고측에 약 1000만달러의 손해 배상금을 지불하고 게임 부정 행위와 관련된 불법 활동을 중단하라고 명령했다."
+			],
+			[
+				2,
+				"또한",
+				"MAG",
+				"또한 게임을 악용할 수 있었던 방법에 대한 세부 정보를 원고측에 제공하라고 밝혔다."
+			]
+		],
+		"MA_Lst": [],
+		"MM_Lst": [],
+		"J_Lst": [
+			[
+				0,
+				"의",
+				"JKG",
+				"'배틀그라운드 모바일'의 비인가 프로그램(핵)을 만들어 판매한 해킹 집단이 1000만달러(약 120억원)의 배상금을 물게 됐다."
+			],
+			[
+				1,
+				"을",
+				"JKO",
+				"'배틀그라운드 모바일'의 비인가 프로그램(핵)을 만들어 판매한 해킹 집단이 1000만달러(약 120억원)의 배상금을 물게 됐다."
+			],
+			[
+				2,
+				"이",
+				"JKS",
+				"'배틀그라운드 모바일'의 비인가 프로그램(핵)을 만들어 판매한 해킹 집단이 1000만달러(약 120억원)의 배상금을 물게 됐다."
+			],
+			[
+				3,
+				"의",
+				"JKG",
+				"'배틀그라운드 모바일'의 비인가 프로그램(핵)을 만들어 판매한 해킹 집단이 1000만달러(약 120억원)의 배상금을 물게 됐다."
+			],
+			[
+				4,
+				"을",
+				"JKO",
+				"'배틀그라운드 모바일'의 비인가 프로그램(핵)을 만들어 판매한 해킹 집단이 1000만달러(약 120억원)의 배상금을 물게 됐다."
+			],
+			[
+				5,
+				"을",
+				"JKO",
+				"'배틀그라운드 모바일'을 개발 및 서비스하는 텐센트게임즈와 크래프톤은 최근 해킹 집단을 상대로 미국과 독일에서 제기한 손해배상청구소송에서 승소했다고 밝혔다."
+			],
+			[
+				6,
+				"와",
+				"JC",
+				"'배틀그라운드 모바일'을 개발 및 서비스하는 텐센트게임즈와 크래프톤은 최근 해킹 집단을 상대로 미국과 독일에서 제기한 손해배상청구소송에서 승소했다고 밝혔다."
+			],
+			[
+				7,
+				"은",
+				"JX",
+				"'배틀그라운드 모바일'을 개발 및 서비스하는 텐센트게임즈와 크래프톤은 최근 해킹 집단을 상대로 미국과 독일에서 제기한 손해배상청구소송에서 승소했다고 밝혔다."
+			],
+			[
+				8,
+				"을",
+				"JKO",
+				"'배틀그라운드 모바일'을 개발 및 서비스하는 텐센트게임즈와 크래프톤은 최근 해킹 집단을 상대로 미국과 독일에서 제기한 손해배상청구소송에서 승소했다고 밝혔다."
+			],
+			[
+				9,
+				"로",
+				"JKB",
+				"'배틀그라운드 모바일'을 개발 및 서비스하는 텐센트게임즈와 크래프톤은 최근 해킹 집단을 상대로 미국과 독일에서 제기한 손해배상청구소송에서 승소했다고 밝혔다."
+			],
+			[
+				10,
+				"과",
+				"JC",
+				"'배틀그라운드 모바일'을 개발 및 서비스하는 텐센트게임즈와 크래프톤은 최근 해킹 집단을 상대로 미국과 독일에서 제기한 손해배상청구소송에서 승소했다고 밝혔다."
+			],
+			[
+				11,
+				"에서",
+				"JKB",
+				"'배틀그라운드 모바일'을 개발 및 서비스하는 텐센트게임즈와 크래프톤은 최근 해킹 집단을 상대로 미국과 독일에서 제기한 손해배상청구소송에서 승소했다고 밝혔다."
+			],
+			[
+				12,
+				"에서",
+				"JKB",
+				"'배틀그라운드 모바일'을 개발 및 서비스하는 텐센트게임즈와 크래프톤은 최근 해킹 집단을 상대로 미국과 독일에서 제기한 손해배상청구소송에서 승소했다고 밝혔다."
+			],
+			[
+				13,
+				"은",
+				"JX",
+				"미국 및 독일 연방 법원은 피고측에 약 1000만달러의 손해 배상금을 지불하고 게임 부정 행위와 관련된 불법 활동을 중단하라고 명령했다."
+			],
+			[
+				14,
+				"에",
+				"JKB",
+				"미국 및 독일 연방 법원은 피고측에 약 1000만달러의 손해 배상금을 지불하고 게임 부정 행위와 관련된 불법 활동을 중단하라고 명령했다."
+			],
+			[
+				15,
+				"의",
+				"JKG",
+				"미국 및 독일 연방 법원은 피고측에 약 1000만달러의 손해 배상금을 지불하고 게임 부정 행위와 관련된 불법 활동을 중단하라고 명령했다."
+			],
+			[
+				16,
+				"을",
+				"JKO",
+				"미국 및 독일 연방 법원은 피고측에 약 1000만달러의 손해 배상금을 지불하고 게임 부정 행위와 관련된 불법 활동을 중단하라고 명령했다."
+			],
+			[
+				17,
+				"와",
+				"JC",
+				"미국 및 독일 연방 법원은 피고측에 약 1000만달러의 손해 배상금을 지불하고 게임 부정 행위와 관련된 불법 활동을 중단하라고 명령했다."
+			],
+			[
+				18,
+				"을",
+				"JKO",
+				"미국 및 독일 연방 법원은 피고측에 약 1000만달러의 손해 배상금을 지불하고 게임 부정 행위와 관련된 불법 활동을 중단하라고 명령했다."
+			],
+			[
+				19,
+				"을",
+				"JKO",
+				"또한 게임을 악용할 수 있었던 방법에 대한 세부 정보를 원고측에 제공하라고 밝혔다."
+			],
+			[
+				20,
+				"에",
+				"JKB",
+				"또한 게임을 악용할 수 있었던 방법에 대한 세부 정보를 원고측에 제공하라고 밝혔다."
+			],
+			[
+				21,
+				"를",
+				"JKO",
+				"또한 게임을 악용할 수 있었던 방법에 대한 세부 정보를 원고측에 제공하라고 밝혔다."
+			],
+			[
+				22,
+				"에",
+				"JKB",
+				"또한 게임을 악용할 수 있었던 방법에 대한 세부 정보를 원고측에 제공하라고 밝혔다."
+			]
+		],
+		"E_Lst": [
+			[
+				0,
+				"어",
+				"EC",
+				"'배틀그라운드 모바일'의 비인가 프로그램(핵)을 만들어 판매한 해킹 집단이 1000만달러(약 120억원)의 배상금을 물게 됐다."
+			],
+			[
+				1,
+				"ㄴ",
+				"ETM",
+				"'배틀그라운드 모바일'의 비인가 프로그램(핵)을 만들어 판매한 해킹 집단이 1000만달러(약 120억원)의 배상금을 물게 됐다."
+			],
+			[
+				2,
+				"게",
+				"EC",
+				"'배틀그라운드 모바일'의 비인가 프로그램(핵)을 만들어 판매한 해킹 집단이 1000만달러(약 120억원)의 배상금을 물게 됐다."
+			],
+			[
+				3,
+				"었",
+				"EP",
+				"'배틀그라운드 모바일'의 비인가 프로그램(핵)을 만들어 판매한 해킹 집단이 1000만달러(약 120억원)의 배상금을 물게 됐다."
+			],
+			[
+				4,
+				"다",
+				"EF",
+				"'배틀그라운드 모바일'의 비인가 프로그램(핵)을 만들어 판매한 해킹 집단이 1000만달러(약 120억원)의 배상금을 물게 됐다."
+			],
+			[
+				5,
+				"는",
+				"ETM",
+				"'배틀그라운드 모바일'을 개발 및 서비스하는 텐센트게임즈와 크래프톤은 최근 해킹 집단을 상대로 미국과 독일에서 제기한 손해배상청구소송에서 승소했다고 밝혔다."
+			],
+			[
+				6,
+				"ㄴ",
+				"ETM",
+				"'배틀그라운드 모바일'을 개발 및 서비스하는 텐센트게임즈와 크래프톤은 최근 해킹 집단을 상대로 미국과 독일에서 제기한 손해배상청구소송에서 승소했다고 밝혔다."
+			],
+			[
+				7,
+				"았",
+				"EP",
+				"'배틀그라운드 모바일'을 개발 및 서비스하는 텐센트게임즈와 크래프톤은 최근 해킹 집단을 상대로 미국과 독일에서 제기한 손해배상청구소송에서 승소했다고 밝혔다."
+			],
+			[
+				8,
+				"다고",
+				"EC",
+				"'배틀그라운드 모바일'을 개발 및 서비스하는 텐센트게임즈와 크래프톤은 최근 해킹 집단을 상대로 미국과 독일에서 제기한 손해배상청구소송에서 승소했다고 밝혔다."
+			],
+			[
+				9,
+				"었",
+				"EP",
+				"'배틀그라운드 모바일'을 개발 및 서비스하는 텐센트게임즈와 크래프톤은 최근 해킹 집단을 상대로 미국과 독일에서 제기한 손해배상청구소송에서 승소했다고 밝혔다."
+			],
+			[
+				10,
+				"다",
+				"EF",
+				"'배틀그라운드 모바일'을 개발 및 서비스하는 텐센트게임즈와 크래프톤은 최근 해킹 집단을 상대로 미국과 독일에서 제기한 손해배상청구소송에서 승소했다고 밝혔다."
+			],
+			[
+				11,
+				"고",
+				"EC",
+				"미국 및 독일 연방 법원은 피고측에 약 1000만달러의 손해 배상금을 지불하고 게임 부정 행위와 관련된 불법 활동을 중단하라고 명령했다."
+			],
+			[
+				12,
+				"ㄴ",
+				"ETM",
+				"미국 및 독일 연방 법원은 피고측에 약 1000만달러의 손해 배상금을 지불하고 게임 부정 행위와 관련된 불법 활동을 중단하라고 명령했다."
+			],
+			[
+				13,
+				"라고",
+				"EC",
+				"미국 및 독일 연방 법원은 피고측에 약 1000만달러의 손해 배상금을 지불하고 게임 부정 행위와 관련된 불법 활동을 중단하라고 명령했다."
+			],
+			[
+				14,
+				"았",
+				"EP",
+				"미국 및 독일 연방 법원은 피고측에 약 1000만달러의 손해 배상금을 지불하고 게임 부정 행위와 관련된 불법 활동을 중단하라고 명령했다."
+			],
+			[
+				15,
+				"다",
+				"EF",
+				"미국 및 독일 연방 법원은 피고측에 약 1000만달러의 손해 배상금을 지불하고 게임 부정 행위와 관련된 불법 활동을 중단하라고 명령했다."
+			],
+			[
+				16,
+				"ㄹ",
+				"ETM",
+				"또한 게임을 악용할 수 있었던 방법에 대한 세부 정보를 원고측에 제공하라고 밝혔다."
+			],
+			[
+				17,
+				"었",
+				"EP",
+				"또한 게임을 악용할 수 있었던 방법에 대한 세부 정보를 원고측에 제공하라고 밝혔다."
+			],
+			[
+				18,
+				"던",
+				"ETM",
+				"또한 게임을 악용할 수 있었던 방법에 대한 세부 정보를 원고측에 제공하라고 밝혔다."
+			],
+			[
+				19,
+				"ㄴ",
+				"ETM",
+				"또한 게임을 악용할 수 있었던 방법에 대한 세부 정보를 원고측에 제공하라고 밝혔다."
+			],
+			[
+				20,
+				"라고",
+				"EC",
+				"또한 게임을 악용할 수 있었던 방법에 대한 세부 정보를 원고측에 제공하라고 밝혔다."
+			],
+			[
+				21,
+				"었",
+				"EP",
+				"또한 게임을 악용할 수 있었던 방법에 대한 세부 정보를 원고측에 제공하라고 밝혔다."
+			],
+			[
+				22,
+				"다",
+				"EF",
+				"또한 게임을 악용할 수 있었던 방법에 대한 세부 정보를 원고측에 제공하라고 밝혔다."
+			]
+		],
+		"X_Lst": [
+			[
+				0,
+				"비",
+				"XPN",
+				"'배틀그라운드 모바일'의 비인가 프로그램(핵)을 만들어 판매한 해킹 집단이 1000만달러(약 120억원)의 배상금을 물게 됐다."
+			]
+		],
+		"IC_Lst": []
+	},
+	"NDW": {
+		"morph_NDW": 88,
+		"NL_NDW": 49,
+		"NNG_NDW": 32,
+		"NNP_NDW": 8,
+		"NNB_NDW": 6,
+		"NP_NDW": 0,
+		"NR_NDW": 3,
+		"VL_NDW": 17,
+		"VV_NDW": 16,
+		"VA_NDW": 1,
+		"ML_NDW": 3,
+		"MM_NDW": 0,
+		"IC_NDW": 0,
+		"J_NDW": 23,
+		"E_NDW": 23,
+		"X_NDW": 1,
+		"CL_NDW": 69,
+		"FL_NDW": 47
+	}
+}

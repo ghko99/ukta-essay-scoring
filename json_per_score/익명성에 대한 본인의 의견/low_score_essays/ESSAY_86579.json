@@ -1,0 +1,3421 @@
+﻿{
+	"morpheme": {
+		"sentences": [
+			{
+				"text": {
+					"content": "용혜인 기본소득당 의원(이하 용)= 지난 어떤 대선보다 정책이 사라졌다.",
+					"length": 40,
+					"beginOffset": 0
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "용혜인",
+							"length": 3,
+							"beginOffset": 0
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "용혜인",
+									"length": 3,
+									"beginOffset": 0
+								},
+								"tag": "NNP",
+								"probability": 0.57594925,
+								"outOfVocab": "OUT_OF_VOCAB"
+							}
+						],
+						"lemma": "용혜인",
+						"tagged": "용혜인/NNP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "기본소득당",
+							"beginOffset": 4,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "기본",
+									"beginOffset": 4,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.8792497,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "소득당",
+									"beginOffset": 6,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.5273682,
+								"outOfVocab": "OUT_OF_VOCAB"
+							}
+						],
+						"lemma": "기본",
+						"tagged": "기본/NNG+소득당/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "의원(이하",
+							"beginOffset": 10,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "의원",
+									"beginOffset": 10,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97569203,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "(",
+									"beginOffset": 12,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9999384,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이하",
+									"beginOffset": 13,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98471934,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "의원",
+						"tagged": "의원/NNG+(/SS+이하/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "용)=",
+							"beginOffset": 16,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "용",
+									"beginOffset": 16,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.77458704,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ")",
+									"beginOffset": 17,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9999775,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "=",
+									"beginOffset": 18,
+									"length": 1
+								},
+								"tag": "SW",
+								"probability": 0.9995543,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "용",
+						"tagged": "용/NNG+)/SS+=/SW",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "지난",
+							"beginOffset": 20,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "지나",
+									"beginOffset": 20,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9913094,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 21,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99978083,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "지나",
+						"tagged": "지나/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "어떤",
+							"beginOffset": 23,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "어떤",
+									"beginOffset": 23,
+									"length": 2
+								},
+								"tag": "MMD",
+								"probability": 0.9998295,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "어떤",
+						"tagged": "어떤/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "대선보다",
+							"beginOffset": 26,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "대선",
+									"beginOffset": 26,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.981406,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "보다",
+									"beginOffset": 28,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.99242264,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "대선",
+						"tagged": "대선/NNG+보다/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "정책이",
+							"beginOffset": 31,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "정책",
+									"beginOffset": 31,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98686117,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 33,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9889488,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "정책",
+						"tagged": "정책/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사라졌다.",
+							"beginOffset": 35,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사라지",
+									"beginOffset": 35,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.9906139,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 37,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99990255,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 38,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.99194014,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 39,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99972045,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사라지",
+						"tagged": "사라지/VV+었/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "용혜인 기본소득당 의원(이하 용)= 지난 어떤 대선보다 정책이 사라졌다."
+			},
+			{
+				"text": {
+					"content": "저희 당은 마흔이 넘는 사람이 드물어(한국의 대선 후보 출마 자격은 만 40세 이상) 대선 후보를 찾기가 힘들었다.",
+					"beginOffset": 41,
+					"length": 64
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "저희",
+							"beginOffset": 41,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "저희",
+									"beginOffset": 41,
+									"length": 2
+								},
+								"tag": "NP",
+								"probability": 0.985892,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "저희",
+						"tagged": "저희/NP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "당은",
+							"beginOffset": 44,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "당",
+									"beginOffset": 44,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9652394,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 45,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9992168,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "당",
+						"tagged": "당/NNG+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "마흔이",
+							"beginOffset": 47,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "마흔",
+									"beginOffset": 47,
+									"length": 2
+								},
+								"tag": "NR",
+								"probability": 0.9908487,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 49,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.96726984,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "마흔",
+						"tagged": "마흔/NR+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "넘는",
+							"beginOffset": 51,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "넘",
+									"beginOffset": 51,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.98747194,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 52,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99995977,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "넘",
+						"tagged": "넘/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사람이",
+							"beginOffset": 54,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사람",
+									"beginOffset": 54,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9840831,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 56,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.94611317,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사람",
+						"tagged": "사람/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "드물어",
+							"beginOffset": 58,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "드물",
+									"beginOffset": 58,
+									"length": 2
+								},
+								"tag": "VA",
+								"probability": 0.98494756,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어",
+									"beginOffset": 60,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9061656,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "드물",
+						"tagged": "드물/VA+어/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "(한국의",
+							"beginOffset": 61,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "(",
+									"beginOffset": 61,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9999155,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "한국",
+									"beginOffset": 62,
+									"length": 2
+								},
+								"tag": "NNP",
+								"probability": 0.9493087,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 64,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9996652,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "(",
+						"tagged": "(/SS+한국/NNP+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "대선",
+							"beginOffset": 66,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "대선",
+									"beginOffset": 66,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97897345,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "대선",
+						"tagged": "대선/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "후보",
+							"beginOffset": 69,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "후보",
+									"beginOffset": 69,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9847148,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "후보",
+						"tagged": "후보/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "출마",
+							"beginOffset": 72,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "출마",
+									"beginOffset": 72,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9842461,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "출마",
+						"tagged": "출마/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "자격은",
+							"beginOffset": 75,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "자격",
+									"beginOffset": 75,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9789234,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 77,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99804515,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "자격",
+						"tagged": "자격/NNG+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "만",
+							"beginOffset": 79,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "만",
+									"beginOffset": 79,
+									"length": 1
+								},
+								"tag": "MMA",
+								"probability": 0.9993743,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "만",
+						"tagged": "만/MMA",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "40세",
+							"beginOffset": 81,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "40",
+									"beginOffset": 81,
+									"length": 2
+								},
+								"tag": "SN",
+								"probability": 0.9984117,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "세",
+									"beginOffset": 83,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9764377,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "40",
+						"tagged": "40/SN+세/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이상)",
+							"beginOffset": 85,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이상",
+									"beginOffset": 85,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97145355,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ")",
+									"beginOffset": 87,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9997287,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이상",
+						"tagged": "이상/NNG+)/SS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "대선",
+							"beginOffset": 89,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "대선",
+									"beginOffset": 89,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9832811,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "대선",
+						"tagged": "대선/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "후보를",
+							"beginOffset": 92,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "후보",
+									"beginOffset": 92,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97986436,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 94,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99983037,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "후보",
+						"tagged": "후보/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "찾기가",
+							"beginOffset": 96,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "찾",
+									"beginOffset": 96,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.98998356,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "기",
+									"beginOffset": 97,
+									"length": 1
+								},
+								"tag": "ETN",
+								"probability": 0.9997927,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 98,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.99025613,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "찾",
+						"tagged": "찾/VV+기/ETN+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "힘들었다.",
+							"beginOffset": 100,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "힘들",
+									"beginOffset": 100,
+									"length": 2
+								},
+								"tag": "VA",
+								"probability": 0.989654,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 102,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9998924,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 103,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9923859,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 104,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9998371,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "힘들",
+						"tagged": "힘들/VA+었/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "저희 당은 마흔이 넘는 사람이 드물어 (한국의 대선 후보 출마 자격은 만 40세 이상) 대선 후보를 찾기가 힘들었다."
+			},
+			{
+				"text": {
+					"content": "겨우 후보(오준호 후보)를 찾아 정책 발표를 하는데도 전혀 관심을 받지 못하고 보도도 되지 않는다.",
+					"beginOffset": 106,
+					"length": 55
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "겨우",
+							"beginOffset": 106,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "겨우",
+									"beginOffset": 106,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9852755,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "겨우",
+						"tagged": "겨우/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "후보(오준호",
+							"beginOffset": 109,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "후보",
+									"beginOffset": 109,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9672259,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "(",
+									"beginOffset": 111,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9998791,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "오준호",
+									"beginOffset": 112,
+									"length": 3
+								},
+								"tag": "NNP",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							}
+						],
+						"lemma": "후보",
+						"tagged": "후보/NNG+(/SS+오준호/NNP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "후보)를",
+							"beginOffset": 116,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "후보",
+									"beginOffset": 116,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9649304,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ")",
+									"beginOffset": 118,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.99999315,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 119,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999045,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "후보",
+						"tagged": "후보/NNG+)/SS+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "찾아",
+							"beginOffset": 121,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "찾",
+									"beginOffset": 121,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9889852,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 122,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.98695195,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "찾",
+						"tagged": "찾/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "정책",
+							"beginOffset": 124,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "정책",
+									"beginOffset": 124,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98262393,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "정책",
+						"tagged": "정책/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "발표를",
+							"beginOffset": 127,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "발표",
+									"beginOffset": 127,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9849145,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 129,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999216,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "발표",
+						"tagged": "발표/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "하는데도",
+							"beginOffset": 131,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 131,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.97130245,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는데",
+									"beginOffset": 132,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99234563,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 134,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99929434,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VV+는데/EC+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "전혀",
+							"beginOffset": 136,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "전혀",
+									"beginOffset": 136,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9924,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "전혀",
+						"tagged": "전혀/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "관심을",
+							"beginOffset": 139,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "관심",
+									"beginOffset": 139,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98268306,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 141,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999178,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "관심",
+						"tagged": "관심/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "받지",
+							"beginOffset": 143,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "받",
+									"beginOffset": 143,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9804835,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "지",
+									"beginOffset": 144,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99336094,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "받",
+						"tagged": "받/VV+지/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "못하고",
+							"beginOffset": 146,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "못하",
+									"beginOffset": 146,
+									"length": 2
+								},
+								"tag": "VX",
+								"probability": 0.9771964,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 148,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99371344,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "못하",
+						"tagged": "못하/VX+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "보도도",
+							"beginOffset": 150,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "보도",
+									"beginOffset": 150,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9845676,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 152,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9980045,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "보도",
+						"tagged": "보도/NNG+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "되지",
+							"beginOffset": 154,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "되",
+									"beginOffset": 154,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.978531,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "지",
+									"beginOffset": 155,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9735508,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "되",
+						"tagged": "되/VV+지/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "않는다.",
+							"beginOffset": 157,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "않",
+									"beginOffset": 157,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.70030123,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는다",
+									"beginOffset": 158,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.98913175,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 160,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9997976,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "않",
+						"tagged": "않/VX+는다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "겨우 후보(오준호 후보)를 찾아 정책 발표를 하는데도 전혀 관심을 받지 못하고 보도도 되지 않는다."
+			},
+			{
+				"text": {
+					"content": "소수·대안정당은 정책으로 선거를 치르려는데 거대 양당 대선 후보들의 각종 네거티브로 황금 같은 시간이 흘러가버리고 있다.",
+					"beginOffset": 162,
+					"length": 67
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "소수·대안정당은",
+							"beginOffset": 162,
+							"length": 8
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "소수",
+									"beginOffset": 162,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9771058,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "·",
+									"beginOffset": 164,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.9973268,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "대안",
+									"beginOffset": 165,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97992665,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "정당",
+									"beginOffset": 167,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9819287,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 169,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99939144,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "소수",
+						"tagged": "소수/NNG+·/SP+대안/NNG+정당/NNG+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "정책으로",
+							"beginOffset": 171,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "정책",
+									"beginOffset": 171,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9861125,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으로",
+									"beginOffset": 173,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.99559796,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "정책",
+						"tagged": "정책/NNG+으로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "선거를",
+							"beginOffset": 176,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "선거",
+									"beginOffset": 176,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9836262,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 178,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99998677,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "선거",
+						"tagged": "선거/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "치르려는데",
+							"beginOffset": 180,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "치르",
+									"beginOffset": 180,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.98513174,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "려는데",
+									"beginOffset": 182,
+									"length": 3
+								},
+								"tag": "EC",
+								"probability": 0.99476314,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "치르",
+						"tagged": "치르/VV+려는데/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "거대",
+							"beginOffset": 186,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "거대",
+									"beginOffset": 186,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9839997,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "거대",
+						"tagged": "거대/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "양당",
+							"beginOffset": 189,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "양당",
+									"beginOffset": 189,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.980482,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "양당",
+						"tagged": "양당/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "대선",
+							"beginOffset": 192,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "대선",
+									"beginOffset": 192,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98332876,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "대선",
+						"tagged": "대선/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "후보들의",
+							"beginOffset": 195,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "후보",
+									"beginOffset": 195,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9873841,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "들",
+									"beginOffset": 197,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.9898452,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 198,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99969983,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "후보",
+						"tagged": "후보/NNG+들/XSN+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "각종",
+							"beginOffset": 200,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "각종",
+									"beginOffset": 200,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98205775,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "각종",
+						"tagged": "각종/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "네거티브로",
+							"beginOffset": 203,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "네거티브",
+									"beginOffset": 203,
+									"length": 4
+								},
+								"tag": "NNG",
+								"probability": 0.9840424,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "로",
+									"beginOffset": 207,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99572283,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "네거티브",
+						"tagged": "네거티브/NNG+로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "황금",
+							"beginOffset": 209,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "황금",
+									"beginOffset": 209,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98255044,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "황금",
+						"tagged": "황금/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "같은",
+							"beginOffset": 212,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "같",
+									"beginOffset": 212,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9870505,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 213,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99986255,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "같",
+						"tagged": "같/VA+은/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "시간이",
+							"beginOffset": 215,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "시간",
+									"beginOffset": 215,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9665205,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 217,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.93478644,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "시간",
+						"tagged": "시간/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "흘러가",
+							"beginOffset": 219,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "흘러가",
+									"beginOffset": 219,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.98710513,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 221,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99584144,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "흘러가",
+						"tagged": "흘러가/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "버리고",
+							"beginOffset": 222,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "버리",
+									"beginOffset": 222,
+									"length": 2
+								},
+								"tag": "VX",
+								"probability": 0.9726324,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 224,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9960341,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "버리",
+						"tagged": "버리/VX+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있다.",
+							"beginOffset": 226,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 226,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.94657254,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 227,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9944146,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 228,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99956656,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VX+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "소수·대안정당은 정책으로 선거를 치르려는데 거대 양당 대선 후보들의 각종 네거티브로 황금 같은 시간이 흘러가 버리고 있다."
+			}
+		],
+		"language": "ko_KR"
+	},
+	"ttr": {
+		"lemma_Cnt": 102,
+		"lemma_TTR": 0.7043478260869566,
+		"CL_TTR": 0.8333333333333334,
+		"NL_TTR": 0.7804878048780488,
+		"NN_TTR": 0.7692307692307693,
+		"NNG_TTR": 0.7428571428571429,
+		"NNP_TTR": 1.0,
+		"NNB_TTR": 1.0,
+		"NP_TTR": 1.0,
+		"NR_TTR": 1.0,
+		"VL_TTR": 0.9411764705882353,
+		"VV_TTR": 0.9,
+		"VA_TTR": 1.0,
+		"ML_TTR": 1.0,
+		"MM_TTR": 0,
+		"MA_TTR": 1.0,
+		"MAJ_TTR": 0,
+		"IC_TTR": 0,
+		"FL_TTR": 0.575,
+		"J_TTR": 0.5,
+		"E_TTR": 0.6842105263157895,
+		"X_TTR": 1.0,
+		"lemma_RTTR": 7.553288946746542,
+		"CL_RTTR": 6.454972243679028,
+		"NL_RTTR": 4.997560380435394,
+		"NN_RTTR": 4.803844614152614,
+		"NNG_RTTR": 4.394802124588286,
+		"NNP_RTTR": 1.7320508075688774,
+		"NNB_RTTR": 1.0,
+		"NP_RTTR": 1.0,
+		"NR_RTTR": 1.0,
+		"VL_RTTR": 3.8805700005813275,
+		"VV_RTTR": 2.846049894151541,
+		"VA_RTTR": 1.7320508075688774,
+		"ML_RTTR": 1.414213562373095,
+		"MM_RTTR": 0,
+		"MA_RTTR": 1.414213562373095,
+		"MAJ_RTTR": 0,
+		"IC_RTTR": 0,
+		"FL_RTTR": 3.636619309193636,
+		"J_RTTR": 2.23606797749979,
+		"E_RTTR": 2.9824045403173027,
+		"X_RTTR": 1.0,
+		"lemma_CTTR": 5.340981834505874,
+		"CL_CTTR": 4.564354645876384,
+		"NL_CTTR": 3.533808834395089,
+		"NN_CTTR": 3.396831102433787,
+		"NNG_CTTR": 3.1075943842694236,
+		"NNP_CTTR": 1.2247448713915892,
+		"NNB_CTTR": 0.7071067811865475,
+		"NP_CTTR": 0.7071067811865475,
+		"NR_CTTR": 0.7071067811865475,
+		"VL_CTTR": 2.743977362280141,
+		"VV_CTTR": 2.0124611797498106,
+		"VA_CTTR": 1.2247448713915892,
+		"ML_CTTR": 1.0,
+		"MM_CTTR": 0,
+		"MA_CTTR": 1.0,
+		"MAJ_CTTR": 0,
+		"IC_CTTR": 0,
+		"FL_CTTR": 2.571478174124758,
+		"J_CTTR": 1.5811388300841895,
+		"E_CTTR": 2.108878474699913,
+		"X_CTTR": 0.7071067811865475,
+		"lemma_MSTTR": 0.84,
+		"CL_MSTTR": 0.84,
+		"NL_MSTTR": 0.7804878048780488,
+		"NN_MSTTR": 0.7692307692307693,
+		"NNG_MSTTR": 0.7428571428571429,
+		"NNP_MSTTR": 1.0,
+		"NNB_MSTTR": 1.0,
+		"NP_MSTTR": 1.0,
+		"NR_MSTTR": 1.0,
+		"VL_MSTTR": 0.9411764705882353,
+		"VV_MSTTR": 0.9,
+		"VA_MSTTR": 1.0,
+		"ML_MSTTR": 1.0,
+		"MM_MSTTR": 0,
+		"MA_MSTTR": 1.0,
+		"MAJ_MSTTR": 0,
+		"IC_MSTTR": 0,
+		"FL_MSTTR": 0.575,
+		"J_MSTTR": 0.5,
+		"E_MSTTR": 0.6842105263157895,
+		"X_MSTTR": 1.0,
+		"lemma_MATTR": 0.8039393939393945,
+		"CL_MATTR": 0.8145454545454545,
+		"NL_MATTR": 0.7804878048780488,
+		"NN_MATTR": 0.7692307692307693,
+		"NNG_MATTR": 0.7428571428571429,
+		"NNP_MATTR": 1.0,
+		"NNB_MATTR": 1.0,
+		"NP_MATTR": 1.0,
+		"NR_MATTR": 1.0,
+		"VL_MATTR": 0.9411764705882353,
+		"VV_MATTR": 0.9,
+		"VA_MATTR": 1.0,
+		"ML_MATTR": 1.0,
+		"MM_MATTR": 0,
+		"MA_MATTR": 1.0,
+		"MAJ_MATTR": 0,
+		"IC_MATTR": 0,
+		"FL_MATTR": 0.575,
+		"J_MATTR": 0.5,
+		"E_MATTR": 0.6842105263157895,
+		"X_MATTR": 1.0,
+		"lemma_MTLD": 97.98816568047337,
+		"CL_MTLD": 100.80000000000004,
+		"NL_MTLD": 52.297777777777796,
+		"NN_MTLD": 47.320000000000014,
+		"NNG_MTLD": 35.0,
+		"NNP_MTLD": 0.0,
+		"NNB_MTLD": 0.0,
+		"NP_MTLD": 0.0,
+		"NR_MTLD": 0.0,
+		"VL_MTLD": 80.91999999999999,
+		"VV_MTLD": 28.000000000000007,
+		"VA_MTLD": 0.0,
+		"ML_MTLD": 0.0,
+		"MM_MTLD": 0.0,
+		"MA_MTLD": 0.0,
+		"MAJ_MTLD": 0.0,
+		"IC_MTLD": 0.0,
+		"FL_MTLD": 18.792270531400966,
+		"J_MTLD": 9.78494623655914,
+		"E_MTLD": 14.713873873873874,
+		"X_MTLD": 0.0,
+		"lemma_VOCDD": 99.67752948680663,
+		"CL_VOCDD": 110.25970337350624,
+		"NL_VOCDD": 0,
+		"NN_VOCDD": 0,
+		"NNG_VOCDD": 0,
+		"NNP_VOCDD": 0,
+		"NNB_VOCDD": 0,
+		"NP_VOCDD": 0,
+		"NR_VOCDD": 0,
+		"VL_VOCDD": 0,
+		"VV_VOCDD": 0,
+		"VA_VOCDD": 0,
+		"ML_VOCDD": 0,
+		"MM_VOCDD": 0,
+		"MA_VOCDD": 0,
+		"MAJ_VOCDD": 0,
+		"IC_VOCDD": 0,
+		"FL_VOCDD": 0,
+		"J_VOCDD": 0,
+		"E_VOCDD": 0,
+		"X_VOCDD": 0,
+		"lemma_HDD": 0.8494007733371036,
+		"CL_HDD": 0.8590921341928743,
+		"NL_HDD": 0.0,
+		"NN_HDD": 0.0,
+		"NNG_HDD": 0.0,
+		"NNP_HDD": 0.0,
+		"NNB_HDD": 0.0,
+		"NP_HDD": 0.0,
+		"NR_HDD": 0.0,
+		"VL_HDD": 0.0,
+		"VV_HDD": 0.0,
+		"VA_HDD": 0.0,
+		"ML_HDD": 0.0,
+		"MM_HDD": 0.0,
+		"MA_HDD": 0.0,
+		"MAJ_HDD": 0.0,
+		"IC_HDD": 0.0,
+		"FL_HDD": 0.0,
+		"J_HDD": 0.0,
+		"E_HDD": 0.0,
+		"X_HDD": 0.0
+	},
+	"similarity": {
+		"avgSentSimilarity": 0.1771099716424942,
+		"topicConsistency": 0.5098
+	},
+	"adjacency": {
+		"adjacent_sentence_overlap_all_lemmas": 70,
+		"adjacent_sentence_overlap_all_lemmas_normed": 3,
+		"binary_adjacent_sentence_overlap_all_lemmas": 3,
+		"adjacent_two_sentence_overlap_all_lemmas": 37,
+		"adjacent_two_sentence_overlap_all_lemmas_normed": 2,
+		"binary_adjacent_two_sentence_overlap_all_lemmas": 2,
+		"adjacent_sentence_overlap_content_lemmas": 40,
+		"adjacent_sentence_overlap_content_lemmas_normed": 3,
+		"binary_adjacent_sentence_overlap_content_lemmas": 3,
+		"adjacent_two_sentence_overlap_content_lemmas": 26,
+		"adjacent_two_sentence_overlap_content_lemmas_normed": 2,
+		"binary_adjacent_two_sentence_overlap_content_lemmas": 2,
+		"adjacent_sentence_overlap_function_lemmas": 23,
+		"adjacent_sentence_overlap_function_lemmas_normed": 3,
+		"binary_adjacent_sentence_overlap_function_lemmas": 3,
+		"adjacent_two_sentence_overlap_function_lemmas": 7,
+		"adjacent_two_sentence_overlap_function_lemmas_normed": 2,
+		"binary_adjacent_two_sentence_overlap_function_lemmas": 1,
+		"adjacent_sentence_overlap_noun_lemmas": 30,
+		"adjacent_sentence_overlap_noun_lemmas_normed": 3,
+		"binary_adjacent_sentence_overlap_noun_lemmas": 3,
+		"adjacent_two_sentence_overlap_noun_lemmas": 20,
+		"adjacent_two_sentence_overlap_noun_lemmas_normed": 2,
+		"binary_adjacent_two_sentence_overlap_noun_lemmas": 2,
+		"adjacent_sentence_overlap_verb_lemmas": 10,
+		"adjacent_sentence_overlap_verb_lemmas_normed": 3,
+		"binary_adjacent_sentence_overlap_verb_lemmas": 1,
+		"adjacent_two_sentence_overlap_verb_lemmas": 6,
+		"adjacent_two_sentence_overlap_verb_lemmas_normed": 2,
+		"binary_adjacent_two_sentence_overlap_verb_lemmas": 0,
+		"adjacent_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_sentence_overlap_adjective_lemmas_normed": 0,
+		"binary_adjacent_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_sentence_overlap_adverb_lemmas_normed": 0,
+		"binary_adjacent_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adverb_lemmas": 0
+	},
+	"basic_count": {
+		"para_Cnt": 1,
+		"sentence_Cnt": 4,
+		"word_Cnt": 55,
+		"morph_Cnt": 115,
+		"char_Cnt": 173,
+		"CL_Cnt": 60,
+		"NL_Cnt": 41,
+		"NN_Cnt": 39,
+		"NNG_Cnt": 35,
+		"NNP_Cnt": 3,
+		"NNB_Cnt": 1,
+		"NP_Cnt": 1,
+		"NP_People_Cnt": 1,
+		"NP_Things_Cnt": 0,
+		"NR_Cnt": 1,
+		"VL_Cnt": 17,
+		"VV_Cnt": 10,
+		"VA_Cnt": 3,
+		"VX_Cnt": 4,
+		"VCP_Cnt": 0,
+		"VCN_Cnt": 0,
+		"ML_Cnt": 2,
+		"MA_Cnt": 0,
+		"MM_Cnt": 0,
+		"FL_Cnt": 40,
+		"J_Cnt": 20,
+		"E_Cnt": 19,
+		"X_Cnt": 1,
+		"IC_Cnt": 0
+	},
+	"basic_density": {
+		"CL_Den": 0.5217391304347826,
+		"FL_Den": 0.34782608695652173,
+		"NL_Den": 0.3391304347826087,
+		"NNGL_Den": 0.30434782608695654,
+		"NNPL_Den": 0.02608695652173913,
+		"NNBL_Den": 0.008695652173913044,
+		"NPL_Den": 0.008695652173913044,
+		"NML_Den": 0.008695652173913044,
+		"VL_Den": 0.14782608695652175,
+		"VVL_Den": 0.08695652173913043,
+		"VAL_Den": 0.02608695652173913,
+		"ML_Den": 0.017391304347826087,
+		"MML_Den": 0.0,
+		"MAL_Den": 0.0,
+		"JL_Den": 0.17391304347826086,
+		"EL_Den": 0.16521739130434782,
+		"XL_Den": 0.008695652173913044,
+		"ITL_Den": 0.0,
+		"NCL_Den": 0.65,
+		"NNCL_Den": 0.5833333333333334,
+		"NNGCL_Den": 0.05,
+		"NNBCL_Den": 0.016666666666666666,
+		"NPCL_Den": 0.016666666666666666,
+		"NMCL_Den": 0.016666666666666666,
+		"VCL_Den": 0.2833333333333333,
+		"VVCL_Den": 0.16666666666666666,
+		"VACL_Den": 0.05,
+		"MCL_Den": 0.03333333333333333,
+		"MMCL_Den": 0.0,
+		"MACL_Den": 0.0,
+		"INCL_Den": 0.0,
+		"JFL_Den": 0.5,
+		"EFL_Den": 0.475,
+		"XFL_Den": 0.025
+	},
+	"basic_level": {
+		"morph_LenAvg": 1.5478260869565217,
+		"morph_LenStd": 0.6357943099280315,
+		"word_LenAvg": 2.981818181818182,
+		"word_LenStd": 1.3278952462916516
+	},
+	"basic_list": {
+		"NL_Lst": [
+			[
+				0,
+				"용혜인",
+				"NNP",
+				"용혜인 기본소득당 의원(이하 용)= 지난 어떤 대선보다 정책이 사라졌다."
+			],
+			[
+				1,
+				"기본",
+				"NNG",
+				"용혜인 기본소득당 의원(이하 용)= 지난 어떤 대선보다 정책이 사라졌다."
+			],
+			[
+				2,
+				"소득당",
+				"NNG",
+				"용혜인 기본소득당 의원(이하 용)= 지난 어떤 대선보다 정책이 사라졌다."
+			],
+			[
+				3,
+				"의원",
+				"NNG",
+				"용혜인 기본소득당 의원(이하 용)= 지난 어떤 대선보다 정책이 사라졌다."
+			],
+			[
+				4,
+				"이하",
+				"NNG",
+				"용혜인 기본소득당 의원(이하 용)= 지난 어떤 대선보다 정책이 사라졌다."
+			],
+			[
+				5,
+				"용",
+				"NNG",
+				"용혜인 기본소득당 의원(이하 용)= 지난 어떤 대선보다 정책이 사라졌다."
+			],
+			[
+				6,
+				"대선",
+				"NNG",
+				"용혜인 기본소득당 의원(이하 용)= 지난 어떤 대선보다 정책이 사라졌다."
+			],
+			[
+				7,
+				"정책",
+				"NNG",
+				"용혜인 기본소득당 의원(이하 용)= 지난 어떤 대선보다 정책이 사라졌다."
+			],
+			[
+				8,
+				"저희",
+				"NP",
+				"저희 당은 마흔이 넘는 사람이 드물어(한국의 대선 후보 출마 자격은 만 40세 이상) 대선 후보를 찾기가 힘들었다."
+			],
+			[
+				9,
+				"당",
+				"NNG",
+				"저희 당은 마흔이 넘는 사람이 드물어(한국의 대선 후보 출마 자격은 만 40세 이상) 대선 후보를 찾기가 힘들었다."
+			],
+			[
+				10,
+				"마흔",
+				"NR",
+				"저희 당은 마흔이 넘는 사람이 드물어(한국의 대선 후보 출마 자격은 만 40세 이상) 대선 후보를 찾기가 힘들었다."
+			],
+			[
+				11,
+				"사람",
+				"NNG",
+				"저희 당은 마흔이 넘는 사람이 드물어(한국의 대선 후보 출마 자격은 만 40세 이상) 대선 후보를 찾기가 힘들었다."
+			],
+			[
+				12,
+				"한국",
+				"NNP",
+				"저희 당은 마흔이 넘는 사람이 드물어(한국의 대선 후보 출마 자격은 만 40세 이상) 대선 후보를 찾기가 힘들었다."
+			],
+			[
+				13,
+				"대선",
+				"NNG",
+				"저희 당은 마흔이 넘는 사람이 드물어(한국의 대선 후보 출마 자격은 만 40세 이상) 대선 후보를 찾기가 힘들었다."
+			],
+			[
+				14,
+				"후보",
+				"NNG",
+				"저희 당은 마흔이 넘는 사람이 드물어(한국의 대선 후보 출마 자격은 만 40세 이상) 대선 후보를 찾기가 힘들었다."
+			],
+			[
+				15,
+				"출마",
+				"NNG",
+				"저희 당은 마흔이 넘는 사람이 드물어(한국의 대선 후보 출마 자격은 만 40세 이상) 대선 후보를 찾기가 힘들었다."
+			],
+			[
+				16,
+				"자격",
+				"NNG",
+				"저희 당은 마흔이 넘는 사람이 드물어(한국의 대선 후보 출마 자격은 만 40세 이상) 대선 후보를 찾기가 힘들었다."
+			],
+			[
+				17,
+				"세",
+				"NNB",
+				"저희 당은 마흔이 넘는 사람이 드물어(한국의 대선 후보 출마 자격은 만 40세 이상) 대선 후보를 찾기가 힘들었다."
+			],
+			[
+				18,
+				"이상",
+				"NNG",
+				"저희 당은 마흔이 넘는 사람이 드물어(한국의 대선 후보 출마 자격은 만 40세 이상) 대선 후보를 찾기가 힘들었다."
+			],
+			[
+				19,
+				"대선",
+				"NNG",
+				"저희 당은 마흔이 넘는 사람이 드물어(한국의 대선 후보 출마 자격은 만 40세 이상) 대선 후보를 찾기가 힘들었다."
+			],
+			[
+				20,
+				"후보",
+				"NNG",
+				"저희 당은 마흔이 넘는 사람이 드물어(한국의 대선 후보 출마 자격은 만 40세 이상) 대선 후보를 찾기가 힘들었다."
+			],
+			[
+				21,
+				"후보",
+				"NNG",
+				"겨우 후보(오준호 후보)를 찾아 정책 발표를 하는데도 전혀 관심을 받지 못하고 보도도 되지 않는다."
+			],
+			[
+				22,
+				"오준호",
+				"NNP",
+				"겨우 후보(오준호 후보)를 찾아 정책 발표를 하는데도 전혀 관심을 받지 못하고 보도도 되지 않는다."
+			],
+			[
+				23,
+				"후보",
+				"NNG",
+				"겨우 후보(오준호 후보)를 찾아 정책 발표를 하는데도 전혀 관심을 받지 못하고 보도도 되지 않는다."
+			],
+			[
+				24,
+				"정책",
+				"NNG",
+				"겨우 후보(오준호 후보)를 찾아 정책 발표를 하는데도 전혀 관심을 받지 못하고 보도도 되지 않는다."
+			],
+			[
+				25,
+				"발표",
+				"NNG",
+				"겨우 후보(오준호 후보)를 찾아 정책 발표를 하는데도 전혀 관심을 받지 못하고 보도도 되지 않는다."
+			],
+			[
+				26,
+				"관심",
+				"NNG",
+				"겨우 후보(오준호 후보)를 찾아 정책 발표를 하는데도 전혀 관심을 받지 못하고 보도도 되지 않는다."
+			],
+			[
+				27,
+				"보도",
+				"NNG",
+				"겨우 후보(오준호 후보)를 찾아 정책 발표를 하는데도 전혀 관심을 받지 못하고 보도도 되지 않는다."
+			],
+			[
+				28,
+				"소수",
+				"NNG",
+				"소수·대안정당은 정책으로 선거를 치르려는데 거대 양당 대선 후보들의 각종 네거티브로 황금 같은 시간이 흘러가버리고 있다."
+			],
+			[
+				29,
+				"대안",
+				"NNG",
+				"소수·대안정당은 정책으로 선거를 치르려는데 거대 양당 대선 후보들의 각종 네거티브로 황금 같은 시간이 흘러가버리고 있다."
+			],
+			[
+				30,
+				"정당",
+				"NNG",
+				"소수·대안정당은 정책으로 선거를 치르려는데 거대 양당 대선 후보들의 각종 네거티브로 황금 같은 시간이 흘러가버리고 있다."
+			],
+			[
+				31,
+				"정책",
+				"NNG",
+				"소수·대안정당은 정책으로 선거를 치르려는데 거대 양당 대선 후보들의 각종 네거티브로 황금 같은 시간이 흘러가버리고 있다."
+			],
+			[
+				32,
+				"선거",
+				"NNG",
+				"소수·대안정당은 정책으로 선거를 치르려는데 거대 양당 대선 후보들의 각종 네거티브로 황금 같은 시간이 흘러가버리고 있다."
+			],
+			[
+				33,
+				"거대",
+				"NNG",
+				"소수·대안정당은 정책으로 선거를 치르려는데 거대 양당 대선 후보들의 각종 네거티브로 황금 같은 시간이 흘러가버리고 있다."
+			],
+			[
+				34,
+				"양당",
+				"NNG",
+				"소수·대안정당은 정책으로 선거를 치르려는데 거대 양당 대선 후보들의 각종 네거티브로 황금 같은 시간이 흘러가버리고 있다."
+			],
+			[
+				35,
+				"대선",
+				"NNG",
+				"소수·대안정당은 정책으로 선거를 치르려는데 거대 양당 대선 후보들의 각종 네거티브로 황금 같은 시간이 흘러가버리고 있다."
+			],
+			[
+				36,
+				"후보",
+				"NNG",
+				"소수·대안정당은 정책으로 선거를 치르려는데 거대 양당 대선 후보들의 각종 네거티브로 황금 같은 시간이 흘러가버리고 있다."
+			],
+			[
+				37,
+				"각종",
+				"NNG",
+				"소수·대안정당은 정책으로 선거를 치르려는데 거대 양당 대선 후보들의 각종 네거티브로 황금 같은 시간이 흘러가버리고 있다."
+			],
+			[
+				38,
+				"네거티브",
+				"NNG",
+				"소수·대안정당은 정책으로 선거를 치르려는데 거대 양당 대선 후보들의 각종 네거티브로 황금 같은 시간이 흘러가버리고 있다."
+			],
+			[
+				39,
+				"황금",
+				"NNG",
+				"소수·대안정당은 정책으로 선거를 치르려는데 거대 양당 대선 후보들의 각종 네거티브로 황금 같은 시간이 흘러가버리고 있다."
+			],
+			[
+				40,
+				"시간",
+				"NNG",
+				"소수·대안정당은 정책으로 선거를 치르려는데 거대 양당 대선 후보들의 각종 네거티브로 황금 같은 시간이 흘러가버리고 있다."
+			]
+		],
+		"NN_Lst": [
+			[
+				0,
+				"용혜인",
+				"NNP",
+				"용혜인 기본소득당 의원(이하 용)= 지난 어떤 대선보다 정책이 사라졌다."
+			],
+			[
+				1,
+				"기본",
+				"NNG",
+				"용혜인 기본소득당 의원(이하 용)= 지난 어떤 대선보다 정책이 사라졌다."
+			],
+			[
+				2,
+				"소득당",
+				"NNG",
+				"용혜인 기본소득당 의원(이하 용)= 지난 어떤 대선보다 정책이 사라졌다."
+			],
+			[
+				3,
+				"의원",
+				"NNG",
+				"용혜인 기본소득당 의원(이하 용)= 지난 어떤 대선보다 정책이 사라졌다."
+			],
+			[
+				4,
+				"이하",
+				"NNG",
+				"용혜인 기본소득당 의원(이하 용)= 지난 어떤 대선보다 정책이 사라졌다."
+			],
+			[
+				5,
+				"용",
+				"NNG",
+				"용혜인 기본소득당 의원(이하 용)= 지난 어떤 대선보다 정책이 사라졌다."
+			],
+			[
+				6,
+				"대선",
+				"NNG",
+				"용혜인 기본소득당 의원(이하 용)= 지난 어떤 대선보다 정책이 사라졌다."
+			],
+			[
+				7,
+				"정책",
+				"NNG",
+				"용혜인 기본소득당 의원(이하 용)= 지난 어떤 대선보다 정책이 사라졌다."
+			],
+			[
+				8,
+				"당",
+				"NNG",
+				"저희 당은 마흔이 넘는 사람이 드물어(한국의 대선 후보 출마 자격은 만 40세 이상) 대선 후보를 찾기가 힘들었다."
+			],
+			[
+				9,
+				"사람",
+				"NNG",
+				"저희 당은 마흔이 넘는 사람이 드물어(한국의 대선 후보 출마 자격은 만 40세 이상) 대선 후보를 찾기가 힘들었다."
+			],
+			[
+				10,
+				"한국",
+				"NNP",
+				"저희 당은 마흔이 넘는 사람이 드물어(한국의 대선 후보 출마 자격은 만 40세 이상) 대선 후보를 찾기가 힘들었다."
+			],
+			[
+				11,
+				"대선",
+				"NNG",
+				"저희 당은 마흔이 넘는 사람이 드물어(한국의 대선 후보 출마 자격은 만 40세 이상) 대선 후보를 찾기가 힘들었다."
+			],
+			[
+				12,
+				"후보",
+				"NNG",
+				"저희 당은 마흔이 넘는 사람이 드물어(한국의 대선 후보 출마 자격은 만 40세 이상) 대선 후보를 찾기가 힘들었다."
+			],
+			[
+				13,
+				"출마",
+				"NNG",
+				"저희 당은 마흔이 넘는 사람이 드물어(한국의 대선 후보 출마 자격은 만 40세 이상) 대선 후보를 찾기가 힘들었다."
+			],
+			[
+				14,
+				"자격",
+				"NNG",
+				"저희 당은 마흔이 넘는 사람이 드물어(한국의 대선 후보 출마 자격은 만 40세 이상) 대선 후보를 찾기가 힘들었다."
+			],
+			[
+				15,
+				"세",
+				"NNB",
+				"저희 당은 마흔이 넘는 사람이 드물어(한국의 대선 후보 출마 자격은 만 40세 이상) 대선 후보를 찾기가 힘들었다."
+			],
+			[
+				16,
+				"이상",
+				"NNG",
+				"저희 당은 마흔이 넘는 사람이 드물어(한국의 대선 후보 출마 자격은 만 40세 이상) 대선 후보를 찾기가 힘들었다."
+			],
+			[
+				17,
+				"대선",
+				"NNG",
+				"저희 당은 마흔이 넘는 사람이 드물어(한국의 대선 후보 출마 자격은 만 40세 이상) 대선 후보를 찾기가 힘들었다."
+			],
+			[
+				18,
+				"후보",
+				"NNG",
+				"저희 당은 마흔이 넘는 사람이 드물어(한국의 대선 후보 출마 자격은 만 40세 이상) 대선 후보를 찾기가 힘들었다."
+			],
+			[
+				19,
+				"후보",
+				"NNG",
+				"겨우 후보(오준호 후보)를 찾아 정책 발표를 하는데도 전혀 관심을 받지 못하고 보도도 되지 않는다."
+			],
+			[
+				20,
+				"오준호",
+				"NNP",
+				"겨우 후보(오준호 후보)를 찾아 정책 발표를 하는데도 전혀 관심을 받지 못하고 보도도 되지 않는다."
+			],
+			[
+				21,
+				"후보",
+				"NNG",
+				"겨우 후보(오준호 후보)를 찾아 정책 발표를 하는데도 전혀 관심을 받지 못하고 보도도 되지 않는다."
+			],
+			[
+				22,
+				"정책",
+				"NNG",
+				"겨우 후보(오준호 후보)를 찾아 정책 발표를 하는데도 전혀 관심을 받지 못하고 보도도 되지 않는다."
+			],
+			[
+				23,
+				"발표",
+				"NNG",
+				"겨우 후보(오준호 후보)를 찾아 정책 발표를 하는데도 전혀 관심을 받지 못하고 보도도 되지 않는다."
+			],
+			[
+				24,
+				"관심",
+				"NNG",
+				"겨우 후보(오준호 후보)를 찾아 정책 발표를 하는데도 전혀 관심을 받지 못하고 보도도 되지 않는다."
+			],
+			[
+				25,
+				"보도",
+				"NNG",
+				"겨우 후보(오준호 후보)를 찾아 정책 발표를 하는데도 전혀 관심을 받지 못하고 보도도 되지 않는다."
+			],
+			[
+				26,
+				"소수",
+				"NNG",
+				"소수·대안정당은 정책으로 선거를 치르려는데 거대 양당 대선 후보들의 각종 네거티브로 황금 같은 시간이 흘러가버리고 있다."
+			],
+			[
+				27,
+				"대안",
+				"NNG",
+				"소수·대안정당은 정책으로 선거를 치르려는데 거대 양당 대선 후보들의 각종 네거티브로 황금 같은 시간이 흘러가버리고 있다."
+			],
+			[
+				28,
+				"정당",
+				"NNG",
+				"소수·대안정당은 정책으로 선거를 치르려는데 거대 양당 대선 후보들의 각종 네거티브로 황금 같은 시간이 흘러가버리고 있다."
+			],
+			[
+				29,
+				"정책",
+				"NNG",
+				"소수·대안정당은 정책으로 선거를 치르려는데 거대 양당 대선 후보들의 각종 네거티브로 황금 같은 시간이 흘러가버리고 있다."
+			],
+			[
+				30,
+				"선거",
+				"NNG",
+				"소수·대안정당은 정책으로 선거를 치르려는데 거대 양당 대선 후보들의 각종 네거티브로 황금 같은 시간이 흘러가버리고 있다."
+			],
+			[
+				31,
+				"거대",
+				"NNG",
+				"소수·대안정당은 정책으로 선거를 치르려는데 거대 양당 대선 후보들의 각종 네거티브로 황금 같은 시간이 흘러가버리고 있다."
+			],
+			[
+				32,
+				"양당",
+				"NNG",
+				"소수·대안정당은 정책으로 선거를 치르려는데 거대 양당 대선 후보들의 각종 네거티브로 황금 같은 시간이 흘러가버리고 있다."
+			],
+			[
+				33,
+				"대선",
+				"NNG",
+				"소수·대안정당은 정책으로 선거를 치르려는데 거대 양당 대선 후보들의 각종 네거티브로 황금 같은 시간이 흘러가버리고 있다."
+			],
+			[
+				34,
+				"후보",
+				"NNG",
+				"소수·대안정당은 정책으로 선거를 치르려는데 거대 양당 대선 후보들의 각종 네거티브로 황금 같은 시간이 흘러가버리고 있다."
+			],
+			[
+				35,
+				"각종",
+				"NNG",
+				"소수·대안정당은 정책으로 선거를 치르려는데 거대 양당 대선 후보들의 각종 네거티브로 황금 같은 시간이 흘러가버리고 있다."
+			],
+			[
+				36,
+				"네거티브",
+				"NNG",
+				"소수·대안정당은 정책으로 선거를 치르려는데 거대 양당 대선 후보들의 각종 네거티브로 황금 같은 시간이 흘러가버리고 있다."
+			],
+			[
+				37,
+				"황금",
+				"NNG",
+				"소수·대안정당은 정책으로 선거를 치르려는데 거대 양당 대선 후보들의 각종 네거티브로 황금 같은 시간이 흘러가버리고 있다."
+			],
+			[
+				38,
+				"시간",
+				"NNG",
+				"소수·대안정당은 정책으로 선거를 치르려는데 거대 양당 대선 후보들의 각종 네거티브로 황금 같은 시간이 흘러가버리고 있다."
+			]
+		],
+		"NNG_Lst": [
+			[
+				0,
+				"기본",
+				"NNG",
+				"용혜인 기본소득당 의원(이하 용)= 지난 어떤 대선보다 정책이 사라졌다."
+			],
+			[
+				1,
+				"소득당",
+				"NNG",
+				"용혜인 기본소득당 의원(이하 용)= 지난 어떤 대선보다 정책이 사라졌다."
+			],
+			[
+				2,
+				"의원",
+				"NNG",
+				"용혜인 기본소득당 의원(이하 용)= 지난 어떤 대선보다 정책이 사라졌다."
+			],
+			[
+				3,
+				"이하",
+				"NNG",
+				"용혜인 기본소득당 의원(이하 용)= 지난 어떤 대선보다 정책이 사라졌다."
+			],
+			[
+				4,
+				"용",
+				"NNG",
+				"용혜인 기본소득당 의원(이하 용)= 지난 어떤 대선보다 정책이 사라졌다."
+			],
+			[
+				5,
+				"대선",
+				"NNG",
+				"용혜인 기본소득당 의원(이하 용)= 지난 어떤 대선보다 정책이 사라졌다."
+			],
+			[
+				6,
+				"정책",
+				"NNG",
+				"용혜인 기본소득당 의원(이하 용)= 지난 어떤 대선보다 정책이 사라졌다."
+			],
+			[
+				7,
+				"당",
+				"NNG",
+				"저희 당은 마흔이 넘는 사람이 드물어(한국의 대선 후보 출마 자격은 만 40세 이상) 대선 후보를 찾기가 힘들었다."
+			],
+			[
+				8,
+				"사람",
+				"NNG",
+				"저희 당은 마흔이 넘는 사람이 드물어(한국의 대선 후보 출마 자격은 만 40세 이상) 대선 후보를 찾기가 힘들었다."
+			],
+			[
+				9,
+				"대선",
+				"NNG",
+				"저희 당은 마흔이 넘는 사람이 드물어(한국의 대선 후보 출마 자격은 만 40세 이상) 대선 후보를 찾기가 힘들었다."
+			],
+			[
+				10,
+				"후보",
+				"NNG",
+				"저희 당은 마흔이 넘는 사람이 드물어(한국의 대선 후보 출마 자격은 만 40세 이상) 대선 후보를 찾기가 힘들었다."
+			],
+			[
+				11,
+				"출마",
+				"NNG",
+				"저희 당은 마흔이 넘는 사람이 드물어(한국의 대선 후보 출마 자격은 만 40세 이상) 대선 후보를 찾기가 힘들었다."
+			],
+			[
+				12,
+				"자격",
+				"NNG",
+				"저희 당은 마흔이 넘는 사람이 드물어(한국의 대선 후보 출마 자격은 만 40세 이상) 대선 후보를 찾기가 힘들었다."
+			],
+			[
+				13,
+				"이상",
+				"NNG",
+				"저희 당은 마흔이 넘는 사람이 드물어(한국의 대선 후보 출마 자격은 만 40세 이상) 대선 후보를 찾기가 힘들었다."
+			],
+			[
+				14,
+				"대선",
+				"NNG",
+				"저희 당은 마흔이 넘는 사람이 드물어(한국의 대선 후보 출마 자격은 만 40세 이상) 대선 후보를 찾기가 힘들었다."
+			],
+			[
+				15,
+				"후보",
+				"NNG",
+				"저희 당은 마흔이 넘는 사람이 드물어(한국의 대선 후보 출마 자격은 만 40세 이상) 대선 후보를 찾기가 힘들었다."
+			],
+			[
+				16,
+				"후보",
+				"NNG",
+				"겨우 후보(오준호 후보)를 찾아 정책 발표를 하는데도 전혀 관심을 받지 못하고 보도도 되지 않는다."
+			],
+			[
+				17,
+				"후보",
+				"NNG",
+				"겨우 후보(오준호 후보)를 찾아 정책 발표를 하는데도 전혀 관심을 받지 못하고 보도도 되지 않는다."
+			],
+			[
+				18,
+				"정책",
+				"NNG",
+				"겨우 후보(오준호 후보)를 찾아 정책 발표를 하는데도 전혀 관심을 받지 못하고 보도도 되지 않는다."
+			],
+			[
+				19,
+				"발표",
+				"NNG",
+				"겨우 후보(오준호 후보)를 찾아 정책 발표를 하는데도 전혀 관심을 받지 못하고 보도도 되지 않는다."
+			],
+			[
+				20,
+				"관심",
+				"NNG",
+				"겨우 후보(오준호 후보)를 찾아 정책 발표를 하는데도 전혀 관심을 받지 못하고 보도도 되지 않는다."
+			],
+			[
+				21,
+				"보도",
+				"NNG",
+				"겨우 후보(오준호 후보)를 찾아 정책 발표를 하는데도 전혀 관심을 받지 못하고 보도도 되지 않는다."
+			],
+			[
+				22,
+				"소수",
+				"NNG",
+				"소수·대안정당은 정책으로 선거를 치르려는데 거대 양당 대선 후보들의 각종 네거티브로 황금 같은 시간이 흘러가버리고 있다."
+			],
+			[
+				23,
+				"대안",
+				"NNG",
+				"소수·대안정당은 정책으로 선거를 치르려는데 거대 양당 대선 후보들의 각종 네거티브로 황금 같은 시간이 흘러가버리고 있다."
+			],
+			[
+				24,
+				"정당",
+				"NNG",
+				"소수·대안정당은 정책으로 선거를 치르려는데 거대 양당 대선 후보들의 각종 네거티브로 황금 같은 시간이 흘러가버리고 있다."
+			],
+			[
+				25,
+				"정책",
+				"NNG",
+				"소수·대안정당은 정책으로 선거를 치르려는데 거대 양당 대선 후보들의 각종 네거티브로 황금 같은 시간이 흘러가버리고 있다."
+			],
+			[
+				26,
+				"선거",
+				"NNG",
+				"소수·대안정당은 정책으로 선거를 치르려는데 거대 양당 대선 후보들의 각종 네거티브로 황금 같은 시간이 흘러가버리고 있다."
+			],
+			[
+				27,
+				"거대",
+				"NNG",
+				"소수·대안정당은 정책으로 선거를 치르려는데 거대 양당 대선 후보들의 각종 네거티브로 황금 같은 시간이 흘러가버리고 있다."
+			],
+			[
+				28,
+				"양당",
+				"NNG",
+				"소수·대안정당은 정책으로 선거를 치르려는데 거대 양당 대선 후보들의 각종 네거티브로 황금 같은 시간이 흘러가버리고 있다."
+			],
+			[
+				29,
+				"대선",
+				"NNG",
+				"소수·대안정당은 정책으로 선거를 치르려는데 거대 양당 대선 후보들의 각종 네거티브로 황금 같은 시간이 흘러가버리고 있다."
+			],
+			[
+				30,
+				"후보",
+				"NNG",
+				"소수·대안정당은 정책으로 선거를 치르려는데 거대 양당 대선 후보들의 각종 네거티브로 황금 같은 시간이 흘러가버리고 있다."
+			],
+			[
+				31,
+				"각종",
+				"NNG",
+				"소수·대안정당은 정책으로 선거를 치르려는데 거대 양당 대선 후보들의 각종 네거티브로 황금 같은 시간이 흘러가버리고 있다."
+			],
+			[
+				32,
+				"네거티브",
+				"NNG",
+				"소수·대안정당은 정책으로 선거를 치르려는데 거대 양당 대선 후보들의 각종 네거티브로 황금 같은 시간이 흘러가버리고 있다."
+			],
+			[
+				33,
+				"황금",
+				"NNG",
+				"소수·대안정당은 정책으로 선거를 치르려는데 거대 양당 대선 후보들의 각종 네거티브로 황금 같은 시간이 흘러가버리고 있다."
+			],
+			[
+				34,
+				"시간",
+				"NNG",
+				"소수·대안정당은 정책으로 선거를 치르려는데 거대 양당 대선 후보들의 각종 네거티브로 황금 같은 시간이 흘러가버리고 있다."
+			]
+		],
+		"NNP_Lst": [
+			[
+				0,
+				"용혜인",
+				"NNP",
+				"용혜인 기본소득당 의원(이하 용)= 지난 어떤 대선보다 정책이 사라졌다."
+			],
+			[
+				1,
+				"한국",
+				"NNP",
+				"저희 당은 마흔이 넘는 사람이 드물어(한국의 대선 후보 출마 자격은 만 40세 이상) 대선 후보를 찾기가 힘들었다."
+			],
+			[
+				2,
+				"오준호",
+				"NNP",
+				"겨우 후보(오준호 후보)를 찾아 정책 발표를 하는데도 전혀 관심을 받지 못하고 보도도 되지 않는다."
+			]
+		],
+		"NNB_Lst": [
+			[
+				0,
+				"세",
+				"NNB",
+				"저희 당은 마흔이 넘는 사람이 드물어(한국의 대선 후보 출마 자격은 만 40세 이상) 대선 후보를 찾기가 힘들었다."
+			]
+		],
+		"NP_Lst": [
+			[
+				0,
+				"저희",
+				"NP",
+				"저희 당은 마흔이 넘는 사람이 드물어(한국의 대선 후보 출마 자격은 만 40세 이상) 대선 후보를 찾기가 힘들었다."
+			]
+		],
+		"NP_People_Lst": [
+			[
+				0,
+				"저희",
+				"NP",
+				"저희 당은 마흔이 넘는 사람이 드물어(한국의 대선 후보 출마 자격은 만 40세 이상) 대선 후보를 찾기가 힘들었다."
+			]
+		],
+		"NP_Things_Lst": [],
+		"NR_Lst": [
+			[
+				0,
+				"마흔",
+				"NR",
+				"저희 당은 마흔이 넘는 사람이 드물어(한국의 대선 후보 출마 자격은 만 40세 이상) 대선 후보를 찾기가 힘들었다."
+			]
+		],
+		"VL_Lst": [
+			[
+				0,
+				"지나",
+				"VV",
+				"용혜인 기본소득당 의원(이하 용)= 지난 어떤 대선보다 정책이 사라졌다."
+			],
+			[
+				1,
+				"사라지",
+				"VV",
+				"용혜인 기본소득당 의원(이하 용)= 지난 어떤 대선보다 정책이 사라졌다."
+			],
+			[
+				2,
+				"넘",
+				"VV",
+				"저희 당은 마흔이 넘는 사람이 드물어(한국의 대선 후보 출마 자격은 만 40세 이상) 대선 후보를 찾기가 힘들었다."
+			],
+			[
+				3,
+				"드물",
+				"VA",
+				"저희 당은 마흔이 넘는 사람이 드물어(한국의 대선 후보 출마 자격은 만 40세 이상) 대선 후보를 찾기가 힘들었다."
+			],
+			[
+				4,
+				"찾",
+				"VV",
+				"저희 당은 마흔이 넘는 사람이 드물어(한국의 대선 후보 출마 자격은 만 40세 이상) 대선 후보를 찾기가 힘들었다."
+			],
+			[
+				5,
+				"힘들",
+				"VA",
+				"저희 당은 마흔이 넘는 사람이 드물어(한국의 대선 후보 출마 자격은 만 40세 이상) 대선 후보를 찾기가 힘들었다."
+			],
+			[
+				6,
+				"찾",
+				"VV",
+				"겨우 후보(오준호 후보)를 찾아 정책 발표를 하는데도 전혀 관심을 받지 못하고 보도도 되지 않는다."
+			],
+			[
+				7,
+				"하",
+				"VV",
+				"겨우 후보(오준호 후보)를 찾아 정책 발표를 하는데도 전혀 관심을 받지 못하고 보도도 되지 않는다."
+			],
+			[
+				8,
+				"받",
+				"VV",
+				"겨우 후보(오준호 후보)를 찾아 정책 발표를 하는데도 전혀 관심을 받지 못하고 보도도 되지 않는다."
+			],
+			[
+				9,
+				"못하",
+				"VX",
+				"겨우 후보(오준호 후보)를 찾아 정책 발표를 하는데도 전혀 관심을 받지 못하고 보도도 되지 않는다."
+			],
+			[
+				10,
+				"되",
+				"VV",
+				"겨우 후보(오준호 후보)를 찾아 정책 발표를 하는데도 전혀 관심을 받지 못하고 보도도 되지 않는다."
+			],
+			[
+				11,
+				"않",
+				"VX",
+				"겨우 후보(오준호 후보)를 찾아 정책 발표를 하는데도 전혀 관심을 받지 못하고 보도도 되지 않는다."
+			],
+			[
+				12,
+				"치르",
+				"VV",
+				"소수·대안정당은 정책으로 선거를 치르려는데 거대 양당 대선 후보들의 각종 네거티브로 황금 같은 시간이 흘러가버리고 있다."
+			],
+			[
+				13,
+				"같",
+				"VA",
+				"소수·대안정당은 정책으로 선거를 치르려는데 거대 양당 대선 후보들의 각종 네거티브로 황금 같은 시간이 흘러가버리고 있다."
+			],
+			[
+				14,
+				"흘러가",
+				"VV",
+				"소수·대안정당은 정책으로 선거를 치르려는데 거대 양당 대선 후보들의 각종 네거티브로 황금 같은 시간이 흘러가버리고 있다."
+			],
+			[
+				15,
+				"버리",
+				"VX",
+				"소수·대안정당은 정책으로 선거를 치르려는데 거대 양당 대선 후보들의 각종 네거티브로 황금 같은 시간이 흘러가버리고 있다."
+			],
+			[
+				16,
+				"있",
+				"VX",
+				"소수·대안정당은 정책으로 선거를 치르려는데 거대 양당 대선 후보들의 각종 네거티브로 황금 같은 시간이 흘러가버리고 있다."
+			]
+		],
+		"VV_Lst": [
+			[
+				0,
+				"지나",
+				"VV",
+				"용혜인 기본소득당 의원(이하 용)= 지난 어떤 대선보다 정책이 사라졌다."
+			],
+			[
+				1,
+				"사라지",
+				"VV",
+				"용혜인 기본소득당 의원(이하 용)= 지난 어떤 대선보다 정책이 사라졌다."
+			],
+			[
+				2,
+				"넘",
+				"VV",
+				"저희 당은 마흔이 넘는 사람이 드물어(한국의 대선 후보 출마 자격은 만 40세 이상) 대선 후보를 찾기가 힘들었다."
+			],
+			[
+				3,
+				"찾",
+				"VV",
+				"저희 당은 마흔이 넘는 사람이 드물어(한국의 대선 후보 출마 자격은 만 40세 이상) 대선 후보를 찾기가 힘들었다."
+			],
+			[
+				4,
+				"찾",
+				"VV",
+				"겨우 후보(오준호 후보)를 찾아 정책 발표를 하는데도 전혀 관심을 받지 못하고 보도도 되지 않는다."
+			],
+			[
+				5,
+				"하",
+				"VV",
+				"겨우 후보(오준호 후보)를 찾아 정책 발표를 하는데도 전혀 관심을 받지 못하고 보도도 되지 않는다."
+			],
+			[
+				6,
+				"받",
+				"VV",
+				"겨우 후보(오준호 후보)를 찾아 정책 발표를 하는데도 전혀 관심을 받지 못하고 보도도 되지 않는다."
+			],
+			[
+				7,
+				"되",
+				"VV",
+				"겨우 후보(오준호 후보)를 찾아 정책 발표를 하는데도 전혀 관심을 받지 못하고 보도도 되지 않는다."
+			],
+			[
+				8,
+				"치르",
+				"VV",
+				"소수·대안정당은 정책으로 선거를 치르려는데 거대 양당 대선 후보들의 각종 네거티브로 황금 같은 시간이 흘러가버리고 있다."
+			],
+			[
+				9,
+				"흘러가",
+				"VV",
+				"소수·대안정당은 정책으로 선거를 치르려는데 거대 양당 대선 후보들의 각종 네거티브로 황금 같은 시간이 흘러가버리고 있다."
+			]
+		],
+		"VA_Lst": [
+			[
+				0,
+				"드물",
+				"VA",
+				"저희 당은 마흔이 넘는 사람이 드물어(한국의 대선 후보 출마 자격은 만 40세 이상) 대선 후보를 찾기가 힘들었다."
+			],
+			[
+				1,
+				"힘들",
+				"VA",
+				"저희 당은 마흔이 넘는 사람이 드물어(한국의 대선 후보 출마 자격은 만 40세 이상) 대선 후보를 찾기가 힘들었다."
+			],
+			[
+				2,
+				"같",
+				"VA",
+				"소수·대안정당은 정책으로 선거를 치르려는데 거대 양당 대선 후보들의 각종 네거티브로 황금 같은 시간이 흘러가버리고 있다."
+			]
+		],
+		"VX_Lst": [
+			[
+				0,
+				"못하",
+				"VX",
+				"겨우 후보(오준호 후보)를 찾아 정책 발표를 하는데도 전혀 관심을 받지 못하고 보도도 되지 않는다."
+			],
+			[
+				1,
+				"않",
+				"VX",
+				"겨우 후보(오준호 후보)를 찾아 정책 발표를 하는데도 전혀 관심을 받지 못하고 보도도 되지 않는다."
+			],
+			[
+				2,
+				"버리",
+				"VX",
+				"소수·대안정당은 정책으로 선거를 치르려는데 거대 양당 대선 후보들의 각종 네거티브로 황금 같은 시간이 흘러가버리고 있다."
+			],
+			[
+				3,
+				"있",
+				"VX",
+				"소수·대안정당은 정책으로 선거를 치르려는데 거대 양당 대선 후보들의 각종 네거티브로 황금 같은 시간이 흘러가버리고 있다."
+			]
+		],
+		"VCP_Lst": [],
+		"VCN_Lst": [],
+		"ML_Lst": [
+			[
+				0,
+				"겨우",
+				"MAG",
+				"겨우 후보(오준호 후보)를 찾아 정책 발표를 하는데도 전혀 관심을 받지 못하고 보도도 되지 않는다."
+			],
+			[
+				1,
+				"전혀",
+				"MAG",
+				"겨우 후보(오준호 후보)를 찾아 정책 발표를 하는데도 전혀 관심을 받지 못하고 보도도 되지 않는다."
+			]
+		],
+		"MA_Lst": [],
+		"MM_Lst": [],
+		"J_Lst": [
+			[
+				0,
+				"보다",
+				"JKB",
+				"용혜인 기본소득당 의원(이하 용)= 지난 어떤 대선보다 정책이 사라졌다."
+			],
+			[
+				1,
+				"이",
+				"JKS",
+				"용혜인 기본소득당 의원(이하 용)= 지난 어떤 대선보다 정책이 사라졌다."
+			],
+			[
+				2,
+				"은",
+				"JX",
+				"저희 당은 마흔이 넘는 사람이 드물어(한국의 대선 후보 출마 자격은 만 40세 이상) 대선 후보를 찾기가 힘들었다."
+			],
+			[
+				3,
+				"이",
+				"JKS",
+				"저희 당은 마흔이 넘는 사람이 드물어(한국의 대선 후보 출마 자격은 만 40세 이상) 대선 후보를 찾기가 힘들었다."
+			],
+			[
+				4,
+				"이",
+				"JKS",
+				"저희 당은 마흔이 넘는 사람이 드물어(한국의 대선 후보 출마 자격은 만 40세 이상) 대선 후보를 찾기가 힘들었다."
+			],
+			[
+				5,
+				"의",
+				"JKG",
+				"저희 당은 마흔이 넘는 사람이 드물어(한국의 대선 후보 출마 자격은 만 40세 이상) 대선 후보를 찾기가 힘들었다."
+			],
+			[
+				6,
+				"은",
+				"JX",
+				"저희 당은 마흔이 넘는 사람이 드물어(한국의 대선 후보 출마 자격은 만 40세 이상) 대선 후보를 찾기가 힘들었다."
+			],
+			[
+				7,
+				"를",
+				"JKO",
+				"저희 당은 마흔이 넘는 사람이 드물어(한국의 대선 후보 출마 자격은 만 40세 이상) 대선 후보를 찾기가 힘들었다."
+			],
+			[
+				8,
+				"가",
+				"JKS",
+				"저희 당은 마흔이 넘는 사람이 드물어(한국의 대선 후보 출마 자격은 만 40세 이상) 대선 후보를 찾기가 힘들었다."
+			],
+			[
+				9,
+				"를",
+				"JKO",
+				"겨우 후보(오준호 후보)를 찾아 정책 발표를 하는데도 전혀 관심을 받지 못하고 보도도 되지 않는다."
+			],
+			[
+				10,
+				"를",
+				"JKO",
+				"겨우 후보(오준호 후보)를 찾아 정책 발표를 하는데도 전혀 관심을 받지 못하고 보도도 되지 않는다."
+			],
+			[
+				11,
+				"도",
+				"JX",
+				"겨우 후보(오준호 후보)를 찾아 정책 발표를 하는데도 전혀 관심을 받지 못하고 보도도 되지 않는다."
+			],
+			[
+				12,
+				"을",
+				"JKO",
+				"겨우 후보(오준호 후보)를 찾아 정책 발표를 하는데도 전혀 관심을 받지 못하고 보도도 되지 않는다."
+			],
+			[
+				13,
+				"도",
+				"JX",
+				"겨우 후보(오준호 후보)를 찾아 정책 발표를 하는데도 전혀 관심을 받지 못하고 보도도 되지 않는다."
+			],
+			[
+				14,
+				"은",
+				"JX",
+				"소수·대안정당은 정책으로 선거를 치르려는데 거대 양당 대선 후보들의 각종 네거티브로 황금 같은 시간이 흘러가버리고 있다."
+			],
+			[
+				15,
+				"으로",
+				"JKB",
+				"소수·대안정당은 정책으로 선거를 치르려는데 거대 양당 대선 후보들의 각종 네거티브로 황금 같은 시간이 흘러가버리고 있다."
+			],
+			[
+				16,
+				"를",
+				"JKO",
+				"소수·대안정당은 정책으로 선거를 치르려는데 거대 양당 대선 후보들의 각종 네거티브로 황금 같은 시간이 흘러가버리고 있다."
+			],
+			[
+				17,
+				"의",
+				"JKG",
+				"소수·대안정당은 정책으로 선거를 치르려는데 거대 양당 대선 후보들의 각종 네거티브로 황금 같은 시간이 흘러가버리고 있다."
+			],
+			[
+				18,
+				"로",
+				"JKB",
+				"소수·대안정당은 정책으로 선거를 치르려는데 거대 양당 대선 후보들의 각종 네거티브로 황금 같은 시간이 흘러가버리고 있다."
+			],
+			[
+				19,
+				"이",
+				"JKS",
+				"소수·대안정당은 정책으로 선거를 치르려는데 거대 양당 대선 후보들의 각종 네거티브로 황금 같은 시간이 흘러가버리고 있다."
+			]
+		],
+		"E_Lst": [
+			[
+				0,
+				"ㄴ",
+				"ETM",
+				"용혜인 기본소득당 의원(이하 용)= 지난 어떤 대선보다 정책이 사라졌다."
+			],
+			[
+				1,
+				"었",
+				"EP",
+				"용혜인 기본소득당 의원(이하 용)= 지난 어떤 대선보다 정책이 사라졌다."
+			],
+			[
+				2,
+				"다",
+				"EF",
+				"용혜인 기본소득당 의원(이하 용)= 지난 어떤 대선보다 정책이 사라졌다."
+			],
+			[
+				3,
+				"는",
+				"ETM",
+				"저희 당은 마흔이 넘는 사람이 드물어(한국의 대선 후보 출마 자격은 만 40세 이상) 대선 후보를 찾기가 힘들었다."
+			],
+			[
+				4,
+				"어",
+				"EC",
+				"저희 당은 마흔이 넘는 사람이 드물어(한국의 대선 후보 출마 자격은 만 40세 이상) 대선 후보를 찾기가 힘들었다."
+			],
+			[
+				5,
+				"기",
+				"ETN",
+				"저희 당은 마흔이 넘는 사람이 드물어(한국의 대선 후보 출마 자격은 만 40세 이상) 대선 후보를 찾기가 힘들었다."
+			],
+			[
+				6,
+				"었",
+				"EP",
+				"저희 당은 마흔이 넘는 사람이 드물어(한국의 대선 후보 출마 자격은 만 40세 이상) 대선 후보를 찾기가 힘들었다."
+			],
+			[
+				7,
+				"다",
+				"EF",
+				"저희 당은 마흔이 넘는 사람이 드물어(한국의 대선 후보 출마 자격은 만 40세 이상) 대선 후보를 찾기가 힘들었다."
+			],
+			[
+				8,
+				"아",
+				"EC",
+				"겨우 후보(오준호 후보)를 찾아 정책 발표를 하는데도 전혀 관심을 받지 못하고 보도도 되지 않는다."
+			],
+			[
+				9,
+				"는데",
+				"EC",
+				"겨우 후보(오준호 후보)를 찾아 정책 발표를 하는데도 전혀 관심을 받지 못하고 보도도 되지 않는다."
+			],
+			[
+				10,
+				"지",
+				"EC",
+				"겨우 후보(오준호 후보)를 찾아 정책 발표를 하는데도 전혀 관심을 받지 못하고 보도도 되지 않는다."
+			],
+			[
+				11,
+				"고",
+				"EC",
+				"겨우 후보(오준호 후보)를 찾아 정책 발표를 하는데도 전혀 관심을 받지 못하고 보도도 되지 않는다."
+			],
+			[
+				12,
+				"지",
+				"EC",
+				"겨우 후보(오준호 후보)를 찾아 정책 발표를 하는데도 전혀 관심을 받지 못하고 보도도 되지 않는다."
+			],
+			[
+				13,
+				"는다",
+				"EF",
+				"겨우 후보(오준호 후보)를 찾아 정책 발표를 하는데도 전혀 관심을 받지 못하고 보도도 되지 않는다."
+			],
+			[
+				14,
+				"려는데",
+				"EC",
+				"소수·대안정당은 정책으로 선거를 치르려는데 거대 양당 대선 후보들의 각종 네거티브로 황금 같은 시간이 흘러가버리고 있다."
+			],
+			[
+				15,
+				"은",
+				"ETM",
+				"소수·대안정당은 정책으로 선거를 치르려는데 거대 양당 대선 후보들의 각종 네거티브로 황금 같은 시간이 흘러가버리고 있다."
+			],
+			[
+				16,
+				"아",
+				"EC",
+				"소수·대안정당은 정책으로 선거를 치르려는데 거대 양당 대선 후보들의 각종 네거티브로 황금 같은 시간이 흘러가버리고 있다."
+			],
+			[
+				17,
+				"고",
+				"EC",
+				"소수·대안정당은 정책으로 선거를 치르려는데 거대 양당 대선 후보들의 각종 네거티브로 황금 같은 시간이 흘러가버리고 있다."
+			],
+			[
+				18,
+				"다",
+				"EF",
+				"소수·대안정당은 정책으로 선거를 치르려는데 거대 양당 대선 후보들의 각종 네거티브로 황금 같은 시간이 흘러가버리고 있다."
+			]
+		],
+		"X_Lst": [
+			[
+				0,
+				"들",
+				"XSN",
+				"소수·대안정당은 정책으로 선거를 치르려는데 거대 양당 대선 후보들의 각종 네거티브로 황금 같은 시간이 흘러가버리고 있다."
+			]
+		],
+		"IC_Lst": []
+	},
+	"NDW": {
+		"morph_NDW": 82,
+		"NL_NDW": 41,
+		"NNG_NDW": 35,
+		"NNP_NDW": 3,
+		"NNB_NDW": 1,
+		"NP_NDW": 1,
+		"NR_NDW": 1,
+		"VL_NDW": 17,
+		"VV_NDW": 10,
+		"VA_NDW": 3,
+		"ML_NDW": 2,
+		"MM_NDW": 0,
+		"IC_NDW": 0,
+		"J_NDW": 20,
+		"E_NDW": 19,
+		"X_NDW": 1,
+		"CL_NDW": 60,
+		"FL_NDW": 40
+	}
+}

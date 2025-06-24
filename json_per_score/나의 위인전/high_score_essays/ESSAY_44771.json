@@ -1,0 +1,9192 @@
+﻿{
+	"morpheme": {
+		"sentences": [
+			{
+				"text": {
+					"content": "이중섭은 어린시절부터 소를 좋아했다고 한다.",
+					"length": 24,
+					"beginOffset": 0
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "이중섭은",
+							"length": 4,
+							"beginOffset": 0
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이중섭",
+									"length": 3,
+									"beginOffset": 0
+								},
+								"tag": "NNP",
+								"probability": 0.9723901,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 3,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9990845,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이중섭",
+						"tagged": "이중섭/NNP+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "어린",
+							"beginOffset": 5,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "어리",
+									"beginOffset": 5,
+									"length": 2
+								},
+								"tag": "VA",
+								"probability": 0.98111874,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 6,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999915,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "어리",
+						"tagged": "어리/VA+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "시절부터",
+							"beginOffset": 7,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "시절",
+									"beginOffset": 7,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9816894,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "부터",
+									"beginOffset": 9,
+									"length": 2
+								},
+								"tag": "JX",
+								"probability": 0.9901255,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "시절",
+						"tagged": "시절/NNG+부터/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "소를",
+							"beginOffset": 12,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "소",
+									"beginOffset": 12,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.96062464,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 13,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99951386,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "소",
+						"tagged": "소/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "좋아했다고",
+							"beginOffset": 15,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "좋아하",
+									"beginOffset": 15,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.9873104,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 17,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99976856,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다고",
+									"beginOffset": 18,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9936004,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "좋아하",
+						"tagged": "좋아하/VV+았/EP+다고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "한다.",
+							"beginOffset": 21,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 21,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.46326667,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ다",
+									"beginOffset": 21,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.98988163,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 23,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9999311,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VV+ㄴ다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "이중섭은 어린 시절부터 소를 좋아했다고 한다."
+			},
+			{
+				"text": {
+					"content": "그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다.",
+					"beginOffset": 25,
+					"length": 94
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "그는",
+							"beginOffset": 25,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그",
+									"beginOffset": 25,
+									"length": 1
+								},
+								"tag": "NP",
+								"probability": 0.98962563,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 26,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9996015,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그",
+						"tagged": "그/NP+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "일제강점기",
+							"beginOffset": 28,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "일제",
+									"beginOffset": 28,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "강점기",
+									"beginOffset": 30,
+									"length": 3
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							}
+						],
+						"lemma": "일제",
+						"tagged": "일제/NNG+강점기/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "시대에",
+							"beginOffset": 34,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "시대",
+									"beginOffset": 34,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9849798,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 36,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99684227,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "시대",
+						"tagged": "시대/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "태어나",
+							"beginOffset": 38,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "태어나",
+									"beginOffset": 38,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.9894972,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 40,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9927448,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "태어나",
+						"tagged": "태어나/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "오산학교를",
+							"beginOffset": 42,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "오산",
+									"beginOffset": 42,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "학교",
+									"beginOffset": 44,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 46,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99975765,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "오산",
+						"tagged": "오산/NNG+학교/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "나와",
+							"beginOffset": 48,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "나오",
+									"beginOffset": 48,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.99130017,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 49,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99388635,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "나오",
+						"tagged": "나오/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "미술로",
+							"beginOffset": 51,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "미술",
+									"beginOffset": 51,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.984176,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "로",
+									"beginOffset": 53,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.997001,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "미술",
+						"tagged": "미술/NNG+로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "유명한",
+							"beginOffset": 55,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "유명하",
+									"beginOffset": 55,
+									"length": 3
+								},
+								"tag": "VA",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 57,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999821,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "유명하",
+						"tagged": "유명하/VA+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "임용련에게",
+							"beginOffset": 59,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "임용련",
+									"beginOffset": 59,
+									"length": 3
+								},
+								"tag": "NNP",
+								"probability": 0.4358291,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "에게",
+									"beginOffset": 62,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9958937,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "임용련",
+						"tagged": "임용련/NNP+에게/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "미술을",
+							"beginOffset": 65,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "미술",
+									"beginOffset": 65,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9837253,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 67,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9998982,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "미술",
+						"tagged": "미술/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "배우고",
+							"beginOffset": 69,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "배우",
+									"beginOffset": 69,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9878336,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 71,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99521416,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "배우",
+						"tagged": "배우/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "일본으로",
+							"beginOffset": 73,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "일본",
+									"beginOffset": 73,
+									"length": 2
+								},
+								"tag": "NNP",
+								"probability": 0.96974355,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으로",
+									"beginOffset": 75,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9951791,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "일본",
+						"tagged": "일본/NNP+으로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "넘어가",
+							"beginOffset": 78,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "넘어가",
+									"beginOffset": 78,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.9903391,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 80,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9944068,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "넘어가",
+						"tagged": "넘어가/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "미술을",
+							"beginOffset": 82,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "미술",
+									"beginOffset": 82,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98388577,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 84,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99989927,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "미술",
+						"tagged": "미술/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "더",
+							"beginOffset": 86,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "더",
+									"beginOffset": 86,
+									"length": 1
+								},
+								"tag": "MAG",
+								"probability": 0.99455166,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "더",
+						"tagged": "더/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "배우면서도",
+							"beginOffset": 88,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "배우",
+									"beginOffset": 88,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9836987,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "면서",
+									"beginOffset": 90,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9929564,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 92,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99944055,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "배우",
+						"tagged": "배우/VV+면서/EC+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "조선화풍에",
+							"beginOffset": 94,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "조선",
+									"beginOffset": 94,
+									"length": 2
+								},
+								"tag": "NNP",
+								"probability": 0.9306242,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "화",
+									"beginOffset": 96,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.9439265,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "풍",
+									"beginOffset": 97,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.97019964,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 98,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99607563,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "조선",
+						"tagged": "조선/NNP+화/XSN+풍/XSN+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "대한",
+							"beginOffset": 100,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "대하",
+									"beginOffset": 100,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.99281913,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 101,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.999993,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "대하",
+						"tagged": "대하/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "연구를",
+							"beginOffset": 103,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "연구",
+									"beginOffset": 103,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98331535,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 105,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999592,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "연구",
+						"tagged": "연구/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "끊임없이",
+							"beginOffset": 107,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "끊임없이",
+									"beginOffset": 107,
+									"length": 4
+								},
+								"tag": "MAG",
+								"probability": 0.9925164,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "끊임없이",
+						"tagged": "끊임없이/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "했다고",
+							"beginOffset": 112,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 112,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.80151385,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 112,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9997679,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다고",
+									"beginOffset": 113,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9942376,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VV+았/EP+다고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "한다.",
+							"beginOffset": 116,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 116,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.7865512,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ다",
+									"beginOffset": 116,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.9920111,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 118,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99928975,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VV+ㄴ다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			},
+			{
+				"text": {
+					"content": "광복 이후에는 공산당 동맹에 가입했는데 본인의 이념과 사회주의의 이념이 맞지 않아 6.25 전쟁때 남한으로 내려왔다고 한다.",
+					"beginOffset": 120,
+					"length": 69
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "광복",
+							"beginOffset": 120,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "광복",
+									"beginOffset": 120,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.981527,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "광복",
+						"tagged": "광복/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이후에는",
+							"beginOffset": 123,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이후",
+									"beginOffset": 123,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9811794,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 125,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99475545,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 126,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9990006,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이후",
+						"tagged": "이후/NNG+에/JKB+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "공산당",
+							"beginOffset": 128,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "공산당",
+									"beginOffset": 128,
+									"length": 3
+								},
+								"tag": "NNP",
+								"probability": 0.952945,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "공산당",
+						"tagged": "공산당/NNP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "동맹에",
+							"beginOffset": 132,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "동맹",
+									"beginOffset": 132,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98470694,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 134,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99673575,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "동맹",
+						"tagged": "동맹/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "가입했는데",
+							"beginOffset": 136,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "가입하",
+									"beginOffset": 136,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 138,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99981046,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는데",
+									"beginOffset": 139,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99408674,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "가입하",
+						"tagged": "가입하/VV+았/EP+는데/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "본인의",
+							"beginOffset": 142,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "본인",
+									"beginOffset": 142,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98476607,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 144,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99978256,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "본인",
+						"tagged": "본인/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이념과",
+							"beginOffset": 146,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이념",
+									"beginOffset": 146,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98516756,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "과",
+									"beginOffset": 148,
+									"length": 1
+								},
+								"tag": "JC",
+								"probability": 0.9406969,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이념",
+						"tagged": "이념/NNG+과/JC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사회주의의",
+							"beginOffset": 150,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사회주의",
+									"beginOffset": 150,
+									"length": 4
+								},
+								"tag": "NNG",
+								"probability": 0.9857554,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 154,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9997732,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사회주의",
+						"tagged": "사회주의/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이념이",
+							"beginOffset": 156,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이념",
+									"beginOffset": 156,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9856583,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 158,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.96920377,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이념",
+						"tagged": "이념/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "맞지",
+							"beginOffset": 160,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "맞",
+									"beginOffset": 160,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.98839176,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "지",
+									"beginOffset": 161,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9919741,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "맞",
+						"tagged": "맞/VV+지/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "않아",
+							"beginOffset": 163,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "않",
+									"beginOffset": 163,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.9637492,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 164,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.989271,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "않",
+						"tagged": "않/VX+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "6.25",
+							"beginOffset": 166,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "6",
+									"beginOffset": 166,
+									"length": 1
+								},
+								"tag": "SN",
+								"probability": 0.9986877,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 167,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.9918877,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "25",
+									"beginOffset": 168,
+									"length": 2
+								},
+								"tag": "SN",
+								"probability": 0.99900323,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "6",
+						"tagged": "6/SN+./SP+25/SN",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "전쟁때",
+							"beginOffset": 171,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "전쟁",
+									"beginOffset": 171,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9828311,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "때",
+									"beginOffset": 173,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9867349,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "전쟁",
+						"tagged": "전쟁/NNG+때/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "남한으로",
+							"beginOffset": 175,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "남한",
+									"beginOffset": 175,
+									"length": 2
+								},
+								"tag": "NNP",
+								"probability": 0.9694833,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으로",
+									"beginOffset": 177,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.99684453,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "남한",
+						"tagged": "남한/NNP+으로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "내려왔다고",
+							"beginOffset": 180,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "내려오",
+									"beginOffset": 180,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.9872872,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 182,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99973756,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다고",
+									"beginOffset": 183,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9893707,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "내려오",
+						"tagged": "내려오/VV+았/EP+다고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "한다.",
+							"beginOffset": 186,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 186,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.71275693,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ다",
+									"beginOffset": 186,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.9908153,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 188,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9988708,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VV+ㄴ다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "광복 이후에는 공산당 동맹에 가입했는데 본인의 이념과 사회주의의 이념이 맞지 않아 6.25 전쟁때 남한으로 내려왔다고 한다."
+			},
+			{
+				"text": {
+					"content": "남한으로 내려올 당시 혼자서 내려오고 일본시절에 그린 그림과 전쟁당시 그린 그림을 노모에게 맡기고 와서 대부분이 소실되거나 유실되었다고 한다.",
+					"beginOffset": 190,
+					"length": 79
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "남한으로",
+							"beginOffset": 190,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "남한",
+									"beginOffset": 190,
+									"length": 2
+								},
+								"tag": "NNP",
+								"probability": 0.9605844,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으로",
+									"beginOffset": 192,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.99732757,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "남한",
+						"tagged": "남한/NNP+으로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "내려올",
+							"beginOffset": 195,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "내려오",
+									"beginOffset": 195,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.9895431,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ",
+									"beginOffset": 197,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999878,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "내려오",
+						"tagged": "내려오/VV+ㄹ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "당시",
+							"beginOffset": 199,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "당시",
+									"beginOffset": 199,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9835799,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "당시",
+						"tagged": "당시/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "혼자서",
+							"beginOffset": 202,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "혼자",
+									"beginOffset": 202,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9851237,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "서",
+									"beginOffset": 204,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9819713,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "혼자",
+						"tagged": "혼자/NNG+서/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "내려오고",
+							"beginOffset": 206,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "내려오",
+									"beginOffset": 206,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.99129266,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 209,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99524593,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "내려오",
+						"tagged": "내려오/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "일본시절에",
+							"beginOffset": 211,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "일본",
+									"beginOffset": 211,
+									"length": 2
+								},
+								"tag": "NNP",
+								"probability": 0.876343,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "시절",
+									"beginOffset": 213,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9832815,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 215,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99498075,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "일본",
+						"tagged": "일본/NNP+시절/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "그린",
+							"beginOffset": 217,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그리",
+									"beginOffset": 217,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9894136,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 218,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99999523,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그리",
+						"tagged": "그리/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "그림과",
+							"beginOffset": 220,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그림",
+									"beginOffset": 220,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98163503,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "과",
+									"beginOffset": 222,
+									"length": 1
+								},
+								"tag": "JC",
+								"probability": 0.946663,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그림",
+						"tagged": "그림/NNG+과/JC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "전쟁당시",
+							"beginOffset": 224,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "전쟁",
+									"beginOffset": 224,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98314464,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "당시",
+									"beginOffset": 226,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9844711,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "전쟁",
+						"tagged": "전쟁/NNG+당시/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "그린",
+							"beginOffset": 229,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그리",
+									"beginOffset": 229,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9886378,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 230,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999776,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그리",
+						"tagged": "그리/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "그림을",
+							"beginOffset": 232,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그림",
+									"beginOffset": 232,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9810729,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 234,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999559,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그림",
+						"tagged": "그림/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "노모에게",
+							"beginOffset": 236,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "노모",
+									"beginOffset": 236,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9848699,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에게",
+									"beginOffset": 238,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.993093,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "노모",
+						"tagged": "노모/NNG+에게/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "맡기고",
+							"beginOffset": 241,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "맡기",
+									"beginOffset": 241,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9924393,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 243,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99422836,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "맡기",
+						"tagged": "맡기/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "와서",
+							"beginOffset": 245,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "오",
+									"beginOffset": 245,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.90225327,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아서",
+									"beginOffset": 245,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99478114,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "오",
+						"tagged": "오/VV+아서/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "대부분이",
+							"beginOffset": 248,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "대부분",
+									"beginOffset": 248,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9861289,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 251,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9723007,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "대부분",
+						"tagged": "대부분/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "소실되거나",
+							"beginOffset": 253,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "소실되",
+									"beginOffset": 253,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "거나",
+									"beginOffset": 256,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99460393,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "소실되",
+						"tagged": "소실되/VV+거나/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "유실되었다고",
+							"beginOffset": 259,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "유실되",
+									"beginOffset": 259,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 262,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9998921,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다고",
+									"beginOffset": 263,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9951093,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "유실되",
+						"tagged": "유실되/VV+었/EP+다고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "한다.",
+							"beginOffset": 266,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 266,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9689347,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ다",
+									"beginOffset": 266,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.9883089,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 268,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99983656,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VV+ㄴ다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "남한으로 내려올 당시 혼자서 내려오고 일본시절에 그린 그림과 전쟁당시 그린 그림을 노모에게 맡기고 와서 대부분이 소실되거나 유실되었다고 한다."
+			},
+			{
+				"text": {
+					"content": "전쟁 이후에는 소를 하루종일 바라보면서 소에대한 그림을 그렸다고 한다",
+					"beginOffset": 270,
+					"length": 38
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "전쟁",
+							"beginOffset": 270,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "전쟁",
+									"beginOffset": 270,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9832103,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "전쟁",
+						"tagged": "전쟁/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이후에는",
+							"beginOffset": 273,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이후",
+									"beginOffset": 273,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9828981,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 275,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99535906,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 276,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9987248,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이후",
+						"tagged": "이후/NNG+에/JKB+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "소를",
+							"beginOffset": 278,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "소",
+									"beginOffset": 278,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.947686,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 279,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99988586,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "소",
+						"tagged": "소/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "하루종일",
+							"beginOffset": 281,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하루",
+									"beginOffset": 281,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9828559,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "종일",
+									"beginOffset": 283,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98366416,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하루",
+						"tagged": "하루/NNG+종일/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "바라보면서",
+							"beginOffset": 286,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "바라보",
+									"beginOffset": 286,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.9855428,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "면서",
+									"beginOffset": 289,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99487364,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "바라보",
+						"tagged": "바라보/VV+면서/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "소에",
+							"beginOffset": 292,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "소",
+									"beginOffset": 292,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.94069946,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 293,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99654716,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "소",
+						"tagged": "소/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "대한",
+							"beginOffset": 294,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "대하",
+									"beginOffset": 294,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.98934495,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 295,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999864,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "대하",
+						"tagged": "대하/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "그림을",
+							"beginOffset": 297,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그림",
+									"beginOffset": 297,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98259044,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 299,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99995834,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그림",
+						"tagged": "그림/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "그렸다고",
+							"beginOffset": 301,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그리",
+									"beginOffset": 301,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.98998487,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 302,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9999167,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다고",
+									"beginOffset": 303,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9929198,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그리",
+						"tagged": "그리/VV+었/EP+다고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "한다",
+							"beginOffset": 306,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 306,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.90538174,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ다",
+									"beginOffset": 306,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.98920155,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VV+ㄴ다/EF",
+						"modified": ""
+					}
+				],
+				"refined": "전쟁 이후에는 소를 하루종일 바라보면서 소에 대한 그림을 그렸다고 한다"
+			},
+			{
+				"text": {
+					"content": "이중섭의 소 그림은 10억을 호가하며 황소는 35억원에 이건희 삼성그룹 전 회장이 낙찰해 국립중앙 박물관에 기증되었다고 전해진다.",
+					"beginOffset": 309,
+					"length": 72
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "이중섭의",
+							"beginOffset": 309,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이중섭",
+									"beginOffset": 309,
+									"length": 3
+								},
+								"tag": "NNP",
+								"probability": 0.9666259,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 312,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99974036,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이중섭",
+						"tagged": "이중섭/NNP+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "소",
+							"beginOffset": 314,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "소",
+									"beginOffset": 314,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.88174194,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "소",
+						"tagged": "소/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "그림은",
+							"beginOffset": 316,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그림",
+									"beginOffset": 316,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98247516,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 318,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9987328,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그림",
+						"tagged": "그림/NNG+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "10억을",
+							"beginOffset": 320,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "10",
+									"beginOffset": 320,
+									"length": 2
+								},
+								"tag": "SN",
+								"probability": 0.9983887,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "억",
+									"beginOffset": 322,
+									"length": 1
+								},
+								"tag": "NR",
+								"probability": 0.9941487,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 323,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99958855,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "10",
+						"tagged": "10/SN+억/NR+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "호가하며",
+							"beginOffset": 325,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "호가하",
+									"beginOffset": 325,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "며",
+									"beginOffset": 328,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9916799,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "호가하",
+						"tagged": "호가하/VV+며/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "황소는",
+							"beginOffset": 330,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "황소",
+									"beginOffset": 330,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98401487,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 332,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9995826,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "황소",
+						"tagged": "황소/NNG+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "35억원에",
+							"beginOffset": 334,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "35",
+									"beginOffset": 334,
+									"length": 2
+								},
+								"tag": "SN",
+								"probability": 0.99611807,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "억",
+									"beginOffset": 336,
+									"length": 1
+								},
+								"tag": "NR",
+								"probability": 0.99426883,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "원",
+									"beginOffset": 337,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9809875,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 338,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99394727,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "35",
+						"tagged": "35/SN+억/NR+원/NNB+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이건희",
+							"beginOffset": 340,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이건희",
+									"beginOffset": 340,
+									"length": 3
+								},
+								"tag": "NNP",
+								"probability": 0.9699304,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이건희",
+						"tagged": "이건희/NNP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "삼성그룹",
+							"beginOffset": 344,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "삼성그룹",
+									"beginOffset": 344,
+									"length": 4
+								},
+								"tag": "NNP",
+								"probability": 0.96630436,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "삼성그룹",
+						"tagged": "삼성그룹/NNP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "전",
+							"beginOffset": 349,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "전",
+									"beginOffset": 349,
+									"length": 1
+								},
+								"tag": "MMD",
+								"probability": 0.9993851,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "전",
+						"tagged": "전/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "회장이",
+							"beginOffset": 351,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "회장",
+									"beginOffset": 351,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9841842,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 353,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9886413,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "회장",
+						"tagged": "회장/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "낙찰해",
+							"beginOffset": 355,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "낙찰하",
+									"beginOffset": 355,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 357,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9954764,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "낙찰하",
+						"tagged": "낙찰하/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "국립중앙",
+							"beginOffset": 359,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "국립",
+									"beginOffset": 359,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "중앙",
+									"beginOffset": 361,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							}
+						],
+						"lemma": "국립",
+						"tagged": "국립/NNG+중앙/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "박물관에",
+							"beginOffset": 364,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "박물관",
+									"beginOffset": 364,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9836488,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 367,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9938881,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "박물관",
+						"tagged": "박물관/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "기증되었다고",
+							"beginOffset": 369,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "기증되",
+									"beginOffset": 369,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 372,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99995494,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다고",
+									"beginOffset": 373,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9763663,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "기증되",
+						"tagged": "기증되/VV+었/EP+다고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "전해",
+							"beginOffset": 376,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "전하",
+									"beginOffset": 376,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.98956215,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 377,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9950397,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "전하",
+						"tagged": "전하/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "진다.",
+							"beginOffset": 378,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "지",
+									"beginOffset": 378,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.96594656,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ다",
+									"beginOffset": 378,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.99102515,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 380,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9998311,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "지",
+						"tagged": "지/VX+ㄴ다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "이중섭의 소 그림은 10억을 호가하며 황소는 35억원에 이건희 삼성그룹 전 회장이 낙찰해 국립중앙 박물관에 기증되었다고 전해 진다."
+			},
+			{
+				"text": {
+					"content": "남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다.",
+					"beginOffset": 382,
+					"length": 96
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "남한에",
+							"beginOffset": 382,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "남한",
+									"beginOffset": 382,
+									"length": 2
+								},
+								"tag": "NNP",
+								"probability": 0.97194755,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 384,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99587655,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "남한",
+						"tagged": "남한/NNP+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있을",
+							"beginOffset": 386,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 386,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9380844,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 387,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99994874,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VA+을/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "때는",
+							"beginOffset": 388,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "때",
+									"beginOffset": 388,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.98427415,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 389,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9992019,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "때",
+						"tagged": "때/NNG+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "제주도",
+							"beginOffset": 391,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "제주도",
+									"beginOffset": 391,
+									"length": 3
+								},
+								"tag": "NNP",
+								"probability": 0.9538464,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "제주도",
+						"tagged": "제주도/NNP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "서귀포시에서",
+							"beginOffset": 395,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "서귀포시",
+									"beginOffset": 395,
+									"length": 4
+								},
+								"tag": "NNP",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "에서",
+									"beginOffset": 399,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9967616,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "서귀포시",
+						"tagged": "서귀포시/NNP+에서/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "정착해",
+							"beginOffset": 402,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "정착하",
+									"beginOffset": 402,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 404,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99316883,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "정착하",
+						"tagged": "정착하/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "평화롭게",
+							"beginOffset": 406,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "평화롭",
+									"beginOffset": 406,
+									"length": 3
+								},
+								"tag": "VA",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "게",
+									"beginOffset": 409,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99486846,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "평화롭",
+						"tagged": "평화롭/VA+게/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "지내면서",
+							"beginOffset": 411,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "지내",
+									"beginOffset": 411,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9876364,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "면서",
+									"beginOffset": 413,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.992353,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "지내",
+						"tagged": "지내/VV+면서/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "창작생활을",
+							"beginOffset": 416,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "창작",
+									"beginOffset": 416,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97288865,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "생활",
+									"beginOffset": 418,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9834135,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 420,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99996376,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "창작",
+						"tagged": "창작/NNG+생활/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "하다가",
+							"beginOffset": 422,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 422,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9810843,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다가",
+									"beginOffset": 423,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99449724,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VV+다가/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "돈이",
+							"beginOffset": 426,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "돈",
+									"beginOffset": 426,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9804173,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 427,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9806673,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "돈",
+						"tagged": "돈/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "떨어지게",
+							"beginOffset": 429,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "떨어지",
+									"beginOffset": 429,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.99214816,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "게",
+									"beginOffset": 432,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9928496,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "떨어지",
+						"tagged": "떨어지/VV+게/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "되고",
+							"beginOffset": 433,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "되",
+									"beginOffset": 433,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9406967,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 434,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9942429,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "되",
+						"tagged": "되/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "말년에는",
+							"beginOffset": 436,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "말년",
+									"beginOffset": 436,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9763523,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 438,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99086386,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 439,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99893177,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "말년",
+						"tagged": "말년/NNG+에/JKB+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "빈곤에",
+							"beginOffset": 441,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "빈곤",
+									"beginOffset": 441,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.978396,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 443,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9946336,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "빈곤",
+						"tagged": "빈곤/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "시달려서",
+							"beginOffset": 445,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "시달리",
+									"beginOffset": 445,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.9887382,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어서",
+									"beginOffset": 447,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99474764,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "시달리",
+						"tagged": "시달리/VV+어서/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "담배갑의",
+							"beginOffset": 450,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "담배갑",
+									"beginOffset": 450,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.58872277,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 453,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9997361,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "담배갑",
+						"tagged": "담배갑/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "은박지에",
+							"beginOffset": 455,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "은박지",
+									"beginOffset": 455,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9836197,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 458,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9957918,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "은박지",
+						"tagged": "은박지/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "그림을",
+							"beginOffset": 460,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그림",
+									"beginOffset": 460,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9834633,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 462,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999428,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그림",
+						"tagged": "그림/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "그리기도",
+							"beginOffset": 464,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그리",
+									"beginOffset": 464,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.99008757,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "기",
+									"beginOffset": 466,
+									"length": 1
+								},
+								"tag": "ETN",
+								"probability": 0.99983335,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 467,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99937856,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그리",
+						"tagged": "그리/VV+기/ETN+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "했다고",
+							"beginOffset": 469,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 469,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.83583117,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 469,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99982214,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다고",
+									"beginOffset": 470,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9868871,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VX+았/EP+다고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "전해",
+							"beginOffset": 473,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "전하",
+									"beginOffset": 473,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9896252,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 474,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99417657,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "전하",
+						"tagged": "전하/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "진다.",
+							"beginOffset": 475,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "지",
+									"beginOffset": 475,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.96680117,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ다",
+									"beginOffset": 475,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.9910227,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 477,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9997722,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "지",
+						"tagged": "지/VX+ㄴ다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "남한에 있을 때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게 되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해 진다."
+			},
+			{
+				"text": {
+					"content": "이렇게 힘들게 작품활동을 하고 친구들의 도움으로 마지막으로 전시회를 열고 은박지에 그린 작품이 뉴욕 현대미술관에 전시되는 영광을 얻기도 했다.",
+					"beginOffset": 479,
+					"length": 79
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "이렇게",
+							"beginOffset": 479,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이렇",
+									"beginOffset": 479,
+									"length": 2
+								},
+								"tag": "VA",
+								"probability": 0.9795574,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "게",
+									"beginOffset": 481,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9953942,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이렇",
+						"tagged": "이렇/VA+게/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "힘들게",
+							"beginOffset": 483,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "힘들",
+									"beginOffset": 483,
+									"length": 2
+								},
+								"tag": "VA",
+								"probability": 0.9869327,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "게",
+									"beginOffset": 485,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9909904,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "힘들",
+						"tagged": "힘들/VA+게/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "작품활동을",
+							"beginOffset": 487,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "작품",
+									"beginOffset": 487,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98332757,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "활동",
+									"beginOffset": 489,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.982434,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 491,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999141,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "작품",
+						"tagged": "작품/NNG+활동/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "하고",
+							"beginOffset": 493,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 493,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.98907876,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 494,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9944756,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "친구들의",
+							"beginOffset": 496,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "친구",
+									"beginOffset": 496,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98180956,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "들",
+									"beginOffset": 498,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.9890485,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 499,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9997236,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "친구",
+						"tagged": "친구/NNG+들/XSN+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "도움으로",
+							"beginOffset": 501,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "도움",
+									"beginOffset": 501,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9845279,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으로",
+									"beginOffset": 503,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.995987,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "도움",
+						"tagged": "도움/NNG+으로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "마지막으로",
+							"beginOffset": 506,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "마지막",
+									"beginOffset": 506,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.980875,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으로",
+									"beginOffset": 509,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9956516,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "마지막",
+						"tagged": "마지막/NNG+으로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "전시회를",
+							"beginOffset": 512,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "전시회",
+									"beginOffset": 512,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.98150915,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 515,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999806,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "전시회",
+						"tagged": "전시회/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "열고",
+							"beginOffset": 517,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "열",
+									"beginOffset": 517,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.98824555,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 518,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9915402,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "열",
+						"tagged": "열/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "은박지에",
+							"beginOffset": 520,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "은박지",
+									"beginOffset": 520,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9814401,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 523,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9936339,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "은박지",
+						"tagged": "은박지/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "그린",
+							"beginOffset": 525,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그리",
+									"beginOffset": 525,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.99162036,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 526,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999866,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그리",
+						"tagged": "그리/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "작품이",
+							"beginOffset": 528,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "작품",
+									"beginOffset": 528,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.977564,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 530,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9143701,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "작품",
+						"tagged": "작품/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "뉴욕",
+							"beginOffset": 532,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "뉴욕",
+									"beginOffset": 532,
+									"length": 2
+								},
+								"tag": "NNP",
+								"probability": 0.97119373,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "뉴욕",
+						"tagged": "뉴욕/NNP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "현대미술관에",
+							"beginOffset": 535,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "현대",
+									"beginOffset": 535,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "미술관",
+									"beginOffset": 537,
+									"length": 3
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 540,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99049747,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "현대",
+						"tagged": "현대/NNG+미술관/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "전시되는",
+							"beginOffset": 542,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "전시되",
+									"beginOffset": 542,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 545,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99978274,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "전시되",
+						"tagged": "전시되/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "영광을",
+							"beginOffset": 547,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "영광",
+									"beginOffset": 547,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9707403,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 549,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9996402,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "영광",
+						"tagged": "영광/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "얻기도",
+							"beginOffset": 551,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "얻",
+									"beginOffset": 551,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.988971,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "기",
+									"beginOffset": 552,
+									"length": 1
+								},
+								"tag": "ETN",
+								"probability": 0.9992683,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 553,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9995709,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "얻",
+						"tagged": "얻/VV+기/ETN+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "했다.",
+							"beginOffset": 555,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 555,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.7886443,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 555,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99995667,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 556,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9912768,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 557,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99964124,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VX+았/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "이렇게 힘들게 작품활동을 하고 친구들의 도움으로 마지막으로 전시회를 열고 은박지에 그린 작품이 뉴욕 현대미술관에 전시되는 영광을 얻기도 했다."
+			},
+			{
+				"text": {
+					"content": "하지만 1년뒤에 여러 병들이 합쳐져 41세의 나이로 사망하게된다.",
+					"beginOffset": 559,
+					"length": 36
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "하지만",
+							"beginOffset": 559,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하지만",
+									"beginOffset": 559,
+									"length": 3
+								},
+								"tag": "MAJ",
+								"probability": 0.998067,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하지만",
+						"tagged": "하지만/MAJ",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "1년",
+							"beginOffset": 563,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "1",
+									"beginOffset": 563,
+									"length": 1
+								},
+								"tag": "SN",
+								"probability": 0.99719906,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "년",
+									"beginOffset": 564,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9781603,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "1",
+						"tagged": "1/SN+년/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "뒤에",
+							"beginOffset": 565,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "뒤",
+									"beginOffset": 565,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9738144,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 566,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9974674,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "뒤",
+						"tagged": "뒤/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "여러",
+							"beginOffset": 568,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "여러",
+									"beginOffset": 568,
+									"length": 2
+								},
+								"tag": "MMN",
+								"probability": 0.9992654,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "여러",
+						"tagged": "여러/MMN",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "병들이",
+							"beginOffset": 571,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "병",
+									"beginOffset": 571,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9869222,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "들",
+									"beginOffset": 572,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.99063265,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 573,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9928293,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "병",
+						"tagged": "병/NNG+들/XSN+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "합쳐",
+							"beginOffset": 575,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "합치",
+									"beginOffset": 575,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9879938,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어",
+									"beginOffset": 576,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99606127,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "합치",
+						"tagged": "합치/VV+어/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "져",
+							"beginOffset": 577,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "지",
+									"beginOffset": 577,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.95371413,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어",
+									"beginOffset": 577,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9907867,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "지",
+						"tagged": "지/VX+어/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "41세의",
+							"beginOffset": 579,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "41",
+									"beginOffset": 579,
+									"length": 2
+								},
+								"tag": "SN",
+								"probability": 0.99857956,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "세",
+									"beginOffset": 581,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9747544,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 582,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9998119,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "41",
+						"tagged": "41/SN+세/NNB+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "나이로",
+							"beginOffset": 584,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "나이",
+									"beginOffset": 584,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9840911,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "로",
+									"beginOffset": 586,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9967556,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "나이",
+						"tagged": "나이/NNG+로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사망하게",
+							"beginOffset": 588,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사망하",
+									"beginOffset": 588,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "게",
+									"beginOffset": 591,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99162585,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사망하",
+						"tagged": "사망하/VV+게/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "된다.",
+							"beginOffset": 592,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "되",
+									"beginOffset": 592,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.8586298,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ다",
+									"beginOffset": 592,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.98598593,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 594,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99990135,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "되",
+						"tagged": "되/VV+ㄴ다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "하지만 1년 뒤에 여러 병들이 합쳐 져 41세의 나이로 사망하게 된다."
+			},
+			{
+				"text": {
+					"content": "이중섭은 자전적인 요소로 사후에 좋은 평가를 받았다.",
+					"beginOffset": 596,
+					"length": 29
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "이중섭은",
+							"beginOffset": 596,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이중섭",
+									"beginOffset": 596,
+									"length": 3
+								},
+								"tag": "NNP",
+								"probability": 0.97079766,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 599,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9994519,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이중섭",
+						"tagged": "이중섭/NNP+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "자전적인",
+							"beginOffset": 601,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "자전",
+									"beginOffset": 601,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9805181,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "적",
+									"beginOffset": 603,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.988614,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 604,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.99987113,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 604,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999901,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "자전",
+						"tagged": "자전/NNG+적/XSN+이/VCP+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "요소로",
+							"beginOffset": 606,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "요소",
+									"beginOffset": 606,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98289794,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "로",
+									"beginOffset": 608,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99602,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "요소",
+						"tagged": "요소/NNG+로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사후에",
+							"beginOffset": 610,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사후",
+									"beginOffset": 610,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98139656,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 612,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99264157,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사후",
+						"tagged": "사후/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "좋은",
+							"beginOffset": 614,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "좋",
+									"beginOffset": 614,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9870408,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 615,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.999974,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "좋",
+						"tagged": "좋/VA+은/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "평가를",
+							"beginOffset": 617,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "평가",
+									"beginOffset": 617,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97955495,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 619,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999428,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "평가",
+						"tagged": "평가/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "받았다.",
+							"beginOffset": 621,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "받",
+									"beginOffset": 621,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9863079,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 622,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99981916,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 623,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.99038935,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 624,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99985194,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "받",
+						"tagged": "받/VV+았/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "이중섭은 자전적인 요소로 사후에 좋은 평가를 받았다."
+			},
+			{
+				"text": {
+					"content": "나도 이중섭처럼 자전적인 화가가 되어 활동하고싶다.",
+					"beginOffset": 626,
+					"length": 28
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "나도",
+							"beginOffset": 626,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "나",
+									"beginOffset": 626,
+									"length": 1
+								},
+								"tag": "NP",
+								"probability": 0.9798201,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 627,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9994328,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "나",
+						"tagged": "나/NP+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이중섭처럼",
+							"beginOffset": 629,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이중섭",
+									"beginOffset": 629,
+									"length": 3
+								},
+								"tag": "NNP",
+								"probability": 0.9724276,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "처럼",
+									"beginOffset": 632,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.996253,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이중섭",
+						"tagged": "이중섭/NNP+처럼/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "자전적인",
+							"beginOffset": 635,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "자전",
+									"beginOffset": 635,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98133785,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "적",
+									"beginOffset": 637,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.98650676,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 638,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.9998641,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 638,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99999225,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "자전",
+						"tagged": "자전/NNG+적/XSN+이/VCP+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "화가가",
+							"beginOffset": 640,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "화가",
+									"beginOffset": 640,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9830604,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 642,
+									"length": 1
+								},
+								"tag": "JKC",
+								"probability": 0.93011653,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "화가",
+						"tagged": "화가/NNG+가/JKC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "되어",
+							"beginOffset": 644,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "되",
+									"beginOffset": 644,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.98685664,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어",
+									"beginOffset": 645,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.98745847,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "되",
+						"tagged": "되/VV+어/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "활동하고",
+							"beginOffset": 647,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "활동하",
+									"beginOffset": 647,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 650,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.98513514,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "활동하",
+						"tagged": "활동하/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "싶다.",
+							"beginOffset": 651,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "싶",
+									"beginOffset": 651,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.97669584,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 652,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9890939,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 653,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99978215,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "싶",
+						"tagged": "싶/VX+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "나도 이중섭처럼 자전적인 화가가 되어 활동하고 싶다."
+			}
+		],
+		"language": "ko_KR"
+	},
+	"ttr": {
+		"lemma_Cnt": 323,
+		"lemma_TTR": 0.4823529411764706,
+		"CL_TTR": 0.703030303030303,
+		"NL_TTR": 0.7291666666666666,
+		"NN_TTR": 0.7282608695652174,
+		"NNG_TTR": 0.7361111111111112,
+		"NNP_TTR": 0.6470588235294118,
+		"NNB_TTR": 1.0,
+		"NP_TTR": 1.0,
+		"NR_TTR": 0.5,
+		"VL_TTR": 0.6515151515151515,
+		"VV_TTR": 0.64,
+		"VA_TTR": 1.0,
+		"ML_TTR": 1.0,
+		"MM_TTR": 0,
+		"MA_TTR": 1.0,
+		"MAJ_TTR": 1.0,
+		"IC_TTR": 0,
+		"FL_TTR": 0.26282051282051283,
+		"J_TTR": 0.22972972972972974,
+		"E_TTR": 0.3026315789473684,
+		"X_TTR": 0.6666666666666666,
+		"lemma_RTTR": 8.894148770564904,
+		"CL_RTTR": 9.030587752273666,
+		"NL_RTTR": 7.144345083117604,
+		"NN_RTTR": 6.9852328709120055,
+		"NNG_RTTR": 6.24610990048117,
+		"NNP_RTTR": 2.6678918753996625,
+		"NNB_RTTR": 1.7320508075688774,
+		"NP_RTTR": 1.414213562373095,
+		"NR_RTTR": 0.7071067811865475,
+		"VL_RTTR": 5.292934112111308,
+		"VV_RTTR": 4.525483399593904,
+		"VA_RTTR": 2.6457513110645903,
+		"ML_RTTR": 1.7320508075688774,
+		"MM_RTTR": 0,
+		"MA_RTTR": 1.7320508075688774,
+		"MAJ_RTTR": 1.0,
+		"IC_RTTR": 0,
+		"FL_RTTR": 3.2826271530042863,
+		"J_RTTR": 1.9762098586449277,
+		"E_RTTR": 2.63828093951146,
+		"X_RTTR": 1.6329931618554523,
+		"lemma_CTTR": 6.289112908548437,
+		"CL_CTTR": 6.3855898377328915,
+		"NL_CTTR": 5.0518148554092255,
+		"NN_CTTR": 4.939305531189054,
+		"NNG_CTTR": 4.416666666666667,
+		"NNP_CTTR": 1.8864844365675972,
+		"NNB_CTTR": 1.2247448713915892,
+		"NP_CTTR": 1.0,
+		"NR_CTTR": 0.5,
+		"VL_CTTR": 3.7426696030475037,
+		"VV_CTTR": 3.2,
+		"VA_CTTR": 1.8708286933869707,
+		"ML_CTTR": 1.2247448713915892,
+		"MM_CTTR": 0,
+		"MA_CTTR": 1.2247448713915892,
+		"MAJ_CTTR": 0.7071067811865475,
+		"IC_CTTR": 0,
+		"FL_CTTR": 2.3211679199964212,
+		"J_CTTR": 1.397391392095537,
+		"E_CTTR": 1.8655463430037693,
+		"X_CTTR": 1.1547005383792517,
+		"lemma_MSTTR": 0.7933333333333334,
+		"CL_MSTTR": 0.82,
+		"NL_MSTTR": 0.66,
+		"NN_MSTTR": 0.66,
+		"NNG_MSTTR": 0.7,
+		"NNP_MSTTR": 0.6470588235294118,
+		"NNB_MSTTR": 1.0,
+		"NP_MSTTR": 1.0,
+		"NR_MSTTR": 0.5,
+		"VL_MSTTR": 0.66,
+		"VV_MSTTR": 0.64,
+		"VA_MSTTR": 1.0,
+		"ML_MSTTR": 1.0,
+		"MM_MSTTR": 0,
+		"MA_MSTTR": 1.0,
+		"MAJ_MSTTR": 1.0,
+		"IC_MSTTR": 0,
+		"FL_MSTTR": 0.48,
+		"J_MSTTR": 0.3,
+		"E_MSTTR": 0.36,
+		"X_MSTTR": 0.6666666666666666,
+		"lemma_MATTR": 0.791202749140894,
+		"CL_MATTR": 0.7910344827586211,
+		"NL_MATTR": 0.7638297872340427,
+		"NN_MATTR": 0.7697674418604653,
+		"NNG_MATTR": 0.7417391304347826,
+		"NNP_MATTR": 0.6470588235294118,
+		"NNB_MATTR": 1.0,
+		"NP_MATTR": 1.0,
+		"NR_MATTR": 0.5,
+		"VL_MATTR": 0.6494117647058824,
+		"VV_MATTR": 0.64,
+		"VA_MATTR": 1.0,
+		"ML_MATTR": 1.0,
+		"MM_MATTR": 0,
+		"MA_MATTR": 1.0,
+		"MAJ_MATTR": 1.0,
+		"IC_MATTR": 0,
+		"FL_MATTR": 0.47663551401869136,
+		"J_MATTR": 0.27519999999999994,
+		"E_MATTR": 0.39555555555555566,
+		"X_MATTR": 0.6666666666666666,
+		"lemma_MTLD": 67.91322841344109,
+		"CL_MTLD": 100.94416785206258,
+		"NL_MTLD": 70.33694415173866,
+		"NN_MTLD": 67.12204672364673,
+		"NNG_MTLD": 53.54563540481854,
+		"NNP_MTLD": 14.128378378378379,
+		"NNB_MTLD": 0.0,
+		"NP_MTLD": 0.0,
+		"NR_MTLD": 1.12,
+		"VL_MTLD": 26.63917966246528,
+		"VV_MTLD": 17.109717244125846,
+		"VA_MTLD": 0.0,
+		"ML_MTLD": 0.0,
+		"MM_MTLD": 0.0,
+		"MA_MTLD": 0.0,
+		"MAJ_MTLD": 0.0,
+		"IC_MTLD": 0.0,
+		"FL_MTLD": 21.79179331306991,
+		"J_MTLD": 11.640449438202248,
+		"E_MTLD": 11.99290780141844,
+		"X_MTLD": 5.04,
+		"lemma_VOCDD": 83.67322727819585,
+		"CL_VOCDD": 131.56003205287735,
+		"NL_VOCDD": 102.23005685998771,
+		"NN_VOCDD": 96.29850232357501,
+		"NNG_VOCDD": 77.18892875461707,
+		"NNP_VOCDD": 0,
+		"NNB_VOCDD": 0,
+		"NP_VOCDD": 0,
+		"NR_VOCDD": 0,
+		"VL_VOCDD": 37.791569274219626,
+		"VV_VOCDD": 0,
+		"VA_VOCDD": 0,
+		"ML_VOCDD": 0,
+		"MM_VOCDD": 0,
+		"MA_VOCDD": 0,
+		"MAJ_VOCDD": 0,
+		"IC_VOCDD": 0,
+		"FL_VOCDD": 14.571636230372931,
+		"J_VOCDD": 3.677749726556794,
+		"E_VOCDD": 6.2796345676113745,
+		"X_VOCDD": 0,
+		"lemma_HDD": 0.8272591928387519,
+		"CL_HDD": 0.8766991725605427,
+		"NL_HDD": 0.8505690950130533,
+		"NN_HDD": 0.8435522708849539,
+		"NNG_HDD": 0.8186235915064117,
+		"NNP_HDD": 0.0,
+		"NNB_HDD": 0.0,
+		"NP_HDD": 0.0,
+		"NR_HDD": 0.0,
+		"VL_HDD": 0.7139100171758441,
+		"VV_HDD": 0.6648973298404274,
+		"VA_HDD": 0.0,
+		"ML_HDD": 0.0,
+		"MM_HDD": 0.0,
+		"MA_HDD": 0.0,
+		"MAJ_HDD": 0.0,
+		"IC_HDD": 0.0,
+		"FL_HDD": 0.5561058118406516,
+		"J_HDD": 0.33938006000957255,
+		"E_HDD": 0.417068669991661,
+		"X_HDD": 0.0
+	},
+	"similarity": {
+		"avgSentSimilarity": -0.007077163551002741,
+		"topicConsistency": 0.5015
+	},
+	"adjacency": {
+		"adjacent_sentence_overlap_all_lemmas": 266,
+		"adjacent_sentence_overlap_all_lemmas_normed": 10,
+		"binary_adjacent_sentence_overlap_all_lemmas": 10,
+		"adjacent_two_sentence_overlap_all_lemmas": 199,
+		"adjacent_two_sentence_overlap_all_lemmas_normed": 9,
+		"binary_adjacent_two_sentence_overlap_all_lemmas": 9,
+		"adjacent_sentence_overlap_content_lemmas": 138,
+		"adjacent_sentence_overlap_content_lemmas_normed": 10,
+		"binary_adjacent_sentence_overlap_content_lemmas": 8,
+		"adjacent_two_sentence_overlap_content_lemmas": 108,
+		"adjacent_two_sentence_overlap_content_lemmas_normed": 9,
+		"binary_adjacent_two_sentence_overlap_content_lemmas": 6,
+		"adjacent_sentence_overlap_function_lemmas": 117,
+		"adjacent_sentence_overlap_function_lemmas_normed": 10,
+		"binary_adjacent_sentence_overlap_function_lemmas": 10,
+		"adjacent_two_sentence_overlap_function_lemmas": 83,
+		"adjacent_two_sentence_overlap_function_lemmas_normed": 9,
+		"binary_adjacent_two_sentence_overlap_function_lemmas": 9,
+		"adjacent_sentence_overlap_noun_lemmas": 86,
+		"adjacent_sentence_overlap_noun_lemmas_normed": 10,
+		"binary_adjacent_sentence_overlap_noun_lemmas": 7,
+		"adjacent_two_sentence_overlap_noun_lemmas": 68,
+		"adjacent_two_sentence_overlap_noun_lemmas_normed": 9,
+		"binary_adjacent_two_sentence_overlap_noun_lemmas": 3,
+		"adjacent_sentence_overlap_verb_lemmas": 56,
+		"adjacent_sentence_overlap_verb_lemmas_normed": 10,
+		"binary_adjacent_sentence_overlap_verb_lemmas": 7,
+		"adjacent_two_sentence_overlap_verb_lemmas": 42,
+		"adjacent_two_sentence_overlap_verb_lemmas_normed": 9,
+		"binary_adjacent_two_sentence_overlap_verb_lemmas": 4,
+		"adjacent_sentence_overlap_adjective_lemmas": 3,
+		"adjacent_sentence_overlap_adjective_lemmas_normed": 2,
+		"binary_adjacent_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_sentence_overlap_adverb_lemmas_normed": 0,
+		"binary_adjacent_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adverb_lemmas": 0
+	},
+	"basic_count": {
+		"para_Cnt": 1,
+		"sentence_Cnt": 11,
+		"word_Cnt": 145,
+		"morph_Cnt": 340,
+		"char_Cnt": 533,
+		"CL_Cnt": 165,
+		"NL_Cnt": 96,
+		"NN_Cnt": 92,
+		"NNG_Cnt": 72,
+		"NNP_Cnt": 17,
+		"NNB_Cnt": 3,
+		"NP_Cnt": 2,
+		"NP_People_Cnt": 2,
+		"NP_Things_Cnt": 0,
+		"NR_Cnt": 2,
+		"VL_Cnt": 66,
+		"VV_Cnt": 50,
+		"VA_Cnt": 7,
+		"VX_Cnt": 7,
+		"VCP_Cnt": 2,
+		"VCN_Cnt": 0,
+		"ML_Cnt": 3,
+		"MA_Cnt": 0,
+		"MM_Cnt": 0,
+		"FL_Cnt": 156,
+		"J_Cnt": 74,
+		"E_Cnt": 76,
+		"X_Cnt": 6,
+		"IC_Cnt": 0
+	},
+	"basic_density": {
+		"CL_Den": 0.4852941176470588,
+		"FL_Den": 0.4588235294117647,
+		"NL_Den": 0.27058823529411763,
+		"NNGL_Den": 0.21176470588235294,
+		"NNPL_Den": 0.05,
+		"NNBL_Den": 0.008823529411764706,
+		"NPL_Den": 0.0058823529411764705,
+		"NML_Den": 0.0058823529411764705,
+		"VL_Den": 0.19411764705882353,
+		"VVL_Den": 0.14705882352941177,
+		"VAL_Den": 0.020588235294117647,
+		"ML_Den": 0.008823529411764706,
+		"MML_Den": 0.0,
+		"MAL_Den": 0.0,
+		"JL_Den": 0.21764705882352942,
+		"EL_Den": 0.2235294117647059,
+		"XL_Den": 0.01764705882352941,
+		"ITL_Den": 0.0,
+		"NCL_Den": 0.5575757575757576,
+		"NNCL_Den": 0.43636363636363634,
+		"NNGCL_Den": 0.10303030303030303,
+		"NNBCL_Den": 0.01818181818181818,
+		"NPCL_Den": 0.012121212121212121,
+		"NMCL_Den": 0.012121212121212121,
+		"VCL_Den": 0.4,
+		"VVCL_Den": 0.30303030303030304,
+		"VACL_Den": 0.04242424242424243,
+		"MCL_Den": 0.01818181818181818,
+		"MMCL_Den": 0.0,
+		"MACL_Den": 0.0,
+		"INCL_Den": 0.0,
+		"JFL_Den": 0.47435897435897434,
+		"EFL_Den": 0.48717948717948717,
+		"XFL_Den": 0.038461538461538464
+	},
+	"basic_level": {
+		"morph_LenAvg": 1.6058823529411765,
+		"morph_LenStd": 0.7340224297224429,
+		"word_LenAvg": 3.4413793103448276,
+		"word_LenStd": 1.1499676881155714
+	},
+	"basic_list": {
+		"NL_Lst": [
+			[
+				0,
+				"이중섭",
+				"NNP",
+				"이중섭은 어린시절부터 소를 좋아했다고 한다."
+			],
+			[
+				1,
+				"시절",
+				"NNG",
+				"이중섭은 어린시절부터 소를 좋아했다고 한다."
+			],
+			[
+				2,
+				"소",
+				"NNG",
+				"이중섭은 어린시절부터 소를 좋아했다고 한다."
+			],
+			[
+				3,
+				"그",
+				"NP",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				4,
+				"일제",
+				"NNG",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				5,
+				"강점기",
+				"NNG",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				6,
+				"시대",
+				"NNG",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				7,
+				"오산",
+				"NNG",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				8,
+				"학교",
+				"NNG",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				9,
+				"미술",
+				"NNG",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				10,
+				"임용련",
+				"NNP",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				11,
+				"미술",
+				"NNG",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				12,
+				"일본",
+				"NNP",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				13,
+				"미술",
+				"NNG",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				14,
+				"조선",
+				"NNP",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				15,
+				"연구",
+				"NNG",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				16,
+				"광복",
+				"NNG",
+				"광복 이후에는 공산당 동맹에 가입했는데 본인의 이념과 사회주의의 이념이 맞지 않아 6.25 전쟁때 남한으로 내려왔다고 한다."
+			],
+			[
+				17,
+				"이후",
+				"NNG",
+				"광복 이후에는 공산당 동맹에 가입했는데 본인의 이념과 사회주의의 이념이 맞지 않아 6.25 전쟁때 남한으로 내려왔다고 한다."
+			],
+			[
+				18,
+				"공산당",
+				"NNP",
+				"광복 이후에는 공산당 동맹에 가입했는데 본인의 이념과 사회주의의 이념이 맞지 않아 6.25 전쟁때 남한으로 내려왔다고 한다."
+			],
+			[
+				19,
+				"동맹",
+				"NNG",
+				"광복 이후에는 공산당 동맹에 가입했는데 본인의 이념과 사회주의의 이념이 맞지 않아 6.25 전쟁때 남한으로 내려왔다고 한다."
+			],
+			[
+				20,
+				"본인",
+				"NNG",
+				"광복 이후에는 공산당 동맹에 가입했는데 본인의 이념과 사회주의의 이념이 맞지 않아 6.25 전쟁때 남한으로 내려왔다고 한다."
+			],
+			[
+				21,
+				"이념",
+				"NNG",
+				"광복 이후에는 공산당 동맹에 가입했는데 본인의 이념과 사회주의의 이념이 맞지 않아 6.25 전쟁때 남한으로 내려왔다고 한다."
+			],
+			[
+				22,
+				"사회주의",
+				"NNG",
+				"광복 이후에는 공산당 동맹에 가입했는데 본인의 이념과 사회주의의 이념이 맞지 않아 6.25 전쟁때 남한으로 내려왔다고 한다."
+			],
+			[
+				23,
+				"이념",
+				"NNG",
+				"광복 이후에는 공산당 동맹에 가입했는데 본인의 이념과 사회주의의 이념이 맞지 않아 6.25 전쟁때 남한으로 내려왔다고 한다."
+			],
+			[
+				24,
+				"전쟁",
+				"NNG",
+				"광복 이후에는 공산당 동맹에 가입했는데 본인의 이념과 사회주의의 이념이 맞지 않아 6.25 전쟁때 남한으로 내려왔다고 한다."
+			],
+			[
+				25,
+				"때",
+				"NNG",
+				"광복 이후에는 공산당 동맹에 가입했는데 본인의 이념과 사회주의의 이념이 맞지 않아 6.25 전쟁때 남한으로 내려왔다고 한다."
+			],
+			[
+				26,
+				"남한",
+				"NNP",
+				"광복 이후에는 공산당 동맹에 가입했는데 본인의 이념과 사회주의의 이념이 맞지 않아 6.25 전쟁때 남한으로 내려왔다고 한다."
+			],
+			[
+				27,
+				"남한",
+				"NNP",
+				"남한으로 내려올 당시 혼자서 내려오고 일본시절에 그린 그림과 전쟁당시 그린 그림을 노모에게 맡기고 와서 대부분이 소실되거나 유실되었다고 한다."
+			],
+			[
+				28,
+				"당시",
+				"NNG",
+				"남한으로 내려올 당시 혼자서 내려오고 일본시절에 그린 그림과 전쟁당시 그린 그림을 노모에게 맡기고 와서 대부분이 소실되거나 유실되었다고 한다."
+			],
+			[
+				29,
+				"혼자",
+				"NNG",
+				"남한으로 내려올 당시 혼자서 내려오고 일본시절에 그린 그림과 전쟁당시 그린 그림을 노모에게 맡기고 와서 대부분이 소실되거나 유실되었다고 한다."
+			],
+			[
+				30,
+				"일본",
+				"NNP",
+				"남한으로 내려올 당시 혼자서 내려오고 일본시절에 그린 그림과 전쟁당시 그린 그림을 노모에게 맡기고 와서 대부분이 소실되거나 유실되었다고 한다."
+			],
+			[
+				31,
+				"시절",
+				"NNG",
+				"남한으로 내려올 당시 혼자서 내려오고 일본시절에 그린 그림과 전쟁당시 그린 그림을 노모에게 맡기고 와서 대부분이 소실되거나 유실되었다고 한다."
+			],
+			[
+				32,
+				"그림",
+				"NNG",
+				"남한으로 내려올 당시 혼자서 내려오고 일본시절에 그린 그림과 전쟁당시 그린 그림을 노모에게 맡기고 와서 대부분이 소실되거나 유실되었다고 한다."
+			],
+			[
+				33,
+				"전쟁",
+				"NNG",
+				"남한으로 내려올 당시 혼자서 내려오고 일본시절에 그린 그림과 전쟁당시 그린 그림을 노모에게 맡기고 와서 대부분이 소실되거나 유실되었다고 한다."
+			],
+			[
+				34,
+				"당시",
+				"NNG",
+				"남한으로 내려올 당시 혼자서 내려오고 일본시절에 그린 그림과 전쟁당시 그린 그림을 노모에게 맡기고 와서 대부분이 소실되거나 유실되었다고 한다."
+			],
+			[
+				35,
+				"그림",
+				"NNG",
+				"남한으로 내려올 당시 혼자서 내려오고 일본시절에 그린 그림과 전쟁당시 그린 그림을 노모에게 맡기고 와서 대부분이 소실되거나 유실되었다고 한다."
+			],
+			[
+				36,
+				"노모",
+				"NNG",
+				"남한으로 내려올 당시 혼자서 내려오고 일본시절에 그린 그림과 전쟁당시 그린 그림을 노모에게 맡기고 와서 대부분이 소실되거나 유실되었다고 한다."
+			],
+			[
+				37,
+				"대부분",
+				"NNG",
+				"남한으로 내려올 당시 혼자서 내려오고 일본시절에 그린 그림과 전쟁당시 그린 그림을 노모에게 맡기고 와서 대부분이 소실되거나 유실되었다고 한다."
+			],
+			[
+				38,
+				"전쟁",
+				"NNG",
+				"전쟁 이후에는 소를 하루종일 바라보면서 소에대한 그림을 그렸다고 한다"
+			],
+			[
+				39,
+				"이후",
+				"NNG",
+				"전쟁 이후에는 소를 하루종일 바라보면서 소에대한 그림을 그렸다고 한다"
+			],
+			[
+				40,
+				"소",
+				"NNG",
+				"전쟁 이후에는 소를 하루종일 바라보면서 소에대한 그림을 그렸다고 한다"
+			],
+			[
+				41,
+				"하루",
+				"NNG",
+				"전쟁 이후에는 소를 하루종일 바라보면서 소에대한 그림을 그렸다고 한다"
+			],
+			[
+				42,
+				"종일",
+				"NNG",
+				"전쟁 이후에는 소를 하루종일 바라보면서 소에대한 그림을 그렸다고 한다"
+			],
+			[
+				43,
+				"소",
+				"NNG",
+				"전쟁 이후에는 소를 하루종일 바라보면서 소에대한 그림을 그렸다고 한다"
+			],
+			[
+				44,
+				"그림",
+				"NNG",
+				"전쟁 이후에는 소를 하루종일 바라보면서 소에대한 그림을 그렸다고 한다"
+			],
+			[
+				45,
+				"이중섭",
+				"NNP",
+				"이중섭의 소 그림은 10억을 호가하며 황소는 35억원에 이건희 삼성그룹 전 회장이 낙찰해 국립중앙 박물관에 기증되었다고 전해진다."
+			],
+			[
+				46,
+				"소",
+				"NNG",
+				"이중섭의 소 그림은 10억을 호가하며 황소는 35억원에 이건희 삼성그룹 전 회장이 낙찰해 국립중앙 박물관에 기증되었다고 전해진다."
+			],
+			[
+				47,
+				"그림",
+				"NNG",
+				"이중섭의 소 그림은 10억을 호가하며 황소는 35억원에 이건희 삼성그룹 전 회장이 낙찰해 국립중앙 박물관에 기증되었다고 전해진다."
+			],
+			[
+				48,
+				"억",
+				"NR",
+				"이중섭의 소 그림은 10억을 호가하며 황소는 35억원에 이건희 삼성그룹 전 회장이 낙찰해 국립중앙 박물관에 기증되었다고 전해진다."
+			],
+			[
+				49,
+				"황소",
+				"NNG",
+				"이중섭의 소 그림은 10억을 호가하며 황소는 35억원에 이건희 삼성그룹 전 회장이 낙찰해 국립중앙 박물관에 기증되었다고 전해진다."
+			],
+			[
+				50,
+				"억",
+				"NR",
+				"이중섭의 소 그림은 10억을 호가하며 황소는 35억원에 이건희 삼성그룹 전 회장이 낙찰해 국립중앙 박물관에 기증되었다고 전해진다."
+			],
+			[
+				51,
+				"원",
+				"NNB",
+				"이중섭의 소 그림은 10억을 호가하며 황소는 35억원에 이건희 삼성그룹 전 회장이 낙찰해 국립중앙 박물관에 기증되었다고 전해진다."
+			],
+			[
+				52,
+				"이건희",
+				"NNP",
+				"이중섭의 소 그림은 10억을 호가하며 황소는 35억원에 이건희 삼성그룹 전 회장이 낙찰해 국립중앙 박물관에 기증되었다고 전해진다."
+			],
+			[
+				53,
+				"삼성그룹",
+				"NNP",
+				"이중섭의 소 그림은 10억을 호가하며 황소는 35억원에 이건희 삼성그룹 전 회장이 낙찰해 국립중앙 박물관에 기증되었다고 전해진다."
+			],
+			[
+				54,
+				"회장",
+				"NNG",
+				"이중섭의 소 그림은 10억을 호가하며 황소는 35억원에 이건희 삼성그룹 전 회장이 낙찰해 국립중앙 박물관에 기증되었다고 전해진다."
+			],
+			[
+				55,
+				"국립",
+				"NNG",
+				"이중섭의 소 그림은 10억을 호가하며 황소는 35억원에 이건희 삼성그룹 전 회장이 낙찰해 국립중앙 박물관에 기증되었다고 전해진다."
+			],
+			[
+				56,
+				"중앙",
+				"NNG",
+				"이중섭의 소 그림은 10억을 호가하며 황소는 35억원에 이건희 삼성그룹 전 회장이 낙찰해 국립중앙 박물관에 기증되었다고 전해진다."
+			],
+			[
+				57,
+				"박물관",
+				"NNG",
+				"이중섭의 소 그림은 10억을 호가하며 황소는 35억원에 이건희 삼성그룹 전 회장이 낙찰해 국립중앙 박물관에 기증되었다고 전해진다."
+			],
+			[
+				58,
+				"남한",
+				"NNP",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				59,
+				"때",
+				"NNG",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				60,
+				"제주도",
+				"NNP",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				61,
+				"서귀포시",
+				"NNP",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				62,
+				"창작",
+				"NNG",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				63,
+				"생활",
+				"NNG",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				64,
+				"돈",
+				"NNG",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				65,
+				"말년",
+				"NNG",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				66,
+				"빈곤",
+				"NNG",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				67,
+				"담배갑",
+				"NNG",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				68,
+				"은박지",
+				"NNG",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				69,
+				"그림",
+				"NNG",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				70,
+				"작품",
+				"NNG",
+				"이렇게 힘들게 작품활동을 하고 친구들의 도움으로 마지막으로 전시회를 열고 은박지에 그린 작품이 뉴욕 현대미술관에 전시되는 영광을 얻기도 했다."
+			],
+			[
+				71,
+				"활동",
+				"NNG",
+				"이렇게 힘들게 작품활동을 하고 친구들의 도움으로 마지막으로 전시회를 열고 은박지에 그린 작품이 뉴욕 현대미술관에 전시되는 영광을 얻기도 했다."
+			],
+			[
+				72,
+				"친구",
+				"NNG",
+				"이렇게 힘들게 작품활동을 하고 친구들의 도움으로 마지막으로 전시회를 열고 은박지에 그린 작품이 뉴욕 현대미술관에 전시되는 영광을 얻기도 했다."
+			],
+			[
+				73,
+				"도움",
+				"NNG",
+				"이렇게 힘들게 작품활동을 하고 친구들의 도움으로 마지막으로 전시회를 열고 은박지에 그린 작품이 뉴욕 현대미술관에 전시되는 영광을 얻기도 했다."
+			],
+			[
+				74,
+				"마지막",
+				"NNG",
+				"이렇게 힘들게 작품활동을 하고 친구들의 도움으로 마지막으로 전시회를 열고 은박지에 그린 작품이 뉴욕 현대미술관에 전시되는 영광을 얻기도 했다."
+			],
+			[
+				75,
+				"전시회",
+				"NNG",
+				"이렇게 힘들게 작품활동을 하고 친구들의 도움으로 마지막으로 전시회를 열고 은박지에 그린 작품이 뉴욕 현대미술관에 전시되는 영광을 얻기도 했다."
+			],
+			[
+				76,
+				"은박지",
+				"NNG",
+				"이렇게 힘들게 작품활동을 하고 친구들의 도움으로 마지막으로 전시회를 열고 은박지에 그린 작품이 뉴욕 현대미술관에 전시되는 영광을 얻기도 했다."
+			],
+			[
+				77,
+				"작품",
+				"NNG",
+				"이렇게 힘들게 작품활동을 하고 친구들의 도움으로 마지막으로 전시회를 열고 은박지에 그린 작품이 뉴욕 현대미술관에 전시되는 영광을 얻기도 했다."
+			],
+			[
+				78,
+				"뉴욕",
+				"NNP",
+				"이렇게 힘들게 작품활동을 하고 친구들의 도움으로 마지막으로 전시회를 열고 은박지에 그린 작품이 뉴욕 현대미술관에 전시되는 영광을 얻기도 했다."
+			],
+			[
+				79,
+				"현대",
+				"NNG",
+				"이렇게 힘들게 작품활동을 하고 친구들의 도움으로 마지막으로 전시회를 열고 은박지에 그린 작품이 뉴욕 현대미술관에 전시되는 영광을 얻기도 했다."
+			],
+			[
+				80,
+				"미술관",
+				"NNG",
+				"이렇게 힘들게 작품활동을 하고 친구들의 도움으로 마지막으로 전시회를 열고 은박지에 그린 작품이 뉴욕 현대미술관에 전시되는 영광을 얻기도 했다."
+			],
+			[
+				81,
+				"영광",
+				"NNG",
+				"이렇게 힘들게 작품활동을 하고 친구들의 도움으로 마지막으로 전시회를 열고 은박지에 그린 작품이 뉴욕 현대미술관에 전시되는 영광을 얻기도 했다."
+			],
+			[
+				82,
+				"년",
+				"NNB",
+				"하지만 1년뒤에 여러 병들이 합쳐져 41세의 나이로 사망하게된다."
+			],
+			[
+				83,
+				"뒤",
+				"NNG",
+				"하지만 1년뒤에 여러 병들이 합쳐져 41세의 나이로 사망하게된다."
+			],
+			[
+				84,
+				"병",
+				"NNG",
+				"하지만 1년뒤에 여러 병들이 합쳐져 41세의 나이로 사망하게된다."
+			],
+			[
+				85,
+				"세",
+				"NNB",
+				"하지만 1년뒤에 여러 병들이 합쳐져 41세의 나이로 사망하게된다."
+			],
+			[
+				86,
+				"나이",
+				"NNG",
+				"하지만 1년뒤에 여러 병들이 합쳐져 41세의 나이로 사망하게된다."
+			],
+			[
+				87,
+				"이중섭",
+				"NNP",
+				"이중섭은 자전적인 요소로 사후에 좋은 평가를 받았다."
+			],
+			[
+				88,
+				"자전",
+				"NNG",
+				"이중섭은 자전적인 요소로 사후에 좋은 평가를 받았다."
+			],
+			[
+				89,
+				"요소",
+				"NNG",
+				"이중섭은 자전적인 요소로 사후에 좋은 평가를 받았다."
+			],
+			[
+				90,
+				"사후",
+				"NNG",
+				"이중섭은 자전적인 요소로 사후에 좋은 평가를 받았다."
+			],
+			[
+				91,
+				"평가",
+				"NNG",
+				"이중섭은 자전적인 요소로 사후에 좋은 평가를 받았다."
+			],
+			[
+				92,
+				"나",
+				"NP",
+				"나도 이중섭처럼 자전적인 화가가 되어 활동하고싶다."
+			],
+			[
+				93,
+				"이중섭",
+				"NNP",
+				"나도 이중섭처럼 자전적인 화가가 되어 활동하고싶다."
+			],
+			[
+				94,
+				"자전",
+				"NNG",
+				"나도 이중섭처럼 자전적인 화가가 되어 활동하고싶다."
+			],
+			[
+				95,
+				"화가",
+				"NNG",
+				"나도 이중섭처럼 자전적인 화가가 되어 활동하고싶다."
+			]
+		],
+		"NN_Lst": [
+			[
+				0,
+				"이중섭",
+				"NNP",
+				"이중섭은 어린시절부터 소를 좋아했다고 한다."
+			],
+			[
+				1,
+				"시절",
+				"NNG",
+				"이중섭은 어린시절부터 소를 좋아했다고 한다."
+			],
+			[
+				2,
+				"소",
+				"NNG",
+				"이중섭은 어린시절부터 소를 좋아했다고 한다."
+			],
+			[
+				3,
+				"일제",
+				"NNG",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				4,
+				"강점기",
+				"NNG",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				5,
+				"시대",
+				"NNG",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				6,
+				"오산",
+				"NNG",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				7,
+				"학교",
+				"NNG",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				8,
+				"미술",
+				"NNG",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				9,
+				"임용련",
+				"NNP",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				10,
+				"미술",
+				"NNG",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				11,
+				"일본",
+				"NNP",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				12,
+				"미술",
+				"NNG",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				13,
+				"조선",
+				"NNP",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				14,
+				"연구",
+				"NNG",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				15,
+				"광복",
+				"NNG",
+				"광복 이후에는 공산당 동맹에 가입했는데 본인의 이념과 사회주의의 이념이 맞지 않아 6.25 전쟁때 남한으로 내려왔다고 한다."
+			],
+			[
+				16,
+				"이후",
+				"NNG",
+				"광복 이후에는 공산당 동맹에 가입했는데 본인의 이념과 사회주의의 이념이 맞지 않아 6.25 전쟁때 남한으로 내려왔다고 한다."
+			],
+			[
+				17,
+				"공산당",
+				"NNP",
+				"광복 이후에는 공산당 동맹에 가입했는데 본인의 이념과 사회주의의 이념이 맞지 않아 6.25 전쟁때 남한으로 내려왔다고 한다."
+			],
+			[
+				18,
+				"동맹",
+				"NNG",
+				"광복 이후에는 공산당 동맹에 가입했는데 본인의 이념과 사회주의의 이념이 맞지 않아 6.25 전쟁때 남한으로 내려왔다고 한다."
+			],
+			[
+				19,
+				"본인",
+				"NNG",
+				"광복 이후에는 공산당 동맹에 가입했는데 본인의 이념과 사회주의의 이념이 맞지 않아 6.25 전쟁때 남한으로 내려왔다고 한다."
+			],
+			[
+				20,
+				"이념",
+				"NNG",
+				"광복 이후에는 공산당 동맹에 가입했는데 본인의 이념과 사회주의의 이념이 맞지 않아 6.25 전쟁때 남한으로 내려왔다고 한다."
+			],
+			[
+				21,
+				"사회주의",
+				"NNG",
+				"광복 이후에는 공산당 동맹에 가입했는데 본인의 이념과 사회주의의 이념이 맞지 않아 6.25 전쟁때 남한으로 내려왔다고 한다."
+			],
+			[
+				22,
+				"이념",
+				"NNG",
+				"광복 이후에는 공산당 동맹에 가입했는데 본인의 이념과 사회주의의 이념이 맞지 않아 6.25 전쟁때 남한으로 내려왔다고 한다."
+			],
+			[
+				23,
+				"전쟁",
+				"NNG",
+				"광복 이후에는 공산당 동맹에 가입했는데 본인의 이념과 사회주의의 이념이 맞지 않아 6.25 전쟁때 남한으로 내려왔다고 한다."
+			],
+			[
+				24,
+				"때",
+				"NNG",
+				"광복 이후에는 공산당 동맹에 가입했는데 본인의 이념과 사회주의의 이념이 맞지 않아 6.25 전쟁때 남한으로 내려왔다고 한다."
+			],
+			[
+				25,
+				"남한",
+				"NNP",
+				"광복 이후에는 공산당 동맹에 가입했는데 본인의 이념과 사회주의의 이념이 맞지 않아 6.25 전쟁때 남한으로 내려왔다고 한다."
+			],
+			[
+				26,
+				"남한",
+				"NNP",
+				"남한으로 내려올 당시 혼자서 내려오고 일본시절에 그린 그림과 전쟁당시 그린 그림을 노모에게 맡기고 와서 대부분이 소실되거나 유실되었다고 한다."
+			],
+			[
+				27,
+				"당시",
+				"NNG",
+				"남한으로 내려올 당시 혼자서 내려오고 일본시절에 그린 그림과 전쟁당시 그린 그림을 노모에게 맡기고 와서 대부분이 소실되거나 유실되었다고 한다."
+			],
+			[
+				28,
+				"혼자",
+				"NNG",
+				"남한으로 내려올 당시 혼자서 내려오고 일본시절에 그린 그림과 전쟁당시 그린 그림을 노모에게 맡기고 와서 대부분이 소실되거나 유실되었다고 한다."
+			],
+			[
+				29,
+				"일본",
+				"NNP",
+				"남한으로 내려올 당시 혼자서 내려오고 일본시절에 그린 그림과 전쟁당시 그린 그림을 노모에게 맡기고 와서 대부분이 소실되거나 유실되었다고 한다."
+			],
+			[
+				30,
+				"시절",
+				"NNG",
+				"남한으로 내려올 당시 혼자서 내려오고 일본시절에 그린 그림과 전쟁당시 그린 그림을 노모에게 맡기고 와서 대부분이 소실되거나 유실되었다고 한다."
+			],
+			[
+				31,
+				"그림",
+				"NNG",
+				"남한으로 내려올 당시 혼자서 내려오고 일본시절에 그린 그림과 전쟁당시 그린 그림을 노모에게 맡기고 와서 대부분이 소실되거나 유실되었다고 한다."
+			],
+			[
+				32,
+				"전쟁",
+				"NNG",
+				"남한으로 내려올 당시 혼자서 내려오고 일본시절에 그린 그림과 전쟁당시 그린 그림을 노모에게 맡기고 와서 대부분이 소실되거나 유실되었다고 한다."
+			],
+			[
+				33,
+				"당시",
+				"NNG",
+				"남한으로 내려올 당시 혼자서 내려오고 일본시절에 그린 그림과 전쟁당시 그린 그림을 노모에게 맡기고 와서 대부분이 소실되거나 유실되었다고 한다."
+			],
+			[
+				34,
+				"그림",
+				"NNG",
+				"남한으로 내려올 당시 혼자서 내려오고 일본시절에 그린 그림과 전쟁당시 그린 그림을 노모에게 맡기고 와서 대부분이 소실되거나 유실되었다고 한다."
+			],
+			[
+				35,
+				"노모",
+				"NNG",
+				"남한으로 내려올 당시 혼자서 내려오고 일본시절에 그린 그림과 전쟁당시 그린 그림을 노모에게 맡기고 와서 대부분이 소실되거나 유실되었다고 한다."
+			],
+			[
+				36,
+				"대부분",
+				"NNG",
+				"남한으로 내려올 당시 혼자서 내려오고 일본시절에 그린 그림과 전쟁당시 그린 그림을 노모에게 맡기고 와서 대부분이 소실되거나 유실되었다고 한다."
+			],
+			[
+				37,
+				"전쟁",
+				"NNG",
+				"전쟁 이후에는 소를 하루종일 바라보면서 소에대한 그림을 그렸다고 한다"
+			],
+			[
+				38,
+				"이후",
+				"NNG",
+				"전쟁 이후에는 소를 하루종일 바라보면서 소에대한 그림을 그렸다고 한다"
+			],
+			[
+				39,
+				"소",
+				"NNG",
+				"전쟁 이후에는 소를 하루종일 바라보면서 소에대한 그림을 그렸다고 한다"
+			],
+			[
+				40,
+				"하루",
+				"NNG",
+				"전쟁 이후에는 소를 하루종일 바라보면서 소에대한 그림을 그렸다고 한다"
+			],
+			[
+				41,
+				"종일",
+				"NNG",
+				"전쟁 이후에는 소를 하루종일 바라보면서 소에대한 그림을 그렸다고 한다"
+			],
+			[
+				42,
+				"소",
+				"NNG",
+				"전쟁 이후에는 소를 하루종일 바라보면서 소에대한 그림을 그렸다고 한다"
+			],
+			[
+				43,
+				"그림",
+				"NNG",
+				"전쟁 이후에는 소를 하루종일 바라보면서 소에대한 그림을 그렸다고 한다"
+			],
+			[
+				44,
+				"이중섭",
+				"NNP",
+				"이중섭의 소 그림은 10억을 호가하며 황소는 35억원에 이건희 삼성그룹 전 회장이 낙찰해 국립중앙 박물관에 기증되었다고 전해진다."
+			],
+			[
+				45,
+				"소",
+				"NNG",
+				"이중섭의 소 그림은 10억을 호가하며 황소는 35억원에 이건희 삼성그룹 전 회장이 낙찰해 국립중앙 박물관에 기증되었다고 전해진다."
+			],
+			[
+				46,
+				"그림",
+				"NNG",
+				"이중섭의 소 그림은 10억을 호가하며 황소는 35억원에 이건희 삼성그룹 전 회장이 낙찰해 국립중앙 박물관에 기증되었다고 전해진다."
+			],
+			[
+				47,
+				"황소",
+				"NNG",
+				"이중섭의 소 그림은 10억을 호가하며 황소는 35억원에 이건희 삼성그룹 전 회장이 낙찰해 국립중앙 박물관에 기증되었다고 전해진다."
+			],
+			[
+				48,
+				"원",
+				"NNB",
+				"이중섭의 소 그림은 10억을 호가하며 황소는 35억원에 이건희 삼성그룹 전 회장이 낙찰해 국립중앙 박물관에 기증되었다고 전해진다."
+			],
+			[
+				49,
+				"이건희",
+				"NNP",
+				"이중섭의 소 그림은 10억을 호가하며 황소는 35억원에 이건희 삼성그룹 전 회장이 낙찰해 국립중앙 박물관에 기증되었다고 전해진다."
+			],
+			[
+				50,
+				"삼성그룹",
+				"NNP",
+				"이중섭의 소 그림은 10억을 호가하며 황소는 35억원에 이건희 삼성그룹 전 회장이 낙찰해 국립중앙 박물관에 기증되었다고 전해진다."
+			],
+			[
+				51,
+				"회장",
+				"NNG",
+				"이중섭의 소 그림은 10억을 호가하며 황소는 35억원에 이건희 삼성그룹 전 회장이 낙찰해 국립중앙 박물관에 기증되었다고 전해진다."
+			],
+			[
+				52,
+				"국립",
+				"NNG",
+				"이중섭의 소 그림은 10억을 호가하며 황소는 35억원에 이건희 삼성그룹 전 회장이 낙찰해 국립중앙 박물관에 기증되었다고 전해진다."
+			],
+			[
+				53,
+				"중앙",
+				"NNG",
+				"이중섭의 소 그림은 10억을 호가하며 황소는 35억원에 이건희 삼성그룹 전 회장이 낙찰해 국립중앙 박물관에 기증되었다고 전해진다."
+			],
+			[
+				54,
+				"박물관",
+				"NNG",
+				"이중섭의 소 그림은 10억을 호가하며 황소는 35억원에 이건희 삼성그룹 전 회장이 낙찰해 국립중앙 박물관에 기증되었다고 전해진다."
+			],
+			[
+				55,
+				"남한",
+				"NNP",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				56,
+				"때",
+				"NNG",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				57,
+				"제주도",
+				"NNP",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				58,
+				"서귀포시",
+				"NNP",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				59,
+				"창작",
+				"NNG",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				60,
+				"생활",
+				"NNG",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				61,
+				"돈",
+				"NNG",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				62,
+				"말년",
+				"NNG",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				63,
+				"빈곤",
+				"NNG",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				64,
+				"담배갑",
+				"NNG",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				65,
+				"은박지",
+				"NNG",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				66,
+				"그림",
+				"NNG",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				67,
+				"작품",
+				"NNG",
+				"이렇게 힘들게 작품활동을 하고 친구들의 도움으로 마지막으로 전시회를 열고 은박지에 그린 작품이 뉴욕 현대미술관에 전시되는 영광을 얻기도 했다."
+			],
+			[
+				68,
+				"활동",
+				"NNG",
+				"이렇게 힘들게 작품활동을 하고 친구들의 도움으로 마지막으로 전시회를 열고 은박지에 그린 작품이 뉴욕 현대미술관에 전시되는 영광을 얻기도 했다."
+			],
+			[
+				69,
+				"친구",
+				"NNG",
+				"이렇게 힘들게 작품활동을 하고 친구들의 도움으로 마지막으로 전시회를 열고 은박지에 그린 작품이 뉴욕 현대미술관에 전시되는 영광을 얻기도 했다."
+			],
+			[
+				70,
+				"도움",
+				"NNG",
+				"이렇게 힘들게 작품활동을 하고 친구들의 도움으로 마지막으로 전시회를 열고 은박지에 그린 작품이 뉴욕 현대미술관에 전시되는 영광을 얻기도 했다."
+			],
+			[
+				71,
+				"마지막",
+				"NNG",
+				"이렇게 힘들게 작품활동을 하고 친구들의 도움으로 마지막으로 전시회를 열고 은박지에 그린 작품이 뉴욕 현대미술관에 전시되는 영광을 얻기도 했다."
+			],
+			[
+				72,
+				"전시회",
+				"NNG",
+				"이렇게 힘들게 작품활동을 하고 친구들의 도움으로 마지막으로 전시회를 열고 은박지에 그린 작품이 뉴욕 현대미술관에 전시되는 영광을 얻기도 했다."
+			],
+			[
+				73,
+				"은박지",
+				"NNG",
+				"이렇게 힘들게 작품활동을 하고 친구들의 도움으로 마지막으로 전시회를 열고 은박지에 그린 작품이 뉴욕 현대미술관에 전시되는 영광을 얻기도 했다."
+			],
+			[
+				74,
+				"작품",
+				"NNG",
+				"이렇게 힘들게 작품활동을 하고 친구들의 도움으로 마지막으로 전시회를 열고 은박지에 그린 작품이 뉴욕 현대미술관에 전시되는 영광을 얻기도 했다."
+			],
+			[
+				75,
+				"뉴욕",
+				"NNP",
+				"이렇게 힘들게 작품활동을 하고 친구들의 도움으로 마지막으로 전시회를 열고 은박지에 그린 작품이 뉴욕 현대미술관에 전시되는 영광을 얻기도 했다."
+			],
+			[
+				76,
+				"현대",
+				"NNG",
+				"이렇게 힘들게 작품활동을 하고 친구들의 도움으로 마지막으로 전시회를 열고 은박지에 그린 작품이 뉴욕 현대미술관에 전시되는 영광을 얻기도 했다."
+			],
+			[
+				77,
+				"미술관",
+				"NNG",
+				"이렇게 힘들게 작품활동을 하고 친구들의 도움으로 마지막으로 전시회를 열고 은박지에 그린 작품이 뉴욕 현대미술관에 전시되는 영광을 얻기도 했다."
+			],
+			[
+				78,
+				"영광",
+				"NNG",
+				"이렇게 힘들게 작품활동을 하고 친구들의 도움으로 마지막으로 전시회를 열고 은박지에 그린 작품이 뉴욕 현대미술관에 전시되는 영광을 얻기도 했다."
+			],
+			[
+				79,
+				"년",
+				"NNB",
+				"하지만 1년뒤에 여러 병들이 합쳐져 41세의 나이로 사망하게된다."
+			],
+			[
+				80,
+				"뒤",
+				"NNG",
+				"하지만 1년뒤에 여러 병들이 합쳐져 41세의 나이로 사망하게된다."
+			],
+			[
+				81,
+				"병",
+				"NNG",
+				"하지만 1년뒤에 여러 병들이 합쳐져 41세의 나이로 사망하게된다."
+			],
+			[
+				82,
+				"세",
+				"NNB",
+				"하지만 1년뒤에 여러 병들이 합쳐져 41세의 나이로 사망하게된다."
+			],
+			[
+				83,
+				"나이",
+				"NNG",
+				"하지만 1년뒤에 여러 병들이 합쳐져 41세의 나이로 사망하게된다."
+			],
+			[
+				84,
+				"이중섭",
+				"NNP",
+				"이중섭은 자전적인 요소로 사후에 좋은 평가를 받았다."
+			],
+			[
+				85,
+				"자전",
+				"NNG",
+				"이중섭은 자전적인 요소로 사후에 좋은 평가를 받았다."
+			],
+			[
+				86,
+				"요소",
+				"NNG",
+				"이중섭은 자전적인 요소로 사후에 좋은 평가를 받았다."
+			],
+			[
+				87,
+				"사후",
+				"NNG",
+				"이중섭은 자전적인 요소로 사후에 좋은 평가를 받았다."
+			],
+			[
+				88,
+				"평가",
+				"NNG",
+				"이중섭은 자전적인 요소로 사후에 좋은 평가를 받았다."
+			],
+			[
+				89,
+				"이중섭",
+				"NNP",
+				"나도 이중섭처럼 자전적인 화가가 되어 활동하고싶다."
+			],
+			[
+				90,
+				"자전",
+				"NNG",
+				"나도 이중섭처럼 자전적인 화가가 되어 활동하고싶다."
+			],
+			[
+				91,
+				"화가",
+				"NNG",
+				"나도 이중섭처럼 자전적인 화가가 되어 활동하고싶다."
+			]
+		],
+		"NNG_Lst": [
+			[
+				0,
+				"시절",
+				"NNG",
+				"이중섭은 어린시절부터 소를 좋아했다고 한다."
+			],
+			[
+				1,
+				"소",
+				"NNG",
+				"이중섭은 어린시절부터 소를 좋아했다고 한다."
+			],
+			[
+				2,
+				"일제",
+				"NNG",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				3,
+				"강점기",
+				"NNG",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				4,
+				"시대",
+				"NNG",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				5,
+				"오산",
+				"NNG",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				6,
+				"학교",
+				"NNG",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				7,
+				"미술",
+				"NNG",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				8,
+				"미술",
+				"NNG",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				9,
+				"미술",
+				"NNG",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				10,
+				"연구",
+				"NNG",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				11,
+				"광복",
+				"NNG",
+				"광복 이후에는 공산당 동맹에 가입했는데 본인의 이념과 사회주의의 이념이 맞지 않아 6.25 전쟁때 남한으로 내려왔다고 한다."
+			],
+			[
+				12,
+				"이후",
+				"NNG",
+				"광복 이후에는 공산당 동맹에 가입했는데 본인의 이념과 사회주의의 이념이 맞지 않아 6.25 전쟁때 남한으로 내려왔다고 한다."
+			],
+			[
+				13,
+				"동맹",
+				"NNG",
+				"광복 이후에는 공산당 동맹에 가입했는데 본인의 이념과 사회주의의 이념이 맞지 않아 6.25 전쟁때 남한으로 내려왔다고 한다."
+			],
+			[
+				14,
+				"본인",
+				"NNG",
+				"광복 이후에는 공산당 동맹에 가입했는데 본인의 이념과 사회주의의 이념이 맞지 않아 6.25 전쟁때 남한으로 내려왔다고 한다."
+			],
+			[
+				15,
+				"이념",
+				"NNG",
+				"광복 이후에는 공산당 동맹에 가입했는데 본인의 이념과 사회주의의 이념이 맞지 않아 6.25 전쟁때 남한으로 내려왔다고 한다."
+			],
+			[
+				16,
+				"사회주의",
+				"NNG",
+				"광복 이후에는 공산당 동맹에 가입했는데 본인의 이념과 사회주의의 이념이 맞지 않아 6.25 전쟁때 남한으로 내려왔다고 한다."
+			],
+			[
+				17,
+				"이념",
+				"NNG",
+				"광복 이후에는 공산당 동맹에 가입했는데 본인의 이념과 사회주의의 이념이 맞지 않아 6.25 전쟁때 남한으로 내려왔다고 한다."
+			],
+			[
+				18,
+				"전쟁",
+				"NNG",
+				"광복 이후에는 공산당 동맹에 가입했는데 본인의 이념과 사회주의의 이념이 맞지 않아 6.25 전쟁때 남한으로 내려왔다고 한다."
+			],
+			[
+				19,
+				"때",
+				"NNG",
+				"광복 이후에는 공산당 동맹에 가입했는데 본인의 이념과 사회주의의 이념이 맞지 않아 6.25 전쟁때 남한으로 내려왔다고 한다."
+			],
+			[
+				20,
+				"당시",
+				"NNG",
+				"남한으로 내려올 당시 혼자서 내려오고 일본시절에 그린 그림과 전쟁당시 그린 그림을 노모에게 맡기고 와서 대부분이 소실되거나 유실되었다고 한다."
+			],
+			[
+				21,
+				"혼자",
+				"NNG",
+				"남한으로 내려올 당시 혼자서 내려오고 일본시절에 그린 그림과 전쟁당시 그린 그림을 노모에게 맡기고 와서 대부분이 소실되거나 유실되었다고 한다."
+			],
+			[
+				22,
+				"시절",
+				"NNG",
+				"남한으로 내려올 당시 혼자서 내려오고 일본시절에 그린 그림과 전쟁당시 그린 그림을 노모에게 맡기고 와서 대부분이 소실되거나 유실되었다고 한다."
+			],
+			[
+				23,
+				"그림",
+				"NNG",
+				"남한으로 내려올 당시 혼자서 내려오고 일본시절에 그린 그림과 전쟁당시 그린 그림을 노모에게 맡기고 와서 대부분이 소실되거나 유실되었다고 한다."
+			],
+			[
+				24,
+				"전쟁",
+				"NNG",
+				"남한으로 내려올 당시 혼자서 내려오고 일본시절에 그린 그림과 전쟁당시 그린 그림을 노모에게 맡기고 와서 대부분이 소실되거나 유실되었다고 한다."
+			],
+			[
+				25,
+				"당시",
+				"NNG",
+				"남한으로 내려올 당시 혼자서 내려오고 일본시절에 그린 그림과 전쟁당시 그린 그림을 노모에게 맡기고 와서 대부분이 소실되거나 유실되었다고 한다."
+			],
+			[
+				26,
+				"그림",
+				"NNG",
+				"남한으로 내려올 당시 혼자서 내려오고 일본시절에 그린 그림과 전쟁당시 그린 그림을 노모에게 맡기고 와서 대부분이 소실되거나 유실되었다고 한다."
+			],
+			[
+				27,
+				"노모",
+				"NNG",
+				"남한으로 내려올 당시 혼자서 내려오고 일본시절에 그린 그림과 전쟁당시 그린 그림을 노모에게 맡기고 와서 대부분이 소실되거나 유실되었다고 한다."
+			],
+			[
+				28,
+				"대부분",
+				"NNG",
+				"남한으로 내려올 당시 혼자서 내려오고 일본시절에 그린 그림과 전쟁당시 그린 그림을 노모에게 맡기고 와서 대부분이 소실되거나 유실되었다고 한다."
+			],
+			[
+				29,
+				"전쟁",
+				"NNG",
+				"전쟁 이후에는 소를 하루종일 바라보면서 소에대한 그림을 그렸다고 한다"
+			],
+			[
+				30,
+				"이후",
+				"NNG",
+				"전쟁 이후에는 소를 하루종일 바라보면서 소에대한 그림을 그렸다고 한다"
+			],
+			[
+				31,
+				"소",
+				"NNG",
+				"전쟁 이후에는 소를 하루종일 바라보면서 소에대한 그림을 그렸다고 한다"
+			],
+			[
+				32,
+				"하루",
+				"NNG",
+				"전쟁 이후에는 소를 하루종일 바라보면서 소에대한 그림을 그렸다고 한다"
+			],
+			[
+				33,
+				"종일",
+				"NNG",
+				"전쟁 이후에는 소를 하루종일 바라보면서 소에대한 그림을 그렸다고 한다"
+			],
+			[
+				34,
+				"소",
+				"NNG",
+				"전쟁 이후에는 소를 하루종일 바라보면서 소에대한 그림을 그렸다고 한다"
+			],
+			[
+				35,
+				"그림",
+				"NNG",
+				"전쟁 이후에는 소를 하루종일 바라보면서 소에대한 그림을 그렸다고 한다"
+			],
+			[
+				36,
+				"소",
+				"NNG",
+				"이중섭의 소 그림은 10억을 호가하며 황소는 35억원에 이건희 삼성그룹 전 회장이 낙찰해 국립중앙 박물관에 기증되었다고 전해진다."
+			],
+			[
+				37,
+				"그림",
+				"NNG",
+				"이중섭의 소 그림은 10억을 호가하며 황소는 35억원에 이건희 삼성그룹 전 회장이 낙찰해 국립중앙 박물관에 기증되었다고 전해진다."
+			],
+			[
+				38,
+				"황소",
+				"NNG",
+				"이중섭의 소 그림은 10억을 호가하며 황소는 35억원에 이건희 삼성그룹 전 회장이 낙찰해 국립중앙 박물관에 기증되었다고 전해진다."
+			],
+			[
+				39,
+				"회장",
+				"NNG",
+				"이중섭의 소 그림은 10억을 호가하며 황소는 35억원에 이건희 삼성그룹 전 회장이 낙찰해 국립중앙 박물관에 기증되었다고 전해진다."
+			],
+			[
+				40,
+				"국립",
+				"NNG",
+				"이중섭의 소 그림은 10억을 호가하며 황소는 35억원에 이건희 삼성그룹 전 회장이 낙찰해 국립중앙 박물관에 기증되었다고 전해진다."
+			],
+			[
+				41,
+				"중앙",
+				"NNG",
+				"이중섭의 소 그림은 10억을 호가하며 황소는 35억원에 이건희 삼성그룹 전 회장이 낙찰해 국립중앙 박물관에 기증되었다고 전해진다."
+			],
+			[
+				42,
+				"박물관",
+				"NNG",
+				"이중섭의 소 그림은 10억을 호가하며 황소는 35억원에 이건희 삼성그룹 전 회장이 낙찰해 국립중앙 박물관에 기증되었다고 전해진다."
+			],
+			[
+				43,
+				"때",
+				"NNG",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				44,
+				"창작",
+				"NNG",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				45,
+				"생활",
+				"NNG",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				46,
+				"돈",
+				"NNG",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				47,
+				"말년",
+				"NNG",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				48,
+				"빈곤",
+				"NNG",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				49,
+				"담배갑",
+				"NNG",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				50,
+				"은박지",
+				"NNG",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				51,
+				"그림",
+				"NNG",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				52,
+				"작품",
+				"NNG",
+				"이렇게 힘들게 작품활동을 하고 친구들의 도움으로 마지막으로 전시회를 열고 은박지에 그린 작품이 뉴욕 현대미술관에 전시되는 영광을 얻기도 했다."
+			],
+			[
+				53,
+				"활동",
+				"NNG",
+				"이렇게 힘들게 작품활동을 하고 친구들의 도움으로 마지막으로 전시회를 열고 은박지에 그린 작품이 뉴욕 현대미술관에 전시되는 영광을 얻기도 했다."
+			],
+			[
+				54,
+				"친구",
+				"NNG",
+				"이렇게 힘들게 작품활동을 하고 친구들의 도움으로 마지막으로 전시회를 열고 은박지에 그린 작품이 뉴욕 현대미술관에 전시되는 영광을 얻기도 했다."
+			],
+			[
+				55,
+				"도움",
+				"NNG",
+				"이렇게 힘들게 작품활동을 하고 친구들의 도움으로 마지막으로 전시회를 열고 은박지에 그린 작품이 뉴욕 현대미술관에 전시되는 영광을 얻기도 했다."
+			],
+			[
+				56,
+				"마지막",
+				"NNG",
+				"이렇게 힘들게 작품활동을 하고 친구들의 도움으로 마지막으로 전시회를 열고 은박지에 그린 작품이 뉴욕 현대미술관에 전시되는 영광을 얻기도 했다."
+			],
+			[
+				57,
+				"전시회",
+				"NNG",
+				"이렇게 힘들게 작품활동을 하고 친구들의 도움으로 마지막으로 전시회를 열고 은박지에 그린 작품이 뉴욕 현대미술관에 전시되는 영광을 얻기도 했다."
+			],
+			[
+				58,
+				"은박지",
+				"NNG",
+				"이렇게 힘들게 작품활동을 하고 친구들의 도움으로 마지막으로 전시회를 열고 은박지에 그린 작품이 뉴욕 현대미술관에 전시되는 영광을 얻기도 했다."
+			],
+			[
+				59,
+				"작품",
+				"NNG",
+				"이렇게 힘들게 작품활동을 하고 친구들의 도움으로 마지막으로 전시회를 열고 은박지에 그린 작품이 뉴욕 현대미술관에 전시되는 영광을 얻기도 했다."
+			],
+			[
+				60,
+				"현대",
+				"NNG",
+				"이렇게 힘들게 작품활동을 하고 친구들의 도움으로 마지막으로 전시회를 열고 은박지에 그린 작품이 뉴욕 현대미술관에 전시되는 영광을 얻기도 했다."
+			],
+			[
+				61,
+				"미술관",
+				"NNG",
+				"이렇게 힘들게 작품활동을 하고 친구들의 도움으로 마지막으로 전시회를 열고 은박지에 그린 작품이 뉴욕 현대미술관에 전시되는 영광을 얻기도 했다."
+			],
+			[
+				62,
+				"영광",
+				"NNG",
+				"이렇게 힘들게 작품활동을 하고 친구들의 도움으로 마지막으로 전시회를 열고 은박지에 그린 작품이 뉴욕 현대미술관에 전시되는 영광을 얻기도 했다."
+			],
+			[
+				63,
+				"뒤",
+				"NNG",
+				"하지만 1년뒤에 여러 병들이 합쳐져 41세의 나이로 사망하게된다."
+			],
+			[
+				64,
+				"병",
+				"NNG",
+				"하지만 1년뒤에 여러 병들이 합쳐져 41세의 나이로 사망하게된다."
+			],
+			[
+				65,
+				"나이",
+				"NNG",
+				"하지만 1년뒤에 여러 병들이 합쳐져 41세의 나이로 사망하게된다."
+			],
+			[
+				66,
+				"자전",
+				"NNG",
+				"이중섭은 자전적인 요소로 사후에 좋은 평가를 받았다."
+			],
+			[
+				67,
+				"요소",
+				"NNG",
+				"이중섭은 자전적인 요소로 사후에 좋은 평가를 받았다."
+			],
+			[
+				68,
+				"사후",
+				"NNG",
+				"이중섭은 자전적인 요소로 사후에 좋은 평가를 받았다."
+			],
+			[
+				69,
+				"평가",
+				"NNG",
+				"이중섭은 자전적인 요소로 사후에 좋은 평가를 받았다."
+			],
+			[
+				70,
+				"자전",
+				"NNG",
+				"나도 이중섭처럼 자전적인 화가가 되어 활동하고싶다."
+			],
+			[
+				71,
+				"화가",
+				"NNG",
+				"나도 이중섭처럼 자전적인 화가가 되어 활동하고싶다."
+			]
+		],
+		"NNP_Lst": [
+			[
+				0,
+				"이중섭",
+				"NNP",
+				"이중섭은 어린시절부터 소를 좋아했다고 한다."
+			],
+			[
+				1,
+				"임용련",
+				"NNP",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				2,
+				"일본",
+				"NNP",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				3,
+				"조선",
+				"NNP",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				4,
+				"공산당",
+				"NNP",
+				"광복 이후에는 공산당 동맹에 가입했는데 본인의 이념과 사회주의의 이념이 맞지 않아 6.25 전쟁때 남한으로 내려왔다고 한다."
+			],
+			[
+				5,
+				"남한",
+				"NNP",
+				"광복 이후에는 공산당 동맹에 가입했는데 본인의 이념과 사회주의의 이념이 맞지 않아 6.25 전쟁때 남한으로 내려왔다고 한다."
+			],
+			[
+				6,
+				"남한",
+				"NNP",
+				"남한으로 내려올 당시 혼자서 내려오고 일본시절에 그린 그림과 전쟁당시 그린 그림을 노모에게 맡기고 와서 대부분이 소실되거나 유실되었다고 한다."
+			],
+			[
+				7,
+				"일본",
+				"NNP",
+				"남한으로 내려올 당시 혼자서 내려오고 일본시절에 그린 그림과 전쟁당시 그린 그림을 노모에게 맡기고 와서 대부분이 소실되거나 유실되었다고 한다."
+			],
+			[
+				8,
+				"이중섭",
+				"NNP",
+				"이중섭의 소 그림은 10억을 호가하며 황소는 35억원에 이건희 삼성그룹 전 회장이 낙찰해 국립중앙 박물관에 기증되었다고 전해진다."
+			],
+			[
+				9,
+				"이건희",
+				"NNP",
+				"이중섭의 소 그림은 10억을 호가하며 황소는 35억원에 이건희 삼성그룹 전 회장이 낙찰해 국립중앙 박물관에 기증되었다고 전해진다."
+			],
+			[
+				10,
+				"삼성그룹",
+				"NNP",
+				"이중섭의 소 그림은 10억을 호가하며 황소는 35억원에 이건희 삼성그룹 전 회장이 낙찰해 국립중앙 박물관에 기증되었다고 전해진다."
+			],
+			[
+				11,
+				"남한",
+				"NNP",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				12,
+				"제주도",
+				"NNP",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				13,
+				"서귀포시",
+				"NNP",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				14,
+				"뉴욕",
+				"NNP",
+				"이렇게 힘들게 작품활동을 하고 친구들의 도움으로 마지막으로 전시회를 열고 은박지에 그린 작품이 뉴욕 현대미술관에 전시되는 영광을 얻기도 했다."
+			],
+			[
+				15,
+				"이중섭",
+				"NNP",
+				"이중섭은 자전적인 요소로 사후에 좋은 평가를 받았다."
+			],
+			[
+				16,
+				"이중섭",
+				"NNP",
+				"나도 이중섭처럼 자전적인 화가가 되어 활동하고싶다."
+			]
+		],
+		"NNB_Lst": [
+			[
+				0,
+				"원",
+				"NNB",
+				"이중섭의 소 그림은 10억을 호가하며 황소는 35억원에 이건희 삼성그룹 전 회장이 낙찰해 국립중앙 박물관에 기증되었다고 전해진다."
+			],
+			[
+				1,
+				"년",
+				"NNB",
+				"하지만 1년뒤에 여러 병들이 합쳐져 41세의 나이로 사망하게된다."
+			],
+			[
+				2,
+				"세",
+				"NNB",
+				"하지만 1년뒤에 여러 병들이 합쳐져 41세의 나이로 사망하게된다."
+			]
+		],
+		"NP_Lst": [
+			[
+				0,
+				"그",
+				"NP",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				1,
+				"나",
+				"NP",
+				"나도 이중섭처럼 자전적인 화가가 되어 활동하고싶다."
+			]
+		],
+		"NP_People_Lst": [
+			[
+				0,
+				"그",
+				"NP",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				1,
+				"나",
+				"NP",
+				"나도 이중섭처럼 자전적인 화가가 되어 활동하고싶다."
+			]
+		],
+		"NP_Things_Lst": [],
+		"NR_Lst": [
+			[
+				0,
+				"억",
+				"NR",
+				"이중섭의 소 그림은 10억을 호가하며 황소는 35억원에 이건희 삼성그룹 전 회장이 낙찰해 국립중앙 박물관에 기증되었다고 전해진다."
+			],
+			[
+				1,
+				"억",
+				"NR",
+				"이중섭의 소 그림은 10억을 호가하며 황소는 35억원에 이건희 삼성그룹 전 회장이 낙찰해 국립중앙 박물관에 기증되었다고 전해진다."
+			]
+		],
+		"VL_Lst": [
+			[
+				0,
+				"어리",
+				"VA",
+				"이중섭은 어린시절부터 소를 좋아했다고 한다."
+			],
+			[
+				1,
+				"좋아하",
+				"VV",
+				"이중섭은 어린시절부터 소를 좋아했다고 한다."
+			],
+			[
+				2,
+				"하",
+				"VV",
+				"이중섭은 어린시절부터 소를 좋아했다고 한다."
+			],
+			[
+				3,
+				"태어나",
+				"VV",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				4,
+				"나오",
+				"VV",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				5,
+				"유명하",
+				"VA",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				6,
+				"배우",
+				"VV",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				7,
+				"넘어가",
+				"VV",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				8,
+				"배우",
+				"VV",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				9,
+				"대하",
+				"VV",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				10,
+				"하",
+				"VV",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				11,
+				"하",
+				"VV",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				12,
+				"가입하",
+				"VV",
+				"광복 이후에는 공산당 동맹에 가입했는데 본인의 이념과 사회주의의 이념이 맞지 않아 6.25 전쟁때 남한으로 내려왔다고 한다."
+			],
+			[
+				13,
+				"맞",
+				"VV",
+				"광복 이후에는 공산당 동맹에 가입했는데 본인의 이념과 사회주의의 이념이 맞지 않아 6.25 전쟁때 남한으로 내려왔다고 한다."
+			],
+			[
+				14,
+				"않",
+				"VX",
+				"광복 이후에는 공산당 동맹에 가입했는데 본인의 이념과 사회주의의 이념이 맞지 않아 6.25 전쟁때 남한으로 내려왔다고 한다."
+			],
+			[
+				15,
+				"내려오",
+				"VV",
+				"광복 이후에는 공산당 동맹에 가입했는데 본인의 이념과 사회주의의 이념이 맞지 않아 6.25 전쟁때 남한으로 내려왔다고 한다."
+			],
+			[
+				16,
+				"하",
+				"VV",
+				"광복 이후에는 공산당 동맹에 가입했는데 본인의 이념과 사회주의의 이념이 맞지 않아 6.25 전쟁때 남한으로 내려왔다고 한다."
+			],
+			[
+				17,
+				"내려오",
+				"VV",
+				"남한으로 내려올 당시 혼자서 내려오고 일본시절에 그린 그림과 전쟁당시 그린 그림을 노모에게 맡기고 와서 대부분이 소실되거나 유실되었다고 한다."
+			],
+			[
+				18,
+				"내려오",
+				"VV",
+				"남한으로 내려올 당시 혼자서 내려오고 일본시절에 그린 그림과 전쟁당시 그린 그림을 노모에게 맡기고 와서 대부분이 소실되거나 유실되었다고 한다."
+			],
+			[
+				19,
+				"그리",
+				"VV",
+				"남한으로 내려올 당시 혼자서 내려오고 일본시절에 그린 그림과 전쟁당시 그린 그림을 노모에게 맡기고 와서 대부분이 소실되거나 유실되었다고 한다."
+			],
+			[
+				20,
+				"그리",
+				"VV",
+				"남한으로 내려올 당시 혼자서 내려오고 일본시절에 그린 그림과 전쟁당시 그린 그림을 노모에게 맡기고 와서 대부분이 소실되거나 유실되었다고 한다."
+			],
+			[
+				21,
+				"맡기",
+				"VV",
+				"남한으로 내려올 당시 혼자서 내려오고 일본시절에 그린 그림과 전쟁당시 그린 그림을 노모에게 맡기고 와서 대부분이 소실되거나 유실되었다고 한다."
+			],
+			[
+				22,
+				"오",
+				"VV",
+				"남한으로 내려올 당시 혼자서 내려오고 일본시절에 그린 그림과 전쟁당시 그린 그림을 노모에게 맡기고 와서 대부분이 소실되거나 유실되었다고 한다."
+			],
+			[
+				23,
+				"소실되",
+				"VV",
+				"남한으로 내려올 당시 혼자서 내려오고 일본시절에 그린 그림과 전쟁당시 그린 그림을 노모에게 맡기고 와서 대부분이 소실되거나 유실되었다고 한다."
+			],
+			[
+				24,
+				"유실되",
+				"VV",
+				"남한으로 내려올 당시 혼자서 내려오고 일본시절에 그린 그림과 전쟁당시 그린 그림을 노모에게 맡기고 와서 대부분이 소실되거나 유실되었다고 한다."
+			],
+			[
+				25,
+				"하",
+				"VV",
+				"남한으로 내려올 당시 혼자서 내려오고 일본시절에 그린 그림과 전쟁당시 그린 그림을 노모에게 맡기고 와서 대부분이 소실되거나 유실되었다고 한다."
+			],
+			[
+				26,
+				"바라보",
+				"VV",
+				"전쟁 이후에는 소를 하루종일 바라보면서 소에대한 그림을 그렸다고 한다"
+			],
+			[
+				27,
+				"대하",
+				"VV",
+				"전쟁 이후에는 소를 하루종일 바라보면서 소에대한 그림을 그렸다고 한다"
+			],
+			[
+				28,
+				"그리",
+				"VV",
+				"전쟁 이후에는 소를 하루종일 바라보면서 소에대한 그림을 그렸다고 한다"
+			],
+			[
+				29,
+				"하",
+				"VV",
+				"전쟁 이후에는 소를 하루종일 바라보면서 소에대한 그림을 그렸다고 한다"
+			],
+			[
+				30,
+				"호가하",
+				"VV",
+				"이중섭의 소 그림은 10억을 호가하며 황소는 35억원에 이건희 삼성그룹 전 회장이 낙찰해 국립중앙 박물관에 기증되었다고 전해진다."
+			],
+			[
+				31,
+				"낙찰하",
+				"VV",
+				"이중섭의 소 그림은 10억을 호가하며 황소는 35억원에 이건희 삼성그룹 전 회장이 낙찰해 국립중앙 박물관에 기증되었다고 전해진다."
+			],
+			[
+				32,
+				"기증되",
+				"VV",
+				"이중섭의 소 그림은 10억을 호가하며 황소는 35억원에 이건희 삼성그룹 전 회장이 낙찰해 국립중앙 박물관에 기증되었다고 전해진다."
+			],
+			[
+				33,
+				"전하",
+				"VV",
+				"이중섭의 소 그림은 10억을 호가하며 황소는 35억원에 이건희 삼성그룹 전 회장이 낙찰해 국립중앙 박물관에 기증되었다고 전해진다."
+			],
+			[
+				34,
+				"지",
+				"VX",
+				"이중섭의 소 그림은 10억을 호가하며 황소는 35억원에 이건희 삼성그룹 전 회장이 낙찰해 국립중앙 박물관에 기증되었다고 전해진다."
+			],
+			[
+				35,
+				"있",
+				"VA",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				36,
+				"정착하",
+				"VV",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				37,
+				"평화롭",
+				"VA",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				38,
+				"지내",
+				"VV",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				39,
+				"하",
+				"VV",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				40,
+				"떨어지",
+				"VV",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				41,
+				"되",
+				"VV",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				42,
+				"시달리",
+				"VV",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				43,
+				"그리",
+				"VV",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				44,
+				"하",
+				"VX",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				45,
+				"전하",
+				"VV",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				46,
+				"지",
+				"VX",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				47,
+				"이렇",
+				"VA",
+				"이렇게 힘들게 작품활동을 하고 친구들의 도움으로 마지막으로 전시회를 열고 은박지에 그린 작품이 뉴욕 현대미술관에 전시되는 영광을 얻기도 했다."
+			],
+			[
+				48,
+				"힘들",
+				"VA",
+				"이렇게 힘들게 작품활동을 하고 친구들의 도움으로 마지막으로 전시회를 열고 은박지에 그린 작품이 뉴욕 현대미술관에 전시되는 영광을 얻기도 했다."
+			],
+			[
+				49,
+				"하",
+				"VV",
+				"이렇게 힘들게 작품활동을 하고 친구들의 도움으로 마지막으로 전시회를 열고 은박지에 그린 작품이 뉴욕 현대미술관에 전시되는 영광을 얻기도 했다."
+			],
+			[
+				50,
+				"열",
+				"VV",
+				"이렇게 힘들게 작품활동을 하고 친구들의 도움으로 마지막으로 전시회를 열고 은박지에 그린 작품이 뉴욕 현대미술관에 전시되는 영광을 얻기도 했다."
+			],
+			[
+				51,
+				"그리",
+				"VV",
+				"이렇게 힘들게 작품활동을 하고 친구들의 도움으로 마지막으로 전시회를 열고 은박지에 그린 작품이 뉴욕 현대미술관에 전시되는 영광을 얻기도 했다."
+			],
+			[
+				52,
+				"전시되",
+				"VV",
+				"이렇게 힘들게 작품활동을 하고 친구들의 도움으로 마지막으로 전시회를 열고 은박지에 그린 작품이 뉴욕 현대미술관에 전시되는 영광을 얻기도 했다."
+			],
+			[
+				53,
+				"얻",
+				"VV",
+				"이렇게 힘들게 작품활동을 하고 친구들의 도움으로 마지막으로 전시회를 열고 은박지에 그린 작품이 뉴욕 현대미술관에 전시되는 영광을 얻기도 했다."
+			],
+			[
+				54,
+				"하",
+				"VX",
+				"이렇게 힘들게 작품활동을 하고 친구들의 도움으로 마지막으로 전시회를 열고 은박지에 그린 작품이 뉴욕 현대미술관에 전시되는 영광을 얻기도 했다."
+			],
+			[
+				55,
+				"합치",
+				"VV",
+				"하지만 1년뒤에 여러 병들이 합쳐져 41세의 나이로 사망하게된다."
+			],
+			[
+				56,
+				"지",
+				"VX",
+				"하지만 1년뒤에 여러 병들이 합쳐져 41세의 나이로 사망하게된다."
+			],
+			[
+				57,
+				"사망하",
+				"VV",
+				"하지만 1년뒤에 여러 병들이 합쳐져 41세의 나이로 사망하게된다."
+			],
+			[
+				58,
+				"되",
+				"VV",
+				"하지만 1년뒤에 여러 병들이 합쳐져 41세의 나이로 사망하게된다."
+			],
+			[
+				59,
+				"이",
+				"VCP",
+				"이중섭은 자전적인 요소로 사후에 좋은 평가를 받았다."
+			],
+			[
+				60,
+				"좋",
+				"VA",
+				"이중섭은 자전적인 요소로 사후에 좋은 평가를 받았다."
+			],
+			[
+				61,
+				"받",
+				"VV",
+				"이중섭은 자전적인 요소로 사후에 좋은 평가를 받았다."
+			],
+			[
+				62,
+				"이",
+				"VCP",
+				"나도 이중섭처럼 자전적인 화가가 되어 활동하고싶다."
+			],
+			[
+				63,
+				"되",
+				"VV",
+				"나도 이중섭처럼 자전적인 화가가 되어 활동하고싶다."
+			],
+			[
+				64,
+				"활동하",
+				"VV",
+				"나도 이중섭처럼 자전적인 화가가 되어 활동하고싶다."
+			],
+			[
+				65,
+				"싶",
+				"VX",
+				"나도 이중섭처럼 자전적인 화가가 되어 활동하고싶다."
+			]
+		],
+		"VV_Lst": [
+			[
+				0,
+				"좋아하",
+				"VV",
+				"이중섭은 어린시절부터 소를 좋아했다고 한다."
+			],
+			[
+				1,
+				"하",
+				"VV",
+				"이중섭은 어린시절부터 소를 좋아했다고 한다."
+			],
+			[
+				2,
+				"태어나",
+				"VV",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				3,
+				"나오",
+				"VV",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				4,
+				"배우",
+				"VV",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				5,
+				"넘어가",
+				"VV",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				6,
+				"배우",
+				"VV",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				7,
+				"대하",
+				"VV",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				8,
+				"하",
+				"VV",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				9,
+				"하",
+				"VV",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				10,
+				"가입하",
+				"VV",
+				"광복 이후에는 공산당 동맹에 가입했는데 본인의 이념과 사회주의의 이념이 맞지 않아 6.25 전쟁때 남한으로 내려왔다고 한다."
+			],
+			[
+				11,
+				"맞",
+				"VV",
+				"광복 이후에는 공산당 동맹에 가입했는데 본인의 이념과 사회주의의 이념이 맞지 않아 6.25 전쟁때 남한으로 내려왔다고 한다."
+			],
+			[
+				12,
+				"내려오",
+				"VV",
+				"광복 이후에는 공산당 동맹에 가입했는데 본인의 이념과 사회주의의 이념이 맞지 않아 6.25 전쟁때 남한으로 내려왔다고 한다."
+			],
+			[
+				13,
+				"하",
+				"VV",
+				"광복 이후에는 공산당 동맹에 가입했는데 본인의 이념과 사회주의의 이념이 맞지 않아 6.25 전쟁때 남한으로 내려왔다고 한다."
+			],
+			[
+				14,
+				"내려오",
+				"VV",
+				"남한으로 내려올 당시 혼자서 내려오고 일본시절에 그린 그림과 전쟁당시 그린 그림을 노모에게 맡기고 와서 대부분이 소실되거나 유실되었다고 한다."
+			],
+			[
+				15,
+				"내려오",
+				"VV",
+				"남한으로 내려올 당시 혼자서 내려오고 일본시절에 그린 그림과 전쟁당시 그린 그림을 노모에게 맡기고 와서 대부분이 소실되거나 유실되었다고 한다."
+			],
+			[
+				16,
+				"그리",
+				"VV",
+				"남한으로 내려올 당시 혼자서 내려오고 일본시절에 그린 그림과 전쟁당시 그린 그림을 노모에게 맡기고 와서 대부분이 소실되거나 유실되었다고 한다."
+			],
+			[
+				17,
+				"그리",
+				"VV",
+				"남한으로 내려올 당시 혼자서 내려오고 일본시절에 그린 그림과 전쟁당시 그린 그림을 노모에게 맡기고 와서 대부분이 소실되거나 유실되었다고 한다."
+			],
+			[
+				18,
+				"맡기",
+				"VV",
+				"남한으로 내려올 당시 혼자서 내려오고 일본시절에 그린 그림과 전쟁당시 그린 그림을 노모에게 맡기고 와서 대부분이 소실되거나 유실되었다고 한다."
+			],
+			[
+				19,
+				"오",
+				"VV",
+				"남한으로 내려올 당시 혼자서 내려오고 일본시절에 그린 그림과 전쟁당시 그린 그림을 노모에게 맡기고 와서 대부분이 소실되거나 유실되었다고 한다."
+			],
+			[
+				20,
+				"소실되",
+				"VV",
+				"남한으로 내려올 당시 혼자서 내려오고 일본시절에 그린 그림과 전쟁당시 그린 그림을 노모에게 맡기고 와서 대부분이 소실되거나 유실되었다고 한다."
+			],
+			[
+				21,
+				"유실되",
+				"VV",
+				"남한으로 내려올 당시 혼자서 내려오고 일본시절에 그린 그림과 전쟁당시 그린 그림을 노모에게 맡기고 와서 대부분이 소실되거나 유실되었다고 한다."
+			],
+			[
+				22,
+				"하",
+				"VV",
+				"남한으로 내려올 당시 혼자서 내려오고 일본시절에 그린 그림과 전쟁당시 그린 그림을 노모에게 맡기고 와서 대부분이 소실되거나 유실되었다고 한다."
+			],
+			[
+				23,
+				"바라보",
+				"VV",
+				"전쟁 이후에는 소를 하루종일 바라보면서 소에대한 그림을 그렸다고 한다"
+			],
+			[
+				24,
+				"대하",
+				"VV",
+				"전쟁 이후에는 소를 하루종일 바라보면서 소에대한 그림을 그렸다고 한다"
+			],
+			[
+				25,
+				"그리",
+				"VV",
+				"전쟁 이후에는 소를 하루종일 바라보면서 소에대한 그림을 그렸다고 한다"
+			],
+			[
+				26,
+				"하",
+				"VV",
+				"전쟁 이후에는 소를 하루종일 바라보면서 소에대한 그림을 그렸다고 한다"
+			],
+			[
+				27,
+				"호가하",
+				"VV",
+				"이중섭의 소 그림은 10억을 호가하며 황소는 35억원에 이건희 삼성그룹 전 회장이 낙찰해 국립중앙 박물관에 기증되었다고 전해진다."
+			],
+			[
+				28,
+				"낙찰하",
+				"VV",
+				"이중섭의 소 그림은 10억을 호가하며 황소는 35억원에 이건희 삼성그룹 전 회장이 낙찰해 국립중앙 박물관에 기증되었다고 전해진다."
+			],
+			[
+				29,
+				"기증되",
+				"VV",
+				"이중섭의 소 그림은 10억을 호가하며 황소는 35억원에 이건희 삼성그룹 전 회장이 낙찰해 국립중앙 박물관에 기증되었다고 전해진다."
+			],
+			[
+				30,
+				"전하",
+				"VV",
+				"이중섭의 소 그림은 10억을 호가하며 황소는 35억원에 이건희 삼성그룹 전 회장이 낙찰해 국립중앙 박물관에 기증되었다고 전해진다."
+			],
+			[
+				31,
+				"정착하",
+				"VV",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				32,
+				"지내",
+				"VV",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				33,
+				"하",
+				"VV",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				34,
+				"떨어지",
+				"VV",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				35,
+				"되",
+				"VV",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				36,
+				"시달리",
+				"VV",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				37,
+				"그리",
+				"VV",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				38,
+				"전하",
+				"VV",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				39,
+				"하",
+				"VV",
+				"이렇게 힘들게 작품활동을 하고 친구들의 도움으로 마지막으로 전시회를 열고 은박지에 그린 작품이 뉴욕 현대미술관에 전시되는 영광을 얻기도 했다."
+			],
+			[
+				40,
+				"열",
+				"VV",
+				"이렇게 힘들게 작품활동을 하고 친구들의 도움으로 마지막으로 전시회를 열고 은박지에 그린 작품이 뉴욕 현대미술관에 전시되는 영광을 얻기도 했다."
+			],
+			[
+				41,
+				"그리",
+				"VV",
+				"이렇게 힘들게 작품활동을 하고 친구들의 도움으로 마지막으로 전시회를 열고 은박지에 그린 작품이 뉴욕 현대미술관에 전시되는 영광을 얻기도 했다."
+			],
+			[
+				42,
+				"전시되",
+				"VV",
+				"이렇게 힘들게 작품활동을 하고 친구들의 도움으로 마지막으로 전시회를 열고 은박지에 그린 작품이 뉴욕 현대미술관에 전시되는 영광을 얻기도 했다."
+			],
+			[
+				43,
+				"얻",
+				"VV",
+				"이렇게 힘들게 작품활동을 하고 친구들의 도움으로 마지막으로 전시회를 열고 은박지에 그린 작품이 뉴욕 현대미술관에 전시되는 영광을 얻기도 했다."
+			],
+			[
+				44,
+				"합치",
+				"VV",
+				"하지만 1년뒤에 여러 병들이 합쳐져 41세의 나이로 사망하게된다."
+			],
+			[
+				45,
+				"사망하",
+				"VV",
+				"하지만 1년뒤에 여러 병들이 합쳐져 41세의 나이로 사망하게된다."
+			],
+			[
+				46,
+				"되",
+				"VV",
+				"하지만 1년뒤에 여러 병들이 합쳐져 41세의 나이로 사망하게된다."
+			],
+			[
+				47,
+				"받",
+				"VV",
+				"이중섭은 자전적인 요소로 사후에 좋은 평가를 받았다."
+			],
+			[
+				48,
+				"되",
+				"VV",
+				"나도 이중섭처럼 자전적인 화가가 되어 활동하고싶다."
+			],
+			[
+				49,
+				"활동하",
+				"VV",
+				"나도 이중섭처럼 자전적인 화가가 되어 활동하고싶다."
+			]
+		],
+		"VA_Lst": [
+			[
+				0,
+				"어리",
+				"VA",
+				"이중섭은 어린시절부터 소를 좋아했다고 한다."
+			],
+			[
+				1,
+				"유명하",
+				"VA",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				2,
+				"있",
+				"VA",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				3,
+				"평화롭",
+				"VA",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				4,
+				"이렇",
+				"VA",
+				"이렇게 힘들게 작품활동을 하고 친구들의 도움으로 마지막으로 전시회를 열고 은박지에 그린 작품이 뉴욕 현대미술관에 전시되는 영광을 얻기도 했다."
+			],
+			[
+				5,
+				"힘들",
+				"VA",
+				"이렇게 힘들게 작품활동을 하고 친구들의 도움으로 마지막으로 전시회를 열고 은박지에 그린 작품이 뉴욕 현대미술관에 전시되는 영광을 얻기도 했다."
+			],
+			[
+				6,
+				"좋",
+				"VA",
+				"이중섭은 자전적인 요소로 사후에 좋은 평가를 받았다."
+			]
+		],
+		"VX_Lst": [
+			[
+				0,
+				"않",
+				"VX",
+				"광복 이후에는 공산당 동맹에 가입했는데 본인의 이념과 사회주의의 이념이 맞지 않아 6.25 전쟁때 남한으로 내려왔다고 한다."
+			],
+			[
+				1,
+				"지",
+				"VX",
+				"이중섭의 소 그림은 10억을 호가하며 황소는 35억원에 이건희 삼성그룹 전 회장이 낙찰해 국립중앙 박물관에 기증되었다고 전해진다."
+			],
+			[
+				2,
+				"하",
+				"VX",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				3,
+				"지",
+				"VX",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				4,
+				"하",
+				"VX",
+				"이렇게 힘들게 작품활동을 하고 친구들의 도움으로 마지막으로 전시회를 열고 은박지에 그린 작품이 뉴욕 현대미술관에 전시되는 영광을 얻기도 했다."
+			],
+			[
+				5,
+				"지",
+				"VX",
+				"하지만 1년뒤에 여러 병들이 합쳐져 41세의 나이로 사망하게된다."
+			],
+			[
+				6,
+				"싶",
+				"VX",
+				"나도 이중섭처럼 자전적인 화가가 되어 활동하고싶다."
+			]
+		],
+		"VCP_Lst": [
+			[
+				0,
+				"이",
+				"VCP",
+				"이중섭은 자전적인 요소로 사후에 좋은 평가를 받았다."
+			],
+			[
+				1,
+				"이",
+				"VCP",
+				"나도 이중섭처럼 자전적인 화가가 되어 활동하고싶다."
+			]
+		],
+		"VCN_Lst": [],
+		"ML_Lst": [
+			[
+				0,
+				"더",
+				"MAG",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				1,
+				"끊임없이",
+				"MAG",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				2,
+				"하지만",
+				"MAJ",
+				"하지만 1년뒤에 여러 병들이 합쳐져 41세의 나이로 사망하게된다."
+			]
+		],
+		"MA_Lst": [],
+		"MM_Lst": [],
+		"J_Lst": [
+			[
+				0,
+				"은",
+				"JX",
+				"이중섭은 어린시절부터 소를 좋아했다고 한다."
+			],
+			[
+				1,
+				"부터",
+				"JX",
+				"이중섭은 어린시절부터 소를 좋아했다고 한다."
+			],
+			[
+				2,
+				"를",
+				"JKO",
+				"이중섭은 어린시절부터 소를 좋아했다고 한다."
+			],
+			[
+				3,
+				"는",
+				"JX",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				4,
+				"에",
+				"JKB",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				5,
+				"를",
+				"JKO",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				6,
+				"로",
+				"JKB",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				7,
+				"에게",
+				"JKB",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				8,
+				"을",
+				"JKO",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				9,
+				"으로",
+				"JKB",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				10,
+				"을",
+				"JKO",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				11,
+				"도",
+				"JX",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				12,
+				"에",
+				"JKB",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				13,
+				"를",
+				"JKO",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				14,
+				"에",
+				"JKB",
+				"광복 이후에는 공산당 동맹에 가입했는데 본인의 이념과 사회주의의 이념이 맞지 않아 6.25 전쟁때 남한으로 내려왔다고 한다."
+			],
+			[
+				15,
+				"는",
+				"JX",
+				"광복 이후에는 공산당 동맹에 가입했는데 본인의 이념과 사회주의의 이념이 맞지 않아 6.25 전쟁때 남한으로 내려왔다고 한다."
+			],
+			[
+				16,
+				"에",
+				"JKB",
+				"광복 이후에는 공산당 동맹에 가입했는데 본인의 이념과 사회주의의 이념이 맞지 않아 6.25 전쟁때 남한으로 내려왔다고 한다."
+			],
+			[
+				17,
+				"의",
+				"JKG",
+				"광복 이후에는 공산당 동맹에 가입했는데 본인의 이념과 사회주의의 이념이 맞지 않아 6.25 전쟁때 남한으로 내려왔다고 한다."
+			],
+			[
+				18,
+				"과",
+				"JC",
+				"광복 이후에는 공산당 동맹에 가입했는데 본인의 이념과 사회주의의 이념이 맞지 않아 6.25 전쟁때 남한으로 내려왔다고 한다."
+			],
+			[
+				19,
+				"의",
+				"JKG",
+				"광복 이후에는 공산당 동맹에 가입했는데 본인의 이념과 사회주의의 이념이 맞지 않아 6.25 전쟁때 남한으로 내려왔다고 한다."
+			],
+			[
+				20,
+				"이",
+				"JKS",
+				"광복 이후에는 공산당 동맹에 가입했는데 본인의 이념과 사회주의의 이념이 맞지 않아 6.25 전쟁때 남한으로 내려왔다고 한다."
+			],
+			[
+				21,
+				"으로",
+				"JKB",
+				"광복 이후에는 공산당 동맹에 가입했는데 본인의 이념과 사회주의의 이념이 맞지 않아 6.25 전쟁때 남한으로 내려왔다고 한다."
+			],
+			[
+				22,
+				"으로",
+				"JKB",
+				"남한으로 내려올 당시 혼자서 내려오고 일본시절에 그린 그림과 전쟁당시 그린 그림을 노모에게 맡기고 와서 대부분이 소실되거나 유실되었다고 한다."
+			],
+			[
+				23,
+				"서",
+				"JKS",
+				"남한으로 내려올 당시 혼자서 내려오고 일본시절에 그린 그림과 전쟁당시 그린 그림을 노모에게 맡기고 와서 대부분이 소실되거나 유실되었다고 한다."
+			],
+			[
+				24,
+				"에",
+				"JKB",
+				"남한으로 내려올 당시 혼자서 내려오고 일본시절에 그린 그림과 전쟁당시 그린 그림을 노모에게 맡기고 와서 대부분이 소실되거나 유실되었다고 한다."
+			],
+			[
+				25,
+				"과",
+				"JC",
+				"남한으로 내려올 당시 혼자서 내려오고 일본시절에 그린 그림과 전쟁당시 그린 그림을 노모에게 맡기고 와서 대부분이 소실되거나 유실되었다고 한다."
+			],
+			[
+				26,
+				"을",
+				"JKO",
+				"남한으로 내려올 당시 혼자서 내려오고 일본시절에 그린 그림과 전쟁당시 그린 그림을 노모에게 맡기고 와서 대부분이 소실되거나 유실되었다고 한다."
+			],
+			[
+				27,
+				"에게",
+				"JKB",
+				"남한으로 내려올 당시 혼자서 내려오고 일본시절에 그린 그림과 전쟁당시 그린 그림을 노모에게 맡기고 와서 대부분이 소실되거나 유실되었다고 한다."
+			],
+			[
+				28,
+				"이",
+				"JKS",
+				"남한으로 내려올 당시 혼자서 내려오고 일본시절에 그린 그림과 전쟁당시 그린 그림을 노모에게 맡기고 와서 대부분이 소실되거나 유실되었다고 한다."
+			],
+			[
+				29,
+				"에",
+				"JKB",
+				"전쟁 이후에는 소를 하루종일 바라보면서 소에대한 그림을 그렸다고 한다"
+			],
+			[
+				30,
+				"는",
+				"JX",
+				"전쟁 이후에는 소를 하루종일 바라보면서 소에대한 그림을 그렸다고 한다"
+			],
+			[
+				31,
+				"를",
+				"JKO",
+				"전쟁 이후에는 소를 하루종일 바라보면서 소에대한 그림을 그렸다고 한다"
+			],
+			[
+				32,
+				"에",
+				"JKB",
+				"전쟁 이후에는 소를 하루종일 바라보면서 소에대한 그림을 그렸다고 한다"
+			],
+			[
+				33,
+				"을",
+				"JKO",
+				"전쟁 이후에는 소를 하루종일 바라보면서 소에대한 그림을 그렸다고 한다"
+			],
+			[
+				34,
+				"의",
+				"JKG",
+				"이중섭의 소 그림은 10억을 호가하며 황소는 35억원에 이건희 삼성그룹 전 회장이 낙찰해 국립중앙 박물관에 기증되었다고 전해진다."
+			],
+			[
+				35,
+				"은",
+				"JX",
+				"이중섭의 소 그림은 10억을 호가하며 황소는 35억원에 이건희 삼성그룹 전 회장이 낙찰해 국립중앙 박물관에 기증되었다고 전해진다."
+			],
+			[
+				36,
+				"을",
+				"JKO",
+				"이중섭의 소 그림은 10억을 호가하며 황소는 35억원에 이건희 삼성그룹 전 회장이 낙찰해 국립중앙 박물관에 기증되었다고 전해진다."
+			],
+			[
+				37,
+				"는",
+				"JX",
+				"이중섭의 소 그림은 10억을 호가하며 황소는 35억원에 이건희 삼성그룹 전 회장이 낙찰해 국립중앙 박물관에 기증되었다고 전해진다."
+			],
+			[
+				38,
+				"에",
+				"JKB",
+				"이중섭의 소 그림은 10억을 호가하며 황소는 35억원에 이건희 삼성그룹 전 회장이 낙찰해 국립중앙 박물관에 기증되었다고 전해진다."
+			],
+			[
+				39,
+				"이",
+				"JKS",
+				"이중섭의 소 그림은 10억을 호가하며 황소는 35억원에 이건희 삼성그룹 전 회장이 낙찰해 국립중앙 박물관에 기증되었다고 전해진다."
+			],
+			[
+				40,
+				"에",
+				"JKB",
+				"이중섭의 소 그림은 10억을 호가하며 황소는 35억원에 이건희 삼성그룹 전 회장이 낙찰해 국립중앙 박물관에 기증되었다고 전해진다."
+			],
+			[
+				41,
+				"에",
+				"JKB",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				42,
+				"는",
+				"JX",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				43,
+				"에서",
+				"JKB",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				44,
+				"을",
+				"JKO",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				45,
+				"이",
+				"JKS",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				46,
+				"에",
+				"JKB",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				47,
+				"는",
+				"JX",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				48,
+				"에",
+				"JKB",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				49,
+				"의",
+				"JKG",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				50,
+				"에",
+				"JKB",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				51,
+				"을",
+				"JKO",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				52,
+				"도",
+				"JX",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				53,
+				"을",
+				"JKO",
+				"이렇게 힘들게 작품활동을 하고 친구들의 도움으로 마지막으로 전시회를 열고 은박지에 그린 작품이 뉴욕 현대미술관에 전시되는 영광을 얻기도 했다."
+			],
+			[
+				54,
+				"의",
+				"JKG",
+				"이렇게 힘들게 작품활동을 하고 친구들의 도움으로 마지막으로 전시회를 열고 은박지에 그린 작품이 뉴욕 현대미술관에 전시되는 영광을 얻기도 했다."
+			],
+			[
+				55,
+				"으로",
+				"JKB",
+				"이렇게 힘들게 작품활동을 하고 친구들의 도움으로 마지막으로 전시회를 열고 은박지에 그린 작품이 뉴욕 현대미술관에 전시되는 영광을 얻기도 했다."
+			],
+			[
+				56,
+				"으로",
+				"JKB",
+				"이렇게 힘들게 작품활동을 하고 친구들의 도움으로 마지막으로 전시회를 열고 은박지에 그린 작품이 뉴욕 현대미술관에 전시되는 영광을 얻기도 했다."
+			],
+			[
+				57,
+				"를",
+				"JKO",
+				"이렇게 힘들게 작품활동을 하고 친구들의 도움으로 마지막으로 전시회를 열고 은박지에 그린 작품이 뉴욕 현대미술관에 전시되는 영광을 얻기도 했다."
+			],
+			[
+				58,
+				"에",
+				"JKB",
+				"이렇게 힘들게 작품활동을 하고 친구들의 도움으로 마지막으로 전시회를 열고 은박지에 그린 작품이 뉴욕 현대미술관에 전시되는 영광을 얻기도 했다."
+			],
+			[
+				59,
+				"이",
+				"JKS",
+				"이렇게 힘들게 작품활동을 하고 친구들의 도움으로 마지막으로 전시회를 열고 은박지에 그린 작품이 뉴욕 현대미술관에 전시되는 영광을 얻기도 했다."
+			],
+			[
+				60,
+				"에",
+				"JKB",
+				"이렇게 힘들게 작품활동을 하고 친구들의 도움으로 마지막으로 전시회를 열고 은박지에 그린 작품이 뉴욕 현대미술관에 전시되는 영광을 얻기도 했다."
+			],
+			[
+				61,
+				"을",
+				"JKO",
+				"이렇게 힘들게 작품활동을 하고 친구들의 도움으로 마지막으로 전시회를 열고 은박지에 그린 작품이 뉴욕 현대미술관에 전시되는 영광을 얻기도 했다."
+			],
+			[
+				62,
+				"도",
+				"JX",
+				"이렇게 힘들게 작품활동을 하고 친구들의 도움으로 마지막으로 전시회를 열고 은박지에 그린 작품이 뉴욕 현대미술관에 전시되는 영광을 얻기도 했다."
+			],
+			[
+				63,
+				"에",
+				"JKB",
+				"하지만 1년뒤에 여러 병들이 합쳐져 41세의 나이로 사망하게된다."
+			],
+			[
+				64,
+				"이",
+				"JKS",
+				"하지만 1년뒤에 여러 병들이 합쳐져 41세의 나이로 사망하게된다."
+			],
+			[
+				65,
+				"의",
+				"JKG",
+				"하지만 1년뒤에 여러 병들이 합쳐져 41세의 나이로 사망하게된다."
+			],
+			[
+				66,
+				"로",
+				"JKB",
+				"하지만 1년뒤에 여러 병들이 합쳐져 41세의 나이로 사망하게된다."
+			],
+			[
+				67,
+				"은",
+				"JX",
+				"이중섭은 자전적인 요소로 사후에 좋은 평가를 받았다."
+			],
+			[
+				68,
+				"로",
+				"JKB",
+				"이중섭은 자전적인 요소로 사후에 좋은 평가를 받았다."
+			],
+			[
+				69,
+				"에",
+				"JKB",
+				"이중섭은 자전적인 요소로 사후에 좋은 평가를 받았다."
+			],
+			[
+				70,
+				"를",
+				"JKO",
+				"이중섭은 자전적인 요소로 사후에 좋은 평가를 받았다."
+			],
+			[
+				71,
+				"도",
+				"JX",
+				"나도 이중섭처럼 자전적인 화가가 되어 활동하고싶다."
+			],
+			[
+				72,
+				"처럼",
+				"JKB",
+				"나도 이중섭처럼 자전적인 화가가 되어 활동하고싶다."
+			],
+			[
+				73,
+				"가",
+				"JKC",
+				"나도 이중섭처럼 자전적인 화가가 되어 활동하고싶다."
+			]
+		],
+		"E_Lst": [
+			[
+				0,
+				"ㄴ",
+				"ETM",
+				"이중섭은 어린시절부터 소를 좋아했다고 한다."
+			],
+			[
+				1,
+				"았",
+				"EP",
+				"이중섭은 어린시절부터 소를 좋아했다고 한다."
+			],
+			[
+				2,
+				"다고",
+				"EC",
+				"이중섭은 어린시절부터 소를 좋아했다고 한다."
+			],
+			[
+				3,
+				"ㄴ다",
+				"EF",
+				"이중섭은 어린시절부터 소를 좋아했다고 한다."
+			],
+			[
+				4,
+				"아",
+				"EC",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				5,
+				"아",
+				"EC",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				6,
+				"ㄴ",
+				"ETM",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				7,
+				"고",
+				"EC",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				8,
+				"아",
+				"EC",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				9,
+				"면서",
+				"EC",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				10,
+				"ㄴ",
+				"ETM",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				11,
+				"았",
+				"EP",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				12,
+				"다고",
+				"EC",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				13,
+				"ㄴ다",
+				"EF",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				14,
+				"았",
+				"EP",
+				"광복 이후에는 공산당 동맹에 가입했는데 본인의 이념과 사회주의의 이념이 맞지 않아 6.25 전쟁때 남한으로 내려왔다고 한다."
+			],
+			[
+				15,
+				"는데",
+				"EC",
+				"광복 이후에는 공산당 동맹에 가입했는데 본인의 이념과 사회주의의 이념이 맞지 않아 6.25 전쟁때 남한으로 내려왔다고 한다."
+			],
+			[
+				16,
+				"지",
+				"EC",
+				"광복 이후에는 공산당 동맹에 가입했는데 본인의 이념과 사회주의의 이념이 맞지 않아 6.25 전쟁때 남한으로 내려왔다고 한다."
+			],
+			[
+				17,
+				"아",
+				"EC",
+				"광복 이후에는 공산당 동맹에 가입했는데 본인의 이념과 사회주의의 이념이 맞지 않아 6.25 전쟁때 남한으로 내려왔다고 한다."
+			],
+			[
+				18,
+				"았",
+				"EP",
+				"광복 이후에는 공산당 동맹에 가입했는데 본인의 이념과 사회주의의 이념이 맞지 않아 6.25 전쟁때 남한으로 내려왔다고 한다."
+			],
+			[
+				19,
+				"다고",
+				"EC",
+				"광복 이후에는 공산당 동맹에 가입했는데 본인의 이념과 사회주의의 이념이 맞지 않아 6.25 전쟁때 남한으로 내려왔다고 한다."
+			],
+			[
+				20,
+				"ㄴ다",
+				"EF",
+				"광복 이후에는 공산당 동맹에 가입했는데 본인의 이념과 사회주의의 이념이 맞지 않아 6.25 전쟁때 남한으로 내려왔다고 한다."
+			],
+			[
+				21,
+				"ㄹ",
+				"ETM",
+				"남한으로 내려올 당시 혼자서 내려오고 일본시절에 그린 그림과 전쟁당시 그린 그림을 노모에게 맡기고 와서 대부분이 소실되거나 유실되었다고 한다."
+			],
+			[
+				22,
+				"고",
+				"EC",
+				"남한으로 내려올 당시 혼자서 내려오고 일본시절에 그린 그림과 전쟁당시 그린 그림을 노모에게 맡기고 와서 대부분이 소실되거나 유실되었다고 한다."
+			],
+			[
+				23,
+				"ㄴ",
+				"ETM",
+				"남한으로 내려올 당시 혼자서 내려오고 일본시절에 그린 그림과 전쟁당시 그린 그림을 노모에게 맡기고 와서 대부분이 소실되거나 유실되었다고 한다."
+			],
+			[
+				24,
+				"ㄴ",
+				"ETM",
+				"남한으로 내려올 당시 혼자서 내려오고 일본시절에 그린 그림과 전쟁당시 그린 그림을 노모에게 맡기고 와서 대부분이 소실되거나 유실되었다고 한다."
+			],
+			[
+				25,
+				"고",
+				"EC",
+				"남한으로 내려올 당시 혼자서 내려오고 일본시절에 그린 그림과 전쟁당시 그린 그림을 노모에게 맡기고 와서 대부분이 소실되거나 유실되었다고 한다."
+			],
+			[
+				26,
+				"아서",
+				"EC",
+				"남한으로 내려올 당시 혼자서 내려오고 일본시절에 그린 그림과 전쟁당시 그린 그림을 노모에게 맡기고 와서 대부분이 소실되거나 유실되었다고 한다."
+			],
+			[
+				27,
+				"거나",
+				"EC",
+				"남한으로 내려올 당시 혼자서 내려오고 일본시절에 그린 그림과 전쟁당시 그린 그림을 노모에게 맡기고 와서 대부분이 소실되거나 유실되었다고 한다."
+			],
+			[
+				28,
+				"었",
+				"EP",
+				"남한으로 내려올 당시 혼자서 내려오고 일본시절에 그린 그림과 전쟁당시 그린 그림을 노모에게 맡기고 와서 대부분이 소실되거나 유실되었다고 한다."
+			],
+			[
+				29,
+				"다고",
+				"EC",
+				"남한으로 내려올 당시 혼자서 내려오고 일본시절에 그린 그림과 전쟁당시 그린 그림을 노모에게 맡기고 와서 대부분이 소실되거나 유실되었다고 한다."
+			],
+			[
+				30,
+				"ㄴ다",
+				"EF",
+				"남한으로 내려올 당시 혼자서 내려오고 일본시절에 그린 그림과 전쟁당시 그린 그림을 노모에게 맡기고 와서 대부분이 소실되거나 유실되었다고 한다."
+			],
+			[
+				31,
+				"면서",
+				"EC",
+				"전쟁 이후에는 소를 하루종일 바라보면서 소에대한 그림을 그렸다고 한다"
+			],
+			[
+				32,
+				"ㄴ",
+				"ETM",
+				"전쟁 이후에는 소를 하루종일 바라보면서 소에대한 그림을 그렸다고 한다"
+			],
+			[
+				33,
+				"었",
+				"EP",
+				"전쟁 이후에는 소를 하루종일 바라보면서 소에대한 그림을 그렸다고 한다"
+			],
+			[
+				34,
+				"다고",
+				"EC",
+				"전쟁 이후에는 소를 하루종일 바라보면서 소에대한 그림을 그렸다고 한다"
+			],
+			[
+				35,
+				"ㄴ다",
+				"EF",
+				"전쟁 이후에는 소를 하루종일 바라보면서 소에대한 그림을 그렸다고 한다"
+			],
+			[
+				36,
+				"며",
+				"EC",
+				"이중섭의 소 그림은 10억을 호가하며 황소는 35억원에 이건희 삼성그룹 전 회장이 낙찰해 국립중앙 박물관에 기증되었다고 전해진다."
+			],
+			[
+				37,
+				"아",
+				"EC",
+				"이중섭의 소 그림은 10억을 호가하며 황소는 35억원에 이건희 삼성그룹 전 회장이 낙찰해 국립중앙 박물관에 기증되었다고 전해진다."
+			],
+			[
+				38,
+				"었",
+				"EP",
+				"이중섭의 소 그림은 10억을 호가하며 황소는 35억원에 이건희 삼성그룹 전 회장이 낙찰해 국립중앙 박물관에 기증되었다고 전해진다."
+			],
+			[
+				39,
+				"다고",
+				"EC",
+				"이중섭의 소 그림은 10억을 호가하며 황소는 35억원에 이건희 삼성그룹 전 회장이 낙찰해 국립중앙 박물관에 기증되었다고 전해진다."
+			],
+			[
+				40,
+				"아",
+				"EC",
+				"이중섭의 소 그림은 10억을 호가하며 황소는 35억원에 이건희 삼성그룹 전 회장이 낙찰해 국립중앙 박물관에 기증되었다고 전해진다."
+			],
+			[
+				41,
+				"ㄴ다",
+				"EF",
+				"이중섭의 소 그림은 10억을 호가하며 황소는 35억원에 이건희 삼성그룹 전 회장이 낙찰해 국립중앙 박물관에 기증되었다고 전해진다."
+			],
+			[
+				42,
+				"을",
+				"ETM",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				43,
+				"아",
+				"EC",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				44,
+				"게",
+				"EC",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				45,
+				"면서",
+				"EC",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				46,
+				"다가",
+				"EC",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				47,
+				"게",
+				"EC",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				48,
+				"고",
+				"EC",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				49,
+				"어서",
+				"EC",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				50,
+				"기",
+				"ETN",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				51,
+				"았",
+				"EP",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				52,
+				"다고",
+				"EC",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				53,
+				"아",
+				"EC",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				54,
+				"ㄴ다",
+				"EF",
+				"남한에 있을때는 제주도 서귀포시에서 정착해 평화롭게 지내면서 창작생활을 하다가 돈이 떨어지게되고 말년에는 빈곤에 시달려서 담배갑의 은박지에 그림을 그리기도 했다고 전해진다."
+			],
+			[
+				55,
+				"게",
+				"EC",
+				"이렇게 힘들게 작품활동을 하고 친구들의 도움으로 마지막으로 전시회를 열고 은박지에 그린 작품이 뉴욕 현대미술관에 전시되는 영광을 얻기도 했다."
+			],
+			[
+				56,
+				"게",
+				"EC",
+				"이렇게 힘들게 작품활동을 하고 친구들의 도움으로 마지막으로 전시회를 열고 은박지에 그린 작품이 뉴욕 현대미술관에 전시되는 영광을 얻기도 했다."
+			],
+			[
+				57,
+				"고",
+				"EC",
+				"이렇게 힘들게 작품활동을 하고 친구들의 도움으로 마지막으로 전시회를 열고 은박지에 그린 작품이 뉴욕 현대미술관에 전시되는 영광을 얻기도 했다."
+			],
+			[
+				58,
+				"고",
+				"EC",
+				"이렇게 힘들게 작품활동을 하고 친구들의 도움으로 마지막으로 전시회를 열고 은박지에 그린 작품이 뉴욕 현대미술관에 전시되는 영광을 얻기도 했다."
+			],
+			[
+				59,
+				"ㄴ",
+				"ETM",
+				"이렇게 힘들게 작품활동을 하고 친구들의 도움으로 마지막으로 전시회를 열고 은박지에 그린 작품이 뉴욕 현대미술관에 전시되는 영광을 얻기도 했다."
+			],
+			[
+				60,
+				"는",
+				"ETM",
+				"이렇게 힘들게 작품활동을 하고 친구들의 도움으로 마지막으로 전시회를 열고 은박지에 그린 작품이 뉴욕 현대미술관에 전시되는 영광을 얻기도 했다."
+			],
+			[
+				61,
+				"기",
+				"ETN",
+				"이렇게 힘들게 작품활동을 하고 친구들의 도움으로 마지막으로 전시회를 열고 은박지에 그린 작품이 뉴욕 현대미술관에 전시되는 영광을 얻기도 했다."
+			],
+			[
+				62,
+				"았",
+				"EP",
+				"이렇게 힘들게 작품활동을 하고 친구들의 도움으로 마지막으로 전시회를 열고 은박지에 그린 작품이 뉴욕 현대미술관에 전시되는 영광을 얻기도 했다."
+			],
+			[
+				63,
+				"다",
+				"EF",
+				"이렇게 힘들게 작품활동을 하고 친구들의 도움으로 마지막으로 전시회를 열고 은박지에 그린 작품이 뉴욕 현대미술관에 전시되는 영광을 얻기도 했다."
+			],
+			[
+				64,
+				"어",
+				"EC",
+				"하지만 1년뒤에 여러 병들이 합쳐져 41세의 나이로 사망하게된다."
+			],
+			[
+				65,
+				"어",
+				"EC",
+				"하지만 1년뒤에 여러 병들이 합쳐져 41세의 나이로 사망하게된다."
+			],
+			[
+				66,
+				"게",
+				"EC",
+				"하지만 1년뒤에 여러 병들이 합쳐져 41세의 나이로 사망하게된다."
+			],
+			[
+				67,
+				"ㄴ다",
+				"EF",
+				"하지만 1년뒤에 여러 병들이 합쳐져 41세의 나이로 사망하게된다."
+			],
+			[
+				68,
+				"ㄴ",
+				"ETM",
+				"이중섭은 자전적인 요소로 사후에 좋은 평가를 받았다."
+			],
+			[
+				69,
+				"은",
+				"ETM",
+				"이중섭은 자전적인 요소로 사후에 좋은 평가를 받았다."
+			],
+			[
+				70,
+				"았",
+				"EP",
+				"이중섭은 자전적인 요소로 사후에 좋은 평가를 받았다."
+			],
+			[
+				71,
+				"다",
+				"EF",
+				"이중섭은 자전적인 요소로 사후에 좋은 평가를 받았다."
+			],
+			[
+				72,
+				"ㄴ",
+				"ETM",
+				"나도 이중섭처럼 자전적인 화가가 되어 활동하고싶다."
+			],
+			[
+				73,
+				"어",
+				"EC",
+				"나도 이중섭처럼 자전적인 화가가 되어 활동하고싶다."
+			],
+			[
+				74,
+				"고",
+				"EC",
+				"나도 이중섭처럼 자전적인 화가가 되어 활동하고싶다."
+			],
+			[
+				75,
+				"다",
+				"EF",
+				"나도 이중섭처럼 자전적인 화가가 되어 활동하고싶다."
+			]
+		],
+		"X_Lst": [
+			[
+				0,
+				"화",
+				"XSN",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				1,
+				"풍",
+				"XSN",
+				"그는 일제강점기 시대에 태어나 오산학교를 나와 미술로 유명한 임용련에게 미술을 배우고 일본으로 넘어가 미술을 더 배우면서도 조선화풍에 대한 연구를 끊임없이 했다고 한다."
+			],
+			[
+				2,
+				"들",
+				"XSN",
+				"이렇게 힘들게 작품활동을 하고 친구들의 도움으로 마지막으로 전시회를 열고 은박지에 그린 작품이 뉴욕 현대미술관에 전시되는 영광을 얻기도 했다."
+			],
+			[
+				3,
+				"들",
+				"XSN",
+				"하지만 1년뒤에 여러 병들이 합쳐져 41세의 나이로 사망하게된다."
+			],
+			[
+				4,
+				"적",
+				"XSN",
+				"이중섭은 자전적인 요소로 사후에 좋은 평가를 받았다."
+			],
+			[
+				5,
+				"적",
+				"XSN",
+				"나도 이중섭처럼 자전적인 화가가 되어 활동하고싶다."
+			]
+		],
+		"IC_Lst": []
+	},
+	"NDW": {
+		"morph_NDW": 171,
+		"NL_NDW": 96,
+		"NNG_NDW": 72,
+		"NNP_NDW": 17,
+		"NNB_NDW": 3,
+		"NP_NDW": 2,
+		"NR_NDW": 2,
+		"VL_NDW": 66,
+		"VV_NDW": 50,
+		"VA_NDW": 7,
+		"ML_NDW": 3,
+		"MM_NDW": 0,
+		"IC_NDW": 0,
+		"J_NDW": 74,
+		"E_NDW": 76,
+		"X_NDW": 6,
+		"CL_NDW": 165,
+		"FL_NDW": 156
+	}
+}

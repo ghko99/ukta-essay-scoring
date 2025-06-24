@@ -1,0 +1,4426 @@
+﻿{
+	"morpheme": {
+		"sentences": [
+			{
+				"text": {
+					"content": "이 책은 지금의 우리 사회의 현실축소판을 담은 책이다.",
+					"length": 30,
+					"beginOffset": 0
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "이",
+							"length": 1,
+							"beginOffset": 0
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이",
+									"length": 1,
+									"beginOffset": 0
+								},
+								"tag": "MMD",
+								"probability": 0.9995627,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이",
+						"tagged": "이/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "책은",
+							"beginOffset": 2,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "책",
+									"beginOffset": 2,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.98310226,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 3,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9991269,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "책",
+						"tagged": "책/NNG+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "지금의",
+							"beginOffset": 5,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "지금",
+									"beginOffset": 5,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9841612,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 7,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9991304,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "지금",
+						"tagged": "지금/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "우리",
+							"beginOffset": 9,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "우리",
+									"beginOffset": 9,
+									"length": 2
+								},
+								"tag": "NP",
+								"probability": 0.9744239,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "우리",
+						"tagged": "우리/NP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사회의",
+							"beginOffset": 12,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사회",
+									"beginOffset": 12,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9840035,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 14,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9997298,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사회",
+						"tagged": "사회/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "현실축소판을",
+							"beginOffset": 16,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "현실",
+									"beginOffset": 16,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9831863,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "축소판",
+									"beginOffset": 18,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9857604,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 21,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9997856,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "현실",
+						"tagged": "현실/NNG+축소판/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "담은",
+							"beginOffset": 23,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "담",
+									"beginOffset": 23,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9905305,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 24,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999535,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "담",
+						"tagged": "담/VV+은/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "책이다.",
+							"beginOffset": 26,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "책",
+									"beginOffset": 26,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.98239577,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 27,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.9995329,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 28,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9929512,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 29,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99949074,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "책",
+						"tagged": "책/NNG+이/VCP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "이 책은 지금의 우리 사회의 현실축소판을 담은 책이다."
+			},
+			{
+				"text": {
+					"content": "인구수를 100명으로 하여서 비교하기 쉽게 우리 사회의 현실을 설명해준다.",
+					"beginOffset": 31,
+					"length": 41
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "인구수를",
+							"beginOffset": 31,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "인구수",
+									"beginOffset": 31,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.6499911,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 34,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999741,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "인구수",
+						"tagged": "인구수/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "100명으로",
+							"beginOffset": 36,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "100",
+									"beginOffset": 36,
+									"length": 3
+								},
+								"tag": "SN",
+								"probability": 0.99221694,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "명",
+									"beginOffset": 39,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9689219,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으로",
+									"beginOffset": 40,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9960556,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "100",
+						"tagged": "100/SN+명/NNB+으로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "하여서",
+							"beginOffset": 43,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 43,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.96438307,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아서",
+									"beginOffset": 44,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99556965,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VV+아서/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "비교하기",
+							"beginOffset": 47,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "비교하",
+									"beginOffset": 47,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "기",
+									"beginOffset": 50,
+									"length": 1
+								},
+								"tag": "ETN",
+								"probability": 0.9999337,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "비교하",
+						"tagged": "비교하/VV+기/ETN",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "쉽게",
+							"beginOffset": 52,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "쉽",
+									"beginOffset": 52,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9868355,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "게",
+									"beginOffset": 53,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9933593,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "쉽",
+						"tagged": "쉽/VA+게/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "우리",
+							"beginOffset": 55,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "우리",
+									"beginOffset": 55,
+									"length": 2
+								},
+								"tag": "NP",
+								"probability": 0.9899412,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "우리",
+						"tagged": "우리/NP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사회의",
+							"beginOffset": 58,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사회",
+									"beginOffset": 58,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9845497,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 60,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9997024,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사회",
+						"tagged": "사회/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "현실을",
+							"beginOffset": 62,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "현실",
+									"beginOffset": 62,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98495364,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 64,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999589,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "현실",
+						"tagged": "현실/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "설명해",
+							"beginOffset": 66,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "설명하",
+									"beginOffset": 66,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 68,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99512327,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "설명하",
+						"tagged": "설명하/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "준다.",
+							"beginOffset": 69,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "주",
+									"beginOffset": 69,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.97360253,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ다",
+									"beginOffset": 69,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.9918665,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 71,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9995777,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "주",
+						"tagged": "주/VX+ㄴ다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "인구수를 100명으로 하여서 비교하기 쉽게 우리 사회의 현실을 설명해 준다."
+			},
+			{
+				"text": {
+					"content": "이 책을 토대로한 영상도 많이 봤다.",
+					"beginOffset": 73,
+					"length": 20
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "이",
+							"beginOffset": 73,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 73,
+									"length": 1
+								},
+								"tag": "MMD",
+								"probability": 0.99949485,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이",
+						"tagged": "이/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "책을",
+							"beginOffset": 75,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "책",
+									"beginOffset": 75,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9833013,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 76,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999791,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "책",
+						"tagged": "책/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "토대로",
+							"beginOffset": 78,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "토대",
+									"beginOffset": 78,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98134524,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "로",
+									"beginOffset": 80,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9969767,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "토대",
+						"tagged": "토대/NNG+로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "한",
+							"beginOffset": 81,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 81,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.8195209,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 81,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99997,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "영상도",
+							"beginOffset": 83,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "영상",
+									"beginOffset": 83,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9808776,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 85,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9992114,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "영상",
+						"tagged": "영상/NNG+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "많이",
+							"beginOffset": 87,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "많이",
+									"beginOffset": 87,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9886739,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "많이",
+						"tagged": "많이/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "봤다.",
+							"beginOffset": 90,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "보",
+									"beginOffset": 90,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9443881,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 90,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9999206,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 91,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.98818105,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 92,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9998572,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "보",
+						"tagged": "보/VV+았/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "이 책을 토대로 한 영상도 많이 봤다."
+			},
+			{
+				"text": {
+					"content": "하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다.",
+					"beginOffset": 94,
+					"length": 95
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "하지만",
+							"beginOffset": 94,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하지만",
+									"beginOffset": 94,
+									"length": 3
+								},
+								"tag": "MAJ",
+								"probability": 0.9984279,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하지만",
+						"tagged": "하지만/MAJ",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "볼",
+							"beginOffset": 98,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "보",
+									"beginOffset": 98,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.8937013,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ",
+									"beginOffset": 98,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999705,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "보",
+						"tagged": "보/VV+ㄹ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "때 마다",
+							"beginOffset": 100,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "때",
+									"beginOffset": 100,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9842009,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "마다",
+									"beginOffset": 101,
+									"length": 2
+								},
+								"tag": "JX",
+								"probability": 0.9985438,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "때",
+						"tagged": "때/NNG+마다/JX",
+						"modified": "때마다"
+					},
+					{
+						"text": {
+							"content": "우리의",
+							"beginOffset": 105,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "우리",
+									"beginOffset": 105,
+									"length": 2
+								},
+								"tag": "NP",
+								"probability": 0.9810176,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 107,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9996238,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "우리",
+						"tagged": "우리/NP+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사회는",
+							"beginOffset": 109,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사회",
+									"beginOffset": 109,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98496276,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 111,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99908364,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사회",
+						"tagged": "사회/NNG+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "노령화가",
+							"beginOffset": 113,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "노령",
+									"beginOffset": 113,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98433864,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "화",
+									"beginOffset": 115,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.9882415,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 116,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.98471785,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "노령",
+						"tagged": "노령/NNG+화/XSN+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "가속화되며",
+							"beginOffset": 118,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "가속화되",
+									"beginOffset": 118,
+									"length": 4
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "며",
+									"beginOffset": 122,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9943241,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "가속화되",
+						"tagged": "가속화되/VV+며/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "우리",
+							"beginOffset": 124,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "우리",
+									"beginOffset": 124,
+									"length": 2
+								},
+								"tag": "NP",
+								"probability": 0.98054075,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "우리",
+						"tagged": "우리/NP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사회고",
+							"beginOffset": 127,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사회",
+									"beginOffset": 127,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98688835,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 129,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.99938154,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 129,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9948647,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사회",
+						"tagged": "사회/NNG+이/VCP+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "병",
+							"beginOffset": 131,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "병",
+									"beginOffset": 131,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9837485,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "병",
+						"tagged": "병/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "들어가고",
+							"beginOffset": 133,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "들어가",
+									"beginOffset": 133,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.98893684,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 136,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99429595,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "들어가",
+						"tagged": "들어가/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있다는",
+							"beginOffset": 138,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 138,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.97386503,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다는",
+									"beginOffset": 139,
+									"length": 2
+								},
+								"tag": "ETM",
+								"probability": 0.99998975,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VX+다는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "걸",
+							"beginOffset": 142,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "거",
+									"beginOffset": 142,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.92220557,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ",
+									"beginOffset": 142,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99976593,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "거",
+						"tagged": "거/NNB+ㄹ/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "느끼고",
+							"beginOffset": 144,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "느끼",
+									"beginOffset": 144,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9909825,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 146,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9822593,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "느끼",
+						"tagged": "느끼/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "빈민층과",
+							"beginOffset": 148,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "빈민",
+									"beginOffset": 148,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9819695,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "층",
+									"beginOffset": 150,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.9885937,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "과",
+									"beginOffset": 151,
+									"length": 1
+								},
+								"tag": "JC",
+								"probability": 0.94404095,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "빈민",
+						"tagged": "빈민/NNG+층/XSN+과/JC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "중산층",
+							"beginOffset": 153,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "중산",
+									"beginOffset": 153,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98135793,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "층",
+									"beginOffset": 155,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.9898264,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "중산",
+						"tagged": "중산/NNG+층/XSN",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "그리고",
+							"beginOffset": 157,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그리고",
+									"beginOffset": 157,
+									"length": 3
+								},
+								"tag": "MAJ",
+								"probability": 0.99834144,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그리고",
+						"tagged": "그리고/MAJ",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "비정규직과",
+							"beginOffset": 161,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "비",
+									"beginOffset": 161,
+									"length": 1
+								},
+								"tag": "XPN",
+								"probability": 0.997503,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "정규직",
+									"beginOffset": 162,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9850169,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "과",
+									"beginOffset": 165,
+									"length": 1
+								},
+								"tag": "JC",
+								"probability": 0.95979077,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "비",
+						"tagged": "비/XPN+정규직/NNG+과/JC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "정규직의",
+							"beginOffset": 167,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "정규직",
+									"beginOffset": 167,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.96020675,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 170,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99928784,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "정규직",
+						"tagged": "정규직/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "차이를",
+							"beginOffset": 172,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "차이",
+									"beginOffset": 172,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.983985,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 174,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99889225,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "차이",
+						"tagged": "차이/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "확실하게",
+							"beginOffset": 176,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "확실하",
+									"beginOffset": 176,
+									"length": 3
+								},
+								"tag": "VA",
+								"probability": 0.9856915,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "게",
+									"beginOffset": 179,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9935647,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "확실하",
+						"tagged": "확실하/VA+게/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "느낄",
+							"beginOffset": 181,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "느끼",
+									"beginOffset": 181,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.98748225,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ",
+									"beginOffset": 182,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99995697,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "느끼",
+						"tagged": "느끼/VV+ㄹ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "수",
+							"beginOffset": 184,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "수",
+									"beginOffset": 184,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.97644025,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "수",
+						"tagged": "수/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있다.",
+							"beginOffset": 186,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 186,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.97314084,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 187,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9925384,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 188,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99956477,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VA+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "하지만 볼 때마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			},
+			{
+				"text": {
+					"content": "이걸 보면서 우리 사회의 문제점과 해결해가야되는 부분을 알게 되었다.",
+					"beginOffset": 190,
+					"length": 38
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "이걸",
+							"beginOffset": 190,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이거",
+									"beginOffset": 190,
+									"length": 2
+								},
+								"tag": "NP",
+								"probability": 0.9733514,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ",
+									"beginOffset": 191,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99991333,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이거",
+						"tagged": "이거/NP+ㄹ/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "보면서",
+							"beginOffset": 193,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "보",
+									"beginOffset": 193,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.97956336,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "면서",
+									"beginOffset": 194,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9938023,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "보",
+						"tagged": "보/VV+면서/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "우리",
+							"beginOffset": 197,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "우리",
+									"beginOffset": 197,
+									"length": 2
+								},
+								"tag": "NP",
+								"probability": 0.98235583,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "우리",
+						"tagged": "우리/NP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사회의",
+							"beginOffset": 200,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사회",
+									"beginOffset": 200,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9853966,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 202,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9986229,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사회",
+						"tagged": "사회/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "문제점과",
+							"beginOffset": 204,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "문제점",
+									"beginOffset": 204,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.98319024,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "과",
+									"beginOffset": 207,
+									"length": 1
+								},
+								"tag": "JC",
+								"probability": 0.53594446,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "문제점",
+						"tagged": "문제점/NNG+과/JC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "해결해",
+							"beginOffset": 209,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "해결하",
+									"beginOffset": 209,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 211,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9947806,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "해결하",
+						"tagged": "해결하/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "가야",
+							"beginOffset": 212,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 212,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.9488905,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아야",
+									"beginOffset": 212,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.98788023,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "가",
+						"tagged": "가/VX+아야/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "되는",
+							"beginOffset": 214,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "되",
+									"beginOffset": 214,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9358443,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 215,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999567,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "되",
+						"tagged": "되/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "부분을",
+							"beginOffset": 217,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "부분",
+									"beginOffset": 217,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9846409,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 219,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99992144,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "부분",
+						"tagged": "부분/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "알게",
+							"beginOffset": 221,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "알",
+									"beginOffset": 221,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9887182,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "게",
+									"beginOffset": 222,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99634194,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "알",
+						"tagged": "알/VV+게/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "되었다.",
+							"beginOffset": 224,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "되",
+									"beginOffset": 224,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.97497016,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 225,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9998544,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 226,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9822886,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 227,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99981254,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "되",
+						"tagged": "되/VV+었/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "이걸 보면서 우리 사회의 문제점과 해결해 가야 되는 부분을 알게 되었다."
+			},
+			{
+				"text": {
+					"content": "내가 성인이 되고 성장하면서 이런 부분을 생각하고 이 책을 읽은 뒤로 세상을 보는 눈이 넓어졌으면 좋겠다.",
+					"beginOffset": 229,
+					"length": 59
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "내가",
+							"beginOffset": 229,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "내",
+									"beginOffset": 229,
+									"length": 1
+								},
+								"tag": "NP",
+								"probability": 0.98200077,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 230,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.97993374,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "내",
+						"tagged": "내/NP+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "성인이",
+							"beginOffset": 232,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "성인",
+									"beginOffset": 232,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98105717,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 234,
+									"length": 1
+								},
+								"tag": "JKC",
+								"probability": 0.94016117,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "성인",
+						"tagged": "성인/NNG+이/JKC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "되고",
+							"beginOffset": 236,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "되",
+									"beginOffset": 236,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9878189,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 237,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9948422,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "되",
+						"tagged": "되/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "성장하면서",
+							"beginOffset": 239,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "성장하",
+									"beginOffset": 239,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "면서",
+									"beginOffset": 242,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99134487,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "성장하",
+						"tagged": "성장하/VV+면서/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이런",
+							"beginOffset": 245,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이런",
+									"beginOffset": 245,
+									"length": 2
+								},
+								"tag": "MMD",
+								"probability": 0.9992813,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이런",
+						"tagged": "이런/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "부분을",
+							"beginOffset": 248,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "부분",
+									"beginOffset": 248,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98388505,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 250,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99994814,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "부분",
+						"tagged": "부분/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "생각하고",
+							"beginOffset": 252,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "생각하",
+									"beginOffset": 252,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.0,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 255,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9924045,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "생각하",
+						"tagged": "생각하/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이",
+							"beginOffset": 257,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 257,
+									"length": 1
+								},
+								"tag": "MMD",
+								"probability": 0.9996155,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이",
+						"tagged": "이/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "책을",
+							"beginOffset": 259,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "책",
+									"beginOffset": 259,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9833755,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 260,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999035,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "책",
+						"tagged": "책/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "읽은",
+							"beginOffset": 262,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "읽",
+									"beginOffset": 262,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.98961926,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 263,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.999958,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "읽",
+						"tagged": "읽/VV+은/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "뒤로",
+							"beginOffset": 265,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "뒤",
+									"beginOffset": 265,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9811489,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "로",
+									"beginOffset": 266,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9956566,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "뒤",
+						"tagged": "뒤/NNG+로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "세상을",
+							"beginOffset": 268,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "세상",
+									"beginOffset": 268,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9807519,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 270,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9998671,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "세상",
+						"tagged": "세상/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "보는",
+							"beginOffset": 272,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "보",
+									"beginOffset": 272,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9815223,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 273,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999707,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "보",
+						"tagged": "보/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "눈이",
+							"beginOffset": 275,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "눈",
+									"beginOffset": 275,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.98513234,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 276,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9930772,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "눈",
+						"tagged": "눈/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "넓어졌으면",
+							"beginOffset": 278,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "넓어지",
+									"beginOffset": 278,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.9831751,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 280,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.999926,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으면",
+									"beginOffset": 281,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.996221,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "넓어지",
+						"tagged": "넓어지/VV+었/EP+으면/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "좋겠다.",
+							"beginOffset": 284,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "좋",
+									"beginOffset": 284,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9842543,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "겠",
+									"beginOffset": 285,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9999684,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 286,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.99115354,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 287,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9998657,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "좋",
+						"tagged": "좋/VA+겠/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "내가 성인이 되고 성장하면서 이런 부분을 생각하고 이 책을 읽은 뒤로 세상을 보는 눈이 넓어졌으면 좋겠다."
+			}
+		],
+		"language": "ko_KR"
+	},
+	"ttr": {
+		"lemma_Cnt": 149,
+		"lemma_TTR": 0.5448717948717948,
+		"CL_TTR": 0.6933333333333334,
+		"NL_TTR": 0.6585365853658537,
+		"NN_TTR": 0.7058823529411765,
+		"NNG_TTR": 0.6774193548387096,
+		"NNP_TTR": 0,
+		"NNB_TTR": 1.0,
+		"NP_TTR": 0.42857142857142855,
+		"NR_TTR": 0,
+		"VL_TTR": 0.7096774193548387,
+		"VV_TTR": 0.6818181818181818,
+		"VA_TTR": 1.0,
+		"ML_TTR": 1.0,
+		"MM_TTR": 0,
+		"MA_TTR": 1.0,
+		"MAJ_TTR": 1.0,
+		"IC_TTR": 0,
+		"FL_TTR": 0.45714285714285713,
+		"J_TTR": 0.41935483870967744,
+		"E_TTR": 0.5428571428571428,
+		"X_TTR": 0.75,
+		"lemma_RTTR": 6.805446536716203,
+		"CL_RTTR": 6.004442799572107,
+		"NL_RTTR": 4.216691570992364,
+		"NN_RTTR": 4.115966043420212,
+		"NNG_RTTR": 3.771711342562273,
+		"NNP_RTTR": 0,
+		"NNB_RTTR": 1.7320508075688774,
+		"NP_RTTR": 1.1338934190276817,
+		"NR_RTTR": 0,
+		"VL_RTTR": 3.951316644589048,
+		"VV_RTTR": 3.198010745334156,
+		"VA_RTTR": 2.0,
+		"ML_RTTR": 1.7320508075688774,
+		"MM_RTTR": 0,
+		"MA_RTTR": 1.7320508075688774,
+		"MAJ_RTTR": 1.414213562373095,
+		"IC_RTTR": 0,
+		"FL_RTTR": 3.8247315498700596,
+		"J_RTTR": 2.334868926348074,
+		"E_RTTR": 3.211586167968363,
+		"X_RTTR": 1.5,
+		"lemma_CTTR": 4.8121773951145315,
+		"CL_CTTR": 4.245782220824175,
+		"NL_CTTR": 2.9816512040208565,
+		"NN_CTTR": 2.9104275004359956,
+		"NNG_CTTR": 2.6670026670040006,
+		"NNP_CTTR": 0,
+		"NNB_CTTR": 1.2247448713915892,
+		"NP_CTTR": 0.8017837257372732,
+		"NR_CTTR": 0,
+		"VL_CTTR": 2.794002794004191,
+		"VV_CTTR": 2.2613350843332274,
+		"VA_CTTR": 1.414213562373095,
+		"ML_CTTR": 1.2247448713915892,
+		"MM_CTTR": 0,
+		"MA_CTTR": 1.2247448713915892,
+		"MAJ_CTTR": 1.0,
+		"IC_CTTR": 0,
+		"FL_CTTR": 2.704493615131253,
+		"J_CTTR": 1.6510016510024765,
+		"E_CTTR": 2.270934357735348,
+		"X_CTTR": 1.0606601717798212,
+		"lemma_MSTTR": 0.7266666666666666,
+		"CL_MSTTR": 0.7,
+		"NL_MSTTR": 0.6585365853658537,
+		"NN_MSTTR": 0.7058823529411765,
+		"NNG_MSTTR": 0.6774193548387096,
+		"NNP_MSTTR": 0,
+		"NNB_MSTTR": 1.0,
+		"NP_MSTTR": 0.42857142857142855,
+		"NR_MSTTR": 0,
+		"VL_MSTTR": 0.7096774193548387,
+		"VV_MSTTR": 0.6818181818181818,
+		"VA_MSTTR": 1.0,
+		"ML_MSTTR": 1.0,
+		"MM_MSTTR": 0,
+		"MA_MSTTR": 1.0,
+		"MAJ_MSTTR": 1.0,
+		"IC_MSTTR": 0,
+		"FL_MSTTR": 0.56,
+		"J_MSTTR": 0.41935483870967744,
+		"E_MSTTR": 0.5428571428571428,
+		"X_MSTTR": 0.75,
+		"lemma_MATTR": 0.7622429906542051,
+		"CL_MATTR": 0.7384615384615383,
+		"NL_MATTR": 0.6585365853658537,
+		"NN_MATTR": 0.7058823529411765,
+		"NNG_MATTR": 0.6774193548387096,
+		"NNP_MATTR": 0,
+		"NNB_MATTR": 1.0,
+		"NP_MATTR": 0.42857142857142855,
+		"NR_MATTR": 0,
+		"VL_MATTR": 0.7096774193548387,
+		"VV_MATTR": 0.6818181818181818,
+		"VA_MATTR": 1.0,
+		"ML_MATTR": 1.0,
+		"MM_MATTR": 0,
+		"MA_MATTR": 1.0,
+		"MAJ_MATTR": 1.0,
+		"IC_MATTR": 0,
+		"FL_MATTR": 0.5438095238095237,
+		"J_MATTR": 0.41935483870967744,
+		"E_MATTR": 0.5428571428571428,
+		"X_MATTR": 0.75,
+		"lemma_MTLD": 52.0,
+		"CL_MTLD": 59.375,
+		"NL_MTLD": 25.68539562289562,
+		"NN_MTLD": 26.74744027303754,
+		"NNG_MTLD": 24.724696356275302,
+		"NNP_MTLD": 0.0,
+		"NNB_MTLD": 0.0,
+		"NP_MTLD": 3.4300000000000006,
+		"NR_MTLD": 0.0,
+		"VL_MTLD": 20.43246729316381,
+		"VV_MTLD": 12.549410029498528,
+		"VA_MTLD": 0.0,
+		"ML_MTLD": 0.0,
+		"MM_MTLD": 0.0,
+		"MA_MTLD": 0.0,
+		"MAJ_MTLD": 0.0,
+		"IC_MTLD": 0.0,
+		"FL_MTLD": 23.333333333333332,
+		"J_MTLD": 9.487463126843657,
+		"E_MTLD": 17.5,
+		"X_MTLD": 4.48,
+		"lemma_VOCDD": 61.823958200921346,
+		"CL_VOCDD": 59.734663387178976,
+		"NL_VOCDD": 0,
+		"NN_VOCDD": 0,
+		"NNG_VOCDD": 0,
+		"NNP_VOCDD": 0,
+		"NNB_VOCDD": 0,
+		"NP_VOCDD": 0,
+		"NR_VOCDD": 0,
+		"VL_VOCDD": 0,
+		"VV_VOCDD": 0,
+		"VA_VOCDD": 0,
+		"ML_VOCDD": 0,
+		"MM_VOCDD": 0,
+		"MA_VOCDD": 0,
+		"MAJ_VOCDD": 0,
+		"IC_VOCDD": 0,
+		"FL_VOCDD": 17.02154908727208,
+		"J_VOCDD": 0,
+		"E_VOCDD": 0,
+		"X_VOCDD": 0,
+		"lemma_HDD": 0.7904045694389631,
+		"CL_HDD": 0.7831541207423895,
+		"NL_HDD": 0.0,
+		"NN_HDD": 0.0,
+		"NNG_HDD": 0.0,
+		"NNP_HDD": 0.0,
+		"NNB_HDD": 0.0,
+		"NP_HDD": 0.0,
+		"NR_HDD": 0.0,
+		"VL_HDD": 0.0,
+		"VV_HDD": 0.0,
+		"VA_HDD": 0.0,
+		"ML_HDD": 0.0,
+		"MM_HDD": 0.0,
+		"MA_HDD": 0.0,
+		"MAJ_HDD": 0.0,
+		"IC_HDD": 0.0,
+		"FL_HDD": 0.5825239874133831,
+		"J_HDD": 0.0,
+		"E_HDD": 0.0,
+		"X_HDD": 0.0
+	},
+	"similarity": {
+		"avgSentSimilarity": 0.22006861865520477,
+		"topicConsistency": 0.5382
+	},
+	"adjacency": {
+		"adjacent_sentence_overlap_all_lemmas": 93,
+		"adjacent_sentence_overlap_all_lemmas_normed": 5,
+		"binary_adjacent_sentence_overlap_all_lemmas": 5,
+		"adjacent_two_sentence_overlap_all_lemmas": 64,
+		"adjacent_two_sentence_overlap_all_lemmas_normed": 4,
+		"binary_adjacent_two_sentence_overlap_all_lemmas": 4,
+		"adjacent_sentence_overlap_content_lemmas": 47,
+		"adjacent_sentence_overlap_content_lemmas_normed": 5,
+		"binary_adjacent_sentence_overlap_content_lemmas": 5,
+		"adjacent_two_sentence_overlap_content_lemmas": 40,
+		"adjacent_two_sentence_overlap_content_lemmas_normed": 4,
+		"binary_adjacent_two_sentence_overlap_content_lemmas": 4,
+		"adjacent_sentence_overlap_function_lemmas": 37,
+		"adjacent_sentence_overlap_function_lemmas_normed": 5,
+		"binary_adjacent_sentence_overlap_function_lemmas": 5,
+		"adjacent_two_sentence_overlap_function_lemmas": 19,
+		"adjacent_two_sentence_overlap_function_lemmas_normed": 4,
+		"binary_adjacent_two_sentence_overlap_function_lemmas": 4,
+		"adjacent_sentence_overlap_noun_lemmas": 29,
+		"adjacent_sentence_overlap_noun_lemmas_normed": 5,
+		"binary_adjacent_sentence_overlap_noun_lemmas": 3,
+		"adjacent_two_sentence_overlap_noun_lemmas": 23,
+		"adjacent_two_sentence_overlap_noun_lemmas_normed": 4,
+		"binary_adjacent_two_sentence_overlap_noun_lemmas": 1,
+		"adjacent_sentence_overlap_verb_lemmas": 22,
+		"adjacent_sentence_overlap_verb_lemmas_normed": 5,
+		"binary_adjacent_sentence_overlap_verb_lemmas": 4,
+		"adjacent_two_sentence_overlap_verb_lemmas": 18,
+		"adjacent_two_sentence_overlap_verb_lemmas_normed": 4,
+		"binary_adjacent_two_sentence_overlap_verb_lemmas": 2,
+		"adjacent_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_sentence_overlap_adjective_lemmas_normed": 0,
+		"binary_adjacent_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_sentence_overlap_adverb_lemmas_normed": 0,
+		"binary_adjacent_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adverb_lemmas": 0
+	},
+	"basic_count": {
+		"para_Cnt": 1,
+		"sentence_Cnt": 6,
+		"word_Cnt": 73,
+		"morph_Cnt": 156,
+		"char_Cnt": 231,
+		"CL_Cnt": 75,
+		"NL_Cnt": 41,
+		"NN_Cnt": 34,
+		"NNG_Cnt": 31,
+		"NNP_Cnt": 0,
+		"NNB_Cnt": 3,
+		"NP_Cnt": 7,
+		"NP_People_Cnt": 5,
+		"NP_Things_Cnt": 0,
+		"NR_Cnt": 0,
+		"VL_Cnt": 31,
+		"VV_Cnt": 22,
+		"VA_Cnt": 4,
+		"VX_Cnt": 3,
+		"VCP_Cnt": 2,
+		"VCN_Cnt": 0,
+		"ML_Cnt": 3,
+		"MA_Cnt": 0,
+		"MM_Cnt": 0,
+		"FL_Cnt": 70,
+		"J_Cnt": 31,
+		"E_Cnt": 35,
+		"X_Cnt": 4,
+		"IC_Cnt": 0
+	},
+	"basic_density": {
+		"CL_Den": 0.4807692307692308,
+		"FL_Den": 0.44871794871794873,
+		"NL_Den": 0.21794871794871795,
+		"NNGL_Den": 0.1987179487179487,
+		"NNPL_Den": 0.0,
+		"NNBL_Den": 0.019230769230769232,
+		"NPL_Den": 0.04487179487179487,
+		"NML_Den": 0.0,
+		"VL_Den": 0.1987179487179487,
+		"VVL_Den": 0.14102564102564102,
+		"VAL_Den": 0.02564102564102564,
+		"ML_Den": 0.019230769230769232,
+		"MML_Den": 0.0,
+		"MAL_Den": 0.0,
+		"JL_Den": 0.1987179487179487,
+		"EL_Den": 0.22435897435897437,
+		"XL_Den": 0.02564102564102564,
+		"ITL_Den": 0.0,
+		"NCL_Den": 0.4533333333333333,
+		"NNCL_Den": 0.41333333333333333,
+		"NNGCL_Den": 0.0,
+		"NNBCL_Den": 0.04,
+		"NPCL_Den": 0.09333333333333334,
+		"NMCL_Den": 0.0,
+		"VCL_Den": 0.41333333333333333,
+		"VVCL_Den": 0.29333333333333333,
+		"VACL_Den": 0.05333333333333334,
+		"MCL_Den": 0.04,
+		"MMCL_Den": 0.0,
+		"MACL_Den": 0.0,
+		"INCL_Den": 0.0,
+		"JFL_Den": 0.44285714285714284,
+		"EFL_Den": 0.5,
+		"XFL_Den": 0.05714285714285714
+	},
+	"basic_level": {
+		"morph_LenAvg": 1.4615384615384615,
+		"morph_LenStd": 0.7015058471950999,
+		"word_LenAvg": 2.8767123287671232,
+		"word_LenStd": 1.2708017691297662
+	},
+	"basic_list": {
+		"NL_Lst": [
+			[
+				0,
+				"책",
+				"NNG",
+				"이 책은 지금의 우리 사회의 현실축소판을 담은 책이다."
+			],
+			[
+				1,
+				"지금",
+				"NNG",
+				"이 책은 지금의 우리 사회의 현실축소판을 담은 책이다."
+			],
+			[
+				2,
+				"우리",
+				"NP",
+				"이 책은 지금의 우리 사회의 현실축소판을 담은 책이다."
+			],
+			[
+				3,
+				"사회",
+				"NNG",
+				"이 책은 지금의 우리 사회의 현실축소판을 담은 책이다."
+			],
+			[
+				4,
+				"현실",
+				"NNG",
+				"이 책은 지금의 우리 사회의 현실축소판을 담은 책이다."
+			],
+			[
+				5,
+				"축소판",
+				"NNG",
+				"이 책은 지금의 우리 사회의 현실축소판을 담은 책이다."
+			],
+			[
+				6,
+				"책",
+				"NNG",
+				"이 책은 지금의 우리 사회의 현실축소판을 담은 책이다."
+			],
+			[
+				7,
+				"인구수",
+				"NNG",
+				"인구수를 100명으로 하여서 비교하기 쉽게 우리 사회의 현실을 설명해준다."
+			],
+			[
+				8,
+				"명",
+				"NNB",
+				"인구수를 100명으로 하여서 비교하기 쉽게 우리 사회의 현실을 설명해준다."
+			],
+			[
+				9,
+				"우리",
+				"NP",
+				"인구수를 100명으로 하여서 비교하기 쉽게 우리 사회의 현실을 설명해준다."
+			],
+			[
+				10,
+				"사회",
+				"NNG",
+				"인구수를 100명으로 하여서 비교하기 쉽게 우리 사회의 현실을 설명해준다."
+			],
+			[
+				11,
+				"현실",
+				"NNG",
+				"인구수를 100명으로 하여서 비교하기 쉽게 우리 사회의 현실을 설명해준다."
+			],
+			[
+				12,
+				"책",
+				"NNG",
+				"이 책을 토대로한 영상도 많이 봤다."
+			],
+			[
+				13,
+				"토대",
+				"NNG",
+				"이 책을 토대로한 영상도 많이 봤다."
+			],
+			[
+				14,
+				"영상",
+				"NNG",
+				"이 책을 토대로한 영상도 많이 봤다."
+			],
+			[
+				15,
+				"때",
+				"NNG",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				16,
+				"우리",
+				"NP",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				17,
+				"사회",
+				"NNG",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				18,
+				"노령",
+				"NNG",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				19,
+				"우리",
+				"NP",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				20,
+				"사회",
+				"NNG",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				21,
+				"병",
+				"NNG",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				22,
+				"거",
+				"NNB",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				23,
+				"빈민",
+				"NNG",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				24,
+				"중산",
+				"NNG",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				25,
+				"정규직",
+				"NNG",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				26,
+				"정규직",
+				"NNG",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				27,
+				"차이",
+				"NNG",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				28,
+				"수",
+				"NNB",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				29,
+				"이거",
+				"NP",
+				"이걸 보면서 우리 사회의 문제점과 해결해가야되는 부분을 알게 되었다."
+			],
+			[
+				30,
+				"우리",
+				"NP",
+				"이걸 보면서 우리 사회의 문제점과 해결해가야되는 부분을 알게 되었다."
+			],
+			[
+				31,
+				"사회",
+				"NNG",
+				"이걸 보면서 우리 사회의 문제점과 해결해가야되는 부분을 알게 되었다."
+			],
+			[
+				32,
+				"문제점",
+				"NNG",
+				"이걸 보면서 우리 사회의 문제점과 해결해가야되는 부분을 알게 되었다."
+			],
+			[
+				33,
+				"부분",
+				"NNG",
+				"이걸 보면서 우리 사회의 문제점과 해결해가야되는 부분을 알게 되었다."
+			],
+			[
+				34,
+				"내",
+				"NP",
+				"내가 성인이 되고 성장하면서 이런 부분을 생각하고 이 책을 읽은 뒤로 세상을 보는 눈이 넓어졌으면 좋겠다."
+			],
+			[
+				35,
+				"성인",
+				"NNG",
+				"내가 성인이 되고 성장하면서 이런 부분을 생각하고 이 책을 읽은 뒤로 세상을 보는 눈이 넓어졌으면 좋겠다."
+			],
+			[
+				36,
+				"부분",
+				"NNG",
+				"내가 성인이 되고 성장하면서 이런 부분을 생각하고 이 책을 읽은 뒤로 세상을 보는 눈이 넓어졌으면 좋겠다."
+			],
+			[
+				37,
+				"책",
+				"NNG",
+				"내가 성인이 되고 성장하면서 이런 부분을 생각하고 이 책을 읽은 뒤로 세상을 보는 눈이 넓어졌으면 좋겠다."
+			],
+			[
+				38,
+				"뒤",
+				"NNG",
+				"내가 성인이 되고 성장하면서 이런 부분을 생각하고 이 책을 읽은 뒤로 세상을 보는 눈이 넓어졌으면 좋겠다."
+			],
+			[
+				39,
+				"세상",
+				"NNG",
+				"내가 성인이 되고 성장하면서 이런 부분을 생각하고 이 책을 읽은 뒤로 세상을 보는 눈이 넓어졌으면 좋겠다."
+			],
+			[
+				40,
+				"눈",
+				"NNG",
+				"내가 성인이 되고 성장하면서 이런 부분을 생각하고 이 책을 읽은 뒤로 세상을 보는 눈이 넓어졌으면 좋겠다."
+			]
+		],
+		"NN_Lst": [
+			[
+				0,
+				"책",
+				"NNG",
+				"이 책은 지금의 우리 사회의 현실축소판을 담은 책이다."
+			],
+			[
+				1,
+				"지금",
+				"NNG",
+				"이 책은 지금의 우리 사회의 현실축소판을 담은 책이다."
+			],
+			[
+				2,
+				"사회",
+				"NNG",
+				"이 책은 지금의 우리 사회의 현실축소판을 담은 책이다."
+			],
+			[
+				3,
+				"현실",
+				"NNG",
+				"이 책은 지금의 우리 사회의 현실축소판을 담은 책이다."
+			],
+			[
+				4,
+				"축소판",
+				"NNG",
+				"이 책은 지금의 우리 사회의 현실축소판을 담은 책이다."
+			],
+			[
+				5,
+				"책",
+				"NNG",
+				"이 책은 지금의 우리 사회의 현실축소판을 담은 책이다."
+			],
+			[
+				6,
+				"인구수",
+				"NNG",
+				"인구수를 100명으로 하여서 비교하기 쉽게 우리 사회의 현실을 설명해준다."
+			],
+			[
+				7,
+				"명",
+				"NNB",
+				"인구수를 100명으로 하여서 비교하기 쉽게 우리 사회의 현실을 설명해준다."
+			],
+			[
+				8,
+				"사회",
+				"NNG",
+				"인구수를 100명으로 하여서 비교하기 쉽게 우리 사회의 현실을 설명해준다."
+			],
+			[
+				9,
+				"현실",
+				"NNG",
+				"인구수를 100명으로 하여서 비교하기 쉽게 우리 사회의 현실을 설명해준다."
+			],
+			[
+				10,
+				"책",
+				"NNG",
+				"이 책을 토대로한 영상도 많이 봤다."
+			],
+			[
+				11,
+				"토대",
+				"NNG",
+				"이 책을 토대로한 영상도 많이 봤다."
+			],
+			[
+				12,
+				"영상",
+				"NNG",
+				"이 책을 토대로한 영상도 많이 봤다."
+			],
+			[
+				13,
+				"때",
+				"NNG",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				14,
+				"사회",
+				"NNG",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				15,
+				"노령",
+				"NNG",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				16,
+				"사회",
+				"NNG",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				17,
+				"병",
+				"NNG",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				18,
+				"거",
+				"NNB",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				19,
+				"빈민",
+				"NNG",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				20,
+				"중산",
+				"NNG",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				21,
+				"정규직",
+				"NNG",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				22,
+				"정규직",
+				"NNG",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				23,
+				"차이",
+				"NNG",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				24,
+				"수",
+				"NNB",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				25,
+				"사회",
+				"NNG",
+				"이걸 보면서 우리 사회의 문제점과 해결해가야되는 부분을 알게 되었다."
+			],
+			[
+				26,
+				"문제점",
+				"NNG",
+				"이걸 보면서 우리 사회의 문제점과 해결해가야되는 부분을 알게 되었다."
+			],
+			[
+				27,
+				"부분",
+				"NNG",
+				"이걸 보면서 우리 사회의 문제점과 해결해가야되는 부분을 알게 되었다."
+			],
+			[
+				28,
+				"성인",
+				"NNG",
+				"내가 성인이 되고 성장하면서 이런 부분을 생각하고 이 책을 읽은 뒤로 세상을 보는 눈이 넓어졌으면 좋겠다."
+			],
+			[
+				29,
+				"부분",
+				"NNG",
+				"내가 성인이 되고 성장하면서 이런 부분을 생각하고 이 책을 읽은 뒤로 세상을 보는 눈이 넓어졌으면 좋겠다."
+			],
+			[
+				30,
+				"책",
+				"NNG",
+				"내가 성인이 되고 성장하면서 이런 부분을 생각하고 이 책을 읽은 뒤로 세상을 보는 눈이 넓어졌으면 좋겠다."
+			],
+			[
+				31,
+				"뒤",
+				"NNG",
+				"내가 성인이 되고 성장하면서 이런 부분을 생각하고 이 책을 읽은 뒤로 세상을 보는 눈이 넓어졌으면 좋겠다."
+			],
+			[
+				32,
+				"세상",
+				"NNG",
+				"내가 성인이 되고 성장하면서 이런 부분을 생각하고 이 책을 읽은 뒤로 세상을 보는 눈이 넓어졌으면 좋겠다."
+			],
+			[
+				33,
+				"눈",
+				"NNG",
+				"내가 성인이 되고 성장하면서 이런 부분을 생각하고 이 책을 읽은 뒤로 세상을 보는 눈이 넓어졌으면 좋겠다."
+			]
+		],
+		"NNG_Lst": [
+			[
+				0,
+				"책",
+				"NNG",
+				"이 책은 지금의 우리 사회의 현실축소판을 담은 책이다."
+			],
+			[
+				1,
+				"지금",
+				"NNG",
+				"이 책은 지금의 우리 사회의 현실축소판을 담은 책이다."
+			],
+			[
+				2,
+				"사회",
+				"NNG",
+				"이 책은 지금의 우리 사회의 현실축소판을 담은 책이다."
+			],
+			[
+				3,
+				"현실",
+				"NNG",
+				"이 책은 지금의 우리 사회의 현실축소판을 담은 책이다."
+			],
+			[
+				4,
+				"축소판",
+				"NNG",
+				"이 책은 지금의 우리 사회의 현실축소판을 담은 책이다."
+			],
+			[
+				5,
+				"책",
+				"NNG",
+				"이 책은 지금의 우리 사회의 현실축소판을 담은 책이다."
+			],
+			[
+				6,
+				"인구수",
+				"NNG",
+				"인구수를 100명으로 하여서 비교하기 쉽게 우리 사회의 현실을 설명해준다."
+			],
+			[
+				7,
+				"사회",
+				"NNG",
+				"인구수를 100명으로 하여서 비교하기 쉽게 우리 사회의 현실을 설명해준다."
+			],
+			[
+				8,
+				"현실",
+				"NNG",
+				"인구수를 100명으로 하여서 비교하기 쉽게 우리 사회의 현실을 설명해준다."
+			],
+			[
+				9,
+				"책",
+				"NNG",
+				"이 책을 토대로한 영상도 많이 봤다."
+			],
+			[
+				10,
+				"토대",
+				"NNG",
+				"이 책을 토대로한 영상도 많이 봤다."
+			],
+			[
+				11,
+				"영상",
+				"NNG",
+				"이 책을 토대로한 영상도 많이 봤다."
+			],
+			[
+				12,
+				"때",
+				"NNG",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				13,
+				"사회",
+				"NNG",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				14,
+				"노령",
+				"NNG",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				15,
+				"사회",
+				"NNG",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				16,
+				"병",
+				"NNG",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				17,
+				"빈민",
+				"NNG",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				18,
+				"중산",
+				"NNG",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				19,
+				"정규직",
+				"NNG",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				20,
+				"정규직",
+				"NNG",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				21,
+				"차이",
+				"NNG",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				22,
+				"사회",
+				"NNG",
+				"이걸 보면서 우리 사회의 문제점과 해결해가야되는 부분을 알게 되었다."
+			],
+			[
+				23,
+				"문제점",
+				"NNG",
+				"이걸 보면서 우리 사회의 문제점과 해결해가야되는 부분을 알게 되었다."
+			],
+			[
+				24,
+				"부분",
+				"NNG",
+				"이걸 보면서 우리 사회의 문제점과 해결해가야되는 부분을 알게 되었다."
+			],
+			[
+				25,
+				"성인",
+				"NNG",
+				"내가 성인이 되고 성장하면서 이런 부분을 생각하고 이 책을 읽은 뒤로 세상을 보는 눈이 넓어졌으면 좋겠다."
+			],
+			[
+				26,
+				"부분",
+				"NNG",
+				"내가 성인이 되고 성장하면서 이런 부분을 생각하고 이 책을 읽은 뒤로 세상을 보는 눈이 넓어졌으면 좋겠다."
+			],
+			[
+				27,
+				"책",
+				"NNG",
+				"내가 성인이 되고 성장하면서 이런 부분을 생각하고 이 책을 읽은 뒤로 세상을 보는 눈이 넓어졌으면 좋겠다."
+			],
+			[
+				28,
+				"뒤",
+				"NNG",
+				"내가 성인이 되고 성장하면서 이런 부분을 생각하고 이 책을 읽은 뒤로 세상을 보는 눈이 넓어졌으면 좋겠다."
+			],
+			[
+				29,
+				"세상",
+				"NNG",
+				"내가 성인이 되고 성장하면서 이런 부분을 생각하고 이 책을 읽은 뒤로 세상을 보는 눈이 넓어졌으면 좋겠다."
+			],
+			[
+				30,
+				"눈",
+				"NNG",
+				"내가 성인이 되고 성장하면서 이런 부분을 생각하고 이 책을 읽은 뒤로 세상을 보는 눈이 넓어졌으면 좋겠다."
+			]
+		],
+		"NNP_Lst": [],
+		"NNB_Lst": [
+			[
+				0,
+				"명",
+				"NNB",
+				"인구수를 100명으로 하여서 비교하기 쉽게 우리 사회의 현실을 설명해준다."
+			],
+			[
+				1,
+				"거",
+				"NNB",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				2,
+				"수",
+				"NNB",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			]
+		],
+		"NP_Lst": [
+			[
+				0,
+				"우리",
+				"NP",
+				"이 책은 지금의 우리 사회의 현실축소판을 담은 책이다."
+			],
+			[
+				1,
+				"우리",
+				"NP",
+				"인구수를 100명으로 하여서 비교하기 쉽게 우리 사회의 현실을 설명해준다."
+			],
+			[
+				2,
+				"우리",
+				"NP",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				3,
+				"우리",
+				"NP",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				4,
+				"이거",
+				"NP",
+				"이걸 보면서 우리 사회의 문제점과 해결해가야되는 부분을 알게 되었다."
+			],
+			[
+				5,
+				"우리",
+				"NP",
+				"이걸 보면서 우리 사회의 문제점과 해결해가야되는 부분을 알게 되었다."
+			],
+			[
+				6,
+				"내",
+				"NP",
+				"내가 성인이 되고 성장하면서 이런 부분을 생각하고 이 책을 읽은 뒤로 세상을 보는 눈이 넓어졌으면 좋겠다."
+			]
+		],
+		"NP_People_Lst": [
+			[
+				0,
+				"우리",
+				"NP",
+				"이 책은 지금의 우리 사회의 현실축소판을 담은 책이다."
+			],
+			[
+				1,
+				"우리",
+				"NP",
+				"인구수를 100명으로 하여서 비교하기 쉽게 우리 사회의 현실을 설명해준다."
+			],
+			[
+				2,
+				"우리",
+				"NP",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				3,
+				"우리",
+				"NP",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				4,
+				"우리",
+				"NP",
+				"이걸 보면서 우리 사회의 문제점과 해결해가야되는 부분을 알게 되었다."
+			]
+		],
+		"NP_Things_Lst": [],
+		"NR_Lst": [],
+		"VL_Lst": [
+			[
+				0,
+				"담",
+				"VV",
+				"이 책은 지금의 우리 사회의 현실축소판을 담은 책이다."
+			],
+			[
+				1,
+				"이",
+				"VCP",
+				"이 책은 지금의 우리 사회의 현실축소판을 담은 책이다."
+			],
+			[
+				2,
+				"하",
+				"VV",
+				"인구수를 100명으로 하여서 비교하기 쉽게 우리 사회의 현실을 설명해준다."
+			],
+			[
+				3,
+				"비교하",
+				"VV",
+				"인구수를 100명으로 하여서 비교하기 쉽게 우리 사회의 현실을 설명해준다."
+			],
+			[
+				4,
+				"쉽",
+				"VA",
+				"인구수를 100명으로 하여서 비교하기 쉽게 우리 사회의 현실을 설명해준다."
+			],
+			[
+				5,
+				"설명하",
+				"VV",
+				"인구수를 100명으로 하여서 비교하기 쉽게 우리 사회의 현실을 설명해준다."
+			],
+			[
+				6,
+				"주",
+				"VX",
+				"인구수를 100명으로 하여서 비교하기 쉽게 우리 사회의 현실을 설명해준다."
+			],
+			[
+				7,
+				"하",
+				"VV",
+				"이 책을 토대로한 영상도 많이 봤다."
+			],
+			[
+				8,
+				"보",
+				"VV",
+				"이 책을 토대로한 영상도 많이 봤다."
+			],
+			[
+				9,
+				"보",
+				"VV",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				10,
+				"가속화되",
+				"VV",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				11,
+				"이",
+				"VCP",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				12,
+				"들어가",
+				"VV",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				13,
+				"있",
+				"VX",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				14,
+				"느끼",
+				"VV",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				15,
+				"확실하",
+				"VA",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				16,
+				"느끼",
+				"VV",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				17,
+				"있",
+				"VA",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				18,
+				"보",
+				"VV",
+				"이걸 보면서 우리 사회의 문제점과 해결해가야되는 부분을 알게 되었다."
+			],
+			[
+				19,
+				"해결하",
+				"VV",
+				"이걸 보면서 우리 사회의 문제점과 해결해가야되는 부분을 알게 되었다."
+			],
+			[
+				20,
+				"가",
+				"VX",
+				"이걸 보면서 우리 사회의 문제점과 해결해가야되는 부분을 알게 되었다."
+			],
+			[
+				21,
+				"되",
+				"VV",
+				"이걸 보면서 우리 사회의 문제점과 해결해가야되는 부분을 알게 되었다."
+			],
+			[
+				22,
+				"알",
+				"VV",
+				"이걸 보면서 우리 사회의 문제점과 해결해가야되는 부분을 알게 되었다."
+			],
+			[
+				23,
+				"되",
+				"VV",
+				"이걸 보면서 우리 사회의 문제점과 해결해가야되는 부분을 알게 되었다."
+			],
+			[
+				24,
+				"되",
+				"VV",
+				"내가 성인이 되고 성장하면서 이런 부분을 생각하고 이 책을 읽은 뒤로 세상을 보는 눈이 넓어졌으면 좋겠다."
+			],
+			[
+				25,
+				"성장하",
+				"VV",
+				"내가 성인이 되고 성장하면서 이런 부분을 생각하고 이 책을 읽은 뒤로 세상을 보는 눈이 넓어졌으면 좋겠다."
+			],
+			[
+				26,
+				"생각하",
+				"VV",
+				"내가 성인이 되고 성장하면서 이런 부분을 생각하고 이 책을 읽은 뒤로 세상을 보는 눈이 넓어졌으면 좋겠다."
+			],
+			[
+				27,
+				"읽",
+				"VV",
+				"내가 성인이 되고 성장하면서 이런 부분을 생각하고 이 책을 읽은 뒤로 세상을 보는 눈이 넓어졌으면 좋겠다."
+			],
+			[
+				28,
+				"보",
+				"VV",
+				"내가 성인이 되고 성장하면서 이런 부분을 생각하고 이 책을 읽은 뒤로 세상을 보는 눈이 넓어졌으면 좋겠다."
+			],
+			[
+				29,
+				"넓어지",
+				"VV",
+				"내가 성인이 되고 성장하면서 이런 부분을 생각하고 이 책을 읽은 뒤로 세상을 보는 눈이 넓어졌으면 좋겠다."
+			],
+			[
+				30,
+				"좋",
+				"VA",
+				"내가 성인이 되고 성장하면서 이런 부분을 생각하고 이 책을 읽은 뒤로 세상을 보는 눈이 넓어졌으면 좋겠다."
+			]
+		],
+		"VV_Lst": [
+			[
+				0,
+				"담",
+				"VV",
+				"이 책은 지금의 우리 사회의 현실축소판을 담은 책이다."
+			],
+			[
+				1,
+				"하",
+				"VV",
+				"인구수를 100명으로 하여서 비교하기 쉽게 우리 사회의 현실을 설명해준다."
+			],
+			[
+				2,
+				"비교하",
+				"VV",
+				"인구수를 100명으로 하여서 비교하기 쉽게 우리 사회의 현실을 설명해준다."
+			],
+			[
+				3,
+				"설명하",
+				"VV",
+				"인구수를 100명으로 하여서 비교하기 쉽게 우리 사회의 현실을 설명해준다."
+			],
+			[
+				4,
+				"하",
+				"VV",
+				"이 책을 토대로한 영상도 많이 봤다."
+			],
+			[
+				5,
+				"보",
+				"VV",
+				"이 책을 토대로한 영상도 많이 봤다."
+			],
+			[
+				6,
+				"보",
+				"VV",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				7,
+				"가속화되",
+				"VV",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				8,
+				"들어가",
+				"VV",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				9,
+				"느끼",
+				"VV",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				10,
+				"느끼",
+				"VV",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				11,
+				"보",
+				"VV",
+				"이걸 보면서 우리 사회의 문제점과 해결해가야되는 부분을 알게 되었다."
+			],
+			[
+				12,
+				"해결하",
+				"VV",
+				"이걸 보면서 우리 사회의 문제점과 해결해가야되는 부분을 알게 되었다."
+			],
+			[
+				13,
+				"되",
+				"VV",
+				"이걸 보면서 우리 사회의 문제점과 해결해가야되는 부분을 알게 되었다."
+			],
+			[
+				14,
+				"알",
+				"VV",
+				"이걸 보면서 우리 사회의 문제점과 해결해가야되는 부분을 알게 되었다."
+			],
+			[
+				15,
+				"되",
+				"VV",
+				"이걸 보면서 우리 사회의 문제점과 해결해가야되는 부분을 알게 되었다."
+			],
+			[
+				16,
+				"되",
+				"VV",
+				"내가 성인이 되고 성장하면서 이런 부분을 생각하고 이 책을 읽은 뒤로 세상을 보는 눈이 넓어졌으면 좋겠다."
+			],
+			[
+				17,
+				"성장하",
+				"VV",
+				"내가 성인이 되고 성장하면서 이런 부분을 생각하고 이 책을 읽은 뒤로 세상을 보는 눈이 넓어졌으면 좋겠다."
+			],
+			[
+				18,
+				"생각하",
+				"VV",
+				"내가 성인이 되고 성장하면서 이런 부분을 생각하고 이 책을 읽은 뒤로 세상을 보는 눈이 넓어졌으면 좋겠다."
+			],
+			[
+				19,
+				"읽",
+				"VV",
+				"내가 성인이 되고 성장하면서 이런 부분을 생각하고 이 책을 읽은 뒤로 세상을 보는 눈이 넓어졌으면 좋겠다."
+			],
+			[
+				20,
+				"보",
+				"VV",
+				"내가 성인이 되고 성장하면서 이런 부분을 생각하고 이 책을 읽은 뒤로 세상을 보는 눈이 넓어졌으면 좋겠다."
+			],
+			[
+				21,
+				"넓어지",
+				"VV",
+				"내가 성인이 되고 성장하면서 이런 부분을 생각하고 이 책을 읽은 뒤로 세상을 보는 눈이 넓어졌으면 좋겠다."
+			]
+		],
+		"VA_Lst": [
+			[
+				0,
+				"쉽",
+				"VA",
+				"인구수를 100명으로 하여서 비교하기 쉽게 우리 사회의 현실을 설명해준다."
+			],
+			[
+				1,
+				"확실하",
+				"VA",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				2,
+				"있",
+				"VA",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				3,
+				"좋",
+				"VA",
+				"내가 성인이 되고 성장하면서 이런 부분을 생각하고 이 책을 읽은 뒤로 세상을 보는 눈이 넓어졌으면 좋겠다."
+			]
+		],
+		"VX_Lst": [
+			[
+				0,
+				"주",
+				"VX",
+				"인구수를 100명으로 하여서 비교하기 쉽게 우리 사회의 현실을 설명해준다."
+			],
+			[
+				1,
+				"있",
+				"VX",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				2,
+				"가",
+				"VX",
+				"이걸 보면서 우리 사회의 문제점과 해결해가야되는 부분을 알게 되었다."
+			]
+		],
+		"VCP_Lst": [
+			[
+				0,
+				"이",
+				"VCP",
+				"이 책은 지금의 우리 사회의 현실축소판을 담은 책이다."
+			],
+			[
+				1,
+				"이",
+				"VCP",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			]
+		],
+		"VCN_Lst": [],
+		"ML_Lst": [
+			[
+				0,
+				"많이",
+				"MAG",
+				"이 책을 토대로한 영상도 많이 봤다."
+			],
+			[
+				1,
+				"하지만",
+				"MAJ",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				2,
+				"그리고",
+				"MAJ",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			]
+		],
+		"MA_Lst": [],
+		"MM_Lst": [],
+		"J_Lst": [
+			[
+				0,
+				"은",
+				"JX",
+				"이 책은 지금의 우리 사회의 현실축소판을 담은 책이다."
+			],
+			[
+				1,
+				"의",
+				"JKG",
+				"이 책은 지금의 우리 사회의 현실축소판을 담은 책이다."
+			],
+			[
+				2,
+				"의",
+				"JKG",
+				"이 책은 지금의 우리 사회의 현실축소판을 담은 책이다."
+			],
+			[
+				3,
+				"을",
+				"JKO",
+				"이 책은 지금의 우리 사회의 현실축소판을 담은 책이다."
+			],
+			[
+				4,
+				"를",
+				"JKO",
+				"인구수를 100명으로 하여서 비교하기 쉽게 우리 사회의 현실을 설명해준다."
+			],
+			[
+				5,
+				"으로",
+				"JKB",
+				"인구수를 100명으로 하여서 비교하기 쉽게 우리 사회의 현실을 설명해준다."
+			],
+			[
+				6,
+				"의",
+				"JKG",
+				"인구수를 100명으로 하여서 비교하기 쉽게 우리 사회의 현실을 설명해준다."
+			],
+			[
+				7,
+				"을",
+				"JKO",
+				"인구수를 100명으로 하여서 비교하기 쉽게 우리 사회의 현실을 설명해준다."
+			],
+			[
+				8,
+				"을",
+				"JKO",
+				"이 책을 토대로한 영상도 많이 봤다."
+			],
+			[
+				9,
+				"로",
+				"JKB",
+				"이 책을 토대로한 영상도 많이 봤다."
+			],
+			[
+				10,
+				"도",
+				"JX",
+				"이 책을 토대로한 영상도 많이 봤다."
+			],
+			[
+				11,
+				"마다",
+				"JX",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				12,
+				"의",
+				"JKG",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				13,
+				"는",
+				"JX",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				14,
+				"가",
+				"JKS",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				15,
+				"ㄹ",
+				"JKO",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				16,
+				"과",
+				"JC",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				17,
+				"과",
+				"JC",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				18,
+				"의",
+				"JKG",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				19,
+				"를",
+				"JKO",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				20,
+				"ㄹ",
+				"JKO",
+				"이걸 보면서 우리 사회의 문제점과 해결해가야되는 부분을 알게 되었다."
+			],
+			[
+				21,
+				"의",
+				"JKG",
+				"이걸 보면서 우리 사회의 문제점과 해결해가야되는 부분을 알게 되었다."
+			],
+			[
+				22,
+				"과",
+				"JC",
+				"이걸 보면서 우리 사회의 문제점과 해결해가야되는 부분을 알게 되었다."
+			],
+			[
+				23,
+				"을",
+				"JKO",
+				"이걸 보면서 우리 사회의 문제점과 해결해가야되는 부분을 알게 되었다."
+			],
+			[
+				24,
+				"가",
+				"JKS",
+				"내가 성인이 되고 성장하면서 이런 부분을 생각하고 이 책을 읽은 뒤로 세상을 보는 눈이 넓어졌으면 좋겠다."
+			],
+			[
+				25,
+				"이",
+				"JKC",
+				"내가 성인이 되고 성장하면서 이런 부분을 생각하고 이 책을 읽은 뒤로 세상을 보는 눈이 넓어졌으면 좋겠다."
+			],
+			[
+				26,
+				"을",
+				"JKO",
+				"내가 성인이 되고 성장하면서 이런 부분을 생각하고 이 책을 읽은 뒤로 세상을 보는 눈이 넓어졌으면 좋겠다."
+			],
+			[
+				27,
+				"을",
+				"JKO",
+				"내가 성인이 되고 성장하면서 이런 부분을 생각하고 이 책을 읽은 뒤로 세상을 보는 눈이 넓어졌으면 좋겠다."
+			],
+			[
+				28,
+				"로",
+				"JKB",
+				"내가 성인이 되고 성장하면서 이런 부분을 생각하고 이 책을 읽은 뒤로 세상을 보는 눈이 넓어졌으면 좋겠다."
+			],
+			[
+				29,
+				"을",
+				"JKO",
+				"내가 성인이 되고 성장하면서 이런 부분을 생각하고 이 책을 읽은 뒤로 세상을 보는 눈이 넓어졌으면 좋겠다."
+			],
+			[
+				30,
+				"이",
+				"JKS",
+				"내가 성인이 되고 성장하면서 이런 부분을 생각하고 이 책을 읽은 뒤로 세상을 보는 눈이 넓어졌으면 좋겠다."
+			]
+		],
+		"E_Lst": [
+			[
+				0,
+				"은",
+				"ETM",
+				"이 책은 지금의 우리 사회의 현실축소판을 담은 책이다."
+			],
+			[
+				1,
+				"다",
+				"EF",
+				"이 책은 지금의 우리 사회의 현실축소판을 담은 책이다."
+			],
+			[
+				2,
+				"아서",
+				"EC",
+				"인구수를 100명으로 하여서 비교하기 쉽게 우리 사회의 현실을 설명해준다."
+			],
+			[
+				3,
+				"기",
+				"ETN",
+				"인구수를 100명으로 하여서 비교하기 쉽게 우리 사회의 현실을 설명해준다."
+			],
+			[
+				4,
+				"게",
+				"EC",
+				"인구수를 100명으로 하여서 비교하기 쉽게 우리 사회의 현실을 설명해준다."
+			],
+			[
+				5,
+				"아",
+				"EC",
+				"인구수를 100명으로 하여서 비교하기 쉽게 우리 사회의 현실을 설명해준다."
+			],
+			[
+				6,
+				"ㄴ다",
+				"EF",
+				"인구수를 100명으로 하여서 비교하기 쉽게 우리 사회의 현실을 설명해준다."
+			],
+			[
+				7,
+				"ㄴ",
+				"ETM",
+				"이 책을 토대로한 영상도 많이 봤다."
+			],
+			[
+				8,
+				"았",
+				"EP",
+				"이 책을 토대로한 영상도 많이 봤다."
+			],
+			[
+				9,
+				"다",
+				"EF",
+				"이 책을 토대로한 영상도 많이 봤다."
+			],
+			[
+				10,
+				"ㄹ",
+				"ETM",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				11,
+				"며",
+				"EC",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				12,
+				"고",
+				"EC",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				13,
+				"고",
+				"EC",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				14,
+				"다는",
+				"ETM",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				15,
+				"고",
+				"EC",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				16,
+				"게",
+				"EC",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				17,
+				"ㄹ",
+				"ETM",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				18,
+				"다",
+				"EF",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				19,
+				"면서",
+				"EC",
+				"이걸 보면서 우리 사회의 문제점과 해결해가야되는 부분을 알게 되었다."
+			],
+			[
+				20,
+				"아",
+				"EC",
+				"이걸 보면서 우리 사회의 문제점과 해결해가야되는 부분을 알게 되었다."
+			],
+			[
+				21,
+				"아야",
+				"EC",
+				"이걸 보면서 우리 사회의 문제점과 해결해가야되는 부분을 알게 되었다."
+			],
+			[
+				22,
+				"는",
+				"ETM",
+				"이걸 보면서 우리 사회의 문제점과 해결해가야되는 부분을 알게 되었다."
+			],
+			[
+				23,
+				"게",
+				"EC",
+				"이걸 보면서 우리 사회의 문제점과 해결해가야되는 부분을 알게 되었다."
+			],
+			[
+				24,
+				"었",
+				"EP",
+				"이걸 보면서 우리 사회의 문제점과 해결해가야되는 부분을 알게 되었다."
+			],
+			[
+				25,
+				"다",
+				"EF",
+				"이걸 보면서 우리 사회의 문제점과 해결해가야되는 부분을 알게 되었다."
+			],
+			[
+				26,
+				"고",
+				"EC",
+				"내가 성인이 되고 성장하면서 이런 부분을 생각하고 이 책을 읽은 뒤로 세상을 보는 눈이 넓어졌으면 좋겠다."
+			],
+			[
+				27,
+				"면서",
+				"EC",
+				"내가 성인이 되고 성장하면서 이런 부분을 생각하고 이 책을 읽은 뒤로 세상을 보는 눈이 넓어졌으면 좋겠다."
+			],
+			[
+				28,
+				"고",
+				"EC",
+				"내가 성인이 되고 성장하면서 이런 부분을 생각하고 이 책을 읽은 뒤로 세상을 보는 눈이 넓어졌으면 좋겠다."
+			],
+			[
+				29,
+				"은",
+				"ETM",
+				"내가 성인이 되고 성장하면서 이런 부분을 생각하고 이 책을 읽은 뒤로 세상을 보는 눈이 넓어졌으면 좋겠다."
+			],
+			[
+				30,
+				"는",
+				"ETM",
+				"내가 성인이 되고 성장하면서 이런 부분을 생각하고 이 책을 읽은 뒤로 세상을 보는 눈이 넓어졌으면 좋겠다."
+			],
+			[
+				31,
+				"었",
+				"EP",
+				"내가 성인이 되고 성장하면서 이런 부분을 생각하고 이 책을 읽은 뒤로 세상을 보는 눈이 넓어졌으면 좋겠다."
+			],
+			[
+				32,
+				"으면",
+				"EC",
+				"내가 성인이 되고 성장하면서 이런 부분을 생각하고 이 책을 읽은 뒤로 세상을 보는 눈이 넓어졌으면 좋겠다."
+			],
+			[
+				33,
+				"겠",
+				"EP",
+				"내가 성인이 되고 성장하면서 이런 부분을 생각하고 이 책을 읽은 뒤로 세상을 보는 눈이 넓어졌으면 좋겠다."
+			],
+			[
+				34,
+				"다",
+				"EF",
+				"내가 성인이 되고 성장하면서 이런 부분을 생각하고 이 책을 읽은 뒤로 세상을 보는 눈이 넓어졌으면 좋겠다."
+			]
+		],
+		"X_Lst": [
+			[
+				0,
+				"화",
+				"XSN",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				1,
+				"층",
+				"XSN",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				2,
+				"층",
+				"XSN",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			],
+			[
+				3,
+				"비",
+				"XPN",
+				"하지만 볼 때 마다 우리의 사회는 노령화가 가속화되며 우리 사회고 병 들어가고 있다는 걸 느끼고 빈민층과 중산층 그리고 비정규직과 정규직의 차이를 확실하게 느낄 수 있다."
+			]
+		],
+		"IC_Lst": []
+	},
+	"NDW": {
+		"morph_NDW": 93,
+		"NL_NDW": 41,
+		"NNG_NDW": 31,
+		"NNP_NDW": 0,
+		"NNB_NDW": 3,
+		"NP_NDW": 7,
+		"NR_NDW": 0,
+		"VL_NDW": 31,
+		"VV_NDW": 22,
+		"VA_NDW": 4,
+		"ML_NDW": 3,
+		"MM_NDW": 0,
+		"IC_NDW": 0,
+		"J_NDW": 31,
+		"E_NDW": 35,
+		"X_NDW": 4,
+		"CL_NDW": 75,
+		"FL_NDW": 70
+	}
+}

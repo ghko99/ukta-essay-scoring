@@ -1,0 +1,3455 @@
+﻿{
+	"morpheme": {
+		"sentences": [
+			{
+				"text": {
+					"content": "\"가족들과 상담을 해서 심각성을 이야기했는데도 데리고 갈 생각을 안 합니다.",
+					"length": 42,
+					"beginOffset": 0
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "\"가족들과",
+							"length": 5,
+							"beginOffset": 0
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "\"",
+									"length": 1,
+									"beginOffset": 0
+								},
+								"tag": "SS",
+								"probability": 0.99959797,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가족",
+									"beginOffset": 1,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98489994,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "들",
+									"beginOffset": 3,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.99046874,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "과",
+									"beginOffset": 4,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.94896144,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "\"",
+						"tagged": "\"/SS+가족/NNG+들/XSN+과/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "상담을",
+							"beginOffset": 6,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "상담",
+									"beginOffset": 6,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97503895,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 8,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99996454,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "상담",
+						"tagged": "상담/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "해서",
+							"beginOffset": 10,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 10,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.96065265,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아서",
+									"beginOffset": 10,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99507314,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VV+아서/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "심각성을",
+							"beginOffset": 13,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "심각성",
+									"beginOffset": 13,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.97958285,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 16,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99997663,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "심각성",
+						"tagged": "심각성/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이야기했는데도",
+							"beginOffset": 18,
+							"length": 7
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이야기하",
+									"beginOffset": 18,
+									"length": 4
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 21,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9999846,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는데",
+									"beginOffset": 22,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99450076,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 24,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9994245,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이야기하",
+						"tagged": "이야기하/VV+았/EP+는데/EC+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "데리고",
+							"beginOffset": 26,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "데리",
+									"beginOffset": 26,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.98111737,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 28,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99443907,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "데리",
+						"tagged": "데리/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "갈",
+							"beginOffset": 30,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 30,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.61594605,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ",
+									"beginOffset": 30,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9998186,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "가",
+						"tagged": "가/VV+ㄹ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "생각을",
+							"beginOffset": 32,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "생각",
+									"beginOffset": 32,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98249966,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 34,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9998943,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "생각",
+						"tagged": "생각/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "안",
+							"beginOffset": 36,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "안",
+									"beginOffset": 36,
+									"length": 1
+								},
+								"tag": "MAG",
+								"probability": 0.99250215,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "안",
+						"tagged": "안/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "합니다.",
+							"beginOffset": 38,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 38,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.91417587,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㅂ니다",
+									"beginOffset": 38,
+									"length": 3
+								},
+								"tag": "EF",
+								"probability": 0.99091095,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 41,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9993846,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VV+ㅂ니다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "\"가족들과 상담을 해서 심각성을 이야기했는데도 데리고 갈 생각을 안 합니다."
+			},
+			{
+				"text": {
+					"content": "A 씨를 여기서 일하게 두면 생계비는 줘야 할 텐데 통장은 모두 부인이 관리하면서 돈을 주는 것도 아닙니다.",
+					"beginOffset": 43,
+					"length": 60
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "A",
+							"beginOffset": 43,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "A",
+									"beginOffset": 43,
+									"length": 1
+								},
+								"tag": "SL",
+								"probability": 0.98079014,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "A",
+						"tagged": "A/SL",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "씨를",
+							"beginOffset": 45,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "씨",
+									"beginOffset": 45,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.96234125,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 46,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99994737,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "씨",
+						"tagged": "씨/NNB+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "여기서",
+							"beginOffset": 48,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "여기",
+									"beginOffset": 48,
+									"length": 2
+								},
+								"tag": "NP",
+								"probability": 0.97992325,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "서",
+									"beginOffset": 50,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9968193,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "여기",
+						"tagged": "여기/NP+서/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "일하게",
+							"beginOffset": 52,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "일하",
+									"beginOffset": 52,
+									"length": 2
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "게",
+									"beginOffset": 54,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99264485,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "일하",
+						"tagged": "일하/VV+게/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "두면",
+							"beginOffset": 56,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "두",
+									"beginOffset": 56,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.5038091,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "면",
+									"beginOffset": 57,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99541265,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "두",
+						"tagged": "두/VV+면/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "생계비는",
+							"beginOffset": 59,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "생계비",
+									"beginOffset": 59,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9862114,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 62,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9987974,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "생계비",
+						"tagged": "생계비/NNG+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "줘야",
+							"beginOffset": 64,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "주",
+									"beginOffset": 64,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.7423019,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어야",
+									"beginOffset": 64,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99460584,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "주",
+						"tagged": "주/VV+어야/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "할",
+							"beginOffset": 67,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 67,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.9167983,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ",
+									"beginOffset": 67,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99997944,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VX+ㄹ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "텐데",
+							"beginOffset": 69,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "터",
+									"beginOffset": 69,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9776777,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 69,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.99915975,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ데",
+									"beginOffset": 69,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.993156,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "터",
+						"tagged": "터/NNB+이/VCP+ㄴ데/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "통장은",
+							"beginOffset": 72,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "통장",
+									"beginOffset": 72,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9728492,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 74,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9990483,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "통장",
+						"tagged": "통장/NNG+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "모두",
+							"beginOffset": 76,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "모두",
+									"beginOffset": 76,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.98860556,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "모두",
+						"tagged": "모두/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "부인이",
+							"beginOffset": 79,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "부인",
+									"beginOffset": 79,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.96979386,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 81,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.95896083,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "부인",
+						"tagged": "부인/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "관리하면서",
+							"beginOffset": 83,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "관리하",
+									"beginOffset": 83,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "면서",
+									"beginOffset": 86,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.98626894,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "관리하",
+						"tagged": "관리하/VV+면서/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "돈을",
+							"beginOffset": 89,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "돈",
+									"beginOffset": 89,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9832676,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 90,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999315,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "돈",
+						"tagged": "돈/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "주는",
+							"beginOffset": 92,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "주",
+									"beginOffset": 92,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9419704,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 93,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99980456,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "주",
+						"tagged": "주/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "것도",
+							"beginOffset": 95,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "것",
+									"beginOffset": 95,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9821389,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 96,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99834085,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "것",
+						"tagged": "것/NNB+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "아닙니다.",
+							"beginOffset": 98,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "아니",
+									"beginOffset": 98,
+									"length": 2
+								},
+								"tag": "VCN",
+								"probability": 0.9999852,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㅂ니다",
+									"beginOffset": 99,
+									"length": 3
+								},
+								"tag": "EF",
+								"probability": 0.9943033,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 102,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99831635,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "아니",
+						"tagged": "아니/VCN+ㅂ니다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "A 씨를 여기서 일하게 두면 생계비는 줘야 할 텐데 통장은 모두 부인이 관리하면서 돈을 주는 것도 아닙니다."
+			},
+			{
+				"text": {
+					"content": "A 씨를 부산 집에도 못 오게 하고 제일 나쁜 사람은 배우자입니다.",
+					"beginOffset": 104,
+					"length": 37
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "A",
+							"beginOffset": 104,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "A",
+									"beginOffset": 104,
+									"length": 1
+								},
+								"tag": "SL",
+								"probability": 0.9826576,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "A",
+						"tagged": "A/SL",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "씨를",
+							"beginOffset": 106,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "씨",
+									"beginOffset": 106,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.97170997,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 107,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999394,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "씨",
+						"tagged": "씨/NNB+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "부산",
+							"beginOffset": 109,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "부산",
+									"beginOffset": 109,
+									"length": 2
+								},
+								"tag": "NNP",
+								"probability": 0.9073588,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "부산",
+						"tagged": "부산/NNP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "집에도",
+							"beginOffset": 112,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "집",
+									"beginOffset": 112,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.97862,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 113,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.995371,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 114,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99916935,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "집",
+						"tagged": "집/NNG+에/JKB+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "못",
+							"beginOffset": 116,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "못",
+									"beginOffset": 116,
+									"length": 1
+								},
+								"tag": "MAG",
+								"probability": 0.992694,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "못",
+						"tagged": "못/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "오게",
+							"beginOffset": 118,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "오",
+									"beginOffset": 118,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9662484,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "게",
+									"beginOffset": 119,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.98924637,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "오",
+						"tagged": "오/VV+게/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "하고",
+							"beginOffset": 121,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 121,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.7439743,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 122,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99493206,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VX+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "제일",
+							"beginOffset": 124,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "제일",
+									"beginOffset": 124,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9944228,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "제일",
+						"tagged": "제일/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "나쁜",
+							"beginOffset": 127,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "나쁘",
+									"beginOffset": 127,
+									"length": 2
+								},
+								"tag": "VA",
+								"probability": 0.98666483,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 128,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999831,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "나쁘",
+						"tagged": "나쁘/VA+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사람은",
+							"beginOffset": 130,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사람",
+									"beginOffset": 130,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98548234,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 132,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9977421,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사람",
+						"tagged": "사람/NNG+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "배우자입니다.",
+							"beginOffset": 134,
+							"length": 7
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "배우자",
+									"beginOffset": 134,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9838364,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 137,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.9999134,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㅂ니다",
+									"beginOffset": 137,
+									"length": 3
+								},
+								"tag": "EF",
+								"probability": 0.9854071,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 140,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9996461,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "배우자",
+						"tagged": "배우자/NNG+이/VCP+ㅂ니다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "A 씨를 부산 집에도 못 오게 하고 제일 나쁜 사람은 배우자입니다."
+			},
+			{
+				"text": {
+					"content": "가족들요.",
+					"beginOffset": 142,
+					"length": 5
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "가족들요.",
+							"beginOffset": 142,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "가족",
+									"beginOffset": 142,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9855593,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "들",
+									"beginOffset": 144,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.988573,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "요",
+									"beginOffset": 145,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99762183,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 146,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9976819,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "가족",
+						"tagged": "가족/NNG+들/XSN+요/JX+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "가족들요."
+			},
+			{
+				"text": {
+					"content": "딸하고 아들하고 다 성인이 됐는데도 아버지에 대해서 물어보면 엄마가 이때까지 다 관여를 하고 결정을 했는데 왜 자기들한테 물어보냐고...\"",
+					"beginOffset": 148,
+					"length": 77
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "딸하고",
+							"beginOffset": 148,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "딸",
+									"beginOffset": 148,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.97546655,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "하고",
+									"beginOffset": 149,
+									"length": 2
+								},
+								"tag": "JC",
+								"probability": 0.94968265,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "딸",
+						"tagged": "딸/NNG+하고/JC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "아들하고",
+							"beginOffset": 152,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "아들",
+									"beginOffset": 152,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97838384,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "하고",
+									"beginOffset": 154,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.58095825,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "아들",
+						"tagged": "아들/NNG+하고/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "다",
+							"beginOffset": 157,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 157,
+									"length": 1
+								},
+								"tag": "MAG",
+								"probability": 0.991672,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "다",
+						"tagged": "다/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "성인이",
+							"beginOffset": 159,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "성인",
+									"beginOffset": 159,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.981585,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 161,
+									"length": 1
+								},
+								"tag": "JKC",
+								"probability": 0.94597834,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "성인",
+						"tagged": "성인/NNG+이/JKC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "됐는데도",
+							"beginOffset": 163,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "되",
+									"beginOffset": 163,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9861151,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 163,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9999142,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는데",
+									"beginOffset": 164,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99373025,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 166,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99923,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "되",
+						"tagged": "되/VV+었/EP+는데/EC+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "아버지에",
+							"beginOffset": 168,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "아버지",
+									"beginOffset": 168,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.98177814,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 171,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99268925,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "아버지",
+						"tagged": "아버지/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "대해서",
+							"beginOffset": 173,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "대하",
+									"beginOffset": 173,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9888345,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아서",
+									"beginOffset": 174,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99300176,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "대하",
+						"tagged": "대하/VV+아서/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "물어보면",
+							"beginOffset": 177,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "물어보",
+									"beginOffset": 177,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.98728734,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "면",
+									"beginOffset": 180,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9947603,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "물어보",
+						"tagged": "물어보/VV+면/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "엄마가",
+							"beginOffset": 182,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "엄마",
+									"beginOffset": 182,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98297685,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 184,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.99089134,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "엄마",
+						"tagged": "엄마/NNG+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이때까지",
+							"beginOffset": 186,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이때",
+									"beginOffset": 186,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98079103,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "까지",
+									"beginOffset": 188,
+									"length": 2
+								},
+								"tag": "JX",
+								"probability": 0.99755913,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이때",
+						"tagged": "이때/NNG+까지/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "다",
+							"beginOffset": 191,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 191,
+									"length": 1
+								},
+								"tag": "MAG",
+								"probability": 0.9914454,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "다",
+						"tagged": "다/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "관여를",
+							"beginOffset": 193,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "관여",
+									"beginOffset": 193,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9807868,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 195,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9998217,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "관여",
+						"tagged": "관여/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "하고",
+							"beginOffset": 197,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 197,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.98255277,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 198,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9932723,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "결정을",
+							"beginOffset": 200,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "결정",
+									"beginOffset": 200,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97925454,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 202,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999841,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "결정",
+						"tagged": "결정/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "했는데",
+							"beginOffset": 204,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 204,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.96689016,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 204,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9999173,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는데",
+									"beginOffset": 205,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9940546,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VV+았/EP+는데/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "왜",
+							"beginOffset": 208,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "왜",
+									"beginOffset": 208,
+									"length": 1
+								},
+								"tag": "MAG",
+								"probability": 0.99097717,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "왜",
+						"tagged": "왜/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "자기들한테",
+							"beginOffset": 210,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "자기",
+									"beginOffset": 210,
+									"length": 2
+								},
+								"tag": "NP",
+								"probability": 0.97575665,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "들",
+									"beginOffset": 212,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.9904306,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "한테",
+									"beginOffset": 213,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.98724425,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "자기",
+						"tagged": "자기/NP+들/XSN+한테/JKB",
+						"modified": "자기들한테"
+					},
+					{
+						"text": {
+							"content": "물어보냐고...\"",
+							"beginOffset": 216,
+							"length": 9
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "물어보",
+									"beginOffset": 216,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.9915722,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "냐고",
+									"beginOffset": 219,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.85719585,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "...",
+									"beginOffset": 221,
+									"length": 3
+								},
+								"tag": "SF",
+								"outOfVocab": "OUT_OF_VOCAB",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "\"",
+									"beginOffset": 224,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.99948686,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "물어보",
+						"tagged": "물어보/VV+냐고/EF+.../SF+\"/SS",
+						"modified": ""
+					}
+				],
+				"refined": "딸하고 아들하고 다 성인이 됐는데도 아버지에 대해서 물어보면 엄마가 이때까지 다 관여를 하고 결정을 했는데 왜 자기들한테 물어보냐고...\""
+			}
+		],
+		"language": "ko_KR"
+	},
+	"ttr": {
+		"lemma_Cnt": 113,
+		"lemma_TTR": 0.6311475409836066,
+		"CL_TTR": 0.8070175438596491,
+		"NL_TTR": 0.9259259259259259,
+		"NN_TTR": 0.92,
+		"NNG_TTR": 0.95,
+		"NNP_TTR": 1.0,
+		"NNB_TTR": 0.75,
+		"NP_TTR": 1.0,
+		"NR_TTR": 0,
+		"VL_TTR": 0.6521739130434783,
+		"VV_TTR": 0.7058823529411765,
+		"VA_TTR": 1.0,
+		"ML_TTR": 0.8571428571428571,
+		"MM_TTR": 0,
+		"MA_TTR": 0.8571428571428571,
+		"MAJ_TTR": 0,
+		"IC_TTR": 0,
+		"FL_TTR": 0.5178571428571429,
+		"J_TTR": 0.5185185185185185,
+		"E_TTR": 0.5769230769230769,
+		"X_TTR": 0.3333333333333333,
+		"lemma_RTTR": 6.971252445273927,
+		"CL_RTTR": 6.092848842499201,
+		"NL_RTTR": 4.811252243246881,
+		"NN_RTTR": 4.6,
+		"NNG_RTTR": 4.2485291572496005,
+		"NNP_RTTR": 1.0,
+		"NNB_RTTR": 1.5,
+		"NP_RTTR": 1.414213562373095,
+		"NR_RTTR": 0,
+		"VL_RTTR": 3.127716210856122,
+		"VV_RTTR": 2.9104275004359956,
+		"VA_RTTR": 1.0,
+		"ML_RTTR": 2.2677868380553634,
+		"MM_RTTR": 0,
+		"MA_RTTR": 2.2677868380553634,
+		"MAJ_RTTR": 0,
+		"IC_RTTR": 0,
+		"FL_RTTR": 3.8752880077301537,
+		"J_RTTR": 2.6943012562182536,
+		"E_RTTR": 2.9417420270727606,
+		"X_RTTR": 0.5773502691896258,
+		"lemma_CTTR": 4.929419877416495,
+		"CL_CTTR": 4.308294733275792,
+		"NL_CTTR": 3.4020690871988584,
+		"NN_CTTR": 3.2526911934581184,
+		"NNG_CTTR": 3.00416377715996,
+		"NNP_CTTR": 0.7071067811865475,
+		"NNB_CTTR": 1.0606601717798212,
+		"NP_CTTR": 1.0,
+		"NR_CTTR": 0,
+		"VL_CTTR": 2.211629342323457,
+		"VV_CTTR": 2.057983021710106,
+		"VA_CTTR": 0.7071067811865475,
+		"ML_CTTR": 1.6035674514745464,
+		"MM_CTTR": 0,
+		"MA_CTTR": 1.6035674514745464,
+		"MAJ_CTTR": 0,
+		"IC_CTTR": 0,
+		"FL_CTTR": 2.7402424293168974,
+		"J_CTTR": 1.9051586888313607,
+		"E_CTTR": 2.0801257358446095,
+		"X_CTTR": 0.4082482904638631,
+		"lemma_MSTTR": 0.86,
+		"CL_MSTTR": 0.84,
+		"NL_MSTTR": 0.9259259259259259,
+		"NN_MSTTR": 0.92,
+		"NNG_MSTTR": 0.95,
+		"NNP_MSTTR": 1.0,
+		"NNB_MSTTR": 0.75,
+		"NP_MSTTR": 1.0,
+		"NR_MSTTR": 0,
+		"VL_MSTTR": 0.6521739130434783,
+		"VV_MSTTR": 0.7058823529411765,
+		"VA_MSTTR": 1.0,
+		"ML_MSTTR": 0.8571428571428571,
+		"MM_MSTTR": 0,
+		"MA_MSTTR": 0.8571428571428571,
+		"MAJ_MSTTR": 0,
+		"IC_MSTTR": 0,
+		"FL_MSTTR": 0.54,
+		"J_MSTTR": 0.5185185185185185,
+		"E_MSTTR": 0.5769230769230769,
+		"X_MSTTR": 0.3333333333333333,
+		"lemma_MATTR": 0.8167123287671245,
+		"CL_MATTR": 0.8425,
+		"NL_MATTR": 0.9259259259259259,
+		"NN_MATTR": 0.92,
+		"NNG_MATTR": 0.95,
+		"NNP_MATTR": 1.0,
+		"NNB_MATTR": 0.75,
+		"NP_MATTR": 1.0,
+		"NR_MATTR": 0,
+		"VL_MATTR": 0.6521739130434783,
+		"VV_MATTR": 0.7058823529411765,
+		"VA_MATTR": 1.0,
+		"ML_MATTR": 0.8571428571428571,
+		"MM_MATTR": 0,
+		"MA_MATTR": 0.8571428571428571,
+		"MAJ_MATTR": 0,
+		"IC_MATTR": 0,
+		"FL_MATTR": 0.5342857142857144,
+		"J_MATTR": 0.5185185185185185,
+		"E_MATTR": 0.5769230769230769,
+		"X_MATTR": 0.3333333333333333,
+		"lemma_MTLD": 81.07139023081052,
+		"CL_MTLD": 82.70181818181817,
+		"NL_MTLD": 102.06,
+		"NN_MTLD": 87.50000000000006,
+		"NNG_MTLD": 111.99999999999991,
+		"NNP_MTLD": 0.0,
+		"NNB_MTLD": 4.48,
+		"NP_MTLD": 0.0,
+		"NR_MTLD": 0.0,
+		"VL_MTLD": 11.55421686746988,
+		"VV_MTLD": 13.720378378378378,
+		"VA_MTLD": 0.0,
+		"ML_MTLD": 13.719999999999997,
+		"MM_MTLD": 0.0,
+		"MA_MTLD": 13.719999999999997,
+		"MAJ_MTLD": 0.0,
+		"IC_MTLD": 0.0,
+		"FL_MTLD": 32.19460500963391,
+		"J_MTLD": 13.5,
+		"E_MTLD": 26.0,
+		"X_MTLD": 1.26,
+		"lemma_VOCDD": 83.47398676038914,
+		"CL_VOCDD": 94.09642617062669,
+		"NL_VOCDD": 0,
+		"NN_VOCDD": 0,
+		"NNG_VOCDD": 0,
+		"NNP_VOCDD": 0,
+		"NNB_VOCDD": 0,
+		"NP_VOCDD": 0,
+		"NR_VOCDD": 0,
+		"VL_VOCDD": 0,
+		"VV_VOCDD": 0,
+		"VA_VOCDD": 0,
+		"ML_VOCDD": 0,
+		"MM_VOCDD": 0,
+		"MA_VOCDD": 0,
+		"MAJ_VOCDD": 0,
+		"IC_VOCDD": 0,
+		"FL_VOCDD": 19.101951354435908,
+		"J_VOCDD": 0,
+		"E_VOCDD": 0,
+		"X_VOCDD": 0,
+		"lemma_HDD": 0.8288820686196372,
+		"CL_HDD": 0.841475412850786,
+		"NL_HDD": 0.0,
+		"NN_HDD": 0.0,
+		"NNG_HDD": 0.0,
+		"NNP_HDD": 0.0,
+		"NNB_HDD": 0.0,
+		"NP_HDD": 0.0,
+		"NR_HDD": 0.0,
+		"VL_HDD": 0.0,
+		"VV_HDD": 0.0,
+		"VA_HDD": 0.0,
+		"ML_HDD": 0.0,
+		"MM_HDD": 0.0,
+		"MA_HDD": 0.0,
+		"MAJ_HDD": 0.0,
+		"IC_HDD": 0.0,
+		"FL_HDD": 0.6033377349415088,
+		"J_HDD": 0.0,
+		"E_HDD": 0.0,
+		"X_HDD": 0.0
+	},
+	"similarity": {
+		"avgSentSimilarity": 0.2241533100605011,
+		"topicConsistency": 0.5608
+	},
+	"adjacency": {
+		"adjacent_sentence_overlap_all_lemmas": 59,
+		"adjacent_sentence_overlap_all_lemmas_normed": 4,
+		"binary_adjacent_sentence_overlap_all_lemmas": 4,
+		"adjacent_two_sentence_overlap_all_lemmas": 29,
+		"adjacent_two_sentence_overlap_all_lemmas_normed": 3,
+		"binary_adjacent_two_sentence_overlap_all_lemmas": 3,
+		"adjacent_sentence_overlap_content_lemmas": 28,
+		"adjacent_sentence_overlap_content_lemmas_normed": 4,
+		"binary_adjacent_sentence_overlap_content_lemmas": 2,
+		"adjacent_two_sentence_overlap_content_lemmas": 15,
+		"adjacent_two_sentence_overlap_content_lemmas_normed": 3,
+		"binary_adjacent_two_sentence_overlap_content_lemmas": 1,
+		"adjacent_sentence_overlap_function_lemmas": 25,
+		"adjacent_sentence_overlap_function_lemmas_normed": 4,
+		"binary_adjacent_sentence_overlap_function_lemmas": 2,
+		"adjacent_two_sentence_overlap_function_lemmas": 11,
+		"adjacent_two_sentence_overlap_function_lemmas_normed": 3,
+		"binary_adjacent_two_sentence_overlap_function_lemmas": 1,
+		"adjacent_sentence_overlap_noun_lemmas": 18,
+		"adjacent_sentence_overlap_noun_lemmas_normed": 4,
+		"binary_adjacent_sentence_overlap_noun_lemmas": 2,
+		"adjacent_two_sentence_overlap_noun_lemmas": 12,
+		"adjacent_two_sentence_overlap_noun_lemmas_normed": 3,
+		"binary_adjacent_two_sentence_overlap_noun_lemmas": 0,
+		"adjacent_sentence_overlap_verb_lemmas": 8,
+		"adjacent_sentence_overlap_verb_lemmas_normed": 2,
+		"binary_adjacent_sentence_overlap_verb_lemmas": 2,
+		"adjacent_two_sentence_overlap_verb_lemmas": 1,
+		"adjacent_two_sentence_overlap_verb_lemmas_normed": 1,
+		"binary_adjacent_two_sentence_overlap_verb_lemmas": 1,
+		"adjacent_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_sentence_overlap_adjective_lemmas_normed": 0,
+		"binary_adjacent_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_sentence_overlap_adverb_lemmas": 3,
+		"adjacent_sentence_overlap_adverb_lemmas_normed": 2,
+		"binary_adjacent_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas": 2,
+		"adjacent_two_sentence_overlap_adverb_lemmas_normed": 1,
+		"binary_adjacent_two_sentence_overlap_adverb_lemmas": 0
+	},
+	"basic_count": {
+		"para_Cnt": 1,
+		"sentence_Cnt": 5,
+		"word_Cnt": 57,
+		"morph_Cnt": 122,
+		"char_Cnt": 174,
+		"CL_Cnt": 57,
+		"NL_Cnt": 27,
+		"NN_Cnt": 25,
+		"NNG_Cnt": 20,
+		"NNP_Cnt": 1,
+		"NNB_Cnt": 4,
+		"NP_Cnt": 2,
+		"NP_People_Cnt": 1,
+		"NP_Things_Cnt": 1,
+		"NR_Cnt": 0,
+		"VL_Cnt": 23,
+		"VV_Cnt": 17,
+		"VA_Cnt": 1,
+		"VX_Cnt": 2,
+		"VCP_Cnt": 2,
+		"VCN_Cnt": 1,
+		"ML_Cnt": 7,
+		"MA_Cnt": 0,
+		"MM_Cnt": 0,
+		"FL_Cnt": 56,
+		"J_Cnt": 27,
+		"E_Cnt": 26,
+		"X_Cnt": 3,
+		"IC_Cnt": 0
+	},
+	"basic_density": {
+		"CL_Den": 0.4672131147540984,
+		"FL_Den": 0.45901639344262296,
+		"NL_Den": 0.20491803278688525,
+		"NNGL_Den": 0.16393442622950818,
+		"NNPL_Den": 0.00819672131147541,
+		"NNBL_Den": 0.03278688524590164,
+		"NPL_Den": 0.01639344262295082,
+		"NML_Den": 0.0,
+		"VL_Den": 0.1885245901639344,
+		"VVL_Den": 0.13934426229508196,
+		"VAL_Den": 0.00819672131147541,
+		"ML_Den": 0.05737704918032787,
+		"MML_Den": 0.0,
+		"MAL_Den": 0.0,
+		"JL_Den": 0.22131147540983606,
+		"EL_Den": 0.21311475409836064,
+		"XL_Den": 0.02459016393442623,
+		"ITL_Den": 0.0,
+		"NCL_Den": 0.43859649122807015,
+		"NNCL_Den": 0.3508771929824561,
+		"NNGCL_Den": 0.017543859649122806,
+		"NNBCL_Den": 0.07017543859649122,
+		"NPCL_Den": 0.03508771929824561,
+		"NMCL_Den": 0.0,
+		"VCL_Den": 0.40350877192982454,
+		"VVCL_Den": 0.2982456140350877,
+		"VACL_Den": 0.017543859649122806,
+		"MCL_Den": 0.12280701754385964,
+		"MMCL_Den": 0.0,
+		"MACL_Den": 0.0,
+		"INCL_Den": 0.0,
+		"JFL_Den": 0.48214285714285715,
+		"EFL_Den": 0.4642857142857143,
+		"XFL_Den": 0.05357142857142857
+	},
+	"basic_level": {
+		"morph_LenAvg": 1.5,
+		"morph_LenStd": 0.6924653036227241,
+		"word_LenAvg": 2.807017543859649,
+		"word_LenStd": 1.303687031800652
+	},
+	"basic_list": {
+		"NL_Lst": [
+			[
+				0,
+				"가족",
+				"NNG",
+				"\"가족들과 상담을 해서 심각성을 이야기했는데도 데리고 갈 생각을 안 합니다."
+			],
+			[
+				1,
+				"상담",
+				"NNG",
+				"\"가족들과 상담을 해서 심각성을 이야기했는데도 데리고 갈 생각을 안 합니다."
+			],
+			[
+				2,
+				"심각성",
+				"NNG",
+				"\"가족들과 상담을 해서 심각성을 이야기했는데도 데리고 갈 생각을 안 합니다."
+			],
+			[
+				3,
+				"생각",
+				"NNG",
+				"\"가족들과 상담을 해서 심각성을 이야기했는데도 데리고 갈 생각을 안 합니다."
+			],
+			[
+				4,
+				"씨",
+				"NNB",
+				"A 씨를 여기서 일하게 두면 생계비는 줘야 할 텐데 통장은 모두 부인이 관리하면서 돈을 주는 것도 아닙니다."
+			],
+			[
+				5,
+				"여기",
+				"NP",
+				"A 씨를 여기서 일하게 두면 생계비는 줘야 할 텐데 통장은 모두 부인이 관리하면서 돈을 주는 것도 아닙니다."
+			],
+			[
+				6,
+				"생계비",
+				"NNG",
+				"A 씨를 여기서 일하게 두면 생계비는 줘야 할 텐데 통장은 모두 부인이 관리하면서 돈을 주는 것도 아닙니다."
+			],
+			[
+				7,
+				"터",
+				"NNB",
+				"A 씨를 여기서 일하게 두면 생계비는 줘야 할 텐데 통장은 모두 부인이 관리하면서 돈을 주는 것도 아닙니다."
+			],
+			[
+				8,
+				"통장",
+				"NNG",
+				"A 씨를 여기서 일하게 두면 생계비는 줘야 할 텐데 통장은 모두 부인이 관리하면서 돈을 주는 것도 아닙니다."
+			],
+			[
+				9,
+				"부인",
+				"NNG",
+				"A 씨를 여기서 일하게 두면 생계비는 줘야 할 텐데 통장은 모두 부인이 관리하면서 돈을 주는 것도 아닙니다."
+			],
+			[
+				10,
+				"돈",
+				"NNG",
+				"A 씨를 여기서 일하게 두면 생계비는 줘야 할 텐데 통장은 모두 부인이 관리하면서 돈을 주는 것도 아닙니다."
+			],
+			[
+				11,
+				"것",
+				"NNB",
+				"A 씨를 여기서 일하게 두면 생계비는 줘야 할 텐데 통장은 모두 부인이 관리하면서 돈을 주는 것도 아닙니다."
+			],
+			[
+				12,
+				"씨",
+				"NNB",
+				"A 씨를 부산 집에도 못 오게 하고 제일 나쁜 사람은 배우자입니다."
+			],
+			[
+				13,
+				"부산",
+				"NNP",
+				"A 씨를 부산 집에도 못 오게 하고 제일 나쁜 사람은 배우자입니다."
+			],
+			[
+				14,
+				"집",
+				"NNG",
+				"A 씨를 부산 집에도 못 오게 하고 제일 나쁜 사람은 배우자입니다."
+			],
+			[
+				15,
+				"사람",
+				"NNG",
+				"A 씨를 부산 집에도 못 오게 하고 제일 나쁜 사람은 배우자입니다."
+			],
+			[
+				16,
+				"배우자",
+				"NNG",
+				"A 씨를 부산 집에도 못 오게 하고 제일 나쁜 사람은 배우자입니다."
+			],
+			[
+				17,
+				"가족",
+				"NNG",
+				"가족들요."
+			],
+			[
+				18,
+				"딸",
+				"NNG",
+				"딸하고 아들하고 다 성인이 됐는데도 아버지에 대해서 물어보면 엄마가 이때까지 다 관여를 하고 결정을 했는데 왜 자기들한테 물어보냐고...\""
+			],
+			[
+				19,
+				"아들",
+				"NNG",
+				"딸하고 아들하고 다 성인이 됐는데도 아버지에 대해서 물어보면 엄마가 이때까지 다 관여를 하고 결정을 했는데 왜 자기들한테 물어보냐고...\""
+			],
+			[
+				20,
+				"성인",
+				"NNG",
+				"딸하고 아들하고 다 성인이 됐는데도 아버지에 대해서 물어보면 엄마가 이때까지 다 관여를 하고 결정을 했는데 왜 자기들한테 물어보냐고...\""
+			],
+			[
+				21,
+				"아버지",
+				"NNG",
+				"딸하고 아들하고 다 성인이 됐는데도 아버지에 대해서 물어보면 엄마가 이때까지 다 관여를 하고 결정을 했는데 왜 자기들한테 물어보냐고...\""
+			],
+			[
+				22,
+				"엄마",
+				"NNG",
+				"딸하고 아들하고 다 성인이 됐는데도 아버지에 대해서 물어보면 엄마가 이때까지 다 관여를 하고 결정을 했는데 왜 자기들한테 물어보냐고...\""
+			],
+			[
+				23,
+				"이때",
+				"NNG",
+				"딸하고 아들하고 다 성인이 됐는데도 아버지에 대해서 물어보면 엄마가 이때까지 다 관여를 하고 결정을 했는데 왜 자기들한테 물어보냐고...\""
+			],
+			[
+				24,
+				"관여",
+				"NNG",
+				"딸하고 아들하고 다 성인이 됐는데도 아버지에 대해서 물어보면 엄마가 이때까지 다 관여를 하고 결정을 했는데 왜 자기들한테 물어보냐고...\""
+			],
+			[
+				25,
+				"결정",
+				"NNG",
+				"딸하고 아들하고 다 성인이 됐는데도 아버지에 대해서 물어보면 엄마가 이때까지 다 관여를 하고 결정을 했는데 왜 자기들한테 물어보냐고...\""
+			],
+			[
+				26,
+				"자기",
+				"NP",
+				"딸하고 아들하고 다 성인이 됐는데도 아버지에 대해서 물어보면 엄마가 이때까지 다 관여를 하고 결정을 했는데 왜 자기들한테 물어보냐고...\""
+			]
+		],
+		"NN_Lst": [
+			[
+				0,
+				"가족",
+				"NNG",
+				"\"가족들과 상담을 해서 심각성을 이야기했는데도 데리고 갈 생각을 안 합니다."
+			],
+			[
+				1,
+				"상담",
+				"NNG",
+				"\"가족들과 상담을 해서 심각성을 이야기했는데도 데리고 갈 생각을 안 합니다."
+			],
+			[
+				2,
+				"심각성",
+				"NNG",
+				"\"가족들과 상담을 해서 심각성을 이야기했는데도 데리고 갈 생각을 안 합니다."
+			],
+			[
+				3,
+				"생각",
+				"NNG",
+				"\"가족들과 상담을 해서 심각성을 이야기했는데도 데리고 갈 생각을 안 합니다."
+			],
+			[
+				4,
+				"씨",
+				"NNB",
+				"A 씨를 여기서 일하게 두면 생계비는 줘야 할 텐데 통장은 모두 부인이 관리하면서 돈을 주는 것도 아닙니다."
+			],
+			[
+				5,
+				"생계비",
+				"NNG",
+				"A 씨를 여기서 일하게 두면 생계비는 줘야 할 텐데 통장은 모두 부인이 관리하면서 돈을 주는 것도 아닙니다."
+			],
+			[
+				6,
+				"터",
+				"NNB",
+				"A 씨를 여기서 일하게 두면 생계비는 줘야 할 텐데 통장은 모두 부인이 관리하면서 돈을 주는 것도 아닙니다."
+			],
+			[
+				7,
+				"통장",
+				"NNG",
+				"A 씨를 여기서 일하게 두면 생계비는 줘야 할 텐데 통장은 모두 부인이 관리하면서 돈을 주는 것도 아닙니다."
+			],
+			[
+				8,
+				"부인",
+				"NNG",
+				"A 씨를 여기서 일하게 두면 생계비는 줘야 할 텐데 통장은 모두 부인이 관리하면서 돈을 주는 것도 아닙니다."
+			],
+			[
+				9,
+				"돈",
+				"NNG",
+				"A 씨를 여기서 일하게 두면 생계비는 줘야 할 텐데 통장은 모두 부인이 관리하면서 돈을 주는 것도 아닙니다."
+			],
+			[
+				10,
+				"것",
+				"NNB",
+				"A 씨를 여기서 일하게 두면 생계비는 줘야 할 텐데 통장은 모두 부인이 관리하면서 돈을 주는 것도 아닙니다."
+			],
+			[
+				11,
+				"씨",
+				"NNB",
+				"A 씨를 부산 집에도 못 오게 하고 제일 나쁜 사람은 배우자입니다."
+			],
+			[
+				12,
+				"부산",
+				"NNP",
+				"A 씨를 부산 집에도 못 오게 하고 제일 나쁜 사람은 배우자입니다."
+			],
+			[
+				13,
+				"집",
+				"NNG",
+				"A 씨를 부산 집에도 못 오게 하고 제일 나쁜 사람은 배우자입니다."
+			],
+			[
+				14,
+				"사람",
+				"NNG",
+				"A 씨를 부산 집에도 못 오게 하고 제일 나쁜 사람은 배우자입니다."
+			],
+			[
+				15,
+				"배우자",
+				"NNG",
+				"A 씨를 부산 집에도 못 오게 하고 제일 나쁜 사람은 배우자입니다."
+			],
+			[
+				16,
+				"가족",
+				"NNG",
+				"가족들요."
+			],
+			[
+				17,
+				"딸",
+				"NNG",
+				"딸하고 아들하고 다 성인이 됐는데도 아버지에 대해서 물어보면 엄마가 이때까지 다 관여를 하고 결정을 했는데 왜 자기들한테 물어보냐고...\""
+			],
+			[
+				18,
+				"아들",
+				"NNG",
+				"딸하고 아들하고 다 성인이 됐는데도 아버지에 대해서 물어보면 엄마가 이때까지 다 관여를 하고 결정을 했는데 왜 자기들한테 물어보냐고...\""
+			],
+			[
+				19,
+				"성인",
+				"NNG",
+				"딸하고 아들하고 다 성인이 됐는데도 아버지에 대해서 물어보면 엄마가 이때까지 다 관여를 하고 결정을 했는데 왜 자기들한테 물어보냐고...\""
+			],
+			[
+				20,
+				"아버지",
+				"NNG",
+				"딸하고 아들하고 다 성인이 됐는데도 아버지에 대해서 물어보면 엄마가 이때까지 다 관여를 하고 결정을 했는데 왜 자기들한테 물어보냐고...\""
+			],
+			[
+				21,
+				"엄마",
+				"NNG",
+				"딸하고 아들하고 다 성인이 됐는데도 아버지에 대해서 물어보면 엄마가 이때까지 다 관여를 하고 결정을 했는데 왜 자기들한테 물어보냐고...\""
+			],
+			[
+				22,
+				"이때",
+				"NNG",
+				"딸하고 아들하고 다 성인이 됐는데도 아버지에 대해서 물어보면 엄마가 이때까지 다 관여를 하고 결정을 했는데 왜 자기들한테 물어보냐고...\""
+			],
+			[
+				23,
+				"관여",
+				"NNG",
+				"딸하고 아들하고 다 성인이 됐는데도 아버지에 대해서 물어보면 엄마가 이때까지 다 관여를 하고 결정을 했는데 왜 자기들한테 물어보냐고...\""
+			],
+			[
+				24,
+				"결정",
+				"NNG",
+				"딸하고 아들하고 다 성인이 됐는데도 아버지에 대해서 물어보면 엄마가 이때까지 다 관여를 하고 결정을 했는데 왜 자기들한테 물어보냐고...\""
+			]
+		],
+		"NNG_Lst": [
+			[
+				0,
+				"가족",
+				"NNG",
+				"\"가족들과 상담을 해서 심각성을 이야기했는데도 데리고 갈 생각을 안 합니다."
+			],
+			[
+				1,
+				"상담",
+				"NNG",
+				"\"가족들과 상담을 해서 심각성을 이야기했는데도 데리고 갈 생각을 안 합니다."
+			],
+			[
+				2,
+				"심각성",
+				"NNG",
+				"\"가족들과 상담을 해서 심각성을 이야기했는데도 데리고 갈 생각을 안 합니다."
+			],
+			[
+				3,
+				"생각",
+				"NNG",
+				"\"가족들과 상담을 해서 심각성을 이야기했는데도 데리고 갈 생각을 안 합니다."
+			],
+			[
+				4,
+				"생계비",
+				"NNG",
+				"A 씨를 여기서 일하게 두면 생계비는 줘야 할 텐데 통장은 모두 부인이 관리하면서 돈을 주는 것도 아닙니다."
+			],
+			[
+				5,
+				"통장",
+				"NNG",
+				"A 씨를 여기서 일하게 두면 생계비는 줘야 할 텐데 통장은 모두 부인이 관리하면서 돈을 주는 것도 아닙니다."
+			],
+			[
+				6,
+				"부인",
+				"NNG",
+				"A 씨를 여기서 일하게 두면 생계비는 줘야 할 텐데 통장은 모두 부인이 관리하면서 돈을 주는 것도 아닙니다."
+			],
+			[
+				7,
+				"돈",
+				"NNG",
+				"A 씨를 여기서 일하게 두면 생계비는 줘야 할 텐데 통장은 모두 부인이 관리하면서 돈을 주는 것도 아닙니다."
+			],
+			[
+				8,
+				"집",
+				"NNG",
+				"A 씨를 부산 집에도 못 오게 하고 제일 나쁜 사람은 배우자입니다."
+			],
+			[
+				9,
+				"사람",
+				"NNG",
+				"A 씨를 부산 집에도 못 오게 하고 제일 나쁜 사람은 배우자입니다."
+			],
+			[
+				10,
+				"배우자",
+				"NNG",
+				"A 씨를 부산 집에도 못 오게 하고 제일 나쁜 사람은 배우자입니다."
+			],
+			[
+				11,
+				"가족",
+				"NNG",
+				"가족들요."
+			],
+			[
+				12,
+				"딸",
+				"NNG",
+				"딸하고 아들하고 다 성인이 됐는데도 아버지에 대해서 물어보면 엄마가 이때까지 다 관여를 하고 결정을 했는데 왜 자기들한테 물어보냐고...\""
+			],
+			[
+				13,
+				"아들",
+				"NNG",
+				"딸하고 아들하고 다 성인이 됐는데도 아버지에 대해서 물어보면 엄마가 이때까지 다 관여를 하고 결정을 했는데 왜 자기들한테 물어보냐고...\""
+			],
+			[
+				14,
+				"성인",
+				"NNG",
+				"딸하고 아들하고 다 성인이 됐는데도 아버지에 대해서 물어보면 엄마가 이때까지 다 관여를 하고 결정을 했는데 왜 자기들한테 물어보냐고...\""
+			],
+			[
+				15,
+				"아버지",
+				"NNG",
+				"딸하고 아들하고 다 성인이 됐는데도 아버지에 대해서 물어보면 엄마가 이때까지 다 관여를 하고 결정을 했는데 왜 자기들한테 물어보냐고...\""
+			],
+			[
+				16,
+				"엄마",
+				"NNG",
+				"딸하고 아들하고 다 성인이 됐는데도 아버지에 대해서 물어보면 엄마가 이때까지 다 관여를 하고 결정을 했는데 왜 자기들한테 물어보냐고...\""
+			],
+			[
+				17,
+				"이때",
+				"NNG",
+				"딸하고 아들하고 다 성인이 됐는데도 아버지에 대해서 물어보면 엄마가 이때까지 다 관여를 하고 결정을 했는데 왜 자기들한테 물어보냐고...\""
+			],
+			[
+				18,
+				"관여",
+				"NNG",
+				"딸하고 아들하고 다 성인이 됐는데도 아버지에 대해서 물어보면 엄마가 이때까지 다 관여를 하고 결정을 했는데 왜 자기들한테 물어보냐고...\""
+			],
+			[
+				19,
+				"결정",
+				"NNG",
+				"딸하고 아들하고 다 성인이 됐는데도 아버지에 대해서 물어보면 엄마가 이때까지 다 관여를 하고 결정을 했는데 왜 자기들한테 물어보냐고...\""
+			]
+		],
+		"NNP_Lst": [
+			[
+				0,
+				"부산",
+				"NNP",
+				"A 씨를 부산 집에도 못 오게 하고 제일 나쁜 사람은 배우자입니다."
+			]
+		],
+		"NNB_Lst": [
+			[
+				0,
+				"씨",
+				"NNB",
+				"A 씨를 여기서 일하게 두면 생계비는 줘야 할 텐데 통장은 모두 부인이 관리하면서 돈을 주는 것도 아닙니다."
+			],
+			[
+				1,
+				"터",
+				"NNB",
+				"A 씨를 여기서 일하게 두면 생계비는 줘야 할 텐데 통장은 모두 부인이 관리하면서 돈을 주는 것도 아닙니다."
+			],
+			[
+				2,
+				"것",
+				"NNB",
+				"A 씨를 여기서 일하게 두면 생계비는 줘야 할 텐데 통장은 모두 부인이 관리하면서 돈을 주는 것도 아닙니다."
+			],
+			[
+				3,
+				"씨",
+				"NNB",
+				"A 씨를 부산 집에도 못 오게 하고 제일 나쁜 사람은 배우자입니다."
+			]
+		],
+		"NP_Lst": [
+			[
+				0,
+				"여기",
+				"NP",
+				"A 씨를 여기서 일하게 두면 생계비는 줘야 할 텐데 통장은 모두 부인이 관리하면서 돈을 주는 것도 아닙니다."
+			],
+			[
+				1,
+				"자기",
+				"NP",
+				"딸하고 아들하고 다 성인이 됐는데도 아버지에 대해서 물어보면 엄마가 이때까지 다 관여를 하고 결정을 했는데 왜 자기들한테 물어보냐고...\""
+			]
+		],
+		"NP_People_Lst": [
+			[
+				0,
+				"자기",
+				"NP",
+				"딸하고 아들하고 다 성인이 됐는데도 아버지에 대해서 물어보면 엄마가 이때까지 다 관여를 하고 결정을 했는데 왜 자기들한테 물어보냐고...\""
+			]
+		],
+		"NP_Things_Lst": [
+			[
+				0,
+				"여기",
+				"NP",
+				"A 씨를 여기서 일하게 두면 생계비는 줘야 할 텐데 통장은 모두 부인이 관리하면서 돈을 주는 것도 아닙니다."
+			]
+		],
+		"NR_Lst": [],
+		"VL_Lst": [
+			[
+				0,
+				"하",
+				"VV",
+				"\"가족들과 상담을 해서 심각성을 이야기했는데도 데리고 갈 생각을 안 합니다."
+			],
+			[
+				1,
+				"이야기하",
+				"VV",
+				"\"가족들과 상담을 해서 심각성을 이야기했는데도 데리고 갈 생각을 안 합니다."
+			],
+			[
+				2,
+				"데리",
+				"VV",
+				"\"가족들과 상담을 해서 심각성을 이야기했는데도 데리고 갈 생각을 안 합니다."
+			],
+			[
+				3,
+				"가",
+				"VV",
+				"\"가족들과 상담을 해서 심각성을 이야기했는데도 데리고 갈 생각을 안 합니다."
+			],
+			[
+				4,
+				"하",
+				"VV",
+				"\"가족들과 상담을 해서 심각성을 이야기했는데도 데리고 갈 생각을 안 합니다."
+			],
+			[
+				5,
+				"일하",
+				"VV",
+				"A 씨를 여기서 일하게 두면 생계비는 줘야 할 텐데 통장은 모두 부인이 관리하면서 돈을 주는 것도 아닙니다."
+			],
+			[
+				6,
+				"두",
+				"VV",
+				"A 씨를 여기서 일하게 두면 생계비는 줘야 할 텐데 통장은 모두 부인이 관리하면서 돈을 주는 것도 아닙니다."
+			],
+			[
+				7,
+				"주",
+				"VV",
+				"A 씨를 여기서 일하게 두면 생계비는 줘야 할 텐데 통장은 모두 부인이 관리하면서 돈을 주는 것도 아닙니다."
+			],
+			[
+				8,
+				"하",
+				"VX",
+				"A 씨를 여기서 일하게 두면 생계비는 줘야 할 텐데 통장은 모두 부인이 관리하면서 돈을 주는 것도 아닙니다."
+			],
+			[
+				9,
+				"이",
+				"VCP",
+				"A 씨를 여기서 일하게 두면 생계비는 줘야 할 텐데 통장은 모두 부인이 관리하면서 돈을 주는 것도 아닙니다."
+			],
+			[
+				10,
+				"관리하",
+				"VV",
+				"A 씨를 여기서 일하게 두면 생계비는 줘야 할 텐데 통장은 모두 부인이 관리하면서 돈을 주는 것도 아닙니다."
+			],
+			[
+				11,
+				"주",
+				"VV",
+				"A 씨를 여기서 일하게 두면 생계비는 줘야 할 텐데 통장은 모두 부인이 관리하면서 돈을 주는 것도 아닙니다."
+			],
+			[
+				12,
+				"아니",
+				"VCN",
+				"A 씨를 여기서 일하게 두면 생계비는 줘야 할 텐데 통장은 모두 부인이 관리하면서 돈을 주는 것도 아닙니다."
+			],
+			[
+				13,
+				"오",
+				"VV",
+				"A 씨를 부산 집에도 못 오게 하고 제일 나쁜 사람은 배우자입니다."
+			],
+			[
+				14,
+				"하",
+				"VX",
+				"A 씨를 부산 집에도 못 오게 하고 제일 나쁜 사람은 배우자입니다."
+			],
+			[
+				15,
+				"나쁘",
+				"VA",
+				"A 씨를 부산 집에도 못 오게 하고 제일 나쁜 사람은 배우자입니다."
+			],
+			[
+				16,
+				"이",
+				"VCP",
+				"A 씨를 부산 집에도 못 오게 하고 제일 나쁜 사람은 배우자입니다."
+			],
+			[
+				17,
+				"되",
+				"VV",
+				"딸하고 아들하고 다 성인이 됐는데도 아버지에 대해서 물어보면 엄마가 이때까지 다 관여를 하고 결정을 했는데 왜 자기들한테 물어보냐고...\""
+			],
+			[
+				18,
+				"대하",
+				"VV",
+				"딸하고 아들하고 다 성인이 됐는데도 아버지에 대해서 물어보면 엄마가 이때까지 다 관여를 하고 결정을 했는데 왜 자기들한테 물어보냐고...\""
+			],
+			[
+				19,
+				"물어보",
+				"VV",
+				"딸하고 아들하고 다 성인이 됐는데도 아버지에 대해서 물어보면 엄마가 이때까지 다 관여를 하고 결정을 했는데 왜 자기들한테 물어보냐고...\""
+			],
+			[
+				20,
+				"하",
+				"VV",
+				"딸하고 아들하고 다 성인이 됐는데도 아버지에 대해서 물어보면 엄마가 이때까지 다 관여를 하고 결정을 했는데 왜 자기들한테 물어보냐고...\""
+			],
+			[
+				21,
+				"하",
+				"VV",
+				"딸하고 아들하고 다 성인이 됐는데도 아버지에 대해서 물어보면 엄마가 이때까지 다 관여를 하고 결정을 했는데 왜 자기들한테 물어보냐고...\""
+			],
+			[
+				22,
+				"물어보",
+				"VV",
+				"딸하고 아들하고 다 성인이 됐는데도 아버지에 대해서 물어보면 엄마가 이때까지 다 관여를 하고 결정을 했는데 왜 자기들한테 물어보냐고...\""
+			]
+		],
+		"VV_Lst": [
+			[
+				0,
+				"하",
+				"VV",
+				"\"가족들과 상담을 해서 심각성을 이야기했는데도 데리고 갈 생각을 안 합니다."
+			],
+			[
+				1,
+				"이야기하",
+				"VV",
+				"\"가족들과 상담을 해서 심각성을 이야기했는데도 데리고 갈 생각을 안 합니다."
+			],
+			[
+				2,
+				"데리",
+				"VV",
+				"\"가족들과 상담을 해서 심각성을 이야기했는데도 데리고 갈 생각을 안 합니다."
+			],
+			[
+				3,
+				"가",
+				"VV",
+				"\"가족들과 상담을 해서 심각성을 이야기했는데도 데리고 갈 생각을 안 합니다."
+			],
+			[
+				4,
+				"하",
+				"VV",
+				"\"가족들과 상담을 해서 심각성을 이야기했는데도 데리고 갈 생각을 안 합니다."
+			],
+			[
+				5,
+				"일하",
+				"VV",
+				"A 씨를 여기서 일하게 두면 생계비는 줘야 할 텐데 통장은 모두 부인이 관리하면서 돈을 주는 것도 아닙니다."
+			],
+			[
+				6,
+				"두",
+				"VV",
+				"A 씨를 여기서 일하게 두면 생계비는 줘야 할 텐데 통장은 모두 부인이 관리하면서 돈을 주는 것도 아닙니다."
+			],
+			[
+				7,
+				"주",
+				"VV",
+				"A 씨를 여기서 일하게 두면 생계비는 줘야 할 텐데 통장은 모두 부인이 관리하면서 돈을 주는 것도 아닙니다."
+			],
+			[
+				8,
+				"관리하",
+				"VV",
+				"A 씨를 여기서 일하게 두면 생계비는 줘야 할 텐데 통장은 모두 부인이 관리하면서 돈을 주는 것도 아닙니다."
+			],
+			[
+				9,
+				"주",
+				"VV",
+				"A 씨를 여기서 일하게 두면 생계비는 줘야 할 텐데 통장은 모두 부인이 관리하면서 돈을 주는 것도 아닙니다."
+			],
+			[
+				10,
+				"오",
+				"VV",
+				"A 씨를 부산 집에도 못 오게 하고 제일 나쁜 사람은 배우자입니다."
+			],
+			[
+				11,
+				"되",
+				"VV",
+				"딸하고 아들하고 다 성인이 됐는데도 아버지에 대해서 물어보면 엄마가 이때까지 다 관여를 하고 결정을 했는데 왜 자기들한테 물어보냐고...\""
+			],
+			[
+				12,
+				"대하",
+				"VV",
+				"딸하고 아들하고 다 성인이 됐는데도 아버지에 대해서 물어보면 엄마가 이때까지 다 관여를 하고 결정을 했는데 왜 자기들한테 물어보냐고...\""
+			],
+			[
+				13,
+				"물어보",
+				"VV",
+				"딸하고 아들하고 다 성인이 됐는데도 아버지에 대해서 물어보면 엄마가 이때까지 다 관여를 하고 결정을 했는데 왜 자기들한테 물어보냐고...\""
+			],
+			[
+				14,
+				"하",
+				"VV",
+				"딸하고 아들하고 다 성인이 됐는데도 아버지에 대해서 물어보면 엄마가 이때까지 다 관여를 하고 결정을 했는데 왜 자기들한테 물어보냐고...\""
+			],
+			[
+				15,
+				"하",
+				"VV",
+				"딸하고 아들하고 다 성인이 됐는데도 아버지에 대해서 물어보면 엄마가 이때까지 다 관여를 하고 결정을 했는데 왜 자기들한테 물어보냐고...\""
+			],
+			[
+				16,
+				"물어보",
+				"VV",
+				"딸하고 아들하고 다 성인이 됐는데도 아버지에 대해서 물어보면 엄마가 이때까지 다 관여를 하고 결정을 했는데 왜 자기들한테 물어보냐고...\""
+			]
+		],
+		"VA_Lst": [
+			[
+				0,
+				"나쁘",
+				"VA",
+				"A 씨를 부산 집에도 못 오게 하고 제일 나쁜 사람은 배우자입니다."
+			]
+		],
+		"VX_Lst": [
+			[
+				0,
+				"하",
+				"VX",
+				"A 씨를 여기서 일하게 두면 생계비는 줘야 할 텐데 통장은 모두 부인이 관리하면서 돈을 주는 것도 아닙니다."
+			],
+			[
+				1,
+				"하",
+				"VX",
+				"A 씨를 부산 집에도 못 오게 하고 제일 나쁜 사람은 배우자입니다."
+			]
+		],
+		"VCP_Lst": [
+			[
+				0,
+				"이",
+				"VCP",
+				"A 씨를 여기서 일하게 두면 생계비는 줘야 할 텐데 통장은 모두 부인이 관리하면서 돈을 주는 것도 아닙니다."
+			],
+			[
+				1,
+				"이",
+				"VCP",
+				"A 씨를 부산 집에도 못 오게 하고 제일 나쁜 사람은 배우자입니다."
+			]
+		],
+		"VCN_Lst": [
+			[
+				0,
+				"아니",
+				"VCN",
+				"A 씨를 여기서 일하게 두면 생계비는 줘야 할 텐데 통장은 모두 부인이 관리하면서 돈을 주는 것도 아닙니다."
+			]
+		],
+		"ML_Lst": [
+			[
+				0,
+				"안",
+				"MAG",
+				"\"가족들과 상담을 해서 심각성을 이야기했는데도 데리고 갈 생각을 안 합니다."
+			],
+			[
+				1,
+				"모두",
+				"MAG",
+				"A 씨를 여기서 일하게 두면 생계비는 줘야 할 텐데 통장은 모두 부인이 관리하면서 돈을 주는 것도 아닙니다."
+			],
+			[
+				2,
+				"못",
+				"MAG",
+				"A 씨를 부산 집에도 못 오게 하고 제일 나쁜 사람은 배우자입니다."
+			],
+			[
+				3,
+				"제일",
+				"MAG",
+				"A 씨를 부산 집에도 못 오게 하고 제일 나쁜 사람은 배우자입니다."
+			],
+			[
+				4,
+				"다",
+				"MAG",
+				"딸하고 아들하고 다 성인이 됐는데도 아버지에 대해서 물어보면 엄마가 이때까지 다 관여를 하고 결정을 했는데 왜 자기들한테 물어보냐고...\""
+			],
+			[
+				5,
+				"다",
+				"MAG",
+				"딸하고 아들하고 다 성인이 됐는데도 아버지에 대해서 물어보면 엄마가 이때까지 다 관여를 하고 결정을 했는데 왜 자기들한테 물어보냐고...\""
+			],
+			[
+				6,
+				"왜",
+				"MAG",
+				"딸하고 아들하고 다 성인이 됐는데도 아버지에 대해서 물어보면 엄마가 이때까지 다 관여를 하고 결정을 했는데 왜 자기들한테 물어보냐고...\""
+			]
+		],
+		"MA_Lst": [],
+		"MM_Lst": [],
+		"J_Lst": [
+			[
+				0,
+				"과",
+				"JKB",
+				"\"가족들과 상담을 해서 심각성을 이야기했는데도 데리고 갈 생각을 안 합니다."
+			],
+			[
+				1,
+				"을",
+				"JKO",
+				"\"가족들과 상담을 해서 심각성을 이야기했는데도 데리고 갈 생각을 안 합니다."
+			],
+			[
+				2,
+				"을",
+				"JKO",
+				"\"가족들과 상담을 해서 심각성을 이야기했는데도 데리고 갈 생각을 안 합니다."
+			],
+			[
+				3,
+				"도",
+				"JX",
+				"\"가족들과 상담을 해서 심각성을 이야기했는데도 데리고 갈 생각을 안 합니다."
+			],
+			[
+				4,
+				"을",
+				"JKO",
+				"\"가족들과 상담을 해서 심각성을 이야기했는데도 데리고 갈 생각을 안 합니다."
+			],
+			[
+				5,
+				"를",
+				"JKO",
+				"A 씨를 여기서 일하게 두면 생계비는 줘야 할 텐데 통장은 모두 부인이 관리하면서 돈을 주는 것도 아닙니다."
+			],
+			[
+				6,
+				"서",
+				"JKB",
+				"A 씨를 여기서 일하게 두면 생계비는 줘야 할 텐데 통장은 모두 부인이 관리하면서 돈을 주는 것도 아닙니다."
+			],
+			[
+				7,
+				"는",
+				"JX",
+				"A 씨를 여기서 일하게 두면 생계비는 줘야 할 텐데 통장은 모두 부인이 관리하면서 돈을 주는 것도 아닙니다."
+			],
+			[
+				8,
+				"은",
+				"JX",
+				"A 씨를 여기서 일하게 두면 생계비는 줘야 할 텐데 통장은 모두 부인이 관리하면서 돈을 주는 것도 아닙니다."
+			],
+			[
+				9,
+				"이",
+				"JKS",
+				"A 씨를 여기서 일하게 두면 생계비는 줘야 할 텐데 통장은 모두 부인이 관리하면서 돈을 주는 것도 아닙니다."
+			],
+			[
+				10,
+				"을",
+				"JKO",
+				"A 씨를 여기서 일하게 두면 생계비는 줘야 할 텐데 통장은 모두 부인이 관리하면서 돈을 주는 것도 아닙니다."
+			],
+			[
+				11,
+				"도",
+				"JX",
+				"A 씨를 여기서 일하게 두면 생계비는 줘야 할 텐데 통장은 모두 부인이 관리하면서 돈을 주는 것도 아닙니다."
+			],
+			[
+				12,
+				"를",
+				"JKO",
+				"A 씨를 부산 집에도 못 오게 하고 제일 나쁜 사람은 배우자입니다."
+			],
+			[
+				13,
+				"에",
+				"JKB",
+				"A 씨를 부산 집에도 못 오게 하고 제일 나쁜 사람은 배우자입니다."
+			],
+			[
+				14,
+				"도",
+				"JX",
+				"A 씨를 부산 집에도 못 오게 하고 제일 나쁜 사람은 배우자입니다."
+			],
+			[
+				15,
+				"은",
+				"JX",
+				"A 씨를 부산 집에도 못 오게 하고 제일 나쁜 사람은 배우자입니다."
+			],
+			[
+				16,
+				"요",
+				"JX",
+				"가족들요."
+			],
+			[
+				17,
+				"하고",
+				"JC",
+				"딸하고 아들하고 다 성인이 됐는데도 아버지에 대해서 물어보면 엄마가 이때까지 다 관여를 하고 결정을 했는데 왜 자기들한테 물어보냐고...\""
+			],
+			[
+				18,
+				"하고",
+				"JKB",
+				"딸하고 아들하고 다 성인이 됐는데도 아버지에 대해서 물어보면 엄마가 이때까지 다 관여를 하고 결정을 했는데 왜 자기들한테 물어보냐고...\""
+			],
+			[
+				19,
+				"이",
+				"JKC",
+				"딸하고 아들하고 다 성인이 됐는데도 아버지에 대해서 물어보면 엄마가 이때까지 다 관여를 하고 결정을 했는데 왜 자기들한테 물어보냐고...\""
+			],
+			[
+				20,
+				"도",
+				"JX",
+				"딸하고 아들하고 다 성인이 됐는데도 아버지에 대해서 물어보면 엄마가 이때까지 다 관여를 하고 결정을 했는데 왜 자기들한테 물어보냐고...\""
+			],
+			[
+				21,
+				"에",
+				"JKB",
+				"딸하고 아들하고 다 성인이 됐는데도 아버지에 대해서 물어보면 엄마가 이때까지 다 관여를 하고 결정을 했는데 왜 자기들한테 물어보냐고...\""
+			],
+			[
+				22,
+				"가",
+				"JKS",
+				"딸하고 아들하고 다 성인이 됐는데도 아버지에 대해서 물어보면 엄마가 이때까지 다 관여를 하고 결정을 했는데 왜 자기들한테 물어보냐고...\""
+			],
+			[
+				23,
+				"까지",
+				"JX",
+				"딸하고 아들하고 다 성인이 됐는데도 아버지에 대해서 물어보면 엄마가 이때까지 다 관여를 하고 결정을 했는데 왜 자기들한테 물어보냐고...\""
+			],
+			[
+				24,
+				"를",
+				"JKO",
+				"딸하고 아들하고 다 성인이 됐는데도 아버지에 대해서 물어보면 엄마가 이때까지 다 관여를 하고 결정을 했는데 왜 자기들한테 물어보냐고...\""
+			],
+			[
+				25,
+				"을",
+				"JKO",
+				"딸하고 아들하고 다 성인이 됐는데도 아버지에 대해서 물어보면 엄마가 이때까지 다 관여를 하고 결정을 했는데 왜 자기들한테 물어보냐고...\""
+			],
+			[
+				26,
+				"한테",
+				"JKB",
+				"딸하고 아들하고 다 성인이 됐는데도 아버지에 대해서 물어보면 엄마가 이때까지 다 관여를 하고 결정을 했는데 왜 자기들한테 물어보냐고...\""
+			]
+		],
+		"E_Lst": [
+			[
+				0,
+				"아서",
+				"EC",
+				"\"가족들과 상담을 해서 심각성을 이야기했는데도 데리고 갈 생각을 안 합니다."
+			],
+			[
+				1,
+				"았",
+				"EP",
+				"\"가족들과 상담을 해서 심각성을 이야기했는데도 데리고 갈 생각을 안 합니다."
+			],
+			[
+				2,
+				"는데",
+				"EC",
+				"\"가족들과 상담을 해서 심각성을 이야기했는데도 데리고 갈 생각을 안 합니다."
+			],
+			[
+				3,
+				"고",
+				"EC",
+				"\"가족들과 상담을 해서 심각성을 이야기했는데도 데리고 갈 생각을 안 합니다."
+			],
+			[
+				4,
+				"ㄹ",
+				"ETM",
+				"\"가족들과 상담을 해서 심각성을 이야기했는데도 데리고 갈 생각을 안 합니다."
+			],
+			[
+				5,
+				"ㅂ니다",
+				"EF",
+				"\"가족들과 상담을 해서 심각성을 이야기했는데도 데리고 갈 생각을 안 합니다."
+			],
+			[
+				6,
+				"게",
+				"EC",
+				"A 씨를 여기서 일하게 두면 생계비는 줘야 할 텐데 통장은 모두 부인이 관리하면서 돈을 주는 것도 아닙니다."
+			],
+			[
+				7,
+				"면",
+				"EC",
+				"A 씨를 여기서 일하게 두면 생계비는 줘야 할 텐데 통장은 모두 부인이 관리하면서 돈을 주는 것도 아닙니다."
+			],
+			[
+				8,
+				"어야",
+				"EC",
+				"A 씨를 여기서 일하게 두면 생계비는 줘야 할 텐데 통장은 모두 부인이 관리하면서 돈을 주는 것도 아닙니다."
+			],
+			[
+				9,
+				"ㄹ",
+				"ETM",
+				"A 씨를 여기서 일하게 두면 생계비는 줘야 할 텐데 통장은 모두 부인이 관리하면서 돈을 주는 것도 아닙니다."
+			],
+			[
+				10,
+				"ㄴ데",
+				"EC",
+				"A 씨를 여기서 일하게 두면 생계비는 줘야 할 텐데 통장은 모두 부인이 관리하면서 돈을 주는 것도 아닙니다."
+			],
+			[
+				11,
+				"면서",
+				"EC",
+				"A 씨를 여기서 일하게 두면 생계비는 줘야 할 텐데 통장은 모두 부인이 관리하면서 돈을 주는 것도 아닙니다."
+			],
+			[
+				12,
+				"는",
+				"ETM",
+				"A 씨를 여기서 일하게 두면 생계비는 줘야 할 텐데 통장은 모두 부인이 관리하면서 돈을 주는 것도 아닙니다."
+			],
+			[
+				13,
+				"ㅂ니다",
+				"EF",
+				"A 씨를 여기서 일하게 두면 생계비는 줘야 할 텐데 통장은 모두 부인이 관리하면서 돈을 주는 것도 아닙니다."
+			],
+			[
+				14,
+				"게",
+				"EC",
+				"A 씨를 부산 집에도 못 오게 하고 제일 나쁜 사람은 배우자입니다."
+			],
+			[
+				15,
+				"고",
+				"EC",
+				"A 씨를 부산 집에도 못 오게 하고 제일 나쁜 사람은 배우자입니다."
+			],
+			[
+				16,
+				"ㄴ",
+				"ETM",
+				"A 씨를 부산 집에도 못 오게 하고 제일 나쁜 사람은 배우자입니다."
+			],
+			[
+				17,
+				"ㅂ니다",
+				"EF",
+				"A 씨를 부산 집에도 못 오게 하고 제일 나쁜 사람은 배우자입니다."
+			],
+			[
+				18,
+				"었",
+				"EP",
+				"딸하고 아들하고 다 성인이 됐는데도 아버지에 대해서 물어보면 엄마가 이때까지 다 관여를 하고 결정을 했는데 왜 자기들한테 물어보냐고...\""
+			],
+			[
+				19,
+				"는데",
+				"EC",
+				"딸하고 아들하고 다 성인이 됐는데도 아버지에 대해서 물어보면 엄마가 이때까지 다 관여를 하고 결정을 했는데 왜 자기들한테 물어보냐고...\""
+			],
+			[
+				20,
+				"아서",
+				"EC",
+				"딸하고 아들하고 다 성인이 됐는데도 아버지에 대해서 물어보면 엄마가 이때까지 다 관여를 하고 결정을 했는데 왜 자기들한테 물어보냐고...\""
+			],
+			[
+				21,
+				"면",
+				"EC",
+				"딸하고 아들하고 다 성인이 됐는데도 아버지에 대해서 물어보면 엄마가 이때까지 다 관여를 하고 결정을 했는데 왜 자기들한테 물어보냐고...\""
+			],
+			[
+				22,
+				"고",
+				"EC",
+				"딸하고 아들하고 다 성인이 됐는데도 아버지에 대해서 물어보면 엄마가 이때까지 다 관여를 하고 결정을 했는데 왜 자기들한테 물어보냐고...\""
+			],
+			[
+				23,
+				"았",
+				"EP",
+				"딸하고 아들하고 다 성인이 됐는데도 아버지에 대해서 물어보면 엄마가 이때까지 다 관여를 하고 결정을 했는데 왜 자기들한테 물어보냐고...\""
+			],
+			[
+				24,
+				"는데",
+				"EC",
+				"딸하고 아들하고 다 성인이 됐는데도 아버지에 대해서 물어보면 엄마가 이때까지 다 관여를 하고 결정을 했는데 왜 자기들한테 물어보냐고...\""
+			],
+			[
+				25,
+				"냐고",
+				"EF",
+				"딸하고 아들하고 다 성인이 됐는데도 아버지에 대해서 물어보면 엄마가 이때까지 다 관여를 하고 결정을 했는데 왜 자기들한테 물어보냐고...\""
+			]
+		],
+		"X_Lst": [
+			[
+				0,
+				"들",
+				"XSN",
+				"\"가족들과 상담을 해서 심각성을 이야기했는데도 데리고 갈 생각을 안 합니다."
+			],
+			[
+				1,
+				"들",
+				"XSN",
+				"가족들요."
+			],
+			[
+				2,
+				"들",
+				"XSN",
+				"딸하고 아들하고 다 성인이 됐는데도 아버지에 대해서 물어보면 엄마가 이때까지 다 관여를 하고 결정을 했는데 왜 자기들한테 물어보냐고...\""
+			]
+		],
+		"IC_Lst": []
+	},
+	"NDW": {
+		"morph_NDW": 83,
+		"NL_NDW": 27,
+		"NNG_NDW": 20,
+		"NNP_NDW": 1,
+		"NNB_NDW": 4,
+		"NP_NDW": 2,
+		"NR_NDW": 0,
+		"VL_NDW": 23,
+		"VV_NDW": 17,
+		"VA_NDW": 1,
+		"ML_NDW": 7,
+		"MM_NDW": 0,
+		"IC_NDW": 0,
+		"J_NDW": 27,
+		"E_NDW": 26,
+		"X_NDW": 3,
+		"CL_NDW": 57,
+		"FL_NDW": 56
+	}
+}

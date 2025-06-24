@@ -1,0 +1,3410 @@
+﻿{
+	"morpheme": {
+		"sentences": [
+			{
+				"text": {
+					"content": "다시 교실로 돌아온 학생들에게 느낀 점을 들어봤다.",
+					"length": 28,
+					"beginOffset": 0
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "다시",
+							"length": 2,
+							"beginOffset": 0
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "다시",
+									"length": 2,
+									"beginOffset": 0
+								},
+								"tag": "MAG",
+								"probability": 0.98919505,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "다시",
+						"tagged": "다시/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "교실로",
+							"beginOffset": 3,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "교실",
+									"beginOffset": 3,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9784482,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "로",
+									"beginOffset": 5,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99474055,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "교실",
+						"tagged": "교실/NNG+로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "돌아온",
+							"beginOffset": 7,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "돌아오",
+									"beginOffset": 7,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.99115545,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 9,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999713,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "돌아오",
+						"tagged": "돌아오/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "학생들에게",
+							"beginOffset": 11,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "학생",
+									"beginOffset": 11,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9862884,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "들",
+									"beginOffset": 13,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.9945602,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에게",
+									"beginOffset": 14,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.97813725,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "학생",
+						"tagged": "학생/NNG+들/XSN+에게/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "느낀",
+							"beginOffset": 17,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "느끼",
+									"beginOffset": 17,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.99128217,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 18,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.999977,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "느끼",
+						"tagged": "느끼/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "점을",
+							"beginOffset": 20,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "점",
+									"beginOffset": 20,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.70709985,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 21,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999144,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "점",
+						"tagged": "점/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "들어봤다.",
+							"beginOffset": 23,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "들어보",
+									"beginOffset": 23,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 25,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.999923,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 26,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.99293554,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 27,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99976337,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "들어보",
+						"tagged": "들어보/VV+았/EP+다/EF+./SF",
+						"modified": "들어봤다."
+					}
+				],
+				"refined": "다시 교실로 돌아온 학생들에게 느낀 점을 들어봤다."
+			},
+			{
+				"text": {
+					"content": "\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다.",
+					"beginOffset": 29,
+					"length": 192
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "\"평소",
+							"beginOffset": 29,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "\"",
+									"beginOffset": 29,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.99971825,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "평소",
+									"beginOffset": 30,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9849923,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "\"",
+						"tagged": "\"/SS+평소/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "지나쳤던",
+							"beginOffset": 33,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "지나치",
+									"beginOffset": 33,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.8661469,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 35,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9998269,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "던",
+									"beginOffset": 36,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9997967,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "지나치",
+						"tagged": "지나치/VV+었/EP+던/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "것들을",
+							"beginOffset": 38,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "것",
+									"beginOffset": 38,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9814427,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "들",
+									"beginOffset": 39,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.98713297,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 40,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99994975,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "것",
+						"tagged": "것/NNB+들/XSN+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "하나하나",
+							"beginOffset": 42,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하나하나",
+									"beginOffset": 42,
+									"length": 4
+								},
+								"tag": "MAG",
+								"probability": 0.9922659,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하나하나",
+						"tagged": "하나하나/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "살펴보게",
+							"beginOffset": 47,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "살펴보",
+									"beginOffset": 47,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.98477703,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "게",
+									"beginOffset": 50,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9954798,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "살펴보",
+						"tagged": "살펴보/VV+게/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "됐고",
+							"beginOffset": 52,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "되",
+									"beginOffset": 52,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9819134,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 52,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99997956,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 53,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9902409,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "되",
+						"tagged": "되/VV+었/EP+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "위험한",
+							"beginOffset": 55,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "위험하",
+									"beginOffset": 55,
+									"length": 3
+								},
+								"tag": "VA",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 57,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999365,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "위험하",
+						"tagged": "위험하/VA+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "것들이",
+							"beginOffset": 59,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "것",
+									"beginOffset": 59,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9797354,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "들",
+									"beginOffset": 60,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.9848499,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 61,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9937227,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "것",
+						"tagged": "것/NNB+들/XSN+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이렇게",
+							"beginOffset": 63,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이렇",
+									"beginOffset": 63,
+									"length": 2
+								},
+								"tag": "VA",
+								"probability": 0.9867565,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "게",
+									"beginOffset": 65,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9941776,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이렇",
+						"tagged": "이렇/VA+게/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "많은지",
+							"beginOffset": 67,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "많",
+									"beginOffset": 67,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9904973,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은지",
+									"beginOffset": 68,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.9848184,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "많",
+						"tagged": "많/VA+은지/EF",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "몰랐는데",
+							"beginOffset": 71,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "모르",
+									"beginOffset": 71,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9888811,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 72,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9999324,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는데",
+									"beginOffset": 73,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9902962,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "모르",
+						"tagged": "모르/VV+았/EP+는데/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "알게",
+							"beginOffset": 76,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "알",
+									"beginOffset": 76,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.99048513,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "게",
+									"beginOffset": 77,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99351656,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "알",
+						"tagged": "알/VV+게/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "되니",
+							"beginOffset": 79,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "되",
+									"beginOffset": 79,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9009632,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "니",
+									"beginOffset": 80,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9923612,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "되",
+						"tagged": "되/VV+니/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "고치고",
+							"beginOffset": 82,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "고치",
+									"beginOffset": 82,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9857602,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 84,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.98924255,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "고치",
+						"tagged": "고치/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "싶다\"(이재욱군",
+							"beginOffset": 86,
+							"length": 8
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "싶",
+									"beginOffset": 86,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.9805699,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 87,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9814633,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "\"",
+									"beginOffset": 88,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.99997896,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "(",
+									"beginOffset": 89,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.99998754,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이재욱",
+									"beginOffset": 90,
+									"length": 3
+								},
+								"tag": "NNP",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "군",
+									"beginOffset": 93,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.81725645,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "싶",
+						"tagged": "싶/VX+다/EF+\"/SS+(/SS+이재욱/NNP+군/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": ")",
+							"beginOffset": 94,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": ")",
+									"beginOffset": 94,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.99997497,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": ")",
+						"tagged": ")/SS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "\"처음",
+							"beginOffset": 96,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "\"",
+									"beginOffset": 96,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.99984676,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "처음",
+									"beginOffset": 97,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9845135,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "\"",
+						"tagged": "\"/SS+처음/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "해보는",
+							"beginOffset": 100,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "해보",
+									"beginOffset": 100,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.0,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 102,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99998355,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "해보",
+						"tagged": "해보/VV+는/ETM",
+						"modified": "해보는"
+					},
+					{
+						"text": {
+							"content": "것이어서",
+							"beginOffset": 104,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "것",
+									"beginOffset": 104,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9828321,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 105,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.9998451,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어서",
+									"beginOffset": 106,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9959155,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "것",
+						"tagged": "것/NNB+이/VCP+어서/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "많이",
+							"beginOffset": 109,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "많이",
+									"beginOffset": 109,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.99082977,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "많이",
+						"tagged": "많이/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "힘들",
+							"beginOffset": 112,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "힘들",
+									"beginOffset": 112,
+									"length": 2
+								},
+								"tag": "VA",
+								"probability": 0.9852889,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ",
+									"beginOffset": 113,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999915,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "힘들",
+						"tagged": "힘들/VA+ㄹ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "것",
+							"beginOffset": 115,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "것",
+									"beginOffset": 115,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.98463553,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "것",
+						"tagged": "것/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "같았는데",
+							"beginOffset": 117,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "같",
+									"beginOffset": 117,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.98400766,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 118,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99994177,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는데",
+									"beginOffset": 119,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.97592515,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "같",
+						"tagged": "같/VA+았/EP+는데/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "아주",
+							"beginOffset": 122,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "아주",
+									"beginOffset": 122,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9919622,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "아주",
+						"tagged": "아주/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "쉬웠다.",
+							"beginOffset": 125,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "쉽",
+									"beginOffset": 125,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9856131,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 126,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9999757,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 127,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9876422,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 128,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9998192,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "쉽",
+						"tagged": "쉽/VA+었/EP+다/EF+./SF",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "내가",
+							"beginOffset": 130,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "내",
+									"beginOffset": 130,
+									"length": 1
+								},
+								"tag": "NP",
+								"probability": 0.9877086,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 131,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9937859,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "내",
+						"tagged": "내/NP+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "직접",
+							"beginOffset": 133,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "직접",
+									"beginOffset": 133,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9858168,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "직접",
+						"tagged": "직접/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "찍고",
+							"beginOffset": 136,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "찍",
+									"beginOffset": 136,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.97688043,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 137,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99206996,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "찍",
+						"tagged": "찍/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "올리는",
+							"beginOffset": 139,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "올리",
+									"beginOffset": 139,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9835892,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 141,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99997973,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "올리",
+						"tagged": "올리/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "것이어서",
+							"beginOffset": 143,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "것",
+									"beginOffset": 143,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9819643,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 144,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.99982494,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어서",
+									"beginOffset": 145,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9933867,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "것",
+						"tagged": "것/NNB+이/VCP+어서/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "더",
+							"beginOffset": 148,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "더",
+									"beginOffset": 148,
+									"length": 1
+								},
+								"tag": "MAG",
+								"probability": 0.9937461,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "더",
+						"tagged": "더/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "재미있었다\"(이원희군",
+							"beginOffset": 150,
+							"length": 11
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "재미있",
+									"beginOffset": 150,
+									"length": 3
+								},
+								"tag": "VA",
+								"probability": 0.9851237,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 153,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9999652,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 154,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.97410834,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "\"",
+									"beginOffset": 155,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.999704,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "(",
+									"beginOffset": 156,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.99975055,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이원희",
+									"beginOffset": 157,
+									"length": 3
+								},
+								"tag": "NNP",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "군",
+									"beginOffset": 160,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9217827,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "재미있",
+						"tagged": "재미있/VA+었/EP+다/EF+\"/SS+(/SS+이원희/NNP+군/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": ")",
+							"beginOffset": 161,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": ")",
+									"beginOffset": 161,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.99994075,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": ")",
+						"tagged": ")/SS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "\"밖에",
+							"beginOffset": 163,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "\"",
+									"beginOffset": 163,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9995775,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "밖",
+									"beginOffset": 164,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9832075,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 165,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99678445,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "\"",
+						"tagged": "\"/SS+밖/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "나가서",
+							"beginOffset": 167,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "나가",
+									"beginOffset": 167,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.97291887,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아서",
+									"beginOffset": 168,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9952794,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "나가",
+						"tagged": "나가/VV+아서/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "활동하는",
+							"beginOffset": 171,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "활동하",
+									"beginOffset": 171,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 174,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999464,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "활동하",
+						"tagged": "활동하/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "것이어서",
+							"beginOffset": 176,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "것",
+									"beginOffset": 176,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9858742,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 177,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.9999853,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어서",
+									"beginOffset": 178,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99350333,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "것",
+						"tagged": "것/NNB+이/VCP+어서/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "즐거웠고",
+							"beginOffset": 181,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "즐겁",
+									"beginOffset": 181,
+									"length": 2
+								},
+								"tag": "VA",
+								"probability": 0.9838066,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 183,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9999479,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 184,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.98948807,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "즐겁",
+						"tagged": "즐겁/VA+었/EP+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "친구들과",
+							"beginOffset": 186,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "친구",
+									"beginOffset": 186,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98364383,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "들",
+									"beginOffset": 188,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.99156755,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "과",
+									"beginOffset": 189,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9797722,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "친구",
+						"tagged": "친구/NNG+들/XSN+과/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "같이",
+							"beginOffset": 191,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "같이",
+									"beginOffset": 191,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.991002,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "같이",
+						"tagged": "같이/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "해서",
+							"beginOffset": 194,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 194,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.97590524,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아서",
+									"beginOffset": 194,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99580926,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VV+아서/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "재미있었다\"(권혁준군",
+							"beginOffset": 197,
+							"length": 11
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "재미있",
+									"beginOffset": 197,
+									"length": 3
+								},
+								"tag": "VA",
+								"probability": 0.98810625,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 200,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99992377,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 201,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9720889,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "\"",
+									"beginOffset": 202,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.99990636,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "(",
+									"beginOffset": 203,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9999092,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "권혁준",
+									"beginOffset": 204,
+									"length": 3
+								},
+								"tag": "NNP",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "군",
+									"beginOffset": 207,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.88434166,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "재미있",
+						"tagged": "재미있/VA+었/EP+다/EF+\"/SS+(/SS+권혁준/NNP+군/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": ")",
+							"beginOffset": 208,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": ")",
+									"beginOffset": 208,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.999845,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": ")",
+						"tagged": ")/SS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "등의",
+							"beginOffset": 210,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "등",
+									"beginOffset": 210,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9742676,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 211,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99972343,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "등",
+						"tagged": "등/NNB+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "소감이",
+							"beginOffset": 213,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "소감",
+									"beginOffset": 213,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9797743,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 215,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.8579165,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "소감",
+						"tagged": "소감/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "많았다.",
+							"beginOffset": 217,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "많",
+									"beginOffset": 217,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.98590404,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 218,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99970675,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 219,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9916125,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 220,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9997869,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "많",
+						"tagged": "많/VA+았/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군 ) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군 ) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군 ) 등의 소감이 많았다."
+			}
+		],
+		"language": "ko_KR"
+	},
+	"ttr": {
+		"lemma_Cnt": 113,
+		"lemma_TTR": 0.5703125,
+		"CL_TTR": 0.7966101694915254,
+		"NL_TTR": 0.6818181818181818,
+		"NN_TTR": 0.6666666666666666,
+		"NNG_TTR": 1.0,
+		"NNP_TTR": 1.0,
+		"NNB_TTR": 0.3,
+		"NP_TTR": 1.0,
+		"NR_TTR": 0,
+		"VL_TTR": 0.8333333333333334,
+		"VV_TTR": 0.9375,
+		"VA_TTR": 0.8,
+		"ML_TTR": 1.0,
+		"MM_TTR": 0,
+		"MA_TTR": 1.0,
+		"MAJ_TTR": 0,
+		"IC_TTR": 0,
+		"FL_TTR": 0.42592592592592593,
+		"J_TTR": 0.8,
+		"E_TTR": 0.35,
+		"X_TTR": 0.25,
+		"lemma_RTTR": 6.452349378327246,
+		"CL_RTTR": 6.118878816098722,
+		"NL_RTTR": 3.198010745334156,
+		"NN_RTTR": 3.0550504633038935,
+		"NNG_RTTR": 2.82842712474619,
+		"NNP_RTTR": 1.7320508075688774,
+		"NNB_RTTR": 0.9486832980505138,
+		"NP_RTTR": 1.0,
+		"NR_RTTR": 0,
+		"VL_RTTR": 4.564354645876384,
+		"VV_RTTR": 3.75,
+		"VA_RTTR": 2.5298221281347035,
+		"ML_RTTR": 2.6457513110645903,
+		"MM_RTTR": 0,
+		"MA_RTTR": 2.6457513110645903,
+		"MAJ_RTTR": 0,
+		"IC_RTTR": 0,
+		"FL_RTTR": 3.12990356022295,
+		"J_RTTR": 2.5298221281347035,
+		"E_RTTR": 2.2135943621178655,
+		"X_RTTR": 0.5,
+		"lemma_CTTR": 4.5625,
+		"CL_CTTR": 4.3267007041221195,
+		"NL_CTTR": 2.2613350843332274,
+		"NN_CTTR": 2.1602468994692865,
+		"NNG_CTTR": 2.0,
+		"NNP_CTTR": 1.2247448713915892,
+		"NNB_CTTR": 0.6708203932499369,
+		"NP_CTTR": 0.7071067811865475,
+		"NR_CTTR": 0,
+		"VL_CTTR": 3.227486121839514,
+		"VV_CTTR": 2.651650429449553,
+		"VA_CTTR": 1.7888543819998317,
+		"ML_CTTR": 1.8708286933869707,
+		"MM_CTTR": 0,
+		"MA_CTTR": 1.8708286933869707,
+		"MAJ_CTTR": 0,
+		"IC_CTTR": 0,
+		"FL_CTTR": 2.2131760318935654,
+		"J_CTTR": 1.7888543819998317,
+		"E_CTTR": 1.5652475842498528,
+		"X_CTTR": 0.35355339059327373,
+		"lemma_MSTTR": 0.73,
+		"CL_MSTTR": 0.82,
+		"NL_MSTTR": 0.6818181818181818,
+		"NN_MSTTR": 0.6666666666666666,
+		"NNG_MSTTR": 1.0,
+		"NNP_MSTTR": 1.0,
+		"NNB_MSTTR": 0.3,
+		"NP_MSTTR": 1.0,
+		"NR_MSTTR": 0,
+		"VL_MSTTR": 0.8333333333333334,
+		"VV_MSTTR": 0.9375,
+		"VA_MSTTR": 0.8,
+		"ML_MSTTR": 1.0,
+		"MM_MSTTR": 0,
+		"MA_MSTTR": 1.0,
+		"MAJ_MSTTR": 0,
+		"IC_MSTTR": 0,
+		"FL_MSTTR": 0.44,
+		"J_MSTTR": 0.8,
+		"E_MSTTR": 0.35,
+		"X_MSTTR": 0.25,
+		"lemma_MATTR": 0.7349367088607596,
+		"CL_MATTR": 0.798,
+		"NL_MATTR": 0.6818181818181818,
+		"NN_MATTR": 0.6666666666666666,
+		"NNG_MATTR": 1.0,
+		"NNP_MATTR": 1.0,
+		"NNB_MATTR": 0.3,
+		"NP_MATTR": 1.0,
+		"NR_MATTR": 0,
+		"VL_MATTR": 0.8333333333333334,
+		"VV_MATTR": 0.9375,
+		"VA_MATTR": 0.8,
+		"ML_MATTR": 1.0,
+		"MM_MATTR": 0,
+		"MA_MATTR": 1.0,
+		"MAJ_MATTR": 0,
+		"IC_MATTR": 0,
+		"FL_MATTR": 0.43600000000000005,
+		"J_MATTR": 0.8,
+		"E_MATTR": 0.35,
+		"X_MATTR": 0.25,
+		"lemma_MTLD": 58.53302961275626,
+		"CL_MTLD": 81.22333333333333,
+		"NL_MTLD": 15.749999999999998,
+		"NN_MTLD": 15.034090909090908,
+		"NNG_MTLD": 0.0,
+		"NNP_MTLD": 0.0,
+		"NNB_MTLD": 4.000000000000001,
+		"NP_MTLD": 0.0,
+		"NR_MTLD": 0.0,
+		"VL_MTLD": 50.40000000000002,
+		"VV_MTLD": 71.68,
+		"VA_MTLD": 14.000000000000004,
+		"ML_MTLD": 0.0,
+		"MM_MTLD": 0.0,
+		"MA_MTLD": 0.0,
+		"MAJ_MTLD": 0.0,
+		"IC_MTLD": 0.0,
+		"FL_MTLD": 15.21782890007189,
+		"J_MTLD": 14.000000000000004,
+		"E_MTLD": 10.275229357798166,
+		"X_MTLD": 1.4933333333333334,
+		"lemma_VOCDD": 55.69979963682922,
+		"CL_VOCDD": 85.9396110981164,
+		"NL_VOCDD": 0,
+		"NN_VOCDD": 0,
+		"NNG_VOCDD": 0,
+		"NNP_VOCDD": 0,
+		"NNB_VOCDD": 0,
+		"NP_VOCDD": 0,
+		"NR_VOCDD": 0,
+		"VL_VOCDD": 0,
+		"VV_VOCDD": 0,
+		"VA_VOCDD": 0,
+		"ML_VOCDD": 0,
+		"MM_VOCDD": 0,
+		"MA_VOCDD": 0,
+		"MAJ_VOCDD": 0,
+		"IC_VOCDD": 0,
+		"FL_VOCDD": 9.832162880910039,
+		"J_VOCDD": 0,
+		"E_VOCDD": 0,
+		"X_VOCDD": 0,
+		"lemma_HDD": 0.7752962583306119,
+		"CL_HDD": 0.8310922475000109,
+		"NL_HDD": 0.0,
+		"NN_HDD": 0.0,
+		"NNG_HDD": 0.0,
+		"NNP_HDD": 0.0,
+		"NNB_HDD": 0.0,
+		"NP_HDD": 0.0,
+		"NR_HDD": 0.0,
+		"VL_HDD": 0.0,
+		"VV_HDD": 0.0,
+		"VA_HDD": 0.0,
+		"ML_HDD": 0.0,
+		"MM_HDD": 0.0,
+		"MA_HDD": 0.0,
+		"MAJ_HDD": 0.0,
+		"IC_HDD": 0.0,
+		"FL_HDD": 0.48935823966742,
+		"J_HDD": 0.0,
+		"E_HDD": 0.0,
+		"X_HDD": 0.0
+	},
+	"similarity": {
+		"avgSentSimilarity": 0.19261181354522705,
+		"topicConsistency": 0.5936
+	},
+	"adjacency": {
+		"adjacent_sentence_overlap_all_lemmas": 53,
+		"adjacent_sentence_overlap_all_lemmas_normed": 1,
+		"binary_adjacent_sentence_overlap_all_lemmas": 1,
+		"adjacent_two_sentence_overlap_all_lemmas": 0,
+		"adjacent_two_sentence_overlap_all_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_all_lemmas": 0,
+		"adjacent_sentence_overlap_content_lemmas": 24,
+		"adjacent_sentence_overlap_content_lemmas_normed": 1,
+		"binary_adjacent_sentence_overlap_content_lemmas": 0,
+		"adjacent_two_sentence_overlap_content_lemmas": 0,
+		"adjacent_two_sentence_overlap_content_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_content_lemmas": 0,
+		"adjacent_sentence_overlap_function_lemmas": 24,
+		"adjacent_sentence_overlap_function_lemmas_normed": 1,
+		"binary_adjacent_sentence_overlap_function_lemmas": 1,
+		"adjacent_two_sentence_overlap_function_lemmas": 0,
+		"adjacent_two_sentence_overlap_function_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_function_lemmas": 0,
+		"adjacent_sentence_overlap_noun_lemmas": 8,
+		"adjacent_sentence_overlap_noun_lemmas_normed": 1,
+		"binary_adjacent_sentence_overlap_noun_lemmas": 1,
+		"adjacent_two_sentence_overlap_noun_lemmas": 0,
+		"adjacent_two_sentence_overlap_noun_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_noun_lemmas": 0,
+		"adjacent_sentence_overlap_verb_lemmas": 13,
+		"adjacent_sentence_overlap_verb_lemmas_normed": 1,
+		"binary_adjacent_sentence_overlap_verb_lemmas": 0,
+		"adjacent_two_sentence_overlap_verb_lemmas": 0,
+		"adjacent_two_sentence_overlap_verb_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_verb_lemmas": 0,
+		"adjacent_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_sentence_overlap_adjective_lemmas_normed": 0,
+		"binary_adjacent_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_sentence_overlap_adverb_lemmas": 6,
+		"adjacent_sentence_overlap_adverb_lemmas_normed": 1,
+		"binary_adjacent_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adverb_lemmas": 0
+	},
+	"basic_count": {
+		"para_Cnt": 1,
+		"sentence_Cnt": 2,
+		"word_Cnt": 50,
+		"morph_Cnt": 128,
+		"char_Cnt": 161,
+		"CL_Cnt": 59,
+		"NL_Cnt": 22,
+		"NN_Cnt": 21,
+		"NNG_Cnt": 8,
+		"NNP_Cnt": 3,
+		"NNB_Cnt": 10,
+		"NP_Cnt": 1,
+		"NP_People_Cnt": 0,
+		"NP_Things_Cnt": 0,
+		"NR_Cnt": 0,
+		"VL_Cnt": 30,
+		"VV_Cnt": 16,
+		"VA_Cnt": 10,
+		"VX_Cnt": 1,
+		"VCP_Cnt": 3,
+		"VCN_Cnt": 0,
+		"ML_Cnt": 7,
+		"MA_Cnt": 0,
+		"MM_Cnt": 0,
+		"FL_Cnt": 54,
+		"J_Cnt": 10,
+		"E_Cnt": 40,
+		"X_Cnt": 4,
+		"IC_Cnt": 0
+	},
+	"basic_density": {
+		"CL_Den": 0.4609375,
+		"FL_Den": 0.421875,
+		"NL_Den": 0.1640625,
+		"NNGL_Den": 0.0625,
+		"NNPL_Den": 0.0234375,
+		"NNBL_Den": 0.078125,
+		"NPL_Den": 0.0078125,
+		"NML_Den": 0.0,
+		"VL_Den": 0.234375,
+		"VVL_Den": 0.125,
+		"VAL_Den": 0.078125,
+		"ML_Den": 0.0546875,
+		"MML_Den": 0.0,
+		"MAL_Den": 0.0,
+		"JL_Den": 0.078125,
+		"EL_Den": 0.3125,
+		"XL_Den": 0.03125,
+		"ITL_Den": 0.0,
+		"NCL_Den": 0.3559322033898305,
+		"NNCL_Den": 0.13559322033898305,
+		"NNGCL_Den": 0.05084745762711865,
+		"NNBCL_Den": 0.1694915254237288,
+		"NPCL_Den": 0.01694915254237288,
+		"NMCL_Den": 0.0,
+		"VCL_Den": 0.5084745762711864,
+		"VVCL_Den": 0.2711864406779661,
+		"VACL_Den": 0.1694915254237288,
+		"MCL_Den": 0.11864406779661017,
+		"MMCL_Den": 0.0,
+		"MACL_Den": 0.0,
+		"INCL_Den": 0.0,
+		"JFL_Den": 0.18518518518518517,
+		"EFL_Den": 0.7407407407407407,
+		"XFL_Den": 0.07407407407407407
+	},
+	"basic_level": {
+		"morph_LenAvg": 1.421875,
+		"morph_LenStd": 0.6801812143649661,
+		"word_LenAvg": 3.14,
+		"word_LenStd": 1.5621779668142803
+	},
+	"basic_list": {
+		"NL_Lst": [
+			[
+				0,
+				"교실",
+				"NNG",
+				"다시 교실로 돌아온 학생들에게 느낀 점을 들어봤다."
+			],
+			[
+				1,
+				"학생",
+				"NNG",
+				"다시 교실로 돌아온 학생들에게 느낀 점을 들어봤다."
+			],
+			[
+				2,
+				"점",
+				"NNG",
+				"다시 교실로 돌아온 학생들에게 느낀 점을 들어봤다."
+			],
+			[
+				3,
+				"평소",
+				"NNG",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				4,
+				"것",
+				"NNB",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				5,
+				"것",
+				"NNB",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				6,
+				"이재욱",
+				"NNP",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				7,
+				"군",
+				"NNB",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				8,
+				"처음",
+				"NNG",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				9,
+				"것",
+				"NNB",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				10,
+				"것",
+				"NNB",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				11,
+				"내",
+				"NP",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				12,
+				"것",
+				"NNB",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				13,
+				"이원희",
+				"NNP",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				14,
+				"군",
+				"NNB",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				15,
+				"밖",
+				"NNG",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				16,
+				"것",
+				"NNB",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				17,
+				"친구",
+				"NNG",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				18,
+				"권혁준",
+				"NNP",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				19,
+				"군",
+				"NNB",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				20,
+				"등",
+				"NNB",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				21,
+				"소감",
+				"NNG",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			]
+		],
+		"NN_Lst": [
+			[
+				0,
+				"교실",
+				"NNG",
+				"다시 교실로 돌아온 학생들에게 느낀 점을 들어봤다."
+			],
+			[
+				1,
+				"학생",
+				"NNG",
+				"다시 교실로 돌아온 학생들에게 느낀 점을 들어봤다."
+			],
+			[
+				2,
+				"점",
+				"NNG",
+				"다시 교실로 돌아온 학생들에게 느낀 점을 들어봤다."
+			],
+			[
+				3,
+				"평소",
+				"NNG",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				4,
+				"것",
+				"NNB",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				5,
+				"것",
+				"NNB",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				6,
+				"이재욱",
+				"NNP",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				7,
+				"군",
+				"NNB",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				8,
+				"처음",
+				"NNG",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				9,
+				"것",
+				"NNB",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				10,
+				"것",
+				"NNB",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				11,
+				"것",
+				"NNB",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				12,
+				"이원희",
+				"NNP",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				13,
+				"군",
+				"NNB",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				14,
+				"밖",
+				"NNG",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				15,
+				"것",
+				"NNB",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				16,
+				"친구",
+				"NNG",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				17,
+				"권혁준",
+				"NNP",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				18,
+				"군",
+				"NNB",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				19,
+				"등",
+				"NNB",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				20,
+				"소감",
+				"NNG",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			]
+		],
+		"NNG_Lst": [
+			[
+				0,
+				"교실",
+				"NNG",
+				"다시 교실로 돌아온 학생들에게 느낀 점을 들어봤다."
+			],
+			[
+				1,
+				"학생",
+				"NNG",
+				"다시 교실로 돌아온 학생들에게 느낀 점을 들어봤다."
+			],
+			[
+				2,
+				"점",
+				"NNG",
+				"다시 교실로 돌아온 학생들에게 느낀 점을 들어봤다."
+			],
+			[
+				3,
+				"평소",
+				"NNG",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				4,
+				"처음",
+				"NNG",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				5,
+				"밖",
+				"NNG",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				6,
+				"친구",
+				"NNG",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				7,
+				"소감",
+				"NNG",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			]
+		],
+		"NNP_Lst": [
+			[
+				0,
+				"이재욱",
+				"NNP",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				1,
+				"이원희",
+				"NNP",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				2,
+				"권혁준",
+				"NNP",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			]
+		],
+		"NNB_Lst": [
+			[
+				0,
+				"것",
+				"NNB",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				1,
+				"것",
+				"NNB",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				2,
+				"군",
+				"NNB",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				3,
+				"것",
+				"NNB",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				4,
+				"것",
+				"NNB",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				5,
+				"것",
+				"NNB",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				6,
+				"군",
+				"NNB",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				7,
+				"것",
+				"NNB",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				8,
+				"군",
+				"NNB",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				9,
+				"등",
+				"NNB",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			]
+		],
+		"NP_Lst": [
+			[
+				0,
+				"내",
+				"NP",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			]
+		],
+		"NP_People_Lst": [],
+		"NP_Things_Lst": [],
+		"NR_Lst": [],
+		"VL_Lst": [
+			[
+				0,
+				"돌아오",
+				"VV",
+				"다시 교실로 돌아온 학생들에게 느낀 점을 들어봤다."
+			],
+			[
+				1,
+				"느끼",
+				"VV",
+				"다시 교실로 돌아온 학생들에게 느낀 점을 들어봤다."
+			],
+			[
+				2,
+				"들어보",
+				"VV",
+				"다시 교실로 돌아온 학생들에게 느낀 점을 들어봤다."
+			],
+			[
+				3,
+				"지나치",
+				"VV",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				4,
+				"살펴보",
+				"VV",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				5,
+				"되",
+				"VV",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				6,
+				"위험하",
+				"VA",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				7,
+				"이렇",
+				"VA",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				8,
+				"많",
+				"VA",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				9,
+				"모르",
+				"VV",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				10,
+				"알",
+				"VV",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				11,
+				"되",
+				"VV",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				12,
+				"고치",
+				"VV",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				13,
+				"싶",
+				"VX",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				14,
+				"해보",
+				"VV",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				15,
+				"이",
+				"VCP",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				16,
+				"힘들",
+				"VA",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				17,
+				"같",
+				"VA",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				18,
+				"쉽",
+				"VA",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				19,
+				"찍",
+				"VV",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				20,
+				"올리",
+				"VV",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				21,
+				"이",
+				"VCP",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				22,
+				"재미있",
+				"VA",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				23,
+				"나가",
+				"VV",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				24,
+				"활동하",
+				"VV",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				25,
+				"이",
+				"VCP",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				26,
+				"즐겁",
+				"VA",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				27,
+				"하",
+				"VV",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				28,
+				"재미있",
+				"VA",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				29,
+				"많",
+				"VA",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			]
+		],
+		"VV_Lst": [
+			[
+				0,
+				"돌아오",
+				"VV",
+				"다시 교실로 돌아온 학생들에게 느낀 점을 들어봤다."
+			],
+			[
+				1,
+				"느끼",
+				"VV",
+				"다시 교실로 돌아온 학생들에게 느낀 점을 들어봤다."
+			],
+			[
+				2,
+				"들어보",
+				"VV",
+				"다시 교실로 돌아온 학생들에게 느낀 점을 들어봤다."
+			],
+			[
+				3,
+				"지나치",
+				"VV",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				4,
+				"살펴보",
+				"VV",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				5,
+				"되",
+				"VV",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				6,
+				"모르",
+				"VV",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				7,
+				"알",
+				"VV",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				8,
+				"되",
+				"VV",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				9,
+				"고치",
+				"VV",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				10,
+				"해보",
+				"VV",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				11,
+				"찍",
+				"VV",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				12,
+				"올리",
+				"VV",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				13,
+				"나가",
+				"VV",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				14,
+				"활동하",
+				"VV",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				15,
+				"하",
+				"VV",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			]
+		],
+		"VA_Lst": [
+			[
+				0,
+				"위험하",
+				"VA",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				1,
+				"이렇",
+				"VA",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				2,
+				"많",
+				"VA",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				3,
+				"힘들",
+				"VA",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				4,
+				"같",
+				"VA",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				5,
+				"쉽",
+				"VA",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				6,
+				"재미있",
+				"VA",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				7,
+				"즐겁",
+				"VA",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				8,
+				"재미있",
+				"VA",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				9,
+				"많",
+				"VA",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			]
+		],
+		"VX_Lst": [
+			[
+				0,
+				"싶",
+				"VX",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			]
+		],
+		"VCP_Lst": [
+			[
+				0,
+				"이",
+				"VCP",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				1,
+				"이",
+				"VCP",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				2,
+				"이",
+				"VCP",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			]
+		],
+		"VCN_Lst": [],
+		"ML_Lst": [
+			[
+				0,
+				"다시",
+				"MAG",
+				"다시 교실로 돌아온 학생들에게 느낀 점을 들어봤다."
+			],
+			[
+				1,
+				"하나하나",
+				"MAG",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				2,
+				"많이",
+				"MAG",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				3,
+				"아주",
+				"MAG",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				4,
+				"직접",
+				"MAG",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				5,
+				"더",
+				"MAG",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				6,
+				"같이",
+				"MAG",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			]
+		],
+		"MA_Lst": [],
+		"MM_Lst": [],
+		"J_Lst": [
+			[
+				0,
+				"로",
+				"JKB",
+				"다시 교실로 돌아온 학생들에게 느낀 점을 들어봤다."
+			],
+			[
+				1,
+				"에게",
+				"JKB",
+				"다시 교실로 돌아온 학생들에게 느낀 점을 들어봤다."
+			],
+			[
+				2,
+				"을",
+				"JKO",
+				"다시 교실로 돌아온 학생들에게 느낀 점을 들어봤다."
+			],
+			[
+				3,
+				"을",
+				"JKO",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				4,
+				"이",
+				"JKS",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				5,
+				"가",
+				"JKS",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				6,
+				"에",
+				"JKB",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				7,
+				"과",
+				"JKB",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				8,
+				"의",
+				"JKG",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				9,
+				"이",
+				"JKS",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			]
+		],
+		"E_Lst": [
+			[
+				0,
+				"ㄴ",
+				"ETM",
+				"다시 교실로 돌아온 학생들에게 느낀 점을 들어봤다."
+			],
+			[
+				1,
+				"ㄴ",
+				"ETM",
+				"다시 교실로 돌아온 학생들에게 느낀 점을 들어봤다."
+			],
+			[
+				2,
+				"았",
+				"EP",
+				"다시 교실로 돌아온 학생들에게 느낀 점을 들어봤다."
+			],
+			[
+				3,
+				"다",
+				"EF",
+				"다시 교실로 돌아온 학생들에게 느낀 점을 들어봤다."
+			],
+			[
+				4,
+				"었",
+				"EP",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				5,
+				"던",
+				"ETM",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				6,
+				"게",
+				"EC",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				7,
+				"었",
+				"EP",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				8,
+				"고",
+				"EC",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				9,
+				"ㄴ",
+				"ETM",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				10,
+				"게",
+				"EC",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				11,
+				"은지",
+				"EF",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				12,
+				"았",
+				"EP",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				13,
+				"는데",
+				"EC",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				14,
+				"게",
+				"EC",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				15,
+				"니",
+				"EC",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				16,
+				"고",
+				"EC",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				17,
+				"다",
+				"EF",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				18,
+				"는",
+				"ETM",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				19,
+				"어서",
+				"EC",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				20,
+				"ㄹ",
+				"ETM",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				21,
+				"았",
+				"EP",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				22,
+				"는데",
+				"EC",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				23,
+				"었",
+				"EP",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				24,
+				"다",
+				"EF",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				25,
+				"고",
+				"EC",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				26,
+				"는",
+				"ETM",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				27,
+				"어서",
+				"EC",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				28,
+				"었",
+				"EP",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				29,
+				"다",
+				"EF",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				30,
+				"아서",
+				"EC",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				31,
+				"는",
+				"ETM",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				32,
+				"어서",
+				"EC",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				33,
+				"었",
+				"EP",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				34,
+				"고",
+				"EC",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				35,
+				"아서",
+				"EC",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				36,
+				"었",
+				"EP",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				37,
+				"다",
+				"EF",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				38,
+				"았",
+				"EP",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				39,
+				"다",
+				"EF",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			]
+		],
+		"X_Lst": [
+			[
+				0,
+				"들",
+				"XSN",
+				"다시 교실로 돌아온 학생들에게 느낀 점을 들어봤다."
+			],
+			[
+				1,
+				"들",
+				"XSN",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				2,
+				"들",
+				"XSN",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			],
+			[
+				3,
+				"들",
+				"XSN",
+				"\"평소 지나쳤던 것들을 하나하나 살펴보게 됐고 위험한 것들이 이렇게 많은지 몰랐는데 알게 되니 고치고 싶다\"(이재욱군) \"처음 해보는 것이어서 많이 힘들 것 같았는데 아주 쉬웠다. 내가 직접 찍고 올리는 것이어서 더 재미있었다\"(이원희군) \"밖에 나가서 활동하는 것이어서 즐거웠고 친구들과 같이 해서 재미있었다\"(권혁준군) 등의 소감이 많았다."
+			]
+		],
+		"IC_Lst": []
+	},
+	"NDW": {
+		"morph_NDW": 74,
+		"NL_NDW": 22,
+		"NNG_NDW": 8,
+		"NNP_NDW": 3,
+		"NNB_NDW": 10,
+		"NP_NDW": 1,
+		"NR_NDW": 0,
+		"VL_NDW": 30,
+		"VV_NDW": 16,
+		"VA_NDW": 10,
+		"ML_NDW": 7,
+		"MM_NDW": 0,
+		"IC_NDW": 0,
+		"J_NDW": 10,
+		"E_NDW": 40,
+		"X_NDW": 4,
+		"CL_NDW": 59,
+		"FL_NDW": 54
+	}
+}

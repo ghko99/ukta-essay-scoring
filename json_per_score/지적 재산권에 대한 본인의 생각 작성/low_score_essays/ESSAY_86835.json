@@ -1,0 +1,3763 @@
+﻿{
+	"morpheme": {
+		"sentences": [
+			{
+				"text": {
+					"content": "화웨이는 지난해 말 기준 전 세계에 걸쳐 4만개 이상의 패밀리 특허를 보유하고 있다.",
+					"length": 47,
+					"beginOffset": 0
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "화웨이는",
+							"length": 4,
+							"beginOffset": 0
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "화웨이",
+									"length": 3,
+									"beginOffset": 0
+								},
+								"tag": "NNP",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 3,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.996949,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "화웨이",
+						"tagged": "화웨이/NNP+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "지난해",
+							"beginOffset": 5,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "지난해",
+									"beginOffset": 5,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9793738,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "지난해",
+						"tagged": "지난해/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "말",
+							"beginOffset": 9,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "말",
+									"beginOffset": 9,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.8577219,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "말",
+						"tagged": "말/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "기준",
+							"beginOffset": 11,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "기준",
+									"beginOffset": 11,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98244727,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "기준",
+						"tagged": "기준/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "전",
+							"beginOffset": 14,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "전",
+									"beginOffset": 14,
+									"length": 1
+								},
+								"tag": "MMN",
+								"probability": 0.9955843,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "전",
+						"tagged": "전/MMN",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "세계에",
+							"beginOffset": 16,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "세계",
+									"beginOffset": 16,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9852571,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 18,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9962289,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "세계",
+						"tagged": "세계/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "걸쳐",
+							"beginOffset": 20,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "걸치",
+									"beginOffset": 20,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.99046975,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어",
+									"beginOffset": 21,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99414253,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "걸치",
+						"tagged": "걸치/VV+어/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "4만개",
+							"beginOffset": 23,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "4",
+									"beginOffset": 23,
+									"length": 1
+								},
+								"tag": "SN",
+								"probability": 0.99888635,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "만",
+									"beginOffset": 24,
+									"length": 1
+								},
+								"tag": "NR",
+								"probability": 0.99333805,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "개",
+									"beginOffset": 25,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9775053,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "4",
+						"tagged": "4/SN+만/NR+개/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이상의",
+							"beginOffset": 27,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이상",
+									"beginOffset": 27,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98592466,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 29,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9996823,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이상",
+						"tagged": "이상/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "패밀리",
+							"beginOffset": 31,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "패밀리",
+									"beginOffset": 31,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.98003536,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "패밀리",
+						"tagged": "패밀리/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "특허를",
+							"beginOffset": 35,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "특허",
+									"beginOffset": 35,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9821603,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 37,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999783,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "특허",
+						"tagged": "특허/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "보유하고",
+							"beginOffset": 39,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "보유하",
+									"beginOffset": 39,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 42,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99368656,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "보유하",
+						"tagged": "보유하/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있다.",
+							"beginOffset": 44,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 44,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.972781,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 45,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.992735,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 46,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9991015,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VX+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "화웨이는 지난해 말 기준 전 세계에 걸쳐 4만개 이상의 패밀리 특허를 보유하고 있다."
+			},
+			{
+				"text": {
+					"content": "이 패밀리 특허에서 파생된 10만개 이상의 유효특허도 가지고 있다.",
+					"beginOffset": 48,
+					"length": 37
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "이",
+							"beginOffset": 48,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 48,
+									"length": 1
+								},
+								"tag": "MMD",
+								"probability": 0.9994973,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이",
+						"tagged": "이/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "패밀리",
+							"beginOffset": 50,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "패밀리",
+									"beginOffset": 50,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.97848433,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "패밀리",
+						"tagged": "패밀리/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "특허에서",
+							"beginOffset": 54,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "특허",
+									"beginOffset": 54,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9730403,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에서",
+									"beginOffset": 56,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.99312156,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "특허",
+						"tagged": "특허/NNG+에서/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "파생된",
+							"beginOffset": 59,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "파생되",
+									"beginOffset": 59,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 61,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9997988,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "파생되",
+						"tagged": "파생되/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "10만개",
+							"beginOffset": 63,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "10",
+									"beginOffset": 63,
+									"length": 2
+								},
+								"tag": "SN",
+								"probability": 0.99891293,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "만",
+									"beginOffset": 65,
+									"length": 1
+								},
+								"tag": "NR",
+								"probability": 0.9936032,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "개",
+									"beginOffset": 66,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.97872573,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "10",
+						"tagged": "10/SN+만/NR+개/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이상의",
+							"beginOffset": 68,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이상",
+									"beginOffset": 68,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9672582,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 70,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9994819,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이상",
+						"tagged": "이상/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "유효특허도",
+							"beginOffset": 72,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "유효",
+									"beginOffset": 72,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98315924,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "특허",
+									"beginOffset": 74,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97982943,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 76,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9992433,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "유효",
+						"tagged": "유효/NNG+특허/NNG+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "가지고",
+							"beginOffset": 78,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "가지",
+									"beginOffset": 78,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9687754,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 80,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99201393,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "가지",
+						"tagged": "가지/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있다.",
+							"beginOffset": 82,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 82,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.96940666,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 83,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.99339354,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 84,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9996396,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VX+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "이 패밀리 특허에서 파생된 10만개 이상의 유효특허도 가지고 있다."
+			},
+			{
+				"text": {
+					"content": "이는 화웨이가 최근 몇 년간 연매출의 15% 이상을 연구·개발(R&D)에 투자한 결과로 풀이된다.",
+					"beginOffset": 86,
+					"length": 54
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "이는",
+							"beginOffset": 86,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 86,
+									"length": 1
+								},
+								"tag": "NP",
+								"probability": 0.9508953,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 87,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99958485,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이",
+						"tagged": "이/NP+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "화웨이가",
+							"beginOffset": 89,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "화웨이",
+									"beginOffset": 89,
+									"length": 3
+								},
+								"tag": "NNP",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 92,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.98458344,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "화웨이",
+						"tagged": "화웨이/NNP+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "최근",
+							"beginOffset": 94,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "최근",
+									"beginOffset": 94,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98400146,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "최근",
+						"tagged": "최근/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "몇",
+							"beginOffset": 97,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "몇",
+									"beginOffset": 97,
+									"length": 1
+								},
+								"tag": "NR",
+								"probability": 0.98809206,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "몇",
+						"tagged": "몇/NR",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "년간",
+							"beginOffset": 99,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "년",
+									"beginOffset": 99,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9782431,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "간",
+									"beginOffset": 100,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.9728663,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "년",
+						"tagged": "년/NNB+간/XSN",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "연매출의",
+							"beginOffset": 102,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "연",
+									"beginOffset": 102,
+									"length": 1
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "매출",
+									"beginOffset": 103,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 105,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99979156,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "연",
+						"tagged": "연/NNG+매출/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "15%",
+							"beginOffset": 107,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "15",
+									"beginOffset": 107,
+									"length": 2
+								},
+								"tag": "SN",
+								"probability": 0.99871624,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "%",
+									"beginOffset": 109,
+									"length": 1
+								},
+								"tag": "SW",
+								"probability": 0.99783975,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "15",
+						"tagged": "15/SN+%/SW",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이상을",
+							"beginOffset": 111,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이상",
+									"beginOffset": 111,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9748269,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 113,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99998254,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이상",
+						"tagged": "이상/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "연구·개발(R&D)에",
+							"beginOffset": 115,
+							"length": 11
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "연구",
+									"beginOffset": 115,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9756417,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "·",
+									"beginOffset": 117,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.99753183,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "개발",
+									"beginOffset": 118,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9791349,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "(",
+									"beginOffset": 120,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.99987805,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "R",
+									"beginOffset": 121,
+									"length": 1
+								},
+								"tag": "SL",
+								"probability": 0.9762771,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "&",
+									"beginOffset": 122,
+									"length": 1
+								},
+								"tag": "SW",
+								"probability": 0.9932011,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "D",
+									"beginOffset": 123,
+									"length": 1
+								},
+								"tag": "SL",
+								"probability": 0.9711282,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ")",
+									"beginOffset": 124,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9999608,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 125,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9928504,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "연구",
+						"tagged": "연구/NNG+·/SP+개발/NNG+(/SS+R/SL+&/SW+D/SL+)/SS+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "투자한",
+							"beginOffset": 127,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "투자하",
+									"beginOffset": 127,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 129,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99997854,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "투자하",
+						"tagged": "투자하/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "결과로",
+							"beginOffset": 131,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "결과",
+									"beginOffset": 131,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9819105,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "로",
+									"beginOffset": 133,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99611205,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "결과",
+						"tagged": "결과/NNG+로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "풀이된다.",
+							"beginOffset": 135,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "풀이되",
+									"beginOffset": 135,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ다",
+									"beginOffset": 137,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.9904343,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 139,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99989855,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "풀이되",
+						"tagged": "풀이되/VV+ㄴ다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "이는 화웨이가 최근 몇 년간 연매출의 15% 이상을 연구·개발(R&D)에 투자한 결과로 풀이된다."
+			},
+			{
+				"text": {
+					"content": "화웨이는 지난해 약 26조원(1419억 위안을 R&D에 투자했고, 유럽연합에서 발표한 2020년 산업 R&D 순위에서 3위를 차지했다.",
+					"beginOffset": 141,
+					"length": 75
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "화웨이는",
+							"beginOffset": 141,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "화웨이",
+									"beginOffset": 141,
+									"length": 3
+								},
+								"tag": "NNP",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 144,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9990808,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "화웨이",
+						"tagged": "화웨이/NNP+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "지난해",
+							"beginOffset": 146,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "지난해",
+									"beginOffset": 146,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.98217165,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "지난해",
+						"tagged": "지난해/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "약",
+							"beginOffset": 150,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "약",
+									"beginOffset": 150,
+									"length": 1
+								},
+								"tag": "MMA",
+								"probability": 0.9963208,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "약",
+						"tagged": "약/MMA",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "26조원",
+							"beginOffset": 152,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "26",
+									"beginOffset": 152,
+									"length": 2
+								},
+								"tag": "SN",
+								"probability": 0.9970506,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "조",
+									"beginOffset": 154,
+									"length": 1
+								},
+								"tag": "NR",
+								"probability": 0.9945614,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "원",
+									"beginOffset": 155,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9698511,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "26",
+						"tagged": "26/SN+조/NR+원/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "(1419억",
+							"beginOffset": 156,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "(",
+									"beginOffset": 156,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.99998534,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "1419",
+									"beginOffset": 157,
+									"length": 4
+								},
+								"tag": "SN",
+								"probability": 0.99477726,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "억",
+									"beginOffset": 161,
+									"length": 1
+								},
+								"tag": "NR",
+								"probability": 0.990788,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "(",
+						"tagged": "(/SS+1419/SN+억/NR",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "위안을",
+							"beginOffset": 163,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "위안",
+									"beginOffset": 163,
+									"length": 2
+								},
+								"tag": "NNB",
+								"probability": 0.8914145,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 165,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99989575,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "위안",
+						"tagged": "위안/NNB+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "R&D에",
+							"beginOffset": 167,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "R",
+									"beginOffset": 167,
+									"length": 1
+								},
+								"tag": "SL",
+								"probability": 0.9750878,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "&",
+									"beginOffset": 168,
+									"length": 1
+								},
+								"tag": "SW",
+								"probability": 0.9955343,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "D",
+									"beginOffset": 169,
+									"length": 1
+								},
+								"tag": "SL",
+								"probability": 0.9687788,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 170,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9972167,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "R",
+						"tagged": "R/SL+&/SW+D/SL+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "투자했고",
+							"beginOffset": 172,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "투자하",
+									"beginOffset": 172,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 174,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9999557,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 175,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9932763,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "투자하",
+						"tagged": "투자하/VV+았/EP+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": ",",
+							"beginOffset": 176,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 176,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.998389,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": ",",
+						"tagged": ",/SP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "유럽연합에서",
+							"beginOffset": 178,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "유럽",
+									"beginOffset": 178,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "연합",
+									"beginOffset": 180,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "에서",
+									"beginOffset": 182,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.99651295,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "유럽",
+						"tagged": "유럽/NNG+연합/NNG+에서/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "발표한",
+							"beginOffset": 185,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "발표하",
+									"beginOffset": 185,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 187,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.999951,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "발표하",
+						"tagged": "발표하/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "2020년",
+							"beginOffset": 189,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "2020",
+									"beginOffset": 189,
+									"length": 4
+								},
+								"tag": "SN",
+								"probability": 0.9971892,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "년",
+									"beginOffset": 193,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9801877,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "2020",
+						"tagged": "2020/SN+년/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "산업",
+							"beginOffset": 195,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "산업",
+									"beginOffset": 195,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9815744,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "산업",
+						"tagged": "산업/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "R&D",
+							"beginOffset": 198,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "R",
+									"beginOffset": 198,
+									"length": 1
+								},
+								"tag": "SL",
+								"probability": 0.9718486,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "&",
+									"beginOffset": 199,
+									"length": 1
+								},
+								"tag": "SW",
+								"probability": 0.9951743,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "D",
+									"beginOffset": 200,
+									"length": 1
+								},
+								"tag": "SL",
+								"probability": 0.9748895,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "R",
+						"tagged": "R/SL+&/SW+D/SL",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "순위에서",
+							"beginOffset": 202,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "순위",
+									"beginOffset": 202,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98473,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에서",
+									"beginOffset": 204,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9953035,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "순위",
+						"tagged": "순위/NNG+에서/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "3위를",
+							"beginOffset": 207,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "3",
+									"beginOffset": 207,
+									"length": 1
+								},
+								"tag": "SN",
+								"probability": 0.9977372,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "위",
+									"beginOffset": 208,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9720223,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 209,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9998659,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "3",
+						"tagged": "3/SN+위/NNB+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "차지했다.",
+							"beginOffset": 211,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "차지하",
+									"beginOffset": 211,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 213,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9999397,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 214,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9877309,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 215,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9983218,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "차지하",
+						"tagged": "차지하/VV+았/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "화웨이는 지난해 약 26조원 (1419억 위안을 R&D에 투자했고 , 유럽연합에서 발표한 2020년 산업 R&D 순위에서 3위를 차지했다."
+			},
+			{
+				"text": {
+					"content": "화웨이는 지난 10년간 총 약 129조원(7000억 위안) 이상을 R&D에 투자했다.",
+					"beginOffset": 217,
+					"length": 47
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "화웨이는",
+							"beginOffset": 217,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "화웨이",
+									"beginOffset": 217,
+									"length": 3
+								},
+								"tag": "NNP",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 220,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9995352,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "화웨이",
+						"tagged": "화웨이/NNP+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "지난",
+							"beginOffset": 222,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "지나",
+									"beginOffset": 222,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9882961,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 223,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999654,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "지나",
+						"tagged": "지나/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "10년간",
+							"beginOffset": 225,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "10",
+									"beginOffset": 225,
+									"length": 2
+								},
+								"tag": "SN",
+								"probability": 0.99753726,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "년",
+									"beginOffset": 227,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.97855544,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "간",
+									"beginOffset": 228,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.95672125,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "10",
+						"tagged": "10/SN+년/NNB+간/XSN",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "총",
+							"beginOffset": 230,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "총",
+									"beginOffset": 230,
+									"length": 1
+								},
+								"tag": "MMA",
+								"probability": 0.9996216,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "총",
+						"tagged": "총/MMA",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "약",
+							"beginOffset": 232,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "약",
+									"beginOffset": 232,
+									"length": 1
+								},
+								"tag": "MMA",
+								"probability": 0.9995861,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "약",
+						"tagged": "약/MMA",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "129조원",
+							"beginOffset": 234,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "129",
+									"beginOffset": 234,
+									"length": 3
+								},
+								"tag": "SN",
+								"probability": 0.99598473,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "조",
+									"beginOffset": 237,
+									"length": 1
+								},
+								"tag": "NR",
+								"probability": 0.9953682,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "원",
+									"beginOffset": 238,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.96899486,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "129",
+						"tagged": "129/SN+조/NR+원/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "(7000억",
+							"beginOffset": 239,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "(",
+									"beginOffset": 239,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9999737,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "7000",
+									"beginOffset": 240,
+									"length": 4
+								},
+								"tag": "SN",
+								"probability": 0.9990952,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "억",
+									"beginOffset": 244,
+									"length": 1
+								},
+								"tag": "NR",
+								"probability": 0.99608433,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "(",
+						"tagged": "(/SS+7000/SN+억/NR",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "위안",
+							"beginOffset": 246,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "위안",
+									"beginOffset": 246,
+									"length": 2
+								},
+								"tag": "NNB",
+								"probability": 0.95929146,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "위안",
+						"tagged": "위안/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": ")",
+							"beginOffset": 248,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": ")",
+									"beginOffset": 248,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.99990743,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": ")",
+						"tagged": ")/SS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이상을",
+							"beginOffset": 250,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이상",
+									"beginOffset": 250,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98587865,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 252,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99997216,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이상",
+						"tagged": "이상/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "R&D에",
+							"beginOffset": 254,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "R",
+									"beginOffset": 254,
+									"length": 1
+								},
+								"tag": "SL",
+								"probability": 0.970616,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "&",
+									"beginOffset": 255,
+									"length": 1
+								},
+								"tag": "SW",
+								"probability": 0.9971601,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "D",
+									"beginOffset": 256,
+									"length": 1
+								},
+								"tag": "SL",
+								"probability": 0.9678519,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 257,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99395186,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "R",
+						"tagged": "R/SL+&/SW+D/SL+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "투자했다.",
+							"beginOffset": 259,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "투자하",
+									"beginOffset": 259,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 261,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9998888,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 262,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9878364,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 263,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99965256,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "투자하",
+						"tagged": "투자하/VV+았/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "화웨이는 지난 10년간 총 약 129조원 (7000억 위안 ) 이상을 R&D에 투자했다."
+			}
+		],
+		"language": "ko_KR"
+	},
+	"ttr": {
+		"lemma_Cnt": 105,
+		"lemma_TTR": 0.5428571428571428,
+		"CL_TTR": 0.65,
+		"NL_TTR": 0.6170212765957447,
+		"NN_TTR": 0.6153846153846154,
+		"NNG_TTR": 0.7083333333333334,
+		"NNP_TTR": 0.25,
+		"NNB_TTR": 0.5454545454545454,
+		"NP_TTR": 1.0,
+		"NR_TTR": 0.5714285714285714,
+		"VL_TTR": 0.7692307692307693,
+		"VV_TTR": 0.8181818181818182,
+		"VA_TTR": 0,
+		"ML_TTR": 0,
+		"MM_TTR": 0,
+		"MA_TTR": 0,
+		"MAJ_TTR": 0,
+		"IC_TTR": 0,
+		"FL_TTR": 0.4,
+		"J_TTR": 0.4090909090909091,
+		"E_TTR": 0.375,
+		"X_TTR": 0.5,
+		"lemma_RTTR": 6.423172335936726,
+		"CL_RTTR": 5.034878350069642,
+		"NL_RTTR": 4.230084753438942,
+		"NN_RTTR": 3.843075691322091,
+		"NNG_RTTR": 3.470110468942836,
+		"NNP_RTTR": 0.5,
+		"NNB_RTTR": 1.8090680674665818,
+		"NP_RTTR": 1.0,
+		"NR_RTTR": 1.5118578920369088,
+		"VL_RTTR": 2.773500981126146,
+		"VV_RTTR": 2.7136021011998728,
+		"VA_RTTR": 0,
+		"ML_RTTR": 0,
+		"MM_RTTR": 0,
+		"MA_RTTR": 0,
+		"MAJ_RTTR": 0,
+		"IC_RTTR": 0,
+		"FL_RTTR": 2.5298221281347035,
+		"J_RTTR": 1.9188064472004938,
+		"E_RTTR": 1.5,
+		"X_RTTR": 0.7071067811865475,
+		"lemma_CTTR": 4.541868715470696,
+		"CL_CTTR": 3.56019662378358,
+		"NL_CTTR": 2.991121614150501,
+		"NN_CTTR": 2.7174648819470297,
+		"NNG_CTTR": 2.4537386440559095,
+		"NNP_CTTR": 0.35355339059327373,
+		"NNB_CTTR": 1.2792042981336627,
+		"NP_CTTR": 0.7071067811865475,
+		"NR_CTTR": 1.0690449676496976,
+		"VL_CTTR": 1.9611613513818404,
+		"VV_CTTR": 1.9188064472004938,
+		"VA_CTTR": 0,
+		"ML_CTTR": 0,
+		"MM_CTTR": 0,
+		"MA_CTTR": 0,
+		"MAJ_CTTR": 0,
+		"IC_CTTR": 0,
+		"FL_CTTR": 1.7888543819998317,
+		"J_CTTR": 1.3568010505999364,
+		"E_CTTR": 1.0606601717798212,
+		"X_CTTR": 0.5,
+		"lemma_MSTTR": 0.78,
+		"CL_MSTTR": 0.74,
+		"NL_MSTTR": 0.6170212765957447,
+		"NN_MSTTR": 0.6153846153846154,
+		"NNG_MSTTR": 0.7083333333333334,
+		"NNP_MSTTR": 0.25,
+		"NNB_MSTTR": 0.5454545454545454,
+		"NP_MSTTR": 1.0,
+		"NR_MSTTR": 0.5714285714285714,
+		"VL_MSTTR": 0.7692307692307693,
+		"VV_MSTTR": 0.8181818181818182,
+		"VA_MSTTR": 0,
+		"ML_MSTTR": 0,
+		"MM_MSTTR": 0,
+		"MA_MSTTR": 0,
+		"MAJ_MSTTR": 0,
+		"IC_MSTTR": 0,
+		"FL_MSTTR": 0.4,
+		"J_MSTTR": 0.4090909090909091,
+		"E_MSTTR": 0.375,
+		"X_MSTTR": 0.5,
+		"lemma_MATTR": 0.8094505494505486,
+		"CL_MATTR": 0.7254545454545455,
+		"NL_MATTR": 0.6170212765957447,
+		"NN_MATTR": 0.6153846153846154,
+		"NNG_MATTR": 0.7083333333333334,
+		"NNP_MATTR": 0.25,
+		"NNB_MATTR": 0.5454545454545454,
+		"NP_MATTR": 1.0,
+		"NR_MATTR": 0.5714285714285714,
+		"VL_MATTR": 0.7692307692307693,
+		"VV_MATTR": 0.8181818181818182,
+		"VA_MATTR": 0,
+		"ML_MATTR": 0,
+		"MM_MATTR": 0,
+		"MA_MATTR": 0,
+		"MAJ_MATTR": 0,
+		"IC_MATTR": 0,
+		"FL_MATTR": 0.4,
+		"J_MATTR": 0.4090909090909091,
+		"E_MATTR": 0.375,
+		"X_MATTR": 0.5,
+		"lemma_MTLD": 70.39122957867583,
+		"CL_MTLD": 30.79431207822614,
+		"NL_MTLD": 23.5,
+		"NN_MTLD": 19.691176470588232,
+		"NNG_MTLD": 21.5609756097561,
+		"NNP_MTLD": 1.4933333333333334,
+		"NNB_MTLD": 11.0,
+		"NP_MTLD": 0.0,
+		"NR_MTLD": 4.573333333333333,
+		"VL_MTLD": 15.773333333333339,
+		"VV_MTLD": 16.940000000000005,
+		"VA_MTLD": 0.0,
+		"ML_MTLD": 0.0,
+		"MM_MTLD": 0.0,
+		"MA_MTLD": 0.0,
+		"MAJ_MTLD": 0.0,
+		"IC_MTLD": 0.0,
+		"FL_MTLD": 20.0,
+		"J_MTLD": 10.521739130434781,
+		"E_MTLD": 6.52396878483835,
+		"X_MTLD": 1.12,
+		"lemma_VOCDD": 70.88865026304701,
+		"CL_VOCDD": 40.941836914494594,
+		"NL_VOCDD": 0,
+		"NN_VOCDD": 0,
+		"NNG_VOCDD": 0,
+		"NNP_VOCDD": 0,
+		"NNB_VOCDD": 0,
+		"NP_VOCDD": 0,
+		"NR_VOCDD": 0,
+		"VL_VOCDD": 0,
+		"VV_VOCDD": 0,
+		"VA_VOCDD": 0,
+		"ML_VOCDD": 0,
+		"MM_VOCDD": 0,
+		"MA_VOCDD": 0,
+		"MAJ_VOCDD": 0,
+		"IC_VOCDD": 0,
+		"FL_VOCDD": 0,
+		"J_VOCDD": 0,
+		"E_VOCDD": 0,
+		"X_VOCDD": 0,
+		"lemma_HDD": 0.8078728525810721,
+		"CL_HDD": 0.7294749146390227,
+		"NL_HDD": 0.645623674300825,
+		"NN_HDD": 0.0,
+		"NNG_HDD": 0.0,
+		"NNP_HDD": 0.0,
+		"NNB_HDD": 0.0,
+		"NP_HDD": 0.0,
+		"NR_HDD": 0.0,
+		"VL_HDD": 0.0,
+		"VV_HDD": 0.0,
+		"VA_HDD": 0.0,
+		"ML_HDD": 0.0,
+		"MM_HDD": 0.0,
+		"MA_HDD": 0.0,
+		"MAJ_HDD": 0.0,
+		"IC_HDD": 0.0,
+		"FL_HDD": 0.0,
+		"J_HDD": 0.0,
+		"E_HDD": 0.0,
+		"X_HDD": 0.0
+	},
+	"similarity": {
+		"avgSentSimilarity": 0.17228814959526062,
+		"topicConsistency": 0.5896
+	},
+	"adjacency": {
+		"adjacent_sentence_overlap_all_lemmas": 98,
+		"adjacent_sentence_overlap_all_lemmas_normed": 4,
+		"binary_adjacent_sentence_overlap_all_lemmas": 4,
+		"adjacent_two_sentence_overlap_all_lemmas": 66,
+		"adjacent_two_sentence_overlap_all_lemmas_normed": 3,
+		"binary_adjacent_two_sentence_overlap_all_lemmas": 3,
+		"adjacent_sentence_overlap_content_lemmas": 41,
+		"adjacent_sentence_overlap_content_lemmas_normed": 4,
+		"binary_adjacent_sentence_overlap_content_lemmas": 4,
+		"adjacent_two_sentence_overlap_content_lemmas": 29,
+		"adjacent_two_sentence_overlap_content_lemmas_normed": 3,
+		"binary_adjacent_two_sentence_overlap_content_lemmas": 2,
+		"adjacent_sentence_overlap_function_lemmas": 25,
+		"adjacent_sentence_overlap_function_lemmas_normed": 4,
+		"binary_adjacent_sentence_overlap_function_lemmas": 4,
+		"adjacent_two_sentence_overlap_function_lemmas": 16,
+		"adjacent_two_sentence_overlap_function_lemmas_normed": 3,
+		"binary_adjacent_two_sentence_overlap_function_lemmas": 3,
+		"adjacent_sentence_overlap_noun_lemmas": 44,
+		"adjacent_sentence_overlap_noun_lemmas_normed": 4,
+		"binary_adjacent_sentence_overlap_noun_lemmas": 4,
+		"adjacent_two_sentence_overlap_noun_lemmas": 35,
+		"adjacent_two_sentence_overlap_noun_lemmas_normed": 3,
+		"binary_adjacent_two_sentence_overlap_noun_lemmas": 2,
+		"adjacent_sentence_overlap_verb_lemmas": 10,
+		"adjacent_sentence_overlap_verb_lemmas_normed": 4,
+		"binary_adjacent_sentence_overlap_verb_lemmas": 3,
+		"adjacent_two_sentence_overlap_verb_lemmas": 7,
+		"adjacent_two_sentence_overlap_verb_lemmas_normed": 3,
+		"binary_adjacent_two_sentence_overlap_verb_lemmas": 1,
+		"adjacent_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_sentence_overlap_adjective_lemmas_normed": 0,
+		"binary_adjacent_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_sentence_overlap_adverb_lemmas_normed": 0,
+		"binary_adjacent_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adverb_lemmas": 0
+	},
+	"basic_count": {
+		"para_Cnt": 1,
+		"sentence_Cnt": 5,
+		"word_Cnt": 59,
+		"morph_Cnt": 140,
+		"char_Cnt": 172,
+		"CL_Cnt": 60,
+		"NL_Cnt": 47,
+		"NN_Cnt": 39,
+		"NNG_Cnt": 24,
+		"NNP_Cnt": 4,
+		"NNB_Cnt": 11,
+		"NP_Cnt": 1,
+		"NP_People_Cnt": 0,
+		"NP_Things_Cnt": 1,
+		"NR_Cnt": 7,
+		"VL_Cnt": 13,
+		"VV_Cnt": 11,
+		"VA_Cnt": 0,
+		"VX_Cnt": 2,
+		"VCP_Cnt": 0,
+		"VCN_Cnt": 0,
+		"ML_Cnt": 0,
+		"MA_Cnt": 0,
+		"MM_Cnt": 0,
+		"FL_Cnt": 40,
+		"J_Cnt": 22,
+		"E_Cnt": 16,
+		"X_Cnt": 2,
+		"IC_Cnt": 0
+	},
+	"basic_density": {
+		"CL_Den": 0.42857142857142855,
+		"FL_Den": 0.2857142857142857,
+		"NL_Den": 0.2785714285714286,
+		"NNGL_Den": 0.17142857142857143,
+		"NNPL_Den": 0.02857142857142857,
+		"NNBL_Den": 0.07857142857142857,
+		"NPL_Den": 0.007142857142857143,
+		"NML_Den": 0.05,
+		"VL_Den": 0.09285714285714286,
+		"VVL_Den": 0.07857142857142857,
+		"VAL_Den": 0.0,
+		"ML_Den": 0.0,
+		"MML_Den": 0.0,
+		"MAL_Den": 0.0,
+		"JL_Den": 0.15714285714285714,
+		"EL_Den": 0.11428571428571428,
+		"XL_Den": 0.014285714285714285,
+		"ITL_Den": 0.0,
+		"NCL_Den": 0.65,
+		"NNCL_Den": 0.4,
+		"NNGCL_Den": 0.06666666666666667,
+		"NNBCL_Den": 0.18333333333333332,
+		"NPCL_Den": 0.016666666666666666,
+		"NMCL_Den": 0.11666666666666667,
+		"VCL_Den": 0.21666666666666667,
+		"VVCL_Den": 0.18333333333333332,
+		"VACL_Den": 0.0,
+		"MCL_Den": 0.0,
+		"MMCL_Den": 0.0,
+		"MACL_Den": 0.0,
+		"INCL_Den": 0.0,
+		"JFL_Den": 0.55,
+		"EFL_Den": 0.4,
+		"XFL_Den": 0.05
+	},
+	"basic_level": {
+		"morph_LenAvg": 1.5357142857142858,
+		"morph_LenStd": 0.7874979753780261,
+		"word_LenAvg": 3.2203389830508473,
+		"word_LenStd": 1.737598153405329
+	},
+	"basic_list": {
+		"NL_Lst": [
+			[
+				0,
+				"화웨이",
+				"NNP",
+				"화웨이는 지난해 말 기준 전 세계에 걸쳐 4만개 이상의 패밀리 특허를 보유하고 있다."
+			],
+			[
+				1,
+				"지난해",
+				"NNG",
+				"화웨이는 지난해 말 기준 전 세계에 걸쳐 4만개 이상의 패밀리 특허를 보유하고 있다."
+			],
+			[
+				2,
+				"말",
+				"NNB",
+				"화웨이는 지난해 말 기준 전 세계에 걸쳐 4만개 이상의 패밀리 특허를 보유하고 있다."
+			],
+			[
+				3,
+				"기준",
+				"NNG",
+				"화웨이는 지난해 말 기준 전 세계에 걸쳐 4만개 이상의 패밀리 특허를 보유하고 있다."
+			],
+			[
+				4,
+				"세계",
+				"NNG",
+				"화웨이는 지난해 말 기준 전 세계에 걸쳐 4만개 이상의 패밀리 특허를 보유하고 있다."
+			],
+			[
+				5,
+				"만",
+				"NR",
+				"화웨이는 지난해 말 기준 전 세계에 걸쳐 4만개 이상의 패밀리 특허를 보유하고 있다."
+			],
+			[
+				6,
+				"개",
+				"NNB",
+				"화웨이는 지난해 말 기준 전 세계에 걸쳐 4만개 이상의 패밀리 특허를 보유하고 있다."
+			],
+			[
+				7,
+				"이상",
+				"NNG",
+				"화웨이는 지난해 말 기준 전 세계에 걸쳐 4만개 이상의 패밀리 특허를 보유하고 있다."
+			],
+			[
+				8,
+				"패밀리",
+				"NNG",
+				"화웨이는 지난해 말 기준 전 세계에 걸쳐 4만개 이상의 패밀리 특허를 보유하고 있다."
+			],
+			[
+				9,
+				"특허",
+				"NNG",
+				"화웨이는 지난해 말 기준 전 세계에 걸쳐 4만개 이상의 패밀리 특허를 보유하고 있다."
+			],
+			[
+				10,
+				"패밀리",
+				"NNG",
+				"이 패밀리 특허에서 파생된 10만개 이상의 유효특허도 가지고 있다."
+			],
+			[
+				11,
+				"특허",
+				"NNG",
+				"이 패밀리 특허에서 파생된 10만개 이상의 유효특허도 가지고 있다."
+			],
+			[
+				12,
+				"만",
+				"NR",
+				"이 패밀리 특허에서 파생된 10만개 이상의 유효특허도 가지고 있다."
+			],
+			[
+				13,
+				"개",
+				"NNB",
+				"이 패밀리 특허에서 파생된 10만개 이상의 유효특허도 가지고 있다."
+			],
+			[
+				14,
+				"이상",
+				"NNG",
+				"이 패밀리 특허에서 파생된 10만개 이상의 유효특허도 가지고 있다."
+			],
+			[
+				15,
+				"유효",
+				"NNG",
+				"이 패밀리 특허에서 파생된 10만개 이상의 유효특허도 가지고 있다."
+			],
+			[
+				16,
+				"특허",
+				"NNG",
+				"이 패밀리 특허에서 파생된 10만개 이상의 유효특허도 가지고 있다."
+			],
+			[
+				17,
+				"이",
+				"NP",
+				"이는 화웨이가 최근 몇 년간 연매출의 15% 이상을 연구·개발(R&D)에 투자한 결과로 풀이된다."
+			],
+			[
+				18,
+				"화웨이",
+				"NNP",
+				"이는 화웨이가 최근 몇 년간 연매출의 15% 이상을 연구·개발(R&D)에 투자한 결과로 풀이된다."
+			],
+			[
+				19,
+				"최근",
+				"NNG",
+				"이는 화웨이가 최근 몇 년간 연매출의 15% 이상을 연구·개발(R&D)에 투자한 결과로 풀이된다."
+			],
+			[
+				20,
+				"몇",
+				"NR",
+				"이는 화웨이가 최근 몇 년간 연매출의 15% 이상을 연구·개발(R&D)에 투자한 결과로 풀이된다."
+			],
+			[
+				21,
+				"년",
+				"NNB",
+				"이는 화웨이가 최근 몇 년간 연매출의 15% 이상을 연구·개발(R&D)에 투자한 결과로 풀이된다."
+			],
+			[
+				22,
+				"연",
+				"NNG",
+				"이는 화웨이가 최근 몇 년간 연매출의 15% 이상을 연구·개발(R&D)에 투자한 결과로 풀이된다."
+			],
+			[
+				23,
+				"매출",
+				"NNG",
+				"이는 화웨이가 최근 몇 년간 연매출의 15% 이상을 연구·개발(R&D)에 투자한 결과로 풀이된다."
+			],
+			[
+				24,
+				"이상",
+				"NNG",
+				"이는 화웨이가 최근 몇 년간 연매출의 15% 이상을 연구·개발(R&D)에 투자한 결과로 풀이된다."
+			],
+			[
+				25,
+				"연구",
+				"NNG",
+				"이는 화웨이가 최근 몇 년간 연매출의 15% 이상을 연구·개발(R&D)에 투자한 결과로 풀이된다."
+			],
+			[
+				26,
+				"개발",
+				"NNG",
+				"이는 화웨이가 최근 몇 년간 연매출의 15% 이상을 연구·개발(R&D)에 투자한 결과로 풀이된다."
+			],
+			[
+				27,
+				"결과",
+				"NNG",
+				"이는 화웨이가 최근 몇 년간 연매출의 15% 이상을 연구·개발(R&D)에 투자한 결과로 풀이된다."
+			],
+			[
+				28,
+				"화웨이",
+				"NNP",
+				"화웨이는 지난해 약 26조원(1419억 위안을 R&D에 투자했고, 유럽연합에서 발표한 2020년 산업 R&D 순위에서 3위를 차지했다."
+			],
+			[
+				29,
+				"지난해",
+				"NNG",
+				"화웨이는 지난해 약 26조원(1419억 위안을 R&D에 투자했고, 유럽연합에서 발표한 2020년 산업 R&D 순위에서 3위를 차지했다."
+			],
+			[
+				30,
+				"조",
+				"NR",
+				"화웨이는 지난해 약 26조원(1419억 위안을 R&D에 투자했고, 유럽연합에서 발표한 2020년 산업 R&D 순위에서 3위를 차지했다."
+			],
+			[
+				31,
+				"원",
+				"NNB",
+				"화웨이는 지난해 약 26조원(1419억 위안을 R&D에 투자했고, 유럽연합에서 발표한 2020년 산업 R&D 순위에서 3위를 차지했다."
+			],
+			[
+				32,
+				"억",
+				"NR",
+				"화웨이는 지난해 약 26조원(1419억 위안을 R&D에 투자했고, 유럽연합에서 발표한 2020년 산업 R&D 순위에서 3위를 차지했다."
+			],
+			[
+				33,
+				"위안",
+				"NNB",
+				"화웨이는 지난해 약 26조원(1419억 위안을 R&D에 투자했고, 유럽연합에서 발표한 2020년 산업 R&D 순위에서 3위를 차지했다."
+			],
+			[
+				34,
+				"유럽",
+				"NNG",
+				"화웨이는 지난해 약 26조원(1419억 위안을 R&D에 투자했고, 유럽연합에서 발표한 2020년 산업 R&D 순위에서 3위를 차지했다."
+			],
+			[
+				35,
+				"연합",
+				"NNG",
+				"화웨이는 지난해 약 26조원(1419억 위안을 R&D에 투자했고, 유럽연합에서 발표한 2020년 산업 R&D 순위에서 3위를 차지했다."
+			],
+			[
+				36,
+				"년",
+				"NNB",
+				"화웨이는 지난해 약 26조원(1419억 위안을 R&D에 투자했고, 유럽연합에서 발표한 2020년 산업 R&D 순위에서 3위를 차지했다."
+			],
+			[
+				37,
+				"산업",
+				"NNG",
+				"화웨이는 지난해 약 26조원(1419억 위안을 R&D에 투자했고, 유럽연합에서 발표한 2020년 산업 R&D 순위에서 3위를 차지했다."
+			],
+			[
+				38,
+				"순위",
+				"NNG",
+				"화웨이는 지난해 약 26조원(1419억 위안을 R&D에 투자했고, 유럽연합에서 발표한 2020년 산업 R&D 순위에서 3위를 차지했다."
+			],
+			[
+				39,
+				"위",
+				"NNB",
+				"화웨이는 지난해 약 26조원(1419억 위안을 R&D에 투자했고, 유럽연합에서 발표한 2020년 산업 R&D 순위에서 3위를 차지했다."
+			],
+			[
+				40,
+				"화웨이",
+				"NNP",
+				"화웨이는 지난 10년간 총 약 129조원(7000억 위안) 이상을 R&D에 투자했다."
+			],
+			[
+				41,
+				"년",
+				"NNB",
+				"화웨이는 지난 10년간 총 약 129조원(7000억 위안) 이상을 R&D에 투자했다."
+			],
+			[
+				42,
+				"조",
+				"NR",
+				"화웨이는 지난 10년간 총 약 129조원(7000억 위안) 이상을 R&D에 투자했다."
+			],
+			[
+				43,
+				"원",
+				"NNB",
+				"화웨이는 지난 10년간 총 약 129조원(7000억 위안) 이상을 R&D에 투자했다."
+			],
+			[
+				44,
+				"억",
+				"NR",
+				"화웨이는 지난 10년간 총 약 129조원(7000억 위안) 이상을 R&D에 투자했다."
+			],
+			[
+				45,
+				"위안",
+				"NNB",
+				"화웨이는 지난 10년간 총 약 129조원(7000억 위안) 이상을 R&D에 투자했다."
+			],
+			[
+				46,
+				"이상",
+				"NNG",
+				"화웨이는 지난 10년간 총 약 129조원(7000억 위안) 이상을 R&D에 투자했다."
+			]
+		],
+		"NN_Lst": [
+			[
+				0,
+				"화웨이",
+				"NNP",
+				"화웨이는 지난해 말 기준 전 세계에 걸쳐 4만개 이상의 패밀리 특허를 보유하고 있다."
+			],
+			[
+				1,
+				"지난해",
+				"NNG",
+				"화웨이는 지난해 말 기준 전 세계에 걸쳐 4만개 이상의 패밀리 특허를 보유하고 있다."
+			],
+			[
+				2,
+				"말",
+				"NNB",
+				"화웨이는 지난해 말 기준 전 세계에 걸쳐 4만개 이상의 패밀리 특허를 보유하고 있다."
+			],
+			[
+				3,
+				"기준",
+				"NNG",
+				"화웨이는 지난해 말 기준 전 세계에 걸쳐 4만개 이상의 패밀리 특허를 보유하고 있다."
+			],
+			[
+				4,
+				"세계",
+				"NNG",
+				"화웨이는 지난해 말 기준 전 세계에 걸쳐 4만개 이상의 패밀리 특허를 보유하고 있다."
+			],
+			[
+				5,
+				"개",
+				"NNB",
+				"화웨이는 지난해 말 기준 전 세계에 걸쳐 4만개 이상의 패밀리 특허를 보유하고 있다."
+			],
+			[
+				6,
+				"이상",
+				"NNG",
+				"화웨이는 지난해 말 기준 전 세계에 걸쳐 4만개 이상의 패밀리 특허를 보유하고 있다."
+			],
+			[
+				7,
+				"패밀리",
+				"NNG",
+				"화웨이는 지난해 말 기준 전 세계에 걸쳐 4만개 이상의 패밀리 특허를 보유하고 있다."
+			],
+			[
+				8,
+				"특허",
+				"NNG",
+				"화웨이는 지난해 말 기준 전 세계에 걸쳐 4만개 이상의 패밀리 특허를 보유하고 있다."
+			],
+			[
+				9,
+				"패밀리",
+				"NNG",
+				"이 패밀리 특허에서 파생된 10만개 이상의 유효특허도 가지고 있다."
+			],
+			[
+				10,
+				"특허",
+				"NNG",
+				"이 패밀리 특허에서 파생된 10만개 이상의 유효특허도 가지고 있다."
+			],
+			[
+				11,
+				"개",
+				"NNB",
+				"이 패밀리 특허에서 파생된 10만개 이상의 유효특허도 가지고 있다."
+			],
+			[
+				12,
+				"이상",
+				"NNG",
+				"이 패밀리 특허에서 파생된 10만개 이상의 유효특허도 가지고 있다."
+			],
+			[
+				13,
+				"유효",
+				"NNG",
+				"이 패밀리 특허에서 파생된 10만개 이상의 유효특허도 가지고 있다."
+			],
+			[
+				14,
+				"특허",
+				"NNG",
+				"이 패밀리 특허에서 파생된 10만개 이상의 유효특허도 가지고 있다."
+			],
+			[
+				15,
+				"화웨이",
+				"NNP",
+				"이는 화웨이가 최근 몇 년간 연매출의 15% 이상을 연구·개발(R&D)에 투자한 결과로 풀이된다."
+			],
+			[
+				16,
+				"최근",
+				"NNG",
+				"이는 화웨이가 최근 몇 년간 연매출의 15% 이상을 연구·개발(R&D)에 투자한 결과로 풀이된다."
+			],
+			[
+				17,
+				"년",
+				"NNB",
+				"이는 화웨이가 최근 몇 년간 연매출의 15% 이상을 연구·개발(R&D)에 투자한 결과로 풀이된다."
+			],
+			[
+				18,
+				"연",
+				"NNG",
+				"이는 화웨이가 최근 몇 년간 연매출의 15% 이상을 연구·개발(R&D)에 투자한 결과로 풀이된다."
+			],
+			[
+				19,
+				"매출",
+				"NNG",
+				"이는 화웨이가 최근 몇 년간 연매출의 15% 이상을 연구·개발(R&D)에 투자한 결과로 풀이된다."
+			],
+			[
+				20,
+				"이상",
+				"NNG",
+				"이는 화웨이가 최근 몇 년간 연매출의 15% 이상을 연구·개발(R&D)에 투자한 결과로 풀이된다."
+			],
+			[
+				21,
+				"연구",
+				"NNG",
+				"이는 화웨이가 최근 몇 년간 연매출의 15% 이상을 연구·개발(R&D)에 투자한 결과로 풀이된다."
+			],
+			[
+				22,
+				"개발",
+				"NNG",
+				"이는 화웨이가 최근 몇 년간 연매출의 15% 이상을 연구·개발(R&D)에 투자한 결과로 풀이된다."
+			],
+			[
+				23,
+				"결과",
+				"NNG",
+				"이는 화웨이가 최근 몇 년간 연매출의 15% 이상을 연구·개발(R&D)에 투자한 결과로 풀이된다."
+			],
+			[
+				24,
+				"화웨이",
+				"NNP",
+				"화웨이는 지난해 약 26조원(1419억 위안을 R&D에 투자했고, 유럽연합에서 발표한 2020년 산업 R&D 순위에서 3위를 차지했다."
+			],
+			[
+				25,
+				"지난해",
+				"NNG",
+				"화웨이는 지난해 약 26조원(1419억 위안을 R&D에 투자했고, 유럽연합에서 발표한 2020년 산업 R&D 순위에서 3위를 차지했다."
+			],
+			[
+				26,
+				"원",
+				"NNB",
+				"화웨이는 지난해 약 26조원(1419억 위안을 R&D에 투자했고, 유럽연합에서 발표한 2020년 산업 R&D 순위에서 3위를 차지했다."
+			],
+			[
+				27,
+				"위안",
+				"NNB",
+				"화웨이는 지난해 약 26조원(1419억 위안을 R&D에 투자했고, 유럽연합에서 발표한 2020년 산업 R&D 순위에서 3위를 차지했다."
+			],
+			[
+				28,
+				"유럽",
+				"NNG",
+				"화웨이는 지난해 약 26조원(1419억 위안을 R&D에 투자했고, 유럽연합에서 발표한 2020년 산업 R&D 순위에서 3위를 차지했다."
+			],
+			[
+				29,
+				"연합",
+				"NNG",
+				"화웨이는 지난해 약 26조원(1419억 위안을 R&D에 투자했고, 유럽연합에서 발표한 2020년 산업 R&D 순위에서 3위를 차지했다."
+			],
+			[
+				30,
+				"년",
+				"NNB",
+				"화웨이는 지난해 약 26조원(1419억 위안을 R&D에 투자했고, 유럽연합에서 발표한 2020년 산업 R&D 순위에서 3위를 차지했다."
+			],
+			[
+				31,
+				"산업",
+				"NNG",
+				"화웨이는 지난해 약 26조원(1419억 위안을 R&D에 투자했고, 유럽연합에서 발표한 2020년 산업 R&D 순위에서 3위를 차지했다."
+			],
+			[
+				32,
+				"순위",
+				"NNG",
+				"화웨이는 지난해 약 26조원(1419억 위안을 R&D에 투자했고, 유럽연합에서 발표한 2020년 산업 R&D 순위에서 3위를 차지했다."
+			],
+			[
+				33,
+				"위",
+				"NNB",
+				"화웨이는 지난해 약 26조원(1419억 위안을 R&D에 투자했고, 유럽연합에서 발표한 2020년 산업 R&D 순위에서 3위를 차지했다."
+			],
+			[
+				34,
+				"화웨이",
+				"NNP",
+				"화웨이는 지난 10년간 총 약 129조원(7000억 위안) 이상을 R&D에 투자했다."
+			],
+			[
+				35,
+				"년",
+				"NNB",
+				"화웨이는 지난 10년간 총 약 129조원(7000억 위안) 이상을 R&D에 투자했다."
+			],
+			[
+				36,
+				"원",
+				"NNB",
+				"화웨이는 지난 10년간 총 약 129조원(7000억 위안) 이상을 R&D에 투자했다."
+			],
+			[
+				37,
+				"위안",
+				"NNB",
+				"화웨이는 지난 10년간 총 약 129조원(7000억 위안) 이상을 R&D에 투자했다."
+			],
+			[
+				38,
+				"이상",
+				"NNG",
+				"화웨이는 지난 10년간 총 약 129조원(7000억 위안) 이상을 R&D에 투자했다."
+			]
+		],
+		"NNG_Lst": [
+			[
+				0,
+				"지난해",
+				"NNG",
+				"화웨이는 지난해 말 기준 전 세계에 걸쳐 4만개 이상의 패밀리 특허를 보유하고 있다."
+			],
+			[
+				1,
+				"기준",
+				"NNG",
+				"화웨이는 지난해 말 기준 전 세계에 걸쳐 4만개 이상의 패밀리 특허를 보유하고 있다."
+			],
+			[
+				2,
+				"세계",
+				"NNG",
+				"화웨이는 지난해 말 기준 전 세계에 걸쳐 4만개 이상의 패밀리 특허를 보유하고 있다."
+			],
+			[
+				3,
+				"이상",
+				"NNG",
+				"화웨이는 지난해 말 기준 전 세계에 걸쳐 4만개 이상의 패밀리 특허를 보유하고 있다."
+			],
+			[
+				4,
+				"패밀리",
+				"NNG",
+				"화웨이는 지난해 말 기준 전 세계에 걸쳐 4만개 이상의 패밀리 특허를 보유하고 있다."
+			],
+			[
+				5,
+				"특허",
+				"NNG",
+				"화웨이는 지난해 말 기준 전 세계에 걸쳐 4만개 이상의 패밀리 특허를 보유하고 있다."
+			],
+			[
+				6,
+				"패밀리",
+				"NNG",
+				"이 패밀리 특허에서 파생된 10만개 이상의 유효특허도 가지고 있다."
+			],
+			[
+				7,
+				"특허",
+				"NNG",
+				"이 패밀리 특허에서 파생된 10만개 이상의 유효특허도 가지고 있다."
+			],
+			[
+				8,
+				"이상",
+				"NNG",
+				"이 패밀리 특허에서 파생된 10만개 이상의 유효특허도 가지고 있다."
+			],
+			[
+				9,
+				"유효",
+				"NNG",
+				"이 패밀리 특허에서 파생된 10만개 이상의 유효특허도 가지고 있다."
+			],
+			[
+				10,
+				"특허",
+				"NNG",
+				"이 패밀리 특허에서 파생된 10만개 이상의 유효특허도 가지고 있다."
+			],
+			[
+				11,
+				"최근",
+				"NNG",
+				"이는 화웨이가 최근 몇 년간 연매출의 15% 이상을 연구·개발(R&D)에 투자한 결과로 풀이된다."
+			],
+			[
+				12,
+				"연",
+				"NNG",
+				"이는 화웨이가 최근 몇 년간 연매출의 15% 이상을 연구·개발(R&D)에 투자한 결과로 풀이된다."
+			],
+			[
+				13,
+				"매출",
+				"NNG",
+				"이는 화웨이가 최근 몇 년간 연매출의 15% 이상을 연구·개발(R&D)에 투자한 결과로 풀이된다."
+			],
+			[
+				14,
+				"이상",
+				"NNG",
+				"이는 화웨이가 최근 몇 년간 연매출의 15% 이상을 연구·개발(R&D)에 투자한 결과로 풀이된다."
+			],
+			[
+				15,
+				"연구",
+				"NNG",
+				"이는 화웨이가 최근 몇 년간 연매출의 15% 이상을 연구·개발(R&D)에 투자한 결과로 풀이된다."
+			],
+			[
+				16,
+				"개발",
+				"NNG",
+				"이는 화웨이가 최근 몇 년간 연매출의 15% 이상을 연구·개발(R&D)에 투자한 결과로 풀이된다."
+			],
+			[
+				17,
+				"결과",
+				"NNG",
+				"이는 화웨이가 최근 몇 년간 연매출의 15% 이상을 연구·개발(R&D)에 투자한 결과로 풀이된다."
+			],
+			[
+				18,
+				"지난해",
+				"NNG",
+				"화웨이는 지난해 약 26조원(1419억 위안을 R&D에 투자했고, 유럽연합에서 발표한 2020년 산업 R&D 순위에서 3위를 차지했다."
+			],
+			[
+				19,
+				"유럽",
+				"NNG",
+				"화웨이는 지난해 약 26조원(1419억 위안을 R&D에 투자했고, 유럽연합에서 발표한 2020년 산업 R&D 순위에서 3위를 차지했다."
+			],
+			[
+				20,
+				"연합",
+				"NNG",
+				"화웨이는 지난해 약 26조원(1419억 위안을 R&D에 투자했고, 유럽연합에서 발표한 2020년 산업 R&D 순위에서 3위를 차지했다."
+			],
+			[
+				21,
+				"산업",
+				"NNG",
+				"화웨이는 지난해 약 26조원(1419억 위안을 R&D에 투자했고, 유럽연합에서 발표한 2020년 산업 R&D 순위에서 3위를 차지했다."
+			],
+			[
+				22,
+				"순위",
+				"NNG",
+				"화웨이는 지난해 약 26조원(1419억 위안을 R&D에 투자했고, 유럽연합에서 발표한 2020년 산업 R&D 순위에서 3위를 차지했다."
+			],
+			[
+				23,
+				"이상",
+				"NNG",
+				"화웨이는 지난 10년간 총 약 129조원(7000억 위안) 이상을 R&D에 투자했다."
+			]
+		],
+		"NNP_Lst": [
+			[
+				0,
+				"화웨이",
+				"NNP",
+				"화웨이는 지난해 말 기준 전 세계에 걸쳐 4만개 이상의 패밀리 특허를 보유하고 있다."
+			],
+			[
+				1,
+				"화웨이",
+				"NNP",
+				"이는 화웨이가 최근 몇 년간 연매출의 15% 이상을 연구·개발(R&D)에 투자한 결과로 풀이된다."
+			],
+			[
+				2,
+				"화웨이",
+				"NNP",
+				"화웨이는 지난해 약 26조원(1419억 위안을 R&D에 투자했고, 유럽연합에서 발표한 2020년 산업 R&D 순위에서 3위를 차지했다."
+			],
+			[
+				3,
+				"화웨이",
+				"NNP",
+				"화웨이는 지난 10년간 총 약 129조원(7000억 위안) 이상을 R&D에 투자했다."
+			]
+		],
+		"NNB_Lst": [
+			[
+				0,
+				"말",
+				"NNB",
+				"화웨이는 지난해 말 기준 전 세계에 걸쳐 4만개 이상의 패밀리 특허를 보유하고 있다."
+			],
+			[
+				1,
+				"개",
+				"NNB",
+				"화웨이는 지난해 말 기준 전 세계에 걸쳐 4만개 이상의 패밀리 특허를 보유하고 있다."
+			],
+			[
+				2,
+				"개",
+				"NNB",
+				"이 패밀리 특허에서 파생된 10만개 이상의 유효특허도 가지고 있다."
+			],
+			[
+				3,
+				"년",
+				"NNB",
+				"이는 화웨이가 최근 몇 년간 연매출의 15% 이상을 연구·개발(R&D)에 투자한 결과로 풀이된다."
+			],
+			[
+				4,
+				"원",
+				"NNB",
+				"화웨이는 지난해 약 26조원(1419억 위안을 R&D에 투자했고, 유럽연합에서 발표한 2020년 산업 R&D 순위에서 3위를 차지했다."
+			],
+			[
+				5,
+				"위안",
+				"NNB",
+				"화웨이는 지난해 약 26조원(1419억 위안을 R&D에 투자했고, 유럽연합에서 발표한 2020년 산업 R&D 순위에서 3위를 차지했다."
+			],
+			[
+				6,
+				"년",
+				"NNB",
+				"화웨이는 지난해 약 26조원(1419억 위안을 R&D에 투자했고, 유럽연합에서 발표한 2020년 산업 R&D 순위에서 3위를 차지했다."
+			],
+			[
+				7,
+				"위",
+				"NNB",
+				"화웨이는 지난해 약 26조원(1419억 위안을 R&D에 투자했고, 유럽연합에서 발표한 2020년 산업 R&D 순위에서 3위를 차지했다."
+			],
+			[
+				8,
+				"년",
+				"NNB",
+				"화웨이는 지난 10년간 총 약 129조원(7000억 위안) 이상을 R&D에 투자했다."
+			],
+			[
+				9,
+				"원",
+				"NNB",
+				"화웨이는 지난 10년간 총 약 129조원(7000억 위안) 이상을 R&D에 투자했다."
+			],
+			[
+				10,
+				"위안",
+				"NNB",
+				"화웨이는 지난 10년간 총 약 129조원(7000억 위안) 이상을 R&D에 투자했다."
+			]
+		],
+		"NP_Lst": [
+			[
+				0,
+				"이",
+				"NP",
+				"이는 화웨이가 최근 몇 년간 연매출의 15% 이상을 연구·개발(R&D)에 투자한 결과로 풀이된다."
+			]
+		],
+		"NP_People_Lst": [],
+		"NP_Things_Lst": [
+			[
+				0,
+				"이",
+				"NP",
+				"이는 화웨이가 최근 몇 년간 연매출의 15% 이상을 연구·개발(R&D)에 투자한 결과로 풀이된다."
+			]
+		],
+		"NR_Lst": [
+			[
+				0,
+				"만",
+				"NR",
+				"화웨이는 지난해 말 기준 전 세계에 걸쳐 4만개 이상의 패밀리 특허를 보유하고 있다."
+			],
+			[
+				1,
+				"만",
+				"NR",
+				"이 패밀리 특허에서 파생된 10만개 이상의 유효특허도 가지고 있다."
+			],
+			[
+				2,
+				"몇",
+				"NR",
+				"이는 화웨이가 최근 몇 년간 연매출의 15% 이상을 연구·개발(R&D)에 투자한 결과로 풀이된다."
+			],
+			[
+				3,
+				"조",
+				"NR",
+				"화웨이는 지난해 약 26조원(1419억 위안을 R&D에 투자했고, 유럽연합에서 발표한 2020년 산업 R&D 순위에서 3위를 차지했다."
+			],
+			[
+				4,
+				"억",
+				"NR",
+				"화웨이는 지난해 약 26조원(1419억 위안을 R&D에 투자했고, 유럽연합에서 발표한 2020년 산업 R&D 순위에서 3위를 차지했다."
+			],
+			[
+				5,
+				"조",
+				"NR",
+				"화웨이는 지난 10년간 총 약 129조원(7000억 위안) 이상을 R&D에 투자했다."
+			],
+			[
+				6,
+				"억",
+				"NR",
+				"화웨이는 지난 10년간 총 약 129조원(7000억 위안) 이상을 R&D에 투자했다."
+			]
+		],
+		"VL_Lst": [
+			[
+				0,
+				"걸치",
+				"VV",
+				"화웨이는 지난해 말 기준 전 세계에 걸쳐 4만개 이상의 패밀리 특허를 보유하고 있다."
+			],
+			[
+				1,
+				"보유하",
+				"VV",
+				"화웨이는 지난해 말 기준 전 세계에 걸쳐 4만개 이상의 패밀리 특허를 보유하고 있다."
+			],
+			[
+				2,
+				"있",
+				"VX",
+				"화웨이는 지난해 말 기준 전 세계에 걸쳐 4만개 이상의 패밀리 특허를 보유하고 있다."
+			],
+			[
+				3,
+				"파생되",
+				"VV",
+				"이 패밀리 특허에서 파생된 10만개 이상의 유효특허도 가지고 있다."
+			],
+			[
+				4,
+				"가지",
+				"VV",
+				"이 패밀리 특허에서 파생된 10만개 이상의 유효특허도 가지고 있다."
+			],
+			[
+				5,
+				"있",
+				"VX",
+				"이 패밀리 특허에서 파생된 10만개 이상의 유효특허도 가지고 있다."
+			],
+			[
+				6,
+				"투자하",
+				"VV",
+				"이는 화웨이가 최근 몇 년간 연매출의 15% 이상을 연구·개발(R&D)에 투자한 결과로 풀이된다."
+			],
+			[
+				7,
+				"풀이되",
+				"VV",
+				"이는 화웨이가 최근 몇 년간 연매출의 15% 이상을 연구·개발(R&D)에 투자한 결과로 풀이된다."
+			],
+			[
+				8,
+				"투자하",
+				"VV",
+				"화웨이는 지난해 약 26조원(1419억 위안을 R&D에 투자했고, 유럽연합에서 발표한 2020년 산업 R&D 순위에서 3위를 차지했다."
+			],
+			[
+				9,
+				"발표하",
+				"VV",
+				"화웨이는 지난해 약 26조원(1419억 위안을 R&D에 투자했고, 유럽연합에서 발표한 2020년 산업 R&D 순위에서 3위를 차지했다."
+			],
+			[
+				10,
+				"차지하",
+				"VV",
+				"화웨이는 지난해 약 26조원(1419억 위안을 R&D에 투자했고, 유럽연합에서 발표한 2020년 산업 R&D 순위에서 3위를 차지했다."
+			],
+			[
+				11,
+				"지나",
+				"VV",
+				"화웨이는 지난 10년간 총 약 129조원(7000억 위안) 이상을 R&D에 투자했다."
+			],
+			[
+				12,
+				"투자하",
+				"VV",
+				"화웨이는 지난 10년간 총 약 129조원(7000억 위안) 이상을 R&D에 투자했다."
+			]
+		],
+		"VV_Lst": [
+			[
+				0,
+				"걸치",
+				"VV",
+				"화웨이는 지난해 말 기준 전 세계에 걸쳐 4만개 이상의 패밀리 특허를 보유하고 있다."
+			],
+			[
+				1,
+				"보유하",
+				"VV",
+				"화웨이는 지난해 말 기준 전 세계에 걸쳐 4만개 이상의 패밀리 특허를 보유하고 있다."
+			],
+			[
+				2,
+				"파생되",
+				"VV",
+				"이 패밀리 특허에서 파생된 10만개 이상의 유효특허도 가지고 있다."
+			],
+			[
+				3,
+				"가지",
+				"VV",
+				"이 패밀리 특허에서 파생된 10만개 이상의 유효특허도 가지고 있다."
+			],
+			[
+				4,
+				"투자하",
+				"VV",
+				"이는 화웨이가 최근 몇 년간 연매출의 15% 이상을 연구·개발(R&D)에 투자한 결과로 풀이된다."
+			],
+			[
+				5,
+				"풀이되",
+				"VV",
+				"이는 화웨이가 최근 몇 년간 연매출의 15% 이상을 연구·개발(R&D)에 투자한 결과로 풀이된다."
+			],
+			[
+				6,
+				"투자하",
+				"VV",
+				"화웨이는 지난해 약 26조원(1419억 위안을 R&D에 투자했고, 유럽연합에서 발표한 2020년 산업 R&D 순위에서 3위를 차지했다."
+			],
+			[
+				7,
+				"발표하",
+				"VV",
+				"화웨이는 지난해 약 26조원(1419억 위안을 R&D에 투자했고, 유럽연합에서 발표한 2020년 산업 R&D 순위에서 3위를 차지했다."
+			],
+			[
+				8,
+				"차지하",
+				"VV",
+				"화웨이는 지난해 약 26조원(1419억 위안을 R&D에 투자했고, 유럽연합에서 발표한 2020년 산업 R&D 순위에서 3위를 차지했다."
+			],
+			[
+				9,
+				"지나",
+				"VV",
+				"화웨이는 지난 10년간 총 약 129조원(7000억 위안) 이상을 R&D에 투자했다."
+			],
+			[
+				10,
+				"투자하",
+				"VV",
+				"화웨이는 지난 10년간 총 약 129조원(7000억 위안) 이상을 R&D에 투자했다."
+			]
+		],
+		"VA_Lst": [],
+		"VX_Lst": [
+			[
+				0,
+				"있",
+				"VX",
+				"화웨이는 지난해 말 기준 전 세계에 걸쳐 4만개 이상의 패밀리 특허를 보유하고 있다."
+			],
+			[
+				1,
+				"있",
+				"VX",
+				"이 패밀리 특허에서 파생된 10만개 이상의 유효특허도 가지고 있다."
+			]
+		],
+		"VCP_Lst": [],
+		"VCN_Lst": [],
+		"ML_Lst": [],
+		"MA_Lst": [],
+		"MM_Lst": [],
+		"J_Lst": [
+			[
+				0,
+				"는",
+				"JX",
+				"화웨이는 지난해 말 기준 전 세계에 걸쳐 4만개 이상의 패밀리 특허를 보유하고 있다."
+			],
+			[
+				1,
+				"에",
+				"JKB",
+				"화웨이는 지난해 말 기준 전 세계에 걸쳐 4만개 이상의 패밀리 특허를 보유하고 있다."
+			],
+			[
+				2,
+				"의",
+				"JKG",
+				"화웨이는 지난해 말 기준 전 세계에 걸쳐 4만개 이상의 패밀리 특허를 보유하고 있다."
+			],
+			[
+				3,
+				"를",
+				"JKO",
+				"화웨이는 지난해 말 기준 전 세계에 걸쳐 4만개 이상의 패밀리 특허를 보유하고 있다."
+			],
+			[
+				4,
+				"에서",
+				"JKB",
+				"이 패밀리 특허에서 파생된 10만개 이상의 유효특허도 가지고 있다."
+			],
+			[
+				5,
+				"의",
+				"JKG",
+				"이 패밀리 특허에서 파생된 10만개 이상의 유효특허도 가지고 있다."
+			],
+			[
+				6,
+				"도",
+				"JX",
+				"이 패밀리 특허에서 파생된 10만개 이상의 유효특허도 가지고 있다."
+			],
+			[
+				7,
+				"는",
+				"JX",
+				"이는 화웨이가 최근 몇 년간 연매출의 15% 이상을 연구·개발(R&D)에 투자한 결과로 풀이된다."
+			],
+			[
+				8,
+				"가",
+				"JKS",
+				"이는 화웨이가 최근 몇 년간 연매출의 15% 이상을 연구·개발(R&D)에 투자한 결과로 풀이된다."
+			],
+			[
+				9,
+				"의",
+				"JKG",
+				"이는 화웨이가 최근 몇 년간 연매출의 15% 이상을 연구·개발(R&D)에 투자한 결과로 풀이된다."
+			],
+			[
+				10,
+				"을",
+				"JKO",
+				"이는 화웨이가 최근 몇 년간 연매출의 15% 이상을 연구·개발(R&D)에 투자한 결과로 풀이된다."
+			],
+			[
+				11,
+				"에",
+				"JKB",
+				"이는 화웨이가 최근 몇 년간 연매출의 15% 이상을 연구·개발(R&D)에 투자한 결과로 풀이된다."
+			],
+			[
+				12,
+				"로",
+				"JKB",
+				"이는 화웨이가 최근 몇 년간 연매출의 15% 이상을 연구·개발(R&D)에 투자한 결과로 풀이된다."
+			],
+			[
+				13,
+				"는",
+				"JX",
+				"화웨이는 지난해 약 26조원(1419억 위안을 R&D에 투자했고, 유럽연합에서 발표한 2020년 산업 R&D 순위에서 3위를 차지했다."
+			],
+			[
+				14,
+				"을",
+				"JKO",
+				"화웨이는 지난해 약 26조원(1419억 위안을 R&D에 투자했고, 유럽연합에서 발표한 2020년 산업 R&D 순위에서 3위를 차지했다."
+			],
+			[
+				15,
+				"에",
+				"JKB",
+				"화웨이는 지난해 약 26조원(1419억 위안을 R&D에 투자했고, 유럽연합에서 발표한 2020년 산업 R&D 순위에서 3위를 차지했다."
+			],
+			[
+				16,
+				"에서",
+				"JKB",
+				"화웨이는 지난해 약 26조원(1419억 위안을 R&D에 투자했고, 유럽연합에서 발표한 2020년 산업 R&D 순위에서 3위를 차지했다."
+			],
+			[
+				17,
+				"에서",
+				"JKB",
+				"화웨이는 지난해 약 26조원(1419억 위안을 R&D에 투자했고, 유럽연합에서 발표한 2020년 산업 R&D 순위에서 3위를 차지했다."
+			],
+			[
+				18,
+				"를",
+				"JKO",
+				"화웨이는 지난해 약 26조원(1419억 위안을 R&D에 투자했고, 유럽연합에서 발표한 2020년 산업 R&D 순위에서 3위를 차지했다."
+			],
+			[
+				19,
+				"는",
+				"JX",
+				"화웨이는 지난 10년간 총 약 129조원(7000억 위안) 이상을 R&D에 투자했다."
+			],
+			[
+				20,
+				"을",
+				"JKO",
+				"화웨이는 지난 10년간 총 약 129조원(7000억 위안) 이상을 R&D에 투자했다."
+			],
+			[
+				21,
+				"에",
+				"JKB",
+				"화웨이는 지난 10년간 총 약 129조원(7000억 위안) 이상을 R&D에 투자했다."
+			]
+		],
+		"E_Lst": [
+			[
+				0,
+				"어",
+				"EC",
+				"화웨이는 지난해 말 기준 전 세계에 걸쳐 4만개 이상의 패밀리 특허를 보유하고 있다."
+			],
+			[
+				1,
+				"고",
+				"EC",
+				"화웨이는 지난해 말 기준 전 세계에 걸쳐 4만개 이상의 패밀리 특허를 보유하고 있다."
+			],
+			[
+				2,
+				"다",
+				"EF",
+				"화웨이는 지난해 말 기준 전 세계에 걸쳐 4만개 이상의 패밀리 특허를 보유하고 있다."
+			],
+			[
+				3,
+				"ㄴ",
+				"ETM",
+				"이 패밀리 특허에서 파생된 10만개 이상의 유효특허도 가지고 있다."
+			],
+			[
+				4,
+				"고",
+				"EC",
+				"이 패밀리 특허에서 파생된 10만개 이상의 유효특허도 가지고 있다."
+			],
+			[
+				5,
+				"다",
+				"EF",
+				"이 패밀리 특허에서 파생된 10만개 이상의 유효특허도 가지고 있다."
+			],
+			[
+				6,
+				"ㄴ",
+				"ETM",
+				"이는 화웨이가 최근 몇 년간 연매출의 15% 이상을 연구·개발(R&D)에 투자한 결과로 풀이된다."
+			],
+			[
+				7,
+				"ㄴ다",
+				"EF",
+				"이는 화웨이가 최근 몇 년간 연매출의 15% 이상을 연구·개발(R&D)에 투자한 결과로 풀이된다."
+			],
+			[
+				8,
+				"았",
+				"EP",
+				"화웨이는 지난해 약 26조원(1419억 위안을 R&D에 투자했고, 유럽연합에서 발표한 2020년 산업 R&D 순위에서 3위를 차지했다."
+			],
+			[
+				9,
+				"고",
+				"EC",
+				"화웨이는 지난해 약 26조원(1419억 위안을 R&D에 투자했고, 유럽연합에서 발표한 2020년 산업 R&D 순위에서 3위를 차지했다."
+			],
+			[
+				10,
+				"ㄴ",
+				"ETM",
+				"화웨이는 지난해 약 26조원(1419억 위안을 R&D에 투자했고, 유럽연합에서 발표한 2020년 산업 R&D 순위에서 3위를 차지했다."
+			],
+			[
+				11,
+				"았",
+				"EP",
+				"화웨이는 지난해 약 26조원(1419억 위안을 R&D에 투자했고, 유럽연합에서 발표한 2020년 산업 R&D 순위에서 3위를 차지했다."
+			],
+			[
+				12,
+				"다",
+				"EF",
+				"화웨이는 지난해 약 26조원(1419억 위안을 R&D에 투자했고, 유럽연합에서 발표한 2020년 산업 R&D 순위에서 3위를 차지했다."
+			],
+			[
+				13,
+				"ㄴ",
+				"ETM",
+				"화웨이는 지난 10년간 총 약 129조원(7000억 위안) 이상을 R&D에 투자했다."
+			],
+			[
+				14,
+				"았",
+				"EP",
+				"화웨이는 지난 10년간 총 약 129조원(7000억 위안) 이상을 R&D에 투자했다."
+			],
+			[
+				15,
+				"다",
+				"EF",
+				"화웨이는 지난 10년간 총 약 129조원(7000억 위안) 이상을 R&D에 투자했다."
+			]
+		],
+		"X_Lst": [
+			[
+				0,
+				"간",
+				"XSN",
+				"이는 화웨이가 최근 몇 년간 연매출의 15% 이상을 연구·개발(R&D)에 투자한 결과로 풀이된다."
+			],
+			[
+				1,
+				"간",
+				"XSN",
+				"화웨이는 지난 10년간 총 약 129조원(7000억 위안) 이상을 R&D에 투자했다."
+			]
+		],
+		"IC_Lst": []
+	},
+	"NDW": {
+		"morph_NDW": 77,
+		"NL_NDW": 47,
+		"NNG_NDW": 24,
+		"NNP_NDW": 4,
+		"NNB_NDW": 11,
+		"NP_NDW": 1,
+		"NR_NDW": 7,
+		"VL_NDW": 13,
+		"VV_NDW": 11,
+		"VA_NDW": 0,
+		"ML_NDW": 0,
+		"MM_NDW": 0,
+		"IC_NDW": 0,
+		"J_NDW": 22,
+		"E_NDW": 16,
+		"X_NDW": 2,
+		"CL_NDW": 60,
+		"FL_NDW": 40
+	}
+}

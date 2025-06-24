@@ -1,0 +1,3774 @@
+﻿{
+	"morpheme": {
+		"sentences": [
+			{
+				"text": {
+					"content": "미국의 제2차 세계대전 참전용사 가운데 최고령자로 알려진 로렌스 N. 브룩스가 5일(현지시간) 112세의 나이로 세상을 떠났다.",
+					"length": 71,
+					"beginOffset": 0
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "미국의",
+							"length": 3,
+							"beginOffset": 0
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "미국",
+									"length": 2,
+									"beginOffset": 0
+								},
+								"tag": "NNP",
+								"probability": 0.970283,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 2,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99966645,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "미국",
+						"tagged": "미국/NNP+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "제2차",
+							"beginOffset": 4,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "제",
+									"beginOffset": 4,
+									"length": 1
+								},
+								"tag": "XPN",
+								"probability": 0.9983451,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "2",
+									"beginOffset": 5,
+									"length": 1
+								},
+								"tag": "SN",
+								"probability": 0.9929052,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "차",
+									"beginOffset": 6,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9725325,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "제",
+						"tagged": "제/XPN+2/SN+차/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "세계대전",
+							"beginOffset": 8,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "세계",
+									"beginOffset": 8,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "대전",
+									"beginOffset": 10,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							}
+						],
+						"lemma": "세계",
+						"tagged": "세계/NNG+대전/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "참전용사",
+							"beginOffset": 13,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "참전",
+									"beginOffset": 13,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.980427,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "용사",
+									"beginOffset": 15,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98125064,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "참전",
+						"tagged": "참전/NNG+용사/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "가운데",
+							"beginOffset": 18,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "가운데",
+									"beginOffset": 18,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9809949,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "가운데",
+						"tagged": "가운데/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "최고령자로",
+							"beginOffset": 22,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "최",
+									"beginOffset": 22,
+									"length": 1
+								},
+								"tag": "XPN",
+								"probability": 0.9944336,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고령자",
+									"beginOffset": 23,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.98210263,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "로",
+									"beginOffset": 26,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99562347,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "최",
+						"tagged": "최/XPN+고령자/NNG+로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "알려진",
+							"beginOffset": 28,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "알려지",
+									"beginOffset": 28,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.9894447,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 30,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99998146,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "알려지",
+						"tagged": "알려지/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "로렌스",
+							"beginOffset": 32,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "로렌스",
+									"beginOffset": 32,
+									"length": 3
+								},
+								"tag": "NNP",
+								"probability": 0.972764,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "로렌스",
+						"tagged": "로렌스/NNP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "N.",
+							"beginOffset": 36,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "N",
+									"beginOffset": 36,
+									"length": 1
+								},
+								"tag": "SL",
+								"probability": 0.9655256,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 37,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.55995554,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "N",
+						"tagged": "N/SL+./SF",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "브룩스가",
+							"beginOffset": 39,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "브룩스",
+									"beginOffset": 39,
+									"length": 3
+								},
+								"tag": "NNP",
+								"probability": 0.9601945,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 42,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.99163526,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "브룩스",
+						"tagged": "브룩스/NNP+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "5일",
+							"beginOffset": 44,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "5",
+									"beginOffset": 44,
+									"length": 1
+								},
+								"tag": "SN",
+								"probability": 0.9977229,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "일",
+									"beginOffset": 45,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9744412,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "5",
+						"tagged": "5/SN+일/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "(현지시간)",
+							"beginOffset": 46,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "(",
+									"beginOffset": 46,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.99992186,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "현지",
+									"beginOffset": 47,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9768516,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "시간",
+									"beginOffset": 49,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9712608,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ")",
+									"beginOffset": 51,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9999286,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "(",
+						"tagged": "(/SS+현지/NNG+시간/NNG+)/SS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "112세의",
+							"beginOffset": 53,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "112",
+									"beginOffset": 53,
+									"length": 3
+								},
+								"tag": "SN",
+								"probability": 0.99420017,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "세",
+									"beginOffset": 56,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9758952,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 57,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99981934,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "112",
+						"tagged": "112/SN+세/NNB+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "나이로",
+							"beginOffset": 59,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "나이",
+									"beginOffset": 59,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97325385,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "로",
+									"beginOffset": 61,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.996032,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "나이",
+						"tagged": "나이/NNG+로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "세상을",
+							"beginOffset": 63,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "세상",
+									"beginOffset": 63,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9830167,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 65,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99985325,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "세상",
+						"tagged": "세상/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "떠났다.",
+							"beginOffset": 67,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "떠나",
+									"beginOffset": 67,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9887683,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 68,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9994018,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 69,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9917266,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 70,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99946636,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "떠나",
+						"tagged": "떠나/VV+았/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "미국의 제2차 세계대전 참전용사 가운데 최고령자로 알려진 로렌스 N. 브룩스가 5일 (현지시간) 112세의 나이로 세상을 떠났다."
+			},
+			{
+				"text": {
+					"content": "그의 사망 사실은 국립 2차세계대전 박물관에서 발표했으며 브룩스의 딸이 이를 확인했다.",
+					"beginOffset": 72,
+					"length": 48
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "그의",
+							"beginOffset": 72,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그",
+									"beginOffset": 72,
+									"length": 1
+								},
+								"tag": "NP",
+								"probability": 0.98809475,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 73,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9995729,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그",
+						"tagged": "그/NP+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사망",
+							"beginOffset": 75,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사망",
+									"beginOffset": 75,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98186654,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사망",
+						"tagged": "사망/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사실은",
+							"beginOffset": 78,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사실",
+									"beginOffset": 78,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9846476,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 80,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9992269,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사실",
+						"tagged": "사실/NNG+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "국립",
+							"beginOffset": 82,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "국립",
+									"beginOffset": 82,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98522055,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "국립",
+						"tagged": "국립/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "2차",
+							"beginOffset": 85,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "2",
+									"beginOffset": 85,
+									"length": 1
+								},
+								"tag": "SN",
+								"probability": 0.99785084,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "차",
+									"beginOffset": 86,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9796783,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "2",
+						"tagged": "2/SN+차/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "세계대전",
+							"beginOffset": 87,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "세계",
+									"beginOffset": 87,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "대전",
+									"beginOffset": 89,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							}
+						],
+						"lemma": "세계",
+						"tagged": "세계/NNG+대전/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "박물관에서",
+							"beginOffset": 92,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "박물관",
+									"beginOffset": 92,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.98407054,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에서",
+									"beginOffset": 95,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.994526,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "박물관",
+						"tagged": "박물관/NNG+에서/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "발표했으며",
+							"beginOffset": 98,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "발표하",
+									"beginOffset": 98,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 100,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9999132,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으며",
+									"beginOffset": 101,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99498713,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "발표하",
+						"tagged": "발표하/VV+았/EP+으며/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "브룩스의",
+							"beginOffset": 104,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "브룩스",
+									"beginOffset": 104,
+									"length": 3
+								},
+								"tag": "NNP",
+								"probability": 0.9548845,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 107,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99969476,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "브룩스",
+						"tagged": "브룩스/NNP+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "딸이",
+							"beginOffset": 109,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "딸",
+									"beginOffset": 109,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9833807,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 110,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.99053246,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "딸",
+						"tagged": "딸/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이를",
+							"beginOffset": 112,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 112,
+									"length": 1
+								},
+								"tag": "NP",
+								"probability": 0.9676982,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 113,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99953735,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이",
+						"tagged": "이/NP+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "확인했다.",
+							"beginOffset": 115,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "확인하",
+									"beginOffset": 115,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 117,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99995846,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 118,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.99097574,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 119,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9992748,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "확인하",
+						"tagged": "확인하/VV+았/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "그의 사망 사실은 국립 2차 세계대전 박물관에서 발표했으며 브룩스의 딸이 이를 확인했다."
+			},
+			{
+				"text": {
+					"content": "2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다.",
+					"beginOffset": 121,
+					"length": 138
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "2차",
+							"beginOffset": 121,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "2",
+									"beginOffset": 121,
+									"length": 1
+								},
+								"tag": "SN",
+								"probability": 0.9979991,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "차",
+									"beginOffset": 122,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.97123677,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "2",
+						"tagged": "2/SN+차/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "세계대전",
+							"beginOffset": 124,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "세계",
+									"beginOffset": 124,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "대전",
+									"beginOffset": 126,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							}
+						],
+						"lemma": "세계",
+						"tagged": "세계/NNG+대전/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "초기에",
+							"beginOffset": 129,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "초기",
+									"beginOffset": 129,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9826919,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 131,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9958425,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "초기",
+						"tagged": "초기/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "미군에",
+							"beginOffset": 133,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "미군",
+									"beginOffset": 133,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.983525,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 135,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99665755,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "미군",
+						"tagged": "미군/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "입대한",
+							"beginOffset": 137,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "입대하",
+									"beginOffset": 137,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 139,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99997014,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "입대하",
+						"tagged": "입대하/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "아프리카계",
+							"beginOffset": 141,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "아프리카",
+									"beginOffset": 141,
+									"length": 4
+								},
+								"tag": "NNP",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "계",
+									"beginOffset": 145,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.98873276,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "아프리카",
+						"tagged": "아프리카/NNP+계/XSN",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "미국인",
+							"beginOffset": 147,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "미국인",
+									"beginOffset": 147,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.983114,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "미국인",
+						"tagged": "미국인/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "군인은",
+							"beginOffset": 151,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "군인",
+									"beginOffset": 151,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9859591,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 153,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99942666,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "군인",
+						"tagged": "군인/NNG+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "미군에서",
+							"beginOffset": 155,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "미군",
+									"beginOffset": 155,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98436505,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에서",
+									"beginOffset": 157,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9944797,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "미군",
+						"tagged": "미군/NNG+에서/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "흑인부대에",
+							"beginOffset": 160,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "흑인",
+									"beginOffset": 160,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9835767,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "부대",
+									"beginOffset": 162,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98453575,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 164,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99450666,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "흑인",
+						"tagged": "흑인/NNG+부대/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "전속되었고",
+							"beginOffset": 166,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "전속되",
+									"beginOffset": 166,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 169,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99990875,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 170,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99431145,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "전속되",
+						"tagged": "전속되/VV+었/EP+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "주로",
+							"beginOffset": 172,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "주로",
+									"beginOffset": 172,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9926995,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "주로",
+						"tagged": "주로/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "비전투부대나",
+							"beginOffset": 175,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "비",
+									"beginOffset": 175,
+									"length": 1
+								},
+								"tag": "XPN",
+								"probability": 0.98779315,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "전투",
+									"beginOffset": 176,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9822743,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "부대",
+									"beginOffset": 178,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9855947,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "나",
+									"beginOffset": 180,
+									"length": 1
+								},
+								"tag": "JC",
+								"probability": 0.9234627,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "비",
+						"tagged": "비/XPN+전투/NNG+부대/NNG+나/JC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "보급,",
+							"beginOffset": 182,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "보급",
+									"beginOffset": 182,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9820362,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 184,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.99651706,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "보급",
+						"tagged": "보급/NNG+,/SP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "수리,",
+							"beginOffset": 186,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "수리",
+									"beginOffset": 186,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98361,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 188,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.99833703,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "수리",
+						"tagged": "수리/NNG+,/SP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "수송",
+							"beginOffset": 190,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "수송",
+									"beginOffset": 190,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98188806,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "수송",
+						"tagged": "수송/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "같은",
+							"beginOffset": 193,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "같",
+									"beginOffset": 193,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9887614,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 194,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.999975,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "같",
+						"tagged": "같/VA+은/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "보조",
+							"beginOffset": 196,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "보조",
+									"beginOffset": 196,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9786291,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "보조",
+						"tagged": "보조/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "서비스",
+							"beginOffset": 199,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "서비스",
+									"beginOffset": 199,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9841231,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "서비스",
+						"tagged": "서비스/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "업무에",
+							"beginOffset": 203,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "업무",
+									"beginOffset": 203,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9857863,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 205,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99628556,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "업무",
+						"tagged": "업무/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "종사했다고",
+							"beginOffset": 207,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "종사하",
+									"beginOffset": 207,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 209,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9999371,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다고",
+									"beginOffset": 210,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9921523,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "종사하",
+						"tagged": "종사하/VV+았/EP+다고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "뉴올리언스에",
+							"beginOffset": 213,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "뉴올리언스",
+									"beginOffset": 213,
+									"length": 5
+								},
+								"tag": "NNP",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 218,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9950726,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "뉴올리언스",
+						"tagged": "뉴올리언스/NNP+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있는",
+							"beginOffset": 220,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 220,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.7039515,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 221,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999402,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VA+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "2차",
+							"beginOffset": 223,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "2",
+									"beginOffset": 223,
+									"length": 1
+								},
+								"tag": "SN",
+								"probability": 0.9983294,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "차",
+									"beginOffset": 224,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9573764,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "2",
+						"tagged": "2/SN+차/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "대전",
+							"beginOffset": 225,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "대전",
+									"beginOffset": 225,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9152809,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "대전",
+						"tagged": "대전/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "박물관의",
+							"beginOffset": 228,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "박물관",
+									"beginOffset": 228,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.98096764,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 231,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99965584,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "박물관",
+						"tagged": "박물관/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "교육관람",
+							"beginOffset": 233,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "교육",
+									"beginOffset": 233,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9835206,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "관람",
+									"beginOffset": 235,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98329204,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "교육",
+						"tagged": "교육/NNG+관람/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "담당",
+							"beginOffset": 238,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "담당",
+									"beginOffset": 238,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9815895,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "담당",
+						"tagged": "담당/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "부관장",
+							"beginOffset": 241,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "부관장",
+									"beginOffset": 241,
+									"length": 3
+								},
+								"tag": "NNP",
+								"probability": 0.73748994,
+								"outOfVocab": "OUT_OF_VOCAB"
+							}
+						],
+						"lemma": "부관장",
+						"tagged": "부관장/NNP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "피트",
+							"beginOffset": 245,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "피트",
+									"beginOffset": 245,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.40873078,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "피트",
+						"tagged": "피트/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "크린",
+							"beginOffset": 248,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "크린",
+									"beginOffset": 248,
+									"length": 2
+								},
+								"tag": "NNP",
+								"probability": 0.78811973,
+								"outOfVocab": "OUT_OF_VOCAB"
+							}
+						],
+						"lemma": "크린",
+						"tagged": "크린/NNP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "소령은",
+							"beginOffset": 251,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "소령",
+									"beginOffset": 251,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9836143,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 253,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9973918,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "소령",
+						"tagged": "소령/NNG+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "말했다.",
+							"beginOffset": 255,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "말하",
+									"beginOffset": 255,
+									"length": 2
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 256,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9998903,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 257,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.99184084,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 258,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9997486,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "말하",
+						"tagged": "말하/VV+았/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차 대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			}
+		],
+		"language": "ko_KR"
+	},
+	"ttr": {
+		"lemma_Cnt": 110,
+		"lemma_TTR": 0.68,
+		"CL_TTR": 0.8235294117647058,
+		"NL_TTR": 0.7894736842105263,
+		"NN_TTR": 0.7818181818181819,
+		"NNG_TTR": 0.8048780487804879,
+		"NNP_TTR": 0.875,
+		"NNB_TTR": 0.5,
+		"NP_TTR": 1.0,
+		"NR_TTR": 0,
+		"VL_TTR": 1.0,
+		"VV_TTR": 1.0,
+		"VA_TTR": 1.0,
+		"ML_TTR": 1.0,
+		"MM_TTR": 0,
+		"MA_TTR": 1.0,
+		"MAJ_TTR": 0,
+		"IC_TTR": 0,
+		"FL_TTR": 0.5238095238095238,
+		"J_TTR": 0.45454545454545453,
+		"E_TTR": 0.5625,
+		"X_TTR": 1.0,
+		"lemma_RTTR": 7.602631123499284,
+		"CL_RTTR": 6.790997501017324,
+		"NL_RTTR": 5.960395606792697,
+		"NN_RTTR": 5.798118817183882,
+		"NNG_RTTR": 5.153734142324001,
+		"NNP_RTTR": 2.4748737341529163,
+		"NNB_RTTR": 1.2247448713915892,
+		"NP_RTTR": 1.414213562373095,
+		"NR_RTTR": 0,
+		"VL_RTTR": 3.162277660168379,
+		"VV_RTTR": 2.82842712474619,
+		"VA_RTTR": 1.414213562373095,
+		"ML_RTTR": 1.0,
+		"MM_RTTR": 0,
+		"MA_RTTR": 1.0,
+		"MAJ_RTTR": 0,
+		"IC_RTTR": 0,
+		"FL_RTTR": 3.394673699166022,
+		"J_RTTR": 2.1320071635561044,
+		"E_RTTR": 2.25,
+		"X_RTTR": 2.0,
+		"lemma_CTTR": 5.375872022286245,
+		"CL_CTTR": 4.801960383990247,
+		"NL_CTTR": 4.214636152117623,
+		"NN_CTTR": 4.099889133756047,
+		"NNG_CTTR": 3.6442403604699356,
+		"NNP_CTTR": 1.75,
+		"NNB_CTTR": 0.8660254037844387,
+		"NP_CTTR": 1.0,
+		"NR_CTTR": 0,
+		"VL_CTTR": 2.23606797749979,
+		"VV_CTTR": 2.0,
+		"VA_CTTR": 1.0,
+		"ML_CTTR": 0.7071067811865475,
+		"MM_CTTR": 0,
+		"MA_CTTR": 0.7071067811865475,
+		"MAJ_CTTR": 0,
+		"IC_CTTR": 0,
+		"FL_CTTR": 2.400396792595916,
+		"J_CTTR": 1.507556722888818,
+		"E_CTTR": 1.590990257669732,
+		"X_CTTR": 1.414213562373095,
+		"lemma_MSTTR": 0.84,
+		"CL_MSTTR": 0.82,
+		"NL_MSTTR": 0.76,
+		"NN_MSTTR": 0.76,
+		"NNG_MSTTR": 0.8048780487804879,
+		"NNP_MSTTR": 0.875,
+		"NNB_MSTTR": 0.5,
+		"NP_MSTTR": 1.0,
+		"NR_MSTTR": 0,
+		"VL_MSTTR": 1.0,
+		"VV_MSTTR": 1.0,
+		"VA_MSTTR": 1.0,
+		"ML_MSTTR": 1.0,
+		"MM_MSTTR": 0,
+		"MA_MSTTR": 1.0,
+		"MAJ_MSTTR": 0,
+		"IC_MSTTR": 0,
+		"FL_MSTTR": 0.5238095238095238,
+		"J_MSTTR": 0.45454545454545453,
+		"E_MSTTR": 0.5625,
+		"X_MSTTR": 1.0,
+		"lemma_MATTR": 0.7984210526315794,
+		"CL_MATTR": 0.8473684210526317,
+		"NL_MATTR": 0.7975,
+		"NN_MATTR": 0.7899999999999999,
+		"NNG_MATTR": 0.8048780487804879,
+		"NNP_MATTR": 0.875,
+		"NNB_MATTR": 0.5,
+		"NP_MATTR": 1.0,
+		"NR_MATTR": 0,
+		"VL_MATTR": 1.0,
+		"VV_MATTR": 1.0,
+		"VA_MATTR": 1.0,
+		"ML_MATTR": 1.0,
+		"MM_MATTR": 0,
+		"MA_MATTR": 1.0,
+		"MAJ_MATTR": 0,
+		"IC_MATTR": 0,
+		"FL_MATTR": 0.5238095238095238,
+		"J_MATTR": 0.45454545454545453,
+		"E_MATTR": 0.5625,
+		"X_MATTR": 1.0,
+		"lemma_MTLD": 81.27159052206491,
+		"CL_MTLD": 107.89333333333332,
+		"NL_MTLD": 75.81000000000002,
+		"NN_MTLD": 70.58333333333336,
+		"NNG_MTLD": 58.83500000000002,
+		"NNP_MTLD": 17.92,
+		"NNB_MTLD": 3.3600000000000003,
+		"NP_MTLD": 0.0,
+		"NR_MTLD": 0.0,
+		"VL_MTLD": 0.0,
+		"VV_MTLD": 0.0,
+		"VA_MTLD": 0.0,
+		"ML_MTLD": 0.0,
+		"MM_MTLD": 0.0,
+		"MA_MTLD": 0.0,
+		"MAJ_MTLD": 0.0,
+		"IC_MTLD": 0.0,
+		"FL_MTLD": 18.426470588235297,
+		"J_MTLD": 10.521739130434781,
+		"E_MTLD": 13.014925373134329,
+		"X_MTLD": 0.0,
+		"lemma_VOCDD": 92.95412388274866,
+		"CL_VOCDD": 124.50434903659664,
+		"NL_VOCDD": 83.42154184047457,
+		"NN_VOCDD": 76.28700081132709,
+		"NNG_VOCDD": 0,
+		"NNP_VOCDD": 0,
+		"NNB_VOCDD": 0,
+		"NP_VOCDD": 0,
+		"NR_VOCDD": 0,
+		"VL_VOCDD": 0,
+		"VV_VOCDD": 0,
+		"VA_VOCDD": 0,
+		"ML_VOCDD": 0,
+		"MM_VOCDD": 0,
+		"MA_VOCDD": 0,
+		"MAJ_VOCDD": 0,
+		"IC_VOCDD": 0,
+		"FL_VOCDD": 0,
+		"J_VOCDD": 0,
+		"E_VOCDD": 0,
+		"X_VOCDD": 0,
+		"lemma_HDD": 0.8411034288852669,
+		"CL_HDD": 0.8715579854737,
+		"NL_HDD": 0.8265328725855046,
+		"NN_HDD": 0.8158503271710821,
+		"NNG_HDD": 0.0,
+		"NNP_HDD": 0.0,
+		"NNB_HDD": 0.0,
+		"NP_HDD": 0.0,
+		"NR_HDD": 0.0,
+		"VL_HDD": 0.0,
+		"VV_HDD": 0.0,
+		"VA_HDD": 0.0,
+		"ML_HDD": 0.0,
+		"MM_HDD": 0.0,
+		"MA_HDD": 0.0,
+		"MAJ_HDD": 0.0,
+		"IC_HDD": 0.0,
+		"FL_HDD": 0.5238095238095241,
+		"J_HDD": 0.0,
+		"E_HDD": 0.0,
+		"X_HDD": 0.0
+	},
+	"similarity": {
+		"avgSentSimilarity": 0.24274417757987976,
+		"topicConsistency": 0.455
+	},
+	"adjacency": {
+		"adjacent_sentence_overlap_all_lemmas": 73,
+		"adjacent_sentence_overlap_all_lemmas_normed": 2,
+		"binary_adjacent_sentence_overlap_all_lemmas": 2,
+		"adjacent_two_sentence_overlap_all_lemmas": 48,
+		"adjacent_two_sentence_overlap_all_lemmas_normed": 1,
+		"binary_adjacent_two_sentence_overlap_all_lemmas": 1,
+		"adjacent_sentence_overlap_content_lemmas": 45,
+		"adjacent_sentence_overlap_content_lemmas_normed": 2,
+		"binary_adjacent_sentence_overlap_content_lemmas": 2,
+		"adjacent_two_sentence_overlap_content_lemmas": 34,
+		"adjacent_two_sentence_overlap_content_lemmas_normed": 1,
+		"binary_adjacent_two_sentence_overlap_content_lemmas": 1,
+		"adjacent_sentence_overlap_function_lemmas": 23,
+		"adjacent_sentence_overlap_function_lemmas_normed": 2,
+		"binary_adjacent_sentence_overlap_function_lemmas": 2,
+		"adjacent_two_sentence_overlap_function_lemmas": 11,
+		"adjacent_two_sentence_overlap_function_lemmas_normed": 1,
+		"binary_adjacent_two_sentence_overlap_function_lemmas": 1,
+		"adjacent_sentence_overlap_noun_lemmas": 42,
+		"adjacent_sentence_overlap_noun_lemmas_normed": 2,
+		"binary_adjacent_sentence_overlap_noun_lemmas": 2,
+		"adjacent_two_sentence_overlap_noun_lemmas": 32,
+		"adjacent_two_sentence_overlap_noun_lemmas_normed": 1,
+		"binary_adjacent_two_sentence_overlap_noun_lemmas": 1,
+		"adjacent_sentence_overlap_verb_lemmas": 6,
+		"adjacent_sentence_overlap_verb_lemmas_normed": 2,
+		"binary_adjacent_sentence_overlap_verb_lemmas": 0,
+		"adjacent_two_sentence_overlap_verb_lemmas": 4,
+		"adjacent_two_sentence_overlap_verb_lemmas_normed": 1,
+		"binary_adjacent_two_sentence_overlap_verb_lemmas": 0,
+		"adjacent_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_sentence_overlap_adjective_lemmas_normed": 0,
+		"binary_adjacent_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_sentence_overlap_adverb_lemmas_normed": 0,
+		"binary_adjacent_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adverb_lemmas": 0
+	},
+	"basic_count": {
+		"para_Cnt": 1,
+		"sentence_Cnt": 3,
+		"word_Cnt": 58,
+		"morph_Cnt": 125,
+		"char_Cnt": 193,
+		"CL_Cnt": 68,
+		"NL_Cnt": 57,
+		"NN_Cnt": 55,
+		"NNG_Cnt": 41,
+		"NNP_Cnt": 8,
+		"NNB_Cnt": 6,
+		"NP_Cnt": 2,
+		"NP_People_Cnt": 1,
+		"NP_Things_Cnt": 1,
+		"NR_Cnt": 0,
+		"VL_Cnt": 10,
+		"VV_Cnt": 8,
+		"VA_Cnt": 2,
+		"VX_Cnt": 0,
+		"VCP_Cnt": 0,
+		"VCN_Cnt": 0,
+		"ML_Cnt": 1,
+		"MA_Cnt": 0,
+		"MM_Cnt": 0,
+		"FL_Cnt": 42,
+		"J_Cnt": 22,
+		"E_Cnt": 16,
+		"X_Cnt": 4,
+		"IC_Cnt": 0
+	},
+	"basic_density": {
+		"CL_Den": 0.544,
+		"FL_Den": 0.336,
+		"NL_Den": 0.44,
+		"NNGL_Den": 0.328,
+		"NNPL_Den": 0.064,
+		"NNBL_Den": 0.048,
+		"NPL_Den": 0.016,
+		"NML_Den": 0.0,
+		"VL_Den": 0.08,
+		"VVL_Den": 0.064,
+		"VAL_Den": 0.016,
+		"ML_Den": 0.008,
+		"MML_Den": 0.0,
+		"MAL_Den": 0.0,
+		"JL_Den": 0.176,
+		"EL_Den": 0.128,
+		"XL_Den": 0.032,
+		"ITL_Den": 0.0,
+		"NCL_Den": 0.8088235294117647,
+		"NNCL_Den": 0.6029411764705882,
+		"NNGCL_Den": 0.11764705882352941,
+		"NNBCL_Den": 0.08823529411764706,
+		"NPCL_Den": 0.029411764705882353,
+		"NMCL_Den": 0.0,
+		"VCL_Den": 0.14705882352941177,
+		"VVCL_Den": 0.11764705882352941,
+		"VACL_Den": 0.029411764705882353,
+		"MCL_Den": 0.014705882352941176,
+		"MMCL_Den": 0.0,
+		"MACL_Den": 0.0,
+		"INCL_Den": 0.0,
+		"JFL_Den": 0.5238095238095238,
+		"EFL_Den": 0.38095238095238093,
+		"XFL_Den": 0.09523809523809523
+	},
+	"basic_level": {
+		"morph_LenAvg": 1.672,
+		"morph_LenStd": 0.7977568551883462,
+		"word_LenAvg": 3.3448275862068964,
+		"word_LenStd": 1.2532952996818099
+	},
+	"basic_list": {
+		"NL_Lst": [
+			[
+				0,
+				"미국",
+				"NNP",
+				"미국의 제2차 세계대전 참전용사 가운데 최고령자로 알려진 로렌스 N. 브룩스가 5일(현지시간) 112세의 나이로 세상을 떠났다."
+			],
+			[
+				1,
+				"차",
+				"NNB",
+				"미국의 제2차 세계대전 참전용사 가운데 최고령자로 알려진 로렌스 N. 브룩스가 5일(현지시간) 112세의 나이로 세상을 떠났다."
+			],
+			[
+				2,
+				"세계",
+				"NNG",
+				"미국의 제2차 세계대전 참전용사 가운데 최고령자로 알려진 로렌스 N. 브룩스가 5일(현지시간) 112세의 나이로 세상을 떠났다."
+			],
+			[
+				3,
+				"대전",
+				"NNG",
+				"미국의 제2차 세계대전 참전용사 가운데 최고령자로 알려진 로렌스 N. 브룩스가 5일(현지시간) 112세의 나이로 세상을 떠났다."
+			],
+			[
+				4,
+				"참전",
+				"NNG",
+				"미국의 제2차 세계대전 참전용사 가운데 최고령자로 알려진 로렌스 N. 브룩스가 5일(현지시간) 112세의 나이로 세상을 떠났다."
+			],
+			[
+				5,
+				"용사",
+				"NNG",
+				"미국의 제2차 세계대전 참전용사 가운데 최고령자로 알려진 로렌스 N. 브룩스가 5일(현지시간) 112세의 나이로 세상을 떠났다."
+			],
+			[
+				6,
+				"가운데",
+				"NNG",
+				"미국의 제2차 세계대전 참전용사 가운데 최고령자로 알려진 로렌스 N. 브룩스가 5일(현지시간) 112세의 나이로 세상을 떠났다."
+			],
+			[
+				7,
+				"고령자",
+				"NNG",
+				"미국의 제2차 세계대전 참전용사 가운데 최고령자로 알려진 로렌스 N. 브룩스가 5일(현지시간) 112세의 나이로 세상을 떠났다."
+			],
+			[
+				8,
+				"로렌스",
+				"NNP",
+				"미국의 제2차 세계대전 참전용사 가운데 최고령자로 알려진 로렌스 N. 브룩스가 5일(현지시간) 112세의 나이로 세상을 떠났다."
+			],
+			[
+				9,
+				"브룩스",
+				"NNP",
+				"미국의 제2차 세계대전 참전용사 가운데 최고령자로 알려진 로렌스 N. 브룩스가 5일(현지시간) 112세의 나이로 세상을 떠났다."
+			],
+			[
+				10,
+				"일",
+				"NNB",
+				"미국의 제2차 세계대전 참전용사 가운데 최고령자로 알려진 로렌스 N. 브룩스가 5일(현지시간) 112세의 나이로 세상을 떠났다."
+			],
+			[
+				11,
+				"현지",
+				"NNG",
+				"미국의 제2차 세계대전 참전용사 가운데 최고령자로 알려진 로렌스 N. 브룩스가 5일(현지시간) 112세의 나이로 세상을 떠났다."
+			],
+			[
+				12,
+				"시간",
+				"NNG",
+				"미국의 제2차 세계대전 참전용사 가운데 최고령자로 알려진 로렌스 N. 브룩스가 5일(현지시간) 112세의 나이로 세상을 떠났다."
+			],
+			[
+				13,
+				"세",
+				"NNB",
+				"미국의 제2차 세계대전 참전용사 가운데 최고령자로 알려진 로렌스 N. 브룩스가 5일(현지시간) 112세의 나이로 세상을 떠났다."
+			],
+			[
+				14,
+				"나이",
+				"NNG",
+				"미국의 제2차 세계대전 참전용사 가운데 최고령자로 알려진 로렌스 N. 브룩스가 5일(현지시간) 112세의 나이로 세상을 떠났다."
+			],
+			[
+				15,
+				"세상",
+				"NNG",
+				"미국의 제2차 세계대전 참전용사 가운데 최고령자로 알려진 로렌스 N. 브룩스가 5일(현지시간) 112세의 나이로 세상을 떠났다."
+			],
+			[
+				16,
+				"그",
+				"NP",
+				"그의 사망 사실은 국립 2차세계대전 박물관에서 발표했으며 브룩스의 딸이 이를 확인했다."
+			],
+			[
+				17,
+				"사망",
+				"NNG",
+				"그의 사망 사실은 국립 2차세계대전 박물관에서 발표했으며 브룩스의 딸이 이를 확인했다."
+			],
+			[
+				18,
+				"사실",
+				"NNG",
+				"그의 사망 사실은 국립 2차세계대전 박물관에서 발표했으며 브룩스의 딸이 이를 확인했다."
+			],
+			[
+				19,
+				"국립",
+				"NNG",
+				"그의 사망 사실은 국립 2차세계대전 박물관에서 발표했으며 브룩스의 딸이 이를 확인했다."
+			],
+			[
+				20,
+				"차",
+				"NNB",
+				"그의 사망 사실은 국립 2차세계대전 박물관에서 발표했으며 브룩스의 딸이 이를 확인했다."
+			],
+			[
+				21,
+				"세계",
+				"NNG",
+				"그의 사망 사실은 국립 2차세계대전 박물관에서 발표했으며 브룩스의 딸이 이를 확인했다."
+			],
+			[
+				22,
+				"대전",
+				"NNG",
+				"그의 사망 사실은 국립 2차세계대전 박물관에서 발표했으며 브룩스의 딸이 이를 확인했다."
+			],
+			[
+				23,
+				"박물관",
+				"NNG",
+				"그의 사망 사실은 국립 2차세계대전 박물관에서 발표했으며 브룩스의 딸이 이를 확인했다."
+			],
+			[
+				24,
+				"브룩스",
+				"NNP",
+				"그의 사망 사실은 국립 2차세계대전 박물관에서 발표했으며 브룩스의 딸이 이를 확인했다."
+			],
+			[
+				25,
+				"딸",
+				"NNG",
+				"그의 사망 사실은 국립 2차세계대전 박물관에서 발표했으며 브룩스의 딸이 이를 확인했다."
+			],
+			[
+				26,
+				"이",
+				"NP",
+				"그의 사망 사실은 국립 2차세계대전 박물관에서 발표했으며 브룩스의 딸이 이를 확인했다."
+			],
+			[
+				27,
+				"차",
+				"NNB",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				28,
+				"세계",
+				"NNG",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				29,
+				"대전",
+				"NNG",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				30,
+				"초기",
+				"NNG",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				31,
+				"미군",
+				"NNG",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				32,
+				"아프리카",
+				"NNP",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				33,
+				"미국인",
+				"NNG",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				34,
+				"군인",
+				"NNG",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				35,
+				"미군",
+				"NNG",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				36,
+				"흑인",
+				"NNG",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				37,
+				"부대",
+				"NNG",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				38,
+				"전투",
+				"NNG",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				39,
+				"부대",
+				"NNG",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				40,
+				"보급",
+				"NNG",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				41,
+				"수리",
+				"NNG",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				42,
+				"수송",
+				"NNG",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				43,
+				"보조",
+				"NNG",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				44,
+				"서비스",
+				"NNG",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				45,
+				"업무",
+				"NNG",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				46,
+				"뉴올리언스",
+				"NNP",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				47,
+				"차",
+				"NNB",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				48,
+				"대전",
+				"NNG",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				49,
+				"박물관",
+				"NNG",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				50,
+				"교육",
+				"NNG",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				51,
+				"관람",
+				"NNG",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				52,
+				"담당",
+				"NNG",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				53,
+				"부관장",
+				"NNP",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				54,
+				"피트",
+				"NNG",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				55,
+				"크린",
+				"NNP",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				56,
+				"소령",
+				"NNG",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			]
+		],
+		"NN_Lst": [
+			[
+				0,
+				"미국",
+				"NNP",
+				"미국의 제2차 세계대전 참전용사 가운데 최고령자로 알려진 로렌스 N. 브룩스가 5일(현지시간) 112세의 나이로 세상을 떠났다."
+			],
+			[
+				1,
+				"차",
+				"NNB",
+				"미국의 제2차 세계대전 참전용사 가운데 최고령자로 알려진 로렌스 N. 브룩스가 5일(현지시간) 112세의 나이로 세상을 떠났다."
+			],
+			[
+				2,
+				"세계",
+				"NNG",
+				"미국의 제2차 세계대전 참전용사 가운데 최고령자로 알려진 로렌스 N. 브룩스가 5일(현지시간) 112세의 나이로 세상을 떠났다."
+			],
+			[
+				3,
+				"대전",
+				"NNG",
+				"미국의 제2차 세계대전 참전용사 가운데 최고령자로 알려진 로렌스 N. 브룩스가 5일(현지시간) 112세의 나이로 세상을 떠났다."
+			],
+			[
+				4,
+				"참전",
+				"NNG",
+				"미국의 제2차 세계대전 참전용사 가운데 최고령자로 알려진 로렌스 N. 브룩스가 5일(현지시간) 112세의 나이로 세상을 떠났다."
+			],
+			[
+				5,
+				"용사",
+				"NNG",
+				"미국의 제2차 세계대전 참전용사 가운데 최고령자로 알려진 로렌스 N. 브룩스가 5일(현지시간) 112세의 나이로 세상을 떠났다."
+			],
+			[
+				6,
+				"가운데",
+				"NNG",
+				"미국의 제2차 세계대전 참전용사 가운데 최고령자로 알려진 로렌스 N. 브룩스가 5일(현지시간) 112세의 나이로 세상을 떠났다."
+			],
+			[
+				7,
+				"고령자",
+				"NNG",
+				"미국의 제2차 세계대전 참전용사 가운데 최고령자로 알려진 로렌스 N. 브룩스가 5일(현지시간) 112세의 나이로 세상을 떠났다."
+			],
+			[
+				8,
+				"로렌스",
+				"NNP",
+				"미국의 제2차 세계대전 참전용사 가운데 최고령자로 알려진 로렌스 N. 브룩스가 5일(현지시간) 112세의 나이로 세상을 떠났다."
+			],
+			[
+				9,
+				"브룩스",
+				"NNP",
+				"미국의 제2차 세계대전 참전용사 가운데 최고령자로 알려진 로렌스 N. 브룩스가 5일(현지시간) 112세의 나이로 세상을 떠났다."
+			],
+			[
+				10,
+				"일",
+				"NNB",
+				"미국의 제2차 세계대전 참전용사 가운데 최고령자로 알려진 로렌스 N. 브룩스가 5일(현지시간) 112세의 나이로 세상을 떠났다."
+			],
+			[
+				11,
+				"현지",
+				"NNG",
+				"미국의 제2차 세계대전 참전용사 가운데 최고령자로 알려진 로렌스 N. 브룩스가 5일(현지시간) 112세의 나이로 세상을 떠났다."
+			],
+			[
+				12,
+				"시간",
+				"NNG",
+				"미국의 제2차 세계대전 참전용사 가운데 최고령자로 알려진 로렌스 N. 브룩스가 5일(현지시간) 112세의 나이로 세상을 떠났다."
+			],
+			[
+				13,
+				"세",
+				"NNB",
+				"미국의 제2차 세계대전 참전용사 가운데 최고령자로 알려진 로렌스 N. 브룩스가 5일(현지시간) 112세의 나이로 세상을 떠났다."
+			],
+			[
+				14,
+				"나이",
+				"NNG",
+				"미국의 제2차 세계대전 참전용사 가운데 최고령자로 알려진 로렌스 N. 브룩스가 5일(현지시간) 112세의 나이로 세상을 떠났다."
+			],
+			[
+				15,
+				"세상",
+				"NNG",
+				"미국의 제2차 세계대전 참전용사 가운데 최고령자로 알려진 로렌스 N. 브룩스가 5일(현지시간) 112세의 나이로 세상을 떠났다."
+			],
+			[
+				16,
+				"사망",
+				"NNG",
+				"그의 사망 사실은 국립 2차세계대전 박물관에서 발표했으며 브룩스의 딸이 이를 확인했다."
+			],
+			[
+				17,
+				"사실",
+				"NNG",
+				"그의 사망 사실은 국립 2차세계대전 박물관에서 발표했으며 브룩스의 딸이 이를 확인했다."
+			],
+			[
+				18,
+				"국립",
+				"NNG",
+				"그의 사망 사실은 국립 2차세계대전 박물관에서 발표했으며 브룩스의 딸이 이를 확인했다."
+			],
+			[
+				19,
+				"차",
+				"NNB",
+				"그의 사망 사실은 국립 2차세계대전 박물관에서 발표했으며 브룩스의 딸이 이를 확인했다."
+			],
+			[
+				20,
+				"세계",
+				"NNG",
+				"그의 사망 사실은 국립 2차세계대전 박물관에서 발표했으며 브룩스의 딸이 이를 확인했다."
+			],
+			[
+				21,
+				"대전",
+				"NNG",
+				"그의 사망 사실은 국립 2차세계대전 박물관에서 발표했으며 브룩스의 딸이 이를 확인했다."
+			],
+			[
+				22,
+				"박물관",
+				"NNG",
+				"그의 사망 사실은 국립 2차세계대전 박물관에서 발표했으며 브룩스의 딸이 이를 확인했다."
+			],
+			[
+				23,
+				"브룩스",
+				"NNP",
+				"그의 사망 사실은 국립 2차세계대전 박물관에서 발표했으며 브룩스의 딸이 이를 확인했다."
+			],
+			[
+				24,
+				"딸",
+				"NNG",
+				"그의 사망 사실은 국립 2차세계대전 박물관에서 발표했으며 브룩스의 딸이 이를 확인했다."
+			],
+			[
+				25,
+				"차",
+				"NNB",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				26,
+				"세계",
+				"NNG",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				27,
+				"대전",
+				"NNG",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				28,
+				"초기",
+				"NNG",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				29,
+				"미군",
+				"NNG",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				30,
+				"아프리카",
+				"NNP",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				31,
+				"미국인",
+				"NNG",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				32,
+				"군인",
+				"NNG",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				33,
+				"미군",
+				"NNG",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				34,
+				"흑인",
+				"NNG",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				35,
+				"부대",
+				"NNG",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				36,
+				"전투",
+				"NNG",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				37,
+				"부대",
+				"NNG",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				38,
+				"보급",
+				"NNG",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				39,
+				"수리",
+				"NNG",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				40,
+				"수송",
+				"NNG",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				41,
+				"보조",
+				"NNG",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				42,
+				"서비스",
+				"NNG",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				43,
+				"업무",
+				"NNG",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				44,
+				"뉴올리언스",
+				"NNP",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				45,
+				"차",
+				"NNB",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				46,
+				"대전",
+				"NNG",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				47,
+				"박물관",
+				"NNG",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				48,
+				"교육",
+				"NNG",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				49,
+				"관람",
+				"NNG",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				50,
+				"담당",
+				"NNG",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				51,
+				"부관장",
+				"NNP",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				52,
+				"피트",
+				"NNG",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				53,
+				"크린",
+				"NNP",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				54,
+				"소령",
+				"NNG",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			]
+		],
+		"NNG_Lst": [
+			[
+				0,
+				"세계",
+				"NNG",
+				"미국의 제2차 세계대전 참전용사 가운데 최고령자로 알려진 로렌스 N. 브룩스가 5일(현지시간) 112세의 나이로 세상을 떠났다."
+			],
+			[
+				1,
+				"대전",
+				"NNG",
+				"미국의 제2차 세계대전 참전용사 가운데 최고령자로 알려진 로렌스 N. 브룩스가 5일(현지시간) 112세의 나이로 세상을 떠났다."
+			],
+			[
+				2,
+				"참전",
+				"NNG",
+				"미국의 제2차 세계대전 참전용사 가운데 최고령자로 알려진 로렌스 N. 브룩스가 5일(현지시간) 112세의 나이로 세상을 떠났다."
+			],
+			[
+				3,
+				"용사",
+				"NNG",
+				"미국의 제2차 세계대전 참전용사 가운데 최고령자로 알려진 로렌스 N. 브룩스가 5일(현지시간) 112세의 나이로 세상을 떠났다."
+			],
+			[
+				4,
+				"가운데",
+				"NNG",
+				"미국의 제2차 세계대전 참전용사 가운데 최고령자로 알려진 로렌스 N. 브룩스가 5일(현지시간) 112세의 나이로 세상을 떠났다."
+			],
+			[
+				5,
+				"고령자",
+				"NNG",
+				"미국의 제2차 세계대전 참전용사 가운데 최고령자로 알려진 로렌스 N. 브룩스가 5일(현지시간) 112세의 나이로 세상을 떠났다."
+			],
+			[
+				6,
+				"현지",
+				"NNG",
+				"미국의 제2차 세계대전 참전용사 가운데 최고령자로 알려진 로렌스 N. 브룩스가 5일(현지시간) 112세의 나이로 세상을 떠났다."
+			],
+			[
+				7,
+				"시간",
+				"NNG",
+				"미국의 제2차 세계대전 참전용사 가운데 최고령자로 알려진 로렌스 N. 브룩스가 5일(현지시간) 112세의 나이로 세상을 떠났다."
+			],
+			[
+				8,
+				"나이",
+				"NNG",
+				"미국의 제2차 세계대전 참전용사 가운데 최고령자로 알려진 로렌스 N. 브룩스가 5일(현지시간) 112세의 나이로 세상을 떠났다."
+			],
+			[
+				9,
+				"세상",
+				"NNG",
+				"미국의 제2차 세계대전 참전용사 가운데 최고령자로 알려진 로렌스 N. 브룩스가 5일(현지시간) 112세의 나이로 세상을 떠났다."
+			],
+			[
+				10,
+				"사망",
+				"NNG",
+				"그의 사망 사실은 국립 2차세계대전 박물관에서 발표했으며 브룩스의 딸이 이를 확인했다."
+			],
+			[
+				11,
+				"사실",
+				"NNG",
+				"그의 사망 사실은 국립 2차세계대전 박물관에서 발표했으며 브룩스의 딸이 이를 확인했다."
+			],
+			[
+				12,
+				"국립",
+				"NNG",
+				"그의 사망 사실은 국립 2차세계대전 박물관에서 발표했으며 브룩스의 딸이 이를 확인했다."
+			],
+			[
+				13,
+				"세계",
+				"NNG",
+				"그의 사망 사실은 국립 2차세계대전 박물관에서 발표했으며 브룩스의 딸이 이를 확인했다."
+			],
+			[
+				14,
+				"대전",
+				"NNG",
+				"그의 사망 사실은 국립 2차세계대전 박물관에서 발표했으며 브룩스의 딸이 이를 확인했다."
+			],
+			[
+				15,
+				"박물관",
+				"NNG",
+				"그의 사망 사실은 국립 2차세계대전 박물관에서 발표했으며 브룩스의 딸이 이를 확인했다."
+			],
+			[
+				16,
+				"딸",
+				"NNG",
+				"그의 사망 사실은 국립 2차세계대전 박물관에서 발표했으며 브룩스의 딸이 이를 확인했다."
+			],
+			[
+				17,
+				"세계",
+				"NNG",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				18,
+				"대전",
+				"NNG",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				19,
+				"초기",
+				"NNG",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				20,
+				"미군",
+				"NNG",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				21,
+				"미국인",
+				"NNG",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				22,
+				"군인",
+				"NNG",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				23,
+				"미군",
+				"NNG",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				24,
+				"흑인",
+				"NNG",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				25,
+				"부대",
+				"NNG",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				26,
+				"전투",
+				"NNG",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				27,
+				"부대",
+				"NNG",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				28,
+				"보급",
+				"NNG",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				29,
+				"수리",
+				"NNG",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				30,
+				"수송",
+				"NNG",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				31,
+				"보조",
+				"NNG",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				32,
+				"서비스",
+				"NNG",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				33,
+				"업무",
+				"NNG",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				34,
+				"대전",
+				"NNG",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				35,
+				"박물관",
+				"NNG",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				36,
+				"교육",
+				"NNG",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				37,
+				"관람",
+				"NNG",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				38,
+				"담당",
+				"NNG",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				39,
+				"피트",
+				"NNG",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				40,
+				"소령",
+				"NNG",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			]
+		],
+		"NNP_Lst": [
+			[
+				0,
+				"미국",
+				"NNP",
+				"미국의 제2차 세계대전 참전용사 가운데 최고령자로 알려진 로렌스 N. 브룩스가 5일(현지시간) 112세의 나이로 세상을 떠났다."
+			],
+			[
+				1,
+				"로렌스",
+				"NNP",
+				"미국의 제2차 세계대전 참전용사 가운데 최고령자로 알려진 로렌스 N. 브룩스가 5일(현지시간) 112세의 나이로 세상을 떠났다."
+			],
+			[
+				2,
+				"브룩스",
+				"NNP",
+				"미국의 제2차 세계대전 참전용사 가운데 최고령자로 알려진 로렌스 N. 브룩스가 5일(현지시간) 112세의 나이로 세상을 떠났다."
+			],
+			[
+				3,
+				"브룩스",
+				"NNP",
+				"그의 사망 사실은 국립 2차세계대전 박물관에서 발표했으며 브룩스의 딸이 이를 확인했다."
+			],
+			[
+				4,
+				"아프리카",
+				"NNP",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				5,
+				"뉴올리언스",
+				"NNP",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				6,
+				"부관장",
+				"NNP",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				7,
+				"크린",
+				"NNP",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			]
+		],
+		"NNB_Lst": [
+			[
+				0,
+				"차",
+				"NNB",
+				"미국의 제2차 세계대전 참전용사 가운데 최고령자로 알려진 로렌스 N. 브룩스가 5일(현지시간) 112세의 나이로 세상을 떠났다."
+			],
+			[
+				1,
+				"일",
+				"NNB",
+				"미국의 제2차 세계대전 참전용사 가운데 최고령자로 알려진 로렌스 N. 브룩스가 5일(현지시간) 112세의 나이로 세상을 떠났다."
+			],
+			[
+				2,
+				"세",
+				"NNB",
+				"미국의 제2차 세계대전 참전용사 가운데 최고령자로 알려진 로렌스 N. 브룩스가 5일(현지시간) 112세의 나이로 세상을 떠났다."
+			],
+			[
+				3,
+				"차",
+				"NNB",
+				"그의 사망 사실은 국립 2차세계대전 박물관에서 발표했으며 브룩스의 딸이 이를 확인했다."
+			],
+			[
+				4,
+				"차",
+				"NNB",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				5,
+				"차",
+				"NNB",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			]
+		],
+		"NP_Lst": [
+			[
+				0,
+				"그",
+				"NP",
+				"그의 사망 사실은 국립 2차세계대전 박물관에서 발표했으며 브룩스의 딸이 이를 확인했다."
+			],
+			[
+				1,
+				"이",
+				"NP",
+				"그의 사망 사실은 국립 2차세계대전 박물관에서 발표했으며 브룩스의 딸이 이를 확인했다."
+			]
+		],
+		"NP_People_Lst": [
+			[
+				0,
+				"그",
+				"NP",
+				"그의 사망 사실은 국립 2차세계대전 박물관에서 발표했으며 브룩스의 딸이 이를 확인했다."
+			]
+		],
+		"NP_Things_Lst": [
+			[
+				0,
+				"이",
+				"NP",
+				"그의 사망 사실은 국립 2차세계대전 박물관에서 발표했으며 브룩스의 딸이 이를 확인했다."
+			]
+		],
+		"NR_Lst": [],
+		"VL_Lst": [
+			[
+				0,
+				"알려지",
+				"VV",
+				"미국의 제2차 세계대전 참전용사 가운데 최고령자로 알려진 로렌스 N. 브룩스가 5일(현지시간) 112세의 나이로 세상을 떠났다."
+			],
+			[
+				1,
+				"떠나",
+				"VV",
+				"미국의 제2차 세계대전 참전용사 가운데 최고령자로 알려진 로렌스 N. 브룩스가 5일(현지시간) 112세의 나이로 세상을 떠났다."
+			],
+			[
+				2,
+				"발표하",
+				"VV",
+				"그의 사망 사실은 국립 2차세계대전 박물관에서 발표했으며 브룩스의 딸이 이를 확인했다."
+			],
+			[
+				3,
+				"확인하",
+				"VV",
+				"그의 사망 사실은 국립 2차세계대전 박물관에서 발표했으며 브룩스의 딸이 이를 확인했다."
+			],
+			[
+				4,
+				"입대하",
+				"VV",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				5,
+				"전속되",
+				"VV",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				6,
+				"같",
+				"VA",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				7,
+				"종사하",
+				"VV",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				8,
+				"있",
+				"VA",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				9,
+				"말하",
+				"VV",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			]
+		],
+		"VV_Lst": [
+			[
+				0,
+				"알려지",
+				"VV",
+				"미국의 제2차 세계대전 참전용사 가운데 최고령자로 알려진 로렌스 N. 브룩스가 5일(현지시간) 112세의 나이로 세상을 떠났다."
+			],
+			[
+				1,
+				"떠나",
+				"VV",
+				"미국의 제2차 세계대전 참전용사 가운데 최고령자로 알려진 로렌스 N. 브룩스가 5일(현지시간) 112세의 나이로 세상을 떠났다."
+			],
+			[
+				2,
+				"발표하",
+				"VV",
+				"그의 사망 사실은 국립 2차세계대전 박물관에서 발표했으며 브룩스의 딸이 이를 확인했다."
+			],
+			[
+				3,
+				"확인하",
+				"VV",
+				"그의 사망 사실은 국립 2차세계대전 박물관에서 발표했으며 브룩스의 딸이 이를 확인했다."
+			],
+			[
+				4,
+				"입대하",
+				"VV",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				5,
+				"전속되",
+				"VV",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				6,
+				"종사하",
+				"VV",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				7,
+				"말하",
+				"VV",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			]
+		],
+		"VA_Lst": [
+			[
+				0,
+				"같",
+				"VA",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				1,
+				"있",
+				"VA",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			]
+		],
+		"VX_Lst": [],
+		"VCP_Lst": [],
+		"VCN_Lst": [],
+		"ML_Lst": [
+			[
+				0,
+				"주로",
+				"MAG",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			]
+		],
+		"MA_Lst": [],
+		"MM_Lst": [],
+		"J_Lst": [
+			[
+				0,
+				"의",
+				"JKG",
+				"미국의 제2차 세계대전 참전용사 가운데 최고령자로 알려진 로렌스 N. 브룩스가 5일(현지시간) 112세의 나이로 세상을 떠났다."
+			],
+			[
+				1,
+				"로",
+				"JKB",
+				"미국의 제2차 세계대전 참전용사 가운데 최고령자로 알려진 로렌스 N. 브룩스가 5일(현지시간) 112세의 나이로 세상을 떠났다."
+			],
+			[
+				2,
+				"가",
+				"JKS",
+				"미국의 제2차 세계대전 참전용사 가운데 최고령자로 알려진 로렌스 N. 브룩스가 5일(현지시간) 112세의 나이로 세상을 떠났다."
+			],
+			[
+				3,
+				"의",
+				"JKG",
+				"미국의 제2차 세계대전 참전용사 가운데 최고령자로 알려진 로렌스 N. 브룩스가 5일(현지시간) 112세의 나이로 세상을 떠났다."
+			],
+			[
+				4,
+				"로",
+				"JKB",
+				"미국의 제2차 세계대전 참전용사 가운데 최고령자로 알려진 로렌스 N. 브룩스가 5일(현지시간) 112세의 나이로 세상을 떠났다."
+			],
+			[
+				5,
+				"을",
+				"JKO",
+				"미국의 제2차 세계대전 참전용사 가운데 최고령자로 알려진 로렌스 N. 브룩스가 5일(현지시간) 112세의 나이로 세상을 떠났다."
+			],
+			[
+				6,
+				"의",
+				"JKG",
+				"그의 사망 사실은 국립 2차세계대전 박물관에서 발표했으며 브룩스의 딸이 이를 확인했다."
+			],
+			[
+				7,
+				"은",
+				"JX",
+				"그의 사망 사실은 국립 2차세계대전 박물관에서 발표했으며 브룩스의 딸이 이를 확인했다."
+			],
+			[
+				8,
+				"에서",
+				"JKB",
+				"그의 사망 사실은 국립 2차세계대전 박물관에서 발표했으며 브룩스의 딸이 이를 확인했다."
+			],
+			[
+				9,
+				"의",
+				"JKG",
+				"그의 사망 사실은 국립 2차세계대전 박물관에서 발표했으며 브룩스의 딸이 이를 확인했다."
+			],
+			[
+				10,
+				"이",
+				"JKS",
+				"그의 사망 사실은 국립 2차세계대전 박물관에서 발표했으며 브룩스의 딸이 이를 확인했다."
+			],
+			[
+				11,
+				"를",
+				"JKO",
+				"그의 사망 사실은 국립 2차세계대전 박물관에서 발표했으며 브룩스의 딸이 이를 확인했다."
+			],
+			[
+				12,
+				"에",
+				"JKB",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				13,
+				"에",
+				"JKB",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				14,
+				"은",
+				"JX",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				15,
+				"에서",
+				"JKB",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				16,
+				"에",
+				"JKB",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				17,
+				"나",
+				"JC",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				18,
+				"에",
+				"JKB",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				19,
+				"에",
+				"JKB",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				20,
+				"의",
+				"JKG",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				21,
+				"은",
+				"JX",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			]
+		],
+		"E_Lst": [
+			[
+				0,
+				"ㄴ",
+				"ETM",
+				"미국의 제2차 세계대전 참전용사 가운데 최고령자로 알려진 로렌스 N. 브룩스가 5일(현지시간) 112세의 나이로 세상을 떠났다."
+			],
+			[
+				1,
+				"았",
+				"EP",
+				"미국의 제2차 세계대전 참전용사 가운데 최고령자로 알려진 로렌스 N. 브룩스가 5일(현지시간) 112세의 나이로 세상을 떠났다."
+			],
+			[
+				2,
+				"다",
+				"EF",
+				"미국의 제2차 세계대전 참전용사 가운데 최고령자로 알려진 로렌스 N. 브룩스가 5일(현지시간) 112세의 나이로 세상을 떠났다."
+			],
+			[
+				3,
+				"았",
+				"EP",
+				"그의 사망 사실은 국립 2차세계대전 박물관에서 발표했으며 브룩스의 딸이 이를 확인했다."
+			],
+			[
+				4,
+				"으며",
+				"EC",
+				"그의 사망 사실은 국립 2차세계대전 박물관에서 발표했으며 브룩스의 딸이 이를 확인했다."
+			],
+			[
+				5,
+				"았",
+				"EP",
+				"그의 사망 사실은 국립 2차세계대전 박물관에서 발표했으며 브룩스의 딸이 이를 확인했다."
+			],
+			[
+				6,
+				"다",
+				"EF",
+				"그의 사망 사실은 국립 2차세계대전 박물관에서 발표했으며 브룩스의 딸이 이를 확인했다."
+			],
+			[
+				7,
+				"ㄴ",
+				"ETM",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				8,
+				"었",
+				"EP",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				9,
+				"고",
+				"EC",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				10,
+				"은",
+				"ETM",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				11,
+				"았",
+				"EP",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				12,
+				"다고",
+				"EC",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				13,
+				"는",
+				"ETM",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				14,
+				"았",
+				"EP",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				15,
+				"다",
+				"EF",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			]
+		],
+		"X_Lst": [
+			[
+				0,
+				"제",
+				"XPN",
+				"미국의 제2차 세계대전 참전용사 가운데 최고령자로 알려진 로렌스 N. 브룩스가 5일(현지시간) 112세의 나이로 세상을 떠났다."
+			],
+			[
+				1,
+				"최",
+				"XPN",
+				"미국의 제2차 세계대전 참전용사 가운데 최고령자로 알려진 로렌스 N. 브룩스가 5일(현지시간) 112세의 나이로 세상을 떠났다."
+			],
+			[
+				2,
+				"계",
+				"XSN",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			],
+			[
+				3,
+				"비",
+				"XPN",
+				"2차 세계대전 초기에 미군에 입대한 아프리카계 미국인 군인은 미군에서 흑인부대에 전속되었고 주로 비전투부대나 보급, 수리, 수송 같은 보조 서비스 업무에 종사했다고 뉴올리언스에 있는 2차대전 박물관의 교육관람 담당 부관장 피트 크린 소령은 말했다."
+			]
+		],
+		"IC_Lst": []
+	},
+	"NDW": {
+		"morph_NDW": 87,
+		"NL_NDW": 57,
+		"NNG_NDW": 41,
+		"NNP_NDW": 8,
+		"NNB_NDW": 6,
+		"NP_NDW": 2,
+		"NR_NDW": 0,
+		"VL_NDW": 10,
+		"VV_NDW": 8,
+		"VA_NDW": 2,
+		"ML_NDW": 1,
+		"MM_NDW": 0,
+		"IC_NDW": 0,
+		"J_NDW": 22,
+		"E_NDW": 16,
+		"X_NDW": 4,
+		"CL_NDW": 68,
+		"FL_NDW": 42
+	}
+}

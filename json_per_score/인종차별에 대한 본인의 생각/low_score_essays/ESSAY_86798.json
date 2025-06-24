@@ -1,0 +1,3920 @@
+﻿{
+	"morpheme": {
+		"sentences": [
+			{
+				"text": {
+					"content": "미시시피 델타 지역에서 15자녀의 한 명으로 자란 브룩스는 근처에 학교가 없어서 부모가 집에 있을 때마다 아이를 가르치는 것으로 학교교육을 대신했다.",
+					"length": 83,
+					"beginOffset": 0
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "미시시피",
+							"length": 4,
+							"beginOffset": 0
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "미시시피",
+									"length": 4,
+									"beginOffset": 0
+								},
+								"tag": "NNP",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							}
+						],
+						"lemma": "미시시피",
+						"tagged": "미시시피/NNP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "델타",
+							"beginOffset": 5,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "델타",
+									"beginOffset": 5,
+									"length": 2
+								},
+								"tag": "NNP",
+								"probability": 0.7023868,
+								"outOfVocab": "OUT_OF_VOCAB"
+							}
+						],
+						"lemma": "델타",
+						"tagged": "델타/NNP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "지역에서",
+							"beginOffset": 8,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "지역",
+									"beginOffset": 8,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.96960896,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에서",
+									"beginOffset": 10,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9944958,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "지역",
+						"tagged": "지역/NNG+에서/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "15자녀의",
+							"beginOffset": 13,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "15",
+									"beginOffset": 13,
+									"length": 2
+								},
+								"tag": "SN",
+								"probability": 0.99798995,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "자녀",
+									"beginOffset": 15,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9791373,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 17,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9990095,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "15",
+						"tagged": "15/SN+자녀/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "한",
+							"beginOffset": 19,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "한",
+									"beginOffset": 19,
+									"length": 1
+								},
+								"tag": "MMN",
+								"probability": 0.9967628,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "한",
+						"tagged": "한/MMN",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "명으로",
+							"beginOffset": 21,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "명",
+									"beginOffset": 21,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.969739,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으로",
+									"beginOffset": 22,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.99353385,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "명",
+						"tagged": "명/NNB+으로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "자란",
+							"beginOffset": 25,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "자라",
+									"beginOffset": 25,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.99146056,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 26,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999929,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "자라",
+						"tagged": "자라/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "브룩스는",
+							"beginOffset": 28,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "브룩스",
+									"beginOffset": 28,
+									"length": 3
+								},
+								"tag": "NNP",
+								"probability": 0.9551858,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 31,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9989769,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "브룩스",
+						"tagged": "브룩스/NNP+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "근처에",
+							"beginOffset": 33,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "근처",
+									"beginOffset": 33,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9795898,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 35,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9926591,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "근처",
+						"tagged": "근처/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "학교가",
+							"beginOffset": 37,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "학교",
+									"beginOffset": 37,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9830128,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 39,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9589677,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "학교",
+						"tagged": "학교/NNG+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "없어서",
+							"beginOffset": 41,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "없",
+									"beginOffset": 41,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.98876643,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어서",
+									"beginOffset": 42,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9950611,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "없",
+						"tagged": "없/VA+어서/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "부모가",
+							"beginOffset": 45,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "부모",
+									"beginOffset": 45,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9836262,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 47,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9916911,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "부모",
+						"tagged": "부모/NNG+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "집에",
+							"beginOffset": 49,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "집",
+									"beginOffset": 49,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9834032,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 50,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99678934,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "집",
+						"tagged": "집/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있을",
+							"beginOffset": 52,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 52,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.93239653,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 53,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.999968,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VA+을/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "때마다",
+							"beginOffset": 55,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "때",
+									"beginOffset": 55,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9852143,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "마다",
+									"beginOffset": 56,
+									"length": 2
+								},
+								"tag": "JX",
+								"probability": 0.9991503,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "때",
+						"tagged": "때/NNG+마다/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "아이를",
+							"beginOffset": 59,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "아이",
+									"beginOffset": 59,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98364645,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 61,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999397,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "아이",
+						"tagged": "아이/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "가르치는",
+							"beginOffset": 63,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "가르치",
+									"beginOffset": 63,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.9902657,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 66,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999896,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "가르치",
+						"tagged": "가르치/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "것으로",
+							"beginOffset": 68,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "것",
+									"beginOffset": 68,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9838796,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으로",
+									"beginOffset": 69,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.99692625,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "것",
+						"tagged": "것/NNB+으로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "학교교육을",
+							"beginOffset": 72,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "학교",
+									"beginOffset": 72,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "교육",
+									"beginOffset": 74,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 76,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999535,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "학교",
+						"tagged": "학교/NNG+교육/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "대신했다.",
+							"beginOffset": 78,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "대신하",
+									"beginOffset": 78,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 80,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99991256,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 81,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.99209803,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 82,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9996156,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "대신하",
+						"tagged": "대신하/VV+았/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "미시시피 델타 지역에서 15자녀의 한 명으로 자란 브룩스는 근처에 학교가 없어서 부모가 집에 있을 때마다 아이를 가르치는 것으로 학교교육을 대신했다."
+			},
+			{
+				"text": {
+					"content": "자라서는 제재소에서 일하다가 1940년 미 육군에 입대했다.",
+					"beginOffset": 84,
+					"length": 33
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "자라서는",
+							"beginOffset": 84,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "자라",
+									"beginOffset": 84,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.99118,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아서",
+									"beginOffset": 85,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9928175,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 87,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99949807,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "자라",
+						"tagged": "자라/VV+아서/EC+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "제재소에서",
+							"beginOffset": 89,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "제재소",
+									"beginOffset": 89,
+									"length": 3
+								},
+								"tag": "NNP",
+								"probability": 0.7650092,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "에서",
+									"beginOffset": 92,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9965452,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "제재소",
+						"tagged": "제재소/NNP+에서/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "일하다가",
+							"beginOffset": 95,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "일하",
+									"beginOffset": 95,
+									"length": 2
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "다가",
+									"beginOffset": 97,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9943313,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "일하",
+						"tagged": "일하/VV+다가/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "1940년",
+							"beginOffset": 100,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "1940",
+									"beginOffset": 100,
+									"length": 4
+								},
+								"tag": "SN",
+								"probability": 0.99849224,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "년",
+									"beginOffset": 104,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.97256106,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "1940",
+						"tagged": "1940/SN+년/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "미",
+							"beginOffset": 106,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "미",
+									"beginOffset": 106,
+									"length": 1
+								},
+								"tag": "NNP",
+								"probability": 0.89879495,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "미",
+						"tagged": "미/NNP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "육군에",
+							"beginOffset": 108,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "육군",
+									"beginOffset": 108,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9709914,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 110,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9961956,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "육군",
+						"tagged": "육군/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "입대했다.",
+							"beginOffset": 112,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "입대하",
+									"beginOffset": 112,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 114,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9999259,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 115,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9904105,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 116,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9998592,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "입대하",
+						"tagged": "입대하/VV+았/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "자라서는 제재소에서 일하다가 1940년 미 육군에 입대했다."
+			},
+			{
+				"text": {
+					"content": "일본의 진주만 폭격 이후 그는 흑인부대인 일반 서비스 공병연대 91부대원으로 호주에 주둔했다.",
+					"beginOffset": 118,
+					"length": 52
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "일본의",
+							"beginOffset": 118,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "일본",
+									"beginOffset": 118,
+									"length": 2
+								},
+								"tag": "NNP",
+								"probability": 0.9674372,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 120,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9998632,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "일본",
+						"tagged": "일본/NNP+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "진주만",
+							"beginOffset": 122,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "진주만",
+									"beginOffset": 122,
+									"length": 3
+								},
+								"tag": "NNP",
+								"probability": 0.96397054,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "진주만",
+						"tagged": "진주만/NNP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "폭격",
+							"beginOffset": 126,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "폭격",
+									"beginOffset": 126,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9811914,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "폭격",
+						"tagged": "폭격/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이후",
+							"beginOffset": 129,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이후",
+									"beginOffset": 129,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9838477,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이후",
+						"tagged": "이후/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "그는",
+							"beginOffset": 132,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그",
+									"beginOffset": 132,
+									"length": 1
+								},
+								"tag": "NP",
+								"probability": 0.98997927,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 133,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9997542,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그",
+						"tagged": "그/NP+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "흑인부대인",
+							"beginOffset": 135,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "흑인",
+									"beginOffset": 135,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98113275,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "부대",
+									"beginOffset": 137,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98635584,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 139,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.99996555,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 139,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999838,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "흑인",
+						"tagged": "흑인/NNG+부대/NNG+이/VCP+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "일반",
+							"beginOffset": 141,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "일반",
+									"beginOffset": 141,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9812442,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "일반",
+						"tagged": "일반/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "서비스",
+							"beginOffset": 144,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "서비스",
+									"beginOffset": 144,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.98435944,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "서비스",
+						"tagged": "서비스/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "공병연대",
+							"beginOffset": 148,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "공병",
+									"beginOffset": 148,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9746556,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "연대",
+									"beginOffset": 150,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98053646,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "공병",
+						"tagged": "공병/NNG+연대/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "91부대원으로",
+							"beginOffset": 153,
+							"length": 7
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "91",
+									"beginOffset": 153,
+									"length": 2
+								},
+								"tag": "SN",
+								"probability": 0.9987587,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "부대원",
+									"beginOffset": 155,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.86793894,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으로",
+									"beginOffset": 158,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9934365,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "91",
+						"tagged": "91/SN+부대원/NNG+으로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "호주에",
+							"beginOffset": 161,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "호주",
+									"beginOffset": 161,
+									"length": 2
+								},
+								"tag": "NNP",
+								"probability": 0.9692719,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 163,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99694294,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "호주",
+						"tagged": "호주/NNP+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "주둔했다.",
+							"beginOffset": 165,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "주둔하",
+									"beginOffset": 165,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 167,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99994373,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 168,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9908635,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 169,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99949944,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "주둔하",
+						"tagged": "주둔하/VV+았/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "일본의 진주만 폭격 이후 그는 흑인부대인 일반 서비스 공병연대 91부대원으로 호주에 주둔했다."
+			},
+			{
+				"text": {
+					"content": "2차대전 후반에 병력 손실이 커지자 미 육군은 흑인 부대를 전투에 직접 투입했다.",
+					"beginOffset": 171,
+					"length": 45
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "2차",
+							"beginOffset": 171,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "2",
+									"beginOffset": 171,
+									"length": 1
+								},
+								"tag": "SN",
+								"probability": 0.99689955,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "차",
+									"beginOffset": 172,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9626615,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "2",
+						"tagged": "2/SN+차/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "대전",
+							"beginOffset": 173,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "대전",
+									"beginOffset": 173,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9551273,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "대전",
+						"tagged": "대전/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "후반에",
+							"beginOffset": 176,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "후반",
+									"beginOffset": 176,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9850888,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 178,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9947365,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "후반",
+						"tagged": "후반/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "병력",
+							"beginOffset": 180,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "병력",
+									"beginOffset": 180,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9832704,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "병력",
+						"tagged": "병력/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "손실이",
+							"beginOffset": 183,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "손실",
+									"beginOffset": 183,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.985819,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 185,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9846499,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "손실",
+						"tagged": "손실/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "커지자",
+							"beginOffset": 187,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "커지",
+									"beginOffset": 187,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.98657554,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "자",
+									"beginOffset": 189,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9810711,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "커지",
+						"tagged": "커지/VV+자/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "미",
+							"beginOffset": 191,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "미",
+									"beginOffset": 191,
+									"length": 1
+								},
+								"tag": "NNP",
+								"probability": 0.95833695,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "미",
+						"tagged": "미/NNP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "육군은",
+							"beginOffset": 193,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "육군",
+									"beginOffset": 193,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98150396,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 195,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9993074,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "육군",
+						"tagged": "육군/NNG+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "흑인",
+							"beginOffset": 197,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "흑인",
+									"beginOffset": 197,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97858536,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "흑인",
+						"tagged": "흑인/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "부대를",
+							"beginOffset": 200,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "부대",
+									"beginOffset": 200,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98677635,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 202,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999649,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "부대",
+						"tagged": "부대/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "전투에",
+							"beginOffset": 204,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "전투",
+									"beginOffset": 204,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98303306,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 206,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99652386,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "전투",
+						"tagged": "전투/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "직접",
+							"beginOffset": 208,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "직접",
+									"beginOffset": 208,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.98975915,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "직접",
+						"tagged": "직접/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "투입했다.",
+							"beginOffset": 211,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "투입하",
+									"beginOffset": 211,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 213,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99986935,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 214,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.98811716,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 215,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9996973,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "투입하",
+						"tagged": "투입하/VV+았/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "2차 대전 후반에 병력 손실이 커지자 미 육군은 흑인 부대를 전투에 직접 투입했다."
+			},
+			{
+				"text": {
+					"content": "1941년에는 군복무 흑인이 4000명도 안되었지만 1945년에는 그 숫자가 무려 120만 명으로 늘어났다.",
+					"beginOffset": 217,
+					"length": 60
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "1941년에는",
+							"beginOffset": 217,
+							"length": 7
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "1941",
+									"beginOffset": 217,
+									"length": 4
+								},
+								"tag": "SN",
+								"probability": 0.9983537,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "년",
+									"beginOffset": 221,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.97804004,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 222,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9949203,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 223,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9996399,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "1941",
+						"tagged": "1941/SN+년/NNB+에/JKB+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "군복무",
+							"beginOffset": 225,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "군",
+									"beginOffset": 225,
+									"length": 1
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "복무",
+									"beginOffset": 226,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							}
+						],
+						"lemma": "군",
+						"tagged": "군/NNG+복무/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "흑인이",
+							"beginOffset": 229,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "흑인",
+									"beginOffset": 229,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98338556,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 231,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.92311513,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "흑인",
+						"tagged": "흑인/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "4000명도",
+							"beginOffset": 233,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "4000",
+									"beginOffset": 233,
+									"length": 4
+								},
+								"tag": "SN",
+								"probability": 0.9958486,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "명",
+									"beginOffset": 237,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.976548,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 238,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9996111,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "4000",
+						"tagged": "4000/SN+명/NNB+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "안되었지만",
+							"beginOffset": 240,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "안되",
+									"beginOffset": 240,
+									"length": 2
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 242,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99995506,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "지만",
+									"beginOffset": 243,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9918317,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "안되",
+						"tagged": "안되/VV+었/EP+지만/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "1945년에는",
+							"beginOffset": 246,
+							"length": 7
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "1945",
+									"beginOffset": 246,
+									"length": 4
+								},
+								"tag": "SN",
+								"probability": 0.9974344,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "년",
+									"beginOffset": 250,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.98009914,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 251,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9937034,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 252,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9987847,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "1945",
+						"tagged": "1945/SN+년/NNB+에/JKB+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "그",
+							"beginOffset": 254,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그",
+									"beginOffset": 254,
+									"length": 1
+								},
+								"tag": "MMD",
+								"probability": 0.9998593,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그",
+						"tagged": "그/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "숫자가",
+							"beginOffset": 256,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "숫자",
+									"beginOffset": 256,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9793183,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 258,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9704271,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "숫자",
+						"tagged": "숫자/NNG+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "무려",
+							"beginOffset": 260,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "무려",
+									"beginOffset": 260,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9917149,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "무려",
+						"tagged": "무려/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "120만",
+							"beginOffset": 263,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "120",
+									"beginOffset": 263,
+									"length": 3
+								},
+								"tag": "SN",
+								"probability": 0.9976163,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "만",
+									"beginOffset": 266,
+									"length": 1
+								},
+								"tag": "NR",
+								"probability": 0.98854715,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "120",
+						"tagged": "120/SN+만/NR",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "명으로",
+							"beginOffset": 268,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "명",
+									"beginOffset": 268,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.97722805,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으로",
+									"beginOffset": 269,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9930812,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "명",
+						"tagged": "명/NNB+으로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "늘어났다.",
+							"beginOffset": 272,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "늘어나",
+									"beginOffset": 272,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.9897672,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 274,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9999646,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 275,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9850438,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 276,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99954915,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "늘어나",
+						"tagged": "늘어나/VV+았/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "1941년에는 군복무 흑인이 4000명도 안되었지만 1945년에는 그 숫자가 무려 120만 명으로 늘어났다."
+			}
+		],
+		"language": "ko_KR"
+	},
+	"ttr": {
+		"lemma_Cnt": 121,
+		"lemma_TTR": 0.6417910447761194,
+		"CL_TTR": 0.835820895522388,
+		"NL_TTR": 0.803921568627451,
+		"NN_TTR": 0.7959183673469388,
+		"NNG_TTR": 0.84375,
+		"NNP_TTR": 0.8888888888888888,
+		"NNB_TTR": 0.5,
+		"NP_TTR": 1.0,
+		"NR_TTR": 1.0,
+		"VL_TTR": 0.9285714285714286,
+		"VV_TTR": 0.9090909090909091,
+		"VA_TTR": 1.0,
+		"ML_TTR": 1.0,
+		"MM_TTR": 0,
+		"MA_TTR": 1.0,
+		"MAJ_TTR": 0,
+		"IC_TTR": 0,
+		"FL_TTR": 0.40384615384615385,
+		"J_TTR": 0.375,
+		"E_TTR": 0.55,
+		"X_TTR": 0,
+		"lemma_RTTR": 7.4292684599996965,
+		"CL_RTTR": 6.841488883953092,
+		"NL_RTTR": 5.74114834451484,
+		"NN_RTTR": 5.571428571428571,
+		"NNG_RTTR": 4.772970773009195,
+		"NNP_RTTR": 2.6666666666666665,
+		"NNB_RTTR": 1.414213562373095,
+		"NP_RTTR": 1.0,
+		"NR_RTTR": 1.0,
+		"VL_RTTR": 3.474396144861517,
+		"VV_RTTR": 3.015113445777636,
+		"VA_RTTR": 1.414213562373095,
+		"ML_RTTR": 1.414213562373095,
+		"MM_RTTR": 0,
+		"MA_RTTR": 1.414213562373095,
+		"MAJ_RTTR": 0,
+		"IC_RTTR": 0,
+		"FL_RTTR": 2.912176030182453,
+		"J_RTTR": 2.1213203435596424,
+		"E_RTTR": 2.4596747752497685,
+		"X_RTTR": 0,
+		"lemma_CTTR": 5.2532861073211246,
+		"CL_CTTR": 4.837663183255617,
+		"NL_CTTR": 4.059604926204365,
+		"NN_CTTR": 3.939594923753622,
+		"NNG_CTTR": 3.375,
+		"NNP_CTTR": 1.885618083164127,
+		"NNB_CTTR": 1.0,
+		"NP_CTTR": 0.7071067811865475,
+		"NR_CTTR": 0.7071067811865475,
+		"VL_CTTR": 2.456769074559977,
+		"VV_CTTR": 2.1320071635561044,
+		"VA_CTTR": 1.0,
+		"ML_CTTR": 1.0,
+		"MM_CTTR": 0,
+		"MA_CTTR": 1.0,
+		"MAJ_CTTR": 0,
+		"IC_CTTR": 0,
+		"FL_CTTR": 2.0592194189509323,
+		"J_CTTR": 1.5,
+		"E_CTTR": 1.7392527130926085,
+		"X_CTTR": 0,
+		"lemma_MSTTR": 0.8,
+		"CL_MSTTR": 0.92,
+		"NL_MSTTR": 0.82,
+		"NN_MSTTR": 0.7959183673469388,
+		"NNG_MSTTR": 0.84375,
+		"NNP_MSTTR": 0.8888888888888888,
+		"NNB_MSTTR": 0.5,
+		"NP_MSTTR": 1.0,
+		"NR_MSTTR": 1.0,
+		"VL_MSTTR": 0.9285714285714286,
+		"VV_MSTTR": 0.9090909090909091,
+		"VA_MSTTR": 1.0,
+		"ML_MSTTR": 1.0,
+		"MM_MSTTR": 0,
+		"MA_MSTTR": 1.0,
+		"MAJ_MSTTR": 0,
+		"IC_MSTTR": 0,
+		"FL_MSTTR": 0.42,
+		"J_MSTTR": 0.375,
+		"E_MSTTR": 0.55,
+		"X_MSTTR": 0,
+		"lemma_MATTR": 0.8134117647058821,
+		"CL_MATTR": 0.8744444444444444,
+		"NL_MATTR": 0.81,
+		"NN_MATTR": 0.7959183673469388,
+		"NNG_MATTR": 0.84375,
+		"NNP_MATTR": 0.8888888888888888,
+		"NNB_MATTR": 0.5,
+		"NP_MATTR": 1.0,
+		"NR_MATTR": 1.0,
+		"VL_MATTR": 0.9285714285714286,
+		"VV_MATTR": 0.9090909090909091,
+		"VA_MATTR": 1.0,
+		"ML_MATTR": 1.0,
+		"MM_MATTR": 0,
+		"MA_MATTR": 1.0,
+		"MAJ_MATTR": 0,
+		"IC_MATTR": 0,
+		"FL_MATTR": 0.42,
+		"J_MATTR": 0.375,
+		"E_MATTR": 0.55,
+		"X_MATTR": 0,
+		"lemma_MTLD": 75.59861749401801,
+		"CL_MTLD": 114.26545454545455,
+		"NL_MTLD": 72.82800000000002,
+		"NN_MTLD": 67.22800000000001,
+		"NNG_MTLD": 57.34400000000001,
+		"NNP_MTLD": 22.679999999999993,
+		"NNB_MTLD": 4.48,
+		"NP_MTLD": 0.0,
+		"NR_MTLD": 0.0,
+		"VL_MTLD": 54.88000000000004,
+		"VV_MTLD": 33.879999999999995,
+		"VA_MTLD": 0.0,
+		"ML_MTLD": 0.0,
+		"MM_MTLD": 0.0,
+		"MA_MTLD": 0.0,
+		"MAJ_MTLD": 0.0,
+		"IC_MTLD": 0.0,
+		"FL_MTLD": 15.898454746136865,
+		"J_MTLD": 11.707317073170731,
+		"E_MTLD": 10.108142493638677,
+		"X_MTLD": 0.0,
+		"lemma_VOCDD": 78.59364308815843,
+		"CL_VOCDD": 147.48880398263822,
+		"NL_VOCDD": 85.50214970700483,
+		"NN_VOCDD": 0,
+		"NNG_VOCDD": 0,
+		"NNP_VOCDD": 0,
+		"NNB_VOCDD": 0,
+		"NP_VOCDD": 0,
+		"NR_VOCDD": 0,
+		"VL_VOCDD": 0,
+		"VV_VOCDD": 0,
+		"VA_VOCDD": 0,
+		"ML_VOCDD": 0,
+		"MM_VOCDD": 0,
+		"MA_VOCDD": 0,
+		"MAJ_VOCDD": 0,
+		"IC_VOCDD": 0,
+		"FL_VOCDD": 7.929851512970721,
+		"J_VOCDD": 0,
+		"E_VOCDD": 0,
+		"X_VOCDD": 0,
+		"lemma_HDD": 0.82112923036363,
+		"CL_HDD": 0.8873116932818431,
+		"NL_HDD": 0.8303561424569832,
+		"NN_HDD": 0.817891518309452,
+		"NNG_HDD": 0.0,
+		"NNP_HDD": 0.0,
+		"NNB_HDD": 0.0,
+		"NP_HDD": 0.0,
+		"NR_HDD": 0.0,
+		"VL_HDD": 0.0,
+		"VV_HDD": 0.0,
+		"VA_HDD": 0.0,
+		"ML_HDD": 0.0,
+		"MM_HDD": 0.0,
+		"MA_HDD": 0.0,
+		"MAJ_HDD": 0.0,
+		"IC_HDD": 0.0,
+		"FL_HDD": 0.4537905000468841,
+		"J_HDD": 0.0,
+		"E_HDD": 0.0,
+		"X_HDD": 0.0
+	},
+	"similarity": {
+		"avgSentSimilarity": 0.3179067373275757,
+		"topicConsistency": 0.4279
+	},
+	"adjacency": {
+		"adjacent_sentence_overlap_all_lemmas": 82,
+		"adjacent_sentence_overlap_all_lemmas_normed": 4,
+		"binary_adjacent_sentence_overlap_all_lemmas": 4,
+		"adjacent_two_sentence_overlap_all_lemmas": 58,
+		"adjacent_two_sentence_overlap_all_lemmas_normed": 3,
+		"binary_adjacent_two_sentence_overlap_all_lemmas": 3,
+		"adjacent_sentence_overlap_content_lemmas": 42,
+		"adjacent_sentence_overlap_content_lemmas_normed": 4,
+		"binary_adjacent_sentence_overlap_content_lemmas": 3,
+		"adjacent_two_sentence_overlap_content_lemmas": 30,
+		"adjacent_two_sentence_overlap_content_lemmas_normed": 3,
+		"binary_adjacent_two_sentence_overlap_content_lemmas": 1,
+		"adjacent_sentence_overlap_function_lemmas": 29,
+		"adjacent_sentence_overlap_function_lemmas_normed": 4,
+		"binary_adjacent_sentence_overlap_function_lemmas": 4,
+		"adjacent_two_sentence_overlap_function_lemmas": 19,
+		"adjacent_two_sentence_overlap_function_lemmas_normed": 3,
+		"binary_adjacent_two_sentence_overlap_function_lemmas": 3,
+		"adjacent_sentence_overlap_noun_lemmas": 40,
+		"adjacent_sentence_overlap_noun_lemmas_normed": 4,
+		"binary_adjacent_sentence_overlap_noun_lemmas": 2,
+		"adjacent_two_sentence_overlap_noun_lemmas": 31,
+		"adjacent_two_sentence_overlap_noun_lemmas_normed": 3,
+		"binary_adjacent_two_sentence_overlap_noun_lemmas": 1,
+		"adjacent_sentence_overlap_verb_lemmas": 8,
+		"adjacent_sentence_overlap_verb_lemmas_normed": 4,
+		"binary_adjacent_sentence_overlap_verb_lemmas": 2,
+		"adjacent_two_sentence_overlap_verb_lemmas": 5,
+		"adjacent_two_sentence_overlap_verb_lemmas_normed": 3,
+		"binary_adjacent_two_sentence_overlap_verb_lemmas": 1,
+		"adjacent_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_sentence_overlap_adjective_lemmas_normed": 0,
+		"binary_adjacent_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_sentence_overlap_adverb_lemmas": 1,
+		"adjacent_sentence_overlap_adverb_lemmas_normed": 1,
+		"binary_adjacent_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adverb_lemmas": 0
+	},
+	"basic_count": {
+		"para_Cnt": 1,
+		"sentence_Cnt": 5,
+		"word_Cnt": 63,
+		"morph_Cnt": 134,
+		"char_Cnt": 202,
+		"CL_Cnt": 67,
+		"NL_Cnt": 51,
+		"NN_Cnt": 49,
+		"NNG_Cnt": 32,
+		"NNP_Cnt": 9,
+		"NNB_Cnt": 8,
+		"NP_Cnt": 1,
+		"NP_People_Cnt": 1,
+		"NP_Things_Cnt": 0,
+		"NR_Cnt": 1,
+		"VL_Cnt": 14,
+		"VV_Cnt": 11,
+		"VA_Cnt": 2,
+		"VX_Cnt": 0,
+		"VCP_Cnt": 1,
+		"VCN_Cnt": 0,
+		"ML_Cnt": 2,
+		"MA_Cnt": 0,
+		"MM_Cnt": 0,
+		"FL_Cnt": 52,
+		"J_Cnt": 32,
+		"E_Cnt": 20,
+		"X_Cnt": 0,
+		"IC_Cnt": 0
+	},
+	"basic_density": {
+		"CL_Den": 0.5,
+		"FL_Den": 0.3880597014925373,
+		"NL_Den": 0.3656716417910448,
+		"NNGL_Den": 0.23880597014925373,
+		"NNPL_Den": 0.06716417910447761,
+		"NNBL_Den": 0.05970149253731343,
+		"NPL_Den": 0.007462686567164179,
+		"NML_Den": 0.007462686567164179,
+		"VL_Den": 0.1044776119402985,
+		"VVL_Den": 0.08208955223880597,
+		"VAL_Den": 0.014925373134328358,
+		"ML_Den": 0.014925373134328358,
+		"MML_Den": 0.0,
+		"MAL_Den": 0.0,
+		"JL_Den": 0.23880597014925373,
+		"EL_Den": 0.14925373134328357,
+		"XL_Den": 0.0,
+		"ITL_Den": 0.0,
+		"NCL_Den": 0.7313432835820896,
+		"NNCL_Den": 0.47761194029850745,
+		"NNGCL_Den": 0.13432835820895522,
+		"NNBCL_Den": 0.11940298507462686,
+		"NPCL_Den": 0.014925373134328358,
+		"NMCL_Den": 0.014925373134328358,
+		"VCL_Den": 0.208955223880597,
+		"VVCL_Den": 0.16417910447761194,
+		"VACL_Den": 0.029850746268656716,
+		"MCL_Den": 0.029850746268656716,
+		"MMCL_Den": 0.0,
+		"MACL_Den": 0.0,
+		"INCL_Den": 0.0,
+		"JFL_Den": 0.6153846153846154,
+		"EFL_Den": 0.38461538461538464,
+		"XFL_Den": 0.0
+	},
+	"basic_level": {
+		"morph_LenAvg": 1.664179104477612,
+		"morph_LenStd": 0.7912207633017443,
+		"word_LenAvg": 3.3333333333333335,
+		"word_LenStd": 1.3569339855976197
+	},
+	"basic_list": {
+		"NL_Lst": [
+			[
+				0,
+				"미시시피",
+				"NNP",
+				"미시시피 델타 지역에서 15자녀의 한 명으로 자란 브룩스는 근처에 학교가 없어서 부모가 집에 있을 때마다 아이를 가르치는 것으로 학교교육을 대신했다."
+			],
+			[
+				1,
+				"델타",
+				"NNP",
+				"미시시피 델타 지역에서 15자녀의 한 명으로 자란 브룩스는 근처에 학교가 없어서 부모가 집에 있을 때마다 아이를 가르치는 것으로 학교교육을 대신했다."
+			],
+			[
+				2,
+				"지역",
+				"NNG",
+				"미시시피 델타 지역에서 15자녀의 한 명으로 자란 브룩스는 근처에 학교가 없어서 부모가 집에 있을 때마다 아이를 가르치는 것으로 학교교육을 대신했다."
+			],
+			[
+				3,
+				"자녀",
+				"NNG",
+				"미시시피 델타 지역에서 15자녀의 한 명으로 자란 브룩스는 근처에 학교가 없어서 부모가 집에 있을 때마다 아이를 가르치는 것으로 학교교육을 대신했다."
+			],
+			[
+				4,
+				"명",
+				"NNB",
+				"미시시피 델타 지역에서 15자녀의 한 명으로 자란 브룩스는 근처에 학교가 없어서 부모가 집에 있을 때마다 아이를 가르치는 것으로 학교교육을 대신했다."
+			],
+			[
+				5,
+				"브룩스",
+				"NNP",
+				"미시시피 델타 지역에서 15자녀의 한 명으로 자란 브룩스는 근처에 학교가 없어서 부모가 집에 있을 때마다 아이를 가르치는 것으로 학교교육을 대신했다."
+			],
+			[
+				6,
+				"근처",
+				"NNG",
+				"미시시피 델타 지역에서 15자녀의 한 명으로 자란 브룩스는 근처에 학교가 없어서 부모가 집에 있을 때마다 아이를 가르치는 것으로 학교교육을 대신했다."
+			],
+			[
+				7,
+				"학교",
+				"NNG",
+				"미시시피 델타 지역에서 15자녀의 한 명으로 자란 브룩스는 근처에 학교가 없어서 부모가 집에 있을 때마다 아이를 가르치는 것으로 학교교육을 대신했다."
+			],
+			[
+				8,
+				"부모",
+				"NNG",
+				"미시시피 델타 지역에서 15자녀의 한 명으로 자란 브룩스는 근처에 학교가 없어서 부모가 집에 있을 때마다 아이를 가르치는 것으로 학교교육을 대신했다."
+			],
+			[
+				9,
+				"집",
+				"NNG",
+				"미시시피 델타 지역에서 15자녀의 한 명으로 자란 브룩스는 근처에 학교가 없어서 부모가 집에 있을 때마다 아이를 가르치는 것으로 학교교육을 대신했다."
+			],
+			[
+				10,
+				"때",
+				"NNG",
+				"미시시피 델타 지역에서 15자녀의 한 명으로 자란 브룩스는 근처에 학교가 없어서 부모가 집에 있을 때마다 아이를 가르치는 것으로 학교교육을 대신했다."
+			],
+			[
+				11,
+				"아이",
+				"NNG",
+				"미시시피 델타 지역에서 15자녀의 한 명으로 자란 브룩스는 근처에 학교가 없어서 부모가 집에 있을 때마다 아이를 가르치는 것으로 학교교육을 대신했다."
+			],
+			[
+				12,
+				"것",
+				"NNB",
+				"미시시피 델타 지역에서 15자녀의 한 명으로 자란 브룩스는 근처에 학교가 없어서 부모가 집에 있을 때마다 아이를 가르치는 것으로 학교교육을 대신했다."
+			],
+			[
+				13,
+				"학교",
+				"NNG",
+				"미시시피 델타 지역에서 15자녀의 한 명으로 자란 브룩스는 근처에 학교가 없어서 부모가 집에 있을 때마다 아이를 가르치는 것으로 학교교육을 대신했다."
+			],
+			[
+				14,
+				"교육",
+				"NNG",
+				"미시시피 델타 지역에서 15자녀의 한 명으로 자란 브룩스는 근처에 학교가 없어서 부모가 집에 있을 때마다 아이를 가르치는 것으로 학교교육을 대신했다."
+			],
+			[
+				15,
+				"제재소",
+				"NNP",
+				"자라서는 제재소에서 일하다가 1940년 미 육군에 입대했다."
+			],
+			[
+				16,
+				"년",
+				"NNB",
+				"자라서는 제재소에서 일하다가 1940년 미 육군에 입대했다."
+			],
+			[
+				17,
+				"미",
+				"NNP",
+				"자라서는 제재소에서 일하다가 1940년 미 육군에 입대했다."
+			],
+			[
+				18,
+				"육군",
+				"NNG",
+				"자라서는 제재소에서 일하다가 1940년 미 육군에 입대했다."
+			],
+			[
+				19,
+				"일본",
+				"NNP",
+				"일본의 진주만 폭격 이후 그는 흑인부대인 일반 서비스 공병연대 91부대원으로 호주에 주둔했다."
+			],
+			[
+				20,
+				"진주만",
+				"NNP",
+				"일본의 진주만 폭격 이후 그는 흑인부대인 일반 서비스 공병연대 91부대원으로 호주에 주둔했다."
+			],
+			[
+				21,
+				"폭격",
+				"NNG",
+				"일본의 진주만 폭격 이후 그는 흑인부대인 일반 서비스 공병연대 91부대원으로 호주에 주둔했다."
+			],
+			[
+				22,
+				"이후",
+				"NNG",
+				"일본의 진주만 폭격 이후 그는 흑인부대인 일반 서비스 공병연대 91부대원으로 호주에 주둔했다."
+			],
+			[
+				23,
+				"그",
+				"NP",
+				"일본의 진주만 폭격 이후 그는 흑인부대인 일반 서비스 공병연대 91부대원으로 호주에 주둔했다."
+			],
+			[
+				24,
+				"흑인",
+				"NNG",
+				"일본의 진주만 폭격 이후 그는 흑인부대인 일반 서비스 공병연대 91부대원으로 호주에 주둔했다."
+			],
+			[
+				25,
+				"부대",
+				"NNG",
+				"일본의 진주만 폭격 이후 그는 흑인부대인 일반 서비스 공병연대 91부대원으로 호주에 주둔했다."
+			],
+			[
+				26,
+				"일반",
+				"NNG",
+				"일본의 진주만 폭격 이후 그는 흑인부대인 일반 서비스 공병연대 91부대원으로 호주에 주둔했다."
+			],
+			[
+				27,
+				"서비스",
+				"NNG",
+				"일본의 진주만 폭격 이후 그는 흑인부대인 일반 서비스 공병연대 91부대원으로 호주에 주둔했다."
+			],
+			[
+				28,
+				"공병",
+				"NNG",
+				"일본의 진주만 폭격 이후 그는 흑인부대인 일반 서비스 공병연대 91부대원으로 호주에 주둔했다."
+			],
+			[
+				29,
+				"연대",
+				"NNG",
+				"일본의 진주만 폭격 이후 그는 흑인부대인 일반 서비스 공병연대 91부대원으로 호주에 주둔했다."
+			],
+			[
+				30,
+				"부대원",
+				"NNG",
+				"일본의 진주만 폭격 이후 그는 흑인부대인 일반 서비스 공병연대 91부대원으로 호주에 주둔했다."
+			],
+			[
+				31,
+				"호주",
+				"NNP",
+				"일본의 진주만 폭격 이후 그는 흑인부대인 일반 서비스 공병연대 91부대원으로 호주에 주둔했다."
+			],
+			[
+				32,
+				"차",
+				"NNB",
+				"2차대전 후반에 병력 손실이 커지자 미 육군은 흑인 부대를 전투에 직접 투입했다."
+			],
+			[
+				33,
+				"대전",
+				"NNG",
+				"2차대전 후반에 병력 손실이 커지자 미 육군은 흑인 부대를 전투에 직접 투입했다."
+			],
+			[
+				34,
+				"후반",
+				"NNG",
+				"2차대전 후반에 병력 손실이 커지자 미 육군은 흑인 부대를 전투에 직접 투입했다."
+			],
+			[
+				35,
+				"병력",
+				"NNG",
+				"2차대전 후반에 병력 손실이 커지자 미 육군은 흑인 부대를 전투에 직접 투입했다."
+			],
+			[
+				36,
+				"손실",
+				"NNG",
+				"2차대전 후반에 병력 손실이 커지자 미 육군은 흑인 부대를 전투에 직접 투입했다."
+			],
+			[
+				37,
+				"미",
+				"NNP",
+				"2차대전 후반에 병력 손실이 커지자 미 육군은 흑인 부대를 전투에 직접 투입했다."
+			],
+			[
+				38,
+				"육군",
+				"NNG",
+				"2차대전 후반에 병력 손실이 커지자 미 육군은 흑인 부대를 전투에 직접 투입했다."
+			],
+			[
+				39,
+				"흑인",
+				"NNG",
+				"2차대전 후반에 병력 손실이 커지자 미 육군은 흑인 부대를 전투에 직접 투입했다."
+			],
+			[
+				40,
+				"부대",
+				"NNG",
+				"2차대전 후반에 병력 손실이 커지자 미 육군은 흑인 부대를 전투에 직접 투입했다."
+			],
+			[
+				41,
+				"전투",
+				"NNG",
+				"2차대전 후반에 병력 손실이 커지자 미 육군은 흑인 부대를 전투에 직접 투입했다."
+			],
+			[
+				42,
+				"년",
+				"NNB",
+				"1941년에는 군복무 흑인이 4000명도 안되었지만 1945년에는 그 숫자가 무려 120만 명으로 늘어났다."
+			],
+			[
+				43,
+				"군",
+				"NNG",
+				"1941년에는 군복무 흑인이 4000명도 안되었지만 1945년에는 그 숫자가 무려 120만 명으로 늘어났다."
+			],
+			[
+				44,
+				"복무",
+				"NNG",
+				"1941년에는 군복무 흑인이 4000명도 안되었지만 1945년에는 그 숫자가 무려 120만 명으로 늘어났다."
+			],
+			[
+				45,
+				"흑인",
+				"NNG",
+				"1941년에는 군복무 흑인이 4000명도 안되었지만 1945년에는 그 숫자가 무려 120만 명으로 늘어났다."
+			],
+			[
+				46,
+				"명",
+				"NNB",
+				"1941년에는 군복무 흑인이 4000명도 안되었지만 1945년에는 그 숫자가 무려 120만 명으로 늘어났다."
+			],
+			[
+				47,
+				"년",
+				"NNB",
+				"1941년에는 군복무 흑인이 4000명도 안되었지만 1945년에는 그 숫자가 무려 120만 명으로 늘어났다."
+			],
+			[
+				48,
+				"숫자",
+				"NNG",
+				"1941년에는 군복무 흑인이 4000명도 안되었지만 1945년에는 그 숫자가 무려 120만 명으로 늘어났다."
+			],
+			[
+				49,
+				"만",
+				"NR",
+				"1941년에는 군복무 흑인이 4000명도 안되었지만 1945년에는 그 숫자가 무려 120만 명으로 늘어났다."
+			],
+			[
+				50,
+				"명",
+				"NNB",
+				"1941년에는 군복무 흑인이 4000명도 안되었지만 1945년에는 그 숫자가 무려 120만 명으로 늘어났다."
+			]
+		],
+		"NN_Lst": [
+			[
+				0,
+				"미시시피",
+				"NNP",
+				"미시시피 델타 지역에서 15자녀의 한 명으로 자란 브룩스는 근처에 학교가 없어서 부모가 집에 있을 때마다 아이를 가르치는 것으로 학교교육을 대신했다."
+			],
+			[
+				1,
+				"델타",
+				"NNP",
+				"미시시피 델타 지역에서 15자녀의 한 명으로 자란 브룩스는 근처에 학교가 없어서 부모가 집에 있을 때마다 아이를 가르치는 것으로 학교교육을 대신했다."
+			],
+			[
+				2,
+				"지역",
+				"NNG",
+				"미시시피 델타 지역에서 15자녀의 한 명으로 자란 브룩스는 근처에 학교가 없어서 부모가 집에 있을 때마다 아이를 가르치는 것으로 학교교육을 대신했다."
+			],
+			[
+				3,
+				"자녀",
+				"NNG",
+				"미시시피 델타 지역에서 15자녀의 한 명으로 자란 브룩스는 근처에 학교가 없어서 부모가 집에 있을 때마다 아이를 가르치는 것으로 학교교육을 대신했다."
+			],
+			[
+				4,
+				"명",
+				"NNB",
+				"미시시피 델타 지역에서 15자녀의 한 명으로 자란 브룩스는 근처에 학교가 없어서 부모가 집에 있을 때마다 아이를 가르치는 것으로 학교교육을 대신했다."
+			],
+			[
+				5,
+				"브룩스",
+				"NNP",
+				"미시시피 델타 지역에서 15자녀의 한 명으로 자란 브룩스는 근처에 학교가 없어서 부모가 집에 있을 때마다 아이를 가르치는 것으로 학교교육을 대신했다."
+			],
+			[
+				6,
+				"근처",
+				"NNG",
+				"미시시피 델타 지역에서 15자녀의 한 명으로 자란 브룩스는 근처에 학교가 없어서 부모가 집에 있을 때마다 아이를 가르치는 것으로 학교교육을 대신했다."
+			],
+			[
+				7,
+				"학교",
+				"NNG",
+				"미시시피 델타 지역에서 15자녀의 한 명으로 자란 브룩스는 근처에 학교가 없어서 부모가 집에 있을 때마다 아이를 가르치는 것으로 학교교육을 대신했다."
+			],
+			[
+				8,
+				"부모",
+				"NNG",
+				"미시시피 델타 지역에서 15자녀의 한 명으로 자란 브룩스는 근처에 학교가 없어서 부모가 집에 있을 때마다 아이를 가르치는 것으로 학교교육을 대신했다."
+			],
+			[
+				9,
+				"집",
+				"NNG",
+				"미시시피 델타 지역에서 15자녀의 한 명으로 자란 브룩스는 근처에 학교가 없어서 부모가 집에 있을 때마다 아이를 가르치는 것으로 학교교육을 대신했다."
+			],
+			[
+				10,
+				"때",
+				"NNG",
+				"미시시피 델타 지역에서 15자녀의 한 명으로 자란 브룩스는 근처에 학교가 없어서 부모가 집에 있을 때마다 아이를 가르치는 것으로 학교교육을 대신했다."
+			],
+			[
+				11,
+				"아이",
+				"NNG",
+				"미시시피 델타 지역에서 15자녀의 한 명으로 자란 브룩스는 근처에 학교가 없어서 부모가 집에 있을 때마다 아이를 가르치는 것으로 학교교육을 대신했다."
+			],
+			[
+				12,
+				"것",
+				"NNB",
+				"미시시피 델타 지역에서 15자녀의 한 명으로 자란 브룩스는 근처에 학교가 없어서 부모가 집에 있을 때마다 아이를 가르치는 것으로 학교교육을 대신했다."
+			],
+			[
+				13,
+				"학교",
+				"NNG",
+				"미시시피 델타 지역에서 15자녀의 한 명으로 자란 브룩스는 근처에 학교가 없어서 부모가 집에 있을 때마다 아이를 가르치는 것으로 학교교육을 대신했다."
+			],
+			[
+				14,
+				"교육",
+				"NNG",
+				"미시시피 델타 지역에서 15자녀의 한 명으로 자란 브룩스는 근처에 학교가 없어서 부모가 집에 있을 때마다 아이를 가르치는 것으로 학교교육을 대신했다."
+			],
+			[
+				15,
+				"제재소",
+				"NNP",
+				"자라서는 제재소에서 일하다가 1940년 미 육군에 입대했다."
+			],
+			[
+				16,
+				"년",
+				"NNB",
+				"자라서는 제재소에서 일하다가 1940년 미 육군에 입대했다."
+			],
+			[
+				17,
+				"미",
+				"NNP",
+				"자라서는 제재소에서 일하다가 1940년 미 육군에 입대했다."
+			],
+			[
+				18,
+				"육군",
+				"NNG",
+				"자라서는 제재소에서 일하다가 1940년 미 육군에 입대했다."
+			],
+			[
+				19,
+				"일본",
+				"NNP",
+				"일본의 진주만 폭격 이후 그는 흑인부대인 일반 서비스 공병연대 91부대원으로 호주에 주둔했다."
+			],
+			[
+				20,
+				"진주만",
+				"NNP",
+				"일본의 진주만 폭격 이후 그는 흑인부대인 일반 서비스 공병연대 91부대원으로 호주에 주둔했다."
+			],
+			[
+				21,
+				"폭격",
+				"NNG",
+				"일본의 진주만 폭격 이후 그는 흑인부대인 일반 서비스 공병연대 91부대원으로 호주에 주둔했다."
+			],
+			[
+				22,
+				"이후",
+				"NNG",
+				"일본의 진주만 폭격 이후 그는 흑인부대인 일반 서비스 공병연대 91부대원으로 호주에 주둔했다."
+			],
+			[
+				23,
+				"흑인",
+				"NNG",
+				"일본의 진주만 폭격 이후 그는 흑인부대인 일반 서비스 공병연대 91부대원으로 호주에 주둔했다."
+			],
+			[
+				24,
+				"부대",
+				"NNG",
+				"일본의 진주만 폭격 이후 그는 흑인부대인 일반 서비스 공병연대 91부대원으로 호주에 주둔했다."
+			],
+			[
+				25,
+				"일반",
+				"NNG",
+				"일본의 진주만 폭격 이후 그는 흑인부대인 일반 서비스 공병연대 91부대원으로 호주에 주둔했다."
+			],
+			[
+				26,
+				"서비스",
+				"NNG",
+				"일본의 진주만 폭격 이후 그는 흑인부대인 일반 서비스 공병연대 91부대원으로 호주에 주둔했다."
+			],
+			[
+				27,
+				"공병",
+				"NNG",
+				"일본의 진주만 폭격 이후 그는 흑인부대인 일반 서비스 공병연대 91부대원으로 호주에 주둔했다."
+			],
+			[
+				28,
+				"연대",
+				"NNG",
+				"일본의 진주만 폭격 이후 그는 흑인부대인 일반 서비스 공병연대 91부대원으로 호주에 주둔했다."
+			],
+			[
+				29,
+				"부대원",
+				"NNG",
+				"일본의 진주만 폭격 이후 그는 흑인부대인 일반 서비스 공병연대 91부대원으로 호주에 주둔했다."
+			],
+			[
+				30,
+				"호주",
+				"NNP",
+				"일본의 진주만 폭격 이후 그는 흑인부대인 일반 서비스 공병연대 91부대원으로 호주에 주둔했다."
+			],
+			[
+				31,
+				"차",
+				"NNB",
+				"2차대전 후반에 병력 손실이 커지자 미 육군은 흑인 부대를 전투에 직접 투입했다."
+			],
+			[
+				32,
+				"대전",
+				"NNG",
+				"2차대전 후반에 병력 손실이 커지자 미 육군은 흑인 부대를 전투에 직접 투입했다."
+			],
+			[
+				33,
+				"후반",
+				"NNG",
+				"2차대전 후반에 병력 손실이 커지자 미 육군은 흑인 부대를 전투에 직접 투입했다."
+			],
+			[
+				34,
+				"병력",
+				"NNG",
+				"2차대전 후반에 병력 손실이 커지자 미 육군은 흑인 부대를 전투에 직접 투입했다."
+			],
+			[
+				35,
+				"손실",
+				"NNG",
+				"2차대전 후반에 병력 손실이 커지자 미 육군은 흑인 부대를 전투에 직접 투입했다."
+			],
+			[
+				36,
+				"미",
+				"NNP",
+				"2차대전 후반에 병력 손실이 커지자 미 육군은 흑인 부대를 전투에 직접 투입했다."
+			],
+			[
+				37,
+				"육군",
+				"NNG",
+				"2차대전 후반에 병력 손실이 커지자 미 육군은 흑인 부대를 전투에 직접 투입했다."
+			],
+			[
+				38,
+				"흑인",
+				"NNG",
+				"2차대전 후반에 병력 손실이 커지자 미 육군은 흑인 부대를 전투에 직접 투입했다."
+			],
+			[
+				39,
+				"부대",
+				"NNG",
+				"2차대전 후반에 병력 손실이 커지자 미 육군은 흑인 부대를 전투에 직접 투입했다."
+			],
+			[
+				40,
+				"전투",
+				"NNG",
+				"2차대전 후반에 병력 손실이 커지자 미 육군은 흑인 부대를 전투에 직접 투입했다."
+			],
+			[
+				41,
+				"년",
+				"NNB",
+				"1941년에는 군복무 흑인이 4000명도 안되었지만 1945년에는 그 숫자가 무려 120만 명으로 늘어났다."
+			],
+			[
+				42,
+				"군",
+				"NNG",
+				"1941년에는 군복무 흑인이 4000명도 안되었지만 1945년에는 그 숫자가 무려 120만 명으로 늘어났다."
+			],
+			[
+				43,
+				"복무",
+				"NNG",
+				"1941년에는 군복무 흑인이 4000명도 안되었지만 1945년에는 그 숫자가 무려 120만 명으로 늘어났다."
+			],
+			[
+				44,
+				"흑인",
+				"NNG",
+				"1941년에는 군복무 흑인이 4000명도 안되었지만 1945년에는 그 숫자가 무려 120만 명으로 늘어났다."
+			],
+			[
+				45,
+				"명",
+				"NNB",
+				"1941년에는 군복무 흑인이 4000명도 안되었지만 1945년에는 그 숫자가 무려 120만 명으로 늘어났다."
+			],
+			[
+				46,
+				"년",
+				"NNB",
+				"1941년에는 군복무 흑인이 4000명도 안되었지만 1945년에는 그 숫자가 무려 120만 명으로 늘어났다."
+			],
+			[
+				47,
+				"숫자",
+				"NNG",
+				"1941년에는 군복무 흑인이 4000명도 안되었지만 1945년에는 그 숫자가 무려 120만 명으로 늘어났다."
+			],
+			[
+				48,
+				"명",
+				"NNB",
+				"1941년에는 군복무 흑인이 4000명도 안되었지만 1945년에는 그 숫자가 무려 120만 명으로 늘어났다."
+			]
+		],
+		"NNG_Lst": [
+			[
+				0,
+				"지역",
+				"NNG",
+				"미시시피 델타 지역에서 15자녀의 한 명으로 자란 브룩스는 근처에 학교가 없어서 부모가 집에 있을 때마다 아이를 가르치는 것으로 학교교육을 대신했다."
+			],
+			[
+				1,
+				"자녀",
+				"NNG",
+				"미시시피 델타 지역에서 15자녀의 한 명으로 자란 브룩스는 근처에 학교가 없어서 부모가 집에 있을 때마다 아이를 가르치는 것으로 학교교육을 대신했다."
+			],
+			[
+				2,
+				"근처",
+				"NNG",
+				"미시시피 델타 지역에서 15자녀의 한 명으로 자란 브룩스는 근처에 학교가 없어서 부모가 집에 있을 때마다 아이를 가르치는 것으로 학교교육을 대신했다."
+			],
+			[
+				3,
+				"학교",
+				"NNG",
+				"미시시피 델타 지역에서 15자녀의 한 명으로 자란 브룩스는 근처에 학교가 없어서 부모가 집에 있을 때마다 아이를 가르치는 것으로 학교교육을 대신했다."
+			],
+			[
+				4,
+				"부모",
+				"NNG",
+				"미시시피 델타 지역에서 15자녀의 한 명으로 자란 브룩스는 근처에 학교가 없어서 부모가 집에 있을 때마다 아이를 가르치는 것으로 학교교육을 대신했다."
+			],
+			[
+				5,
+				"집",
+				"NNG",
+				"미시시피 델타 지역에서 15자녀의 한 명으로 자란 브룩스는 근처에 학교가 없어서 부모가 집에 있을 때마다 아이를 가르치는 것으로 학교교육을 대신했다."
+			],
+			[
+				6,
+				"때",
+				"NNG",
+				"미시시피 델타 지역에서 15자녀의 한 명으로 자란 브룩스는 근처에 학교가 없어서 부모가 집에 있을 때마다 아이를 가르치는 것으로 학교교육을 대신했다."
+			],
+			[
+				7,
+				"아이",
+				"NNG",
+				"미시시피 델타 지역에서 15자녀의 한 명으로 자란 브룩스는 근처에 학교가 없어서 부모가 집에 있을 때마다 아이를 가르치는 것으로 학교교육을 대신했다."
+			],
+			[
+				8,
+				"학교",
+				"NNG",
+				"미시시피 델타 지역에서 15자녀의 한 명으로 자란 브룩스는 근처에 학교가 없어서 부모가 집에 있을 때마다 아이를 가르치는 것으로 학교교육을 대신했다."
+			],
+			[
+				9,
+				"교육",
+				"NNG",
+				"미시시피 델타 지역에서 15자녀의 한 명으로 자란 브룩스는 근처에 학교가 없어서 부모가 집에 있을 때마다 아이를 가르치는 것으로 학교교육을 대신했다."
+			],
+			[
+				10,
+				"육군",
+				"NNG",
+				"자라서는 제재소에서 일하다가 1940년 미 육군에 입대했다."
+			],
+			[
+				11,
+				"폭격",
+				"NNG",
+				"일본의 진주만 폭격 이후 그는 흑인부대인 일반 서비스 공병연대 91부대원으로 호주에 주둔했다."
+			],
+			[
+				12,
+				"이후",
+				"NNG",
+				"일본의 진주만 폭격 이후 그는 흑인부대인 일반 서비스 공병연대 91부대원으로 호주에 주둔했다."
+			],
+			[
+				13,
+				"흑인",
+				"NNG",
+				"일본의 진주만 폭격 이후 그는 흑인부대인 일반 서비스 공병연대 91부대원으로 호주에 주둔했다."
+			],
+			[
+				14,
+				"부대",
+				"NNG",
+				"일본의 진주만 폭격 이후 그는 흑인부대인 일반 서비스 공병연대 91부대원으로 호주에 주둔했다."
+			],
+			[
+				15,
+				"일반",
+				"NNG",
+				"일본의 진주만 폭격 이후 그는 흑인부대인 일반 서비스 공병연대 91부대원으로 호주에 주둔했다."
+			],
+			[
+				16,
+				"서비스",
+				"NNG",
+				"일본의 진주만 폭격 이후 그는 흑인부대인 일반 서비스 공병연대 91부대원으로 호주에 주둔했다."
+			],
+			[
+				17,
+				"공병",
+				"NNG",
+				"일본의 진주만 폭격 이후 그는 흑인부대인 일반 서비스 공병연대 91부대원으로 호주에 주둔했다."
+			],
+			[
+				18,
+				"연대",
+				"NNG",
+				"일본의 진주만 폭격 이후 그는 흑인부대인 일반 서비스 공병연대 91부대원으로 호주에 주둔했다."
+			],
+			[
+				19,
+				"부대원",
+				"NNG",
+				"일본의 진주만 폭격 이후 그는 흑인부대인 일반 서비스 공병연대 91부대원으로 호주에 주둔했다."
+			],
+			[
+				20,
+				"대전",
+				"NNG",
+				"2차대전 후반에 병력 손실이 커지자 미 육군은 흑인 부대를 전투에 직접 투입했다."
+			],
+			[
+				21,
+				"후반",
+				"NNG",
+				"2차대전 후반에 병력 손실이 커지자 미 육군은 흑인 부대를 전투에 직접 투입했다."
+			],
+			[
+				22,
+				"병력",
+				"NNG",
+				"2차대전 후반에 병력 손실이 커지자 미 육군은 흑인 부대를 전투에 직접 투입했다."
+			],
+			[
+				23,
+				"손실",
+				"NNG",
+				"2차대전 후반에 병력 손실이 커지자 미 육군은 흑인 부대를 전투에 직접 투입했다."
+			],
+			[
+				24,
+				"육군",
+				"NNG",
+				"2차대전 후반에 병력 손실이 커지자 미 육군은 흑인 부대를 전투에 직접 투입했다."
+			],
+			[
+				25,
+				"흑인",
+				"NNG",
+				"2차대전 후반에 병력 손실이 커지자 미 육군은 흑인 부대를 전투에 직접 투입했다."
+			],
+			[
+				26,
+				"부대",
+				"NNG",
+				"2차대전 후반에 병력 손실이 커지자 미 육군은 흑인 부대를 전투에 직접 투입했다."
+			],
+			[
+				27,
+				"전투",
+				"NNG",
+				"2차대전 후반에 병력 손실이 커지자 미 육군은 흑인 부대를 전투에 직접 투입했다."
+			],
+			[
+				28,
+				"군",
+				"NNG",
+				"1941년에는 군복무 흑인이 4000명도 안되었지만 1945년에는 그 숫자가 무려 120만 명으로 늘어났다."
+			],
+			[
+				29,
+				"복무",
+				"NNG",
+				"1941년에는 군복무 흑인이 4000명도 안되었지만 1945년에는 그 숫자가 무려 120만 명으로 늘어났다."
+			],
+			[
+				30,
+				"흑인",
+				"NNG",
+				"1941년에는 군복무 흑인이 4000명도 안되었지만 1945년에는 그 숫자가 무려 120만 명으로 늘어났다."
+			],
+			[
+				31,
+				"숫자",
+				"NNG",
+				"1941년에는 군복무 흑인이 4000명도 안되었지만 1945년에는 그 숫자가 무려 120만 명으로 늘어났다."
+			]
+		],
+		"NNP_Lst": [
+			[
+				0,
+				"미시시피",
+				"NNP",
+				"미시시피 델타 지역에서 15자녀의 한 명으로 자란 브룩스는 근처에 학교가 없어서 부모가 집에 있을 때마다 아이를 가르치는 것으로 학교교육을 대신했다."
+			],
+			[
+				1,
+				"델타",
+				"NNP",
+				"미시시피 델타 지역에서 15자녀의 한 명으로 자란 브룩스는 근처에 학교가 없어서 부모가 집에 있을 때마다 아이를 가르치는 것으로 학교교육을 대신했다."
+			],
+			[
+				2,
+				"브룩스",
+				"NNP",
+				"미시시피 델타 지역에서 15자녀의 한 명으로 자란 브룩스는 근처에 학교가 없어서 부모가 집에 있을 때마다 아이를 가르치는 것으로 학교교육을 대신했다."
+			],
+			[
+				3,
+				"제재소",
+				"NNP",
+				"자라서는 제재소에서 일하다가 1940년 미 육군에 입대했다."
+			],
+			[
+				4,
+				"미",
+				"NNP",
+				"자라서는 제재소에서 일하다가 1940년 미 육군에 입대했다."
+			],
+			[
+				5,
+				"일본",
+				"NNP",
+				"일본의 진주만 폭격 이후 그는 흑인부대인 일반 서비스 공병연대 91부대원으로 호주에 주둔했다."
+			],
+			[
+				6,
+				"진주만",
+				"NNP",
+				"일본의 진주만 폭격 이후 그는 흑인부대인 일반 서비스 공병연대 91부대원으로 호주에 주둔했다."
+			],
+			[
+				7,
+				"호주",
+				"NNP",
+				"일본의 진주만 폭격 이후 그는 흑인부대인 일반 서비스 공병연대 91부대원으로 호주에 주둔했다."
+			],
+			[
+				8,
+				"미",
+				"NNP",
+				"2차대전 후반에 병력 손실이 커지자 미 육군은 흑인 부대를 전투에 직접 투입했다."
+			]
+		],
+		"NNB_Lst": [
+			[
+				0,
+				"명",
+				"NNB",
+				"미시시피 델타 지역에서 15자녀의 한 명으로 자란 브룩스는 근처에 학교가 없어서 부모가 집에 있을 때마다 아이를 가르치는 것으로 학교교육을 대신했다."
+			],
+			[
+				1,
+				"것",
+				"NNB",
+				"미시시피 델타 지역에서 15자녀의 한 명으로 자란 브룩스는 근처에 학교가 없어서 부모가 집에 있을 때마다 아이를 가르치는 것으로 학교교육을 대신했다."
+			],
+			[
+				2,
+				"년",
+				"NNB",
+				"자라서는 제재소에서 일하다가 1940년 미 육군에 입대했다."
+			],
+			[
+				3,
+				"차",
+				"NNB",
+				"2차대전 후반에 병력 손실이 커지자 미 육군은 흑인 부대를 전투에 직접 투입했다."
+			],
+			[
+				4,
+				"년",
+				"NNB",
+				"1941년에는 군복무 흑인이 4000명도 안되었지만 1945년에는 그 숫자가 무려 120만 명으로 늘어났다."
+			],
+			[
+				5,
+				"명",
+				"NNB",
+				"1941년에는 군복무 흑인이 4000명도 안되었지만 1945년에는 그 숫자가 무려 120만 명으로 늘어났다."
+			],
+			[
+				6,
+				"년",
+				"NNB",
+				"1941년에는 군복무 흑인이 4000명도 안되었지만 1945년에는 그 숫자가 무려 120만 명으로 늘어났다."
+			],
+			[
+				7,
+				"명",
+				"NNB",
+				"1941년에는 군복무 흑인이 4000명도 안되었지만 1945년에는 그 숫자가 무려 120만 명으로 늘어났다."
+			]
+		],
+		"NP_Lst": [
+			[
+				0,
+				"그",
+				"NP",
+				"일본의 진주만 폭격 이후 그는 흑인부대인 일반 서비스 공병연대 91부대원으로 호주에 주둔했다."
+			]
+		],
+		"NP_People_Lst": [
+			[
+				0,
+				"그",
+				"NP",
+				"일본의 진주만 폭격 이후 그는 흑인부대인 일반 서비스 공병연대 91부대원으로 호주에 주둔했다."
+			]
+		],
+		"NP_Things_Lst": [],
+		"NR_Lst": [
+			[
+				0,
+				"만",
+				"NR",
+				"1941년에는 군복무 흑인이 4000명도 안되었지만 1945년에는 그 숫자가 무려 120만 명으로 늘어났다."
+			]
+		],
+		"VL_Lst": [
+			[
+				0,
+				"자라",
+				"VV",
+				"미시시피 델타 지역에서 15자녀의 한 명으로 자란 브룩스는 근처에 학교가 없어서 부모가 집에 있을 때마다 아이를 가르치는 것으로 학교교육을 대신했다."
+			],
+			[
+				1,
+				"없",
+				"VA",
+				"미시시피 델타 지역에서 15자녀의 한 명으로 자란 브룩스는 근처에 학교가 없어서 부모가 집에 있을 때마다 아이를 가르치는 것으로 학교교육을 대신했다."
+			],
+			[
+				2,
+				"있",
+				"VA",
+				"미시시피 델타 지역에서 15자녀의 한 명으로 자란 브룩스는 근처에 학교가 없어서 부모가 집에 있을 때마다 아이를 가르치는 것으로 학교교육을 대신했다."
+			],
+			[
+				3,
+				"가르치",
+				"VV",
+				"미시시피 델타 지역에서 15자녀의 한 명으로 자란 브룩스는 근처에 학교가 없어서 부모가 집에 있을 때마다 아이를 가르치는 것으로 학교교육을 대신했다."
+			],
+			[
+				4,
+				"대신하",
+				"VV",
+				"미시시피 델타 지역에서 15자녀의 한 명으로 자란 브룩스는 근처에 학교가 없어서 부모가 집에 있을 때마다 아이를 가르치는 것으로 학교교육을 대신했다."
+			],
+			[
+				5,
+				"자라",
+				"VV",
+				"자라서는 제재소에서 일하다가 1940년 미 육군에 입대했다."
+			],
+			[
+				6,
+				"일하",
+				"VV",
+				"자라서는 제재소에서 일하다가 1940년 미 육군에 입대했다."
+			],
+			[
+				7,
+				"입대하",
+				"VV",
+				"자라서는 제재소에서 일하다가 1940년 미 육군에 입대했다."
+			],
+			[
+				8,
+				"이",
+				"VCP",
+				"일본의 진주만 폭격 이후 그는 흑인부대인 일반 서비스 공병연대 91부대원으로 호주에 주둔했다."
+			],
+			[
+				9,
+				"주둔하",
+				"VV",
+				"일본의 진주만 폭격 이후 그는 흑인부대인 일반 서비스 공병연대 91부대원으로 호주에 주둔했다."
+			],
+			[
+				10,
+				"커지",
+				"VV",
+				"2차대전 후반에 병력 손실이 커지자 미 육군은 흑인 부대를 전투에 직접 투입했다."
+			],
+			[
+				11,
+				"투입하",
+				"VV",
+				"2차대전 후반에 병력 손실이 커지자 미 육군은 흑인 부대를 전투에 직접 투입했다."
+			],
+			[
+				12,
+				"안되",
+				"VV",
+				"1941년에는 군복무 흑인이 4000명도 안되었지만 1945년에는 그 숫자가 무려 120만 명으로 늘어났다."
+			],
+			[
+				13,
+				"늘어나",
+				"VV",
+				"1941년에는 군복무 흑인이 4000명도 안되었지만 1945년에는 그 숫자가 무려 120만 명으로 늘어났다."
+			]
+		],
+		"VV_Lst": [
+			[
+				0,
+				"자라",
+				"VV",
+				"미시시피 델타 지역에서 15자녀의 한 명으로 자란 브룩스는 근처에 학교가 없어서 부모가 집에 있을 때마다 아이를 가르치는 것으로 학교교육을 대신했다."
+			],
+			[
+				1,
+				"가르치",
+				"VV",
+				"미시시피 델타 지역에서 15자녀의 한 명으로 자란 브룩스는 근처에 학교가 없어서 부모가 집에 있을 때마다 아이를 가르치는 것으로 학교교육을 대신했다."
+			],
+			[
+				2,
+				"대신하",
+				"VV",
+				"미시시피 델타 지역에서 15자녀의 한 명으로 자란 브룩스는 근처에 학교가 없어서 부모가 집에 있을 때마다 아이를 가르치는 것으로 학교교육을 대신했다."
+			],
+			[
+				3,
+				"자라",
+				"VV",
+				"자라서는 제재소에서 일하다가 1940년 미 육군에 입대했다."
+			],
+			[
+				4,
+				"일하",
+				"VV",
+				"자라서는 제재소에서 일하다가 1940년 미 육군에 입대했다."
+			],
+			[
+				5,
+				"입대하",
+				"VV",
+				"자라서는 제재소에서 일하다가 1940년 미 육군에 입대했다."
+			],
+			[
+				6,
+				"주둔하",
+				"VV",
+				"일본의 진주만 폭격 이후 그는 흑인부대인 일반 서비스 공병연대 91부대원으로 호주에 주둔했다."
+			],
+			[
+				7,
+				"커지",
+				"VV",
+				"2차대전 후반에 병력 손실이 커지자 미 육군은 흑인 부대를 전투에 직접 투입했다."
+			],
+			[
+				8,
+				"투입하",
+				"VV",
+				"2차대전 후반에 병력 손실이 커지자 미 육군은 흑인 부대를 전투에 직접 투입했다."
+			],
+			[
+				9,
+				"안되",
+				"VV",
+				"1941년에는 군복무 흑인이 4000명도 안되었지만 1945년에는 그 숫자가 무려 120만 명으로 늘어났다."
+			],
+			[
+				10,
+				"늘어나",
+				"VV",
+				"1941년에는 군복무 흑인이 4000명도 안되었지만 1945년에는 그 숫자가 무려 120만 명으로 늘어났다."
+			]
+		],
+		"VA_Lst": [
+			[
+				0,
+				"없",
+				"VA",
+				"미시시피 델타 지역에서 15자녀의 한 명으로 자란 브룩스는 근처에 학교가 없어서 부모가 집에 있을 때마다 아이를 가르치는 것으로 학교교육을 대신했다."
+			],
+			[
+				1,
+				"있",
+				"VA",
+				"미시시피 델타 지역에서 15자녀의 한 명으로 자란 브룩스는 근처에 학교가 없어서 부모가 집에 있을 때마다 아이를 가르치는 것으로 학교교육을 대신했다."
+			]
+		],
+		"VX_Lst": [],
+		"VCP_Lst": [
+			[
+				0,
+				"이",
+				"VCP",
+				"일본의 진주만 폭격 이후 그는 흑인부대인 일반 서비스 공병연대 91부대원으로 호주에 주둔했다."
+			]
+		],
+		"VCN_Lst": [],
+		"ML_Lst": [
+			[
+				0,
+				"직접",
+				"MAG",
+				"2차대전 후반에 병력 손실이 커지자 미 육군은 흑인 부대를 전투에 직접 투입했다."
+			],
+			[
+				1,
+				"무려",
+				"MAG",
+				"1941년에는 군복무 흑인이 4000명도 안되었지만 1945년에는 그 숫자가 무려 120만 명으로 늘어났다."
+			]
+		],
+		"MA_Lst": [],
+		"MM_Lst": [],
+		"J_Lst": [
+			[
+				0,
+				"에서",
+				"JKB",
+				"미시시피 델타 지역에서 15자녀의 한 명으로 자란 브룩스는 근처에 학교가 없어서 부모가 집에 있을 때마다 아이를 가르치는 것으로 학교교육을 대신했다."
+			],
+			[
+				1,
+				"의",
+				"JKG",
+				"미시시피 델타 지역에서 15자녀의 한 명으로 자란 브룩스는 근처에 학교가 없어서 부모가 집에 있을 때마다 아이를 가르치는 것으로 학교교육을 대신했다."
+			],
+			[
+				2,
+				"으로",
+				"JKB",
+				"미시시피 델타 지역에서 15자녀의 한 명으로 자란 브룩스는 근처에 학교가 없어서 부모가 집에 있을 때마다 아이를 가르치는 것으로 학교교육을 대신했다."
+			],
+			[
+				3,
+				"는",
+				"JX",
+				"미시시피 델타 지역에서 15자녀의 한 명으로 자란 브룩스는 근처에 학교가 없어서 부모가 집에 있을 때마다 아이를 가르치는 것으로 학교교육을 대신했다."
+			],
+			[
+				4,
+				"에",
+				"JKB",
+				"미시시피 델타 지역에서 15자녀의 한 명으로 자란 브룩스는 근처에 학교가 없어서 부모가 집에 있을 때마다 아이를 가르치는 것으로 학교교육을 대신했다."
+			],
+			[
+				5,
+				"가",
+				"JKS",
+				"미시시피 델타 지역에서 15자녀의 한 명으로 자란 브룩스는 근처에 학교가 없어서 부모가 집에 있을 때마다 아이를 가르치는 것으로 학교교육을 대신했다."
+			],
+			[
+				6,
+				"가",
+				"JKS",
+				"미시시피 델타 지역에서 15자녀의 한 명으로 자란 브룩스는 근처에 학교가 없어서 부모가 집에 있을 때마다 아이를 가르치는 것으로 학교교육을 대신했다."
+			],
+			[
+				7,
+				"에",
+				"JKB",
+				"미시시피 델타 지역에서 15자녀의 한 명으로 자란 브룩스는 근처에 학교가 없어서 부모가 집에 있을 때마다 아이를 가르치는 것으로 학교교육을 대신했다."
+			],
+			[
+				8,
+				"마다",
+				"JX",
+				"미시시피 델타 지역에서 15자녀의 한 명으로 자란 브룩스는 근처에 학교가 없어서 부모가 집에 있을 때마다 아이를 가르치는 것으로 학교교육을 대신했다."
+			],
+			[
+				9,
+				"를",
+				"JKO",
+				"미시시피 델타 지역에서 15자녀의 한 명으로 자란 브룩스는 근처에 학교가 없어서 부모가 집에 있을 때마다 아이를 가르치는 것으로 학교교육을 대신했다."
+			],
+			[
+				10,
+				"으로",
+				"JKB",
+				"미시시피 델타 지역에서 15자녀의 한 명으로 자란 브룩스는 근처에 학교가 없어서 부모가 집에 있을 때마다 아이를 가르치는 것으로 학교교육을 대신했다."
+			],
+			[
+				11,
+				"을",
+				"JKO",
+				"미시시피 델타 지역에서 15자녀의 한 명으로 자란 브룩스는 근처에 학교가 없어서 부모가 집에 있을 때마다 아이를 가르치는 것으로 학교교육을 대신했다."
+			],
+			[
+				12,
+				"는",
+				"JX",
+				"자라서는 제재소에서 일하다가 1940년 미 육군에 입대했다."
+			],
+			[
+				13,
+				"에서",
+				"JKB",
+				"자라서는 제재소에서 일하다가 1940년 미 육군에 입대했다."
+			],
+			[
+				14,
+				"에",
+				"JKB",
+				"자라서는 제재소에서 일하다가 1940년 미 육군에 입대했다."
+			],
+			[
+				15,
+				"의",
+				"JKG",
+				"일본의 진주만 폭격 이후 그는 흑인부대인 일반 서비스 공병연대 91부대원으로 호주에 주둔했다."
+			],
+			[
+				16,
+				"는",
+				"JX",
+				"일본의 진주만 폭격 이후 그는 흑인부대인 일반 서비스 공병연대 91부대원으로 호주에 주둔했다."
+			],
+			[
+				17,
+				"으로",
+				"JKB",
+				"일본의 진주만 폭격 이후 그는 흑인부대인 일반 서비스 공병연대 91부대원으로 호주에 주둔했다."
+			],
+			[
+				18,
+				"에",
+				"JKB",
+				"일본의 진주만 폭격 이후 그는 흑인부대인 일반 서비스 공병연대 91부대원으로 호주에 주둔했다."
+			],
+			[
+				19,
+				"에",
+				"JKB",
+				"2차대전 후반에 병력 손실이 커지자 미 육군은 흑인 부대를 전투에 직접 투입했다."
+			],
+			[
+				20,
+				"이",
+				"JKS",
+				"2차대전 후반에 병력 손실이 커지자 미 육군은 흑인 부대를 전투에 직접 투입했다."
+			],
+			[
+				21,
+				"은",
+				"JX",
+				"2차대전 후반에 병력 손실이 커지자 미 육군은 흑인 부대를 전투에 직접 투입했다."
+			],
+			[
+				22,
+				"를",
+				"JKO",
+				"2차대전 후반에 병력 손실이 커지자 미 육군은 흑인 부대를 전투에 직접 투입했다."
+			],
+			[
+				23,
+				"에",
+				"JKB",
+				"2차대전 후반에 병력 손실이 커지자 미 육군은 흑인 부대를 전투에 직접 투입했다."
+			],
+			[
+				24,
+				"에",
+				"JKB",
+				"1941년에는 군복무 흑인이 4000명도 안되었지만 1945년에는 그 숫자가 무려 120만 명으로 늘어났다."
+			],
+			[
+				25,
+				"는",
+				"JX",
+				"1941년에는 군복무 흑인이 4000명도 안되었지만 1945년에는 그 숫자가 무려 120만 명으로 늘어났다."
+			],
+			[
+				26,
+				"이",
+				"JKS",
+				"1941년에는 군복무 흑인이 4000명도 안되었지만 1945년에는 그 숫자가 무려 120만 명으로 늘어났다."
+			],
+			[
+				27,
+				"도",
+				"JX",
+				"1941년에는 군복무 흑인이 4000명도 안되었지만 1945년에는 그 숫자가 무려 120만 명으로 늘어났다."
+			],
+			[
+				28,
+				"에",
+				"JKB",
+				"1941년에는 군복무 흑인이 4000명도 안되었지만 1945년에는 그 숫자가 무려 120만 명으로 늘어났다."
+			],
+			[
+				29,
+				"는",
+				"JX",
+				"1941년에는 군복무 흑인이 4000명도 안되었지만 1945년에는 그 숫자가 무려 120만 명으로 늘어났다."
+			],
+			[
+				30,
+				"가",
+				"JKS",
+				"1941년에는 군복무 흑인이 4000명도 안되었지만 1945년에는 그 숫자가 무려 120만 명으로 늘어났다."
+			],
+			[
+				31,
+				"으로",
+				"JKB",
+				"1941년에는 군복무 흑인이 4000명도 안되었지만 1945년에는 그 숫자가 무려 120만 명으로 늘어났다."
+			]
+		],
+		"E_Lst": [
+			[
+				0,
+				"ㄴ",
+				"ETM",
+				"미시시피 델타 지역에서 15자녀의 한 명으로 자란 브룩스는 근처에 학교가 없어서 부모가 집에 있을 때마다 아이를 가르치는 것으로 학교교육을 대신했다."
+			],
+			[
+				1,
+				"어서",
+				"EC",
+				"미시시피 델타 지역에서 15자녀의 한 명으로 자란 브룩스는 근처에 학교가 없어서 부모가 집에 있을 때마다 아이를 가르치는 것으로 학교교육을 대신했다."
+			],
+			[
+				2,
+				"을",
+				"ETM",
+				"미시시피 델타 지역에서 15자녀의 한 명으로 자란 브룩스는 근처에 학교가 없어서 부모가 집에 있을 때마다 아이를 가르치는 것으로 학교교육을 대신했다."
+			],
+			[
+				3,
+				"는",
+				"ETM",
+				"미시시피 델타 지역에서 15자녀의 한 명으로 자란 브룩스는 근처에 학교가 없어서 부모가 집에 있을 때마다 아이를 가르치는 것으로 학교교육을 대신했다."
+			],
+			[
+				4,
+				"았",
+				"EP",
+				"미시시피 델타 지역에서 15자녀의 한 명으로 자란 브룩스는 근처에 학교가 없어서 부모가 집에 있을 때마다 아이를 가르치는 것으로 학교교육을 대신했다."
+			],
+			[
+				5,
+				"다",
+				"EF",
+				"미시시피 델타 지역에서 15자녀의 한 명으로 자란 브룩스는 근처에 학교가 없어서 부모가 집에 있을 때마다 아이를 가르치는 것으로 학교교육을 대신했다."
+			],
+			[
+				6,
+				"아서",
+				"EC",
+				"자라서는 제재소에서 일하다가 1940년 미 육군에 입대했다."
+			],
+			[
+				7,
+				"다가",
+				"EC",
+				"자라서는 제재소에서 일하다가 1940년 미 육군에 입대했다."
+			],
+			[
+				8,
+				"았",
+				"EP",
+				"자라서는 제재소에서 일하다가 1940년 미 육군에 입대했다."
+			],
+			[
+				9,
+				"다",
+				"EF",
+				"자라서는 제재소에서 일하다가 1940년 미 육군에 입대했다."
+			],
+			[
+				10,
+				"ㄴ",
+				"ETM",
+				"일본의 진주만 폭격 이후 그는 흑인부대인 일반 서비스 공병연대 91부대원으로 호주에 주둔했다."
+			],
+			[
+				11,
+				"았",
+				"EP",
+				"일본의 진주만 폭격 이후 그는 흑인부대인 일반 서비스 공병연대 91부대원으로 호주에 주둔했다."
+			],
+			[
+				12,
+				"다",
+				"EF",
+				"일본의 진주만 폭격 이후 그는 흑인부대인 일반 서비스 공병연대 91부대원으로 호주에 주둔했다."
+			],
+			[
+				13,
+				"자",
+				"EC",
+				"2차대전 후반에 병력 손실이 커지자 미 육군은 흑인 부대를 전투에 직접 투입했다."
+			],
+			[
+				14,
+				"았",
+				"EP",
+				"2차대전 후반에 병력 손실이 커지자 미 육군은 흑인 부대를 전투에 직접 투입했다."
+			],
+			[
+				15,
+				"다",
+				"EF",
+				"2차대전 후반에 병력 손실이 커지자 미 육군은 흑인 부대를 전투에 직접 투입했다."
+			],
+			[
+				16,
+				"었",
+				"EP",
+				"1941년에는 군복무 흑인이 4000명도 안되었지만 1945년에는 그 숫자가 무려 120만 명으로 늘어났다."
+			],
+			[
+				17,
+				"지만",
+				"EC",
+				"1941년에는 군복무 흑인이 4000명도 안되었지만 1945년에는 그 숫자가 무려 120만 명으로 늘어났다."
+			],
+			[
+				18,
+				"았",
+				"EP",
+				"1941년에는 군복무 흑인이 4000명도 안되었지만 1945년에는 그 숫자가 무려 120만 명으로 늘어났다."
+			],
+			[
+				19,
+				"다",
+				"EF",
+				"1941년에는 군복무 흑인이 4000명도 안되었지만 1945년에는 그 숫자가 무려 120만 명으로 늘어났다."
+			]
+		],
+		"X_Lst": [],
+		"IC_Lst": []
+	},
+	"NDW": {
+		"morph_NDW": 90,
+		"NL_NDW": 51,
+		"NNG_NDW": 32,
+		"NNP_NDW": 9,
+		"NNB_NDW": 8,
+		"NP_NDW": 1,
+		"NR_NDW": 1,
+		"VL_NDW": 14,
+		"VV_NDW": 11,
+		"VA_NDW": 2,
+		"ML_NDW": 2,
+		"MM_NDW": 0,
+		"IC_NDW": 0,
+		"J_NDW": 32,
+		"E_NDW": 20,
+		"X_NDW": 0,
+		"CL_NDW": 67,
+		"FL_NDW": 52
+	}
+}

@@ -1,0 +1,3173 @@
+﻿{
+	"morpheme": {
+		"sentences": [
+			{
+				"text": {
+					"content": "내가 가장 존경하는 분은 중학교 첫 시작을 도와준 1학년 담임 선생님이시다",
+					"length": 41,
+					"beginOffset": 0
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "내가",
+							"length": 2,
+							"beginOffset": 0
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "내",
+									"length": 1,
+									"beginOffset": 0
+								},
+								"tag": "NP",
+								"probability": 0.9873618,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 1,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.99618626,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "내",
+						"tagged": "내/NP+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "가장",
+							"beginOffset": 3,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "가장",
+									"beginOffset": 3,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.99178296,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "가장",
+						"tagged": "가장/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "존경하는",
+							"beginOffset": 6,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "존경하",
+									"beginOffset": 6,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 9,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999644,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "존경하",
+						"tagged": "존경하/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "분은",
+							"beginOffset": 11,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "분",
+									"beginOffset": 11,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9763846,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 12,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9996525,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "분",
+						"tagged": "분/NNB+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "중학교",
+							"beginOffset": 14,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "중학교",
+									"beginOffset": 14,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.98191977,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "중학교",
+						"tagged": "중학교/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "첫",
+							"beginOffset": 18,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "첫",
+									"beginOffset": 18,
+									"length": 1
+								},
+								"tag": "MMN",
+								"probability": 0.99837923,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "첫",
+						"tagged": "첫/MMN",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "시작을",
+							"beginOffset": 20,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "시작",
+									"beginOffset": 20,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97955376,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 22,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9997617,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "시작",
+						"tagged": "시작/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "도와준",
+							"beginOffset": 24,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "도와주",
+									"beginOffset": 24,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.9911161,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 26,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9998937,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "도와주",
+						"tagged": "도와주/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "1학년",
+							"beginOffset": 28,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "1",
+									"beginOffset": 28,
+									"length": 1
+								},
+								"tag": "SN",
+								"probability": 0.9978094,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "학년",
+									"beginOffset": 29,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98285985,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "1",
+						"tagged": "1/SN+학년/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "담임",
+							"beginOffset": 32,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "담임",
+									"beginOffset": 32,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9773582,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "담임",
+						"tagged": "담임/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "선생님이시다",
+							"beginOffset": 35,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "선생",
+									"beginOffset": 35,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9805891,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "님",
+									"beginOffset": 37,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.99332607,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 38,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.99964297,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "시",
+									"beginOffset": 39,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9999158,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 40,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9237309,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "선생",
+						"tagged": "선생/NNG+님/XSN+이/VCP+시/EP+다/EF",
+						"modified": ""
+					}
+				],
+				"refined": "내가 가장 존경하는 분은 중학교 첫 시작을 도와준 1학년 담임 선생님이시다"
+			},
+			{
+				"text": {
+					"content": "선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다",
+					"beginOffset": 42,
+					"length": 103
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "선생님은",
+							"beginOffset": 42,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "선생",
+									"beginOffset": 42,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98292685,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "님",
+									"beginOffset": 44,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.98743755,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 45,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9992665,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "선생",
+						"tagged": "선생/NNG+님/XSN+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "30명이",
+							"beginOffset": 47,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "30",
+									"beginOffset": 47,
+									"length": 2
+								},
+								"tag": "SN",
+								"probability": 0.9974058,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "명",
+									"beginOffset": 49,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.97551525,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 50,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9807879,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "30",
+						"tagged": "30/SN+명/NNB+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "넘는",
+							"beginOffset": 52,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "넘",
+									"beginOffset": 52,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.989684,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 53,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99989593,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "넘",
+						"tagged": "넘/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "학급",
+							"beginOffset": 55,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "학급",
+									"beginOffset": 55,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9805549,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "학급",
+						"tagged": "학급/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "아이들의",
+							"beginOffset": 58,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "아이",
+									"beginOffset": 58,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9836441,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "들",
+									"beginOffset": 60,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.98897403,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 61,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99941003,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "아이",
+						"tagged": "아이/NNG+들/XSN+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "생일을",
+							"beginOffset": 63,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "생일",
+									"beginOffset": 63,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9809469,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 65,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999426,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "생일",
+						"tagged": "생일/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "전부",
+							"beginOffset": 67,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "전부",
+									"beginOffset": 67,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9893814,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "전부",
+						"tagged": "전부/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "챙겨",
+							"beginOffset": 70,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "챙기",
+									"beginOffset": 70,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9846638,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어",
+									"beginOffset": 71,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99558765,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "챙기",
+						"tagged": "챙기/VV+어/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "주셨다",
+							"beginOffset": 72,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "주",
+									"beginOffset": 72,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.9614075,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "시",
+									"beginOffset": 73,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99985933,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 73,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9999327,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 74,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.94272125,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "주",
+						"tagged": "주/VX+시/EP+었/EP+다/EF",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "존경이란",
+							"beginOffset": 76,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "존경",
+									"beginOffset": 76,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.96302074,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 78,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.9962236,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "란",
+									"beginOffset": 79,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999877,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "존경",
+						"tagged": "존경/NNG+이/VCP+란/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "것은",
+							"beginOffset": 81,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "것",
+									"beginOffset": 81,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.98184836,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 82,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9983216,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "것",
+						"tagged": "것/NNB+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "개인에게도",
+							"beginOffset": 84,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "개인",
+									"beginOffset": 84,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9788416,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에게",
+									"beginOffset": 86,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9935502,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 88,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99865246,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "개인",
+						"tagged": "개인/NNG+에게/JKB+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "느낄",
+							"beginOffset": 90,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "느끼",
+									"beginOffset": 90,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9877498,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ",
+									"beginOffset": 91,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99995524,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "느끼",
+						"tagged": "느끼/VV+ㄹ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "수",
+							"beginOffset": 92,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "수",
+									"beginOffset": 92,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.97956705,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "수",
+						"tagged": "수/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있고",
+							"beginOffset": 94,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 94,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9496021,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 95,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9944611,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VA+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "또한",
+							"beginOffset": 97,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "또한",
+									"beginOffset": 97,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.98153085,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "또한",
+						"tagged": "또한/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "그에",
+							"beginOffset": 100,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그",
+									"beginOffset": 100,
+									"length": 1
+								},
+								"tag": "NP",
+								"probability": 0.98627406,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 101,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99389106,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그",
+						"tagged": "그/NP+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "따른",
+							"beginOffset": 102,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "따르",
+									"beginOffset": 102,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.98866457,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 103,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999564,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "따르",
+						"tagged": "따르/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "정체성이나",
+							"beginOffset": 105,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "정체",
+									"beginOffset": 105,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97929883,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "성",
+									"beginOffset": 107,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.9918823,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이나",
+									"beginOffset": 108,
+									"length": 2
+								},
+								"tag": "JC",
+								"probability": 0.9493665,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "정체",
+						"tagged": "정체/NNG+성/XSN+이나/JC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "여러",
+							"beginOffset": 111,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "여러",
+									"beginOffset": 111,
+									"length": 2
+								},
+								"tag": "MMN",
+								"probability": 0.9994353,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "여러",
+						"tagged": "여러/MMN",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "민족의",
+							"beginOffset": 114,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "민족",
+									"beginOffset": 114,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98695725,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 116,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9993234,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "민족",
+						"tagged": "민족/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "정체성",
+							"beginOffset": 118,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "정체",
+									"beginOffset": 118,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9827874,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "성",
+									"beginOffset": 120,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.99143356,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "정체",
+						"tagged": "정체/NNG+성/XSN",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "등",
+							"beginOffset": 122,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "등",
+									"beginOffset": 122,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9713636,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "등",
+						"tagged": "등/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "타자에",
+							"beginOffset": 124,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "타자",
+									"beginOffset": 124,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98380387,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 126,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99293745,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "타자",
+						"tagged": "타자/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "의해서",
+							"beginOffset": 128,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "의하",
+									"beginOffset": 128,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9910443,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아서",
+									"beginOffset": 129,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9939459,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "의하",
+						"tagged": "의하/VV+아서/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "평소에",
+							"beginOffset": 132,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "평소",
+									"beginOffset": 132,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98434126,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 134,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9956183,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "평소",
+						"tagged": "평소/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "비교하며",
+							"beginOffset": 136,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "비교하",
+									"beginOffset": 136,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "며",
+									"beginOffset": 139,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9950815,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "비교하",
+						"tagged": "비교하/VV+며/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "평가한다",
+							"beginOffset": 141,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "평가하",
+									"beginOffset": 141,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ다",
+									"beginOffset": 143,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.97350496,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "평가하",
+						"tagged": "평가하/VV+ㄴ다/EF",
+						"modified": ""
+					}
+				],
+				"refined": "선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨 주셨다 존경이란 것은 개인에게도 느낄 수 있고 또한 그에 따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			},
+			{
+				"text": {
+					"content": "아마 이런건 계속 이어질 것 같다고 생각된다.",
+					"beginOffset": 146,
+					"length": 25
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "아마",
+							"beginOffset": 146,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "아마",
+									"beginOffset": 146,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9930403,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "아마",
+						"tagged": "아마/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이런건",
+							"beginOffset": 149,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이런거",
+									"beginOffset": 149,
+									"length": 3
+								},
+								"tag": "NNP",
+								"probability": 0.4150132,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 151,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9949499,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이런거",
+						"tagged": "이런거/NNP+ㄴ/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "계속",
+							"beginOffset": 153,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "계속",
+									"beginOffset": 153,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9929644,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "계속",
+						"tagged": "계속/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이어질",
+							"beginOffset": 156,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이어지",
+									"beginOffset": 156,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.9899605,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ",
+									"beginOffset": 158,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99998987,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이어지",
+						"tagged": "이어지/VV+ㄹ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "것",
+							"beginOffset": 160,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "것",
+									"beginOffset": 160,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.98500127,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "것",
+						"tagged": "것/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "같다고",
+							"beginOffset": 162,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "같",
+									"beginOffset": 162,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.98736054,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다고",
+									"beginOffset": 163,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9940273,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "같",
+						"tagged": "같/VA+다고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "생각된다.",
+							"beginOffset": 166,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "생각되",
+									"beginOffset": 166,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ다",
+									"beginOffset": 168,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.98839027,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 170,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99994,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "생각되",
+						"tagged": "생각되/VV+ㄴ다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "아마 이런건 계속 이어질 것 같다고 생각된다."
+			},
+			{
+				"text": {
+					"content": "그럴수록 경의를 표현하는 것이 상관관계가 있을 것이다.",
+					"beginOffset": 172,
+					"length": 30
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "그럴수록",
+							"beginOffset": 172,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그렇",
+									"beginOffset": 172,
+									"length": 2
+								},
+								"tag": "VA",
+								"probability": 0.98392594,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ수록",
+									"beginOffset": 173,
+									"length": 3
+								},
+								"tag": "EC",
+								"probability": 0.9946125,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그렇",
+						"tagged": "그렇/VA+ㄹ수록/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "경의를",
+							"beginOffset": 177,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "경의",
+									"beginOffset": 177,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98254144,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 179,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9998122,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "경의",
+						"tagged": "경의/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "표현하는",
+							"beginOffset": 181,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "표현하",
+									"beginOffset": 181,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 184,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999642,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "표현하",
+						"tagged": "표현하/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "것이",
+							"beginOffset": 186,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "것",
+									"beginOffset": 186,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9797911,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 187,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.984672,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "것",
+						"tagged": "것/NNB+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "상관관계가",
+							"beginOffset": 189,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "상관관계",
+									"beginOffset": 189,
+									"length": 4
+								},
+								"tag": "NNG",
+								"probability": 0.9757666,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 193,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9894087,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "상관관계",
+						"tagged": "상관관계/NNG+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있을",
+							"beginOffset": 195,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 195,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9710876,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 196,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9996098,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VA+을/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "것이다.",
+							"beginOffset": 198,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "것",
+									"beginOffset": 198,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.97667307,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 199,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.9985427,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 200,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.99195254,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 201,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99962616,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "것",
+						"tagged": "것/NNB+이/VCP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "그럴수록 경의를 표현하는 것이 상관관계가 있을 것이다."
+			}
+		],
+		"language": "ko_KR"
+	},
+	"ttr": {
+		"lemma_Cnt": 103,
+		"lemma_TTR": 0.719626168224299,
+		"CL_TTR": 0.8518518518518519,
+		"NL_TTR": 0.8275862068965517,
+		"NN_TTR": 0.8148148148148148,
+		"NNG_TTR": 0.8888888888888888,
+		"NNP_TTR": 1.0,
+		"NNB_TTR": 0.625,
+		"NP_TTR": 1.0,
+		"NR_TTR": 0,
+		"VL_TTR": 0.85,
+		"VV_TTR": 1.0,
+		"VA_TTR": 0.75,
+		"ML_TTR": 1.0,
+		"MM_TTR": 0,
+		"MA_TTR": 1.0,
+		"MAJ_TTR": 0,
+		"IC_TTR": 0,
+		"FL_TTR": 0.574468085106383,
+		"J_TTR": 0.5789473684210527,
+		"E_TTR": 0.6521739130434783,
+		"X_TTR": 0.6,
+		"lemma_RTTR": 7.443870965651609,
+		"CL_RTTR": 6.2598071204459,
+		"NL_RTTR": 4.456688116249245,
+		"NN_RTTR": 4.233901974057256,
+		"NNG_RTTR": 3.771236166328254,
+		"NNP_RTTR": 1.0,
+		"NNB_RTTR": 1.7677669529663687,
+		"NP_RTTR": 1.414213562373095,
+		"NR_RTTR": 0,
+		"VL_RTTR": 3.801315561749642,
+		"VV_RTTR": 3.464101615137755,
+		"VA_RTTR": 1.5,
+		"ML_RTTR": 2.23606797749979,
+		"MM_RTTR": 0,
+		"MA_RTTR": 2.23606797749979,
+		"MAJ_RTTR": 0,
+		"IC_RTTR": 0,
+		"FL_RTTR": 3.938354770443153,
+		"J_RTTR": 2.523573072576179,
+		"E_RTTR": 3.127716210856122,
+		"X_RTTR": 1.3416407864998738,
+		"lemma_CTTR": 5.263611638089907,
+		"CL_CTTR": 4.426352063787131,
+		"NL_CTTR": 3.151354388633341,
+		"NN_CTTR": 2.9938207967349952,
+		"NNG_CTTR": 2.6666666666666665,
+		"NNP_CTTR": 0.7071067811865475,
+		"NNB_CTTR": 1.25,
+		"NP_CTTR": 1.0,
+		"NR_CTTR": 0,
+		"VL_CTTR": 2.687936011143122,
+		"VV_CTTR": 2.4494897427831783,
+		"VA_CTTR": 1.0606601717798212,
+		"ML_CTTR": 1.5811388300841895,
+		"MM_CTTR": 0,
+		"MA_CTTR": 1.5811388300841895,
+		"MAJ_CTTR": 0,
+		"IC_CTTR": 0,
+		"FL_CTTR": 2.784837364898742,
+		"J_CTTR": 1.784435632438388,
+		"E_CTTR": 2.211629342323457,
+		"X_CTTR": 0.9486832980505138,
+		"lemma_MSTTR": 0.8200000000000001,
+		"CL_MSTTR": 0.9,
+		"NL_MSTTR": 0.8275862068965517,
+		"NN_MSTTR": 0.8148148148148148,
+		"NNG_MSTTR": 0.8888888888888888,
+		"NNP_MSTTR": 1.0,
+		"NNB_MSTTR": 0.625,
+		"NP_MSTTR": 1.0,
+		"NR_MSTTR": 0,
+		"VL_MSTTR": 0.85,
+		"VV_MSTTR": 1.0,
+		"VA_MSTTR": 0.75,
+		"ML_MSTTR": 1.0,
+		"MM_MSTTR": 0,
+		"MA_MSTTR": 1.0,
+		"MAJ_MSTTR": 0,
+		"IC_MSTTR": 0,
+		"FL_MSTTR": 0.574468085106383,
+		"J_MSTTR": 0.5789473684210527,
+		"E_MSTTR": 0.6521739130434783,
+		"X_MSTTR": 0.6,
+		"lemma_MATTR": 0.8513793103448278,
+		"CL_MATTR": 0.876,
+		"NL_MATTR": 0.8275862068965517,
+		"NN_MATTR": 0.8148148148148148,
+		"NNG_MATTR": 0.8888888888888888,
+		"NNP_MATTR": 1.0,
+		"NNB_MATTR": 0.625,
+		"NP_MATTR": 1.0,
+		"NR_MATTR": 0,
+		"VL_MATTR": 0.85,
+		"VV_MATTR": 1.0,
+		"VA_MATTR": 0.75,
+		"ML_MATTR": 1.0,
+		"MM_MATTR": 0,
+		"MA_MATTR": 1.0,
+		"MAJ_MATTR": 0,
+		"IC_MATTR": 0,
+		"FL_MATTR": 0.574468085106383,
+		"J_MATTR": 0.5789473684210527,
+		"E_MATTR": 0.6521739130434783,
+		"X_MATTR": 0.6,
+		"lemma_MTLD": 106.92866666666666,
+		"CL_MTLD": 102.06,
+		"NL_MTLD": 47.096,
+		"NN_MTLD": 40.82399999999999,
+		"NNG_MTLD": 45.359999999999985,
+		"NNP_MTLD": 0.0,
+		"NNB_MTLD": 5.973333333333334,
+		"NP_MTLD": 0.0,
+		"NR_MTLD": 0.0,
+		"VL_MTLD": 37.333333333333336,
+		"VV_MTLD": 0.0,
+		"VA_MTLD": 4.48,
+		"ML_MTLD": 0.0,
+		"MM_MTLD": 0.0,
+		"MA_MTLD": 0.0,
+		"MAJ_MTLD": 0.0,
+		"IC_MTLD": 0.0,
+		"FL_MTLD": 26.526515151515156,
+		"J_MTLD": 14.79646017699115,
+		"E_MTLD": 18.921985815602838,
+		"X_MTLD": 3.5,
+		"lemma_VOCDD": 112.82244561423902,
+		"CL_VOCDD": 129.0030671802759,
+		"NL_VOCDD": 0,
+		"NN_VOCDD": 0,
+		"NNG_VOCDD": 0,
+		"NNP_VOCDD": 0,
+		"NNB_VOCDD": 0,
+		"NP_VOCDD": 0,
+		"NR_VOCDD": 0,
+		"VL_VOCDD": 0,
+		"VV_VOCDD": 0,
+		"VA_VOCDD": 0,
+		"ML_VOCDD": 0,
+		"MM_VOCDD": 0,
+		"MA_VOCDD": 0,
+		"MAJ_VOCDD": 0,
+		"IC_VOCDD": 0,
+		"FL_VOCDD": 0,
+		"J_VOCDD": 0,
+		"E_VOCDD": 0,
+		"X_VOCDD": 0,
+		"lemma_HDD": 0.8619642905038029,
+		"CL_HDD": 0.8747640323666954,
+		"NL_HDD": 0.0,
+		"NN_HDD": 0.0,
+		"NNG_HDD": 0.0,
+		"NNP_HDD": 0.0,
+		"NNB_HDD": 0.0,
+		"NP_HDD": 0.0,
+		"NR_HDD": 0.0,
+		"VL_HDD": 0.0,
+		"VV_HDD": 0.0,
+		"VA_HDD": 0.0,
+		"ML_HDD": 0.0,
+		"MM_HDD": 0.0,
+		"MA_HDD": 0.0,
+		"MAJ_HDD": 0.0,
+		"IC_HDD": 0.0,
+		"FL_HDD": 0.6080789392537774,
+		"J_HDD": 0.0,
+		"E_HDD": 0.0,
+		"X_HDD": 0.0
+	},
+	"similarity": {
+		"avgSentSimilarity": 0.36526891589164734,
+		"topicConsistency": 0.5558
+	},
+	"adjacency": {
+		"adjacent_sentence_overlap_all_lemmas": 65,
+		"adjacent_sentence_overlap_all_lemmas_normed": 3,
+		"binary_adjacent_sentence_overlap_all_lemmas": 3,
+		"adjacent_two_sentence_overlap_all_lemmas": 17,
+		"adjacent_two_sentence_overlap_all_lemmas_normed": 2,
+		"binary_adjacent_two_sentence_overlap_all_lemmas": 2,
+		"adjacent_sentence_overlap_content_lemmas": 36,
+		"adjacent_sentence_overlap_content_lemmas_normed": 3,
+		"binary_adjacent_sentence_overlap_content_lemmas": 3,
+		"adjacent_two_sentence_overlap_content_lemmas": 10,
+		"adjacent_two_sentence_overlap_content_lemmas_normed": 2,
+		"binary_adjacent_two_sentence_overlap_content_lemmas": 1,
+		"adjacent_sentence_overlap_function_lemmas": 21,
+		"adjacent_sentence_overlap_function_lemmas_normed": 3,
+		"binary_adjacent_sentence_overlap_function_lemmas": 2,
+		"adjacent_two_sentence_overlap_function_lemmas": 7,
+		"adjacent_two_sentence_overlap_function_lemmas_normed": 2,
+		"binary_adjacent_two_sentence_overlap_function_lemmas": 2,
+		"adjacent_sentence_overlap_noun_lemmas": 25,
+		"adjacent_sentence_overlap_noun_lemmas_normed": 3,
+		"binary_adjacent_sentence_overlap_noun_lemmas": 3,
+		"adjacent_two_sentence_overlap_noun_lemmas": 3,
+		"adjacent_two_sentence_overlap_noun_lemmas_normed": 2,
+		"binary_adjacent_two_sentence_overlap_noun_lemmas": 1,
+		"adjacent_sentence_overlap_verb_lemmas": 14,
+		"adjacent_sentence_overlap_verb_lemmas_normed": 3,
+		"binary_adjacent_sentence_overlap_verb_lemmas": 1,
+		"adjacent_two_sentence_overlap_verb_lemmas": 5,
+		"adjacent_two_sentence_overlap_verb_lemmas_normed": 2,
+		"binary_adjacent_two_sentence_overlap_verb_lemmas": 0,
+		"adjacent_sentence_overlap_adjective_lemmas": 3,
+		"adjacent_sentence_overlap_adjective_lemmas_normed": 2,
+		"binary_adjacent_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas": 2,
+		"adjacent_two_sentence_overlap_adjective_lemmas_normed": 1,
+		"binary_adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_sentence_overlap_adverb_lemmas": 4,
+		"adjacent_sentence_overlap_adverb_lemmas_normed": 2,
+		"binary_adjacent_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas": 2,
+		"adjacent_two_sentence_overlap_adverb_lemmas_normed": 1,
+		"binary_adjacent_two_sentence_overlap_adverb_lemmas": 0
+	},
+	"basic_count": {
+		"para_Cnt": 1,
+		"sentence_Cnt": 4,
+		"word_Cnt": 50,
+		"morph_Cnt": 107,
+		"char_Cnt": 160,
+		"CL_Cnt": 54,
+		"NL_Cnt": 29,
+		"NN_Cnt": 27,
+		"NNG_Cnt": 18,
+		"NNP_Cnt": 1,
+		"NNB_Cnt": 8,
+		"NP_Cnt": 2,
+		"NP_People_Cnt": 1,
+		"NP_Things_Cnt": 0,
+		"NR_Cnt": 0,
+		"VL_Cnt": 20,
+		"VV_Cnt": 12,
+		"VA_Cnt": 4,
+		"VX_Cnt": 1,
+		"VCP_Cnt": 3,
+		"VCN_Cnt": 0,
+		"ML_Cnt": 5,
+		"MA_Cnt": 0,
+		"MM_Cnt": 0,
+		"FL_Cnt": 47,
+		"J_Cnt": 19,
+		"E_Cnt": 23,
+		"X_Cnt": 5,
+		"IC_Cnt": 0
+	},
+	"basic_density": {
+		"CL_Den": 0.5046728971962616,
+		"FL_Den": 0.4392523364485981,
+		"NL_Den": 0.2523364485981308,
+		"NNGL_Den": 0.16822429906542055,
+		"NNPL_Den": 0.009345794392523364,
+		"NNBL_Den": 0.07476635514018691,
+		"NPL_Den": 0.018691588785046728,
+		"NML_Den": 0.0,
+		"VL_Den": 0.18691588785046728,
+		"VVL_Den": 0.11214953271028037,
+		"VAL_Den": 0.037383177570093455,
+		"ML_Den": 0.04672897196261682,
+		"MML_Den": 0.0,
+		"MAL_Den": 0.0,
+		"JL_Den": 0.17757009345794392,
+		"EL_Den": 0.21495327102803738,
+		"XL_Den": 0.04672897196261682,
+		"ITL_Den": 0.0,
+		"NCL_Den": 0.5,
+		"NNCL_Den": 0.3333333333333333,
+		"NNGCL_Den": 0.018518518518518517,
+		"NNBCL_Den": 0.14814814814814814,
+		"NPCL_Den": 0.037037037037037035,
+		"NMCL_Den": 0.0,
+		"VCL_Den": 0.37037037037037035,
+		"VVCL_Den": 0.2222222222222222,
+		"VACL_Den": 0.07407407407407407,
+		"MCL_Den": 0.09259259259259259,
+		"MMCL_Den": 0.0,
+		"MACL_Den": 0.0,
+		"INCL_Den": 0.0,
+		"JFL_Den": 0.40425531914893614,
+		"EFL_Den": 0.48936170212765956,
+		"XFL_Den": 0.10638297872340426
+	},
+	"basic_level": {
+		"morph_LenAvg": 1.5327102803738317,
+		"morph_LenStd": 0.7013705809081763,
+		"word_LenAvg": 3.02,
+		"word_LenStd": 1.1223190277278556
+	},
+	"basic_list": {
+		"NL_Lst": [
+			[
+				0,
+				"내",
+				"NP",
+				"내가 가장 존경하는 분은 중학교 첫 시작을 도와준 1학년 담임 선생님이시다"
+			],
+			[
+				1,
+				"분",
+				"NNB",
+				"내가 가장 존경하는 분은 중학교 첫 시작을 도와준 1학년 담임 선생님이시다"
+			],
+			[
+				2,
+				"중학교",
+				"NNG",
+				"내가 가장 존경하는 분은 중학교 첫 시작을 도와준 1학년 담임 선생님이시다"
+			],
+			[
+				3,
+				"시작",
+				"NNG",
+				"내가 가장 존경하는 분은 중학교 첫 시작을 도와준 1학년 담임 선생님이시다"
+			],
+			[
+				4,
+				"학년",
+				"NNG",
+				"내가 가장 존경하는 분은 중학교 첫 시작을 도와준 1학년 담임 선생님이시다"
+			],
+			[
+				5,
+				"담임",
+				"NNG",
+				"내가 가장 존경하는 분은 중학교 첫 시작을 도와준 1학년 담임 선생님이시다"
+			],
+			[
+				6,
+				"선생",
+				"NNG",
+				"내가 가장 존경하는 분은 중학교 첫 시작을 도와준 1학년 담임 선생님이시다"
+			],
+			[
+				7,
+				"선생",
+				"NNG",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				8,
+				"명",
+				"NNB",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				9,
+				"학급",
+				"NNG",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				10,
+				"아이",
+				"NNG",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				11,
+				"생일",
+				"NNG",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				12,
+				"존경",
+				"NNG",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				13,
+				"것",
+				"NNB",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				14,
+				"개인",
+				"NNG",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				15,
+				"수",
+				"NNB",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				16,
+				"그",
+				"NP",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				17,
+				"정체",
+				"NNG",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				18,
+				"민족",
+				"NNG",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				19,
+				"정체",
+				"NNG",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				20,
+				"등",
+				"NNB",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				21,
+				"타자",
+				"NNG",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				22,
+				"평소",
+				"NNG",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				23,
+				"이런거",
+				"NNP",
+				"아마 이런건 계속 이어질 것 같다고 생각된다."
+			],
+			[
+				24,
+				"것",
+				"NNB",
+				"아마 이런건 계속 이어질 것 같다고 생각된다."
+			],
+			[
+				25,
+				"경의",
+				"NNG",
+				"그럴수록 경의를 표현하는 것이 상관관계가 있을 것이다."
+			],
+			[
+				26,
+				"것",
+				"NNB",
+				"그럴수록 경의를 표현하는 것이 상관관계가 있을 것이다."
+			],
+			[
+				27,
+				"상관관계",
+				"NNG",
+				"그럴수록 경의를 표현하는 것이 상관관계가 있을 것이다."
+			],
+			[
+				28,
+				"것",
+				"NNB",
+				"그럴수록 경의를 표현하는 것이 상관관계가 있을 것이다."
+			]
+		],
+		"NN_Lst": [
+			[
+				0,
+				"분",
+				"NNB",
+				"내가 가장 존경하는 분은 중학교 첫 시작을 도와준 1학년 담임 선생님이시다"
+			],
+			[
+				1,
+				"중학교",
+				"NNG",
+				"내가 가장 존경하는 분은 중학교 첫 시작을 도와준 1학년 담임 선생님이시다"
+			],
+			[
+				2,
+				"시작",
+				"NNG",
+				"내가 가장 존경하는 분은 중학교 첫 시작을 도와준 1학년 담임 선생님이시다"
+			],
+			[
+				3,
+				"학년",
+				"NNG",
+				"내가 가장 존경하는 분은 중학교 첫 시작을 도와준 1학년 담임 선생님이시다"
+			],
+			[
+				4,
+				"담임",
+				"NNG",
+				"내가 가장 존경하는 분은 중학교 첫 시작을 도와준 1학년 담임 선생님이시다"
+			],
+			[
+				5,
+				"선생",
+				"NNG",
+				"내가 가장 존경하는 분은 중학교 첫 시작을 도와준 1학년 담임 선생님이시다"
+			],
+			[
+				6,
+				"선생",
+				"NNG",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				7,
+				"명",
+				"NNB",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				8,
+				"학급",
+				"NNG",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				9,
+				"아이",
+				"NNG",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				10,
+				"생일",
+				"NNG",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				11,
+				"존경",
+				"NNG",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				12,
+				"것",
+				"NNB",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				13,
+				"개인",
+				"NNG",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				14,
+				"수",
+				"NNB",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				15,
+				"정체",
+				"NNG",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				16,
+				"민족",
+				"NNG",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				17,
+				"정체",
+				"NNG",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				18,
+				"등",
+				"NNB",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				19,
+				"타자",
+				"NNG",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				20,
+				"평소",
+				"NNG",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				21,
+				"이런거",
+				"NNP",
+				"아마 이런건 계속 이어질 것 같다고 생각된다."
+			],
+			[
+				22,
+				"것",
+				"NNB",
+				"아마 이런건 계속 이어질 것 같다고 생각된다."
+			],
+			[
+				23,
+				"경의",
+				"NNG",
+				"그럴수록 경의를 표현하는 것이 상관관계가 있을 것이다."
+			],
+			[
+				24,
+				"것",
+				"NNB",
+				"그럴수록 경의를 표현하는 것이 상관관계가 있을 것이다."
+			],
+			[
+				25,
+				"상관관계",
+				"NNG",
+				"그럴수록 경의를 표현하는 것이 상관관계가 있을 것이다."
+			],
+			[
+				26,
+				"것",
+				"NNB",
+				"그럴수록 경의를 표현하는 것이 상관관계가 있을 것이다."
+			]
+		],
+		"NNG_Lst": [
+			[
+				0,
+				"중학교",
+				"NNG",
+				"내가 가장 존경하는 분은 중학교 첫 시작을 도와준 1학년 담임 선생님이시다"
+			],
+			[
+				1,
+				"시작",
+				"NNG",
+				"내가 가장 존경하는 분은 중학교 첫 시작을 도와준 1학년 담임 선생님이시다"
+			],
+			[
+				2,
+				"학년",
+				"NNG",
+				"내가 가장 존경하는 분은 중학교 첫 시작을 도와준 1학년 담임 선생님이시다"
+			],
+			[
+				3,
+				"담임",
+				"NNG",
+				"내가 가장 존경하는 분은 중학교 첫 시작을 도와준 1학년 담임 선생님이시다"
+			],
+			[
+				4,
+				"선생",
+				"NNG",
+				"내가 가장 존경하는 분은 중학교 첫 시작을 도와준 1학년 담임 선생님이시다"
+			],
+			[
+				5,
+				"선생",
+				"NNG",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				6,
+				"학급",
+				"NNG",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				7,
+				"아이",
+				"NNG",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				8,
+				"생일",
+				"NNG",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				9,
+				"존경",
+				"NNG",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				10,
+				"개인",
+				"NNG",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				11,
+				"정체",
+				"NNG",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				12,
+				"민족",
+				"NNG",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				13,
+				"정체",
+				"NNG",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				14,
+				"타자",
+				"NNG",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				15,
+				"평소",
+				"NNG",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				16,
+				"경의",
+				"NNG",
+				"그럴수록 경의를 표현하는 것이 상관관계가 있을 것이다."
+			],
+			[
+				17,
+				"상관관계",
+				"NNG",
+				"그럴수록 경의를 표현하는 것이 상관관계가 있을 것이다."
+			]
+		],
+		"NNP_Lst": [
+			[
+				0,
+				"이런거",
+				"NNP",
+				"아마 이런건 계속 이어질 것 같다고 생각된다."
+			]
+		],
+		"NNB_Lst": [
+			[
+				0,
+				"분",
+				"NNB",
+				"내가 가장 존경하는 분은 중학교 첫 시작을 도와준 1학년 담임 선생님이시다"
+			],
+			[
+				1,
+				"명",
+				"NNB",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				2,
+				"것",
+				"NNB",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				3,
+				"수",
+				"NNB",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				4,
+				"등",
+				"NNB",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				5,
+				"것",
+				"NNB",
+				"아마 이런건 계속 이어질 것 같다고 생각된다."
+			],
+			[
+				6,
+				"것",
+				"NNB",
+				"그럴수록 경의를 표현하는 것이 상관관계가 있을 것이다."
+			],
+			[
+				7,
+				"것",
+				"NNB",
+				"그럴수록 경의를 표현하는 것이 상관관계가 있을 것이다."
+			]
+		],
+		"NP_Lst": [
+			[
+				0,
+				"내",
+				"NP",
+				"내가 가장 존경하는 분은 중학교 첫 시작을 도와준 1학년 담임 선생님이시다"
+			],
+			[
+				1,
+				"그",
+				"NP",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			]
+		],
+		"NP_People_Lst": [
+			[
+				0,
+				"그",
+				"NP",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			]
+		],
+		"NP_Things_Lst": [],
+		"NR_Lst": [],
+		"VL_Lst": [
+			[
+				0,
+				"존경하",
+				"VV",
+				"내가 가장 존경하는 분은 중학교 첫 시작을 도와준 1학년 담임 선생님이시다"
+			],
+			[
+				1,
+				"도와주",
+				"VV",
+				"내가 가장 존경하는 분은 중학교 첫 시작을 도와준 1학년 담임 선생님이시다"
+			],
+			[
+				2,
+				"이",
+				"VCP",
+				"내가 가장 존경하는 분은 중학교 첫 시작을 도와준 1학년 담임 선생님이시다"
+			],
+			[
+				3,
+				"넘",
+				"VV",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				4,
+				"챙기",
+				"VV",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				5,
+				"주",
+				"VX",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				6,
+				"이",
+				"VCP",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				7,
+				"느끼",
+				"VV",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				8,
+				"있",
+				"VA",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				9,
+				"따르",
+				"VV",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				10,
+				"의하",
+				"VV",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				11,
+				"비교하",
+				"VV",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				12,
+				"평가하",
+				"VV",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				13,
+				"이어지",
+				"VV",
+				"아마 이런건 계속 이어질 것 같다고 생각된다."
+			],
+			[
+				14,
+				"같",
+				"VA",
+				"아마 이런건 계속 이어질 것 같다고 생각된다."
+			],
+			[
+				15,
+				"생각되",
+				"VV",
+				"아마 이런건 계속 이어질 것 같다고 생각된다."
+			],
+			[
+				16,
+				"그렇",
+				"VA",
+				"그럴수록 경의를 표현하는 것이 상관관계가 있을 것이다."
+			],
+			[
+				17,
+				"표현하",
+				"VV",
+				"그럴수록 경의를 표현하는 것이 상관관계가 있을 것이다."
+			],
+			[
+				18,
+				"있",
+				"VA",
+				"그럴수록 경의를 표현하는 것이 상관관계가 있을 것이다."
+			],
+			[
+				19,
+				"이",
+				"VCP",
+				"그럴수록 경의를 표현하는 것이 상관관계가 있을 것이다."
+			]
+		],
+		"VV_Lst": [
+			[
+				0,
+				"존경하",
+				"VV",
+				"내가 가장 존경하는 분은 중학교 첫 시작을 도와준 1학년 담임 선생님이시다"
+			],
+			[
+				1,
+				"도와주",
+				"VV",
+				"내가 가장 존경하는 분은 중학교 첫 시작을 도와준 1학년 담임 선생님이시다"
+			],
+			[
+				2,
+				"넘",
+				"VV",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				3,
+				"챙기",
+				"VV",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				4,
+				"느끼",
+				"VV",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				5,
+				"따르",
+				"VV",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				6,
+				"의하",
+				"VV",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				7,
+				"비교하",
+				"VV",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				8,
+				"평가하",
+				"VV",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				9,
+				"이어지",
+				"VV",
+				"아마 이런건 계속 이어질 것 같다고 생각된다."
+			],
+			[
+				10,
+				"생각되",
+				"VV",
+				"아마 이런건 계속 이어질 것 같다고 생각된다."
+			],
+			[
+				11,
+				"표현하",
+				"VV",
+				"그럴수록 경의를 표현하는 것이 상관관계가 있을 것이다."
+			]
+		],
+		"VA_Lst": [
+			[
+				0,
+				"있",
+				"VA",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				1,
+				"같",
+				"VA",
+				"아마 이런건 계속 이어질 것 같다고 생각된다."
+			],
+			[
+				2,
+				"그렇",
+				"VA",
+				"그럴수록 경의를 표현하는 것이 상관관계가 있을 것이다."
+			],
+			[
+				3,
+				"있",
+				"VA",
+				"그럴수록 경의를 표현하는 것이 상관관계가 있을 것이다."
+			]
+		],
+		"VX_Lst": [
+			[
+				0,
+				"주",
+				"VX",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			]
+		],
+		"VCP_Lst": [
+			[
+				0,
+				"이",
+				"VCP",
+				"내가 가장 존경하는 분은 중학교 첫 시작을 도와준 1학년 담임 선생님이시다"
+			],
+			[
+				1,
+				"이",
+				"VCP",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				2,
+				"이",
+				"VCP",
+				"그럴수록 경의를 표현하는 것이 상관관계가 있을 것이다."
+			]
+		],
+		"VCN_Lst": [],
+		"ML_Lst": [
+			[
+				0,
+				"가장",
+				"MAG",
+				"내가 가장 존경하는 분은 중학교 첫 시작을 도와준 1학년 담임 선생님이시다"
+			],
+			[
+				1,
+				"전부",
+				"MAG",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				2,
+				"또한",
+				"MAG",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				3,
+				"아마",
+				"MAG",
+				"아마 이런건 계속 이어질 것 같다고 생각된다."
+			],
+			[
+				4,
+				"계속",
+				"MAG",
+				"아마 이런건 계속 이어질 것 같다고 생각된다."
+			]
+		],
+		"MA_Lst": [],
+		"MM_Lst": [],
+		"J_Lst": [
+			[
+				0,
+				"가",
+				"JKS",
+				"내가 가장 존경하는 분은 중학교 첫 시작을 도와준 1학년 담임 선생님이시다"
+			],
+			[
+				1,
+				"은",
+				"JX",
+				"내가 가장 존경하는 분은 중학교 첫 시작을 도와준 1학년 담임 선생님이시다"
+			],
+			[
+				2,
+				"을",
+				"JKO",
+				"내가 가장 존경하는 분은 중학교 첫 시작을 도와준 1학년 담임 선생님이시다"
+			],
+			[
+				3,
+				"은",
+				"JX",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				4,
+				"이",
+				"JKS",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				5,
+				"의",
+				"JKG",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				6,
+				"을",
+				"JKO",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				7,
+				"은",
+				"JX",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				8,
+				"에게",
+				"JKB",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				9,
+				"도",
+				"JX",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				10,
+				"에",
+				"JKB",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				11,
+				"이나",
+				"JC",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				12,
+				"의",
+				"JKG",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				13,
+				"에",
+				"JKB",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				14,
+				"에",
+				"JKB",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				15,
+				"ㄴ",
+				"JX",
+				"아마 이런건 계속 이어질 것 같다고 생각된다."
+			],
+			[
+				16,
+				"를",
+				"JKO",
+				"그럴수록 경의를 표현하는 것이 상관관계가 있을 것이다."
+			],
+			[
+				17,
+				"이",
+				"JKS",
+				"그럴수록 경의를 표현하는 것이 상관관계가 있을 것이다."
+			],
+			[
+				18,
+				"가",
+				"JKS",
+				"그럴수록 경의를 표현하는 것이 상관관계가 있을 것이다."
+			]
+		],
+		"E_Lst": [
+			[
+				0,
+				"는",
+				"ETM",
+				"내가 가장 존경하는 분은 중학교 첫 시작을 도와준 1학년 담임 선생님이시다"
+			],
+			[
+				1,
+				"ㄴ",
+				"ETM",
+				"내가 가장 존경하는 분은 중학교 첫 시작을 도와준 1학년 담임 선생님이시다"
+			],
+			[
+				2,
+				"시",
+				"EP",
+				"내가 가장 존경하는 분은 중학교 첫 시작을 도와준 1학년 담임 선생님이시다"
+			],
+			[
+				3,
+				"다",
+				"EF",
+				"내가 가장 존경하는 분은 중학교 첫 시작을 도와준 1학년 담임 선생님이시다"
+			],
+			[
+				4,
+				"는",
+				"ETM",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				5,
+				"어",
+				"EC",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				6,
+				"시",
+				"EP",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				7,
+				"었",
+				"EP",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				8,
+				"다",
+				"EF",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				9,
+				"란",
+				"ETM",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				10,
+				"ㄹ",
+				"ETM",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				11,
+				"고",
+				"EC",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				12,
+				"ㄴ",
+				"ETM",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				13,
+				"아서",
+				"EC",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				14,
+				"며",
+				"EC",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				15,
+				"ㄴ다",
+				"EF",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				16,
+				"ㄹ",
+				"ETM",
+				"아마 이런건 계속 이어질 것 같다고 생각된다."
+			],
+			[
+				17,
+				"다고",
+				"EC",
+				"아마 이런건 계속 이어질 것 같다고 생각된다."
+			],
+			[
+				18,
+				"ㄴ다",
+				"EF",
+				"아마 이런건 계속 이어질 것 같다고 생각된다."
+			],
+			[
+				19,
+				"ㄹ수록",
+				"EC",
+				"그럴수록 경의를 표현하는 것이 상관관계가 있을 것이다."
+			],
+			[
+				20,
+				"는",
+				"ETM",
+				"그럴수록 경의를 표현하는 것이 상관관계가 있을 것이다."
+			],
+			[
+				21,
+				"을",
+				"ETM",
+				"그럴수록 경의를 표현하는 것이 상관관계가 있을 것이다."
+			],
+			[
+				22,
+				"다",
+				"EF",
+				"그럴수록 경의를 표현하는 것이 상관관계가 있을 것이다."
+			]
+		],
+		"X_Lst": [
+			[
+				0,
+				"님",
+				"XSN",
+				"내가 가장 존경하는 분은 중학교 첫 시작을 도와준 1학년 담임 선생님이시다"
+			],
+			[
+				1,
+				"님",
+				"XSN",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				2,
+				"들",
+				"XSN",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				3,
+				"성",
+				"XSN",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			],
+			[
+				4,
+				"성",
+				"XSN",
+				"선생님은 30명이 넘는 학급 아이들의 생일을 전부 챙겨주셨다 존경이란 것은 개인에게도 느낄수 있고 또한 그에따른 정체성이나 여러 민족의 정체성 등 타자에 의해서 평소에 비교하며 평가한다"
+			]
+		],
+		"IC_Lst": []
+	},
+	"NDW": {
+		"morph_NDW": 80,
+		"NL_NDW": 29,
+		"NNG_NDW": 18,
+		"NNP_NDW": 1,
+		"NNB_NDW": 8,
+		"NP_NDW": 2,
+		"NR_NDW": 0,
+		"VL_NDW": 20,
+		"VV_NDW": 12,
+		"VA_NDW": 4,
+		"ML_NDW": 5,
+		"MM_NDW": 0,
+		"IC_NDW": 0,
+		"J_NDW": 19,
+		"E_NDW": 23,
+		"X_NDW": 5,
+		"CL_NDW": 54,
+		"FL_NDW": 47
+	}
+}

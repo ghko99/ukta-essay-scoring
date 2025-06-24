@@ -1,0 +1,5844 @@
+﻿{
+	"morpheme": {
+		"sentences": [
+			{
+				"text": {
+					"content": "2학년 1학기 수업내용중 the cactus 라는 책이 나와있었다.",
+					"length": 37,
+					"beginOffset": 0
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "2학년",
+							"length": 3,
+							"beginOffset": 0
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "2",
+									"length": 1,
+									"beginOffset": 0
+								},
+								"tag": "SN",
+								"probability": 0.99810714,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "학년",
+									"beginOffset": 1,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98363864,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "2",
+						"tagged": "2/SN+학년/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "1학기",
+							"beginOffset": 4,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "1",
+									"beginOffset": 4,
+									"length": 1
+								},
+								"tag": "SN",
+								"probability": 0.99776137,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "학기",
+									"beginOffset": 5,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98259985,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "1",
+						"tagged": "1/SN+학기/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "수업내용중",
+							"beginOffset": 8,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "수업",
+									"beginOffset": 8,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98292947,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "내용",
+									"beginOffset": 10,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9856077,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "중",
+									"beginOffset": 12,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9574808,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "수업",
+						"tagged": "수업/NNG+내용/NNG+중/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "the",
+							"beginOffset": 14,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "the",
+									"beginOffset": 14,
+									"length": 3
+								},
+								"tag": "SL",
+								"probability": 0.9721949,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "the",
+						"tagged": "the/SL",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "cactus",
+							"beginOffset": 18,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "cactus",
+									"beginOffset": 18,
+									"length": 6
+								},
+								"tag": "SL",
+								"probability": 0.9517077,
+								"outOfVocab": "OUT_OF_VOCAB"
+							}
+						],
+						"lemma": "cactus",
+						"tagged": "cactus/SL",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "라는",
+							"beginOffset": 25,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 25,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.9750554,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "라는",
+									"beginOffset": 25,
+									"length": 2
+								},
+								"tag": "ETM",
+								"probability": 0.9998698,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이",
+						"tagged": "이/VCP+라는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "책이",
+							"beginOffset": 28,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "책",
+									"beginOffset": 28,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.98067176,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 29,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.99209946,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "책",
+						"tagged": "책/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "나와",
+							"beginOffset": 31,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "나오",
+									"beginOffset": 31,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9870391,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 32,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.994242,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "나오",
+						"tagged": "나오/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있었다.",
+							"beginOffset": 33,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 33,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.9649237,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 34,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99972373,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 35,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.99139756,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 36,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99964595,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VX+었/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "2학년 1학기 수업내용중 the cactus 라는 책이 나와 있었다."
+			},
+			{
+				"text": {
+					"content": "이 책의 내용은 한남자가 자신의 실력에 대한 거짓으로 인해 자신이 사랑하는 여자를 잃게 되버린다.",
+					"beginOffset": 38,
+					"length": 54
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "이",
+							"beginOffset": 38,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 38,
+									"length": 1
+								},
+								"tag": "MMD",
+								"probability": 0.9994411,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이",
+						"tagged": "이/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "책의",
+							"beginOffset": 40,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "책",
+									"beginOffset": 40,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.98415834,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 41,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9996378,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "책",
+						"tagged": "책/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "내용은",
+							"beginOffset": 43,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "내용",
+									"beginOffset": 43,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9845734,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 45,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99882466,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "내용",
+						"tagged": "내용/NNG+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "한",
+							"beginOffset": 47,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "한",
+									"beginOffset": 47,
+									"length": 1
+								},
+								"tag": "MMN",
+								"probability": 0.99535215,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "한",
+						"tagged": "한/MMN",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "남자가",
+							"beginOffset": 48,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "남자",
+									"beginOffset": 48,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9833236,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 50,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.98573726,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "남자",
+						"tagged": "남자/NNG+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "자신의",
+							"beginOffset": 52,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "자신",
+									"beginOffset": 52,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9823221,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 54,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9999136,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "자신",
+						"tagged": "자신/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "실력에",
+							"beginOffset": 56,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "실력",
+									"beginOffset": 56,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9841911,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 58,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99491036,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "실력",
+						"tagged": "실력/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "대한",
+							"beginOffset": 60,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "대하",
+									"beginOffset": 60,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9904521,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 61,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999595,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "대하",
+						"tagged": "대하/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "거짓으로",
+							"beginOffset": 63,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "거짓",
+									"beginOffset": 63,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9823083,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으로",
+									"beginOffset": 65,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.99499387,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "거짓",
+						"tagged": "거짓/NNG+으로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "인해",
+							"beginOffset": 68,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "인하",
+									"beginOffset": 68,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.98980504,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 69,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9945439,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "인하",
+						"tagged": "인하/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "자신이",
+							"beginOffset": 71,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "자신",
+									"beginOffset": 71,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9801988,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 73,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9954667,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "자신",
+						"tagged": "자신/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사랑하는",
+							"beginOffset": 75,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사랑하",
+									"beginOffset": 75,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 78,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999152,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사랑하",
+						"tagged": "사랑하/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "여자를",
+							"beginOffset": 80,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "여자",
+									"beginOffset": 80,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9856907,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 82,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9997423,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "여자",
+						"tagged": "여자/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "잃게",
+							"beginOffset": 84,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "잃",
+									"beginOffset": 84,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9779755,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "게",
+									"beginOffset": 85,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9928661,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "잃",
+						"tagged": "잃/VV+게/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "되",
+							"beginOffset": 87,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "되",
+									"beginOffset": 87,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.96979827,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어",
+									"beginOffset": 87,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9938057,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "되",
+						"tagged": "되/VV+어/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "버린다.",
+							"beginOffset": 88,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "버리",
+									"beginOffset": 88,
+									"length": 2
+								},
+								"tag": "VX",
+								"probability": 0.96224797,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ다",
+									"beginOffset": 89,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.9889223,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 91,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.999865,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "버리",
+						"tagged": "버리/VX+ㄴ다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "이 책의 내용은 한 남자가 자신의 실력에 대한 거짓으로 인해 자신이 사랑하는 여자를 잃게 되 버린다."
+			},
+			{
+				"text": {
+					"content": "이 책에서 주인공은 선물받은 선인장에서, ventomarme 라고 적힌 쪽지를 받았지만 주인공은 스페인어를 잘 알지 못하기 때문에 그냥 무시하고 지나치게된다.",
+					"beginOffset": 93,
+					"length": 88
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "이",
+							"beginOffset": 93,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 93,
+									"length": 1
+								},
+								"tag": "MMD",
+								"probability": 0.99973375,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이",
+						"tagged": "이/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "책에서",
+							"beginOffset": 95,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "책",
+									"beginOffset": 95,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.98263204,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에서",
+									"beginOffset": 96,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.99597293,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "책",
+						"tagged": "책/NNG+에서/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "주인공은",
+							"beginOffset": 99,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "주인공",
+									"beginOffset": 99,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.98189574,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 102,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9988805,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "주인공",
+						"tagged": "주인공/NNG+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "선물받은",
+							"beginOffset": 104,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "선물",
+									"beginOffset": 104,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98379284,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "받",
+									"beginOffset": 106,
+									"length": 1
+								},
+								"tag": "XSV",
+								"probability": 0.9540226,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 107,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9998107,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "선물",
+						"tagged": "선물/NNG+받/XSV+은/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "선인장에서",
+							"beginOffset": 109,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "선인장",
+									"beginOffset": 109,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.979934,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에서",
+									"beginOffset": 112,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.99373347,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "선인장",
+						"tagged": "선인장/NNG+에서/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": ",",
+							"beginOffset": 114,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 114,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.9988207,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": ",",
+						"tagged": ",/SP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "ventomarme 라고",
+							"beginOffset": 116,
+							"length": 13
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "ventomarme",
+									"beginOffset": 116,
+									"length": 10
+								},
+								"tag": "NNP",
+								"probability": 0.42909253,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 126,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.99716717,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "라고",
+									"beginOffset": 126,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9917235,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "ventomarme",
+						"tagged": "ventomarme/NNP+이/VCP+라고/EC",
+						"modified": "ventomarme라고"
+					},
+					{
+						"text": {
+							"content": "적힌",
+							"beginOffset": 130,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "적히",
+									"beginOffset": 130,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.98768234,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 131,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99996424,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "적히",
+						"tagged": "적히/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "쪽지를",
+							"beginOffset": 133,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "쪽지",
+									"beginOffset": 133,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9778845,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 135,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99989355,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "쪽지",
+						"tagged": "쪽지/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "받았지만",
+							"beginOffset": 137,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "받",
+									"beginOffset": 137,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.986836,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 138,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9999394,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "지만",
+									"beginOffset": 139,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9914652,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "받",
+						"tagged": "받/VV+았/EP+지만/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "주인공은",
+							"beginOffset": 142,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "주인공",
+									"beginOffset": 142,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9849235,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 145,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9988418,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "주인공",
+						"tagged": "주인공/NNG+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "스페인어를",
+							"beginOffset": 147,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "스페인어",
+									"beginOffset": 147,
+									"length": 4
+								},
+								"tag": "NNP",
+								"probability": 0.9676748,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 151,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9997709,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "스페인어",
+						"tagged": "스페인어/NNP+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "잘",
+							"beginOffset": 153,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "잘",
+									"beginOffset": 153,
+									"length": 1
+								},
+								"tag": "MAG",
+								"probability": 0.9941593,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "잘",
+						"tagged": "잘/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "알지",
+							"beginOffset": 155,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "알",
+									"beginOffset": 155,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.98829603,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ지",
+									"beginOffset": 155,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.9716039,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "알",
+						"tagged": "알/VV+ㄹ지/EF",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "못하기",
+							"beginOffset": 158,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "못하",
+									"beginOffset": 158,
+									"length": 2
+								},
+								"tag": "VX",
+								"probability": 0.9673612,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "기",
+									"beginOffset": 160,
+									"length": 1
+								},
+								"tag": "ETN",
+								"probability": 0.99993384,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "못하",
+						"tagged": "못하/VX+기/ETN",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "때문에",
+							"beginOffset": 162,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "때문",
+									"beginOffset": 162,
+									"length": 2
+								},
+								"tag": "NNB",
+								"probability": 0.97313184,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 164,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9981111,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "때문",
+						"tagged": "때문/NNB+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "그냥",
+							"beginOffset": 166,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그냥",
+									"beginOffset": 166,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9926278,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그냥",
+						"tagged": "그냥/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "무시하고",
+							"beginOffset": 169,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "무시하",
+									"beginOffset": 169,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 172,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9935237,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "무시하",
+						"tagged": "무시하/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "지나치게",
+							"beginOffset": 174,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "지나치",
+									"beginOffset": 174,
+									"length": 3
+								},
+								"tag": "VA",
+								"probability": 0.8316261,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "게",
+									"beginOffset": 177,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9954799,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "지나치",
+						"tagged": "지나치/VA+게/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "된다.",
+							"beginOffset": 178,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "되",
+									"beginOffset": 178,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.97963214,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ다",
+									"beginOffset": 178,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.98633474,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 180,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9998509,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "되",
+						"tagged": "되/VV+ㄴ다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "이 책에서 주인공은 선물받은 선인장에서 , ventomarme라고 적힌 쪽지를 받았지만 주인공은 스페인어를 잘 알지 못하기 때문에 그냥 무시하고 지나치게 된다."
+			},
+			{
+				"text": {
+					"content": "하지만 이 단어의 뜻은 나를 데려가줘요 라는 뜻이고.",
+					"beginOffset": 182,
+					"length": 29
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "하지만",
+							"beginOffset": 182,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하지만",
+									"beginOffset": 182,
+									"length": 3
+								},
+								"tag": "MAJ",
+								"probability": 0.9970479,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하지만",
+						"tagged": "하지만/MAJ",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이",
+							"beginOffset": 186,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 186,
+									"length": 1
+								},
+								"tag": "MMD",
+								"probability": 0.99959624,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이",
+						"tagged": "이/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "단어의",
+							"beginOffset": 188,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "단어",
+									"beginOffset": 188,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98538405,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 190,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99924195,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "단어",
+						"tagged": "단어/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "뜻은",
+							"beginOffset": 192,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "뜻",
+									"beginOffset": 192,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9808527,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 193,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99901956,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "뜻",
+						"tagged": "뜻/NNG+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "나를",
+							"beginOffset": 195,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "나",
+									"beginOffset": 195,
+									"length": 1
+								},
+								"tag": "NP",
+								"probability": 0.93174493,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 196,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9997292,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "나",
+						"tagged": "나/NP+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "데려가",
+							"beginOffset": 198,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "데려가",
+									"beginOffset": 198,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.98980397,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 200,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99390495,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "데려가",
+						"tagged": "데려가/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "줘요",
+							"beginOffset": 201,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "주",
+									"beginOffset": 201,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.96610653,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어요",
+									"beginOffset": 201,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.9738653,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "주",
+						"tagged": "주/VX+어요/EF",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "라는",
+							"beginOffset": 204,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 204,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.99926555,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "라는",
+									"beginOffset": 204,
+									"length": 2
+								},
+								"tag": "ETM",
+								"probability": 0.9999948,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이",
+						"tagged": "이/VCP+라는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "뜻이고.",
+							"beginOffset": 207,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "뜻",
+									"beginOffset": 207,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9836781,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 208,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.99877954,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 209,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.48797563,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 210,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.999771,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "뜻",
+						"tagged": "뜻/NNG+이/VCP+고/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "하지만 이 단어의 뜻은 나를 데려가 줘요 라는 뜻이고."
+			},
+			{
+				"text": {
+					"content": "이 남자가 스페인어를 잘한다고 알고 있었지만 거짓말인걸 알게되자 그 남자와 여자는 이별하고만다.",
+					"beginOffset": 212,
+					"length": 53
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "이",
+							"beginOffset": 212,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 212,
+									"length": 1
+								},
+								"tag": "MMD",
+								"probability": 0.99968797,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이",
+						"tagged": "이/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "남자가",
+							"beginOffset": 214,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "남자",
+									"beginOffset": 214,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9833817,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 216,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9876458,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "남자",
+						"tagged": "남자/NNG+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "스페인어를",
+							"beginOffset": 218,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "스페인어",
+									"beginOffset": 218,
+									"length": 4
+								},
+								"tag": "NNP",
+								"probability": 0.9633295,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 222,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.999843,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "스페인어",
+						"tagged": "스페인어/NNP+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "잘한다고",
+							"beginOffset": 224,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "잘하",
+									"beginOffset": 224,
+									"length": 2
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ다고",
+									"beginOffset": 225,
+									"length": 3
+								},
+								"tag": "EC",
+								"probability": 0.99173164,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "잘하",
+						"tagged": "잘하/VV+ㄴ다고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "알고",
+							"beginOffset": 229,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "알",
+									"beginOffset": 229,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.98737943,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 230,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9928701,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "알",
+						"tagged": "알/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있었지만",
+							"beginOffset": 232,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 232,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.9431518,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 233,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9999674,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "지만",
+									"beginOffset": 234,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99540794,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VX+었/EP+지만/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "거짓말인",
+							"beginOffset": 237,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "거짓말",
+									"beginOffset": 237,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9815781,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 240,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.9998115,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 240,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999667,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "거짓말",
+						"tagged": "거짓말/NNG+이/VCP+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "걸",
+							"beginOffset": 241,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "거",
+									"beginOffset": 241,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9790122,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ",
+									"beginOffset": 241,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9991476,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "거",
+						"tagged": "거/NNB+ㄹ/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "알게",
+							"beginOffset": 243,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "알",
+									"beginOffset": 243,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9875956,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "게",
+									"beginOffset": 244,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9924304,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "알",
+						"tagged": "알/VV+게/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "되자",
+							"beginOffset": 245,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "되",
+									"beginOffset": 245,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.96240777,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "자",
+									"beginOffset": 246,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9799301,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "되",
+						"tagged": "되/VV+자/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "그",
+							"beginOffset": 248,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그",
+									"beginOffset": 248,
+									"length": 1
+								},
+								"tag": "MMD",
+								"probability": 0.9997789,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그",
+						"tagged": "그/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "남자와",
+							"beginOffset": 250,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "남자",
+									"beginOffset": 250,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9851025,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "와",
+									"beginOffset": 252,
+									"length": 1
+								},
+								"tag": "JC",
+								"probability": 0.73303354,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "남자",
+						"tagged": "남자/NNG+와/JC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "여자는",
+							"beginOffset": 254,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "여자",
+									"beginOffset": 254,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98628235,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 256,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.999212,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "여자",
+						"tagged": "여자/NNG+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이별하고",
+							"beginOffset": 258,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이별하",
+									"beginOffset": 258,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 261,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99616385,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이별하",
+						"tagged": "이별하/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "만다.",
+							"beginOffset": 262,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "말",
+									"beginOffset": 262,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.86219794,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ다",
+									"beginOffset": 262,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.99178237,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 264,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99937826,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "말",
+						"tagged": "말/VX+ㄴ다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "이 남자가 스페인어를 잘한다고 알고 있었지만 거짓말인 걸 알게 되자 그 남자와 여자는 이별하고 만다."
+			},
+			{
+				"text": {
+					"content": "그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다.",
+					"beginOffset": 266,
+					"length": 97
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "그",
+							"beginOffset": 266,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그",
+									"beginOffset": 266,
+									"length": 1
+								},
+								"tag": "MMD",
+								"probability": 0.99939406,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그",
+						"tagged": "그/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "남자는",
+							"beginOffset": 268,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "남자",
+									"beginOffset": 268,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9852428,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 270,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99937665,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "남자",
+						"tagged": "남자/NNG+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "거짓말",
+							"beginOffset": 272,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "거짓말",
+									"beginOffset": 272,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.98229295,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "거짓말",
+						"tagged": "거짓말/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "한",
+							"beginOffset": 276,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "한",
+									"beginOffset": 276,
+									"length": 1
+								},
+								"tag": "MMN",
+								"probability": 0.9970261,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "한",
+						"tagged": "한/MMN",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "번으로",
+							"beginOffset": 278,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "번",
+									"beginOffset": 278,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.97326833,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으로",
+									"beginOffset": 279,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9969968,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "번",
+						"tagged": "번/NNB+으로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "인해",
+							"beginOffset": 282,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "인하",
+									"beginOffset": 282,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9904598,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 283,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99314743,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "인하",
+						"tagged": "인하/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사랑하는",
+							"beginOffset": 285,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사랑하",
+									"beginOffset": 285,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 288,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99995637,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사랑하",
+						"tagged": "사랑하/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "여자를",
+							"beginOffset": 290,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "여자",
+									"beginOffset": 290,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9861268,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 292,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999595,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "여자",
+						"tagged": "여자/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "잃게",
+							"beginOffset": 294,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "잃",
+									"beginOffset": 294,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9702137,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "게",
+									"beginOffset": 295,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9903529,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "잃",
+						"tagged": "잃/VV+게/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "되고",
+							"beginOffset": 296,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "되",
+									"beginOffset": 296,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9486067,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 297,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9866167,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "되",
+						"tagged": "되/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이",
+							"beginOffset": 299,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 299,
+									"length": 1
+								},
+								"tag": "MMD",
+								"probability": 0.99928725,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이",
+						"tagged": "이/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "책을",
+							"beginOffset": 301,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "책",
+									"beginOffset": 301,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9844718,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 302,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999372,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "책",
+						"tagged": "책/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "읽으면서",
+							"beginOffset": 304,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "읽",
+									"beginOffset": 304,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9905216,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으면서",
+									"beginOffset": 305,
+									"length": 3
+								},
+								"tag": "EC",
+								"probability": 0.9944741,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "읽",
+						"tagged": "읽/VV+으면서/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "나는",
+							"beginOffset": 309,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "나",
+									"beginOffset": 309,
+									"length": 1
+								},
+								"tag": "NP",
+								"probability": 0.9851747,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 310,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99923617,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "나",
+						"tagged": "나/NP+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "내가",
+							"beginOffset": 312,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "내",
+									"beginOffset": 312,
+									"length": 1
+								},
+								"tag": "NP",
+								"probability": 0.98774105,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 313,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9936451,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "내",
+						"tagged": "내/NP+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "정말로",
+							"beginOffset": 315,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "정말로",
+									"beginOffset": 315,
+									"length": 3
+								},
+								"tag": "MAG",
+								"probability": 0.98190886,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "정말로",
+						"tagged": "정말로/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "좋아하는",
+							"beginOffset": 319,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "좋아하",
+									"beginOffset": 319,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.98709285,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 322,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99999166,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "좋아하",
+						"tagged": "좋아하/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사람이",
+							"beginOffset": 324,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사람",
+									"beginOffset": 324,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.983508,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 326,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9775176,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사람",
+						"tagged": "사람/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "생긴다면",
+							"beginOffset": 328,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "생기",
+									"beginOffset": 328,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.989805,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ다면",
+									"beginOffset": 329,
+									"length": 3
+								},
+								"tag": "EC",
+								"probability": 0.9966874,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "생기",
+						"tagged": "생기/VV+ㄴ다면/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "나에",
+							"beginOffset": 333,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "나",
+									"beginOffset": 333,
+									"length": 1
+								},
+								"tag": "NP",
+								"probability": 0.97758186,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 334,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9968651,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "나",
+						"tagged": "나/NP+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "대해서",
+							"beginOffset": 336,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "대하",
+									"beginOffset": 336,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.98744684,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아서",
+									"beginOffset": 337,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9953709,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "대하",
+						"tagged": "대하/VV+아서/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "거짓",
+							"beginOffset": 340,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "거짓",
+									"beginOffset": 340,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98320454,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "거짓",
+						"tagged": "거짓/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "하나",
+							"beginOffset": 343,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하나",
+									"beginOffset": 343,
+									"length": 2
+								},
+								"tag": "NR",
+								"probability": 0.9955574,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하나",
+						"tagged": "하나/NR",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "없이",
+							"beginOffset": 346,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "없이",
+									"beginOffset": 346,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9878597,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "없이",
+						"tagged": "없이/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "말하겠다고",
+							"beginOffset": 349,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "말하",
+									"beginOffset": 349,
+									"length": 2
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "겠",
+									"beginOffset": 351,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99986315,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다고",
+									"beginOffset": 352,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99267185,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "말하",
+						"tagged": "말하/VV+겠/EP+다고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "생각을",
+							"beginOffset": 355,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "생각",
+									"beginOffset": 355,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9783295,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 357,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999084,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "생각",
+						"tagged": "생각/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "하였다.",
+							"beginOffset": 359,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 359,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.95427024,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 360,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.999963,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 361,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9921507,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 362,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9991671,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VV+았/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게 되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다."
+			},
+			{
+				"text": {
+					"content": "그래야 서로간에 믿음이 생기고 둘 사이의 마음이 더욱 돈둑해질것이다.",
+					"beginOffset": 364,
+					"length": 38
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "그래야",
+							"beginOffset": 364,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그렇",
+									"beginOffset": 364,
+									"length": 2
+								},
+								"tag": "VA",
+								"probability": 0.988381,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어야",
+									"beginOffset": 365,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99265224,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그렇",
+						"tagged": "그렇/VA+어야/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "서로간에",
+							"beginOffset": 368,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "서로",
+									"beginOffset": 368,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9815896,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "간",
+									"beginOffset": 370,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.957856,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 371,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9956241,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "서로",
+						"tagged": "서로/NNG+간/NNB+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "믿음이",
+							"beginOffset": 373,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "믿음",
+									"beginOffset": 373,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98114264,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 375,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9922335,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "믿음",
+						"tagged": "믿음/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "생기고",
+							"beginOffset": 377,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "생기",
+									"beginOffset": 377,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.99012035,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 379,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99519217,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "생기",
+						"tagged": "생기/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "둘",
+							"beginOffset": 381,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "둘",
+									"beginOffset": 381,
+									"length": 1
+								},
+								"tag": "NR",
+								"probability": 0.9909601,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "둘",
+						"tagged": "둘/NR",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사이의",
+							"beginOffset": 383,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사이",
+									"beginOffset": 383,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9805184,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 385,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9997223,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사이",
+						"tagged": "사이/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "마음이",
+							"beginOffset": 387,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "마음",
+									"beginOffset": 387,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9792438,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 389,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.99141914,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "마음",
+						"tagged": "마음/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "더욱",
+							"beginOffset": 391,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "더욱",
+									"beginOffset": 391,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9850269,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "더욱",
+						"tagged": "더욱/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "돈둑해",
+							"beginOffset": 394,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "돈둑",
+									"beginOffset": 394,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.3829339,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 396,
+									"length": 1
+								},
+								"tag": "XSA",
+								"probability": 0.6165018,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 396,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9962699,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "돈둑",
+						"tagged": "돈둑/MAG+하/XSA+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "질",
+							"beginOffset": 397,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "지",
+									"beginOffset": 397,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.9798503,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ",
+									"beginOffset": 397,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99996614,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "지",
+						"tagged": "지/VX+ㄹ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "것이다.",
+							"beginOffset": 398,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "것",
+									"beginOffset": 398,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.98137844,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 399,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.99982953,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 400,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9926706,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 401,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9995738,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "것",
+						"tagged": "것/NNB+이/VCP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "그래야 서로간에 믿음이 생기고 둘 사이의 마음이 더욱 돈둑해 질 것이다."
+			}
+		],
+		"language": "ko_KR"
+	},
+	"ttr": {
+		"lemma_Cnt": 200,
+		"lemma_TTR": 0.5235849056603774,
+		"CL_TTR": 0.6764705882352942,
+		"NL_TTR": 0.6730769230769231,
+		"NN_TTR": 0.6739130434782609,
+		"NNG_TTR": 0.6216216216216216,
+		"NNP_TTR": 0.6666666666666666,
+		"NNB_TTR": 1.0,
+		"NP_TTR": 0.5,
+		"NR_TTR": 1.0,
+		"VL_TTR": 0.627906976744186,
+		"VV_TTR": 0.6428571428571429,
+		"VA_TTR": 1.0,
+		"ML_TTR": 1.0,
+		"MM_TTR": 0,
+		"MA_TTR": 1.0,
+		"MAJ_TTR": 1.0,
+		"IC_TTR": 0,
+		"FL_TTR": 0.4157303370786517,
+		"J_TTR": 0.32432432432432434,
+		"E_TTR": 0.52,
+		"X_TTR": 1.0,
+		"lemma_RTTR": 7.623511299152241,
+		"CL_RTTR": 6.832018046539053,
+		"NL_RTTR": 4.853626716970755,
+		"NN_RTTR": 4.570700640801811,
+		"NNG_RTTR": 3.7811767080232177,
+		"NNP_RTTR": 1.1547005383792517,
+		"NNB_RTTR": 2.4494897427831783,
+		"NP_RTTR": 1.0,
+		"NR_RTTR": 1.414213562373095,
+		"VL_RTTR": 4.117461398980327,
+		"VV_RTTR": 3.401680257083045,
+		"VA_RTTR": 1.414213562373095,
+		"ML_RTTR": 2.6457513110645903,
+		"MM_RTTR": 0,
+		"MA_RTTR": 2.6457513110645903,
+		"MAJ_RTTR": 1.0,
+		"IC_RTTR": 0,
+		"FL_RTTR": 3.9219921560235322,
+		"J_RTTR": 1.9727878476642875,
+		"E_RTTR": 3.676955262170047,
+		"X_RTTR": 1.414213562373095,
+		"lemma_CTTR": 5.390636536082816,
+		"CL_CTTR": 4.830966289896634,
+		"NL_CTTR": 3.432032364918221,
+		"NN_CTTR": 3.2319734178846593,
+		"NNG_CTTR": 2.6736956911078433,
+		"NNP_CTTR": 0.8164965809277261,
+		"NNB_CTTR": 1.7320508075688774,
+		"NP_CTTR": 0.7071067811865475,
+		"NR_CTTR": 1.0,
+		"VL_CTTR": 2.911484876492837,
+		"VV_CTTR": 2.4053511772118195,
+		"VA_CTTR": 1.0,
+		"ML_CTTR": 1.8708286933869707,
+		"MM_CTTR": 0,
+		"MA_CTTR": 1.8708286933869707,
+		"MAJ_CTTR": 0.7071067811865475,
+		"IC_CTTR": 0,
+		"FL_CTTR": 2.7732672492846873,
+		"J_CTTR": 1.3949716649258315,
+		"E_CTTR": 2.6,
+		"X_CTTR": 1.0,
+		"lemma_MSTTR": 0.8,
+		"CL_MSTTR": 0.82,
+		"NL_MSTTR": 0.66,
+		"NN_MSTTR": 0.6739130434782609,
+		"NNG_MSTTR": 0.6216216216216216,
+		"NNP_MSTTR": 0.6666666666666666,
+		"NNB_MSTTR": 1.0,
+		"NP_MSTTR": 0.5,
+		"NR_MSTTR": 1.0,
+		"VL_MSTTR": 0.627906976744186,
+		"VV_MSTTR": 0.6428571428571429,
+		"VA_MSTTR": 1.0,
+		"ML_MSTTR": 1.0,
+		"MM_MSTTR": 0,
+		"MA_MSTTR": 1.0,
+		"MAJ_MSTTR": 1.0,
+		"IC_MSTTR": 0,
+		"FL_MSTTR": 0.52,
+		"J_MSTTR": 0.32432432432432434,
+		"E_MSTTR": 0.52,
+		"X_MSTTR": 1.0,
+		"lemma_MATTR": 0.7840490797546007,
+		"CL_MATTR": 0.7607547169811318,
+		"NL_MATTR": 0.66,
+		"NN_MATTR": 0.6739130434782609,
+		"NNG_MATTR": 0.6216216216216216,
+		"NNP_MATTR": 0.6666666666666666,
+		"NNB_MATTR": 1.0,
+		"NP_MATTR": 0.5,
+		"NR_MATTR": 1.0,
+		"VL_MATTR": 0.627906976744186,
+		"VV_MATTR": 0.6428571428571429,
+		"VA_MATTR": 1.0,
+		"ML_MATTR": 1.0,
+		"MM_MATTR": 0,
+		"MA_MATTR": 1.0,
+		"MAJ_MATTR": 1.0,
+		"IC_MATTR": 0,
+		"FL_MATTR": 0.5775000000000003,
+		"J_MATTR": 0.32432432432432434,
+		"E_MATTR": 0.52,
+		"X_MATTR": 1.0,
+		"lemma_MTLD": 77.19534289426309,
+		"CL_MTLD": 74.77373920945026,
+		"NL_MTLD": 32.15789473684211,
+		"NN_MTLD": 25.44488188976378,
+		"NNG_MTLD": 18.5,
+		"NNP_MTLD": 2.52,
+		"NNB_MTLD": 0.0,
+		"NP_MTLD": 2.24,
+		"NR_MTLD": 0.0,
+		"VL_MTLD": 36.63905325443787,
+		"VV_MTLD": 24.022727272727273,
+		"VA_MTLD": 0.0,
+		"ML_MTLD": 0.0,
+		"MM_MTLD": 0.0,
+		"MA_MTLD": 0.0,
+		"MAJ_MTLD": 0.0,
+		"IC_MTLD": 0.0,
+		"FL_MTLD": 29.666666666666668,
+		"J_MTLD": 9.685121564482028,
+		"E_MTLD": 25.245098039215684,
+		"X_MTLD": 0.0,
+		"lemma_VOCDD": 76.52817914084284,
+		"CL_VOCDD": 82.48362941198492,
+		"NL_VOCDD": 38.308520880802696,
+		"NN_VOCDD": 0,
+		"NNG_VOCDD": 0,
+		"NNP_VOCDD": 0,
+		"NNB_VOCDD": 0,
+		"NP_VOCDD": 0,
+		"NR_VOCDD": 0,
+		"VL_VOCDD": 0,
+		"VV_VOCDD": 0,
+		"VA_VOCDD": 0,
+		"ML_VOCDD": 0,
+		"MM_VOCDD": 0,
+		"MA_VOCDD": 0,
+		"MAJ_VOCDD": 0,
+		"IC_VOCDD": 0,
+		"FL_VOCDD": 19.299163205666563,
+		"J_VOCDD": 0,
+		"E_VOCDD": 0,
+		"X_VOCDD": 0,
+		"lemma_HDD": 0.8163493725746839,
+		"CL_HDD": 0.8269058748302521,
+		"NL_HDD": 0.7174916120294275,
+		"NN_HDD": 0.6936442279212752,
+		"NNG_HDD": 0.0,
+		"NNP_HDD": 0.0,
+		"NNB_HDD": 0.0,
+		"NP_HDD": 0.0,
+		"NR_HDD": 0.0,
+		"VL_HDD": 0.632890365448505,
+		"VV_HDD": 0.0,
+		"VA_HDD": 0.0,
+		"ML_HDD": 0.0,
+		"MM_HDD": 0.0,
+		"MA_HDD": 0.0,
+		"MAJ_HDD": 0.0,
+		"IC_HDD": 0.0,
+		"FL_HDD": 0.604419021659858,
+		"J_HDD": 0.0,
+		"E_HDD": 0.559447874123439,
+		"X_HDD": 0.0
+	},
+	"similarity": {
+		"avgSentSimilarity": 0.01033120509237051,
+		"topicConsistency": 0.5767
+	},
+	"adjacency": {
+		"adjacent_sentence_overlap_all_lemmas": 152,
+		"adjacent_sentence_overlap_all_lemmas_normed": 6,
+		"binary_adjacent_sentence_overlap_all_lemmas": 6,
+		"adjacent_two_sentence_overlap_all_lemmas": 110,
+		"adjacent_two_sentence_overlap_all_lemmas_normed": 5,
+		"binary_adjacent_two_sentence_overlap_all_lemmas": 5,
+		"adjacent_sentence_overlap_content_lemmas": 72,
+		"adjacent_sentence_overlap_content_lemmas_normed": 6,
+		"binary_adjacent_sentence_overlap_content_lemmas": 6,
+		"adjacent_two_sentence_overlap_content_lemmas": 53,
+		"adjacent_two_sentence_overlap_content_lemmas_normed": 5,
+		"binary_adjacent_two_sentence_overlap_content_lemmas": 4,
+		"adjacent_sentence_overlap_function_lemmas": 67,
+		"adjacent_sentence_overlap_function_lemmas_normed": 6,
+		"binary_adjacent_sentence_overlap_function_lemmas": 6,
+		"adjacent_two_sentence_overlap_function_lemmas": 47,
+		"adjacent_two_sentence_overlap_function_lemmas_normed": 5,
+		"binary_adjacent_two_sentence_overlap_function_lemmas": 5,
+		"adjacent_sentence_overlap_noun_lemmas": 36,
+		"adjacent_sentence_overlap_noun_lemmas_normed": 6,
+		"binary_adjacent_sentence_overlap_noun_lemmas": 3,
+		"adjacent_two_sentence_overlap_noun_lemmas": 26,
+		"adjacent_two_sentence_overlap_noun_lemmas_normed": 5,
+		"binary_adjacent_two_sentence_overlap_noun_lemmas": 1,
+		"adjacent_sentence_overlap_verb_lemmas": 35,
+		"adjacent_sentence_overlap_verb_lemmas_normed": 6,
+		"binary_adjacent_sentence_overlap_verb_lemmas": 6,
+		"adjacent_two_sentence_overlap_verb_lemmas": 27,
+		"adjacent_two_sentence_overlap_verb_lemmas_normed": 5,
+		"binary_adjacent_two_sentence_overlap_verb_lemmas": 4,
+		"adjacent_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_sentence_overlap_adjective_lemmas_normed": 0,
+		"binary_adjacent_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_sentence_overlap_adverb_lemmas": 2,
+		"adjacent_sentence_overlap_adverb_lemmas_normed": 1,
+		"binary_adjacent_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adverb_lemmas": 0
+	},
+	"basic_count": {
+		"para_Cnt": 1,
+		"sentence_Cnt": 7,
+		"word_Cnt": 96,
+		"morph_Cnt": 212,
+		"char_Cnt": 306,
+		"CL_Cnt": 102,
+		"NL_Cnt": 52,
+		"NN_Cnt": 46,
+		"NNG_Cnt": 37,
+		"NNP_Cnt": 3,
+		"NNB_Cnt": 6,
+		"NP_Cnt": 4,
+		"NP_People_Cnt": 3,
+		"NP_Things_Cnt": 0,
+		"NR_Cnt": 2,
+		"VL_Cnt": 43,
+		"VV_Cnt": 28,
+		"VA_Cnt": 2,
+		"VX_Cnt": 7,
+		"VCP_Cnt": 6,
+		"VCN_Cnt": 0,
+		"ML_Cnt": 7,
+		"MA_Cnt": 0,
+		"MM_Cnt": 0,
+		"FL_Cnt": 89,
+		"J_Cnt": 37,
+		"E_Cnt": 50,
+		"X_Cnt": 2,
+		"IC_Cnt": 0
+	},
+	"basic_density": {
+		"CL_Den": 0.4811320754716981,
+		"FL_Den": 0.419811320754717,
+		"NL_Den": 0.2169811320754717,
+		"NNGL_Den": 0.17452830188679244,
+		"NNPL_Den": 0.014150943396226415,
+		"NNBL_Den": 0.02830188679245283,
+		"NPL_Den": 0.018867924528301886,
+		"NML_Den": 0.009433962264150943,
+		"VL_Den": 0.2028301886792453,
+		"VVL_Den": 0.1320754716981132,
+		"VAL_Den": 0.009433962264150943,
+		"ML_Den": 0.0330188679245283,
+		"MML_Den": 0.0,
+		"MAL_Den": 0.0,
+		"JL_Den": 0.17452830188679244,
+		"EL_Den": 0.2358490566037736,
+		"XL_Den": 0.009433962264150943,
+		"ITL_Den": 0.0,
+		"NCL_Den": 0.45098039215686275,
+		"NNCL_Den": 0.3627450980392157,
+		"NNGCL_Den": 0.029411764705882353,
+		"NNBCL_Den": 0.058823529411764705,
+		"NPCL_Den": 0.0392156862745098,
+		"NMCL_Den": 0.0196078431372549,
+		"VCL_Den": 0.4215686274509804,
+		"VVCL_Den": 0.27450980392156865,
+		"VACL_Den": 0.0196078431372549,
+		"MCL_Den": 0.06862745098039216,
+		"MMCL_Den": 0.0,
+		"MACL_Den": 0.0,
+		"INCL_Den": 0.0,
+		"JFL_Den": 0.4157303370786517,
+		"EFL_Den": 0.5617977528089888,
+		"XFL_Den": 0.02247191011235955
+	},
+	"basic_level": {
+		"morph_LenAvg": 1.5566037735849056,
+		"morph_LenStd": 0.9524564931305349,
+		"word_LenAvg": 3.1145833333333335,
+		"word_LenStd": 1.4568072372104997
+	},
+	"basic_list": {
+		"NL_Lst": [
+			[
+				0,
+				"학년",
+				"NNG",
+				"2학년 1학기 수업내용중 the cactus 라는 책이 나와있었다."
+			],
+			[
+				1,
+				"학기",
+				"NNG",
+				"2학년 1학기 수업내용중 the cactus 라는 책이 나와있었다."
+			],
+			[
+				2,
+				"수업",
+				"NNG",
+				"2학년 1학기 수업내용중 the cactus 라는 책이 나와있었다."
+			],
+			[
+				3,
+				"내용",
+				"NNG",
+				"2학년 1학기 수업내용중 the cactus 라는 책이 나와있었다."
+			],
+			[
+				4,
+				"중",
+				"NNB",
+				"2학년 1학기 수업내용중 the cactus 라는 책이 나와있었다."
+			],
+			[
+				5,
+				"책",
+				"NNG",
+				"2학년 1학기 수업내용중 the cactus 라는 책이 나와있었다."
+			],
+			[
+				6,
+				"책",
+				"NNG",
+				"이 책의 내용은 한남자가 자신의 실력에 대한 거짓으로 인해 자신이 사랑하는 여자를 잃게 되버린다."
+			],
+			[
+				7,
+				"내용",
+				"NNG",
+				"이 책의 내용은 한남자가 자신의 실력에 대한 거짓으로 인해 자신이 사랑하는 여자를 잃게 되버린다."
+			],
+			[
+				8,
+				"남자",
+				"NNG",
+				"이 책의 내용은 한남자가 자신의 실력에 대한 거짓으로 인해 자신이 사랑하는 여자를 잃게 되버린다."
+			],
+			[
+				9,
+				"자신",
+				"NNG",
+				"이 책의 내용은 한남자가 자신의 실력에 대한 거짓으로 인해 자신이 사랑하는 여자를 잃게 되버린다."
+			],
+			[
+				10,
+				"실력",
+				"NNG",
+				"이 책의 내용은 한남자가 자신의 실력에 대한 거짓으로 인해 자신이 사랑하는 여자를 잃게 되버린다."
+			],
+			[
+				11,
+				"거짓",
+				"NNG",
+				"이 책의 내용은 한남자가 자신의 실력에 대한 거짓으로 인해 자신이 사랑하는 여자를 잃게 되버린다."
+			],
+			[
+				12,
+				"자신",
+				"NNG",
+				"이 책의 내용은 한남자가 자신의 실력에 대한 거짓으로 인해 자신이 사랑하는 여자를 잃게 되버린다."
+			],
+			[
+				13,
+				"여자",
+				"NNG",
+				"이 책의 내용은 한남자가 자신의 실력에 대한 거짓으로 인해 자신이 사랑하는 여자를 잃게 되버린다."
+			],
+			[
+				14,
+				"책",
+				"NNG",
+				"이 책에서 주인공은 선물받은 선인장에서, ventomarme 라고 적힌 쪽지를 받았지만 주인공은 스페인어를 잘 알지 못하기 때문에 그냥 무시하고 지나치게된다."
+			],
+			[
+				15,
+				"주인공",
+				"NNG",
+				"이 책에서 주인공은 선물받은 선인장에서, ventomarme 라고 적힌 쪽지를 받았지만 주인공은 스페인어를 잘 알지 못하기 때문에 그냥 무시하고 지나치게된다."
+			],
+			[
+				16,
+				"선물",
+				"NNG",
+				"이 책에서 주인공은 선물받은 선인장에서, ventomarme 라고 적힌 쪽지를 받았지만 주인공은 스페인어를 잘 알지 못하기 때문에 그냥 무시하고 지나치게된다."
+			],
+			[
+				17,
+				"선인장",
+				"NNG",
+				"이 책에서 주인공은 선물받은 선인장에서, ventomarme 라고 적힌 쪽지를 받았지만 주인공은 스페인어를 잘 알지 못하기 때문에 그냥 무시하고 지나치게된다."
+			],
+			[
+				18,
+				"ventomarme",
+				"NNP",
+				"이 책에서 주인공은 선물받은 선인장에서, ventomarme 라고 적힌 쪽지를 받았지만 주인공은 스페인어를 잘 알지 못하기 때문에 그냥 무시하고 지나치게된다."
+			],
+			[
+				19,
+				"쪽지",
+				"NNG",
+				"이 책에서 주인공은 선물받은 선인장에서, ventomarme 라고 적힌 쪽지를 받았지만 주인공은 스페인어를 잘 알지 못하기 때문에 그냥 무시하고 지나치게된다."
+			],
+			[
+				20,
+				"주인공",
+				"NNG",
+				"이 책에서 주인공은 선물받은 선인장에서, ventomarme 라고 적힌 쪽지를 받았지만 주인공은 스페인어를 잘 알지 못하기 때문에 그냥 무시하고 지나치게된다."
+			],
+			[
+				21,
+				"스페인어",
+				"NNP",
+				"이 책에서 주인공은 선물받은 선인장에서, ventomarme 라고 적힌 쪽지를 받았지만 주인공은 스페인어를 잘 알지 못하기 때문에 그냥 무시하고 지나치게된다."
+			],
+			[
+				22,
+				"때문",
+				"NNB",
+				"이 책에서 주인공은 선물받은 선인장에서, ventomarme 라고 적힌 쪽지를 받았지만 주인공은 스페인어를 잘 알지 못하기 때문에 그냥 무시하고 지나치게된다."
+			],
+			[
+				23,
+				"단어",
+				"NNG",
+				"하지만 이 단어의 뜻은 나를 데려가줘요 라는 뜻이고."
+			],
+			[
+				24,
+				"뜻",
+				"NNG",
+				"하지만 이 단어의 뜻은 나를 데려가줘요 라는 뜻이고."
+			],
+			[
+				25,
+				"나",
+				"NP",
+				"하지만 이 단어의 뜻은 나를 데려가줘요 라는 뜻이고."
+			],
+			[
+				26,
+				"뜻",
+				"NNG",
+				"하지만 이 단어의 뜻은 나를 데려가줘요 라는 뜻이고."
+			],
+			[
+				27,
+				"남자",
+				"NNG",
+				"이 남자가 스페인어를 잘한다고 알고 있었지만 거짓말인걸 알게되자 그 남자와 여자는 이별하고만다."
+			],
+			[
+				28,
+				"스페인어",
+				"NNP",
+				"이 남자가 스페인어를 잘한다고 알고 있었지만 거짓말인걸 알게되자 그 남자와 여자는 이별하고만다."
+			],
+			[
+				29,
+				"거짓말",
+				"NNG",
+				"이 남자가 스페인어를 잘한다고 알고 있었지만 거짓말인걸 알게되자 그 남자와 여자는 이별하고만다."
+			],
+			[
+				30,
+				"거",
+				"NNB",
+				"이 남자가 스페인어를 잘한다고 알고 있었지만 거짓말인걸 알게되자 그 남자와 여자는 이별하고만다."
+			],
+			[
+				31,
+				"남자",
+				"NNG",
+				"이 남자가 스페인어를 잘한다고 알고 있었지만 거짓말인걸 알게되자 그 남자와 여자는 이별하고만다."
+			],
+			[
+				32,
+				"여자",
+				"NNG",
+				"이 남자가 스페인어를 잘한다고 알고 있었지만 거짓말인걸 알게되자 그 남자와 여자는 이별하고만다."
+			],
+			[
+				33,
+				"남자",
+				"NNG",
+				"그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다."
+			],
+			[
+				34,
+				"거짓말",
+				"NNG",
+				"그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다."
+			],
+			[
+				35,
+				"번",
+				"NNB",
+				"그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다."
+			],
+			[
+				36,
+				"여자",
+				"NNG",
+				"그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다."
+			],
+			[
+				37,
+				"책",
+				"NNG",
+				"그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다."
+			],
+			[
+				38,
+				"나",
+				"NP",
+				"그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다."
+			],
+			[
+				39,
+				"내",
+				"NP",
+				"그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다."
+			],
+			[
+				40,
+				"사람",
+				"NNG",
+				"그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다."
+			],
+			[
+				41,
+				"나",
+				"NP",
+				"그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다."
+			],
+			[
+				42,
+				"거짓",
+				"NNG",
+				"그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다."
+			],
+			[
+				43,
+				"하나",
+				"NR",
+				"그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다."
+			],
+			[
+				44,
+				"생각",
+				"NNG",
+				"그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다."
+			],
+			[
+				45,
+				"서로",
+				"NNG",
+				"그래야 서로간에 믿음이 생기고 둘 사이의 마음이 더욱 돈둑해질것이다."
+			],
+			[
+				46,
+				"간",
+				"NNB",
+				"그래야 서로간에 믿음이 생기고 둘 사이의 마음이 더욱 돈둑해질것이다."
+			],
+			[
+				47,
+				"믿음",
+				"NNG",
+				"그래야 서로간에 믿음이 생기고 둘 사이의 마음이 더욱 돈둑해질것이다."
+			],
+			[
+				48,
+				"둘",
+				"NR",
+				"그래야 서로간에 믿음이 생기고 둘 사이의 마음이 더욱 돈둑해질것이다."
+			],
+			[
+				49,
+				"사이",
+				"NNG",
+				"그래야 서로간에 믿음이 생기고 둘 사이의 마음이 더욱 돈둑해질것이다."
+			],
+			[
+				50,
+				"마음",
+				"NNG",
+				"그래야 서로간에 믿음이 생기고 둘 사이의 마음이 더욱 돈둑해질것이다."
+			],
+			[
+				51,
+				"것",
+				"NNB",
+				"그래야 서로간에 믿음이 생기고 둘 사이의 마음이 더욱 돈둑해질것이다."
+			]
+		],
+		"NN_Lst": [
+			[
+				0,
+				"학년",
+				"NNG",
+				"2학년 1학기 수업내용중 the cactus 라는 책이 나와있었다."
+			],
+			[
+				1,
+				"학기",
+				"NNG",
+				"2학년 1학기 수업내용중 the cactus 라는 책이 나와있었다."
+			],
+			[
+				2,
+				"수업",
+				"NNG",
+				"2학년 1학기 수업내용중 the cactus 라는 책이 나와있었다."
+			],
+			[
+				3,
+				"내용",
+				"NNG",
+				"2학년 1학기 수업내용중 the cactus 라는 책이 나와있었다."
+			],
+			[
+				4,
+				"중",
+				"NNB",
+				"2학년 1학기 수업내용중 the cactus 라는 책이 나와있었다."
+			],
+			[
+				5,
+				"책",
+				"NNG",
+				"2학년 1학기 수업내용중 the cactus 라는 책이 나와있었다."
+			],
+			[
+				6,
+				"책",
+				"NNG",
+				"이 책의 내용은 한남자가 자신의 실력에 대한 거짓으로 인해 자신이 사랑하는 여자를 잃게 되버린다."
+			],
+			[
+				7,
+				"내용",
+				"NNG",
+				"이 책의 내용은 한남자가 자신의 실력에 대한 거짓으로 인해 자신이 사랑하는 여자를 잃게 되버린다."
+			],
+			[
+				8,
+				"남자",
+				"NNG",
+				"이 책의 내용은 한남자가 자신의 실력에 대한 거짓으로 인해 자신이 사랑하는 여자를 잃게 되버린다."
+			],
+			[
+				9,
+				"자신",
+				"NNG",
+				"이 책의 내용은 한남자가 자신의 실력에 대한 거짓으로 인해 자신이 사랑하는 여자를 잃게 되버린다."
+			],
+			[
+				10,
+				"실력",
+				"NNG",
+				"이 책의 내용은 한남자가 자신의 실력에 대한 거짓으로 인해 자신이 사랑하는 여자를 잃게 되버린다."
+			],
+			[
+				11,
+				"거짓",
+				"NNG",
+				"이 책의 내용은 한남자가 자신의 실력에 대한 거짓으로 인해 자신이 사랑하는 여자를 잃게 되버린다."
+			],
+			[
+				12,
+				"자신",
+				"NNG",
+				"이 책의 내용은 한남자가 자신의 실력에 대한 거짓으로 인해 자신이 사랑하는 여자를 잃게 되버린다."
+			],
+			[
+				13,
+				"여자",
+				"NNG",
+				"이 책의 내용은 한남자가 자신의 실력에 대한 거짓으로 인해 자신이 사랑하는 여자를 잃게 되버린다."
+			],
+			[
+				14,
+				"책",
+				"NNG",
+				"이 책에서 주인공은 선물받은 선인장에서, ventomarme 라고 적힌 쪽지를 받았지만 주인공은 스페인어를 잘 알지 못하기 때문에 그냥 무시하고 지나치게된다."
+			],
+			[
+				15,
+				"주인공",
+				"NNG",
+				"이 책에서 주인공은 선물받은 선인장에서, ventomarme 라고 적힌 쪽지를 받았지만 주인공은 스페인어를 잘 알지 못하기 때문에 그냥 무시하고 지나치게된다."
+			],
+			[
+				16,
+				"선물",
+				"NNG",
+				"이 책에서 주인공은 선물받은 선인장에서, ventomarme 라고 적힌 쪽지를 받았지만 주인공은 스페인어를 잘 알지 못하기 때문에 그냥 무시하고 지나치게된다."
+			],
+			[
+				17,
+				"선인장",
+				"NNG",
+				"이 책에서 주인공은 선물받은 선인장에서, ventomarme 라고 적힌 쪽지를 받았지만 주인공은 스페인어를 잘 알지 못하기 때문에 그냥 무시하고 지나치게된다."
+			],
+			[
+				18,
+				"ventomarme",
+				"NNP",
+				"이 책에서 주인공은 선물받은 선인장에서, ventomarme 라고 적힌 쪽지를 받았지만 주인공은 스페인어를 잘 알지 못하기 때문에 그냥 무시하고 지나치게된다."
+			],
+			[
+				19,
+				"쪽지",
+				"NNG",
+				"이 책에서 주인공은 선물받은 선인장에서, ventomarme 라고 적힌 쪽지를 받았지만 주인공은 스페인어를 잘 알지 못하기 때문에 그냥 무시하고 지나치게된다."
+			],
+			[
+				20,
+				"주인공",
+				"NNG",
+				"이 책에서 주인공은 선물받은 선인장에서, ventomarme 라고 적힌 쪽지를 받았지만 주인공은 스페인어를 잘 알지 못하기 때문에 그냥 무시하고 지나치게된다."
+			],
+			[
+				21,
+				"스페인어",
+				"NNP",
+				"이 책에서 주인공은 선물받은 선인장에서, ventomarme 라고 적힌 쪽지를 받았지만 주인공은 스페인어를 잘 알지 못하기 때문에 그냥 무시하고 지나치게된다."
+			],
+			[
+				22,
+				"때문",
+				"NNB",
+				"이 책에서 주인공은 선물받은 선인장에서, ventomarme 라고 적힌 쪽지를 받았지만 주인공은 스페인어를 잘 알지 못하기 때문에 그냥 무시하고 지나치게된다."
+			],
+			[
+				23,
+				"단어",
+				"NNG",
+				"하지만 이 단어의 뜻은 나를 데려가줘요 라는 뜻이고."
+			],
+			[
+				24,
+				"뜻",
+				"NNG",
+				"하지만 이 단어의 뜻은 나를 데려가줘요 라는 뜻이고."
+			],
+			[
+				25,
+				"뜻",
+				"NNG",
+				"하지만 이 단어의 뜻은 나를 데려가줘요 라는 뜻이고."
+			],
+			[
+				26,
+				"남자",
+				"NNG",
+				"이 남자가 스페인어를 잘한다고 알고 있었지만 거짓말인걸 알게되자 그 남자와 여자는 이별하고만다."
+			],
+			[
+				27,
+				"스페인어",
+				"NNP",
+				"이 남자가 스페인어를 잘한다고 알고 있었지만 거짓말인걸 알게되자 그 남자와 여자는 이별하고만다."
+			],
+			[
+				28,
+				"거짓말",
+				"NNG",
+				"이 남자가 스페인어를 잘한다고 알고 있었지만 거짓말인걸 알게되자 그 남자와 여자는 이별하고만다."
+			],
+			[
+				29,
+				"거",
+				"NNB",
+				"이 남자가 스페인어를 잘한다고 알고 있었지만 거짓말인걸 알게되자 그 남자와 여자는 이별하고만다."
+			],
+			[
+				30,
+				"남자",
+				"NNG",
+				"이 남자가 스페인어를 잘한다고 알고 있었지만 거짓말인걸 알게되자 그 남자와 여자는 이별하고만다."
+			],
+			[
+				31,
+				"여자",
+				"NNG",
+				"이 남자가 스페인어를 잘한다고 알고 있었지만 거짓말인걸 알게되자 그 남자와 여자는 이별하고만다."
+			],
+			[
+				32,
+				"남자",
+				"NNG",
+				"그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다."
+			],
+			[
+				33,
+				"거짓말",
+				"NNG",
+				"그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다."
+			],
+			[
+				34,
+				"번",
+				"NNB",
+				"그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다."
+			],
+			[
+				35,
+				"여자",
+				"NNG",
+				"그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다."
+			],
+			[
+				36,
+				"책",
+				"NNG",
+				"그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다."
+			],
+			[
+				37,
+				"사람",
+				"NNG",
+				"그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다."
+			],
+			[
+				38,
+				"거짓",
+				"NNG",
+				"그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다."
+			],
+			[
+				39,
+				"생각",
+				"NNG",
+				"그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다."
+			],
+			[
+				40,
+				"서로",
+				"NNG",
+				"그래야 서로간에 믿음이 생기고 둘 사이의 마음이 더욱 돈둑해질것이다."
+			],
+			[
+				41,
+				"간",
+				"NNB",
+				"그래야 서로간에 믿음이 생기고 둘 사이의 마음이 더욱 돈둑해질것이다."
+			],
+			[
+				42,
+				"믿음",
+				"NNG",
+				"그래야 서로간에 믿음이 생기고 둘 사이의 마음이 더욱 돈둑해질것이다."
+			],
+			[
+				43,
+				"사이",
+				"NNG",
+				"그래야 서로간에 믿음이 생기고 둘 사이의 마음이 더욱 돈둑해질것이다."
+			],
+			[
+				44,
+				"마음",
+				"NNG",
+				"그래야 서로간에 믿음이 생기고 둘 사이의 마음이 더욱 돈둑해질것이다."
+			],
+			[
+				45,
+				"것",
+				"NNB",
+				"그래야 서로간에 믿음이 생기고 둘 사이의 마음이 더욱 돈둑해질것이다."
+			]
+		],
+		"NNG_Lst": [
+			[
+				0,
+				"학년",
+				"NNG",
+				"2학년 1학기 수업내용중 the cactus 라는 책이 나와있었다."
+			],
+			[
+				1,
+				"학기",
+				"NNG",
+				"2학년 1학기 수업내용중 the cactus 라는 책이 나와있었다."
+			],
+			[
+				2,
+				"수업",
+				"NNG",
+				"2학년 1학기 수업내용중 the cactus 라는 책이 나와있었다."
+			],
+			[
+				3,
+				"내용",
+				"NNG",
+				"2학년 1학기 수업내용중 the cactus 라는 책이 나와있었다."
+			],
+			[
+				4,
+				"책",
+				"NNG",
+				"2학년 1학기 수업내용중 the cactus 라는 책이 나와있었다."
+			],
+			[
+				5,
+				"책",
+				"NNG",
+				"이 책의 내용은 한남자가 자신의 실력에 대한 거짓으로 인해 자신이 사랑하는 여자를 잃게 되버린다."
+			],
+			[
+				6,
+				"내용",
+				"NNG",
+				"이 책의 내용은 한남자가 자신의 실력에 대한 거짓으로 인해 자신이 사랑하는 여자를 잃게 되버린다."
+			],
+			[
+				7,
+				"남자",
+				"NNG",
+				"이 책의 내용은 한남자가 자신의 실력에 대한 거짓으로 인해 자신이 사랑하는 여자를 잃게 되버린다."
+			],
+			[
+				8,
+				"자신",
+				"NNG",
+				"이 책의 내용은 한남자가 자신의 실력에 대한 거짓으로 인해 자신이 사랑하는 여자를 잃게 되버린다."
+			],
+			[
+				9,
+				"실력",
+				"NNG",
+				"이 책의 내용은 한남자가 자신의 실력에 대한 거짓으로 인해 자신이 사랑하는 여자를 잃게 되버린다."
+			],
+			[
+				10,
+				"거짓",
+				"NNG",
+				"이 책의 내용은 한남자가 자신의 실력에 대한 거짓으로 인해 자신이 사랑하는 여자를 잃게 되버린다."
+			],
+			[
+				11,
+				"자신",
+				"NNG",
+				"이 책의 내용은 한남자가 자신의 실력에 대한 거짓으로 인해 자신이 사랑하는 여자를 잃게 되버린다."
+			],
+			[
+				12,
+				"여자",
+				"NNG",
+				"이 책의 내용은 한남자가 자신의 실력에 대한 거짓으로 인해 자신이 사랑하는 여자를 잃게 되버린다."
+			],
+			[
+				13,
+				"책",
+				"NNG",
+				"이 책에서 주인공은 선물받은 선인장에서, ventomarme 라고 적힌 쪽지를 받았지만 주인공은 스페인어를 잘 알지 못하기 때문에 그냥 무시하고 지나치게된다."
+			],
+			[
+				14,
+				"주인공",
+				"NNG",
+				"이 책에서 주인공은 선물받은 선인장에서, ventomarme 라고 적힌 쪽지를 받았지만 주인공은 스페인어를 잘 알지 못하기 때문에 그냥 무시하고 지나치게된다."
+			],
+			[
+				15,
+				"선물",
+				"NNG",
+				"이 책에서 주인공은 선물받은 선인장에서, ventomarme 라고 적힌 쪽지를 받았지만 주인공은 스페인어를 잘 알지 못하기 때문에 그냥 무시하고 지나치게된다."
+			],
+			[
+				16,
+				"선인장",
+				"NNG",
+				"이 책에서 주인공은 선물받은 선인장에서, ventomarme 라고 적힌 쪽지를 받았지만 주인공은 스페인어를 잘 알지 못하기 때문에 그냥 무시하고 지나치게된다."
+			],
+			[
+				17,
+				"쪽지",
+				"NNG",
+				"이 책에서 주인공은 선물받은 선인장에서, ventomarme 라고 적힌 쪽지를 받았지만 주인공은 스페인어를 잘 알지 못하기 때문에 그냥 무시하고 지나치게된다."
+			],
+			[
+				18,
+				"주인공",
+				"NNG",
+				"이 책에서 주인공은 선물받은 선인장에서, ventomarme 라고 적힌 쪽지를 받았지만 주인공은 스페인어를 잘 알지 못하기 때문에 그냥 무시하고 지나치게된다."
+			],
+			[
+				19,
+				"단어",
+				"NNG",
+				"하지만 이 단어의 뜻은 나를 데려가줘요 라는 뜻이고."
+			],
+			[
+				20,
+				"뜻",
+				"NNG",
+				"하지만 이 단어의 뜻은 나를 데려가줘요 라는 뜻이고."
+			],
+			[
+				21,
+				"뜻",
+				"NNG",
+				"하지만 이 단어의 뜻은 나를 데려가줘요 라는 뜻이고."
+			],
+			[
+				22,
+				"남자",
+				"NNG",
+				"이 남자가 스페인어를 잘한다고 알고 있었지만 거짓말인걸 알게되자 그 남자와 여자는 이별하고만다."
+			],
+			[
+				23,
+				"거짓말",
+				"NNG",
+				"이 남자가 스페인어를 잘한다고 알고 있었지만 거짓말인걸 알게되자 그 남자와 여자는 이별하고만다."
+			],
+			[
+				24,
+				"남자",
+				"NNG",
+				"이 남자가 스페인어를 잘한다고 알고 있었지만 거짓말인걸 알게되자 그 남자와 여자는 이별하고만다."
+			],
+			[
+				25,
+				"여자",
+				"NNG",
+				"이 남자가 스페인어를 잘한다고 알고 있었지만 거짓말인걸 알게되자 그 남자와 여자는 이별하고만다."
+			],
+			[
+				26,
+				"남자",
+				"NNG",
+				"그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다."
+			],
+			[
+				27,
+				"거짓말",
+				"NNG",
+				"그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다."
+			],
+			[
+				28,
+				"여자",
+				"NNG",
+				"그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다."
+			],
+			[
+				29,
+				"책",
+				"NNG",
+				"그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다."
+			],
+			[
+				30,
+				"사람",
+				"NNG",
+				"그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다."
+			],
+			[
+				31,
+				"거짓",
+				"NNG",
+				"그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다."
+			],
+			[
+				32,
+				"생각",
+				"NNG",
+				"그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다."
+			],
+			[
+				33,
+				"서로",
+				"NNG",
+				"그래야 서로간에 믿음이 생기고 둘 사이의 마음이 더욱 돈둑해질것이다."
+			],
+			[
+				34,
+				"믿음",
+				"NNG",
+				"그래야 서로간에 믿음이 생기고 둘 사이의 마음이 더욱 돈둑해질것이다."
+			],
+			[
+				35,
+				"사이",
+				"NNG",
+				"그래야 서로간에 믿음이 생기고 둘 사이의 마음이 더욱 돈둑해질것이다."
+			],
+			[
+				36,
+				"마음",
+				"NNG",
+				"그래야 서로간에 믿음이 생기고 둘 사이의 마음이 더욱 돈둑해질것이다."
+			]
+		],
+		"NNP_Lst": [
+			[
+				0,
+				"ventomarme",
+				"NNP",
+				"이 책에서 주인공은 선물받은 선인장에서, ventomarme 라고 적힌 쪽지를 받았지만 주인공은 스페인어를 잘 알지 못하기 때문에 그냥 무시하고 지나치게된다."
+			],
+			[
+				1,
+				"스페인어",
+				"NNP",
+				"이 책에서 주인공은 선물받은 선인장에서, ventomarme 라고 적힌 쪽지를 받았지만 주인공은 스페인어를 잘 알지 못하기 때문에 그냥 무시하고 지나치게된다."
+			],
+			[
+				2,
+				"스페인어",
+				"NNP",
+				"이 남자가 스페인어를 잘한다고 알고 있었지만 거짓말인걸 알게되자 그 남자와 여자는 이별하고만다."
+			]
+		],
+		"NNB_Lst": [
+			[
+				0,
+				"중",
+				"NNB",
+				"2학년 1학기 수업내용중 the cactus 라는 책이 나와있었다."
+			],
+			[
+				1,
+				"때문",
+				"NNB",
+				"이 책에서 주인공은 선물받은 선인장에서, ventomarme 라고 적힌 쪽지를 받았지만 주인공은 스페인어를 잘 알지 못하기 때문에 그냥 무시하고 지나치게된다."
+			],
+			[
+				2,
+				"거",
+				"NNB",
+				"이 남자가 스페인어를 잘한다고 알고 있었지만 거짓말인걸 알게되자 그 남자와 여자는 이별하고만다."
+			],
+			[
+				3,
+				"번",
+				"NNB",
+				"그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다."
+			],
+			[
+				4,
+				"간",
+				"NNB",
+				"그래야 서로간에 믿음이 생기고 둘 사이의 마음이 더욱 돈둑해질것이다."
+			],
+			[
+				5,
+				"것",
+				"NNB",
+				"그래야 서로간에 믿음이 생기고 둘 사이의 마음이 더욱 돈둑해질것이다."
+			]
+		],
+		"NP_Lst": [
+			[
+				0,
+				"나",
+				"NP",
+				"하지만 이 단어의 뜻은 나를 데려가줘요 라는 뜻이고."
+			],
+			[
+				1,
+				"나",
+				"NP",
+				"그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다."
+			],
+			[
+				2,
+				"내",
+				"NP",
+				"그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다."
+			],
+			[
+				3,
+				"나",
+				"NP",
+				"그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다."
+			]
+		],
+		"NP_People_Lst": [
+			[
+				0,
+				"나",
+				"NP",
+				"하지만 이 단어의 뜻은 나를 데려가줘요 라는 뜻이고."
+			],
+			[
+				1,
+				"나",
+				"NP",
+				"그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다."
+			],
+			[
+				2,
+				"나",
+				"NP",
+				"그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다."
+			]
+		],
+		"NP_Things_Lst": [],
+		"NR_Lst": [
+			[
+				0,
+				"하나",
+				"NR",
+				"그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다."
+			],
+			[
+				1,
+				"둘",
+				"NR",
+				"그래야 서로간에 믿음이 생기고 둘 사이의 마음이 더욱 돈둑해질것이다."
+			]
+		],
+		"VL_Lst": [
+			[
+				0,
+				"이",
+				"VCP",
+				"2학년 1학기 수업내용중 the cactus 라는 책이 나와있었다."
+			],
+			[
+				1,
+				"나오",
+				"VV",
+				"2학년 1학기 수업내용중 the cactus 라는 책이 나와있었다."
+			],
+			[
+				2,
+				"있",
+				"VX",
+				"2학년 1학기 수업내용중 the cactus 라는 책이 나와있었다."
+			],
+			[
+				3,
+				"대하",
+				"VV",
+				"이 책의 내용은 한남자가 자신의 실력에 대한 거짓으로 인해 자신이 사랑하는 여자를 잃게 되버린다."
+			],
+			[
+				4,
+				"인하",
+				"VV",
+				"이 책의 내용은 한남자가 자신의 실력에 대한 거짓으로 인해 자신이 사랑하는 여자를 잃게 되버린다."
+			],
+			[
+				5,
+				"사랑하",
+				"VV",
+				"이 책의 내용은 한남자가 자신의 실력에 대한 거짓으로 인해 자신이 사랑하는 여자를 잃게 되버린다."
+			],
+			[
+				6,
+				"잃",
+				"VV",
+				"이 책의 내용은 한남자가 자신의 실력에 대한 거짓으로 인해 자신이 사랑하는 여자를 잃게 되버린다."
+			],
+			[
+				7,
+				"되",
+				"VV",
+				"이 책의 내용은 한남자가 자신의 실력에 대한 거짓으로 인해 자신이 사랑하는 여자를 잃게 되버린다."
+			],
+			[
+				8,
+				"버리",
+				"VX",
+				"이 책의 내용은 한남자가 자신의 실력에 대한 거짓으로 인해 자신이 사랑하는 여자를 잃게 되버린다."
+			],
+			[
+				9,
+				"이",
+				"VCP",
+				"이 책에서 주인공은 선물받은 선인장에서, ventomarme 라고 적힌 쪽지를 받았지만 주인공은 스페인어를 잘 알지 못하기 때문에 그냥 무시하고 지나치게된다."
+			],
+			[
+				10,
+				"적히",
+				"VV",
+				"이 책에서 주인공은 선물받은 선인장에서, ventomarme 라고 적힌 쪽지를 받았지만 주인공은 스페인어를 잘 알지 못하기 때문에 그냥 무시하고 지나치게된다."
+			],
+			[
+				11,
+				"받",
+				"VV",
+				"이 책에서 주인공은 선물받은 선인장에서, ventomarme 라고 적힌 쪽지를 받았지만 주인공은 스페인어를 잘 알지 못하기 때문에 그냥 무시하고 지나치게된다."
+			],
+			[
+				12,
+				"알",
+				"VV",
+				"이 책에서 주인공은 선물받은 선인장에서, ventomarme 라고 적힌 쪽지를 받았지만 주인공은 스페인어를 잘 알지 못하기 때문에 그냥 무시하고 지나치게된다."
+			],
+			[
+				13,
+				"못하",
+				"VX",
+				"이 책에서 주인공은 선물받은 선인장에서, ventomarme 라고 적힌 쪽지를 받았지만 주인공은 스페인어를 잘 알지 못하기 때문에 그냥 무시하고 지나치게된다."
+			],
+			[
+				14,
+				"무시하",
+				"VV",
+				"이 책에서 주인공은 선물받은 선인장에서, ventomarme 라고 적힌 쪽지를 받았지만 주인공은 스페인어를 잘 알지 못하기 때문에 그냥 무시하고 지나치게된다."
+			],
+			[
+				15,
+				"지나치",
+				"VA",
+				"이 책에서 주인공은 선물받은 선인장에서, ventomarme 라고 적힌 쪽지를 받았지만 주인공은 스페인어를 잘 알지 못하기 때문에 그냥 무시하고 지나치게된다."
+			],
+			[
+				16,
+				"되",
+				"VV",
+				"이 책에서 주인공은 선물받은 선인장에서, ventomarme 라고 적힌 쪽지를 받았지만 주인공은 스페인어를 잘 알지 못하기 때문에 그냥 무시하고 지나치게된다."
+			],
+			[
+				17,
+				"데려가",
+				"VV",
+				"하지만 이 단어의 뜻은 나를 데려가줘요 라는 뜻이고."
+			],
+			[
+				18,
+				"주",
+				"VX",
+				"하지만 이 단어의 뜻은 나를 데려가줘요 라는 뜻이고."
+			],
+			[
+				19,
+				"이",
+				"VCP",
+				"하지만 이 단어의 뜻은 나를 데려가줘요 라는 뜻이고."
+			],
+			[
+				20,
+				"이",
+				"VCP",
+				"하지만 이 단어의 뜻은 나를 데려가줘요 라는 뜻이고."
+			],
+			[
+				21,
+				"잘하",
+				"VV",
+				"이 남자가 스페인어를 잘한다고 알고 있었지만 거짓말인걸 알게되자 그 남자와 여자는 이별하고만다."
+			],
+			[
+				22,
+				"알",
+				"VV",
+				"이 남자가 스페인어를 잘한다고 알고 있었지만 거짓말인걸 알게되자 그 남자와 여자는 이별하고만다."
+			],
+			[
+				23,
+				"있",
+				"VX",
+				"이 남자가 스페인어를 잘한다고 알고 있었지만 거짓말인걸 알게되자 그 남자와 여자는 이별하고만다."
+			],
+			[
+				24,
+				"이",
+				"VCP",
+				"이 남자가 스페인어를 잘한다고 알고 있었지만 거짓말인걸 알게되자 그 남자와 여자는 이별하고만다."
+			],
+			[
+				25,
+				"알",
+				"VV",
+				"이 남자가 스페인어를 잘한다고 알고 있었지만 거짓말인걸 알게되자 그 남자와 여자는 이별하고만다."
+			],
+			[
+				26,
+				"되",
+				"VV",
+				"이 남자가 스페인어를 잘한다고 알고 있었지만 거짓말인걸 알게되자 그 남자와 여자는 이별하고만다."
+			],
+			[
+				27,
+				"이별하",
+				"VV",
+				"이 남자가 스페인어를 잘한다고 알고 있었지만 거짓말인걸 알게되자 그 남자와 여자는 이별하고만다."
+			],
+			[
+				28,
+				"말",
+				"VX",
+				"이 남자가 스페인어를 잘한다고 알고 있었지만 거짓말인걸 알게되자 그 남자와 여자는 이별하고만다."
+			],
+			[
+				29,
+				"인하",
+				"VV",
+				"그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다."
+			],
+			[
+				30,
+				"사랑하",
+				"VV",
+				"그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다."
+			],
+			[
+				31,
+				"잃",
+				"VV",
+				"그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다."
+			],
+			[
+				32,
+				"되",
+				"VV",
+				"그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다."
+			],
+			[
+				33,
+				"읽",
+				"VV",
+				"그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다."
+			],
+			[
+				34,
+				"좋아하",
+				"VV",
+				"그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다."
+			],
+			[
+				35,
+				"생기",
+				"VV",
+				"그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다."
+			],
+			[
+				36,
+				"대하",
+				"VV",
+				"그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다."
+			],
+			[
+				37,
+				"말하",
+				"VV",
+				"그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다."
+			],
+			[
+				38,
+				"하",
+				"VV",
+				"그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다."
+			],
+			[
+				39,
+				"그렇",
+				"VA",
+				"그래야 서로간에 믿음이 생기고 둘 사이의 마음이 더욱 돈둑해질것이다."
+			],
+			[
+				40,
+				"생기",
+				"VV",
+				"그래야 서로간에 믿음이 생기고 둘 사이의 마음이 더욱 돈둑해질것이다."
+			],
+			[
+				41,
+				"지",
+				"VX",
+				"그래야 서로간에 믿음이 생기고 둘 사이의 마음이 더욱 돈둑해질것이다."
+			],
+			[
+				42,
+				"이",
+				"VCP",
+				"그래야 서로간에 믿음이 생기고 둘 사이의 마음이 더욱 돈둑해질것이다."
+			]
+		],
+		"VV_Lst": [
+			[
+				0,
+				"나오",
+				"VV",
+				"2학년 1학기 수업내용중 the cactus 라는 책이 나와있었다."
+			],
+			[
+				1,
+				"대하",
+				"VV",
+				"이 책의 내용은 한남자가 자신의 실력에 대한 거짓으로 인해 자신이 사랑하는 여자를 잃게 되버린다."
+			],
+			[
+				2,
+				"인하",
+				"VV",
+				"이 책의 내용은 한남자가 자신의 실력에 대한 거짓으로 인해 자신이 사랑하는 여자를 잃게 되버린다."
+			],
+			[
+				3,
+				"사랑하",
+				"VV",
+				"이 책의 내용은 한남자가 자신의 실력에 대한 거짓으로 인해 자신이 사랑하는 여자를 잃게 되버린다."
+			],
+			[
+				4,
+				"잃",
+				"VV",
+				"이 책의 내용은 한남자가 자신의 실력에 대한 거짓으로 인해 자신이 사랑하는 여자를 잃게 되버린다."
+			],
+			[
+				5,
+				"되",
+				"VV",
+				"이 책의 내용은 한남자가 자신의 실력에 대한 거짓으로 인해 자신이 사랑하는 여자를 잃게 되버린다."
+			],
+			[
+				6,
+				"적히",
+				"VV",
+				"이 책에서 주인공은 선물받은 선인장에서, ventomarme 라고 적힌 쪽지를 받았지만 주인공은 스페인어를 잘 알지 못하기 때문에 그냥 무시하고 지나치게된다."
+			],
+			[
+				7,
+				"받",
+				"VV",
+				"이 책에서 주인공은 선물받은 선인장에서, ventomarme 라고 적힌 쪽지를 받았지만 주인공은 스페인어를 잘 알지 못하기 때문에 그냥 무시하고 지나치게된다."
+			],
+			[
+				8,
+				"알",
+				"VV",
+				"이 책에서 주인공은 선물받은 선인장에서, ventomarme 라고 적힌 쪽지를 받았지만 주인공은 스페인어를 잘 알지 못하기 때문에 그냥 무시하고 지나치게된다."
+			],
+			[
+				9,
+				"무시하",
+				"VV",
+				"이 책에서 주인공은 선물받은 선인장에서, ventomarme 라고 적힌 쪽지를 받았지만 주인공은 스페인어를 잘 알지 못하기 때문에 그냥 무시하고 지나치게된다."
+			],
+			[
+				10,
+				"되",
+				"VV",
+				"이 책에서 주인공은 선물받은 선인장에서, ventomarme 라고 적힌 쪽지를 받았지만 주인공은 스페인어를 잘 알지 못하기 때문에 그냥 무시하고 지나치게된다."
+			],
+			[
+				11,
+				"데려가",
+				"VV",
+				"하지만 이 단어의 뜻은 나를 데려가줘요 라는 뜻이고."
+			],
+			[
+				12,
+				"잘하",
+				"VV",
+				"이 남자가 스페인어를 잘한다고 알고 있었지만 거짓말인걸 알게되자 그 남자와 여자는 이별하고만다."
+			],
+			[
+				13,
+				"알",
+				"VV",
+				"이 남자가 스페인어를 잘한다고 알고 있었지만 거짓말인걸 알게되자 그 남자와 여자는 이별하고만다."
+			],
+			[
+				14,
+				"알",
+				"VV",
+				"이 남자가 스페인어를 잘한다고 알고 있었지만 거짓말인걸 알게되자 그 남자와 여자는 이별하고만다."
+			],
+			[
+				15,
+				"되",
+				"VV",
+				"이 남자가 스페인어를 잘한다고 알고 있었지만 거짓말인걸 알게되자 그 남자와 여자는 이별하고만다."
+			],
+			[
+				16,
+				"이별하",
+				"VV",
+				"이 남자가 스페인어를 잘한다고 알고 있었지만 거짓말인걸 알게되자 그 남자와 여자는 이별하고만다."
+			],
+			[
+				17,
+				"인하",
+				"VV",
+				"그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다."
+			],
+			[
+				18,
+				"사랑하",
+				"VV",
+				"그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다."
+			],
+			[
+				19,
+				"잃",
+				"VV",
+				"그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다."
+			],
+			[
+				20,
+				"되",
+				"VV",
+				"그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다."
+			],
+			[
+				21,
+				"읽",
+				"VV",
+				"그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다."
+			],
+			[
+				22,
+				"좋아하",
+				"VV",
+				"그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다."
+			],
+			[
+				23,
+				"생기",
+				"VV",
+				"그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다."
+			],
+			[
+				24,
+				"대하",
+				"VV",
+				"그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다."
+			],
+			[
+				25,
+				"말하",
+				"VV",
+				"그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다."
+			],
+			[
+				26,
+				"하",
+				"VV",
+				"그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다."
+			],
+			[
+				27,
+				"생기",
+				"VV",
+				"그래야 서로간에 믿음이 생기고 둘 사이의 마음이 더욱 돈둑해질것이다."
+			]
+		],
+		"VA_Lst": [
+			[
+				0,
+				"지나치",
+				"VA",
+				"이 책에서 주인공은 선물받은 선인장에서, ventomarme 라고 적힌 쪽지를 받았지만 주인공은 스페인어를 잘 알지 못하기 때문에 그냥 무시하고 지나치게된다."
+			],
+			[
+				1,
+				"그렇",
+				"VA",
+				"그래야 서로간에 믿음이 생기고 둘 사이의 마음이 더욱 돈둑해질것이다."
+			]
+		],
+		"VX_Lst": [
+			[
+				0,
+				"있",
+				"VX",
+				"2학년 1학기 수업내용중 the cactus 라는 책이 나와있었다."
+			],
+			[
+				1,
+				"버리",
+				"VX",
+				"이 책의 내용은 한남자가 자신의 실력에 대한 거짓으로 인해 자신이 사랑하는 여자를 잃게 되버린다."
+			],
+			[
+				2,
+				"못하",
+				"VX",
+				"이 책에서 주인공은 선물받은 선인장에서, ventomarme 라고 적힌 쪽지를 받았지만 주인공은 스페인어를 잘 알지 못하기 때문에 그냥 무시하고 지나치게된다."
+			],
+			[
+				3,
+				"주",
+				"VX",
+				"하지만 이 단어의 뜻은 나를 데려가줘요 라는 뜻이고."
+			],
+			[
+				4,
+				"있",
+				"VX",
+				"이 남자가 스페인어를 잘한다고 알고 있었지만 거짓말인걸 알게되자 그 남자와 여자는 이별하고만다."
+			],
+			[
+				5,
+				"말",
+				"VX",
+				"이 남자가 스페인어를 잘한다고 알고 있었지만 거짓말인걸 알게되자 그 남자와 여자는 이별하고만다."
+			],
+			[
+				6,
+				"지",
+				"VX",
+				"그래야 서로간에 믿음이 생기고 둘 사이의 마음이 더욱 돈둑해질것이다."
+			]
+		],
+		"VCP_Lst": [
+			[
+				0,
+				"이",
+				"VCP",
+				"2학년 1학기 수업내용중 the cactus 라는 책이 나와있었다."
+			],
+			[
+				1,
+				"이",
+				"VCP",
+				"이 책에서 주인공은 선물받은 선인장에서, ventomarme 라고 적힌 쪽지를 받았지만 주인공은 스페인어를 잘 알지 못하기 때문에 그냥 무시하고 지나치게된다."
+			],
+			[
+				2,
+				"이",
+				"VCP",
+				"하지만 이 단어의 뜻은 나를 데려가줘요 라는 뜻이고."
+			],
+			[
+				3,
+				"이",
+				"VCP",
+				"하지만 이 단어의 뜻은 나를 데려가줘요 라는 뜻이고."
+			],
+			[
+				4,
+				"이",
+				"VCP",
+				"이 남자가 스페인어를 잘한다고 알고 있었지만 거짓말인걸 알게되자 그 남자와 여자는 이별하고만다."
+			],
+			[
+				5,
+				"이",
+				"VCP",
+				"그래야 서로간에 믿음이 생기고 둘 사이의 마음이 더욱 돈둑해질것이다."
+			]
+		],
+		"VCN_Lst": [],
+		"ML_Lst": [
+			[
+				0,
+				"잘",
+				"MAG",
+				"이 책에서 주인공은 선물받은 선인장에서, ventomarme 라고 적힌 쪽지를 받았지만 주인공은 스페인어를 잘 알지 못하기 때문에 그냥 무시하고 지나치게된다."
+			],
+			[
+				1,
+				"그냥",
+				"MAG",
+				"이 책에서 주인공은 선물받은 선인장에서, ventomarme 라고 적힌 쪽지를 받았지만 주인공은 스페인어를 잘 알지 못하기 때문에 그냥 무시하고 지나치게된다."
+			],
+			[
+				2,
+				"하지만",
+				"MAJ",
+				"하지만 이 단어의 뜻은 나를 데려가줘요 라는 뜻이고."
+			],
+			[
+				3,
+				"정말로",
+				"MAG",
+				"그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다."
+			],
+			[
+				4,
+				"없이",
+				"MAG",
+				"그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다."
+			],
+			[
+				5,
+				"더욱",
+				"MAG",
+				"그래야 서로간에 믿음이 생기고 둘 사이의 마음이 더욱 돈둑해질것이다."
+			],
+			[
+				6,
+				"돈둑",
+				"MAG",
+				"그래야 서로간에 믿음이 생기고 둘 사이의 마음이 더욱 돈둑해질것이다."
+			]
+		],
+		"MA_Lst": [],
+		"MM_Lst": [],
+		"J_Lst": [
+			[
+				0,
+				"이",
+				"JKS",
+				"2학년 1학기 수업내용중 the cactus 라는 책이 나와있었다."
+			],
+			[
+				1,
+				"의",
+				"JKG",
+				"이 책의 내용은 한남자가 자신의 실력에 대한 거짓으로 인해 자신이 사랑하는 여자를 잃게 되버린다."
+			],
+			[
+				2,
+				"은",
+				"JX",
+				"이 책의 내용은 한남자가 자신의 실력에 대한 거짓으로 인해 자신이 사랑하는 여자를 잃게 되버린다."
+			],
+			[
+				3,
+				"가",
+				"JKS",
+				"이 책의 내용은 한남자가 자신의 실력에 대한 거짓으로 인해 자신이 사랑하는 여자를 잃게 되버린다."
+			],
+			[
+				4,
+				"의",
+				"JKG",
+				"이 책의 내용은 한남자가 자신의 실력에 대한 거짓으로 인해 자신이 사랑하는 여자를 잃게 되버린다."
+			],
+			[
+				5,
+				"에",
+				"JKB",
+				"이 책의 내용은 한남자가 자신의 실력에 대한 거짓으로 인해 자신이 사랑하는 여자를 잃게 되버린다."
+			],
+			[
+				6,
+				"으로",
+				"JKB",
+				"이 책의 내용은 한남자가 자신의 실력에 대한 거짓으로 인해 자신이 사랑하는 여자를 잃게 되버린다."
+			],
+			[
+				7,
+				"이",
+				"JKS",
+				"이 책의 내용은 한남자가 자신의 실력에 대한 거짓으로 인해 자신이 사랑하는 여자를 잃게 되버린다."
+			],
+			[
+				8,
+				"를",
+				"JKO",
+				"이 책의 내용은 한남자가 자신의 실력에 대한 거짓으로 인해 자신이 사랑하는 여자를 잃게 되버린다."
+			],
+			[
+				9,
+				"에서",
+				"JKB",
+				"이 책에서 주인공은 선물받은 선인장에서, ventomarme 라고 적힌 쪽지를 받았지만 주인공은 스페인어를 잘 알지 못하기 때문에 그냥 무시하고 지나치게된다."
+			],
+			[
+				10,
+				"은",
+				"JX",
+				"이 책에서 주인공은 선물받은 선인장에서, ventomarme 라고 적힌 쪽지를 받았지만 주인공은 스페인어를 잘 알지 못하기 때문에 그냥 무시하고 지나치게된다."
+			],
+			[
+				11,
+				"에서",
+				"JKB",
+				"이 책에서 주인공은 선물받은 선인장에서, ventomarme 라고 적힌 쪽지를 받았지만 주인공은 스페인어를 잘 알지 못하기 때문에 그냥 무시하고 지나치게된다."
+			],
+			[
+				12,
+				"를",
+				"JKO",
+				"이 책에서 주인공은 선물받은 선인장에서, ventomarme 라고 적힌 쪽지를 받았지만 주인공은 스페인어를 잘 알지 못하기 때문에 그냥 무시하고 지나치게된다."
+			],
+			[
+				13,
+				"은",
+				"JX",
+				"이 책에서 주인공은 선물받은 선인장에서, ventomarme 라고 적힌 쪽지를 받았지만 주인공은 스페인어를 잘 알지 못하기 때문에 그냥 무시하고 지나치게된다."
+			],
+			[
+				14,
+				"를",
+				"JKO",
+				"이 책에서 주인공은 선물받은 선인장에서, ventomarme 라고 적힌 쪽지를 받았지만 주인공은 스페인어를 잘 알지 못하기 때문에 그냥 무시하고 지나치게된다."
+			],
+			[
+				15,
+				"에",
+				"JKB",
+				"이 책에서 주인공은 선물받은 선인장에서, ventomarme 라고 적힌 쪽지를 받았지만 주인공은 스페인어를 잘 알지 못하기 때문에 그냥 무시하고 지나치게된다."
+			],
+			[
+				16,
+				"의",
+				"JKG",
+				"하지만 이 단어의 뜻은 나를 데려가줘요 라는 뜻이고."
+			],
+			[
+				17,
+				"은",
+				"JX",
+				"하지만 이 단어의 뜻은 나를 데려가줘요 라는 뜻이고."
+			],
+			[
+				18,
+				"를",
+				"JKO",
+				"하지만 이 단어의 뜻은 나를 데려가줘요 라는 뜻이고."
+			],
+			[
+				19,
+				"가",
+				"JKS",
+				"이 남자가 스페인어를 잘한다고 알고 있었지만 거짓말인걸 알게되자 그 남자와 여자는 이별하고만다."
+			],
+			[
+				20,
+				"를",
+				"JKO",
+				"이 남자가 스페인어를 잘한다고 알고 있었지만 거짓말인걸 알게되자 그 남자와 여자는 이별하고만다."
+			],
+			[
+				21,
+				"ㄹ",
+				"JKO",
+				"이 남자가 스페인어를 잘한다고 알고 있었지만 거짓말인걸 알게되자 그 남자와 여자는 이별하고만다."
+			],
+			[
+				22,
+				"와",
+				"JC",
+				"이 남자가 스페인어를 잘한다고 알고 있었지만 거짓말인걸 알게되자 그 남자와 여자는 이별하고만다."
+			],
+			[
+				23,
+				"는",
+				"JX",
+				"이 남자가 스페인어를 잘한다고 알고 있었지만 거짓말인걸 알게되자 그 남자와 여자는 이별하고만다."
+			],
+			[
+				24,
+				"는",
+				"JX",
+				"그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다."
+			],
+			[
+				25,
+				"으로",
+				"JKB",
+				"그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다."
+			],
+			[
+				26,
+				"를",
+				"JKO",
+				"그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다."
+			],
+			[
+				27,
+				"을",
+				"JKO",
+				"그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다."
+			],
+			[
+				28,
+				"는",
+				"JX",
+				"그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다."
+			],
+			[
+				29,
+				"가",
+				"JKS",
+				"그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다."
+			],
+			[
+				30,
+				"이",
+				"JKS",
+				"그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다."
+			],
+			[
+				31,
+				"에",
+				"JKB",
+				"그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다."
+			],
+			[
+				32,
+				"을",
+				"JKO",
+				"그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다."
+			],
+			[
+				33,
+				"에",
+				"JKB",
+				"그래야 서로간에 믿음이 생기고 둘 사이의 마음이 더욱 돈둑해질것이다."
+			],
+			[
+				34,
+				"이",
+				"JKS",
+				"그래야 서로간에 믿음이 생기고 둘 사이의 마음이 더욱 돈둑해질것이다."
+			],
+			[
+				35,
+				"의",
+				"JKG",
+				"그래야 서로간에 믿음이 생기고 둘 사이의 마음이 더욱 돈둑해질것이다."
+			],
+			[
+				36,
+				"이",
+				"JKS",
+				"그래야 서로간에 믿음이 생기고 둘 사이의 마음이 더욱 돈둑해질것이다."
+			]
+		],
+		"E_Lst": [
+			[
+				0,
+				"라는",
+				"ETM",
+				"2학년 1학기 수업내용중 the cactus 라는 책이 나와있었다."
+			],
+			[
+				1,
+				"아",
+				"EC",
+				"2학년 1학기 수업내용중 the cactus 라는 책이 나와있었다."
+			],
+			[
+				2,
+				"었",
+				"EP",
+				"2학년 1학기 수업내용중 the cactus 라는 책이 나와있었다."
+			],
+			[
+				3,
+				"다",
+				"EF",
+				"2학년 1학기 수업내용중 the cactus 라는 책이 나와있었다."
+			],
+			[
+				4,
+				"ㄴ",
+				"ETM",
+				"이 책의 내용은 한남자가 자신의 실력에 대한 거짓으로 인해 자신이 사랑하는 여자를 잃게 되버린다."
+			],
+			[
+				5,
+				"아",
+				"EC",
+				"이 책의 내용은 한남자가 자신의 실력에 대한 거짓으로 인해 자신이 사랑하는 여자를 잃게 되버린다."
+			],
+			[
+				6,
+				"는",
+				"ETM",
+				"이 책의 내용은 한남자가 자신의 실력에 대한 거짓으로 인해 자신이 사랑하는 여자를 잃게 되버린다."
+			],
+			[
+				7,
+				"게",
+				"EC",
+				"이 책의 내용은 한남자가 자신의 실력에 대한 거짓으로 인해 자신이 사랑하는 여자를 잃게 되버린다."
+			],
+			[
+				8,
+				"어",
+				"EC",
+				"이 책의 내용은 한남자가 자신의 실력에 대한 거짓으로 인해 자신이 사랑하는 여자를 잃게 되버린다."
+			],
+			[
+				9,
+				"ㄴ다",
+				"EF",
+				"이 책의 내용은 한남자가 자신의 실력에 대한 거짓으로 인해 자신이 사랑하는 여자를 잃게 되버린다."
+			],
+			[
+				10,
+				"은",
+				"ETM",
+				"이 책에서 주인공은 선물받은 선인장에서, ventomarme 라고 적힌 쪽지를 받았지만 주인공은 스페인어를 잘 알지 못하기 때문에 그냥 무시하고 지나치게된다."
+			],
+			[
+				11,
+				"라고",
+				"EC",
+				"이 책에서 주인공은 선물받은 선인장에서, ventomarme 라고 적힌 쪽지를 받았지만 주인공은 스페인어를 잘 알지 못하기 때문에 그냥 무시하고 지나치게된다."
+			],
+			[
+				12,
+				"ㄴ",
+				"ETM",
+				"이 책에서 주인공은 선물받은 선인장에서, ventomarme 라고 적힌 쪽지를 받았지만 주인공은 스페인어를 잘 알지 못하기 때문에 그냥 무시하고 지나치게된다."
+			],
+			[
+				13,
+				"았",
+				"EP",
+				"이 책에서 주인공은 선물받은 선인장에서, ventomarme 라고 적힌 쪽지를 받았지만 주인공은 스페인어를 잘 알지 못하기 때문에 그냥 무시하고 지나치게된다."
+			],
+			[
+				14,
+				"지만",
+				"EC",
+				"이 책에서 주인공은 선물받은 선인장에서, ventomarme 라고 적힌 쪽지를 받았지만 주인공은 스페인어를 잘 알지 못하기 때문에 그냥 무시하고 지나치게된다."
+			],
+			[
+				15,
+				"ㄹ지",
+				"EF",
+				"이 책에서 주인공은 선물받은 선인장에서, ventomarme 라고 적힌 쪽지를 받았지만 주인공은 스페인어를 잘 알지 못하기 때문에 그냥 무시하고 지나치게된다."
+			],
+			[
+				16,
+				"기",
+				"ETN",
+				"이 책에서 주인공은 선물받은 선인장에서, ventomarme 라고 적힌 쪽지를 받았지만 주인공은 스페인어를 잘 알지 못하기 때문에 그냥 무시하고 지나치게된다."
+			],
+			[
+				17,
+				"고",
+				"EC",
+				"이 책에서 주인공은 선물받은 선인장에서, ventomarme 라고 적힌 쪽지를 받았지만 주인공은 스페인어를 잘 알지 못하기 때문에 그냥 무시하고 지나치게된다."
+			],
+			[
+				18,
+				"게",
+				"EC",
+				"이 책에서 주인공은 선물받은 선인장에서, ventomarme 라고 적힌 쪽지를 받았지만 주인공은 스페인어를 잘 알지 못하기 때문에 그냥 무시하고 지나치게된다."
+			],
+			[
+				19,
+				"ㄴ다",
+				"EF",
+				"이 책에서 주인공은 선물받은 선인장에서, ventomarme 라고 적힌 쪽지를 받았지만 주인공은 스페인어를 잘 알지 못하기 때문에 그냥 무시하고 지나치게된다."
+			],
+			[
+				20,
+				"아",
+				"EC",
+				"하지만 이 단어의 뜻은 나를 데려가줘요 라는 뜻이고."
+			],
+			[
+				21,
+				"어요",
+				"EF",
+				"하지만 이 단어의 뜻은 나를 데려가줘요 라는 뜻이고."
+			],
+			[
+				22,
+				"라는",
+				"ETM",
+				"하지만 이 단어의 뜻은 나를 데려가줘요 라는 뜻이고."
+			],
+			[
+				23,
+				"고",
+				"EF",
+				"하지만 이 단어의 뜻은 나를 데려가줘요 라는 뜻이고."
+			],
+			[
+				24,
+				"ㄴ다고",
+				"EC",
+				"이 남자가 스페인어를 잘한다고 알고 있었지만 거짓말인걸 알게되자 그 남자와 여자는 이별하고만다."
+			],
+			[
+				25,
+				"고",
+				"EC",
+				"이 남자가 스페인어를 잘한다고 알고 있었지만 거짓말인걸 알게되자 그 남자와 여자는 이별하고만다."
+			],
+			[
+				26,
+				"었",
+				"EP",
+				"이 남자가 스페인어를 잘한다고 알고 있었지만 거짓말인걸 알게되자 그 남자와 여자는 이별하고만다."
+			],
+			[
+				27,
+				"지만",
+				"EC",
+				"이 남자가 스페인어를 잘한다고 알고 있었지만 거짓말인걸 알게되자 그 남자와 여자는 이별하고만다."
+			],
+			[
+				28,
+				"ㄴ",
+				"ETM",
+				"이 남자가 스페인어를 잘한다고 알고 있었지만 거짓말인걸 알게되자 그 남자와 여자는 이별하고만다."
+			],
+			[
+				29,
+				"게",
+				"EC",
+				"이 남자가 스페인어를 잘한다고 알고 있었지만 거짓말인걸 알게되자 그 남자와 여자는 이별하고만다."
+			],
+			[
+				30,
+				"자",
+				"EC",
+				"이 남자가 스페인어를 잘한다고 알고 있었지만 거짓말인걸 알게되자 그 남자와 여자는 이별하고만다."
+			],
+			[
+				31,
+				"고",
+				"EC",
+				"이 남자가 스페인어를 잘한다고 알고 있었지만 거짓말인걸 알게되자 그 남자와 여자는 이별하고만다."
+			],
+			[
+				32,
+				"ㄴ다",
+				"EF",
+				"이 남자가 스페인어를 잘한다고 알고 있었지만 거짓말인걸 알게되자 그 남자와 여자는 이별하고만다."
+			],
+			[
+				33,
+				"아",
+				"EC",
+				"그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다."
+			],
+			[
+				34,
+				"는",
+				"ETM",
+				"그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다."
+			],
+			[
+				35,
+				"게",
+				"EC",
+				"그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다."
+			],
+			[
+				36,
+				"고",
+				"EC",
+				"그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다."
+			],
+			[
+				37,
+				"으면서",
+				"EC",
+				"그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다."
+			],
+			[
+				38,
+				"는",
+				"ETM",
+				"그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다."
+			],
+			[
+				39,
+				"ㄴ다면",
+				"EC",
+				"그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다."
+			],
+			[
+				40,
+				"아서",
+				"EC",
+				"그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다."
+			],
+			[
+				41,
+				"겠",
+				"EP",
+				"그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다."
+			],
+			[
+				42,
+				"다고",
+				"EC",
+				"그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다."
+			],
+			[
+				43,
+				"았",
+				"EP",
+				"그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다."
+			],
+			[
+				44,
+				"다",
+				"EF",
+				"그 남자는 거짓말 한 번으로 인해 사랑하는 여자를 잃게되고 이 책을 읽으면서 나는 내가 정말로 좋아하는 사람이 생긴다면 나에 대해서 거짓 하나 없이 말하겠다고 생각을 하였다."
+			],
+			[
+				45,
+				"어야",
+				"EC",
+				"그래야 서로간에 믿음이 생기고 둘 사이의 마음이 더욱 돈둑해질것이다."
+			],
+			[
+				46,
+				"고",
+				"EC",
+				"그래야 서로간에 믿음이 생기고 둘 사이의 마음이 더욱 돈둑해질것이다."
+			],
+			[
+				47,
+				"아",
+				"EC",
+				"그래야 서로간에 믿음이 생기고 둘 사이의 마음이 더욱 돈둑해질것이다."
+			],
+			[
+				48,
+				"ㄹ",
+				"ETM",
+				"그래야 서로간에 믿음이 생기고 둘 사이의 마음이 더욱 돈둑해질것이다."
+			],
+			[
+				49,
+				"다",
+				"EF",
+				"그래야 서로간에 믿음이 생기고 둘 사이의 마음이 더욱 돈둑해질것이다."
+			]
+		],
+		"X_Lst": [
+			[
+				0,
+				"받",
+				"XSV",
+				"이 책에서 주인공은 선물받은 선인장에서, ventomarme 라고 적힌 쪽지를 받았지만 주인공은 스페인어를 잘 알지 못하기 때문에 그냥 무시하고 지나치게된다."
+			],
+			[
+				1,
+				"하",
+				"XSA",
+				"그래야 서로간에 믿음이 생기고 둘 사이의 마음이 더욱 돈둑해질것이다."
+			]
+		],
+		"IC_Lst": []
+	},
+	"NDW": {
+		"morph_NDW": 119,
+		"NL_NDW": 52,
+		"NNG_NDW": 37,
+		"NNP_NDW": 3,
+		"NNB_NDW": 6,
+		"NP_NDW": 4,
+		"NR_NDW": 2,
+		"VL_NDW": 43,
+		"VV_NDW": 28,
+		"VA_NDW": 2,
+		"ML_NDW": 7,
+		"MM_NDW": 0,
+		"IC_NDW": 0,
+		"J_NDW": 37,
+		"E_NDW": 50,
+		"X_NDW": 2,
+		"CL_NDW": 102,
+		"FL_NDW": 89
+	}
+}

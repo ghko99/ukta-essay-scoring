@@ -1,0 +1,3082 @@
+﻿{
+	"morpheme": {
+		"sentences": [
+			{
+				"text": {
+					"content": "보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다.",
+					"length": 161,
+					"beginOffset": 0
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "보통",
+							"length": 2,
+							"beginOffset": 0
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "보통",
+									"length": 2,
+									"beginOffset": 0
+								},
+								"tag": "MAG",
+								"probability": 0.9882324,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "보통",
+						"tagged": "보통/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "'Station'이라고",
+							"beginOffset": 3,
+							"length": 12
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "'",
+									"beginOffset": 3,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.99995947,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "Station",
+									"beginOffset": 4,
+									"length": 7
+								},
+								"tag": "NNP",
+								"probability": 0.6701337,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "'",
+									"beginOffset": 11,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.999615,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이라고",
+									"beginOffset": 12,
+									"length": 3
+								},
+								"tag": "JKQ",
+								"probability": 0.99688953,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "'",
+						"tagged": "'/SS+Station/NNP+'/SS+이라고/JKQ",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "하면",
+							"beginOffset": 16,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 16,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.96409994,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "면",
+									"beginOffset": 17,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9905873,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VV+면/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "기차역,",
+							"beginOffset": 19,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "기차역",
+									"beginOffset": 19,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.97999895,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 22,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.99934644,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "기차역",
+						"tagged": "기차역/NNG+,/SP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "지하철역",
+							"beginOffset": 24,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "지하철역",
+									"beginOffset": 24,
+									"length": 4
+								},
+								"tag": "NNG",
+								"probability": 0.9747052,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "지하철역",
+						"tagged": "지하철역/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "등의",
+							"beginOffset": 29,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "등",
+									"beginOffset": 29,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9680095,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 30,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99966645,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "등",
+						"tagged": "등/NNB+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "역이나",
+							"beginOffset": 32,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "역",
+									"beginOffset": 32,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9810376,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이나",
+									"beginOffset": 33,
+									"length": 2
+								},
+								"tag": "JC",
+								"probability": 0.9529524,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "역",
+						"tagged": "역/NNG+이나/JC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "정류장,",
+							"beginOffset": 36,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "정류장",
+									"beginOffset": 36,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9807582,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 39,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.99897474,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "정류장",
+						"tagged": "정류장/NNG+,/SP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "주유소나",
+							"beginOffset": 41,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "주유소",
+									"beginOffset": 41,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9824235,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "나",
+									"beginOffset": 44,
+									"length": 1
+								},
+								"tag": "JC",
+								"probability": 0.95749307,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "주유소",
+						"tagged": "주유소/NNG+나/JC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "가스",
+							"beginOffset": 46,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "가스",
+									"beginOffset": 46,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9791313,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "가스",
+						"tagged": "가스/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "충전소",
+							"beginOffset": 49,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "충전소",
+									"beginOffset": 49,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.87852716,
+								"outOfVocab": "OUT_OF_VOCAB"
+							}
+						],
+						"lemma": "충전소",
+						"tagged": "충전소/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "등",
+							"beginOffset": 53,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "등",
+									"beginOffset": 53,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9752853,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "등",
+						"tagged": "등/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "교통과",
+							"beginOffset": 55,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "교통",
+									"beginOffset": 55,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9792903,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "과",
+									"beginOffset": 57,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9014805,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "교통",
+						"tagged": "교통/NNG+과/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "연관",
+							"beginOffset": 59,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "연관",
+									"beginOffset": 59,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9818214,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "연관",
+						"tagged": "연관/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있는",
+							"beginOffset": 62,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 62,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.5902673,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 63,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999846,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VA+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "단어를",
+							"beginOffset": 65,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "단어",
+									"beginOffset": 65,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98381597,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 67,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.999854,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "단어",
+						"tagged": "단어/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "떠올리게",
+							"beginOffset": 69,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "떠올리",
+									"beginOffset": 69,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.98112303,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "게",
+									"beginOffset": 72,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99183756,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "떠올리",
+						"tagged": "떠올리/VV+게/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "되나",
+							"beginOffset": 74,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "되",
+									"beginOffset": 74,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9693359,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "나",
+									"beginOffset": 75,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9855209,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "되",
+						"tagged": "되/VV+나/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "실제로는",
+							"beginOffset": 77,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "실제로",
+									"beginOffset": 77,
+									"length": 3
+								},
+								"tag": "MAG",
+								"probability": 0.9910374,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 80,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9986922,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "실제로",
+						"tagged": "실제로/MAG+는/JX",
+						"modified": "실제로는"
+					},
+					{
+						"text": {
+							"content": "이",
+							"beginOffset": 82,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 82,
+									"length": 1
+								},
+								"tag": "MMD",
+								"probability": 0.9996338,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이",
+						"tagged": "이/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "Station이라는",
+							"beginOffset": 84,
+							"length": 10
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "Station",
+									"beginOffset": 84,
+									"length": 7
+								},
+								"tag": "SL",
+								"probability": 0.45829144,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 91,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.99998724,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "라는",
+									"beginOffset": 92,
+									"length": 2
+								},
+								"tag": "ETM",
+								"probability": 0.9999622,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "Station",
+						"tagged": "Station/SL+이/VCP+라는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "단어",
+							"beginOffset": 95,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "단어",
+									"beginOffset": 95,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9817136,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "단어",
+						"tagged": "단어/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "자체의",
+							"beginOffset": 98,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "자체",
+									"beginOffset": 98,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9831667,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 100,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9997863,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "자체",
+						"tagged": "자체/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "뜻에",
+							"beginOffset": 102,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "뜻",
+									"beginOffset": 102,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.98095137,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 103,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99104977,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "뜻",
+						"tagged": "뜻/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "연구",
+							"beginOffset": 105,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "연구",
+									"beginOffset": 105,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98337203,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "연구",
+						"tagged": "연구/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "기지,",
+							"beginOffset": 108,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "기지",
+									"beginOffset": 108,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9784849,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 110,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.9994415,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "기지",
+						"tagged": "기지/NNG+,/SP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "연구원이나",
+							"beginOffset": 112,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "연구원",
+									"beginOffset": 112,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9798266,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이나",
+									"beginOffset": 115,
+									"length": 2
+								},
+								"tag": "JC",
+								"probability": 0.9934535,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "연구원",
+						"tagged": "연구원/NNG+이나/JC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "군인",
+							"beginOffset": 118,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "군인",
+									"beginOffset": 118,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9826599,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "군인",
+						"tagged": "군인/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "등을",
+							"beginOffset": 121,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "등",
+									"beginOffset": 121,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.97048086,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 122,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999308,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "등",
+						"tagged": "등/NNB+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "배치하다는",
+							"beginOffset": 124,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "배치하",
+									"beginOffset": 124,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "다는",
+									"beginOffset": 127,
+									"length": 2
+								},
+								"tag": "ETM",
+								"probability": 0.99999183,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "배치하",
+						"tagged": "배치하/VV+다는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "동사",
+							"beginOffset": 130,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "동사",
+									"beginOffset": 130,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9832637,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "동사",
+						"tagged": "동사/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "뜻도",
+							"beginOffset": 133,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "뜻",
+									"beginOffset": 133,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.98412395,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 134,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9992444,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "뜻",
+						"tagged": "뜻/NNG+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "들어가",
+							"beginOffset": 136,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "들어가",
+									"beginOffset": 136,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.98780745,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 138,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9915393,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "들어가",
+						"tagged": "들어가/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있어서",
+							"beginOffset": 140,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 140,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.9232067,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어서",
+									"beginOffset": 141,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99468064,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VX+어서/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이렇게",
+							"beginOffset": 144,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이렇",
+									"beginOffset": 144,
+									"length": 2
+								},
+								"tag": "VA",
+								"probability": 0.9829639,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "게",
+									"beginOffset": 146,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9954486,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이렇",
+						"tagged": "이렇/VA+게/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "표기한",
+							"beginOffset": 148,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "표기하",
+									"beginOffset": 148,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 150,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999725,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "표기하",
+						"tagged": "표기하/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "것으로",
+							"beginOffset": 152,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "것",
+									"beginOffset": 152,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.97960365,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으로",
+									"beginOffset": 153,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.99652517,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "것",
+						"tagged": "것/NNB+으로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "보입니다.",
+							"beginOffset": 156,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "보이",
+									"beginOffset": 156,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.98232985,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㅂ니다",
+									"beginOffset": 157,
+									"length": 3
+								},
+								"tag": "EF",
+								"probability": 0.98534423,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 160,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99969405,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "보이",
+						"tagged": "보이/VV+ㅂ니다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			},
+			{
+				"text": {
+					"content": "향후 다음 세대에 우주 정거장을 새로 건설하게 되면, 달이나 화성으로 가는 교통 거점 역할도 할 것으로 봅니다.",
+					"beginOffset": 162,
+					"length": 62
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "향후",
+							"beginOffset": 162,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "향후",
+									"beginOffset": 162,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9820147,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "향후",
+						"tagged": "향후/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "다음",
+							"beginOffset": 165,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "다음",
+									"beginOffset": 165,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.983209,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "다음",
+						"tagged": "다음/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "세대에",
+							"beginOffset": 168,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "세대",
+									"beginOffset": 168,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9809471,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 170,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.97812593,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "세대",
+						"tagged": "세대/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "우주",
+							"beginOffset": 172,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "우주",
+									"beginOffset": 172,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9857,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "우주",
+						"tagged": "우주/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "정거장을",
+							"beginOffset": 175,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "정거장",
+									"beginOffset": 175,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9825871,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 178,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99997646,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "정거장",
+						"tagged": "정거장/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "새로",
+							"beginOffset": 180,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "새로",
+									"beginOffset": 180,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.98917055,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "새로",
+						"tagged": "새로/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "건설하게",
+							"beginOffset": 183,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "건설하",
+									"beginOffset": 183,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "게",
+									"beginOffset": 186,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9943361,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "건설하",
+						"tagged": "건설하/VV+게/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "되면",
+							"beginOffset": 188,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "되",
+									"beginOffset": 188,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9732218,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "면",
+									"beginOffset": 189,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9939899,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "되",
+						"tagged": "되/VV+면/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": ",",
+							"beginOffset": 190,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 190,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.99931324,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": ",",
+						"tagged": ",/SP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "달이나",
+							"beginOffset": 192,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "달",
+									"beginOffset": 192,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9663593,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이나",
+									"beginOffset": 193,
+									"length": 2
+								},
+								"tag": "JX",
+								"probability": 0.547518,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "달",
+						"tagged": "달/NNG+이나/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "화성으로",
+							"beginOffset": 196,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "화성",
+									"beginOffset": 196,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.751638,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으로",
+									"beginOffset": 198,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9959248,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "화성",
+						"tagged": "화성/NNG+으로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "가는",
+							"beginOffset": 201,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 201,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9696659,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 202,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99037075,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "가",
+						"tagged": "가/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "교통",
+							"beginOffset": 204,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "교통",
+									"beginOffset": 204,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9801915,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "교통",
+						"tagged": "교통/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "거점",
+							"beginOffset": 207,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "거점",
+									"beginOffset": 207,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9819363,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "거점",
+						"tagged": "거점/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "역할도",
+							"beginOffset": 210,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "역할",
+									"beginOffset": 210,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9871037,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 212,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99965054,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "역할",
+						"tagged": "역할/NNG+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "할",
+							"beginOffset": 214,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 214,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.43643424,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ",
+									"beginOffset": 214,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99990505,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VX+ㄹ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "것으로",
+							"beginOffset": 216,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "것",
+									"beginOffset": 216,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9829708,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으로",
+									"beginOffset": 217,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9968072,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "것",
+						"tagged": "것/NNB+으로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "봅니다.",
+							"beginOffset": 220,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "보",
+									"beginOffset": 220,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.83943343,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㅂ니다",
+									"beginOffset": 220,
+									"length": 3
+								},
+								"tag": "EF",
+								"probability": 0.99170244,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 223,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9991259,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "보",
+						"tagged": "보/VV+ㅂ니다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "향후 다음 세대에 우주 정거장을 새로 건설하게 되면 , 달이나 화성으로 가는 교통 거점 역할도 할 것으로 봅니다."
+			}
+		],
+		"language": "ko_KR"
+	},
+	"ttr": {
+		"lemma_Cnt": 90,
+		"lemma_TTR": 0.6868686868686869,
+		"CL_TTR": 0.8333333333333334,
+		"NL_TTR": 0.8285714285714286,
+		"NN_TTR": 0.8285714285714286,
+		"NNG_TTR": 0.896551724137931,
+		"NNP_TTR": 1.0,
+		"NNB_TTR": 0.4,
+		"NP_TTR": 0,
+		"NR_TTR": 0,
+		"VL_TTR": 0.8125,
+		"VV_TTR": 0.9090909090909091,
+		"VA_TTR": 1.0,
+		"ML_TTR": 1.0,
+		"MM_TTR": 0,
+		"MA_TTR": 1.0,
+		"MAJ_TTR": 0,
+		"IC_TTR": 0,
+		"FL_TTR": 0.5588235294117647,
+		"J_TTR": 0.5555555555555556,
+		"E_TTR": 0.6875,
+		"X_TTR": 0,
+		"lemma_RTTR": 6.834257143762642,
+		"CL_RTTR": 6.123724356957945,
+		"NL_RTTR": 4.901894677425396,
+		"NN_RTTR": 4.901894677425396,
+		"NNG_RTTR": 4.828078792603349,
+		"NNP_RTTR": 1.0,
+		"NNB_RTTR": 0.8944271909999159,
+		"NP_RTTR": 0,
+		"NR_RTTR": 0,
+		"VL_RTTR": 3.25,
+		"VV_RTTR": 3.015113445777636,
+		"VA_RTTR": 1.414213562373095,
+		"ML_RTTR": 1.7320508075688774,
+		"MM_RTTR": 0,
+		"MA_RTTR": 1.7320508075688774,
+		"MAJ_RTTR": 0,
+		"IC_RTTR": 0,
+		"FL_RTTR": 3.2584731177076676,
+		"J_RTTR": 2.3570226039551585,
+		"E_RTTR": 2.75,
+		"X_RTTR": 0,
+		"lemma_CTTR": 4.83254957072717,
+		"CL_CTTR": 4.330127018922193,
+		"NL_CTTR": 3.4661629670697414,
+		"NN_CTTR": 3.4661629670697414,
+		"NNG_CTTR": 3.4139672543527864,
+		"NNP_CTTR": 0.7071067811865475,
+		"NNB_CTTR": 0.6324555320336759,
+		"NP_CTTR": 0,
+		"NR_CTTR": 0,
+		"VL_CTTR": 2.2980970388562794,
+		"VV_CTTR": 2.1320071635561044,
+		"VA_CTTR": 1.0,
+		"ML_CTTR": 1.2247448713915892,
+		"MM_CTTR": 0,
+		"MA_CTTR": 1.2247448713915892,
+		"MAJ_CTTR": 0,
+		"IC_CTTR": 0,
+		"FL_CTTR": 2.3040884378451634,
+		"J_CTTR": 1.6666666666666667,
+		"E_CTTR": 1.9445436482630056,
+		"X_CTTR": 0,
+		"lemma_MSTTR": 0.76,
+		"CL_MSTTR": 0.86,
+		"NL_MSTTR": 0.8285714285714286,
+		"NN_MSTTR": 0.8285714285714286,
+		"NNG_MSTTR": 0.896551724137931,
+		"NNP_MSTTR": 1.0,
+		"NNB_MSTTR": 0.4,
+		"NP_MSTTR": 0,
+		"NR_MSTTR": 0,
+		"VL_MSTTR": 0.8125,
+		"VV_MSTTR": 0.9090909090909091,
+		"VA_MSTTR": 1.0,
+		"ML_MSTTR": 1.0,
+		"MM_MSTTR": 0,
+		"MA_MSTTR": 1.0,
+		"MAJ_MSTTR": 0,
+		"IC_MSTTR": 0,
+		"FL_MSTTR": 0.5588235294117647,
+		"J_MSTTR": 0.5555555555555556,
+		"E_MSTTR": 0.6875,
+		"X_MSTTR": 0,
+		"lemma_MATTR": 0.8427999999999999,
+		"CL_MATTR": 0.8480000000000001,
+		"NL_MATTR": 0.8285714285714286,
+		"NN_MATTR": 0.8285714285714286,
+		"NNG_MATTR": 0.896551724137931,
+		"NNP_MATTR": 1.0,
+		"NNB_MATTR": 0.4,
+		"NP_MATTR": 0,
+		"NR_MATTR": 0,
+		"VL_MATTR": 0.8125,
+		"VV_MATTR": 0.9090909090909091,
+		"VA_MATTR": 1.0,
+		"ML_MATTR": 1.0,
+		"MM_MATTR": 0,
+		"MA_MATTR": 1.0,
+		"MAJ_MATTR": 0,
+		"IC_MATTR": 0,
+		"FL_MATTR": 0.5588235294117647,
+		"J_MATTR": 0.5555555555555556,
+		"E_MATTR": 0.6875,
+		"X_MATTR": 0,
+		"lemma_MTLD": 86.86764705882354,
+		"CL_MTLD": 90.72000000000004,
+		"NL_MTLD": 57.166666666666686,
+		"NN_MTLD": 57.166666666666686,
+		"NNG_MTLD": 78.49333333333335,
+		"NNP_MTLD": 0.0,
+		"NNB_MTLD": 2.3333333333333335,
+		"NP_MTLD": 0.0,
+		"NR_MTLD": 0.0,
+		"VL_MTLD": 23.893333333333334,
+		"VV_MTLD": 33.879999999999995,
+		"VA_MTLD": 0.0,
+		"ML_MTLD": 0.0,
+		"MM_MTLD": 0.0,
+		"MA_MTLD": 0.0,
+		"MAJ_MTLD": 0.0,
+		"IC_MTLD": 0.0,
+		"FL_MTLD": 16.70689655172414,
+		"J_MTLD": 10.976939203354299,
+		"E_MTLD": 15.168000000000001,
+		"X_MTLD": 0.0,
+		"lemma_VOCDD": 100.54327627109217,
+		"CL_VOCDD": 119.07301530628813,
+		"NL_VOCDD": 0,
+		"NN_VOCDD": 0,
+		"NNG_VOCDD": 0,
+		"NNP_VOCDD": 0,
+		"NNB_VOCDD": 0,
+		"NP_VOCDD": 0,
+		"NR_VOCDD": 0,
+		"VL_VOCDD": 0,
+		"VV_VOCDD": 0,
+		"VA_VOCDD": 0,
+		"ML_VOCDD": 0,
+		"MM_VOCDD": 0,
+		"MA_VOCDD": 0,
+		"MAJ_VOCDD": 0,
+		"IC_VOCDD": 0,
+		"FL_VOCDD": 0,
+		"J_VOCDD": 0,
+		"E_VOCDD": 0,
+		"X_VOCDD": 0,
+		"lemma_HDD": 0.8501645425430395,
+		"CL_HDD": 0.8677632639896785,
+		"NL_HDD": 0.0,
+		"NN_HDD": 0.0,
+		"NNG_HDD": 0.0,
+		"NNP_HDD": 0.0,
+		"NNB_HDD": 0.0,
+		"NP_HDD": 0.0,
+		"NR_HDD": 0.0,
+		"VL_HDD": 0.0,
+		"VV_HDD": 0.0,
+		"VA_HDD": 0.0,
+		"ML_HDD": 0.0,
+		"MM_HDD": 0.0,
+		"MA_HDD": 0.0,
+		"MAJ_HDD": 0.0,
+		"IC_HDD": 0.0,
+		"FL_HDD": 0.0,
+		"J_HDD": 0.0,
+		"E_HDD": 0.0,
+		"X_HDD": 0.0
+	},
+	"similarity": {
+		"avgSentSimilarity": 0.3760531544685364,
+		"topicConsistency": 0.5936
+	},
+	"adjacency": {
+		"adjacent_sentence_overlap_all_lemmas": 30,
+		"adjacent_sentence_overlap_all_lemmas_normed": 1,
+		"binary_adjacent_sentence_overlap_all_lemmas": 1,
+		"adjacent_two_sentence_overlap_all_lemmas": 0,
+		"adjacent_two_sentence_overlap_all_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_all_lemmas": 0,
+		"adjacent_sentence_overlap_content_lemmas": 17,
+		"adjacent_sentence_overlap_content_lemmas_normed": 1,
+		"binary_adjacent_sentence_overlap_content_lemmas": 1,
+		"adjacent_two_sentence_overlap_content_lemmas": 0,
+		"adjacent_two_sentence_overlap_content_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_content_lemmas": 0,
+		"adjacent_sentence_overlap_function_lemmas": 11,
+		"adjacent_sentence_overlap_function_lemmas_normed": 1,
+		"binary_adjacent_sentence_overlap_function_lemmas": 1,
+		"adjacent_two_sentence_overlap_function_lemmas": 0,
+		"adjacent_two_sentence_overlap_function_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_function_lemmas": 0,
+		"adjacent_sentence_overlap_noun_lemmas": 11,
+		"adjacent_sentence_overlap_noun_lemmas_normed": 1,
+		"binary_adjacent_sentence_overlap_noun_lemmas": 1,
+		"adjacent_two_sentence_overlap_noun_lemmas": 0,
+		"adjacent_two_sentence_overlap_noun_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_noun_lemmas": 0,
+		"adjacent_sentence_overlap_verb_lemmas": 5,
+		"adjacent_sentence_overlap_verb_lemmas_normed": 1,
+		"binary_adjacent_sentence_overlap_verb_lemmas": 1,
+		"adjacent_two_sentence_overlap_verb_lemmas": 0,
+		"adjacent_two_sentence_overlap_verb_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_verb_lemmas": 0,
+		"adjacent_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_sentence_overlap_adjective_lemmas_normed": 0,
+		"binary_adjacent_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_sentence_overlap_adverb_lemmas": 1,
+		"adjacent_sentence_overlap_adverb_lemmas_normed": 1,
+		"binary_adjacent_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adverb_lemmas": 0
+	},
+	"basic_count": {
+		"para_Cnt": 1,
+		"sentence_Cnt": 2,
+		"word_Cnt": 55,
+		"morph_Cnt": 99,
+		"char_Cnt": 152,
+		"CL_Cnt": 54,
+		"NL_Cnt": 35,
+		"NN_Cnt": 35,
+		"NNG_Cnt": 29,
+		"NNP_Cnt": 1,
+		"NNB_Cnt": 5,
+		"NP_Cnt": 0,
+		"NP_People_Cnt": 0,
+		"NP_Things_Cnt": 0,
+		"NR_Cnt": 0,
+		"VL_Cnt": 16,
+		"VV_Cnt": 11,
+		"VA_Cnt": 2,
+		"VX_Cnt": 2,
+		"VCP_Cnt": 1,
+		"VCN_Cnt": 0,
+		"ML_Cnt": 3,
+		"MA_Cnt": 0,
+		"MM_Cnt": 0,
+		"FL_Cnt": 34,
+		"J_Cnt": 18,
+		"E_Cnt": 16,
+		"X_Cnt": 0,
+		"IC_Cnt": 0
+	},
+	"basic_density": {
+		"CL_Den": 0.5454545454545454,
+		"FL_Den": 0.3434343434343434,
+		"NL_Den": 0.35353535353535354,
+		"NNGL_Den": 0.29292929292929293,
+		"NNPL_Den": 0.010101010101010102,
+		"NNBL_Den": 0.050505050505050504,
+		"NPL_Den": 0.0,
+		"NML_Den": 0.0,
+		"VL_Den": 0.16161616161616163,
+		"VVL_Den": 0.1111111111111111,
+		"VAL_Den": 0.020202020202020204,
+		"ML_Den": 0.030303030303030304,
+		"MML_Den": 0.0,
+		"MAL_Den": 0.0,
+		"JL_Den": 0.18181818181818182,
+		"EL_Den": 0.16161616161616163,
+		"XL_Den": 0.0,
+		"ITL_Den": 0.0,
+		"NCL_Den": 0.6481481481481481,
+		"NNCL_Den": 0.5370370370370371,
+		"NNGCL_Den": 0.018518518518518517,
+		"NNBCL_Den": 0.09259259259259259,
+		"NPCL_Den": 0.0,
+		"NMCL_Den": 0.0,
+		"VCL_Den": 0.2962962962962963,
+		"VVCL_Den": 0.2037037037037037,
+		"VACL_Den": 0.037037037037037035,
+		"MCL_Den": 0.05555555555555555,
+		"MMCL_Den": 0.0,
+		"MACL_Den": 0.0,
+		"INCL_Den": 0.0,
+		"JFL_Den": 0.5294117647058824,
+		"EFL_Den": 0.47058823529411764,
+		"XFL_Den": 0.0
+	},
+	"basic_level": {
+		"morph_LenAvg": 1.7676767676767677,
+		"morph_LenStd": 1.07146913989302,
+		"word_LenAvg": 2.9454545454545453,
+		"word_LenStd": 1.64502756891164
+	},
+	"basic_list": {
+		"NL_Lst": [
+			[
+				0,
+				"Station",
+				"NNP",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				1,
+				"기차역",
+				"NNG",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				2,
+				"지하철역",
+				"NNG",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				3,
+				"등",
+				"NNB",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				4,
+				"역",
+				"NNG",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				5,
+				"정류장",
+				"NNG",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				6,
+				"주유소",
+				"NNG",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				7,
+				"가스",
+				"NNG",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				8,
+				"충전소",
+				"NNG",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				9,
+				"등",
+				"NNB",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				10,
+				"교통",
+				"NNG",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				11,
+				"연관",
+				"NNG",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				12,
+				"단어",
+				"NNG",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				13,
+				"단어",
+				"NNG",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				14,
+				"자체",
+				"NNG",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				15,
+				"뜻",
+				"NNG",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				16,
+				"연구",
+				"NNG",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				17,
+				"기지",
+				"NNG",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				18,
+				"연구원",
+				"NNG",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				19,
+				"군인",
+				"NNG",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				20,
+				"등",
+				"NNB",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				21,
+				"동사",
+				"NNG",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				22,
+				"뜻",
+				"NNG",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				23,
+				"것",
+				"NNB",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				24,
+				"향후",
+				"NNG",
+				"향후 다음 세대에 우주 정거장을 새로 건설하게 되면, 달이나 화성으로 가는 교통 거점 역할도 할 것으로 봅니다."
+			],
+			[
+				25,
+				"다음",
+				"NNG",
+				"향후 다음 세대에 우주 정거장을 새로 건설하게 되면, 달이나 화성으로 가는 교통 거점 역할도 할 것으로 봅니다."
+			],
+			[
+				26,
+				"세대",
+				"NNG",
+				"향후 다음 세대에 우주 정거장을 새로 건설하게 되면, 달이나 화성으로 가는 교통 거점 역할도 할 것으로 봅니다."
+			],
+			[
+				27,
+				"우주",
+				"NNG",
+				"향후 다음 세대에 우주 정거장을 새로 건설하게 되면, 달이나 화성으로 가는 교통 거점 역할도 할 것으로 봅니다."
+			],
+			[
+				28,
+				"정거장",
+				"NNG",
+				"향후 다음 세대에 우주 정거장을 새로 건설하게 되면, 달이나 화성으로 가는 교통 거점 역할도 할 것으로 봅니다."
+			],
+			[
+				29,
+				"달",
+				"NNG",
+				"향후 다음 세대에 우주 정거장을 새로 건설하게 되면, 달이나 화성으로 가는 교통 거점 역할도 할 것으로 봅니다."
+			],
+			[
+				30,
+				"화성",
+				"NNG",
+				"향후 다음 세대에 우주 정거장을 새로 건설하게 되면, 달이나 화성으로 가는 교통 거점 역할도 할 것으로 봅니다."
+			],
+			[
+				31,
+				"교통",
+				"NNG",
+				"향후 다음 세대에 우주 정거장을 새로 건설하게 되면, 달이나 화성으로 가는 교통 거점 역할도 할 것으로 봅니다."
+			],
+			[
+				32,
+				"거점",
+				"NNG",
+				"향후 다음 세대에 우주 정거장을 새로 건설하게 되면, 달이나 화성으로 가는 교통 거점 역할도 할 것으로 봅니다."
+			],
+			[
+				33,
+				"역할",
+				"NNG",
+				"향후 다음 세대에 우주 정거장을 새로 건설하게 되면, 달이나 화성으로 가는 교통 거점 역할도 할 것으로 봅니다."
+			],
+			[
+				34,
+				"것",
+				"NNB",
+				"향후 다음 세대에 우주 정거장을 새로 건설하게 되면, 달이나 화성으로 가는 교통 거점 역할도 할 것으로 봅니다."
+			]
+		],
+		"NN_Lst": [
+			[
+				0,
+				"Station",
+				"NNP",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				1,
+				"기차역",
+				"NNG",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				2,
+				"지하철역",
+				"NNG",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				3,
+				"등",
+				"NNB",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				4,
+				"역",
+				"NNG",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				5,
+				"정류장",
+				"NNG",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				6,
+				"주유소",
+				"NNG",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				7,
+				"가스",
+				"NNG",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				8,
+				"충전소",
+				"NNG",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				9,
+				"등",
+				"NNB",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				10,
+				"교통",
+				"NNG",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				11,
+				"연관",
+				"NNG",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				12,
+				"단어",
+				"NNG",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				13,
+				"단어",
+				"NNG",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				14,
+				"자체",
+				"NNG",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				15,
+				"뜻",
+				"NNG",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				16,
+				"연구",
+				"NNG",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				17,
+				"기지",
+				"NNG",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				18,
+				"연구원",
+				"NNG",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				19,
+				"군인",
+				"NNG",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				20,
+				"등",
+				"NNB",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				21,
+				"동사",
+				"NNG",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				22,
+				"뜻",
+				"NNG",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				23,
+				"것",
+				"NNB",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				24,
+				"향후",
+				"NNG",
+				"향후 다음 세대에 우주 정거장을 새로 건설하게 되면, 달이나 화성으로 가는 교통 거점 역할도 할 것으로 봅니다."
+			],
+			[
+				25,
+				"다음",
+				"NNG",
+				"향후 다음 세대에 우주 정거장을 새로 건설하게 되면, 달이나 화성으로 가는 교통 거점 역할도 할 것으로 봅니다."
+			],
+			[
+				26,
+				"세대",
+				"NNG",
+				"향후 다음 세대에 우주 정거장을 새로 건설하게 되면, 달이나 화성으로 가는 교통 거점 역할도 할 것으로 봅니다."
+			],
+			[
+				27,
+				"우주",
+				"NNG",
+				"향후 다음 세대에 우주 정거장을 새로 건설하게 되면, 달이나 화성으로 가는 교통 거점 역할도 할 것으로 봅니다."
+			],
+			[
+				28,
+				"정거장",
+				"NNG",
+				"향후 다음 세대에 우주 정거장을 새로 건설하게 되면, 달이나 화성으로 가는 교통 거점 역할도 할 것으로 봅니다."
+			],
+			[
+				29,
+				"달",
+				"NNG",
+				"향후 다음 세대에 우주 정거장을 새로 건설하게 되면, 달이나 화성으로 가는 교통 거점 역할도 할 것으로 봅니다."
+			],
+			[
+				30,
+				"화성",
+				"NNG",
+				"향후 다음 세대에 우주 정거장을 새로 건설하게 되면, 달이나 화성으로 가는 교통 거점 역할도 할 것으로 봅니다."
+			],
+			[
+				31,
+				"교통",
+				"NNG",
+				"향후 다음 세대에 우주 정거장을 새로 건설하게 되면, 달이나 화성으로 가는 교통 거점 역할도 할 것으로 봅니다."
+			],
+			[
+				32,
+				"거점",
+				"NNG",
+				"향후 다음 세대에 우주 정거장을 새로 건설하게 되면, 달이나 화성으로 가는 교통 거점 역할도 할 것으로 봅니다."
+			],
+			[
+				33,
+				"역할",
+				"NNG",
+				"향후 다음 세대에 우주 정거장을 새로 건설하게 되면, 달이나 화성으로 가는 교통 거점 역할도 할 것으로 봅니다."
+			],
+			[
+				34,
+				"것",
+				"NNB",
+				"향후 다음 세대에 우주 정거장을 새로 건설하게 되면, 달이나 화성으로 가는 교통 거점 역할도 할 것으로 봅니다."
+			]
+		],
+		"NNG_Lst": [
+			[
+				0,
+				"기차역",
+				"NNG",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				1,
+				"지하철역",
+				"NNG",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				2,
+				"역",
+				"NNG",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				3,
+				"정류장",
+				"NNG",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				4,
+				"주유소",
+				"NNG",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				5,
+				"가스",
+				"NNG",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				6,
+				"충전소",
+				"NNG",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				7,
+				"교통",
+				"NNG",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				8,
+				"연관",
+				"NNG",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				9,
+				"단어",
+				"NNG",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				10,
+				"단어",
+				"NNG",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				11,
+				"자체",
+				"NNG",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				12,
+				"뜻",
+				"NNG",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				13,
+				"연구",
+				"NNG",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				14,
+				"기지",
+				"NNG",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				15,
+				"연구원",
+				"NNG",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				16,
+				"군인",
+				"NNG",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				17,
+				"동사",
+				"NNG",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				18,
+				"뜻",
+				"NNG",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				19,
+				"향후",
+				"NNG",
+				"향후 다음 세대에 우주 정거장을 새로 건설하게 되면, 달이나 화성으로 가는 교통 거점 역할도 할 것으로 봅니다."
+			],
+			[
+				20,
+				"다음",
+				"NNG",
+				"향후 다음 세대에 우주 정거장을 새로 건설하게 되면, 달이나 화성으로 가는 교통 거점 역할도 할 것으로 봅니다."
+			],
+			[
+				21,
+				"세대",
+				"NNG",
+				"향후 다음 세대에 우주 정거장을 새로 건설하게 되면, 달이나 화성으로 가는 교통 거점 역할도 할 것으로 봅니다."
+			],
+			[
+				22,
+				"우주",
+				"NNG",
+				"향후 다음 세대에 우주 정거장을 새로 건설하게 되면, 달이나 화성으로 가는 교통 거점 역할도 할 것으로 봅니다."
+			],
+			[
+				23,
+				"정거장",
+				"NNG",
+				"향후 다음 세대에 우주 정거장을 새로 건설하게 되면, 달이나 화성으로 가는 교통 거점 역할도 할 것으로 봅니다."
+			],
+			[
+				24,
+				"달",
+				"NNG",
+				"향후 다음 세대에 우주 정거장을 새로 건설하게 되면, 달이나 화성으로 가는 교통 거점 역할도 할 것으로 봅니다."
+			],
+			[
+				25,
+				"화성",
+				"NNG",
+				"향후 다음 세대에 우주 정거장을 새로 건설하게 되면, 달이나 화성으로 가는 교통 거점 역할도 할 것으로 봅니다."
+			],
+			[
+				26,
+				"교통",
+				"NNG",
+				"향후 다음 세대에 우주 정거장을 새로 건설하게 되면, 달이나 화성으로 가는 교통 거점 역할도 할 것으로 봅니다."
+			],
+			[
+				27,
+				"거점",
+				"NNG",
+				"향후 다음 세대에 우주 정거장을 새로 건설하게 되면, 달이나 화성으로 가는 교통 거점 역할도 할 것으로 봅니다."
+			],
+			[
+				28,
+				"역할",
+				"NNG",
+				"향후 다음 세대에 우주 정거장을 새로 건설하게 되면, 달이나 화성으로 가는 교통 거점 역할도 할 것으로 봅니다."
+			]
+		],
+		"NNP_Lst": [
+			[
+				0,
+				"Station",
+				"NNP",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			]
+		],
+		"NNB_Lst": [
+			[
+				0,
+				"등",
+				"NNB",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				1,
+				"등",
+				"NNB",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				2,
+				"등",
+				"NNB",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				3,
+				"것",
+				"NNB",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				4,
+				"것",
+				"NNB",
+				"향후 다음 세대에 우주 정거장을 새로 건설하게 되면, 달이나 화성으로 가는 교통 거점 역할도 할 것으로 봅니다."
+			]
+		],
+		"NP_Lst": [],
+		"NP_People_Lst": [],
+		"NP_Things_Lst": [],
+		"NR_Lst": [],
+		"VL_Lst": [
+			[
+				0,
+				"하",
+				"VV",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				1,
+				"있",
+				"VA",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				2,
+				"떠올리",
+				"VV",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				3,
+				"되",
+				"VV",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				4,
+				"이",
+				"VCP",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				5,
+				"배치하",
+				"VV",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				6,
+				"들어가",
+				"VV",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				7,
+				"있",
+				"VX",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				8,
+				"이렇",
+				"VA",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				9,
+				"표기하",
+				"VV",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				10,
+				"보이",
+				"VV",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				11,
+				"건설하",
+				"VV",
+				"향후 다음 세대에 우주 정거장을 새로 건설하게 되면, 달이나 화성으로 가는 교통 거점 역할도 할 것으로 봅니다."
+			],
+			[
+				12,
+				"되",
+				"VV",
+				"향후 다음 세대에 우주 정거장을 새로 건설하게 되면, 달이나 화성으로 가는 교통 거점 역할도 할 것으로 봅니다."
+			],
+			[
+				13,
+				"가",
+				"VV",
+				"향후 다음 세대에 우주 정거장을 새로 건설하게 되면, 달이나 화성으로 가는 교통 거점 역할도 할 것으로 봅니다."
+			],
+			[
+				14,
+				"하",
+				"VX",
+				"향후 다음 세대에 우주 정거장을 새로 건설하게 되면, 달이나 화성으로 가는 교통 거점 역할도 할 것으로 봅니다."
+			],
+			[
+				15,
+				"보",
+				"VV",
+				"향후 다음 세대에 우주 정거장을 새로 건설하게 되면, 달이나 화성으로 가는 교통 거점 역할도 할 것으로 봅니다."
+			]
+		],
+		"VV_Lst": [
+			[
+				0,
+				"하",
+				"VV",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				1,
+				"떠올리",
+				"VV",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				2,
+				"되",
+				"VV",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				3,
+				"배치하",
+				"VV",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				4,
+				"들어가",
+				"VV",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				5,
+				"표기하",
+				"VV",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				6,
+				"보이",
+				"VV",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				7,
+				"건설하",
+				"VV",
+				"향후 다음 세대에 우주 정거장을 새로 건설하게 되면, 달이나 화성으로 가는 교통 거점 역할도 할 것으로 봅니다."
+			],
+			[
+				8,
+				"되",
+				"VV",
+				"향후 다음 세대에 우주 정거장을 새로 건설하게 되면, 달이나 화성으로 가는 교통 거점 역할도 할 것으로 봅니다."
+			],
+			[
+				9,
+				"가",
+				"VV",
+				"향후 다음 세대에 우주 정거장을 새로 건설하게 되면, 달이나 화성으로 가는 교통 거점 역할도 할 것으로 봅니다."
+			],
+			[
+				10,
+				"보",
+				"VV",
+				"향후 다음 세대에 우주 정거장을 새로 건설하게 되면, 달이나 화성으로 가는 교통 거점 역할도 할 것으로 봅니다."
+			]
+		],
+		"VA_Lst": [
+			[
+				0,
+				"있",
+				"VA",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				1,
+				"이렇",
+				"VA",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			]
+		],
+		"VX_Lst": [
+			[
+				0,
+				"있",
+				"VX",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				1,
+				"하",
+				"VX",
+				"향후 다음 세대에 우주 정거장을 새로 건설하게 되면, 달이나 화성으로 가는 교통 거점 역할도 할 것으로 봅니다."
+			]
+		],
+		"VCP_Lst": [
+			[
+				0,
+				"이",
+				"VCP",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			]
+		],
+		"VCN_Lst": [],
+		"ML_Lst": [
+			[
+				0,
+				"보통",
+				"MAG",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				1,
+				"실제로",
+				"MAG",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				2,
+				"새로",
+				"MAG",
+				"향후 다음 세대에 우주 정거장을 새로 건설하게 되면, 달이나 화성으로 가는 교통 거점 역할도 할 것으로 봅니다."
+			]
+		],
+		"MA_Lst": [],
+		"MM_Lst": [],
+		"J_Lst": [
+			[
+				0,
+				"의",
+				"JKG",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				1,
+				"이나",
+				"JC",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				2,
+				"나",
+				"JC",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				3,
+				"과",
+				"JKB",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				4,
+				"를",
+				"JKO",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				5,
+				"는",
+				"JX",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				6,
+				"의",
+				"JKG",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				7,
+				"에",
+				"JKB",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				8,
+				"이나",
+				"JC",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				9,
+				"을",
+				"JKO",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				10,
+				"도",
+				"JX",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				11,
+				"으로",
+				"JKB",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				12,
+				"에",
+				"JKB",
+				"향후 다음 세대에 우주 정거장을 새로 건설하게 되면, 달이나 화성으로 가는 교통 거점 역할도 할 것으로 봅니다."
+			],
+			[
+				13,
+				"을",
+				"JKO",
+				"향후 다음 세대에 우주 정거장을 새로 건설하게 되면, 달이나 화성으로 가는 교통 거점 역할도 할 것으로 봅니다."
+			],
+			[
+				14,
+				"이나",
+				"JX",
+				"향후 다음 세대에 우주 정거장을 새로 건설하게 되면, 달이나 화성으로 가는 교통 거점 역할도 할 것으로 봅니다."
+			],
+			[
+				15,
+				"으로",
+				"JKB",
+				"향후 다음 세대에 우주 정거장을 새로 건설하게 되면, 달이나 화성으로 가는 교통 거점 역할도 할 것으로 봅니다."
+			],
+			[
+				16,
+				"도",
+				"JX",
+				"향후 다음 세대에 우주 정거장을 새로 건설하게 되면, 달이나 화성으로 가는 교통 거점 역할도 할 것으로 봅니다."
+			],
+			[
+				17,
+				"으로",
+				"JKB",
+				"향후 다음 세대에 우주 정거장을 새로 건설하게 되면, 달이나 화성으로 가는 교통 거점 역할도 할 것으로 봅니다."
+			]
+		],
+		"E_Lst": [
+			[
+				0,
+				"면",
+				"EC",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				1,
+				"는",
+				"ETM",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				2,
+				"게",
+				"EC",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				3,
+				"나",
+				"EC",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				4,
+				"라는",
+				"ETM",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				5,
+				"다는",
+				"ETM",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				6,
+				"아",
+				"EC",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				7,
+				"어서",
+				"EC",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				8,
+				"게",
+				"EC",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				9,
+				"ㄴ",
+				"ETM",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				10,
+				"ㅂ니다",
+				"EF",
+				"보통 'Station'이라고 하면 기차역, 지하철역 등의 역이나 정류장, 주유소나 가스 충전소 등 교통과 연관 있는 단어를 떠올리게 되나 실제로는 이 Station이라는 단어 자체의 뜻에 연구 기지, 연구원이나 군인 등을 배치하다는 동사 뜻도 들어가 있어서 이렇게 표기한 것으로 보입니다."
+			],
+			[
+				11,
+				"게",
+				"EC",
+				"향후 다음 세대에 우주 정거장을 새로 건설하게 되면, 달이나 화성으로 가는 교통 거점 역할도 할 것으로 봅니다."
+			],
+			[
+				12,
+				"면",
+				"EC",
+				"향후 다음 세대에 우주 정거장을 새로 건설하게 되면, 달이나 화성으로 가는 교통 거점 역할도 할 것으로 봅니다."
+			],
+			[
+				13,
+				"는",
+				"ETM",
+				"향후 다음 세대에 우주 정거장을 새로 건설하게 되면, 달이나 화성으로 가는 교통 거점 역할도 할 것으로 봅니다."
+			],
+			[
+				14,
+				"ㄹ",
+				"ETM",
+				"향후 다음 세대에 우주 정거장을 새로 건설하게 되면, 달이나 화성으로 가는 교통 거점 역할도 할 것으로 봅니다."
+			],
+			[
+				15,
+				"ㅂ니다",
+				"EF",
+				"향후 다음 세대에 우주 정거장을 새로 건설하게 되면, 달이나 화성으로 가는 교통 거점 역할도 할 것으로 봅니다."
+			]
+		],
+		"X_Lst": [],
+		"IC_Lst": []
+	},
+	"NDW": {
+		"morph_NDW": 75,
+		"NL_NDW": 35,
+		"NNG_NDW": 29,
+		"NNP_NDW": 1,
+		"NNB_NDW": 5,
+		"NP_NDW": 0,
+		"NR_NDW": 0,
+		"VL_NDW": 16,
+		"VV_NDW": 11,
+		"VA_NDW": 2,
+		"ML_NDW": 3,
+		"MM_NDW": 0,
+		"IC_NDW": 0,
+		"J_NDW": 18,
+		"E_NDW": 16,
+		"X_NDW": 0,
+		"CL_NDW": 54,
+		"FL_NDW": 34
+	}
+}

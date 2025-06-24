@@ -1,0 +1,6591 @@
+﻿{
+	"morpheme": {
+		"sentences": [
+			{
+				"text": {
+					"content": "나는 특정 기준에 따른 개인의 성취도 평가가 최고의 평가라고 생각하지는 않는다.",
+					"length": 44,
+					"beginOffset": 0
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "나는",
+							"length": 2,
+							"beginOffset": 0
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "나",
+									"length": 1,
+									"beginOffset": 0
+								},
+								"tag": "NP",
+								"probability": 0.9768383,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 1,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9986256,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "나",
+						"tagged": "나/NP+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "특정",
+							"beginOffset": 3,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "특정",
+									"beginOffset": 3,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.984326,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "특정",
+						"tagged": "특정/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "기준에",
+							"beginOffset": 6,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "기준",
+									"beginOffset": 6,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9847852,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 8,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.98913485,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "기준",
+						"tagged": "기준/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "따른",
+							"beginOffset": 10,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "따르",
+									"beginOffset": 10,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9884742,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 11,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999859,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "따르",
+						"tagged": "따르/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "개인의",
+							"beginOffset": 13,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "개인",
+									"beginOffset": 13,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9839833,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 15,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9998193,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "개인",
+						"tagged": "개인/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "성취도",
+							"beginOffset": 17,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "성취",
+									"beginOffset": 17,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.981248,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 19,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9796932,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "성취",
+						"tagged": "성취/NNG+도/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "평가가",
+							"beginOffset": 21,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "평가",
+									"beginOffset": 21,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98468876,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 23,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9938918,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "평가",
+						"tagged": "평가/NNG+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "최고의",
+							"beginOffset": 25,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "최고",
+									"beginOffset": 25,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98401505,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 27,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9997619,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "최고",
+						"tagged": "최고/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "평가라고",
+							"beginOffset": 29,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "평가",
+									"beginOffset": 29,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9841944,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 31,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.9999122,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "라고",
+									"beginOffset": 31,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9915409,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "평가",
+						"tagged": "평가/NNG+이/VCP+라고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "생각하지는",
+							"beginOffset": 34,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "생각하",
+									"beginOffset": 34,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.0,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "지",
+									"beginOffset": 37,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.994272,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 38,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9989124,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "생각하",
+						"tagged": "생각하/VV+지/EC+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "않는다.",
+							"beginOffset": 40,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "않",
+									"beginOffset": 40,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.5617511,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는다",
+									"beginOffset": 41,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.9897548,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 43,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99970603,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "않",
+						"tagged": "않/VX+는다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "나는 특정 기준에 따른 개인의 성취도 평가가 최고의 평가라고 생각하지는 않는다."
+			},
+			{
+				"text": {
+					"content": "만약 특정한 기준으로 평가를 한다면 하나밖에 존재하지 않는 틀에, 그것에 맞지 않을지도 모르는 개인을 욱여넣는 것과 다를 바 없다고 나는 생각한다.",
+					"beginOffset": 45,
+					"length": 82
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "만약",
+							"beginOffset": 45,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "만약",
+									"beginOffset": 45,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9814712,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "만약",
+						"tagged": "만약/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "특정한",
+							"beginOffset": 48,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "특정하",
+									"beginOffset": 48,
+									"length": 3
+								},
+								"tag": "VA",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 50,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999762,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "특정하",
+						"tagged": "특정하/VA+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "기준으로",
+							"beginOffset": 52,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "기준",
+									"beginOffset": 52,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.985415,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으로",
+									"beginOffset": 54,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9968459,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "기준",
+						"tagged": "기준/NNG+으로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "평가를",
+							"beginOffset": 57,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "평가",
+									"beginOffset": 57,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98444754,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 59,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99986756,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "평가",
+						"tagged": "평가/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "한다면",
+							"beginOffset": 61,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 61,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.97959596,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ다면",
+									"beginOffset": 61,
+									"length": 3
+								},
+								"tag": "EC",
+								"probability": 0.995458,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VV+ㄴ다면/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "하나밖에",
+							"beginOffset": 65,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하나",
+									"beginOffset": 65,
+									"length": 2
+								},
+								"tag": "NR",
+								"probability": 0.99261886,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "밖에",
+									"beginOffset": 67,
+									"length": 2
+								},
+								"tag": "JX",
+								"probability": 0.9982116,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하나",
+						"tagged": "하나/NR+밖에/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "존재하지",
+							"beginOffset": 70,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "존재하",
+									"beginOffset": 70,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "지",
+									"beginOffset": 73,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9940479,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "존재하",
+						"tagged": "존재하/VV+지/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "않는",
+							"beginOffset": 75,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "않",
+									"beginOffset": 75,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.9486603,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 76,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99997884,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "않",
+						"tagged": "않/VX+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "틀에",
+							"beginOffset": 78,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "틀",
+									"beginOffset": 78,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.98495954,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 79,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.98645335,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "틀",
+						"tagged": "틀/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": ",",
+							"beginOffset": 80,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 80,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.9983782,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": ",",
+						"tagged": ",/SP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "그것에",
+							"beginOffset": 82,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그것",
+									"beginOffset": 82,
+									"length": 2
+								},
+								"tag": "NP",
+								"probability": 0.98682415,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 84,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99229056,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그것",
+						"tagged": "그것/NP+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "맞지",
+							"beginOffset": 86,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "맞",
+									"beginOffset": 86,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9904166,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "지",
+									"beginOffset": 87,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9950631,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "맞",
+						"tagged": "맞/VV+지/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "않을지도",
+							"beginOffset": 89,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "않",
+									"beginOffset": 89,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.9405264,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을지",
+									"beginOffset": 90,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.8308996,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 92,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9995414,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "않",
+						"tagged": "않/VX+을지/EF+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "모르는",
+							"beginOffset": 94,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "모르",
+									"beginOffset": 94,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9891652,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 96,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999413,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "모르",
+						"tagged": "모르/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "개인을",
+							"beginOffset": 98,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "개인",
+									"beginOffset": 98,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9849032,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 100,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99997973,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "개인",
+						"tagged": "개인/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "욱여",
+							"beginOffset": 102,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "욱이",
+									"beginOffset": 102,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.90700746,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "어",
+									"beginOffset": 103,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9901625,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "욱이",
+						"tagged": "욱이/VV+어/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "넣는",
+							"beginOffset": 104,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "넣",
+									"beginOffset": 104,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9810937,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 105,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999446,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "넣",
+						"tagged": "넣/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "것과",
+							"beginOffset": 107,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "것",
+									"beginOffset": 107,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.98448676,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "과",
+									"beginOffset": 108,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9092542,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "것",
+						"tagged": "것/NNB+과/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "다를",
+							"beginOffset": 110,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "다르",
+									"beginOffset": 110,
+									"length": 2
+								},
+								"tag": "VA",
+								"probability": 0.9882233,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ",
+									"beginOffset": 111,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99996936,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "다르",
+						"tagged": "다르/VA+ㄹ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "바",
+							"beginOffset": 113,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "바",
+									"beginOffset": 113,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.97828144,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "바",
+						"tagged": "바/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "없다고",
+							"beginOffset": 115,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "없",
+									"beginOffset": 115,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.988485,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다고",
+									"beginOffset": 116,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9912617,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "없",
+						"tagged": "없/VA+다고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "나는",
+							"beginOffset": 119,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "나",
+									"beginOffset": 119,
+									"length": 1
+								},
+								"tag": "NP",
+								"probability": 0.97613794,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 120,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99888295,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "나",
+						"tagged": "나/NP+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "생각한다.",
+							"beginOffset": 122,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "생각하",
+									"beginOffset": 122,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.0,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ다",
+									"beginOffset": 124,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.99081975,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 126,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9995511,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "생각하",
+						"tagged": "생각하/VV+ㄴ다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "만약 특정한 기준으로 평가를 한다면 하나밖에 존재하지 않는 틀에 , 그것에 맞지 않을지도 모르는 개인을 욱여 넣는 것과 다를 바 없다고 나는 생각한다."
+			},
+			{
+				"text": {
+					"content": "나는 또한 여기에 '맥도날드화'라는 개념을 적용해보려 한다.",
+					"beginOffset": 128,
+					"length": 33
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "나는",
+							"beginOffset": 128,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "나",
+									"beginOffset": 128,
+									"length": 1
+								},
+								"tag": "NP",
+								"probability": 0.9752136,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 129,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99908584,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "나",
+						"tagged": "나/NP+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "또한",
+							"beginOffset": 131,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "또한",
+									"beginOffset": 131,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9489721,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "또한",
+						"tagged": "또한/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "여기에",
+							"beginOffset": 134,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "여기",
+									"beginOffset": 134,
+									"length": 2
+								},
+								"tag": "NP",
+								"probability": 0.984303,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 136,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9938691,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "여기",
+						"tagged": "여기/NP+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "'맥도날드화'라는",
+							"beginOffset": 138,
+							"length": 9
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "'",
+									"beginOffset": 138,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.99997234,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "맥도날드",
+									"beginOffset": 139,
+									"length": 4
+								},
+								"tag": "NNP",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "화",
+									"beginOffset": 143,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.9695082,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "'",
+									"beginOffset": 144,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9998666,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 145,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.99935246,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "라는",
+									"beginOffset": 145,
+									"length": 2
+								},
+								"tag": "ETM",
+								"probability": 0.9999773,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "'",
+						"tagged": "'/SS+맥도날드/NNP+화/XSN+'/SS+이/VCP+라는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "개념을",
+							"beginOffset": 148,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "개념",
+									"beginOffset": 148,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98588836,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 150,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99999046,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "개념",
+						"tagged": "개념/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "적용해",
+							"beginOffset": 152,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "적용하",
+									"beginOffset": 152,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 154,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9903922,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "적용하",
+						"tagged": "적용하/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "보려",
+							"beginOffset": 155,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "보",
+									"beginOffset": 155,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.96513546,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "려",
+									"beginOffset": 156,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9934217,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "보",
+						"tagged": "보/VX+려/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "한다.",
+							"beginOffset": 158,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 158,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.95399725,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ다",
+									"beginOffset": 158,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.9945116,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 160,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9998302,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VX+ㄴ다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "나는 또한 여기에 '맥도날드화'라는 개념을 적용해 보려 한다."
+			},
+			{
+				"text": {
+					"content": "이 개념은 미국의 사회학자인 조지 리처가 고안해낸 개념으로, 패스트푸드점의 원리가 전 세계에서 더 많은 부분을 차지하게 되는 것이다.",
+					"beginOffset": 162,
+					"length": 74
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "이",
+							"beginOffset": 162,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 162,
+									"length": 1
+								},
+								"tag": "MMD",
+								"probability": 0.9994308,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이",
+						"tagged": "이/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "개념은",
+							"beginOffset": 164,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "개념",
+									"beginOffset": 164,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.983328,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 166,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99930376,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "개념",
+						"tagged": "개념/NNG+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "미국의",
+							"beginOffset": 168,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "미국",
+									"beginOffset": 168,
+									"length": 2
+								},
+								"tag": "NNP",
+								"probability": 0.9706746,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 170,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9994899,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "미국",
+						"tagged": "미국/NNP+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사회학자인",
+							"beginOffset": 172,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사회학자",
+									"beginOffset": 172,
+									"length": 4
+								},
+								"tag": "NNG",
+								"probability": 0.98328495,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 176,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.9998892,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 176,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9997614,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사회학자",
+						"tagged": "사회학자/NNG+이/VCP+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "조지",
+							"beginOffset": 178,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "조지",
+									"beginOffset": 178,
+									"length": 2
+								},
+								"tag": "NNP",
+								"probability": 0.96501476,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "조지",
+						"tagged": "조지/NNP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "리처가",
+							"beginOffset": 181,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "리처",
+									"beginOffset": 181,
+									"length": 2
+								},
+								"tag": "NNP",
+								"probability": 0.93466413,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 183,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.98115396,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "리처",
+						"tagged": "리처/NNP+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "고안해",
+							"beginOffset": 185,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "고안하",
+									"beginOffset": 185,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 187,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9939824,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "고안하",
+						"tagged": "고안하/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "낸",
+							"beginOffset": 188,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "내",
+									"beginOffset": 188,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.9746082,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 188,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999821,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "내",
+						"tagged": "내/VX+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "개념으로",
+							"beginOffset": 190,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "개념",
+									"beginOffset": 190,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9831138,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으로",
+									"beginOffset": 192,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9956317,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "개념",
+						"tagged": "개념/NNG+으로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": ",",
+							"beginOffset": 194,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 194,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.9992058,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": ",",
+						"tagged": ",/SP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "패스트푸드점의",
+							"beginOffset": 196,
+							"length": 7
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "패스트푸드점",
+									"beginOffset": 196,
+									"length": 6
+								},
+								"tag": "NNG",
+								"probability": 0.9806927,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 202,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9997284,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "패스트푸드점",
+						"tagged": "패스트푸드점/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "원리가",
+							"beginOffset": 204,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "원리",
+									"beginOffset": 204,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98234123,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 206,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9898646,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "원리",
+						"tagged": "원리/NNG+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "전",
+							"beginOffset": 208,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "전",
+									"beginOffset": 208,
+									"length": 1
+								},
+								"tag": "MMN",
+								"probability": 0.98275834,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "전",
+						"tagged": "전/MMN",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "세계에서",
+							"beginOffset": 210,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "세계",
+									"beginOffset": 210,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98177993,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에서",
+									"beginOffset": 212,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9938747,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "세계",
+						"tagged": "세계/NNG+에서/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "더",
+							"beginOffset": 215,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "더",
+									"beginOffset": 215,
+									"length": 1
+								},
+								"tag": "MAG",
+								"probability": 0.9941997,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "더",
+						"tagged": "더/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "많은",
+							"beginOffset": 217,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "많",
+									"beginOffset": 217,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9871733,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 218,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99996465,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "많",
+						"tagged": "많/VA+은/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "부분을",
+							"beginOffset": 220,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "부분",
+									"beginOffset": 220,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9858324,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 222,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99991596,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "부분",
+						"tagged": "부분/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "차지하게",
+							"beginOffset": 224,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "차지하",
+									"beginOffset": 224,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "게",
+									"beginOffset": 227,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9953284,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "차지하",
+						"tagged": "차지하/VV+게/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "되는",
+							"beginOffset": 229,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "되",
+									"beginOffset": 229,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9715752,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 230,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999787,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "되",
+						"tagged": "되/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "것이다.",
+							"beginOffset": 232,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "것",
+									"beginOffset": 232,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.984104,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 233,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.9996252,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 234,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9908354,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 235,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99912715,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "것",
+						"tagged": "것/NNB+이/VCP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "이 개념은 미국의 사회학자인 조지 리처가 고안해 낸 개념으로 , 패스트푸드점의 원리가 전 세계에서 더 많은 부분을 차지하게 되는 것이다."
+			},
+			{
+				"text": {
+					"content": "이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다.",
+					"beginOffset": 237,
+					"length": 102
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "이",
+							"beginOffset": 237,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 237,
+									"length": 1
+								},
+								"tag": "MMD",
+								"probability": 0.9993061,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이",
+						"tagged": "이/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "맥도날드화의",
+							"beginOffset": 239,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "맥도날드",
+									"beginOffset": 239,
+									"length": 4
+								},
+								"tag": "NNP",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "화",
+									"beginOffset": 243,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.98188233,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 244,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9995115,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "맥도날드",
+						"tagged": "맥도날드/NNP+화/XSN+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "특징중",
+							"beginOffset": 246,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "특징",
+									"beginOffset": 246,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9837111,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "중",
+									"beginOffset": 248,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9570173,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "특징",
+						"tagged": "특징/NNG+중/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "하나인",
+							"beginOffset": 250,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하나",
+									"beginOffset": 250,
+									"length": 2
+								},
+								"tag": "NR",
+								"probability": 0.99429405,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 252,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.99992853,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 252,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9998522,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하나",
+						"tagged": "하나/NR+이/VCP+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "예측가능성은",
+							"beginOffset": 254,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "예측",
+									"beginOffset": 254,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9827685,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가능",
+									"beginOffset": 256,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9852046,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "성",
+									"beginOffset": 258,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.98898953,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 259,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99915516,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "예측",
+						"tagged": "예측/NNG+가능/NNG+성/XSN+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "제품이나",
+							"beginOffset": 261,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "제품",
+									"beginOffset": 261,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9823881,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이나",
+									"beginOffset": 263,
+									"length": 2
+								},
+								"tag": "JC",
+								"probability": 0.9809918,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "제품",
+						"tagged": "제품/NNG+이나/JC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "서비스가",
+							"beginOffset": 266,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "서비스",
+									"beginOffset": 266,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.98461586,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 269,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.91493624,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "서비스",
+						"tagged": "서비스/NNG+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "어디서나",
+							"beginOffset": 271,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "어디",
+									"beginOffset": 271,
+									"length": 2
+								},
+								"tag": "NP",
+								"probability": 0.9862491,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "서",
+									"beginOffset": 273,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99414635,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "나",
+									"beginOffset": 274,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9917959,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "어디",
+						"tagged": "어디/NP+서/JKB+나/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "동일할",
+							"beginOffset": 276,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "동일하",
+									"beginOffset": 276,
+									"length": 3
+								},
+								"tag": "VA",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄹ",
+									"beginOffset": 278,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.999968,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "동일하",
+						"tagged": "동일하/VA+ㄹ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "것이라는",
+							"beginOffset": 280,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "것",
+									"beginOffset": 280,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9818987,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 281,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.99992716,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "라는",
+									"beginOffset": 282,
+									"length": 2
+								},
+								"tag": "ETM",
+								"probability": 0.9999637,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "것",
+						"tagged": "것/NNB+이/VCP+라는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "것을",
+							"beginOffset": 285,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "것",
+									"beginOffset": 285,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.983371,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 286,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99997336,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "것",
+						"tagged": "것/NNB+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "의미하며",
+							"beginOffset": 288,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "의미하",
+									"beginOffset": 288,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "며",
+									"beginOffset": 291,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99460834,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "의미하",
+						"tagged": "의미하/VV+며/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": ",",
+							"beginOffset": 292,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 292,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.998962,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": ",",
+						"tagged": ",/SP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "나는",
+							"beginOffset": 294,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "나",
+									"beginOffset": 294,
+									"length": 1
+								},
+								"tag": "NP",
+								"probability": 0.9805893,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 295,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9981765,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "나",
+						"tagged": "나/NP+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이것이",
+							"beginOffset": 297,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이것",
+									"beginOffset": 297,
+									"length": 2
+								},
+								"tag": "NP",
+								"probability": 0.9887686,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 299,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.99469227,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이것",
+						"tagged": "이것/NP+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "특정한",
+							"beginOffset": 301,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "특정하",
+									"beginOffset": 301,
+									"length": 3
+								},
+								"tag": "VA",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 303,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999899,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "특정하",
+						"tagged": "특정하/VA+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "기준으로",
+							"beginOffset": 305,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "기준",
+									"beginOffset": 305,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9840646,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으로",
+									"beginOffset": 307,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9967379,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "기준",
+						"tagged": "기준/NNG+으로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "개인을",
+							"beginOffset": 310,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "개인",
+									"beginOffset": 310,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98178685,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 312,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999686,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "개인",
+						"tagged": "개인/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "평가하며",
+							"beginOffset": 314,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "평가하",
+									"beginOffset": 314,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "며",
+									"beginOffset": 317,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99467367,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "평가하",
+						"tagged": "평가하/VV+며/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "균일화하는",
+							"beginOffset": 319,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "균일화하",
+									"beginOffset": 319,
+									"length": 4
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 323,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999385,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "균일화하",
+						"tagged": "균일화하/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "것과",
+							"beginOffset": 325,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "것",
+									"beginOffset": 325,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9848101,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "과",
+									"beginOffset": 326,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.92324173,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "것",
+						"tagged": "것/NNB+과/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "유사하다고",
+							"beginOffset": 328,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "유사하",
+									"beginOffset": 328,
+									"length": 3
+								},
+								"tag": "VA",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "다고",
+									"beginOffset": 331,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9935577,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "유사하",
+						"tagged": "유사하/VA+다고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "생각한다.",
+							"beginOffset": 334,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "생각하",
+									"beginOffset": 334,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.0,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ다",
+									"beginOffset": 336,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.9897434,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 338,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9999032,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "생각하",
+						"tagged": "생각하/VV+ㄴ다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며 , 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			},
+			{
+				"text": {
+					"content": "하지만 이러한 맥도날드화는 합리성의 불합리성이라는 치명적인 문제로 이어지게 된다.",
+					"beginOffset": 340,
+					"length": 45
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "하지만",
+							"beginOffset": 340,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하지만",
+									"beginOffset": 340,
+									"length": 3
+								},
+								"tag": "MAJ",
+								"probability": 0.9987063,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하지만",
+						"tagged": "하지만/MAJ",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이러한",
+							"beginOffset": 344,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이러하",
+									"beginOffset": 344,
+									"length": 3
+								},
+								"tag": "VA",
+								"probability": 0.98773706,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 346,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999969,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이러하",
+						"tagged": "이러하/VA+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "맥도날드화는",
+							"beginOffset": 348,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "맥도날드",
+									"beginOffset": 348,
+									"length": 4
+								},
+								"tag": "NNP",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "화",
+									"beginOffset": 352,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.98507404,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 353,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9988233,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "맥도날드",
+						"tagged": "맥도날드/NNP+화/XSN+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "합리성의",
+							"beginOffset": 355,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "합리",
+									"beginOffset": 355,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98567945,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "성",
+									"beginOffset": 357,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.9795405,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 358,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9996574,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "합리",
+						"tagged": "합리/NNG+성/XSN+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "불합리성이라는",
+							"beginOffset": 360,
+							"length": 7
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "불",
+									"beginOffset": 360,
+									"length": 1
+								},
+								"tag": "XPN",
+								"probability": 0.996324,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "합리",
+									"beginOffset": 361,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98548865,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "성",
+									"beginOffset": 363,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.989259,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 364,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.9999463,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "라는",
+									"beginOffset": 365,
+									"length": 2
+								},
+								"tag": "ETM",
+								"probability": 0.9999887,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "불",
+						"tagged": "불/XPN+합리/NNG+성/XSN+이/VCP+라는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "치명적인",
+							"beginOffset": 368,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "치명",
+									"beginOffset": 368,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98295796,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "적",
+									"beginOffset": 370,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.9929635,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 371,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.999831,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 371,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99999624,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "치명",
+						"tagged": "치명/NNG+적/XSN+이/VCP+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "문제로",
+							"beginOffset": 373,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "문제",
+									"beginOffset": 373,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9852936,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "로",
+									"beginOffset": 375,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9964633,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "문제",
+						"tagged": "문제/NNG+로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이어지게",
+							"beginOffset": 377,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이어지",
+									"beginOffset": 377,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.98987323,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "게",
+									"beginOffset": 380,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99293983,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이어지",
+						"tagged": "이어지/VV+게/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "된다.",
+							"beginOffset": 382,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "되",
+									"beginOffset": 382,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.96248686,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ다",
+									"beginOffset": 382,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.99067783,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 384,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9998625,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "되",
+						"tagged": "되/VV+ㄴ다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "하지만 이러한 맥도날드화는 합리성의 불합리성이라는 치명적인 문제로 이어지게 된다."
+			},
+			{
+				"text": {
+					"content": "따라서 나는 좋은 평가가 되기 위해서는 개인의 앞으로의 목표의 방향과 적성에 맞는 방법으로 이루어지는 평가가 이루어져야 한다고 생각한다.",
+					"beginOffset": 386,
+					"length": 76
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "따라서",
+							"beginOffset": 386,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "따라서",
+									"beginOffset": 386,
+									"length": 3
+								},
+								"tag": "MAJ",
+								"probability": 0.99697,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "따라서",
+						"tagged": "따라서/MAJ",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "나는",
+							"beginOffset": 390,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "나",
+									"beginOffset": 390,
+									"length": 1
+								},
+								"tag": "NP",
+								"probability": 0.9692078,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 391,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99933094,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "나",
+						"tagged": "나/NP+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "좋은",
+							"beginOffset": 393,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "좋",
+									"beginOffset": 393,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.98841393,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 394,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999889,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "좋",
+						"tagged": "좋/VA+은/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "평가가",
+							"beginOffset": 396,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "평가",
+									"beginOffset": 396,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98449415,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 398,
+									"length": 1
+								},
+								"tag": "JKC",
+								"probability": 0.8736214,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "평가",
+						"tagged": "평가/NNG+가/JKC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "되기",
+							"beginOffset": 400,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "되",
+									"beginOffset": 400,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9860826,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "기",
+									"beginOffset": 401,
+									"length": 1
+								},
+								"tag": "ETN",
+								"probability": 0.9996051,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "되",
+						"tagged": "되/VV+기/ETN",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "위해서는",
+							"beginOffset": 403,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "위하",
+									"beginOffset": 403,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.99142337,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아서",
+									"beginOffset": 404,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99281687,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 406,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9992147,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "위하",
+						"tagged": "위하/VV+아서/EC+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "개인의",
+							"beginOffset": 408,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "개인",
+									"beginOffset": 408,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98513186,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 410,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99946666,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "개인",
+						"tagged": "개인/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "앞으로의",
+							"beginOffset": 412,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "앞",
+									"beginOffset": 412,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.98071045,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으로",
+									"beginOffset": 413,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.99614066,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 415,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9992103,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "앞",
+						"tagged": "앞/NNG+으로/JKB+의/JKG",
+						"modified": "앞으로의"
+					},
+					{
+						"text": {
+							"content": "목표의",
+							"beginOffset": 417,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "목표",
+									"beginOffset": 417,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9833385,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 419,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9993612,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "목표",
+						"tagged": "목표/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "방향과",
+							"beginOffset": 421,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "방향",
+									"beginOffset": 421,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98512256,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "과",
+									"beginOffset": 423,
+									"length": 1
+								},
+								"tag": "JC",
+								"probability": 0.94170815,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "방향",
+						"tagged": "방향/NNG+과/JC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "적성에",
+							"beginOffset": 425,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "적성",
+									"beginOffset": 425,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9863055,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 427,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9939064,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "적성",
+						"tagged": "적성/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "맞는",
+							"beginOffset": 429,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "맞",
+									"beginOffset": 429,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9891348,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 430,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999713,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "맞",
+						"tagged": "맞/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "방법으로",
+							"beginOffset": 432,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "방법",
+									"beginOffset": 432,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9848611,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으로",
+									"beginOffset": 434,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.99653924,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "방법",
+						"tagged": "방법/NNG+으로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이루어지는",
+							"beginOffset": 437,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이루어지",
+									"beginOffset": 437,
+									"length": 4
+								},
+								"tag": "VV",
+								"probability": 0.99044764,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 441,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999624,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이루어지",
+						"tagged": "이루어지/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "평가가",
+							"beginOffset": 443,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "평가",
+									"beginOffset": 443,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9840563,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 445,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.98922604,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "평가",
+						"tagged": "평가/NNG+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이루어져야",
+							"beginOffset": 447,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이루어지",
+									"beginOffset": 447,
+									"length": 4
+								},
+								"tag": "VV",
+								"probability": 0.99101293,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어야",
+									"beginOffset": 450,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9952749,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이루어지",
+						"tagged": "이루어지/VV+어야/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "한다고",
+							"beginOffset": 453,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 453,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.9149572,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ다고",
+									"beginOffset": 453,
+									"length": 3
+								},
+								"tag": "EC",
+								"probability": 0.99226934,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VX+ㄴ다고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "생각한다.",
+							"beginOffset": 457,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "생각하",
+									"beginOffset": 457,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.0,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ다",
+									"beginOffset": 459,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.9851874,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 461,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99901354,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "생각하",
+						"tagged": "생각하/VV+ㄴ다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "따라서 나는 좋은 평가가 되기 위해서는 개인의 앞으로의 목표의 방향과 적성에 맞는 방법으로 이루어지는 평가가 이루어져야 한다고 생각한다."
+			}
+		],
+		"language": "ko_KR"
+	},
+	"ttr": {
+		"lemma_Cnt": 229,
+		"lemma_TTR": 0.4854771784232365,
+		"CL_TTR": 0.6410256410256411,
+		"NL_TTR": 0.640625,
+		"NN_TTR": 0.660377358490566,
+		"NNG_TTR": 0.7,
+		"NNP_TTR": 0.6666666666666666,
+		"NNB_TTR": 0.42857142857142855,
+		"NP_TTR": 0.5555555555555556,
+		"NR_TTR": 0.5,
+		"VL_TTR": 0.6122448979591837,
+		"VV_TTR": 0.72,
+		"VA_TTR": 0.8888888888888888,
+		"ML_TTR": 1.0,
+		"MM_TTR": 0,
+		"MA_TTR": 1.0,
+		"MAJ_TTR": 1.0,
+		"IC_TTR": 0,
+		"FL_TTR": 0.3761467889908257,
+		"J_TTR": 0.3269230769230769,
+		"E_TTR": 0.4489795918367347,
+		"X_TTR": 0.5,
+		"lemma_RTTR": 7.5366325288897205,
+		"CL_RTTR": 6.933752452815363,
+		"NL_RTTR": 5.125,
+		"NN_RTTR": 4.807619738204116,
+		"NNG_RTTR": 4.427188724235731,
+		"NNP_RTTR": 1.6329931618554523,
+		"NNB_RTTR": 1.1338934190276817,
+		"NP_RTTR": 1.6666666666666667,
+		"NR_RTTR": 0.7071067811865475,
+		"VL_RTTR": 4.285714285714286,
+		"VV_RTTR": 3.6,
+		"VA_RTTR": 2.6666666666666665,
+		"ML_RTTR": 2.0,
+		"MM_RTTR": 0,
+		"MA_RTTR": 2.0,
+		"MAJ_RTTR": 1.414213562373095,
+		"IC_RTTR": 0,
+		"FL_RTTR": 3.9270877694067203,
+		"J_RTTR": 2.3574758339572237,
+		"E_RTTR": 3.142857142857143,
+		"X_RTTR": 1.414213562373095,
+		"lemma_CTTR": 5.32920396848904,
+		"CL_CTTR": 4.9029033784546,
+		"NL_CTTR": 3.623922253581056,
+		"NN_CTTR": 3.3995005182504245,
+		"NNG_CTTR": 3.1304951684997055,
+		"NNP_CTTR": 1.1547005383792517,
+		"NNB_CTTR": 0.8017837257372732,
+		"NP_CTTR": 1.1785113019775793,
+		"NR_CTTR": 0.5,
+		"VL_CTTR": 3.0304576336566322,
+		"VV_CTTR": 2.545584412271571,
+		"VA_CTTR": 1.885618083164127,
+		"ML_CTTR": 1.414213562373095,
+		"MM_CTTR": 0,
+		"MA_CTTR": 1.414213562373095,
+		"MAJ_CTTR": 1.0,
+		"IC_CTTR": 0,
+		"FL_CTTR": 2.776870392062245,
+		"J_CTTR": 1.6669871486745644,
+		"E_CTTR": 2.2223355980148636,
+		"X_CTTR": 1.0,
+		"lemma_MSTTR": 0.7749999999999999,
+		"CL_MSTTR": 0.77,
+		"NL_MSTTR": 0.66,
+		"NN_MSTTR": 0.66,
+		"NNG_MSTTR": 0.7,
+		"NNP_MSTTR": 0.6666666666666666,
+		"NNB_MSTTR": 0.42857142857142855,
+		"NP_MSTTR": 0.5555555555555556,
+		"NR_MSTTR": 0.5,
+		"VL_MSTTR": 0.6122448979591837,
+		"VV_MSTTR": 0.72,
+		"VA_MSTTR": 0.8888888888888888,
+		"ML_MSTTR": 1.0,
+		"MM_MSTTR": 0,
+		"MA_MSTTR": 1.0,
+		"MAJ_MSTTR": 1.0,
+		"IC_MSTTR": 0,
+		"FL_MSTTR": 0.52,
+		"J_MSTTR": 0.34,
+		"E_MSTTR": 0.4489795918367347,
+		"X_MSTTR": 0.5,
+		"lemma_MATTR": 0.7816666666666662,
+		"CL_MATTR": 0.7941176470588237,
+		"NL_MATTR": 0.672,
+		"NN_MATTR": 0.67,
+		"NNG_MATTR": 0.7,
+		"NNP_MATTR": 0.6666666666666666,
+		"NNB_MATTR": 0.42857142857142855,
+		"NP_MATTR": 0.5555555555555556,
+		"NR_MATTR": 0.5,
+		"VL_MATTR": 0.6122448979591837,
+		"VV_MATTR": 0.72,
+		"VA_MATTR": 0.8888888888888888,
+		"ML_MATTR": 1.0,
+		"MM_MATTR": 0,
+		"MA_MATTR": 1.0,
+		"MAJ_MATTR": 1.0,
+		"IC_MATTR": 0,
+		"FL_MATTR": 0.5323333333333331,
+		"J_MATTR": 0.34,
+		"E_MATTR": 0.4489795918367347,
+		"X_MATTR": 0.5,
+		"lemma_MTLD": 60.94054441260745,
+		"CL_MTLD": 66.03409090909092,
+		"NL_MTLD": 33.627882599580715,
+		"NN_MTLD": 24.211009174311926,
+		"NNG_MTLD": 32.038216560509554,
+		"NNP_MTLD": 5.04,
+		"NNB_MTLD": 3.4300000000000006,
+		"NP_MTLD": 5.670000000000001,
+		"NR_MTLD": 1.12,
+		"VL_MTLD": 24.37626262626263,
+		"VV_MTLD": 22.596153846153847,
+		"VA_MTLD": 22.679999999999993,
+		"ML_MTLD": 0.0,
+		"MM_MTLD": 0.0,
+		"MA_MTLD": 0.0,
+		"MAJ_MTLD": 0.0,
+		"IC_MTLD": 0.0,
+		"FL_MTLD": 21.69118136439268,
+		"J_MTLD": 10.293406276993954,
+		"E_MTLD": 12.011539233393538,
+		"X_MTLD": 4.48,
+		"lemma_VOCDD": 64.57829055163829,
+		"CL_VOCDD": 67.24932252367701,
+		"NL_VOCDD": 35.635186144424026,
+		"NN_VOCDD": 33.12420846925976,
+		"NNG_VOCDD": 0,
+		"NNP_VOCDD": 0,
+		"NNB_VOCDD": 0,
+		"NP_VOCDD": 0,
+		"NR_VOCDD": 0,
+		"VL_VOCDD": 0,
+		"VV_VOCDD": 0,
+		"VA_VOCDD": 0,
+		"ML_VOCDD": 0,
+		"MM_VOCDD": 0,
+		"MA_VOCDD": 0,
+		"MAJ_VOCDD": 0,
+		"IC_VOCDD": 0,
+		"FL_VOCDD": 15.831773857775929,
+		"J_VOCDD": 4.342497929982379,
+		"E_VOCDD": 0,
+		"X_VOCDD": 0,
+		"lemma_HDD": 0.7953121491558073,
+		"CL_HDD": 0.7989692131837407,
+		"NL_HDD": 0.7056683758908109,
+		"NN_HDD": 0.6934806433458723,
+		"NNG_HDD": 0.0,
+		"NNP_HDD": 0.0,
+		"NNB_HDD": 0.0,
+		"NP_HDD": 0.0,
+		"NR_HDD": 0.0,
+		"VL_HDD": 0.6380406464158285,
+		"VV_HDD": 0.0,
+		"VA_HDD": 0.0,
+		"ML_HDD": 0.0,
+		"MM_HDD": 0.0,
+		"MA_HDD": 0.0,
+		"MAJ_HDD": 0.0,
+		"IC_HDD": 0.0,
+		"FL_HDD": 0.5693492620309016,
+		"J_HDD": 0.3626086426238402,
+		"E_HDD": 0.48375281321331504,
+		"X_HDD": 0.0
+	},
+	"similarity": {
+		"avgSentSimilarity": 0.02180655486881733,
+		"topicConsistency": 0.5508
+	},
+	"adjacency": {
+		"adjacent_sentence_overlap_all_lemmas": 178,
+		"adjacent_sentence_overlap_all_lemmas_normed": 6,
+		"binary_adjacent_sentence_overlap_all_lemmas": 6,
+		"adjacent_two_sentence_overlap_all_lemmas": 118,
+		"adjacent_two_sentence_overlap_all_lemmas_normed": 5,
+		"binary_adjacent_two_sentence_overlap_all_lemmas": 5,
+		"adjacent_sentence_overlap_content_lemmas": 82,
+		"adjacent_sentence_overlap_content_lemmas_normed": 6,
+		"binary_adjacent_sentence_overlap_content_lemmas": 6,
+		"adjacent_two_sentence_overlap_content_lemmas": 54,
+		"adjacent_two_sentence_overlap_content_lemmas_normed": 5,
+		"binary_adjacent_two_sentence_overlap_content_lemmas": 5,
+		"adjacent_sentence_overlap_function_lemmas": 80,
+		"adjacent_sentence_overlap_function_lemmas_normed": 6,
+		"binary_adjacent_sentence_overlap_function_lemmas": 6,
+		"adjacent_two_sentence_overlap_function_lemmas": 57,
+		"adjacent_two_sentence_overlap_function_lemmas_normed": 5,
+		"binary_adjacent_two_sentence_overlap_function_lemmas": 5,
+		"adjacent_sentence_overlap_noun_lemmas": 49,
+		"adjacent_sentence_overlap_noun_lemmas_normed": 6,
+		"binary_adjacent_sentence_overlap_noun_lemmas": 5,
+		"adjacent_two_sentence_overlap_noun_lemmas": 31,
+		"adjacent_two_sentence_overlap_noun_lemmas_normed": 5,
+		"binary_adjacent_two_sentence_overlap_noun_lemmas": 4,
+		"adjacent_sentence_overlap_verb_lemmas": 39,
+		"adjacent_sentence_overlap_verb_lemmas_normed": 6,
+		"binary_adjacent_sentence_overlap_verb_lemmas": 6,
+		"adjacent_two_sentence_overlap_verb_lemmas": 25,
+		"adjacent_two_sentence_overlap_verb_lemmas_normed": 5,
+		"binary_adjacent_two_sentence_overlap_verb_lemmas": 4,
+		"adjacent_sentence_overlap_adjective_lemmas": 5,
+		"adjacent_sentence_overlap_adjective_lemmas_normed": 3,
+		"binary_adjacent_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas": 2,
+		"adjacent_two_sentence_overlap_adjective_lemmas_normed": 2,
+		"binary_adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_sentence_overlap_adverb_lemmas": 2,
+		"adjacent_sentence_overlap_adverb_lemmas_normed": 2,
+		"binary_adjacent_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adverb_lemmas": 0
+	},
+	"basic_count": {
+		"para_Cnt": 1,
+		"sentence_Cnt": 7,
+		"word_Cnt": 106,
+		"morph_Cnt": 241,
+		"char_Cnt": 373,
+		"CL_Cnt": 117,
+		"NL_Cnt": 64,
+		"NN_Cnt": 53,
+		"NNG_Cnt": 40,
+		"NNP_Cnt": 6,
+		"NNB_Cnt": 7,
+		"NP_Cnt": 9,
+		"NP_People_Cnt": 5,
+		"NP_Things_Cnt": 4,
+		"NR_Cnt": 2,
+		"VL_Cnt": 49,
+		"VV_Cnt": 25,
+		"VA_Cnt": 9,
+		"VX_Cnt": 7,
+		"VCP_Cnt": 8,
+		"VCN_Cnt": 0,
+		"ML_Cnt": 4,
+		"MA_Cnt": 0,
+		"MM_Cnt": 0,
+		"FL_Cnt": 109,
+		"J_Cnt": 52,
+		"E_Cnt": 49,
+		"X_Cnt": 8,
+		"IC_Cnt": 0
+	},
+	"basic_density": {
+		"CL_Den": 0.4854771784232365,
+		"FL_Den": 0.45228215767634855,
+		"NL_Den": 0.21991701244813278,
+		"NNGL_Den": 0.16597510373443983,
+		"NNPL_Den": 0.024896265560165973,
+		"NNBL_Den": 0.029045643153526972,
+		"NPL_Den": 0.03734439834024896,
+		"NML_Den": 0.008298755186721992,
+		"VL_Den": 0.2033195020746888,
+		"VVL_Den": 0.1037344398340249,
+		"VAL_Den": 0.03734439834024896,
+		"ML_Den": 0.016597510373443983,
+		"MML_Den": 0.0,
+		"MAL_Den": 0.0,
+		"JL_Den": 0.2157676348547718,
+		"EL_Den": 0.2033195020746888,
+		"XL_Den": 0.03319502074688797,
+		"ITL_Den": 0.0,
+		"NCL_Den": 0.452991452991453,
+		"NNCL_Den": 0.3418803418803419,
+		"NNGCL_Den": 0.05128205128205128,
+		"NNBCL_Den": 0.05982905982905983,
+		"NPCL_Den": 0.07692307692307693,
+		"NMCL_Den": 0.017094017094017096,
+		"VCL_Den": 0.4188034188034188,
+		"VVCL_Den": 0.21367521367521367,
+		"VACL_Den": 0.07692307692307693,
+		"MCL_Den": 0.03418803418803419,
+		"MMCL_Den": 0.0,
+		"MACL_Den": 0.0,
+		"INCL_Den": 0.0,
+		"JFL_Den": 0.47706422018348627,
+		"EFL_Den": 0.44954128440366975,
+		"XFL_Den": 0.07339449541284404
+	},
+	"basic_level": {
+		"morph_LenAvg": 1.5809128630705394,
+		"morph_LenStd": 0.8215767634854787,
+		"word_LenAvg": 3.2547169811320753,
+		"word_LenStd": 1.2518764840115315
+	},
+	"basic_list": {
+		"NL_Lst": [
+			[
+				0,
+				"나",
+				"NP",
+				"나는 특정 기준에 따른 개인의 성취도 평가가 최고의 평가라고 생각하지는 않는다."
+			],
+			[
+				1,
+				"특정",
+				"NNG",
+				"나는 특정 기준에 따른 개인의 성취도 평가가 최고의 평가라고 생각하지는 않는다."
+			],
+			[
+				2,
+				"기준",
+				"NNG",
+				"나는 특정 기준에 따른 개인의 성취도 평가가 최고의 평가라고 생각하지는 않는다."
+			],
+			[
+				3,
+				"개인",
+				"NNG",
+				"나는 특정 기준에 따른 개인의 성취도 평가가 최고의 평가라고 생각하지는 않는다."
+			],
+			[
+				4,
+				"성취",
+				"NNG",
+				"나는 특정 기준에 따른 개인의 성취도 평가가 최고의 평가라고 생각하지는 않는다."
+			],
+			[
+				5,
+				"도",
+				"NNG",
+				"나는 특정 기준에 따른 개인의 성취도 평가가 최고의 평가라고 생각하지는 않는다."
+			],
+			[
+				6,
+				"평가",
+				"NNG",
+				"나는 특정 기준에 따른 개인의 성취도 평가가 최고의 평가라고 생각하지는 않는다."
+			],
+			[
+				7,
+				"최고",
+				"NNG",
+				"나는 특정 기준에 따른 개인의 성취도 평가가 최고의 평가라고 생각하지는 않는다."
+			],
+			[
+				8,
+				"평가",
+				"NNG",
+				"나는 특정 기준에 따른 개인의 성취도 평가가 최고의 평가라고 생각하지는 않는다."
+			],
+			[
+				9,
+				"만약",
+				"NNG",
+				"만약 특정한 기준으로 평가를 한다면 하나밖에 존재하지 않는 틀에, 그것에 맞지 않을지도 모르는 개인을 욱여넣는 것과 다를 바 없다고 나는 생각한다."
+			],
+			[
+				10,
+				"기준",
+				"NNG",
+				"만약 특정한 기준으로 평가를 한다면 하나밖에 존재하지 않는 틀에, 그것에 맞지 않을지도 모르는 개인을 욱여넣는 것과 다를 바 없다고 나는 생각한다."
+			],
+			[
+				11,
+				"평가",
+				"NNG",
+				"만약 특정한 기준으로 평가를 한다면 하나밖에 존재하지 않는 틀에, 그것에 맞지 않을지도 모르는 개인을 욱여넣는 것과 다를 바 없다고 나는 생각한다."
+			],
+			[
+				12,
+				"하나",
+				"NR",
+				"만약 특정한 기준으로 평가를 한다면 하나밖에 존재하지 않는 틀에, 그것에 맞지 않을지도 모르는 개인을 욱여넣는 것과 다를 바 없다고 나는 생각한다."
+			],
+			[
+				13,
+				"틀",
+				"NNG",
+				"만약 특정한 기준으로 평가를 한다면 하나밖에 존재하지 않는 틀에, 그것에 맞지 않을지도 모르는 개인을 욱여넣는 것과 다를 바 없다고 나는 생각한다."
+			],
+			[
+				14,
+				"그것",
+				"NP",
+				"만약 특정한 기준으로 평가를 한다면 하나밖에 존재하지 않는 틀에, 그것에 맞지 않을지도 모르는 개인을 욱여넣는 것과 다를 바 없다고 나는 생각한다."
+			],
+			[
+				15,
+				"개인",
+				"NNG",
+				"만약 특정한 기준으로 평가를 한다면 하나밖에 존재하지 않는 틀에, 그것에 맞지 않을지도 모르는 개인을 욱여넣는 것과 다를 바 없다고 나는 생각한다."
+			],
+			[
+				16,
+				"것",
+				"NNB",
+				"만약 특정한 기준으로 평가를 한다면 하나밖에 존재하지 않는 틀에, 그것에 맞지 않을지도 모르는 개인을 욱여넣는 것과 다를 바 없다고 나는 생각한다."
+			],
+			[
+				17,
+				"바",
+				"NNB",
+				"만약 특정한 기준으로 평가를 한다면 하나밖에 존재하지 않는 틀에, 그것에 맞지 않을지도 모르는 개인을 욱여넣는 것과 다를 바 없다고 나는 생각한다."
+			],
+			[
+				18,
+				"나",
+				"NP",
+				"만약 특정한 기준으로 평가를 한다면 하나밖에 존재하지 않는 틀에, 그것에 맞지 않을지도 모르는 개인을 욱여넣는 것과 다를 바 없다고 나는 생각한다."
+			],
+			[
+				19,
+				"나",
+				"NP",
+				"나는 또한 여기에 '맥도날드화'라는 개념을 적용해보려 한다."
+			],
+			[
+				20,
+				"여기",
+				"NP",
+				"나는 또한 여기에 '맥도날드화'라는 개념을 적용해보려 한다."
+			],
+			[
+				21,
+				"맥도날드",
+				"NNP",
+				"나는 또한 여기에 '맥도날드화'라는 개념을 적용해보려 한다."
+			],
+			[
+				22,
+				"개념",
+				"NNG",
+				"나는 또한 여기에 '맥도날드화'라는 개념을 적용해보려 한다."
+			],
+			[
+				23,
+				"개념",
+				"NNG",
+				"이 개념은 미국의 사회학자인 조지 리처가 고안해낸 개념으로, 패스트푸드점의 원리가 전 세계에서 더 많은 부분을 차지하게 되는 것이다."
+			],
+			[
+				24,
+				"미국",
+				"NNP",
+				"이 개념은 미국의 사회학자인 조지 리처가 고안해낸 개념으로, 패스트푸드점의 원리가 전 세계에서 더 많은 부분을 차지하게 되는 것이다."
+			],
+			[
+				25,
+				"사회학자",
+				"NNG",
+				"이 개념은 미국의 사회학자인 조지 리처가 고안해낸 개념으로, 패스트푸드점의 원리가 전 세계에서 더 많은 부분을 차지하게 되는 것이다."
+			],
+			[
+				26,
+				"조지",
+				"NNP",
+				"이 개념은 미국의 사회학자인 조지 리처가 고안해낸 개념으로, 패스트푸드점의 원리가 전 세계에서 더 많은 부분을 차지하게 되는 것이다."
+			],
+			[
+				27,
+				"리처",
+				"NNP",
+				"이 개념은 미국의 사회학자인 조지 리처가 고안해낸 개념으로, 패스트푸드점의 원리가 전 세계에서 더 많은 부분을 차지하게 되는 것이다."
+			],
+			[
+				28,
+				"개념",
+				"NNG",
+				"이 개념은 미국의 사회학자인 조지 리처가 고안해낸 개념으로, 패스트푸드점의 원리가 전 세계에서 더 많은 부분을 차지하게 되는 것이다."
+			],
+			[
+				29,
+				"패스트푸드점",
+				"NNG",
+				"이 개념은 미국의 사회학자인 조지 리처가 고안해낸 개념으로, 패스트푸드점의 원리가 전 세계에서 더 많은 부분을 차지하게 되는 것이다."
+			],
+			[
+				30,
+				"원리",
+				"NNG",
+				"이 개념은 미국의 사회학자인 조지 리처가 고안해낸 개념으로, 패스트푸드점의 원리가 전 세계에서 더 많은 부분을 차지하게 되는 것이다."
+			],
+			[
+				31,
+				"세계",
+				"NNG",
+				"이 개념은 미국의 사회학자인 조지 리처가 고안해낸 개념으로, 패스트푸드점의 원리가 전 세계에서 더 많은 부분을 차지하게 되는 것이다."
+			],
+			[
+				32,
+				"부분",
+				"NNG",
+				"이 개념은 미국의 사회학자인 조지 리처가 고안해낸 개념으로, 패스트푸드점의 원리가 전 세계에서 더 많은 부분을 차지하게 되는 것이다."
+			],
+			[
+				33,
+				"것",
+				"NNB",
+				"이 개념은 미국의 사회학자인 조지 리처가 고안해낸 개념으로, 패스트푸드점의 원리가 전 세계에서 더 많은 부분을 차지하게 되는 것이다."
+			],
+			[
+				34,
+				"맥도날드",
+				"NNP",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				35,
+				"특징",
+				"NNG",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				36,
+				"중",
+				"NNB",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				37,
+				"하나",
+				"NR",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				38,
+				"예측",
+				"NNG",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				39,
+				"가능",
+				"NNG",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				40,
+				"제품",
+				"NNG",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				41,
+				"서비스",
+				"NNG",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				42,
+				"어디",
+				"NP",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				43,
+				"것",
+				"NNB",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				44,
+				"것",
+				"NNB",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				45,
+				"나",
+				"NP",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				46,
+				"이것",
+				"NP",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				47,
+				"기준",
+				"NNG",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				48,
+				"개인",
+				"NNG",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				49,
+				"것",
+				"NNB",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				50,
+				"맥도날드",
+				"NNP",
+				"하지만 이러한 맥도날드화는 합리성의 불합리성이라는 치명적인 문제로 이어지게 된다."
+			],
+			[
+				51,
+				"합리",
+				"NNG",
+				"하지만 이러한 맥도날드화는 합리성의 불합리성이라는 치명적인 문제로 이어지게 된다."
+			],
+			[
+				52,
+				"합리",
+				"NNG",
+				"하지만 이러한 맥도날드화는 합리성의 불합리성이라는 치명적인 문제로 이어지게 된다."
+			],
+			[
+				53,
+				"치명",
+				"NNG",
+				"하지만 이러한 맥도날드화는 합리성의 불합리성이라는 치명적인 문제로 이어지게 된다."
+			],
+			[
+				54,
+				"문제",
+				"NNG",
+				"하지만 이러한 맥도날드화는 합리성의 불합리성이라는 치명적인 문제로 이어지게 된다."
+			],
+			[
+				55,
+				"나",
+				"NP",
+				"따라서 나는 좋은 평가가 되기 위해서는 개인의 앞으로의 목표의 방향과 적성에 맞는 방법으로 이루어지는 평가가 이루어져야 한다고 생각한다."
+			],
+			[
+				56,
+				"평가",
+				"NNG",
+				"따라서 나는 좋은 평가가 되기 위해서는 개인의 앞으로의 목표의 방향과 적성에 맞는 방법으로 이루어지는 평가가 이루어져야 한다고 생각한다."
+			],
+			[
+				57,
+				"개인",
+				"NNG",
+				"따라서 나는 좋은 평가가 되기 위해서는 개인의 앞으로의 목표의 방향과 적성에 맞는 방법으로 이루어지는 평가가 이루어져야 한다고 생각한다."
+			],
+			[
+				58,
+				"앞",
+				"NNG",
+				"따라서 나는 좋은 평가가 되기 위해서는 개인의 앞으로의 목표의 방향과 적성에 맞는 방법으로 이루어지는 평가가 이루어져야 한다고 생각한다."
+			],
+			[
+				59,
+				"목표",
+				"NNG",
+				"따라서 나는 좋은 평가가 되기 위해서는 개인의 앞으로의 목표의 방향과 적성에 맞는 방법으로 이루어지는 평가가 이루어져야 한다고 생각한다."
+			],
+			[
+				60,
+				"방향",
+				"NNG",
+				"따라서 나는 좋은 평가가 되기 위해서는 개인의 앞으로의 목표의 방향과 적성에 맞는 방법으로 이루어지는 평가가 이루어져야 한다고 생각한다."
+			],
+			[
+				61,
+				"적성",
+				"NNG",
+				"따라서 나는 좋은 평가가 되기 위해서는 개인의 앞으로의 목표의 방향과 적성에 맞는 방법으로 이루어지는 평가가 이루어져야 한다고 생각한다."
+			],
+			[
+				62,
+				"방법",
+				"NNG",
+				"따라서 나는 좋은 평가가 되기 위해서는 개인의 앞으로의 목표의 방향과 적성에 맞는 방법으로 이루어지는 평가가 이루어져야 한다고 생각한다."
+			],
+			[
+				63,
+				"평가",
+				"NNG",
+				"따라서 나는 좋은 평가가 되기 위해서는 개인의 앞으로의 목표의 방향과 적성에 맞는 방법으로 이루어지는 평가가 이루어져야 한다고 생각한다."
+			]
+		],
+		"NN_Lst": [
+			[
+				0,
+				"특정",
+				"NNG",
+				"나는 특정 기준에 따른 개인의 성취도 평가가 최고의 평가라고 생각하지는 않는다."
+			],
+			[
+				1,
+				"기준",
+				"NNG",
+				"나는 특정 기준에 따른 개인의 성취도 평가가 최고의 평가라고 생각하지는 않는다."
+			],
+			[
+				2,
+				"개인",
+				"NNG",
+				"나는 특정 기준에 따른 개인의 성취도 평가가 최고의 평가라고 생각하지는 않는다."
+			],
+			[
+				3,
+				"성취",
+				"NNG",
+				"나는 특정 기준에 따른 개인의 성취도 평가가 최고의 평가라고 생각하지는 않는다."
+			],
+			[
+				4,
+				"도",
+				"NNG",
+				"나는 특정 기준에 따른 개인의 성취도 평가가 최고의 평가라고 생각하지는 않는다."
+			],
+			[
+				5,
+				"평가",
+				"NNG",
+				"나는 특정 기준에 따른 개인의 성취도 평가가 최고의 평가라고 생각하지는 않는다."
+			],
+			[
+				6,
+				"최고",
+				"NNG",
+				"나는 특정 기준에 따른 개인의 성취도 평가가 최고의 평가라고 생각하지는 않는다."
+			],
+			[
+				7,
+				"평가",
+				"NNG",
+				"나는 특정 기준에 따른 개인의 성취도 평가가 최고의 평가라고 생각하지는 않는다."
+			],
+			[
+				8,
+				"만약",
+				"NNG",
+				"만약 특정한 기준으로 평가를 한다면 하나밖에 존재하지 않는 틀에, 그것에 맞지 않을지도 모르는 개인을 욱여넣는 것과 다를 바 없다고 나는 생각한다."
+			],
+			[
+				9,
+				"기준",
+				"NNG",
+				"만약 특정한 기준으로 평가를 한다면 하나밖에 존재하지 않는 틀에, 그것에 맞지 않을지도 모르는 개인을 욱여넣는 것과 다를 바 없다고 나는 생각한다."
+			],
+			[
+				10,
+				"평가",
+				"NNG",
+				"만약 특정한 기준으로 평가를 한다면 하나밖에 존재하지 않는 틀에, 그것에 맞지 않을지도 모르는 개인을 욱여넣는 것과 다를 바 없다고 나는 생각한다."
+			],
+			[
+				11,
+				"틀",
+				"NNG",
+				"만약 특정한 기준으로 평가를 한다면 하나밖에 존재하지 않는 틀에, 그것에 맞지 않을지도 모르는 개인을 욱여넣는 것과 다를 바 없다고 나는 생각한다."
+			],
+			[
+				12,
+				"개인",
+				"NNG",
+				"만약 특정한 기준으로 평가를 한다면 하나밖에 존재하지 않는 틀에, 그것에 맞지 않을지도 모르는 개인을 욱여넣는 것과 다를 바 없다고 나는 생각한다."
+			],
+			[
+				13,
+				"것",
+				"NNB",
+				"만약 특정한 기준으로 평가를 한다면 하나밖에 존재하지 않는 틀에, 그것에 맞지 않을지도 모르는 개인을 욱여넣는 것과 다를 바 없다고 나는 생각한다."
+			],
+			[
+				14,
+				"바",
+				"NNB",
+				"만약 특정한 기준으로 평가를 한다면 하나밖에 존재하지 않는 틀에, 그것에 맞지 않을지도 모르는 개인을 욱여넣는 것과 다를 바 없다고 나는 생각한다."
+			],
+			[
+				15,
+				"맥도날드",
+				"NNP",
+				"나는 또한 여기에 '맥도날드화'라는 개념을 적용해보려 한다."
+			],
+			[
+				16,
+				"개념",
+				"NNG",
+				"나는 또한 여기에 '맥도날드화'라는 개념을 적용해보려 한다."
+			],
+			[
+				17,
+				"개념",
+				"NNG",
+				"이 개념은 미국의 사회학자인 조지 리처가 고안해낸 개념으로, 패스트푸드점의 원리가 전 세계에서 더 많은 부분을 차지하게 되는 것이다."
+			],
+			[
+				18,
+				"미국",
+				"NNP",
+				"이 개념은 미국의 사회학자인 조지 리처가 고안해낸 개념으로, 패스트푸드점의 원리가 전 세계에서 더 많은 부분을 차지하게 되는 것이다."
+			],
+			[
+				19,
+				"사회학자",
+				"NNG",
+				"이 개념은 미국의 사회학자인 조지 리처가 고안해낸 개념으로, 패스트푸드점의 원리가 전 세계에서 더 많은 부분을 차지하게 되는 것이다."
+			],
+			[
+				20,
+				"조지",
+				"NNP",
+				"이 개념은 미국의 사회학자인 조지 리처가 고안해낸 개념으로, 패스트푸드점의 원리가 전 세계에서 더 많은 부분을 차지하게 되는 것이다."
+			],
+			[
+				21,
+				"리처",
+				"NNP",
+				"이 개념은 미국의 사회학자인 조지 리처가 고안해낸 개념으로, 패스트푸드점의 원리가 전 세계에서 더 많은 부분을 차지하게 되는 것이다."
+			],
+			[
+				22,
+				"개념",
+				"NNG",
+				"이 개념은 미국의 사회학자인 조지 리처가 고안해낸 개념으로, 패스트푸드점의 원리가 전 세계에서 더 많은 부분을 차지하게 되는 것이다."
+			],
+			[
+				23,
+				"패스트푸드점",
+				"NNG",
+				"이 개념은 미국의 사회학자인 조지 리처가 고안해낸 개념으로, 패스트푸드점의 원리가 전 세계에서 더 많은 부분을 차지하게 되는 것이다."
+			],
+			[
+				24,
+				"원리",
+				"NNG",
+				"이 개념은 미국의 사회학자인 조지 리처가 고안해낸 개념으로, 패스트푸드점의 원리가 전 세계에서 더 많은 부분을 차지하게 되는 것이다."
+			],
+			[
+				25,
+				"세계",
+				"NNG",
+				"이 개념은 미국의 사회학자인 조지 리처가 고안해낸 개념으로, 패스트푸드점의 원리가 전 세계에서 더 많은 부분을 차지하게 되는 것이다."
+			],
+			[
+				26,
+				"부분",
+				"NNG",
+				"이 개념은 미국의 사회학자인 조지 리처가 고안해낸 개념으로, 패스트푸드점의 원리가 전 세계에서 더 많은 부분을 차지하게 되는 것이다."
+			],
+			[
+				27,
+				"것",
+				"NNB",
+				"이 개념은 미국의 사회학자인 조지 리처가 고안해낸 개념으로, 패스트푸드점의 원리가 전 세계에서 더 많은 부분을 차지하게 되는 것이다."
+			],
+			[
+				28,
+				"맥도날드",
+				"NNP",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				29,
+				"특징",
+				"NNG",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				30,
+				"중",
+				"NNB",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				31,
+				"예측",
+				"NNG",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				32,
+				"가능",
+				"NNG",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				33,
+				"제품",
+				"NNG",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				34,
+				"서비스",
+				"NNG",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				35,
+				"것",
+				"NNB",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				36,
+				"것",
+				"NNB",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				37,
+				"기준",
+				"NNG",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				38,
+				"개인",
+				"NNG",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				39,
+				"것",
+				"NNB",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				40,
+				"맥도날드",
+				"NNP",
+				"하지만 이러한 맥도날드화는 합리성의 불합리성이라는 치명적인 문제로 이어지게 된다."
+			],
+			[
+				41,
+				"합리",
+				"NNG",
+				"하지만 이러한 맥도날드화는 합리성의 불합리성이라는 치명적인 문제로 이어지게 된다."
+			],
+			[
+				42,
+				"합리",
+				"NNG",
+				"하지만 이러한 맥도날드화는 합리성의 불합리성이라는 치명적인 문제로 이어지게 된다."
+			],
+			[
+				43,
+				"치명",
+				"NNG",
+				"하지만 이러한 맥도날드화는 합리성의 불합리성이라는 치명적인 문제로 이어지게 된다."
+			],
+			[
+				44,
+				"문제",
+				"NNG",
+				"하지만 이러한 맥도날드화는 합리성의 불합리성이라는 치명적인 문제로 이어지게 된다."
+			],
+			[
+				45,
+				"평가",
+				"NNG",
+				"따라서 나는 좋은 평가가 되기 위해서는 개인의 앞으로의 목표의 방향과 적성에 맞는 방법으로 이루어지는 평가가 이루어져야 한다고 생각한다."
+			],
+			[
+				46,
+				"개인",
+				"NNG",
+				"따라서 나는 좋은 평가가 되기 위해서는 개인의 앞으로의 목표의 방향과 적성에 맞는 방법으로 이루어지는 평가가 이루어져야 한다고 생각한다."
+			],
+			[
+				47,
+				"앞",
+				"NNG",
+				"따라서 나는 좋은 평가가 되기 위해서는 개인의 앞으로의 목표의 방향과 적성에 맞는 방법으로 이루어지는 평가가 이루어져야 한다고 생각한다."
+			],
+			[
+				48,
+				"목표",
+				"NNG",
+				"따라서 나는 좋은 평가가 되기 위해서는 개인의 앞으로의 목표의 방향과 적성에 맞는 방법으로 이루어지는 평가가 이루어져야 한다고 생각한다."
+			],
+			[
+				49,
+				"방향",
+				"NNG",
+				"따라서 나는 좋은 평가가 되기 위해서는 개인의 앞으로의 목표의 방향과 적성에 맞는 방법으로 이루어지는 평가가 이루어져야 한다고 생각한다."
+			],
+			[
+				50,
+				"적성",
+				"NNG",
+				"따라서 나는 좋은 평가가 되기 위해서는 개인의 앞으로의 목표의 방향과 적성에 맞는 방법으로 이루어지는 평가가 이루어져야 한다고 생각한다."
+			],
+			[
+				51,
+				"방법",
+				"NNG",
+				"따라서 나는 좋은 평가가 되기 위해서는 개인의 앞으로의 목표의 방향과 적성에 맞는 방법으로 이루어지는 평가가 이루어져야 한다고 생각한다."
+			],
+			[
+				52,
+				"평가",
+				"NNG",
+				"따라서 나는 좋은 평가가 되기 위해서는 개인의 앞으로의 목표의 방향과 적성에 맞는 방법으로 이루어지는 평가가 이루어져야 한다고 생각한다."
+			]
+		],
+		"NNG_Lst": [
+			[
+				0,
+				"특정",
+				"NNG",
+				"나는 특정 기준에 따른 개인의 성취도 평가가 최고의 평가라고 생각하지는 않는다."
+			],
+			[
+				1,
+				"기준",
+				"NNG",
+				"나는 특정 기준에 따른 개인의 성취도 평가가 최고의 평가라고 생각하지는 않는다."
+			],
+			[
+				2,
+				"개인",
+				"NNG",
+				"나는 특정 기준에 따른 개인의 성취도 평가가 최고의 평가라고 생각하지는 않는다."
+			],
+			[
+				3,
+				"성취",
+				"NNG",
+				"나는 특정 기준에 따른 개인의 성취도 평가가 최고의 평가라고 생각하지는 않는다."
+			],
+			[
+				4,
+				"도",
+				"NNG",
+				"나는 특정 기준에 따른 개인의 성취도 평가가 최고의 평가라고 생각하지는 않는다."
+			],
+			[
+				5,
+				"평가",
+				"NNG",
+				"나는 특정 기준에 따른 개인의 성취도 평가가 최고의 평가라고 생각하지는 않는다."
+			],
+			[
+				6,
+				"최고",
+				"NNG",
+				"나는 특정 기준에 따른 개인의 성취도 평가가 최고의 평가라고 생각하지는 않는다."
+			],
+			[
+				7,
+				"평가",
+				"NNG",
+				"나는 특정 기준에 따른 개인의 성취도 평가가 최고의 평가라고 생각하지는 않는다."
+			],
+			[
+				8,
+				"만약",
+				"NNG",
+				"만약 특정한 기준으로 평가를 한다면 하나밖에 존재하지 않는 틀에, 그것에 맞지 않을지도 모르는 개인을 욱여넣는 것과 다를 바 없다고 나는 생각한다."
+			],
+			[
+				9,
+				"기준",
+				"NNG",
+				"만약 특정한 기준으로 평가를 한다면 하나밖에 존재하지 않는 틀에, 그것에 맞지 않을지도 모르는 개인을 욱여넣는 것과 다를 바 없다고 나는 생각한다."
+			],
+			[
+				10,
+				"평가",
+				"NNG",
+				"만약 특정한 기준으로 평가를 한다면 하나밖에 존재하지 않는 틀에, 그것에 맞지 않을지도 모르는 개인을 욱여넣는 것과 다를 바 없다고 나는 생각한다."
+			],
+			[
+				11,
+				"틀",
+				"NNG",
+				"만약 특정한 기준으로 평가를 한다면 하나밖에 존재하지 않는 틀에, 그것에 맞지 않을지도 모르는 개인을 욱여넣는 것과 다를 바 없다고 나는 생각한다."
+			],
+			[
+				12,
+				"개인",
+				"NNG",
+				"만약 특정한 기준으로 평가를 한다면 하나밖에 존재하지 않는 틀에, 그것에 맞지 않을지도 모르는 개인을 욱여넣는 것과 다를 바 없다고 나는 생각한다."
+			],
+			[
+				13,
+				"개념",
+				"NNG",
+				"나는 또한 여기에 '맥도날드화'라는 개념을 적용해보려 한다."
+			],
+			[
+				14,
+				"개념",
+				"NNG",
+				"이 개념은 미국의 사회학자인 조지 리처가 고안해낸 개념으로, 패스트푸드점의 원리가 전 세계에서 더 많은 부분을 차지하게 되는 것이다."
+			],
+			[
+				15,
+				"사회학자",
+				"NNG",
+				"이 개념은 미국의 사회학자인 조지 리처가 고안해낸 개념으로, 패스트푸드점의 원리가 전 세계에서 더 많은 부분을 차지하게 되는 것이다."
+			],
+			[
+				16,
+				"개념",
+				"NNG",
+				"이 개념은 미국의 사회학자인 조지 리처가 고안해낸 개념으로, 패스트푸드점의 원리가 전 세계에서 더 많은 부분을 차지하게 되는 것이다."
+			],
+			[
+				17,
+				"패스트푸드점",
+				"NNG",
+				"이 개념은 미국의 사회학자인 조지 리처가 고안해낸 개념으로, 패스트푸드점의 원리가 전 세계에서 더 많은 부분을 차지하게 되는 것이다."
+			],
+			[
+				18,
+				"원리",
+				"NNG",
+				"이 개념은 미국의 사회학자인 조지 리처가 고안해낸 개념으로, 패스트푸드점의 원리가 전 세계에서 더 많은 부분을 차지하게 되는 것이다."
+			],
+			[
+				19,
+				"세계",
+				"NNG",
+				"이 개념은 미국의 사회학자인 조지 리처가 고안해낸 개념으로, 패스트푸드점의 원리가 전 세계에서 더 많은 부분을 차지하게 되는 것이다."
+			],
+			[
+				20,
+				"부분",
+				"NNG",
+				"이 개념은 미국의 사회학자인 조지 리처가 고안해낸 개념으로, 패스트푸드점의 원리가 전 세계에서 더 많은 부분을 차지하게 되는 것이다."
+			],
+			[
+				21,
+				"특징",
+				"NNG",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				22,
+				"예측",
+				"NNG",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				23,
+				"가능",
+				"NNG",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				24,
+				"제품",
+				"NNG",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				25,
+				"서비스",
+				"NNG",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				26,
+				"기준",
+				"NNG",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				27,
+				"개인",
+				"NNG",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				28,
+				"합리",
+				"NNG",
+				"하지만 이러한 맥도날드화는 합리성의 불합리성이라는 치명적인 문제로 이어지게 된다."
+			],
+			[
+				29,
+				"합리",
+				"NNG",
+				"하지만 이러한 맥도날드화는 합리성의 불합리성이라는 치명적인 문제로 이어지게 된다."
+			],
+			[
+				30,
+				"치명",
+				"NNG",
+				"하지만 이러한 맥도날드화는 합리성의 불합리성이라는 치명적인 문제로 이어지게 된다."
+			],
+			[
+				31,
+				"문제",
+				"NNG",
+				"하지만 이러한 맥도날드화는 합리성의 불합리성이라는 치명적인 문제로 이어지게 된다."
+			],
+			[
+				32,
+				"평가",
+				"NNG",
+				"따라서 나는 좋은 평가가 되기 위해서는 개인의 앞으로의 목표의 방향과 적성에 맞는 방법으로 이루어지는 평가가 이루어져야 한다고 생각한다."
+			],
+			[
+				33,
+				"개인",
+				"NNG",
+				"따라서 나는 좋은 평가가 되기 위해서는 개인의 앞으로의 목표의 방향과 적성에 맞는 방법으로 이루어지는 평가가 이루어져야 한다고 생각한다."
+			],
+			[
+				34,
+				"앞",
+				"NNG",
+				"따라서 나는 좋은 평가가 되기 위해서는 개인의 앞으로의 목표의 방향과 적성에 맞는 방법으로 이루어지는 평가가 이루어져야 한다고 생각한다."
+			],
+			[
+				35,
+				"목표",
+				"NNG",
+				"따라서 나는 좋은 평가가 되기 위해서는 개인의 앞으로의 목표의 방향과 적성에 맞는 방법으로 이루어지는 평가가 이루어져야 한다고 생각한다."
+			],
+			[
+				36,
+				"방향",
+				"NNG",
+				"따라서 나는 좋은 평가가 되기 위해서는 개인의 앞으로의 목표의 방향과 적성에 맞는 방법으로 이루어지는 평가가 이루어져야 한다고 생각한다."
+			],
+			[
+				37,
+				"적성",
+				"NNG",
+				"따라서 나는 좋은 평가가 되기 위해서는 개인의 앞으로의 목표의 방향과 적성에 맞는 방법으로 이루어지는 평가가 이루어져야 한다고 생각한다."
+			],
+			[
+				38,
+				"방법",
+				"NNG",
+				"따라서 나는 좋은 평가가 되기 위해서는 개인의 앞으로의 목표의 방향과 적성에 맞는 방법으로 이루어지는 평가가 이루어져야 한다고 생각한다."
+			],
+			[
+				39,
+				"평가",
+				"NNG",
+				"따라서 나는 좋은 평가가 되기 위해서는 개인의 앞으로의 목표의 방향과 적성에 맞는 방법으로 이루어지는 평가가 이루어져야 한다고 생각한다."
+			]
+		],
+		"NNP_Lst": [
+			[
+				0,
+				"맥도날드",
+				"NNP",
+				"나는 또한 여기에 '맥도날드화'라는 개념을 적용해보려 한다."
+			],
+			[
+				1,
+				"미국",
+				"NNP",
+				"이 개념은 미국의 사회학자인 조지 리처가 고안해낸 개념으로, 패스트푸드점의 원리가 전 세계에서 더 많은 부분을 차지하게 되는 것이다."
+			],
+			[
+				2,
+				"조지",
+				"NNP",
+				"이 개념은 미국의 사회학자인 조지 리처가 고안해낸 개념으로, 패스트푸드점의 원리가 전 세계에서 더 많은 부분을 차지하게 되는 것이다."
+			],
+			[
+				3,
+				"리처",
+				"NNP",
+				"이 개념은 미국의 사회학자인 조지 리처가 고안해낸 개념으로, 패스트푸드점의 원리가 전 세계에서 더 많은 부분을 차지하게 되는 것이다."
+			],
+			[
+				4,
+				"맥도날드",
+				"NNP",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				5,
+				"맥도날드",
+				"NNP",
+				"하지만 이러한 맥도날드화는 합리성의 불합리성이라는 치명적인 문제로 이어지게 된다."
+			]
+		],
+		"NNB_Lst": [
+			[
+				0,
+				"것",
+				"NNB",
+				"만약 특정한 기준으로 평가를 한다면 하나밖에 존재하지 않는 틀에, 그것에 맞지 않을지도 모르는 개인을 욱여넣는 것과 다를 바 없다고 나는 생각한다."
+			],
+			[
+				1,
+				"바",
+				"NNB",
+				"만약 특정한 기준으로 평가를 한다면 하나밖에 존재하지 않는 틀에, 그것에 맞지 않을지도 모르는 개인을 욱여넣는 것과 다를 바 없다고 나는 생각한다."
+			],
+			[
+				2,
+				"것",
+				"NNB",
+				"이 개념은 미국의 사회학자인 조지 리처가 고안해낸 개념으로, 패스트푸드점의 원리가 전 세계에서 더 많은 부분을 차지하게 되는 것이다."
+			],
+			[
+				3,
+				"중",
+				"NNB",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				4,
+				"것",
+				"NNB",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				5,
+				"것",
+				"NNB",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				6,
+				"것",
+				"NNB",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			]
+		],
+		"NP_Lst": [
+			[
+				0,
+				"나",
+				"NP",
+				"나는 특정 기준에 따른 개인의 성취도 평가가 최고의 평가라고 생각하지는 않는다."
+			],
+			[
+				1,
+				"그것",
+				"NP",
+				"만약 특정한 기준으로 평가를 한다면 하나밖에 존재하지 않는 틀에, 그것에 맞지 않을지도 모르는 개인을 욱여넣는 것과 다를 바 없다고 나는 생각한다."
+			],
+			[
+				2,
+				"나",
+				"NP",
+				"만약 특정한 기준으로 평가를 한다면 하나밖에 존재하지 않는 틀에, 그것에 맞지 않을지도 모르는 개인을 욱여넣는 것과 다를 바 없다고 나는 생각한다."
+			],
+			[
+				3,
+				"나",
+				"NP",
+				"나는 또한 여기에 '맥도날드화'라는 개념을 적용해보려 한다."
+			],
+			[
+				4,
+				"여기",
+				"NP",
+				"나는 또한 여기에 '맥도날드화'라는 개념을 적용해보려 한다."
+			],
+			[
+				5,
+				"어디",
+				"NP",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				6,
+				"나",
+				"NP",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				7,
+				"이것",
+				"NP",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				8,
+				"나",
+				"NP",
+				"따라서 나는 좋은 평가가 되기 위해서는 개인의 앞으로의 목표의 방향과 적성에 맞는 방법으로 이루어지는 평가가 이루어져야 한다고 생각한다."
+			]
+		],
+		"NP_People_Lst": [
+			[
+				0,
+				"나",
+				"NP",
+				"나는 특정 기준에 따른 개인의 성취도 평가가 최고의 평가라고 생각하지는 않는다."
+			],
+			[
+				1,
+				"나",
+				"NP",
+				"만약 특정한 기준으로 평가를 한다면 하나밖에 존재하지 않는 틀에, 그것에 맞지 않을지도 모르는 개인을 욱여넣는 것과 다를 바 없다고 나는 생각한다."
+			],
+			[
+				2,
+				"나",
+				"NP",
+				"나는 또한 여기에 '맥도날드화'라는 개념을 적용해보려 한다."
+			],
+			[
+				3,
+				"나",
+				"NP",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				4,
+				"나",
+				"NP",
+				"따라서 나는 좋은 평가가 되기 위해서는 개인의 앞으로의 목표의 방향과 적성에 맞는 방법으로 이루어지는 평가가 이루어져야 한다고 생각한다."
+			]
+		],
+		"NP_Things_Lst": [
+			[
+				0,
+				"그것",
+				"NP",
+				"만약 특정한 기준으로 평가를 한다면 하나밖에 존재하지 않는 틀에, 그것에 맞지 않을지도 모르는 개인을 욱여넣는 것과 다를 바 없다고 나는 생각한다."
+			],
+			[
+				1,
+				"여기",
+				"NP",
+				"나는 또한 여기에 '맥도날드화'라는 개념을 적용해보려 한다."
+			],
+			[
+				2,
+				"어디",
+				"NP",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				3,
+				"이것",
+				"NP",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			]
+		],
+		"NR_Lst": [
+			[
+				0,
+				"하나",
+				"NR",
+				"만약 특정한 기준으로 평가를 한다면 하나밖에 존재하지 않는 틀에, 그것에 맞지 않을지도 모르는 개인을 욱여넣는 것과 다를 바 없다고 나는 생각한다."
+			],
+			[
+				1,
+				"하나",
+				"NR",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			]
+		],
+		"VL_Lst": [
+			[
+				0,
+				"따르",
+				"VV",
+				"나는 특정 기준에 따른 개인의 성취도 평가가 최고의 평가라고 생각하지는 않는다."
+			],
+			[
+				1,
+				"이",
+				"VCP",
+				"나는 특정 기준에 따른 개인의 성취도 평가가 최고의 평가라고 생각하지는 않는다."
+			],
+			[
+				2,
+				"생각하",
+				"VV",
+				"나는 특정 기준에 따른 개인의 성취도 평가가 최고의 평가라고 생각하지는 않는다."
+			],
+			[
+				3,
+				"않",
+				"VX",
+				"나는 특정 기준에 따른 개인의 성취도 평가가 최고의 평가라고 생각하지는 않는다."
+			],
+			[
+				4,
+				"특정하",
+				"VA",
+				"만약 특정한 기준으로 평가를 한다면 하나밖에 존재하지 않는 틀에, 그것에 맞지 않을지도 모르는 개인을 욱여넣는 것과 다를 바 없다고 나는 생각한다."
+			],
+			[
+				5,
+				"하",
+				"VV",
+				"만약 특정한 기준으로 평가를 한다면 하나밖에 존재하지 않는 틀에, 그것에 맞지 않을지도 모르는 개인을 욱여넣는 것과 다를 바 없다고 나는 생각한다."
+			],
+			[
+				6,
+				"존재하",
+				"VV",
+				"만약 특정한 기준으로 평가를 한다면 하나밖에 존재하지 않는 틀에, 그것에 맞지 않을지도 모르는 개인을 욱여넣는 것과 다를 바 없다고 나는 생각한다."
+			],
+			[
+				7,
+				"않",
+				"VX",
+				"만약 특정한 기준으로 평가를 한다면 하나밖에 존재하지 않는 틀에, 그것에 맞지 않을지도 모르는 개인을 욱여넣는 것과 다를 바 없다고 나는 생각한다."
+			],
+			[
+				8,
+				"맞",
+				"VV",
+				"만약 특정한 기준으로 평가를 한다면 하나밖에 존재하지 않는 틀에, 그것에 맞지 않을지도 모르는 개인을 욱여넣는 것과 다를 바 없다고 나는 생각한다."
+			],
+			[
+				9,
+				"않",
+				"VX",
+				"만약 특정한 기준으로 평가를 한다면 하나밖에 존재하지 않는 틀에, 그것에 맞지 않을지도 모르는 개인을 욱여넣는 것과 다를 바 없다고 나는 생각한다."
+			],
+			[
+				10,
+				"모르",
+				"VV",
+				"만약 특정한 기준으로 평가를 한다면 하나밖에 존재하지 않는 틀에, 그것에 맞지 않을지도 모르는 개인을 욱여넣는 것과 다를 바 없다고 나는 생각한다."
+			],
+			[
+				11,
+				"욱이",
+				"VV",
+				"만약 특정한 기준으로 평가를 한다면 하나밖에 존재하지 않는 틀에, 그것에 맞지 않을지도 모르는 개인을 욱여넣는 것과 다를 바 없다고 나는 생각한다."
+			],
+			[
+				12,
+				"넣",
+				"VV",
+				"만약 특정한 기준으로 평가를 한다면 하나밖에 존재하지 않는 틀에, 그것에 맞지 않을지도 모르는 개인을 욱여넣는 것과 다를 바 없다고 나는 생각한다."
+			],
+			[
+				13,
+				"다르",
+				"VA",
+				"만약 특정한 기준으로 평가를 한다면 하나밖에 존재하지 않는 틀에, 그것에 맞지 않을지도 모르는 개인을 욱여넣는 것과 다를 바 없다고 나는 생각한다."
+			],
+			[
+				14,
+				"없",
+				"VA",
+				"만약 특정한 기준으로 평가를 한다면 하나밖에 존재하지 않는 틀에, 그것에 맞지 않을지도 모르는 개인을 욱여넣는 것과 다를 바 없다고 나는 생각한다."
+			],
+			[
+				15,
+				"생각하",
+				"VV",
+				"만약 특정한 기준으로 평가를 한다면 하나밖에 존재하지 않는 틀에, 그것에 맞지 않을지도 모르는 개인을 욱여넣는 것과 다를 바 없다고 나는 생각한다."
+			],
+			[
+				16,
+				"이",
+				"VCP",
+				"나는 또한 여기에 '맥도날드화'라는 개념을 적용해보려 한다."
+			],
+			[
+				17,
+				"적용하",
+				"VV",
+				"나는 또한 여기에 '맥도날드화'라는 개념을 적용해보려 한다."
+			],
+			[
+				18,
+				"보",
+				"VX",
+				"나는 또한 여기에 '맥도날드화'라는 개념을 적용해보려 한다."
+			],
+			[
+				19,
+				"하",
+				"VX",
+				"나는 또한 여기에 '맥도날드화'라는 개념을 적용해보려 한다."
+			],
+			[
+				20,
+				"이",
+				"VCP",
+				"이 개념은 미국의 사회학자인 조지 리처가 고안해낸 개념으로, 패스트푸드점의 원리가 전 세계에서 더 많은 부분을 차지하게 되는 것이다."
+			],
+			[
+				21,
+				"고안하",
+				"VV",
+				"이 개념은 미국의 사회학자인 조지 리처가 고안해낸 개념으로, 패스트푸드점의 원리가 전 세계에서 더 많은 부분을 차지하게 되는 것이다."
+			],
+			[
+				22,
+				"내",
+				"VX",
+				"이 개념은 미국의 사회학자인 조지 리처가 고안해낸 개념으로, 패스트푸드점의 원리가 전 세계에서 더 많은 부분을 차지하게 되는 것이다."
+			],
+			[
+				23,
+				"많",
+				"VA",
+				"이 개념은 미국의 사회학자인 조지 리처가 고안해낸 개념으로, 패스트푸드점의 원리가 전 세계에서 더 많은 부분을 차지하게 되는 것이다."
+			],
+			[
+				24,
+				"차지하",
+				"VV",
+				"이 개념은 미국의 사회학자인 조지 리처가 고안해낸 개념으로, 패스트푸드점의 원리가 전 세계에서 더 많은 부분을 차지하게 되는 것이다."
+			],
+			[
+				25,
+				"되",
+				"VV",
+				"이 개념은 미국의 사회학자인 조지 리처가 고안해낸 개념으로, 패스트푸드점의 원리가 전 세계에서 더 많은 부분을 차지하게 되는 것이다."
+			],
+			[
+				26,
+				"이",
+				"VCP",
+				"이 개념은 미국의 사회학자인 조지 리처가 고안해낸 개념으로, 패스트푸드점의 원리가 전 세계에서 더 많은 부분을 차지하게 되는 것이다."
+			],
+			[
+				27,
+				"이",
+				"VCP",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				28,
+				"동일하",
+				"VA",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				29,
+				"이",
+				"VCP",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				30,
+				"의미하",
+				"VV",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				31,
+				"특정하",
+				"VA",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				32,
+				"평가하",
+				"VV",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				33,
+				"균일화하",
+				"VV",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				34,
+				"유사하",
+				"VA",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				35,
+				"생각하",
+				"VV",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				36,
+				"이러하",
+				"VA",
+				"하지만 이러한 맥도날드화는 합리성의 불합리성이라는 치명적인 문제로 이어지게 된다."
+			],
+			[
+				37,
+				"이",
+				"VCP",
+				"하지만 이러한 맥도날드화는 합리성의 불합리성이라는 치명적인 문제로 이어지게 된다."
+			],
+			[
+				38,
+				"이",
+				"VCP",
+				"하지만 이러한 맥도날드화는 합리성의 불합리성이라는 치명적인 문제로 이어지게 된다."
+			],
+			[
+				39,
+				"이어지",
+				"VV",
+				"하지만 이러한 맥도날드화는 합리성의 불합리성이라는 치명적인 문제로 이어지게 된다."
+			],
+			[
+				40,
+				"되",
+				"VV",
+				"하지만 이러한 맥도날드화는 합리성의 불합리성이라는 치명적인 문제로 이어지게 된다."
+			],
+			[
+				41,
+				"좋",
+				"VA",
+				"따라서 나는 좋은 평가가 되기 위해서는 개인의 앞으로의 목표의 방향과 적성에 맞는 방법으로 이루어지는 평가가 이루어져야 한다고 생각한다."
+			],
+			[
+				42,
+				"되",
+				"VV",
+				"따라서 나는 좋은 평가가 되기 위해서는 개인의 앞으로의 목표의 방향과 적성에 맞는 방법으로 이루어지는 평가가 이루어져야 한다고 생각한다."
+			],
+			[
+				43,
+				"위하",
+				"VV",
+				"따라서 나는 좋은 평가가 되기 위해서는 개인의 앞으로의 목표의 방향과 적성에 맞는 방법으로 이루어지는 평가가 이루어져야 한다고 생각한다."
+			],
+			[
+				44,
+				"맞",
+				"VV",
+				"따라서 나는 좋은 평가가 되기 위해서는 개인의 앞으로의 목표의 방향과 적성에 맞는 방법으로 이루어지는 평가가 이루어져야 한다고 생각한다."
+			],
+			[
+				45,
+				"이루어지",
+				"VV",
+				"따라서 나는 좋은 평가가 되기 위해서는 개인의 앞으로의 목표의 방향과 적성에 맞는 방법으로 이루어지는 평가가 이루어져야 한다고 생각한다."
+			],
+			[
+				46,
+				"이루어지",
+				"VV",
+				"따라서 나는 좋은 평가가 되기 위해서는 개인의 앞으로의 목표의 방향과 적성에 맞는 방법으로 이루어지는 평가가 이루어져야 한다고 생각한다."
+			],
+			[
+				47,
+				"하",
+				"VX",
+				"따라서 나는 좋은 평가가 되기 위해서는 개인의 앞으로의 목표의 방향과 적성에 맞는 방법으로 이루어지는 평가가 이루어져야 한다고 생각한다."
+			],
+			[
+				48,
+				"생각하",
+				"VV",
+				"따라서 나는 좋은 평가가 되기 위해서는 개인의 앞으로의 목표의 방향과 적성에 맞는 방법으로 이루어지는 평가가 이루어져야 한다고 생각한다."
+			]
+		],
+		"VV_Lst": [
+			[
+				0,
+				"따르",
+				"VV",
+				"나는 특정 기준에 따른 개인의 성취도 평가가 최고의 평가라고 생각하지는 않는다."
+			],
+			[
+				1,
+				"생각하",
+				"VV",
+				"나는 특정 기준에 따른 개인의 성취도 평가가 최고의 평가라고 생각하지는 않는다."
+			],
+			[
+				2,
+				"하",
+				"VV",
+				"만약 특정한 기준으로 평가를 한다면 하나밖에 존재하지 않는 틀에, 그것에 맞지 않을지도 모르는 개인을 욱여넣는 것과 다를 바 없다고 나는 생각한다."
+			],
+			[
+				3,
+				"존재하",
+				"VV",
+				"만약 특정한 기준으로 평가를 한다면 하나밖에 존재하지 않는 틀에, 그것에 맞지 않을지도 모르는 개인을 욱여넣는 것과 다를 바 없다고 나는 생각한다."
+			],
+			[
+				4,
+				"맞",
+				"VV",
+				"만약 특정한 기준으로 평가를 한다면 하나밖에 존재하지 않는 틀에, 그것에 맞지 않을지도 모르는 개인을 욱여넣는 것과 다를 바 없다고 나는 생각한다."
+			],
+			[
+				5,
+				"모르",
+				"VV",
+				"만약 특정한 기준으로 평가를 한다면 하나밖에 존재하지 않는 틀에, 그것에 맞지 않을지도 모르는 개인을 욱여넣는 것과 다를 바 없다고 나는 생각한다."
+			],
+			[
+				6,
+				"욱이",
+				"VV",
+				"만약 특정한 기준으로 평가를 한다면 하나밖에 존재하지 않는 틀에, 그것에 맞지 않을지도 모르는 개인을 욱여넣는 것과 다를 바 없다고 나는 생각한다."
+			],
+			[
+				7,
+				"넣",
+				"VV",
+				"만약 특정한 기준으로 평가를 한다면 하나밖에 존재하지 않는 틀에, 그것에 맞지 않을지도 모르는 개인을 욱여넣는 것과 다를 바 없다고 나는 생각한다."
+			],
+			[
+				8,
+				"생각하",
+				"VV",
+				"만약 특정한 기준으로 평가를 한다면 하나밖에 존재하지 않는 틀에, 그것에 맞지 않을지도 모르는 개인을 욱여넣는 것과 다를 바 없다고 나는 생각한다."
+			],
+			[
+				9,
+				"적용하",
+				"VV",
+				"나는 또한 여기에 '맥도날드화'라는 개념을 적용해보려 한다."
+			],
+			[
+				10,
+				"고안하",
+				"VV",
+				"이 개념은 미국의 사회학자인 조지 리처가 고안해낸 개념으로, 패스트푸드점의 원리가 전 세계에서 더 많은 부분을 차지하게 되는 것이다."
+			],
+			[
+				11,
+				"차지하",
+				"VV",
+				"이 개념은 미국의 사회학자인 조지 리처가 고안해낸 개념으로, 패스트푸드점의 원리가 전 세계에서 더 많은 부분을 차지하게 되는 것이다."
+			],
+			[
+				12,
+				"되",
+				"VV",
+				"이 개념은 미국의 사회학자인 조지 리처가 고안해낸 개념으로, 패스트푸드점의 원리가 전 세계에서 더 많은 부분을 차지하게 되는 것이다."
+			],
+			[
+				13,
+				"의미하",
+				"VV",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				14,
+				"평가하",
+				"VV",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				15,
+				"균일화하",
+				"VV",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				16,
+				"생각하",
+				"VV",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				17,
+				"이어지",
+				"VV",
+				"하지만 이러한 맥도날드화는 합리성의 불합리성이라는 치명적인 문제로 이어지게 된다."
+			],
+			[
+				18,
+				"되",
+				"VV",
+				"하지만 이러한 맥도날드화는 합리성의 불합리성이라는 치명적인 문제로 이어지게 된다."
+			],
+			[
+				19,
+				"되",
+				"VV",
+				"따라서 나는 좋은 평가가 되기 위해서는 개인의 앞으로의 목표의 방향과 적성에 맞는 방법으로 이루어지는 평가가 이루어져야 한다고 생각한다."
+			],
+			[
+				20,
+				"위하",
+				"VV",
+				"따라서 나는 좋은 평가가 되기 위해서는 개인의 앞으로의 목표의 방향과 적성에 맞는 방법으로 이루어지는 평가가 이루어져야 한다고 생각한다."
+			],
+			[
+				21,
+				"맞",
+				"VV",
+				"따라서 나는 좋은 평가가 되기 위해서는 개인의 앞으로의 목표의 방향과 적성에 맞는 방법으로 이루어지는 평가가 이루어져야 한다고 생각한다."
+			],
+			[
+				22,
+				"이루어지",
+				"VV",
+				"따라서 나는 좋은 평가가 되기 위해서는 개인의 앞으로의 목표의 방향과 적성에 맞는 방법으로 이루어지는 평가가 이루어져야 한다고 생각한다."
+			],
+			[
+				23,
+				"이루어지",
+				"VV",
+				"따라서 나는 좋은 평가가 되기 위해서는 개인의 앞으로의 목표의 방향과 적성에 맞는 방법으로 이루어지는 평가가 이루어져야 한다고 생각한다."
+			],
+			[
+				24,
+				"생각하",
+				"VV",
+				"따라서 나는 좋은 평가가 되기 위해서는 개인의 앞으로의 목표의 방향과 적성에 맞는 방법으로 이루어지는 평가가 이루어져야 한다고 생각한다."
+			]
+		],
+		"VA_Lst": [
+			[
+				0,
+				"특정하",
+				"VA",
+				"만약 특정한 기준으로 평가를 한다면 하나밖에 존재하지 않는 틀에, 그것에 맞지 않을지도 모르는 개인을 욱여넣는 것과 다를 바 없다고 나는 생각한다."
+			],
+			[
+				1,
+				"다르",
+				"VA",
+				"만약 특정한 기준으로 평가를 한다면 하나밖에 존재하지 않는 틀에, 그것에 맞지 않을지도 모르는 개인을 욱여넣는 것과 다를 바 없다고 나는 생각한다."
+			],
+			[
+				2,
+				"없",
+				"VA",
+				"만약 특정한 기준으로 평가를 한다면 하나밖에 존재하지 않는 틀에, 그것에 맞지 않을지도 모르는 개인을 욱여넣는 것과 다를 바 없다고 나는 생각한다."
+			],
+			[
+				3,
+				"많",
+				"VA",
+				"이 개념은 미국의 사회학자인 조지 리처가 고안해낸 개념으로, 패스트푸드점의 원리가 전 세계에서 더 많은 부분을 차지하게 되는 것이다."
+			],
+			[
+				4,
+				"동일하",
+				"VA",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				5,
+				"특정하",
+				"VA",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				6,
+				"유사하",
+				"VA",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				7,
+				"이러하",
+				"VA",
+				"하지만 이러한 맥도날드화는 합리성의 불합리성이라는 치명적인 문제로 이어지게 된다."
+			],
+			[
+				8,
+				"좋",
+				"VA",
+				"따라서 나는 좋은 평가가 되기 위해서는 개인의 앞으로의 목표의 방향과 적성에 맞는 방법으로 이루어지는 평가가 이루어져야 한다고 생각한다."
+			]
+		],
+		"VX_Lst": [
+			[
+				0,
+				"않",
+				"VX",
+				"나는 특정 기준에 따른 개인의 성취도 평가가 최고의 평가라고 생각하지는 않는다."
+			],
+			[
+				1,
+				"않",
+				"VX",
+				"만약 특정한 기준으로 평가를 한다면 하나밖에 존재하지 않는 틀에, 그것에 맞지 않을지도 모르는 개인을 욱여넣는 것과 다를 바 없다고 나는 생각한다."
+			],
+			[
+				2,
+				"않",
+				"VX",
+				"만약 특정한 기준으로 평가를 한다면 하나밖에 존재하지 않는 틀에, 그것에 맞지 않을지도 모르는 개인을 욱여넣는 것과 다를 바 없다고 나는 생각한다."
+			],
+			[
+				3,
+				"보",
+				"VX",
+				"나는 또한 여기에 '맥도날드화'라는 개념을 적용해보려 한다."
+			],
+			[
+				4,
+				"하",
+				"VX",
+				"나는 또한 여기에 '맥도날드화'라는 개념을 적용해보려 한다."
+			],
+			[
+				5,
+				"내",
+				"VX",
+				"이 개념은 미국의 사회학자인 조지 리처가 고안해낸 개념으로, 패스트푸드점의 원리가 전 세계에서 더 많은 부분을 차지하게 되는 것이다."
+			],
+			[
+				6,
+				"하",
+				"VX",
+				"따라서 나는 좋은 평가가 되기 위해서는 개인의 앞으로의 목표의 방향과 적성에 맞는 방법으로 이루어지는 평가가 이루어져야 한다고 생각한다."
+			]
+		],
+		"VCP_Lst": [
+			[
+				0,
+				"이",
+				"VCP",
+				"나는 특정 기준에 따른 개인의 성취도 평가가 최고의 평가라고 생각하지는 않는다."
+			],
+			[
+				1,
+				"이",
+				"VCP",
+				"나는 또한 여기에 '맥도날드화'라는 개념을 적용해보려 한다."
+			],
+			[
+				2,
+				"이",
+				"VCP",
+				"이 개념은 미국의 사회학자인 조지 리처가 고안해낸 개념으로, 패스트푸드점의 원리가 전 세계에서 더 많은 부분을 차지하게 되는 것이다."
+			],
+			[
+				3,
+				"이",
+				"VCP",
+				"이 개념은 미국의 사회학자인 조지 리처가 고안해낸 개념으로, 패스트푸드점의 원리가 전 세계에서 더 많은 부분을 차지하게 되는 것이다."
+			],
+			[
+				4,
+				"이",
+				"VCP",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				5,
+				"이",
+				"VCP",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				6,
+				"이",
+				"VCP",
+				"하지만 이러한 맥도날드화는 합리성의 불합리성이라는 치명적인 문제로 이어지게 된다."
+			],
+			[
+				7,
+				"이",
+				"VCP",
+				"하지만 이러한 맥도날드화는 합리성의 불합리성이라는 치명적인 문제로 이어지게 된다."
+			]
+		],
+		"VCN_Lst": [],
+		"ML_Lst": [
+			[
+				0,
+				"또한",
+				"MAG",
+				"나는 또한 여기에 '맥도날드화'라는 개념을 적용해보려 한다."
+			],
+			[
+				1,
+				"더",
+				"MAG",
+				"이 개념은 미국의 사회학자인 조지 리처가 고안해낸 개념으로, 패스트푸드점의 원리가 전 세계에서 더 많은 부분을 차지하게 되는 것이다."
+			],
+			[
+				2,
+				"하지만",
+				"MAJ",
+				"하지만 이러한 맥도날드화는 합리성의 불합리성이라는 치명적인 문제로 이어지게 된다."
+			],
+			[
+				3,
+				"따라서",
+				"MAJ",
+				"따라서 나는 좋은 평가가 되기 위해서는 개인의 앞으로의 목표의 방향과 적성에 맞는 방법으로 이루어지는 평가가 이루어져야 한다고 생각한다."
+			]
+		],
+		"MA_Lst": [],
+		"MM_Lst": [],
+		"J_Lst": [
+			[
+				0,
+				"는",
+				"JX",
+				"나는 특정 기준에 따른 개인의 성취도 평가가 최고의 평가라고 생각하지는 않는다."
+			],
+			[
+				1,
+				"에",
+				"JKB",
+				"나는 특정 기준에 따른 개인의 성취도 평가가 최고의 평가라고 생각하지는 않는다."
+			],
+			[
+				2,
+				"의",
+				"JKG",
+				"나는 특정 기준에 따른 개인의 성취도 평가가 최고의 평가라고 생각하지는 않는다."
+			],
+			[
+				3,
+				"가",
+				"JKS",
+				"나는 특정 기준에 따른 개인의 성취도 평가가 최고의 평가라고 생각하지는 않는다."
+			],
+			[
+				4,
+				"의",
+				"JKG",
+				"나는 특정 기준에 따른 개인의 성취도 평가가 최고의 평가라고 생각하지는 않는다."
+			],
+			[
+				5,
+				"는",
+				"JX",
+				"나는 특정 기준에 따른 개인의 성취도 평가가 최고의 평가라고 생각하지는 않는다."
+			],
+			[
+				6,
+				"으로",
+				"JKB",
+				"만약 특정한 기준으로 평가를 한다면 하나밖에 존재하지 않는 틀에, 그것에 맞지 않을지도 모르는 개인을 욱여넣는 것과 다를 바 없다고 나는 생각한다."
+			],
+			[
+				7,
+				"를",
+				"JKO",
+				"만약 특정한 기준으로 평가를 한다면 하나밖에 존재하지 않는 틀에, 그것에 맞지 않을지도 모르는 개인을 욱여넣는 것과 다를 바 없다고 나는 생각한다."
+			],
+			[
+				8,
+				"밖에",
+				"JX",
+				"만약 특정한 기준으로 평가를 한다면 하나밖에 존재하지 않는 틀에, 그것에 맞지 않을지도 모르는 개인을 욱여넣는 것과 다를 바 없다고 나는 생각한다."
+			],
+			[
+				9,
+				"에",
+				"JKB",
+				"만약 특정한 기준으로 평가를 한다면 하나밖에 존재하지 않는 틀에, 그것에 맞지 않을지도 모르는 개인을 욱여넣는 것과 다를 바 없다고 나는 생각한다."
+			],
+			[
+				10,
+				"에",
+				"JKB",
+				"만약 특정한 기준으로 평가를 한다면 하나밖에 존재하지 않는 틀에, 그것에 맞지 않을지도 모르는 개인을 욱여넣는 것과 다를 바 없다고 나는 생각한다."
+			],
+			[
+				11,
+				"도",
+				"JX",
+				"만약 특정한 기준으로 평가를 한다면 하나밖에 존재하지 않는 틀에, 그것에 맞지 않을지도 모르는 개인을 욱여넣는 것과 다를 바 없다고 나는 생각한다."
+			],
+			[
+				12,
+				"을",
+				"JKO",
+				"만약 특정한 기준으로 평가를 한다면 하나밖에 존재하지 않는 틀에, 그것에 맞지 않을지도 모르는 개인을 욱여넣는 것과 다를 바 없다고 나는 생각한다."
+			],
+			[
+				13,
+				"과",
+				"JKB",
+				"만약 특정한 기준으로 평가를 한다면 하나밖에 존재하지 않는 틀에, 그것에 맞지 않을지도 모르는 개인을 욱여넣는 것과 다를 바 없다고 나는 생각한다."
+			],
+			[
+				14,
+				"는",
+				"JX",
+				"만약 특정한 기준으로 평가를 한다면 하나밖에 존재하지 않는 틀에, 그것에 맞지 않을지도 모르는 개인을 욱여넣는 것과 다를 바 없다고 나는 생각한다."
+			],
+			[
+				15,
+				"는",
+				"JX",
+				"나는 또한 여기에 '맥도날드화'라는 개념을 적용해보려 한다."
+			],
+			[
+				16,
+				"에",
+				"JKB",
+				"나는 또한 여기에 '맥도날드화'라는 개념을 적용해보려 한다."
+			],
+			[
+				17,
+				"을",
+				"JKO",
+				"나는 또한 여기에 '맥도날드화'라는 개념을 적용해보려 한다."
+			],
+			[
+				18,
+				"은",
+				"JX",
+				"이 개념은 미국의 사회학자인 조지 리처가 고안해낸 개념으로, 패스트푸드점의 원리가 전 세계에서 더 많은 부분을 차지하게 되는 것이다."
+			],
+			[
+				19,
+				"의",
+				"JKG",
+				"이 개념은 미국의 사회학자인 조지 리처가 고안해낸 개념으로, 패스트푸드점의 원리가 전 세계에서 더 많은 부분을 차지하게 되는 것이다."
+			],
+			[
+				20,
+				"가",
+				"JKS",
+				"이 개념은 미국의 사회학자인 조지 리처가 고안해낸 개념으로, 패스트푸드점의 원리가 전 세계에서 더 많은 부분을 차지하게 되는 것이다."
+			],
+			[
+				21,
+				"으로",
+				"JKB",
+				"이 개념은 미국의 사회학자인 조지 리처가 고안해낸 개념으로, 패스트푸드점의 원리가 전 세계에서 더 많은 부분을 차지하게 되는 것이다."
+			],
+			[
+				22,
+				"의",
+				"JKG",
+				"이 개념은 미국의 사회학자인 조지 리처가 고안해낸 개념으로, 패스트푸드점의 원리가 전 세계에서 더 많은 부분을 차지하게 되는 것이다."
+			],
+			[
+				23,
+				"가",
+				"JKS",
+				"이 개념은 미국의 사회학자인 조지 리처가 고안해낸 개념으로, 패스트푸드점의 원리가 전 세계에서 더 많은 부분을 차지하게 되는 것이다."
+			],
+			[
+				24,
+				"에서",
+				"JKB",
+				"이 개념은 미국의 사회학자인 조지 리처가 고안해낸 개념으로, 패스트푸드점의 원리가 전 세계에서 더 많은 부분을 차지하게 되는 것이다."
+			],
+			[
+				25,
+				"을",
+				"JKO",
+				"이 개념은 미국의 사회학자인 조지 리처가 고안해낸 개념으로, 패스트푸드점의 원리가 전 세계에서 더 많은 부분을 차지하게 되는 것이다."
+			],
+			[
+				26,
+				"의",
+				"JKG",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				27,
+				"은",
+				"JX",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				28,
+				"이나",
+				"JC",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				29,
+				"가",
+				"JKS",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				30,
+				"서",
+				"JKB",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				31,
+				"나",
+				"JX",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				32,
+				"을",
+				"JKO",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				33,
+				"는",
+				"JX",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				34,
+				"이",
+				"JKS",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				35,
+				"으로",
+				"JKB",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				36,
+				"을",
+				"JKO",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				37,
+				"과",
+				"JKB",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				38,
+				"는",
+				"JX",
+				"하지만 이러한 맥도날드화는 합리성의 불합리성이라는 치명적인 문제로 이어지게 된다."
+			],
+			[
+				39,
+				"의",
+				"JKG",
+				"하지만 이러한 맥도날드화는 합리성의 불합리성이라는 치명적인 문제로 이어지게 된다."
+			],
+			[
+				40,
+				"로",
+				"JKB",
+				"하지만 이러한 맥도날드화는 합리성의 불합리성이라는 치명적인 문제로 이어지게 된다."
+			],
+			[
+				41,
+				"는",
+				"JX",
+				"따라서 나는 좋은 평가가 되기 위해서는 개인의 앞으로의 목표의 방향과 적성에 맞는 방법으로 이루어지는 평가가 이루어져야 한다고 생각한다."
+			],
+			[
+				42,
+				"가",
+				"JKC",
+				"따라서 나는 좋은 평가가 되기 위해서는 개인의 앞으로의 목표의 방향과 적성에 맞는 방법으로 이루어지는 평가가 이루어져야 한다고 생각한다."
+			],
+			[
+				43,
+				"는",
+				"JX",
+				"따라서 나는 좋은 평가가 되기 위해서는 개인의 앞으로의 목표의 방향과 적성에 맞는 방법으로 이루어지는 평가가 이루어져야 한다고 생각한다."
+			],
+			[
+				44,
+				"의",
+				"JKG",
+				"따라서 나는 좋은 평가가 되기 위해서는 개인의 앞으로의 목표의 방향과 적성에 맞는 방법으로 이루어지는 평가가 이루어져야 한다고 생각한다."
+			],
+			[
+				45,
+				"으로",
+				"JKB",
+				"따라서 나는 좋은 평가가 되기 위해서는 개인의 앞으로의 목표의 방향과 적성에 맞는 방법으로 이루어지는 평가가 이루어져야 한다고 생각한다."
+			],
+			[
+				46,
+				"의",
+				"JKG",
+				"따라서 나는 좋은 평가가 되기 위해서는 개인의 앞으로의 목표의 방향과 적성에 맞는 방법으로 이루어지는 평가가 이루어져야 한다고 생각한다."
+			],
+			[
+				47,
+				"의",
+				"JKG",
+				"따라서 나는 좋은 평가가 되기 위해서는 개인의 앞으로의 목표의 방향과 적성에 맞는 방법으로 이루어지는 평가가 이루어져야 한다고 생각한다."
+			],
+			[
+				48,
+				"과",
+				"JC",
+				"따라서 나는 좋은 평가가 되기 위해서는 개인의 앞으로의 목표의 방향과 적성에 맞는 방법으로 이루어지는 평가가 이루어져야 한다고 생각한다."
+			],
+			[
+				49,
+				"에",
+				"JKB",
+				"따라서 나는 좋은 평가가 되기 위해서는 개인의 앞으로의 목표의 방향과 적성에 맞는 방법으로 이루어지는 평가가 이루어져야 한다고 생각한다."
+			],
+			[
+				50,
+				"으로",
+				"JKB",
+				"따라서 나는 좋은 평가가 되기 위해서는 개인의 앞으로의 목표의 방향과 적성에 맞는 방법으로 이루어지는 평가가 이루어져야 한다고 생각한다."
+			],
+			[
+				51,
+				"가",
+				"JKS",
+				"따라서 나는 좋은 평가가 되기 위해서는 개인의 앞으로의 목표의 방향과 적성에 맞는 방법으로 이루어지는 평가가 이루어져야 한다고 생각한다."
+			]
+		],
+		"E_Lst": [
+			[
+				0,
+				"ㄴ",
+				"ETM",
+				"나는 특정 기준에 따른 개인의 성취도 평가가 최고의 평가라고 생각하지는 않는다."
+			],
+			[
+				1,
+				"라고",
+				"EC",
+				"나는 특정 기준에 따른 개인의 성취도 평가가 최고의 평가라고 생각하지는 않는다."
+			],
+			[
+				2,
+				"지",
+				"EC",
+				"나는 특정 기준에 따른 개인의 성취도 평가가 최고의 평가라고 생각하지는 않는다."
+			],
+			[
+				3,
+				"는다",
+				"EF",
+				"나는 특정 기준에 따른 개인의 성취도 평가가 최고의 평가라고 생각하지는 않는다."
+			],
+			[
+				4,
+				"ㄴ",
+				"ETM",
+				"만약 특정한 기준으로 평가를 한다면 하나밖에 존재하지 않는 틀에, 그것에 맞지 않을지도 모르는 개인을 욱여넣는 것과 다를 바 없다고 나는 생각한다."
+			],
+			[
+				5,
+				"ㄴ다면",
+				"EC",
+				"만약 특정한 기준으로 평가를 한다면 하나밖에 존재하지 않는 틀에, 그것에 맞지 않을지도 모르는 개인을 욱여넣는 것과 다를 바 없다고 나는 생각한다."
+			],
+			[
+				6,
+				"지",
+				"EC",
+				"만약 특정한 기준으로 평가를 한다면 하나밖에 존재하지 않는 틀에, 그것에 맞지 않을지도 모르는 개인을 욱여넣는 것과 다를 바 없다고 나는 생각한다."
+			],
+			[
+				7,
+				"는",
+				"ETM",
+				"만약 특정한 기준으로 평가를 한다면 하나밖에 존재하지 않는 틀에, 그것에 맞지 않을지도 모르는 개인을 욱여넣는 것과 다를 바 없다고 나는 생각한다."
+			],
+			[
+				8,
+				"지",
+				"EC",
+				"만약 특정한 기준으로 평가를 한다면 하나밖에 존재하지 않는 틀에, 그것에 맞지 않을지도 모르는 개인을 욱여넣는 것과 다를 바 없다고 나는 생각한다."
+			],
+			[
+				9,
+				"을지",
+				"EF",
+				"만약 특정한 기준으로 평가를 한다면 하나밖에 존재하지 않는 틀에, 그것에 맞지 않을지도 모르는 개인을 욱여넣는 것과 다를 바 없다고 나는 생각한다."
+			],
+			[
+				10,
+				"는",
+				"ETM",
+				"만약 특정한 기준으로 평가를 한다면 하나밖에 존재하지 않는 틀에, 그것에 맞지 않을지도 모르는 개인을 욱여넣는 것과 다를 바 없다고 나는 생각한다."
+			],
+			[
+				11,
+				"어",
+				"EC",
+				"만약 특정한 기준으로 평가를 한다면 하나밖에 존재하지 않는 틀에, 그것에 맞지 않을지도 모르는 개인을 욱여넣는 것과 다를 바 없다고 나는 생각한다."
+			],
+			[
+				12,
+				"는",
+				"ETM",
+				"만약 특정한 기준으로 평가를 한다면 하나밖에 존재하지 않는 틀에, 그것에 맞지 않을지도 모르는 개인을 욱여넣는 것과 다를 바 없다고 나는 생각한다."
+			],
+			[
+				13,
+				"ㄹ",
+				"ETM",
+				"만약 특정한 기준으로 평가를 한다면 하나밖에 존재하지 않는 틀에, 그것에 맞지 않을지도 모르는 개인을 욱여넣는 것과 다를 바 없다고 나는 생각한다."
+			],
+			[
+				14,
+				"다고",
+				"EC",
+				"만약 특정한 기준으로 평가를 한다면 하나밖에 존재하지 않는 틀에, 그것에 맞지 않을지도 모르는 개인을 욱여넣는 것과 다를 바 없다고 나는 생각한다."
+			],
+			[
+				15,
+				"ㄴ다",
+				"EF",
+				"만약 특정한 기준으로 평가를 한다면 하나밖에 존재하지 않는 틀에, 그것에 맞지 않을지도 모르는 개인을 욱여넣는 것과 다를 바 없다고 나는 생각한다."
+			],
+			[
+				16,
+				"라는",
+				"ETM",
+				"나는 또한 여기에 '맥도날드화'라는 개념을 적용해보려 한다."
+			],
+			[
+				17,
+				"아",
+				"EC",
+				"나는 또한 여기에 '맥도날드화'라는 개념을 적용해보려 한다."
+			],
+			[
+				18,
+				"려",
+				"EC",
+				"나는 또한 여기에 '맥도날드화'라는 개념을 적용해보려 한다."
+			],
+			[
+				19,
+				"ㄴ다",
+				"EF",
+				"나는 또한 여기에 '맥도날드화'라는 개념을 적용해보려 한다."
+			],
+			[
+				20,
+				"ㄴ",
+				"ETM",
+				"이 개념은 미국의 사회학자인 조지 리처가 고안해낸 개념으로, 패스트푸드점의 원리가 전 세계에서 더 많은 부분을 차지하게 되는 것이다."
+			],
+			[
+				21,
+				"아",
+				"EC",
+				"이 개념은 미국의 사회학자인 조지 리처가 고안해낸 개념으로, 패스트푸드점의 원리가 전 세계에서 더 많은 부분을 차지하게 되는 것이다."
+			],
+			[
+				22,
+				"ㄴ",
+				"ETM",
+				"이 개념은 미국의 사회학자인 조지 리처가 고안해낸 개념으로, 패스트푸드점의 원리가 전 세계에서 더 많은 부분을 차지하게 되는 것이다."
+			],
+			[
+				23,
+				"은",
+				"ETM",
+				"이 개념은 미국의 사회학자인 조지 리처가 고안해낸 개념으로, 패스트푸드점의 원리가 전 세계에서 더 많은 부분을 차지하게 되는 것이다."
+			],
+			[
+				24,
+				"게",
+				"EC",
+				"이 개념은 미국의 사회학자인 조지 리처가 고안해낸 개념으로, 패스트푸드점의 원리가 전 세계에서 더 많은 부분을 차지하게 되는 것이다."
+			],
+			[
+				25,
+				"는",
+				"ETM",
+				"이 개념은 미국의 사회학자인 조지 리처가 고안해낸 개념으로, 패스트푸드점의 원리가 전 세계에서 더 많은 부분을 차지하게 되는 것이다."
+			],
+			[
+				26,
+				"다",
+				"EF",
+				"이 개념은 미국의 사회학자인 조지 리처가 고안해낸 개념으로, 패스트푸드점의 원리가 전 세계에서 더 많은 부분을 차지하게 되는 것이다."
+			],
+			[
+				27,
+				"ㄴ",
+				"ETM",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				28,
+				"ㄹ",
+				"ETM",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				29,
+				"라는",
+				"ETM",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				30,
+				"며",
+				"EC",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				31,
+				"ㄴ",
+				"ETM",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				32,
+				"며",
+				"EC",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				33,
+				"는",
+				"ETM",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				34,
+				"다고",
+				"EC",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				35,
+				"ㄴ다",
+				"EF",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				36,
+				"ㄴ",
+				"ETM",
+				"하지만 이러한 맥도날드화는 합리성의 불합리성이라는 치명적인 문제로 이어지게 된다."
+			],
+			[
+				37,
+				"라는",
+				"ETM",
+				"하지만 이러한 맥도날드화는 합리성의 불합리성이라는 치명적인 문제로 이어지게 된다."
+			],
+			[
+				38,
+				"ㄴ",
+				"ETM",
+				"하지만 이러한 맥도날드화는 합리성의 불합리성이라는 치명적인 문제로 이어지게 된다."
+			],
+			[
+				39,
+				"게",
+				"EC",
+				"하지만 이러한 맥도날드화는 합리성의 불합리성이라는 치명적인 문제로 이어지게 된다."
+			],
+			[
+				40,
+				"ㄴ다",
+				"EF",
+				"하지만 이러한 맥도날드화는 합리성의 불합리성이라는 치명적인 문제로 이어지게 된다."
+			],
+			[
+				41,
+				"은",
+				"ETM",
+				"따라서 나는 좋은 평가가 되기 위해서는 개인의 앞으로의 목표의 방향과 적성에 맞는 방법으로 이루어지는 평가가 이루어져야 한다고 생각한다."
+			],
+			[
+				42,
+				"기",
+				"ETN",
+				"따라서 나는 좋은 평가가 되기 위해서는 개인의 앞으로의 목표의 방향과 적성에 맞는 방법으로 이루어지는 평가가 이루어져야 한다고 생각한다."
+			],
+			[
+				43,
+				"아서",
+				"EC",
+				"따라서 나는 좋은 평가가 되기 위해서는 개인의 앞으로의 목표의 방향과 적성에 맞는 방법으로 이루어지는 평가가 이루어져야 한다고 생각한다."
+			],
+			[
+				44,
+				"는",
+				"ETM",
+				"따라서 나는 좋은 평가가 되기 위해서는 개인의 앞으로의 목표의 방향과 적성에 맞는 방법으로 이루어지는 평가가 이루어져야 한다고 생각한다."
+			],
+			[
+				45,
+				"는",
+				"ETM",
+				"따라서 나는 좋은 평가가 되기 위해서는 개인의 앞으로의 목표의 방향과 적성에 맞는 방법으로 이루어지는 평가가 이루어져야 한다고 생각한다."
+			],
+			[
+				46,
+				"어야",
+				"EC",
+				"따라서 나는 좋은 평가가 되기 위해서는 개인의 앞으로의 목표의 방향과 적성에 맞는 방법으로 이루어지는 평가가 이루어져야 한다고 생각한다."
+			],
+			[
+				47,
+				"ㄴ다고",
+				"EC",
+				"따라서 나는 좋은 평가가 되기 위해서는 개인의 앞으로의 목표의 방향과 적성에 맞는 방법으로 이루어지는 평가가 이루어져야 한다고 생각한다."
+			],
+			[
+				48,
+				"ㄴ다",
+				"EF",
+				"따라서 나는 좋은 평가가 되기 위해서는 개인의 앞으로의 목표의 방향과 적성에 맞는 방법으로 이루어지는 평가가 이루어져야 한다고 생각한다."
+			]
+		],
+		"X_Lst": [
+			[
+				0,
+				"화",
+				"XSN",
+				"나는 또한 여기에 '맥도날드화'라는 개념을 적용해보려 한다."
+			],
+			[
+				1,
+				"화",
+				"XSN",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				2,
+				"성",
+				"XSN",
+				"이 맥도날드화의 특징중 하나인 예측가능성은 제품이나 서비스가 어디서나 동일할 것이라는 것을 의미하며, 나는 이것이 특정한 기준으로 개인을 평가하며 균일화하는 것과 유사하다고 생각한다."
+			],
+			[
+				3,
+				"화",
+				"XSN",
+				"하지만 이러한 맥도날드화는 합리성의 불합리성이라는 치명적인 문제로 이어지게 된다."
+			],
+			[
+				4,
+				"성",
+				"XSN",
+				"하지만 이러한 맥도날드화는 합리성의 불합리성이라는 치명적인 문제로 이어지게 된다."
+			],
+			[
+				5,
+				"불",
+				"XPN",
+				"하지만 이러한 맥도날드화는 합리성의 불합리성이라는 치명적인 문제로 이어지게 된다."
+			],
+			[
+				6,
+				"성",
+				"XSN",
+				"하지만 이러한 맥도날드화는 합리성의 불합리성이라는 치명적인 문제로 이어지게 된다."
+			],
+			[
+				7,
+				"적",
+				"XSN",
+				"하지만 이러한 맥도날드화는 합리성의 불합리성이라는 치명적인 문제로 이어지게 된다."
+			]
+		],
+		"IC_Lst": []
+	},
+	"NDW": {
+		"morph_NDW": 126,
+		"NL_NDW": 64,
+		"NNG_NDW": 40,
+		"NNP_NDW": 6,
+		"NNB_NDW": 7,
+		"NP_NDW": 9,
+		"NR_NDW": 2,
+		"VL_NDW": 49,
+		"VV_NDW": 25,
+		"VA_NDW": 9,
+		"ML_NDW": 4,
+		"MM_NDW": 0,
+		"IC_NDW": 0,
+		"J_NDW": 52,
+		"E_NDW": 49,
+		"X_NDW": 8,
+		"CL_NDW": 117,
+		"FL_NDW": 109
+	}
+}

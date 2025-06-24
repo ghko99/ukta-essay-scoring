@@ -1,0 +1,3358 @@
+﻿{
+	"morpheme": {
+		"sentences": [
+			{
+				"text": {
+					"content": "대학원에서 인적자원개발(HRD)을 전공하였고 사람에 대한 관심과 열정으로 조기 졸업자와 최우수 졸업자로 선정되기도 하였다.",
+					"length": 68,
+					"beginOffset": 0
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "대학원에서",
+							"length": 5,
+							"beginOffset": 0
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "대학원",
+									"length": 3,
+									"beginOffset": 0
+								},
+								"tag": "NNG",
+								"probability": 0.9833008,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에서",
+									"beginOffset": 3,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9961155,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "대학원",
+						"tagged": "대학원/NNG+에서/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "인적자원개발(HRD)을",
+							"beginOffset": 6,
+							"length": 12
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "인적",
+									"beginOffset": 6,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "자원",
+									"beginOffset": 8,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "개발",
+									"beginOffset": 10,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "(",
+									"beginOffset": 12,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.99991447,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "HRD",
+									"beginOffset": 13,
+									"length": 3
+								},
+								"tag": "SL",
+								"probability": 0.5370394,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": ")",
+									"beginOffset": 16,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.99999285,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 17,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999187,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "인적",
+						"tagged": "인적/NNG+자원/NNG+개발/NNG+(/SS+HRD/SL+)/SS+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "전공하였고",
+							"beginOffset": 19,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "전공하",
+									"beginOffset": 19,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 22,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9998834,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 23,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9931291,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "전공하",
+						"tagged": "전공하/VV+았/EP+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사람에",
+							"beginOffset": 25,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사람",
+									"beginOffset": 25,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9867811,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 27,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99751616,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사람",
+						"tagged": "사람/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "대한",
+							"beginOffset": 29,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "대하",
+									"beginOffset": 29,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.98987776,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 30,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99995345,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "대하",
+						"tagged": "대하/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "관심과",
+							"beginOffset": 32,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "관심",
+									"beginOffset": 32,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.980712,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "과",
+									"beginOffset": 34,
+									"length": 1
+								},
+								"tag": "JC",
+								"probability": 0.9911258,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "관심",
+						"tagged": "관심/NNG+과/JC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "열정으로",
+							"beginOffset": 36,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "열정",
+									"beginOffset": 36,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9805924,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으로",
+									"beginOffset": 38,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.99687743,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "열정",
+						"tagged": "열정/NNG+으로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "조기",
+							"beginOffset": 41,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "조기",
+									"beginOffset": 41,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9802785,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "조기",
+						"tagged": "조기/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "졸업자와",
+							"beginOffset": 44,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "졸업자",
+									"beginOffset": 44,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.98172545,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "와",
+									"beginOffset": 47,
+									"length": 1
+								},
+								"tag": "JC",
+								"probability": 0.95745945,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "졸업자",
+						"tagged": "졸업자/NNG+와/JC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "최우수",
+							"beginOffset": 49,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "최우수",
+									"beginOffset": 49,
+									"length": 3
+								},
+								"tag": "NNP",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							}
+						],
+						"lemma": "최우수",
+						"tagged": "최우수/NNP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "졸업자로",
+							"beginOffset": 53,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "졸업자",
+									"beginOffset": 53,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9821225,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "로",
+									"beginOffset": 56,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99748755,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "졸업자",
+						"tagged": "졸업자/NNG+로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "선정되기도",
+							"beginOffset": 58,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "선정되",
+									"beginOffset": 58,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "기",
+									"beginOffset": 61,
+									"length": 1
+								},
+								"tag": "ETN",
+								"probability": 0.99989784,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 62,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99933904,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "선정되",
+						"tagged": "선정되/VV+기/ETN+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "하였다.",
+							"beginOffset": 64,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 64,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.65988773,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 65,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9998521,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 66,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9930779,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 67,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9997432,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VX+았/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "대학원에서 인적자원개발(HRD)을 전공하였고 사람에 대한 관심과 열정으로 조기 졸업자와 최우수 졸업자로 선정되기도 하였다."
+			},
+			{
+				"text": {
+					"content": "저자는 이 모든 경험이 내 모습 그대로, 나답게 살아가기 위한 길을 찾는 과정이었다고 말한다.",
+					"beginOffset": 69,
+					"length": 52
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "저자는",
+							"beginOffset": 69,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "저자",
+									"beginOffset": 69,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9843127,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 71,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9991099,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "저자",
+						"tagged": "저자/NNG+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이",
+							"beginOffset": 73,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 73,
+									"length": 1
+								},
+								"tag": "MMD",
+								"probability": 0.99976504,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이",
+						"tagged": "이/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "모든",
+							"beginOffset": 75,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "모든",
+									"beginOffset": 75,
+									"length": 2
+								},
+								"tag": "MMN",
+								"probability": 0.9993625,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "모든",
+						"tagged": "모든/MMN",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "경험이",
+							"beginOffset": 78,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "경험",
+									"beginOffset": 78,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9790911,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 80,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9939233,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "경험",
+						"tagged": "경험/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "내",
+							"beginOffset": 82,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "나",
+									"beginOffset": 82,
+									"length": 1
+								},
+								"tag": "NP",
+								"probability": 0.980728,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 82,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99949133,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "나",
+						"tagged": "나/NP+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "모습",
+							"beginOffset": 84,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "모습",
+									"beginOffset": 84,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98345345,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "모습",
+						"tagged": "모습/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "그대로",
+							"beginOffset": 87,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그대로",
+									"beginOffset": 87,
+									"length": 3
+								},
+								"tag": "MAG",
+								"probability": 0.99237216,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그대로",
+						"tagged": "그대로/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": ",",
+							"beginOffset": 90,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 90,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.9979683,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": ",",
+						"tagged": ",/SP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "나",
+							"beginOffset": 92,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "나",
+									"beginOffset": 92,
+									"length": 1
+								},
+								"tag": "NP",
+								"probability": 0.84483814,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "나",
+						"tagged": "나/NP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "답게",
+							"beginOffset": 93,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "답",
+									"beginOffset": 93,
+									"length": 1
+								},
+								"tag": "XSA",
+								"probability": 0.99130917,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "게",
+									"beginOffset": 94,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9957409,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "답",
+						"tagged": "답/XSA+게/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "살아가기",
+							"beginOffset": 96,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "살아가",
+									"beginOffset": 96,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.990532,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "기",
+									"beginOffset": 99,
+									"length": 1
+								},
+								"tag": "ETN",
+								"probability": 0.9999047,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "살아가",
+						"tagged": "살아가/VV+기/ETN",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "위한",
+							"beginOffset": 101,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "위하",
+									"beginOffset": 101,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9874961,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 102,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9998947,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "위하",
+						"tagged": "위하/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "길을",
+							"beginOffset": 104,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "길",
+									"beginOffset": 104,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9782468,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 105,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999434,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "길",
+						"tagged": "길/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "찾는",
+							"beginOffset": 107,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "찾",
+									"beginOffset": 107,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.98618984,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 108,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99852955,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "찾",
+						"tagged": "찾/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "과정이었다고",
+							"beginOffset": 110,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "과정",
+									"beginOffset": 110,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97770077,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 112,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.99984777,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 113,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9997675,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다고",
+									"beginOffset": 114,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9852229,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "과정",
+						"tagged": "과정/NNG+이/VCP+었/EP+다고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "말한다.",
+							"beginOffset": 117,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "말하",
+									"beginOffset": 117,
+									"length": 2
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ다",
+									"beginOffset": 118,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.99164134,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 120,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9998628,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "말하",
+						"tagged": "말하/VV+ㄴ다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "저자는 이 모든 경험이 내 모습 그대로 , 나 답게 살아가기 위한 길을 찾는 과정이었다고 말한다."
+			},
+			{
+				"text": {
+					"content": "그리고 그 고민한 결과물들을 책으로 엮게 되었다.",
+					"beginOffset": 122,
+					"length": 27
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "그리고",
+							"beginOffset": 122,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그리고",
+									"beginOffset": 122,
+									"length": 3
+								},
+								"tag": "MAJ",
+								"probability": 0.99866545,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그리고",
+						"tagged": "그리고/MAJ",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "그",
+							"beginOffset": 126,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그",
+									"beginOffset": 126,
+									"length": 1
+								},
+								"tag": "MMD",
+								"probability": 0.9997969,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그",
+						"tagged": "그/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "고민한",
+							"beginOffset": 128,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "고민하",
+									"beginOffset": 128,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 130,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99998164,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "고민하",
+						"tagged": "고민하/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "결과물들을",
+							"beginOffset": 132,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "결과물",
+									"beginOffset": 132,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9830533,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "들",
+									"beginOffset": 135,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.9918652,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 136,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99994475,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "결과물",
+						"tagged": "결과물/NNG+들/XSN+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "책으로",
+							"beginOffset": 138,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "책",
+									"beginOffset": 138,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.98655367,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으로",
+									"beginOffset": 139,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9950157,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "책",
+						"tagged": "책/NNG+으로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "엮게",
+							"beginOffset": 142,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "엮",
+									"beginOffset": 142,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9902523,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "게",
+									"beginOffset": 143,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99620765,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "엮",
+						"tagged": "엮/VV+게/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "되었다.",
+							"beginOffset": 145,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "되",
+									"beginOffset": 145,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.98612946,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 146,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9998475,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 147,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.98484004,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 148,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99985456,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "되",
+						"tagged": "되/VV+었/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "그리고 그 고민한 결과물들을 책으로 엮게 되었다."
+			},
+			{
+				"text": {
+					"content": "오늘도 자신의 성향 그대로 나다운 삶을 살아가기 위해 노력하고 있는 사람들이 있다.",
+					"beginOffset": 150,
+					"length": 46
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "오늘도",
+							"beginOffset": 150,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "오늘",
+									"beginOffset": 150,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9839652,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 152,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9994689,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "오늘",
+						"tagged": "오늘/NNG+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "자신의",
+							"beginOffset": 154,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "자신",
+									"beginOffset": 154,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9852421,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 156,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.999652,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "자신",
+						"tagged": "자신/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "성향",
+							"beginOffset": 158,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "성향",
+									"beginOffset": 158,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9849167,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "성향",
+						"tagged": "성향/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "그대로",
+							"beginOffset": 161,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그대로",
+									"beginOffset": 161,
+									"length": 3
+								},
+								"tag": "MAG",
+								"probability": 0.99269336,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그대로",
+						"tagged": "그대로/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "나",
+							"beginOffset": 165,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "나",
+									"beginOffset": 165,
+									"length": 1
+								},
+								"tag": "NP",
+								"probability": 0.91996753,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "나",
+						"tagged": "나/NP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "다운",
+							"beginOffset": 166,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "답",
+									"beginOffset": 166,
+									"length": 1
+								},
+								"tag": "XSA",
+								"probability": 0.9960162,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 167,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999874,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "답",
+						"tagged": "답/XSA+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "삶을",
+							"beginOffset": 169,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "삶",
+									"beginOffset": 169,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.98436916,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 170,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9998613,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "삶",
+						"tagged": "삶/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "살아가기",
+							"beginOffset": 172,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "살아가",
+									"beginOffset": 172,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.99060345,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "기",
+									"beginOffset": 175,
+									"length": 1
+								},
+								"tag": "ETN",
+								"probability": 0.99791247,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "살아가",
+						"tagged": "살아가/VV+기/ETN",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "위해",
+							"beginOffset": 177,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "위하",
+									"beginOffset": 177,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9906861,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 178,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99184453,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "위하",
+						"tagged": "위하/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "노력하고",
+							"beginOffset": 180,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "노력하",
+									"beginOffset": 180,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 183,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99399894,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "노력하",
+						"tagged": "노력하/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있는",
+							"beginOffset": 185,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 185,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.9580131,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 186,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99994874,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VX+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사람들이",
+							"beginOffset": 188,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사람",
+									"beginOffset": 188,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98702276,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "들",
+									"beginOffset": 190,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.9900535,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 191,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9862407,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사람",
+						"tagged": "사람/NNG+들/XSN+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있다.",
+							"beginOffset": 193,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 193,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.89909345,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 194,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.99269736,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 195,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9994063,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VA+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "오늘도 자신의 성향 그대로 나 다운 삶을 살아가기 위해 노력하고 있는 사람들이 있다."
+			},
+			{
+				"text": {
+					"content": "저자는 이 책이 그분들에게 도움이 되길 소망한다.",
+					"beginOffset": 197,
+					"length": 27
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "저자는",
+							"beginOffset": 197,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "저자",
+									"beginOffset": 197,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98189014,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 199,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9985555,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "저자",
+						"tagged": "저자/NNG+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이",
+							"beginOffset": 201,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 201,
+									"length": 1
+								},
+								"tag": "MMD",
+								"probability": 0.9997856,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이",
+						"tagged": "이/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "책이",
+							"beginOffset": 203,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "책",
+									"beginOffset": 203,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.98289526,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 204,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.98566985,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "책",
+						"tagged": "책/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "그분들에게",
+							"beginOffset": 206,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그분",
+									"beginOffset": 206,
+									"length": 2
+								},
+								"tag": "NP",
+								"probability": 0.986361,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "들",
+									"beginOffset": 208,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.9914864,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에게",
+									"beginOffset": 209,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9834301,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그분",
+						"tagged": "그분/NP+들/XSN+에게/JKB",
+						"modified": "그분들에게"
+					},
+					{
+						"text": {
+							"content": "도움이",
+							"beginOffset": 212,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "도움",
+									"beginOffset": 212,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9801068,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 214,
+									"length": 1
+								},
+								"tag": "JKC",
+								"probability": 0.94128853,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "도움",
+						"tagged": "도움/NNG+이/JKC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "되길",
+							"beginOffset": 216,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "되",
+									"beginOffset": 216,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9883407,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "기",
+									"beginOffset": 217,
+									"length": 1
+								},
+								"tag": "ETN",
+								"probability": 0.99951303,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ",
+									"beginOffset": 217,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99965674,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "되",
+						"tagged": "되/VV+기/ETN+ㄹ/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "소망한다.",
+							"beginOffset": 219,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "소망하",
+									"beginOffset": 219,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ다",
+									"beginOffset": 221,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.9925551,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 223,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99977773,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "소망하",
+						"tagged": "소망하/VV+ㄴ다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "저자는 이 책이 그분들에게 도움이 되길 소망한다."
+			}
+		],
+		"language": "ko_KR"
+	},
+	"ttr": {
+		"lemma_Cnt": 109,
+		"lemma_TTR": 0.6101694915254238,
+		"CL_TTR": 0.7884615384615384,
+		"NL_TTR": 0.8,
+		"NN_TTR": 0.8461538461538461,
+		"NNG_TTR": 0.84,
+		"NNP_TTR": 1.0,
+		"NNB_TTR": 0,
+		"NP_TTR": 0.5,
+		"NR_TTR": 0,
+		"VL_TTR": 0.7894736842105263,
+		"VV_TTR": 0.8,
+		"VA_TTR": 1.0,
+		"ML_TTR": 0.6666666666666666,
+		"MM_TTR": 0,
+		"MA_TTR": 0.6666666666666666,
+		"MAJ_TTR": 1.0,
+		"IC_TTR": 0,
+		"FL_TTR": 0.4716981132075472,
+		"J_TTR": 0.5652173913043478,
+		"E_TTR": 0.44,
+		"X_TTR": 0.4,
+		"lemma_RTTR": 6.628137248867929,
+		"CL_RTTR": 5.685677011308599,
+		"NL_RTTR": 4.381780460041329,
+		"NN_RTTR": 4.314554973040049,
+		"NNG_RTTR": 4.2,
+		"NNP_RTTR": 1.0,
+		"NNB_RTTR": 0,
+		"NP_RTTR": 1.0,
+		"NR_RTTR": 0,
+		"VL_RTTR": 3.4412360080584263,
+		"VV_RTTR": 3.0983866769659336,
+		"VA_RTTR": 1.0,
+		"ML_RTTR": 1.1547005383792517,
+		"MM_RTTR": 0,
+		"MA_RTTR": 1.1547005383792517,
+		"MAJ_RTTR": 1.0,
+		"IC_RTTR": 0,
+		"FL_RTTR": 3.434014098717226,
+		"J_RTTR": 2.710687382741972,
+		"E_RTTR": 2.2,
+		"X_RTTR": 0.8944271909999159,
+		"lemma_CTTR": 4.68680079530966,
+		"CL_CTTR": 4.020380770332773,
+		"NL_CTTR": 3.0983866769659336,
+		"NN_CTTR": 3.05085107923876,
+		"NNG_CTTR": 2.9698484809834995,
+		"NNP_CTTR": 0.7071067811865475,
+		"NNB_CTTR": 0,
+		"NP_CTTR": 0.7071067811865475,
+		"NR_CTTR": 0,
+		"VL_CTTR": 2.4333213169614383,
+		"VV_CTTR": 2.1908902300206643,
+		"VA_CTTR": 0.7071067811865475,
+		"ML_CTTR": 0.8164965809277261,
+		"MM_CTTR": 0,
+		"MA_CTTR": 0.8164965809277261,
+		"MAJ_CTTR": 0.7071067811865475,
+		"IC_CTTR": 0,
+		"FL_CTTR": 2.4282146558931603,
+		"J_CTTR": 1.9167454300136628,
+		"E_CTTR": 1.5556349186104046,
+		"X_CTTR": 0.6324555320336759,
+		"lemma_MSTTR": 0.8500000000000001,
+		"CL_MSTTR": 0.8,
+		"NL_MSTTR": 0.8,
+		"NN_MSTTR": 0.8461538461538461,
+		"NNG_MSTTR": 0.84,
+		"NNP_MSTTR": 1.0,
+		"NNB_MSTTR": 0,
+		"NP_MSTTR": 0.5,
+		"NR_MSTTR": 0,
+		"VL_MSTTR": 0.7894736842105263,
+		"VV_MSTTR": 0.8,
+		"VA_MSTTR": 1.0,
+		"ML_MSTTR": 0.6666666666666666,
+		"MM_MSTTR": 0,
+		"MA_MSTTR": 0.6666666666666666,
+		"MAJ_MSTTR": 1.0,
+		"IC_MSTTR": 0,
+		"FL_MSTTR": 0.48,
+		"J_MSTTR": 0.5652173913043478,
+		"E_MSTTR": 0.44,
+		"X_MSTTR": 0.4,
+		"lemma_MATTR": 0.7936231884057972,
+		"CL_MATTR": 0.7866666666666667,
+		"NL_MATTR": 0.8,
+		"NN_MATTR": 0.8461538461538461,
+		"NNG_MATTR": 0.84,
+		"NNP_MATTR": 1.0,
+		"NNB_MATTR": 0,
+		"NP_MATTR": 0.5,
+		"NR_MATTR": 0,
+		"VL_MATTR": 0.7894736842105263,
+		"VV_MATTR": 0.8,
+		"VA_MATTR": 1.0,
+		"ML_MATTR": 0.6666666666666666,
+		"MM_MATTR": 0,
+		"MA_MATTR": 0.6666666666666666,
+		"MAJ_MATTR": 1.0,
+		"IC_MATTR": 0,
+		"FL_MATTR": 0.475,
+		"J_MATTR": 0.5652173913043478,
+		"E_MATTR": 0.44,
+		"X_MATTR": 0.4,
+		"lemma_MTLD": 56.68523871649911,
+		"CL_MTLD": 68.82909090909091,
+		"NL_MTLD": 42.000000000000014,
+		"NN_MTLD": 47.32000000000001,
+		"NNG_MTLD": 43.74999999999999,
+		"NNP_MTLD": 0.0,
+		"NNB_MTLD": 0.0,
+		"NP_MTLD": 2.24,
+		"NR_MTLD": 0.0,
+		"VL_MTLD": 25.270000000000007,
+		"VV_MTLD": 21.000000000000007,
+		"VA_MTLD": 0.0,
+		"ML_MTLD": 2.52,
+		"MM_MTLD": 0.0,
+		"MA_MTLD": 2.52,
+		"MAJ_MTLD": 0.0,
+		"IC_MTLD": 0.0,
+		"FL_MTLD": 25.304151624548737,
+		"J_MTLD": 17.19191919191919,
+		"E_MTLD": 12.85377358490566,
+		"X_MTLD": 2.3333333333333335,
+		"lemma_VOCDD": 71.22832724369847,
+		"CL_VOCDD": 82.46426374604174,
+		"NL_VOCDD": 0,
+		"NN_VOCDD": 0,
+		"NNG_VOCDD": 0,
+		"NNP_VOCDD": 0,
+		"NNB_VOCDD": 0,
+		"NP_VOCDD": 0,
+		"NR_VOCDD": 0,
+		"VL_VOCDD": 0,
+		"VV_VOCDD": 0,
+		"VA_VOCDD": 0,
+		"ML_VOCDD": 0,
+		"MM_VOCDD": 0,
+		"MA_VOCDD": 0,
+		"MAJ_VOCDD": 0,
+		"IC_VOCDD": 0,
+		"FL_VOCDD": 13.40209332383005,
+		"J_VOCDD": 0,
+		"E_VOCDD": 0,
+		"X_VOCDD": 0,
+		"lemma_HDD": 0.8090345182753491,
+		"CL_HDD": 0.8268476621417802,
+		"NL_HDD": 0.0,
+		"NN_HDD": 0.0,
+		"NNG_HDD": 0.0,
+		"NNP_HDD": 0.0,
+		"NNB_HDD": 0.0,
+		"NP_HDD": 0.0,
+		"NR_HDD": 0.0,
+		"VL_HDD": 0.0,
+		"VV_HDD": 0.0,
+		"VA_HDD": 0.0,
+		"ML_HDD": 0.0,
+		"MM_HDD": 0.0,
+		"MA_HDD": 0.0,
+		"MAJ_HDD": 0.0,
+		"IC_HDD": 0.0,
+		"FL_HDD": 0.5417413699877629,
+		"J_HDD": 0.0,
+		"E_HDD": 0.0,
+		"X_HDD": 0.0
+	},
+	"similarity": {
+		"avgSentSimilarity": 0.2039717435836792,
+		"topicConsistency": 0.5207
+	},
+	"adjacency": {
+		"adjacent_sentence_overlap_all_lemmas": 60,
+		"adjacent_sentence_overlap_all_lemmas_normed": 4,
+		"binary_adjacent_sentence_overlap_all_lemmas": 4,
+		"adjacent_two_sentence_overlap_all_lemmas": 35,
+		"adjacent_two_sentence_overlap_all_lemmas_normed": 3,
+		"binary_adjacent_two_sentence_overlap_all_lemmas": 3,
+		"adjacent_sentence_overlap_content_lemmas": 27,
+		"adjacent_sentence_overlap_content_lemmas_normed": 4,
+		"binary_adjacent_sentence_overlap_content_lemmas": 0,
+		"adjacent_two_sentence_overlap_content_lemmas": 18,
+		"adjacent_two_sentence_overlap_content_lemmas_normed": 3,
+		"binary_adjacent_two_sentence_overlap_content_lemmas": 0,
+		"adjacent_sentence_overlap_function_lemmas": 25,
+		"adjacent_sentence_overlap_function_lemmas_normed": 4,
+		"binary_adjacent_sentence_overlap_function_lemmas": 4,
+		"adjacent_two_sentence_overlap_function_lemmas": 13,
+		"adjacent_two_sentence_overlap_function_lemmas_normed": 3,
+		"binary_adjacent_two_sentence_overlap_function_lemmas": 2,
+		"adjacent_sentence_overlap_noun_lemmas": 20,
+		"adjacent_sentence_overlap_noun_lemmas_normed": 4,
+		"binary_adjacent_sentence_overlap_noun_lemmas": 3,
+		"adjacent_two_sentence_overlap_noun_lemmas": 11,
+		"adjacent_two_sentence_overlap_noun_lemmas_normed": 3,
+		"binary_adjacent_two_sentence_overlap_noun_lemmas": 1,
+		"adjacent_sentence_overlap_verb_lemmas": 12,
+		"adjacent_sentence_overlap_verb_lemmas_normed": 4,
+		"binary_adjacent_sentence_overlap_verb_lemmas": 0,
+		"adjacent_two_sentence_overlap_verb_lemmas": 8,
+		"adjacent_two_sentence_overlap_verb_lemmas_normed": 3,
+		"binary_adjacent_two_sentence_overlap_verb_lemmas": 0,
+		"adjacent_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_sentence_overlap_adjective_lemmas_normed": 0,
+		"binary_adjacent_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_sentence_overlap_adverb_lemmas_normed": 0,
+		"binary_adjacent_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adverb_lemmas": 0
+	},
+	"basic_count": {
+		"para_Cnt": 1,
+		"sentence_Cnt": 5,
+		"word_Cnt": 53,
+		"morph_Cnt": 118,
+		"char_Cnt": 177,
+		"CL_Cnt": 52,
+		"NL_Cnt": 30,
+		"NN_Cnt": 26,
+		"NNG_Cnt": 25,
+		"NNP_Cnt": 1,
+		"NNB_Cnt": 0,
+		"NP_Cnt": 4,
+		"NP_People_Cnt": 3,
+		"NP_Things_Cnt": 0,
+		"NR_Cnt": 0,
+		"VL_Cnt": 19,
+		"VV_Cnt": 15,
+		"VA_Cnt": 1,
+		"VX_Cnt": 2,
+		"VCP_Cnt": 1,
+		"VCN_Cnt": 0,
+		"ML_Cnt": 3,
+		"MA_Cnt": 0,
+		"MM_Cnt": 0,
+		"FL_Cnt": 53,
+		"J_Cnt": 23,
+		"E_Cnt": 25,
+		"X_Cnt": 5,
+		"IC_Cnt": 0
+	},
+	"basic_density": {
+		"CL_Den": 0.4406779661016949,
+		"FL_Den": 0.4491525423728814,
+		"NL_Den": 0.22033898305084745,
+		"NNGL_Den": 0.211864406779661,
+		"NNPL_Den": 0.00847457627118644,
+		"NNBL_Den": 0.0,
+		"NPL_Den": 0.03389830508474576,
+		"NML_Den": 0.0,
+		"VL_Den": 0.16101694915254236,
+		"VVL_Den": 0.1271186440677966,
+		"VAL_Den": 0.00847457627118644,
+		"ML_Den": 0.025423728813559324,
+		"MML_Den": 0.0,
+		"MAL_Den": 0.0,
+		"JL_Den": 0.19491525423728814,
+		"EL_Den": 0.211864406779661,
+		"XL_Den": 0.0423728813559322,
+		"ITL_Den": 0.0,
+		"NCL_Den": 0.5,
+		"NNCL_Den": 0.4807692307692308,
+		"NNGCL_Den": 0.019230769230769232,
+		"NNBCL_Den": 0.0,
+		"NPCL_Den": 0.07692307692307693,
+		"NMCL_Den": 0.0,
+		"VCL_Den": 0.36538461538461536,
+		"VVCL_Den": 0.28846153846153844,
+		"VACL_Den": 0.019230769230769232,
+		"MCL_Den": 0.057692307692307696,
+		"MMCL_Den": 0.0,
+		"MACL_Den": 0.0,
+		"INCL_Den": 0.0,
+		"JFL_Den": 0.4339622641509434,
+		"EFL_Den": 0.4716981132075472,
+		"XFL_Den": 0.09433962264150944
+	},
+	"basic_level": {
+		"morph_LenAvg": 1.5254237288135593,
+		"morph_LenStd": 0.7214846323319586,
+		"word_LenAvg": 3.0943396226415096,
+		"word_LenStd": 1.4827836003312072
+	},
+	"basic_list": {
+		"NL_Lst": [
+			[
+				0,
+				"대학원",
+				"NNG",
+				"대학원에서 인적자원개발(HRD)을 전공하였고 사람에 대한 관심과 열정으로 조기 졸업자와 최우수 졸업자로 선정되기도 하였다."
+			],
+			[
+				1,
+				"인적",
+				"NNG",
+				"대학원에서 인적자원개발(HRD)을 전공하였고 사람에 대한 관심과 열정으로 조기 졸업자와 최우수 졸업자로 선정되기도 하였다."
+			],
+			[
+				2,
+				"자원",
+				"NNG",
+				"대학원에서 인적자원개발(HRD)을 전공하였고 사람에 대한 관심과 열정으로 조기 졸업자와 최우수 졸업자로 선정되기도 하였다."
+			],
+			[
+				3,
+				"개발",
+				"NNG",
+				"대학원에서 인적자원개발(HRD)을 전공하였고 사람에 대한 관심과 열정으로 조기 졸업자와 최우수 졸업자로 선정되기도 하였다."
+			],
+			[
+				4,
+				"사람",
+				"NNG",
+				"대학원에서 인적자원개발(HRD)을 전공하였고 사람에 대한 관심과 열정으로 조기 졸업자와 최우수 졸업자로 선정되기도 하였다."
+			],
+			[
+				5,
+				"관심",
+				"NNG",
+				"대학원에서 인적자원개발(HRD)을 전공하였고 사람에 대한 관심과 열정으로 조기 졸업자와 최우수 졸업자로 선정되기도 하였다."
+			],
+			[
+				6,
+				"열정",
+				"NNG",
+				"대학원에서 인적자원개발(HRD)을 전공하였고 사람에 대한 관심과 열정으로 조기 졸업자와 최우수 졸업자로 선정되기도 하였다."
+			],
+			[
+				7,
+				"조기",
+				"NNG",
+				"대학원에서 인적자원개발(HRD)을 전공하였고 사람에 대한 관심과 열정으로 조기 졸업자와 최우수 졸업자로 선정되기도 하였다."
+			],
+			[
+				8,
+				"졸업자",
+				"NNG",
+				"대학원에서 인적자원개발(HRD)을 전공하였고 사람에 대한 관심과 열정으로 조기 졸업자와 최우수 졸업자로 선정되기도 하였다."
+			],
+			[
+				9,
+				"최우수",
+				"NNP",
+				"대학원에서 인적자원개발(HRD)을 전공하였고 사람에 대한 관심과 열정으로 조기 졸업자와 최우수 졸업자로 선정되기도 하였다."
+			],
+			[
+				10,
+				"졸업자",
+				"NNG",
+				"대학원에서 인적자원개발(HRD)을 전공하였고 사람에 대한 관심과 열정으로 조기 졸업자와 최우수 졸업자로 선정되기도 하였다."
+			],
+			[
+				11,
+				"저자",
+				"NNG",
+				"저자는 이 모든 경험이 내 모습 그대로, 나답게 살아가기 위한 길을 찾는 과정이었다고 말한다."
+			],
+			[
+				12,
+				"경험",
+				"NNG",
+				"저자는 이 모든 경험이 내 모습 그대로, 나답게 살아가기 위한 길을 찾는 과정이었다고 말한다."
+			],
+			[
+				13,
+				"나",
+				"NP",
+				"저자는 이 모든 경험이 내 모습 그대로, 나답게 살아가기 위한 길을 찾는 과정이었다고 말한다."
+			],
+			[
+				14,
+				"모습",
+				"NNG",
+				"저자는 이 모든 경험이 내 모습 그대로, 나답게 살아가기 위한 길을 찾는 과정이었다고 말한다."
+			],
+			[
+				15,
+				"나",
+				"NP",
+				"저자는 이 모든 경험이 내 모습 그대로, 나답게 살아가기 위한 길을 찾는 과정이었다고 말한다."
+			],
+			[
+				16,
+				"길",
+				"NNG",
+				"저자는 이 모든 경험이 내 모습 그대로, 나답게 살아가기 위한 길을 찾는 과정이었다고 말한다."
+			],
+			[
+				17,
+				"과정",
+				"NNG",
+				"저자는 이 모든 경험이 내 모습 그대로, 나답게 살아가기 위한 길을 찾는 과정이었다고 말한다."
+			],
+			[
+				18,
+				"결과물",
+				"NNG",
+				"그리고 그 고민한 결과물들을 책으로 엮게 되었다."
+			],
+			[
+				19,
+				"책",
+				"NNG",
+				"그리고 그 고민한 결과물들을 책으로 엮게 되었다."
+			],
+			[
+				20,
+				"오늘",
+				"NNG",
+				"오늘도 자신의 성향 그대로 나다운 삶을 살아가기 위해 노력하고 있는 사람들이 있다."
+			],
+			[
+				21,
+				"자신",
+				"NNG",
+				"오늘도 자신의 성향 그대로 나다운 삶을 살아가기 위해 노력하고 있는 사람들이 있다."
+			],
+			[
+				22,
+				"성향",
+				"NNG",
+				"오늘도 자신의 성향 그대로 나다운 삶을 살아가기 위해 노력하고 있는 사람들이 있다."
+			],
+			[
+				23,
+				"나",
+				"NP",
+				"오늘도 자신의 성향 그대로 나다운 삶을 살아가기 위해 노력하고 있는 사람들이 있다."
+			],
+			[
+				24,
+				"삶",
+				"NNG",
+				"오늘도 자신의 성향 그대로 나다운 삶을 살아가기 위해 노력하고 있는 사람들이 있다."
+			],
+			[
+				25,
+				"사람",
+				"NNG",
+				"오늘도 자신의 성향 그대로 나다운 삶을 살아가기 위해 노력하고 있는 사람들이 있다."
+			],
+			[
+				26,
+				"저자",
+				"NNG",
+				"저자는 이 책이 그분들에게 도움이 되길 소망한다."
+			],
+			[
+				27,
+				"책",
+				"NNG",
+				"저자는 이 책이 그분들에게 도움이 되길 소망한다."
+			],
+			[
+				28,
+				"그분",
+				"NP",
+				"저자는 이 책이 그분들에게 도움이 되길 소망한다."
+			],
+			[
+				29,
+				"도움",
+				"NNG",
+				"저자는 이 책이 그분들에게 도움이 되길 소망한다."
+			]
+		],
+		"NN_Lst": [
+			[
+				0,
+				"대학원",
+				"NNG",
+				"대학원에서 인적자원개발(HRD)을 전공하였고 사람에 대한 관심과 열정으로 조기 졸업자와 최우수 졸업자로 선정되기도 하였다."
+			],
+			[
+				1,
+				"인적",
+				"NNG",
+				"대학원에서 인적자원개발(HRD)을 전공하였고 사람에 대한 관심과 열정으로 조기 졸업자와 최우수 졸업자로 선정되기도 하였다."
+			],
+			[
+				2,
+				"자원",
+				"NNG",
+				"대학원에서 인적자원개발(HRD)을 전공하였고 사람에 대한 관심과 열정으로 조기 졸업자와 최우수 졸업자로 선정되기도 하였다."
+			],
+			[
+				3,
+				"개발",
+				"NNG",
+				"대학원에서 인적자원개발(HRD)을 전공하였고 사람에 대한 관심과 열정으로 조기 졸업자와 최우수 졸업자로 선정되기도 하였다."
+			],
+			[
+				4,
+				"사람",
+				"NNG",
+				"대학원에서 인적자원개발(HRD)을 전공하였고 사람에 대한 관심과 열정으로 조기 졸업자와 최우수 졸업자로 선정되기도 하였다."
+			],
+			[
+				5,
+				"관심",
+				"NNG",
+				"대학원에서 인적자원개발(HRD)을 전공하였고 사람에 대한 관심과 열정으로 조기 졸업자와 최우수 졸업자로 선정되기도 하였다."
+			],
+			[
+				6,
+				"열정",
+				"NNG",
+				"대학원에서 인적자원개발(HRD)을 전공하였고 사람에 대한 관심과 열정으로 조기 졸업자와 최우수 졸업자로 선정되기도 하였다."
+			],
+			[
+				7,
+				"조기",
+				"NNG",
+				"대학원에서 인적자원개발(HRD)을 전공하였고 사람에 대한 관심과 열정으로 조기 졸업자와 최우수 졸업자로 선정되기도 하였다."
+			],
+			[
+				8,
+				"졸업자",
+				"NNG",
+				"대학원에서 인적자원개발(HRD)을 전공하였고 사람에 대한 관심과 열정으로 조기 졸업자와 최우수 졸업자로 선정되기도 하였다."
+			],
+			[
+				9,
+				"최우수",
+				"NNP",
+				"대학원에서 인적자원개발(HRD)을 전공하였고 사람에 대한 관심과 열정으로 조기 졸업자와 최우수 졸업자로 선정되기도 하였다."
+			],
+			[
+				10,
+				"졸업자",
+				"NNG",
+				"대학원에서 인적자원개발(HRD)을 전공하였고 사람에 대한 관심과 열정으로 조기 졸업자와 최우수 졸업자로 선정되기도 하였다."
+			],
+			[
+				11,
+				"저자",
+				"NNG",
+				"저자는 이 모든 경험이 내 모습 그대로, 나답게 살아가기 위한 길을 찾는 과정이었다고 말한다."
+			],
+			[
+				12,
+				"경험",
+				"NNG",
+				"저자는 이 모든 경험이 내 모습 그대로, 나답게 살아가기 위한 길을 찾는 과정이었다고 말한다."
+			],
+			[
+				13,
+				"모습",
+				"NNG",
+				"저자는 이 모든 경험이 내 모습 그대로, 나답게 살아가기 위한 길을 찾는 과정이었다고 말한다."
+			],
+			[
+				14,
+				"길",
+				"NNG",
+				"저자는 이 모든 경험이 내 모습 그대로, 나답게 살아가기 위한 길을 찾는 과정이었다고 말한다."
+			],
+			[
+				15,
+				"과정",
+				"NNG",
+				"저자는 이 모든 경험이 내 모습 그대로, 나답게 살아가기 위한 길을 찾는 과정이었다고 말한다."
+			],
+			[
+				16,
+				"결과물",
+				"NNG",
+				"그리고 그 고민한 결과물들을 책으로 엮게 되었다."
+			],
+			[
+				17,
+				"책",
+				"NNG",
+				"그리고 그 고민한 결과물들을 책으로 엮게 되었다."
+			],
+			[
+				18,
+				"오늘",
+				"NNG",
+				"오늘도 자신의 성향 그대로 나다운 삶을 살아가기 위해 노력하고 있는 사람들이 있다."
+			],
+			[
+				19,
+				"자신",
+				"NNG",
+				"오늘도 자신의 성향 그대로 나다운 삶을 살아가기 위해 노력하고 있는 사람들이 있다."
+			],
+			[
+				20,
+				"성향",
+				"NNG",
+				"오늘도 자신의 성향 그대로 나다운 삶을 살아가기 위해 노력하고 있는 사람들이 있다."
+			],
+			[
+				21,
+				"삶",
+				"NNG",
+				"오늘도 자신의 성향 그대로 나다운 삶을 살아가기 위해 노력하고 있는 사람들이 있다."
+			],
+			[
+				22,
+				"사람",
+				"NNG",
+				"오늘도 자신의 성향 그대로 나다운 삶을 살아가기 위해 노력하고 있는 사람들이 있다."
+			],
+			[
+				23,
+				"저자",
+				"NNG",
+				"저자는 이 책이 그분들에게 도움이 되길 소망한다."
+			],
+			[
+				24,
+				"책",
+				"NNG",
+				"저자는 이 책이 그분들에게 도움이 되길 소망한다."
+			],
+			[
+				25,
+				"도움",
+				"NNG",
+				"저자는 이 책이 그분들에게 도움이 되길 소망한다."
+			]
+		],
+		"NNG_Lst": [
+			[
+				0,
+				"대학원",
+				"NNG",
+				"대학원에서 인적자원개발(HRD)을 전공하였고 사람에 대한 관심과 열정으로 조기 졸업자와 최우수 졸업자로 선정되기도 하였다."
+			],
+			[
+				1,
+				"인적",
+				"NNG",
+				"대학원에서 인적자원개발(HRD)을 전공하였고 사람에 대한 관심과 열정으로 조기 졸업자와 최우수 졸업자로 선정되기도 하였다."
+			],
+			[
+				2,
+				"자원",
+				"NNG",
+				"대학원에서 인적자원개발(HRD)을 전공하였고 사람에 대한 관심과 열정으로 조기 졸업자와 최우수 졸업자로 선정되기도 하였다."
+			],
+			[
+				3,
+				"개발",
+				"NNG",
+				"대학원에서 인적자원개발(HRD)을 전공하였고 사람에 대한 관심과 열정으로 조기 졸업자와 최우수 졸업자로 선정되기도 하였다."
+			],
+			[
+				4,
+				"사람",
+				"NNG",
+				"대학원에서 인적자원개발(HRD)을 전공하였고 사람에 대한 관심과 열정으로 조기 졸업자와 최우수 졸업자로 선정되기도 하였다."
+			],
+			[
+				5,
+				"관심",
+				"NNG",
+				"대학원에서 인적자원개발(HRD)을 전공하였고 사람에 대한 관심과 열정으로 조기 졸업자와 최우수 졸업자로 선정되기도 하였다."
+			],
+			[
+				6,
+				"열정",
+				"NNG",
+				"대학원에서 인적자원개발(HRD)을 전공하였고 사람에 대한 관심과 열정으로 조기 졸업자와 최우수 졸업자로 선정되기도 하였다."
+			],
+			[
+				7,
+				"조기",
+				"NNG",
+				"대학원에서 인적자원개발(HRD)을 전공하였고 사람에 대한 관심과 열정으로 조기 졸업자와 최우수 졸업자로 선정되기도 하였다."
+			],
+			[
+				8,
+				"졸업자",
+				"NNG",
+				"대학원에서 인적자원개발(HRD)을 전공하였고 사람에 대한 관심과 열정으로 조기 졸업자와 최우수 졸업자로 선정되기도 하였다."
+			],
+			[
+				9,
+				"졸업자",
+				"NNG",
+				"대학원에서 인적자원개발(HRD)을 전공하였고 사람에 대한 관심과 열정으로 조기 졸업자와 최우수 졸업자로 선정되기도 하였다."
+			],
+			[
+				10,
+				"저자",
+				"NNG",
+				"저자는 이 모든 경험이 내 모습 그대로, 나답게 살아가기 위한 길을 찾는 과정이었다고 말한다."
+			],
+			[
+				11,
+				"경험",
+				"NNG",
+				"저자는 이 모든 경험이 내 모습 그대로, 나답게 살아가기 위한 길을 찾는 과정이었다고 말한다."
+			],
+			[
+				12,
+				"모습",
+				"NNG",
+				"저자는 이 모든 경험이 내 모습 그대로, 나답게 살아가기 위한 길을 찾는 과정이었다고 말한다."
+			],
+			[
+				13,
+				"길",
+				"NNG",
+				"저자는 이 모든 경험이 내 모습 그대로, 나답게 살아가기 위한 길을 찾는 과정이었다고 말한다."
+			],
+			[
+				14,
+				"과정",
+				"NNG",
+				"저자는 이 모든 경험이 내 모습 그대로, 나답게 살아가기 위한 길을 찾는 과정이었다고 말한다."
+			],
+			[
+				15,
+				"결과물",
+				"NNG",
+				"그리고 그 고민한 결과물들을 책으로 엮게 되었다."
+			],
+			[
+				16,
+				"책",
+				"NNG",
+				"그리고 그 고민한 결과물들을 책으로 엮게 되었다."
+			],
+			[
+				17,
+				"오늘",
+				"NNG",
+				"오늘도 자신의 성향 그대로 나다운 삶을 살아가기 위해 노력하고 있는 사람들이 있다."
+			],
+			[
+				18,
+				"자신",
+				"NNG",
+				"오늘도 자신의 성향 그대로 나다운 삶을 살아가기 위해 노력하고 있는 사람들이 있다."
+			],
+			[
+				19,
+				"성향",
+				"NNG",
+				"오늘도 자신의 성향 그대로 나다운 삶을 살아가기 위해 노력하고 있는 사람들이 있다."
+			],
+			[
+				20,
+				"삶",
+				"NNG",
+				"오늘도 자신의 성향 그대로 나다운 삶을 살아가기 위해 노력하고 있는 사람들이 있다."
+			],
+			[
+				21,
+				"사람",
+				"NNG",
+				"오늘도 자신의 성향 그대로 나다운 삶을 살아가기 위해 노력하고 있는 사람들이 있다."
+			],
+			[
+				22,
+				"저자",
+				"NNG",
+				"저자는 이 책이 그분들에게 도움이 되길 소망한다."
+			],
+			[
+				23,
+				"책",
+				"NNG",
+				"저자는 이 책이 그분들에게 도움이 되길 소망한다."
+			],
+			[
+				24,
+				"도움",
+				"NNG",
+				"저자는 이 책이 그분들에게 도움이 되길 소망한다."
+			]
+		],
+		"NNP_Lst": [
+			[
+				0,
+				"최우수",
+				"NNP",
+				"대학원에서 인적자원개발(HRD)을 전공하였고 사람에 대한 관심과 열정으로 조기 졸업자와 최우수 졸업자로 선정되기도 하였다."
+			]
+		],
+		"NNB_Lst": [],
+		"NP_Lst": [
+			[
+				0,
+				"나",
+				"NP",
+				"저자는 이 모든 경험이 내 모습 그대로, 나답게 살아가기 위한 길을 찾는 과정이었다고 말한다."
+			],
+			[
+				1,
+				"나",
+				"NP",
+				"저자는 이 모든 경험이 내 모습 그대로, 나답게 살아가기 위한 길을 찾는 과정이었다고 말한다."
+			],
+			[
+				2,
+				"나",
+				"NP",
+				"오늘도 자신의 성향 그대로 나다운 삶을 살아가기 위해 노력하고 있는 사람들이 있다."
+			],
+			[
+				3,
+				"그분",
+				"NP",
+				"저자는 이 책이 그분들에게 도움이 되길 소망한다."
+			]
+		],
+		"NP_People_Lst": [
+			[
+				0,
+				"나",
+				"NP",
+				"저자는 이 모든 경험이 내 모습 그대로, 나답게 살아가기 위한 길을 찾는 과정이었다고 말한다."
+			],
+			[
+				1,
+				"나",
+				"NP",
+				"저자는 이 모든 경험이 내 모습 그대로, 나답게 살아가기 위한 길을 찾는 과정이었다고 말한다."
+			],
+			[
+				2,
+				"나",
+				"NP",
+				"오늘도 자신의 성향 그대로 나다운 삶을 살아가기 위해 노력하고 있는 사람들이 있다."
+			]
+		],
+		"NP_Things_Lst": [],
+		"NR_Lst": [],
+		"VL_Lst": [
+			[
+				0,
+				"전공하",
+				"VV",
+				"대학원에서 인적자원개발(HRD)을 전공하였고 사람에 대한 관심과 열정으로 조기 졸업자와 최우수 졸업자로 선정되기도 하였다."
+			],
+			[
+				1,
+				"대하",
+				"VV",
+				"대학원에서 인적자원개발(HRD)을 전공하였고 사람에 대한 관심과 열정으로 조기 졸업자와 최우수 졸업자로 선정되기도 하였다."
+			],
+			[
+				2,
+				"선정되",
+				"VV",
+				"대학원에서 인적자원개발(HRD)을 전공하였고 사람에 대한 관심과 열정으로 조기 졸업자와 최우수 졸업자로 선정되기도 하였다."
+			],
+			[
+				3,
+				"하",
+				"VX",
+				"대학원에서 인적자원개발(HRD)을 전공하였고 사람에 대한 관심과 열정으로 조기 졸업자와 최우수 졸업자로 선정되기도 하였다."
+			],
+			[
+				4,
+				"살아가",
+				"VV",
+				"저자는 이 모든 경험이 내 모습 그대로, 나답게 살아가기 위한 길을 찾는 과정이었다고 말한다."
+			],
+			[
+				5,
+				"위하",
+				"VV",
+				"저자는 이 모든 경험이 내 모습 그대로, 나답게 살아가기 위한 길을 찾는 과정이었다고 말한다."
+			],
+			[
+				6,
+				"찾",
+				"VV",
+				"저자는 이 모든 경험이 내 모습 그대로, 나답게 살아가기 위한 길을 찾는 과정이었다고 말한다."
+			],
+			[
+				7,
+				"이",
+				"VCP",
+				"저자는 이 모든 경험이 내 모습 그대로, 나답게 살아가기 위한 길을 찾는 과정이었다고 말한다."
+			],
+			[
+				8,
+				"말하",
+				"VV",
+				"저자는 이 모든 경험이 내 모습 그대로, 나답게 살아가기 위한 길을 찾는 과정이었다고 말한다."
+			],
+			[
+				9,
+				"고민하",
+				"VV",
+				"그리고 그 고민한 결과물들을 책으로 엮게 되었다."
+			],
+			[
+				10,
+				"엮",
+				"VV",
+				"그리고 그 고민한 결과물들을 책으로 엮게 되었다."
+			],
+			[
+				11,
+				"되",
+				"VV",
+				"그리고 그 고민한 결과물들을 책으로 엮게 되었다."
+			],
+			[
+				12,
+				"살아가",
+				"VV",
+				"오늘도 자신의 성향 그대로 나다운 삶을 살아가기 위해 노력하고 있는 사람들이 있다."
+			],
+			[
+				13,
+				"위하",
+				"VV",
+				"오늘도 자신의 성향 그대로 나다운 삶을 살아가기 위해 노력하고 있는 사람들이 있다."
+			],
+			[
+				14,
+				"노력하",
+				"VV",
+				"오늘도 자신의 성향 그대로 나다운 삶을 살아가기 위해 노력하고 있는 사람들이 있다."
+			],
+			[
+				15,
+				"있",
+				"VX",
+				"오늘도 자신의 성향 그대로 나다운 삶을 살아가기 위해 노력하고 있는 사람들이 있다."
+			],
+			[
+				16,
+				"있",
+				"VA",
+				"오늘도 자신의 성향 그대로 나다운 삶을 살아가기 위해 노력하고 있는 사람들이 있다."
+			],
+			[
+				17,
+				"되",
+				"VV",
+				"저자는 이 책이 그분들에게 도움이 되길 소망한다."
+			],
+			[
+				18,
+				"소망하",
+				"VV",
+				"저자는 이 책이 그분들에게 도움이 되길 소망한다."
+			]
+		],
+		"VV_Lst": [
+			[
+				0,
+				"전공하",
+				"VV",
+				"대학원에서 인적자원개발(HRD)을 전공하였고 사람에 대한 관심과 열정으로 조기 졸업자와 최우수 졸업자로 선정되기도 하였다."
+			],
+			[
+				1,
+				"대하",
+				"VV",
+				"대학원에서 인적자원개발(HRD)을 전공하였고 사람에 대한 관심과 열정으로 조기 졸업자와 최우수 졸업자로 선정되기도 하였다."
+			],
+			[
+				2,
+				"선정되",
+				"VV",
+				"대학원에서 인적자원개발(HRD)을 전공하였고 사람에 대한 관심과 열정으로 조기 졸업자와 최우수 졸업자로 선정되기도 하였다."
+			],
+			[
+				3,
+				"살아가",
+				"VV",
+				"저자는 이 모든 경험이 내 모습 그대로, 나답게 살아가기 위한 길을 찾는 과정이었다고 말한다."
+			],
+			[
+				4,
+				"위하",
+				"VV",
+				"저자는 이 모든 경험이 내 모습 그대로, 나답게 살아가기 위한 길을 찾는 과정이었다고 말한다."
+			],
+			[
+				5,
+				"찾",
+				"VV",
+				"저자는 이 모든 경험이 내 모습 그대로, 나답게 살아가기 위한 길을 찾는 과정이었다고 말한다."
+			],
+			[
+				6,
+				"말하",
+				"VV",
+				"저자는 이 모든 경험이 내 모습 그대로, 나답게 살아가기 위한 길을 찾는 과정이었다고 말한다."
+			],
+			[
+				7,
+				"고민하",
+				"VV",
+				"그리고 그 고민한 결과물들을 책으로 엮게 되었다."
+			],
+			[
+				8,
+				"엮",
+				"VV",
+				"그리고 그 고민한 결과물들을 책으로 엮게 되었다."
+			],
+			[
+				9,
+				"되",
+				"VV",
+				"그리고 그 고민한 결과물들을 책으로 엮게 되었다."
+			],
+			[
+				10,
+				"살아가",
+				"VV",
+				"오늘도 자신의 성향 그대로 나다운 삶을 살아가기 위해 노력하고 있는 사람들이 있다."
+			],
+			[
+				11,
+				"위하",
+				"VV",
+				"오늘도 자신의 성향 그대로 나다운 삶을 살아가기 위해 노력하고 있는 사람들이 있다."
+			],
+			[
+				12,
+				"노력하",
+				"VV",
+				"오늘도 자신의 성향 그대로 나다운 삶을 살아가기 위해 노력하고 있는 사람들이 있다."
+			],
+			[
+				13,
+				"되",
+				"VV",
+				"저자는 이 책이 그분들에게 도움이 되길 소망한다."
+			],
+			[
+				14,
+				"소망하",
+				"VV",
+				"저자는 이 책이 그분들에게 도움이 되길 소망한다."
+			]
+		],
+		"VA_Lst": [
+			[
+				0,
+				"있",
+				"VA",
+				"오늘도 자신의 성향 그대로 나다운 삶을 살아가기 위해 노력하고 있는 사람들이 있다."
+			]
+		],
+		"VX_Lst": [
+			[
+				0,
+				"하",
+				"VX",
+				"대학원에서 인적자원개발(HRD)을 전공하였고 사람에 대한 관심과 열정으로 조기 졸업자와 최우수 졸업자로 선정되기도 하였다."
+			],
+			[
+				1,
+				"있",
+				"VX",
+				"오늘도 자신의 성향 그대로 나다운 삶을 살아가기 위해 노력하고 있는 사람들이 있다."
+			]
+		],
+		"VCP_Lst": [
+			[
+				0,
+				"이",
+				"VCP",
+				"저자는 이 모든 경험이 내 모습 그대로, 나답게 살아가기 위한 길을 찾는 과정이었다고 말한다."
+			]
+		],
+		"VCN_Lst": [],
+		"ML_Lst": [
+			[
+				0,
+				"그대로",
+				"MAG",
+				"저자는 이 모든 경험이 내 모습 그대로, 나답게 살아가기 위한 길을 찾는 과정이었다고 말한다."
+			],
+			[
+				1,
+				"그리고",
+				"MAJ",
+				"그리고 그 고민한 결과물들을 책으로 엮게 되었다."
+			],
+			[
+				2,
+				"그대로",
+				"MAG",
+				"오늘도 자신의 성향 그대로 나다운 삶을 살아가기 위해 노력하고 있는 사람들이 있다."
+			]
+		],
+		"MA_Lst": [],
+		"MM_Lst": [],
+		"J_Lst": [
+			[
+				0,
+				"에서",
+				"JKB",
+				"대학원에서 인적자원개발(HRD)을 전공하였고 사람에 대한 관심과 열정으로 조기 졸업자와 최우수 졸업자로 선정되기도 하였다."
+			],
+			[
+				1,
+				"을",
+				"JKO",
+				"대학원에서 인적자원개발(HRD)을 전공하였고 사람에 대한 관심과 열정으로 조기 졸업자와 최우수 졸업자로 선정되기도 하였다."
+			],
+			[
+				2,
+				"에",
+				"JKB",
+				"대학원에서 인적자원개발(HRD)을 전공하였고 사람에 대한 관심과 열정으로 조기 졸업자와 최우수 졸업자로 선정되기도 하였다."
+			],
+			[
+				3,
+				"과",
+				"JC",
+				"대학원에서 인적자원개발(HRD)을 전공하였고 사람에 대한 관심과 열정으로 조기 졸업자와 최우수 졸업자로 선정되기도 하였다."
+			],
+			[
+				4,
+				"으로",
+				"JKB",
+				"대학원에서 인적자원개발(HRD)을 전공하였고 사람에 대한 관심과 열정으로 조기 졸업자와 최우수 졸업자로 선정되기도 하였다."
+			],
+			[
+				5,
+				"와",
+				"JC",
+				"대학원에서 인적자원개발(HRD)을 전공하였고 사람에 대한 관심과 열정으로 조기 졸업자와 최우수 졸업자로 선정되기도 하였다."
+			],
+			[
+				6,
+				"로",
+				"JKB",
+				"대학원에서 인적자원개발(HRD)을 전공하였고 사람에 대한 관심과 열정으로 조기 졸업자와 최우수 졸업자로 선정되기도 하였다."
+			],
+			[
+				7,
+				"도",
+				"JX",
+				"대학원에서 인적자원개발(HRD)을 전공하였고 사람에 대한 관심과 열정으로 조기 졸업자와 최우수 졸업자로 선정되기도 하였다."
+			],
+			[
+				8,
+				"는",
+				"JX",
+				"저자는 이 모든 경험이 내 모습 그대로, 나답게 살아가기 위한 길을 찾는 과정이었다고 말한다."
+			],
+			[
+				9,
+				"이",
+				"JKS",
+				"저자는 이 모든 경험이 내 모습 그대로, 나답게 살아가기 위한 길을 찾는 과정이었다고 말한다."
+			],
+			[
+				10,
+				"의",
+				"JKG",
+				"저자는 이 모든 경험이 내 모습 그대로, 나답게 살아가기 위한 길을 찾는 과정이었다고 말한다."
+			],
+			[
+				11,
+				"을",
+				"JKO",
+				"저자는 이 모든 경험이 내 모습 그대로, 나답게 살아가기 위한 길을 찾는 과정이었다고 말한다."
+			],
+			[
+				12,
+				"을",
+				"JKO",
+				"그리고 그 고민한 결과물들을 책으로 엮게 되었다."
+			],
+			[
+				13,
+				"으로",
+				"JKB",
+				"그리고 그 고민한 결과물들을 책으로 엮게 되었다."
+			],
+			[
+				14,
+				"도",
+				"JX",
+				"오늘도 자신의 성향 그대로 나다운 삶을 살아가기 위해 노력하고 있는 사람들이 있다."
+			],
+			[
+				15,
+				"의",
+				"JKG",
+				"오늘도 자신의 성향 그대로 나다운 삶을 살아가기 위해 노력하고 있는 사람들이 있다."
+			],
+			[
+				16,
+				"을",
+				"JKO",
+				"오늘도 자신의 성향 그대로 나다운 삶을 살아가기 위해 노력하고 있는 사람들이 있다."
+			],
+			[
+				17,
+				"이",
+				"JKS",
+				"오늘도 자신의 성향 그대로 나다운 삶을 살아가기 위해 노력하고 있는 사람들이 있다."
+			],
+			[
+				18,
+				"는",
+				"JX",
+				"저자는 이 책이 그분들에게 도움이 되길 소망한다."
+			],
+			[
+				19,
+				"이",
+				"JKS",
+				"저자는 이 책이 그분들에게 도움이 되길 소망한다."
+			],
+			[
+				20,
+				"에게",
+				"JKB",
+				"저자는 이 책이 그분들에게 도움이 되길 소망한다."
+			],
+			[
+				21,
+				"이",
+				"JKC",
+				"저자는 이 책이 그분들에게 도움이 되길 소망한다."
+			],
+			[
+				22,
+				"ㄹ",
+				"JKO",
+				"저자는 이 책이 그분들에게 도움이 되길 소망한다."
+			]
+		],
+		"E_Lst": [
+			[
+				0,
+				"았",
+				"EP",
+				"대학원에서 인적자원개발(HRD)을 전공하였고 사람에 대한 관심과 열정으로 조기 졸업자와 최우수 졸업자로 선정되기도 하였다."
+			],
+			[
+				1,
+				"고",
+				"EC",
+				"대학원에서 인적자원개발(HRD)을 전공하였고 사람에 대한 관심과 열정으로 조기 졸업자와 최우수 졸업자로 선정되기도 하였다."
+			],
+			[
+				2,
+				"ㄴ",
+				"ETM",
+				"대학원에서 인적자원개발(HRD)을 전공하였고 사람에 대한 관심과 열정으로 조기 졸업자와 최우수 졸업자로 선정되기도 하였다."
+			],
+			[
+				3,
+				"기",
+				"ETN",
+				"대학원에서 인적자원개발(HRD)을 전공하였고 사람에 대한 관심과 열정으로 조기 졸업자와 최우수 졸업자로 선정되기도 하였다."
+			],
+			[
+				4,
+				"았",
+				"EP",
+				"대학원에서 인적자원개발(HRD)을 전공하였고 사람에 대한 관심과 열정으로 조기 졸업자와 최우수 졸업자로 선정되기도 하였다."
+			],
+			[
+				5,
+				"다",
+				"EF",
+				"대학원에서 인적자원개발(HRD)을 전공하였고 사람에 대한 관심과 열정으로 조기 졸업자와 최우수 졸업자로 선정되기도 하였다."
+			],
+			[
+				6,
+				"게",
+				"EC",
+				"저자는 이 모든 경험이 내 모습 그대로, 나답게 살아가기 위한 길을 찾는 과정이었다고 말한다."
+			],
+			[
+				7,
+				"기",
+				"ETN",
+				"저자는 이 모든 경험이 내 모습 그대로, 나답게 살아가기 위한 길을 찾는 과정이었다고 말한다."
+			],
+			[
+				8,
+				"ㄴ",
+				"ETM",
+				"저자는 이 모든 경험이 내 모습 그대로, 나답게 살아가기 위한 길을 찾는 과정이었다고 말한다."
+			],
+			[
+				9,
+				"는",
+				"ETM",
+				"저자는 이 모든 경험이 내 모습 그대로, 나답게 살아가기 위한 길을 찾는 과정이었다고 말한다."
+			],
+			[
+				10,
+				"었",
+				"EP",
+				"저자는 이 모든 경험이 내 모습 그대로, 나답게 살아가기 위한 길을 찾는 과정이었다고 말한다."
+			],
+			[
+				11,
+				"다고",
+				"EC",
+				"저자는 이 모든 경험이 내 모습 그대로, 나답게 살아가기 위한 길을 찾는 과정이었다고 말한다."
+			],
+			[
+				12,
+				"ㄴ다",
+				"EF",
+				"저자는 이 모든 경험이 내 모습 그대로, 나답게 살아가기 위한 길을 찾는 과정이었다고 말한다."
+			],
+			[
+				13,
+				"ㄴ",
+				"ETM",
+				"그리고 그 고민한 결과물들을 책으로 엮게 되었다."
+			],
+			[
+				14,
+				"게",
+				"EC",
+				"그리고 그 고민한 결과물들을 책으로 엮게 되었다."
+			],
+			[
+				15,
+				"었",
+				"EP",
+				"그리고 그 고민한 결과물들을 책으로 엮게 되었다."
+			],
+			[
+				16,
+				"다",
+				"EF",
+				"그리고 그 고민한 결과물들을 책으로 엮게 되었다."
+			],
+			[
+				17,
+				"ㄴ",
+				"ETM",
+				"오늘도 자신의 성향 그대로 나다운 삶을 살아가기 위해 노력하고 있는 사람들이 있다."
+			],
+			[
+				18,
+				"기",
+				"ETN",
+				"오늘도 자신의 성향 그대로 나다운 삶을 살아가기 위해 노력하고 있는 사람들이 있다."
+			],
+			[
+				19,
+				"아",
+				"EC",
+				"오늘도 자신의 성향 그대로 나다운 삶을 살아가기 위해 노력하고 있는 사람들이 있다."
+			],
+			[
+				20,
+				"고",
+				"EC",
+				"오늘도 자신의 성향 그대로 나다운 삶을 살아가기 위해 노력하고 있는 사람들이 있다."
+			],
+			[
+				21,
+				"는",
+				"ETM",
+				"오늘도 자신의 성향 그대로 나다운 삶을 살아가기 위해 노력하고 있는 사람들이 있다."
+			],
+			[
+				22,
+				"다",
+				"EF",
+				"오늘도 자신의 성향 그대로 나다운 삶을 살아가기 위해 노력하고 있는 사람들이 있다."
+			],
+			[
+				23,
+				"기",
+				"ETN",
+				"저자는 이 책이 그분들에게 도움이 되길 소망한다."
+			],
+			[
+				24,
+				"ㄴ다",
+				"EF",
+				"저자는 이 책이 그분들에게 도움이 되길 소망한다."
+			]
+		],
+		"X_Lst": [
+			[
+				0,
+				"답",
+				"XSA",
+				"저자는 이 모든 경험이 내 모습 그대로, 나답게 살아가기 위한 길을 찾는 과정이었다고 말한다."
+			],
+			[
+				1,
+				"들",
+				"XSN",
+				"그리고 그 고민한 결과물들을 책으로 엮게 되었다."
+			],
+			[
+				2,
+				"답",
+				"XSA",
+				"오늘도 자신의 성향 그대로 나다운 삶을 살아가기 위해 노력하고 있는 사람들이 있다."
+			],
+			[
+				3,
+				"들",
+				"XSN",
+				"오늘도 자신의 성향 그대로 나다운 삶을 살아가기 위해 노력하고 있는 사람들이 있다."
+			],
+			[
+				4,
+				"들",
+				"XSN",
+				"저자는 이 책이 그분들에게 도움이 되길 소망한다."
+			]
+		],
+		"IC_Lst": []
+	},
+	"NDW": {
+		"morph_NDW": 77,
+		"NL_NDW": 30,
+		"NNG_NDW": 25,
+		"NNP_NDW": 1,
+		"NNB_NDW": 0,
+		"NP_NDW": 4,
+		"NR_NDW": 0,
+		"VL_NDW": 19,
+		"VV_NDW": 15,
+		"VA_NDW": 1,
+		"ML_NDW": 3,
+		"MM_NDW": 0,
+		"IC_NDW": 0,
+		"J_NDW": 23,
+		"E_NDW": 25,
+		"X_NDW": 5,
+		"CL_NDW": 52,
+		"FL_NDW": 53
+	}
+}

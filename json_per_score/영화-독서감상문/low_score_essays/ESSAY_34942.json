@@ -1,0 +1,4102 @@
+﻿{
+	"morpheme": {
+		"sentences": [
+			{
+				"text": {
+					"content": "무궁화 꽃이 피었습니다라는 책은 박정희 대통령 집권 당시에 미국과의 갈등으로 인해 자발적으로 핵 무기를 만드려고 했던 우리나라를 다룬 소설입니다.",
+					"length": 81,
+					"beginOffset": 0
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "무궁화",
+							"length": 3,
+							"beginOffset": 0
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "무궁화",
+									"length": 3,
+									"beginOffset": 0
+								},
+								"tag": "NNG",
+								"probability": 0.9830973,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "무궁화",
+						"tagged": "무궁화/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "꽃이",
+							"beginOffset": 4,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "꽃",
+									"beginOffset": 4,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.98378277,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 5,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.98584616,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "꽃",
+						"tagged": "꽃/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "피었습니다라는",
+							"beginOffset": 7,
+							"length": 7
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "피",
+									"beginOffset": 7,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9890526,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 8,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99997735,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "습니다",
+									"beginOffset": 9,
+									"length": 3
+								},
+								"tag": "EF",
+								"probability": 0.98553514,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 12,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.9998783,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "라는",
+									"beginOffset": 12,
+									"length": 2
+								},
+								"tag": "ETM",
+								"probability": 0.99995446,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "피",
+						"tagged": "피/VV+었/EP+습니다/EF+이/VCP+라는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "책은",
+							"beginOffset": 15,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "책",
+									"beginOffset": 15,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9841977,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 16,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9990424,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "책",
+						"tagged": "책/NNG+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "박정희",
+							"beginOffset": 18,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "박정희",
+									"beginOffset": 18,
+									"length": 3
+								},
+								"tag": "NNP",
+								"probability": 0.93769836,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "박정희",
+						"tagged": "박정희/NNP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "대통령",
+							"beginOffset": 22,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "대통령",
+									"beginOffset": 22,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9798594,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "대통령",
+						"tagged": "대통령/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "집권",
+							"beginOffset": 26,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "집권",
+									"beginOffset": 26,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9814906,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "집권",
+						"tagged": "집권/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "당시에",
+							"beginOffset": 29,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "당시",
+									"beginOffset": 29,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.984476,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 31,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9934433,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "당시",
+						"tagged": "당시/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "미국과의",
+							"beginOffset": 33,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "미국",
+									"beginOffset": 33,
+									"length": 2
+								},
+								"tag": "NNP",
+								"probability": 0.95752394,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "과",
+									"beginOffset": 35,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.98176736,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 36,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99969894,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "미국",
+						"tagged": "미국/NNP+과/JKB+의/JKG",
+						"modified": "미국과의"
+					},
+					{
+						"text": {
+							"content": "갈등으로",
+							"beginOffset": 38,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "갈등",
+									"beginOffset": 38,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98595375,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으로",
+									"beginOffset": 40,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.99665135,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "갈등",
+						"tagged": "갈등/NNG+으로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "인해",
+							"beginOffset": 43,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "인하",
+									"beginOffset": 43,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9900397,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 44,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9952359,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "인하",
+						"tagged": "인하/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "자발적으로",
+							"beginOffset": 46,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "자발",
+									"beginOffset": 46,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9828577,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "적",
+									"beginOffset": 48,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.9847747,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으로",
+									"beginOffset": 49,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9946545,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "자발",
+						"tagged": "자발/NNG+적/XSN+으로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "핵",
+							"beginOffset": 52,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "핵",
+									"beginOffset": 52,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.98245406,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "핵",
+						"tagged": "핵/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "무기를",
+							"beginOffset": 54,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "무기",
+									"beginOffset": 54,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9804335,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 56,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99917567,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "무기",
+						"tagged": "무기/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "만드려고",
+							"beginOffset": 58,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "만들",
+									"beginOffset": 58,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9851781,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "려고",
+									"beginOffset": 60,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9938985,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "만들",
+						"tagged": "만들/VV+려고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "했던",
+							"beginOffset": 63,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 63,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.9202203,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 63,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9999485,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "던",
+									"beginOffset": 64,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99779254,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VX+았/EP+던/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "우리나라를",
+							"beginOffset": 66,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "우리나라",
+									"beginOffset": 66,
+									"length": 4
+								},
+								"tag": "NNG",
+								"probability": 0.9827496,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 70,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.999795,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "우리나라",
+						"tagged": "우리나라/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "다룬",
+							"beginOffset": 72,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "다루",
+									"beginOffset": 72,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9910606,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 73,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99997693,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "다루",
+						"tagged": "다루/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "소설입니다.",
+							"beginOffset": 75,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "소설",
+									"beginOffset": 75,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9777954,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 77,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.99975777,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㅂ니다",
+									"beginOffset": 77,
+									"length": 3
+								},
+								"tag": "EF",
+								"probability": 0.9896892,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 80,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9997969,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "소설",
+						"tagged": "소설/NNG+이/VCP+ㅂ니다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "무궁화 꽃이 피었습니다라는 책은 박정희 대통령 집권 당시에 미국과의 갈등으로 인해 자발적으로 핵 무기를 만드려고 했던 우리나라를 다룬 소설입니다."
+			},
+			{
+				"text": {
+					"content": "실화를 바탕으로 만든 소설이고, 이휘소라는 물리학자를 암살한 사건을 중심으로 돌아갑니다.",
+					"beginOffset": 82,
+					"length": 49
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "실화를",
+							"beginOffset": 82,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "실화",
+									"beginOffset": 82,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98247945,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 84,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999226,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "실화",
+						"tagged": "실화/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "바탕으로",
+							"beginOffset": 86,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "바탕",
+									"beginOffset": 86,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9844067,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으로",
+									"beginOffset": 88,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9964832,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "바탕",
+						"tagged": "바탕/NNG+으로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "만든",
+							"beginOffset": 91,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "만들",
+									"beginOffset": 91,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.98955595,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 92,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999634,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "만들",
+						"tagged": "만들/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "소설이고",
+							"beginOffset": 94,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "소설",
+									"beginOffset": 94,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98471004,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 96,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.9997861,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 97,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9929575,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "소설",
+						"tagged": "소설/NNG+이/VCP+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": ",",
+							"beginOffset": 98,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 98,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.99902636,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": ",",
+						"tagged": ",/SP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이휘소라는",
+							"beginOffset": 100,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이휘소",
+									"beginOffset": 100,
+									"length": 3
+								},
+								"tag": "NNP",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "라는",
+									"beginOffset": 103,
+									"length": 2
+								},
+								"tag": "ETM",
+								"probability": 0.99996924,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이휘소",
+						"tagged": "이휘소/NNP+라는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "물리학자를",
+							"beginOffset": 106,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "물리학자",
+									"beginOffset": 106,
+									"length": 4
+								},
+								"tag": "NNG",
+								"probability": 0.97816414,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 110,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9998615,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "물리학자",
+						"tagged": "물리학자/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "암살한",
+							"beginOffset": 112,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "암살하",
+									"beginOffset": 112,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 114,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99994445,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "암살하",
+						"tagged": "암살하/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사건을",
+							"beginOffset": 116,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사건",
+									"beginOffset": 116,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9838797,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 118,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999173,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사건",
+						"tagged": "사건/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "중심으로",
+							"beginOffset": 120,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "중심",
+									"beginOffset": 120,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9807651,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으로",
+									"beginOffset": 122,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.995063,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "중심",
+						"tagged": "중심/NNG+으로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "돌아갑니다.",
+							"beginOffset": 125,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "돌아가",
+									"beginOffset": 125,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.98952717,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㅂ니다",
+									"beginOffset": 127,
+									"length": 3
+								},
+								"tag": "EF",
+								"probability": 0.9892583,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 130,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9992735,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "돌아가",
+						"tagged": "돌아가/VV+ㅂ니다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "실화를 바탕으로 만든 소설이고 , 이휘소라는 물리학자를 암살한 사건을 중심으로 돌아갑니다."
+			},
+			{
+				"text": {
+					"content": "의문의 살인사건을 파려는 기자와 얽혀 있는 여러 관계를 볼 수있습니다.",
+					"beginOffset": 132,
+					"length": 39
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "의문의",
+							"beginOffset": 132,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "의문",
+									"beginOffset": 132,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98319566,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 134,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99930954,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "의문",
+						"tagged": "의문/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "살인사건을",
+							"beginOffset": 136,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "살인",
+									"beginOffset": 136,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "사건",
+									"beginOffset": 138,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 140,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99996257,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "살인",
+						"tagged": "살인/NNG+사건/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "파려는",
+							"beginOffset": 142,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "파",
+									"beginOffset": 142,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9911899,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "려는",
+									"beginOffset": 143,
+									"length": 2
+								},
+								"tag": "ETM",
+								"probability": 0.9999896,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "파",
+						"tagged": "파/VV+려는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "기자와",
+							"beginOffset": 146,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "기자",
+									"beginOffset": 146,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98325235,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "와",
+									"beginOffset": 148,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.8290613,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "기자",
+						"tagged": "기자/NNG+와/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "얽혀",
+							"beginOffset": 150,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "얽히",
+									"beginOffset": 150,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9907314,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어",
+									"beginOffset": 151,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9941117,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "얽히",
+						"tagged": "얽히/VV+어/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있는",
+							"beginOffset": 153,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 153,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.97207713,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 154,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99994534,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VX+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "여러",
+							"beginOffset": 156,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "여러",
+									"beginOffset": 156,
+									"length": 2
+								},
+								"tag": "MMN",
+								"probability": 0.9993253,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "여러",
+						"tagged": "여러/MMN",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "관계를",
+							"beginOffset": 159,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "관계",
+									"beginOffset": 159,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9844397,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 161,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999474,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "관계",
+						"tagged": "관계/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "볼",
+							"beginOffset": 163,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "보",
+									"beginOffset": 163,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9780985,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ",
+									"beginOffset": 163,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999669,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "보",
+						"tagged": "보/VV+ㄹ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "수",
+							"beginOffset": 165,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "수",
+									"beginOffset": 165,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9822419,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "수",
+						"tagged": "수/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있습니다.",
+							"beginOffset": 166,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 166,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9750303,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "습니다",
+									"beginOffset": 167,
+									"length": 3
+								},
+								"tag": "EF",
+								"probability": 0.9849313,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 170,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9996848,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VA+습니다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "의문의 살인사건을 파려는 기자와 얽혀 있는 여러 관계를 볼 수 있습니다."
+			},
+			{
+				"text": {
+					"content": "정치계와 조직폭력배의 어두운 면과 권력의 무서움을 알 수 있는 작품이었습니다.",
+					"beginOffset": 172,
+					"length": 43
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "정치계와",
+							"beginOffset": 172,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "정치",
+									"beginOffset": 172,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98147637,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "계",
+									"beginOffset": 174,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.98639435,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "와",
+									"beginOffset": 175,
+									"length": 1
+								},
+								"tag": "JC",
+								"probability": 0.94173765,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "정치",
+						"tagged": "정치/NNG+계/XSN+와/JC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "조직폭력배의",
+							"beginOffset": 177,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "조직",
+									"beginOffset": 177,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9793388,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "폭력배",
+									"beginOffset": 179,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9855173,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 182,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99945253,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "조직",
+						"tagged": "조직/NNG+폭력배/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "어두운",
+							"beginOffset": 184,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "어둡",
+									"beginOffset": 184,
+									"length": 2
+								},
+								"tag": "VA",
+								"probability": 0.9856687,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 186,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999623,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "어둡",
+						"tagged": "어둡/VA+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "면과",
+							"beginOffset": 188,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "면",
+									"beginOffset": 188,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9826383,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "과",
+									"beginOffset": 189,
+									"length": 1
+								},
+								"tag": "JC",
+								"probability": 0.97292656,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "면",
+						"tagged": "면/NNG+과/JC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "권력의",
+							"beginOffset": 191,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "권력",
+									"beginOffset": 191,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.983284,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 193,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99970126,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "권력",
+						"tagged": "권력/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "무서움을",
+							"beginOffset": 195,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "무서움",
+									"beginOffset": 195,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9826804,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 198,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9998326,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "무서움",
+						"tagged": "무서움/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "알",
+							"beginOffset": 200,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "알",
+									"beginOffset": 200,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9895004,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ",
+									"beginOffset": 200,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999287,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "알",
+						"tagged": "알/VV+ㄹ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "수",
+							"beginOffset": 202,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "수",
+									"beginOffset": 202,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9714729,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "수",
+						"tagged": "수/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있는",
+							"beginOffset": 204,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 204,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.97313136,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 205,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999443,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VA+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "작품이었습니다.",
+							"beginOffset": 207,
+							"length": 8
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "작품",
+									"beginOffset": 207,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9852506,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 209,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.9999796,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 210,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99920565,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "습니다",
+									"beginOffset": 211,
+									"length": 3
+								},
+								"tag": "EF",
+								"probability": 0.98737454,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 214,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99974906,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "작품",
+						"tagged": "작품/NNG+이/VCP+었/EP+습니다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "정치계와 조직폭력배의 어두운 면과 권력의 무서움을 알 수 있는 작품이었습니다."
+			},
+			{
+				"text": {
+					"content": "가장 기억에 남는 말은 뭐라고? 대통령 국권? 이라는 대목으로 사건의 스케일을 알려주는 대목이라고 생각됩니다.",
+					"beginOffset": 216,
+					"length": 61
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "가장",
+							"beginOffset": 216,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "가장",
+									"beginOffset": 216,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9920627,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "가장",
+						"tagged": "가장/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "기억에",
+							"beginOffset": 219,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "기억",
+									"beginOffset": 219,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98596066,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 221,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99609953,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "기억",
+						"tagged": "기억/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "남는",
+							"beginOffset": 223,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "남",
+									"beginOffset": 223,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.98990387,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 224,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99997926,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "남",
+						"tagged": "남/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "말은",
+							"beginOffset": 226,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "말",
+									"beginOffset": 226,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9645132,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 227,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9989825,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "말",
+						"tagged": "말/NNG+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "뭐라고?",
+							"beginOffset": 229,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "뭐",
+									"beginOffset": 229,
+									"length": 1
+								},
+								"tag": "NP",
+								"probability": 0.98429614,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 230,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.99981296,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "라고",
+									"beginOffset": 230,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.8041035,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "?",
+									"beginOffset": 232,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9991763,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "뭐",
+						"tagged": "뭐/NP+이/VCP+라고/EF+?/SF",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "대통령",
+							"beginOffset": 234,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "대통령",
+									"beginOffset": 234,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9730127,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "대통령",
+						"tagged": "대통령/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "국권?",
+							"beginOffset": 238,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "국권",
+									"beginOffset": 238,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9826464,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "?",
+									"beginOffset": 240,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9894449,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "국권",
+						"tagged": "국권/NNG+?/SF",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이라는",
+							"beginOffset": 242,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 242,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.999248,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "라는",
+									"beginOffset": 243,
+									"length": 2
+								},
+								"tag": "ETM",
+								"probability": 0.9999592,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이",
+						"tagged": "이/VCP+라는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "대목으로",
+							"beginOffset": 246,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "대목",
+									"beginOffset": 246,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9846315,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으로",
+									"beginOffset": 248,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9951559,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "대목",
+						"tagged": "대목/NNG+으로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사건의",
+							"beginOffset": 251,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사건",
+									"beginOffset": 251,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98551327,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 253,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9996925,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사건",
+						"tagged": "사건/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "스케일을",
+							"beginOffset": 255,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "스케일",
+									"beginOffset": 255,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9853903,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 258,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.999947,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "스케일",
+						"tagged": "스케일/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "알려",
+							"beginOffset": 260,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "알리",
+									"beginOffset": 260,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.98923266,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어",
+									"beginOffset": 261,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9930469,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "알리",
+						"tagged": "알리/VV+어/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "주는",
+							"beginOffset": 262,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "주",
+									"beginOffset": 262,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.9780086,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 263,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999458,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "주",
+						"tagged": "주/VX+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "대목이라고",
+							"beginOffset": 265,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "대목",
+									"beginOffset": 265,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9659866,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 267,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.9998549,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "라고",
+									"beginOffset": 268,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9915856,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "대목",
+						"tagged": "대목/NNG+이/VCP+라고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "생각됩니다.",
+							"beginOffset": 271,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "생각되",
+									"beginOffset": 271,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㅂ니다",
+									"beginOffset": 273,
+									"length": 3
+								},
+								"tag": "EF",
+								"probability": 0.9902082,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 276,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9996823,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "생각되",
+						"tagged": "생각되/VV+ㅂ니다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "가장 기억에 남는 말은 뭐라고? 대통령 국권? 이라는 대목으로 사건의 스케일을 알려 주는 대목이라고 생각됩니다."
+			}
+		],
+		"language": "ko_KR"
+	},
+	"ttr": {
+		"lemma_Cnt": 134,
+		"lemma_TTR": 0.6056338028169014,
+		"CL_TTR": 0.7916666666666666,
+		"NL_TTR": 0.8636363636363636,
+		"NN_TTR": 0.8604651162790697,
+		"NNG_TTR": 0.868421052631579,
+		"NNP_TTR": 1.0,
+		"NNB_TTR": 0.5,
+		"NP_TTR": 1.0,
+		"NR_TTR": 0,
+		"VL_TTR": 0.6666666666666666,
+		"VV_TTR": 0.9285714285714286,
+		"VA_TTR": 0.6666666666666666,
+		"ML_TTR": 1.0,
+		"MM_TTR": 0,
+		"MA_TTR": 1.0,
+		"MAJ_TTR": 0,
+		"IC_TTR": 0,
+		"FL_TTR": 0.4262295081967213,
+		"J_TTR": 0.32142857142857145,
+		"E_TTR": 0.4838709677419355,
+		"X_TTR": 1.0,
+		"lemma_RTTR": 7.216959681351526,
+		"CL_RTTR": 6.717514421272202,
+		"NL_RTTR": 5.728715546977509,
+		"NN_RTTR": 5.642447102306373,
+		"NNG_RTTR": 5.353306897315164,
+		"NNP_RTTR": 1.7320508075688774,
+		"NNB_RTTR": 0.7071067811865475,
+		"NP_RTTR": 1.0,
+		"NR_RTTR": 0,
+		"VL_RTTR": 3.4641016151377544,
+		"VV_RTTR": 3.474396144861517,
+		"VA_RTTR": 1.1547005383792517,
+		"ML_RTTR": 1.0,
+		"MM_RTTR": 0,
+		"MA_RTTR": 1.0,
+		"MAJ_RTTR": 0,
+		"IC_RTTR": 0,
+		"FL_RTTR": 3.3289588782552957,
+		"J_RTTR": 1.7008401285415224,
+		"E_RTTR": 2.694079530401624,
+		"X_RTTR": 1.414213562373095,
+		"lemma_CTTR": 5.103161130233569,
+		"CL_CTTR": 4.75,
+		"NL_CTTR": 4.050813610756598,
+		"NN_CTTR": 3.989812608527221,
+		"NNG_CTTR": 3.785359608864269,
+		"NNP_CTTR": 1.2247448713915892,
+		"NNB_CTTR": 0.5,
+		"NP_CTTR": 0.7071067811865475,
+		"NR_CTTR": 0,
+		"VL_CTTR": 2.449489742783178,
+		"VV_CTTR": 2.456769074559977,
+		"VA_CTTR": 0.8164965809277261,
+		"ML_CTTR": 0.7071067811865475,
+		"MM_CTTR": 0,
+		"MA_CTTR": 0.7071067811865475,
+		"MAJ_CTTR": 0,
+		"IC_CTTR": 0,
+		"FL_CTTR": 2.3539293971054818,
+		"J_CTTR": 1.2026755886059097,
+		"E_CTTR": 1.9050019050028575,
+		"X_CTTR": 1.0,
+		"lemma_MSTTR": 0.8,
+		"CL_MSTTR": 0.88,
+		"NL_MSTTR": 0.8636363636363636,
+		"NN_MSTTR": 0.8604651162790697,
+		"NNG_MSTTR": 0.868421052631579,
+		"NNP_MSTTR": 1.0,
+		"NNB_MSTTR": 0.5,
+		"NP_MSTTR": 1.0,
+		"NR_MSTTR": 0,
+		"VL_MSTTR": 0.6666666666666666,
+		"VV_MSTTR": 0.9285714285714286,
+		"VA_MSTTR": 0.6666666666666666,
+		"ML_MSTTR": 1.0,
+		"MM_MSTTR": 0,
+		"MA_MSTTR": 1.0,
+		"MAJ_MSTTR": 0,
+		"IC_MSTTR": 0,
+		"FL_MSTTR": 0.5,
+		"J_MSTTR": 0.32142857142857145,
+		"E_MSTTR": 0.4838709677419355,
+		"X_MSTTR": 1.0,
+		"lemma_MATTR": 0.7756989247311826,
+		"CL_MATTR": 0.8269565217391307,
+		"NL_MATTR": 0.8636363636363636,
+		"NN_MATTR": 0.8604651162790697,
+		"NNG_MATTR": 0.868421052631579,
+		"NNP_MATTR": 1.0,
+		"NNB_MATTR": 0.5,
+		"NP_MATTR": 1.0,
+		"NR_MATTR": 0,
+		"VL_MATTR": 0.6666666666666666,
+		"VV_MATTR": 0.9285714285714286,
+		"VA_MATTR": 0.6666666666666666,
+		"ML_MATTR": 1.0,
+		"MM_MATTR": 0,
+		"MA_MATTR": 1.0,
+		"MAJ_MATTR": 0,
+		"IC_MATTR": 0,
+		"FL_MATTR": 0.49166666666666664,
+		"J_MATTR": 0.32142857142857145,
+		"E_MATTR": 0.4838709677419355,
+		"X_MATTR": 1.0,
+		"lemma_MTLD": 75.56980737018426,
+		"CL_MTLD": 96.768,
+		"NL_MTLD": 90.34666666666668,
+		"NN_MTLD": 86.28666666666666,
+		"NNG_MTLD": 80.86400000000003,
+		"NNP_MTLD": 0.0,
+		"NNB_MTLD": 1.12,
+		"NP_MTLD": 0.0,
+		"NR_MTLD": 0.0,
+		"VL_MTLD": 14.085616438356164,
+		"VV_MTLD": 54.88000000000004,
+		"VA_MTLD": 2.52,
+		"ML_MTLD": 0.0,
+		"MM_MTLD": 0.0,
+		"MA_MTLD": 0.0,
+		"MAJ_MTLD": 0.0,
+		"IC_MTLD": 0.0,
+		"FL_MTLD": 24.073867421718855,
+		"J_MTLD": 10.562133910065786,
+		"E_MTLD": 12.881756756756758,
+		"X_MTLD": 0.0,
+		"lemma_VOCDD": 77.51052987975649,
+		"CL_VOCDD": 98.67566722081882,
+		"NL_VOCDD": 0,
+		"NN_VOCDD": 0,
+		"NNG_VOCDD": 0,
+		"NNP_VOCDD": 0,
+		"NNB_VOCDD": 0,
+		"NP_VOCDD": 0,
+		"NR_VOCDD": 0,
+		"VL_VOCDD": 0,
+		"VV_VOCDD": 0,
+		"VA_VOCDD": 0,
+		"ML_VOCDD": 0,
+		"MM_VOCDD": 0,
+		"MA_VOCDD": 0,
+		"MAJ_VOCDD": 0,
+		"IC_VOCDD": 0,
+		"FL_VOCDD": 12.672645118500055,
+		"J_VOCDD": 0,
+		"E_VOCDD": 0,
+		"X_VOCDD": 0,
+		"lemma_HDD": 0.8177508150968893,
+		"CL_HDD": 0.8474967180235004,
+		"NL_HDD": 0.8689469445283395,
+		"NN_HDD": 0.8632336655592473,
+		"NNG_HDD": 0.0,
+		"NNP_HDD": 0.0,
+		"NNB_HDD": 0.0,
+		"NP_HDD": 0.0,
+		"NR_HDD": 0.0,
+		"VL_HDD": 0.0,
+		"VV_HDD": 0.0,
+		"VA_HDD": 0.0,
+		"ML_HDD": 0.0,
+		"MM_HDD": 0.0,
+		"MA_HDD": 0.0,
+		"MAJ_HDD": 0.0,
+		"IC_HDD": 0.0,
+		"FL_HDD": 0.531911003375778,
+		"J_HDD": 0.0,
+		"E_HDD": 0.0,
+		"X_HDD": 0.0
+	},
+	"similarity": {
+		"avgSentSimilarity": 0.1713424026966095,
+		"topicConsistency": 0.5836
+	},
+	"adjacency": {
+		"adjacent_sentence_overlap_all_lemmas": 82,
+		"adjacent_sentence_overlap_all_lemmas_normed": 4,
+		"binary_adjacent_sentence_overlap_all_lemmas": 4,
+		"adjacent_two_sentence_overlap_all_lemmas": 52,
+		"adjacent_two_sentence_overlap_all_lemmas_normed": 3,
+		"binary_adjacent_two_sentence_overlap_all_lemmas": 3,
+		"adjacent_sentence_overlap_content_lemmas": 44,
+		"adjacent_sentence_overlap_content_lemmas_normed": 4,
+		"binary_adjacent_sentence_overlap_content_lemmas": 4,
+		"adjacent_two_sentence_overlap_content_lemmas": 27,
+		"adjacent_two_sentence_overlap_content_lemmas_normed": 3,
+		"binary_adjacent_two_sentence_overlap_content_lemmas": 2,
+		"adjacent_sentence_overlap_function_lemmas": 32,
+		"adjacent_sentence_overlap_function_lemmas_normed": 4,
+		"binary_adjacent_sentence_overlap_function_lemmas": 4,
+		"adjacent_two_sentence_overlap_function_lemmas": 20,
+		"adjacent_two_sentence_overlap_function_lemmas_normed": 3,
+		"binary_adjacent_two_sentence_overlap_function_lemmas": 3,
+		"adjacent_sentence_overlap_noun_lemmas": 28,
+		"adjacent_sentence_overlap_noun_lemmas_normed": 4,
+		"binary_adjacent_sentence_overlap_noun_lemmas": 3,
+		"adjacent_two_sentence_overlap_noun_lemmas": 20,
+		"adjacent_two_sentence_overlap_noun_lemmas_normed": 3,
+		"binary_adjacent_two_sentence_overlap_noun_lemmas": 1,
+		"adjacent_sentence_overlap_verb_lemmas": 16,
+		"adjacent_sentence_overlap_verb_lemmas_normed": 4,
+		"binary_adjacent_sentence_overlap_verb_lemmas": 3,
+		"adjacent_two_sentence_overlap_verb_lemmas": 7,
+		"adjacent_two_sentence_overlap_verb_lemmas_normed": 3,
+		"binary_adjacent_two_sentence_overlap_verb_lemmas": 0,
+		"adjacent_sentence_overlap_adjective_lemmas": 2,
+		"adjacent_sentence_overlap_adjective_lemmas_normed": 1,
+		"binary_adjacent_sentence_overlap_adjective_lemmas": 1,
+		"adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_sentence_overlap_adverb_lemmas_normed": 0,
+		"binary_adjacent_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adverb_lemmas": 0
+	},
+	"basic_count": {
+		"para_Cnt": 1,
+		"sentence_Cnt": 5,
+		"word_Cnt": 63,
+		"morph_Cnt": 142,
+		"char_Cnt": 227,
+		"CL_Cnt": 72,
+		"NL_Cnt": 44,
+		"NN_Cnt": 43,
+		"NNG_Cnt": 38,
+		"NNP_Cnt": 3,
+		"NNB_Cnt": 2,
+		"NP_Cnt": 1,
+		"NP_People_Cnt": 0,
+		"NP_Things_Cnt": 0,
+		"NR_Cnt": 0,
+		"VL_Cnt": 27,
+		"VV_Cnt": 14,
+		"VA_Cnt": 3,
+		"VX_Cnt": 3,
+		"VCP_Cnt": 7,
+		"VCN_Cnt": 0,
+		"ML_Cnt": 1,
+		"MA_Cnt": 0,
+		"MM_Cnt": 0,
+		"FL_Cnt": 61,
+		"J_Cnt": 28,
+		"E_Cnt": 31,
+		"X_Cnt": 2,
+		"IC_Cnt": 0
+	},
+	"basic_density": {
+		"CL_Den": 0.5070422535211268,
+		"FL_Den": 0.4295774647887324,
+		"NL_Den": 0.3028169014084507,
+		"NNGL_Den": 0.2676056338028169,
+		"NNPL_Den": 0.02112676056338028,
+		"NNBL_Den": 0.014084507042253521,
+		"NPL_Den": 0.007042253521126761,
+		"NML_Den": 0.0,
+		"VL_Den": 0.19014084507042253,
+		"VVL_Den": 0.09859154929577464,
+		"VAL_Den": 0.02112676056338028,
+		"ML_Den": 0.007042253521126761,
+		"MML_Den": 0.0,
+		"MAL_Den": 0.0,
+		"JL_Den": 0.19718309859154928,
+		"EL_Den": 0.21830985915492956,
+		"XL_Den": 0.014084507042253521,
+		"ITL_Den": 0.0,
+		"NCL_Den": 0.5972222222222222,
+		"NNCL_Den": 0.5277777777777778,
+		"NNGCL_Den": 0.041666666666666664,
+		"NNBCL_Den": 0.027777777777777776,
+		"NPCL_Den": 0.013888888888888888,
+		"NMCL_Den": 0.0,
+		"VCL_Den": 0.375,
+		"VVCL_Den": 0.19444444444444445,
+		"VACL_Den": 0.041666666666666664,
+		"MCL_Den": 0.013888888888888888,
+		"MMCL_Den": 0.0,
+		"MACL_Den": 0.0,
+		"INCL_Den": 0.0,
+		"JFL_Den": 0.45901639344262296,
+		"EFL_Den": 0.5081967213114754,
+		"XFL_Den": 0.03278688524590164
+	},
+	"basic_level": {
+		"morph_LenAvg": 1.6126760563380282,
+		"morph_LenStd": 0.7491647137311936,
+		"word_LenAvg": 3.2857142857142856,
+		"word_LenStd": 1.3735433430339004
+	},
+	"basic_list": {
+		"NL_Lst": [
+			[
+				0,
+				"무궁화",
+				"NNG",
+				"무궁화 꽃이 피었습니다라는 책은 박정희 대통령 집권 당시에 미국과의 갈등으로 인해 자발적으로 핵 무기를 만드려고 했던 우리나라를 다룬 소설입니다."
+			],
+			[
+				1,
+				"꽃",
+				"NNG",
+				"무궁화 꽃이 피었습니다라는 책은 박정희 대통령 집권 당시에 미국과의 갈등으로 인해 자발적으로 핵 무기를 만드려고 했던 우리나라를 다룬 소설입니다."
+			],
+			[
+				2,
+				"책",
+				"NNG",
+				"무궁화 꽃이 피었습니다라는 책은 박정희 대통령 집권 당시에 미국과의 갈등으로 인해 자발적으로 핵 무기를 만드려고 했던 우리나라를 다룬 소설입니다."
+			],
+			[
+				3,
+				"박정희",
+				"NNP",
+				"무궁화 꽃이 피었습니다라는 책은 박정희 대통령 집권 당시에 미국과의 갈등으로 인해 자발적으로 핵 무기를 만드려고 했던 우리나라를 다룬 소설입니다."
+			],
+			[
+				4,
+				"대통령",
+				"NNG",
+				"무궁화 꽃이 피었습니다라는 책은 박정희 대통령 집권 당시에 미국과의 갈등으로 인해 자발적으로 핵 무기를 만드려고 했던 우리나라를 다룬 소설입니다."
+			],
+			[
+				5,
+				"집권",
+				"NNG",
+				"무궁화 꽃이 피었습니다라는 책은 박정희 대통령 집권 당시에 미국과의 갈등으로 인해 자발적으로 핵 무기를 만드려고 했던 우리나라를 다룬 소설입니다."
+			],
+			[
+				6,
+				"당시",
+				"NNG",
+				"무궁화 꽃이 피었습니다라는 책은 박정희 대통령 집권 당시에 미국과의 갈등으로 인해 자발적으로 핵 무기를 만드려고 했던 우리나라를 다룬 소설입니다."
+			],
+			[
+				7,
+				"미국",
+				"NNP",
+				"무궁화 꽃이 피었습니다라는 책은 박정희 대통령 집권 당시에 미국과의 갈등으로 인해 자발적으로 핵 무기를 만드려고 했던 우리나라를 다룬 소설입니다."
+			],
+			[
+				8,
+				"갈등",
+				"NNG",
+				"무궁화 꽃이 피었습니다라는 책은 박정희 대통령 집권 당시에 미국과의 갈등으로 인해 자발적으로 핵 무기를 만드려고 했던 우리나라를 다룬 소설입니다."
+			],
+			[
+				9,
+				"자발",
+				"NNG",
+				"무궁화 꽃이 피었습니다라는 책은 박정희 대통령 집권 당시에 미국과의 갈등으로 인해 자발적으로 핵 무기를 만드려고 했던 우리나라를 다룬 소설입니다."
+			],
+			[
+				10,
+				"핵",
+				"NNG",
+				"무궁화 꽃이 피었습니다라는 책은 박정희 대통령 집권 당시에 미국과의 갈등으로 인해 자발적으로 핵 무기를 만드려고 했던 우리나라를 다룬 소설입니다."
+			],
+			[
+				11,
+				"무기",
+				"NNG",
+				"무궁화 꽃이 피었습니다라는 책은 박정희 대통령 집권 당시에 미국과의 갈등으로 인해 자발적으로 핵 무기를 만드려고 했던 우리나라를 다룬 소설입니다."
+			],
+			[
+				12,
+				"우리나라",
+				"NNG",
+				"무궁화 꽃이 피었습니다라는 책은 박정희 대통령 집권 당시에 미국과의 갈등으로 인해 자발적으로 핵 무기를 만드려고 했던 우리나라를 다룬 소설입니다."
+			],
+			[
+				13,
+				"소설",
+				"NNG",
+				"무궁화 꽃이 피었습니다라는 책은 박정희 대통령 집권 당시에 미국과의 갈등으로 인해 자발적으로 핵 무기를 만드려고 했던 우리나라를 다룬 소설입니다."
+			],
+			[
+				14,
+				"실화",
+				"NNG",
+				"실화를 바탕으로 만든 소설이고, 이휘소라는 물리학자를 암살한 사건을 중심으로 돌아갑니다."
+			],
+			[
+				15,
+				"바탕",
+				"NNG",
+				"실화를 바탕으로 만든 소설이고, 이휘소라는 물리학자를 암살한 사건을 중심으로 돌아갑니다."
+			],
+			[
+				16,
+				"소설",
+				"NNG",
+				"실화를 바탕으로 만든 소설이고, 이휘소라는 물리학자를 암살한 사건을 중심으로 돌아갑니다."
+			],
+			[
+				17,
+				"이휘소",
+				"NNP",
+				"실화를 바탕으로 만든 소설이고, 이휘소라는 물리학자를 암살한 사건을 중심으로 돌아갑니다."
+			],
+			[
+				18,
+				"물리학자",
+				"NNG",
+				"실화를 바탕으로 만든 소설이고, 이휘소라는 물리학자를 암살한 사건을 중심으로 돌아갑니다."
+			],
+			[
+				19,
+				"사건",
+				"NNG",
+				"실화를 바탕으로 만든 소설이고, 이휘소라는 물리학자를 암살한 사건을 중심으로 돌아갑니다."
+			],
+			[
+				20,
+				"중심",
+				"NNG",
+				"실화를 바탕으로 만든 소설이고, 이휘소라는 물리학자를 암살한 사건을 중심으로 돌아갑니다."
+			],
+			[
+				21,
+				"의문",
+				"NNG",
+				"의문의 살인사건을 파려는 기자와 얽혀 있는 여러 관계를 볼 수있습니다."
+			],
+			[
+				22,
+				"살인",
+				"NNG",
+				"의문의 살인사건을 파려는 기자와 얽혀 있는 여러 관계를 볼 수있습니다."
+			],
+			[
+				23,
+				"사건",
+				"NNG",
+				"의문의 살인사건을 파려는 기자와 얽혀 있는 여러 관계를 볼 수있습니다."
+			],
+			[
+				24,
+				"기자",
+				"NNG",
+				"의문의 살인사건을 파려는 기자와 얽혀 있는 여러 관계를 볼 수있습니다."
+			],
+			[
+				25,
+				"관계",
+				"NNG",
+				"의문의 살인사건을 파려는 기자와 얽혀 있는 여러 관계를 볼 수있습니다."
+			],
+			[
+				26,
+				"수",
+				"NNB",
+				"의문의 살인사건을 파려는 기자와 얽혀 있는 여러 관계를 볼 수있습니다."
+			],
+			[
+				27,
+				"정치",
+				"NNG",
+				"정치계와 조직폭력배의 어두운 면과 권력의 무서움을 알 수 있는 작품이었습니다."
+			],
+			[
+				28,
+				"조직",
+				"NNG",
+				"정치계와 조직폭력배의 어두운 면과 권력의 무서움을 알 수 있는 작품이었습니다."
+			],
+			[
+				29,
+				"폭력배",
+				"NNG",
+				"정치계와 조직폭력배의 어두운 면과 권력의 무서움을 알 수 있는 작품이었습니다."
+			],
+			[
+				30,
+				"면",
+				"NNG",
+				"정치계와 조직폭력배의 어두운 면과 권력의 무서움을 알 수 있는 작품이었습니다."
+			],
+			[
+				31,
+				"권력",
+				"NNG",
+				"정치계와 조직폭력배의 어두운 면과 권력의 무서움을 알 수 있는 작품이었습니다."
+			],
+			[
+				32,
+				"무서움",
+				"NNG",
+				"정치계와 조직폭력배의 어두운 면과 권력의 무서움을 알 수 있는 작품이었습니다."
+			],
+			[
+				33,
+				"수",
+				"NNB",
+				"정치계와 조직폭력배의 어두운 면과 권력의 무서움을 알 수 있는 작품이었습니다."
+			],
+			[
+				34,
+				"작품",
+				"NNG",
+				"정치계와 조직폭력배의 어두운 면과 권력의 무서움을 알 수 있는 작품이었습니다."
+			],
+			[
+				35,
+				"기억",
+				"NNG",
+				"가장 기억에 남는 말은 뭐라고? 대통령 국권? 이라는 대목으로 사건의 스케일을 알려주는 대목이라고 생각됩니다."
+			],
+			[
+				36,
+				"말",
+				"NNG",
+				"가장 기억에 남는 말은 뭐라고? 대통령 국권? 이라는 대목으로 사건의 스케일을 알려주는 대목이라고 생각됩니다."
+			],
+			[
+				37,
+				"뭐",
+				"NP",
+				"가장 기억에 남는 말은 뭐라고? 대통령 국권? 이라는 대목으로 사건의 스케일을 알려주는 대목이라고 생각됩니다."
+			],
+			[
+				38,
+				"대통령",
+				"NNG",
+				"가장 기억에 남는 말은 뭐라고? 대통령 국권? 이라는 대목으로 사건의 스케일을 알려주는 대목이라고 생각됩니다."
+			],
+			[
+				39,
+				"국권",
+				"NNG",
+				"가장 기억에 남는 말은 뭐라고? 대통령 국권? 이라는 대목으로 사건의 스케일을 알려주는 대목이라고 생각됩니다."
+			],
+			[
+				40,
+				"대목",
+				"NNG",
+				"가장 기억에 남는 말은 뭐라고? 대통령 국권? 이라는 대목으로 사건의 스케일을 알려주는 대목이라고 생각됩니다."
+			],
+			[
+				41,
+				"사건",
+				"NNG",
+				"가장 기억에 남는 말은 뭐라고? 대통령 국권? 이라는 대목으로 사건의 스케일을 알려주는 대목이라고 생각됩니다."
+			],
+			[
+				42,
+				"스케일",
+				"NNG",
+				"가장 기억에 남는 말은 뭐라고? 대통령 국권? 이라는 대목으로 사건의 스케일을 알려주는 대목이라고 생각됩니다."
+			],
+			[
+				43,
+				"대목",
+				"NNG",
+				"가장 기억에 남는 말은 뭐라고? 대통령 국권? 이라는 대목으로 사건의 스케일을 알려주는 대목이라고 생각됩니다."
+			]
+		],
+		"NN_Lst": [
+			[
+				0,
+				"무궁화",
+				"NNG",
+				"무궁화 꽃이 피었습니다라는 책은 박정희 대통령 집권 당시에 미국과의 갈등으로 인해 자발적으로 핵 무기를 만드려고 했던 우리나라를 다룬 소설입니다."
+			],
+			[
+				1,
+				"꽃",
+				"NNG",
+				"무궁화 꽃이 피었습니다라는 책은 박정희 대통령 집권 당시에 미국과의 갈등으로 인해 자발적으로 핵 무기를 만드려고 했던 우리나라를 다룬 소설입니다."
+			],
+			[
+				2,
+				"책",
+				"NNG",
+				"무궁화 꽃이 피었습니다라는 책은 박정희 대통령 집권 당시에 미국과의 갈등으로 인해 자발적으로 핵 무기를 만드려고 했던 우리나라를 다룬 소설입니다."
+			],
+			[
+				3,
+				"박정희",
+				"NNP",
+				"무궁화 꽃이 피었습니다라는 책은 박정희 대통령 집권 당시에 미국과의 갈등으로 인해 자발적으로 핵 무기를 만드려고 했던 우리나라를 다룬 소설입니다."
+			],
+			[
+				4,
+				"대통령",
+				"NNG",
+				"무궁화 꽃이 피었습니다라는 책은 박정희 대통령 집권 당시에 미국과의 갈등으로 인해 자발적으로 핵 무기를 만드려고 했던 우리나라를 다룬 소설입니다."
+			],
+			[
+				5,
+				"집권",
+				"NNG",
+				"무궁화 꽃이 피었습니다라는 책은 박정희 대통령 집권 당시에 미국과의 갈등으로 인해 자발적으로 핵 무기를 만드려고 했던 우리나라를 다룬 소설입니다."
+			],
+			[
+				6,
+				"당시",
+				"NNG",
+				"무궁화 꽃이 피었습니다라는 책은 박정희 대통령 집권 당시에 미국과의 갈등으로 인해 자발적으로 핵 무기를 만드려고 했던 우리나라를 다룬 소설입니다."
+			],
+			[
+				7,
+				"미국",
+				"NNP",
+				"무궁화 꽃이 피었습니다라는 책은 박정희 대통령 집권 당시에 미국과의 갈등으로 인해 자발적으로 핵 무기를 만드려고 했던 우리나라를 다룬 소설입니다."
+			],
+			[
+				8,
+				"갈등",
+				"NNG",
+				"무궁화 꽃이 피었습니다라는 책은 박정희 대통령 집권 당시에 미국과의 갈등으로 인해 자발적으로 핵 무기를 만드려고 했던 우리나라를 다룬 소설입니다."
+			],
+			[
+				9,
+				"자발",
+				"NNG",
+				"무궁화 꽃이 피었습니다라는 책은 박정희 대통령 집권 당시에 미국과의 갈등으로 인해 자발적으로 핵 무기를 만드려고 했던 우리나라를 다룬 소설입니다."
+			],
+			[
+				10,
+				"핵",
+				"NNG",
+				"무궁화 꽃이 피었습니다라는 책은 박정희 대통령 집권 당시에 미국과의 갈등으로 인해 자발적으로 핵 무기를 만드려고 했던 우리나라를 다룬 소설입니다."
+			],
+			[
+				11,
+				"무기",
+				"NNG",
+				"무궁화 꽃이 피었습니다라는 책은 박정희 대통령 집권 당시에 미국과의 갈등으로 인해 자발적으로 핵 무기를 만드려고 했던 우리나라를 다룬 소설입니다."
+			],
+			[
+				12,
+				"우리나라",
+				"NNG",
+				"무궁화 꽃이 피었습니다라는 책은 박정희 대통령 집권 당시에 미국과의 갈등으로 인해 자발적으로 핵 무기를 만드려고 했던 우리나라를 다룬 소설입니다."
+			],
+			[
+				13,
+				"소설",
+				"NNG",
+				"무궁화 꽃이 피었습니다라는 책은 박정희 대통령 집권 당시에 미국과의 갈등으로 인해 자발적으로 핵 무기를 만드려고 했던 우리나라를 다룬 소설입니다."
+			],
+			[
+				14,
+				"실화",
+				"NNG",
+				"실화를 바탕으로 만든 소설이고, 이휘소라는 물리학자를 암살한 사건을 중심으로 돌아갑니다."
+			],
+			[
+				15,
+				"바탕",
+				"NNG",
+				"실화를 바탕으로 만든 소설이고, 이휘소라는 물리학자를 암살한 사건을 중심으로 돌아갑니다."
+			],
+			[
+				16,
+				"소설",
+				"NNG",
+				"실화를 바탕으로 만든 소설이고, 이휘소라는 물리학자를 암살한 사건을 중심으로 돌아갑니다."
+			],
+			[
+				17,
+				"이휘소",
+				"NNP",
+				"실화를 바탕으로 만든 소설이고, 이휘소라는 물리학자를 암살한 사건을 중심으로 돌아갑니다."
+			],
+			[
+				18,
+				"물리학자",
+				"NNG",
+				"실화를 바탕으로 만든 소설이고, 이휘소라는 물리학자를 암살한 사건을 중심으로 돌아갑니다."
+			],
+			[
+				19,
+				"사건",
+				"NNG",
+				"실화를 바탕으로 만든 소설이고, 이휘소라는 물리학자를 암살한 사건을 중심으로 돌아갑니다."
+			],
+			[
+				20,
+				"중심",
+				"NNG",
+				"실화를 바탕으로 만든 소설이고, 이휘소라는 물리학자를 암살한 사건을 중심으로 돌아갑니다."
+			],
+			[
+				21,
+				"의문",
+				"NNG",
+				"의문의 살인사건을 파려는 기자와 얽혀 있는 여러 관계를 볼 수있습니다."
+			],
+			[
+				22,
+				"살인",
+				"NNG",
+				"의문의 살인사건을 파려는 기자와 얽혀 있는 여러 관계를 볼 수있습니다."
+			],
+			[
+				23,
+				"사건",
+				"NNG",
+				"의문의 살인사건을 파려는 기자와 얽혀 있는 여러 관계를 볼 수있습니다."
+			],
+			[
+				24,
+				"기자",
+				"NNG",
+				"의문의 살인사건을 파려는 기자와 얽혀 있는 여러 관계를 볼 수있습니다."
+			],
+			[
+				25,
+				"관계",
+				"NNG",
+				"의문의 살인사건을 파려는 기자와 얽혀 있는 여러 관계를 볼 수있습니다."
+			],
+			[
+				26,
+				"수",
+				"NNB",
+				"의문의 살인사건을 파려는 기자와 얽혀 있는 여러 관계를 볼 수있습니다."
+			],
+			[
+				27,
+				"정치",
+				"NNG",
+				"정치계와 조직폭력배의 어두운 면과 권력의 무서움을 알 수 있는 작품이었습니다."
+			],
+			[
+				28,
+				"조직",
+				"NNG",
+				"정치계와 조직폭력배의 어두운 면과 권력의 무서움을 알 수 있는 작품이었습니다."
+			],
+			[
+				29,
+				"폭력배",
+				"NNG",
+				"정치계와 조직폭력배의 어두운 면과 권력의 무서움을 알 수 있는 작품이었습니다."
+			],
+			[
+				30,
+				"면",
+				"NNG",
+				"정치계와 조직폭력배의 어두운 면과 권력의 무서움을 알 수 있는 작품이었습니다."
+			],
+			[
+				31,
+				"권력",
+				"NNG",
+				"정치계와 조직폭력배의 어두운 면과 권력의 무서움을 알 수 있는 작품이었습니다."
+			],
+			[
+				32,
+				"무서움",
+				"NNG",
+				"정치계와 조직폭력배의 어두운 면과 권력의 무서움을 알 수 있는 작품이었습니다."
+			],
+			[
+				33,
+				"수",
+				"NNB",
+				"정치계와 조직폭력배의 어두운 면과 권력의 무서움을 알 수 있는 작품이었습니다."
+			],
+			[
+				34,
+				"작품",
+				"NNG",
+				"정치계와 조직폭력배의 어두운 면과 권력의 무서움을 알 수 있는 작품이었습니다."
+			],
+			[
+				35,
+				"기억",
+				"NNG",
+				"가장 기억에 남는 말은 뭐라고? 대통령 국권? 이라는 대목으로 사건의 스케일을 알려주는 대목이라고 생각됩니다."
+			],
+			[
+				36,
+				"말",
+				"NNG",
+				"가장 기억에 남는 말은 뭐라고? 대통령 국권? 이라는 대목으로 사건의 스케일을 알려주는 대목이라고 생각됩니다."
+			],
+			[
+				37,
+				"대통령",
+				"NNG",
+				"가장 기억에 남는 말은 뭐라고? 대통령 국권? 이라는 대목으로 사건의 스케일을 알려주는 대목이라고 생각됩니다."
+			],
+			[
+				38,
+				"국권",
+				"NNG",
+				"가장 기억에 남는 말은 뭐라고? 대통령 국권? 이라는 대목으로 사건의 스케일을 알려주는 대목이라고 생각됩니다."
+			],
+			[
+				39,
+				"대목",
+				"NNG",
+				"가장 기억에 남는 말은 뭐라고? 대통령 국권? 이라는 대목으로 사건의 스케일을 알려주는 대목이라고 생각됩니다."
+			],
+			[
+				40,
+				"사건",
+				"NNG",
+				"가장 기억에 남는 말은 뭐라고? 대통령 국권? 이라는 대목으로 사건의 스케일을 알려주는 대목이라고 생각됩니다."
+			],
+			[
+				41,
+				"스케일",
+				"NNG",
+				"가장 기억에 남는 말은 뭐라고? 대통령 국권? 이라는 대목으로 사건의 스케일을 알려주는 대목이라고 생각됩니다."
+			],
+			[
+				42,
+				"대목",
+				"NNG",
+				"가장 기억에 남는 말은 뭐라고? 대통령 국권? 이라는 대목으로 사건의 스케일을 알려주는 대목이라고 생각됩니다."
+			]
+		],
+		"NNG_Lst": [
+			[
+				0,
+				"무궁화",
+				"NNG",
+				"무궁화 꽃이 피었습니다라는 책은 박정희 대통령 집권 당시에 미국과의 갈등으로 인해 자발적으로 핵 무기를 만드려고 했던 우리나라를 다룬 소설입니다."
+			],
+			[
+				1,
+				"꽃",
+				"NNG",
+				"무궁화 꽃이 피었습니다라는 책은 박정희 대통령 집권 당시에 미국과의 갈등으로 인해 자발적으로 핵 무기를 만드려고 했던 우리나라를 다룬 소설입니다."
+			],
+			[
+				2,
+				"책",
+				"NNG",
+				"무궁화 꽃이 피었습니다라는 책은 박정희 대통령 집권 당시에 미국과의 갈등으로 인해 자발적으로 핵 무기를 만드려고 했던 우리나라를 다룬 소설입니다."
+			],
+			[
+				3,
+				"대통령",
+				"NNG",
+				"무궁화 꽃이 피었습니다라는 책은 박정희 대통령 집권 당시에 미국과의 갈등으로 인해 자발적으로 핵 무기를 만드려고 했던 우리나라를 다룬 소설입니다."
+			],
+			[
+				4,
+				"집권",
+				"NNG",
+				"무궁화 꽃이 피었습니다라는 책은 박정희 대통령 집권 당시에 미국과의 갈등으로 인해 자발적으로 핵 무기를 만드려고 했던 우리나라를 다룬 소설입니다."
+			],
+			[
+				5,
+				"당시",
+				"NNG",
+				"무궁화 꽃이 피었습니다라는 책은 박정희 대통령 집권 당시에 미국과의 갈등으로 인해 자발적으로 핵 무기를 만드려고 했던 우리나라를 다룬 소설입니다."
+			],
+			[
+				6,
+				"갈등",
+				"NNG",
+				"무궁화 꽃이 피었습니다라는 책은 박정희 대통령 집권 당시에 미국과의 갈등으로 인해 자발적으로 핵 무기를 만드려고 했던 우리나라를 다룬 소설입니다."
+			],
+			[
+				7,
+				"자발",
+				"NNG",
+				"무궁화 꽃이 피었습니다라는 책은 박정희 대통령 집권 당시에 미국과의 갈등으로 인해 자발적으로 핵 무기를 만드려고 했던 우리나라를 다룬 소설입니다."
+			],
+			[
+				8,
+				"핵",
+				"NNG",
+				"무궁화 꽃이 피었습니다라는 책은 박정희 대통령 집권 당시에 미국과의 갈등으로 인해 자발적으로 핵 무기를 만드려고 했던 우리나라를 다룬 소설입니다."
+			],
+			[
+				9,
+				"무기",
+				"NNG",
+				"무궁화 꽃이 피었습니다라는 책은 박정희 대통령 집권 당시에 미국과의 갈등으로 인해 자발적으로 핵 무기를 만드려고 했던 우리나라를 다룬 소설입니다."
+			],
+			[
+				10,
+				"우리나라",
+				"NNG",
+				"무궁화 꽃이 피었습니다라는 책은 박정희 대통령 집권 당시에 미국과의 갈등으로 인해 자발적으로 핵 무기를 만드려고 했던 우리나라를 다룬 소설입니다."
+			],
+			[
+				11,
+				"소설",
+				"NNG",
+				"무궁화 꽃이 피었습니다라는 책은 박정희 대통령 집권 당시에 미국과의 갈등으로 인해 자발적으로 핵 무기를 만드려고 했던 우리나라를 다룬 소설입니다."
+			],
+			[
+				12,
+				"실화",
+				"NNG",
+				"실화를 바탕으로 만든 소설이고, 이휘소라는 물리학자를 암살한 사건을 중심으로 돌아갑니다."
+			],
+			[
+				13,
+				"바탕",
+				"NNG",
+				"실화를 바탕으로 만든 소설이고, 이휘소라는 물리학자를 암살한 사건을 중심으로 돌아갑니다."
+			],
+			[
+				14,
+				"소설",
+				"NNG",
+				"실화를 바탕으로 만든 소설이고, 이휘소라는 물리학자를 암살한 사건을 중심으로 돌아갑니다."
+			],
+			[
+				15,
+				"물리학자",
+				"NNG",
+				"실화를 바탕으로 만든 소설이고, 이휘소라는 물리학자를 암살한 사건을 중심으로 돌아갑니다."
+			],
+			[
+				16,
+				"사건",
+				"NNG",
+				"실화를 바탕으로 만든 소설이고, 이휘소라는 물리학자를 암살한 사건을 중심으로 돌아갑니다."
+			],
+			[
+				17,
+				"중심",
+				"NNG",
+				"실화를 바탕으로 만든 소설이고, 이휘소라는 물리학자를 암살한 사건을 중심으로 돌아갑니다."
+			],
+			[
+				18,
+				"의문",
+				"NNG",
+				"의문의 살인사건을 파려는 기자와 얽혀 있는 여러 관계를 볼 수있습니다."
+			],
+			[
+				19,
+				"살인",
+				"NNG",
+				"의문의 살인사건을 파려는 기자와 얽혀 있는 여러 관계를 볼 수있습니다."
+			],
+			[
+				20,
+				"사건",
+				"NNG",
+				"의문의 살인사건을 파려는 기자와 얽혀 있는 여러 관계를 볼 수있습니다."
+			],
+			[
+				21,
+				"기자",
+				"NNG",
+				"의문의 살인사건을 파려는 기자와 얽혀 있는 여러 관계를 볼 수있습니다."
+			],
+			[
+				22,
+				"관계",
+				"NNG",
+				"의문의 살인사건을 파려는 기자와 얽혀 있는 여러 관계를 볼 수있습니다."
+			],
+			[
+				23,
+				"정치",
+				"NNG",
+				"정치계와 조직폭력배의 어두운 면과 권력의 무서움을 알 수 있는 작품이었습니다."
+			],
+			[
+				24,
+				"조직",
+				"NNG",
+				"정치계와 조직폭력배의 어두운 면과 권력의 무서움을 알 수 있는 작품이었습니다."
+			],
+			[
+				25,
+				"폭력배",
+				"NNG",
+				"정치계와 조직폭력배의 어두운 면과 권력의 무서움을 알 수 있는 작품이었습니다."
+			],
+			[
+				26,
+				"면",
+				"NNG",
+				"정치계와 조직폭력배의 어두운 면과 권력의 무서움을 알 수 있는 작품이었습니다."
+			],
+			[
+				27,
+				"권력",
+				"NNG",
+				"정치계와 조직폭력배의 어두운 면과 권력의 무서움을 알 수 있는 작품이었습니다."
+			],
+			[
+				28,
+				"무서움",
+				"NNG",
+				"정치계와 조직폭력배의 어두운 면과 권력의 무서움을 알 수 있는 작품이었습니다."
+			],
+			[
+				29,
+				"작품",
+				"NNG",
+				"정치계와 조직폭력배의 어두운 면과 권력의 무서움을 알 수 있는 작품이었습니다."
+			],
+			[
+				30,
+				"기억",
+				"NNG",
+				"가장 기억에 남는 말은 뭐라고? 대통령 국권? 이라는 대목으로 사건의 스케일을 알려주는 대목이라고 생각됩니다."
+			],
+			[
+				31,
+				"말",
+				"NNG",
+				"가장 기억에 남는 말은 뭐라고? 대통령 국권? 이라는 대목으로 사건의 스케일을 알려주는 대목이라고 생각됩니다."
+			],
+			[
+				32,
+				"대통령",
+				"NNG",
+				"가장 기억에 남는 말은 뭐라고? 대통령 국권? 이라는 대목으로 사건의 스케일을 알려주는 대목이라고 생각됩니다."
+			],
+			[
+				33,
+				"국권",
+				"NNG",
+				"가장 기억에 남는 말은 뭐라고? 대통령 국권? 이라는 대목으로 사건의 스케일을 알려주는 대목이라고 생각됩니다."
+			],
+			[
+				34,
+				"대목",
+				"NNG",
+				"가장 기억에 남는 말은 뭐라고? 대통령 국권? 이라는 대목으로 사건의 스케일을 알려주는 대목이라고 생각됩니다."
+			],
+			[
+				35,
+				"사건",
+				"NNG",
+				"가장 기억에 남는 말은 뭐라고? 대통령 국권? 이라는 대목으로 사건의 스케일을 알려주는 대목이라고 생각됩니다."
+			],
+			[
+				36,
+				"스케일",
+				"NNG",
+				"가장 기억에 남는 말은 뭐라고? 대통령 국권? 이라는 대목으로 사건의 스케일을 알려주는 대목이라고 생각됩니다."
+			],
+			[
+				37,
+				"대목",
+				"NNG",
+				"가장 기억에 남는 말은 뭐라고? 대통령 국권? 이라는 대목으로 사건의 스케일을 알려주는 대목이라고 생각됩니다."
+			]
+		],
+		"NNP_Lst": [
+			[
+				0,
+				"박정희",
+				"NNP",
+				"무궁화 꽃이 피었습니다라는 책은 박정희 대통령 집권 당시에 미국과의 갈등으로 인해 자발적으로 핵 무기를 만드려고 했던 우리나라를 다룬 소설입니다."
+			],
+			[
+				1,
+				"미국",
+				"NNP",
+				"무궁화 꽃이 피었습니다라는 책은 박정희 대통령 집권 당시에 미국과의 갈등으로 인해 자발적으로 핵 무기를 만드려고 했던 우리나라를 다룬 소설입니다."
+			],
+			[
+				2,
+				"이휘소",
+				"NNP",
+				"실화를 바탕으로 만든 소설이고, 이휘소라는 물리학자를 암살한 사건을 중심으로 돌아갑니다."
+			]
+		],
+		"NNB_Lst": [
+			[
+				0,
+				"수",
+				"NNB",
+				"의문의 살인사건을 파려는 기자와 얽혀 있는 여러 관계를 볼 수있습니다."
+			],
+			[
+				1,
+				"수",
+				"NNB",
+				"정치계와 조직폭력배의 어두운 면과 권력의 무서움을 알 수 있는 작품이었습니다."
+			]
+		],
+		"NP_Lst": [
+			[
+				0,
+				"뭐",
+				"NP",
+				"가장 기억에 남는 말은 뭐라고? 대통령 국권? 이라는 대목으로 사건의 스케일을 알려주는 대목이라고 생각됩니다."
+			]
+		],
+		"NP_People_Lst": [],
+		"NP_Things_Lst": [],
+		"NR_Lst": [],
+		"VL_Lst": [
+			[
+				0,
+				"피",
+				"VV",
+				"무궁화 꽃이 피었습니다라는 책은 박정희 대통령 집권 당시에 미국과의 갈등으로 인해 자발적으로 핵 무기를 만드려고 했던 우리나라를 다룬 소설입니다."
+			],
+			[
+				1,
+				"이",
+				"VCP",
+				"무궁화 꽃이 피었습니다라는 책은 박정희 대통령 집권 당시에 미국과의 갈등으로 인해 자발적으로 핵 무기를 만드려고 했던 우리나라를 다룬 소설입니다."
+			],
+			[
+				2,
+				"인하",
+				"VV",
+				"무궁화 꽃이 피었습니다라는 책은 박정희 대통령 집권 당시에 미국과의 갈등으로 인해 자발적으로 핵 무기를 만드려고 했던 우리나라를 다룬 소설입니다."
+			],
+			[
+				3,
+				"만들",
+				"VV",
+				"무궁화 꽃이 피었습니다라는 책은 박정희 대통령 집권 당시에 미국과의 갈등으로 인해 자발적으로 핵 무기를 만드려고 했던 우리나라를 다룬 소설입니다."
+			],
+			[
+				4,
+				"하",
+				"VX",
+				"무궁화 꽃이 피었습니다라는 책은 박정희 대통령 집권 당시에 미국과의 갈등으로 인해 자발적으로 핵 무기를 만드려고 했던 우리나라를 다룬 소설입니다."
+			],
+			[
+				5,
+				"다루",
+				"VV",
+				"무궁화 꽃이 피었습니다라는 책은 박정희 대통령 집권 당시에 미국과의 갈등으로 인해 자발적으로 핵 무기를 만드려고 했던 우리나라를 다룬 소설입니다."
+			],
+			[
+				6,
+				"이",
+				"VCP",
+				"무궁화 꽃이 피었습니다라는 책은 박정희 대통령 집권 당시에 미국과의 갈등으로 인해 자발적으로 핵 무기를 만드려고 했던 우리나라를 다룬 소설입니다."
+			],
+			[
+				7,
+				"만들",
+				"VV",
+				"실화를 바탕으로 만든 소설이고, 이휘소라는 물리학자를 암살한 사건을 중심으로 돌아갑니다."
+			],
+			[
+				8,
+				"이",
+				"VCP",
+				"실화를 바탕으로 만든 소설이고, 이휘소라는 물리학자를 암살한 사건을 중심으로 돌아갑니다."
+			],
+			[
+				9,
+				"암살하",
+				"VV",
+				"실화를 바탕으로 만든 소설이고, 이휘소라는 물리학자를 암살한 사건을 중심으로 돌아갑니다."
+			],
+			[
+				10,
+				"돌아가",
+				"VV",
+				"실화를 바탕으로 만든 소설이고, 이휘소라는 물리학자를 암살한 사건을 중심으로 돌아갑니다."
+			],
+			[
+				11,
+				"파",
+				"VV",
+				"의문의 살인사건을 파려는 기자와 얽혀 있는 여러 관계를 볼 수있습니다."
+			],
+			[
+				12,
+				"얽히",
+				"VV",
+				"의문의 살인사건을 파려는 기자와 얽혀 있는 여러 관계를 볼 수있습니다."
+			],
+			[
+				13,
+				"있",
+				"VX",
+				"의문의 살인사건을 파려는 기자와 얽혀 있는 여러 관계를 볼 수있습니다."
+			],
+			[
+				14,
+				"보",
+				"VV",
+				"의문의 살인사건을 파려는 기자와 얽혀 있는 여러 관계를 볼 수있습니다."
+			],
+			[
+				15,
+				"있",
+				"VA",
+				"의문의 살인사건을 파려는 기자와 얽혀 있는 여러 관계를 볼 수있습니다."
+			],
+			[
+				16,
+				"어둡",
+				"VA",
+				"정치계와 조직폭력배의 어두운 면과 권력의 무서움을 알 수 있는 작품이었습니다."
+			],
+			[
+				17,
+				"알",
+				"VV",
+				"정치계와 조직폭력배의 어두운 면과 권력의 무서움을 알 수 있는 작품이었습니다."
+			],
+			[
+				18,
+				"있",
+				"VA",
+				"정치계와 조직폭력배의 어두운 면과 권력의 무서움을 알 수 있는 작품이었습니다."
+			],
+			[
+				19,
+				"이",
+				"VCP",
+				"정치계와 조직폭력배의 어두운 면과 권력의 무서움을 알 수 있는 작품이었습니다."
+			],
+			[
+				20,
+				"남",
+				"VV",
+				"가장 기억에 남는 말은 뭐라고? 대통령 국권? 이라는 대목으로 사건의 스케일을 알려주는 대목이라고 생각됩니다."
+			],
+			[
+				21,
+				"이",
+				"VCP",
+				"가장 기억에 남는 말은 뭐라고? 대통령 국권? 이라는 대목으로 사건의 스케일을 알려주는 대목이라고 생각됩니다."
+			],
+			[
+				22,
+				"이",
+				"VCP",
+				"가장 기억에 남는 말은 뭐라고? 대통령 국권? 이라는 대목으로 사건의 스케일을 알려주는 대목이라고 생각됩니다."
+			],
+			[
+				23,
+				"알리",
+				"VV",
+				"가장 기억에 남는 말은 뭐라고? 대통령 국권? 이라는 대목으로 사건의 스케일을 알려주는 대목이라고 생각됩니다."
+			],
+			[
+				24,
+				"주",
+				"VX",
+				"가장 기억에 남는 말은 뭐라고? 대통령 국권? 이라는 대목으로 사건의 스케일을 알려주는 대목이라고 생각됩니다."
+			],
+			[
+				25,
+				"이",
+				"VCP",
+				"가장 기억에 남는 말은 뭐라고? 대통령 국권? 이라는 대목으로 사건의 스케일을 알려주는 대목이라고 생각됩니다."
+			],
+			[
+				26,
+				"생각되",
+				"VV",
+				"가장 기억에 남는 말은 뭐라고? 대통령 국권? 이라는 대목으로 사건의 스케일을 알려주는 대목이라고 생각됩니다."
+			]
+		],
+		"VV_Lst": [
+			[
+				0,
+				"피",
+				"VV",
+				"무궁화 꽃이 피었습니다라는 책은 박정희 대통령 집권 당시에 미국과의 갈등으로 인해 자발적으로 핵 무기를 만드려고 했던 우리나라를 다룬 소설입니다."
+			],
+			[
+				1,
+				"인하",
+				"VV",
+				"무궁화 꽃이 피었습니다라는 책은 박정희 대통령 집권 당시에 미국과의 갈등으로 인해 자발적으로 핵 무기를 만드려고 했던 우리나라를 다룬 소설입니다."
+			],
+			[
+				2,
+				"만들",
+				"VV",
+				"무궁화 꽃이 피었습니다라는 책은 박정희 대통령 집권 당시에 미국과의 갈등으로 인해 자발적으로 핵 무기를 만드려고 했던 우리나라를 다룬 소설입니다."
+			],
+			[
+				3,
+				"다루",
+				"VV",
+				"무궁화 꽃이 피었습니다라는 책은 박정희 대통령 집권 당시에 미국과의 갈등으로 인해 자발적으로 핵 무기를 만드려고 했던 우리나라를 다룬 소설입니다."
+			],
+			[
+				4,
+				"만들",
+				"VV",
+				"실화를 바탕으로 만든 소설이고, 이휘소라는 물리학자를 암살한 사건을 중심으로 돌아갑니다."
+			],
+			[
+				5,
+				"암살하",
+				"VV",
+				"실화를 바탕으로 만든 소설이고, 이휘소라는 물리학자를 암살한 사건을 중심으로 돌아갑니다."
+			],
+			[
+				6,
+				"돌아가",
+				"VV",
+				"실화를 바탕으로 만든 소설이고, 이휘소라는 물리학자를 암살한 사건을 중심으로 돌아갑니다."
+			],
+			[
+				7,
+				"파",
+				"VV",
+				"의문의 살인사건을 파려는 기자와 얽혀 있는 여러 관계를 볼 수있습니다."
+			],
+			[
+				8,
+				"얽히",
+				"VV",
+				"의문의 살인사건을 파려는 기자와 얽혀 있는 여러 관계를 볼 수있습니다."
+			],
+			[
+				9,
+				"보",
+				"VV",
+				"의문의 살인사건을 파려는 기자와 얽혀 있는 여러 관계를 볼 수있습니다."
+			],
+			[
+				10,
+				"알",
+				"VV",
+				"정치계와 조직폭력배의 어두운 면과 권력의 무서움을 알 수 있는 작품이었습니다."
+			],
+			[
+				11,
+				"남",
+				"VV",
+				"가장 기억에 남는 말은 뭐라고? 대통령 국권? 이라는 대목으로 사건의 스케일을 알려주는 대목이라고 생각됩니다."
+			],
+			[
+				12,
+				"알리",
+				"VV",
+				"가장 기억에 남는 말은 뭐라고? 대통령 국권? 이라는 대목으로 사건의 스케일을 알려주는 대목이라고 생각됩니다."
+			],
+			[
+				13,
+				"생각되",
+				"VV",
+				"가장 기억에 남는 말은 뭐라고? 대통령 국권? 이라는 대목으로 사건의 스케일을 알려주는 대목이라고 생각됩니다."
+			]
+		],
+		"VA_Lst": [
+			[
+				0,
+				"있",
+				"VA",
+				"의문의 살인사건을 파려는 기자와 얽혀 있는 여러 관계를 볼 수있습니다."
+			],
+			[
+				1,
+				"어둡",
+				"VA",
+				"정치계와 조직폭력배의 어두운 면과 권력의 무서움을 알 수 있는 작품이었습니다."
+			],
+			[
+				2,
+				"있",
+				"VA",
+				"정치계와 조직폭력배의 어두운 면과 권력의 무서움을 알 수 있는 작품이었습니다."
+			]
+		],
+		"VX_Lst": [
+			[
+				0,
+				"하",
+				"VX",
+				"무궁화 꽃이 피었습니다라는 책은 박정희 대통령 집권 당시에 미국과의 갈등으로 인해 자발적으로 핵 무기를 만드려고 했던 우리나라를 다룬 소설입니다."
+			],
+			[
+				1,
+				"있",
+				"VX",
+				"의문의 살인사건을 파려는 기자와 얽혀 있는 여러 관계를 볼 수있습니다."
+			],
+			[
+				2,
+				"주",
+				"VX",
+				"가장 기억에 남는 말은 뭐라고? 대통령 국권? 이라는 대목으로 사건의 스케일을 알려주는 대목이라고 생각됩니다."
+			]
+		],
+		"VCP_Lst": [
+			[
+				0,
+				"이",
+				"VCP",
+				"무궁화 꽃이 피었습니다라는 책은 박정희 대통령 집권 당시에 미국과의 갈등으로 인해 자발적으로 핵 무기를 만드려고 했던 우리나라를 다룬 소설입니다."
+			],
+			[
+				1,
+				"이",
+				"VCP",
+				"무궁화 꽃이 피었습니다라는 책은 박정희 대통령 집권 당시에 미국과의 갈등으로 인해 자발적으로 핵 무기를 만드려고 했던 우리나라를 다룬 소설입니다."
+			],
+			[
+				2,
+				"이",
+				"VCP",
+				"실화를 바탕으로 만든 소설이고, 이휘소라는 물리학자를 암살한 사건을 중심으로 돌아갑니다."
+			],
+			[
+				3,
+				"이",
+				"VCP",
+				"정치계와 조직폭력배의 어두운 면과 권력의 무서움을 알 수 있는 작품이었습니다."
+			],
+			[
+				4,
+				"이",
+				"VCP",
+				"가장 기억에 남는 말은 뭐라고? 대통령 국권? 이라는 대목으로 사건의 스케일을 알려주는 대목이라고 생각됩니다."
+			],
+			[
+				5,
+				"이",
+				"VCP",
+				"가장 기억에 남는 말은 뭐라고? 대통령 국권? 이라는 대목으로 사건의 스케일을 알려주는 대목이라고 생각됩니다."
+			],
+			[
+				6,
+				"이",
+				"VCP",
+				"가장 기억에 남는 말은 뭐라고? 대통령 국권? 이라는 대목으로 사건의 스케일을 알려주는 대목이라고 생각됩니다."
+			]
+		],
+		"VCN_Lst": [],
+		"ML_Lst": [
+			[
+				0,
+				"가장",
+				"MAG",
+				"가장 기억에 남는 말은 뭐라고? 대통령 국권? 이라는 대목으로 사건의 스케일을 알려주는 대목이라고 생각됩니다."
+			]
+		],
+		"MA_Lst": [],
+		"MM_Lst": [],
+		"J_Lst": [
+			[
+				0,
+				"이",
+				"JKS",
+				"무궁화 꽃이 피었습니다라는 책은 박정희 대통령 집권 당시에 미국과의 갈등으로 인해 자발적으로 핵 무기를 만드려고 했던 우리나라를 다룬 소설입니다."
+			],
+			[
+				1,
+				"은",
+				"JX",
+				"무궁화 꽃이 피었습니다라는 책은 박정희 대통령 집권 당시에 미국과의 갈등으로 인해 자발적으로 핵 무기를 만드려고 했던 우리나라를 다룬 소설입니다."
+			],
+			[
+				2,
+				"에",
+				"JKB",
+				"무궁화 꽃이 피었습니다라는 책은 박정희 대통령 집권 당시에 미국과의 갈등으로 인해 자발적으로 핵 무기를 만드려고 했던 우리나라를 다룬 소설입니다."
+			],
+			[
+				3,
+				"과",
+				"JKB",
+				"무궁화 꽃이 피었습니다라는 책은 박정희 대통령 집권 당시에 미국과의 갈등으로 인해 자발적으로 핵 무기를 만드려고 했던 우리나라를 다룬 소설입니다."
+			],
+			[
+				4,
+				"의",
+				"JKG",
+				"무궁화 꽃이 피었습니다라는 책은 박정희 대통령 집권 당시에 미국과의 갈등으로 인해 자발적으로 핵 무기를 만드려고 했던 우리나라를 다룬 소설입니다."
+			],
+			[
+				5,
+				"으로",
+				"JKB",
+				"무궁화 꽃이 피었습니다라는 책은 박정희 대통령 집권 당시에 미국과의 갈등으로 인해 자발적으로 핵 무기를 만드려고 했던 우리나라를 다룬 소설입니다."
+			],
+			[
+				6,
+				"으로",
+				"JKB",
+				"무궁화 꽃이 피었습니다라는 책은 박정희 대통령 집권 당시에 미국과의 갈등으로 인해 자발적으로 핵 무기를 만드려고 했던 우리나라를 다룬 소설입니다."
+			],
+			[
+				7,
+				"를",
+				"JKO",
+				"무궁화 꽃이 피었습니다라는 책은 박정희 대통령 집권 당시에 미국과의 갈등으로 인해 자발적으로 핵 무기를 만드려고 했던 우리나라를 다룬 소설입니다."
+			],
+			[
+				8,
+				"를",
+				"JKO",
+				"무궁화 꽃이 피었습니다라는 책은 박정희 대통령 집권 당시에 미국과의 갈등으로 인해 자발적으로 핵 무기를 만드려고 했던 우리나라를 다룬 소설입니다."
+			],
+			[
+				9,
+				"를",
+				"JKO",
+				"실화를 바탕으로 만든 소설이고, 이휘소라는 물리학자를 암살한 사건을 중심으로 돌아갑니다."
+			],
+			[
+				10,
+				"으로",
+				"JKB",
+				"실화를 바탕으로 만든 소설이고, 이휘소라는 물리학자를 암살한 사건을 중심으로 돌아갑니다."
+			],
+			[
+				11,
+				"를",
+				"JKO",
+				"실화를 바탕으로 만든 소설이고, 이휘소라는 물리학자를 암살한 사건을 중심으로 돌아갑니다."
+			],
+			[
+				12,
+				"을",
+				"JKO",
+				"실화를 바탕으로 만든 소설이고, 이휘소라는 물리학자를 암살한 사건을 중심으로 돌아갑니다."
+			],
+			[
+				13,
+				"으로",
+				"JKB",
+				"실화를 바탕으로 만든 소설이고, 이휘소라는 물리학자를 암살한 사건을 중심으로 돌아갑니다."
+			],
+			[
+				14,
+				"의",
+				"JKG",
+				"의문의 살인사건을 파려는 기자와 얽혀 있는 여러 관계를 볼 수있습니다."
+			],
+			[
+				15,
+				"을",
+				"JKO",
+				"의문의 살인사건을 파려는 기자와 얽혀 있는 여러 관계를 볼 수있습니다."
+			],
+			[
+				16,
+				"와",
+				"JKB",
+				"의문의 살인사건을 파려는 기자와 얽혀 있는 여러 관계를 볼 수있습니다."
+			],
+			[
+				17,
+				"를",
+				"JKO",
+				"의문의 살인사건을 파려는 기자와 얽혀 있는 여러 관계를 볼 수있습니다."
+			],
+			[
+				18,
+				"와",
+				"JC",
+				"정치계와 조직폭력배의 어두운 면과 권력의 무서움을 알 수 있는 작품이었습니다."
+			],
+			[
+				19,
+				"의",
+				"JKG",
+				"정치계와 조직폭력배의 어두운 면과 권력의 무서움을 알 수 있는 작품이었습니다."
+			],
+			[
+				20,
+				"과",
+				"JC",
+				"정치계와 조직폭력배의 어두운 면과 권력의 무서움을 알 수 있는 작품이었습니다."
+			],
+			[
+				21,
+				"의",
+				"JKG",
+				"정치계와 조직폭력배의 어두운 면과 권력의 무서움을 알 수 있는 작품이었습니다."
+			],
+			[
+				22,
+				"을",
+				"JKO",
+				"정치계와 조직폭력배의 어두운 면과 권력의 무서움을 알 수 있는 작품이었습니다."
+			],
+			[
+				23,
+				"에",
+				"JKB",
+				"가장 기억에 남는 말은 뭐라고? 대통령 국권? 이라는 대목으로 사건의 스케일을 알려주는 대목이라고 생각됩니다."
+			],
+			[
+				24,
+				"은",
+				"JX",
+				"가장 기억에 남는 말은 뭐라고? 대통령 국권? 이라는 대목으로 사건의 스케일을 알려주는 대목이라고 생각됩니다."
+			],
+			[
+				25,
+				"으로",
+				"JKB",
+				"가장 기억에 남는 말은 뭐라고? 대통령 국권? 이라는 대목으로 사건의 스케일을 알려주는 대목이라고 생각됩니다."
+			],
+			[
+				26,
+				"의",
+				"JKG",
+				"가장 기억에 남는 말은 뭐라고? 대통령 국권? 이라는 대목으로 사건의 스케일을 알려주는 대목이라고 생각됩니다."
+			],
+			[
+				27,
+				"을",
+				"JKO",
+				"가장 기억에 남는 말은 뭐라고? 대통령 국권? 이라는 대목으로 사건의 스케일을 알려주는 대목이라고 생각됩니다."
+			]
+		],
+		"E_Lst": [
+			[
+				0,
+				"었",
+				"EP",
+				"무궁화 꽃이 피었습니다라는 책은 박정희 대통령 집권 당시에 미국과의 갈등으로 인해 자발적으로 핵 무기를 만드려고 했던 우리나라를 다룬 소설입니다."
+			],
+			[
+				1,
+				"습니다",
+				"EF",
+				"무궁화 꽃이 피었습니다라는 책은 박정희 대통령 집권 당시에 미국과의 갈등으로 인해 자발적으로 핵 무기를 만드려고 했던 우리나라를 다룬 소설입니다."
+			],
+			[
+				2,
+				"라는",
+				"ETM",
+				"무궁화 꽃이 피었습니다라는 책은 박정희 대통령 집권 당시에 미국과의 갈등으로 인해 자발적으로 핵 무기를 만드려고 했던 우리나라를 다룬 소설입니다."
+			],
+			[
+				3,
+				"아",
+				"EC",
+				"무궁화 꽃이 피었습니다라는 책은 박정희 대통령 집권 당시에 미국과의 갈등으로 인해 자발적으로 핵 무기를 만드려고 했던 우리나라를 다룬 소설입니다."
+			],
+			[
+				4,
+				"려고",
+				"EC",
+				"무궁화 꽃이 피었습니다라는 책은 박정희 대통령 집권 당시에 미국과의 갈등으로 인해 자발적으로 핵 무기를 만드려고 했던 우리나라를 다룬 소설입니다."
+			],
+			[
+				5,
+				"았",
+				"EP",
+				"무궁화 꽃이 피었습니다라는 책은 박정희 대통령 집권 당시에 미국과의 갈등으로 인해 자발적으로 핵 무기를 만드려고 했던 우리나라를 다룬 소설입니다."
+			],
+			[
+				6,
+				"던",
+				"ETM",
+				"무궁화 꽃이 피었습니다라는 책은 박정희 대통령 집권 당시에 미국과의 갈등으로 인해 자발적으로 핵 무기를 만드려고 했던 우리나라를 다룬 소설입니다."
+			],
+			[
+				7,
+				"ㄴ",
+				"ETM",
+				"무궁화 꽃이 피었습니다라는 책은 박정희 대통령 집권 당시에 미국과의 갈등으로 인해 자발적으로 핵 무기를 만드려고 했던 우리나라를 다룬 소설입니다."
+			],
+			[
+				8,
+				"ㅂ니다",
+				"EF",
+				"무궁화 꽃이 피었습니다라는 책은 박정희 대통령 집권 당시에 미국과의 갈등으로 인해 자발적으로 핵 무기를 만드려고 했던 우리나라를 다룬 소설입니다."
+			],
+			[
+				9,
+				"ㄴ",
+				"ETM",
+				"실화를 바탕으로 만든 소설이고, 이휘소라는 물리학자를 암살한 사건을 중심으로 돌아갑니다."
+			],
+			[
+				10,
+				"고",
+				"EC",
+				"실화를 바탕으로 만든 소설이고, 이휘소라는 물리학자를 암살한 사건을 중심으로 돌아갑니다."
+			],
+			[
+				11,
+				"라는",
+				"ETM",
+				"실화를 바탕으로 만든 소설이고, 이휘소라는 물리학자를 암살한 사건을 중심으로 돌아갑니다."
+			],
+			[
+				12,
+				"ㄴ",
+				"ETM",
+				"실화를 바탕으로 만든 소설이고, 이휘소라는 물리학자를 암살한 사건을 중심으로 돌아갑니다."
+			],
+			[
+				13,
+				"ㅂ니다",
+				"EF",
+				"실화를 바탕으로 만든 소설이고, 이휘소라는 물리학자를 암살한 사건을 중심으로 돌아갑니다."
+			],
+			[
+				14,
+				"려는",
+				"ETM",
+				"의문의 살인사건을 파려는 기자와 얽혀 있는 여러 관계를 볼 수있습니다."
+			],
+			[
+				15,
+				"어",
+				"EC",
+				"의문의 살인사건을 파려는 기자와 얽혀 있는 여러 관계를 볼 수있습니다."
+			],
+			[
+				16,
+				"는",
+				"ETM",
+				"의문의 살인사건을 파려는 기자와 얽혀 있는 여러 관계를 볼 수있습니다."
+			],
+			[
+				17,
+				"ㄹ",
+				"ETM",
+				"의문의 살인사건을 파려는 기자와 얽혀 있는 여러 관계를 볼 수있습니다."
+			],
+			[
+				18,
+				"습니다",
+				"EF",
+				"의문의 살인사건을 파려는 기자와 얽혀 있는 여러 관계를 볼 수있습니다."
+			],
+			[
+				19,
+				"ㄴ",
+				"ETM",
+				"정치계와 조직폭력배의 어두운 면과 권력의 무서움을 알 수 있는 작품이었습니다."
+			],
+			[
+				20,
+				"ㄹ",
+				"ETM",
+				"정치계와 조직폭력배의 어두운 면과 권력의 무서움을 알 수 있는 작품이었습니다."
+			],
+			[
+				21,
+				"는",
+				"ETM",
+				"정치계와 조직폭력배의 어두운 면과 권력의 무서움을 알 수 있는 작품이었습니다."
+			],
+			[
+				22,
+				"었",
+				"EP",
+				"정치계와 조직폭력배의 어두운 면과 권력의 무서움을 알 수 있는 작품이었습니다."
+			],
+			[
+				23,
+				"습니다",
+				"EF",
+				"정치계와 조직폭력배의 어두운 면과 권력의 무서움을 알 수 있는 작품이었습니다."
+			],
+			[
+				24,
+				"는",
+				"ETM",
+				"가장 기억에 남는 말은 뭐라고? 대통령 국권? 이라는 대목으로 사건의 스케일을 알려주는 대목이라고 생각됩니다."
+			],
+			[
+				25,
+				"라고",
+				"EF",
+				"가장 기억에 남는 말은 뭐라고? 대통령 국권? 이라는 대목으로 사건의 스케일을 알려주는 대목이라고 생각됩니다."
+			],
+			[
+				26,
+				"라는",
+				"ETM",
+				"가장 기억에 남는 말은 뭐라고? 대통령 국권? 이라는 대목으로 사건의 스케일을 알려주는 대목이라고 생각됩니다."
+			],
+			[
+				27,
+				"어",
+				"EC",
+				"가장 기억에 남는 말은 뭐라고? 대통령 국권? 이라는 대목으로 사건의 스케일을 알려주는 대목이라고 생각됩니다."
+			],
+			[
+				28,
+				"는",
+				"ETM",
+				"가장 기억에 남는 말은 뭐라고? 대통령 국권? 이라는 대목으로 사건의 스케일을 알려주는 대목이라고 생각됩니다."
+			],
+			[
+				29,
+				"라고",
+				"EC",
+				"가장 기억에 남는 말은 뭐라고? 대통령 국권? 이라는 대목으로 사건의 스케일을 알려주는 대목이라고 생각됩니다."
+			],
+			[
+				30,
+				"ㅂ니다",
+				"EF",
+				"가장 기억에 남는 말은 뭐라고? 대통령 국권? 이라는 대목으로 사건의 스케일을 알려주는 대목이라고 생각됩니다."
+			]
+		],
+		"X_Lst": [
+			[
+				0,
+				"적",
+				"XSN",
+				"무궁화 꽃이 피었습니다라는 책은 박정희 대통령 집권 당시에 미국과의 갈등으로 인해 자발적으로 핵 무기를 만드려고 했던 우리나라를 다룬 소설입니다."
+			],
+			[
+				1,
+				"계",
+				"XSN",
+				"정치계와 조직폭력배의 어두운 면과 권력의 무서움을 알 수 있는 작품이었습니다."
+			]
+		],
+		"IC_Lst": []
+	},
+	"NDW": {
+		"morph_NDW": 91,
+		"NL_NDW": 44,
+		"NNG_NDW": 38,
+		"NNP_NDW": 3,
+		"NNB_NDW": 2,
+		"NP_NDW": 1,
+		"NR_NDW": 0,
+		"VL_NDW": 27,
+		"VV_NDW": 14,
+		"VA_NDW": 3,
+		"ML_NDW": 1,
+		"MM_NDW": 0,
+		"IC_NDW": 0,
+		"J_NDW": 28,
+		"E_NDW": 31,
+		"X_NDW": 2,
+		"CL_NDW": 72,
+		"FL_NDW": 61
+	}
+}

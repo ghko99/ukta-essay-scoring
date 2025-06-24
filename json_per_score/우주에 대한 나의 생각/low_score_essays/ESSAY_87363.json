@@ -1,0 +1,4749 @@
+﻿{
+	"morpheme": {
+		"sentences": [
+			{
+				"text": {
+					"content": "약 137억 년 전에 하나의 점이 폭발합니다.",
+					"length": 25,
+					"beginOffset": 0
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "약",
+							"length": 1,
+							"beginOffset": 0
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "약",
+									"length": 1,
+									"beginOffset": 0
+								},
+								"tag": "MMA",
+								"probability": 0.997032,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "약",
+						"tagged": "약/MMA",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "137억",
+							"beginOffset": 2,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "137",
+									"beginOffset": 2,
+									"length": 3
+								},
+								"tag": "SN",
+								"probability": 0.9929293,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "억",
+									"beginOffset": 5,
+									"length": 1
+								},
+								"tag": "NR",
+								"probability": 0.9939806,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "137",
+						"tagged": "137/SN+억/NR",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "년",
+							"beginOffset": 7,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "년",
+									"beginOffset": 7,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9757923,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "년",
+						"tagged": "년/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "전에",
+							"beginOffset": 9,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "전",
+									"beginOffset": 9,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.97750884,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 10,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9513678,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "전",
+						"tagged": "전/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "하나의",
+							"beginOffset": 12,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하나",
+									"beginOffset": 12,
+									"length": 2
+								},
+								"tag": "NR",
+								"probability": 0.993182,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 14,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9992412,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하나",
+						"tagged": "하나/NR+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "점이",
+							"beginOffset": 16,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "점",
+									"beginOffset": 16,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.8332277,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 17,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9802011,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "점",
+						"tagged": "점/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "폭발합니다.",
+							"beginOffset": 19,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "폭발하",
+									"beginOffset": 19,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㅂ니다",
+									"beginOffset": 21,
+									"length": 3
+								},
+								"tag": "EF",
+								"probability": 0.99111694,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 24,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99979645,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "폭발하",
+						"tagged": "폭발하/VV+ㅂ니다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "약 137억 년 전에 하나의 점이 폭발합니다."
+			},
+			{
+				"text": {
+					"content": "이 점의 폭발(빅뱅)이 우주의 시작인 것입니다.",
+					"beginOffset": 26,
+					"length": 26
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "이",
+							"beginOffset": 26,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 26,
+									"length": 1
+								},
+								"tag": "MMD",
+								"probability": 0.99983793,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이",
+						"tagged": "이/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "점의",
+							"beginOffset": 28,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "점",
+									"beginOffset": 28,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.5100905,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 29,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9984298,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "점",
+						"tagged": "점/NNB+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "폭발(빅뱅)이",
+							"beginOffset": 31,
+							"length": 7
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "폭발",
+									"beginOffset": 31,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9677796,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "(",
+									"beginOffset": 33,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9995938,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "빅뱅",
+									"beginOffset": 34,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9672773,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ")",
+									"beginOffset": 36,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9999831,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 37,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.99014306,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "폭발",
+						"tagged": "폭발/NNG+(/SS+빅뱅/NNG+)/SS+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "우주의",
+							"beginOffset": 39,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "우주",
+									"beginOffset": 39,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98563814,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 41,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99904484,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "우주",
+						"tagged": "우주/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "시작인",
+							"beginOffset": 43,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "시작인",
+									"beginOffset": 43,
+									"length": 3
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							}
+						],
+						"lemma": "시작인",
+						"tagged": "시작인/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "것입니다.",
+							"beginOffset": 47,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "것",
+									"beginOffset": 47,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.98276645,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 48,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.99988544,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㅂ니다",
+									"beginOffset": 48,
+									"length": 3
+								},
+								"tag": "EF",
+								"probability": 0.99151236,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 51,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9997636,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "것",
+						"tagged": "것/NNB+이/VCP+ㅂ니다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "이 점의 폭발(빅뱅)이 우주의 시작인 것입니다."
+			},
+			{
+				"text": {
+					"content": "빅뱅이 시작된 후 10-32초. 상상할 수도 없을 만큼 짧은 시간이지만 우주 탄생에서는 가장 중요한 시간입니다.",
+					"beginOffset": 53,
+					"length": 62
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "빅뱅이",
+							"beginOffset": 53,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "빅뱅",
+									"beginOffset": 53,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.96489084,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 55,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.99240446,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "빅뱅",
+						"tagged": "빅뱅/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "시작된",
+							"beginOffset": 57,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "시작되",
+									"beginOffset": 57,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 59,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9996512,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "시작되",
+						"tagged": "시작되/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "후",
+							"beginOffset": 61,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "후",
+									"beginOffset": 61,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.98275936,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "후",
+						"tagged": "후/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "10-32초",
+							"beginOffset": 63,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "10",
+									"beginOffset": 63,
+									"length": 2
+								},
+								"tag": "SN",
+								"probability": 0.9988509,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "-",
+									"beginOffset": 65,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.9137278,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "32",
+									"beginOffset": 66,
+									"length": 2
+								},
+								"tag": "SN",
+								"probability": 0.9980176,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "초",
+									"beginOffset": 68,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9480296,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "10",
+						"tagged": "10/SN+-/SP+32/SN+초/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": ".",
+							"beginOffset": 69,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 69,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99222034,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": ".",
+						"tagged": "./SF",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "상상할",
+							"beginOffset": 71,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "상상하",
+									"beginOffset": 71,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄹ",
+									"beginOffset": 73,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99995965,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "상상하",
+						"tagged": "상상하/VV+ㄹ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "수도",
+							"beginOffset": 75,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "수",
+									"beginOffset": 75,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9663236,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 76,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9995777,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "수",
+						"tagged": "수/NNB+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "없을",
+							"beginOffset": 78,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "없",
+									"beginOffset": 78,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9885569,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 79,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999161,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "없",
+						"tagged": "없/VA+을/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "만큼",
+							"beginOffset": 81,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "만큼",
+									"beginOffset": 81,
+									"length": 2
+								},
+								"tag": "NNB",
+								"probability": 0.9759514,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "만큼",
+						"tagged": "만큼/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "짧은",
+							"beginOffset": 84,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "짧",
+									"beginOffset": 84,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.98754495,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 85,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9998558,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "짧",
+						"tagged": "짧/VA+은/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "시간이지만",
+							"beginOffset": 87,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "시간",
+									"beginOffset": 87,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9531202,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 89,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.9998183,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "지만",
+									"beginOffset": 90,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.990094,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "시간",
+						"tagged": "시간/NNG+이/VCP+지만/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "우주",
+							"beginOffset": 93,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "우주",
+									"beginOffset": 93,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98481417,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "우주",
+						"tagged": "우주/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "탄생에서는",
+							"beginOffset": 96,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "탄생",
+									"beginOffset": 96,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98418915,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에서",
+									"beginOffset": 98,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9938138,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 100,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99948364,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "탄생",
+						"tagged": "탄생/NNG+에서/JKB+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "가장",
+							"beginOffset": 102,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "가장",
+									"beginOffset": 102,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9903762,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "가장",
+						"tagged": "가장/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "중요한",
+							"beginOffset": 105,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "중요하",
+									"beginOffset": 105,
+									"length": 3
+								},
+								"tag": "VA",
+								"probability": 0.0,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 107,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99997807,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "중요하",
+						"tagged": "중요하/VA+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "시간입니다.",
+							"beginOffset": 109,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "시간",
+									"beginOffset": 109,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.926403,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 111,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.9999187,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㅂ니다",
+									"beginOffset": 111,
+									"length": 3
+								},
+								"tag": "EF",
+								"probability": 0.99092084,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 114,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9995695,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "시간",
+						"tagged": "시간/NNG+이/VCP+ㅂ니다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "빅뱅이 시작된 후 10-32초 . 상상할 수도 없을 만큼 짧은 시간이지만 우주 탄생에서는 가장 중요한 시간입니다."
+			},
+			{
+				"text": {
+					"content": "이 시간동안 폭발 당시의 에너지는 현재 우주의 절반 정도의 공간을 만들면서 급격하게 퍼져 나갑니다.",
+					"beginOffset": 116,
+					"length": 55
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "이",
+							"beginOffset": 116,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 116,
+									"length": 1
+								},
+								"tag": "MMD",
+								"probability": 0.9994776,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이",
+						"tagged": "이/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "시간동안",
+							"beginOffset": 118,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "시간",
+									"beginOffset": 118,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.96171844,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "동안",
+									"beginOffset": 120,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9853761,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "시간",
+						"tagged": "시간/NNG+동안/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "폭발",
+							"beginOffset": 123,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "폭발",
+									"beginOffset": 123,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98067355,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "폭발",
+						"tagged": "폭발/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "당시의",
+							"beginOffset": 126,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "당시",
+									"beginOffset": 126,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9827149,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 128,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99950063,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "당시",
+						"tagged": "당시/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "에너지는",
+							"beginOffset": 130,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "에너지",
+									"beginOffset": 130,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.98142654,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 133,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99891776,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "에너지",
+						"tagged": "에너지/NNG+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "현재",
+							"beginOffset": 135,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "현재",
+									"beginOffset": 135,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.99355024,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "현재",
+						"tagged": "현재/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "우주의",
+							"beginOffset": 138,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "우주",
+									"beginOffset": 138,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9843701,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 140,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99975175,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "우주",
+						"tagged": "우주/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "절반",
+							"beginOffset": 142,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "절반",
+									"beginOffset": 142,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9850337,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "절반",
+						"tagged": "절반/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "정도의",
+							"beginOffset": 145,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "정도",
+									"beginOffset": 145,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9872211,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 147,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.999788,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "정도",
+						"tagged": "정도/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "공간을",
+							"beginOffset": 149,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "공간",
+									"beginOffset": 149,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9816898,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 151,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9998703,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "공간",
+						"tagged": "공간/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "만들면서",
+							"beginOffset": 153,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "만들",
+									"beginOffset": 153,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.98887783,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "면서",
+									"beginOffset": 155,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9901691,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "만들",
+						"tagged": "만들/VV+면서/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "급격하게",
+							"beginOffset": 158,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "급격하",
+									"beginOffset": 158,
+									"length": 3
+								},
+								"tag": "VA",
+								"probability": 0.98655635,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "게",
+									"beginOffset": 161,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99248326,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "급격하",
+						"tagged": "급격하/VA+게/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "퍼져",
+							"beginOffset": 163,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "퍼지",
+									"beginOffset": 163,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.99021685,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어",
+									"beginOffset": 164,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99543643,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "퍼지",
+						"tagged": "퍼지/VV+어/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "나갑니다.",
+							"beginOffset": 166,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "나가",
+									"beginOffset": 166,
+									"length": 2
+								},
+								"tag": "VX",
+								"probability": 0.9401228,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㅂ니다",
+									"beginOffset": 167,
+									"length": 3
+								},
+								"tag": "EF",
+								"probability": 0.98720217,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 170,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99956244,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "나가",
+						"tagged": "나가/VX+ㅂ니다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "이 시간동안 폭발 당시의 에너지는 현재 우주의 절반 정도의 공간을 만들면서 급격하게 퍼져 나갑니다."
+			},
+			{
+				"text": {
+					"content": "여기서 신기한 것은 처음에 만들어진 공간 안에 우리가 생각하는 물질이 없었다는 것입니다.",
+					"beginOffset": 172,
+					"length": 49
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "여기서",
+							"beginOffset": 172,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "여기",
+									"beginOffset": 172,
+									"length": 2
+								},
+								"tag": "NP",
+								"probability": 0.9853289,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "서",
+									"beginOffset": 174,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99489564,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "여기",
+						"tagged": "여기/NP+서/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "신기한",
+							"beginOffset": 176,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "신기하",
+									"beginOffset": 176,
+									"length": 3
+								},
+								"tag": "VA",
+								"probability": 0.98719835,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 178,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99998504,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "신기하",
+						"tagged": "신기하/VA+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "것은",
+							"beginOffset": 180,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "것",
+									"beginOffset": 180,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.98308295,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 181,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9990471,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "것",
+						"tagged": "것/NNB+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "처음에",
+							"beginOffset": 183,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "처음",
+									"beginOffset": 183,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9835535,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 185,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99758345,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "처음",
+						"tagged": "처음/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "만들어",
+							"beginOffset": 187,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "만들",
+									"beginOffset": 187,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9855763,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어",
+									"beginOffset": 189,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9941591,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "만들",
+						"tagged": "만들/VV+어/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "진",
+							"beginOffset": 190,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "지",
+									"beginOffset": 190,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.979559,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 190,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99992883,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "지",
+						"tagged": "지/VX+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "공간",
+							"beginOffset": 192,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "공간",
+									"beginOffset": 192,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9803033,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "공간",
+						"tagged": "공간/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "안에",
+							"beginOffset": 195,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "안",
+									"beginOffset": 195,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.98152703,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 196,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99596304,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "안",
+						"tagged": "안/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "우리가",
+							"beginOffset": 198,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "우리",
+									"beginOffset": 198,
+									"length": 2
+								},
+								"tag": "NP",
+								"probability": 0.9868141,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 200,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.98825634,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "우리",
+						"tagged": "우리/NP+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "생각하는",
+							"beginOffset": 202,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "생각하",
+									"beginOffset": 202,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.0,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 205,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.999865,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "생각하",
+						"tagged": "생각하/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "물질이",
+							"beginOffset": 207,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "물질",
+									"beginOffset": 207,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9712879,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 209,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9146398,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "물질",
+						"tagged": "물질/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "없었다는",
+							"beginOffset": 211,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "없",
+									"beginOffset": 211,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9815451,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 212,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9998692,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다는",
+									"beginOffset": 213,
+									"length": 2
+								},
+								"tag": "ETM",
+								"probability": 0.99998826,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "없",
+						"tagged": "없/VA+었/EP+다는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "것입니다.",
+							"beginOffset": 216,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "것",
+									"beginOffset": 216,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9845101,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 217,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.9995776,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㅂ니다",
+									"beginOffset": 217,
+									"length": 3
+								},
+								"tag": "EF",
+								"probability": 0.9932261,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 220,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99977577,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "것",
+						"tagged": "것/NNB+이/VCP+ㅂ니다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "여기서 신기한 것은 처음에 만들어 진 공간 안에 우리가 생각하는 물질이 없었다는 것입니다."
+			},
+			{
+				"text": {
+					"content": "처음에는 물질이 아닌 복사 에너지만 있었습니다.",
+					"beginOffset": 222,
+					"length": 26
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "처음에는",
+							"beginOffset": 222,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "처음",
+									"beginOffset": 222,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98414624,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 224,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99530023,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 225,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.999039,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "처음",
+						"tagged": "처음/NNG+에/JKB+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "물질이",
+							"beginOffset": 227,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "물질",
+									"beginOffset": 227,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9793448,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 229,
+									"length": 1
+								},
+								"tag": "JKC",
+								"probability": 0.96850693,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "물질",
+						"tagged": "물질/NNG+이/JKC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "아닌",
+							"beginOffset": 231,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "아니",
+									"beginOffset": 231,
+									"length": 2
+								},
+								"tag": "VCN",
+								"probability": 0.9999694,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 232,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999422,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "아니",
+						"tagged": "아니/VCN+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "복사",
+							"beginOffset": 234,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "복사",
+									"beginOffset": 234,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9778808,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "복사",
+						"tagged": "복사/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "에너지만",
+							"beginOffset": 237,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "에너지",
+									"beginOffset": 237,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9835404,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "만",
+									"beginOffset": 240,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9978641,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "에너지",
+						"tagged": "에너지/NNG+만/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있었습니다.",
+							"beginOffset": 242,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 242,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.862285,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 243,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99968314,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "습니다",
+									"beginOffset": 244,
+									"length": 3
+								},
+								"tag": "EF",
+								"probability": 0.988689,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 247,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9995828,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VA+었/EP+습니다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "처음에는 물질이 아닌 복사 에너지만 있었습니다."
+			},
+			{
+				"text": {
+					"content": "유명한 아인슈타인의E=mc2이라는 식을 보면 에너지가 질량이 될 수 있고, 또 질량이 에너지가 될 수 있다 라고 해석할 수 있습니다.",
+					"beginOffset": 249,
+					"length": 74
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "유명한",
+							"beginOffset": 249,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "유명하",
+									"beginOffset": 249,
+									"length": 3
+								},
+								"tag": "VA",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 251,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99999017,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "유명하",
+						"tagged": "유명하/VA+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "아인슈타인의",
+							"beginOffset": 253,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "아인슈타인",
+									"beginOffset": 253,
+									"length": 5
+								},
+								"tag": "NNP",
+								"probability": 0.96482843,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 258,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99824345,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "아인슈타인",
+						"tagged": "아인슈타인/NNP+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "E=mc2이라는",
+							"beginOffset": 259,
+							"length": 8
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "E",
+									"beginOffset": 259,
+									"length": 1
+								},
+								"tag": "SL",
+								"probability": 0.9719198,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "=",
+									"beginOffset": 260,
+									"length": 1
+								},
+								"tag": "SW",
+								"probability": 0.9460859,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "mc",
+									"beginOffset": 261,
+									"length": 2
+								},
+								"tag": "SL",
+								"probability": 0.9231578,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "2",
+									"beginOffset": 263,
+									"length": 1
+								},
+								"tag": "SN",
+								"probability": 0.9882399,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 264,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.99994504,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "라는",
+									"beginOffset": 265,
+									"length": 2
+								},
+								"tag": "ETM",
+								"probability": 0.9999371,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "E",
+						"tagged": "E/SL+=/SW+mc/SL+2/SN+이/VCP+라는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "식을",
+							"beginOffset": 268,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "식",
+									"beginOffset": 268,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.49336705,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 269,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99995923,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "식",
+						"tagged": "식/NNB+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "보면",
+							"beginOffset": 271,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "보",
+									"beginOffset": 271,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9450151,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "면",
+									"beginOffset": 272,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9943442,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "보",
+						"tagged": "보/VV+면/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "에너지가",
+							"beginOffset": 274,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "에너지",
+									"beginOffset": 274,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9820693,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 277,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9713608,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "에너지",
+						"tagged": "에너지/NNG+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "질량이",
+							"beginOffset": 279,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "질량",
+									"beginOffset": 279,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9843188,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 281,
+									"length": 1
+								},
+								"tag": "JKC",
+								"probability": 0.9336949,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "질량",
+						"tagged": "질량/NNG+이/JKC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "될",
+							"beginOffset": 283,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "되",
+									"beginOffset": 283,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9740284,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ",
+									"beginOffset": 283,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99991935,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "되",
+						"tagged": "되/VV+ㄹ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "수",
+							"beginOffset": 285,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "수",
+									"beginOffset": 285,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.98016435,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "수",
+						"tagged": "수/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있고",
+							"beginOffset": 287,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 287,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.98509514,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 288,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9932792,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VA+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": ",",
+							"beginOffset": 289,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 289,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.99901223,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": ",",
+						"tagged": ",/SP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "또",
+							"beginOffset": 291,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "또",
+									"beginOffset": 291,
+									"length": 1
+								},
+								"tag": "MAG",
+								"probability": 0.985563,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "또",
+						"tagged": "또/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "질량이",
+							"beginOffset": 293,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "질량",
+									"beginOffset": 293,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9758653,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 295,
+									"length": 1
+								},
+								"tag": "JKC",
+								"probability": 0.83422637,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "질량",
+						"tagged": "질량/NNG+이/JKC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "에너지가",
+							"beginOffset": 297,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "에너지",
+									"beginOffset": 297,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9833434,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 300,
+									"length": 1
+								},
+								"tag": "JKC",
+								"probability": 0.53124833,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "에너지",
+						"tagged": "에너지/NNG+가/JKC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "될",
+							"beginOffset": 302,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "되",
+									"beginOffset": 302,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.96957815,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ",
+									"beginOffset": 302,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99994797,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "되",
+						"tagged": "되/VV+ㄹ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "수",
+							"beginOffset": 304,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "수",
+									"beginOffset": 304,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9812559,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "수",
+						"tagged": "수/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있다 라고",
+							"beginOffset": 306,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 306,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.92686003,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 307,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.959846,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "라고",
+									"beginOffset": 308,
+									"length": 2
+								},
+								"tag": "JKQ",
+								"probability": 0.98213947,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VA+다/EF+라고/JKQ",
+						"modified": "있다라고"
+					},
+					{
+						"text": {
+							"content": "해석할",
+							"beginOffset": 312,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "해석하",
+									"beginOffset": 312,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄹ",
+									"beginOffset": 314,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999713,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "해석하",
+						"tagged": "해석하/VV+ㄹ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "수",
+							"beginOffset": 316,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "수",
+									"beginOffset": 316,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9826461,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "수",
+						"tagged": "수/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있습니다.",
+							"beginOffset": 318,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 318,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9710498,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "습니다",
+									"beginOffset": 319,
+									"length": 3
+								},
+								"tag": "EF",
+								"probability": 0.9903708,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 322,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9996371,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VA+습니다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "유명한 아인슈타인의 E=mc2이라는 식을 보면 에너지가 질량이 될 수 있고 , 또 질량이 에너지가 될 수 있다라고 해석할 수 있습니다."
+			}
+		],
+		"language": "ko_KR"
+	},
+	"ttr": {
+		"lemma_Cnt": 150,
+		"lemma_TTR": 0.5443786982248521,
+		"CL_TTR": 0.6506024096385542,
+		"NL_TTR": 0.62,
+		"NN_TTR": 0.5869565217391305,
+		"NNG_TTR": 0.6060606060606061,
+		"NNP_TTR": 1.0,
+		"NNB_TTR": 0.5833333333333334,
+		"NP_TTR": 1.0,
+		"NR_TTR": 1.0,
+		"VL_TTR": 0.6666666666666666,
+		"VV_TTR": 0.8181818181818182,
+		"VA_TTR": 0.6363636363636364,
+		"ML_TTR": 1.0,
+		"MM_TTR": 0,
+		"MA_TTR": 1.0,
+		"MAJ_TTR": 0,
+		"IC_TTR": 0,
+		"FL_TTR": 0.3968253968253968,
+		"J_TTR": 0.3548387096774194,
+		"E_TTR": 0.53125,
+		"X_TTR": 0,
+		"lemma_RTTR": 7.076923076923077,
+		"CL_RTTR": 5.927270039443279,
+		"NL_RTTR": 4.384062043356595,
+		"NN_RTTR": 3.9809328161822224,
+		"NNG_RTTR": 3.481553119113957,
+		"NNP_RTTR": 1.0,
+		"NNB_RTTR": 2.0207259421636903,
+		"NP_RTTR": 1.414213562373095,
+		"NR_RTTR": 1.414213562373095,
+		"VL_RTTR": 3.6514837167011076,
+		"VV_RTTR": 2.7136021011998728,
+		"VA_RTTR": 2.1105794120443453,
+		"ML_RTTR": 1.7320508075688774,
+		"MM_RTTR": 0,
+		"MA_RTTR": 1.7320508075688774,
+		"MAJ_RTTR": 0,
+		"IC_RTTR": 0,
+		"FL_RTTR": 3.14970394174356,
+		"J_RTTR": 1.975658322294524,
+		"E_RTTR": 3.005203820042827,
+		"X_RTTR": 0,
+		"lemma_CTTR": 5.004140297627875,
+		"CL_CTTR": 4.191212838814197,
+		"NL_CTTR": 3.1,
+		"NN_CTTR": 2.8149445897705094,
+		"NNG_CTTR": 2.4618298195866544,
+		"NNP_CTTR": 0.7071067811865475,
+		"NNB_CTTR": 1.4288690166235207,
+		"NP_CTTR": 1.0,
+		"NR_CTTR": 1.0,
+		"VL_CTTR": 2.581988897471611,
+		"VV_CTTR": 1.9188064472004938,
+		"VA_CTTR": 1.4924050144892729,
+		"ML_CTTR": 1.2247448713915892,
+		"MM_CTTR": 0,
+		"MA_CTTR": 1.2247448713915892,
+		"MAJ_CTTR": 0,
+		"IC_CTTR": 0,
+		"FL_CTTR": 2.22717701593687,
+		"J_CTTR": 1.3970013970020956,
+		"E_CTTR": 2.125,
+		"X_CTTR": 0,
+		"lemma_MSTTR": 0.7466666666666667,
+		"CL_MSTTR": 0.78,
+		"NL_MSTTR": 0.62,
+		"NN_MSTTR": 0.5869565217391305,
+		"NNG_MSTTR": 0.6060606060606061,
+		"NNP_MSTTR": 1.0,
+		"NNB_MSTTR": 0.5833333333333334,
+		"NP_MSTTR": 1.0,
+		"NR_MSTTR": 1.0,
+		"VL_MSTTR": 0.6666666666666666,
+		"VV_MSTTR": 0.8181818181818182,
+		"VA_MSTTR": 0.6363636363636364,
+		"ML_MSTTR": 1.0,
+		"MM_MSTTR": 0,
+		"MA_MSTTR": 1.0,
+		"MAJ_MSTTR": 0,
+		"IC_MSTTR": 0,
+		"FL_MSTTR": 0.42,
+		"J_MSTTR": 0.3548387096774194,
+		"E_MSTTR": 0.53125,
+		"X_MSTTR": 0,
+		"lemma_MATTR": 0.7355000000000007,
+		"CL_MATTR": 0.7458823529411763,
+		"NL_MATTR": 0.62,
+		"NN_MATTR": 0.5869565217391305,
+		"NNG_MATTR": 0.6060606060606061,
+		"NNP_MATTR": 1.0,
+		"NNB_MATTR": 0.5833333333333334,
+		"NP_MATTR": 1.0,
+		"NR_MATTR": 1.0,
+		"VL_MATTR": 0.6666666666666666,
+		"VV_MATTR": 0.8181818181818182,
+		"VA_MATTR": 0.6363636363636364,
+		"ML_MATTR": 1.0,
+		"MM_MATTR": 0,
+		"MA_MATTR": 1.0,
+		"MAJ_MATTR": 0,
+		"IC_MATTR": 0,
+		"FL_MATTR": 0.4657142857142858,
+		"J_MATTR": 0.3548387096774194,
+		"E_MATTR": 0.53125,
+		"X_MATTR": 0,
+		"lemma_MTLD": 43.22126436781609,
+		"CL_MTLD": 31.660248548769516,
+		"NL_MTLD": 15.427302996670367,
+		"NN_MTLD": 15.333333333333334,
+		"NNG_MTLD": 13.421641791044776,
+		"NNP_MTLD": 0.0,
+		"NNB_MTLD": 8.153846153846153,
+		"NP_MTLD": 0.0,
+		"NR_MTLD": 0.0,
+		"VL_MTLD": 14.772354388843315,
+		"VV_MTLD": 16.940000000000005,
+		"VA_MTLD": 11.0,
+		"ML_MTLD": 0.0,
+		"MM_MTLD": 0.0,
+		"MA_MTLD": 0.0,
+		"MAJ_MTLD": 0.0,
+		"IC_MTLD": 0.0,
+		"FL_MTLD": 15.75,
+		"J_MTLD": 9.487463126843657,
+		"E_MTLD": 10.545789570665193,
+		"X_MTLD": 0.0,
+		"lemma_VOCDD": 59.415919463522705,
+		"CL_VOCDD": 58.01168286322946,
+		"NL_VOCDD": 0,
+		"NN_VOCDD": 0,
+		"NNG_VOCDD": 0,
+		"NNP_VOCDD": 0,
+		"NNB_VOCDD": 0,
+		"NP_VOCDD": 0,
+		"NR_VOCDD": 0,
+		"VL_VOCDD": 0,
+		"VV_VOCDD": 0,
+		"VA_VOCDD": 0,
+		"ML_VOCDD": 0,
+		"MM_VOCDD": 0,
+		"MA_VOCDD": 0,
+		"MAJ_VOCDD": 0,
+		"IC_VOCDD": 0,
+		"FL_VOCDD": 9.738103752236613,
+		"J_VOCDD": 0,
+		"E_VOCDD": 0,
+		"X_VOCDD": 0,
+		"lemma_HDD": 0.7825486978142266,
+		"CL_HDD": 0.7803346531931764,
+		"NL_HDD": 0.6616862063974526,
+		"NN_HDD": 0.6108159450929925,
+		"NNG_HDD": 0.0,
+		"NNP_HDD": 0.0,
+		"NNB_HDD": 0.0,
+		"NP_HDD": 0.0,
+		"NR_HDD": 0.0,
+		"VL_HDD": 0.0,
+		"VV_HDD": 0.0,
+		"VA_HDD": 0.0,
+		"ML_HDD": 0.0,
+		"MM_HDD": 0.0,
+		"MA_HDD": 0.0,
+		"MAJ_HDD": 0.0,
+		"IC_HDD": 0.0,
+		"FL_HDD": 0.4873488496761987,
+		"J_HDD": 0.0,
+		"E_HDD": 0.0,
+		"X_HDD": 0.0
+	},
+	"similarity": {
+		"avgSentSimilarity": 0.22648943960666656,
+		"topicConsistency": 0.4805
+	},
+	"adjacency": {
+		"adjacent_sentence_overlap_all_lemmas": 89,
+		"adjacent_sentence_overlap_all_lemmas_normed": 6,
+		"binary_adjacent_sentence_overlap_all_lemmas": 6,
+		"adjacent_two_sentence_overlap_all_lemmas": 61,
+		"adjacent_two_sentence_overlap_all_lemmas_normed": 5,
+		"binary_adjacent_two_sentence_overlap_all_lemmas": 5,
+		"adjacent_sentence_overlap_content_lemmas": 52,
+		"adjacent_sentence_overlap_content_lemmas_normed": 6,
+		"binary_adjacent_sentence_overlap_content_lemmas": 6,
+		"adjacent_two_sentence_overlap_content_lemmas": 39,
+		"adjacent_two_sentence_overlap_content_lemmas_normed": 5,
+		"binary_adjacent_two_sentence_overlap_content_lemmas": 4,
+		"adjacent_sentence_overlap_function_lemmas": 30,
+		"adjacent_sentence_overlap_function_lemmas_normed": 6,
+		"binary_adjacent_sentence_overlap_function_lemmas": 6,
+		"adjacent_two_sentence_overlap_function_lemmas": 16,
+		"adjacent_two_sentence_overlap_function_lemmas_normed": 5,
+		"binary_adjacent_two_sentence_overlap_function_lemmas": 5,
+		"adjacent_sentence_overlap_noun_lemmas": 36,
+		"adjacent_sentence_overlap_noun_lemmas_normed": 6,
+		"binary_adjacent_sentence_overlap_noun_lemmas": 6,
+		"adjacent_two_sentence_overlap_noun_lemmas": 30,
+		"adjacent_two_sentence_overlap_noun_lemmas_normed": 5,
+		"binary_adjacent_two_sentence_overlap_noun_lemmas": 2,
+		"adjacent_sentence_overlap_verb_lemmas": 15,
+		"adjacent_sentence_overlap_verb_lemmas_normed": 5,
+		"binary_adjacent_sentence_overlap_verb_lemmas": 5,
+		"adjacent_two_sentence_overlap_verb_lemmas": 9,
+		"adjacent_two_sentence_overlap_verb_lemmas_normed": 3,
+		"binary_adjacent_two_sentence_overlap_verb_lemmas": 3,
+		"adjacent_sentence_overlap_adjective_lemmas": 8,
+		"adjacent_sentence_overlap_adjective_lemmas_normed": 4,
+		"binary_adjacent_sentence_overlap_adjective_lemmas": 1,
+		"adjacent_two_sentence_overlap_adjective_lemmas": 7,
+		"adjacent_two_sentence_overlap_adjective_lemmas_normed": 3,
+		"binary_adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_sentence_overlap_adverb_lemmas": 1,
+		"adjacent_sentence_overlap_adverb_lemmas_normed": 1,
+		"binary_adjacent_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adverb_lemmas": 0
+	},
+	"basic_count": {
+		"para_Cnt": 1,
+		"sentence_Cnt": 7,
+		"word_Cnt": 79,
+		"morph_Cnt": 169,
+		"char_Cnt": 245,
+		"CL_Cnt": 83,
+		"NL_Cnt": 50,
+		"NN_Cnt": 46,
+		"NNG_Cnt": 33,
+		"NNP_Cnt": 1,
+		"NNB_Cnt": 12,
+		"NP_Cnt": 2,
+		"NP_People_Cnt": 1,
+		"NP_Things_Cnt": 1,
+		"NR_Cnt": 2,
+		"VL_Cnt": 30,
+		"VV_Cnt": 11,
+		"VA_Cnt": 11,
+		"VX_Cnt": 2,
+		"VCP_Cnt": 5,
+		"VCN_Cnt": 1,
+		"ML_Cnt": 3,
+		"MA_Cnt": 0,
+		"MM_Cnt": 0,
+		"FL_Cnt": 63,
+		"J_Cnt": 31,
+		"E_Cnt": 32,
+		"X_Cnt": 0,
+		"IC_Cnt": 0
+	},
+	"basic_density": {
+		"CL_Den": 0.4911242603550296,
+		"FL_Den": 0.3727810650887574,
+		"NL_Den": 0.27218934911242604,
+		"NNGL_Den": 0.1952662721893491,
+		"NNPL_Den": 0.005917159763313609,
+		"NNBL_Den": 0.07100591715976332,
+		"NPL_Den": 0.011834319526627219,
+		"NML_Den": 0.011834319526627219,
+		"VL_Den": 0.17751479289940827,
+		"VVL_Den": 0.0650887573964497,
+		"VAL_Den": 0.0650887573964497,
+		"ML_Den": 0.01775147928994083,
+		"MML_Den": 0.0,
+		"MAL_Den": 0.0,
+		"JL_Den": 0.1834319526627219,
+		"EL_Den": 0.1893491124260355,
+		"XL_Den": 0.0,
+		"ITL_Den": 0.0,
+		"NCL_Den": 0.5542168674698795,
+		"NNCL_Den": 0.39759036144578314,
+		"NNGCL_Den": 0.012048192771084338,
+		"NNBCL_Den": 0.14457831325301204,
+		"NPCL_Den": 0.024096385542168676,
+		"NMCL_Den": 0.024096385542168676,
+		"VCL_Den": 0.3614457831325301,
+		"VVCL_Den": 0.13253012048192772,
+		"VACL_Den": 0.13253012048192772,
+		"MCL_Den": 0.03614457831325301,
+		"MMCL_Den": 0.0,
+		"MACL_Den": 0.0,
+		"INCL_Den": 0.0,
+		"JFL_Den": 0.49206349206349204,
+		"EFL_Den": 0.5079365079365079,
+		"XFL_Den": 0.0
+	},
+	"basic_level": {
+		"morph_LenAvg": 1.544378698224852,
+		"morph_LenStd": 0.7611776914028869,
+		"word_LenAvg": 2.9367088607594938,
+		"word_LenStd": 1.6330585744678623
+	},
+	"basic_list": {
+		"NL_Lst": [
+			[
+				0,
+				"억",
+				"NR",
+				"약 137억 년 전에 하나의 점이 폭발합니다."
+			],
+			[
+				1,
+				"년",
+				"NNB",
+				"약 137억 년 전에 하나의 점이 폭발합니다."
+			],
+			[
+				2,
+				"전",
+				"NNG",
+				"약 137억 년 전에 하나의 점이 폭발합니다."
+			],
+			[
+				3,
+				"하나",
+				"NR",
+				"약 137억 년 전에 하나의 점이 폭발합니다."
+			],
+			[
+				4,
+				"점",
+				"NNG",
+				"약 137억 년 전에 하나의 점이 폭발합니다."
+			],
+			[
+				5,
+				"점",
+				"NNB",
+				"이 점의 폭발(빅뱅)이 우주의 시작인 것입니다."
+			],
+			[
+				6,
+				"폭발",
+				"NNG",
+				"이 점의 폭발(빅뱅)이 우주의 시작인 것입니다."
+			],
+			[
+				7,
+				"빅뱅",
+				"NNG",
+				"이 점의 폭발(빅뱅)이 우주의 시작인 것입니다."
+			],
+			[
+				8,
+				"우주",
+				"NNG",
+				"이 점의 폭발(빅뱅)이 우주의 시작인 것입니다."
+			],
+			[
+				9,
+				"시작인",
+				"NNG",
+				"이 점의 폭발(빅뱅)이 우주의 시작인 것입니다."
+			],
+			[
+				10,
+				"것",
+				"NNB",
+				"이 점의 폭발(빅뱅)이 우주의 시작인 것입니다."
+			],
+			[
+				11,
+				"빅뱅",
+				"NNG",
+				"빅뱅이 시작된 후 10-32초. 상상할 수도 없을 만큼 짧은 시간이지만 우주 탄생에서는 가장 중요한 시간입니다."
+			],
+			[
+				12,
+				"후",
+				"NNG",
+				"빅뱅이 시작된 후 10-32초. 상상할 수도 없을 만큼 짧은 시간이지만 우주 탄생에서는 가장 중요한 시간입니다."
+			],
+			[
+				13,
+				"초",
+				"NNB",
+				"빅뱅이 시작된 후 10-32초. 상상할 수도 없을 만큼 짧은 시간이지만 우주 탄생에서는 가장 중요한 시간입니다."
+			],
+			[
+				14,
+				"수",
+				"NNB",
+				"빅뱅이 시작된 후 10-32초. 상상할 수도 없을 만큼 짧은 시간이지만 우주 탄생에서는 가장 중요한 시간입니다."
+			],
+			[
+				15,
+				"만큼",
+				"NNB",
+				"빅뱅이 시작된 후 10-32초. 상상할 수도 없을 만큼 짧은 시간이지만 우주 탄생에서는 가장 중요한 시간입니다."
+			],
+			[
+				16,
+				"시간",
+				"NNG",
+				"빅뱅이 시작된 후 10-32초. 상상할 수도 없을 만큼 짧은 시간이지만 우주 탄생에서는 가장 중요한 시간입니다."
+			],
+			[
+				17,
+				"우주",
+				"NNG",
+				"빅뱅이 시작된 후 10-32초. 상상할 수도 없을 만큼 짧은 시간이지만 우주 탄생에서는 가장 중요한 시간입니다."
+			],
+			[
+				18,
+				"탄생",
+				"NNG",
+				"빅뱅이 시작된 후 10-32초. 상상할 수도 없을 만큼 짧은 시간이지만 우주 탄생에서는 가장 중요한 시간입니다."
+			],
+			[
+				19,
+				"시간",
+				"NNG",
+				"빅뱅이 시작된 후 10-32초. 상상할 수도 없을 만큼 짧은 시간이지만 우주 탄생에서는 가장 중요한 시간입니다."
+			],
+			[
+				20,
+				"시간",
+				"NNG",
+				"이 시간동안 폭발 당시의 에너지는 현재 우주의 절반 정도의 공간을 만들면서 급격하게 퍼져 나갑니다."
+			],
+			[
+				21,
+				"동안",
+				"NNG",
+				"이 시간동안 폭발 당시의 에너지는 현재 우주의 절반 정도의 공간을 만들면서 급격하게 퍼져 나갑니다."
+			],
+			[
+				22,
+				"폭발",
+				"NNG",
+				"이 시간동안 폭발 당시의 에너지는 현재 우주의 절반 정도의 공간을 만들면서 급격하게 퍼져 나갑니다."
+			],
+			[
+				23,
+				"당시",
+				"NNG",
+				"이 시간동안 폭발 당시의 에너지는 현재 우주의 절반 정도의 공간을 만들면서 급격하게 퍼져 나갑니다."
+			],
+			[
+				24,
+				"에너지",
+				"NNG",
+				"이 시간동안 폭발 당시의 에너지는 현재 우주의 절반 정도의 공간을 만들면서 급격하게 퍼져 나갑니다."
+			],
+			[
+				25,
+				"우주",
+				"NNG",
+				"이 시간동안 폭발 당시의 에너지는 현재 우주의 절반 정도의 공간을 만들면서 급격하게 퍼져 나갑니다."
+			],
+			[
+				26,
+				"절반",
+				"NNG",
+				"이 시간동안 폭발 당시의 에너지는 현재 우주의 절반 정도의 공간을 만들면서 급격하게 퍼져 나갑니다."
+			],
+			[
+				27,
+				"정도",
+				"NNG",
+				"이 시간동안 폭발 당시의 에너지는 현재 우주의 절반 정도의 공간을 만들면서 급격하게 퍼져 나갑니다."
+			],
+			[
+				28,
+				"공간",
+				"NNG",
+				"이 시간동안 폭발 당시의 에너지는 현재 우주의 절반 정도의 공간을 만들면서 급격하게 퍼져 나갑니다."
+			],
+			[
+				29,
+				"여기",
+				"NP",
+				"여기서 신기한 것은 처음에 만들어진 공간 안에 우리가 생각하는 물질이 없었다는 것입니다."
+			],
+			[
+				30,
+				"것",
+				"NNB",
+				"여기서 신기한 것은 처음에 만들어진 공간 안에 우리가 생각하는 물질이 없었다는 것입니다."
+			],
+			[
+				31,
+				"처음",
+				"NNG",
+				"여기서 신기한 것은 처음에 만들어진 공간 안에 우리가 생각하는 물질이 없었다는 것입니다."
+			],
+			[
+				32,
+				"공간",
+				"NNG",
+				"여기서 신기한 것은 처음에 만들어진 공간 안에 우리가 생각하는 물질이 없었다는 것입니다."
+			],
+			[
+				33,
+				"안",
+				"NNG",
+				"여기서 신기한 것은 처음에 만들어진 공간 안에 우리가 생각하는 물질이 없었다는 것입니다."
+			],
+			[
+				34,
+				"우리",
+				"NP",
+				"여기서 신기한 것은 처음에 만들어진 공간 안에 우리가 생각하는 물질이 없었다는 것입니다."
+			],
+			[
+				35,
+				"물질",
+				"NNG",
+				"여기서 신기한 것은 처음에 만들어진 공간 안에 우리가 생각하는 물질이 없었다는 것입니다."
+			],
+			[
+				36,
+				"것",
+				"NNB",
+				"여기서 신기한 것은 처음에 만들어진 공간 안에 우리가 생각하는 물질이 없었다는 것입니다."
+			],
+			[
+				37,
+				"처음",
+				"NNG",
+				"처음에는 물질이 아닌 복사 에너지만 있었습니다."
+			],
+			[
+				38,
+				"물질",
+				"NNG",
+				"처음에는 물질이 아닌 복사 에너지만 있었습니다."
+			],
+			[
+				39,
+				"복사",
+				"NNG",
+				"처음에는 물질이 아닌 복사 에너지만 있었습니다."
+			],
+			[
+				40,
+				"에너지",
+				"NNG",
+				"처음에는 물질이 아닌 복사 에너지만 있었습니다."
+			],
+			[
+				41,
+				"아인슈타인",
+				"NNP",
+				"유명한 아인슈타인의E=mc2이라는 식을 보면 에너지가 질량이 될 수 있고, 또 질량이 에너지가 될 수 있다 라고 해석할 수 있습니다."
+			],
+			[
+				42,
+				"식",
+				"NNB",
+				"유명한 아인슈타인의E=mc2이라는 식을 보면 에너지가 질량이 될 수 있고, 또 질량이 에너지가 될 수 있다 라고 해석할 수 있습니다."
+			],
+			[
+				43,
+				"에너지",
+				"NNG",
+				"유명한 아인슈타인의E=mc2이라는 식을 보면 에너지가 질량이 될 수 있고, 또 질량이 에너지가 될 수 있다 라고 해석할 수 있습니다."
+			],
+			[
+				44,
+				"질량",
+				"NNG",
+				"유명한 아인슈타인의E=mc2이라는 식을 보면 에너지가 질량이 될 수 있고, 또 질량이 에너지가 될 수 있다 라고 해석할 수 있습니다."
+			],
+			[
+				45,
+				"수",
+				"NNB",
+				"유명한 아인슈타인의E=mc2이라는 식을 보면 에너지가 질량이 될 수 있고, 또 질량이 에너지가 될 수 있다 라고 해석할 수 있습니다."
+			],
+			[
+				46,
+				"질량",
+				"NNG",
+				"유명한 아인슈타인의E=mc2이라는 식을 보면 에너지가 질량이 될 수 있고, 또 질량이 에너지가 될 수 있다 라고 해석할 수 있습니다."
+			],
+			[
+				47,
+				"에너지",
+				"NNG",
+				"유명한 아인슈타인의E=mc2이라는 식을 보면 에너지가 질량이 될 수 있고, 또 질량이 에너지가 될 수 있다 라고 해석할 수 있습니다."
+			],
+			[
+				48,
+				"수",
+				"NNB",
+				"유명한 아인슈타인의E=mc2이라는 식을 보면 에너지가 질량이 될 수 있고, 또 질량이 에너지가 될 수 있다 라고 해석할 수 있습니다."
+			],
+			[
+				49,
+				"수",
+				"NNB",
+				"유명한 아인슈타인의E=mc2이라는 식을 보면 에너지가 질량이 될 수 있고, 또 질량이 에너지가 될 수 있다 라고 해석할 수 있습니다."
+			]
+		],
+		"NN_Lst": [
+			[
+				0,
+				"년",
+				"NNB",
+				"약 137억 년 전에 하나의 점이 폭발합니다."
+			],
+			[
+				1,
+				"전",
+				"NNG",
+				"약 137억 년 전에 하나의 점이 폭발합니다."
+			],
+			[
+				2,
+				"점",
+				"NNG",
+				"약 137억 년 전에 하나의 점이 폭발합니다."
+			],
+			[
+				3,
+				"점",
+				"NNB",
+				"이 점의 폭발(빅뱅)이 우주의 시작인 것입니다."
+			],
+			[
+				4,
+				"폭발",
+				"NNG",
+				"이 점의 폭발(빅뱅)이 우주의 시작인 것입니다."
+			],
+			[
+				5,
+				"빅뱅",
+				"NNG",
+				"이 점의 폭발(빅뱅)이 우주의 시작인 것입니다."
+			],
+			[
+				6,
+				"우주",
+				"NNG",
+				"이 점의 폭발(빅뱅)이 우주의 시작인 것입니다."
+			],
+			[
+				7,
+				"시작인",
+				"NNG",
+				"이 점의 폭발(빅뱅)이 우주의 시작인 것입니다."
+			],
+			[
+				8,
+				"것",
+				"NNB",
+				"이 점의 폭발(빅뱅)이 우주의 시작인 것입니다."
+			],
+			[
+				9,
+				"빅뱅",
+				"NNG",
+				"빅뱅이 시작된 후 10-32초. 상상할 수도 없을 만큼 짧은 시간이지만 우주 탄생에서는 가장 중요한 시간입니다."
+			],
+			[
+				10,
+				"후",
+				"NNG",
+				"빅뱅이 시작된 후 10-32초. 상상할 수도 없을 만큼 짧은 시간이지만 우주 탄생에서는 가장 중요한 시간입니다."
+			],
+			[
+				11,
+				"초",
+				"NNB",
+				"빅뱅이 시작된 후 10-32초. 상상할 수도 없을 만큼 짧은 시간이지만 우주 탄생에서는 가장 중요한 시간입니다."
+			],
+			[
+				12,
+				"수",
+				"NNB",
+				"빅뱅이 시작된 후 10-32초. 상상할 수도 없을 만큼 짧은 시간이지만 우주 탄생에서는 가장 중요한 시간입니다."
+			],
+			[
+				13,
+				"만큼",
+				"NNB",
+				"빅뱅이 시작된 후 10-32초. 상상할 수도 없을 만큼 짧은 시간이지만 우주 탄생에서는 가장 중요한 시간입니다."
+			],
+			[
+				14,
+				"시간",
+				"NNG",
+				"빅뱅이 시작된 후 10-32초. 상상할 수도 없을 만큼 짧은 시간이지만 우주 탄생에서는 가장 중요한 시간입니다."
+			],
+			[
+				15,
+				"우주",
+				"NNG",
+				"빅뱅이 시작된 후 10-32초. 상상할 수도 없을 만큼 짧은 시간이지만 우주 탄생에서는 가장 중요한 시간입니다."
+			],
+			[
+				16,
+				"탄생",
+				"NNG",
+				"빅뱅이 시작된 후 10-32초. 상상할 수도 없을 만큼 짧은 시간이지만 우주 탄생에서는 가장 중요한 시간입니다."
+			],
+			[
+				17,
+				"시간",
+				"NNG",
+				"빅뱅이 시작된 후 10-32초. 상상할 수도 없을 만큼 짧은 시간이지만 우주 탄생에서는 가장 중요한 시간입니다."
+			],
+			[
+				18,
+				"시간",
+				"NNG",
+				"이 시간동안 폭발 당시의 에너지는 현재 우주의 절반 정도의 공간을 만들면서 급격하게 퍼져 나갑니다."
+			],
+			[
+				19,
+				"동안",
+				"NNG",
+				"이 시간동안 폭발 당시의 에너지는 현재 우주의 절반 정도의 공간을 만들면서 급격하게 퍼져 나갑니다."
+			],
+			[
+				20,
+				"폭발",
+				"NNG",
+				"이 시간동안 폭발 당시의 에너지는 현재 우주의 절반 정도의 공간을 만들면서 급격하게 퍼져 나갑니다."
+			],
+			[
+				21,
+				"당시",
+				"NNG",
+				"이 시간동안 폭발 당시의 에너지는 현재 우주의 절반 정도의 공간을 만들면서 급격하게 퍼져 나갑니다."
+			],
+			[
+				22,
+				"에너지",
+				"NNG",
+				"이 시간동안 폭발 당시의 에너지는 현재 우주의 절반 정도의 공간을 만들면서 급격하게 퍼져 나갑니다."
+			],
+			[
+				23,
+				"우주",
+				"NNG",
+				"이 시간동안 폭발 당시의 에너지는 현재 우주의 절반 정도의 공간을 만들면서 급격하게 퍼져 나갑니다."
+			],
+			[
+				24,
+				"절반",
+				"NNG",
+				"이 시간동안 폭발 당시의 에너지는 현재 우주의 절반 정도의 공간을 만들면서 급격하게 퍼져 나갑니다."
+			],
+			[
+				25,
+				"정도",
+				"NNG",
+				"이 시간동안 폭발 당시의 에너지는 현재 우주의 절반 정도의 공간을 만들면서 급격하게 퍼져 나갑니다."
+			],
+			[
+				26,
+				"공간",
+				"NNG",
+				"이 시간동안 폭발 당시의 에너지는 현재 우주의 절반 정도의 공간을 만들면서 급격하게 퍼져 나갑니다."
+			],
+			[
+				27,
+				"것",
+				"NNB",
+				"여기서 신기한 것은 처음에 만들어진 공간 안에 우리가 생각하는 물질이 없었다는 것입니다."
+			],
+			[
+				28,
+				"처음",
+				"NNG",
+				"여기서 신기한 것은 처음에 만들어진 공간 안에 우리가 생각하는 물질이 없었다는 것입니다."
+			],
+			[
+				29,
+				"공간",
+				"NNG",
+				"여기서 신기한 것은 처음에 만들어진 공간 안에 우리가 생각하는 물질이 없었다는 것입니다."
+			],
+			[
+				30,
+				"안",
+				"NNG",
+				"여기서 신기한 것은 처음에 만들어진 공간 안에 우리가 생각하는 물질이 없었다는 것입니다."
+			],
+			[
+				31,
+				"물질",
+				"NNG",
+				"여기서 신기한 것은 처음에 만들어진 공간 안에 우리가 생각하는 물질이 없었다는 것입니다."
+			],
+			[
+				32,
+				"것",
+				"NNB",
+				"여기서 신기한 것은 처음에 만들어진 공간 안에 우리가 생각하는 물질이 없었다는 것입니다."
+			],
+			[
+				33,
+				"처음",
+				"NNG",
+				"처음에는 물질이 아닌 복사 에너지만 있었습니다."
+			],
+			[
+				34,
+				"물질",
+				"NNG",
+				"처음에는 물질이 아닌 복사 에너지만 있었습니다."
+			],
+			[
+				35,
+				"복사",
+				"NNG",
+				"처음에는 물질이 아닌 복사 에너지만 있었습니다."
+			],
+			[
+				36,
+				"에너지",
+				"NNG",
+				"처음에는 물질이 아닌 복사 에너지만 있었습니다."
+			],
+			[
+				37,
+				"아인슈타인",
+				"NNP",
+				"유명한 아인슈타인의E=mc2이라는 식을 보면 에너지가 질량이 될 수 있고, 또 질량이 에너지가 될 수 있다 라고 해석할 수 있습니다."
+			],
+			[
+				38,
+				"식",
+				"NNB",
+				"유명한 아인슈타인의E=mc2이라는 식을 보면 에너지가 질량이 될 수 있고, 또 질량이 에너지가 될 수 있다 라고 해석할 수 있습니다."
+			],
+			[
+				39,
+				"에너지",
+				"NNG",
+				"유명한 아인슈타인의E=mc2이라는 식을 보면 에너지가 질량이 될 수 있고, 또 질량이 에너지가 될 수 있다 라고 해석할 수 있습니다."
+			],
+			[
+				40,
+				"질량",
+				"NNG",
+				"유명한 아인슈타인의E=mc2이라는 식을 보면 에너지가 질량이 될 수 있고, 또 질량이 에너지가 될 수 있다 라고 해석할 수 있습니다."
+			],
+			[
+				41,
+				"수",
+				"NNB",
+				"유명한 아인슈타인의E=mc2이라는 식을 보면 에너지가 질량이 될 수 있고, 또 질량이 에너지가 될 수 있다 라고 해석할 수 있습니다."
+			],
+			[
+				42,
+				"질량",
+				"NNG",
+				"유명한 아인슈타인의E=mc2이라는 식을 보면 에너지가 질량이 될 수 있고, 또 질량이 에너지가 될 수 있다 라고 해석할 수 있습니다."
+			],
+			[
+				43,
+				"에너지",
+				"NNG",
+				"유명한 아인슈타인의E=mc2이라는 식을 보면 에너지가 질량이 될 수 있고, 또 질량이 에너지가 될 수 있다 라고 해석할 수 있습니다."
+			],
+			[
+				44,
+				"수",
+				"NNB",
+				"유명한 아인슈타인의E=mc2이라는 식을 보면 에너지가 질량이 될 수 있고, 또 질량이 에너지가 될 수 있다 라고 해석할 수 있습니다."
+			],
+			[
+				45,
+				"수",
+				"NNB",
+				"유명한 아인슈타인의E=mc2이라는 식을 보면 에너지가 질량이 될 수 있고, 또 질량이 에너지가 될 수 있다 라고 해석할 수 있습니다."
+			]
+		],
+		"NNG_Lst": [
+			[
+				0,
+				"전",
+				"NNG",
+				"약 137억 년 전에 하나의 점이 폭발합니다."
+			],
+			[
+				1,
+				"점",
+				"NNG",
+				"약 137억 년 전에 하나의 점이 폭발합니다."
+			],
+			[
+				2,
+				"폭발",
+				"NNG",
+				"이 점의 폭발(빅뱅)이 우주의 시작인 것입니다."
+			],
+			[
+				3,
+				"빅뱅",
+				"NNG",
+				"이 점의 폭발(빅뱅)이 우주의 시작인 것입니다."
+			],
+			[
+				4,
+				"우주",
+				"NNG",
+				"이 점의 폭발(빅뱅)이 우주의 시작인 것입니다."
+			],
+			[
+				5,
+				"시작인",
+				"NNG",
+				"이 점의 폭발(빅뱅)이 우주의 시작인 것입니다."
+			],
+			[
+				6,
+				"빅뱅",
+				"NNG",
+				"빅뱅이 시작된 후 10-32초. 상상할 수도 없을 만큼 짧은 시간이지만 우주 탄생에서는 가장 중요한 시간입니다."
+			],
+			[
+				7,
+				"후",
+				"NNG",
+				"빅뱅이 시작된 후 10-32초. 상상할 수도 없을 만큼 짧은 시간이지만 우주 탄생에서는 가장 중요한 시간입니다."
+			],
+			[
+				8,
+				"시간",
+				"NNG",
+				"빅뱅이 시작된 후 10-32초. 상상할 수도 없을 만큼 짧은 시간이지만 우주 탄생에서는 가장 중요한 시간입니다."
+			],
+			[
+				9,
+				"우주",
+				"NNG",
+				"빅뱅이 시작된 후 10-32초. 상상할 수도 없을 만큼 짧은 시간이지만 우주 탄생에서는 가장 중요한 시간입니다."
+			],
+			[
+				10,
+				"탄생",
+				"NNG",
+				"빅뱅이 시작된 후 10-32초. 상상할 수도 없을 만큼 짧은 시간이지만 우주 탄생에서는 가장 중요한 시간입니다."
+			],
+			[
+				11,
+				"시간",
+				"NNG",
+				"빅뱅이 시작된 후 10-32초. 상상할 수도 없을 만큼 짧은 시간이지만 우주 탄생에서는 가장 중요한 시간입니다."
+			],
+			[
+				12,
+				"시간",
+				"NNG",
+				"이 시간동안 폭발 당시의 에너지는 현재 우주의 절반 정도의 공간을 만들면서 급격하게 퍼져 나갑니다."
+			],
+			[
+				13,
+				"동안",
+				"NNG",
+				"이 시간동안 폭발 당시의 에너지는 현재 우주의 절반 정도의 공간을 만들면서 급격하게 퍼져 나갑니다."
+			],
+			[
+				14,
+				"폭발",
+				"NNG",
+				"이 시간동안 폭발 당시의 에너지는 현재 우주의 절반 정도의 공간을 만들면서 급격하게 퍼져 나갑니다."
+			],
+			[
+				15,
+				"당시",
+				"NNG",
+				"이 시간동안 폭발 당시의 에너지는 현재 우주의 절반 정도의 공간을 만들면서 급격하게 퍼져 나갑니다."
+			],
+			[
+				16,
+				"에너지",
+				"NNG",
+				"이 시간동안 폭발 당시의 에너지는 현재 우주의 절반 정도의 공간을 만들면서 급격하게 퍼져 나갑니다."
+			],
+			[
+				17,
+				"우주",
+				"NNG",
+				"이 시간동안 폭발 당시의 에너지는 현재 우주의 절반 정도의 공간을 만들면서 급격하게 퍼져 나갑니다."
+			],
+			[
+				18,
+				"절반",
+				"NNG",
+				"이 시간동안 폭발 당시의 에너지는 현재 우주의 절반 정도의 공간을 만들면서 급격하게 퍼져 나갑니다."
+			],
+			[
+				19,
+				"정도",
+				"NNG",
+				"이 시간동안 폭발 당시의 에너지는 현재 우주의 절반 정도의 공간을 만들면서 급격하게 퍼져 나갑니다."
+			],
+			[
+				20,
+				"공간",
+				"NNG",
+				"이 시간동안 폭발 당시의 에너지는 현재 우주의 절반 정도의 공간을 만들면서 급격하게 퍼져 나갑니다."
+			],
+			[
+				21,
+				"처음",
+				"NNG",
+				"여기서 신기한 것은 처음에 만들어진 공간 안에 우리가 생각하는 물질이 없었다는 것입니다."
+			],
+			[
+				22,
+				"공간",
+				"NNG",
+				"여기서 신기한 것은 처음에 만들어진 공간 안에 우리가 생각하는 물질이 없었다는 것입니다."
+			],
+			[
+				23,
+				"안",
+				"NNG",
+				"여기서 신기한 것은 처음에 만들어진 공간 안에 우리가 생각하는 물질이 없었다는 것입니다."
+			],
+			[
+				24,
+				"물질",
+				"NNG",
+				"여기서 신기한 것은 처음에 만들어진 공간 안에 우리가 생각하는 물질이 없었다는 것입니다."
+			],
+			[
+				25,
+				"처음",
+				"NNG",
+				"처음에는 물질이 아닌 복사 에너지만 있었습니다."
+			],
+			[
+				26,
+				"물질",
+				"NNG",
+				"처음에는 물질이 아닌 복사 에너지만 있었습니다."
+			],
+			[
+				27,
+				"복사",
+				"NNG",
+				"처음에는 물질이 아닌 복사 에너지만 있었습니다."
+			],
+			[
+				28,
+				"에너지",
+				"NNG",
+				"처음에는 물질이 아닌 복사 에너지만 있었습니다."
+			],
+			[
+				29,
+				"에너지",
+				"NNG",
+				"유명한 아인슈타인의E=mc2이라는 식을 보면 에너지가 질량이 될 수 있고, 또 질량이 에너지가 될 수 있다 라고 해석할 수 있습니다."
+			],
+			[
+				30,
+				"질량",
+				"NNG",
+				"유명한 아인슈타인의E=mc2이라는 식을 보면 에너지가 질량이 될 수 있고, 또 질량이 에너지가 될 수 있다 라고 해석할 수 있습니다."
+			],
+			[
+				31,
+				"질량",
+				"NNG",
+				"유명한 아인슈타인의E=mc2이라는 식을 보면 에너지가 질량이 될 수 있고, 또 질량이 에너지가 될 수 있다 라고 해석할 수 있습니다."
+			],
+			[
+				32,
+				"에너지",
+				"NNG",
+				"유명한 아인슈타인의E=mc2이라는 식을 보면 에너지가 질량이 될 수 있고, 또 질량이 에너지가 될 수 있다 라고 해석할 수 있습니다."
+			]
+		],
+		"NNP_Lst": [
+			[
+				0,
+				"아인슈타인",
+				"NNP",
+				"유명한 아인슈타인의E=mc2이라는 식을 보면 에너지가 질량이 될 수 있고, 또 질량이 에너지가 될 수 있다 라고 해석할 수 있습니다."
+			]
+		],
+		"NNB_Lst": [
+			[
+				0,
+				"년",
+				"NNB",
+				"약 137억 년 전에 하나의 점이 폭발합니다."
+			],
+			[
+				1,
+				"점",
+				"NNB",
+				"이 점의 폭발(빅뱅)이 우주의 시작인 것입니다."
+			],
+			[
+				2,
+				"것",
+				"NNB",
+				"이 점의 폭발(빅뱅)이 우주의 시작인 것입니다."
+			],
+			[
+				3,
+				"초",
+				"NNB",
+				"빅뱅이 시작된 후 10-32초. 상상할 수도 없을 만큼 짧은 시간이지만 우주 탄생에서는 가장 중요한 시간입니다."
+			],
+			[
+				4,
+				"수",
+				"NNB",
+				"빅뱅이 시작된 후 10-32초. 상상할 수도 없을 만큼 짧은 시간이지만 우주 탄생에서는 가장 중요한 시간입니다."
+			],
+			[
+				5,
+				"만큼",
+				"NNB",
+				"빅뱅이 시작된 후 10-32초. 상상할 수도 없을 만큼 짧은 시간이지만 우주 탄생에서는 가장 중요한 시간입니다."
+			],
+			[
+				6,
+				"것",
+				"NNB",
+				"여기서 신기한 것은 처음에 만들어진 공간 안에 우리가 생각하는 물질이 없었다는 것입니다."
+			],
+			[
+				7,
+				"것",
+				"NNB",
+				"여기서 신기한 것은 처음에 만들어진 공간 안에 우리가 생각하는 물질이 없었다는 것입니다."
+			],
+			[
+				8,
+				"식",
+				"NNB",
+				"유명한 아인슈타인의E=mc2이라는 식을 보면 에너지가 질량이 될 수 있고, 또 질량이 에너지가 될 수 있다 라고 해석할 수 있습니다."
+			],
+			[
+				9,
+				"수",
+				"NNB",
+				"유명한 아인슈타인의E=mc2이라는 식을 보면 에너지가 질량이 될 수 있고, 또 질량이 에너지가 될 수 있다 라고 해석할 수 있습니다."
+			],
+			[
+				10,
+				"수",
+				"NNB",
+				"유명한 아인슈타인의E=mc2이라는 식을 보면 에너지가 질량이 될 수 있고, 또 질량이 에너지가 될 수 있다 라고 해석할 수 있습니다."
+			],
+			[
+				11,
+				"수",
+				"NNB",
+				"유명한 아인슈타인의E=mc2이라는 식을 보면 에너지가 질량이 될 수 있고, 또 질량이 에너지가 될 수 있다 라고 해석할 수 있습니다."
+			]
+		],
+		"NP_Lst": [
+			[
+				0,
+				"여기",
+				"NP",
+				"여기서 신기한 것은 처음에 만들어진 공간 안에 우리가 생각하는 물질이 없었다는 것입니다."
+			],
+			[
+				1,
+				"우리",
+				"NP",
+				"여기서 신기한 것은 처음에 만들어진 공간 안에 우리가 생각하는 물질이 없었다는 것입니다."
+			]
+		],
+		"NP_People_Lst": [
+			[
+				0,
+				"우리",
+				"NP",
+				"여기서 신기한 것은 처음에 만들어진 공간 안에 우리가 생각하는 물질이 없었다는 것입니다."
+			]
+		],
+		"NP_Things_Lst": [
+			[
+				0,
+				"여기",
+				"NP",
+				"여기서 신기한 것은 처음에 만들어진 공간 안에 우리가 생각하는 물질이 없었다는 것입니다."
+			]
+		],
+		"NR_Lst": [
+			[
+				0,
+				"억",
+				"NR",
+				"약 137억 년 전에 하나의 점이 폭발합니다."
+			],
+			[
+				1,
+				"하나",
+				"NR",
+				"약 137억 년 전에 하나의 점이 폭발합니다."
+			]
+		],
+		"VL_Lst": [
+			[
+				0,
+				"폭발하",
+				"VV",
+				"약 137억 년 전에 하나의 점이 폭발합니다."
+			],
+			[
+				1,
+				"이",
+				"VCP",
+				"이 점의 폭발(빅뱅)이 우주의 시작인 것입니다."
+			],
+			[
+				2,
+				"시작되",
+				"VV",
+				"빅뱅이 시작된 후 10-32초. 상상할 수도 없을 만큼 짧은 시간이지만 우주 탄생에서는 가장 중요한 시간입니다."
+			],
+			[
+				3,
+				"상상하",
+				"VV",
+				"빅뱅이 시작된 후 10-32초. 상상할 수도 없을 만큼 짧은 시간이지만 우주 탄생에서는 가장 중요한 시간입니다."
+			],
+			[
+				4,
+				"없",
+				"VA",
+				"빅뱅이 시작된 후 10-32초. 상상할 수도 없을 만큼 짧은 시간이지만 우주 탄생에서는 가장 중요한 시간입니다."
+			],
+			[
+				5,
+				"짧",
+				"VA",
+				"빅뱅이 시작된 후 10-32초. 상상할 수도 없을 만큼 짧은 시간이지만 우주 탄생에서는 가장 중요한 시간입니다."
+			],
+			[
+				6,
+				"이",
+				"VCP",
+				"빅뱅이 시작된 후 10-32초. 상상할 수도 없을 만큼 짧은 시간이지만 우주 탄생에서는 가장 중요한 시간입니다."
+			],
+			[
+				7,
+				"중요하",
+				"VA",
+				"빅뱅이 시작된 후 10-32초. 상상할 수도 없을 만큼 짧은 시간이지만 우주 탄생에서는 가장 중요한 시간입니다."
+			],
+			[
+				8,
+				"이",
+				"VCP",
+				"빅뱅이 시작된 후 10-32초. 상상할 수도 없을 만큼 짧은 시간이지만 우주 탄생에서는 가장 중요한 시간입니다."
+			],
+			[
+				9,
+				"만들",
+				"VV",
+				"이 시간동안 폭발 당시의 에너지는 현재 우주의 절반 정도의 공간을 만들면서 급격하게 퍼져 나갑니다."
+			],
+			[
+				10,
+				"급격하",
+				"VA",
+				"이 시간동안 폭발 당시의 에너지는 현재 우주의 절반 정도의 공간을 만들면서 급격하게 퍼져 나갑니다."
+			],
+			[
+				11,
+				"퍼지",
+				"VV",
+				"이 시간동안 폭발 당시의 에너지는 현재 우주의 절반 정도의 공간을 만들면서 급격하게 퍼져 나갑니다."
+			],
+			[
+				12,
+				"나가",
+				"VX",
+				"이 시간동안 폭발 당시의 에너지는 현재 우주의 절반 정도의 공간을 만들면서 급격하게 퍼져 나갑니다."
+			],
+			[
+				13,
+				"신기하",
+				"VA",
+				"여기서 신기한 것은 처음에 만들어진 공간 안에 우리가 생각하는 물질이 없었다는 것입니다."
+			],
+			[
+				14,
+				"만들",
+				"VV",
+				"여기서 신기한 것은 처음에 만들어진 공간 안에 우리가 생각하는 물질이 없었다는 것입니다."
+			],
+			[
+				15,
+				"지",
+				"VX",
+				"여기서 신기한 것은 처음에 만들어진 공간 안에 우리가 생각하는 물질이 없었다는 것입니다."
+			],
+			[
+				16,
+				"생각하",
+				"VV",
+				"여기서 신기한 것은 처음에 만들어진 공간 안에 우리가 생각하는 물질이 없었다는 것입니다."
+			],
+			[
+				17,
+				"없",
+				"VA",
+				"여기서 신기한 것은 처음에 만들어진 공간 안에 우리가 생각하는 물질이 없었다는 것입니다."
+			],
+			[
+				18,
+				"이",
+				"VCP",
+				"여기서 신기한 것은 처음에 만들어진 공간 안에 우리가 생각하는 물질이 없었다는 것입니다."
+			],
+			[
+				19,
+				"아니",
+				"VCN",
+				"처음에는 물질이 아닌 복사 에너지만 있었습니다."
+			],
+			[
+				20,
+				"있",
+				"VA",
+				"처음에는 물질이 아닌 복사 에너지만 있었습니다."
+			],
+			[
+				21,
+				"유명하",
+				"VA",
+				"유명한 아인슈타인의E=mc2이라는 식을 보면 에너지가 질량이 될 수 있고, 또 질량이 에너지가 될 수 있다 라고 해석할 수 있습니다."
+			],
+			[
+				22,
+				"이",
+				"VCP",
+				"유명한 아인슈타인의E=mc2이라는 식을 보면 에너지가 질량이 될 수 있고, 또 질량이 에너지가 될 수 있다 라고 해석할 수 있습니다."
+			],
+			[
+				23,
+				"보",
+				"VV",
+				"유명한 아인슈타인의E=mc2이라는 식을 보면 에너지가 질량이 될 수 있고, 또 질량이 에너지가 될 수 있다 라고 해석할 수 있습니다."
+			],
+			[
+				24,
+				"되",
+				"VV",
+				"유명한 아인슈타인의E=mc2이라는 식을 보면 에너지가 질량이 될 수 있고, 또 질량이 에너지가 될 수 있다 라고 해석할 수 있습니다."
+			],
+			[
+				25,
+				"있",
+				"VA",
+				"유명한 아인슈타인의E=mc2이라는 식을 보면 에너지가 질량이 될 수 있고, 또 질량이 에너지가 될 수 있다 라고 해석할 수 있습니다."
+			],
+			[
+				26,
+				"되",
+				"VV",
+				"유명한 아인슈타인의E=mc2이라는 식을 보면 에너지가 질량이 될 수 있고, 또 질량이 에너지가 될 수 있다 라고 해석할 수 있습니다."
+			],
+			[
+				27,
+				"있",
+				"VA",
+				"유명한 아인슈타인의E=mc2이라는 식을 보면 에너지가 질량이 될 수 있고, 또 질량이 에너지가 될 수 있다 라고 해석할 수 있습니다."
+			],
+			[
+				28,
+				"해석하",
+				"VV",
+				"유명한 아인슈타인의E=mc2이라는 식을 보면 에너지가 질량이 될 수 있고, 또 질량이 에너지가 될 수 있다 라고 해석할 수 있습니다."
+			],
+			[
+				29,
+				"있",
+				"VA",
+				"유명한 아인슈타인의E=mc2이라는 식을 보면 에너지가 질량이 될 수 있고, 또 질량이 에너지가 될 수 있다 라고 해석할 수 있습니다."
+			]
+		],
+		"VV_Lst": [
+			[
+				0,
+				"폭발하",
+				"VV",
+				"약 137억 년 전에 하나의 점이 폭발합니다."
+			],
+			[
+				1,
+				"시작되",
+				"VV",
+				"빅뱅이 시작된 후 10-32초. 상상할 수도 없을 만큼 짧은 시간이지만 우주 탄생에서는 가장 중요한 시간입니다."
+			],
+			[
+				2,
+				"상상하",
+				"VV",
+				"빅뱅이 시작된 후 10-32초. 상상할 수도 없을 만큼 짧은 시간이지만 우주 탄생에서는 가장 중요한 시간입니다."
+			],
+			[
+				3,
+				"만들",
+				"VV",
+				"이 시간동안 폭발 당시의 에너지는 현재 우주의 절반 정도의 공간을 만들면서 급격하게 퍼져 나갑니다."
+			],
+			[
+				4,
+				"퍼지",
+				"VV",
+				"이 시간동안 폭발 당시의 에너지는 현재 우주의 절반 정도의 공간을 만들면서 급격하게 퍼져 나갑니다."
+			],
+			[
+				5,
+				"만들",
+				"VV",
+				"여기서 신기한 것은 처음에 만들어진 공간 안에 우리가 생각하는 물질이 없었다는 것입니다."
+			],
+			[
+				6,
+				"생각하",
+				"VV",
+				"여기서 신기한 것은 처음에 만들어진 공간 안에 우리가 생각하는 물질이 없었다는 것입니다."
+			],
+			[
+				7,
+				"보",
+				"VV",
+				"유명한 아인슈타인의E=mc2이라는 식을 보면 에너지가 질량이 될 수 있고, 또 질량이 에너지가 될 수 있다 라고 해석할 수 있습니다."
+			],
+			[
+				8,
+				"되",
+				"VV",
+				"유명한 아인슈타인의E=mc2이라는 식을 보면 에너지가 질량이 될 수 있고, 또 질량이 에너지가 될 수 있다 라고 해석할 수 있습니다."
+			],
+			[
+				9,
+				"되",
+				"VV",
+				"유명한 아인슈타인의E=mc2이라는 식을 보면 에너지가 질량이 될 수 있고, 또 질량이 에너지가 될 수 있다 라고 해석할 수 있습니다."
+			],
+			[
+				10,
+				"해석하",
+				"VV",
+				"유명한 아인슈타인의E=mc2이라는 식을 보면 에너지가 질량이 될 수 있고, 또 질량이 에너지가 될 수 있다 라고 해석할 수 있습니다."
+			]
+		],
+		"VA_Lst": [
+			[
+				0,
+				"없",
+				"VA",
+				"빅뱅이 시작된 후 10-32초. 상상할 수도 없을 만큼 짧은 시간이지만 우주 탄생에서는 가장 중요한 시간입니다."
+			],
+			[
+				1,
+				"짧",
+				"VA",
+				"빅뱅이 시작된 후 10-32초. 상상할 수도 없을 만큼 짧은 시간이지만 우주 탄생에서는 가장 중요한 시간입니다."
+			],
+			[
+				2,
+				"중요하",
+				"VA",
+				"빅뱅이 시작된 후 10-32초. 상상할 수도 없을 만큼 짧은 시간이지만 우주 탄생에서는 가장 중요한 시간입니다."
+			],
+			[
+				3,
+				"급격하",
+				"VA",
+				"이 시간동안 폭발 당시의 에너지는 현재 우주의 절반 정도의 공간을 만들면서 급격하게 퍼져 나갑니다."
+			],
+			[
+				4,
+				"신기하",
+				"VA",
+				"여기서 신기한 것은 처음에 만들어진 공간 안에 우리가 생각하는 물질이 없었다는 것입니다."
+			],
+			[
+				5,
+				"없",
+				"VA",
+				"여기서 신기한 것은 처음에 만들어진 공간 안에 우리가 생각하는 물질이 없었다는 것입니다."
+			],
+			[
+				6,
+				"있",
+				"VA",
+				"처음에는 물질이 아닌 복사 에너지만 있었습니다."
+			],
+			[
+				7,
+				"유명하",
+				"VA",
+				"유명한 아인슈타인의E=mc2이라는 식을 보면 에너지가 질량이 될 수 있고, 또 질량이 에너지가 될 수 있다 라고 해석할 수 있습니다."
+			],
+			[
+				8,
+				"있",
+				"VA",
+				"유명한 아인슈타인의E=mc2이라는 식을 보면 에너지가 질량이 될 수 있고, 또 질량이 에너지가 될 수 있다 라고 해석할 수 있습니다."
+			],
+			[
+				9,
+				"있",
+				"VA",
+				"유명한 아인슈타인의E=mc2이라는 식을 보면 에너지가 질량이 될 수 있고, 또 질량이 에너지가 될 수 있다 라고 해석할 수 있습니다."
+			],
+			[
+				10,
+				"있",
+				"VA",
+				"유명한 아인슈타인의E=mc2이라는 식을 보면 에너지가 질량이 될 수 있고, 또 질량이 에너지가 될 수 있다 라고 해석할 수 있습니다."
+			]
+		],
+		"VX_Lst": [
+			[
+				0,
+				"나가",
+				"VX",
+				"이 시간동안 폭발 당시의 에너지는 현재 우주의 절반 정도의 공간을 만들면서 급격하게 퍼져 나갑니다."
+			],
+			[
+				1,
+				"지",
+				"VX",
+				"여기서 신기한 것은 처음에 만들어진 공간 안에 우리가 생각하는 물질이 없었다는 것입니다."
+			]
+		],
+		"VCP_Lst": [
+			[
+				0,
+				"이",
+				"VCP",
+				"이 점의 폭발(빅뱅)이 우주의 시작인 것입니다."
+			],
+			[
+				1,
+				"이",
+				"VCP",
+				"빅뱅이 시작된 후 10-32초. 상상할 수도 없을 만큼 짧은 시간이지만 우주 탄생에서는 가장 중요한 시간입니다."
+			],
+			[
+				2,
+				"이",
+				"VCP",
+				"빅뱅이 시작된 후 10-32초. 상상할 수도 없을 만큼 짧은 시간이지만 우주 탄생에서는 가장 중요한 시간입니다."
+			],
+			[
+				3,
+				"이",
+				"VCP",
+				"여기서 신기한 것은 처음에 만들어진 공간 안에 우리가 생각하는 물질이 없었다는 것입니다."
+			],
+			[
+				4,
+				"이",
+				"VCP",
+				"유명한 아인슈타인의E=mc2이라는 식을 보면 에너지가 질량이 될 수 있고, 또 질량이 에너지가 될 수 있다 라고 해석할 수 있습니다."
+			]
+		],
+		"VCN_Lst": [
+			[
+				0,
+				"아니",
+				"VCN",
+				"처음에는 물질이 아닌 복사 에너지만 있었습니다."
+			]
+		],
+		"ML_Lst": [
+			[
+				0,
+				"가장",
+				"MAG",
+				"빅뱅이 시작된 후 10-32초. 상상할 수도 없을 만큼 짧은 시간이지만 우주 탄생에서는 가장 중요한 시간입니다."
+			],
+			[
+				1,
+				"현재",
+				"MAG",
+				"이 시간동안 폭발 당시의 에너지는 현재 우주의 절반 정도의 공간을 만들면서 급격하게 퍼져 나갑니다."
+			],
+			[
+				2,
+				"또",
+				"MAG",
+				"유명한 아인슈타인의E=mc2이라는 식을 보면 에너지가 질량이 될 수 있고, 또 질량이 에너지가 될 수 있다 라고 해석할 수 있습니다."
+			]
+		],
+		"MA_Lst": [],
+		"MM_Lst": [],
+		"J_Lst": [
+			[
+				0,
+				"에",
+				"JKB",
+				"약 137억 년 전에 하나의 점이 폭발합니다."
+			],
+			[
+				1,
+				"의",
+				"JKG",
+				"약 137억 년 전에 하나의 점이 폭발합니다."
+			],
+			[
+				2,
+				"이",
+				"JKS",
+				"약 137억 년 전에 하나의 점이 폭발합니다."
+			],
+			[
+				3,
+				"의",
+				"JKG",
+				"이 점의 폭발(빅뱅)이 우주의 시작인 것입니다."
+			],
+			[
+				4,
+				"이",
+				"JKS",
+				"이 점의 폭발(빅뱅)이 우주의 시작인 것입니다."
+			],
+			[
+				5,
+				"의",
+				"JKG",
+				"이 점의 폭발(빅뱅)이 우주의 시작인 것입니다."
+			],
+			[
+				6,
+				"이",
+				"JKS",
+				"빅뱅이 시작된 후 10-32초. 상상할 수도 없을 만큼 짧은 시간이지만 우주 탄생에서는 가장 중요한 시간입니다."
+			],
+			[
+				7,
+				"도",
+				"JX",
+				"빅뱅이 시작된 후 10-32초. 상상할 수도 없을 만큼 짧은 시간이지만 우주 탄생에서는 가장 중요한 시간입니다."
+			],
+			[
+				8,
+				"에서",
+				"JKB",
+				"빅뱅이 시작된 후 10-32초. 상상할 수도 없을 만큼 짧은 시간이지만 우주 탄생에서는 가장 중요한 시간입니다."
+			],
+			[
+				9,
+				"는",
+				"JX",
+				"빅뱅이 시작된 후 10-32초. 상상할 수도 없을 만큼 짧은 시간이지만 우주 탄생에서는 가장 중요한 시간입니다."
+			],
+			[
+				10,
+				"의",
+				"JKG",
+				"이 시간동안 폭발 당시의 에너지는 현재 우주의 절반 정도의 공간을 만들면서 급격하게 퍼져 나갑니다."
+			],
+			[
+				11,
+				"는",
+				"JX",
+				"이 시간동안 폭발 당시의 에너지는 현재 우주의 절반 정도의 공간을 만들면서 급격하게 퍼져 나갑니다."
+			],
+			[
+				12,
+				"의",
+				"JKG",
+				"이 시간동안 폭발 당시의 에너지는 현재 우주의 절반 정도의 공간을 만들면서 급격하게 퍼져 나갑니다."
+			],
+			[
+				13,
+				"의",
+				"JKG",
+				"이 시간동안 폭발 당시의 에너지는 현재 우주의 절반 정도의 공간을 만들면서 급격하게 퍼져 나갑니다."
+			],
+			[
+				14,
+				"을",
+				"JKO",
+				"이 시간동안 폭발 당시의 에너지는 현재 우주의 절반 정도의 공간을 만들면서 급격하게 퍼져 나갑니다."
+			],
+			[
+				15,
+				"서",
+				"JKB",
+				"여기서 신기한 것은 처음에 만들어진 공간 안에 우리가 생각하는 물질이 없었다는 것입니다."
+			],
+			[
+				16,
+				"은",
+				"JX",
+				"여기서 신기한 것은 처음에 만들어진 공간 안에 우리가 생각하는 물질이 없었다는 것입니다."
+			],
+			[
+				17,
+				"에",
+				"JKB",
+				"여기서 신기한 것은 처음에 만들어진 공간 안에 우리가 생각하는 물질이 없었다는 것입니다."
+			],
+			[
+				18,
+				"에",
+				"JKB",
+				"여기서 신기한 것은 처음에 만들어진 공간 안에 우리가 생각하는 물질이 없었다는 것입니다."
+			],
+			[
+				19,
+				"가",
+				"JKS",
+				"여기서 신기한 것은 처음에 만들어진 공간 안에 우리가 생각하는 물질이 없었다는 것입니다."
+			],
+			[
+				20,
+				"이",
+				"JKS",
+				"여기서 신기한 것은 처음에 만들어진 공간 안에 우리가 생각하는 물질이 없었다는 것입니다."
+			],
+			[
+				21,
+				"에",
+				"JKB",
+				"처음에는 물질이 아닌 복사 에너지만 있었습니다."
+			],
+			[
+				22,
+				"는",
+				"JX",
+				"처음에는 물질이 아닌 복사 에너지만 있었습니다."
+			],
+			[
+				23,
+				"이",
+				"JKC",
+				"처음에는 물질이 아닌 복사 에너지만 있었습니다."
+			],
+			[
+				24,
+				"만",
+				"JX",
+				"처음에는 물질이 아닌 복사 에너지만 있었습니다."
+			],
+			[
+				25,
+				"의",
+				"JKG",
+				"유명한 아인슈타인의E=mc2이라는 식을 보면 에너지가 질량이 될 수 있고, 또 질량이 에너지가 될 수 있다 라고 해석할 수 있습니다."
+			],
+			[
+				26,
+				"을",
+				"JKO",
+				"유명한 아인슈타인의E=mc2이라는 식을 보면 에너지가 질량이 될 수 있고, 또 질량이 에너지가 될 수 있다 라고 해석할 수 있습니다."
+			],
+			[
+				27,
+				"가",
+				"JKS",
+				"유명한 아인슈타인의E=mc2이라는 식을 보면 에너지가 질량이 될 수 있고, 또 질량이 에너지가 될 수 있다 라고 해석할 수 있습니다."
+			],
+			[
+				28,
+				"이",
+				"JKC",
+				"유명한 아인슈타인의E=mc2이라는 식을 보면 에너지가 질량이 될 수 있고, 또 질량이 에너지가 될 수 있다 라고 해석할 수 있습니다."
+			],
+			[
+				29,
+				"이",
+				"JKC",
+				"유명한 아인슈타인의E=mc2이라는 식을 보면 에너지가 질량이 될 수 있고, 또 질량이 에너지가 될 수 있다 라고 해석할 수 있습니다."
+			],
+			[
+				30,
+				"가",
+				"JKC",
+				"유명한 아인슈타인의E=mc2이라는 식을 보면 에너지가 질량이 될 수 있고, 또 질량이 에너지가 될 수 있다 라고 해석할 수 있습니다."
+			]
+		],
+		"E_Lst": [
+			[
+				0,
+				"ㅂ니다",
+				"EF",
+				"약 137억 년 전에 하나의 점이 폭발합니다."
+			],
+			[
+				1,
+				"ㅂ니다",
+				"EF",
+				"이 점의 폭발(빅뱅)이 우주의 시작인 것입니다."
+			],
+			[
+				2,
+				"ㄴ",
+				"ETM",
+				"빅뱅이 시작된 후 10-32초. 상상할 수도 없을 만큼 짧은 시간이지만 우주 탄생에서는 가장 중요한 시간입니다."
+			],
+			[
+				3,
+				"ㄹ",
+				"ETM",
+				"빅뱅이 시작된 후 10-32초. 상상할 수도 없을 만큼 짧은 시간이지만 우주 탄생에서는 가장 중요한 시간입니다."
+			],
+			[
+				4,
+				"을",
+				"ETM",
+				"빅뱅이 시작된 후 10-32초. 상상할 수도 없을 만큼 짧은 시간이지만 우주 탄생에서는 가장 중요한 시간입니다."
+			],
+			[
+				5,
+				"은",
+				"ETM",
+				"빅뱅이 시작된 후 10-32초. 상상할 수도 없을 만큼 짧은 시간이지만 우주 탄생에서는 가장 중요한 시간입니다."
+			],
+			[
+				6,
+				"지만",
+				"EC",
+				"빅뱅이 시작된 후 10-32초. 상상할 수도 없을 만큼 짧은 시간이지만 우주 탄생에서는 가장 중요한 시간입니다."
+			],
+			[
+				7,
+				"ㄴ",
+				"ETM",
+				"빅뱅이 시작된 후 10-32초. 상상할 수도 없을 만큼 짧은 시간이지만 우주 탄생에서는 가장 중요한 시간입니다."
+			],
+			[
+				8,
+				"ㅂ니다",
+				"EF",
+				"빅뱅이 시작된 후 10-32초. 상상할 수도 없을 만큼 짧은 시간이지만 우주 탄생에서는 가장 중요한 시간입니다."
+			],
+			[
+				9,
+				"면서",
+				"EC",
+				"이 시간동안 폭발 당시의 에너지는 현재 우주의 절반 정도의 공간을 만들면서 급격하게 퍼져 나갑니다."
+			],
+			[
+				10,
+				"게",
+				"EC",
+				"이 시간동안 폭발 당시의 에너지는 현재 우주의 절반 정도의 공간을 만들면서 급격하게 퍼져 나갑니다."
+			],
+			[
+				11,
+				"어",
+				"EC",
+				"이 시간동안 폭발 당시의 에너지는 현재 우주의 절반 정도의 공간을 만들면서 급격하게 퍼져 나갑니다."
+			],
+			[
+				12,
+				"ㅂ니다",
+				"EF",
+				"이 시간동안 폭발 당시의 에너지는 현재 우주의 절반 정도의 공간을 만들면서 급격하게 퍼져 나갑니다."
+			],
+			[
+				13,
+				"ㄴ",
+				"ETM",
+				"여기서 신기한 것은 처음에 만들어진 공간 안에 우리가 생각하는 물질이 없었다는 것입니다."
+			],
+			[
+				14,
+				"어",
+				"EC",
+				"여기서 신기한 것은 처음에 만들어진 공간 안에 우리가 생각하는 물질이 없었다는 것입니다."
+			],
+			[
+				15,
+				"ㄴ",
+				"ETM",
+				"여기서 신기한 것은 처음에 만들어진 공간 안에 우리가 생각하는 물질이 없었다는 것입니다."
+			],
+			[
+				16,
+				"는",
+				"ETM",
+				"여기서 신기한 것은 처음에 만들어진 공간 안에 우리가 생각하는 물질이 없었다는 것입니다."
+			],
+			[
+				17,
+				"었",
+				"EP",
+				"여기서 신기한 것은 처음에 만들어진 공간 안에 우리가 생각하는 물질이 없었다는 것입니다."
+			],
+			[
+				18,
+				"다는",
+				"ETM",
+				"여기서 신기한 것은 처음에 만들어진 공간 안에 우리가 생각하는 물질이 없었다는 것입니다."
+			],
+			[
+				19,
+				"ㅂ니다",
+				"EF",
+				"여기서 신기한 것은 처음에 만들어진 공간 안에 우리가 생각하는 물질이 없었다는 것입니다."
+			],
+			[
+				20,
+				"ㄴ",
+				"ETM",
+				"처음에는 물질이 아닌 복사 에너지만 있었습니다."
+			],
+			[
+				21,
+				"었",
+				"EP",
+				"처음에는 물질이 아닌 복사 에너지만 있었습니다."
+			],
+			[
+				22,
+				"습니다",
+				"EF",
+				"처음에는 물질이 아닌 복사 에너지만 있었습니다."
+			],
+			[
+				23,
+				"ㄴ",
+				"ETM",
+				"유명한 아인슈타인의E=mc2이라는 식을 보면 에너지가 질량이 될 수 있고, 또 질량이 에너지가 될 수 있다 라고 해석할 수 있습니다."
+			],
+			[
+				24,
+				"라는",
+				"ETM",
+				"유명한 아인슈타인의E=mc2이라는 식을 보면 에너지가 질량이 될 수 있고, 또 질량이 에너지가 될 수 있다 라고 해석할 수 있습니다."
+			],
+			[
+				25,
+				"면",
+				"EC",
+				"유명한 아인슈타인의E=mc2이라는 식을 보면 에너지가 질량이 될 수 있고, 또 질량이 에너지가 될 수 있다 라고 해석할 수 있습니다."
+			],
+			[
+				26,
+				"ㄹ",
+				"ETM",
+				"유명한 아인슈타인의E=mc2이라는 식을 보면 에너지가 질량이 될 수 있고, 또 질량이 에너지가 될 수 있다 라고 해석할 수 있습니다."
+			],
+			[
+				27,
+				"고",
+				"EC",
+				"유명한 아인슈타인의E=mc2이라는 식을 보면 에너지가 질량이 될 수 있고, 또 질량이 에너지가 될 수 있다 라고 해석할 수 있습니다."
+			],
+			[
+				28,
+				"ㄹ",
+				"ETM",
+				"유명한 아인슈타인의E=mc2이라는 식을 보면 에너지가 질량이 될 수 있고, 또 질량이 에너지가 될 수 있다 라고 해석할 수 있습니다."
+			],
+			[
+				29,
+				"다",
+				"EF",
+				"유명한 아인슈타인의E=mc2이라는 식을 보면 에너지가 질량이 될 수 있고, 또 질량이 에너지가 될 수 있다 라고 해석할 수 있습니다."
+			],
+			[
+				30,
+				"ㄹ",
+				"ETM",
+				"유명한 아인슈타인의E=mc2이라는 식을 보면 에너지가 질량이 될 수 있고, 또 질량이 에너지가 될 수 있다 라고 해석할 수 있습니다."
+			],
+			[
+				31,
+				"습니다",
+				"EF",
+				"유명한 아인슈타인의E=mc2이라는 식을 보면 에너지가 질량이 될 수 있고, 또 질량이 에너지가 될 수 있다 라고 해석할 수 있습니다."
+			]
+		],
+		"X_Lst": [],
+		"IC_Lst": []
+	},
+	"NDW": {
+		"morph_NDW": 100,
+		"NL_NDW": 50,
+		"NNG_NDW": 33,
+		"NNP_NDW": 1,
+		"NNB_NDW": 12,
+		"NP_NDW": 2,
+		"NR_NDW": 2,
+		"VL_NDW": 30,
+		"VV_NDW": 11,
+		"VA_NDW": 11,
+		"ML_NDW": 3,
+		"MM_NDW": 0,
+		"IC_NDW": 0,
+		"J_NDW": 31,
+		"E_NDW": 32,
+		"X_NDW": 0,
+		"CL_NDW": 83,
+		"FL_NDW": 63
+	}
+}

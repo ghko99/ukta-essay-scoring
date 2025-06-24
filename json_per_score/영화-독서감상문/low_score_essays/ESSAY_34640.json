@@ -1,0 +1,6530 @@
+﻿{
+	"morpheme": {
+		"sentences": [
+			{
+				"text": {
+					"content": "학교에서 독서활동을 하다가 이책을 읽게 되었다.",
+					"length": 26,
+					"beginOffset": 0
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "학교에서",
+							"length": 4,
+							"beginOffset": 0
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "학교",
+									"length": 2,
+									"beginOffset": 0
+								},
+								"tag": "NNG",
+								"probability": 0.9827685,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에서",
+									"beginOffset": 2,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9954342,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "학교",
+						"tagged": "학교/NNG+에서/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "독서활동을",
+							"beginOffset": 5,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "독서",
+									"beginOffset": 5,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9800776,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "활동",
+									"beginOffset": 7,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98330355,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 9,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999366,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "독서",
+						"tagged": "독서/NNG+활동/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "하다가",
+							"beginOffset": 11,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 11,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9794739,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다가",
+									"beginOffset": 12,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99497604,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VV+다가/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이",
+							"beginOffset": 15,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 15,
+									"length": 1
+								},
+								"tag": "MMD",
+								"probability": 0.99984056,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이",
+						"tagged": "이/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "책을",
+							"beginOffset": 16,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "책",
+									"beginOffset": 16,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9818298,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 17,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9997373,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "책",
+						"tagged": "책/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "읽게",
+							"beginOffset": 19,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "읽",
+									"beginOffset": 19,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9888726,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "게",
+									"beginOffset": 20,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9957151,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "읽",
+						"tagged": "읽/VV+게/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "되었다.",
+							"beginOffset": 22,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "되",
+									"beginOffset": 22,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.98700815,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 23,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99989456,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 24,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.98825353,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 25,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9997314,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "되",
+						"tagged": "되/VV+었/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "학교에서 독서활동을 하다가 이 책을 읽게 되었다."
+			},
+			{
+				"text": {
+					"content": "이 책은 타자기가 컴퓨터로 발전되어 가는 과정을 담은 책이다.",
+					"beginOffset": 27,
+					"length": 34
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "이",
+							"beginOffset": 27,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 27,
+									"length": 1
+								},
+								"tag": "MMD",
+								"probability": 0.99964595,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이",
+						"tagged": "이/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "책은",
+							"beginOffset": 29,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "책",
+									"beginOffset": 29,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9819521,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 30,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9992168,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "책",
+						"tagged": "책/NNG+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "타자기가",
+							"beginOffset": 32,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "타자기",
+									"beginOffset": 32,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.97882414,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 35,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.99111974,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "타자기",
+						"tagged": "타자기/NNG+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "컴퓨터로",
+							"beginOffset": 37,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "컴퓨터",
+									"beginOffset": 37,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.98354757,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "로",
+									"beginOffset": 40,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9965741,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "컴퓨터",
+						"tagged": "컴퓨터/NNG+로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "발전되어",
+							"beginOffset": 42,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "발전되",
+									"beginOffset": 42,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "어",
+									"beginOffset": 45,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99550104,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "발전되",
+						"tagged": "발전되/VV+어/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "가는",
+							"beginOffset": 47,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 47,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.9477574,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 48,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99989337,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "가",
+						"tagged": "가/VX+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "과정을",
+							"beginOffset": 50,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "과정",
+									"beginOffset": 50,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9837008,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 52,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999455,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "과정",
+						"tagged": "과정/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "담은",
+							"beginOffset": 54,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "담",
+									"beginOffset": 54,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.984756,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 55,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99996984,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "담",
+						"tagged": "담/VV+은/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "책이다.",
+							"beginOffset": 57,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "책",
+									"beginOffset": 57,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.98363173,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 58,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.99980915,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 59,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.99052846,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 60,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99984837,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "책",
+						"tagged": "책/NNG+이/VCP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "이 책은 타자기가 컴퓨터로 발전되어 가는 과정을 담은 책이다."
+			},
+			{
+				"text": {
+					"content": "처음에 타자기는 너무 컷고 일일이 손으로 내용을 썻어야 했다.",
+					"beginOffset": 62,
+					"length": 34
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "처음에",
+							"beginOffset": 62,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "처음",
+									"beginOffset": 62,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98457897,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 64,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99684936,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "처음",
+						"tagged": "처음/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "타자기는",
+							"beginOffset": 66,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "타자기",
+									"beginOffset": 66,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9787749,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 69,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99937475,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "타자기",
+						"tagged": "타자기/NNG+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "너무",
+							"beginOffset": 71,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "너무",
+									"beginOffset": 71,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.99161536,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "너무",
+						"tagged": "너무/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "컷고",
+							"beginOffset": 74,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "컷고",
+									"beginOffset": 74,
+									"length": 2
+								},
+								"tag": "XR",
+								"probability": 0.3702176,
+								"outOfVocab": "OUT_OF_VOCAB"
+							}
+						],
+						"lemma": "컷고",
+						"tagged": "컷고/XR",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "일일이",
+							"beginOffset": 77,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "일일이",
+									"beginOffset": 77,
+									"length": 3
+								},
+								"tag": "MAG",
+								"probability": 0.994863,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "일일이",
+						"tagged": "일일이/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "손으로",
+							"beginOffset": 81,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "손",
+									"beginOffset": 81,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.98171204,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으로",
+									"beginOffset": 82,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9974508,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "손",
+						"tagged": "손/NNG+으로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "내용을",
+							"beginOffset": 85,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "내용",
+									"beginOffset": 85,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98199016,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 87,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999753,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "내용",
+						"tagged": "내용/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "썻어야",
+							"beginOffset": 89,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "썻",
+									"beginOffset": 89,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.97353023,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "어야",
+									"beginOffset": 90,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9945369,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "썻",
+						"tagged": "썻/VV+어야/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "했다.",
+							"beginOffset": 93,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 93,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.8950866,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 93,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9999274,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 94,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.99002326,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 95,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99985963,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VX+았/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "처음에 타자기는 너무 컷고 일일이 손으로 내용을 썻어야 했다."
+			},
+			{
+				"text": {
+					"content": "1920년대에 새로운 전자 타자기가 만들어 졌고, 더 빨랐고, 상점에서 쉽게 살수있었다.",
+					"beginOffset": 97,
+					"length": 49
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "1920년대에",
+							"beginOffset": 97,
+							"length": 7
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "1920",
+									"beginOffset": 97,
+									"length": 4
+								},
+								"tag": "SN",
+								"probability": 0.99517685,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "년대",
+									"beginOffset": 101,
+									"length": 2
+								},
+								"tag": "NNB",
+								"probability": 0.9777166,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 103,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9933365,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "1920",
+						"tagged": "1920/SN+년대/NNB+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "새로운",
+							"beginOffset": 105,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "새롭",
+									"beginOffset": 105,
+									"length": 2
+								},
+								"tag": "VA",
+								"probability": 0.98716295,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 107,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99997807,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "새롭",
+						"tagged": "새롭/VA+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "전자",
+							"beginOffset": 109,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "전자",
+									"beginOffset": 109,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9808085,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "전자",
+						"tagged": "전자/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "타자기가",
+							"beginOffset": 112,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "타자기",
+									"beginOffset": 112,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9821479,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 115,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.98689,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "타자기",
+						"tagged": "타자기/NNG+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "만들어",
+							"beginOffset": 117,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "만들",
+									"beginOffset": 117,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.986196,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어",
+									"beginOffset": 119,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9937872,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "만들",
+						"tagged": "만들/VV+어/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "졌고",
+							"beginOffset": 121,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "지",
+									"beginOffset": 121,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.9587292,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 121,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9999483,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 122,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9860502,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "지",
+						"tagged": "지/VX+었/EP+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": ",",
+							"beginOffset": 123,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 123,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.9993932,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": ",",
+						"tagged": ",/SP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "더",
+							"beginOffset": 125,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "더",
+									"beginOffset": 125,
+									"length": 1
+								},
+								"tag": "MAG",
+								"probability": 0.9888223,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "더",
+						"tagged": "더/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "빨랐고",
+							"beginOffset": 127,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "빠르",
+									"beginOffset": 127,
+									"length": 2
+								},
+								"tag": "VA",
+								"probability": 0.9801693,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 128,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9999621,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 129,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.98923856,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "빠르",
+						"tagged": "빠르/VA+았/EP+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": ",",
+							"beginOffset": 130,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 130,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.99919087,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": ",",
+						"tagged": ",/SP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "상점에서",
+							"beginOffset": 132,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "상점",
+									"beginOffset": 132,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9794908,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에서",
+									"beginOffset": 134,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.99750245,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "상점",
+						"tagged": "상점/NNG+에서/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "쉽게",
+							"beginOffset": 137,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "쉽",
+									"beginOffset": 137,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9835894,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "게",
+									"beginOffset": 138,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9896155,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "쉽",
+						"tagged": "쉽/VA+게/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "살",
+							"beginOffset": 140,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "살",
+									"beginOffset": 140,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9915807,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ",
+									"beginOffset": 140,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9998164,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "살",
+						"tagged": "살/VV+ㄹ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "수",
+							"beginOffset": 141,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "수",
+									"beginOffset": 141,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9790147,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "수",
+						"tagged": "수/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있었다.",
+							"beginOffset": 142,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 142,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.89816505,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 143,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99974823,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 144,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9932051,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 145,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9996716,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VA+었/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "1920년대에 새로운 전자 타자기가 만들어 졌고 , 더 빨랐고 , 상점에서 쉽게 살 수 있었다."
+			},
+			{
+				"text": {
+					"content": "하지만 사람들은 기계가 더 도와주기를 요구했고, 결국 1960년대 컴퓨터가 만들어졌다.",
+					"beginOffset": 147,
+					"length": 48
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "하지만",
+							"beginOffset": 147,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하지만",
+									"beginOffset": 147,
+									"length": 3
+								},
+								"tag": "MAJ",
+								"probability": 0.99883866,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하지만",
+						"tagged": "하지만/MAJ",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사람들은",
+							"beginOffset": 151,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사람",
+									"beginOffset": 151,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9857753,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "들",
+									"beginOffset": 153,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.98790854,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 154,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9985823,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사람",
+						"tagged": "사람/NNG+들/XSN+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "기계가",
+							"beginOffset": 156,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "기계",
+									"beginOffset": 156,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9840222,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 158,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9908116,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "기계",
+						"tagged": "기계/NNG+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "더",
+							"beginOffset": 160,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "더",
+									"beginOffset": 160,
+									"length": 1
+								},
+								"tag": "MAG",
+								"probability": 0.99317807,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "더",
+						"tagged": "더/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "도와주기를",
+							"beginOffset": 162,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "도와주",
+									"beginOffset": 162,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.98716754,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "기",
+									"beginOffset": 165,
+									"length": 1
+								},
+								"tag": "ETN",
+								"probability": 0.99958485,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 166,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999189,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "도와주",
+						"tagged": "도와주/VV+기/ETN+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "요구했고",
+							"beginOffset": 168,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "요구하",
+									"beginOffset": 168,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 170,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9999642,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 171,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9916519,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "요구하",
+						"tagged": "요구하/VV+았/EP+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": ",",
+							"beginOffset": 172,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 172,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.9992829,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": ",",
+						"tagged": ",/SP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "결국",
+							"beginOffset": 174,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "결국",
+									"beginOffset": 174,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.99188924,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "결국",
+						"tagged": "결국/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "1960년대",
+							"beginOffset": 177,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "1960",
+									"beginOffset": 177,
+									"length": 4
+								},
+								"tag": "SN",
+								"probability": 0.99775183,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "년대",
+									"beginOffset": 181,
+									"length": 2
+								},
+								"tag": "NNB",
+								"probability": 0.97800034,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "1960",
+						"tagged": "1960/SN+년대/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "컴퓨터가",
+							"beginOffset": 184,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "컴퓨터",
+									"beginOffset": 184,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.98371536,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 187,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.99046504,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "컴퓨터",
+						"tagged": "컴퓨터/NNG+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "만들어",
+							"beginOffset": 189,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "만들",
+									"beginOffset": 189,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9873301,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어",
+									"beginOffset": 191,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99494916,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "만들",
+						"tagged": "만들/VV+어/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "졌다.",
+							"beginOffset": 192,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "지",
+									"beginOffset": 192,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.9763558,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 192,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9997208,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 193,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.99081284,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 194,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9994844,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "지",
+						"tagged": "지/VX+었/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "하지만 사람들은 기계가 더 도와주기를 요구했고 , 결국 1960년대 컴퓨터가 만들어 졌다."
+			},
+			{
+				"text": {
+					"content": "그런데 이 컴퓨터는 매우컷다.",
+					"beginOffset": 196,
+					"length": 16
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "그런데",
+							"beginOffset": 196,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그런데",
+									"beginOffset": 196,
+									"length": 3
+								},
+								"tag": "MAJ",
+								"probability": 0.997489,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그런데",
+						"tagged": "그런데/MAJ",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이",
+							"beginOffset": 200,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 200,
+									"length": 1
+								},
+								"tag": "MMD",
+								"probability": 0.99982136,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이",
+						"tagged": "이/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "컴퓨터는",
+							"beginOffset": 202,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "컴퓨터",
+									"beginOffset": 202,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.98446107,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 205,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99907076,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "컴퓨터",
+						"tagged": "컴퓨터/NNG+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "매우",
+							"beginOffset": 207,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "매우",
+									"beginOffset": 207,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9803003,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "매우",
+						"tagged": "매우/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "컷",
+							"beginOffset": 209,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "컬",
+									"beginOffset": 209,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.8684933,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 209,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.98961985,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "컬",
+						"tagged": "컬/VA+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "다.",
+							"beginOffset": 210,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 210,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.99462,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 211,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9996077,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "다",
+						"tagged": "다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "그런데 이 컴퓨터는 매우 컷 다."
+			},
+			{
+				"text": {
+					"content": "그래도 사람들은 이 크기를 줄일수 있다고 믿었다.",
+					"beginOffset": 213,
+					"length": 27
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "그래도",
+							"beginOffset": 213,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그러",
+									"beginOffset": 213,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9904201,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어도",
+									"beginOffset": 214,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9957717,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그러",
+						"tagged": "그러/VV+어도/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사람들은",
+							"beginOffset": 217,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사람",
+									"beginOffset": 217,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9868847,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "들",
+									"beginOffset": 219,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.991959,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 220,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9979557,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사람",
+						"tagged": "사람/NNG+들/XSN+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이",
+							"beginOffset": 222,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 222,
+									"length": 1
+								},
+								"tag": "MMD",
+								"probability": 0.9998558,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이",
+						"tagged": "이/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "크기를",
+							"beginOffset": 224,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "크기",
+									"beginOffset": 224,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9810103,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 226,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99981946,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "크기",
+						"tagged": "크기/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "줄일",
+							"beginOffset": 228,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "줄이",
+									"beginOffset": 228,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.98584545,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ",
+									"beginOffset": 229,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9996213,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "줄이",
+						"tagged": "줄이/VV+ㄹ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "수",
+							"beginOffset": 230,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "수",
+									"beginOffset": 230,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.983083,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "수",
+						"tagged": "수/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있다고",
+							"beginOffset": 232,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 232,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.93091494,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다고",
+									"beginOffset": 233,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9948861,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VA+다고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "믿었다.",
+							"beginOffset": 236,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "믿",
+									"beginOffset": 236,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9890801,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 237,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9999323,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 238,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9915823,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 239,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99939,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "믿",
+						"tagged": "믿/VV+었/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "그래도 사람들은 이 크기를 줄일 수 있다고 믿었다."
+			},
+			{
+				"text": {
+					"content": "그래서 결국 크기를 줄여냈고 1990년대 에 드디어 타자기 사용을 멈추기 시작했다.",
+					"beginOffset": 241,
+					"length": 46
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "그래서",
+							"beginOffset": 241,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그래서",
+									"beginOffset": 241,
+									"length": 3
+								},
+								"tag": "MAJ",
+								"probability": 0.9960281,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그래서",
+						"tagged": "그래서/MAJ",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "결국",
+							"beginOffset": 245,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "결국",
+									"beginOffset": 245,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9929269,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "결국",
+						"tagged": "결국/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "크기를",
+							"beginOffset": 248,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "크기",
+									"beginOffset": 248,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98445666,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 250,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999807,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "크기",
+						"tagged": "크기/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "줄여",
+							"beginOffset": 252,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "줄이",
+									"beginOffset": 252,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.987867,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어",
+									"beginOffset": 253,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9926291,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "줄이",
+						"tagged": "줄이/VV+어/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "냈고",
+							"beginOffset": 254,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "내",
+									"beginOffset": 254,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.8945424,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 254,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9999752,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 255,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9938649,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "내",
+						"tagged": "내/VX+었/EP+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "1990년대",
+							"beginOffset": 257,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "1990",
+									"beginOffset": 257,
+									"length": 4
+								},
+								"tag": "SN",
+								"probability": 0.99057233,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "년대",
+									"beginOffset": 261,
+									"length": 2
+								},
+								"tag": "NNB",
+								"probability": 0.9529617,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "1990",
+						"tagged": "1990/SN+년대/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "에",
+							"beginOffset": 264,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 264,
+									"length": 1
+								},
+								"tag": "IC",
+								"probability": 0.9976139,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "에",
+						"tagged": "에/IC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "드디어",
+							"beginOffset": 266,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "드디어",
+									"beginOffset": 266,
+									"length": 3
+								},
+								"tag": "MAG",
+								"probability": 0.9857098,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "드디어",
+						"tagged": "드디어/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "타자기",
+							"beginOffset": 270,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "타자기",
+									"beginOffset": 270,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.97794133,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "타자기",
+						"tagged": "타자기/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사용을",
+							"beginOffset": 274,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사용",
+									"beginOffset": 274,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98370636,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 276,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999691,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사용",
+						"tagged": "사용/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "멈추기",
+							"beginOffset": 278,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "멈추",
+									"beginOffset": 278,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9886185,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "기",
+									"beginOffset": 280,
+									"length": 1
+								},
+								"tag": "ETN",
+								"probability": 0.99956334,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "멈추",
+						"tagged": "멈추/VV+기/ETN",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "시작했다.",
+							"beginOffset": 282,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "시작하",
+									"beginOffset": 282,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 284,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.999898,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 285,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9891135,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 286,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9998289,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "시작하",
+						"tagged": "시작하/VV+았/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "그래서 결국 크기를 줄여 냈고 1990년대 에 드디어 타자기 사용을 멈추기 시작했다."
+			},
+			{
+				"text": {
+					"content": "이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다.",
+					"beginOffset": 288,
+					"length": 141
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "이",
+							"beginOffset": 288,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 288,
+									"length": 1
+								},
+								"tag": "MMD",
+								"probability": 0.99933016,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이",
+						"tagged": "이/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "책을",
+							"beginOffset": 290,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "책",
+									"beginOffset": 290,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.98470443,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 291,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9998872,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "책",
+						"tagged": "책/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "읽고",
+							"beginOffset": 293,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "읽",
+									"beginOffset": 293,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.98963916,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 294,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99461365,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "읽",
+						"tagged": "읽/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "느낀",
+							"beginOffset": 296,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "느끼",
+									"beginOffset": 296,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.99003565,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 297,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99992377,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "느끼",
+						"tagged": "느끼/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "점은",
+							"beginOffset": 298,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "점",
+									"beginOffset": 298,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.5999012,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 299,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99776024,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "점",
+						"tagged": "점/NNG+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사람들이",
+							"beginOffset": 301,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사람",
+									"beginOffset": 301,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98577327,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "들",
+									"beginOffset": 303,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.9927918,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 304,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.98012435,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사람",
+						"tagged": "사람/NNG+들/XSN+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "필요한",
+							"beginOffset": 306,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "필요하",
+									"beginOffset": 306,
+									"length": 3
+								},
+								"tag": "VA",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 308,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99997646,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "필요하",
+						"tagged": "필요하/VA+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "것은",
+							"beginOffset": 309,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "것",
+									"beginOffset": 309,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.98274624,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 310,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9993584,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "것",
+						"tagged": "것/NNB+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "만들고",
+							"beginOffset": 312,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "만들",
+									"beginOffset": 312,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9884952,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 314,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9909989,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "만들",
+						"tagged": "만들/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "싶다고",
+							"beginOffset": 316,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "싶",
+									"beginOffset": 316,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.9765157,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다고",
+									"beginOffset": 317,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99225575,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "싶",
+						"tagged": "싶/VX+다고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "해서",
+							"beginOffset": 319,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 319,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.5448818,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아서",
+									"beginOffset": 319,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99478596,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VV+아서/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "생각만",
+							"beginOffset": 322,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "생각",
+									"beginOffset": 322,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97894144,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "만",
+									"beginOffset": 324,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9979035,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "생각",
+						"tagged": "생각/NNG+만/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "하는",
+							"beginOffset": 326,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 326,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9333588,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 327,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.999959,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "게",
+							"beginOffset": 328,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "거",
+									"beginOffset": 328,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9827931,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 328,
+									"length": 1
+								},
+								"tag": "JKC",
+								"probability": 0.3987251,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "거",
+						"tagged": "거/NNB+이/JKC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "아니라",
+							"beginOffset": 330,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "아니",
+									"beginOffset": 330,
+									"length": 2
+								},
+								"tag": "VCN",
+								"probability": 0.9999892,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "라",
+									"beginOffset": 332,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9880685,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "아니",
+						"tagged": "아니/VCN+라/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "실제로",
+							"beginOffset": 334,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "실제로",
+									"beginOffset": 334,
+									"length": 3
+								},
+								"tag": "MAG",
+								"probability": 0.9866722,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "실제로",
+						"tagged": "실제로/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "만들",
+							"beginOffset": 338,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "만들",
+									"beginOffset": 338,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9882503,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ",
+									"beginOffset": 339,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99997437,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "만들",
+						"tagged": "만들/VV+ㄹ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "수",
+							"beginOffset": 340,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "수",
+									"beginOffset": 340,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9744461,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "수",
+						"tagged": "수/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있다는",
+							"beginOffset": 341,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 341,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.97341025,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다는",
+									"beginOffset": 342,
+									"length": 2
+								},
+								"tag": "ETM",
+								"probability": 0.99998385,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VA+다는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "것이",
+							"beginOffset": 344,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "것",
+									"beginOffset": 344,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.98339486,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 345,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9477221,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "것",
+						"tagged": "것/NNB+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "놀랍고",
+							"beginOffset": 347,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "놀랍",
+									"beginOffset": 347,
+									"length": 2
+								},
+								"tag": "VA",
+								"probability": 0.9866702,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 349,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99480814,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "놀랍",
+						"tagged": "놀랍/VA+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "어딘가에서",
+							"beginOffset": 351,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "어디",
+									"beginOffset": 351,
+									"length": 2
+								},
+								"tag": "NP",
+								"probability": 0.9862654,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 352,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.9999558,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ가",
+									"beginOffset": 352,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.9897041,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에서",
+									"beginOffset": 354,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9896571,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "어디",
+						"tagged": "어디/NP+이/VCP+ㄴ가/EF+에서/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "발명은",
+							"beginOffset": 357,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "발명",
+									"beginOffset": 357,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98166084,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 359,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9977783,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "발명",
+						"tagged": "발명/NNG+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "필요해서",
+							"beginOffset": 361,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "필요하",
+									"beginOffset": 361,
+									"length": 3
+								},
+								"tag": "VA",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "아서",
+									"beginOffset": 363,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9871646,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "필요하",
+						"tagged": "필요하/VA+아서/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "만들어",
+							"beginOffset": 366,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "만들",
+									"beginOffset": 366,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9806883,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어",
+									"beginOffset": 368,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9951199,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "만들",
+						"tagged": "만들/VV+어/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "지는",
+							"beginOffset": 370,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "지",
+									"beginOffset": 370,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.9634605,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 371,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999649,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "지",
+						"tagged": "지/VX+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "것이",
+							"beginOffset": 372,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "것",
+									"beginOffset": 372,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.981848,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 373,
+									"length": 1
+								},
+								"tag": "JKC",
+								"probability": 0.99296695,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "것",
+						"tagged": "것/NNB+이/JKC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "아니고",
+							"beginOffset": 375,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "아니",
+									"beginOffset": 375,
+									"length": 2
+								},
+								"tag": "VCN",
+								"probability": 0.9999782,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 377,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9957966,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "아니",
+						"tagged": "아니/VCN+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "발명을",
+							"beginOffset": 379,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "발명",
+									"beginOffset": 379,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98129463,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 381,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999122,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "발명",
+						"tagged": "발명/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "해서",
+							"beginOffset": 383,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 383,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9690455,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아서",
+									"beginOffset": 383,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9900956,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VV+아서/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "필요해",
+							"beginOffset": 386,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "필요하",
+									"beginOffset": 386,
+									"length": 3
+								},
+								"tag": "VA",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 388,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99309397,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "필요하",
+						"tagged": "필요하/VA+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "진다는",
+							"beginOffset": 389,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "지",
+									"beginOffset": 389,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.9783376,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ다는",
+									"beginOffset": 389,
+									"length": 3
+								},
+								"tag": "ETM",
+								"probability": 0.99922913,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "지",
+						"tagged": "지/VX+ㄴ다는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "문장을",
+							"beginOffset": 393,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "문장",
+									"beginOffset": 393,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97864836,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 395,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99968225,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "문장",
+						"tagged": "문장/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "읽은",
+							"beginOffset": 397,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "읽",
+									"beginOffset": 397,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9890408,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 398,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999647,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "읽",
+						"tagged": "읽/VV+은/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "적이",
+							"beginOffset": 400,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "적",
+									"beginOffset": 400,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.94896245,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 401,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.98921615,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "적",
+						"tagged": "적/NNB+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있는데",
+							"beginOffset": 403,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 403,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9524463,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는데",
+									"beginOffset": 404,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9901858,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VA+는데/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이",
+							"beginOffset": 407,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 407,
+									"length": 1
+								},
+								"tag": "MMD",
+								"probability": 0.9997681,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이",
+						"tagged": "이/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "경우를",
+							"beginOffset": 409,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "경우",
+									"beginOffset": 409,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9842605,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 411,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9990304,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "경우",
+						"tagged": "경우/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "보면",
+							"beginOffset": 413,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "보",
+									"beginOffset": 413,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.95139277,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "면",
+									"beginOffset": 414,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9958347,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "보",
+						"tagged": "보/VV+면/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "그런",
+							"beginOffset": 416,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그런",
+									"beginOffset": 416,
+									"length": 2
+								},
+								"tag": "MMD",
+								"probability": 0.99893254,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그런",
+						"tagged": "그런/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "것만은",
+							"beginOffset": 418,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "것",
+									"beginOffset": 418,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9784087,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "만",
+									"beginOffset": 419,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9978417,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 420,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99860424,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "것",
+						"tagged": "것/NNB+만/JX+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "아닌",
+							"beginOffset": 422,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "아니",
+									"beginOffset": 422,
+									"length": 2
+								},
+								"tag": "VCN",
+								"probability": 0.9999438,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 423,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99984926,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "아니",
+						"tagged": "아니/VCN+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "것",
+							"beginOffset": 424,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "것",
+									"beginOffset": 424,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.98463047,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "것",
+						"tagged": "것/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "같다.",
+							"beginOffset": 426,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "같",
+									"beginOffset": 426,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9855455,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 427,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.99310714,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 428,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99920195,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "같",
+						"tagged": "같/VA+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "이 책을 읽고 느낀 점은 사람들이 필요한 것은 만들고 싶다고 해서 생각만 하는 게 아니라 실제로 만들 수 있다는 것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는 것이 아니고 발명을 해서 필요해 진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런 것만은 아닌 것 같다."
+			}
+		],
+		"language": "ko_KR"
+	},
+	"ttr": {
+		"lemma_Cnt": 227,
+		"lemma_TTR": 0.4380165289256198,
+		"CL_TTR": 0.6140350877192983,
+		"NL_TTR": 0.574468085106383,
+		"NN_TTR": 0.5652173913043478,
+		"NNG_TTR": 0.6363636363636364,
+		"NNP_TTR": 0,
+		"NNB_TTR": 0.38461538461538464,
+		"NP_TTR": 1.0,
+		"NR_TTR": 0,
+		"VL_TTR": 0.5849056603773585,
+		"VV_TTR": 0.6296296296296297,
+		"VA_TTR": 0.6153846153846154,
+		"ML_TTR": 0.8333333333333334,
+		"MM_TTR": 0,
+		"MA_TTR": 0.8333333333333334,
+		"MAJ_TTR": 1.0,
+		"IC_TTR": 1.0,
+		"FL_TTR": 0.3113207547169811,
+		"J_TTR": 0.28205128205128205,
+		"E_TTR": 0.359375,
+		"X_TTR": 0.3333333333333333,
+		"lemma_RTTR": 6.813938073252185,
+		"CL_RTTR": 6.556100681071857,
+		"NL_RTTR": 3.938354770443153,
+		"NN_RTTR": 3.8334908600273256,
+		"NNG_RTTR": 3.6556307750696546,
+		"NNP_RTTR": 0,
+		"NNB_RTTR": 1.386750490563073,
+		"NP_RTTR": 1.0,
+		"NR_RTTR": 0,
+		"VL_RTTR": 4.2581774824093594,
+		"VV_RTTR": 3.2716515254078793,
+		"VA_RTTR": 2.2188007849009166,
+		"ML_RTTR": 2.886751345948129,
+		"MM_RTTR": 0,
+		"MA_RTTR": 2.886751345948129,
+		"MAJ_RTTR": 1.7320508075688774,
+		"IC_RTTR": 1.0,
+		"FL_RTTR": 3.2052433457789715,
+		"J_RTTR": 1.7614096918559585,
+		"E_RTTR": 2.875,
+		"X_RTTR": 0.5773502691896258,
+		"lemma_CTTR": 4.818181818181818,
+		"CL_CTTR": 4.635863249727653,
+		"NL_CTTR": 2.784837364898742,
+		"NN_CTTR": 2.710687382741972,
+		"NNG_CTTR": 2.584921310565987,
+		"NNP_CTTR": 0,
+		"NNB_CTTR": 0.9805806756909202,
+		"NP_CTTR": 0.7071067811865475,
+		"NR_CTTR": 0,
+		"VL_CTTR": 3.010986173307519,
+		"VV_CTTR": 2.3134069792952237,
+		"VA_CTTR": 1.5689290811054724,
+		"ML_CTTR": 2.041241452319315,
+		"MM_CTTR": 0,
+		"MA_CTTR": 2.041241452319315,
+		"MAJ_CTTR": 1.2247448713915892,
+		"IC_CTTR": 0.7071067811865475,
+		"FL_CTTR": 2.266449305153369,
+		"J_CTTR": 1.245504737559055,
+		"E_CTTR": 2.032931995911324,
+		"X_CTTR": 0.4082482904638631,
+		"lemma_MSTTR": 0.7650000000000001,
+		"CL_MSTTR": 0.78,
+		"NL_MSTTR": 0.574468085106383,
+		"NN_MSTTR": 0.5652173913043478,
+		"NNG_MSTTR": 0.6363636363636364,
+		"NNP_MSTTR": 0,
+		"NNB_MSTTR": 0.38461538461538464,
+		"NP_MSTTR": 1.0,
+		"NR_MSTTR": 0,
+		"VL_MSTTR": 0.58,
+		"VV_MSTTR": 0.6296296296296297,
+		"VA_MSTTR": 0.6153846153846154,
+		"ML_MSTTR": 0.8333333333333334,
+		"MM_MSTTR": 0,
+		"MA_MSTTR": 0.8333333333333334,
+		"MAJ_MSTTR": 1.0,
+		"IC_MSTTR": 1.0,
+		"FL_MSTTR": 0.45999999999999996,
+		"J_MSTTR": 0.28205128205128205,
+		"E_MSTTR": 0.36,
+		"X_MSTTR": 0.3333333333333333,
+		"lemma_MATTR": 0.7504663212435227,
+		"CL_MATTR": 0.7596923076923079,
+		"NL_MATTR": 0.574468085106383,
+		"NN_MATTR": 0.5652173913043478,
+		"NNG_MATTR": 0.6363636363636364,
+		"NNP_MATTR": 0,
+		"NNB_MATTR": 0.38461538461538464,
+		"NP_MATTR": 1.0,
+		"NR_MATTR": 0,
+		"VL_MATTR": 0.595,
+		"VV_MATTR": 0.6296296296296297,
+		"VA_MATTR": 0.6153846153846154,
+		"ML_MATTR": 0.8333333333333334,
+		"MM_MATTR": 0,
+		"MA_MATTR": 0.8333333333333334,
+		"MAJ_MATTR": 1.0,
+		"IC_MATTR": 1.0,
+		"FL_MATTR": 0.43859649122807043,
+		"J_MATTR": 0.28205128205128205,
+		"E_MATTR": 0.37333333333333324,
+		"X_MATTR": 0.3333333333333333,
+		"lemma_MTLD": 54.01416939268952,
+		"CL_MTLD": 47.76528808766348,
+		"NL_MTLD": 17.315789473684212,
+		"NN_MTLD": 16.529051987767584,
+		"NNG_MTLD": 17.295180722891565,
+		"NNP_MTLD": 0.0,
+		"NNB_MTLD": 5.934782608695651,
+		"NP_MTLD": 0.0,
+		"NR_MTLD": 0.0,
+		"VL_MTLD": 29.19234581760856,
+		"VV_MTLD": 23.005917159763314,
+		"VA_MTLD": 13.0,
+		"ML_MTLD": 20.160000000000007,
+		"MM_MTLD": 0.0,
+		"MA_MTLD": 20.160000000000007,
+		"MAJ_MTLD": 0.0,
+		"IC_MTLD": 0.0,
+		"FL_MTLD": 21.873773773773774,
+		"J_MTLD": 9.700507614213198,
+		"E_MTLD": 14.4,
+		"X_MTLD": 1.26,
+		"lemma_VOCDD": 58.86923785486454,
+		"CL_VOCDD": 65.54005607620233,
+		"NL_VOCDD": 0,
+		"NN_VOCDD": 0,
+		"NNG_VOCDD": 0,
+		"NNP_VOCDD": 0,
+		"NNB_VOCDD": 0,
+		"NP_VOCDD": 0,
+		"NR_VOCDD": 0,
+		"VL_VOCDD": 22.086071916597263,
+		"VV_VOCDD": 0,
+		"VA_VOCDD": 0,
+		"ML_VOCDD": 0,
+		"MM_VOCDD": 0,
+		"MA_VOCDD": 0,
+		"MAJ_VOCDD": 0,
+		"IC_VOCDD": 0,
+		"FL_VOCDD": 12.655001797790996,
+		"J_VOCDD": 0,
+		"E_VOCDD": 7.834675996767905,
+		"X_VOCDD": 0,
+		"lemma_HDD": 0.7820825047397063,
+		"CL_HDD": 0.7952687730284383,
+		"NL_HDD": 0.5967638434992092,
+		"NN_HDD": 0.5835494917395826,
+		"NNG_HDD": 0.0,
+		"NNP_HDD": 0.0,
+		"NNB_HDD": 0.0,
+		"NP_HDD": 0.0,
+		"NR_HDD": 0.0,
+		"VL_HDD": 0.6269150040277358,
+		"VV_HDD": 0.0,
+		"VA_HDD": 0.0,
+		"ML_HDD": 0.0,
+		"MM_HDD": 0.0,
+		"MA_HDD": 0.0,
+		"MAJ_HDD": 0.0,
+		"IC_HDD": 0.0,
+		"FL_HDD": 0.5310668781324347,
+		"J_HDD": 0.0,
+		"E_HDD": 0.45175651176906373,
+		"X_HDD": 0.0
+	},
+	"similarity": {
+		"avgSentSimilarity": 0.17707929015159607,
+		"topicConsistency": 0.5136
+	},
+	"adjacency": {
+		"adjacent_sentence_overlap_all_lemmas": 143,
+		"adjacent_sentence_overlap_all_lemmas_normed": 8,
+		"binary_adjacent_sentence_overlap_all_lemmas": 8,
+		"adjacent_two_sentence_overlap_all_lemmas": 100,
+		"adjacent_two_sentence_overlap_all_lemmas_normed": 7,
+		"binary_adjacent_two_sentence_overlap_all_lemmas": 7,
+		"adjacent_sentence_overlap_content_lemmas": 73,
+		"adjacent_sentence_overlap_content_lemmas_normed": 8,
+		"binary_adjacent_sentence_overlap_content_lemmas": 6,
+		"adjacent_two_sentence_overlap_content_lemmas": 53,
+		"adjacent_two_sentence_overlap_content_lemmas_normed": 7,
+		"binary_adjacent_two_sentence_overlap_content_lemmas": 4,
+		"adjacent_sentence_overlap_function_lemmas": 58,
+		"adjacent_sentence_overlap_function_lemmas_normed": 8,
+		"binary_adjacent_sentence_overlap_function_lemmas": 8,
+		"adjacent_two_sentence_overlap_function_lemmas": 40,
+		"adjacent_two_sentence_overlap_function_lemmas_normed": 7,
+		"binary_adjacent_two_sentence_overlap_function_lemmas": 7,
+		"adjacent_sentence_overlap_noun_lemmas": 40,
+		"adjacent_sentence_overlap_noun_lemmas_normed": 8,
+		"binary_adjacent_sentence_overlap_noun_lemmas": 6,
+		"adjacent_two_sentence_overlap_noun_lemmas": 32,
+		"adjacent_two_sentence_overlap_noun_lemmas_normed": 7,
+		"binary_adjacent_two_sentence_overlap_noun_lemmas": 3,
+		"adjacent_sentence_overlap_verb_lemmas": 28,
+		"adjacent_sentence_overlap_verb_lemmas_normed": 7,
+		"binary_adjacent_sentence_overlap_verb_lemmas": 2,
+		"adjacent_two_sentence_overlap_verb_lemmas": 18,
+		"adjacent_two_sentence_overlap_verb_lemmas_normed": 5,
+		"binary_adjacent_two_sentence_overlap_verb_lemmas": 1,
+		"adjacent_sentence_overlap_adjective_lemmas": 1,
+		"adjacent_sentence_overlap_adjective_lemmas_normed": 1,
+		"binary_adjacent_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_sentence_overlap_adverb_lemmas": 6,
+		"adjacent_sentence_overlap_adverb_lemmas_normed": 4,
+		"binary_adjacent_sentence_overlap_adverb_lemmas": 1,
+		"adjacent_two_sentence_overlap_adverb_lemmas": 3,
+		"adjacent_two_sentence_overlap_adverb_lemmas_normed": 2,
+		"binary_adjacent_two_sentence_overlap_adverb_lemmas": 0
+	},
+	"basic_count": {
+		"para_Cnt": 1,
+		"sentence_Cnt": 9,
+		"word_Cnt": 100,
+		"morph_Cnt": 242,
+		"char_Cnt": 342,
+		"CL_Cnt": 114,
+		"NL_Cnt": 47,
+		"NN_Cnt": 46,
+		"NNG_Cnt": 33,
+		"NNP_Cnt": 0,
+		"NNB_Cnt": 13,
+		"NP_Cnt": 1,
+		"NP_People_Cnt": 0,
+		"NP_Things_Cnt": 1,
+		"NR_Cnt": 0,
+		"VL_Cnt": 53,
+		"VV_Cnt": 27,
+		"VA_Cnt": 13,
+		"VX_Cnt": 8,
+		"VCP_Cnt": 2,
+		"VCN_Cnt": 3,
+		"ML_Cnt": 12,
+		"MA_Cnt": 0,
+		"MM_Cnt": 0,
+		"FL_Cnt": 106,
+		"J_Cnt": 39,
+		"E_Cnt": 64,
+		"X_Cnt": 3,
+		"IC_Cnt": 1
+	},
+	"basic_density": {
+		"CL_Den": 0.47107438016528924,
+		"FL_Den": 0.4380165289256198,
+		"NL_Den": 0.19008264462809918,
+		"NNGL_Den": 0.13636363636363635,
+		"NNPL_Den": 0.0,
+		"NNBL_Den": 0.05371900826446281,
+		"NPL_Den": 0.004132231404958678,
+		"NML_Den": 0.0,
+		"VL_Den": 0.2190082644628099,
+		"VVL_Den": 0.1115702479338843,
+		"VAL_Den": 0.05371900826446281,
+		"ML_Den": 0.049586776859504134,
+		"MML_Den": 0.0,
+		"MAL_Den": 0.0,
+		"JL_Den": 0.16115702479338842,
+		"EL_Den": 0.2644628099173554,
+		"XL_Den": 0.012396694214876033,
+		"ITL_Den": 0.004132231404958678,
+		"NCL_Den": 0.40350877192982454,
+		"NNCL_Den": 0.2894736842105263,
+		"NNGCL_Den": 0.0,
+		"NNBCL_Den": 0.11403508771929824,
+		"NPCL_Den": 0.008771929824561403,
+		"NMCL_Den": 0.0,
+		"VCL_Den": 0.4649122807017544,
+		"VVCL_Den": 0.23684210526315788,
+		"VACL_Den": 0.11403508771929824,
+		"MCL_Den": 0.10526315789473684,
+		"MMCL_Den": 0.0,
+		"MACL_Den": 0.0,
+		"INCL_Den": 0.008771929824561403,
+		"JFL_Den": 0.36792452830188677,
+		"EFL_Den": 0.6037735849056604,
+		"XFL_Den": 0.02830188679245283
+	},
+	"basic_level": {
+		"morph_LenAvg": 1.462809917355372,
+		"morph_LenStd": 0.7046635949518096,
+		"word_LenAvg": 3.18,
+		"word_LenStd": 1.291355876588634
+	},
+	"basic_list": {
+		"NL_Lst": [
+			[
+				0,
+				"학교",
+				"NNG",
+				"학교에서 독서활동을 하다가 이책을 읽게 되었다."
+			],
+			[
+				1,
+				"독서",
+				"NNG",
+				"학교에서 독서활동을 하다가 이책을 읽게 되었다."
+			],
+			[
+				2,
+				"활동",
+				"NNG",
+				"학교에서 독서활동을 하다가 이책을 읽게 되었다."
+			],
+			[
+				3,
+				"책",
+				"NNG",
+				"학교에서 독서활동을 하다가 이책을 읽게 되었다."
+			],
+			[
+				4,
+				"책",
+				"NNG",
+				"이 책은 타자기가 컴퓨터로 발전되어 가는 과정을 담은 책이다."
+			],
+			[
+				5,
+				"타자기",
+				"NNG",
+				"이 책은 타자기가 컴퓨터로 발전되어 가는 과정을 담은 책이다."
+			],
+			[
+				6,
+				"컴퓨터",
+				"NNG",
+				"이 책은 타자기가 컴퓨터로 발전되어 가는 과정을 담은 책이다."
+			],
+			[
+				7,
+				"과정",
+				"NNG",
+				"이 책은 타자기가 컴퓨터로 발전되어 가는 과정을 담은 책이다."
+			],
+			[
+				8,
+				"책",
+				"NNG",
+				"이 책은 타자기가 컴퓨터로 발전되어 가는 과정을 담은 책이다."
+			],
+			[
+				9,
+				"처음",
+				"NNG",
+				"처음에 타자기는 너무 컷고 일일이 손으로 내용을 썻어야 했다."
+			],
+			[
+				10,
+				"타자기",
+				"NNG",
+				"처음에 타자기는 너무 컷고 일일이 손으로 내용을 썻어야 했다."
+			],
+			[
+				11,
+				"손",
+				"NNG",
+				"처음에 타자기는 너무 컷고 일일이 손으로 내용을 썻어야 했다."
+			],
+			[
+				12,
+				"내용",
+				"NNG",
+				"처음에 타자기는 너무 컷고 일일이 손으로 내용을 썻어야 했다."
+			],
+			[
+				13,
+				"년대",
+				"NNB",
+				"1920년대에 새로운 전자 타자기가 만들어 졌고, 더 빨랐고, 상점에서 쉽게 살수있었다."
+			],
+			[
+				14,
+				"전자",
+				"NNG",
+				"1920년대에 새로운 전자 타자기가 만들어 졌고, 더 빨랐고, 상점에서 쉽게 살수있었다."
+			],
+			[
+				15,
+				"타자기",
+				"NNG",
+				"1920년대에 새로운 전자 타자기가 만들어 졌고, 더 빨랐고, 상점에서 쉽게 살수있었다."
+			],
+			[
+				16,
+				"상점",
+				"NNG",
+				"1920년대에 새로운 전자 타자기가 만들어 졌고, 더 빨랐고, 상점에서 쉽게 살수있었다."
+			],
+			[
+				17,
+				"수",
+				"NNB",
+				"1920년대에 새로운 전자 타자기가 만들어 졌고, 더 빨랐고, 상점에서 쉽게 살수있었다."
+			],
+			[
+				18,
+				"사람",
+				"NNG",
+				"하지만 사람들은 기계가 더 도와주기를 요구했고, 결국 1960년대 컴퓨터가 만들어졌다."
+			],
+			[
+				19,
+				"기계",
+				"NNG",
+				"하지만 사람들은 기계가 더 도와주기를 요구했고, 결국 1960년대 컴퓨터가 만들어졌다."
+			],
+			[
+				20,
+				"년대",
+				"NNB",
+				"하지만 사람들은 기계가 더 도와주기를 요구했고, 결국 1960년대 컴퓨터가 만들어졌다."
+			],
+			[
+				21,
+				"컴퓨터",
+				"NNG",
+				"하지만 사람들은 기계가 더 도와주기를 요구했고, 결국 1960년대 컴퓨터가 만들어졌다."
+			],
+			[
+				22,
+				"컴퓨터",
+				"NNG",
+				"그런데 이 컴퓨터는 매우컷다."
+			],
+			[
+				23,
+				"사람",
+				"NNG",
+				"그래도 사람들은 이 크기를 줄일수 있다고 믿었다."
+			],
+			[
+				24,
+				"크기",
+				"NNG",
+				"그래도 사람들은 이 크기를 줄일수 있다고 믿었다."
+			],
+			[
+				25,
+				"수",
+				"NNB",
+				"그래도 사람들은 이 크기를 줄일수 있다고 믿었다."
+			],
+			[
+				26,
+				"크기",
+				"NNG",
+				"그래서 결국 크기를 줄여냈고 1990년대 에 드디어 타자기 사용을 멈추기 시작했다."
+			],
+			[
+				27,
+				"년대",
+				"NNB",
+				"그래서 결국 크기를 줄여냈고 1990년대 에 드디어 타자기 사용을 멈추기 시작했다."
+			],
+			[
+				28,
+				"타자기",
+				"NNG",
+				"그래서 결국 크기를 줄여냈고 1990년대 에 드디어 타자기 사용을 멈추기 시작했다."
+			],
+			[
+				29,
+				"사용",
+				"NNG",
+				"그래서 결국 크기를 줄여냈고 1990년대 에 드디어 타자기 사용을 멈추기 시작했다."
+			],
+			[
+				30,
+				"책",
+				"NNG",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				31,
+				"점",
+				"NNG",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				32,
+				"사람",
+				"NNG",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				33,
+				"것",
+				"NNB",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				34,
+				"생각",
+				"NNG",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				35,
+				"거",
+				"NNB",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				36,
+				"수",
+				"NNB",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				37,
+				"것",
+				"NNB",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				38,
+				"어디",
+				"NP",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				39,
+				"발명",
+				"NNG",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				40,
+				"것",
+				"NNB",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				41,
+				"발명",
+				"NNG",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				42,
+				"문장",
+				"NNG",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				43,
+				"적",
+				"NNB",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				44,
+				"경우",
+				"NNG",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				45,
+				"것",
+				"NNB",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				46,
+				"것",
+				"NNB",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			]
+		],
+		"NN_Lst": [
+			[
+				0,
+				"학교",
+				"NNG",
+				"학교에서 독서활동을 하다가 이책을 읽게 되었다."
+			],
+			[
+				1,
+				"독서",
+				"NNG",
+				"학교에서 독서활동을 하다가 이책을 읽게 되었다."
+			],
+			[
+				2,
+				"활동",
+				"NNG",
+				"학교에서 독서활동을 하다가 이책을 읽게 되었다."
+			],
+			[
+				3,
+				"책",
+				"NNG",
+				"학교에서 독서활동을 하다가 이책을 읽게 되었다."
+			],
+			[
+				4,
+				"책",
+				"NNG",
+				"이 책은 타자기가 컴퓨터로 발전되어 가는 과정을 담은 책이다."
+			],
+			[
+				5,
+				"타자기",
+				"NNG",
+				"이 책은 타자기가 컴퓨터로 발전되어 가는 과정을 담은 책이다."
+			],
+			[
+				6,
+				"컴퓨터",
+				"NNG",
+				"이 책은 타자기가 컴퓨터로 발전되어 가는 과정을 담은 책이다."
+			],
+			[
+				7,
+				"과정",
+				"NNG",
+				"이 책은 타자기가 컴퓨터로 발전되어 가는 과정을 담은 책이다."
+			],
+			[
+				8,
+				"책",
+				"NNG",
+				"이 책은 타자기가 컴퓨터로 발전되어 가는 과정을 담은 책이다."
+			],
+			[
+				9,
+				"처음",
+				"NNG",
+				"처음에 타자기는 너무 컷고 일일이 손으로 내용을 썻어야 했다."
+			],
+			[
+				10,
+				"타자기",
+				"NNG",
+				"처음에 타자기는 너무 컷고 일일이 손으로 내용을 썻어야 했다."
+			],
+			[
+				11,
+				"손",
+				"NNG",
+				"처음에 타자기는 너무 컷고 일일이 손으로 내용을 썻어야 했다."
+			],
+			[
+				12,
+				"내용",
+				"NNG",
+				"처음에 타자기는 너무 컷고 일일이 손으로 내용을 썻어야 했다."
+			],
+			[
+				13,
+				"년대",
+				"NNB",
+				"1920년대에 새로운 전자 타자기가 만들어 졌고, 더 빨랐고, 상점에서 쉽게 살수있었다."
+			],
+			[
+				14,
+				"전자",
+				"NNG",
+				"1920년대에 새로운 전자 타자기가 만들어 졌고, 더 빨랐고, 상점에서 쉽게 살수있었다."
+			],
+			[
+				15,
+				"타자기",
+				"NNG",
+				"1920년대에 새로운 전자 타자기가 만들어 졌고, 더 빨랐고, 상점에서 쉽게 살수있었다."
+			],
+			[
+				16,
+				"상점",
+				"NNG",
+				"1920년대에 새로운 전자 타자기가 만들어 졌고, 더 빨랐고, 상점에서 쉽게 살수있었다."
+			],
+			[
+				17,
+				"수",
+				"NNB",
+				"1920년대에 새로운 전자 타자기가 만들어 졌고, 더 빨랐고, 상점에서 쉽게 살수있었다."
+			],
+			[
+				18,
+				"사람",
+				"NNG",
+				"하지만 사람들은 기계가 더 도와주기를 요구했고, 결국 1960년대 컴퓨터가 만들어졌다."
+			],
+			[
+				19,
+				"기계",
+				"NNG",
+				"하지만 사람들은 기계가 더 도와주기를 요구했고, 결국 1960년대 컴퓨터가 만들어졌다."
+			],
+			[
+				20,
+				"년대",
+				"NNB",
+				"하지만 사람들은 기계가 더 도와주기를 요구했고, 결국 1960년대 컴퓨터가 만들어졌다."
+			],
+			[
+				21,
+				"컴퓨터",
+				"NNG",
+				"하지만 사람들은 기계가 더 도와주기를 요구했고, 결국 1960년대 컴퓨터가 만들어졌다."
+			],
+			[
+				22,
+				"컴퓨터",
+				"NNG",
+				"그런데 이 컴퓨터는 매우컷다."
+			],
+			[
+				23,
+				"사람",
+				"NNG",
+				"그래도 사람들은 이 크기를 줄일수 있다고 믿었다."
+			],
+			[
+				24,
+				"크기",
+				"NNG",
+				"그래도 사람들은 이 크기를 줄일수 있다고 믿었다."
+			],
+			[
+				25,
+				"수",
+				"NNB",
+				"그래도 사람들은 이 크기를 줄일수 있다고 믿었다."
+			],
+			[
+				26,
+				"크기",
+				"NNG",
+				"그래서 결국 크기를 줄여냈고 1990년대 에 드디어 타자기 사용을 멈추기 시작했다."
+			],
+			[
+				27,
+				"년대",
+				"NNB",
+				"그래서 결국 크기를 줄여냈고 1990년대 에 드디어 타자기 사용을 멈추기 시작했다."
+			],
+			[
+				28,
+				"타자기",
+				"NNG",
+				"그래서 결국 크기를 줄여냈고 1990년대 에 드디어 타자기 사용을 멈추기 시작했다."
+			],
+			[
+				29,
+				"사용",
+				"NNG",
+				"그래서 결국 크기를 줄여냈고 1990년대 에 드디어 타자기 사용을 멈추기 시작했다."
+			],
+			[
+				30,
+				"책",
+				"NNG",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				31,
+				"점",
+				"NNG",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				32,
+				"사람",
+				"NNG",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				33,
+				"것",
+				"NNB",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				34,
+				"생각",
+				"NNG",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				35,
+				"거",
+				"NNB",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				36,
+				"수",
+				"NNB",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				37,
+				"것",
+				"NNB",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				38,
+				"발명",
+				"NNG",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				39,
+				"것",
+				"NNB",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				40,
+				"발명",
+				"NNG",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				41,
+				"문장",
+				"NNG",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				42,
+				"적",
+				"NNB",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				43,
+				"경우",
+				"NNG",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				44,
+				"것",
+				"NNB",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				45,
+				"것",
+				"NNB",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			]
+		],
+		"NNG_Lst": [
+			[
+				0,
+				"학교",
+				"NNG",
+				"학교에서 독서활동을 하다가 이책을 읽게 되었다."
+			],
+			[
+				1,
+				"독서",
+				"NNG",
+				"학교에서 독서활동을 하다가 이책을 읽게 되었다."
+			],
+			[
+				2,
+				"활동",
+				"NNG",
+				"학교에서 독서활동을 하다가 이책을 읽게 되었다."
+			],
+			[
+				3,
+				"책",
+				"NNG",
+				"학교에서 독서활동을 하다가 이책을 읽게 되었다."
+			],
+			[
+				4,
+				"책",
+				"NNG",
+				"이 책은 타자기가 컴퓨터로 발전되어 가는 과정을 담은 책이다."
+			],
+			[
+				5,
+				"타자기",
+				"NNG",
+				"이 책은 타자기가 컴퓨터로 발전되어 가는 과정을 담은 책이다."
+			],
+			[
+				6,
+				"컴퓨터",
+				"NNG",
+				"이 책은 타자기가 컴퓨터로 발전되어 가는 과정을 담은 책이다."
+			],
+			[
+				7,
+				"과정",
+				"NNG",
+				"이 책은 타자기가 컴퓨터로 발전되어 가는 과정을 담은 책이다."
+			],
+			[
+				8,
+				"책",
+				"NNG",
+				"이 책은 타자기가 컴퓨터로 발전되어 가는 과정을 담은 책이다."
+			],
+			[
+				9,
+				"처음",
+				"NNG",
+				"처음에 타자기는 너무 컷고 일일이 손으로 내용을 썻어야 했다."
+			],
+			[
+				10,
+				"타자기",
+				"NNG",
+				"처음에 타자기는 너무 컷고 일일이 손으로 내용을 썻어야 했다."
+			],
+			[
+				11,
+				"손",
+				"NNG",
+				"처음에 타자기는 너무 컷고 일일이 손으로 내용을 썻어야 했다."
+			],
+			[
+				12,
+				"내용",
+				"NNG",
+				"처음에 타자기는 너무 컷고 일일이 손으로 내용을 썻어야 했다."
+			],
+			[
+				13,
+				"전자",
+				"NNG",
+				"1920년대에 새로운 전자 타자기가 만들어 졌고, 더 빨랐고, 상점에서 쉽게 살수있었다."
+			],
+			[
+				14,
+				"타자기",
+				"NNG",
+				"1920년대에 새로운 전자 타자기가 만들어 졌고, 더 빨랐고, 상점에서 쉽게 살수있었다."
+			],
+			[
+				15,
+				"상점",
+				"NNG",
+				"1920년대에 새로운 전자 타자기가 만들어 졌고, 더 빨랐고, 상점에서 쉽게 살수있었다."
+			],
+			[
+				16,
+				"사람",
+				"NNG",
+				"하지만 사람들은 기계가 더 도와주기를 요구했고, 결국 1960년대 컴퓨터가 만들어졌다."
+			],
+			[
+				17,
+				"기계",
+				"NNG",
+				"하지만 사람들은 기계가 더 도와주기를 요구했고, 결국 1960년대 컴퓨터가 만들어졌다."
+			],
+			[
+				18,
+				"컴퓨터",
+				"NNG",
+				"하지만 사람들은 기계가 더 도와주기를 요구했고, 결국 1960년대 컴퓨터가 만들어졌다."
+			],
+			[
+				19,
+				"컴퓨터",
+				"NNG",
+				"그런데 이 컴퓨터는 매우컷다."
+			],
+			[
+				20,
+				"사람",
+				"NNG",
+				"그래도 사람들은 이 크기를 줄일수 있다고 믿었다."
+			],
+			[
+				21,
+				"크기",
+				"NNG",
+				"그래도 사람들은 이 크기를 줄일수 있다고 믿었다."
+			],
+			[
+				22,
+				"크기",
+				"NNG",
+				"그래서 결국 크기를 줄여냈고 1990년대 에 드디어 타자기 사용을 멈추기 시작했다."
+			],
+			[
+				23,
+				"타자기",
+				"NNG",
+				"그래서 결국 크기를 줄여냈고 1990년대 에 드디어 타자기 사용을 멈추기 시작했다."
+			],
+			[
+				24,
+				"사용",
+				"NNG",
+				"그래서 결국 크기를 줄여냈고 1990년대 에 드디어 타자기 사용을 멈추기 시작했다."
+			],
+			[
+				25,
+				"책",
+				"NNG",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				26,
+				"점",
+				"NNG",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				27,
+				"사람",
+				"NNG",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				28,
+				"생각",
+				"NNG",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				29,
+				"발명",
+				"NNG",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				30,
+				"발명",
+				"NNG",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				31,
+				"문장",
+				"NNG",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				32,
+				"경우",
+				"NNG",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			]
+		],
+		"NNP_Lst": [],
+		"NNB_Lst": [
+			[
+				0,
+				"년대",
+				"NNB",
+				"1920년대에 새로운 전자 타자기가 만들어 졌고, 더 빨랐고, 상점에서 쉽게 살수있었다."
+			],
+			[
+				1,
+				"수",
+				"NNB",
+				"1920년대에 새로운 전자 타자기가 만들어 졌고, 더 빨랐고, 상점에서 쉽게 살수있었다."
+			],
+			[
+				2,
+				"년대",
+				"NNB",
+				"하지만 사람들은 기계가 더 도와주기를 요구했고, 결국 1960년대 컴퓨터가 만들어졌다."
+			],
+			[
+				3,
+				"수",
+				"NNB",
+				"그래도 사람들은 이 크기를 줄일수 있다고 믿었다."
+			],
+			[
+				4,
+				"년대",
+				"NNB",
+				"그래서 결국 크기를 줄여냈고 1990년대 에 드디어 타자기 사용을 멈추기 시작했다."
+			],
+			[
+				5,
+				"것",
+				"NNB",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				6,
+				"거",
+				"NNB",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				7,
+				"수",
+				"NNB",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				8,
+				"것",
+				"NNB",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				9,
+				"것",
+				"NNB",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				10,
+				"적",
+				"NNB",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				11,
+				"것",
+				"NNB",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				12,
+				"것",
+				"NNB",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			]
+		],
+		"NP_Lst": [
+			[
+				0,
+				"어디",
+				"NP",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			]
+		],
+		"NP_People_Lst": [],
+		"NP_Things_Lst": [
+			[
+				0,
+				"어디",
+				"NP",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			]
+		],
+		"NR_Lst": [],
+		"VL_Lst": [
+			[
+				0,
+				"하",
+				"VV",
+				"학교에서 독서활동을 하다가 이책을 읽게 되었다."
+			],
+			[
+				1,
+				"읽",
+				"VV",
+				"학교에서 독서활동을 하다가 이책을 읽게 되었다."
+			],
+			[
+				2,
+				"되",
+				"VV",
+				"학교에서 독서활동을 하다가 이책을 읽게 되었다."
+			],
+			[
+				3,
+				"발전되",
+				"VV",
+				"이 책은 타자기가 컴퓨터로 발전되어 가는 과정을 담은 책이다."
+			],
+			[
+				4,
+				"가",
+				"VX",
+				"이 책은 타자기가 컴퓨터로 발전되어 가는 과정을 담은 책이다."
+			],
+			[
+				5,
+				"담",
+				"VV",
+				"이 책은 타자기가 컴퓨터로 발전되어 가는 과정을 담은 책이다."
+			],
+			[
+				6,
+				"이",
+				"VCP",
+				"이 책은 타자기가 컴퓨터로 발전되어 가는 과정을 담은 책이다."
+			],
+			[
+				7,
+				"썻",
+				"VV",
+				"처음에 타자기는 너무 컷고 일일이 손으로 내용을 썻어야 했다."
+			],
+			[
+				8,
+				"하",
+				"VX",
+				"처음에 타자기는 너무 컷고 일일이 손으로 내용을 썻어야 했다."
+			],
+			[
+				9,
+				"새롭",
+				"VA",
+				"1920년대에 새로운 전자 타자기가 만들어 졌고, 더 빨랐고, 상점에서 쉽게 살수있었다."
+			],
+			[
+				10,
+				"만들",
+				"VV",
+				"1920년대에 새로운 전자 타자기가 만들어 졌고, 더 빨랐고, 상점에서 쉽게 살수있었다."
+			],
+			[
+				11,
+				"지",
+				"VX",
+				"1920년대에 새로운 전자 타자기가 만들어 졌고, 더 빨랐고, 상점에서 쉽게 살수있었다."
+			],
+			[
+				12,
+				"빠르",
+				"VA",
+				"1920년대에 새로운 전자 타자기가 만들어 졌고, 더 빨랐고, 상점에서 쉽게 살수있었다."
+			],
+			[
+				13,
+				"쉽",
+				"VA",
+				"1920년대에 새로운 전자 타자기가 만들어 졌고, 더 빨랐고, 상점에서 쉽게 살수있었다."
+			],
+			[
+				14,
+				"살",
+				"VV",
+				"1920년대에 새로운 전자 타자기가 만들어 졌고, 더 빨랐고, 상점에서 쉽게 살수있었다."
+			],
+			[
+				15,
+				"있",
+				"VA",
+				"1920년대에 새로운 전자 타자기가 만들어 졌고, 더 빨랐고, 상점에서 쉽게 살수있었다."
+			],
+			[
+				16,
+				"도와주",
+				"VV",
+				"하지만 사람들은 기계가 더 도와주기를 요구했고, 결국 1960년대 컴퓨터가 만들어졌다."
+			],
+			[
+				17,
+				"요구하",
+				"VV",
+				"하지만 사람들은 기계가 더 도와주기를 요구했고, 결국 1960년대 컴퓨터가 만들어졌다."
+			],
+			[
+				18,
+				"만들",
+				"VV",
+				"하지만 사람들은 기계가 더 도와주기를 요구했고, 결국 1960년대 컴퓨터가 만들어졌다."
+			],
+			[
+				19,
+				"지",
+				"VX",
+				"하지만 사람들은 기계가 더 도와주기를 요구했고, 결국 1960년대 컴퓨터가 만들어졌다."
+			],
+			[
+				20,
+				"컬",
+				"VA",
+				"그런데 이 컴퓨터는 매우컷다."
+			],
+			[
+				21,
+				"그러",
+				"VV",
+				"그래도 사람들은 이 크기를 줄일수 있다고 믿었다."
+			],
+			[
+				22,
+				"줄이",
+				"VV",
+				"그래도 사람들은 이 크기를 줄일수 있다고 믿었다."
+			],
+			[
+				23,
+				"있",
+				"VA",
+				"그래도 사람들은 이 크기를 줄일수 있다고 믿었다."
+			],
+			[
+				24,
+				"믿",
+				"VV",
+				"그래도 사람들은 이 크기를 줄일수 있다고 믿었다."
+			],
+			[
+				25,
+				"줄이",
+				"VV",
+				"그래서 결국 크기를 줄여냈고 1990년대 에 드디어 타자기 사용을 멈추기 시작했다."
+			],
+			[
+				26,
+				"내",
+				"VX",
+				"그래서 결국 크기를 줄여냈고 1990년대 에 드디어 타자기 사용을 멈추기 시작했다."
+			],
+			[
+				27,
+				"멈추",
+				"VV",
+				"그래서 결국 크기를 줄여냈고 1990년대 에 드디어 타자기 사용을 멈추기 시작했다."
+			],
+			[
+				28,
+				"시작하",
+				"VV",
+				"그래서 결국 크기를 줄여냈고 1990년대 에 드디어 타자기 사용을 멈추기 시작했다."
+			],
+			[
+				29,
+				"읽",
+				"VV",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				30,
+				"느끼",
+				"VV",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				31,
+				"필요하",
+				"VA",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				32,
+				"만들",
+				"VV",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				33,
+				"싶",
+				"VX",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				34,
+				"하",
+				"VV",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				35,
+				"하",
+				"VV",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				36,
+				"아니",
+				"VCN",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				37,
+				"만들",
+				"VV",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				38,
+				"있",
+				"VA",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				39,
+				"놀랍",
+				"VA",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				40,
+				"이",
+				"VCP",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				41,
+				"필요하",
+				"VA",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				42,
+				"만들",
+				"VV",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				43,
+				"지",
+				"VX",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				44,
+				"아니",
+				"VCN",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				45,
+				"하",
+				"VV",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				46,
+				"필요하",
+				"VA",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				47,
+				"지",
+				"VX",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				48,
+				"읽",
+				"VV",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				49,
+				"있",
+				"VA",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				50,
+				"보",
+				"VV",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				51,
+				"아니",
+				"VCN",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				52,
+				"같",
+				"VA",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			]
+		],
+		"VV_Lst": [
+			[
+				0,
+				"하",
+				"VV",
+				"학교에서 독서활동을 하다가 이책을 읽게 되었다."
+			],
+			[
+				1,
+				"읽",
+				"VV",
+				"학교에서 독서활동을 하다가 이책을 읽게 되었다."
+			],
+			[
+				2,
+				"되",
+				"VV",
+				"학교에서 독서활동을 하다가 이책을 읽게 되었다."
+			],
+			[
+				3,
+				"발전되",
+				"VV",
+				"이 책은 타자기가 컴퓨터로 발전되어 가는 과정을 담은 책이다."
+			],
+			[
+				4,
+				"담",
+				"VV",
+				"이 책은 타자기가 컴퓨터로 발전되어 가는 과정을 담은 책이다."
+			],
+			[
+				5,
+				"썻",
+				"VV",
+				"처음에 타자기는 너무 컷고 일일이 손으로 내용을 썻어야 했다."
+			],
+			[
+				6,
+				"만들",
+				"VV",
+				"1920년대에 새로운 전자 타자기가 만들어 졌고, 더 빨랐고, 상점에서 쉽게 살수있었다."
+			],
+			[
+				7,
+				"살",
+				"VV",
+				"1920년대에 새로운 전자 타자기가 만들어 졌고, 더 빨랐고, 상점에서 쉽게 살수있었다."
+			],
+			[
+				8,
+				"도와주",
+				"VV",
+				"하지만 사람들은 기계가 더 도와주기를 요구했고, 결국 1960년대 컴퓨터가 만들어졌다."
+			],
+			[
+				9,
+				"요구하",
+				"VV",
+				"하지만 사람들은 기계가 더 도와주기를 요구했고, 결국 1960년대 컴퓨터가 만들어졌다."
+			],
+			[
+				10,
+				"만들",
+				"VV",
+				"하지만 사람들은 기계가 더 도와주기를 요구했고, 결국 1960년대 컴퓨터가 만들어졌다."
+			],
+			[
+				11,
+				"그러",
+				"VV",
+				"그래도 사람들은 이 크기를 줄일수 있다고 믿었다."
+			],
+			[
+				12,
+				"줄이",
+				"VV",
+				"그래도 사람들은 이 크기를 줄일수 있다고 믿었다."
+			],
+			[
+				13,
+				"믿",
+				"VV",
+				"그래도 사람들은 이 크기를 줄일수 있다고 믿었다."
+			],
+			[
+				14,
+				"줄이",
+				"VV",
+				"그래서 결국 크기를 줄여냈고 1990년대 에 드디어 타자기 사용을 멈추기 시작했다."
+			],
+			[
+				15,
+				"멈추",
+				"VV",
+				"그래서 결국 크기를 줄여냈고 1990년대 에 드디어 타자기 사용을 멈추기 시작했다."
+			],
+			[
+				16,
+				"시작하",
+				"VV",
+				"그래서 결국 크기를 줄여냈고 1990년대 에 드디어 타자기 사용을 멈추기 시작했다."
+			],
+			[
+				17,
+				"읽",
+				"VV",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				18,
+				"느끼",
+				"VV",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				19,
+				"만들",
+				"VV",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				20,
+				"하",
+				"VV",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				21,
+				"하",
+				"VV",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				22,
+				"만들",
+				"VV",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				23,
+				"만들",
+				"VV",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				24,
+				"하",
+				"VV",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				25,
+				"읽",
+				"VV",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				26,
+				"보",
+				"VV",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			]
+		],
+		"VA_Lst": [
+			[
+				0,
+				"새롭",
+				"VA",
+				"1920년대에 새로운 전자 타자기가 만들어 졌고, 더 빨랐고, 상점에서 쉽게 살수있었다."
+			],
+			[
+				1,
+				"빠르",
+				"VA",
+				"1920년대에 새로운 전자 타자기가 만들어 졌고, 더 빨랐고, 상점에서 쉽게 살수있었다."
+			],
+			[
+				2,
+				"쉽",
+				"VA",
+				"1920년대에 새로운 전자 타자기가 만들어 졌고, 더 빨랐고, 상점에서 쉽게 살수있었다."
+			],
+			[
+				3,
+				"있",
+				"VA",
+				"1920년대에 새로운 전자 타자기가 만들어 졌고, 더 빨랐고, 상점에서 쉽게 살수있었다."
+			],
+			[
+				4,
+				"컬",
+				"VA",
+				"그런데 이 컴퓨터는 매우컷다."
+			],
+			[
+				5,
+				"있",
+				"VA",
+				"그래도 사람들은 이 크기를 줄일수 있다고 믿었다."
+			],
+			[
+				6,
+				"필요하",
+				"VA",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				7,
+				"있",
+				"VA",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				8,
+				"놀랍",
+				"VA",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				9,
+				"필요하",
+				"VA",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				10,
+				"필요하",
+				"VA",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				11,
+				"있",
+				"VA",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				12,
+				"같",
+				"VA",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			]
+		],
+		"VX_Lst": [
+			[
+				0,
+				"가",
+				"VX",
+				"이 책은 타자기가 컴퓨터로 발전되어 가는 과정을 담은 책이다."
+			],
+			[
+				1,
+				"하",
+				"VX",
+				"처음에 타자기는 너무 컷고 일일이 손으로 내용을 썻어야 했다."
+			],
+			[
+				2,
+				"지",
+				"VX",
+				"1920년대에 새로운 전자 타자기가 만들어 졌고, 더 빨랐고, 상점에서 쉽게 살수있었다."
+			],
+			[
+				3,
+				"지",
+				"VX",
+				"하지만 사람들은 기계가 더 도와주기를 요구했고, 결국 1960년대 컴퓨터가 만들어졌다."
+			],
+			[
+				4,
+				"내",
+				"VX",
+				"그래서 결국 크기를 줄여냈고 1990년대 에 드디어 타자기 사용을 멈추기 시작했다."
+			],
+			[
+				5,
+				"싶",
+				"VX",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				6,
+				"지",
+				"VX",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				7,
+				"지",
+				"VX",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			]
+		],
+		"VCP_Lst": [
+			[
+				0,
+				"이",
+				"VCP",
+				"이 책은 타자기가 컴퓨터로 발전되어 가는 과정을 담은 책이다."
+			],
+			[
+				1,
+				"이",
+				"VCP",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			]
+		],
+		"VCN_Lst": [
+			[
+				0,
+				"아니",
+				"VCN",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				1,
+				"아니",
+				"VCN",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				2,
+				"아니",
+				"VCN",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			]
+		],
+		"ML_Lst": [
+			[
+				0,
+				"너무",
+				"MAG",
+				"처음에 타자기는 너무 컷고 일일이 손으로 내용을 썻어야 했다."
+			],
+			[
+				1,
+				"일일이",
+				"MAG",
+				"처음에 타자기는 너무 컷고 일일이 손으로 내용을 썻어야 했다."
+			],
+			[
+				2,
+				"더",
+				"MAG",
+				"1920년대에 새로운 전자 타자기가 만들어 졌고, 더 빨랐고, 상점에서 쉽게 살수있었다."
+			],
+			[
+				3,
+				"하지만",
+				"MAJ",
+				"하지만 사람들은 기계가 더 도와주기를 요구했고, 결국 1960년대 컴퓨터가 만들어졌다."
+			],
+			[
+				4,
+				"더",
+				"MAG",
+				"하지만 사람들은 기계가 더 도와주기를 요구했고, 결국 1960년대 컴퓨터가 만들어졌다."
+			],
+			[
+				5,
+				"결국",
+				"MAG",
+				"하지만 사람들은 기계가 더 도와주기를 요구했고, 결국 1960년대 컴퓨터가 만들어졌다."
+			],
+			[
+				6,
+				"그런데",
+				"MAJ",
+				"그런데 이 컴퓨터는 매우컷다."
+			],
+			[
+				7,
+				"매우",
+				"MAG",
+				"그런데 이 컴퓨터는 매우컷다."
+			],
+			[
+				8,
+				"그래서",
+				"MAJ",
+				"그래서 결국 크기를 줄여냈고 1990년대 에 드디어 타자기 사용을 멈추기 시작했다."
+			],
+			[
+				9,
+				"결국",
+				"MAG",
+				"그래서 결국 크기를 줄여냈고 1990년대 에 드디어 타자기 사용을 멈추기 시작했다."
+			],
+			[
+				10,
+				"드디어",
+				"MAG",
+				"그래서 결국 크기를 줄여냈고 1990년대 에 드디어 타자기 사용을 멈추기 시작했다."
+			],
+			[
+				11,
+				"실제로",
+				"MAG",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			]
+		],
+		"MA_Lst": [],
+		"MM_Lst": [],
+		"J_Lst": [
+			[
+				0,
+				"에서",
+				"JKB",
+				"학교에서 독서활동을 하다가 이책을 읽게 되었다."
+			],
+			[
+				1,
+				"을",
+				"JKO",
+				"학교에서 독서활동을 하다가 이책을 읽게 되었다."
+			],
+			[
+				2,
+				"을",
+				"JKO",
+				"학교에서 독서활동을 하다가 이책을 읽게 되었다."
+			],
+			[
+				3,
+				"은",
+				"JX",
+				"이 책은 타자기가 컴퓨터로 발전되어 가는 과정을 담은 책이다."
+			],
+			[
+				4,
+				"가",
+				"JKS",
+				"이 책은 타자기가 컴퓨터로 발전되어 가는 과정을 담은 책이다."
+			],
+			[
+				5,
+				"로",
+				"JKB",
+				"이 책은 타자기가 컴퓨터로 발전되어 가는 과정을 담은 책이다."
+			],
+			[
+				6,
+				"을",
+				"JKO",
+				"이 책은 타자기가 컴퓨터로 발전되어 가는 과정을 담은 책이다."
+			],
+			[
+				7,
+				"에",
+				"JKB",
+				"처음에 타자기는 너무 컷고 일일이 손으로 내용을 썻어야 했다."
+			],
+			[
+				8,
+				"는",
+				"JX",
+				"처음에 타자기는 너무 컷고 일일이 손으로 내용을 썻어야 했다."
+			],
+			[
+				9,
+				"으로",
+				"JKB",
+				"처음에 타자기는 너무 컷고 일일이 손으로 내용을 썻어야 했다."
+			],
+			[
+				10,
+				"을",
+				"JKO",
+				"처음에 타자기는 너무 컷고 일일이 손으로 내용을 썻어야 했다."
+			],
+			[
+				11,
+				"에",
+				"JKB",
+				"1920년대에 새로운 전자 타자기가 만들어 졌고, 더 빨랐고, 상점에서 쉽게 살수있었다."
+			],
+			[
+				12,
+				"가",
+				"JKS",
+				"1920년대에 새로운 전자 타자기가 만들어 졌고, 더 빨랐고, 상점에서 쉽게 살수있었다."
+			],
+			[
+				13,
+				"에서",
+				"JKB",
+				"1920년대에 새로운 전자 타자기가 만들어 졌고, 더 빨랐고, 상점에서 쉽게 살수있었다."
+			],
+			[
+				14,
+				"은",
+				"JX",
+				"하지만 사람들은 기계가 더 도와주기를 요구했고, 결국 1960년대 컴퓨터가 만들어졌다."
+			],
+			[
+				15,
+				"가",
+				"JKS",
+				"하지만 사람들은 기계가 더 도와주기를 요구했고, 결국 1960년대 컴퓨터가 만들어졌다."
+			],
+			[
+				16,
+				"를",
+				"JKO",
+				"하지만 사람들은 기계가 더 도와주기를 요구했고, 결국 1960년대 컴퓨터가 만들어졌다."
+			],
+			[
+				17,
+				"가",
+				"JKS",
+				"하지만 사람들은 기계가 더 도와주기를 요구했고, 결국 1960년대 컴퓨터가 만들어졌다."
+			],
+			[
+				18,
+				"는",
+				"JX",
+				"그런데 이 컴퓨터는 매우컷다."
+			],
+			[
+				19,
+				"은",
+				"JX",
+				"그래도 사람들은 이 크기를 줄일수 있다고 믿었다."
+			],
+			[
+				20,
+				"를",
+				"JKO",
+				"그래도 사람들은 이 크기를 줄일수 있다고 믿었다."
+			],
+			[
+				21,
+				"를",
+				"JKO",
+				"그래서 결국 크기를 줄여냈고 1990년대 에 드디어 타자기 사용을 멈추기 시작했다."
+			],
+			[
+				22,
+				"을",
+				"JKO",
+				"그래서 결국 크기를 줄여냈고 1990년대 에 드디어 타자기 사용을 멈추기 시작했다."
+			],
+			[
+				23,
+				"을",
+				"JKO",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				24,
+				"은",
+				"JX",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				25,
+				"이",
+				"JKS",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				26,
+				"은",
+				"JX",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				27,
+				"만",
+				"JX",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				28,
+				"이",
+				"JKC",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				29,
+				"이",
+				"JKS",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				30,
+				"에서",
+				"JKB",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				31,
+				"은",
+				"JX",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				32,
+				"이",
+				"JKC",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				33,
+				"을",
+				"JKO",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				34,
+				"을",
+				"JKO",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				35,
+				"이",
+				"JKS",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				36,
+				"를",
+				"JKO",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				37,
+				"만",
+				"JX",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				38,
+				"은",
+				"JX",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			]
+		],
+		"E_Lst": [
+			[
+				0,
+				"다가",
+				"EC",
+				"학교에서 독서활동을 하다가 이책을 읽게 되었다."
+			],
+			[
+				1,
+				"게",
+				"EC",
+				"학교에서 독서활동을 하다가 이책을 읽게 되었다."
+			],
+			[
+				2,
+				"었",
+				"EP",
+				"학교에서 독서활동을 하다가 이책을 읽게 되었다."
+			],
+			[
+				3,
+				"다",
+				"EF",
+				"학교에서 독서활동을 하다가 이책을 읽게 되었다."
+			],
+			[
+				4,
+				"어",
+				"EC",
+				"이 책은 타자기가 컴퓨터로 발전되어 가는 과정을 담은 책이다."
+			],
+			[
+				5,
+				"는",
+				"ETM",
+				"이 책은 타자기가 컴퓨터로 발전되어 가는 과정을 담은 책이다."
+			],
+			[
+				6,
+				"은",
+				"ETM",
+				"이 책은 타자기가 컴퓨터로 발전되어 가는 과정을 담은 책이다."
+			],
+			[
+				7,
+				"다",
+				"EF",
+				"이 책은 타자기가 컴퓨터로 발전되어 가는 과정을 담은 책이다."
+			],
+			[
+				8,
+				"어야",
+				"EC",
+				"처음에 타자기는 너무 컷고 일일이 손으로 내용을 썻어야 했다."
+			],
+			[
+				9,
+				"았",
+				"EP",
+				"처음에 타자기는 너무 컷고 일일이 손으로 내용을 썻어야 했다."
+			],
+			[
+				10,
+				"다",
+				"EF",
+				"처음에 타자기는 너무 컷고 일일이 손으로 내용을 썻어야 했다."
+			],
+			[
+				11,
+				"ㄴ",
+				"ETM",
+				"1920년대에 새로운 전자 타자기가 만들어 졌고, 더 빨랐고, 상점에서 쉽게 살수있었다."
+			],
+			[
+				12,
+				"어",
+				"EC",
+				"1920년대에 새로운 전자 타자기가 만들어 졌고, 더 빨랐고, 상점에서 쉽게 살수있었다."
+			],
+			[
+				13,
+				"었",
+				"EP",
+				"1920년대에 새로운 전자 타자기가 만들어 졌고, 더 빨랐고, 상점에서 쉽게 살수있었다."
+			],
+			[
+				14,
+				"고",
+				"EC",
+				"1920년대에 새로운 전자 타자기가 만들어 졌고, 더 빨랐고, 상점에서 쉽게 살수있었다."
+			],
+			[
+				15,
+				"았",
+				"EP",
+				"1920년대에 새로운 전자 타자기가 만들어 졌고, 더 빨랐고, 상점에서 쉽게 살수있었다."
+			],
+			[
+				16,
+				"고",
+				"EC",
+				"1920년대에 새로운 전자 타자기가 만들어 졌고, 더 빨랐고, 상점에서 쉽게 살수있었다."
+			],
+			[
+				17,
+				"게",
+				"EC",
+				"1920년대에 새로운 전자 타자기가 만들어 졌고, 더 빨랐고, 상점에서 쉽게 살수있었다."
+			],
+			[
+				18,
+				"ㄹ",
+				"ETM",
+				"1920년대에 새로운 전자 타자기가 만들어 졌고, 더 빨랐고, 상점에서 쉽게 살수있었다."
+			],
+			[
+				19,
+				"었",
+				"EP",
+				"1920년대에 새로운 전자 타자기가 만들어 졌고, 더 빨랐고, 상점에서 쉽게 살수있었다."
+			],
+			[
+				20,
+				"다",
+				"EF",
+				"1920년대에 새로운 전자 타자기가 만들어 졌고, 더 빨랐고, 상점에서 쉽게 살수있었다."
+			],
+			[
+				21,
+				"기",
+				"ETN",
+				"하지만 사람들은 기계가 더 도와주기를 요구했고, 결국 1960년대 컴퓨터가 만들어졌다."
+			],
+			[
+				22,
+				"았",
+				"EP",
+				"하지만 사람들은 기계가 더 도와주기를 요구했고, 결국 1960년대 컴퓨터가 만들어졌다."
+			],
+			[
+				23,
+				"고",
+				"EC",
+				"하지만 사람들은 기계가 더 도와주기를 요구했고, 결국 1960년대 컴퓨터가 만들어졌다."
+			],
+			[
+				24,
+				"어",
+				"EC",
+				"하지만 사람들은 기계가 더 도와주기를 요구했고, 결국 1960년대 컴퓨터가 만들어졌다."
+			],
+			[
+				25,
+				"었",
+				"EP",
+				"하지만 사람들은 기계가 더 도와주기를 요구했고, 결국 1960년대 컴퓨터가 만들어졌다."
+			],
+			[
+				26,
+				"다",
+				"EF",
+				"하지만 사람들은 기계가 더 도와주기를 요구했고, 결국 1960년대 컴퓨터가 만들어졌다."
+			],
+			[
+				27,
+				"ㄴ",
+				"ETM",
+				"그런데 이 컴퓨터는 매우컷다."
+			],
+			[
+				28,
+				"다",
+				"EF",
+				"그런데 이 컴퓨터는 매우컷다."
+			],
+			[
+				29,
+				"어도",
+				"EC",
+				"그래도 사람들은 이 크기를 줄일수 있다고 믿었다."
+			],
+			[
+				30,
+				"ㄹ",
+				"ETM",
+				"그래도 사람들은 이 크기를 줄일수 있다고 믿었다."
+			],
+			[
+				31,
+				"다고",
+				"EC",
+				"그래도 사람들은 이 크기를 줄일수 있다고 믿었다."
+			],
+			[
+				32,
+				"었",
+				"EP",
+				"그래도 사람들은 이 크기를 줄일수 있다고 믿었다."
+			],
+			[
+				33,
+				"다",
+				"EF",
+				"그래도 사람들은 이 크기를 줄일수 있다고 믿었다."
+			],
+			[
+				34,
+				"어",
+				"EC",
+				"그래서 결국 크기를 줄여냈고 1990년대 에 드디어 타자기 사용을 멈추기 시작했다."
+			],
+			[
+				35,
+				"었",
+				"EP",
+				"그래서 결국 크기를 줄여냈고 1990년대 에 드디어 타자기 사용을 멈추기 시작했다."
+			],
+			[
+				36,
+				"고",
+				"EC",
+				"그래서 결국 크기를 줄여냈고 1990년대 에 드디어 타자기 사용을 멈추기 시작했다."
+			],
+			[
+				37,
+				"기",
+				"ETN",
+				"그래서 결국 크기를 줄여냈고 1990년대 에 드디어 타자기 사용을 멈추기 시작했다."
+			],
+			[
+				38,
+				"았",
+				"EP",
+				"그래서 결국 크기를 줄여냈고 1990년대 에 드디어 타자기 사용을 멈추기 시작했다."
+			],
+			[
+				39,
+				"다",
+				"EF",
+				"그래서 결국 크기를 줄여냈고 1990년대 에 드디어 타자기 사용을 멈추기 시작했다."
+			],
+			[
+				40,
+				"고",
+				"EC",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				41,
+				"ㄴ",
+				"ETM",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				42,
+				"ㄴ",
+				"ETM",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				43,
+				"고",
+				"EC",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				44,
+				"다고",
+				"EC",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				45,
+				"아서",
+				"EC",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				46,
+				"는",
+				"ETM",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				47,
+				"라",
+				"EC",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				48,
+				"ㄹ",
+				"ETM",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				49,
+				"다는",
+				"ETM",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				50,
+				"고",
+				"EC",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				51,
+				"ㄴ가",
+				"EF",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				52,
+				"아서",
+				"EC",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				53,
+				"어",
+				"EC",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				54,
+				"는",
+				"ETM",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				55,
+				"고",
+				"EC",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				56,
+				"아서",
+				"EC",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				57,
+				"아",
+				"EC",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				58,
+				"ㄴ다는",
+				"ETM",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				59,
+				"은",
+				"ETM",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				60,
+				"는데",
+				"EC",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				61,
+				"면",
+				"EC",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				62,
+				"ㄴ",
+				"ETM",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			],
+			[
+				63,
+				"다",
+				"EF",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			]
+		],
+		"X_Lst": [
+			[
+				0,
+				"들",
+				"XSN",
+				"하지만 사람들은 기계가 더 도와주기를 요구했고, 결국 1960년대 컴퓨터가 만들어졌다."
+			],
+			[
+				1,
+				"들",
+				"XSN",
+				"그래도 사람들은 이 크기를 줄일수 있다고 믿었다."
+			],
+			[
+				2,
+				"들",
+				"XSN",
+				"이 책을 읽고 느낀점은 사람들이 필요한것은 만들고 싶다고해서 생각만 하는게 아니라 실제로 만들수있다는것이 놀랍고 어딘가에서 발명은 필요해서 만들어 지는것이 아니고 발명을 해서 필요해진다는 문장을 읽은 적이 있는데 이 경우를 보면 그런것만은 아닌것 같다."
+			]
+		],
+		"IC_Lst": [
+			[
+				0,
+				"에",
+				"IC",
+				"그래서 결국 크기를 줄여냈고 1990년대 에 드디어 타자기 사용을 멈추기 시작했다."
+			]
+		]
+	},
+	"NDW": {
+		"morph_NDW": 114,
+		"NL_NDW": 47,
+		"NNG_NDW": 33,
+		"NNP_NDW": 0,
+		"NNB_NDW": 13,
+		"NP_NDW": 1,
+		"NR_NDW": 0,
+		"VL_NDW": 53,
+		"VV_NDW": 27,
+		"VA_NDW": 13,
+		"ML_NDW": 12,
+		"MM_NDW": 0,
+		"IC_NDW": 1,
+		"J_NDW": 39,
+		"E_NDW": 64,
+		"X_NDW": 3,
+		"CL_NDW": 114,
+		"FL_NDW": 106
+	}
+}

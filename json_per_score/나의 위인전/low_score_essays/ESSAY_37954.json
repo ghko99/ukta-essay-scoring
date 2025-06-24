@@ -1,0 +1,9492 @@
+﻿{
+	"morpheme": {
+		"sentences": [
+			{
+				"text": {
+					"content": "곽재우는 진주에서 태어나 부유한 집안에서 자랐다.",
+					"length": 27,
+					"beginOffset": 0
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "곽재우는",
+							"length": 4,
+							"beginOffset": 0
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "곽재우",
+									"length": 3,
+									"beginOffset": 0
+								},
+								"tag": "NNP",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 3,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9986271,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "곽재우",
+						"tagged": "곽재우/NNP+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "진주에서",
+							"beginOffset": 5,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "진주",
+									"beginOffset": 5,
+									"length": 2
+								},
+								"tag": "NNP",
+								"probability": 0.938477,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에서",
+									"beginOffset": 7,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9961654,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "진주",
+						"tagged": "진주/NNP+에서/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "태어나",
+							"beginOffset": 10,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "태어나",
+									"beginOffset": 10,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.9904009,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 12,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9954051,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "태어나",
+						"tagged": "태어나/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "부유한",
+							"beginOffset": 14,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "부유하",
+									"beginOffset": 14,
+									"length": 3
+								},
+								"tag": "VA",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 16,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999891,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "부유하",
+						"tagged": "부유하/VA+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "집안에서",
+							"beginOffset": 18,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "집안",
+									"beginOffset": 18,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98296213,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에서",
+									"beginOffset": 20,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.99473006,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "집안",
+						"tagged": "집안/NNG+에서/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "자랐다.",
+							"beginOffset": 23,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "자라",
+									"beginOffset": 23,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9901165,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 24,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99982643,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 25,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9912617,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 26,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99980664,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "자라",
+						"tagged": "자라/VV+았/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "곽재우는 진주에서 태어나 부유한 집안에서 자랐다."
+			},
+			{
+				"text": {
+					"content": "19세부터는 무에 관심이 많아 무과에 도전하기도 했다고 한다.",
+					"beginOffset": 28,
+					"length": 34
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "19세부터는",
+							"beginOffset": 28,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "19",
+									"beginOffset": 28,
+									"length": 2
+								},
+								"tag": "SN",
+								"probability": 0.9951605,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "세",
+									"beginOffset": 30,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.97368914,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "부터",
+									"beginOffset": 31,
+									"length": 2
+								},
+								"tag": "JX",
+								"probability": 0.99858886,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 33,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99928457,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "19",
+						"tagged": "19/SN+세/NNB+부터/JX+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "무에",
+							"beginOffset": 35,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "무에",
+									"beginOffset": 35,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.35975465,
+								"outOfVocab": "OUT_OF_VOCAB"
+							}
+						],
+						"lemma": "무에",
+						"tagged": "무에/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "관심이",
+							"beginOffset": 38,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "관심",
+									"beginOffset": 38,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9755378,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 40,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.99293125,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "관심",
+						"tagged": "관심/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "많아",
+							"beginOffset": 42,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "많",
+									"beginOffset": 42,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.98771787,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 43,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.97352594,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "많",
+						"tagged": "많/VA+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "무과에",
+							"beginOffset": 45,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "무과",
+									"beginOffset": 45,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.4497264,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 47,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99664205,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "무과",
+						"tagged": "무과/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "도전하기도",
+							"beginOffset": 49,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "도전하",
+									"beginOffset": 49,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "기",
+									"beginOffset": 52,
+									"length": 1
+								},
+								"tag": "ETN",
+								"probability": 0.9996574,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 53,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99943817,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "도전하",
+						"tagged": "도전하/VV+기/ETN+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "했다고",
+							"beginOffset": 55,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 55,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.83537084,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 55,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9997665,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다고",
+									"beginOffset": 56,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9947441,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VX+았/EP+다고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "한다.",
+							"beginOffset": 59,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 59,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.74300504,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ다",
+									"beginOffset": 59,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.994452,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 61,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99974984,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VV+ㄴ다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "19세부터는 무에 관심이 많아 무과에 도전하기도 했다고 한다."
+			},
+			{
+				"text": {
+					"content": "이후 1589년에는 부친의 사망으로 3년상을 치렀고 임진왜란 전까지는 집안의 재산으로 은거했다고 전해진다.",
+					"beginOffset": 63,
+					"length": 59
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "이후",
+							"beginOffset": 63,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이후",
+									"beginOffset": 63,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9837165,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이후",
+						"tagged": "이후/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "1589년에는",
+							"beginOffset": 66,
+							"length": 7
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "1589",
+									"beginOffset": 66,
+									"length": 4
+								},
+								"tag": "SN",
+								"probability": 0.9791278,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "년",
+									"beginOffset": 70,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9811318,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 71,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99678636,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 72,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.999376,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "1589",
+						"tagged": "1589/SN+년/NNB+에/JKB+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "부친의",
+							"beginOffset": 74,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "부친",
+									"beginOffset": 74,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9819954,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 76,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99972147,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "부친",
+						"tagged": "부친/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사망으로",
+							"beginOffset": 78,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사망",
+									"beginOffset": 78,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9835102,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으로",
+									"beginOffset": 80,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.994709,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사망",
+						"tagged": "사망/NNG+으로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "3년",
+							"beginOffset": 83,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "3",
+									"beginOffset": 83,
+									"length": 1
+								},
+								"tag": "SN",
+								"probability": 0.9944891,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "년",
+									"beginOffset": 84,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.97806007,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "3",
+						"tagged": "3/SN+년/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "상을",
+							"beginOffset": 85,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "상",
+									"beginOffset": 85,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.6564838,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 86,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.999951,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "상",
+						"tagged": "상/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "치렀고",
+							"beginOffset": 88,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "치르",
+									"beginOffset": 88,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.99048823,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 89,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99998325,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 90,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99496555,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "치르",
+						"tagged": "치르/VV+었/EP+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "임진왜란",
+							"beginOffset": 92,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "임진왜란",
+									"beginOffset": 92,
+									"length": 4
+								},
+								"tag": "NNG",
+								"probability": 0.9647993,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "임진왜란",
+						"tagged": "임진왜란/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "전까지는",
+							"beginOffset": 97,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "전",
+									"beginOffset": 97,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9542226,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "까지",
+									"beginOffset": 98,
+									"length": 2
+								},
+								"tag": "JX",
+								"probability": 0.99853504,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 100,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9993858,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "전",
+						"tagged": "전/NNG+까지/JX+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "집안의",
+							"beginOffset": 102,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "집안",
+									"beginOffset": 102,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98551095,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 104,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99978733,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "집안",
+						"tagged": "집안/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "재산으로",
+							"beginOffset": 106,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "재산",
+									"beginOffset": 106,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9858213,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으로",
+									"beginOffset": 108,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9971318,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "재산",
+						"tagged": "재산/NNG+으로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "은거했다고",
+							"beginOffset": 111,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "은거하",
+									"beginOffset": 111,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 113,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99996525,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다고",
+									"beginOffset": 114,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9916764,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "은거하",
+						"tagged": "은거하/VV+았/EP+다고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "전해",
+							"beginOffset": 117,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "전하",
+									"beginOffset": 117,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.98816264,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 118,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99556065,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "전하",
+						"tagged": "전하/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "진다.",
+							"beginOffset": 119,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "지",
+									"beginOffset": 119,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.971921,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ다",
+									"beginOffset": 119,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.99063575,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 121,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.999884,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "지",
+						"tagged": "지/VX+ㄴ다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "이후 1589년에는 부친의 사망으로 3년 상을 치렀고 임진왜란 전까지는 집안의 재산으로 은거했다고 전해 진다."
+			},
+			{
+				"text": {
+					"content": "이후 임진왜란이 발발하고 의병으로 활동하고 있다 최초의 의병장으로 알려져있는데 초창기 의병대는 도적으로 오해받아 체포령까지 내려졌다고 한다",
+					"beginOffset": 123,
+					"length": 77
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "이후",
+							"beginOffset": 123,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이후",
+									"beginOffset": 123,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.982858,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이후",
+						"tagged": "이후/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "임진왜란이",
+							"beginOffset": 126,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "임진왜란",
+									"beginOffset": 126,
+									"length": 4
+								},
+								"tag": "NNP",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 130,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9729607,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "임진왜란",
+						"tagged": "임진왜란/NNP+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "발발하고",
+							"beginOffset": 132,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "발발하",
+									"beginOffset": 132,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 135,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99596125,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "발발하",
+						"tagged": "발발하/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "의병으로",
+							"beginOffset": 137,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "의병",
+									"beginOffset": 137,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98370683,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으로",
+									"beginOffset": 139,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9945227,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "의병",
+						"tagged": "의병/NNG+으로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "활동하고",
+							"beginOffset": 142,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "활동하",
+									"beginOffset": 142,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 145,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9929558,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "활동하",
+						"tagged": "활동하/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있다",
+							"beginOffset": 147,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 147,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.9384199,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 148,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.46848845,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VX+다/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "최초의",
+							"beginOffset": 150,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "최초",
+									"beginOffset": 150,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98393404,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 152,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9998201,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "최초",
+						"tagged": "최초/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "의병장으로",
+							"beginOffset": 154,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "의병장",
+									"beginOffset": 154,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.97941434,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으로",
+									"beginOffset": 157,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9934843,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "의병장",
+						"tagged": "의병장/NNG+으로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "알려져",
+							"beginOffset": 160,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "알려지",
+									"beginOffset": 160,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.98657644,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어",
+									"beginOffset": 162,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9939475,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "알려지",
+						"tagged": "알려지/VV+어/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있는데",
+							"beginOffset": 163,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 163,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.9650147,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는데",
+									"beginOffset": 164,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9930874,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VX+는데/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "초창기",
+							"beginOffset": 167,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "초창기",
+									"beginOffset": 167,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.98098063,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "초창기",
+						"tagged": "초창기/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "의병대는",
+							"beginOffset": 171,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "의병대",
+									"beginOffset": 171,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.62410504,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 174,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99920005,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "의병대",
+						"tagged": "의병대/NNG+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "도적으로",
+							"beginOffset": 176,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "도적",
+									"beginOffset": 176,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97635907,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으로",
+									"beginOffset": 178,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9958291,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "도적",
+						"tagged": "도적/NNG+으로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "오해받아",
+							"beginOffset": 181,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "오해",
+									"beginOffset": 181,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9858343,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "받",
+									"beginOffset": 183,
+									"length": 1
+								},
+								"tag": "XSV",
+								"probability": 0.88975805,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 184,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.97155124,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "오해",
+						"tagged": "오해/NNG+받/XSV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "체포령까지",
+							"beginOffset": 186,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "체포령",
+									"beginOffset": 186,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.8649838,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "까지",
+									"beginOffset": 189,
+									"length": 2
+								},
+								"tag": "JX",
+								"probability": 0.9989424,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "체포령",
+						"tagged": "체포령/NNG+까지/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "내려졌다고",
+							"beginOffset": 192,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "내려지",
+									"beginOffset": 192,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.98809785,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 194,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9999582,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다고",
+									"beginOffset": 195,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9691122,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "내려지",
+						"tagged": "내려지/VV+었/EP+다고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "한다",
+							"beginOffset": 198,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 198,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.57149994,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ다",
+									"beginOffset": 198,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.98910505,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VV+ㄴ다/EF",
+						"modified": ""
+					}
+				],
+				"refined": "이후 임진왜란이 발발하고 의병으로 활동하고 있다 최초의 의병장으로 알려져 있는데 초창기 의병대는 도적으로 오해받아 체포령까지 내려졌다고 한다"
+			},
+			{
+				"text": {
+					"content": "이에 곽재우는 병사들을 해산시키기 까지했는데 이후 김성일의 도움으로 다시 재정비를 하게된다.",
+					"beginOffset": 201,
+					"length": 51
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "이에",
+							"beginOffset": 201,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 201,
+									"length": 1
+								},
+								"tag": "NP",
+								"probability": 0.960064,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 202,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9960803,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이",
+						"tagged": "이/NP+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "곽재우는",
+							"beginOffset": 204,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "곽재우",
+									"beginOffset": 204,
+									"length": 3
+								},
+								"tag": "NNP",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 207,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9986707,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "곽재우",
+						"tagged": "곽재우/NNP+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "병사들을",
+							"beginOffset": 209,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "병사들",
+									"beginOffset": 209,
+									"length": 3
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 212,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999584,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "병사들",
+						"tagged": "병사들/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "해산시키기 까지했는데",
+							"beginOffset": 214,
+							"length": 11
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "해산",
+									"beginOffset": 214,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98393583,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "시키",
+									"beginOffset": 216,
+									"length": 2
+								},
+								"tag": "XSV",
+								"probability": 0.9760324,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "기",
+									"beginOffset": 218,
+									"length": 1
+								},
+								"tag": "ETN",
+								"probability": 0.9999337,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "까지",
+									"beginOffset": 219,
+									"length": 2
+								},
+								"tag": "JX",
+								"probability": 0.9970388,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 221,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.3743327,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 221,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9999152,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는데",
+									"beginOffset": 222,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99322045,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "해산",
+						"tagged": "해산/NNG+시키/XSV+기/ETN+까지/JX+하/VV+았/EP+는데/EC",
+						"modified": "해산시키기까지했는데"
+					},
+					{
+						"text": {
+							"content": "이후",
+							"beginOffset": 226,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이후",
+									"beginOffset": 226,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97836584,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이후",
+						"tagged": "이후/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "김성일의",
+							"beginOffset": 229,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "김성일",
+									"beginOffset": 229,
+									"length": 3
+								},
+								"tag": "NNP",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 232,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99942374,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "김성일",
+						"tagged": "김성일/NNP+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "도움으로",
+							"beginOffset": 234,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "도움",
+									"beginOffset": 234,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98480916,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으로",
+									"beginOffset": 236,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9962675,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "도움",
+						"tagged": "도움/NNG+으로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "다시",
+							"beginOffset": 239,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "다시",
+									"beginOffset": 239,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.988125,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "다시",
+						"tagged": "다시/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "재정비를",
+							"beginOffset": 242,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "재",
+									"beginOffset": 242,
+									"length": 1
+								},
+								"tag": "XPN",
+								"probability": 0.9925336,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "정비",
+									"beginOffset": 243,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9839028,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 245,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999412,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "재",
+						"tagged": "재/XPN+정비/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "하게",
+							"beginOffset": 247,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 247,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9692499,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "게",
+									"beginOffset": 248,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9930662,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VV+게/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "된다.",
+							"beginOffset": 249,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "되",
+									"beginOffset": 249,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9726,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ다",
+									"beginOffset": 249,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.98851424,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 251,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9995174,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "되",
+						"tagged": "되/VV+ㄴ다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "이에 곽재우는 병사들을 해산시키기까지했는데 이후 김성일의 도움으로 다시 재정비를 하게 된다."
+			},
+			{
+				"text": {
+					"content": "하지만 바로왜구가 정암진으로 들어와 전투를 하게된다.",
+					"beginOffset": 253,
+					"length": 29
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "하지만",
+							"beginOffset": 253,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하지만",
+									"beginOffset": 253,
+									"length": 3
+								},
+								"tag": "MAJ",
+								"probability": 0.99821067,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하지만",
+						"tagged": "하지만/MAJ",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "바로",
+							"beginOffset": 257,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "바로",
+									"beginOffset": 257,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9909742,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "바로",
+						"tagged": "바로/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "왜구가",
+							"beginOffset": 259,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "왜구",
+									"beginOffset": 259,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9557017,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 261,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.97511244,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "왜구",
+						"tagged": "왜구/NNG+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "정암진으로",
+							"beginOffset": 263,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "정암진",
+									"beginOffset": 263,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.8052825,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "으로",
+									"beginOffset": 266,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9975129,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "정암진",
+						"tagged": "정암진/NNG+으로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "들어와",
+							"beginOffset": 269,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "들어오",
+									"beginOffset": 269,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.98959523,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 271,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9917437,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "들어오",
+						"tagged": "들어오/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "전투를",
+							"beginOffset": 273,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "전투",
+									"beginOffset": 273,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9821035,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 275,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99987984,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "전투",
+						"tagged": "전투/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "하게",
+							"beginOffset": 277,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 277,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9710766,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "게",
+									"beginOffset": 278,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9856562,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VV+게/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "된다.",
+							"beginOffset": 279,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "되",
+									"beginOffset": 279,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9648983,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ다",
+									"beginOffset": 279,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.98726875,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 281,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99991435,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "되",
+						"tagged": "되/VV+ㄴ다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "하지만 바로 왜구가 정암진으로 들어와 전투를 하게 된다."
+			},
+			{
+				"text": {
+					"content": "다행히 매복으로 승리를 했고 승리의 주역은 본인이 미끼가 되어 왜군들을 불러들여온 곽재우였다.",
+					"beginOffset": 283,
+					"length": 52
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "다행히",
+							"beginOffset": 283,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "다행히",
+									"beginOffset": 283,
+									"length": 3
+								},
+								"tag": "MAG",
+								"probability": 0.9876685,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "다행히",
+						"tagged": "다행히/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "매복으로",
+							"beginOffset": 287,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "매복",
+									"beginOffset": 287,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97594345,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으로",
+									"beginOffset": 289,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.996648,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "매복",
+						"tagged": "매복/NNG+으로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "승리를",
+							"beginOffset": 292,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "승리",
+									"beginOffset": 292,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98029673,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 294,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99995285,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "승리",
+						"tagged": "승리/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "했고",
+							"beginOffset": 296,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 296,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.966361,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 296,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99994665,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 297,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99336314,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VV+았/EP+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "승리의",
+							"beginOffset": 299,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "승리",
+									"beginOffset": 299,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9770766,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 301,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9996266,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "승리",
+						"tagged": "승리/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "주역은",
+							"beginOffset": 303,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "주역",
+									"beginOffset": 303,
+									"length": 2
+								},
+								"tag": "NNP",
+								"probability": 0.48226583,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 305,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9994593,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "주역",
+						"tagged": "주역/NNP+은/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "본인이",
+							"beginOffset": 307,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "본인",
+									"beginOffset": 307,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9824569,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 309,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9738715,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "본인",
+						"tagged": "본인/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "미끼가",
+							"beginOffset": 311,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "미끼",
+									"beginOffset": 311,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98020816,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 313,
+									"length": 1
+								},
+								"tag": "JKC",
+								"probability": 0.8883267,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "미끼",
+						"tagged": "미끼/NNG+가/JKC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "되어",
+							"beginOffset": 315,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "되",
+									"beginOffset": 315,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9800123,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어",
+									"beginOffset": 316,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9923946,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "되",
+						"tagged": "되/VV+어/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "왜군들을",
+							"beginOffset": 318,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "왜군",
+									"beginOffset": 318,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9837756,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "들",
+									"beginOffset": 320,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.9922591,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 321,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999002,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "왜군",
+						"tagged": "왜군/NNG+들/XSN+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "불러들여",
+							"beginOffset": 323,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "불러들이",
+									"beginOffset": 323,
+									"length": 4
+								},
+								"tag": "VV",
+								"probability": 0.98957276,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어",
+									"beginOffset": 326,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9946292,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "불러들이",
+						"tagged": "불러들이/VV+어/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "온",
+							"beginOffset": 327,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "오",
+									"beginOffset": 327,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.9329799,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 327,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99969697,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "오",
+						"tagged": "오/VX+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "곽재우였다.",
+							"beginOffset": 329,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "곽재우",
+									"beginOffset": 329,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.51720357,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 332,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.9997783,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 332,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99995226,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 333,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9919893,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 334,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9996127,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "곽재우",
+						"tagged": "곽재우/NNG+이/VCP+었/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "다행히 매복으로 승리를 했고 승리의 주역은 본인이 미끼가 되어 왜군들을 불러들여 온 곽재우였다."
+			},
+			{
+				"text": {
+					"content": "이후 7월에는 탈환작전에 참여해 3개의 현을 탈환하기도 했다.",
+					"beginOffset": 336,
+					"length": 34
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "이후",
+							"beginOffset": 336,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이후",
+									"beginOffset": 336,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9852272,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이후",
+						"tagged": "이후/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "7월에는",
+							"beginOffset": 339,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "7",
+									"beginOffset": 339,
+									"length": 1
+								},
+								"tag": "SN",
+								"probability": 0.9978894,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "월",
+									"beginOffset": 340,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9776428,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 341,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9956306,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 342,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9986271,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "7",
+						"tagged": "7/SN+월/NNB+에/JKB+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "탈환작전에",
+							"beginOffset": 344,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "탈환",
+									"beginOffset": 344,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97961736,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "작전",
+									"beginOffset": 346,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.987013,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 348,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99709445,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "탈환",
+						"tagged": "탈환/NNG+작전/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "참여해",
+							"beginOffset": 350,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "참여하",
+									"beginOffset": 350,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 352,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9946389,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "참여하",
+						"tagged": "참여하/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "3개의",
+							"beginOffset": 354,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "3",
+									"beginOffset": 354,
+									"length": 1
+								},
+								"tag": "SN",
+								"probability": 0.9980498,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "개",
+									"beginOffset": 355,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.97463137,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 356,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9996188,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "3",
+						"tagged": "3/SN+개/NNB+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "현을",
+							"beginOffset": 358,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "현",
+									"beginOffset": 358,
+									"length": 1
+								},
+								"tag": "NNP",
+								"probability": 0.44831467,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 359,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99992543,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "현",
+						"tagged": "현/NNP+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "탈환하기도",
+							"beginOffset": 361,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "탈환하",
+									"beginOffset": 361,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "기",
+									"beginOffset": 364,
+									"length": 1
+								},
+								"tag": "ETN",
+								"probability": 0.99991894,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 365,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99940807,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "탈환하",
+						"tagged": "탈환하/VV+기/ETN+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "했다.",
+							"beginOffset": 367,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 367,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.77981216,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 367,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9998987,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 368,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9901595,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 369,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99986243,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VX+았/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "이후 7월에는 탈환작전에 참여해 3개의 현을 탈환하기도 했다."
+			},
+			{
+				"text": {
+					"content": "3개월뒤인 10월에는 진주대첩에 원군으로써 참여해 공을 세우기도 하면서 관직을 받기도했다.",
+					"beginOffset": 371,
+					"length": 50
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "3개월",
+							"beginOffset": 371,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "3",
+									"beginOffset": 371,
+									"length": 1
+								},
+								"tag": "SN",
+								"probability": 0.99821395,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "개월",
+									"beginOffset": 372,
+									"length": 2
+								},
+								"tag": "NNB",
+								"probability": 0.9784786,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "3",
+						"tagged": "3/SN+개월/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "뒤인",
+							"beginOffset": 374,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "뒤",
+									"beginOffset": 374,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.97873896,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 375,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.9999575,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 375,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99998045,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "뒤",
+						"tagged": "뒤/NNG+이/VCP+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "10월에는",
+							"beginOffset": 377,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "10",
+									"beginOffset": 377,
+									"length": 2
+								},
+								"tag": "SN",
+								"probability": 0.9984828,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "월",
+									"beginOffset": 379,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.97681373,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 380,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9967105,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 381,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99912196,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "10",
+						"tagged": "10/SN+월/NNB+에/JKB+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "진주대첩에",
+							"beginOffset": 383,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "진주",
+									"beginOffset": 383,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "대첩",
+									"beginOffset": 385,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 387,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99470574,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "진주",
+						"tagged": "진주/NNG+대첩/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "원군으로써",
+							"beginOffset": 389,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "원군",
+									"beginOffset": 389,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.8872479,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "으로써",
+									"beginOffset": 391,
+									"length": 3
+								},
+								"tag": "JKB",
+								"probability": 0.9973802,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "원군",
+						"tagged": "원군/NNG+으로써/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "참여해",
+							"beginOffset": 395,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "참여하",
+									"beginOffset": 395,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 397,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9911324,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "참여하",
+						"tagged": "참여하/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "공을",
+							"beginOffset": 399,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "공",
+									"beginOffset": 399,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.97979337,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 400,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99999124,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "공",
+						"tagged": "공/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "세우기도",
+							"beginOffset": 402,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "세우",
+									"beginOffset": 402,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.98801637,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "기",
+									"beginOffset": 404,
+									"length": 1
+								},
+								"tag": "ETN",
+								"probability": 0.9999807,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 405,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9994657,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "세우",
+						"tagged": "세우/VV+기/ETN+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "하면서",
+							"beginOffset": 407,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 407,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.5922047,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "면서",
+									"beginOffset": 408,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9947094,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VV+면서/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "관직을",
+							"beginOffset": 411,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "관직",
+									"beginOffset": 411,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98018074,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 413,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99986786,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "관직",
+						"tagged": "관직/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "받기도",
+							"beginOffset": 415,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "받",
+									"beginOffset": 415,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9805594,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "기",
+									"beginOffset": 416,
+									"length": 1
+								},
+								"tag": "ETN",
+								"probability": 0.9997035,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 417,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9991558,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "받",
+						"tagged": "받/VV+기/ETN+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "했다.",
+							"beginOffset": 418,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 418,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.4451168,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 418,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9999331,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 419,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9911312,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 420,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99979913,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VV+았/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "3개월 뒤인 10월에는 진주대첩에 원군으로써 참여해 공을 세우기도 하면서 관직을 받기도 했다."
+			},
+			{
+				"text": {
+					"content": "그러다가 1594년에는 급작스럽게 벼슬을 버리고 낙향하기도 했다.",
+					"beginOffset": 422,
+					"length": 36
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "그러다가",
+							"beginOffset": 422,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그러",
+									"beginOffset": 422,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.99086475,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다가",
+									"beginOffset": 424,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9945355,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그러",
+						"tagged": "그러/VV+다가/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "1594년에는",
+							"beginOffset": 427,
+							"length": 7
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "1594",
+									"beginOffset": 427,
+									"length": 4
+								},
+								"tag": "SN",
+								"probability": 0.93165284,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "년",
+									"beginOffset": 431,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9815526,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 432,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.9974138,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 433,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9987448,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "1594",
+						"tagged": "1594/SN+년/NNB+에/JKB+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "급작스럽게",
+							"beginOffset": 435,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "급작스럽",
+									"beginOffset": 435,
+									"length": 4
+								},
+								"tag": "VA",
+								"probability": 0.9865411,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "게",
+									"beginOffset": 439,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.991513,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "급작스럽",
+						"tagged": "급작스럽/VA+게/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "벼슬을",
+							"beginOffset": 441,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "벼슬",
+									"beginOffset": 441,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9630688,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 443,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999619,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "벼슬",
+						"tagged": "벼슬/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "버리고",
+							"beginOffset": 445,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "버리",
+									"beginOffset": 445,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.98444027,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 447,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9924553,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "버리",
+						"tagged": "버리/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "낙향하기도",
+							"beginOffset": 449,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "낙향하",
+									"beginOffset": 449,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "기",
+									"beginOffset": 452,
+									"length": 1
+								},
+								"tag": "ETN",
+								"probability": 0.9998301,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 453,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9994575,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "낙향하",
+						"tagged": "낙향하/VV+기/ETN+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "했다.",
+							"beginOffset": 455,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 455,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.72088367,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 455,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99992704,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 456,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9901965,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 457,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9998454,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VX+았/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "그러다가 1594년에는 급작스럽게 벼슬을 버리고 낙향하기도 했다."
+			},
+			{
+				"text": {
+					"content": "이후 여러 차례 재등용 시도가 있었지만 전부 거절하고 숨어지냈다고 한다.",
+					"beginOffset": 459,
+					"length": 40
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "이후",
+							"beginOffset": 459,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이후",
+									"beginOffset": 459,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9846501,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이후",
+						"tagged": "이후/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "여러",
+							"beginOffset": 462,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "여러",
+									"beginOffset": 462,
+									"length": 2
+								},
+								"tag": "MMN",
+								"probability": 0.9992576,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "여러",
+						"tagged": "여러/MMN",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "차례",
+							"beginOffset": 465,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "차례",
+									"beginOffset": 465,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98126113,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "차례",
+						"tagged": "차례/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "재등용",
+							"beginOffset": 468,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "재",
+									"beginOffset": 468,
+									"length": 1
+								},
+								"tag": "XPN",
+								"probability": 0.9893515,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "등용",
+									"beginOffset": 469,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98305064,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "재",
+						"tagged": "재/XPN+등용/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "시도가",
+							"beginOffset": 472,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "시도",
+									"beginOffset": 472,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98420393,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 474,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9826822,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "시도",
+						"tagged": "시도/NNG+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있었지만",
+							"beginOffset": 476,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 476,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9468948,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 477,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9999304,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "지만",
+									"beginOffset": 478,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9933171,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VA+었/EP+지만/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "전부",
+							"beginOffset": 481,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "전부",
+									"beginOffset": 481,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.99045426,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "전부",
+						"tagged": "전부/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "거절하고",
+							"beginOffset": 484,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "거절하",
+									"beginOffset": 484,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 487,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9904776,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "거절하",
+						"tagged": "거절하/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "숨어",
+							"beginOffset": 489,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "숨",
+									"beginOffset": 489,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.98568934,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어",
+									"beginOffset": 490,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99358153,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "숨",
+						"tagged": "숨/VV+어/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "지냈다고",
+							"beginOffset": 491,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "지내",
+									"beginOffset": 491,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9724417,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 492,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99990004,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다고",
+									"beginOffset": 493,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9944964,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "지내",
+						"tagged": "지내/VV+었/EP+다고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "한다.",
+							"beginOffset": 496,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 496,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.79972005,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ다",
+									"beginOffset": 496,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.9911548,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 498,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99976176,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VV+ㄴ다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "이후 여러 차례 재등용 시도가 있었지만 전부 거절하고 숨어 지냈다고 한다."
+			},
+			{
+				"text": {
+					"content": "많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다.",
+					"beginOffset": 500,
+					"length": 89
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "많은",
+							"beginOffset": 500,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "많",
+									"beginOffset": 500,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9865276,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 501,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999881,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "많",
+						"tagged": "많/VA+은/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "재산을",
+							"beginOffset": 503,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "재산",
+									"beginOffset": 503,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98307776,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 505,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99996644,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "재산",
+						"tagged": "재산/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "의병활동에",
+							"beginOffset": 507,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "의병",
+									"beginOffset": 507,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9843139,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "활동",
+									"beginOffset": 509,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9838685,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 511,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99616164,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "의병",
+						"tagged": "의병/NNG+활동/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "쏟아부어",
+							"beginOffset": 513,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "쏟아붓",
+									"beginOffset": 513,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.98865056,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어",
+									"beginOffset": 516,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9897877,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "쏟아붓",
+						"tagged": "쏟아붓/VV+어/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "그",
+							"beginOffset": 518,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그",
+									"beginOffset": 518,
+									"length": 1
+								},
+								"tag": "MMD",
+								"probability": 0.999926,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그",
+						"tagged": "그/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "많던",
+							"beginOffset": 520,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "많",
+									"beginOffset": 520,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9857768,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "던",
+									"beginOffset": 521,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99988735,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "많",
+						"tagged": "많/VA+던/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "재산이",
+							"beginOffset": 523,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "재산",
+									"beginOffset": 523,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9821302,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 525,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.99511665,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "재산",
+						"tagged": "재산/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "다",
+							"beginOffset": 527,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 527,
+									"length": 1
+								},
+								"tag": "MAG",
+								"probability": 0.9924502,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "다",
+						"tagged": "다/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "없어지고",
+							"beginOffset": 529,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "없어지",
+									"beginOffset": 529,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.98754454,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 532,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99524283,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "없어지",
+						"tagged": "없어지/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "단벌옷에",
+							"beginOffset": 534,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "단벌옷",
+									"beginOffset": 534,
+									"length": 3
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 537,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.997664,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "단벌옷",
+						"tagged": "단벌옷/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "종이",
+							"beginOffset": 539,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "종이",
+									"beginOffset": 539,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9769987,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "종이",
+						"tagged": "종이/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "한",
+							"beginOffset": 542,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "한",
+									"beginOffset": 542,
+									"length": 1
+								},
+								"tag": "MMN",
+								"probability": 0.9978711,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "한",
+						"tagged": "한/MMN",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "장",
+							"beginOffset": 544,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "장",
+									"beginOffset": 544,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.91285646,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "장",
+						"tagged": "장/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "없는",
+							"beginOffset": 545,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "없",
+									"beginOffset": 545,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.9836156,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 546,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99993205,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "없",
+						"tagged": "없/VA+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "생활을",
+							"beginOffset": 548,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "생활",
+									"beginOffset": 548,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9802042,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 550,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999824,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "생활",
+						"tagged": "생활/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "하다가",
+							"beginOffset": 552,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 552,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9635231,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다가",
+									"beginOffset": 553,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.995908,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VV+다가/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "광해군이",
+							"beginOffset": 556,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "광해군",
+									"beginOffset": 556,
+									"length": 3
+								},
+								"tag": "NNP",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 559,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9344776,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "광해군",
+						"tagged": "광해군/NNP+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "여러",
+							"beginOffset": 561,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "여러",
+									"beginOffset": 561,
+									"length": 2
+								},
+								"tag": "MMN",
+								"probability": 0.9995297,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "여러",
+						"tagged": "여러/MMN",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "고위직에",
+							"beginOffset": 564,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "고위",
+									"beginOffset": 564,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9833958,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "직",
+									"beginOffset": 566,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.982076,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 567,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99766695,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "고위",
+						"tagged": "고위/NNG+직/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "임명해",
+							"beginOffset": 569,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "임명하",
+									"beginOffset": 569,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 571,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9946937,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "임명하",
+						"tagged": "임명하/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "주어",
+							"beginOffset": 572,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "주",
+									"beginOffset": 572,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.96878856,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어",
+									"beginOffset": 573,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9899058,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "주",
+						"tagged": "주/VX+어/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "생활을",
+							"beginOffset": 575,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "생활",
+									"beginOffset": 575,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9840024,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 577,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999838,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "생활",
+						"tagged": "생활/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이어",
+							"beginOffset": 579,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "잇",
+									"beginOffset": 579,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9850615,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어",
+									"beginOffset": 580,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9954814,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "잇",
+						"tagged": "잇/VV+어/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "나가기도",
+							"beginOffset": 581,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "나가",
+									"beginOffset": 581,
+									"length": 2
+								},
+								"tag": "VX",
+								"probability": 0.969805,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "기",
+									"beginOffset": 583,
+									"length": 1
+								},
+								"tag": "ETN",
+								"probability": 0.99964225,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 584,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9988837,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "나가",
+						"tagged": "나가/VX+기/ETN+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "했다.",
+							"beginOffset": 586,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 586,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.76357967,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "았",
+									"beginOffset": 586,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9999647,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 587,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9916292,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 588,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9997753,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VX+았/EP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장 없는 생활을 하다가 광해군이 여러 고위직에 임명해 주어 생활을 이어 나가기도 했다."
+			},
+			{
+				"text": {
+					"content": "곽재우는 나라를 지키기 위해 본인의 가진 것 모두를 써서 왜란을 막은 인물이다.",
+					"beginOffset": 590,
+					"length": 44
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "곽재우는",
+							"beginOffset": 590,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "곽재우",
+									"beginOffset": 590,
+									"length": 3
+								},
+								"tag": "NNP",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 593,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9985532,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "곽재우",
+						"tagged": "곽재우/NNP+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "나라를",
+							"beginOffset": 595,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "나라",
+									"beginOffset": 595,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9812082,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 597,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999676,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "나라",
+						"tagged": "나라/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "지키기",
+							"beginOffset": 599,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "지키",
+									"beginOffset": 599,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.991059,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "기",
+									"beginOffset": 601,
+									"length": 1
+								},
+								"tag": "ETN",
+								"probability": 0.9995595,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "지키",
+						"tagged": "지키/VV+기/ETN",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "위해",
+							"beginOffset": 603,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "위하",
+									"beginOffset": 603,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9917674,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 604,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99619514,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "위하",
+						"tagged": "위하/VV+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "본인의",
+							"beginOffset": 606,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "본인",
+									"beginOffset": 606,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9829828,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 608,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99969816,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "본인",
+						"tagged": "본인/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "가진",
+							"beginOffset": 610,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "가지",
+									"beginOffset": 610,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.9857442,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 611,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999053,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "가지",
+						"tagged": "가지/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "것",
+							"beginOffset": 613,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "것",
+									"beginOffset": 613,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.978235,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "것",
+						"tagged": "것/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "모두를",
+							"beginOffset": 615,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "모두",
+									"beginOffset": 615,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9838859,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 617,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999471,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "모두",
+						"tagged": "모두/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "써서",
+							"beginOffset": 619,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "쓰",
+									"beginOffset": 619,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.98732316,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어서",
+									"beginOffset": 619,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.99485207,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "쓰",
+						"tagged": "쓰/VV+어서/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "왜란을",
+							"beginOffset": 622,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "왜란",
+									"beginOffset": 622,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.36506593,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 624,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99997324,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "왜란",
+						"tagged": "왜란/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "막은",
+							"beginOffset": 626,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "막",
+									"beginOffset": 626,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9896687,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 627,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999819,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "막",
+						"tagged": "막/VV+은/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "인물이다.",
+							"beginOffset": 629,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "인물",
+									"beginOffset": 629,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9795716,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 631,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.99990135,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 632,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9931917,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 633,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9993548,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "인물",
+						"tagged": "인물/NNG+이/VCP+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "곽재우는 나라를 지키기 위해 본인의 가진 것 모두를 써서 왜란을 막은 인물이다."
+			},
+			{
+				"text": {
+					"content": "나도 곽재우처럼 행동으로 직접 보여주는 사람이 되고싶다.",
+					"beginOffset": 635,
+					"length": 31
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "나도",
+							"beginOffset": 635,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "나",
+									"beginOffset": 635,
+									"length": 1
+								},
+								"tag": "NP",
+								"probability": 0.9703435,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "도",
+									"beginOffset": 636,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99909353,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "나",
+						"tagged": "나/NP+도/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "곽재우처럼",
+							"beginOffset": 638,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "곽재우",
+									"beginOffset": 638,
+									"length": 3
+								},
+								"tag": "NNP",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "처럼",
+									"beginOffset": 641,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9966929,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "곽재우",
+						"tagged": "곽재우/NNP+처럼/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "행동으로",
+							"beginOffset": 644,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "행동",
+									"beginOffset": 644,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9861971,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으로",
+									"beginOffset": 646,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.99774945,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "행동",
+						"tagged": "행동/NNG+으로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "직접",
+							"beginOffset": 649,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "직접",
+									"beginOffset": 649,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9900152,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "직접",
+						"tagged": "직접/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "보여",
+							"beginOffset": 652,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "보이",
+									"beginOffset": 652,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.98074377,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어",
+									"beginOffset": 653,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.995019,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "보이",
+						"tagged": "보이/VV+어/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "주는",
+							"beginOffset": 654,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "주",
+									"beginOffset": 654,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.9744274,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 655,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99971265,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "주",
+						"tagged": "주/VX+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사람이",
+							"beginOffset": 657,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사람",
+									"beginOffset": 657,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98419523,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 659,
+									"length": 1
+								},
+								"tag": "JKC",
+								"probability": 0.9699206,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사람",
+						"tagged": "사람/NNG+이/JKC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "되고",
+							"beginOffset": 661,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "되",
+									"beginOffset": 661,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9804144,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 662,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9961374,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "되",
+						"tagged": "되/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "싶다.",
+							"beginOffset": 663,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "싶",
+									"beginOffset": 663,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.97788125,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다",
+									"beginOffset": 664,
+									"length": 1
+								},
+								"tag": "EF",
+								"probability": 0.9925109,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 665,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9997397,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "싶",
+						"tagged": "싶/VX+다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "나도 곽재우처럼 행동으로 직접 보여 주는 사람이 되고 싶다."
+			}
+		],
+		"language": "ko_KR"
+	},
+	"ttr": {
+		"lemma_Cnt": 337,
+		"lemma_TTR": 0.4553072625698324,
+		"CL_TTR": 0.7272727272727273,
+		"NL_TTR": 0.7752808988764045,
+		"NN_TTR": 0.7701149425287356,
+		"NNG_TTR": 0.835820895522388,
+		"NNP_TTR": 0.7,
+		"NNB_TTR": 0.7,
+		"NP_TTR": 1.0,
+		"NR_TTR": 0,
+		"VL_TTR": 0.6521739130434783,
+		"VV_TTR": 0.723404255319149,
+		"VA_TTR": 0.7142857142857143,
+		"ML_TTR": 1.0,
+		"MM_TTR": 0,
+		"MA_TTR": 1.0,
+		"MAJ_TTR": 1.0,
+		"IC_TTR": 0,
+		"FL_TTR": 0.21428571428571427,
+		"J_TTR": 0.19230769230769232,
+		"E_TTR": 0.2235294117647059,
+		"X_TTR": 0.8,
+		"lemma_RTTR": 8.614817688081546,
+		"CL_RTTR": 9.341987329938275,
+		"NL_RTTR": 7.313985372043884,
+		"NN_RTTR": 7.1831539834132245,
+		"NNG_RTTR": 6.841488883953092,
+		"NNP_RTTR": 2.2135943621178655,
+		"NNB_RTTR": 2.2135943621178655,
+		"NP_RTTR": 1.414213562373095,
+		"NR_RTTR": 0,
+		"VL_RTTR": 5.417363388859614,
+		"VV_RTTR": 4.959409710928415,
+		"VA_RTTR": 1.889822365046136,
+		"ML_RTTR": 2.6457513110645903,
+		"MM_RTTR": 0,
+		"MA_RTTR": 2.6457513110645903,
+		"MAJ_RTTR": 1.0,
+		"IC_RTTR": 0,
+		"FL_RTTR": 2.7774602993176543,
+		"J_RTTR": 1.6984155512168935,
+		"E_RTTR": 2.060839349277234,
+		"X_RTTR": 1.7888543819998317,
+		"lemma_CTTR": 6.091596005928277,
+		"CL_CTTR": 6.605782590758164,
+		"NL_CTTR": 5.171768654071443,
+		"NN_CTTR": 5.079256891978653,
+		"NNG_CTTR": 4.837663183255617,
+		"NNP_CTTR": 1.5652475842498528,
+		"NNB_CTTR": 1.5652475842498528,
+		"NP_CTTR": 1.0,
+		"NR_CTTR": 0,
+		"VL_CTTR": 3.8306543884143687,
+		"VV_CTTR": 3.5068322372798972,
+		"VA_CTTR": 1.3363062095621219,
+		"ML_CTTR": 1.8708286933869707,
+		"MM_CTTR": 0,
+		"MA_CTTR": 1.8708286933869707,
+		"MAJ_CTTR": 0.7071067811865475,
+		"IC_CTTR": 0,
+		"FL_CTTR": 1.9639610121239315,
+		"J_CTTR": 1.2009611535381535,
+		"E_CTTR": 1.4572334788100036,
+		"X_CTTR": 1.2649110640673518,
+		"lemma_MSTTR": 0.777142857142857,
+		"CL_MSTTR": 0.82,
+		"NL_MSTTR": 0.82,
+		"NN_MSTTR": 0.82,
+		"NNG_MSTTR": 0.88,
+		"NNP_MSTTR": 0.7,
+		"NNB_MSTTR": 0.7,
+		"NP_MSTTR": 1.0,
+		"NR_MSTTR": 0,
+		"VL_MSTTR": 0.64,
+		"VV_MSTTR": 0.723404255319149,
+		"VA_MSTTR": 0.7142857142857143,
+		"ML_MSTTR": 1.0,
+		"MM_MSTTR": 0,
+		"MA_MSTTR": 1.0,
+		"MAJ_MSTTR": 1.0,
+		"IC_MSTTR": 0,
+		"FL_MSTTR": 0.4666666666666666,
+		"J_MSTTR": 0.26,
+		"E_MSTTR": 0.26,
+		"X_MSTTR": 0.8,
+		"lemma_MATTR": 0.7752103559870547,
+		"CL_MATTR": 0.8239655172413791,
+		"NL_MATTR": 0.8629999999999999,
+		"NN_MATTR": 0.8594736842105261,
+		"NNG_MATTR": 0.8622222222222224,
+		"NNP_MATTR": 0.7,
+		"NNB_MATTR": 0.7,
+		"NP_MATTR": 1.0,
+		"NR_MATTR": 0,
+		"VL_MATTR": 0.6400000000000001,
+		"VV_MATTR": 0.723404255319149,
+		"VA_MATTR": 0.7142857142857143,
+		"ML_MATTR": 1.0,
+		"MM_MATTR": 0,
+		"MA_MATTR": 1.0,
+		"MAJ_MATTR": 1.0,
+		"IC_MATTR": 0,
+		"FL_MATTR": 0.4798319327731092,
+		"J_MATTR": 0.24551724137931047,
+		"E_MATTR": 0.32722222222222214,
+		"X_MATTR": 0.8,
+		"lemma_MTLD": 62.312519116687284,
+		"CL_MTLD": 145.0820375335121,
+		"NL_MTLD": 110.894,
+		"NN_MTLD": 105.96599999999998,
+		"NNG_MTLD": 114.26545454545455,
+		"NNP_MTLD": 9.333333333333334,
+		"NNB_MTLD": 9.333333333333334,
+		"NP_MTLD": 0.0,
+		"NR_MTLD": 0.0,
+		"VL_MTLD": 28.00916884972613,
+		"VV_MTLD": 29.51557632398754,
+		"VA_MTLD": 6.860000000000001,
+		"ML_MTLD": 0.0,
+		"MM_MTLD": 0.0,
+		"MA_MTLD": 0.0,
+		"MAJ_MTLD": 0.0,
+		"IC_MTLD": 0.0,
+		"FL_MTLD": 22.817345597897503,
+		"J_MTLD": 10.487410071942445,
+		"E_MTLD": 13.561266252401987,
+		"X_MTLD": 7.000000000000002,
+		"lemma_VOCDD": 71.09496535502082,
+		"CL_VOCDD": 119.09415221737659,
+		"NL_VOCDD": 115.1129006954417,
+		"NN_VOCDD": 111.07150484661683,
+		"NNG_VOCDD": 136.02602707315847,
+		"NNP_VOCDD": 0,
+		"NNB_VOCDD": 0,
+		"NP_VOCDD": 0,
+		"NR_VOCDD": 0,
+		"VL_VOCDD": 35.7180935022997,
+		"VV_VOCDD": 0,
+		"VA_VOCDD": 0,
+		"ML_VOCDD": 0,
+		"MM_VOCDD": 0,
+		"MA_VOCDD": 0,
+		"MAJ_VOCDD": 0,
+		"IC_VOCDD": 0,
+		"FL_VOCDD": 12.408875251172013,
+		"J_VOCDD": 2.760574700258765,
+		"E_VOCDD": 4.656884397619222,
+		"X_VOCDD": 0,
+		"lemma_HDD": 0.8071696638467243,
+		"CL_HDD": 0.8676905104535717,
+		"NL_HDD": 0.8650243690868633,
+		"NN_HDD": 0.8595420003925857,
+		"NNG_HDD": 0.8805828292768594,
+		"NNP_HDD": 0.0,
+		"NNB_HDD": 0.0,
+		"NP_HDD": 0.0,
+		"NR_HDD": 0.0,
+		"VL_HDD": 0.7057957185386228,
+		"VV_HDD": 0.7307821174611184,
+		"VA_HDD": 0.0,
+		"ML_HDD": 0.0,
+		"MM_HDD": 0.0,
+		"MA_HDD": 0.0,
+		"MAJ_HDD": 0.0,
+		"IC_HDD": 0.0,
+		"FL_HDD": 0.5290618054293097,
+		"J_HDD": 0.3029456162047705,
+		"E_HDD": 0.3728910863893833,
+		"X_HDD": 0.0
+	},
+	"similarity": {
+		"avgSentSimilarity": 0.35335245728492737,
+		"topicConsistency": 0.5821
+	},
+	"adjacency": {
+		"adjacent_sentence_overlap_all_lemmas": 275,
+		"adjacent_sentence_overlap_all_lemmas_normed": 13,
+		"binary_adjacent_sentence_overlap_all_lemmas": 13,
+		"adjacent_two_sentence_overlap_all_lemmas": 220,
+		"adjacent_two_sentence_overlap_all_lemmas_normed": 12,
+		"binary_adjacent_two_sentence_overlap_all_lemmas": 12,
+		"adjacent_sentence_overlap_content_lemmas": 135,
+		"adjacent_sentence_overlap_content_lemmas_normed": 13,
+		"binary_adjacent_sentence_overlap_content_lemmas": 11,
+		"adjacent_two_sentence_overlap_content_lemmas": 114,
+		"adjacent_two_sentence_overlap_content_lemmas_normed": 12,
+		"binary_adjacent_two_sentence_overlap_content_lemmas": 9,
+		"adjacent_sentence_overlap_function_lemmas": 122,
+		"adjacent_sentence_overlap_function_lemmas_normed": 13,
+		"binary_adjacent_sentence_overlap_function_lemmas": 13,
+		"adjacent_two_sentence_overlap_function_lemmas": 96,
+		"adjacent_two_sentence_overlap_function_lemmas_normed": 12,
+		"binary_adjacent_two_sentence_overlap_function_lemmas": 10,
+		"adjacent_sentence_overlap_noun_lemmas": 88,
+		"adjacent_sentence_overlap_noun_lemmas_normed": 13,
+		"binary_adjacent_sentence_overlap_noun_lemmas": 7,
+		"adjacent_two_sentence_overlap_noun_lemmas": 67,
+		"adjacent_two_sentence_overlap_noun_lemmas_normed": 12,
+		"binary_adjacent_two_sentence_overlap_noun_lemmas": 2,
+		"adjacent_sentence_overlap_verb_lemmas": 54,
+		"adjacent_sentence_overlap_verb_lemmas_normed": 13,
+		"binary_adjacent_sentence_overlap_verb_lemmas": 9,
+		"adjacent_two_sentence_overlap_verb_lemmas": 48,
+		"adjacent_two_sentence_overlap_verb_lemmas_normed": 12,
+		"binary_adjacent_two_sentence_overlap_verb_lemmas": 7,
+		"adjacent_sentence_overlap_adjective_lemmas": 5,
+		"adjacent_sentence_overlap_adjective_lemmas_normed": 3,
+		"binary_adjacent_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas": 3,
+		"adjacent_two_sentence_overlap_adjective_lemmas_normed": 1,
+		"binary_adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_sentence_overlap_adverb_lemmas": 3,
+		"adjacent_sentence_overlap_adverb_lemmas_normed": 3,
+		"binary_adjacent_sentence_overlap_adverb_lemmas": 1,
+		"adjacent_two_sentence_overlap_adverb_lemmas": 1,
+		"adjacent_two_sentence_overlap_adverb_lemmas_normed": 1,
+		"binary_adjacent_two_sentence_overlap_adverb_lemmas": 1
+	},
+	"basic_count": {
+		"para_Cnt": 1,
+		"sentence_Cnt": 14,
+		"word_Cnt": 147,
+		"morph_Cnt": 358,
+		"char_Cnt": 547,
+		"CL_Cnt": 165,
+		"NL_Cnt": 89,
+		"NN_Cnt": 87,
+		"NNG_Cnt": 67,
+		"NNP_Cnt": 10,
+		"NNB_Cnt": 10,
+		"NP_Cnt": 2,
+		"NP_People_Cnt": 1,
+		"NP_Things_Cnt": 1,
+		"NR_Cnt": 0,
+		"VL_Cnt": 69,
+		"VV_Cnt": 47,
+		"VA_Cnt": 7,
+		"VX_Cnt": 12,
+		"VCP_Cnt": 3,
+		"VCN_Cnt": 0,
+		"ML_Cnt": 7,
+		"MA_Cnt": 0,
+		"MM_Cnt": 0,
+		"FL_Cnt": 168,
+		"J_Cnt": 78,
+		"E_Cnt": 85,
+		"X_Cnt": 5,
+		"IC_Cnt": 0
+	},
+	"basic_density": {
+		"CL_Den": 0.46089385474860334,
+		"FL_Den": 0.4692737430167598,
+		"NL_Den": 0.2430167597765363,
+		"NNGL_Den": 0.1871508379888268,
+		"NNPL_Den": 0.027932960893854747,
+		"NNBL_Den": 0.027932960893854747,
+		"NPL_Den": 0.00558659217877095,
+		"NML_Den": 0.0,
+		"VL_Den": 0.19273743016759776,
+		"VVL_Den": 0.13128491620111732,
+		"VAL_Den": 0.019553072625698324,
+		"ML_Den": 0.019553072625698324,
+		"MML_Den": 0.0,
+		"MAL_Den": 0.0,
+		"JL_Den": 0.21787709497206703,
+		"EL_Den": 0.23743016759776536,
+		"XL_Den": 0.013966480446927373,
+		"ITL_Den": 0.0,
+		"NCL_Den": 0.5272727272727272,
+		"NNCL_Den": 0.40606060606060607,
+		"NNGCL_Den": 0.06060606060606061,
+		"NNBCL_Den": 0.06060606060606061,
+		"NPCL_Den": 0.012121212121212121,
+		"NMCL_Den": 0.0,
+		"VCL_Den": 0.41818181818181815,
+		"VVCL_Den": 0.28484848484848485,
+		"VACL_Den": 0.04242424242424243,
+		"MCL_Den": 0.04242424242424243,
+		"MMCL_Den": 0.0,
+		"MACL_Den": 0.0,
+		"INCL_Den": 0.0,
+		"JFL_Den": 0.4642857142857143,
+		"EFL_Den": 0.5059523809523809,
+		"XFL_Den": 0.02976190476190476
+	},
+	"basic_level": {
+		"morph_LenAvg": 1.547486033519553,
+		"morph_LenStd": 0.7336537806872321,
+		"word_LenAvg": 3.4489795918367347,
+		"word_LenStd": 1.229919932515867
+	},
+	"basic_list": {
+		"NL_Lst": [
+			[
+				0,
+				"곽재우",
+				"NNP",
+				"곽재우는 진주에서 태어나 부유한 집안에서 자랐다."
+			],
+			[
+				1,
+				"진주",
+				"NNP",
+				"곽재우는 진주에서 태어나 부유한 집안에서 자랐다."
+			],
+			[
+				2,
+				"집안",
+				"NNG",
+				"곽재우는 진주에서 태어나 부유한 집안에서 자랐다."
+			],
+			[
+				3,
+				"세",
+				"NNB",
+				"19세부터는 무에 관심이 많아 무과에 도전하기도 했다고 한다."
+			],
+			[
+				4,
+				"무에",
+				"NNG",
+				"19세부터는 무에 관심이 많아 무과에 도전하기도 했다고 한다."
+			],
+			[
+				5,
+				"관심",
+				"NNG",
+				"19세부터는 무에 관심이 많아 무과에 도전하기도 했다고 한다."
+			],
+			[
+				6,
+				"무과",
+				"NNG",
+				"19세부터는 무에 관심이 많아 무과에 도전하기도 했다고 한다."
+			],
+			[
+				7,
+				"이후",
+				"NNG",
+				"이후 1589년에는 부친의 사망으로 3년상을 치렀고 임진왜란 전까지는 집안의 재산으로 은거했다고 전해진다."
+			],
+			[
+				8,
+				"년",
+				"NNB",
+				"이후 1589년에는 부친의 사망으로 3년상을 치렀고 임진왜란 전까지는 집안의 재산으로 은거했다고 전해진다."
+			],
+			[
+				9,
+				"부친",
+				"NNG",
+				"이후 1589년에는 부친의 사망으로 3년상을 치렀고 임진왜란 전까지는 집안의 재산으로 은거했다고 전해진다."
+			],
+			[
+				10,
+				"사망",
+				"NNG",
+				"이후 1589년에는 부친의 사망으로 3년상을 치렀고 임진왜란 전까지는 집안의 재산으로 은거했다고 전해진다."
+			],
+			[
+				11,
+				"년",
+				"NNB",
+				"이후 1589년에는 부친의 사망으로 3년상을 치렀고 임진왜란 전까지는 집안의 재산으로 은거했다고 전해진다."
+			],
+			[
+				12,
+				"상",
+				"NNG",
+				"이후 1589년에는 부친의 사망으로 3년상을 치렀고 임진왜란 전까지는 집안의 재산으로 은거했다고 전해진다."
+			],
+			[
+				13,
+				"임진왜란",
+				"NNG",
+				"이후 1589년에는 부친의 사망으로 3년상을 치렀고 임진왜란 전까지는 집안의 재산으로 은거했다고 전해진다."
+			],
+			[
+				14,
+				"전",
+				"NNG",
+				"이후 1589년에는 부친의 사망으로 3년상을 치렀고 임진왜란 전까지는 집안의 재산으로 은거했다고 전해진다."
+			],
+			[
+				15,
+				"집안",
+				"NNG",
+				"이후 1589년에는 부친의 사망으로 3년상을 치렀고 임진왜란 전까지는 집안의 재산으로 은거했다고 전해진다."
+			],
+			[
+				16,
+				"재산",
+				"NNG",
+				"이후 1589년에는 부친의 사망으로 3년상을 치렀고 임진왜란 전까지는 집안의 재산으로 은거했다고 전해진다."
+			],
+			[
+				17,
+				"이후",
+				"NNG",
+				"이후 임진왜란이 발발하고 의병으로 활동하고 있다 최초의 의병장으로 알려져있는데 초창기 의병대는 도적으로 오해받아 체포령까지 내려졌다고 한다"
+			],
+			[
+				18,
+				"임진왜란",
+				"NNP",
+				"이후 임진왜란이 발발하고 의병으로 활동하고 있다 최초의 의병장으로 알려져있는데 초창기 의병대는 도적으로 오해받아 체포령까지 내려졌다고 한다"
+			],
+			[
+				19,
+				"의병",
+				"NNG",
+				"이후 임진왜란이 발발하고 의병으로 활동하고 있다 최초의 의병장으로 알려져있는데 초창기 의병대는 도적으로 오해받아 체포령까지 내려졌다고 한다"
+			],
+			[
+				20,
+				"최초",
+				"NNG",
+				"이후 임진왜란이 발발하고 의병으로 활동하고 있다 최초의 의병장으로 알려져있는데 초창기 의병대는 도적으로 오해받아 체포령까지 내려졌다고 한다"
+			],
+			[
+				21,
+				"의병장",
+				"NNG",
+				"이후 임진왜란이 발발하고 의병으로 활동하고 있다 최초의 의병장으로 알려져있는데 초창기 의병대는 도적으로 오해받아 체포령까지 내려졌다고 한다"
+			],
+			[
+				22,
+				"초창기",
+				"NNG",
+				"이후 임진왜란이 발발하고 의병으로 활동하고 있다 최초의 의병장으로 알려져있는데 초창기 의병대는 도적으로 오해받아 체포령까지 내려졌다고 한다"
+			],
+			[
+				23,
+				"의병대",
+				"NNG",
+				"이후 임진왜란이 발발하고 의병으로 활동하고 있다 최초의 의병장으로 알려져있는데 초창기 의병대는 도적으로 오해받아 체포령까지 내려졌다고 한다"
+			],
+			[
+				24,
+				"도적",
+				"NNG",
+				"이후 임진왜란이 발발하고 의병으로 활동하고 있다 최초의 의병장으로 알려져있는데 초창기 의병대는 도적으로 오해받아 체포령까지 내려졌다고 한다"
+			],
+			[
+				25,
+				"오해",
+				"NNG",
+				"이후 임진왜란이 발발하고 의병으로 활동하고 있다 최초의 의병장으로 알려져있는데 초창기 의병대는 도적으로 오해받아 체포령까지 내려졌다고 한다"
+			],
+			[
+				26,
+				"체포령",
+				"NNG",
+				"이후 임진왜란이 발발하고 의병으로 활동하고 있다 최초의 의병장으로 알려져있는데 초창기 의병대는 도적으로 오해받아 체포령까지 내려졌다고 한다"
+			],
+			[
+				27,
+				"이",
+				"NP",
+				"이에 곽재우는 병사들을 해산시키기 까지했는데 이후 김성일의 도움으로 다시 재정비를 하게된다."
+			],
+			[
+				28,
+				"곽재우",
+				"NNP",
+				"이에 곽재우는 병사들을 해산시키기 까지했는데 이후 김성일의 도움으로 다시 재정비를 하게된다."
+			],
+			[
+				29,
+				"병사들",
+				"NNG",
+				"이에 곽재우는 병사들을 해산시키기 까지했는데 이후 김성일의 도움으로 다시 재정비를 하게된다."
+			],
+			[
+				30,
+				"해산",
+				"NNG",
+				"이에 곽재우는 병사들을 해산시키기 까지했는데 이후 김성일의 도움으로 다시 재정비를 하게된다."
+			],
+			[
+				31,
+				"이후",
+				"NNG",
+				"이에 곽재우는 병사들을 해산시키기 까지했는데 이후 김성일의 도움으로 다시 재정비를 하게된다."
+			],
+			[
+				32,
+				"김성일",
+				"NNP",
+				"이에 곽재우는 병사들을 해산시키기 까지했는데 이후 김성일의 도움으로 다시 재정비를 하게된다."
+			],
+			[
+				33,
+				"도움",
+				"NNG",
+				"이에 곽재우는 병사들을 해산시키기 까지했는데 이후 김성일의 도움으로 다시 재정비를 하게된다."
+			],
+			[
+				34,
+				"정비",
+				"NNG",
+				"이에 곽재우는 병사들을 해산시키기 까지했는데 이후 김성일의 도움으로 다시 재정비를 하게된다."
+			],
+			[
+				35,
+				"왜구",
+				"NNG",
+				"하지만 바로왜구가 정암진으로 들어와 전투를 하게된다."
+			],
+			[
+				36,
+				"정암진",
+				"NNG",
+				"하지만 바로왜구가 정암진으로 들어와 전투를 하게된다."
+			],
+			[
+				37,
+				"전투",
+				"NNG",
+				"하지만 바로왜구가 정암진으로 들어와 전투를 하게된다."
+			],
+			[
+				38,
+				"매복",
+				"NNG",
+				"다행히 매복으로 승리를 했고 승리의 주역은 본인이 미끼가 되어 왜군들을 불러들여온 곽재우였다."
+			],
+			[
+				39,
+				"승리",
+				"NNG",
+				"다행히 매복으로 승리를 했고 승리의 주역은 본인이 미끼가 되어 왜군들을 불러들여온 곽재우였다."
+			],
+			[
+				40,
+				"승리",
+				"NNG",
+				"다행히 매복으로 승리를 했고 승리의 주역은 본인이 미끼가 되어 왜군들을 불러들여온 곽재우였다."
+			],
+			[
+				41,
+				"주역",
+				"NNP",
+				"다행히 매복으로 승리를 했고 승리의 주역은 본인이 미끼가 되어 왜군들을 불러들여온 곽재우였다."
+			],
+			[
+				42,
+				"본인",
+				"NNG",
+				"다행히 매복으로 승리를 했고 승리의 주역은 본인이 미끼가 되어 왜군들을 불러들여온 곽재우였다."
+			],
+			[
+				43,
+				"미끼",
+				"NNG",
+				"다행히 매복으로 승리를 했고 승리의 주역은 본인이 미끼가 되어 왜군들을 불러들여온 곽재우였다."
+			],
+			[
+				44,
+				"왜군",
+				"NNG",
+				"다행히 매복으로 승리를 했고 승리의 주역은 본인이 미끼가 되어 왜군들을 불러들여온 곽재우였다."
+			],
+			[
+				45,
+				"곽재우",
+				"NNG",
+				"다행히 매복으로 승리를 했고 승리의 주역은 본인이 미끼가 되어 왜군들을 불러들여온 곽재우였다."
+			],
+			[
+				46,
+				"이후",
+				"NNG",
+				"이후 7월에는 탈환작전에 참여해 3개의 현을 탈환하기도 했다."
+			],
+			[
+				47,
+				"월",
+				"NNB",
+				"이후 7월에는 탈환작전에 참여해 3개의 현을 탈환하기도 했다."
+			],
+			[
+				48,
+				"탈환",
+				"NNG",
+				"이후 7월에는 탈환작전에 참여해 3개의 현을 탈환하기도 했다."
+			],
+			[
+				49,
+				"작전",
+				"NNG",
+				"이후 7월에는 탈환작전에 참여해 3개의 현을 탈환하기도 했다."
+			],
+			[
+				50,
+				"개",
+				"NNB",
+				"이후 7월에는 탈환작전에 참여해 3개의 현을 탈환하기도 했다."
+			],
+			[
+				51,
+				"현",
+				"NNP",
+				"이후 7월에는 탈환작전에 참여해 3개의 현을 탈환하기도 했다."
+			],
+			[
+				52,
+				"개월",
+				"NNB",
+				"3개월뒤인 10월에는 진주대첩에 원군으로써 참여해 공을 세우기도 하면서 관직을 받기도했다."
+			],
+			[
+				53,
+				"뒤",
+				"NNG",
+				"3개월뒤인 10월에는 진주대첩에 원군으로써 참여해 공을 세우기도 하면서 관직을 받기도했다."
+			],
+			[
+				54,
+				"월",
+				"NNB",
+				"3개월뒤인 10월에는 진주대첩에 원군으로써 참여해 공을 세우기도 하면서 관직을 받기도했다."
+			],
+			[
+				55,
+				"진주",
+				"NNG",
+				"3개월뒤인 10월에는 진주대첩에 원군으로써 참여해 공을 세우기도 하면서 관직을 받기도했다."
+			],
+			[
+				56,
+				"대첩",
+				"NNG",
+				"3개월뒤인 10월에는 진주대첩에 원군으로써 참여해 공을 세우기도 하면서 관직을 받기도했다."
+			],
+			[
+				57,
+				"원군",
+				"NNG",
+				"3개월뒤인 10월에는 진주대첩에 원군으로써 참여해 공을 세우기도 하면서 관직을 받기도했다."
+			],
+			[
+				58,
+				"공",
+				"NNG",
+				"3개월뒤인 10월에는 진주대첩에 원군으로써 참여해 공을 세우기도 하면서 관직을 받기도했다."
+			],
+			[
+				59,
+				"관직",
+				"NNG",
+				"3개월뒤인 10월에는 진주대첩에 원군으로써 참여해 공을 세우기도 하면서 관직을 받기도했다."
+			],
+			[
+				60,
+				"년",
+				"NNB",
+				"그러다가 1594년에는 급작스럽게 벼슬을 버리고 낙향하기도 했다."
+			],
+			[
+				61,
+				"벼슬",
+				"NNG",
+				"그러다가 1594년에는 급작스럽게 벼슬을 버리고 낙향하기도 했다."
+			],
+			[
+				62,
+				"이후",
+				"NNG",
+				"이후 여러 차례 재등용 시도가 있었지만 전부 거절하고 숨어지냈다고 한다."
+			],
+			[
+				63,
+				"차례",
+				"NNG",
+				"이후 여러 차례 재등용 시도가 있었지만 전부 거절하고 숨어지냈다고 한다."
+			],
+			[
+				64,
+				"등용",
+				"NNG",
+				"이후 여러 차례 재등용 시도가 있었지만 전부 거절하고 숨어지냈다고 한다."
+			],
+			[
+				65,
+				"시도",
+				"NNG",
+				"이후 여러 차례 재등용 시도가 있었지만 전부 거절하고 숨어지냈다고 한다."
+			],
+			[
+				66,
+				"재산",
+				"NNG",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				67,
+				"의병",
+				"NNG",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				68,
+				"활동",
+				"NNG",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				69,
+				"재산",
+				"NNG",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				70,
+				"단벌옷",
+				"NNG",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				71,
+				"종이",
+				"NNG",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				72,
+				"장",
+				"NNB",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				73,
+				"생활",
+				"NNG",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				74,
+				"광해군",
+				"NNP",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				75,
+				"고위",
+				"NNG",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				76,
+				"직",
+				"NNG",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				77,
+				"생활",
+				"NNG",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				78,
+				"곽재우",
+				"NNP",
+				"곽재우는 나라를 지키기 위해 본인의 가진 것 모두를 써서 왜란을 막은 인물이다."
+			],
+			[
+				79,
+				"나라",
+				"NNG",
+				"곽재우는 나라를 지키기 위해 본인의 가진 것 모두를 써서 왜란을 막은 인물이다."
+			],
+			[
+				80,
+				"본인",
+				"NNG",
+				"곽재우는 나라를 지키기 위해 본인의 가진 것 모두를 써서 왜란을 막은 인물이다."
+			],
+			[
+				81,
+				"것",
+				"NNB",
+				"곽재우는 나라를 지키기 위해 본인의 가진 것 모두를 써서 왜란을 막은 인물이다."
+			],
+			[
+				82,
+				"모두",
+				"NNG",
+				"곽재우는 나라를 지키기 위해 본인의 가진 것 모두를 써서 왜란을 막은 인물이다."
+			],
+			[
+				83,
+				"왜란",
+				"NNG",
+				"곽재우는 나라를 지키기 위해 본인의 가진 것 모두를 써서 왜란을 막은 인물이다."
+			],
+			[
+				84,
+				"인물",
+				"NNG",
+				"곽재우는 나라를 지키기 위해 본인의 가진 것 모두를 써서 왜란을 막은 인물이다."
+			],
+			[
+				85,
+				"나",
+				"NP",
+				"나도 곽재우처럼 행동으로 직접 보여주는 사람이 되고싶다."
+			],
+			[
+				86,
+				"곽재우",
+				"NNP",
+				"나도 곽재우처럼 행동으로 직접 보여주는 사람이 되고싶다."
+			],
+			[
+				87,
+				"행동",
+				"NNG",
+				"나도 곽재우처럼 행동으로 직접 보여주는 사람이 되고싶다."
+			],
+			[
+				88,
+				"사람",
+				"NNG",
+				"나도 곽재우처럼 행동으로 직접 보여주는 사람이 되고싶다."
+			]
+		],
+		"NN_Lst": [
+			[
+				0,
+				"곽재우",
+				"NNP",
+				"곽재우는 진주에서 태어나 부유한 집안에서 자랐다."
+			],
+			[
+				1,
+				"진주",
+				"NNP",
+				"곽재우는 진주에서 태어나 부유한 집안에서 자랐다."
+			],
+			[
+				2,
+				"집안",
+				"NNG",
+				"곽재우는 진주에서 태어나 부유한 집안에서 자랐다."
+			],
+			[
+				3,
+				"세",
+				"NNB",
+				"19세부터는 무에 관심이 많아 무과에 도전하기도 했다고 한다."
+			],
+			[
+				4,
+				"무에",
+				"NNG",
+				"19세부터는 무에 관심이 많아 무과에 도전하기도 했다고 한다."
+			],
+			[
+				5,
+				"관심",
+				"NNG",
+				"19세부터는 무에 관심이 많아 무과에 도전하기도 했다고 한다."
+			],
+			[
+				6,
+				"무과",
+				"NNG",
+				"19세부터는 무에 관심이 많아 무과에 도전하기도 했다고 한다."
+			],
+			[
+				7,
+				"이후",
+				"NNG",
+				"이후 1589년에는 부친의 사망으로 3년상을 치렀고 임진왜란 전까지는 집안의 재산으로 은거했다고 전해진다."
+			],
+			[
+				8,
+				"년",
+				"NNB",
+				"이후 1589년에는 부친의 사망으로 3년상을 치렀고 임진왜란 전까지는 집안의 재산으로 은거했다고 전해진다."
+			],
+			[
+				9,
+				"부친",
+				"NNG",
+				"이후 1589년에는 부친의 사망으로 3년상을 치렀고 임진왜란 전까지는 집안의 재산으로 은거했다고 전해진다."
+			],
+			[
+				10,
+				"사망",
+				"NNG",
+				"이후 1589년에는 부친의 사망으로 3년상을 치렀고 임진왜란 전까지는 집안의 재산으로 은거했다고 전해진다."
+			],
+			[
+				11,
+				"년",
+				"NNB",
+				"이후 1589년에는 부친의 사망으로 3년상을 치렀고 임진왜란 전까지는 집안의 재산으로 은거했다고 전해진다."
+			],
+			[
+				12,
+				"상",
+				"NNG",
+				"이후 1589년에는 부친의 사망으로 3년상을 치렀고 임진왜란 전까지는 집안의 재산으로 은거했다고 전해진다."
+			],
+			[
+				13,
+				"임진왜란",
+				"NNG",
+				"이후 1589년에는 부친의 사망으로 3년상을 치렀고 임진왜란 전까지는 집안의 재산으로 은거했다고 전해진다."
+			],
+			[
+				14,
+				"전",
+				"NNG",
+				"이후 1589년에는 부친의 사망으로 3년상을 치렀고 임진왜란 전까지는 집안의 재산으로 은거했다고 전해진다."
+			],
+			[
+				15,
+				"집안",
+				"NNG",
+				"이후 1589년에는 부친의 사망으로 3년상을 치렀고 임진왜란 전까지는 집안의 재산으로 은거했다고 전해진다."
+			],
+			[
+				16,
+				"재산",
+				"NNG",
+				"이후 1589년에는 부친의 사망으로 3년상을 치렀고 임진왜란 전까지는 집안의 재산으로 은거했다고 전해진다."
+			],
+			[
+				17,
+				"이후",
+				"NNG",
+				"이후 임진왜란이 발발하고 의병으로 활동하고 있다 최초의 의병장으로 알려져있는데 초창기 의병대는 도적으로 오해받아 체포령까지 내려졌다고 한다"
+			],
+			[
+				18,
+				"임진왜란",
+				"NNP",
+				"이후 임진왜란이 발발하고 의병으로 활동하고 있다 최초의 의병장으로 알려져있는데 초창기 의병대는 도적으로 오해받아 체포령까지 내려졌다고 한다"
+			],
+			[
+				19,
+				"의병",
+				"NNG",
+				"이후 임진왜란이 발발하고 의병으로 활동하고 있다 최초의 의병장으로 알려져있는데 초창기 의병대는 도적으로 오해받아 체포령까지 내려졌다고 한다"
+			],
+			[
+				20,
+				"최초",
+				"NNG",
+				"이후 임진왜란이 발발하고 의병으로 활동하고 있다 최초의 의병장으로 알려져있는데 초창기 의병대는 도적으로 오해받아 체포령까지 내려졌다고 한다"
+			],
+			[
+				21,
+				"의병장",
+				"NNG",
+				"이후 임진왜란이 발발하고 의병으로 활동하고 있다 최초의 의병장으로 알려져있는데 초창기 의병대는 도적으로 오해받아 체포령까지 내려졌다고 한다"
+			],
+			[
+				22,
+				"초창기",
+				"NNG",
+				"이후 임진왜란이 발발하고 의병으로 활동하고 있다 최초의 의병장으로 알려져있는데 초창기 의병대는 도적으로 오해받아 체포령까지 내려졌다고 한다"
+			],
+			[
+				23,
+				"의병대",
+				"NNG",
+				"이후 임진왜란이 발발하고 의병으로 활동하고 있다 최초의 의병장으로 알려져있는데 초창기 의병대는 도적으로 오해받아 체포령까지 내려졌다고 한다"
+			],
+			[
+				24,
+				"도적",
+				"NNG",
+				"이후 임진왜란이 발발하고 의병으로 활동하고 있다 최초의 의병장으로 알려져있는데 초창기 의병대는 도적으로 오해받아 체포령까지 내려졌다고 한다"
+			],
+			[
+				25,
+				"오해",
+				"NNG",
+				"이후 임진왜란이 발발하고 의병으로 활동하고 있다 최초의 의병장으로 알려져있는데 초창기 의병대는 도적으로 오해받아 체포령까지 내려졌다고 한다"
+			],
+			[
+				26,
+				"체포령",
+				"NNG",
+				"이후 임진왜란이 발발하고 의병으로 활동하고 있다 최초의 의병장으로 알려져있는데 초창기 의병대는 도적으로 오해받아 체포령까지 내려졌다고 한다"
+			],
+			[
+				27,
+				"곽재우",
+				"NNP",
+				"이에 곽재우는 병사들을 해산시키기 까지했는데 이후 김성일의 도움으로 다시 재정비를 하게된다."
+			],
+			[
+				28,
+				"병사들",
+				"NNG",
+				"이에 곽재우는 병사들을 해산시키기 까지했는데 이후 김성일의 도움으로 다시 재정비를 하게된다."
+			],
+			[
+				29,
+				"해산",
+				"NNG",
+				"이에 곽재우는 병사들을 해산시키기 까지했는데 이후 김성일의 도움으로 다시 재정비를 하게된다."
+			],
+			[
+				30,
+				"이후",
+				"NNG",
+				"이에 곽재우는 병사들을 해산시키기 까지했는데 이후 김성일의 도움으로 다시 재정비를 하게된다."
+			],
+			[
+				31,
+				"김성일",
+				"NNP",
+				"이에 곽재우는 병사들을 해산시키기 까지했는데 이후 김성일의 도움으로 다시 재정비를 하게된다."
+			],
+			[
+				32,
+				"도움",
+				"NNG",
+				"이에 곽재우는 병사들을 해산시키기 까지했는데 이후 김성일의 도움으로 다시 재정비를 하게된다."
+			],
+			[
+				33,
+				"정비",
+				"NNG",
+				"이에 곽재우는 병사들을 해산시키기 까지했는데 이후 김성일의 도움으로 다시 재정비를 하게된다."
+			],
+			[
+				34,
+				"왜구",
+				"NNG",
+				"하지만 바로왜구가 정암진으로 들어와 전투를 하게된다."
+			],
+			[
+				35,
+				"정암진",
+				"NNG",
+				"하지만 바로왜구가 정암진으로 들어와 전투를 하게된다."
+			],
+			[
+				36,
+				"전투",
+				"NNG",
+				"하지만 바로왜구가 정암진으로 들어와 전투를 하게된다."
+			],
+			[
+				37,
+				"매복",
+				"NNG",
+				"다행히 매복으로 승리를 했고 승리의 주역은 본인이 미끼가 되어 왜군들을 불러들여온 곽재우였다."
+			],
+			[
+				38,
+				"승리",
+				"NNG",
+				"다행히 매복으로 승리를 했고 승리의 주역은 본인이 미끼가 되어 왜군들을 불러들여온 곽재우였다."
+			],
+			[
+				39,
+				"승리",
+				"NNG",
+				"다행히 매복으로 승리를 했고 승리의 주역은 본인이 미끼가 되어 왜군들을 불러들여온 곽재우였다."
+			],
+			[
+				40,
+				"주역",
+				"NNP",
+				"다행히 매복으로 승리를 했고 승리의 주역은 본인이 미끼가 되어 왜군들을 불러들여온 곽재우였다."
+			],
+			[
+				41,
+				"본인",
+				"NNG",
+				"다행히 매복으로 승리를 했고 승리의 주역은 본인이 미끼가 되어 왜군들을 불러들여온 곽재우였다."
+			],
+			[
+				42,
+				"미끼",
+				"NNG",
+				"다행히 매복으로 승리를 했고 승리의 주역은 본인이 미끼가 되어 왜군들을 불러들여온 곽재우였다."
+			],
+			[
+				43,
+				"왜군",
+				"NNG",
+				"다행히 매복으로 승리를 했고 승리의 주역은 본인이 미끼가 되어 왜군들을 불러들여온 곽재우였다."
+			],
+			[
+				44,
+				"곽재우",
+				"NNG",
+				"다행히 매복으로 승리를 했고 승리의 주역은 본인이 미끼가 되어 왜군들을 불러들여온 곽재우였다."
+			],
+			[
+				45,
+				"이후",
+				"NNG",
+				"이후 7월에는 탈환작전에 참여해 3개의 현을 탈환하기도 했다."
+			],
+			[
+				46,
+				"월",
+				"NNB",
+				"이후 7월에는 탈환작전에 참여해 3개의 현을 탈환하기도 했다."
+			],
+			[
+				47,
+				"탈환",
+				"NNG",
+				"이후 7월에는 탈환작전에 참여해 3개의 현을 탈환하기도 했다."
+			],
+			[
+				48,
+				"작전",
+				"NNG",
+				"이후 7월에는 탈환작전에 참여해 3개의 현을 탈환하기도 했다."
+			],
+			[
+				49,
+				"개",
+				"NNB",
+				"이후 7월에는 탈환작전에 참여해 3개의 현을 탈환하기도 했다."
+			],
+			[
+				50,
+				"현",
+				"NNP",
+				"이후 7월에는 탈환작전에 참여해 3개의 현을 탈환하기도 했다."
+			],
+			[
+				51,
+				"개월",
+				"NNB",
+				"3개월뒤인 10월에는 진주대첩에 원군으로써 참여해 공을 세우기도 하면서 관직을 받기도했다."
+			],
+			[
+				52,
+				"뒤",
+				"NNG",
+				"3개월뒤인 10월에는 진주대첩에 원군으로써 참여해 공을 세우기도 하면서 관직을 받기도했다."
+			],
+			[
+				53,
+				"월",
+				"NNB",
+				"3개월뒤인 10월에는 진주대첩에 원군으로써 참여해 공을 세우기도 하면서 관직을 받기도했다."
+			],
+			[
+				54,
+				"진주",
+				"NNG",
+				"3개월뒤인 10월에는 진주대첩에 원군으로써 참여해 공을 세우기도 하면서 관직을 받기도했다."
+			],
+			[
+				55,
+				"대첩",
+				"NNG",
+				"3개월뒤인 10월에는 진주대첩에 원군으로써 참여해 공을 세우기도 하면서 관직을 받기도했다."
+			],
+			[
+				56,
+				"원군",
+				"NNG",
+				"3개월뒤인 10월에는 진주대첩에 원군으로써 참여해 공을 세우기도 하면서 관직을 받기도했다."
+			],
+			[
+				57,
+				"공",
+				"NNG",
+				"3개월뒤인 10월에는 진주대첩에 원군으로써 참여해 공을 세우기도 하면서 관직을 받기도했다."
+			],
+			[
+				58,
+				"관직",
+				"NNG",
+				"3개월뒤인 10월에는 진주대첩에 원군으로써 참여해 공을 세우기도 하면서 관직을 받기도했다."
+			],
+			[
+				59,
+				"년",
+				"NNB",
+				"그러다가 1594년에는 급작스럽게 벼슬을 버리고 낙향하기도 했다."
+			],
+			[
+				60,
+				"벼슬",
+				"NNG",
+				"그러다가 1594년에는 급작스럽게 벼슬을 버리고 낙향하기도 했다."
+			],
+			[
+				61,
+				"이후",
+				"NNG",
+				"이후 여러 차례 재등용 시도가 있었지만 전부 거절하고 숨어지냈다고 한다."
+			],
+			[
+				62,
+				"차례",
+				"NNG",
+				"이후 여러 차례 재등용 시도가 있었지만 전부 거절하고 숨어지냈다고 한다."
+			],
+			[
+				63,
+				"등용",
+				"NNG",
+				"이후 여러 차례 재등용 시도가 있었지만 전부 거절하고 숨어지냈다고 한다."
+			],
+			[
+				64,
+				"시도",
+				"NNG",
+				"이후 여러 차례 재등용 시도가 있었지만 전부 거절하고 숨어지냈다고 한다."
+			],
+			[
+				65,
+				"재산",
+				"NNG",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				66,
+				"의병",
+				"NNG",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				67,
+				"활동",
+				"NNG",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				68,
+				"재산",
+				"NNG",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				69,
+				"단벌옷",
+				"NNG",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				70,
+				"종이",
+				"NNG",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				71,
+				"장",
+				"NNB",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				72,
+				"생활",
+				"NNG",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				73,
+				"광해군",
+				"NNP",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				74,
+				"고위",
+				"NNG",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				75,
+				"직",
+				"NNG",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				76,
+				"생활",
+				"NNG",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				77,
+				"곽재우",
+				"NNP",
+				"곽재우는 나라를 지키기 위해 본인의 가진 것 모두를 써서 왜란을 막은 인물이다."
+			],
+			[
+				78,
+				"나라",
+				"NNG",
+				"곽재우는 나라를 지키기 위해 본인의 가진 것 모두를 써서 왜란을 막은 인물이다."
+			],
+			[
+				79,
+				"본인",
+				"NNG",
+				"곽재우는 나라를 지키기 위해 본인의 가진 것 모두를 써서 왜란을 막은 인물이다."
+			],
+			[
+				80,
+				"것",
+				"NNB",
+				"곽재우는 나라를 지키기 위해 본인의 가진 것 모두를 써서 왜란을 막은 인물이다."
+			],
+			[
+				81,
+				"모두",
+				"NNG",
+				"곽재우는 나라를 지키기 위해 본인의 가진 것 모두를 써서 왜란을 막은 인물이다."
+			],
+			[
+				82,
+				"왜란",
+				"NNG",
+				"곽재우는 나라를 지키기 위해 본인의 가진 것 모두를 써서 왜란을 막은 인물이다."
+			],
+			[
+				83,
+				"인물",
+				"NNG",
+				"곽재우는 나라를 지키기 위해 본인의 가진 것 모두를 써서 왜란을 막은 인물이다."
+			],
+			[
+				84,
+				"곽재우",
+				"NNP",
+				"나도 곽재우처럼 행동으로 직접 보여주는 사람이 되고싶다."
+			],
+			[
+				85,
+				"행동",
+				"NNG",
+				"나도 곽재우처럼 행동으로 직접 보여주는 사람이 되고싶다."
+			],
+			[
+				86,
+				"사람",
+				"NNG",
+				"나도 곽재우처럼 행동으로 직접 보여주는 사람이 되고싶다."
+			]
+		],
+		"NNG_Lst": [
+			[
+				0,
+				"집안",
+				"NNG",
+				"곽재우는 진주에서 태어나 부유한 집안에서 자랐다."
+			],
+			[
+				1,
+				"무에",
+				"NNG",
+				"19세부터는 무에 관심이 많아 무과에 도전하기도 했다고 한다."
+			],
+			[
+				2,
+				"관심",
+				"NNG",
+				"19세부터는 무에 관심이 많아 무과에 도전하기도 했다고 한다."
+			],
+			[
+				3,
+				"무과",
+				"NNG",
+				"19세부터는 무에 관심이 많아 무과에 도전하기도 했다고 한다."
+			],
+			[
+				4,
+				"이후",
+				"NNG",
+				"이후 1589년에는 부친의 사망으로 3년상을 치렀고 임진왜란 전까지는 집안의 재산으로 은거했다고 전해진다."
+			],
+			[
+				5,
+				"부친",
+				"NNG",
+				"이후 1589년에는 부친의 사망으로 3년상을 치렀고 임진왜란 전까지는 집안의 재산으로 은거했다고 전해진다."
+			],
+			[
+				6,
+				"사망",
+				"NNG",
+				"이후 1589년에는 부친의 사망으로 3년상을 치렀고 임진왜란 전까지는 집안의 재산으로 은거했다고 전해진다."
+			],
+			[
+				7,
+				"상",
+				"NNG",
+				"이후 1589년에는 부친의 사망으로 3년상을 치렀고 임진왜란 전까지는 집안의 재산으로 은거했다고 전해진다."
+			],
+			[
+				8,
+				"임진왜란",
+				"NNG",
+				"이후 1589년에는 부친의 사망으로 3년상을 치렀고 임진왜란 전까지는 집안의 재산으로 은거했다고 전해진다."
+			],
+			[
+				9,
+				"전",
+				"NNG",
+				"이후 1589년에는 부친의 사망으로 3년상을 치렀고 임진왜란 전까지는 집안의 재산으로 은거했다고 전해진다."
+			],
+			[
+				10,
+				"집안",
+				"NNG",
+				"이후 1589년에는 부친의 사망으로 3년상을 치렀고 임진왜란 전까지는 집안의 재산으로 은거했다고 전해진다."
+			],
+			[
+				11,
+				"재산",
+				"NNG",
+				"이후 1589년에는 부친의 사망으로 3년상을 치렀고 임진왜란 전까지는 집안의 재산으로 은거했다고 전해진다."
+			],
+			[
+				12,
+				"이후",
+				"NNG",
+				"이후 임진왜란이 발발하고 의병으로 활동하고 있다 최초의 의병장으로 알려져있는데 초창기 의병대는 도적으로 오해받아 체포령까지 내려졌다고 한다"
+			],
+			[
+				13,
+				"의병",
+				"NNG",
+				"이후 임진왜란이 발발하고 의병으로 활동하고 있다 최초의 의병장으로 알려져있는데 초창기 의병대는 도적으로 오해받아 체포령까지 내려졌다고 한다"
+			],
+			[
+				14,
+				"최초",
+				"NNG",
+				"이후 임진왜란이 발발하고 의병으로 활동하고 있다 최초의 의병장으로 알려져있는데 초창기 의병대는 도적으로 오해받아 체포령까지 내려졌다고 한다"
+			],
+			[
+				15,
+				"의병장",
+				"NNG",
+				"이후 임진왜란이 발발하고 의병으로 활동하고 있다 최초의 의병장으로 알려져있는데 초창기 의병대는 도적으로 오해받아 체포령까지 내려졌다고 한다"
+			],
+			[
+				16,
+				"초창기",
+				"NNG",
+				"이후 임진왜란이 발발하고 의병으로 활동하고 있다 최초의 의병장으로 알려져있는데 초창기 의병대는 도적으로 오해받아 체포령까지 내려졌다고 한다"
+			],
+			[
+				17,
+				"의병대",
+				"NNG",
+				"이후 임진왜란이 발발하고 의병으로 활동하고 있다 최초의 의병장으로 알려져있는데 초창기 의병대는 도적으로 오해받아 체포령까지 내려졌다고 한다"
+			],
+			[
+				18,
+				"도적",
+				"NNG",
+				"이후 임진왜란이 발발하고 의병으로 활동하고 있다 최초의 의병장으로 알려져있는데 초창기 의병대는 도적으로 오해받아 체포령까지 내려졌다고 한다"
+			],
+			[
+				19,
+				"오해",
+				"NNG",
+				"이후 임진왜란이 발발하고 의병으로 활동하고 있다 최초의 의병장으로 알려져있는데 초창기 의병대는 도적으로 오해받아 체포령까지 내려졌다고 한다"
+			],
+			[
+				20,
+				"체포령",
+				"NNG",
+				"이후 임진왜란이 발발하고 의병으로 활동하고 있다 최초의 의병장으로 알려져있는데 초창기 의병대는 도적으로 오해받아 체포령까지 내려졌다고 한다"
+			],
+			[
+				21,
+				"병사들",
+				"NNG",
+				"이에 곽재우는 병사들을 해산시키기 까지했는데 이후 김성일의 도움으로 다시 재정비를 하게된다."
+			],
+			[
+				22,
+				"해산",
+				"NNG",
+				"이에 곽재우는 병사들을 해산시키기 까지했는데 이후 김성일의 도움으로 다시 재정비를 하게된다."
+			],
+			[
+				23,
+				"이후",
+				"NNG",
+				"이에 곽재우는 병사들을 해산시키기 까지했는데 이후 김성일의 도움으로 다시 재정비를 하게된다."
+			],
+			[
+				24,
+				"도움",
+				"NNG",
+				"이에 곽재우는 병사들을 해산시키기 까지했는데 이후 김성일의 도움으로 다시 재정비를 하게된다."
+			],
+			[
+				25,
+				"정비",
+				"NNG",
+				"이에 곽재우는 병사들을 해산시키기 까지했는데 이후 김성일의 도움으로 다시 재정비를 하게된다."
+			],
+			[
+				26,
+				"왜구",
+				"NNG",
+				"하지만 바로왜구가 정암진으로 들어와 전투를 하게된다."
+			],
+			[
+				27,
+				"정암진",
+				"NNG",
+				"하지만 바로왜구가 정암진으로 들어와 전투를 하게된다."
+			],
+			[
+				28,
+				"전투",
+				"NNG",
+				"하지만 바로왜구가 정암진으로 들어와 전투를 하게된다."
+			],
+			[
+				29,
+				"매복",
+				"NNG",
+				"다행히 매복으로 승리를 했고 승리의 주역은 본인이 미끼가 되어 왜군들을 불러들여온 곽재우였다."
+			],
+			[
+				30,
+				"승리",
+				"NNG",
+				"다행히 매복으로 승리를 했고 승리의 주역은 본인이 미끼가 되어 왜군들을 불러들여온 곽재우였다."
+			],
+			[
+				31,
+				"승리",
+				"NNG",
+				"다행히 매복으로 승리를 했고 승리의 주역은 본인이 미끼가 되어 왜군들을 불러들여온 곽재우였다."
+			],
+			[
+				32,
+				"본인",
+				"NNG",
+				"다행히 매복으로 승리를 했고 승리의 주역은 본인이 미끼가 되어 왜군들을 불러들여온 곽재우였다."
+			],
+			[
+				33,
+				"미끼",
+				"NNG",
+				"다행히 매복으로 승리를 했고 승리의 주역은 본인이 미끼가 되어 왜군들을 불러들여온 곽재우였다."
+			],
+			[
+				34,
+				"왜군",
+				"NNG",
+				"다행히 매복으로 승리를 했고 승리의 주역은 본인이 미끼가 되어 왜군들을 불러들여온 곽재우였다."
+			],
+			[
+				35,
+				"곽재우",
+				"NNG",
+				"다행히 매복으로 승리를 했고 승리의 주역은 본인이 미끼가 되어 왜군들을 불러들여온 곽재우였다."
+			],
+			[
+				36,
+				"이후",
+				"NNG",
+				"이후 7월에는 탈환작전에 참여해 3개의 현을 탈환하기도 했다."
+			],
+			[
+				37,
+				"탈환",
+				"NNG",
+				"이후 7월에는 탈환작전에 참여해 3개의 현을 탈환하기도 했다."
+			],
+			[
+				38,
+				"작전",
+				"NNG",
+				"이후 7월에는 탈환작전에 참여해 3개의 현을 탈환하기도 했다."
+			],
+			[
+				39,
+				"뒤",
+				"NNG",
+				"3개월뒤인 10월에는 진주대첩에 원군으로써 참여해 공을 세우기도 하면서 관직을 받기도했다."
+			],
+			[
+				40,
+				"진주",
+				"NNG",
+				"3개월뒤인 10월에는 진주대첩에 원군으로써 참여해 공을 세우기도 하면서 관직을 받기도했다."
+			],
+			[
+				41,
+				"대첩",
+				"NNG",
+				"3개월뒤인 10월에는 진주대첩에 원군으로써 참여해 공을 세우기도 하면서 관직을 받기도했다."
+			],
+			[
+				42,
+				"원군",
+				"NNG",
+				"3개월뒤인 10월에는 진주대첩에 원군으로써 참여해 공을 세우기도 하면서 관직을 받기도했다."
+			],
+			[
+				43,
+				"공",
+				"NNG",
+				"3개월뒤인 10월에는 진주대첩에 원군으로써 참여해 공을 세우기도 하면서 관직을 받기도했다."
+			],
+			[
+				44,
+				"관직",
+				"NNG",
+				"3개월뒤인 10월에는 진주대첩에 원군으로써 참여해 공을 세우기도 하면서 관직을 받기도했다."
+			],
+			[
+				45,
+				"벼슬",
+				"NNG",
+				"그러다가 1594년에는 급작스럽게 벼슬을 버리고 낙향하기도 했다."
+			],
+			[
+				46,
+				"이후",
+				"NNG",
+				"이후 여러 차례 재등용 시도가 있었지만 전부 거절하고 숨어지냈다고 한다."
+			],
+			[
+				47,
+				"차례",
+				"NNG",
+				"이후 여러 차례 재등용 시도가 있었지만 전부 거절하고 숨어지냈다고 한다."
+			],
+			[
+				48,
+				"등용",
+				"NNG",
+				"이후 여러 차례 재등용 시도가 있었지만 전부 거절하고 숨어지냈다고 한다."
+			],
+			[
+				49,
+				"시도",
+				"NNG",
+				"이후 여러 차례 재등용 시도가 있었지만 전부 거절하고 숨어지냈다고 한다."
+			],
+			[
+				50,
+				"재산",
+				"NNG",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				51,
+				"의병",
+				"NNG",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				52,
+				"활동",
+				"NNG",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				53,
+				"재산",
+				"NNG",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				54,
+				"단벌옷",
+				"NNG",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				55,
+				"종이",
+				"NNG",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				56,
+				"생활",
+				"NNG",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				57,
+				"고위",
+				"NNG",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				58,
+				"직",
+				"NNG",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				59,
+				"생활",
+				"NNG",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				60,
+				"나라",
+				"NNG",
+				"곽재우는 나라를 지키기 위해 본인의 가진 것 모두를 써서 왜란을 막은 인물이다."
+			],
+			[
+				61,
+				"본인",
+				"NNG",
+				"곽재우는 나라를 지키기 위해 본인의 가진 것 모두를 써서 왜란을 막은 인물이다."
+			],
+			[
+				62,
+				"모두",
+				"NNG",
+				"곽재우는 나라를 지키기 위해 본인의 가진 것 모두를 써서 왜란을 막은 인물이다."
+			],
+			[
+				63,
+				"왜란",
+				"NNG",
+				"곽재우는 나라를 지키기 위해 본인의 가진 것 모두를 써서 왜란을 막은 인물이다."
+			],
+			[
+				64,
+				"인물",
+				"NNG",
+				"곽재우는 나라를 지키기 위해 본인의 가진 것 모두를 써서 왜란을 막은 인물이다."
+			],
+			[
+				65,
+				"행동",
+				"NNG",
+				"나도 곽재우처럼 행동으로 직접 보여주는 사람이 되고싶다."
+			],
+			[
+				66,
+				"사람",
+				"NNG",
+				"나도 곽재우처럼 행동으로 직접 보여주는 사람이 되고싶다."
+			]
+		],
+		"NNP_Lst": [
+			[
+				0,
+				"곽재우",
+				"NNP",
+				"곽재우는 진주에서 태어나 부유한 집안에서 자랐다."
+			],
+			[
+				1,
+				"진주",
+				"NNP",
+				"곽재우는 진주에서 태어나 부유한 집안에서 자랐다."
+			],
+			[
+				2,
+				"임진왜란",
+				"NNP",
+				"이후 임진왜란이 발발하고 의병으로 활동하고 있다 최초의 의병장으로 알려져있는데 초창기 의병대는 도적으로 오해받아 체포령까지 내려졌다고 한다"
+			],
+			[
+				3,
+				"곽재우",
+				"NNP",
+				"이에 곽재우는 병사들을 해산시키기 까지했는데 이후 김성일의 도움으로 다시 재정비를 하게된다."
+			],
+			[
+				4,
+				"김성일",
+				"NNP",
+				"이에 곽재우는 병사들을 해산시키기 까지했는데 이후 김성일의 도움으로 다시 재정비를 하게된다."
+			],
+			[
+				5,
+				"주역",
+				"NNP",
+				"다행히 매복으로 승리를 했고 승리의 주역은 본인이 미끼가 되어 왜군들을 불러들여온 곽재우였다."
+			],
+			[
+				6,
+				"현",
+				"NNP",
+				"이후 7월에는 탈환작전에 참여해 3개의 현을 탈환하기도 했다."
+			],
+			[
+				7,
+				"광해군",
+				"NNP",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				8,
+				"곽재우",
+				"NNP",
+				"곽재우는 나라를 지키기 위해 본인의 가진 것 모두를 써서 왜란을 막은 인물이다."
+			],
+			[
+				9,
+				"곽재우",
+				"NNP",
+				"나도 곽재우처럼 행동으로 직접 보여주는 사람이 되고싶다."
+			]
+		],
+		"NNB_Lst": [
+			[
+				0,
+				"세",
+				"NNB",
+				"19세부터는 무에 관심이 많아 무과에 도전하기도 했다고 한다."
+			],
+			[
+				1,
+				"년",
+				"NNB",
+				"이후 1589년에는 부친의 사망으로 3년상을 치렀고 임진왜란 전까지는 집안의 재산으로 은거했다고 전해진다."
+			],
+			[
+				2,
+				"년",
+				"NNB",
+				"이후 1589년에는 부친의 사망으로 3년상을 치렀고 임진왜란 전까지는 집안의 재산으로 은거했다고 전해진다."
+			],
+			[
+				3,
+				"월",
+				"NNB",
+				"이후 7월에는 탈환작전에 참여해 3개의 현을 탈환하기도 했다."
+			],
+			[
+				4,
+				"개",
+				"NNB",
+				"이후 7월에는 탈환작전에 참여해 3개의 현을 탈환하기도 했다."
+			],
+			[
+				5,
+				"개월",
+				"NNB",
+				"3개월뒤인 10월에는 진주대첩에 원군으로써 참여해 공을 세우기도 하면서 관직을 받기도했다."
+			],
+			[
+				6,
+				"월",
+				"NNB",
+				"3개월뒤인 10월에는 진주대첩에 원군으로써 참여해 공을 세우기도 하면서 관직을 받기도했다."
+			],
+			[
+				7,
+				"년",
+				"NNB",
+				"그러다가 1594년에는 급작스럽게 벼슬을 버리고 낙향하기도 했다."
+			],
+			[
+				8,
+				"장",
+				"NNB",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				9,
+				"것",
+				"NNB",
+				"곽재우는 나라를 지키기 위해 본인의 가진 것 모두를 써서 왜란을 막은 인물이다."
+			]
+		],
+		"NP_Lst": [
+			[
+				0,
+				"이",
+				"NP",
+				"이에 곽재우는 병사들을 해산시키기 까지했는데 이후 김성일의 도움으로 다시 재정비를 하게된다."
+			],
+			[
+				1,
+				"나",
+				"NP",
+				"나도 곽재우처럼 행동으로 직접 보여주는 사람이 되고싶다."
+			]
+		],
+		"NP_People_Lst": [
+			[
+				0,
+				"나",
+				"NP",
+				"나도 곽재우처럼 행동으로 직접 보여주는 사람이 되고싶다."
+			]
+		],
+		"NP_Things_Lst": [
+			[
+				0,
+				"이",
+				"NP",
+				"이에 곽재우는 병사들을 해산시키기 까지했는데 이후 김성일의 도움으로 다시 재정비를 하게된다."
+			]
+		],
+		"NR_Lst": [],
+		"VL_Lst": [
+			[
+				0,
+				"태어나",
+				"VV",
+				"곽재우는 진주에서 태어나 부유한 집안에서 자랐다."
+			],
+			[
+				1,
+				"부유하",
+				"VA",
+				"곽재우는 진주에서 태어나 부유한 집안에서 자랐다."
+			],
+			[
+				2,
+				"자라",
+				"VV",
+				"곽재우는 진주에서 태어나 부유한 집안에서 자랐다."
+			],
+			[
+				3,
+				"많",
+				"VA",
+				"19세부터는 무에 관심이 많아 무과에 도전하기도 했다고 한다."
+			],
+			[
+				4,
+				"도전하",
+				"VV",
+				"19세부터는 무에 관심이 많아 무과에 도전하기도 했다고 한다."
+			],
+			[
+				5,
+				"하",
+				"VX",
+				"19세부터는 무에 관심이 많아 무과에 도전하기도 했다고 한다."
+			],
+			[
+				6,
+				"하",
+				"VV",
+				"19세부터는 무에 관심이 많아 무과에 도전하기도 했다고 한다."
+			],
+			[
+				7,
+				"치르",
+				"VV",
+				"이후 1589년에는 부친의 사망으로 3년상을 치렀고 임진왜란 전까지는 집안의 재산으로 은거했다고 전해진다."
+			],
+			[
+				8,
+				"은거하",
+				"VV",
+				"이후 1589년에는 부친의 사망으로 3년상을 치렀고 임진왜란 전까지는 집안의 재산으로 은거했다고 전해진다."
+			],
+			[
+				9,
+				"전하",
+				"VV",
+				"이후 1589년에는 부친의 사망으로 3년상을 치렀고 임진왜란 전까지는 집안의 재산으로 은거했다고 전해진다."
+			],
+			[
+				10,
+				"지",
+				"VX",
+				"이후 1589년에는 부친의 사망으로 3년상을 치렀고 임진왜란 전까지는 집안의 재산으로 은거했다고 전해진다."
+			],
+			[
+				11,
+				"발발하",
+				"VV",
+				"이후 임진왜란이 발발하고 의병으로 활동하고 있다 최초의 의병장으로 알려져있는데 초창기 의병대는 도적으로 오해받아 체포령까지 내려졌다고 한다"
+			],
+			[
+				12,
+				"활동하",
+				"VV",
+				"이후 임진왜란이 발발하고 의병으로 활동하고 있다 최초의 의병장으로 알려져있는데 초창기 의병대는 도적으로 오해받아 체포령까지 내려졌다고 한다"
+			],
+			[
+				13,
+				"있",
+				"VX",
+				"이후 임진왜란이 발발하고 의병으로 활동하고 있다 최초의 의병장으로 알려져있는데 초창기 의병대는 도적으로 오해받아 체포령까지 내려졌다고 한다"
+			],
+			[
+				14,
+				"알려지",
+				"VV",
+				"이후 임진왜란이 발발하고 의병으로 활동하고 있다 최초의 의병장으로 알려져있는데 초창기 의병대는 도적으로 오해받아 체포령까지 내려졌다고 한다"
+			],
+			[
+				15,
+				"있",
+				"VX",
+				"이후 임진왜란이 발발하고 의병으로 활동하고 있다 최초의 의병장으로 알려져있는데 초창기 의병대는 도적으로 오해받아 체포령까지 내려졌다고 한다"
+			],
+			[
+				16,
+				"내려지",
+				"VV",
+				"이후 임진왜란이 발발하고 의병으로 활동하고 있다 최초의 의병장으로 알려져있는데 초창기 의병대는 도적으로 오해받아 체포령까지 내려졌다고 한다"
+			],
+			[
+				17,
+				"하",
+				"VV",
+				"이후 임진왜란이 발발하고 의병으로 활동하고 있다 최초의 의병장으로 알려져있는데 초창기 의병대는 도적으로 오해받아 체포령까지 내려졌다고 한다"
+			],
+			[
+				18,
+				"하",
+				"VV",
+				"이에 곽재우는 병사들을 해산시키기 까지했는데 이후 김성일의 도움으로 다시 재정비를 하게된다."
+			],
+			[
+				19,
+				"하",
+				"VV",
+				"이에 곽재우는 병사들을 해산시키기 까지했는데 이후 김성일의 도움으로 다시 재정비를 하게된다."
+			],
+			[
+				20,
+				"되",
+				"VV",
+				"이에 곽재우는 병사들을 해산시키기 까지했는데 이후 김성일의 도움으로 다시 재정비를 하게된다."
+			],
+			[
+				21,
+				"들어오",
+				"VV",
+				"하지만 바로왜구가 정암진으로 들어와 전투를 하게된다."
+			],
+			[
+				22,
+				"하",
+				"VV",
+				"하지만 바로왜구가 정암진으로 들어와 전투를 하게된다."
+			],
+			[
+				23,
+				"되",
+				"VV",
+				"하지만 바로왜구가 정암진으로 들어와 전투를 하게된다."
+			],
+			[
+				24,
+				"하",
+				"VV",
+				"다행히 매복으로 승리를 했고 승리의 주역은 본인이 미끼가 되어 왜군들을 불러들여온 곽재우였다."
+			],
+			[
+				25,
+				"되",
+				"VV",
+				"다행히 매복으로 승리를 했고 승리의 주역은 본인이 미끼가 되어 왜군들을 불러들여온 곽재우였다."
+			],
+			[
+				26,
+				"불러들이",
+				"VV",
+				"다행히 매복으로 승리를 했고 승리의 주역은 본인이 미끼가 되어 왜군들을 불러들여온 곽재우였다."
+			],
+			[
+				27,
+				"오",
+				"VX",
+				"다행히 매복으로 승리를 했고 승리의 주역은 본인이 미끼가 되어 왜군들을 불러들여온 곽재우였다."
+			],
+			[
+				28,
+				"이",
+				"VCP",
+				"다행히 매복으로 승리를 했고 승리의 주역은 본인이 미끼가 되어 왜군들을 불러들여온 곽재우였다."
+			],
+			[
+				29,
+				"참여하",
+				"VV",
+				"이후 7월에는 탈환작전에 참여해 3개의 현을 탈환하기도 했다."
+			],
+			[
+				30,
+				"탈환하",
+				"VV",
+				"이후 7월에는 탈환작전에 참여해 3개의 현을 탈환하기도 했다."
+			],
+			[
+				31,
+				"하",
+				"VX",
+				"이후 7월에는 탈환작전에 참여해 3개의 현을 탈환하기도 했다."
+			],
+			[
+				32,
+				"이",
+				"VCP",
+				"3개월뒤인 10월에는 진주대첩에 원군으로써 참여해 공을 세우기도 하면서 관직을 받기도했다."
+			],
+			[
+				33,
+				"참여하",
+				"VV",
+				"3개월뒤인 10월에는 진주대첩에 원군으로써 참여해 공을 세우기도 하면서 관직을 받기도했다."
+			],
+			[
+				34,
+				"세우",
+				"VV",
+				"3개월뒤인 10월에는 진주대첩에 원군으로써 참여해 공을 세우기도 하면서 관직을 받기도했다."
+			],
+			[
+				35,
+				"하",
+				"VV",
+				"3개월뒤인 10월에는 진주대첩에 원군으로써 참여해 공을 세우기도 하면서 관직을 받기도했다."
+			],
+			[
+				36,
+				"받",
+				"VV",
+				"3개월뒤인 10월에는 진주대첩에 원군으로써 참여해 공을 세우기도 하면서 관직을 받기도했다."
+			],
+			[
+				37,
+				"하",
+				"VV",
+				"3개월뒤인 10월에는 진주대첩에 원군으로써 참여해 공을 세우기도 하면서 관직을 받기도했다."
+			],
+			[
+				38,
+				"그러",
+				"VV",
+				"그러다가 1594년에는 급작스럽게 벼슬을 버리고 낙향하기도 했다."
+			],
+			[
+				39,
+				"급작스럽",
+				"VA",
+				"그러다가 1594년에는 급작스럽게 벼슬을 버리고 낙향하기도 했다."
+			],
+			[
+				40,
+				"버리",
+				"VV",
+				"그러다가 1594년에는 급작스럽게 벼슬을 버리고 낙향하기도 했다."
+			],
+			[
+				41,
+				"낙향하",
+				"VV",
+				"그러다가 1594년에는 급작스럽게 벼슬을 버리고 낙향하기도 했다."
+			],
+			[
+				42,
+				"하",
+				"VX",
+				"그러다가 1594년에는 급작스럽게 벼슬을 버리고 낙향하기도 했다."
+			],
+			[
+				43,
+				"있",
+				"VA",
+				"이후 여러 차례 재등용 시도가 있었지만 전부 거절하고 숨어지냈다고 한다."
+			],
+			[
+				44,
+				"거절하",
+				"VV",
+				"이후 여러 차례 재등용 시도가 있었지만 전부 거절하고 숨어지냈다고 한다."
+			],
+			[
+				45,
+				"숨",
+				"VV",
+				"이후 여러 차례 재등용 시도가 있었지만 전부 거절하고 숨어지냈다고 한다."
+			],
+			[
+				46,
+				"지내",
+				"VV",
+				"이후 여러 차례 재등용 시도가 있었지만 전부 거절하고 숨어지냈다고 한다."
+			],
+			[
+				47,
+				"하",
+				"VV",
+				"이후 여러 차례 재등용 시도가 있었지만 전부 거절하고 숨어지냈다고 한다."
+			],
+			[
+				48,
+				"많",
+				"VA",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				49,
+				"쏟아붓",
+				"VV",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				50,
+				"많",
+				"VA",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				51,
+				"없어지",
+				"VV",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				52,
+				"없",
+				"VA",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				53,
+				"하",
+				"VV",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				54,
+				"임명하",
+				"VV",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				55,
+				"주",
+				"VX",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				56,
+				"잇",
+				"VV",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				57,
+				"나가",
+				"VX",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				58,
+				"하",
+				"VX",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				59,
+				"지키",
+				"VV",
+				"곽재우는 나라를 지키기 위해 본인의 가진 것 모두를 써서 왜란을 막은 인물이다."
+			],
+			[
+				60,
+				"위하",
+				"VV",
+				"곽재우는 나라를 지키기 위해 본인의 가진 것 모두를 써서 왜란을 막은 인물이다."
+			],
+			[
+				61,
+				"가지",
+				"VV",
+				"곽재우는 나라를 지키기 위해 본인의 가진 것 모두를 써서 왜란을 막은 인물이다."
+			],
+			[
+				62,
+				"쓰",
+				"VV",
+				"곽재우는 나라를 지키기 위해 본인의 가진 것 모두를 써서 왜란을 막은 인물이다."
+			],
+			[
+				63,
+				"막",
+				"VV",
+				"곽재우는 나라를 지키기 위해 본인의 가진 것 모두를 써서 왜란을 막은 인물이다."
+			],
+			[
+				64,
+				"이",
+				"VCP",
+				"곽재우는 나라를 지키기 위해 본인의 가진 것 모두를 써서 왜란을 막은 인물이다."
+			],
+			[
+				65,
+				"보이",
+				"VV",
+				"나도 곽재우처럼 행동으로 직접 보여주는 사람이 되고싶다."
+			],
+			[
+				66,
+				"주",
+				"VX",
+				"나도 곽재우처럼 행동으로 직접 보여주는 사람이 되고싶다."
+			],
+			[
+				67,
+				"되",
+				"VV",
+				"나도 곽재우처럼 행동으로 직접 보여주는 사람이 되고싶다."
+			],
+			[
+				68,
+				"싶",
+				"VX",
+				"나도 곽재우처럼 행동으로 직접 보여주는 사람이 되고싶다."
+			]
+		],
+		"VV_Lst": [
+			[
+				0,
+				"태어나",
+				"VV",
+				"곽재우는 진주에서 태어나 부유한 집안에서 자랐다."
+			],
+			[
+				1,
+				"자라",
+				"VV",
+				"곽재우는 진주에서 태어나 부유한 집안에서 자랐다."
+			],
+			[
+				2,
+				"도전하",
+				"VV",
+				"19세부터는 무에 관심이 많아 무과에 도전하기도 했다고 한다."
+			],
+			[
+				3,
+				"하",
+				"VV",
+				"19세부터는 무에 관심이 많아 무과에 도전하기도 했다고 한다."
+			],
+			[
+				4,
+				"치르",
+				"VV",
+				"이후 1589년에는 부친의 사망으로 3년상을 치렀고 임진왜란 전까지는 집안의 재산으로 은거했다고 전해진다."
+			],
+			[
+				5,
+				"은거하",
+				"VV",
+				"이후 1589년에는 부친의 사망으로 3년상을 치렀고 임진왜란 전까지는 집안의 재산으로 은거했다고 전해진다."
+			],
+			[
+				6,
+				"전하",
+				"VV",
+				"이후 1589년에는 부친의 사망으로 3년상을 치렀고 임진왜란 전까지는 집안의 재산으로 은거했다고 전해진다."
+			],
+			[
+				7,
+				"발발하",
+				"VV",
+				"이후 임진왜란이 발발하고 의병으로 활동하고 있다 최초의 의병장으로 알려져있는데 초창기 의병대는 도적으로 오해받아 체포령까지 내려졌다고 한다"
+			],
+			[
+				8,
+				"활동하",
+				"VV",
+				"이후 임진왜란이 발발하고 의병으로 활동하고 있다 최초의 의병장으로 알려져있는데 초창기 의병대는 도적으로 오해받아 체포령까지 내려졌다고 한다"
+			],
+			[
+				9,
+				"알려지",
+				"VV",
+				"이후 임진왜란이 발발하고 의병으로 활동하고 있다 최초의 의병장으로 알려져있는데 초창기 의병대는 도적으로 오해받아 체포령까지 내려졌다고 한다"
+			],
+			[
+				10,
+				"내려지",
+				"VV",
+				"이후 임진왜란이 발발하고 의병으로 활동하고 있다 최초의 의병장으로 알려져있는데 초창기 의병대는 도적으로 오해받아 체포령까지 내려졌다고 한다"
+			],
+			[
+				11,
+				"하",
+				"VV",
+				"이후 임진왜란이 발발하고 의병으로 활동하고 있다 최초의 의병장으로 알려져있는데 초창기 의병대는 도적으로 오해받아 체포령까지 내려졌다고 한다"
+			],
+			[
+				12,
+				"하",
+				"VV",
+				"이에 곽재우는 병사들을 해산시키기 까지했는데 이후 김성일의 도움으로 다시 재정비를 하게된다."
+			],
+			[
+				13,
+				"하",
+				"VV",
+				"이에 곽재우는 병사들을 해산시키기 까지했는데 이후 김성일의 도움으로 다시 재정비를 하게된다."
+			],
+			[
+				14,
+				"되",
+				"VV",
+				"이에 곽재우는 병사들을 해산시키기 까지했는데 이후 김성일의 도움으로 다시 재정비를 하게된다."
+			],
+			[
+				15,
+				"들어오",
+				"VV",
+				"하지만 바로왜구가 정암진으로 들어와 전투를 하게된다."
+			],
+			[
+				16,
+				"하",
+				"VV",
+				"하지만 바로왜구가 정암진으로 들어와 전투를 하게된다."
+			],
+			[
+				17,
+				"되",
+				"VV",
+				"하지만 바로왜구가 정암진으로 들어와 전투를 하게된다."
+			],
+			[
+				18,
+				"하",
+				"VV",
+				"다행히 매복으로 승리를 했고 승리의 주역은 본인이 미끼가 되어 왜군들을 불러들여온 곽재우였다."
+			],
+			[
+				19,
+				"되",
+				"VV",
+				"다행히 매복으로 승리를 했고 승리의 주역은 본인이 미끼가 되어 왜군들을 불러들여온 곽재우였다."
+			],
+			[
+				20,
+				"불러들이",
+				"VV",
+				"다행히 매복으로 승리를 했고 승리의 주역은 본인이 미끼가 되어 왜군들을 불러들여온 곽재우였다."
+			],
+			[
+				21,
+				"참여하",
+				"VV",
+				"이후 7월에는 탈환작전에 참여해 3개의 현을 탈환하기도 했다."
+			],
+			[
+				22,
+				"탈환하",
+				"VV",
+				"이후 7월에는 탈환작전에 참여해 3개의 현을 탈환하기도 했다."
+			],
+			[
+				23,
+				"참여하",
+				"VV",
+				"3개월뒤인 10월에는 진주대첩에 원군으로써 참여해 공을 세우기도 하면서 관직을 받기도했다."
+			],
+			[
+				24,
+				"세우",
+				"VV",
+				"3개월뒤인 10월에는 진주대첩에 원군으로써 참여해 공을 세우기도 하면서 관직을 받기도했다."
+			],
+			[
+				25,
+				"하",
+				"VV",
+				"3개월뒤인 10월에는 진주대첩에 원군으로써 참여해 공을 세우기도 하면서 관직을 받기도했다."
+			],
+			[
+				26,
+				"받",
+				"VV",
+				"3개월뒤인 10월에는 진주대첩에 원군으로써 참여해 공을 세우기도 하면서 관직을 받기도했다."
+			],
+			[
+				27,
+				"하",
+				"VV",
+				"3개월뒤인 10월에는 진주대첩에 원군으로써 참여해 공을 세우기도 하면서 관직을 받기도했다."
+			],
+			[
+				28,
+				"그러",
+				"VV",
+				"그러다가 1594년에는 급작스럽게 벼슬을 버리고 낙향하기도 했다."
+			],
+			[
+				29,
+				"버리",
+				"VV",
+				"그러다가 1594년에는 급작스럽게 벼슬을 버리고 낙향하기도 했다."
+			],
+			[
+				30,
+				"낙향하",
+				"VV",
+				"그러다가 1594년에는 급작스럽게 벼슬을 버리고 낙향하기도 했다."
+			],
+			[
+				31,
+				"거절하",
+				"VV",
+				"이후 여러 차례 재등용 시도가 있었지만 전부 거절하고 숨어지냈다고 한다."
+			],
+			[
+				32,
+				"숨",
+				"VV",
+				"이후 여러 차례 재등용 시도가 있었지만 전부 거절하고 숨어지냈다고 한다."
+			],
+			[
+				33,
+				"지내",
+				"VV",
+				"이후 여러 차례 재등용 시도가 있었지만 전부 거절하고 숨어지냈다고 한다."
+			],
+			[
+				34,
+				"하",
+				"VV",
+				"이후 여러 차례 재등용 시도가 있었지만 전부 거절하고 숨어지냈다고 한다."
+			],
+			[
+				35,
+				"쏟아붓",
+				"VV",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				36,
+				"없어지",
+				"VV",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				37,
+				"하",
+				"VV",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				38,
+				"임명하",
+				"VV",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				39,
+				"잇",
+				"VV",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				40,
+				"지키",
+				"VV",
+				"곽재우는 나라를 지키기 위해 본인의 가진 것 모두를 써서 왜란을 막은 인물이다."
+			],
+			[
+				41,
+				"위하",
+				"VV",
+				"곽재우는 나라를 지키기 위해 본인의 가진 것 모두를 써서 왜란을 막은 인물이다."
+			],
+			[
+				42,
+				"가지",
+				"VV",
+				"곽재우는 나라를 지키기 위해 본인의 가진 것 모두를 써서 왜란을 막은 인물이다."
+			],
+			[
+				43,
+				"쓰",
+				"VV",
+				"곽재우는 나라를 지키기 위해 본인의 가진 것 모두를 써서 왜란을 막은 인물이다."
+			],
+			[
+				44,
+				"막",
+				"VV",
+				"곽재우는 나라를 지키기 위해 본인의 가진 것 모두를 써서 왜란을 막은 인물이다."
+			],
+			[
+				45,
+				"보이",
+				"VV",
+				"나도 곽재우처럼 행동으로 직접 보여주는 사람이 되고싶다."
+			],
+			[
+				46,
+				"되",
+				"VV",
+				"나도 곽재우처럼 행동으로 직접 보여주는 사람이 되고싶다."
+			]
+		],
+		"VA_Lst": [
+			[
+				0,
+				"부유하",
+				"VA",
+				"곽재우는 진주에서 태어나 부유한 집안에서 자랐다."
+			],
+			[
+				1,
+				"많",
+				"VA",
+				"19세부터는 무에 관심이 많아 무과에 도전하기도 했다고 한다."
+			],
+			[
+				2,
+				"급작스럽",
+				"VA",
+				"그러다가 1594년에는 급작스럽게 벼슬을 버리고 낙향하기도 했다."
+			],
+			[
+				3,
+				"있",
+				"VA",
+				"이후 여러 차례 재등용 시도가 있었지만 전부 거절하고 숨어지냈다고 한다."
+			],
+			[
+				4,
+				"많",
+				"VA",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				5,
+				"많",
+				"VA",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				6,
+				"없",
+				"VA",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			]
+		],
+		"VX_Lst": [
+			[
+				0,
+				"하",
+				"VX",
+				"19세부터는 무에 관심이 많아 무과에 도전하기도 했다고 한다."
+			],
+			[
+				1,
+				"지",
+				"VX",
+				"이후 1589년에는 부친의 사망으로 3년상을 치렀고 임진왜란 전까지는 집안의 재산으로 은거했다고 전해진다."
+			],
+			[
+				2,
+				"있",
+				"VX",
+				"이후 임진왜란이 발발하고 의병으로 활동하고 있다 최초의 의병장으로 알려져있는데 초창기 의병대는 도적으로 오해받아 체포령까지 내려졌다고 한다"
+			],
+			[
+				3,
+				"있",
+				"VX",
+				"이후 임진왜란이 발발하고 의병으로 활동하고 있다 최초의 의병장으로 알려져있는데 초창기 의병대는 도적으로 오해받아 체포령까지 내려졌다고 한다"
+			],
+			[
+				4,
+				"오",
+				"VX",
+				"다행히 매복으로 승리를 했고 승리의 주역은 본인이 미끼가 되어 왜군들을 불러들여온 곽재우였다."
+			],
+			[
+				5,
+				"하",
+				"VX",
+				"이후 7월에는 탈환작전에 참여해 3개의 현을 탈환하기도 했다."
+			],
+			[
+				6,
+				"하",
+				"VX",
+				"그러다가 1594년에는 급작스럽게 벼슬을 버리고 낙향하기도 했다."
+			],
+			[
+				7,
+				"주",
+				"VX",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				8,
+				"나가",
+				"VX",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				9,
+				"하",
+				"VX",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				10,
+				"주",
+				"VX",
+				"나도 곽재우처럼 행동으로 직접 보여주는 사람이 되고싶다."
+			],
+			[
+				11,
+				"싶",
+				"VX",
+				"나도 곽재우처럼 행동으로 직접 보여주는 사람이 되고싶다."
+			]
+		],
+		"VCP_Lst": [
+			[
+				0,
+				"이",
+				"VCP",
+				"다행히 매복으로 승리를 했고 승리의 주역은 본인이 미끼가 되어 왜군들을 불러들여온 곽재우였다."
+			],
+			[
+				1,
+				"이",
+				"VCP",
+				"3개월뒤인 10월에는 진주대첩에 원군으로써 참여해 공을 세우기도 하면서 관직을 받기도했다."
+			],
+			[
+				2,
+				"이",
+				"VCP",
+				"곽재우는 나라를 지키기 위해 본인의 가진 것 모두를 써서 왜란을 막은 인물이다."
+			]
+		],
+		"VCN_Lst": [],
+		"ML_Lst": [
+			[
+				0,
+				"다시",
+				"MAG",
+				"이에 곽재우는 병사들을 해산시키기 까지했는데 이후 김성일의 도움으로 다시 재정비를 하게된다."
+			],
+			[
+				1,
+				"하지만",
+				"MAJ",
+				"하지만 바로왜구가 정암진으로 들어와 전투를 하게된다."
+			],
+			[
+				2,
+				"바로",
+				"MAG",
+				"하지만 바로왜구가 정암진으로 들어와 전투를 하게된다."
+			],
+			[
+				3,
+				"다행히",
+				"MAG",
+				"다행히 매복으로 승리를 했고 승리의 주역은 본인이 미끼가 되어 왜군들을 불러들여온 곽재우였다."
+			],
+			[
+				4,
+				"전부",
+				"MAG",
+				"이후 여러 차례 재등용 시도가 있었지만 전부 거절하고 숨어지냈다고 한다."
+			],
+			[
+				5,
+				"다",
+				"MAG",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				6,
+				"직접",
+				"MAG",
+				"나도 곽재우처럼 행동으로 직접 보여주는 사람이 되고싶다."
+			]
+		],
+		"MA_Lst": [],
+		"MM_Lst": [],
+		"J_Lst": [
+			[
+				0,
+				"는",
+				"JX",
+				"곽재우는 진주에서 태어나 부유한 집안에서 자랐다."
+			],
+			[
+				1,
+				"에서",
+				"JKB",
+				"곽재우는 진주에서 태어나 부유한 집안에서 자랐다."
+			],
+			[
+				2,
+				"에서",
+				"JKB",
+				"곽재우는 진주에서 태어나 부유한 집안에서 자랐다."
+			],
+			[
+				3,
+				"부터",
+				"JX",
+				"19세부터는 무에 관심이 많아 무과에 도전하기도 했다고 한다."
+			],
+			[
+				4,
+				"는",
+				"JX",
+				"19세부터는 무에 관심이 많아 무과에 도전하기도 했다고 한다."
+			],
+			[
+				5,
+				"이",
+				"JKS",
+				"19세부터는 무에 관심이 많아 무과에 도전하기도 했다고 한다."
+			],
+			[
+				6,
+				"에",
+				"JKB",
+				"19세부터는 무에 관심이 많아 무과에 도전하기도 했다고 한다."
+			],
+			[
+				7,
+				"도",
+				"JX",
+				"19세부터는 무에 관심이 많아 무과에 도전하기도 했다고 한다."
+			],
+			[
+				8,
+				"에",
+				"JKB",
+				"이후 1589년에는 부친의 사망으로 3년상을 치렀고 임진왜란 전까지는 집안의 재산으로 은거했다고 전해진다."
+			],
+			[
+				9,
+				"는",
+				"JX",
+				"이후 1589년에는 부친의 사망으로 3년상을 치렀고 임진왜란 전까지는 집안의 재산으로 은거했다고 전해진다."
+			],
+			[
+				10,
+				"의",
+				"JKG",
+				"이후 1589년에는 부친의 사망으로 3년상을 치렀고 임진왜란 전까지는 집안의 재산으로 은거했다고 전해진다."
+			],
+			[
+				11,
+				"으로",
+				"JKB",
+				"이후 1589년에는 부친의 사망으로 3년상을 치렀고 임진왜란 전까지는 집안의 재산으로 은거했다고 전해진다."
+			],
+			[
+				12,
+				"을",
+				"JKO",
+				"이후 1589년에는 부친의 사망으로 3년상을 치렀고 임진왜란 전까지는 집안의 재산으로 은거했다고 전해진다."
+			],
+			[
+				13,
+				"까지",
+				"JX",
+				"이후 1589년에는 부친의 사망으로 3년상을 치렀고 임진왜란 전까지는 집안의 재산으로 은거했다고 전해진다."
+			],
+			[
+				14,
+				"는",
+				"JX",
+				"이후 1589년에는 부친의 사망으로 3년상을 치렀고 임진왜란 전까지는 집안의 재산으로 은거했다고 전해진다."
+			],
+			[
+				15,
+				"의",
+				"JKG",
+				"이후 1589년에는 부친의 사망으로 3년상을 치렀고 임진왜란 전까지는 집안의 재산으로 은거했다고 전해진다."
+			],
+			[
+				16,
+				"으로",
+				"JKB",
+				"이후 1589년에는 부친의 사망으로 3년상을 치렀고 임진왜란 전까지는 집안의 재산으로 은거했다고 전해진다."
+			],
+			[
+				17,
+				"이",
+				"JKS",
+				"이후 임진왜란이 발발하고 의병으로 활동하고 있다 최초의 의병장으로 알려져있는데 초창기 의병대는 도적으로 오해받아 체포령까지 내려졌다고 한다"
+			],
+			[
+				18,
+				"으로",
+				"JKB",
+				"이후 임진왜란이 발발하고 의병으로 활동하고 있다 최초의 의병장으로 알려져있는데 초창기 의병대는 도적으로 오해받아 체포령까지 내려졌다고 한다"
+			],
+			[
+				19,
+				"의",
+				"JKG",
+				"이후 임진왜란이 발발하고 의병으로 활동하고 있다 최초의 의병장으로 알려져있는데 초창기 의병대는 도적으로 오해받아 체포령까지 내려졌다고 한다"
+			],
+			[
+				20,
+				"으로",
+				"JKB",
+				"이후 임진왜란이 발발하고 의병으로 활동하고 있다 최초의 의병장으로 알려져있는데 초창기 의병대는 도적으로 오해받아 체포령까지 내려졌다고 한다"
+			],
+			[
+				21,
+				"는",
+				"JX",
+				"이후 임진왜란이 발발하고 의병으로 활동하고 있다 최초의 의병장으로 알려져있는데 초창기 의병대는 도적으로 오해받아 체포령까지 내려졌다고 한다"
+			],
+			[
+				22,
+				"으로",
+				"JKB",
+				"이후 임진왜란이 발발하고 의병으로 활동하고 있다 최초의 의병장으로 알려져있는데 초창기 의병대는 도적으로 오해받아 체포령까지 내려졌다고 한다"
+			],
+			[
+				23,
+				"까지",
+				"JX",
+				"이후 임진왜란이 발발하고 의병으로 활동하고 있다 최초의 의병장으로 알려져있는데 초창기 의병대는 도적으로 오해받아 체포령까지 내려졌다고 한다"
+			],
+			[
+				24,
+				"에",
+				"JKB",
+				"이에 곽재우는 병사들을 해산시키기 까지했는데 이후 김성일의 도움으로 다시 재정비를 하게된다."
+			],
+			[
+				25,
+				"는",
+				"JX",
+				"이에 곽재우는 병사들을 해산시키기 까지했는데 이후 김성일의 도움으로 다시 재정비를 하게된다."
+			],
+			[
+				26,
+				"을",
+				"JKO",
+				"이에 곽재우는 병사들을 해산시키기 까지했는데 이후 김성일의 도움으로 다시 재정비를 하게된다."
+			],
+			[
+				27,
+				"까지",
+				"JX",
+				"이에 곽재우는 병사들을 해산시키기 까지했는데 이후 김성일의 도움으로 다시 재정비를 하게된다."
+			],
+			[
+				28,
+				"의",
+				"JKG",
+				"이에 곽재우는 병사들을 해산시키기 까지했는데 이후 김성일의 도움으로 다시 재정비를 하게된다."
+			],
+			[
+				29,
+				"으로",
+				"JKB",
+				"이에 곽재우는 병사들을 해산시키기 까지했는데 이후 김성일의 도움으로 다시 재정비를 하게된다."
+			],
+			[
+				30,
+				"를",
+				"JKO",
+				"이에 곽재우는 병사들을 해산시키기 까지했는데 이후 김성일의 도움으로 다시 재정비를 하게된다."
+			],
+			[
+				31,
+				"가",
+				"JKS",
+				"하지만 바로왜구가 정암진으로 들어와 전투를 하게된다."
+			],
+			[
+				32,
+				"으로",
+				"JKB",
+				"하지만 바로왜구가 정암진으로 들어와 전투를 하게된다."
+			],
+			[
+				33,
+				"를",
+				"JKO",
+				"하지만 바로왜구가 정암진으로 들어와 전투를 하게된다."
+			],
+			[
+				34,
+				"으로",
+				"JKB",
+				"다행히 매복으로 승리를 했고 승리의 주역은 본인이 미끼가 되어 왜군들을 불러들여온 곽재우였다."
+			],
+			[
+				35,
+				"를",
+				"JKO",
+				"다행히 매복으로 승리를 했고 승리의 주역은 본인이 미끼가 되어 왜군들을 불러들여온 곽재우였다."
+			],
+			[
+				36,
+				"의",
+				"JKG",
+				"다행히 매복으로 승리를 했고 승리의 주역은 본인이 미끼가 되어 왜군들을 불러들여온 곽재우였다."
+			],
+			[
+				37,
+				"은",
+				"JX",
+				"다행히 매복으로 승리를 했고 승리의 주역은 본인이 미끼가 되어 왜군들을 불러들여온 곽재우였다."
+			],
+			[
+				38,
+				"이",
+				"JKS",
+				"다행히 매복으로 승리를 했고 승리의 주역은 본인이 미끼가 되어 왜군들을 불러들여온 곽재우였다."
+			],
+			[
+				39,
+				"가",
+				"JKC",
+				"다행히 매복으로 승리를 했고 승리의 주역은 본인이 미끼가 되어 왜군들을 불러들여온 곽재우였다."
+			],
+			[
+				40,
+				"을",
+				"JKO",
+				"다행히 매복으로 승리를 했고 승리의 주역은 본인이 미끼가 되어 왜군들을 불러들여온 곽재우였다."
+			],
+			[
+				41,
+				"에",
+				"JKB",
+				"이후 7월에는 탈환작전에 참여해 3개의 현을 탈환하기도 했다."
+			],
+			[
+				42,
+				"는",
+				"JX",
+				"이후 7월에는 탈환작전에 참여해 3개의 현을 탈환하기도 했다."
+			],
+			[
+				43,
+				"에",
+				"JKB",
+				"이후 7월에는 탈환작전에 참여해 3개의 현을 탈환하기도 했다."
+			],
+			[
+				44,
+				"의",
+				"JKG",
+				"이후 7월에는 탈환작전에 참여해 3개의 현을 탈환하기도 했다."
+			],
+			[
+				45,
+				"을",
+				"JKO",
+				"이후 7월에는 탈환작전에 참여해 3개의 현을 탈환하기도 했다."
+			],
+			[
+				46,
+				"도",
+				"JX",
+				"이후 7월에는 탈환작전에 참여해 3개의 현을 탈환하기도 했다."
+			],
+			[
+				47,
+				"에",
+				"JKB",
+				"3개월뒤인 10월에는 진주대첩에 원군으로써 참여해 공을 세우기도 하면서 관직을 받기도했다."
+			],
+			[
+				48,
+				"는",
+				"JX",
+				"3개월뒤인 10월에는 진주대첩에 원군으로써 참여해 공을 세우기도 하면서 관직을 받기도했다."
+			],
+			[
+				49,
+				"에",
+				"JKB",
+				"3개월뒤인 10월에는 진주대첩에 원군으로써 참여해 공을 세우기도 하면서 관직을 받기도했다."
+			],
+			[
+				50,
+				"으로써",
+				"JKB",
+				"3개월뒤인 10월에는 진주대첩에 원군으로써 참여해 공을 세우기도 하면서 관직을 받기도했다."
+			],
+			[
+				51,
+				"을",
+				"JKO",
+				"3개월뒤인 10월에는 진주대첩에 원군으로써 참여해 공을 세우기도 하면서 관직을 받기도했다."
+			],
+			[
+				52,
+				"도",
+				"JX",
+				"3개월뒤인 10월에는 진주대첩에 원군으로써 참여해 공을 세우기도 하면서 관직을 받기도했다."
+			],
+			[
+				53,
+				"을",
+				"JKO",
+				"3개월뒤인 10월에는 진주대첩에 원군으로써 참여해 공을 세우기도 하면서 관직을 받기도했다."
+			],
+			[
+				54,
+				"도",
+				"JX",
+				"3개월뒤인 10월에는 진주대첩에 원군으로써 참여해 공을 세우기도 하면서 관직을 받기도했다."
+			],
+			[
+				55,
+				"에",
+				"JKB",
+				"그러다가 1594년에는 급작스럽게 벼슬을 버리고 낙향하기도 했다."
+			],
+			[
+				56,
+				"는",
+				"JX",
+				"그러다가 1594년에는 급작스럽게 벼슬을 버리고 낙향하기도 했다."
+			],
+			[
+				57,
+				"을",
+				"JKO",
+				"그러다가 1594년에는 급작스럽게 벼슬을 버리고 낙향하기도 했다."
+			],
+			[
+				58,
+				"도",
+				"JX",
+				"그러다가 1594년에는 급작스럽게 벼슬을 버리고 낙향하기도 했다."
+			],
+			[
+				59,
+				"가",
+				"JKS",
+				"이후 여러 차례 재등용 시도가 있었지만 전부 거절하고 숨어지냈다고 한다."
+			],
+			[
+				60,
+				"을",
+				"JKO",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				61,
+				"에",
+				"JKB",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				62,
+				"이",
+				"JKS",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				63,
+				"에",
+				"JKB",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				64,
+				"을",
+				"JKO",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				65,
+				"이",
+				"JKS",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				66,
+				"에",
+				"JKB",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				67,
+				"을",
+				"JKO",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				68,
+				"도",
+				"JX",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				69,
+				"는",
+				"JX",
+				"곽재우는 나라를 지키기 위해 본인의 가진 것 모두를 써서 왜란을 막은 인물이다."
+			],
+			[
+				70,
+				"를",
+				"JKO",
+				"곽재우는 나라를 지키기 위해 본인의 가진 것 모두를 써서 왜란을 막은 인물이다."
+			],
+			[
+				71,
+				"의",
+				"JKG",
+				"곽재우는 나라를 지키기 위해 본인의 가진 것 모두를 써서 왜란을 막은 인물이다."
+			],
+			[
+				72,
+				"를",
+				"JKO",
+				"곽재우는 나라를 지키기 위해 본인의 가진 것 모두를 써서 왜란을 막은 인물이다."
+			],
+			[
+				73,
+				"을",
+				"JKO",
+				"곽재우는 나라를 지키기 위해 본인의 가진 것 모두를 써서 왜란을 막은 인물이다."
+			],
+			[
+				74,
+				"도",
+				"JX",
+				"나도 곽재우처럼 행동으로 직접 보여주는 사람이 되고싶다."
+			],
+			[
+				75,
+				"처럼",
+				"JKB",
+				"나도 곽재우처럼 행동으로 직접 보여주는 사람이 되고싶다."
+			],
+			[
+				76,
+				"으로",
+				"JKB",
+				"나도 곽재우처럼 행동으로 직접 보여주는 사람이 되고싶다."
+			],
+			[
+				77,
+				"이",
+				"JKC",
+				"나도 곽재우처럼 행동으로 직접 보여주는 사람이 되고싶다."
+			]
+		],
+		"E_Lst": [
+			[
+				0,
+				"아",
+				"EC",
+				"곽재우는 진주에서 태어나 부유한 집안에서 자랐다."
+			],
+			[
+				1,
+				"ㄴ",
+				"ETM",
+				"곽재우는 진주에서 태어나 부유한 집안에서 자랐다."
+			],
+			[
+				2,
+				"았",
+				"EP",
+				"곽재우는 진주에서 태어나 부유한 집안에서 자랐다."
+			],
+			[
+				3,
+				"다",
+				"EF",
+				"곽재우는 진주에서 태어나 부유한 집안에서 자랐다."
+			],
+			[
+				4,
+				"아",
+				"EC",
+				"19세부터는 무에 관심이 많아 무과에 도전하기도 했다고 한다."
+			],
+			[
+				5,
+				"기",
+				"ETN",
+				"19세부터는 무에 관심이 많아 무과에 도전하기도 했다고 한다."
+			],
+			[
+				6,
+				"았",
+				"EP",
+				"19세부터는 무에 관심이 많아 무과에 도전하기도 했다고 한다."
+			],
+			[
+				7,
+				"다고",
+				"EC",
+				"19세부터는 무에 관심이 많아 무과에 도전하기도 했다고 한다."
+			],
+			[
+				8,
+				"ㄴ다",
+				"EF",
+				"19세부터는 무에 관심이 많아 무과에 도전하기도 했다고 한다."
+			],
+			[
+				9,
+				"었",
+				"EP",
+				"이후 1589년에는 부친의 사망으로 3년상을 치렀고 임진왜란 전까지는 집안의 재산으로 은거했다고 전해진다."
+			],
+			[
+				10,
+				"고",
+				"EC",
+				"이후 1589년에는 부친의 사망으로 3년상을 치렀고 임진왜란 전까지는 집안의 재산으로 은거했다고 전해진다."
+			],
+			[
+				11,
+				"았",
+				"EP",
+				"이후 1589년에는 부친의 사망으로 3년상을 치렀고 임진왜란 전까지는 집안의 재산으로 은거했다고 전해진다."
+			],
+			[
+				12,
+				"다고",
+				"EC",
+				"이후 1589년에는 부친의 사망으로 3년상을 치렀고 임진왜란 전까지는 집안의 재산으로 은거했다고 전해진다."
+			],
+			[
+				13,
+				"아",
+				"EC",
+				"이후 1589년에는 부친의 사망으로 3년상을 치렀고 임진왜란 전까지는 집안의 재산으로 은거했다고 전해진다."
+			],
+			[
+				14,
+				"ㄴ다",
+				"EF",
+				"이후 1589년에는 부친의 사망으로 3년상을 치렀고 임진왜란 전까지는 집안의 재산으로 은거했다고 전해진다."
+			],
+			[
+				15,
+				"고",
+				"EC",
+				"이후 임진왜란이 발발하고 의병으로 활동하고 있다 최초의 의병장으로 알려져있는데 초창기 의병대는 도적으로 오해받아 체포령까지 내려졌다고 한다"
+			],
+			[
+				16,
+				"고",
+				"EC",
+				"이후 임진왜란이 발발하고 의병으로 활동하고 있다 최초의 의병장으로 알려져있는데 초창기 의병대는 도적으로 오해받아 체포령까지 내려졌다고 한다"
+			],
+			[
+				17,
+				"다",
+				"EC",
+				"이후 임진왜란이 발발하고 의병으로 활동하고 있다 최초의 의병장으로 알려져있는데 초창기 의병대는 도적으로 오해받아 체포령까지 내려졌다고 한다"
+			],
+			[
+				18,
+				"어",
+				"EC",
+				"이후 임진왜란이 발발하고 의병으로 활동하고 있다 최초의 의병장으로 알려져있는데 초창기 의병대는 도적으로 오해받아 체포령까지 내려졌다고 한다"
+			],
+			[
+				19,
+				"는데",
+				"EC",
+				"이후 임진왜란이 발발하고 의병으로 활동하고 있다 최초의 의병장으로 알려져있는데 초창기 의병대는 도적으로 오해받아 체포령까지 내려졌다고 한다"
+			],
+			[
+				20,
+				"아",
+				"EC",
+				"이후 임진왜란이 발발하고 의병으로 활동하고 있다 최초의 의병장으로 알려져있는데 초창기 의병대는 도적으로 오해받아 체포령까지 내려졌다고 한다"
+			],
+			[
+				21,
+				"었",
+				"EP",
+				"이후 임진왜란이 발발하고 의병으로 활동하고 있다 최초의 의병장으로 알려져있는데 초창기 의병대는 도적으로 오해받아 체포령까지 내려졌다고 한다"
+			],
+			[
+				22,
+				"다고",
+				"EC",
+				"이후 임진왜란이 발발하고 의병으로 활동하고 있다 최초의 의병장으로 알려져있는데 초창기 의병대는 도적으로 오해받아 체포령까지 내려졌다고 한다"
+			],
+			[
+				23,
+				"ㄴ다",
+				"EF",
+				"이후 임진왜란이 발발하고 의병으로 활동하고 있다 최초의 의병장으로 알려져있는데 초창기 의병대는 도적으로 오해받아 체포령까지 내려졌다고 한다"
+			],
+			[
+				24,
+				"기",
+				"ETN",
+				"이에 곽재우는 병사들을 해산시키기 까지했는데 이후 김성일의 도움으로 다시 재정비를 하게된다."
+			],
+			[
+				25,
+				"았",
+				"EP",
+				"이에 곽재우는 병사들을 해산시키기 까지했는데 이후 김성일의 도움으로 다시 재정비를 하게된다."
+			],
+			[
+				26,
+				"는데",
+				"EC",
+				"이에 곽재우는 병사들을 해산시키기 까지했는데 이후 김성일의 도움으로 다시 재정비를 하게된다."
+			],
+			[
+				27,
+				"게",
+				"EC",
+				"이에 곽재우는 병사들을 해산시키기 까지했는데 이후 김성일의 도움으로 다시 재정비를 하게된다."
+			],
+			[
+				28,
+				"ㄴ다",
+				"EF",
+				"이에 곽재우는 병사들을 해산시키기 까지했는데 이후 김성일의 도움으로 다시 재정비를 하게된다."
+			],
+			[
+				29,
+				"아",
+				"EC",
+				"하지만 바로왜구가 정암진으로 들어와 전투를 하게된다."
+			],
+			[
+				30,
+				"게",
+				"EC",
+				"하지만 바로왜구가 정암진으로 들어와 전투를 하게된다."
+			],
+			[
+				31,
+				"ㄴ다",
+				"EF",
+				"하지만 바로왜구가 정암진으로 들어와 전투를 하게된다."
+			],
+			[
+				32,
+				"았",
+				"EP",
+				"다행히 매복으로 승리를 했고 승리의 주역은 본인이 미끼가 되어 왜군들을 불러들여온 곽재우였다."
+			],
+			[
+				33,
+				"고",
+				"EC",
+				"다행히 매복으로 승리를 했고 승리의 주역은 본인이 미끼가 되어 왜군들을 불러들여온 곽재우였다."
+			],
+			[
+				34,
+				"어",
+				"EC",
+				"다행히 매복으로 승리를 했고 승리의 주역은 본인이 미끼가 되어 왜군들을 불러들여온 곽재우였다."
+			],
+			[
+				35,
+				"어",
+				"EC",
+				"다행히 매복으로 승리를 했고 승리의 주역은 본인이 미끼가 되어 왜군들을 불러들여온 곽재우였다."
+			],
+			[
+				36,
+				"ㄴ",
+				"ETM",
+				"다행히 매복으로 승리를 했고 승리의 주역은 본인이 미끼가 되어 왜군들을 불러들여온 곽재우였다."
+			],
+			[
+				37,
+				"었",
+				"EP",
+				"다행히 매복으로 승리를 했고 승리의 주역은 본인이 미끼가 되어 왜군들을 불러들여온 곽재우였다."
+			],
+			[
+				38,
+				"다",
+				"EF",
+				"다행히 매복으로 승리를 했고 승리의 주역은 본인이 미끼가 되어 왜군들을 불러들여온 곽재우였다."
+			],
+			[
+				39,
+				"아",
+				"EC",
+				"이후 7월에는 탈환작전에 참여해 3개의 현을 탈환하기도 했다."
+			],
+			[
+				40,
+				"기",
+				"ETN",
+				"이후 7월에는 탈환작전에 참여해 3개의 현을 탈환하기도 했다."
+			],
+			[
+				41,
+				"았",
+				"EP",
+				"이후 7월에는 탈환작전에 참여해 3개의 현을 탈환하기도 했다."
+			],
+			[
+				42,
+				"다",
+				"EF",
+				"이후 7월에는 탈환작전에 참여해 3개의 현을 탈환하기도 했다."
+			],
+			[
+				43,
+				"ㄴ",
+				"ETM",
+				"3개월뒤인 10월에는 진주대첩에 원군으로써 참여해 공을 세우기도 하면서 관직을 받기도했다."
+			],
+			[
+				44,
+				"아",
+				"EC",
+				"3개월뒤인 10월에는 진주대첩에 원군으로써 참여해 공을 세우기도 하면서 관직을 받기도했다."
+			],
+			[
+				45,
+				"기",
+				"ETN",
+				"3개월뒤인 10월에는 진주대첩에 원군으로써 참여해 공을 세우기도 하면서 관직을 받기도했다."
+			],
+			[
+				46,
+				"면서",
+				"EC",
+				"3개월뒤인 10월에는 진주대첩에 원군으로써 참여해 공을 세우기도 하면서 관직을 받기도했다."
+			],
+			[
+				47,
+				"기",
+				"ETN",
+				"3개월뒤인 10월에는 진주대첩에 원군으로써 참여해 공을 세우기도 하면서 관직을 받기도했다."
+			],
+			[
+				48,
+				"았",
+				"EP",
+				"3개월뒤인 10월에는 진주대첩에 원군으로써 참여해 공을 세우기도 하면서 관직을 받기도했다."
+			],
+			[
+				49,
+				"다",
+				"EF",
+				"3개월뒤인 10월에는 진주대첩에 원군으로써 참여해 공을 세우기도 하면서 관직을 받기도했다."
+			],
+			[
+				50,
+				"다가",
+				"EC",
+				"그러다가 1594년에는 급작스럽게 벼슬을 버리고 낙향하기도 했다."
+			],
+			[
+				51,
+				"게",
+				"EC",
+				"그러다가 1594년에는 급작스럽게 벼슬을 버리고 낙향하기도 했다."
+			],
+			[
+				52,
+				"고",
+				"EC",
+				"그러다가 1594년에는 급작스럽게 벼슬을 버리고 낙향하기도 했다."
+			],
+			[
+				53,
+				"기",
+				"ETN",
+				"그러다가 1594년에는 급작스럽게 벼슬을 버리고 낙향하기도 했다."
+			],
+			[
+				54,
+				"았",
+				"EP",
+				"그러다가 1594년에는 급작스럽게 벼슬을 버리고 낙향하기도 했다."
+			],
+			[
+				55,
+				"다",
+				"EF",
+				"그러다가 1594년에는 급작스럽게 벼슬을 버리고 낙향하기도 했다."
+			],
+			[
+				56,
+				"었",
+				"EP",
+				"이후 여러 차례 재등용 시도가 있었지만 전부 거절하고 숨어지냈다고 한다."
+			],
+			[
+				57,
+				"지만",
+				"EC",
+				"이후 여러 차례 재등용 시도가 있었지만 전부 거절하고 숨어지냈다고 한다."
+			],
+			[
+				58,
+				"고",
+				"EC",
+				"이후 여러 차례 재등용 시도가 있었지만 전부 거절하고 숨어지냈다고 한다."
+			],
+			[
+				59,
+				"어",
+				"EC",
+				"이후 여러 차례 재등용 시도가 있었지만 전부 거절하고 숨어지냈다고 한다."
+			],
+			[
+				60,
+				"었",
+				"EP",
+				"이후 여러 차례 재등용 시도가 있었지만 전부 거절하고 숨어지냈다고 한다."
+			],
+			[
+				61,
+				"다고",
+				"EC",
+				"이후 여러 차례 재등용 시도가 있었지만 전부 거절하고 숨어지냈다고 한다."
+			],
+			[
+				62,
+				"ㄴ다",
+				"EF",
+				"이후 여러 차례 재등용 시도가 있었지만 전부 거절하고 숨어지냈다고 한다."
+			],
+			[
+				63,
+				"은",
+				"ETM",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				64,
+				"어",
+				"EC",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				65,
+				"던",
+				"ETM",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				66,
+				"고",
+				"EC",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				67,
+				"는",
+				"ETM",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				68,
+				"다가",
+				"EC",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				69,
+				"아",
+				"EC",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				70,
+				"어",
+				"EC",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				71,
+				"어",
+				"EC",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				72,
+				"기",
+				"ETN",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				73,
+				"았",
+				"EP",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				74,
+				"다",
+				"EF",
+				"많은 재산을 의병활동에 쏟아부어 그 많던 재산이 다 없어지고 단벌옷에 종이 한 장없는 생활을 하다가 광해군이 여러 고위직에 임명해주어 생활을 이어나가기도 했다."
+			],
+			[
+				75,
+				"기",
+				"ETN",
+				"곽재우는 나라를 지키기 위해 본인의 가진 것 모두를 써서 왜란을 막은 인물이다."
+			],
+			[
+				76,
+				"아",
+				"EC",
+				"곽재우는 나라를 지키기 위해 본인의 가진 것 모두를 써서 왜란을 막은 인물이다."
+			],
+			[
+				77,
+				"ㄴ",
+				"ETM",
+				"곽재우는 나라를 지키기 위해 본인의 가진 것 모두를 써서 왜란을 막은 인물이다."
+			],
+			[
+				78,
+				"어서",
+				"EC",
+				"곽재우는 나라를 지키기 위해 본인의 가진 것 모두를 써서 왜란을 막은 인물이다."
+			],
+			[
+				79,
+				"은",
+				"ETM",
+				"곽재우는 나라를 지키기 위해 본인의 가진 것 모두를 써서 왜란을 막은 인물이다."
+			],
+			[
+				80,
+				"다",
+				"EF",
+				"곽재우는 나라를 지키기 위해 본인의 가진 것 모두를 써서 왜란을 막은 인물이다."
+			],
+			[
+				81,
+				"어",
+				"EC",
+				"나도 곽재우처럼 행동으로 직접 보여주는 사람이 되고싶다."
+			],
+			[
+				82,
+				"는",
+				"ETM",
+				"나도 곽재우처럼 행동으로 직접 보여주는 사람이 되고싶다."
+			],
+			[
+				83,
+				"고",
+				"EC",
+				"나도 곽재우처럼 행동으로 직접 보여주는 사람이 되고싶다."
+			],
+			[
+				84,
+				"다",
+				"EF",
+				"나도 곽재우처럼 행동으로 직접 보여주는 사람이 되고싶다."
+			]
+		],
+		"X_Lst": [
+			[
+				0,
+				"받",
+				"XSV",
+				"이후 임진왜란이 발발하고 의병으로 활동하고 있다 최초의 의병장으로 알려져있는데 초창기 의병대는 도적으로 오해받아 체포령까지 내려졌다고 한다"
+			],
+			[
+				1,
+				"시키",
+				"XSV",
+				"이에 곽재우는 병사들을 해산시키기 까지했는데 이후 김성일의 도움으로 다시 재정비를 하게된다."
+			],
+			[
+				2,
+				"재",
+				"XPN",
+				"이에 곽재우는 병사들을 해산시키기 까지했는데 이후 김성일의 도움으로 다시 재정비를 하게된다."
+			],
+			[
+				3,
+				"들",
+				"XSN",
+				"다행히 매복으로 승리를 했고 승리의 주역은 본인이 미끼가 되어 왜군들을 불러들여온 곽재우였다."
+			],
+			[
+				4,
+				"재",
+				"XPN",
+				"이후 여러 차례 재등용 시도가 있었지만 전부 거절하고 숨어지냈다고 한다."
+			]
+		],
+		"IC_Lst": []
+	},
+	"NDW": {
+		"morph_NDW": 177,
+		"NL_NDW": 89,
+		"NNG_NDW": 67,
+		"NNP_NDW": 10,
+		"NNB_NDW": 10,
+		"NP_NDW": 2,
+		"NR_NDW": 0,
+		"VL_NDW": 69,
+		"VV_NDW": 47,
+		"VA_NDW": 7,
+		"ML_NDW": 7,
+		"MM_NDW": 0,
+		"IC_NDW": 0,
+		"J_NDW": 78,
+		"E_NDW": 85,
+		"X_NDW": 5,
+		"CL_NDW": 165,
+		"FL_NDW": 168
+	}
+}

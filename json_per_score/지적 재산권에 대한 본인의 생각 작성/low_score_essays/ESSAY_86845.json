@@ -1,0 +1,3121 @@
+﻿{
+	"morpheme": {
+		"sentences": [
+			{
+				"text": {
+					"content": "\"나혼렙 최종화 장면 담은 메인 작품이 디지털자산으로 거래된다구요?\"",
+					"length": 38,
+					"beginOffset": 0
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "\"나혼렙",
+							"length": 4,
+							"beginOffset": 0
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "\"",
+									"length": 1,
+									"beginOffset": 0
+								},
+								"tag": "SS",
+								"probability": 0.99947673,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "나혼렙",
+									"beginOffset": 1,
+									"length": 3
+								},
+								"tag": "NNP",
+								"probability": 0.44344226,
+								"outOfVocab": "OUT_OF_VOCAB"
+							}
+						],
+						"lemma": "\"",
+						"tagged": "\"/SS+나혼렙/NNP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "최종화",
+							"beginOffset": 5,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "최종화",
+									"beginOffset": 5,
+									"length": 3
+								},
+								"tag": "NNP",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							}
+						],
+						"lemma": "최종화",
+						"tagged": "최종화/NNP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "장면",
+							"beginOffset": 9,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "장면",
+									"beginOffset": 9,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9872466,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "장면",
+						"tagged": "장면/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "담은",
+							"beginOffset": 12,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "담",
+									"beginOffset": 12,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.98226386,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "은",
+									"beginOffset": 13,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999781,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "담",
+						"tagged": "담/VV+은/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "메인",
+							"beginOffset": 15,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "메인",
+									"beginOffset": 15,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97054094,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "메인",
+						"tagged": "메인/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "작품이",
+							"beginOffset": 18,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "작품",
+									"beginOffset": 18,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98150194,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 20,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.97788894,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "작품",
+						"tagged": "작품/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "디지털자산으로",
+							"beginOffset": 22,
+							"length": 7
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "디지털",
+									"beginOffset": 22,
+									"length": 3
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "자산",
+									"beginOffset": 25,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "으로",
+									"beginOffset": 27,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9935799,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "디지털",
+						"tagged": "디지털/NNG+자산/NNG+으로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "거래된다구요?\"",
+							"beginOffset": 30,
+							"length": 8
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "거래되",
+									"beginOffset": 30,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ다구",
+									"beginOffset": 32,
+									"length": 3
+								},
+								"tag": "EF",
+								"probability": 0.92666525,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "요",
+									"beginOffset": 35,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.9974609,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "?",
+									"beginOffset": 36,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9992879,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "\"",
+									"beginOffset": 37,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.99982774,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "거래되",
+						"tagged": "거래되/VV+ㄴ다구/EF+요/JX+?/SF+\"/SS",
+						"modified": ""
+					}
+				],
+				"refined": "\"나혼렙 최종화 장면 담은 메인 작품이 디지털자산으로 거래된다구요?\""
+			},
+			{
+				"text": {
+					"content": "카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다.",
+					"beginOffset": 39,
+					"length": 155
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "카카오엔터테인먼트(대표",
+							"beginOffset": 39,
+							"length": 12
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "카카오엔터테인먼트",
+									"beginOffset": 39,
+									"length": 9
+								},
+								"tag": "NNP",
+								"probability": 0.9129846,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "(",
+									"beginOffset": 48,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.99975306,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "대표",
+									"beginOffset": 49,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.983589,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "카카오엔터테인먼트",
+						"tagged": "카카오엔터테인먼트/NNP+(/SS+대표/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이진수,",
+							"beginOffset": 52,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이진수",
+									"beginOffset": 52,
+									"length": 3
+								},
+								"tag": "NNP",
+								"probability": 0.94319904,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 55,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.9988924,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이진수",
+						"tagged": "이진수/NNP+,/SP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "김성수)가",
+							"beginOffset": 57,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "김성수",
+									"beginOffset": 57,
+									"length": 3
+								},
+								"tag": "NNP",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": ")",
+									"beginOffset": 60,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9999602,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 61,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9912648,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "김성수",
+						"tagged": "김성수/NNP+)/SS+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "글로벌에서",
+							"beginOffset": 63,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "글로벌",
+									"beginOffset": 63,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.97852767,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에서",
+									"beginOffset": 66,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.99450064,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "글로벌",
+						"tagged": "글로벌/NNG+에서/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "142억",
+							"beginOffset": 69,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "142",
+									"beginOffset": 69,
+									"length": 3
+								},
+								"tag": "SN",
+								"probability": 0.9986474,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "억",
+									"beginOffset": 72,
+									"length": 1
+								},
+								"tag": "NR",
+								"probability": 0.9931408,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "142",
+						"tagged": "142/SN+억/NR",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "뷰를",
+							"beginOffset": 74,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "뷰",
+									"beginOffset": 74,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.9759844,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 75,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99996877,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "뷰",
+						"tagged": "뷰/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "기록한",
+							"beginOffset": 77,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "기록하",
+									"beginOffset": 77,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 79,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999937,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "기록하",
+						"tagged": "기록하/VV+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "슈퍼",
+							"beginOffset": 81,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "슈퍼",
+									"beginOffset": 81,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9823866,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "슈퍼",
+						"tagged": "슈퍼/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "IP",
+							"beginOffset": 84,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "IP",
+									"beginOffset": 84,
+									"length": 2
+								},
+								"tag": "SL",
+								"probability": 0.97285753,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "IP",
+						"tagged": "IP/SL",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "'나",
+							"beginOffset": 87,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "'",
+									"beginOffset": 87,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9999577,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "나",
+									"beginOffset": 88,
+									"length": 1
+								},
+								"tag": "NP",
+								"probability": 0.7173378,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "'",
+						"tagged": "'/SS+나/NP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "혼자만",
+							"beginOffset": 90,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "혼자",
+									"beginOffset": 90,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98132443,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "만",
+									"beginOffset": 92,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99819213,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "혼자",
+						"tagged": "혼자/NNG+만/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "레벨업'(원작",
+							"beginOffset": 94,
+							"length": 7
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "레벨",
+									"beginOffset": 94,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "업",
+									"beginOffset": 96,
+									"length": 1
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "'",
+									"beginOffset": 97,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.99996895,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "(",
+									"beginOffset": 98,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9999697,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "원작",
+									"beginOffset": 99,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98055726,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "레벨",
+						"tagged": "레벨/NNG+업/NNG+'/SS+(/SS+원작/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "추공,",
+							"beginOffset": 102,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "추공",
+									"beginOffset": 102,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.628389,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 104,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.9983846,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "추공",
+						"tagged": "추공/NNG+,/SP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "각색",
+							"beginOffset": 106,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "각색",
+									"beginOffset": 106,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.8342028,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "각색",
+						"tagged": "각색/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "현군,",
+							"beginOffset": 109,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "현군",
+									"beginOffset": 109,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.6742829,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 111,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.9975507,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "현군",
+						"tagged": "현군/NNG+,/SP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "그림",
+							"beginOffset": 113,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "그림",
+									"beginOffset": 113,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97802824,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "그림",
+						"tagged": "그림/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "장성락(REDICE",
+							"beginOffset": 116,
+							"length": 10
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "장성락",
+									"beginOffset": 116,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.5598375,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "(",
+									"beginOffset": 119,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9999229,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "REDICE",
+									"beginOffset": 120,
+									"length": 6
+								},
+								"tag": "SL",
+								"probability": 0.77072275,
+								"outOfVocab": "OUT_OF_VOCAB"
+							}
+						],
+						"lemma": "장성락",
+						"tagged": "장성락/NNG+(/SS+REDICE/SL",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "STUDIO),",
+							"beginOffset": 127,
+							"length": 8
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "STUDIO",
+									"beginOffset": 127,
+									"length": 6
+								},
+								"tag": "SL",
+								"probability": 0.71988004,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": ")",
+									"beginOffset": 133,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9999049,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 134,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.9989402,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "STUDIO",
+						"tagged": "STUDIO/SL+)/SS+,/SP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "(주)디앤씨웹툰비즈)",
+							"beginOffset": 136,
+							"length": 11
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "(",
+									"beginOffset": 136,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9999689,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "주",
+									"beginOffset": 137,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.915864,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ")",
+									"beginOffset": 138,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.99997044,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "디앤씨웹툰비즈",
+									"beginOffset": 139,
+									"length": 7
+								},
+								"tag": "NNP",
+								"probability": 0.6490303,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": ")",
+									"beginOffset": 146,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.99993277,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "(",
+						"tagged": "(/SS+주/NNG+)/SS+디앤씨웹툰비즈/NNP+)/SS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "NFT(대체불가토큰,",
+							"beginOffset": 148,
+							"length": 11
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "NFT",
+									"beginOffset": 148,
+									"length": 3
+								},
+								"tag": "NNP",
+								"probability": 0.5827991,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "(",
+									"beginOffset": 151,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.99995005,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "대체",
+									"beginOffset": 152,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "불가",
+									"beginOffset": 154,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "토큰",
+									"beginOffset": 156,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": ",",
+									"beginOffset": 158,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.99739516,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "NFT",
+						"tagged": "NFT/NNP+(/SS+대체/NNG+불가/NNG+토큰/NNG+,/SP",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "Non-fungible",
+							"beginOffset": 160,
+							"length": 12
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "Non",
+									"beginOffset": 160,
+									"length": 3
+								},
+								"tag": "SN",
+								"probability": 0.53172785,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "-",
+									"beginOffset": 163,
+									"length": 1
+								},
+								"tag": "SP",
+								"probability": 0.6893753,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "fungible",
+									"beginOffset": 164,
+									"length": 8
+								},
+								"tag": "SL",
+								"probability": 0.6664427,
+								"outOfVocab": "OUT_OF_VOCAB"
+							}
+						],
+						"lemma": "Non",
+						"tagged": "Non/SN+-/SP+fungible/SL",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "Token)를",
+							"beginOffset": 173,
+							"length": 7
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "Token",
+									"beginOffset": 173,
+									"length": 5
+								},
+								"tag": "SL",
+								"probability": 0.5146509,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": ")",
+									"beginOffset": 178,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9999741,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 179,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99998945,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "Token",
+						"tagged": "Token/SL+)/SS+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "12일",
+							"beginOffset": 181,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "12",
+									"beginOffset": 181,
+									"length": 2
+								},
+								"tag": "SN",
+								"probability": 0.9986926,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "일",
+									"beginOffset": 183,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.97860307,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "12",
+						"tagged": "12/SN+일/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "최초로",
+							"beginOffset": 185,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "최초",
+									"beginOffset": 185,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9757299,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "로",
+									"beginOffset": 187,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.99750525,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "최초",
+						"tagged": "최초/NNG+로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "선보인다.",
+							"beginOffset": 189,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "선보이",
+									"beginOffset": 189,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.99102664,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ다",
+									"beginOffset": 191,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.9905896,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 193,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.999638,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "선보이",
+						"tagged": "선보이/VV+ㄴ다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			},
+			{
+				"text": {
+					"content": "글로벌 전역에서 사랑받는 전설적 IP(지적재산권) 나혼렙과 미래 자산으로 각광받는 NFT의 결합으로 큰 기대를 모은다.",
+					"beginOffset": 195,
+					"length": 66
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "글로벌",
+							"beginOffset": 195,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "글로벌",
+									"beginOffset": 195,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.9685519,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "글로벌",
+						"tagged": "글로벌/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "전역에서",
+							"beginOffset": 199,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "전역",
+									"beginOffset": 199,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9819131,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에서",
+									"beginOffset": 201,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.99758905,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "전역",
+						"tagged": "전역/NNG+에서/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사랑받는",
+							"beginOffset": 204,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사랑",
+									"beginOffset": 204,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9850032,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "받",
+									"beginOffset": 206,
+									"length": 1
+								},
+								"tag": "XSV",
+								"probability": 0.96359766,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 207,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999787,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사랑",
+						"tagged": "사랑/NNG+받/XSV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "전설적",
+							"beginOffset": 209,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "전설",
+									"beginOffset": 209,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9813482,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "적",
+									"beginOffset": 211,
+									"length": 1
+								},
+								"tag": "XSN",
+								"probability": 0.9880713,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "전설",
+						"tagged": "전설/NNG+적/XSN",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "IP(지적재산권)",
+							"beginOffset": 213,
+							"length": 9
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "IP",
+									"beginOffset": 213,
+									"length": 2
+								},
+								"tag": "SL",
+								"probability": 0.95558447,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "(",
+									"beginOffset": 215,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9996272,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "지적",
+									"beginOffset": 216,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "재산권",
+									"beginOffset": 218,
+									"length": 3
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": ")",
+									"beginOffset": 221,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.99981046,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "IP",
+						"tagged": "IP/SL+(/SS+지적/NNG+재산권/NNG+)/SS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "나혼렙과",
+							"beginOffset": 223,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "나혼렙",
+									"beginOffset": 223,
+									"length": 3
+								},
+								"tag": "NNG",
+								"probability": 0.63805413,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "과",
+									"beginOffset": 226,
+									"length": 1
+								},
+								"tag": "JC",
+								"probability": 0.98610514,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "나혼렙",
+						"tagged": "나혼렙/NNG+과/JC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "미래",
+							"beginOffset": 228,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "미래",
+									"beginOffset": 228,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9811215,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "미래",
+						"tagged": "미래/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "자산으로",
+							"beginOffset": 231,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "자산",
+									"beginOffset": 231,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9831675,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으로",
+									"beginOffset": 233,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.99632007,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "자산",
+						"tagged": "자산/NNG+으로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "각광받는",
+							"beginOffset": 236,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "각광",
+									"beginOffset": 236,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9846466,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "받",
+									"beginOffset": 238,
+									"length": 1
+								},
+								"tag": "XSV",
+								"probability": 0.9895866,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 239,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99989396,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "각광",
+						"tagged": "각광/NNG+받/XSV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "NFT의",
+							"beginOffset": 241,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "NFT",
+									"beginOffset": 241,
+									"length": 3
+								},
+								"tag": "NNP",
+								"probability": 0.645567,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 244,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9997484,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "NFT",
+						"tagged": "NFT/NNP+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "결합으로",
+							"beginOffset": 246,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "결합",
+									"beginOffset": 246,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98355645,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으로",
+									"beginOffset": 248,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9934808,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "결합",
+						"tagged": "결합/NNG+으로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "큰",
+							"beginOffset": 251,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "크",
+									"beginOffset": 251,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.98728645,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 251,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9998884,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "크",
+						"tagged": "크/VA+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "기대를",
+							"beginOffset": 253,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "기대",
+									"beginOffset": 253,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98277426,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 255,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9992385,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "기대",
+						"tagged": "기대/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "모은다.",
+							"beginOffset": 257,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "모으",
+									"beginOffset": 257,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.987548,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ다",
+									"beginOffset": 258,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.9829697,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 260,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99982005,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "모으",
+						"tagged": "모으/VV+ㄴ다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "글로벌 전역에서 사랑받는 전설적 IP(지적재산권) 나혼렙과 미래 자산으로 각광받는 NFT의 결합으로 큰 기대를 모은다."
+			}
+		],
+		"language": "ko_KR"
+	},
+	"ttr": {
+		"lemma_Cnt": 78,
+		"lemma_TTR": 0.7232142857142857,
+		"CL_TTR": 0.9230769230769231,
+		"NL_TTR": 0.9130434782608695,
+		"NN_TTR": 0.9090909090909091,
+		"NNG_TTR": 0.9428571428571428,
+		"NNP_TTR": 0.875,
+		"NNB_TTR": 1.0,
+		"NP_TTR": 1.0,
+		"NR_TTR": 1.0,
+		"VL_TTR": 1.0,
+		"VV_TTR": 1.0,
+		"VA_TTR": 1.0,
+		"ML_TTR": 0,
+		"MM_TTR": 0,
+		"MA_TTR": 0,
+		"MAJ_TTR": 0,
+		"IC_TTR": 0,
+		"FL_TTR": 0.6538461538461539,
+		"J_TTR": 0.6666666666666666,
+		"E_TTR": 0.625,
+		"X_TTR": 0.6666666666666666,
+		"lemma_RTTR": 7.653780578436851,
+		"CL_RTTR": 6.65640235470275,
+		"NL_RTTR": 6.192562158505679,
+		"NN_RTTR": 6.030226891555272,
+		"NNG_RTTR": 5.578018081208209,
+		"NNP_RTTR": 2.4748737341529163,
+		"NNB_RTTR": 1.0,
+		"NP_RTTR": 1.0,
+		"NR_RTTR": 1.0,
+		"VL_RTTR": 2.4494897427831783,
+		"VV_RTTR": 2.23606797749979,
+		"VA_RTTR": 1.0,
+		"ML_RTTR": 0,
+		"MM_RTTR": 0,
+		"MA_RTTR": 0,
+		"MAJ_RTTR": 0,
+		"IC_RTTR": 0,
+		"FL_RTTR": 3.333974297349129,
+		"J_RTTR": 2.581988897471611,
+		"E_RTTR": 1.7677669529663687,
+		"X_RTTR": 1.1547005383792517,
+		"lemma_CTTR": 5.412040148726594,
+		"CL_CTTR": 4.706787243316417,
+		"NL_CTTR": 4.37880269519857,
+		"NN_CTTR": 4.264014327112209,
+		"NNG_CTTR": 3.944254410803499,
+		"NNP_CTTR": 1.75,
+		"NNB_CTTR": 0.7071067811865475,
+		"NP_CTTR": 0.7071067811865475,
+		"NR_CTTR": 0.7071067811865475,
+		"VL_CTTR": 1.7320508075688774,
+		"VV_CTTR": 1.5811388300841895,
+		"VA_CTTR": 0.7071067811865475,
+		"ML_CTTR": 0,
+		"MM_CTTR": 0,
+		"MA_CTTR": 0,
+		"MAJ_CTTR": 0,
+		"IC_CTTR": 0,
+		"FL_CTTR": 2.3574758339572237,
+		"J_CTTR": 1.8257418583505538,
+		"E_CTTR": 1.25,
+		"X_CTTR": 0.8164965809277261,
+		"lemma_MSTTR": 0.86,
+		"CL_MSTTR": 0.92,
+		"NL_MSTTR": 0.9130434782608695,
+		"NN_MSTTR": 0.9090909090909091,
+		"NNG_MSTTR": 0.9428571428571428,
+		"NNP_MSTTR": 0.875,
+		"NNB_MSTTR": 1.0,
+		"NP_MSTTR": 1.0,
+		"NR_MSTTR": 1.0,
+		"VL_MSTTR": 1.0,
+		"VV_MSTTR": 1.0,
+		"VA_MSTTR": 1.0,
+		"ML_MSTTR": 0,
+		"MM_MSTTR": 0,
+		"MA_MSTTR": 0,
+		"MAJ_MSTTR": 0,
+		"IC_MSTTR": 0,
+		"FL_MSTTR": 0.6538461538461539,
+		"J_MSTTR": 0.6666666666666666,
+		"E_MSTTR": 0.625,
+		"X_MSTTR": 0.6666666666666666,
+		"lemma_MATTR": 0.8130158730158731,
+		"CL_MATTR": 0.9333333333333332,
+		"NL_MATTR": 0.9130434782608695,
+		"NN_MATTR": 0.9090909090909091,
+		"NNG_MATTR": 0.9428571428571428,
+		"NNP_MATTR": 0.875,
+		"NNB_MATTR": 1.0,
+		"NP_MATTR": 1.0,
+		"NR_MATTR": 1.0,
+		"VL_MATTR": 1.0,
+		"VV_MATTR": 1.0,
+		"VA_MATTR": 1.0,
+		"ML_MATTR": 0,
+		"MM_MATTR": 0,
+		"MA_MATTR": 0,
+		"MAJ_MATTR": 0,
+		"IC_MATTR": 0,
+		"FL_MATTR": 0.6538461538461539,
+		"J_MATTR": 0.6666666666666666,
+		"E_MATTR": 0.625,
+		"X_MATTR": 0.6666666666666666,
+		"lemma_MTLD": 105.12344086021506,
+		"CL_MTLD": 189.28000000000014,
+		"NL_MTLD": 148.11999999999992,
+		"NN_MTLD": 135.51999999999998,
+		"NNG_MTLD": 171.49999999999994,
+		"NNP_MTLD": 17.92,
+		"NNB_MTLD": 0.0,
+		"NP_MTLD": 0.0,
+		"NR_MTLD": 0.0,
+		"VL_MTLD": 0.0,
+		"VV_MTLD": 0.0,
+		"VA_MTLD": 0.0,
+		"ML_MTLD": 0.0,
+		"MM_MTLD": 0.0,
+		"MA_MTLD": 0.0,
+		"MAJ_MTLD": 0.0,
+		"IC_MTLD": 0.0,
+		"FL_MTLD": 23.01834862385321,
+		"J_MTLD": 15.0,
+		"E_MTLD": 5.973333333333334,
+		"X_MTLD": 2.52,
+		"lemma_VOCDD": 105.76382001093982,
+		"CL_VOCDD": 296.7658352520886,
+		"NL_VOCDD": 0,
+		"NN_VOCDD": 0,
+		"NNG_VOCDD": 0,
+		"NNP_VOCDD": 0,
+		"NNB_VOCDD": 0,
+		"NP_VOCDD": 0,
+		"NR_VOCDD": 0,
+		"VL_VOCDD": 0,
+		"VV_VOCDD": 0,
+		"VA_VOCDD": 0,
+		"ML_VOCDD": 0,
+		"MM_VOCDD": 0,
+		"MA_VOCDD": 0,
+		"MAJ_VOCDD": 0,
+		"IC_VOCDD": 0,
+		"FL_VOCDD": 0,
+		"J_VOCDD": 0,
+		"E_VOCDD": 0,
+		"X_VOCDD": 0,
+		"lemma_HDD": 0.8546226850640374,
+		"CL_HDD": 0.9381598793363506,
+		"NL_HDD": 0.9207729468599027,
+		"NN_HDD": 0.9133192389006338,
+		"NNG_HDD": 0.0,
+		"NNP_HDD": 0.0,
+		"NNB_HDD": 0.0,
+		"NP_HDD": 0.0,
+		"NR_HDD": 0.0,
+		"VL_HDD": 0.0,
+		"VV_HDD": 0.0,
+		"VA_HDD": 0.0,
+		"ML_HDD": 0.0,
+		"MM_HDD": 0.0,
+		"MA_HDD": 0.0,
+		"MAJ_HDD": 0.0,
+		"IC_HDD": 0.0,
+		"FL_HDD": 0.0,
+		"J_HDD": 0.0,
+		"E_HDD": 0.0,
+		"X_HDD": 0.0
+	},
+	"similarity": {
+		"avgSentSimilarity": 0.4236232042312622,
+		"topicConsistency": 0.6615
+	},
+	"adjacency": {
+		"adjacent_sentence_overlap_all_lemmas": 70,
+		"adjacent_sentence_overlap_all_lemmas_normed": 2,
+		"binary_adjacent_sentence_overlap_all_lemmas": 1,
+		"adjacent_two_sentence_overlap_all_lemmas": 24,
+		"adjacent_two_sentence_overlap_all_lemmas_normed": 1,
+		"binary_adjacent_two_sentence_overlap_all_lemmas": 0,
+		"adjacent_sentence_overlap_content_lemmas": 39,
+		"adjacent_sentence_overlap_content_lemmas_normed": 2,
+		"binary_adjacent_sentence_overlap_content_lemmas": 1,
+		"adjacent_two_sentence_overlap_content_lemmas": 14,
+		"adjacent_two_sentence_overlap_content_lemmas_normed": 1,
+		"binary_adjacent_two_sentence_overlap_content_lemmas": 0,
+		"adjacent_sentence_overlap_function_lemmas": 14,
+		"adjacent_sentence_overlap_function_lemmas_normed": 2,
+		"binary_adjacent_sentence_overlap_function_lemmas": 1,
+		"adjacent_two_sentence_overlap_function_lemmas": 7,
+		"adjacent_two_sentence_overlap_function_lemmas_normed": 1,
+		"binary_adjacent_two_sentence_overlap_function_lemmas": 0,
+		"adjacent_sentence_overlap_noun_lemmas": 36,
+		"adjacent_sentence_overlap_noun_lemmas_normed": 2,
+		"binary_adjacent_sentence_overlap_noun_lemmas": 1,
+		"adjacent_two_sentence_overlap_noun_lemmas": 13,
+		"adjacent_two_sentence_overlap_noun_lemmas_normed": 1,
+		"binary_adjacent_two_sentence_overlap_noun_lemmas": 0,
+		"adjacent_sentence_overlap_verb_lemmas": 3,
+		"adjacent_sentence_overlap_verb_lemmas_normed": 2,
+		"binary_adjacent_sentence_overlap_verb_lemmas": 0,
+		"adjacent_two_sentence_overlap_verb_lemmas": 1,
+		"adjacent_two_sentence_overlap_verb_lemmas_normed": 1,
+		"binary_adjacent_two_sentence_overlap_verb_lemmas": 0,
+		"adjacent_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_sentence_overlap_adjective_lemmas_normed": 0,
+		"binary_adjacent_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_sentence_overlap_adverb_lemmas_normed": 0,
+		"binary_adjacent_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adverb_lemmas": 0
+	},
+	"basic_count": {
+		"para_Cnt": 1,
+		"sentence_Cnt": 3,
+		"word_Cnt": 47,
+		"morph_Cnt": 112,
+		"char_Cnt": 155,
+		"CL_Cnt": 52,
+		"NL_Cnt": 46,
+		"NN_Cnt": 44,
+		"NNG_Cnt": 35,
+		"NNP_Cnt": 8,
+		"NNB_Cnt": 1,
+		"NP_Cnt": 1,
+		"NP_People_Cnt": 1,
+		"NP_Things_Cnt": 0,
+		"NR_Cnt": 1,
+		"VL_Cnt": 6,
+		"VV_Cnt": 5,
+		"VA_Cnt": 1,
+		"VX_Cnt": 0,
+		"VCP_Cnt": 0,
+		"VCN_Cnt": 0,
+		"ML_Cnt": 0,
+		"MA_Cnt": 0,
+		"MM_Cnt": 0,
+		"FL_Cnt": 26,
+		"J_Cnt": 15,
+		"E_Cnt": 8,
+		"X_Cnt": 3,
+		"IC_Cnt": 0
+	},
+	"basic_density": {
+		"CL_Den": 0.4642857142857143,
+		"FL_Den": 0.23214285714285715,
+		"NL_Den": 0.39285714285714285,
+		"NNGL_Den": 0.3125,
+		"NNPL_Den": 0.07142857142857142,
+		"NNBL_Den": 0.008928571428571428,
+		"NPL_Den": 0.008928571428571428,
+		"NML_Den": 0.008928571428571428,
+		"VL_Den": 0.05357142857142857,
+		"VVL_Den": 0.044642857142857144,
+		"VAL_Den": 0.008928571428571428,
+		"ML_Den": 0.0,
+		"MML_Den": 0.0,
+		"MAL_Den": 0.0,
+		"JL_Den": 0.13392857142857142,
+		"EL_Den": 0.07142857142857142,
+		"XL_Den": 0.026785714285714284,
+		"ITL_Den": 0.0,
+		"NCL_Den": 0.8461538461538461,
+		"NNCL_Den": 0.6730769230769231,
+		"NNGCL_Den": 0.15384615384615385,
+		"NNBCL_Den": 0.019230769230769232,
+		"NPCL_Den": 0.019230769230769232,
+		"NMCL_Den": 0.019230769230769232,
+		"VCL_Den": 0.11538461538461539,
+		"VVCL_Den": 0.09615384615384616,
+		"VACL_Den": 0.019230769230769232,
+		"MCL_Den": 0.0,
+		"MMCL_Den": 0.0,
+		"MACL_Den": 0.0,
+		"INCL_Den": 0.0,
+		"JFL_Den": 0.5769230769230769,
+		"EFL_Den": 0.3076923076923077,
+		"XFL_Den": 0.11538461538461539
+	},
+	"basic_level": {
+		"morph_LenAvg": 1.9642857142857142,
+		"morph_LenStd": 1.401074660423789,
+		"word_LenAvg": 4.042553191489362,
+		"word_LenStd": 2.3964286087755466
+	},
+	"basic_list": {
+		"NL_Lst": [
+			[
+				0,
+				"나혼렙",
+				"NNP",
+				"\"나혼렙 최종화 장면 담은 메인 작품이 디지털자산으로 거래된다구요?\""
+			],
+			[
+				1,
+				"최종화",
+				"NNP",
+				"\"나혼렙 최종화 장면 담은 메인 작품이 디지털자산으로 거래된다구요?\""
+			],
+			[
+				2,
+				"장면",
+				"NNG",
+				"\"나혼렙 최종화 장면 담은 메인 작품이 디지털자산으로 거래된다구요?\""
+			],
+			[
+				3,
+				"메인",
+				"NNG",
+				"\"나혼렙 최종화 장면 담은 메인 작품이 디지털자산으로 거래된다구요?\""
+			],
+			[
+				4,
+				"작품",
+				"NNG",
+				"\"나혼렙 최종화 장면 담은 메인 작품이 디지털자산으로 거래된다구요?\""
+			],
+			[
+				5,
+				"디지털",
+				"NNG",
+				"\"나혼렙 최종화 장면 담은 메인 작품이 디지털자산으로 거래된다구요?\""
+			],
+			[
+				6,
+				"자산",
+				"NNG",
+				"\"나혼렙 최종화 장면 담은 메인 작품이 디지털자산으로 거래된다구요?\""
+			],
+			[
+				7,
+				"카카오엔터테인먼트",
+				"NNP",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				8,
+				"대표",
+				"NNG",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				9,
+				"이진수",
+				"NNP",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				10,
+				"김성수",
+				"NNP",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				11,
+				"글로벌",
+				"NNG",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				12,
+				"억",
+				"NR",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				13,
+				"뷰",
+				"NNG",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				14,
+				"슈퍼",
+				"NNG",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				15,
+				"나",
+				"NP",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				16,
+				"혼자",
+				"NNG",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				17,
+				"레벨",
+				"NNG",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				18,
+				"업",
+				"NNG",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				19,
+				"원작",
+				"NNG",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				20,
+				"추공",
+				"NNG",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				21,
+				"각색",
+				"NNG",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				22,
+				"현군",
+				"NNG",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				23,
+				"그림",
+				"NNG",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				24,
+				"장성락",
+				"NNG",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				25,
+				"주",
+				"NNG",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				26,
+				"디앤씨웹툰비즈",
+				"NNP",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				27,
+				"NFT",
+				"NNP",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				28,
+				"대체",
+				"NNG",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				29,
+				"불가",
+				"NNG",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				30,
+				"토큰",
+				"NNG",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				31,
+				"일",
+				"NNB",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				32,
+				"최초",
+				"NNG",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				33,
+				"글로벌",
+				"NNG",
+				"글로벌 전역에서 사랑받는 전설적 IP(지적재산권) 나혼렙과 미래 자산으로 각광받는 NFT의 결합으로 큰 기대를 모은다."
+			],
+			[
+				34,
+				"전역",
+				"NNG",
+				"글로벌 전역에서 사랑받는 전설적 IP(지적재산권) 나혼렙과 미래 자산으로 각광받는 NFT의 결합으로 큰 기대를 모은다."
+			],
+			[
+				35,
+				"사랑",
+				"NNG",
+				"글로벌 전역에서 사랑받는 전설적 IP(지적재산권) 나혼렙과 미래 자산으로 각광받는 NFT의 결합으로 큰 기대를 모은다."
+			],
+			[
+				36,
+				"전설",
+				"NNG",
+				"글로벌 전역에서 사랑받는 전설적 IP(지적재산권) 나혼렙과 미래 자산으로 각광받는 NFT의 결합으로 큰 기대를 모은다."
+			],
+			[
+				37,
+				"지적",
+				"NNG",
+				"글로벌 전역에서 사랑받는 전설적 IP(지적재산권) 나혼렙과 미래 자산으로 각광받는 NFT의 결합으로 큰 기대를 모은다."
+			],
+			[
+				38,
+				"재산권",
+				"NNG",
+				"글로벌 전역에서 사랑받는 전설적 IP(지적재산권) 나혼렙과 미래 자산으로 각광받는 NFT의 결합으로 큰 기대를 모은다."
+			],
+			[
+				39,
+				"나혼렙",
+				"NNG",
+				"글로벌 전역에서 사랑받는 전설적 IP(지적재산권) 나혼렙과 미래 자산으로 각광받는 NFT의 결합으로 큰 기대를 모은다."
+			],
+			[
+				40,
+				"미래",
+				"NNG",
+				"글로벌 전역에서 사랑받는 전설적 IP(지적재산권) 나혼렙과 미래 자산으로 각광받는 NFT의 결합으로 큰 기대를 모은다."
+			],
+			[
+				41,
+				"자산",
+				"NNG",
+				"글로벌 전역에서 사랑받는 전설적 IP(지적재산권) 나혼렙과 미래 자산으로 각광받는 NFT의 결합으로 큰 기대를 모은다."
+			],
+			[
+				42,
+				"각광",
+				"NNG",
+				"글로벌 전역에서 사랑받는 전설적 IP(지적재산권) 나혼렙과 미래 자산으로 각광받는 NFT의 결합으로 큰 기대를 모은다."
+			],
+			[
+				43,
+				"NFT",
+				"NNP",
+				"글로벌 전역에서 사랑받는 전설적 IP(지적재산권) 나혼렙과 미래 자산으로 각광받는 NFT의 결합으로 큰 기대를 모은다."
+			],
+			[
+				44,
+				"결합",
+				"NNG",
+				"글로벌 전역에서 사랑받는 전설적 IP(지적재산권) 나혼렙과 미래 자산으로 각광받는 NFT의 결합으로 큰 기대를 모은다."
+			],
+			[
+				45,
+				"기대",
+				"NNG",
+				"글로벌 전역에서 사랑받는 전설적 IP(지적재산권) 나혼렙과 미래 자산으로 각광받는 NFT의 결합으로 큰 기대를 모은다."
+			]
+		],
+		"NN_Lst": [
+			[
+				0,
+				"나혼렙",
+				"NNP",
+				"\"나혼렙 최종화 장면 담은 메인 작품이 디지털자산으로 거래된다구요?\""
+			],
+			[
+				1,
+				"최종화",
+				"NNP",
+				"\"나혼렙 최종화 장면 담은 메인 작품이 디지털자산으로 거래된다구요?\""
+			],
+			[
+				2,
+				"장면",
+				"NNG",
+				"\"나혼렙 최종화 장면 담은 메인 작품이 디지털자산으로 거래된다구요?\""
+			],
+			[
+				3,
+				"메인",
+				"NNG",
+				"\"나혼렙 최종화 장면 담은 메인 작품이 디지털자산으로 거래된다구요?\""
+			],
+			[
+				4,
+				"작품",
+				"NNG",
+				"\"나혼렙 최종화 장면 담은 메인 작품이 디지털자산으로 거래된다구요?\""
+			],
+			[
+				5,
+				"디지털",
+				"NNG",
+				"\"나혼렙 최종화 장면 담은 메인 작품이 디지털자산으로 거래된다구요?\""
+			],
+			[
+				6,
+				"자산",
+				"NNG",
+				"\"나혼렙 최종화 장면 담은 메인 작품이 디지털자산으로 거래된다구요?\""
+			],
+			[
+				7,
+				"카카오엔터테인먼트",
+				"NNP",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				8,
+				"대표",
+				"NNG",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				9,
+				"이진수",
+				"NNP",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				10,
+				"김성수",
+				"NNP",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				11,
+				"글로벌",
+				"NNG",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				12,
+				"뷰",
+				"NNG",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				13,
+				"슈퍼",
+				"NNG",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				14,
+				"혼자",
+				"NNG",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				15,
+				"레벨",
+				"NNG",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				16,
+				"업",
+				"NNG",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				17,
+				"원작",
+				"NNG",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				18,
+				"추공",
+				"NNG",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				19,
+				"각색",
+				"NNG",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				20,
+				"현군",
+				"NNG",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				21,
+				"그림",
+				"NNG",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				22,
+				"장성락",
+				"NNG",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				23,
+				"주",
+				"NNG",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				24,
+				"디앤씨웹툰비즈",
+				"NNP",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				25,
+				"NFT",
+				"NNP",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				26,
+				"대체",
+				"NNG",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				27,
+				"불가",
+				"NNG",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				28,
+				"토큰",
+				"NNG",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				29,
+				"일",
+				"NNB",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				30,
+				"최초",
+				"NNG",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				31,
+				"글로벌",
+				"NNG",
+				"글로벌 전역에서 사랑받는 전설적 IP(지적재산권) 나혼렙과 미래 자산으로 각광받는 NFT의 결합으로 큰 기대를 모은다."
+			],
+			[
+				32,
+				"전역",
+				"NNG",
+				"글로벌 전역에서 사랑받는 전설적 IP(지적재산권) 나혼렙과 미래 자산으로 각광받는 NFT의 결합으로 큰 기대를 모은다."
+			],
+			[
+				33,
+				"사랑",
+				"NNG",
+				"글로벌 전역에서 사랑받는 전설적 IP(지적재산권) 나혼렙과 미래 자산으로 각광받는 NFT의 결합으로 큰 기대를 모은다."
+			],
+			[
+				34,
+				"전설",
+				"NNG",
+				"글로벌 전역에서 사랑받는 전설적 IP(지적재산권) 나혼렙과 미래 자산으로 각광받는 NFT의 결합으로 큰 기대를 모은다."
+			],
+			[
+				35,
+				"지적",
+				"NNG",
+				"글로벌 전역에서 사랑받는 전설적 IP(지적재산권) 나혼렙과 미래 자산으로 각광받는 NFT의 결합으로 큰 기대를 모은다."
+			],
+			[
+				36,
+				"재산권",
+				"NNG",
+				"글로벌 전역에서 사랑받는 전설적 IP(지적재산권) 나혼렙과 미래 자산으로 각광받는 NFT의 결합으로 큰 기대를 모은다."
+			],
+			[
+				37,
+				"나혼렙",
+				"NNG",
+				"글로벌 전역에서 사랑받는 전설적 IP(지적재산권) 나혼렙과 미래 자산으로 각광받는 NFT의 결합으로 큰 기대를 모은다."
+			],
+			[
+				38,
+				"미래",
+				"NNG",
+				"글로벌 전역에서 사랑받는 전설적 IP(지적재산권) 나혼렙과 미래 자산으로 각광받는 NFT의 결합으로 큰 기대를 모은다."
+			],
+			[
+				39,
+				"자산",
+				"NNG",
+				"글로벌 전역에서 사랑받는 전설적 IP(지적재산권) 나혼렙과 미래 자산으로 각광받는 NFT의 결합으로 큰 기대를 모은다."
+			],
+			[
+				40,
+				"각광",
+				"NNG",
+				"글로벌 전역에서 사랑받는 전설적 IP(지적재산권) 나혼렙과 미래 자산으로 각광받는 NFT의 결합으로 큰 기대를 모은다."
+			],
+			[
+				41,
+				"NFT",
+				"NNP",
+				"글로벌 전역에서 사랑받는 전설적 IP(지적재산권) 나혼렙과 미래 자산으로 각광받는 NFT의 결합으로 큰 기대를 모은다."
+			],
+			[
+				42,
+				"결합",
+				"NNG",
+				"글로벌 전역에서 사랑받는 전설적 IP(지적재산권) 나혼렙과 미래 자산으로 각광받는 NFT의 결합으로 큰 기대를 모은다."
+			],
+			[
+				43,
+				"기대",
+				"NNG",
+				"글로벌 전역에서 사랑받는 전설적 IP(지적재산권) 나혼렙과 미래 자산으로 각광받는 NFT의 결합으로 큰 기대를 모은다."
+			]
+		],
+		"NNG_Lst": [
+			[
+				0,
+				"장면",
+				"NNG",
+				"\"나혼렙 최종화 장면 담은 메인 작품이 디지털자산으로 거래된다구요?\""
+			],
+			[
+				1,
+				"메인",
+				"NNG",
+				"\"나혼렙 최종화 장면 담은 메인 작품이 디지털자산으로 거래된다구요?\""
+			],
+			[
+				2,
+				"작품",
+				"NNG",
+				"\"나혼렙 최종화 장면 담은 메인 작품이 디지털자산으로 거래된다구요?\""
+			],
+			[
+				3,
+				"디지털",
+				"NNG",
+				"\"나혼렙 최종화 장면 담은 메인 작품이 디지털자산으로 거래된다구요?\""
+			],
+			[
+				4,
+				"자산",
+				"NNG",
+				"\"나혼렙 최종화 장면 담은 메인 작품이 디지털자산으로 거래된다구요?\""
+			],
+			[
+				5,
+				"대표",
+				"NNG",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				6,
+				"글로벌",
+				"NNG",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				7,
+				"뷰",
+				"NNG",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				8,
+				"슈퍼",
+				"NNG",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				9,
+				"혼자",
+				"NNG",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				10,
+				"레벨",
+				"NNG",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				11,
+				"업",
+				"NNG",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				12,
+				"원작",
+				"NNG",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				13,
+				"추공",
+				"NNG",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				14,
+				"각색",
+				"NNG",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				15,
+				"현군",
+				"NNG",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				16,
+				"그림",
+				"NNG",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				17,
+				"장성락",
+				"NNG",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				18,
+				"주",
+				"NNG",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				19,
+				"대체",
+				"NNG",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				20,
+				"불가",
+				"NNG",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				21,
+				"토큰",
+				"NNG",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				22,
+				"최초",
+				"NNG",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				23,
+				"글로벌",
+				"NNG",
+				"글로벌 전역에서 사랑받는 전설적 IP(지적재산권) 나혼렙과 미래 자산으로 각광받는 NFT의 결합으로 큰 기대를 모은다."
+			],
+			[
+				24,
+				"전역",
+				"NNG",
+				"글로벌 전역에서 사랑받는 전설적 IP(지적재산권) 나혼렙과 미래 자산으로 각광받는 NFT의 결합으로 큰 기대를 모은다."
+			],
+			[
+				25,
+				"사랑",
+				"NNG",
+				"글로벌 전역에서 사랑받는 전설적 IP(지적재산권) 나혼렙과 미래 자산으로 각광받는 NFT의 결합으로 큰 기대를 모은다."
+			],
+			[
+				26,
+				"전설",
+				"NNG",
+				"글로벌 전역에서 사랑받는 전설적 IP(지적재산권) 나혼렙과 미래 자산으로 각광받는 NFT의 결합으로 큰 기대를 모은다."
+			],
+			[
+				27,
+				"지적",
+				"NNG",
+				"글로벌 전역에서 사랑받는 전설적 IP(지적재산권) 나혼렙과 미래 자산으로 각광받는 NFT의 결합으로 큰 기대를 모은다."
+			],
+			[
+				28,
+				"재산권",
+				"NNG",
+				"글로벌 전역에서 사랑받는 전설적 IP(지적재산권) 나혼렙과 미래 자산으로 각광받는 NFT의 결합으로 큰 기대를 모은다."
+			],
+			[
+				29,
+				"나혼렙",
+				"NNG",
+				"글로벌 전역에서 사랑받는 전설적 IP(지적재산권) 나혼렙과 미래 자산으로 각광받는 NFT의 결합으로 큰 기대를 모은다."
+			],
+			[
+				30,
+				"미래",
+				"NNG",
+				"글로벌 전역에서 사랑받는 전설적 IP(지적재산권) 나혼렙과 미래 자산으로 각광받는 NFT의 결합으로 큰 기대를 모은다."
+			],
+			[
+				31,
+				"자산",
+				"NNG",
+				"글로벌 전역에서 사랑받는 전설적 IP(지적재산권) 나혼렙과 미래 자산으로 각광받는 NFT의 결합으로 큰 기대를 모은다."
+			],
+			[
+				32,
+				"각광",
+				"NNG",
+				"글로벌 전역에서 사랑받는 전설적 IP(지적재산권) 나혼렙과 미래 자산으로 각광받는 NFT의 결합으로 큰 기대를 모은다."
+			],
+			[
+				33,
+				"결합",
+				"NNG",
+				"글로벌 전역에서 사랑받는 전설적 IP(지적재산권) 나혼렙과 미래 자산으로 각광받는 NFT의 결합으로 큰 기대를 모은다."
+			],
+			[
+				34,
+				"기대",
+				"NNG",
+				"글로벌 전역에서 사랑받는 전설적 IP(지적재산권) 나혼렙과 미래 자산으로 각광받는 NFT의 결합으로 큰 기대를 모은다."
+			]
+		],
+		"NNP_Lst": [
+			[
+				0,
+				"나혼렙",
+				"NNP",
+				"\"나혼렙 최종화 장면 담은 메인 작품이 디지털자산으로 거래된다구요?\""
+			],
+			[
+				1,
+				"최종화",
+				"NNP",
+				"\"나혼렙 최종화 장면 담은 메인 작품이 디지털자산으로 거래된다구요?\""
+			],
+			[
+				2,
+				"카카오엔터테인먼트",
+				"NNP",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				3,
+				"이진수",
+				"NNP",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				4,
+				"김성수",
+				"NNP",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				5,
+				"디앤씨웹툰비즈",
+				"NNP",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				6,
+				"NFT",
+				"NNP",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				7,
+				"NFT",
+				"NNP",
+				"글로벌 전역에서 사랑받는 전설적 IP(지적재산권) 나혼렙과 미래 자산으로 각광받는 NFT의 결합으로 큰 기대를 모은다."
+			]
+		],
+		"NNB_Lst": [
+			[
+				0,
+				"일",
+				"NNB",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			]
+		],
+		"NP_Lst": [
+			[
+				0,
+				"나",
+				"NP",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			]
+		],
+		"NP_People_Lst": [
+			[
+				0,
+				"나",
+				"NP",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			]
+		],
+		"NP_Things_Lst": [],
+		"NR_Lst": [
+			[
+				0,
+				"억",
+				"NR",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			]
+		],
+		"VL_Lst": [
+			[
+				0,
+				"담",
+				"VV",
+				"\"나혼렙 최종화 장면 담은 메인 작품이 디지털자산으로 거래된다구요?\""
+			],
+			[
+				1,
+				"거래되",
+				"VV",
+				"\"나혼렙 최종화 장면 담은 메인 작품이 디지털자산으로 거래된다구요?\""
+			],
+			[
+				2,
+				"기록하",
+				"VV",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				3,
+				"선보이",
+				"VV",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				4,
+				"크",
+				"VA",
+				"글로벌 전역에서 사랑받는 전설적 IP(지적재산권) 나혼렙과 미래 자산으로 각광받는 NFT의 결합으로 큰 기대를 모은다."
+			],
+			[
+				5,
+				"모으",
+				"VV",
+				"글로벌 전역에서 사랑받는 전설적 IP(지적재산권) 나혼렙과 미래 자산으로 각광받는 NFT의 결합으로 큰 기대를 모은다."
+			]
+		],
+		"VV_Lst": [
+			[
+				0,
+				"담",
+				"VV",
+				"\"나혼렙 최종화 장면 담은 메인 작품이 디지털자산으로 거래된다구요?\""
+			],
+			[
+				1,
+				"거래되",
+				"VV",
+				"\"나혼렙 최종화 장면 담은 메인 작품이 디지털자산으로 거래된다구요?\""
+			],
+			[
+				2,
+				"기록하",
+				"VV",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				3,
+				"선보이",
+				"VV",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				4,
+				"모으",
+				"VV",
+				"글로벌 전역에서 사랑받는 전설적 IP(지적재산권) 나혼렙과 미래 자산으로 각광받는 NFT의 결합으로 큰 기대를 모은다."
+			]
+		],
+		"VA_Lst": [
+			[
+				0,
+				"크",
+				"VA",
+				"글로벌 전역에서 사랑받는 전설적 IP(지적재산권) 나혼렙과 미래 자산으로 각광받는 NFT의 결합으로 큰 기대를 모은다."
+			]
+		],
+		"VX_Lst": [],
+		"VCP_Lst": [],
+		"VCN_Lst": [],
+		"ML_Lst": [],
+		"MA_Lst": [],
+		"MM_Lst": [],
+		"J_Lst": [
+			[
+				0,
+				"이",
+				"JKS",
+				"\"나혼렙 최종화 장면 담은 메인 작품이 디지털자산으로 거래된다구요?\""
+			],
+			[
+				1,
+				"으로",
+				"JKB",
+				"\"나혼렙 최종화 장면 담은 메인 작품이 디지털자산으로 거래된다구요?\""
+			],
+			[
+				2,
+				"요",
+				"JX",
+				"\"나혼렙 최종화 장면 담은 메인 작품이 디지털자산으로 거래된다구요?\""
+			],
+			[
+				3,
+				"가",
+				"JKS",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				4,
+				"에서",
+				"JKB",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				5,
+				"를",
+				"JKO",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				6,
+				"만",
+				"JX",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				7,
+				"를",
+				"JKO",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				8,
+				"로",
+				"JKB",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				9,
+				"에서",
+				"JKB",
+				"글로벌 전역에서 사랑받는 전설적 IP(지적재산권) 나혼렙과 미래 자산으로 각광받는 NFT의 결합으로 큰 기대를 모은다."
+			],
+			[
+				10,
+				"과",
+				"JC",
+				"글로벌 전역에서 사랑받는 전설적 IP(지적재산권) 나혼렙과 미래 자산으로 각광받는 NFT의 결합으로 큰 기대를 모은다."
+			],
+			[
+				11,
+				"으로",
+				"JKB",
+				"글로벌 전역에서 사랑받는 전설적 IP(지적재산권) 나혼렙과 미래 자산으로 각광받는 NFT의 결합으로 큰 기대를 모은다."
+			],
+			[
+				12,
+				"의",
+				"JKG",
+				"글로벌 전역에서 사랑받는 전설적 IP(지적재산권) 나혼렙과 미래 자산으로 각광받는 NFT의 결합으로 큰 기대를 모은다."
+			],
+			[
+				13,
+				"으로",
+				"JKB",
+				"글로벌 전역에서 사랑받는 전설적 IP(지적재산권) 나혼렙과 미래 자산으로 각광받는 NFT의 결합으로 큰 기대를 모은다."
+			],
+			[
+				14,
+				"를",
+				"JKO",
+				"글로벌 전역에서 사랑받는 전설적 IP(지적재산권) 나혼렙과 미래 자산으로 각광받는 NFT의 결합으로 큰 기대를 모은다."
+			]
+		],
+		"E_Lst": [
+			[
+				0,
+				"은",
+				"ETM",
+				"\"나혼렙 최종화 장면 담은 메인 작품이 디지털자산으로 거래된다구요?\""
+			],
+			[
+				1,
+				"ㄴ다구",
+				"EF",
+				"\"나혼렙 최종화 장면 담은 메인 작품이 디지털자산으로 거래된다구요?\""
+			],
+			[
+				2,
+				"ㄴ",
+				"ETM",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				3,
+				"ㄴ다",
+				"EF",
+				"카카오엔터테인먼트(대표 이진수, 김성수)가 글로벌에서 142억 뷰를 기록한 슈퍼 IP '나 혼자만 레벨업'(원작 추공, 각색 현군, 그림 장성락(REDICE STUDIO), (주)디앤씨웹툰비즈) NFT(대체불가토큰, Non-fungible Token)를 12일 최초로 선보인다."
+			],
+			[
+				4,
+				"는",
+				"ETM",
+				"글로벌 전역에서 사랑받는 전설적 IP(지적재산권) 나혼렙과 미래 자산으로 각광받는 NFT의 결합으로 큰 기대를 모은다."
+			],
+			[
+				5,
+				"는",
+				"ETM",
+				"글로벌 전역에서 사랑받는 전설적 IP(지적재산권) 나혼렙과 미래 자산으로 각광받는 NFT의 결합으로 큰 기대를 모은다."
+			],
+			[
+				6,
+				"ㄴ",
+				"ETM",
+				"글로벌 전역에서 사랑받는 전설적 IP(지적재산권) 나혼렙과 미래 자산으로 각광받는 NFT의 결합으로 큰 기대를 모은다."
+			],
+			[
+				7,
+				"ㄴ다",
+				"EF",
+				"글로벌 전역에서 사랑받는 전설적 IP(지적재산권) 나혼렙과 미래 자산으로 각광받는 NFT의 결합으로 큰 기대를 모은다."
+			]
+		],
+		"X_Lst": [
+			[
+				0,
+				"받",
+				"XSV",
+				"글로벌 전역에서 사랑받는 전설적 IP(지적재산권) 나혼렙과 미래 자산으로 각광받는 NFT의 결합으로 큰 기대를 모은다."
+			],
+			[
+				1,
+				"적",
+				"XSN",
+				"글로벌 전역에서 사랑받는 전설적 IP(지적재산권) 나혼렙과 미래 자산으로 각광받는 NFT의 결합으로 큰 기대를 모은다."
+			],
+			[
+				2,
+				"받",
+				"XSV",
+				"글로벌 전역에서 사랑받는 전설적 IP(지적재산권) 나혼렙과 미래 자산으로 각광받는 NFT의 결합으로 큰 기대를 모은다."
+			]
+		],
+		"IC_Lst": []
+	},
+	"NDW": {
+		"morph_NDW": 82,
+		"NL_NDW": 46,
+		"NNG_NDW": 35,
+		"NNP_NDW": 8,
+		"NNB_NDW": 1,
+		"NP_NDW": 1,
+		"NR_NDW": 1,
+		"VL_NDW": 6,
+		"VV_NDW": 5,
+		"VA_NDW": 1,
+		"ML_NDW": 0,
+		"MM_NDW": 0,
+		"IC_NDW": 0,
+		"J_NDW": 15,
+		"E_NDW": 8,
+		"X_NDW": 3,
+		"CL_NDW": 52,
+		"FL_NDW": 26
+	}
+}

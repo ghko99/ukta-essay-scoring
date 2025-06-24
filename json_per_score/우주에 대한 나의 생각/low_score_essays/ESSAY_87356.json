@@ -1,0 +1,3044 @@
+﻿{
+	"morpheme": {
+		"sentences": [
+			{
+				"text": {
+					"content": "하나의 점이 엄청난 폭발(BigBang)을 일으켜 현재의 우주가 되었다는 이론이 빅뱅 이론1)입니다.",
+					"length": 56,
+					"beginOffset": 0
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "하나의",
+							"length": 3,
+							"beginOffset": 0
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하나",
+									"length": 2,
+									"beginOffset": 0
+								},
+								"tag": "NR",
+								"probability": 0.9930427,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 2,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.9994538,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하나",
+						"tagged": "하나/NR+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "점이",
+							"beginOffset": 4,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "점",
+									"beginOffset": 4,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.5099752,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 5,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.99087757,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "점",
+						"tagged": "점/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "엄청난",
+							"beginOffset": 7,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "엄청나",
+									"beginOffset": 7,
+									"length": 3
+								},
+								"tag": "VA",
+								"probability": 0.9814552,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 9,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99998313,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "엄청나",
+						"tagged": "엄청나/VA+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "폭발(BigBang)을",
+							"beginOffset": 11,
+							"length": 12
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "폭발",
+									"beginOffset": 11,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9756271,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "(",
+									"beginOffset": 13,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9998847,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "BigBang",
+									"beginOffset": 14,
+									"length": 7
+								},
+								"tag": "NNG",
+								"probability": 0.86139226,
+								"outOfVocab": "OUT_OF_VOCAB"
+							},
+							{
+								"text": {
+									"content": ")",
+									"beginOffset": 21,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9999368,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 22,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99995095,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "폭발",
+						"tagged": "폭발/NNG+(/SS+BigBang/NNG+)/SS+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "일으켜",
+							"beginOffset": 24,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "일으키",
+									"beginOffset": 24,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.98660505,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어",
+									"beginOffset": 26,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9913345,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "일으키",
+						"tagged": "일으키/VV+어/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "현재의",
+							"beginOffset": 28,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "현재",
+									"beginOffset": 28,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98295593,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 30,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99968,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "현재",
+						"tagged": "현재/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "우주가",
+							"beginOffset": 32,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "우주",
+									"beginOffset": 32,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9871446,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 34,
+									"length": 1
+								},
+								"tag": "JKC",
+								"probability": 0.9073627,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "우주",
+						"tagged": "우주/NNG+가/JKC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "되었다는",
+							"beginOffset": 36,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "되",
+									"beginOffset": 36,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9856917,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 37,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9998209,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "다는",
+									"beginOffset": 38,
+									"length": 2
+								},
+								"tag": "ETM",
+								"probability": 0.999969,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "되",
+						"tagged": "되/VV+었/EP+다는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이론이",
+							"beginOffset": 41,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이론",
+									"beginOffset": 41,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9769647,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 43,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.98471403,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이론",
+						"tagged": "이론/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "빅뱅",
+							"beginOffset": 45,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "빅뱅",
+									"beginOffset": 45,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97684747,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "빅뱅",
+						"tagged": "빅뱅/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이론1)입니다.",
+							"beginOffset": 48,
+							"length": 8
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이론",
+									"beginOffset": 48,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.7388685,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "1",
+									"beginOffset": 50,
+									"length": 1
+								},
+								"tag": "SN",
+								"probability": 0.9946164,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ")",
+									"beginOffset": 51,
+									"length": 1
+								},
+								"tag": "SS",
+								"probability": 0.9974901,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 52,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.9998064,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㅂ니다",
+									"beginOffset": 52,
+									"length": 3
+								},
+								"tag": "EF",
+								"probability": 0.9910059,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 55,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9993347,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이론",
+						"tagged": "이론/NNG+1/SN+)/SS+이/VCP+ㅂ니다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "하나의 점이 엄청난 폭발(BigBang)을 일으켜 현재의 우주가 되었다는 이론이 빅뱅 이론1)입니다."
+			},
+			{
+				"text": {
+					"content": "처음 빅뱅 이론을 접하게 된다면 황당해 할지 모르겠지만 이 빅뱅 이론이 현재로서는 우주의 역사를 설명하는 이론 중 가장 많이 받아들여지고 있는 이론입니다.",
+					"beginOffset": 57,
+					"length": 86
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "처음",
+							"beginOffset": 57,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "처음",
+									"beginOffset": 57,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.97121537,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "처음",
+						"tagged": "처음/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "빅뱅",
+							"beginOffset": 60,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "빅뱅",
+									"beginOffset": 60,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.8875134,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "빅뱅",
+						"tagged": "빅뱅/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이론을",
+							"beginOffset": 63,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이론",
+									"beginOffset": 63,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9835692,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 65,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9999248,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이론",
+						"tagged": "이론/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "접하게",
+							"beginOffset": 67,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "접하",
+									"beginOffset": 67,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.98565483,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "게",
+									"beginOffset": 69,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9869065,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "접하",
+						"tagged": "접하/VV+게/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "된다면",
+							"beginOffset": 71,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "되",
+									"beginOffset": 71,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9709166,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄴ다면",
+									"beginOffset": 71,
+									"length": 3
+								},
+								"tag": "EC",
+								"probability": 0.99519,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "되",
+						"tagged": "되/VV+ㄴ다면/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "황당해",
+							"beginOffset": 75,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "황당하",
+									"beginOffset": 75,
+									"length": 3
+								},
+								"tag": "VA",
+								"probability": 0.98545104,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "아",
+									"beginOffset": 77,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.95530087,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "황당하",
+						"tagged": "황당하/VA+아/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "할지",
+							"beginOffset": 79,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "하",
+									"beginOffset": 79,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.89412516,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ지",
+									"beginOffset": 79,
+									"length": 2
+								},
+								"tag": "EF",
+								"probability": 0.6294763,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "하",
+						"tagged": "하/VX+ㄹ지/EF",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "모르겠지만",
+							"beginOffset": 82,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "모르",
+									"beginOffset": 82,
+									"length": 2
+								},
+								"tag": "VV",
+								"probability": 0.98113453,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "겠",
+									"beginOffset": 84,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.99995846,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "지만",
+									"beginOffset": 85,
+									"length": 2
+								},
+								"tag": "EC",
+								"probability": 0.9837283,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "모르",
+						"tagged": "모르/VV+겠/EP+지만/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이",
+							"beginOffset": 88,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 88,
+									"length": 1
+								},
+								"tag": "MMD",
+								"probability": 0.99983776,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이",
+						"tagged": "이/MMD",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "빅뱅",
+							"beginOffset": 90,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "빅뱅",
+									"beginOffset": 90,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9487331,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "빅뱅",
+						"tagged": "빅뱅/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이론이",
+							"beginOffset": 93,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이론",
+									"beginOffset": 93,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9834468,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 95,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9802051,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이론",
+						"tagged": "이론/NNG+이/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "현재로서는",
+							"beginOffset": 97,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "현재",
+									"beginOffset": 97,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9859031,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "로서",
+									"beginOffset": 99,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.9960407,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 101,
+									"length": 1
+								},
+								"tag": "JX",
+								"probability": 0.99861336,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "현재",
+						"tagged": "현재/NNG+로서/JKB+는/JX",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "우주의",
+							"beginOffset": 103,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "우주",
+									"beginOffset": 103,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98357445,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 105,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99921125,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "우주",
+						"tagged": "우주/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "역사를",
+							"beginOffset": 107,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "역사",
+									"beginOffset": 107,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9835603,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "를",
+									"beginOffset": 109,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.9997744,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "역사",
+						"tagged": "역사/NNG+를/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "설명하는",
+							"beginOffset": 111,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "설명하",
+									"beginOffset": 111,
+									"length": 3
+								},
+								"tag": "VV",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 114,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9998913,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "설명하",
+						"tagged": "설명하/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이론",
+							"beginOffset": 116,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이론",
+									"beginOffset": 116,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9860868,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이론",
+						"tagged": "이론/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "중",
+							"beginOffset": 119,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "중",
+									"beginOffset": 119,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.95850205,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "중",
+						"tagged": "중/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "가장",
+							"beginOffset": 121,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "가장",
+									"beginOffset": 121,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9915475,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "가장",
+						"tagged": "가장/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "많이",
+							"beginOffset": 124,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "많이",
+									"beginOffset": 124,
+									"length": 2
+								},
+								"tag": "MAG",
+								"probability": 0.9908589,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "많이",
+						"tagged": "많이/MAG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "받아들여",
+							"beginOffset": 127,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "받아들이",
+									"beginOffset": 127,
+									"length": 4
+								},
+								"tag": "VV",
+								"probability": 0.98951364,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "어",
+									"beginOffset": 130,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9932174,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "받아들이",
+						"tagged": "받아들이/VV+어/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "지고",
+							"beginOffset": 131,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "지",
+									"beginOffset": 131,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.96856517,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 132,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.99184275,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "지",
+						"tagged": "지/VX+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있는",
+							"beginOffset": 134,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 134,
+									"length": 1
+								},
+								"tag": "VX",
+								"probability": 0.96074766,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 135,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99997663,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VX+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "이론입니다.",
+							"beginOffset": 137,
+							"length": 6
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "이론",
+									"beginOffset": 137,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9828229,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "이",
+									"beginOffset": 139,
+									"length": 1
+								},
+								"tag": "VCP",
+								"probability": 0.99991506,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㅂ니다",
+									"beginOffset": 139,
+									"length": 3
+								},
+								"tag": "EF",
+								"probability": 0.9917938,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 142,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.99975574,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "이론",
+						"tagged": "이론/NNG+이/VCP+ㅂ니다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "처음 빅뱅 이론을 접하게 된다면 황당해 할지 모르겠지만 이 빅뱅 이론이 현재로서는 우주의 역사를 설명하는 이론 중 가장 많이 받아들여 지고 있는 이론입니다."
+			},
+			{
+				"text": {
+					"content": "풍선에 일정한 간격으로 점을 찍고 풍선을 불었을 경우 점들 사이의 거리가 멀어지는 것을 볼 수 있습니다.",
+					"beginOffset": 144,
+					"length": 58
+				},
+				"tokens": [
+					{
+						"text": {
+							"content": "풍선에",
+							"beginOffset": 144,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "풍선",
+									"beginOffset": 144,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9838871,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "에",
+									"beginOffset": 146,
+									"length": 1
+								},
+								"tag": "JKB",
+								"probability": 0.996622,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "풍선",
+						"tagged": "풍선/NNG+에/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "일정한",
+							"beginOffset": 148,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "일정하",
+									"beginOffset": 148,
+									"length": 3
+								},
+								"tag": "VA",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							},
+							{
+								"text": {
+									"content": "ㄴ",
+									"beginOffset": 150,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.99997807,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "일정하",
+						"tagged": "일정하/VA+ㄴ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "간격으로",
+							"beginOffset": 152,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "간격",
+									"beginOffset": 152,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98526657,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "으로",
+									"beginOffset": 154,
+									"length": 2
+								},
+								"tag": "JKB",
+								"probability": 0.995585,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "간격",
+						"tagged": "간격/NNG+으로/JKB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "점을",
+							"beginOffset": 157,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "점",
+									"beginOffset": 157,
+									"length": 1
+								},
+								"tag": "NNG",
+								"probability": 0.8830302,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 158,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99980855,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "점",
+						"tagged": "점/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "찍고",
+							"beginOffset": 160,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "찍",
+									"beginOffset": 160,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9900201,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "고",
+									"beginOffset": 161,
+									"length": 1
+								},
+								"tag": "EC",
+								"probability": 0.9934004,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "찍",
+						"tagged": "찍/VV+고/EC",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "풍선을",
+							"beginOffset": 163,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "풍선",
+									"beginOffset": 163,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9788038,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 165,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99993306,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "풍선",
+						"tagged": "풍선/NNG+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "불었을",
+							"beginOffset": 167,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "불",
+									"beginOffset": 167,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.9864892,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "었",
+									"beginOffset": 168,
+									"length": 1
+								},
+								"tag": "EP",
+								"probability": 0.9997137,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 169,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999252,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "불",
+						"tagged": "불/VV+었/EP+을/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "경우",
+							"beginOffset": 171,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "경우",
+									"beginOffset": 171,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.98589635,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "경우",
+						"tagged": "경우/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "점들",
+							"beginOffset": 174,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "점들",
+									"beginOffset": 174,
+									"length": 2
+								},
+								"tag": "NNG",
+								"outOfVocab": "IN_BUILTIN_DICT",
+								"probability": 0.0
+							}
+						],
+						"lemma": "점들",
+						"tagged": "점들/NNG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "사이의",
+							"beginOffset": 177,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "사이",
+									"beginOffset": 177,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9844094,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "의",
+									"beginOffset": 179,
+									"length": 1
+								},
+								"tag": "JKG",
+								"probability": 0.99824303,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "사이",
+						"tagged": "사이/NNG+의/JKG",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "거리가",
+							"beginOffset": 181,
+							"length": 3
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "거리",
+									"beginOffset": 181,
+									"length": 2
+								},
+								"tag": "NNG",
+								"probability": 0.9694147,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "가",
+									"beginOffset": 183,
+									"length": 1
+								},
+								"tag": "JKS",
+								"probability": 0.9584031,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "거리",
+						"tagged": "거리/NNG+가/JKS",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "멀어지는",
+							"beginOffset": 185,
+							"length": 4
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "멀어지",
+									"beginOffset": 185,
+									"length": 3
+								},
+								"tag": "VV",
+								"probability": 0.98665756,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "는",
+									"beginOffset": 188,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9998985,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "멀어지",
+						"tagged": "멀어지/VV+는/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "것을",
+							"beginOffset": 190,
+							"length": 2
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "것",
+									"beginOffset": 190,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.98316264,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "을",
+									"beginOffset": 191,
+									"length": 1
+								},
+								"tag": "JKO",
+								"probability": 0.99996567,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "것",
+						"tagged": "것/NNB+을/JKO",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "볼",
+							"beginOffset": 193,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "보",
+									"beginOffset": 193,
+									"length": 1
+								},
+								"tag": "VV",
+								"probability": 0.6103517,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "ㄹ",
+									"beginOffset": 193,
+									"length": 1
+								},
+								"tag": "ETM",
+								"probability": 0.9999252,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "보",
+						"tagged": "보/VV+ㄹ/ETM",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "수",
+							"beginOffset": 195,
+							"length": 1
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "수",
+									"beginOffset": 195,
+									"length": 1
+								},
+								"tag": "NNB",
+								"probability": 0.9815043,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "수",
+						"tagged": "수/NNB",
+						"modified": ""
+					},
+					{
+						"text": {
+							"content": "있습니다.",
+							"beginOffset": 197,
+							"length": 5
+						},
+						"morphemes": [
+							{
+								"text": {
+									"content": "있",
+									"beginOffset": 197,
+									"length": 1
+								},
+								"tag": "VA",
+								"probability": 0.94907045,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": "습니다",
+									"beginOffset": 198,
+									"length": 3
+								},
+								"tag": "EF",
+								"probability": 0.99292725,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							},
+							{
+								"text": {
+									"content": ".",
+									"beginOffset": 201,
+									"length": 1
+								},
+								"tag": "SF",
+								"probability": 0.9993656,
+								"outOfVocab": "IN_WORD_EMBEDDING"
+							}
+						],
+						"lemma": "있",
+						"tagged": "있/VA+습니다/EF+./SF",
+						"modified": ""
+					}
+				],
+				"refined": "풍선에 일정한 간격으로 점을 찍고 풍선을 불었을 경우 점들 사이의 거리가 멀어지는 것을 볼 수 있습니다."
+			}
+		],
+		"language": "ko_KR"
+	},
+	"ttr": {
+		"lemma_Cnt": 95,
+		"lemma_TTR": 0.6274509803921569,
+		"CL_TTR": 0.7307692307692307,
+		"NL_TTR": 0.6333333333333333,
+		"NN_TTR": 0.6206896551724138,
+		"NNG_TTR": 0.5769230769230769,
+		"NNP_TTR": 0,
+		"NNB_TTR": 1.0,
+		"NP_TTR": 0,
+		"NR_TTR": 1.0,
+		"VL_TTR": 0.85,
+		"VV_TTR": 0.9090909090909091,
+		"VA_TTR": 1.0,
+		"ML_TTR": 1.0,
+		"MM_TTR": 0,
+		"MA_TTR": 1.0,
+		"MAJ_TTR": 0,
+		"IC_TTR": 0,
+		"FL_TTR": 0.5476190476190477,
+		"J_TTR": 0.47368421052631576,
+		"E_TTR": 0.6956521739130435,
+		"X_TTR": 0,
+		"lemma_RTTR": 6.336944275050716,
+		"CL_RTTR": 5.269651864139677,
+		"NL_RTTR": 3.468909530866052,
+		"NN_RTTR": 3.342516087186934,
+		"NNG_RTTR": 2.9417420270727606,
+		"NNP_RTTR": 0,
+		"NNB_RTTR": 1.7320508075688774,
+		"NP_RTTR": 0,
+		"NR_RTTR": 1.0,
+		"VL_RTTR": 3.801315561749642,
+		"VV_RTTR": 3.015113445777636,
+		"VA_RTTR": 2.0,
+		"ML_RTTR": 1.414213562373095,
+		"MM_RTTR": 0,
+		"MA_RTTR": 1.414213562373095,
+		"MAJ_RTTR": 0,
+		"IC_RTTR": 0,
+		"FL_RTTR": 3.548977049128114,
+		"J_RTTR": 2.0647416048350555,
+		"E_RTTR": 3.3362306249131963,
+		"X_RTTR": 0,
+		"lemma_CTTR": 4.480896268889631,
+		"CL_CTTR": 3.7262065676254967,
+		"NL_CTTR": 2.4528894525980305,
+		"NN_CTTR": 2.363515791475006,
+		"NNG_CTTR": 2.0801257358446095,
+		"NNP_CTTR": 0,
+		"NNB_CTTR": 1.2247448713915892,
+		"NP_CTTR": 0,
+		"NR_CTTR": 0.7071067811865475,
+		"VL_CTTR": 2.687936011143122,
+		"VV_CTTR": 2.1320071635561044,
+		"VA_CTTR": 1.414213562373095,
+		"ML_CTTR": 1.0,
+		"MM_CTTR": 0,
+		"MA_CTTR": 1.0,
+		"MAJ_CTTR": 0,
+		"IC_CTTR": 0,
+		"FL_CTTR": 2.5095057377139125,
+		"J_CTTR": 1.459992790176863,
+		"E_CTTR": 2.359071298478354,
+		"X_CTTR": 0,
+		"lemma_MSTTR": 0.75,
+		"CL_MSTTR": 0.74,
+		"NL_MSTTR": 0.6333333333333333,
+		"NN_MSTTR": 0.6206896551724138,
+		"NNG_MSTTR": 0.5769230769230769,
+		"NNP_MSTTR": 0,
+		"NNB_MSTTR": 1.0,
+		"NP_MSTTR": 0,
+		"NR_MSTTR": 1.0,
+		"VL_MSTTR": 0.85,
+		"VV_MSTTR": 0.9090909090909091,
+		"VA_MSTTR": 1.0,
+		"ML_MSTTR": 1.0,
+		"MM_MSTTR": 0,
+		"MA_MSTTR": 1.0,
+		"MAJ_MSTTR": 0,
+		"IC_MSTTR": 0,
+		"FL_MSTTR": 0.5476190476190477,
+		"J_MSTTR": 0.47368421052631576,
+		"E_MSTTR": 0.6956521739130435,
+		"X_MSTTR": 0,
+		"lemma_MATTR": 0.7637735849056605,
+		"CL_MATTR": 0.7399999999999999,
+		"NL_MATTR": 0.6333333333333333,
+		"NN_MATTR": 0.6206896551724138,
+		"NNG_MATTR": 0.5769230769230769,
+		"NNP_MATTR": 0,
+		"NNB_MATTR": 1.0,
+		"NP_MATTR": 0,
+		"NR_MATTR": 1.0,
+		"VL_MATTR": 0.85,
+		"VV_MATTR": 0.9090909090909091,
+		"VA_MATTR": 1.0,
+		"ML_MATTR": 1.0,
+		"MM_MATTR": 0,
+		"MA_MATTR": 1.0,
+		"MAJ_MATTR": 0,
+		"IC_MATTR": 0,
+		"FL_MATTR": 0.5476190476190477,
+		"J_MATTR": 0.47368421052631576,
+		"E_MATTR": 0.6956521739130435,
+		"X_MATTR": 0,
+		"lemma_MTLD": 66.69821162444114,
+		"CL_MTLD": 44.80442804428044,
+		"NL_MTLD": 24.20103092783505,
+		"NN_MTLD": 23.394329896907216,
+		"NNG_MTLD": 15.806818181818182,
+		"NNP_MTLD": 0.0,
+		"NNB_MTLD": 0.0,
+		"NP_MTLD": 0.0,
+		"NR_MTLD": 0.0,
+		"VL_MTLD": 37.333333333333336,
+		"VV_MTLD": 33.879999999999995,
+		"VA_MTLD": 0.0,
+		"ML_MTLD": 0.0,
+		"MM_MTLD": 0.0,
+		"MA_MTLD": 0.0,
+		"MAJ_MTLD": 0.0,
+		"IC_MTLD": 0.0,
+		"FL_MTLD": 22.75,
+		"J_MTLD": 8.008735662843424,
+		"E_MTLD": 22.08,
+		"X_MTLD": 0.0,
+		"lemma_VOCDD": 59.3418103448675,
+		"CL_VOCDD": 52.9376559594445,
+		"NL_VOCDD": 0,
+		"NN_VOCDD": 0,
+		"NNG_VOCDD": 0,
+		"NNP_VOCDD": 0,
+		"NNB_VOCDD": 0,
+		"NP_VOCDD": 0,
+		"NR_VOCDD": 0,
+		"VL_VOCDD": 0,
+		"VV_VOCDD": 0,
+		"VA_VOCDD": 0,
+		"ML_VOCDD": 0,
+		"MM_VOCDD": 0,
+		"MA_VOCDD": 0,
+		"MAJ_VOCDD": 0,
+		"IC_VOCDD": 0,
+		"FL_VOCDD": 0,
+		"J_VOCDD": 0,
+		"E_VOCDD": 0,
+		"X_VOCDD": 0,
+		"lemma_HDD": 0.7835932061665715,
+		"CL_HDD": 0.7661923853010929,
+		"NL_HDD": 0.0,
+		"NN_HDD": 0.0,
+		"NNG_HDD": 0.0,
+		"NNP_HDD": 0.0,
+		"NNB_HDD": 0.0,
+		"NP_HDD": 0.0,
+		"NR_HDD": 0.0,
+		"VL_HDD": 0.0,
+		"VV_HDD": 0.0,
+		"VA_HDD": 0.0,
+		"ML_HDD": 0.0,
+		"MM_HDD": 0.0,
+		"MA_HDD": 0.0,
+		"MAJ_HDD": 0.0,
+		"IC_HDD": 0.0,
+		"FL_HDD": 0.5476190476190479,
+		"J_HDD": 0.0,
+		"E_HDD": 0.0,
+		"X_HDD": 0.0
+	},
+	"similarity": {
+		"avgSentSimilarity": 0.2302664816379547,
+		"topicConsistency": 0.6034
+	},
+	"adjacency": {
+		"adjacent_sentence_overlap_all_lemmas": 64,
+		"adjacent_sentence_overlap_all_lemmas_normed": 2,
+		"binary_adjacent_sentence_overlap_all_lemmas": 2,
+		"adjacent_two_sentence_overlap_all_lemmas": 27,
+		"adjacent_two_sentence_overlap_all_lemmas_normed": 1,
+		"binary_adjacent_two_sentence_overlap_all_lemmas": 1,
+		"adjacent_sentence_overlap_content_lemmas": 33,
+		"adjacent_sentence_overlap_content_lemmas_normed": 2,
+		"binary_adjacent_sentence_overlap_content_lemmas": 2,
+		"adjacent_two_sentence_overlap_content_lemmas": 14,
+		"adjacent_two_sentence_overlap_content_lemmas_normed": 1,
+		"binary_adjacent_two_sentence_overlap_content_lemmas": 1,
+		"adjacent_sentence_overlap_function_lemmas": 29,
+		"adjacent_sentence_overlap_function_lemmas_normed": 2,
+		"binary_adjacent_sentence_overlap_function_lemmas": 2,
+		"adjacent_two_sentence_overlap_function_lemmas": 12,
+		"adjacent_two_sentence_overlap_function_lemmas_normed": 1,
+		"binary_adjacent_two_sentence_overlap_function_lemmas": 1,
+		"adjacent_sentence_overlap_noun_lemmas": 20,
+		"adjacent_sentence_overlap_noun_lemmas_normed": 2,
+		"binary_adjacent_sentence_overlap_noun_lemmas": 1,
+		"adjacent_two_sentence_overlap_noun_lemmas": 8,
+		"adjacent_two_sentence_overlap_noun_lemmas_normed": 1,
+		"binary_adjacent_two_sentence_overlap_noun_lemmas": 1,
+		"adjacent_sentence_overlap_verb_lemmas": 13,
+		"adjacent_sentence_overlap_verb_lemmas_normed": 2,
+		"binary_adjacent_sentence_overlap_verb_lemmas": 2,
+		"adjacent_two_sentence_overlap_verb_lemmas": 6,
+		"adjacent_two_sentence_overlap_verb_lemmas_normed": 1,
+		"binary_adjacent_two_sentence_overlap_verb_lemmas": 0,
+		"adjacent_sentence_overlap_adjective_lemmas": 3,
+		"adjacent_sentence_overlap_adjective_lemmas_normed": 2,
+		"binary_adjacent_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_two_sentence_overlap_adjective_lemmas": 2,
+		"adjacent_two_sentence_overlap_adjective_lemmas_normed": 1,
+		"binary_adjacent_two_sentence_overlap_adjective_lemmas": 0,
+		"adjacent_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_sentence_overlap_adverb_lemmas_normed": 0,
+		"binary_adjacent_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas": 0,
+		"adjacent_two_sentence_overlap_adverb_lemmas_normed": 0,
+		"binary_adjacent_two_sentence_overlap_adverb_lemmas": 0
+	},
+	"basic_count": {
+		"para_Cnt": 1,
+		"sentence_Cnt": 3,
+		"word_Cnt": 49,
+		"morph_Cnt": 102,
+		"char_Cnt": 148,
+		"CL_Cnt": 52,
+		"NL_Cnt": 30,
+		"NN_Cnt": 29,
+		"NNG_Cnt": 26,
+		"NNP_Cnt": 0,
+		"NNB_Cnt": 3,
+		"NP_Cnt": 0,
+		"NP_People_Cnt": 0,
+		"NP_Things_Cnt": 0,
+		"NR_Cnt": 1,
+		"VL_Cnt": 20,
+		"VV_Cnt": 11,
+		"VA_Cnt": 4,
+		"VX_Cnt": 3,
+		"VCP_Cnt": 2,
+		"VCN_Cnt": 0,
+		"ML_Cnt": 2,
+		"MA_Cnt": 0,
+		"MM_Cnt": 0,
+		"FL_Cnt": 42,
+		"J_Cnt": 19,
+		"E_Cnt": 23,
+		"X_Cnt": 0,
+		"IC_Cnt": 0
+	},
+	"basic_density": {
+		"CL_Den": 0.5098039215686274,
+		"FL_Den": 0.4117647058823529,
+		"NL_Den": 0.28431372549019607,
+		"NNGL_Den": 0.2549019607843137,
+		"NNPL_Den": 0.0,
+		"NNBL_Den": 0.029411764705882353,
+		"NPL_Den": 0.0,
+		"NML_Den": 0.00980392156862745,
+		"VL_Den": 0.19607843137254902,
+		"VVL_Den": 0.10784313725490197,
+		"VAL_Den": 0.0392156862745098,
+		"ML_Den": 0.0196078431372549,
+		"MML_Den": 0.0,
+		"MAL_Den": 0.0,
+		"JL_Den": 0.18627450980392157,
+		"EL_Den": 0.22549019607843138,
+		"XL_Den": 0.0,
+		"ITL_Den": 0.0,
+		"NCL_Den": 0.5576923076923077,
+		"NNCL_Den": 0.5,
+		"NNGCL_Den": 0.0,
+		"NNBCL_Den": 0.057692307692307696,
+		"NPCL_Den": 0.0,
+		"NMCL_Den": 0.019230769230769232,
+		"VCL_Den": 0.38461538461538464,
+		"VVCL_Den": 0.21153846153846154,
+		"VACL_Den": 0.07692307692307693,
+		"MCL_Den": 0.038461538461538464,
+		"MMCL_Den": 0.0,
+		"MACL_Den": 0.0,
+		"INCL_Den": 0.0,
+		"JFL_Den": 0.4523809523809524,
+		"EFL_Den": 0.5476190476190477,
+		"XFL_Den": 0.0
+	},
+	"basic_level": {
+		"morph_LenAvg": 1.607843137254902,
+		"morph_LenStd": 0.8873496861948836,
+		"word_LenAvg": 3.020408163265306,
+		"word_LenStd": 1.5318362452894043
+	},
+	"basic_list": {
+		"NL_Lst": [
+			[
+				0,
+				"하나",
+				"NR",
+				"하나의 점이 엄청난 폭발(BigBang)을 일으켜 현재의 우주가 되었다는 이론이 빅뱅 이론1)입니다."
+			],
+			[
+				1,
+				"점",
+				"NNG",
+				"하나의 점이 엄청난 폭발(BigBang)을 일으켜 현재의 우주가 되었다는 이론이 빅뱅 이론1)입니다."
+			],
+			[
+				2,
+				"폭발",
+				"NNG",
+				"하나의 점이 엄청난 폭발(BigBang)을 일으켜 현재의 우주가 되었다는 이론이 빅뱅 이론1)입니다."
+			],
+			[
+				3,
+				"BigBang",
+				"NNG",
+				"하나의 점이 엄청난 폭발(BigBang)을 일으켜 현재의 우주가 되었다는 이론이 빅뱅 이론1)입니다."
+			],
+			[
+				4,
+				"현재",
+				"NNG",
+				"하나의 점이 엄청난 폭발(BigBang)을 일으켜 현재의 우주가 되었다는 이론이 빅뱅 이론1)입니다."
+			],
+			[
+				5,
+				"우주",
+				"NNG",
+				"하나의 점이 엄청난 폭발(BigBang)을 일으켜 현재의 우주가 되었다는 이론이 빅뱅 이론1)입니다."
+			],
+			[
+				6,
+				"이론",
+				"NNG",
+				"하나의 점이 엄청난 폭발(BigBang)을 일으켜 현재의 우주가 되었다는 이론이 빅뱅 이론1)입니다."
+			],
+			[
+				7,
+				"빅뱅",
+				"NNG",
+				"하나의 점이 엄청난 폭발(BigBang)을 일으켜 현재의 우주가 되었다는 이론이 빅뱅 이론1)입니다."
+			],
+			[
+				8,
+				"이론",
+				"NNG",
+				"하나의 점이 엄청난 폭발(BigBang)을 일으켜 현재의 우주가 되었다는 이론이 빅뱅 이론1)입니다."
+			],
+			[
+				9,
+				"처음",
+				"NNG",
+				"처음 빅뱅 이론을 접하게 된다면 황당해 할지 모르겠지만 이 빅뱅 이론이 현재로서는 우주의 역사를 설명하는 이론 중 가장 많이 받아들여지고 있는 이론입니다."
+			],
+			[
+				10,
+				"빅뱅",
+				"NNG",
+				"처음 빅뱅 이론을 접하게 된다면 황당해 할지 모르겠지만 이 빅뱅 이론이 현재로서는 우주의 역사를 설명하는 이론 중 가장 많이 받아들여지고 있는 이론입니다."
+			],
+			[
+				11,
+				"이론",
+				"NNG",
+				"처음 빅뱅 이론을 접하게 된다면 황당해 할지 모르겠지만 이 빅뱅 이론이 현재로서는 우주의 역사를 설명하는 이론 중 가장 많이 받아들여지고 있는 이론입니다."
+			],
+			[
+				12,
+				"빅뱅",
+				"NNG",
+				"처음 빅뱅 이론을 접하게 된다면 황당해 할지 모르겠지만 이 빅뱅 이론이 현재로서는 우주의 역사를 설명하는 이론 중 가장 많이 받아들여지고 있는 이론입니다."
+			],
+			[
+				13,
+				"이론",
+				"NNG",
+				"처음 빅뱅 이론을 접하게 된다면 황당해 할지 모르겠지만 이 빅뱅 이론이 현재로서는 우주의 역사를 설명하는 이론 중 가장 많이 받아들여지고 있는 이론입니다."
+			],
+			[
+				14,
+				"현재",
+				"NNG",
+				"처음 빅뱅 이론을 접하게 된다면 황당해 할지 모르겠지만 이 빅뱅 이론이 현재로서는 우주의 역사를 설명하는 이론 중 가장 많이 받아들여지고 있는 이론입니다."
+			],
+			[
+				15,
+				"우주",
+				"NNG",
+				"처음 빅뱅 이론을 접하게 된다면 황당해 할지 모르겠지만 이 빅뱅 이론이 현재로서는 우주의 역사를 설명하는 이론 중 가장 많이 받아들여지고 있는 이론입니다."
+			],
+			[
+				16,
+				"역사",
+				"NNG",
+				"처음 빅뱅 이론을 접하게 된다면 황당해 할지 모르겠지만 이 빅뱅 이론이 현재로서는 우주의 역사를 설명하는 이론 중 가장 많이 받아들여지고 있는 이론입니다."
+			],
+			[
+				17,
+				"이론",
+				"NNG",
+				"처음 빅뱅 이론을 접하게 된다면 황당해 할지 모르겠지만 이 빅뱅 이론이 현재로서는 우주의 역사를 설명하는 이론 중 가장 많이 받아들여지고 있는 이론입니다."
+			],
+			[
+				18,
+				"중",
+				"NNB",
+				"처음 빅뱅 이론을 접하게 된다면 황당해 할지 모르겠지만 이 빅뱅 이론이 현재로서는 우주의 역사를 설명하는 이론 중 가장 많이 받아들여지고 있는 이론입니다."
+			],
+			[
+				19,
+				"이론",
+				"NNG",
+				"처음 빅뱅 이론을 접하게 된다면 황당해 할지 모르겠지만 이 빅뱅 이론이 현재로서는 우주의 역사를 설명하는 이론 중 가장 많이 받아들여지고 있는 이론입니다."
+			],
+			[
+				20,
+				"풍선",
+				"NNG",
+				"풍선에 일정한 간격으로 점을 찍고 풍선을 불었을 경우 점들 사이의 거리가 멀어지는 것을 볼 수 있습니다."
+			],
+			[
+				21,
+				"간격",
+				"NNG",
+				"풍선에 일정한 간격으로 점을 찍고 풍선을 불었을 경우 점들 사이의 거리가 멀어지는 것을 볼 수 있습니다."
+			],
+			[
+				22,
+				"점",
+				"NNG",
+				"풍선에 일정한 간격으로 점을 찍고 풍선을 불었을 경우 점들 사이의 거리가 멀어지는 것을 볼 수 있습니다."
+			],
+			[
+				23,
+				"풍선",
+				"NNG",
+				"풍선에 일정한 간격으로 점을 찍고 풍선을 불었을 경우 점들 사이의 거리가 멀어지는 것을 볼 수 있습니다."
+			],
+			[
+				24,
+				"경우",
+				"NNG",
+				"풍선에 일정한 간격으로 점을 찍고 풍선을 불었을 경우 점들 사이의 거리가 멀어지는 것을 볼 수 있습니다."
+			],
+			[
+				25,
+				"점들",
+				"NNG",
+				"풍선에 일정한 간격으로 점을 찍고 풍선을 불었을 경우 점들 사이의 거리가 멀어지는 것을 볼 수 있습니다."
+			],
+			[
+				26,
+				"사이",
+				"NNG",
+				"풍선에 일정한 간격으로 점을 찍고 풍선을 불었을 경우 점들 사이의 거리가 멀어지는 것을 볼 수 있습니다."
+			],
+			[
+				27,
+				"거리",
+				"NNG",
+				"풍선에 일정한 간격으로 점을 찍고 풍선을 불었을 경우 점들 사이의 거리가 멀어지는 것을 볼 수 있습니다."
+			],
+			[
+				28,
+				"것",
+				"NNB",
+				"풍선에 일정한 간격으로 점을 찍고 풍선을 불었을 경우 점들 사이의 거리가 멀어지는 것을 볼 수 있습니다."
+			],
+			[
+				29,
+				"수",
+				"NNB",
+				"풍선에 일정한 간격으로 점을 찍고 풍선을 불었을 경우 점들 사이의 거리가 멀어지는 것을 볼 수 있습니다."
+			]
+		],
+		"NN_Lst": [
+			[
+				0,
+				"점",
+				"NNG",
+				"하나의 점이 엄청난 폭발(BigBang)을 일으켜 현재의 우주가 되었다는 이론이 빅뱅 이론1)입니다."
+			],
+			[
+				1,
+				"폭발",
+				"NNG",
+				"하나의 점이 엄청난 폭발(BigBang)을 일으켜 현재의 우주가 되었다는 이론이 빅뱅 이론1)입니다."
+			],
+			[
+				2,
+				"BigBang",
+				"NNG",
+				"하나의 점이 엄청난 폭발(BigBang)을 일으켜 현재의 우주가 되었다는 이론이 빅뱅 이론1)입니다."
+			],
+			[
+				3,
+				"현재",
+				"NNG",
+				"하나의 점이 엄청난 폭발(BigBang)을 일으켜 현재의 우주가 되었다는 이론이 빅뱅 이론1)입니다."
+			],
+			[
+				4,
+				"우주",
+				"NNG",
+				"하나의 점이 엄청난 폭발(BigBang)을 일으켜 현재의 우주가 되었다는 이론이 빅뱅 이론1)입니다."
+			],
+			[
+				5,
+				"이론",
+				"NNG",
+				"하나의 점이 엄청난 폭발(BigBang)을 일으켜 현재의 우주가 되었다는 이론이 빅뱅 이론1)입니다."
+			],
+			[
+				6,
+				"빅뱅",
+				"NNG",
+				"하나의 점이 엄청난 폭발(BigBang)을 일으켜 현재의 우주가 되었다는 이론이 빅뱅 이론1)입니다."
+			],
+			[
+				7,
+				"이론",
+				"NNG",
+				"하나의 점이 엄청난 폭발(BigBang)을 일으켜 현재의 우주가 되었다는 이론이 빅뱅 이론1)입니다."
+			],
+			[
+				8,
+				"처음",
+				"NNG",
+				"처음 빅뱅 이론을 접하게 된다면 황당해 할지 모르겠지만 이 빅뱅 이론이 현재로서는 우주의 역사를 설명하는 이론 중 가장 많이 받아들여지고 있는 이론입니다."
+			],
+			[
+				9,
+				"빅뱅",
+				"NNG",
+				"처음 빅뱅 이론을 접하게 된다면 황당해 할지 모르겠지만 이 빅뱅 이론이 현재로서는 우주의 역사를 설명하는 이론 중 가장 많이 받아들여지고 있는 이론입니다."
+			],
+			[
+				10,
+				"이론",
+				"NNG",
+				"처음 빅뱅 이론을 접하게 된다면 황당해 할지 모르겠지만 이 빅뱅 이론이 현재로서는 우주의 역사를 설명하는 이론 중 가장 많이 받아들여지고 있는 이론입니다."
+			],
+			[
+				11,
+				"빅뱅",
+				"NNG",
+				"처음 빅뱅 이론을 접하게 된다면 황당해 할지 모르겠지만 이 빅뱅 이론이 현재로서는 우주의 역사를 설명하는 이론 중 가장 많이 받아들여지고 있는 이론입니다."
+			],
+			[
+				12,
+				"이론",
+				"NNG",
+				"처음 빅뱅 이론을 접하게 된다면 황당해 할지 모르겠지만 이 빅뱅 이론이 현재로서는 우주의 역사를 설명하는 이론 중 가장 많이 받아들여지고 있는 이론입니다."
+			],
+			[
+				13,
+				"현재",
+				"NNG",
+				"처음 빅뱅 이론을 접하게 된다면 황당해 할지 모르겠지만 이 빅뱅 이론이 현재로서는 우주의 역사를 설명하는 이론 중 가장 많이 받아들여지고 있는 이론입니다."
+			],
+			[
+				14,
+				"우주",
+				"NNG",
+				"처음 빅뱅 이론을 접하게 된다면 황당해 할지 모르겠지만 이 빅뱅 이론이 현재로서는 우주의 역사를 설명하는 이론 중 가장 많이 받아들여지고 있는 이론입니다."
+			],
+			[
+				15,
+				"역사",
+				"NNG",
+				"처음 빅뱅 이론을 접하게 된다면 황당해 할지 모르겠지만 이 빅뱅 이론이 현재로서는 우주의 역사를 설명하는 이론 중 가장 많이 받아들여지고 있는 이론입니다."
+			],
+			[
+				16,
+				"이론",
+				"NNG",
+				"처음 빅뱅 이론을 접하게 된다면 황당해 할지 모르겠지만 이 빅뱅 이론이 현재로서는 우주의 역사를 설명하는 이론 중 가장 많이 받아들여지고 있는 이론입니다."
+			],
+			[
+				17,
+				"중",
+				"NNB",
+				"처음 빅뱅 이론을 접하게 된다면 황당해 할지 모르겠지만 이 빅뱅 이론이 현재로서는 우주의 역사를 설명하는 이론 중 가장 많이 받아들여지고 있는 이론입니다."
+			],
+			[
+				18,
+				"이론",
+				"NNG",
+				"처음 빅뱅 이론을 접하게 된다면 황당해 할지 모르겠지만 이 빅뱅 이론이 현재로서는 우주의 역사를 설명하는 이론 중 가장 많이 받아들여지고 있는 이론입니다."
+			],
+			[
+				19,
+				"풍선",
+				"NNG",
+				"풍선에 일정한 간격으로 점을 찍고 풍선을 불었을 경우 점들 사이의 거리가 멀어지는 것을 볼 수 있습니다."
+			],
+			[
+				20,
+				"간격",
+				"NNG",
+				"풍선에 일정한 간격으로 점을 찍고 풍선을 불었을 경우 점들 사이의 거리가 멀어지는 것을 볼 수 있습니다."
+			],
+			[
+				21,
+				"점",
+				"NNG",
+				"풍선에 일정한 간격으로 점을 찍고 풍선을 불었을 경우 점들 사이의 거리가 멀어지는 것을 볼 수 있습니다."
+			],
+			[
+				22,
+				"풍선",
+				"NNG",
+				"풍선에 일정한 간격으로 점을 찍고 풍선을 불었을 경우 점들 사이의 거리가 멀어지는 것을 볼 수 있습니다."
+			],
+			[
+				23,
+				"경우",
+				"NNG",
+				"풍선에 일정한 간격으로 점을 찍고 풍선을 불었을 경우 점들 사이의 거리가 멀어지는 것을 볼 수 있습니다."
+			],
+			[
+				24,
+				"점들",
+				"NNG",
+				"풍선에 일정한 간격으로 점을 찍고 풍선을 불었을 경우 점들 사이의 거리가 멀어지는 것을 볼 수 있습니다."
+			],
+			[
+				25,
+				"사이",
+				"NNG",
+				"풍선에 일정한 간격으로 점을 찍고 풍선을 불었을 경우 점들 사이의 거리가 멀어지는 것을 볼 수 있습니다."
+			],
+			[
+				26,
+				"거리",
+				"NNG",
+				"풍선에 일정한 간격으로 점을 찍고 풍선을 불었을 경우 점들 사이의 거리가 멀어지는 것을 볼 수 있습니다."
+			],
+			[
+				27,
+				"것",
+				"NNB",
+				"풍선에 일정한 간격으로 점을 찍고 풍선을 불었을 경우 점들 사이의 거리가 멀어지는 것을 볼 수 있습니다."
+			],
+			[
+				28,
+				"수",
+				"NNB",
+				"풍선에 일정한 간격으로 점을 찍고 풍선을 불었을 경우 점들 사이의 거리가 멀어지는 것을 볼 수 있습니다."
+			]
+		],
+		"NNG_Lst": [
+			[
+				0,
+				"점",
+				"NNG",
+				"하나의 점이 엄청난 폭발(BigBang)을 일으켜 현재의 우주가 되었다는 이론이 빅뱅 이론1)입니다."
+			],
+			[
+				1,
+				"폭발",
+				"NNG",
+				"하나의 점이 엄청난 폭발(BigBang)을 일으켜 현재의 우주가 되었다는 이론이 빅뱅 이론1)입니다."
+			],
+			[
+				2,
+				"BigBang",
+				"NNG",
+				"하나의 점이 엄청난 폭발(BigBang)을 일으켜 현재의 우주가 되었다는 이론이 빅뱅 이론1)입니다."
+			],
+			[
+				3,
+				"현재",
+				"NNG",
+				"하나의 점이 엄청난 폭발(BigBang)을 일으켜 현재의 우주가 되었다는 이론이 빅뱅 이론1)입니다."
+			],
+			[
+				4,
+				"우주",
+				"NNG",
+				"하나의 점이 엄청난 폭발(BigBang)을 일으켜 현재의 우주가 되었다는 이론이 빅뱅 이론1)입니다."
+			],
+			[
+				5,
+				"이론",
+				"NNG",
+				"하나의 점이 엄청난 폭발(BigBang)을 일으켜 현재의 우주가 되었다는 이론이 빅뱅 이론1)입니다."
+			],
+			[
+				6,
+				"빅뱅",
+				"NNG",
+				"하나의 점이 엄청난 폭발(BigBang)을 일으켜 현재의 우주가 되었다는 이론이 빅뱅 이론1)입니다."
+			],
+			[
+				7,
+				"이론",
+				"NNG",
+				"하나의 점이 엄청난 폭발(BigBang)을 일으켜 현재의 우주가 되었다는 이론이 빅뱅 이론1)입니다."
+			],
+			[
+				8,
+				"처음",
+				"NNG",
+				"처음 빅뱅 이론을 접하게 된다면 황당해 할지 모르겠지만 이 빅뱅 이론이 현재로서는 우주의 역사를 설명하는 이론 중 가장 많이 받아들여지고 있는 이론입니다."
+			],
+			[
+				9,
+				"빅뱅",
+				"NNG",
+				"처음 빅뱅 이론을 접하게 된다면 황당해 할지 모르겠지만 이 빅뱅 이론이 현재로서는 우주의 역사를 설명하는 이론 중 가장 많이 받아들여지고 있는 이론입니다."
+			],
+			[
+				10,
+				"이론",
+				"NNG",
+				"처음 빅뱅 이론을 접하게 된다면 황당해 할지 모르겠지만 이 빅뱅 이론이 현재로서는 우주의 역사를 설명하는 이론 중 가장 많이 받아들여지고 있는 이론입니다."
+			],
+			[
+				11,
+				"빅뱅",
+				"NNG",
+				"처음 빅뱅 이론을 접하게 된다면 황당해 할지 모르겠지만 이 빅뱅 이론이 현재로서는 우주의 역사를 설명하는 이론 중 가장 많이 받아들여지고 있는 이론입니다."
+			],
+			[
+				12,
+				"이론",
+				"NNG",
+				"처음 빅뱅 이론을 접하게 된다면 황당해 할지 모르겠지만 이 빅뱅 이론이 현재로서는 우주의 역사를 설명하는 이론 중 가장 많이 받아들여지고 있는 이론입니다."
+			],
+			[
+				13,
+				"현재",
+				"NNG",
+				"처음 빅뱅 이론을 접하게 된다면 황당해 할지 모르겠지만 이 빅뱅 이론이 현재로서는 우주의 역사를 설명하는 이론 중 가장 많이 받아들여지고 있는 이론입니다."
+			],
+			[
+				14,
+				"우주",
+				"NNG",
+				"처음 빅뱅 이론을 접하게 된다면 황당해 할지 모르겠지만 이 빅뱅 이론이 현재로서는 우주의 역사를 설명하는 이론 중 가장 많이 받아들여지고 있는 이론입니다."
+			],
+			[
+				15,
+				"역사",
+				"NNG",
+				"처음 빅뱅 이론을 접하게 된다면 황당해 할지 모르겠지만 이 빅뱅 이론이 현재로서는 우주의 역사를 설명하는 이론 중 가장 많이 받아들여지고 있는 이론입니다."
+			],
+			[
+				16,
+				"이론",
+				"NNG",
+				"처음 빅뱅 이론을 접하게 된다면 황당해 할지 모르겠지만 이 빅뱅 이론이 현재로서는 우주의 역사를 설명하는 이론 중 가장 많이 받아들여지고 있는 이론입니다."
+			],
+			[
+				17,
+				"이론",
+				"NNG",
+				"처음 빅뱅 이론을 접하게 된다면 황당해 할지 모르겠지만 이 빅뱅 이론이 현재로서는 우주의 역사를 설명하는 이론 중 가장 많이 받아들여지고 있는 이론입니다."
+			],
+			[
+				18,
+				"풍선",
+				"NNG",
+				"풍선에 일정한 간격으로 점을 찍고 풍선을 불었을 경우 점들 사이의 거리가 멀어지는 것을 볼 수 있습니다."
+			],
+			[
+				19,
+				"간격",
+				"NNG",
+				"풍선에 일정한 간격으로 점을 찍고 풍선을 불었을 경우 점들 사이의 거리가 멀어지는 것을 볼 수 있습니다."
+			],
+			[
+				20,
+				"점",
+				"NNG",
+				"풍선에 일정한 간격으로 점을 찍고 풍선을 불었을 경우 점들 사이의 거리가 멀어지는 것을 볼 수 있습니다."
+			],
+			[
+				21,
+				"풍선",
+				"NNG",
+				"풍선에 일정한 간격으로 점을 찍고 풍선을 불었을 경우 점들 사이의 거리가 멀어지는 것을 볼 수 있습니다."
+			],
+			[
+				22,
+				"경우",
+				"NNG",
+				"풍선에 일정한 간격으로 점을 찍고 풍선을 불었을 경우 점들 사이의 거리가 멀어지는 것을 볼 수 있습니다."
+			],
+			[
+				23,
+				"점들",
+				"NNG",
+				"풍선에 일정한 간격으로 점을 찍고 풍선을 불었을 경우 점들 사이의 거리가 멀어지는 것을 볼 수 있습니다."
+			],
+			[
+				24,
+				"사이",
+				"NNG",
+				"풍선에 일정한 간격으로 점을 찍고 풍선을 불었을 경우 점들 사이의 거리가 멀어지는 것을 볼 수 있습니다."
+			],
+			[
+				25,
+				"거리",
+				"NNG",
+				"풍선에 일정한 간격으로 점을 찍고 풍선을 불었을 경우 점들 사이의 거리가 멀어지는 것을 볼 수 있습니다."
+			]
+		],
+		"NNP_Lst": [],
+		"NNB_Lst": [
+			[
+				0,
+				"중",
+				"NNB",
+				"처음 빅뱅 이론을 접하게 된다면 황당해 할지 모르겠지만 이 빅뱅 이론이 현재로서는 우주의 역사를 설명하는 이론 중 가장 많이 받아들여지고 있는 이론입니다."
+			],
+			[
+				1,
+				"것",
+				"NNB",
+				"풍선에 일정한 간격으로 점을 찍고 풍선을 불었을 경우 점들 사이의 거리가 멀어지는 것을 볼 수 있습니다."
+			],
+			[
+				2,
+				"수",
+				"NNB",
+				"풍선에 일정한 간격으로 점을 찍고 풍선을 불었을 경우 점들 사이의 거리가 멀어지는 것을 볼 수 있습니다."
+			]
+		],
+		"NP_Lst": [],
+		"NP_People_Lst": [],
+		"NP_Things_Lst": [],
+		"NR_Lst": [
+			[
+				0,
+				"하나",
+				"NR",
+				"하나의 점이 엄청난 폭발(BigBang)을 일으켜 현재의 우주가 되었다는 이론이 빅뱅 이론1)입니다."
+			]
+		],
+		"VL_Lst": [
+			[
+				0,
+				"엄청나",
+				"VA",
+				"하나의 점이 엄청난 폭발(BigBang)을 일으켜 현재의 우주가 되었다는 이론이 빅뱅 이론1)입니다."
+			],
+			[
+				1,
+				"일으키",
+				"VV",
+				"하나의 점이 엄청난 폭발(BigBang)을 일으켜 현재의 우주가 되었다는 이론이 빅뱅 이론1)입니다."
+			],
+			[
+				2,
+				"되",
+				"VV",
+				"하나의 점이 엄청난 폭발(BigBang)을 일으켜 현재의 우주가 되었다는 이론이 빅뱅 이론1)입니다."
+			],
+			[
+				3,
+				"이",
+				"VCP",
+				"하나의 점이 엄청난 폭발(BigBang)을 일으켜 현재의 우주가 되었다는 이론이 빅뱅 이론1)입니다."
+			],
+			[
+				4,
+				"접하",
+				"VV",
+				"처음 빅뱅 이론을 접하게 된다면 황당해 할지 모르겠지만 이 빅뱅 이론이 현재로서는 우주의 역사를 설명하는 이론 중 가장 많이 받아들여지고 있는 이론입니다."
+			],
+			[
+				5,
+				"되",
+				"VV",
+				"처음 빅뱅 이론을 접하게 된다면 황당해 할지 모르겠지만 이 빅뱅 이론이 현재로서는 우주의 역사를 설명하는 이론 중 가장 많이 받아들여지고 있는 이론입니다."
+			],
+			[
+				6,
+				"황당하",
+				"VA",
+				"처음 빅뱅 이론을 접하게 된다면 황당해 할지 모르겠지만 이 빅뱅 이론이 현재로서는 우주의 역사를 설명하는 이론 중 가장 많이 받아들여지고 있는 이론입니다."
+			],
+			[
+				7,
+				"하",
+				"VX",
+				"처음 빅뱅 이론을 접하게 된다면 황당해 할지 모르겠지만 이 빅뱅 이론이 현재로서는 우주의 역사를 설명하는 이론 중 가장 많이 받아들여지고 있는 이론입니다."
+			],
+			[
+				8,
+				"모르",
+				"VV",
+				"처음 빅뱅 이론을 접하게 된다면 황당해 할지 모르겠지만 이 빅뱅 이론이 현재로서는 우주의 역사를 설명하는 이론 중 가장 많이 받아들여지고 있는 이론입니다."
+			],
+			[
+				9,
+				"설명하",
+				"VV",
+				"처음 빅뱅 이론을 접하게 된다면 황당해 할지 모르겠지만 이 빅뱅 이론이 현재로서는 우주의 역사를 설명하는 이론 중 가장 많이 받아들여지고 있는 이론입니다."
+			],
+			[
+				10,
+				"받아들이",
+				"VV",
+				"처음 빅뱅 이론을 접하게 된다면 황당해 할지 모르겠지만 이 빅뱅 이론이 현재로서는 우주의 역사를 설명하는 이론 중 가장 많이 받아들여지고 있는 이론입니다."
+			],
+			[
+				11,
+				"지",
+				"VX",
+				"처음 빅뱅 이론을 접하게 된다면 황당해 할지 모르겠지만 이 빅뱅 이론이 현재로서는 우주의 역사를 설명하는 이론 중 가장 많이 받아들여지고 있는 이론입니다."
+			],
+			[
+				12,
+				"있",
+				"VX",
+				"처음 빅뱅 이론을 접하게 된다면 황당해 할지 모르겠지만 이 빅뱅 이론이 현재로서는 우주의 역사를 설명하는 이론 중 가장 많이 받아들여지고 있는 이론입니다."
+			],
+			[
+				13,
+				"이",
+				"VCP",
+				"처음 빅뱅 이론을 접하게 된다면 황당해 할지 모르겠지만 이 빅뱅 이론이 현재로서는 우주의 역사를 설명하는 이론 중 가장 많이 받아들여지고 있는 이론입니다."
+			],
+			[
+				14,
+				"일정하",
+				"VA",
+				"풍선에 일정한 간격으로 점을 찍고 풍선을 불었을 경우 점들 사이의 거리가 멀어지는 것을 볼 수 있습니다."
+			],
+			[
+				15,
+				"찍",
+				"VV",
+				"풍선에 일정한 간격으로 점을 찍고 풍선을 불었을 경우 점들 사이의 거리가 멀어지는 것을 볼 수 있습니다."
+			],
+			[
+				16,
+				"불",
+				"VV",
+				"풍선에 일정한 간격으로 점을 찍고 풍선을 불었을 경우 점들 사이의 거리가 멀어지는 것을 볼 수 있습니다."
+			],
+			[
+				17,
+				"멀어지",
+				"VV",
+				"풍선에 일정한 간격으로 점을 찍고 풍선을 불었을 경우 점들 사이의 거리가 멀어지는 것을 볼 수 있습니다."
+			],
+			[
+				18,
+				"보",
+				"VV",
+				"풍선에 일정한 간격으로 점을 찍고 풍선을 불었을 경우 점들 사이의 거리가 멀어지는 것을 볼 수 있습니다."
+			],
+			[
+				19,
+				"있",
+				"VA",
+				"풍선에 일정한 간격으로 점을 찍고 풍선을 불었을 경우 점들 사이의 거리가 멀어지는 것을 볼 수 있습니다."
+			]
+		],
+		"VV_Lst": [
+			[
+				0,
+				"일으키",
+				"VV",
+				"하나의 점이 엄청난 폭발(BigBang)을 일으켜 현재의 우주가 되었다는 이론이 빅뱅 이론1)입니다."
+			],
+			[
+				1,
+				"되",
+				"VV",
+				"하나의 점이 엄청난 폭발(BigBang)을 일으켜 현재의 우주가 되었다는 이론이 빅뱅 이론1)입니다."
+			],
+			[
+				2,
+				"접하",
+				"VV",
+				"처음 빅뱅 이론을 접하게 된다면 황당해 할지 모르겠지만 이 빅뱅 이론이 현재로서는 우주의 역사를 설명하는 이론 중 가장 많이 받아들여지고 있는 이론입니다."
+			],
+			[
+				3,
+				"되",
+				"VV",
+				"처음 빅뱅 이론을 접하게 된다면 황당해 할지 모르겠지만 이 빅뱅 이론이 현재로서는 우주의 역사를 설명하는 이론 중 가장 많이 받아들여지고 있는 이론입니다."
+			],
+			[
+				4,
+				"모르",
+				"VV",
+				"처음 빅뱅 이론을 접하게 된다면 황당해 할지 모르겠지만 이 빅뱅 이론이 현재로서는 우주의 역사를 설명하는 이론 중 가장 많이 받아들여지고 있는 이론입니다."
+			],
+			[
+				5,
+				"설명하",
+				"VV",
+				"처음 빅뱅 이론을 접하게 된다면 황당해 할지 모르겠지만 이 빅뱅 이론이 현재로서는 우주의 역사를 설명하는 이론 중 가장 많이 받아들여지고 있는 이론입니다."
+			],
+			[
+				6,
+				"받아들이",
+				"VV",
+				"처음 빅뱅 이론을 접하게 된다면 황당해 할지 모르겠지만 이 빅뱅 이론이 현재로서는 우주의 역사를 설명하는 이론 중 가장 많이 받아들여지고 있는 이론입니다."
+			],
+			[
+				7,
+				"찍",
+				"VV",
+				"풍선에 일정한 간격으로 점을 찍고 풍선을 불었을 경우 점들 사이의 거리가 멀어지는 것을 볼 수 있습니다."
+			],
+			[
+				8,
+				"불",
+				"VV",
+				"풍선에 일정한 간격으로 점을 찍고 풍선을 불었을 경우 점들 사이의 거리가 멀어지는 것을 볼 수 있습니다."
+			],
+			[
+				9,
+				"멀어지",
+				"VV",
+				"풍선에 일정한 간격으로 점을 찍고 풍선을 불었을 경우 점들 사이의 거리가 멀어지는 것을 볼 수 있습니다."
+			],
+			[
+				10,
+				"보",
+				"VV",
+				"풍선에 일정한 간격으로 점을 찍고 풍선을 불었을 경우 점들 사이의 거리가 멀어지는 것을 볼 수 있습니다."
+			]
+		],
+		"VA_Lst": [
+			[
+				0,
+				"엄청나",
+				"VA",
+				"하나의 점이 엄청난 폭발(BigBang)을 일으켜 현재의 우주가 되었다는 이론이 빅뱅 이론1)입니다."
+			],
+			[
+				1,
+				"황당하",
+				"VA",
+				"처음 빅뱅 이론을 접하게 된다면 황당해 할지 모르겠지만 이 빅뱅 이론이 현재로서는 우주의 역사를 설명하는 이론 중 가장 많이 받아들여지고 있는 이론입니다."
+			],
+			[
+				2,
+				"일정하",
+				"VA",
+				"풍선에 일정한 간격으로 점을 찍고 풍선을 불었을 경우 점들 사이의 거리가 멀어지는 것을 볼 수 있습니다."
+			],
+			[
+				3,
+				"있",
+				"VA",
+				"풍선에 일정한 간격으로 점을 찍고 풍선을 불었을 경우 점들 사이의 거리가 멀어지는 것을 볼 수 있습니다."
+			]
+		],
+		"VX_Lst": [
+			[
+				0,
+				"하",
+				"VX",
+				"처음 빅뱅 이론을 접하게 된다면 황당해 할지 모르겠지만 이 빅뱅 이론이 현재로서는 우주의 역사를 설명하는 이론 중 가장 많이 받아들여지고 있는 이론입니다."
+			],
+			[
+				1,
+				"지",
+				"VX",
+				"처음 빅뱅 이론을 접하게 된다면 황당해 할지 모르겠지만 이 빅뱅 이론이 현재로서는 우주의 역사를 설명하는 이론 중 가장 많이 받아들여지고 있는 이론입니다."
+			],
+			[
+				2,
+				"있",
+				"VX",
+				"처음 빅뱅 이론을 접하게 된다면 황당해 할지 모르겠지만 이 빅뱅 이론이 현재로서는 우주의 역사를 설명하는 이론 중 가장 많이 받아들여지고 있는 이론입니다."
+			]
+		],
+		"VCP_Lst": [
+			[
+				0,
+				"이",
+				"VCP",
+				"하나의 점이 엄청난 폭발(BigBang)을 일으켜 현재의 우주가 되었다는 이론이 빅뱅 이론1)입니다."
+			],
+			[
+				1,
+				"이",
+				"VCP",
+				"처음 빅뱅 이론을 접하게 된다면 황당해 할지 모르겠지만 이 빅뱅 이론이 현재로서는 우주의 역사를 설명하는 이론 중 가장 많이 받아들여지고 있는 이론입니다."
+			]
+		],
+		"VCN_Lst": [],
+		"ML_Lst": [
+			[
+				0,
+				"가장",
+				"MAG",
+				"처음 빅뱅 이론을 접하게 된다면 황당해 할지 모르겠지만 이 빅뱅 이론이 현재로서는 우주의 역사를 설명하는 이론 중 가장 많이 받아들여지고 있는 이론입니다."
+			],
+			[
+				1,
+				"많이",
+				"MAG",
+				"처음 빅뱅 이론을 접하게 된다면 황당해 할지 모르겠지만 이 빅뱅 이론이 현재로서는 우주의 역사를 설명하는 이론 중 가장 많이 받아들여지고 있는 이론입니다."
+			]
+		],
+		"MA_Lst": [],
+		"MM_Lst": [],
+		"J_Lst": [
+			[
+				0,
+				"의",
+				"JKG",
+				"하나의 점이 엄청난 폭발(BigBang)을 일으켜 현재의 우주가 되었다는 이론이 빅뱅 이론1)입니다."
+			],
+			[
+				1,
+				"이",
+				"JKS",
+				"하나의 점이 엄청난 폭발(BigBang)을 일으켜 현재의 우주가 되었다는 이론이 빅뱅 이론1)입니다."
+			],
+			[
+				2,
+				"을",
+				"JKO",
+				"하나의 점이 엄청난 폭발(BigBang)을 일으켜 현재의 우주가 되었다는 이론이 빅뱅 이론1)입니다."
+			],
+			[
+				3,
+				"의",
+				"JKG",
+				"하나의 점이 엄청난 폭발(BigBang)을 일으켜 현재의 우주가 되었다는 이론이 빅뱅 이론1)입니다."
+			],
+			[
+				4,
+				"가",
+				"JKC",
+				"하나의 점이 엄청난 폭발(BigBang)을 일으켜 현재의 우주가 되었다는 이론이 빅뱅 이론1)입니다."
+			],
+			[
+				5,
+				"이",
+				"JKS",
+				"하나의 점이 엄청난 폭발(BigBang)을 일으켜 현재의 우주가 되었다는 이론이 빅뱅 이론1)입니다."
+			],
+			[
+				6,
+				"을",
+				"JKO",
+				"처음 빅뱅 이론을 접하게 된다면 황당해 할지 모르겠지만 이 빅뱅 이론이 현재로서는 우주의 역사를 설명하는 이론 중 가장 많이 받아들여지고 있는 이론입니다."
+			],
+			[
+				7,
+				"이",
+				"JKS",
+				"처음 빅뱅 이론을 접하게 된다면 황당해 할지 모르겠지만 이 빅뱅 이론이 현재로서는 우주의 역사를 설명하는 이론 중 가장 많이 받아들여지고 있는 이론입니다."
+			],
+			[
+				8,
+				"로서",
+				"JKB",
+				"처음 빅뱅 이론을 접하게 된다면 황당해 할지 모르겠지만 이 빅뱅 이론이 현재로서는 우주의 역사를 설명하는 이론 중 가장 많이 받아들여지고 있는 이론입니다."
+			],
+			[
+				9,
+				"는",
+				"JX",
+				"처음 빅뱅 이론을 접하게 된다면 황당해 할지 모르겠지만 이 빅뱅 이론이 현재로서는 우주의 역사를 설명하는 이론 중 가장 많이 받아들여지고 있는 이론입니다."
+			],
+			[
+				10,
+				"의",
+				"JKG",
+				"처음 빅뱅 이론을 접하게 된다면 황당해 할지 모르겠지만 이 빅뱅 이론이 현재로서는 우주의 역사를 설명하는 이론 중 가장 많이 받아들여지고 있는 이론입니다."
+			],
+			[
+				11,
+				"를",
+				"JKO",
+				"처음 빅뱅 이론을 접하게 된다면 황당해 할지 모르겠지만 이 빅뱅 이론이 현재로서는 우주의 역사를 설명하는 이론 중 가장 많이 받아들여지고 있는 이론입니다."
+			],
+			[
+				12,
+				"에",
+				"JKB",
+				"풍선에 일정한 간격으로 점을 찍고 풍선을 불었을 경우 점들 사이의 거리가 멀어지는 것을 볼 수 있습니다."
+			],
+			[
+				13,
+				"으로",
+				"JKB",
+				"풍선에 일정한 간격으로 점을 찍고 풍선을 불었을 경우 점들 사이의 거리가 멀어지는 것을 볼 수 있습니다."
+			],
+			[
+				14,
+				"을",
+				"JKO",
+				"풍선에 일정한 간격으로 점을 찍고 풍선을 불었을 경우 점들 사이의 거리가 멀어지는 것을 볼 수 있습니다."
+			],
+			[
+				15,
+				"을",
+				"JKO",
+				"풍선에 일정한 간격으로 점을 찍고 풍선을 불었을 경우 점들 사이의 거리가 멀어지는 것을 볼 수 있습니다."
+			],
+			[
+				16,
+				"의",
+				"JKG",
+				"풍선에 일정한 간격으로 점을 찍고 풍선을 불었을 경우 점들 사이의 거리가 멀어지는 것을 볼 수 있습니다."
+			],
+			[
+				17,
+				"가",
+				"JKS",
+				"풍선에 일정한 간격으로 점을 찍고 풍선을 불었을 경우 점들 사이의 거리가 멀어지는 것을 볼 수 있습니다."
+			],
+			[
+				18,
+				"을",
+				"JKO",
+				"풍선에 일정한 간격으로 점을 찍고 풍선을 불었을 경우 점들 사이의 거리가 멀어지는 것을 볼 수 있습니다."
+			]
+		],
+		"E_Lst": [
+			[
+				0,
+				"ㄴ",
+				"ETM",
+				"하나의 점이 엄청난 폭발(BigBang)을 일으켜 현재의 우주가 되었다는 이론이 빅뱅 이론1)입니다."
+			],
+			[
+				1,
+				"어",
+				"EC",
+				"하나의 점이 엄청난 폭발(BigBang)을 일으켜 현재의 우주가 되었다는 이론이 빅뱅 이론1)입니다."
+			],
+			[
+				2,
+				"었",
+				"EP",
+				"하나의 점이 엄청난 폭발(BigBang)을 일으켜 현재의 우주가 되었다는 이론이 빅뱅 이론1)입니다."
+			],
+			[
+				3,
+				"다는",
+				"ETM",
+				"하나의 점이 엄청난 폭발(BigBang)을 일으켜 현재의 우주가 되었다는 이론이 빅뱅 이론1)입니다."
+			],
+			[
+				4,
+				"ㅂ니다",
+				"EF",
+				"하나의 점이 엄청난 폭발(BigBang)을 일으켜 현재의 우주가 되었다는 이론이 빅뱅 이론1)입니다."
+			],
+			[
+				5,
+				"게",
+				"EC",
+				"처음 빅뱅 이론을 접하게 된다면 황당해 할지 모르겠지만 이 빅뱅 이론이 현재로서는 우주의 역사를 설명하는 이론 중 가장 많이 받아들여지고 있는 이론입니다."
+			],
+			[
+				6,
+				"ㄴ다면",
+				"EC",
+				"처음 빅뱅 이론을 접하게 된다면 황당해 할지 모르겠지만 이 빅뱅 이론이 현재로서는 우주의 역사를 설명하는 이론 중 가장 많이 받아들여지고 있는 이론입니다."
+			],
+			[
+				7,
+				"아",
+				"EC",
+				"처음 빅뱅 이론을 접하게 된다면 황당해 할지 모르겠지만 이 빅뱅 이론이 현재로서는 우주의 역사를 설명하는 이론 중 가장 많이 받아들여지고 있는 이론입니다."
+			],
+			[
+				8,
+				"ㄹ지",
+				"EF",
+				"처음 빅뱅 이론을 접하게 된다면 황당해 할지 모르겠지만 이 빅뱅 이론이 현재로서는 우주의 역사를 설명하는 이론 중 가장 많이 받아들여지고 있는 이론입니다."
+			],
+			[
+				9,
+				"겠",
+				"EP",
+				"처음 빅뱅 이론을 접하게 된다면 황당해 할지 모르겠지만 이 빅뱅 이론이 현재로서는 우주의 역사를 설명하는 이론 중 가장 많이 받아들여지고 있는 이론입니다."
+			],
+			[
+				10,
+				"지만",
+				"EC",
+				"처음 빅뱅 이론을 접하게 된다면 황당해 할지 모르겠지만 이 빅뱅 이론이 현재로서는 우주의 역사를 설명하는 이론 중 가장 많이 받아들여지고 있는 이론입니다."
+			],
+			[
+				11,
+				"는",
+				"ETM",
+				"처음 빅뱅 이론을 접하게 된다면 황당해 할지 모르겠지만 이 빅뱅 이론이 현재로서는 우주의 역사를 설명하는 이론 중 가장 많이 받아들여지고 있는 이론입니다."
+			],
+			[
+				12,
+				"어",
+				"EC",
+				"처음 빅뱅 이론을 접하게 된다면 황당해 할지 모르겠지만 이 빅뱅 이론이 현재로서는 우주의 역사를 설명하는 이론 중 가장 많이 받아들여지고 있는 이론입니다."
+			],
+			[
+				13,
+				"고",
+				"EC",
+				"처음 빅뱅 이론을 접하게 된다면 황당해 할지 모르겠지만 이 빅뱅 이론이 현재로서는 우주의 역사를 설명하는 이론 중 가장 많이 받아들여지고 있는 이론입니다."
+			],
+			[
+				14,
+				"는",
+				"ETM",
+				"처음 빅뱅 이론을 접하게 된다면 황당해 할지 모르겠지만 이 빅뱅 이론이 현재로서는 우주의 역사를 설명하는 이론 중 가장 많이 받아들여지고 있는 이론입니다."
+			],
+			[
+				15,
+				"ㅂ니다",
+				"EF",
+				"처음 빅뱅 이론을 접하게 된다면 황당해 할지 모르겠지만 이 빅뱅 이론이 현재로서는 우주의 역사를 설명하는 이론 중 가장 많이 받아들여지고 있는 이론입니다."
+			],
+			[
+				16,
+				"ㄴ",
+				"ETM",
+				"풍선에 일정한 간격으로 점을 찍고 풍선을 불었을 경우 점들 사이의 거리가 멀어지는 것을 볼 수 있습니다."
+			],
+			[
+				17,
+				"고",
+				"EC",
+				"풍선에 일정한 간격으로 점을 찍고 풍선을 불었을 경우 점들 사이의 거리가 멀어지는 것을 볼 수 있습니다."
+			],
+			[
+				18,
+				"었",
+				"EP",
+				"풍선에 일정한 간격으로 점을 찍고 풍선을 불었을 경우 점들 사이의 거리가 멀어지는 것을 볼 수 있습니다."
+			],
+			[
+				19,
+				"을",
+				"ETM",
+				"풍선에 일정한 간격으로 점을 찍고 풍선을 불었을 경우 점들 사이의 거리가 멀어지는 것을 볼 수 있습니다."
+			],
+			[
+				20,
+				"는",
+				"ETM",
+				"풍선에 일정한 간격으로 점을 찍고 풍선을 불었을 경우 점들 사이의 거리가 멀어지는 것을 볼 수 있습니다."
+			],
+			[
+				21,
+				"ㄹ",
+				"ETM",
+				"풍선에 일정한 간격으로 점을 찍고 풍선을 불었을 경우 점들 사이의 거리가 멀어지는 것을 볼 수 있습니다."
+			],
+			[
+				22,
+				"습니다",
+				"EF",
+				"풍선에 일정한 간격으로 점을 찍고 풍선을 불었을 경우 점들 사이의 거리가 멀어지는 것을 볼 수 있습니다."
+			]
+		],
+		"X_Lst": [],
+		"IC_Lst": []
+	},
+	"NDW": {
+		"morph_NDW": 70,
+		"NL_NDW": 30,
+		"NNG_NDW": 26,
+		"NNP_NDW": 0,
+		"NNB_NDW": 3,
+		"NP_NDW": 0,
+		"NR_NDW": 1,
+		"VL_NDW": 20,
+		"VV_NDW": 11,
+		"VA_NDW": 4,
+		"ML_NDW": 2,
+		"MM_NDW": 0,
+		"IC_NDW": 0,
+		"J_NDW": 19,
+		"E_NDW": 23,
+		"X_NDW": 0,
+		"CL_NDW": 52,
+		"FL_NDW": 42
+	}
+}
