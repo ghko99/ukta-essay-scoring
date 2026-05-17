@@ -10,6 +10,11 @@ venv/
 *.pt
 *.pth
 *.h5
+*.ckpt
 
 outputs/
 results/
+apps/*/.data/
+apps/*/outputs/
+apps/*/results/
+apps/*/checkpoints/
